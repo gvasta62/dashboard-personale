@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<!--
+  ============================================================
+  DASHBOARD PERSONALE - pagina iniziale del browser
+  ============================================================
+  Tutto (HTML + CSS + JavaScript) sta in questo unico file.
+  Non serve internet per l'orologio, le note e i link:
+  serve solo per il meteo (che usa Open-Meteo, senza chiavi).
+
+  Per personalizzare cerca i blocchi contrassegnati con
+  "PERSONALIZZA" -> sono tutti raggruppati all'inizio del CSS
+  e all'inizio del JavaScript, cosi' non devi toccare altro.
+  ============================================================
+-->
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <!-- viewport: dice al telefono di usare la larghezza reale dello schermo.
+       Senza questa riga la pagina su mobile risulterebbe rimpicciolita. -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>La mia dashboard</title>
+
+  <!-- Icona della scheda del browser. E' un'immagine disegnata al volo
+       dentro l'indirizzo stesso (nessun file esterno da caricare).
+       Per cambiarla sostituisci l'emoji fra i due tag <text>. -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>&#9200;</text></svg>">
+
+<style>
+/* ============================================================
+   1) PERSONALIZZA I COLORI
+   ------------------------------------------------------------
+   Queste sono "variabili CSS": scrivi il colore una volta qui
+   e viene usato in tutta la pagina. Cambia solo questi valori
+   per cambiare completamente l'aspetto.
+   I colori sono in formato esadecimale (#RRGGBB).
+   ============================================================ */
+:root {
+  --sfondo:          #0f1220;  /* colore di fondo della pagina        */
+  --sfondo-scheda:   #191d33;  /* fondo dei riquadri (le "card")      */
+  --bordo:           #2a3050;  /* linee sottili e bordi               */
+  --testo:           #e7e9f5;  /* testo principale                    */
+  --testo-tenue:     #9aa1c4;  /* testo secondario, meno importante   */
+  --accento:         #6c8cff;  /* colore principale: azzurro/viola    */
+  --accento-2:       #46e0b8;  /* colore secondario: verde acqua      */
+  --errore:          #ff6b81;  /* rosso per errori e pulsante elimina */
+  --raggio:          16px;     /* quanto sono arrotondati gli angoli  */
+  --font: "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif;
+}
+/* FINE della parte da personalizzare per i colori.
+   Da qui in poi c'e' solo l'impaginazione: puoi lasciarla com'e'. */
+
+
+/* ---- Azzeramento di base -------------------------------------
+   Il browser mette margini e spazi suoi: li togliamo per partire
+   da una base uguale su tutti i browser.
+   "box-sizing: border-box" fa si' che larghezza = contenuto +
+   bordo + padding (molto piu' intuitivo da gestire).            */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: var(--font);
+  background: var(--sfondo);
+  color: var(--testo);
+  min-height: 100vh;          /* almeno tutta l'altezza dello schermo */
+  padding: 24px 16px 48px;
+  /* Sfumature decorative di sfondo (due aloni colorati sfumati). */
+  background-image:
+    radial-gradient(900px 500px at 15% -10%, #6c8cff22, transparent),
+    radial-gradient(800px 500px at 90% 0%,  #46e0b81f, transparent);
+  background-attachment: fixed;
+}
+
+/* Contenitore centrale: non piu' largo di 1100px e centrato. */
+.contenitore { max-width: 1100px; margin: 0 auto; }
+
+
+/* ---- Intestazione: saluto, orologio, data ---- */
+.intestazione { text-align: center; margin-bottom: 32px; }
+
+#saluto {
+  font-size: 1.5rem;
+  color: var(--testo-tenue);
+  font-weight: 500;
+}
+
+#orologio {
+  /* clamp(minimo, valore-ideale, massimo): il carattere si adatta
+     alla larghezza dello schermo restando dentro dei limiti.
+     "vw" = 1% della larghezza della finestra.                    */
+  font-size: clamp(2.8rem, 11vw, 5.5rem);
+  font-weight: 200;
+  line-height: 1.05;
+  letter-spacing: 2px;
+  /* Testo colorato con una sfumatura invece che a tinta unita. */
+  background: linear-gradient(90deg, var(--accento), var(--accento-2));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-variant-numeric: tabular-nums; /* le cifre non "ballano" */
+}
+
+#data { color: var(--testo-tenue); font-size: 1.05rem; text-transform: capitalize; }
+
+
+/* ---- Griglia delle schede ------------------------------------
+   "auto-fit" + "minmax(280px, 1fr)" e' la riga magica del
+   responsive: le colonne si creano da sole e vanno a capo
+   quando lo spazio scende sotto i 280px. Su telefono si
+   ottiene automaticamente una sola colonna.                     */
+.griglia {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 18px;
+}
+
+.scheda {
+  background: var(--sfondo-scheda);
+  border: 1px solid var(--bordo);
+  border-radius: var(--raggio);
+  padding: 20px;
+  transition: border-color .2s, transform .2s;
+}
+.scheda:hover { border-color: var(--accento); }
+
+.titolo-scheda {
+  font-size: .78rem;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--testo-tenue);
+  margin-bottom: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+/* ---- Meteo ---- */
+.meteo-riga { display: flex; align-items: center; gap: 16px; }
+.meteo-icona { font-size: 3.4rem; line-height: 1; }
+.meteo-gradi { font-size: 2.6rem; font-weight: 300; }
+.meteo-desc  { color: var(--testo-tenue); font-size: .95rem; }
+.meteo-extra {
+  margin-top: 14px;
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+  font-size: .85rem;
+  color: var(--testo-tenue);
+}
+
+
+/* ---- Lista To Do ---- */
+.todo-form { display: flex; gap: 8px; margin-bottom: 14px; }
+
+input[type="text"] {
+  flex: 1;                      /* occupa tutto lo spazio libero */
+  background: #0d1024;
+  border: 1px solid var(--bordo);
+  border-radius: 10px;
+  padding: 11px 13px;
+  color: var(--testo);
+  font-family: inherit;
+  font-size: .95rem;
+}
+input[type="text"]:focus { outline: 2px solid var(--accento); border-color: transparent; }
+
+.bottone {
+  background: var(--accento);
+  color: #0b0e1c;
+  border: none;
+  border-radius: 10px;
+  padding: 11px 16px;
+  font-weight: 700;
+  font-size: 1rem;
+  cursor: pointer;
+  font-family: inherit;
+}
+.bottone:hover { filter: brightness(1.12); }
+
+#lista-todo { list-style: none; }   /* via i pallini dell'elenco */
+
+#lista-todo li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 0;
+  border-bottom: 1px solid var(--bordo);
+}
+#lista-todo li:last-child { border-bottom: none; }
+
+#lista-todo input[type="checkbox"] {
+  width: 19px; height: 19px;
+  accent-color: var(--accento-2);   /* colore della spunta */
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.testo-todo { flex: 1; word-break: break-word; font-size: .96rem; }
+
+/* Quando l'attivita' e' completata la barriamo e la sbiadiamo. */
+.completata .testo-todo { text-decoration: line-through; color: var(--testo-tenue); opacity: .6; }
+
+.elimina {
+  background: none;
+  border: none;
+  color: var(--testo-tenue);
+  cursor: pointer;
+  font-size: 1.15rem;
+  line-height: 1;
+  padding: 4px 6px;
+}
+.elimina:hover { color: var(--errore); }
+
+.vuoto { color: var(--testo-tenue); font-size: .9rem; padding: 8px 0; }
+
+
+/* ---- Blocco note libero ---- */
+#blocco-note {
+  width: 100%;
+  min-height: 150px;
+  background: #0d1024;
+  border: 1px solid var(--bordo);
+  border-radius: 10px;
+  padding: 12px 13px;
+  color: var(--testo);
+  font-family: inherit;
+  font-size: .95rem;
+  line-height: 1.55;
+  resize: vertical;        /* si puo' allargare solo in altezza */
+}
+#blocco-note:focus { outline: 2px solid var(--accento); border-color: transparent; }
+
+#stato-note { font-size: .72rem; color: var(--testo-tenue); }
+
+
+/* ---- Timer ---- */
+.timer-display {
+  font-size: clamp(2.6rem, 13vw, 3.6rem);
+  font-weight: 200;
+  text-align: center;
+  font-variant-numeric: tabular-nums;   /* le cifre non ballano */
+  letter-spacing: 2px;
+  margin: 4px 0 14px;
+}
+/* Quando il timer e' in pausa lo sbiadiamo, cosi' si capisce a colpo d'occhio. */
+.in-pausa .timer-display { opacity: .45; }
+/* Negli ultimi 60 secondi diventa rosso e lampeggia piano. */
+.in-scadenza .timer-display { color: var(--errore); animation: pulsa 1s infinite; }
+@keyframes pulsa { 50% { opacity: .45; } }
+
+.timer-fase { text-align: center; color: var(--testo-tenue); font-size: .85rem; margin-bottom: 10px; }
+
+.timer-comandi { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+
+.timer-preset { display: flex; gap: 6px; justify-content: center; margin-top: 12px; flex-wrap: wrap; }
+
+/* Il preset attualmente selezionato si evidenzia. */
+.timer-preset .mini-bottone.attivo {
+  color: var(--accento);
+  border-color: var(--accento);
+  background: #6c8cff1a;
+}
+
+
+/* ---- Link rapidi ---- */
+.link-griglia {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(96px, 1fr));
+  gap: 10px;
+}
+
+.link-griglia a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 7px;
+  padding: 14px 6px;
+  background: #0d1024;
+  border: 1px solid var(--bordo);
+  border-radius: 12px;
+  text-decoration: none;
+  color: var(--testo);
+  font-size: .78rem;
+  text-align: center;
+  transition: transform .15s, border-color .15s;
+}
+.link-griglia a:hover { transform: translateY(-3px); border-color: var(--accento); }
+.link-griglia .emoji { font-size: 1.7rem; }
+
+
+/* ---- Citazione ---- */
+.citazione {
+  font-size: 1.08rem;
+  line-height: 1.6;
+  font-style: italic;
+  border-left: 3px solid var(--accento-2);
+  padding-left: 14px;
+}
+.autore { margin-top: 10px; color: var(--testo-tenue); font-size: .88rem; }
+
+/* La scheda della citazione occupa tutta la larghezza della griglia
+   solo quando c'e' spazio (schermi larghi). "1 / -1" = da prima
+   colonna a ultima. */
+@media (min-width: 720px) { .scheda-larga { grid-column: 1 / -1; } }
+
+.mini-bottone {
+  background: none;
+  border: 1px solid var(--bordo);
+  color: var(--testo-tenue);
+  border-radius: 8px;
+  padding: 4px 9px;
+  font-size: .72rem;
+  cursor: pointer;
+  font-family: inherit;
+}
+.mini-bottone:hover { color: var(--accento); border-color: var(--accento); }
+
+
+/* ---- Ritocchi per telefoni molto stretti ---- */
+@media (max-width: 420px) {
+  body { padding: 16px 10px 32px; }
+  .scheda { padding: 16px; }
+  #saluto { font-size: 1.2rem; }
+}
+</style>
+</head>
+
+<body>
+<div class="contenitore">
+
+  <!-- ===== INTESTAZIONE: saluto + orologio + data ===== -->
+  <header class="intestazione">
+    <p id="saluto">Ciao!</p>
+    <div id="orologio">--:--:--</div>
+    <p id="data">caricamento...</p>
+  </header>
+
+  <!-- ===== GRIGLIA DELLE SCHEDE ===== -->
+  <div class="griglia">
+
+    <!-- --- Scheda METEO --- -->
+    <section class="scheda">
+      <h2 class="titolo-scheda">
+        <span>Meteo &middot; <span id="nome-citta">...</span></span>
+        <button class="mini-bottone" id="btn-aggiorna-meteo">aggiorna</button>
+      </h2>
+      <div id="meteo-contenuto">
+        <p class="vuoto">Carico i dati meteo...</p>
+      </div>
+    </section>
+
+    <!-- --- Scheda TO DO --- -->
+    <section class="scheda">
+      <h2 class="titolo-scheda">
+        <span>Da fare</span>
+        <span id="contatore-todo"></span>
+      </h2>
+
+      <!-- form: premendo Invio nella casella si aggiunge l'attivita' -->
+      <form class="todo-form" id="form-todo">
+        <input type="text" id="campo-todo" placeholder="Cosa devi fare?" autocomplete="off">
+        <button type="submit" class="bottone">+</button>
+      </form>
+
+      <ul id="lista-todo"></ul>
+    </section>
+
+    <!-- --- Scheda TIMER --- -->
+    <section class="scheda" id="scheda-timer">
+      <h2 class="titolo-scheda"><span>Timer</span><span id="giri-timer"></span></h2>
+
+      <p class="timer-fase" id="fase-timer">Concentrazione</p>
+      <div class="timer-display" id="display-timer">25:00</div>
+
+      <div class="timer-comandi">
+        <button class="bottone" id="btn-avvia">Avvia</button>
+        <button class="mini-bottone" id="btn-azzera">azzera</button>
+      </div>
+
+      <!-- I pulsanti sotto cambiano la durata. data-minuti e' un
+           "attributo dati": un valore che ci appuntiamo sull'elemento
+           e che il JavaScript rilegge al clic. -->
+      <div class="timer-preset">
+        <button class="mini-bottone attivo" data-minuti="25" data-fase="Concentrazione">25 min</button>
+        <button class="mini-bottone" data-minuti="5"  data-fase="Pausa breve">5 min</button>
+        <button class="mini-bottone" data-minuti="15" data-fase="Pausa lunga">15 min</button>
+        <button class="mini-bottone" data-minuti="50" data-fase="Sessione lunga">50 min</button>
+      </div>
+    </section>
+
+    <!-- --- Scheda BLOCCO NOTE --- -->
+    <section class="scheda">
+      <h2 class="titolo-scheda">
+        <span>Blocco note</span>
+        <span id="stato-note"></span>
+      </h2>
+      <textarea id="blocco-note" placeholder="Scrivi qui quello che vuoi: si salva da solo."></textarea>
+    </section>
+
+    <!-- --- Scheda LINK RAPIDI --- -->
+    <section class="scheda">
+      <h2 class="titolo-scheda"><span>Link rapidi</span></h2>
+      <div class="link-griglia" id="link-rapidi"></div>
+    </section>
+
+    <!-- --- Scheda CITAZIONE --- -->
+    <section class="scheda scheda-larga">
+      <h2 class="titolo-scheda">
+        <span>Pensiero del momento</span>
+        <button class="mini-bottone" id="btn-nuova-citazione">un'altra</button>
+      </h2>
+      <blockquote class="citazione" id="testo-citazione"></blockquote>
+      <p class="autore" id="autore-citazione"></p>
+    </section>
+
+  </div>
+</div>
+
+<script>
+/* ============================================================
+   2) PERSONALIZZA CITTA', LINK E CITAZIONI
+   ------------------------------------------------------------
+   Modifica SOLO i tre blocchi qui sotto.
+   Attenzione alla punteggiatura: ogni riga finisce con una
+   virgola, e il testo va sempre tra virgolette.
+   ============================================================ */
+
+/* --- A) CITTA' DEL METEO ---------------------------------------
+   Per cambiare citta' ti servono latitudine e longitudine.
+   Come trovarle: vai su https://www.google.com/maps , cerca la
+   citta', clicca col tasto destro sul punto -> il primo valore
+   del menu sono le due coordinate (es. 43.1107, 12.3908).
+   Copiale qui sotto e cambia anche il nome.                       */
+const CITTA = {
+  nome: "Perugia",
+  latitudine: 43.1107,
+  longitudine: 12.3908
+};
+
+/* --- B) LINK RAPIDI --------------------------------------------
+   Ogni riga e' un link: emoji da mostrare, nome, indirizzo.
+   Per aggiungerne uno, copia una riga intera e modificala.
+   Per toglierne uno, cancella la sua riga.
+   Le emoji si inseriscono con il tasto Windows + . (punto).       */
+const LINK = [
+  { emoji: "\u{1F4E7}", nome: "Gmail",     url: "https://mail.google.com" },
+  { emoji: "\u{1F4C5}", nome: "Calendar",  url: "https://calendar.google.com" },
+  { emoji: "\u{1F5C2}", nome: "Drive",     url: "https://drive.google.com" },
+  { emoji: "\u{1F4FA}", nome: "YouTube",   url: "https://www.youtube.com" },
+  { emoji: "\u{1F419}", nome: "GitHub",    url: "https://github.com" },
+  { emoji: "\u{1F4F0}", nome: "Notizie",   url: "https://news.google.com" },
+  { emoji: "\u{1F5FA}", nome: "Maps",      url: "https://maps.google.com" },
+  { emoji: "\u{1F916}", nome: "Claude",    url: "https://claude.ai" }
+];
+
+/* --- C) CITAZIONI ----------------------------------------------
+   Aggiungi o togli righe come vuoi. Ne viene mostrata una a caso
+   ad ogni apertura della pagina.                                  */
+const CITAZIONI = [
+  { testo: "La qualita' non e' un atto, e' un'abitudine.", autore: "Aristotele" },
+  { testo: "Fatto e' meglio che perfetto.", autore: "Sheryl Sandberg" },
+  { testo: "Il modo migliore per iniziare e' smettere di parlarne e cominciare a fare.", autore: "Walt Disney" },
+  { testo: "Non e' che io sia tanto intelligente, e' che resto con i problemi piu' a lungo.", autore: "Albert Einstein" },
+  { testo: "Un viaggio di mille miglia comincia con un solo passo.", autore: "Lao Tzu" },
+  { testo: "La semplicita' e' la massima sofisticazione.", autore: "Leonardo da Vinci" },
+  { testo: "Chi non fa errori di solito non fa nulla.", autore: "William Connor Magee" },
+  { testo: "L'unico modo di fare un ottimo lavoro e' amare quello che fai.", autore: "Steve Jobs" },
+  { testo: "Comincia da dove sei, usa quello che hai, fai quello che puoi.", autore: "Arthur Ashe" },
+  { testo: "Il tempo che ti diverti a perdere non e' tempo perso.", autore: "Bertrand Russell" }
+];
+
+/* ============================================================
+   FINE DELLA PARTE DA PERSONALIZZARE.
+   Da qui in poi c'e' il motore della pagina: puoi leggerlo per
+   curiosita' ma non serve modificarlo.
+   ============================================================ */
+
+
+/* ------------------------------------------------------------
+   SEZIONE 1 - OROLOGIO, DATA E SALUTO
+   ------------------------------------------------------------
+   La funzione viene richiamata una volta al secondo, cosi' i
+   secondi dell'orologio avanzano da soli.
+   ------------------------------------------------------------ */
+function aggiornaOrologio() {
+  const adesso = new Date();               // l'istante attuale del computer
+
+  // toLocaleTimeString("it-IT") formatta l'ora all'italiana (24 ore).
+  document.getElementById("orologio").textContent =
+    adesso.toLocaleTimeString("it-IT", { hour: "2-digit", minute: "2-digit", second: "2-digit" });
+
+  // Data estesa in italiano: es. "domenica 19 luglio 2026"
+  document.getElementById("data").textContent =
+    adesso.toLocaleDateString("it-IT", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+
+  // Saluto che cambia in base all'ora del giorno.
+  const ora = adesso.getHours();           // numero da 0 a 23
+  let saluto;
+  if (ora < 5)        saluto = "Buonanotte";
+  else if (ora < 13)  saluto = "Buongiorno";
+  else if (ora < 18)  saluto = "Buon pomeriggio";
+  else                saluto = "Buonasera";
+
+  document.getElementById("saluto").textContent = saluto + "!";
+}
+
+aggiornaOrologio();               // mostra subito l'ora, senza aspettare
+setInterval(aggiornaOrologio, 1000);  // e poi la riaggiorna ogni 1000 ms = 1 secondo
+
+
+/* ------------------------------------------------------------
+   SEZIONE 2 - METEO (servizio Open-Meteo, gratuito e senza chiave)
+   ------------------------------------------------------------
+   Chiediamo i dati a un sito esterno; la risposta arriva in
+   formato JSON (un testo strutturato) che JavaScript sa leggere.
+   "async/await" serve proprio ad aspettare la risposta senza
+   bloccare il resto della pagina.
+   ------------------------------------------------------------ */
+
+/* Open-Meteo restituisce un codice numerico per il tempo
+   (weather code). Qui lo traduciamo in emoji + descrizione. */
+const CODICI_METEO = {
+  0:  ["☀️", "Sereno"],
+  1:  ["\u{1F324}️", "Prevalentemente sereno"],
+  2:  ["⛅", "Parzialmente nuvoloso"],
+  3:  ["☁️", "Coperto"],
+  45: ["\u{1F32B}️", "Nebbia"],
+  48: ["\u{1F32B}️", "Nebbia con brina"],
+  51: ["\u{1F327}️", "Pioviggine leggera"],
+  53: ["\u{1F327}️", "Pioviggine"],
+  55: ["\u{1F327}️", "Pioviggine intensa"],
+  61: ["\u{1F326}️", "Pioggia leggera"],
+  63: ["\u{1F327}️", "Pioggia"],
+  65: ["\u{1F327}️", "Pioggia forte"],
+  71: ["\u{1F328}️", "Neve leggera"],
+  73: ["\u{1F328}️", "Neve"],
+  75: ["❄️", "Neve abbondante"],
+  80: ["\u{1F326}️", "Rovesci"],
+  81: ["\u{1F327}️", "Rovesci intensi"],
+  82: ["⛈️", "Rovesci violenti"],
+  95: ["⛈️", "Temporale"],
+  96: ["⛈️", "Temporale con grandine"],
+  99: ["⛈️", "Temporale forte con grandine"]
+};
+
+async function caricaMeteo() {
+  const contenitore = document.getElementById("meteo-contenuto");
+  document.getElementById("nome-citta").textContent = CITTA.nome;
+  contenitore.innerHTML = '<p class="vuoto">Carico i dati meteo...</p>';
+
+  // Costruiamo l'indirizzo da interrogare inserendo le coordinate.
+  const indirizzo =
+    "https://api.open-meteo.com/v1/forecast" +
+    "?latitude="  + CITTA.latitudine +
+    "&longitude=" + CITTA.longitudine +
+    "&current=temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,weather_code" +
+    "&daily=temperature_2m_max,temperature_2m_min" +
+    "&timezone=auto&forecast_days=1";
+
+  try {
+    const risposta = await fetch(indirizzo);              // chiediamo i dati
+    if (!risposta.ok) throw new Error("risposta non valida");
+    const dati = await risposta.json();                   // li trasformiamo in oggetto
+
+    const adesso  = dati.current;
+    const codice  = adesso.weather_code;
+    // Se il codice non e' nella nostra tabella usiamo un valore generico.
+    const info    = CODICI_METEO[codice] || ["\u{1F30D}", "Condizioni non note"];
+
+    // Math.round arrotonda all'intero piu' vicino (18.7 -> 19).
+    contenitore.innerHTML =
+      '<div class="meteo-riga">' +
+        '<div class="meteo-icona">' + info[0] + '</div>' +
+        '<div>' +
+          '<div class="meteo-gradi">' + Math.round(adesso.temperature_2m) + '&deg;C</div>' +
+          '<div class="meteo-desc">' + info[1] + '</div>' +
+        '</div>' +
+      '</div>' +
+      '<div class="meteo-extra">' +
+        '<span>Percepiti ' + Math.round(adesso.apparent_temperature) + '&deg;</span>' +
+        '<span>Umidita&#39; ' + adesso.relative_humidity_2m + '%</span>' +
+        '<span>Vento ' + Math.round(adesso.wind_speed_10m) + ' km/h</span>' +
+        '<span>Min ' + Math.round(dati.daily.temperature_2m_min[0]) + '&deg; / Max ' +
+          Math.round(dati.daily.temperature_2m_max[0]) + '&deg;</span>' +
+      '</div>';
+
+  } catch (errore) {
+    // Se manca la connessione o il servizio non risponde lo diciamo,
+    // senza rompere il resto della pagina.
+    contenitore.innerHTML =
+      '<p class="vuoto">Meteo non disponibile (connessione assente o servizio irraggiungibile).</p>';
+  }
+}
+
+caricaMeteo();                                                     // al caricamento
+setInterval(caricaMeteo, 15 * 60 * 1000);                          // e ogni 15 minuti
+document.getElementById("btn-aggiorna-meteo").onclick = caricaMeteo; // o quando clicchi "aggiorna"
+
+
+/* ------------------------------------------------------------
+   SEZIONE 3 - LISTA TO DO SALVATA NEL BROWSER
+   ------------------------------------------------------------
+   localStorage e' un piccolo archivio del browser: quello che
+   ci scrivi resta anche dopo aver chiuso tutto. Sa memorizzare
+   solo TESTO, quindi convertiamo la lista in testo con
+   JSON.stringify e la rileggiamo con JSON.parse.
+   ------------------------------------------------------------ */
+
+const CHIAVE_ARCHIVIO = "dashboard-todo";  // il "nome del cassetto" nell'archivio
+
+// Leggiamo la lista salvata. Se non c'e' nulla partiamo da lista vuota.
+let attivita = JSON.parse(localStorage.getItem(CHIAVE_ARCHIVIO) || "[]");
+
+function salvaAttivita() {
+  localStorage.setItem(CHIAVE_ARCHIVIO, JSON.stringify(attivita));
+}
+
+function disegnaAttivita() {
+  const lista = document.getElementById("lista-todo");
+  lista.innerHTML = "";   // svuotiamo e ridisegniamo tutto da capo
+
+  if (attivita.length === 0) {
+    lista.innerHTML = '<li class="vuoto">Nessuna attivita&#39;. Aggiungine una qui sopra.</li>';
+  }
+
+  // forEach ripete il blocco per ogni elemento; "indice" e' la posizione (0,1,2...)
+  attivita.forEach(function (voce, indice) {
+    const riga = document.createElement("li");
+    if (voce.fatta) riga.className = "completata";
+
+    // Casella di spunta
+    const spunta = document.createElement("input");
+    spunta.type = "checkbox";
+    spunta.checked = voce.fatta;
+    spunta.onclick = function () {
+      attivita[indice].fatta = spunta.checked;
+      salvaAttivita();
+      disegnaAttivita();
+    };
+
+    // Testo dell'attivita'. Usiamo textContent (non innerHTML) cosi'
+    // eventuali caratteri speciali vengono mostrati come testo.
+    const testo = document.createElement("span");
+    testo.className = "testo-todo";
+    testo.textContent = voce.testo;
+
+    // Pulsante elimina
+    const cestino = document.createElement("button");
+    cestino.className = "elimina";
+    cestino.title = "Elimina";
+    cestino.innerHTML = "&times;";      // il simbolo della x
+    cestino.onclick = function () {
+      attivita.splice(indice, 1);       // toglie 1 elemento a partire da "indice"
+      salvaAttivita();
+      disegnaAttivita();
+    };
+
+    riga.appendChild(spunta);
+    riga.appendChild(testo);
+    riga.appendChild(cestino);
+    lista.appendChild(riga);
+  });
+
+  // Contatore "2/5" in alto a destra della scheda
+  const fatte = attivita.filter(function (v) { return v.fatta; }).length;
+  document.getElementById("contatore-todo").textContent =
+    attivita.length ? fatte + "/" + attivita.length : "";
+}
+
+// Quando invii il form (tasto + oppure Invio) aggiungiamo l'attivita'.
+document.getElementById("form-todo").onsubmit = function (evento) {
+  evento.preventDefault();              // impedisce alla pagina di ricaricarsi
+  const campo = document.getElementById("campo-todo");
+  const testo = campo.value.trim();     // trim() toglie gli spazi inutili
+  if (testo === "") return;             // se e' vuoto non facciamo nulla
+
+  attivita.push({ testo: testo, fatta: false });  // aggiunge in fondo
+  campo.value = "";                     // svuota la casella
+  salvaAttivita();
+  disegnaAttivita();
+};
+
+disegnaAttivita();   // disegna la lista appena la pagina si apre
+
+
+/* ------------------------------------------------------------
+   SEZIONE 3-bis - BLOCCO NOTE LIBERO
+   ------------------------------------------------------------
+   Stesso meccanismo della lista To Do: usiamo localStorage.
+   Qui pero' salviamo del semplice testo, senza conversioni.
+
+   Piccola accortezza: non salviamo ad ogni singolo tasto premuto
+   (sarebbe uno spreco), ma aspettiamo mezzo secondo di pausa
+   dalla digitazione. Si chiama "debounce".
+   ------------------------------------------------------------ */
+const CHIAVE_NOTE = "dashboard-note";
+const areaNote  = document.getElementById("blocco-note");
+const statoNote = document.getElementById("stato-note");
+
+// Al caricamento rimettiamo dentro il testo salvato la volta scorsa.
+areaNote.value = localStorage.getItem(CHIAVE_NOTE) || "";
+
+let attesaSalvataggio = null;   // qui teniamo il "timer" del debounce
+
+areaNote.oninput = function () {
+  statoNote.textContent = "scrivo...";
+
+  // Se stavo gia' aspettando, annullo l'attesa precedente e riparto.
+  clearTimeout(attesaSalvataggio);
+
+  attesaSalvataggio = setTimeout(function () {
+    localStorage.setItem(CHIAVE_NOTE, areaNote.value);
+    statoNote.textContent = "salvato ✓";
+    // Dopo 2 secondi togliamo la scritta, per non lasciarla li' fissa.
+    setTimeout(function () { statoNote.textContent = ""; }, 2000);
+  }, 500);   // 500 millisecondi = mezzo secondo
+};
+
+
+/* ------------------------------------------------------------
+   SEZIONE 3-ter - TIMER
+   ------------------------------------------------------------
+   Logica: teniamo un numero (i secondi che mancano) e lo facciamo
+   scendere di 1 ogni secondo. Quando arriva a zero suoniamo.
+
+   Nota importante: NON usiamo il contatore per misurare il tempo
+   vero, perche' setInterval non e' preciso al millisecondo e i
+   browser rallentano le schede in secondo piano. Ci segniamo
+   invece l'ORARIO DI FINE e ad ogni giro calcoliamo quanto manca.
+   Cosi' il timer resta esatto anche se cambi scheda.
+   ------------------------------------------------------------ */
+
+let durataScelta   = 25 * 60;   // durata impostata, in secondi
+let secondiRimasti = durataScelta;
+let orarioFine     = null;      // istante in cui il timer scadra'
+let motoreTimer    = null;      // il "ripetitore" attivo, se in marcia
+let giriFatti      = 0;         // quante volte hai portato a termine un timer
+
+const scheda   = document.getElementById("scheda-timer");
+const display  = document.getElementById("display-timer");
+const btnAvvia = document.getElementById("btn-avvia");
+
+/* Trasforma 90 secondi in "01:30".
+   padStart(2, "0") aggiunge uno zero davanti se serve (7 -> "07"). */
+function formattaTempo(secondi) {
+  const minuti = Math.floor(secondi / 60);
+  const resto  = secondi % 60;             // % da' il resto della divisione
+  return String(minuti).padStart(2, "0") + ":" + String(resto).padStart(2, "0");
+}
+
+function disegnaTimer() {
+  display.textContent = formattaTempo(secondiRimasti);
+
+  // Mostriamo il conto alla rovescia anche nel titolo della scheda del
+  // browser, cosi' lo vedi anche mentre lavori su un'altra pagina.
+  document.title = motoreTimer
+    ? formattaTempo(secondiRimasti) + " - dashboard"
+    : "La mia dashboard";
+
+  // classList aggiunge/toglie le classi CSS che cambiano l'aspetto.
+  scheda.classList.toggle("in-pausa",    !motoreTimer && secondiRimasti !== durataScelta);
+  scheda.classList.toggle("in-scadenza", motoreTimer && secondiRimasti <= 60);
+
+  document.getElementById("giri-timer").textContent = giriFatti ? giriFatti + " ✓" : "";
+}
+
+/* Suono di fine: lo generiamo al volo col browser (Web Audio),
+   cosi' non serve nessun file audio esterno. Tre brevi "bip". */
+function suonaFine() {
+  try {
+    const audio = new (window.AudioContext || window.webkitAudioContext)();
+    [0, 0.35, 0.7].forEach(function (ritardo) {
+      const oscillatore = audio.createOscillator();
+      const volume      = audio.createGain();
+      oscillatore.connect(volume);
+      volume.connect(audio.destination);
+      oscillatore.frequency.value = 880;        // altezza della nota (Hz)
+      volume.gain.setValueAtTime(0.25, audio.currentTime + ritardo);
+      // Facciamo sfumare il volume a zero, altrimenti si sente un "clic".
+      volume.gain.exponentialRampToValueAtTime(0.001, audio.currentTime + ritardo + 0.3);
+      oscillatore.start(audio.currentTime + ritardo);
+      oscillatore.stop(audio.currentTime + ritardo + 0.3);
+    });
+  } catch (e) {
+    /* Se il browser blocca l'audio pazienza: il timer funziona lo stesso. */
+  }
+}
+
+function fermaTimer() {
+  clearInterval(motoreTimer);
+  motoreTimer = null;
+  btnAvvia.textContent = "Avvia";
+}
+
+function avviaTimer() {
+  // Calcoliamo l'orario esatto in cui dovra' scadere.
+  orarioFine = Date.now() + secondiRimasti * 1000;
+  btnAvvia.textContent = "Pausa";
+
+  motoreTimer = setInterval(function () {
+    // Quanto manca davvero, in base all'orologio (non al conteggio dei giri).
+    secondiRimasti = Math.round((orarioFine - Date.now()) / 1000);
+
+    if (secondiRimasti <= 0) {
+      secondiRimasti = 0;
+      fermaTimer();
+      giriFatti++;
+      disegnaTimer();
+      suonaFine();
+      document.title = "⏰ Tempo scaduto!";
+      // Torniamo pronti per un nuovo giro dopo qualche secondo.
+      setTimeout(function () {
+        secondiRimasti = durataScelta;
+        disegnaTimer();
+      }, 5000);
+      return;
+    }
+    disegnaTimer();
+  }, 250);   // controlliamo 4 volte al secondo: il display resta fluido
+
+  disegnaTimer();
+}
+
+// Il pulsante grande fa sia Avvia sia Pausa, a seconda dello stato.
+btnAvvia.onclick = function () {
+  if (motoreTimer) { fermaTimer(); } else { avviaTimer(); }
+  disegnaTimer();
+};
+
+document.getElementById("btn-azzera").onclick = function () {
+  fermaTimer();
+  secondiRimasti = durataScelta;
+  disegnaTimer();
+};
+
+/* Pulsanti delle durate (25 / 5 / 15 / 50 minuti).
+   querySelectorAll prende TUTTI gli elementi che corrispondono. */
+document.querySelectorAll(".timer-preset .mini-bottone").forEach(function (pulsante) {
+  pulsante.onclick = function () {
+    fermaTimer();
+    // getAttribute legge il valore che avevamo scritto nell'HTML.
+    // Number() lo trasforma da testo a numero.
+    durataScelta   = Number(pulsante.getAttribute("data-minuti")) * 60;
+    secondiRimasti = durataScelta;
+    document.getElementById("fase-timer").textContent = pulsante.getAttribute("data-fase");
+
+    // Evidenziamo il pulsante scelto togliendo l'evidenza agli altri.
+    document.querySelectorAll(".timer-preset .mini-bottone")
+      .forEach(function (altro) { altro.classList.remove("attivo"); });
+    pulsante.classList.add("attivo");
+
+    disegnaTimer();
+  };
+});
+
+disegnaTimer();   // disegna il timer appena la pagina si apre
+
+
+/* ------------------------------------------------------------
+   SEZIONE 4 - LINK RAPIDI
+   ------------------------------------------------------------
+   Costruiamo i riquadri dei link partendo dall'elenco LINK
+   definito in cima al file.
+   ------------------------------------------------------------ */
+const contenitoreLink = document.getElementById("link-rapidi");
+
+LINK.forEach(function (voce) {
+  const a = document.createElement("a");
+  a.href = voce.url;
+  a.title = voce.url;
+  // Vuoi che i link si aprano in una nuova scheda?
+  // Togli il commento dalla riga seguente (cancella le due barre).
+  // a.target = "_blank";
+  a.innerHTML = '<span class="emoji">' + voce.emoji + '</span>';
+  const nome = document.createElement("span");
+  nome.textContent = voce.nome;
+  a.appendChild(nome);
+  contenitoreLink.appendChild(a);
+});
+
+
+/* ------------------------------------------------------------
+   SEZIONE 5 - CITAZIONE CASUALE
+   ------------------------------------------------------------
+   Math.random() da' un numero a caso fra 0 e 1; moltiplicandolo
+   per il numero di citazioni e arrotondando per difetto
+   (Math.floor) otteniamo una posizione valida nell'elenco.
+   ------------------------------------------------------------ */
+function mostraCitazione() {
+  const posizione = Math.floor(Math.random() * CITAZIONI.length);
+  const scelta = CITAZIONI[posizione];
+  document.getElementById("testo-citazione").textContent = "“" + scelta.testo + "”";
+  document.getElementById("autore-citazione").textContent = "— " + scelta.autore;
+}
+
+mostraCitazione();
+document.getElementById("btn-nuova-citazione").onclick = mostraCitazione;
+</script>
+</body>
+</html>
