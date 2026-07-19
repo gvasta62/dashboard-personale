@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-19T16:40:13.588402+00:00",
+ "aggiornato": "2026-07-19T17:44:57.487625+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Idf, 'monitoriamo gli sviluppi in Iran, pronti a riprendere i combattimenti'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/idf-monitoriamo-gli-sviluppi-in-iran-pronti-a-riprendere-i-combattimenti_e09451a8-3e94-4640-ab4c-d0d80854e459.html",
+     "data": "2026-07-19T17:33:34+00:00"
+    },
     {
      "titolo": "Otto intossicati per fuga di cloro in piscina, bimbo in codice rosso",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/otto-intossicati-per-fuga-di-cloro-in-piscina-bimbo-in-codice-rosso_cff15bd8-6d53-426e-bd1c-ac87d14c5c0d.html",
@@ -49,11 +54,6 @@
      "titolo": "Un 17enne colpito alla testa con tirapugni in discoteca, è grave",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/un-17enne-colpito-alla-testa-con-tirapugni-in-discoteca-e-grave_344b74e5-3c49-4fa8-aba9-6a3222726b78.html",
      "data": "2026-07-19T13:44:30+00:00"
-    },
-    {
-     "titolo": "Roggero: Lega deposita Pdl che estende possibilità legittima difesa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/roggero-lega-deposita-pdl-che-estende-possibilita-legittima-difesa_955d267e-d179-44a0-a48b-39c55959fb27.html",
-     "data": "2026-07-19T12:31:43+00:00"
     }
    ]
   },
@@ -83,7 +83,7 @@
     {
      "titolo": "Incendi, non ci sono al momento focolai attivi in Umbria",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/19/incendi-non-ci-sono-al-momento-focolai-attivi-in-umbria_d5fbb8ef-acce-47ac-9bc0-1a962b293fae.html",
-     "data": "2026-07-19T16:27:41+00:00"
+     "data": "2026-07-19T17:17:13+00:00"
     },
     {
      "titolo": "Marchetti (Lega), l'Alta Valle del Tevere abbandonata dalla Giunta Proietti",
@@ -103,7 +103,7 @@
     {
      "titolo": "Proietti, risposta ferma e coordinata del sistema pubblico all'emergenza incendi",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/19/proietti-risposta-ferma-e-coordinata-del-sistema-pubblico-allemergenza-incendi_c2079c71-44ff-4641-802b-01888fecf301.html",
-     "data": "2026-07-19T11:13:32+00:00"
+     "data": "2026-07-19T17:18:08+00:00"
     },
     {
      "titolo": "Sollecito, io assolto in caso Meredith e mai risarcito è cortocircuito morale",
@@ -126,14 +126,34 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Giornalista ucciso e poi  dato alle fiamme nel Salernitano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/giornalista-ucciso-e-poi-dato-alle-fiamme-nel-salernitano_4e628c7b-c90f-4710-9cce-358ffa47a1fb.html",
-     "data": "2026-07-19T16:25:50+00:00"
+     "titolo": "A Genova il corteo per i vent'anni del G8",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/a-genova-il-corteo-per-i-ventanni-del-g8_5a32542d-9593-42d1-948c-00f346370d5e.html",
+     "data": "2026-07-19T17:35:46+00:00"
     },
     {
-     "titolo": "Otto intossicati per fuga di cloro in piscina, bimbo in codice rosso",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/otto-intossicati-per-fuga-di-cloro-in-piscina-bimbo-in-codice-rosso_d08a0608-82ae-4a97-bf70-75a3ed012ea3.html",
-     "data": "2026-07-19T16:15:14+00:00"
+     "titolo": "Bimba di quattro anni annegata in piscina, indagato il padre",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/bimba-di-quattro-anni-annegata-in-piscina-indagato-il-padre_80434651-c479-46b5-b381-141c7ff3225b.html",
+     "data": "2026-07-19T17:14:26+00:00"
+    },
+    {
+     "titolo": "Partito a Genova il corteo per i 25 anni del G8",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/partito-a-genova-il-corteo-per-i-25-anni-del-g8_ed07089c-43e3-4263-9129-0e772483dd0c.html",
+     "data": "2026-07-19T17:10:29+00:00"
+    },
+    {
+     "titolo": "Luigi Esposito, sui social parlava di sport e calciomercato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/luigi-esposito-sui-social-parlava-di-sport-e-calciomercato_be26d0ae-1d20-4529-8f02-52066462db63.html",
+     "data": "2026-07-19T16:53:47+00:00"
+    },
+    {
+     "titolo": "Otto intossicati per una fuga di cloro in piscina, bimbo in codice rosso",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/otto-intossicati-per-una-fuga-di-cloro-in-piscina-bimbo-in-codice-rosso_d08a0608-82ae-4a97-bf70-75a3ed012ea3.html",
+     "data": "2026-07-19T16:50:20+00:00"
+    },
+    {
+     "titolo": "Giornalista ucciso e poi dato alle fiamme nel Salernitano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/giornalista-ucciso-e-poi-dato-alle-fiamme-nel-salernitano_4e628c7b-c90f-4710-9cce-358ffa47a1fb.html",
+     "data": "2026-07-19T16:59:44+00:00"
     },
     {
      "titolo": "Il Pilastro di Bologna, quartiere difficile che ha appena compiuto 60 anni",
@@ -153,7 +173,7 @@
     {
      "titolo": "Un uomo ammanettato muore durante un intervento della polizia a Bologna",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/un-uomo-ammanettato-muore-durante-un-intervento-della-polizia-a-bologna_d0b602cf-d7c4-454f-84d1-d4f6d5f4922d.html",
-     "data": "2026-07-19T16:25:58+00:00"
+     "data": "2026-07-19T17:21:27+00:00"
     },
     {
      "titolo": "A Bologna uomo ammanettato muore durante intervento della polizia",
@@ -164,26 +184,6 @@
      "titolo": "Bimba di 4 anni annega in piscina, indagato il padre",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/bimba-di-4-anni-annega-in-piscina-indagato-il-padre_2efb7011-3c30-4049-88d4-b22d65aa09f0.html",
      "data": "2026-07-19T14:49:57+00:00"
-    },
-    {
-     "titolo": "Bimba di 4 anni annegata in piscina, indagato il padre",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/bimba-di-4-anni-annegata-in-piscina-indagato-il-padre_80434651-c479-46b5-b381-141c7ff3225b.html",
-     "data": "2026-07-19T14:38:23+00:00"
-    },
-    {
-     "titolo": "'Viva Mattarella', ritorna a Torino lo striscione in piazza San Carlo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/viva-mattarella-ritorna-a-torino-lo-striscione-in-piazza-san-carlo_f252ac16-e066-40d6-83aa-76a09bc3fd6e.html",
-     "data": "2026-07-19T14:30:48+00:00"
-    },
-    {
-     "titolo": "Un 17enne colpito alla testa con un tirapugni in discoteca, è grave",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/un-17enne-colpito-alla-testa-con-tirapugni-in-discoteca-e-grave_db8ca7cb-857a-4692-868c-f94ffea4bb5e.html",
-     "data": "2026-07-19T13:48:38+00:00"
-    },
-    {
-     "titolo": "Un 17enne colpito alla testa con tirapugni in discoteca, è grave",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/un-17enne-colpito-alla-testa-con-tirapugni-in-discoteca-e-grave_70e33328-437d-4a4d-98a5-252209874f33.html",
-     "data": "2026-07-19T13:44:28+00:00"
     }
    ]
   },
@@ -276,6 +276,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Idf, 'monitoriamo gli sviluppi in Iran, pronti a riprendere i combattimenti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/idf-monitoriamo-gli-sviluppi-in-iran-pronti-a-riprendere-i-combattimenti_05e58780-c40b-4004-89ac-e750a4209a89.html",
+     "data": "2026-07-19T17:33:46+00:00"
+    },
+    {
      "titolo": "Kiev, 20 morti e almeno 142 feriti in attacchi russi nelle ultime 24 ore",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/19/kiev-20-morti-e-almeno-142-feriti-in-attacchi-russi-nelle-ultime-24-ore_b28b5850-dcaa-437a-b78b-dcbee20b7715.html",
      "data": "2026-07-19T16:09:20+00:00"
@@ -329,11 +334,6 @@
      "titolo": "Usa, 'iniziati nuovi attacchi contro l'Iran in risposta a raid in Giordania'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/usa-iniziati-nuovi-attacchi-contro-liran-in-risposta-a-raid-in-giordania_35b1f450-0ea4-48ac-9976-2959e1f2f8e2.html",
      "data": "2026-07-18T22:28:19+00:00"
-    },
-    {
-     "titolo": "Trump, 'l'Iran ha annullato l'intesa? Non me ne importa nulla'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/trump-liran-ha-annullato-lintesa-non-me-ne-importa-nulla_cb0bdc55-18cb-4732-90ba-67ead1736564.html",
-     "data": "2026-07-18T22:21:17+00:00"
     }
    ]
   },
@@ -406,6 +406,41 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Atletica: Europei U18, un oro e un bronzo per l'Italia nella marcia",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/19/atletica-europei-u18-un-oro-e-un-bronzo-per-litalia-nella-marcia_10c05134-3cd2-4b2c-875b-9698433909a3.html",
+     "data": "2026-07-19T17:43:18+00:00"
+    },
+    {
+     "titolo": "Gp Belgio, Antonelli: 'Bellissimo tornare sul gradino più alto, vittoria dura",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/19/gp-belgio-antonelli-bellissimo-tornare-sul-gradino-piu-alto-vittoria-dura_ef965f08-2b13-4cda-8fea-611bc32737b6.html",
+     "data": "2026-07-19T17:41:46+00:00"
+    },
+    {
+     "titolo": "Pernici oltre il record: 'Ora una medaglia agli Europei, Los Angeles il sogno'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/19/pernici-oltre-il-record-ora-una-medaglia-agli-europei-los-angeles_d83028ed-d672-42f0-a405-1068f84cf526.html",
+     "data": "2026-07-19T17:36:28+00:00"
+    },
+    {
+     "titolo": "Torino, Ismajli: ''Lavoriamo duro, Abate ha le sue idee'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/19/torino-ismajli-lavoriamo-duro-abate-ha-le-sue-idee_61dff0ca-1d17-4c97-9a14-951cd0564f56.html",
+     "data": "2026-07-19T17:35:12+00:00"
+    },
+    {
+     "titolo": "Vingegaard cade e saluta il Tour,  Evenepoel batte Pogacar in salita",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/19/vingegaard-cade-e-saluta-il-tour-evenepoel-batte-pogacar-in-salita_fee1734f-8745-4b6e-b91a-e7793639434d.html",
+     "data": "2026-07-19T17:33:04+00:00"
+    },
+    {
+     "titolo": "Per il Milan idea Hojbjerg, l'Inter va su Singo",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/19/per-il-milan-idea-hojbjerg-linter-va-su-singo_d54490c4-a41d-4ff7-8d3e-37d1b8f11bf6.html",
+     "data": "2026-07-19T17:31:13+00:00"
+    },
+    {
+     "titolo": "Tour: frattura alla clavicola per Vingegaard, dovrà essere operato",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/19/tour-frattura-alla-clavicola-per-vingegaard-dovra-essere-operato_dbf76097-079c-42f2-b9fc-bdc613cf89e5.html",
+     "data": "2026-07-19T17:25:04+00:00"
+    },
+    {
      "titolo": "F1: Italia show a Spa, trionfa Antonelli poi una bella Ferrari con Leclerc",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/19/f1-italia-show-a-spa-trionfa-antonelli-poi-una-bella-ferrari-con_740b7b81-383d-459f-86fc-5878eb299ef6.html",
      "data": "2026-07-19T16:29:16+00:00"
@@ -421,49 +456,14 @@
      "data": "2026-07-19T15:32:55+00:00"
     },
     {
-     "titolo": "Tour: Vingegaard cade e si ritira",
+     "titolo": "Tour: Evenepoel beffa Pogacar a Plateau de Solaison, terzo Del Toro. Vingegaard cade e si ritira",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/19/-tour-vingegaard-cade-e-si-ritira-_ae6a0765-351d-4bc9-8fbb-10586fbd3d78.html",
-     "data": "2026-07-19T15:35:06+00:00"
+     "data": "2026-07-19T17:25:25+00:00"
     },
     {
      "titolo": "F1:Belgio;presidente Aci La Russa 'doppietta perfetta, Italia assoluta protagonista'",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/19/f1belgiopresidente-aci-la-russa-doppietta-perfetta-italia-assoluta-padrona-circus_d4c46b98-b40c-423a-b2e5-9fd989274efa.html",
      "data": "2026-07-19T15:37:11+00:00"
-    },
-    {
-     "titolo": "F1: Belgio; Leclerc, ho creduto nella vittoria sino alla fine",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/19/f1-belgio-leclerc-ho-creduto-nella-vittoria-sino-alla-fine_432be175-379f-4326-a8fc-59a1ee75fad2.html",
-     "data": "2026-07-19T14:50:28+00:00"
-    },
-    {
-     "titolo": "Gp Belgio: Antonelli 'bellissimo tornare sul gradino più alto, vittoria dura",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/19/gp-belgio-antonelli-bellissimo-tornare-sul-gradino-piu-alto-vittoria-dura_ef965f08-2b13-4cda-8fea-611bc32737b6.html",
-     "data": "2026-07-19T14:46:54+00:00"
-    },
-    {
-     "titolo": "Mondiali: controlli rafforzati al MetLife Stadium, cancelli per i tifosi aprono prima",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/19/mondiali-controlli-rafforzati-al-metlife-stadium-cancelli-per-i-tifosi-aprono-prima_2b055a50-1770-4aec-a394-c1b198bb3ca7.html",
-     "data": "2026-07-19T14:01:08+00:00"
-    },
-    {
-     "titolo": "Atp Bastad, Darderi sconfitto in finale da Rublev",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/19/atp-bastad-darderi-sconfitto-in-finale-da-rublev_322a4636-e4c2-4872-9644-cc34f0912688.html",
-     "data": "2026-07-19T13:35:58+00:00"
-    },
-    {
-     "titolo": "Tour: Pogacar e Vingegaard svegliati nel cuore della notte per un controllo antidoping",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/19/tour-pogacar-e-vingegaard-svegliati-nel-cuore-della-notte-per-un-controllo_960a6da8-403a-4049-b01c-6d7da35c1aa4.html",
-     "data": "2026-07-19T12:48:14+00:00"
-    },
-    {
-     "titolo": "Tour: Pogacar e Vingegaard svegliati nel cuore della notte per un controllo antidoping",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/19/tour-pogacar-e-vingegaard-svegliati-nel-cuore-della-notte-per-un-controllo_fe3b2204-3919-4a0a-aa72-9dee55be3db1.html",
-     "data": "2026-07-19T12:35:42+00:00"
-    },
-    {
-     "titolo": "Test in famiglia per il Milan di Amorim, amichevole con Milan Futuro",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/19/test-in-famiglia-per-il-milan-di-amorim-amichevole-con-milan-futuro_249edc40-8ac8-4069-bc07-45e4fb08b535.html",
-     "data": "2026-07-19T12:49:13+00:00"
     }
    ]
   }
