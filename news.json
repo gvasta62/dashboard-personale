@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-07-19T17:44:57.487625+00:00",
+ "aggiornato": "2026-07-19T18:43:23.682250+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Merz accusa Sinistra e Verdi, 'al Bundestag hanno lo stesso tono dell'AfD'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/merz-accusa-sinistra-e-verdi-al-bundestag-hanno-lo-stesso-tono-dellafd_0623f23a-a5d4-4ab5-a1e4-fca021e3dd8c.html",
+     "data": "2026-07-19T18:36:33+00:00"
+    },
+    {
+     "titolo": "Marina ucraina, missili russi su una nave mercantile turca, 5 morti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/marina-ucraina-missili-russi-su-una-nave-mercantile-turca-5-morti_0650e1f1-1ed7-4af6-b7fd-703b7aae973b.html",
+     "data": "2026-07-19T18:32:06+00:00"
+    },
+    {
+     "titolo": "Incendio a 100 km a nord di Madrid, 13.000 ettari bruciati",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/incendio-a-100-km-a-nord-di-madrid-13.000-ettari-bruciati_696ec400-809a-4ca1-82fc-9cce65f13a0b.html",
+     "data": "2026-07-19T18:03:29+00:00"
+    },
+    {
+     "titolo": "Morto a Bologna, questura 'a disposizione dei pm filmati bodycam degli agenti'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/morto-a-bologna-questura-a-disposizione-dei-pm-filmati-bodycam-degli-agenti_aadcbfa0-a687-4dc3-baec-7df4d31175d2.html",
+     "data": "2026-07-19T18:01:20+00:00"
+    },
+    {
+     "titolo": "L'ufficio di Netanyahu a Mamdani, 'vuole distogliere attenzione dai suoi fallimenti'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/lufficio-di-netanyahu-a-mamdani-vuole-distogliere-attenzione-dai-suoi-fallimenti_c1baced4-d2a6-442d-abaa-b814cf62f658.html",
+     "data": "2026-07-19T17:59:16+00:00"
+    },
     {
      "titolo": "Idf, 'monitoriamo gli sviluppi in Iran, pronti a riprendere i combattimenti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/idf-monitoriamo-gli-sviluppi-in-iran-pronti-a-riprendere-i-combattimenti_e09451a8-3e94-4640-ab4c-d0d80854e459.html",
@@ -29,31 +54,6 @@
      "titolo": "A Bologna uomo ammanettato muore durante intervento della polizia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/a-bologna-uomo-ammanettato-muore-durante-intervento-della-polizia_3c76e3b6-0dc3-4ccc-9fc3-3677ff3359cd.html",
      "data": "2026-07-19T14:51:54+00:00"
-    },
-    {
-     "titolo": "Bimba di 4 anni annega in piscina, indagato il padre",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/bimba-di-4-anni-annega-in-piscina-indagato-il-padre_53825f8a-50f6-44d1-898a-98b995438a28.html",
-     "data": "2026-07-19T14:49:55+00:00"
-    },
-    {
-     "titolo": "Gp Belgio: Antonelli 'bellissimo tornare sul gradino più alto, vittoria dura",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/gp-belgio-antonelli-bellissimo-tornare-sul-gradino-piu-alto-vittoria-dura_ccd7e05a-0d78-4ddb-b2f3-c028bf1392db.html",
-     "data": "2026-07-19T14:46:58+00:00"
-    },
-    {
-     "titolo": "F1: Belgio; vince Antonelli, seconda la Ferrari di Leclerc",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/f1-belgio-vince-antonelli-seconda-la-ferrari-di-leclerc_92a84632-51fc-4300-92b3-3314057d40ae.html",
-     "data": "2026-07-19T14:30:11+00:00"
-    },
-    {
-     "titolo": "Trump al Congresso, 'estendere anche all'Iran la legge sulle sanzioni a Mosca'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/trump-al-congresso-estendere-anche-alliran-la-legge-sulle-sanzioni-a-mosca_64c5a80b-e302-4067-8a94-00e3b43fb0d1.html",
-     "data": "2026-07-19T13:58:44+00:00"
-    },
-    {
-     "titolo": "Un 17enne colpito alla testa con tirapugni in discoteca, è grave",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/un-17enne-colpito-alla-testa-con-tirapugni-in-discoteca-e-grave_344b74e5-3c49-4fa8-aba9-6a3222726b78.html",
-     "data": "2026-07-19T13:44:30+00:00"
     }
    ]
   },
@@ -126,6 +126,31 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Giornalista ucciso e poi dato alle fiamme nel Salernitano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/giornalista-ucciso-e-poi-dato-alle-fiamme-nel-salernitano_4e628c7b-c90f-4710-9cce-358ffa47a1fb.html",
+     "data": "2026-07-19T18:26:13+00:00"
+    },
+    {
+     "titolo": "Morto a Bologna, questura 'a disposizione dei pm filmati bodycam degli agenti'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/morto-a-bologna-questura-a-disposizione-dei-pm-filmati-bodycam-degli-agenti_131dd65e-9c0d-4819-8696-42755bc02fb9.html",
+     "data": "2026-07-19T18:01:17+00:00"
+    },
+    {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-07-19T17:54:21+00:00"
+    },
+    {
+     "titolo": "L'agostiniano amico del Papa, 'Leone vedrà la finale se non ha da lavorare'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/lagostiniano-amico-del-papa-leone-vedra-la-finale-se-non-ha-da-lavorare_0f3fa138-dfa7-433a-b192-fcad7be2fd8d.html",
+     "data": "2026-07-19T17:54:24+00:00"
+    },
+    {
+     "titolo": "A Genova migliaia in corteo, 25 anni dopo il G8",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/a-genova-migliaia-in-corteo-25-anni-dopo-il-g8_ed07089c-43e3-4263-9129-0e772483dd0c.html",
+     "data": "2026-07-19T18:04:16+00:00"
+    },
+    {
      "titolo": "A Genova il corteo per i vent'anni del G8",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/a-genova-il-corteo-per-i-ventanni-del-g8_5a32542d-9593-42d1-948c-00f346370d5e.html",
      "data": "2026-07-19T17:35:46+00:00"
@@ -136,11 +161,6 @@
      "data": "2026-07-19T17:14:26+00:00"
     },
     {
-     "titolo": "Partito a Genova il corteo per i 25 anni del G8",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/partito-a-genova-il-corteo-per-i-25-anni-del-g8_ed07089c-43e3-4263-9129-0e772483dd0c.html",
-     "data": "2026-07-19T17:10:29+00:00"
-    },
-    {
      "titolo": "Luigi Esposito, sui social parlava di sport e calciomercato",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/luigi-esposito-sui-social-parlava-di-sport-e-calciomercato_be26d0ae-1d20-4529-8f02-52066462db63.html",
      "data": "2026-07-19T16:53:47+00:00"
@@ -149,11 +169,6 @@
      "titolo": "Otto intossicati per una fuga di cloro in piscina, bimbo in codice rosso",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/otto-intossicati-per-una-fuga-di-cloro-in-piscina-bimbo-in-codice-rosso_d08a0608-82ae-4a97-bf70-75a3ed012ea3.html",
      "data": "2026-07-19T16:50:20+00:00"
-    },
-    {
-     "titolo": "Giornalista ucciso e poi dato alle fiamme nel Salernitano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/giornalista-ucciso-e-poi-dato-alle-fiamme-nel-salernitano_4e628c7b-c90f-4710-9cce-358ffa47a1fb.html",
-     "data": "2026-07-19T16:59:44+00:00"
     },
     {
      "titolo": "Il Pilastro di Bologna, quartiere difficile che ha appena compiuto 60 anni",
@@ -169,21 +184,6 @@
      "titolo": "Petizione affinché il Piemonte ritiri sostegno alla grazia per Roggero",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/petizione-affinche-il-piemonte-ritiri-sostegno-alla-grazia-per-roggero_49a49154-1b5c-4f25-b47a-2b289353733b.html",
      "data": "2026-07-19T14:57:34+00:00"
-    },
-    {
-     "titolo": "Un uomo ammanettato muore durante un intervento della polizia a Bologna",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/un-uomo-ammanettato-muore-durante-un-intervento-della-polizia-a-bologna_d0b602cf-d7c4-454f-84d1-d4f6d5f4922d.html",
-     "data": "2026-07-19T17:21:27+00:00"
-    },
-    {
-     "titolo": "A Bologna uomo ammanettato muore durante intervento della polizia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/a-bologna-uomo-ammanettato-muore-durante-intervento-della-polizia_fcc41776-cc8b-4854-a819-1ae25c6e4923.html",
-     "data": "2026-07-19T14:51:49+00:00"
-    },
-    {
-     "titolo": "Bimba di 4 anni annega in piscina, indagato il padre",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/bimba-di-4-anni-annega-in-piscina-indagato-il-padre_2efb7011-3c30-4049-88d4-b22d65aa09f0.html",
-     "data": "2026-07-19T14:49:57+00:00"
     }
    ]
   },
@@ -196,9 +196,9 @@
      "data": "2026-07-19T12:31:47+00:00"
     },
     {
-     "titolo": "Roggero: la Lega deposita la Pdl che estende i limiti della legittima difesa",
+     "titolo": "Ddl della Lega per allargare le maglie della legittima difesa, stop da FI",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/19/roggero-la-lega-deposita-la-pdl-che-estende-i-limiti-della-legittima-difesa_f5eb2d6d-554d-471d-a00b-9471f951ff56.html",
-     "data": "2026-07-19T13:20:42+00:00"
+     "data": "2026-07-19T18:26:42+00:00"
     },
     {
      "titolo": "Salvini visita Roggero, 'raccogli la tua esperienza in un libro'",
@@ -276,6 +276,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Merz accusa Sinistra e Verdi, 'al Bundestag hanno lo stesso tono dell'AfD'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/19/merz-accusa-sinistra-e-verdi-al-bundestag-hanno-lo-stesso-tono-dellafd_42df6486-fb37-40e7-ab32-75dae5ea7351.html",
+     "data": "2026-07-19T18:36:50+00:00"
+    },
+    {
+     "titolo": "Marina ucraina, missili russi su una nave mercantile turca, 5 morti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/19/marina-ucraina-missili-russi-su-una-nave-mercantile-turca-5-morti_ec320c44-1d49-4645-b13d-c1ce1223222e.html",
+     "data": "2026-07-19T18:32:24+00:00"
+    },
+    {
+     "titolo": "Incendio a 100 km a nord di Madrid, 13.000 ettari bruciati",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/19/incendio-a-100-km-a-nord-di-madrid-13.000-ettari-bruciati_9031bc16-c6c5-4472-8805-df6afa4d81e7.html",
+     "data": "2026-07-19T18:03:29+00:00"
+    },
+    {
+     "titolo": "L'ufficio di Netanyahu a Mamdani, 'vuole distogliere attenzione dai suoi fallimenti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/lufficio-di-netanyahu-a-mamdani-vuole-distogliere-attenzione-dai-suoi-fallimenti_9d7b4016-f586-4c2e-babe-39ccee0b89a7.html",
+     "data": "2026-07-19T17:59:19+00:00"
+    },
+    {
+     "titolo": "La sorte di Khamenei sempre più un mistero, 'non è in Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/la-sorte-di-khamenei-sempre-piu-un-mistero-non-e-in-iran_9673601e-3c76-40b0-bcad-1574a7f1ae2d.html",
+     "data": "2026-07-19T17:51:30+00:00"
+    },
+    {
      "titolo": "Idf, 'monitoriamo gli sviluppi in Iran, pronti a riprendere i combattimenti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/idf-monitoriamo-gli-sviluppi-in-iran-pronti-a-riprendere-i-combattimenti_05e58780-c40b-4004-89ac-e750a4209a89.html",
      "data": "2026-07-19T17:33:46+00:00"
@@ -308,32 +333,7 @@
     {
      "titolo": "Notte d'inferno a Kiev, Mosca scatena una tempesta di missili e droni",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/19/kiev-sotto-attacco-raid-russo-con-oltre-40-missili.-zelensky-e-uno_a2923793-3707-4d32-bcd8-81241afb54db.html",
-     "data": "2026-07-19T16:17:06+00:00"
-    },
-    {
-     "titolo": "Tunisia, presidente Saied riappare in pubblico, ispezione a impianto idrico El Golla",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/tunisia-presidente-saied-riappare-in-pubblico-ispezione-a-impianto-idrico-el-golla_6f12a217-bac9-4d45-9252-469bfe6ea6cf.html",
-     "data": "2026-07-19T05:52:51+00:00"
-    },
-    {
-     "titolo": "Centcom, colpite strutture militari iraniane nell'ottava notte di attacchi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/centcom-colpite-strutture-militari-iraniane-nellottava-notte-di-attacchi_2dfea176-4b0b-4417-b65d-b9646be6fa19.html",
-     "data": "2026-07-19T04:12:30+00:00"
-    },
-    {
-     "titolo": "L'Iran rivendica attacchi con droni contro due basi Usa in Kuwait",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/liran-rivendica-attacchi-con-droni-contro-due-basi-usa-in-kuwait_6442b7d8-47a0-4246-9155-cad5a1cd1582.html",
-     "data": "2026-07-19T03:29:29+00:00"
-    },
-    {
-     "titolo": "Fratelli Tate arrestati a Miami in seguito a richiesta di estradizione Gb",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/19/fratelli-tate-arrestati-a-miami-in-seguito-a-richiesta-di-estradizione-gb_54d73ab2-9e18-483d-97b2-73daeebefa05.html",
-     "data": "2026-07-19T00:14:03+00:00"
-    },
-    {
-     "titolo": "Usa, 'iniziati nuovi attacchi contro l'Iran in risposta a raid in Giordania'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/usa-iniziati-nuovi-attacchi-contro-liran-in-risposta-a-raid-in-giordania_35b1f450-0ea4-48ac-9976-2959e1f2f8e2.html",
-     "data": "2026-07-18T22:28:19+00:00"
+     "data": "2026-07-19T18:23:29+00:00"
     }
    ]
   },
@@ -406,6 +406,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Figc: Conte, 'scelta ct senza se e senza ma, da tutte e due le parti'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/19/figc-conte-scelta-ct-senza-se-e-senza-ma-da-tutte-e-due-le-parti_626e4a1d-0812-4537-8cb6-a1049db70a6a.html",
+     "data": "2026-07-19T18:40:53+00:00"
+    },
+    {
+     "titolo": "Genoa: Colombo e Puzcka rimontano il Trento, la prima uscita è 2-1",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/19/genoa-colombo-e-puzcka-rimontano-il-trento-la-prima-uscita-e-2-1_f5fb6842-b0fe-4857-a54b-84bb04703519.html",
+     "data": "2026-07-19T18:12:22+00:00"
+    },
+    {
+     "titolo": "Golf: al neozelandese Fox l'Open Championship, decisiva l'ultima buca",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/19/golf-al-neozelandese-fox-lopen-championship-decisiva-lultima-buca_d98c51cc-6d69-4b0d-9328-732070c545d5.html",
+     "data": "2026-07-19T17:51:09+00:00"
+    },
+    {
      "titolo": "Atletica: Europei U18, un oro e un bronzo per l'Italia nella marcia",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/07/19/atletica-europei-u18-un-oro-e-un-bronzo-per-litalia-nella-marcia_10c05134-3cd2-4b2c-875b-9698433909a3.html",
      "data": "2026-07-19T17:43:18+00:00"
@@ -443,27 +458,12 @@
     {
      "titolo": "F1: Italia show a Spa, trionfa Antonelli poi una bella Ferrari con Leclerc",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/19/f1-italia-show-a-spa-trionfa-antonelli-poi-una-bella-ferrari-con_740b7b81-383d-459f-86fc-5878eb299ef6.html",
-     "data": "2026-07-19T16:29:16+00:00"
+     "data": "2026-07-19T17:55:38+00:00"
     },
     {
      "titolo": "Tour: Evenepoel beffa Pogacar a Plateau de Solaison, terzo Del Toro",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/19/tour-evenepoel-beffa-pogacar-a-plateau-de-solaison-terzo-del-toro_b0a12023-71d4-4611-9d51-0c5ae810b4ad.html",
      "data": "2026-07-19T15:46:06+00:00"
-    },
-    {
-     "titolo": "Sfuma il bis di Darderi a Bastad, festeggia Rublev",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/19/sfuma-il-bis-di-darderi-a-bastad-festeggia-rublev_55fd1d14-ec7d-4da3-ae67-0544df200150.html",
-     "data": "2026-07-19T15:32:55+00:00"
-    },
-    {
-     "titolo": "Tour: Evenepoel beffa Pogacar a Plateau de Solaison, terzo Del Toro. Vingegaard cade e si ritira",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/19/-tour-vingegaard-cade-e-si-ritira-_ae6a0765-351d-4bc9-8fbb-10586fbd3d78.html",
-     "data": "2026-07-19T17:25:25+00:00"
-    },
-    {
-     "titolo": "F1:Belgio;presidente Aci La Russa 'doppietta perfetta, Italia assoluta protagonista'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/19/f1belgiopresidente-aci-la-russa-doppietta-perfetta-italia-assoluta-padrona-circus_d4c46b98-b40c-423a-b2e5-9fd989274efa.html",
-     "data": "2026-07-19T15:37:11+00:00"
     }
    ]
   }
