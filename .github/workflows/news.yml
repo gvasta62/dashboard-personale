@@ -1,0 +1,49 @@
+# Aggiorna automaticamente news.json con i titoli dell'ANSA.
+#
+# Gira sui computer di GitHub, non sul tuo PC: la dashboard trova le
+# notizie gia' pronte anche se il tuo computer e' spento.
+
+name: Aggiorna notizie
+
+on:
+  schedule:
+    # Ogni 30 minuti. La sintassi e' quella di "cron": minuti, ore,
+    # giorno, mese, giorno-della-settimana. "*/30 * * * *" = ai minuti
+    # 0 e 30 di ogni ora. Gli orari sono in UTC (in Italia +1 o +2 ore).
+    - cron: "*/30 * * * *"
+  # Permette di lanciarlo a mano dalla scheda "Actions" del repository.
+  workflow_dispatch:
+
+# Diamo al processo il permesso di scrivere nel repository,
+# altrimenti non potrebbe salvare news.json.
+permissions:
+  contents: write
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scarica il repository
+        uses: actions/checkout@v4
+
+      - name: Prepara Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scarica i feed ANSA
+        run: python aggiorna_news.py
+
+      - name: Salva news.json se e' cambiato
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          # "git diff --cached --quiet" e' vero quando NON ci sono modifiche:
+          # in quel caso non facciamo alcun commit, per non sporcare la storia.
+          if git diff --cached --quiet; then
+            echo "Nessuna notizia nuova, non committo."
+          else
+            git commit -m "Aggiorna notizie ANSA"
+            git push
+          fi

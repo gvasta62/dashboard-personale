@@ -288,6 +288,41 @@ input[type="text"]:focus { outline: 2px solid var(--accento); border-color: tran
 .link-griglia .emoji { font-size: 1.7rem; }
 
 
+/* ---- Notizie ANSA ---- */
+.news-categorie {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+.news-categorie .mini-bottone.attivo {
+  color: var(--accento);
+  border-color: var(--accento);
+  background: #6c8cff1a;
+}
+
+#elenco-news { list-style: none; }
+
+#elenco-news li { border-bottom: 1px solid var(--bordo); }
+#elenco-news li:last-child { border-bottom: none; }
+
+#elenco-news a {
+  display: block;
+  padding: 10px 0;
+  color: var(--testo);
+  text-decoration: none;
+  font-size: .93rem;
+  line-height: 1.45;
+}
+#elenco-news a:hover { color: var(--accento); }
+
+.news-ora { color: var(--testo-tenue); font-size: .74rem; margin-right: 7px; }
+
+/* Su schermi larghi la scheda notizie occupa due colonne:
+   i titoli sono lunghi e stanno meglio distesi. */
+@media (min-width: 980px) { .scheda-notizie { grid-column: span 2; } }
+
+
 /* ---- Citazione ---- */
 .citazione {
   font-size: 1.08rem;
@@ -403,6 +438,20 @@ input[type="text"]:focus { outline: 2px solid var(--accento); border-color: tran
       <div class="link-griglia" id="link-rapidi"></div>
     </section>
 
+    <!-- --- Scheda NOTIZIE (ANSA) --- -->
+    <section class="scheda scheda-notizie">
+      <h2 class="titolo-scheda">
+        <span>Notizie &middot; ANSA</span>
+        <span id="stato-news"></span>
+      </h2>
+      <!-- I pulsanti delle categorie li crea il JavaScript,
+           in base a quello che trova nel file delle notizie. -->
+      <div class="news-categorie" id="categorie-news"></div>
+      <ul id="elenco-news">
+        <li class="vuoto">Carico le notizie...</li>
+      </ul>
+    </section>
+
     <!-- --- Scheda CITAZIONE --- -->
     <section class="scheda scheda-larga">
       <h2 class="titolo-scheda">
@@ -449,9 +498,16 @@ const LINK = [
   { emoji: "\u{1F4FA}", nome: "YouTube",   url: "https://www.youtube.com" },
   { emoji: "\u{1F419}", nome: "GitHub",    url: "https://github.com" },
   { emoji: "\u{1F4F0}", nome: "Notizie",   url: "https://news.google.com" },
-  { emoji: "\u{1F5FA}", nome: "Maps",      url: "https://maps.google.com" },
+  { emoji: "\u{1F3E0}", nome: "Home Ass.", url: "https://peppe.shadowbreaker.ovh" },
   { emoji: "\u{1F916}", nome: "Claude",    url: "https://claude.ai" }
 ];
+
+/* --- B-bis) CATEGORIA DI NOTIZIE MOSTRATA ALL'APERTURA ---------
+   Valori possibili: "ultimaora", "umbria", "cronaca", "politica",
+   "economia", "mondo", "tecnologia", "sport".
+   Puoi comunque cambiarla al volo coi pulsanti nella scheda: la
+   pagina si ricorda l'ultima che hai scelto.                      */
+const CATEGORIA_NEWS = "ultimaora";
 
 /* --- C) CITAZIONI ----------------------------------------------
    Aggiungi o togli righe come vuoi. Ne viene mostrata una a caso
@@ -877,6 +933,113 @@ LINK.forEach(function (voce) {
   a.appendChild(nome);
   contenitoreLink.appendChild(a);
 });
+
+
+/* ------------------------------------------------------------
+   SEZIONE 4-bis - NOTIZIE ANSA
+   ------------------------------------------------------------
+   Una pagina web NON puo' leggere direttamente il feed dell'ANSA:
+   il browser lo vieta per una regola di sicurezza (si chiama CORS)
+   e il sito ANSA non autorizza altri siti a leggerlo via
+   JavaScript. Provare a farlo da' errore, sempre.
+
+   Come giriamo l'ostacolo: uno script (aggiorna_news.py) gira sui
+   computer di GitHub ogni mezz'ora, scarica i feed e ne deposita
+   una copia in news.json accanto alla pagina. Da li' possiamo
+   leggerla senza problemi, perche' e' "casa nostra".
+   ------------------------------------------------------------ */
+
+/* Dove sta il file delle notizie.
+   Se apri la pagina dal tuo disco (indirizzo che inizia per "file:")
+   non c'e' nessun news.json accanto, quindi lo prendiamo da GitHub.
+   Se invece sei sul sito pubblicato, basta il nome del file.        */
+const FONTE_NEWS = (location.protocol === "file:")
+  ? "https://gvasta62.github.io/dashboard-personale/news.json"
+  : "news.json";
+
+let categoriaAttiva = localStorage.getItem("dashboard-news-cat") || CATEGORIA_NEWS;
+let notizie = null;   // qui terremo i dati una volta scaricati
+
+/* Trasforma una data in "3 min fa", "2 ore fa", "ieri"...
+   E' piu' leggibile di un orario secco accanto a un titolo. */
+function quantoTempoFa(dataIso) {
+  if (!dataIso) return "";
+  const minuti = Math.floor((Date.now() - new Date(dataIso)) / 60000);
+  if (minuti < 1)    return "ora";
+  if (minuti < 60)   return minuti + " min fa";
+  const ore = Math.floor(minuti / 60);
+  if (ore < 24)      return ore + (ore === 1 ? " ora fa" : " ore fa");
+  const giorni = Math.floor(ore / 24);
+  return giorni === 1 ? "ieri" : giorni + " giorni fa";
+}
+
+function disegnaNews() {
+  const elenco = document.getElementById("elenco-news");
+  const barra  = document.getElementById("categorie-news");
+
+  if (!notizie) return;
+
+  // --- I pulsanti delle categorie ---
+  barra.innerHTML = "";
+  Object.keys(notizie.categorie).forEach(function (chiave) {
+    const pulsante = document.createElement("button");
+    pulsante.className = "mini-bottone" + (chiave === categoriaAttiva ? " attivo" : "");
+    pulsante.textContent = notizie.categorie[chiave].nome;
+    pulsante.onclick = function () {
+      categoriaAttiva = chiave;
+      // Ci ricordiamo la scelta per la prossima apertura.
+      localStorage.setItem("dashboard-news-cat", chiave);
+      disegnaNews();
+    };
+    barra.appendChild(pulsante);
+  });
+
+  // --- I titoli ---
+  // Se la categoria salvata non esiste piu', ripieghiamo sulla prima.
+  const categoria = notizie.categorie[categoriaAttiva]
+                 || notizie.categorie[Object.keys(notizie.categorie)[0]];
+
+  elenco.innerHTML = "";
+  categoria.voci.forEach(function (voce) {
+    const riga = document.createElement("li");
+    const link = document.createElement("a");
+    link.href = voce.link;
+    link.target = "_blank";      // le notizie si aprono in una scheda nuova
+    link.rel = "noopener";       // accorgimento di sicurezza per target="_blank"
+
+    const ora = document.createElement("span");
+    ora.className = "news-ora";
+    ora.textContent = quantoTempoFa(voce.data);
+
+    link.appendChild(ora);
+    // Il titolo lo aggiungiamo come testo semplice (non come HTML):
+    // cosi' eventuali caratteri strani restano innocui.
+    link.appendChild(document.createTextNode(voce.titolo));
+
+    riga.appendChild(link);
+    elenco.appendChild(riga);
+  });
+
+  document.getElementById("stato-news").textContent =
+    "aggiornate " + quantoTempoFa(notizie.aggiornato);
+}
+
+async function caricaNews() {
+  try {
+    // "?t=" + un numero che cambia serve a evitare che il browser
+    // ci ridia la copia vecchia tenuta in memoria (la cache).
+    const risposta = await fetch(FONTE_NEWS + "?t=" + Date.now());
+    if (!risposta.ok) throw new Error("file non trovato");
+    notizie = await risposta.json();
+    disegnaNews();
+  } catch (errore) {
+    document.getElementById("elenco-news").innerHTML =
+      '<li class="vuoto">Notizie non disponibili al momento.</li>';
+  }
+}
+
+caricaNews();
+setInterval(caricaNews, 15 * 60 * 1000);   // ricontrolla ogni 15 minuti
 
 
 /* ------------------------------------------------------------

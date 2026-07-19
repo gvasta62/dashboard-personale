@@ -14,6 +14,7 @@ dipendenze. Funziona aperta da file locale o pubblicata sul web.
 | Timer | preset 25/5/15/50 min, avviso sonoro, conto alla rovescia nel titolo della scheda |
 | Lista da fare | salvata nel browser |
 | Blocco note | testo libero, salvataggio automatico |
+| Notizie ANSA | 8 categorie (incl. Umbria), aggiornate ogni 30 min |
 | Link rapidi | configurabili |
 | Citazione casuale | |
 
@@ -26,6 +27,21 @@ browser: restano dopo la chiusura, ma **vivono solo sul dispositivo e sul
 browser in cui le hai scritte**. Aprendo la pagina dal telefono non vedrai le
 note scritte dal PC — non c'è nessun server dietro, e nulla viene inviato
 altrove. Svuotare i dati di navigazione ("cookie e dati dei siti") le cancella.
+
+## Come funzionano le notizie
+
+Il browser non può leggere direttamente il feed RSS dell'ANSA: lo vieta la
+regola di sicurezza **CORS**, perché ANSA non autorizza altri siti a leggerlo
+via JavaScript.
+
+Aggiro l'ostacolo senza servizi-ponte di terzi: lo script `aggiorna_news.py`
+gira su GitHub Actions ogni 30 minuti (vedi `.github/workflows/news.yml`),
+scarica gli 8 feed e salva `news.json` nel repository. La pagina legge quel
+file, che sta sul suo stesso indirizzo — nessun blocco, nessun intermediario.
+
+Per cambiare i notiziari scaricati modifica il dizionario `FEED` in
+`aggiorna_news.py`. L'elenco completo è su
+[ansa.it/sito/static/ansa_rss.html](https://www.ansa.it/sito/static/ansa_rss.html).
 
 ## Personalizzare
 
