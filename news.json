@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-19T14:57:41.804997+00:00",
+ "aggiornato": "2026-07-19T15:52:08.875324+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "F1: Belgio; presidente Aci La Russa 'doppietta perfetta, Italia assoluta protagonista'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/f1belgiopresidente-aci-la-russa-doppietta-perfetta-italia-assoluta-padrona-circus_822b4b3b-e3e1-4bc7-923a-a26c0fdf672b.html",
+     "data": "2026-07-19T15:35:52+00:00"
+    },
     {
      "titolo": "A Bologna uomo ammanettato muore durante intervento della polizia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/a-bologna-uomo-ammanettato-muore-durante-intervento-della-polizia_3c76e3b6-0dc3-4ccc-9fc3-3677ff3359cd.html",
@@ -49,11 +54,6 @@
      "titolo": "Famiglia Roggero,'nel 2005 fu istinto paterno, non una spedizione punitiva'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/famiglia-roggeronel-2005-fu-istinto-paterno-non-una-spedizione-punitiva_bca230f9-efa5-4f7e-b8af-f377cbbcbb2d.html",
      "data": "2026-07-19T06:16:09+00:00"
-    },
-    {
-     "titolo": "Centcom, colpite strutture militari iraniane nell'ottava notte di attacchi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/centcom-colpite-strutture-militari-iraniane-nellottava-notte-di-attacchi_f11bd06a-14c7-4b75-9156-98de20e34258.html",
-     "data": "2026-07-19T04:12:12+00:00"
     }
    ]
   },
@@ -126,9 +126,19 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Tre anziani morti dopo malori per il caldo in località balneari leccesi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/tre-anziani-morti-dopo-malori-per-il-caldo-in-localita-balneari-leccesi_7b67e57d-5344-4e02-9465-c51cf9e9d4d5.html",
+     "data": "2026-07-19T15:34:41+00:00"
+    },
+    {
+     "titolo": "Petizione affinché il Piemonte ritiri sostegno alla grazia per Roggero",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/petizione-affinche-il-piemonte-ritiri-sostegno-alla-grazia-per-roggero_49a49154-1b5c-4f25-b47a-2b289353733b.html",
+     "data": "2026-07-19T14:57:34+00:00"
+    },
+    {
      "titolo": "Un uomo ammanettato muore durante un intervento della polizia a Bologna",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/un-uomo-ammanettato-muore-durante-un-intervento-della-polizia-a-bologna_d0b602cf-d7c4-454f-84d1-d4f6d5f4922d.html",
-     "data": "2026-07-19T14:51:29+00:00"
+     "data": "2026-07-19T15:49:35+00:00"
     },
     {
      "titolo": "A Bologna uomo ammanettato muore durante intervento della polizia",
@@ -173,17 +183,7 @@
     {
      "titolo": "Bimba di 4 anni annega in piscina, ripresa in parte dalle telecamere",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/bimba-di-4-anni-annega-in-piscina-ripresa-in-parte-dalle-telecamere_2ff58fa3-77a2-4115-9485-c21a9c608a74.html",
-     "data": "2026-07-19T14:04:21+00:00"
-    },
-    {
-     "titolo": "Famiglia del bosco: Pillon, 'rilasciato permesso per costruire la nuova casa'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/famiglia-del-bosco-pillon-rilasciato-permesso-per-costruire-la-nuova-casa_4af0e088-24dc-4bd8-bcfa-88956b130e50.html",
-     "data": "2026-07-19T12:08:56+00:00"
-    },
-    {
-     "titolo": "Ucciso e poi carbonizzato nel Salernitano, la vittima è un giornalista",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/cadavere-carbonizzato-nel-salernitano-e-stato-un-omicidio_4e628c7b-c90f-4710-9cce-358ffa47a1fb.html",
-     "data": "2026-07-19T13:26:44+00:00"
+     "data": "2026-07-19T15:26:29+00:00"
     }
    ]
   },
@@ -241,6 +241,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Effetto Hormuz, con la ripresa ostilità aumenta il prezzo dei carburanti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/19/effetto-hormuz-con-la-ripresa-ostilita-aumenta-il-prezzo-dei-carburanti_406ee0aa-6fb0-4759-9286-29fdb4e5b0e9.html",
+     "data": "2026-07-19T15:33:20+00:00"
+    },
+    {
      "titolo": "Vacanze sempre più costose, gli italiani cambiano abitudini e spesa",
      "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/07/19/vacanze-sempre-piu-costose-gli-italiani-cambiano-abitudini-e-spesa_52c53e8a-9f3b-4292-a1b1-a2931fbce472.html",
      "data": "2026-07-19T13:38:07+00:00"
@@ -270,6 +275,16 @@
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Egitto ed Eritrea, sicurezza del mar Rosso spetta solo agli Stati costieri",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/19/egitto-ed-eritrea-sicurezza-del-mar-rosso-spetta-solo-agli-stati_cacada68-bd50-4971-8a7b-76850bb119eb.html",
+     "data": "2026-07-19T15:38:29+00:00"
+    },
+    {
+     "titolo": "Giappone: la lunga estate che spoglia i 'salarymen', e il tabù dei pantaloncini",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/19/giappone-la-lunga-estate-che-spoglia-i-salarymen-e-il-tabu-dei-pantaloncini_59184030-ddc0-48d9-a743-962dfff8e820.html",
+     "data": "2026-07-19T15:13:07+00:00"
+    },
     {
      "titolo": "L'isola 'portaerei inaffondabile' a guardia di Hormuz",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/lisola-portaerei-inaffondabile-a-guardia-di-hormuz_743d4853-801b-4fdf-86fd-329efd19f3b3.html",
@@ -319,16 +334,6 @@
      "titolo": "Trump, 'la morte dei due soldati americani in Giordania è molto triste'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/19/trump-la-morte-dei-due-soldati-americani-in-giordania-e-molto-triste_87f3db2d-e301-4864-9ff8-d57af6955578.html",
      "data": "2026-07-18T22:09:55+00:00"
-    },
-    {
-     "titolo": "Wsj, 'gli Usa stanno inviando in Iran F-16 e F-35'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/18/wsj-gli-usa-stanno-inviando-in-iran-f-16-e-f-35_a076ea83-3f4f-405e-933d-0a0f304043a5.html",
-     "data": "2026-07-18T20:38:11+00:00"
-    },
-    {
-     "titolo": "Diecimila persone partecipano alla parata del Pride a Bratislava",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/18/diecimila-persone-partecipano-alla-parata-del-pride-a-bratislava_5c8e5eec-9d16-4e36-a107-6806212bebcb.html",
-     "data": "2026-07-18T18:43:02+00:00"
     }
    ]
   },
@@ -401,6 +406,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Tour: Evenepoel beffa Pogacar a Plateau de Solaison, terzo Del Toro",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/19/tour-evenepoel-beffa-pogacar-a-plateau-de-solaison-terzo-del-toro_b0a12023-71d4-4611-9d51-0c5ae810b4ad.html",
+     "data": "2026-07-19T15:46:06+00:00"
+    },
+    {
+     "titolo": "Sfuma il bis di Darderi a Bastad, festeggia Rublev",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/19/sfuma-il-bis-di-darderi-a-bastad-festeggia-rublev_55fd1d14-ec7d-4da3-ae67-0544df200150.html",
+     "data": "2026-07-19T15:32:55+00:00"
+    },
+    {
+     "titolo": "Tour: Vingegaard cade e si ritira",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/19/-tour-vingegaard-cade-e-si-ritira-_ae6a0765-351d-4bc9-8fbb-10586fbd3d78.html",
+     "data": "2026-07-19T15:35:06+00:00"
+    },
+    {
+     "titolo": "F1:Belgio;presidente Aci La Russa 'doppietta perfetta, Italia assoluta protagonista'",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/19/f1belgiopresidente-aci-la-russa-doppietta-perfetta-italia-assoluta-padrona-circus_d4c46b98-b40c-423a-b2e5-9fd989274efa.html",
+     "data": "2026-07-19T15:37:11+00:00"
+    },
+    {
      "titolo": "F1: Belgio; Leclerc, ho creduto nella vittoria sino alla fine",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/19/f1-belgio-leclerc-ho-creduto-nella-vittoria-sino-alla-fine_432be175-379f-4326-a8fc-59a1ee75fad2.html",
      "data": "2026-07-19T14:50:28+00:00"
@@ -413,7 +438,7 @@
     {
      "titolo": "F1: Kimi Antonelli trionfa in Belgio, seconda la Ferrari di Leclerc",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/19/f1-belgio-vince-antonelli-seconda-la-ferrari-di-leclerc_740b7b81-383d-459f-86fc-5878eb299ef6.html",
-     "data": "2026-07-19T14:48:42+00:00"
+     "data": "2026-07-19T14:55:17+00:00"
     },
     {
      "titolo": "Mondiali: controlli rafforzati al MetLife Stadium, cancelli per i tifosi aprono prima",
@@ -439,26 +464,6 @@
      "titolo": "Test in famiglia per il Milan di Amorim, amichevole con Milan Futuro",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/19/test-in-famiglia-per-il-milan-di-amorim-amichevole-con-milan-futuro_249edc40-8ac8-4069-bc07-45e4fb08b535.html",
      "data": "2026-07-19T12:49:13+00:00"
-    },
-    {
-     "titolo": "Mondiali: l'Argentina si carica, in tv a reti unificate l'inno cantato dai giocatori",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/19/mondiali-largentina-si-carica-in-tv-a-reti-unificate-linno-cantato-dai-giocatori_78ee2f43-355e-4533-ae04-0aee8a80a753.html",
-     "data": "2026-07-19T11:40:28+00:00"
-    },
-    {
-     "titolo": "Calcio: Mkhitaryan, 'l'Inter ha grandi ambizioni, rivincere e avanzare in Champions'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/19/calcio-mkhitaryan-linter-ha-grandi-ambizioni-rivincere-e-avanzare-in-champions_aeafbd14-ff44-4073-ae99-505c517bfbeb.html",
-     "data": "2026-07-19T11:40:00+00:00"
-    },
-    {
-     "titolo": "De Giorgi \"vittoria su Cuba non facile, abbiamo raggiunto l'obiettivo\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/07/19/de-giorgi-vittoria-su-cuba-non-facile-abbiamo-raggiunto-lobiettivo_83d76fee-1ca3-42ce-8f62-a73c66d27ae5.html",
-     "data": "2026-07-19T10:18:05+00:00"
-    },
-    {
-     "titolo": "Pernici oltre il record: 'Ora una medaglia agli Europei, Los Angeles il sogno'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/19/pernici-oltre-il-record-ora-una-medaglia-agli-europei-los-angeles_d83028ed-d672-42f0-a405-1068f84cf526.html",
-     "data": "2026-07-19T13:44:27+00:00"
     }
    ]
   }
