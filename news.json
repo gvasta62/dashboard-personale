@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-19T22:37:41.127244+00:00",
+ "aggiornato": "2026-07-19T23:43:14.856186+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Usa, lanciata una nuova ondata di attacchi contro l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/usa-lanciata-una-nuovo-ondata-di-attacchi-contro-liran_a3e816d3-914b-4f6c-886a-5c7c5c16fc12.html",
+     "data": "2026-07-19T23:23:10+00:00"
+    },
+    {
+     "titolo": "Noemi cade dal palco durante un concerto, in ospedale per accertamenti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/noemi-cade-dal-palco-durante-un-concerto-in-ospedale-per-accertamenti_cee1d966-269e-477a-b8b5-e71c51ff975a.html",
+     "data": "2026-07-19T23:08:40+00:00"
+    },
     {
      "titolo": "Il premier ungherese propone la leggenda degli scacchi Polgàr come presidente",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/il-premier-ungherese-propone-la-leggenda-degli-scacchi-polgar-come-presidente_c7e63c3e-dc1b-4075-b687-7387161801a9.html",
@@ -44,16 +54,6 @@
      "titolo": "Idf, 'monitoriamo gli sviluppi in Iran, pronti a riprendere i combattimenti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/idf-monitoriamo-gli-sviluppi-in-iran-pronti-a-riprendere-i-combattimenti_e09451a8-3e94-4640-ab4c-d0d80854e459.html",
      "data": "2026-07-19T17:33:34+00:00"
-    },
-    {
-     "titolo": "Otto intossicati per fuga di cloro in piscina, bimbo in codice rosso",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/otto-intossicati-per-fuga-di-cloro-in-piscina-bimbo-in-codice-rosso_cff15bd8-6d53-426e-bd1c-ac87d14c5c0d.html",
-     "data": "2026-07-19T16:15:11+00:00"
-    },
-    {
-     "titolo": "Kiev, 20 morti e almeno 142 feriti in attacchi russi nelle ultime 24 ore",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/kiev-20-morti-e-almeno-142-feriti-in-attacchi-russi-nelle-ultime-24-ore_35b19cb7-28f5-428e-915c-8dc12c074184.html",
-     "data": "2026-07-19T16:09:03+00:00"
     }
    ]
   },
@@ -266,6 +266,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Usa, lanciata una nuovo ondata di attacchi contro l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/usa-lanciata-una-nuovo-ondata-di-attacchi-contro-liran_ab9cf219-ad5e-46cf-bcd7-f1610e424da5.html",
+     "data": "2026-07-19T23:22:19+00:00"
+    },
+    {
      "titolo": "Il premier ungherese propone la leggenda degli scacchi Polgàr come presidente",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/20/il-premier-ungherese-propone-la-leggenda-degli-scacchi-polgar-come-presidente_6e74efd1-2739-4d23-aa6c-ecb531fa54a8.html",
      "data": "2026-07-19T22:12:09+00:00"
@@ -319,11 +324,6 @@
      "titolo": "Egitto ed Eritrea, sicurezza del mar Rosso spetta solo agli Stati costieri",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/19/egitto-ed-eritrea-sicurezza-del-mar-rosso-spetta-solo-agli-stati_cacada68-bd50-4971-8a7b-76850bb119eb.html",
      "data": "2026-07-19T15:38:29+00:00"
-    },
-    {
-     "titolo": "Giappone: la lunga estate che spoglia i 'salarymen', e il tabù dei pantaloncini",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/19/giappone-la-lunga-estate-che-spoglia-i-salarymen-e-il-tabu-dei-pantaloncini_59184030-ddc0-48d9-a743-962dfff8e820.html",
-     "data": "2026-07-19T15:13:07+00:00"
     }
    ]
   },
@@ -396,6 +396,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Mondiali: Scaloni, 'Spagna più brava di noi, provo gratitudine e tristezza'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-scaloni-spagna-piu-brava-di-noi-provo-gratitudine-e-tristezza_a5e83e6f-1490-4a30-86c0-d177e05a6801.html",
+     "data": "2026-07-19T23:03:33+00:00"
+    },
+    {
+     "titolo": "Mondiali: de la Fuente, 'orgoglio per aver accompagnato questa generazione'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-de-la-fuente-orgoglio-per-aver-accompagnato-questa-generazione_20c991dd-d014-4552-b865-a753b03dee1e.html",
+     "data": "2026-07-19T22:57:55+00:00"
+    },
+    {
+     "titolo": "Mondiali: Messi in lacrime dopo la premiazione del secondo posto",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-messi-in-lacrime-dopo-la-premiazione-del-secondo-posto_20355751-b825-436d-a26e-980e173de460.html",
+     "data": "2026-07-19T22:42:39+00:00"
+    },
+    {
+     "titolo": "Mondiali: fischi per Trump e Infantino all'ingresso in campo",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-fischi-per-trump-e-infantino-allingresso-in-campo_af731cd7-9722-4b23-bdff-74c1ba3cabe3.html",
+     "data": "2026-07-19T22:37:47+00:00"
+    },
+    {
      "titolo": "Mondiali: Mbappé scarpa d'oro, decisivi i due gol con l'Inghilterra",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-mbappe-scarpa-doro-decisivi-i-due-gol-con-linghilterra_aa19fea7-a224-4d77-a209-1d465371b347.html",
      "data": "2026-07-19T22:21:25+00:00"
@@ -434,26 +454,6 @@
      "titolo": "Golf: al neozelandese Fox l'Open Championship, decisiva l'ultima buca",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/19/golf-al-neozelandese-fox-lopen-championship-decisiva-lultima-buca_d98c51cc-6d69-4b0d-9328-732070c545d5.html",
      "data": "2026-07-19T17:51:09+00:00"
-    },
-    {
-     "titolo": "Atletica: Europei U18, un oro e un bronzo per l'Italia nella marcia",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/19/atletica-europei-u18-un-oro-e-un-bronzo-per-litalia-nella-marcia_10c05134-3cd2-4b2c-875b-9698433909a3.html",
-     "data": "2026-07-19T17:43:18+00:00"
-    },
-    {
-     "titolo": "Gp Belgio, Antonelli: 'Bellissimo tornare sul gradino più alto, vittoria dura",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/19/gp-belgio-antonelli-bellissimo-tornare-sul-gradino-piu-alto-vittoria-dura_ef965f08-2b13-4cda-8fea-611bc32737b6.html",
-     "data": "2026-07-19T17:41:46+00:00"
-    },
-    {
-     "titolo": "Pernici oltre il record: 'Ora una medaglia agli Europei, Los Angeles il sogno'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/19/pernici-oltre-il-record-ora-una-medaglia-agli-europei-los-angeles_d83028ed-d672-42f0-a405-1068f84cf526.html",
-     "data": "2026-07-19T17:36:28+00:00"
-    },
-    {
-     "titolo": "Torino, Ismajli: ''Lavoriamo duro, Abate ha le sue idee'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/19/torino-ismajli-lavoriamo-duro-abate-ha-le-sue-idee_61dff0ca-1d17-4c97-9a14-951cd0564f56.html",
-     "data": "2026-07-19T17:35:12+00:00"
     }
    ]
   }
