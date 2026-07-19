@@ -1,0 +1,60 @@
+# Ogni mattina fa scrivere a Claude l'haiku del giorno e lo salva
+# in haiku.json. Gira sui computer di GitHub, non sul tuo PC: la
+# dashboard trova l'haiku gia' pronto anche a computer spento.
+#
+# Serve una chiave API Anthropic, salvata nei "Secrets" del repository
+# (Settings > Secrets and variables > Actions > New repository secret)
+# con il nome ANTHROPIC_API_KEY.
+
+name: Haiku del giorno
+
+on:
+  schedule:
+    # Ogni giorno alle 4:00 UTC, cioe' le 6 del mattino in Italia
+    # (le 5 in inverno). L'haiku e' pronto prima che tu apra il browser.
+    # La sintassi cron e': minuti, ore, giorno, mese, giorno-settimana.
+    - cron: "0 4 * * *"
+  # Permette di lanciarlo a mano dalla scheda "Actions" del repository,
+  # utile per provarlo subito senza aspettare domattina.
+  workflow_dispatch:
+
+# Diamo al processo il permesso di scrivere nel repository,
+# altrimenti non potrebbe salvare haiku.json.
+permissions:
+  contents: write
+
+jobs:
+  haiku:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scarica il repository
+        uses: actions/checkout@v4
+
+      - name: Prepara Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installa la libreria di Claude
+        run: pip install anthropic
+
+      - name: Componi l'haiku
+        env:
+          # La chiave arriva dai Secrets del repository: non compare
+          # mai nel codice ne' nei log (GitHub la nasconde da sola).
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python genera_haiku.py
+
+      - name: Salva haiku.json se e' cambiato
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add haiku.json
+          # "git diff --cached --quiet" e' vero quando NON ci sono modifiche:
+          # in quel caso non facciamo alcun commit, per non sporcare la storia.
+          if git diff --cached --quiet; then
+            echo "Haiku gia' aggiornato, non committo."
+          else
+            git commit -m "Haiku del giorno"
+            git push
+          fi

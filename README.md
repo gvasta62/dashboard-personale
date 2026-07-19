@@ -18,6 +18,7 @@ dipendenze. Funziona aperta da file locale o pubblicata sul web.
 | Cambio EUR/JPY | valore, variazione a 7 giorni e sparkline; dati BCE via [Frankfurter](https://frankfurter.dev) |
 | Link rapidi | configurabili |
 | Citazione casuale | |
+| Haiku del giorno | scritto ogni mattina da Claude a partire da data, stagione e meteo di Perugia |
 
 Tema scuro, responsive, funziona su telefono.
 
@@ -43,6 +44,24 @@ file, che sta sul suo stesso indirizzo — nessun blocco, nessun intermediario.
 Per cambiare i notiziari scaricati modifica il dizionario `FEED` in
 `aggiorna_news.py`. L'elenco completo è su
 [ansa.it/sito/static/ansa_rss.html](https://www.ansa.it/sito/static/ansa_rss.html).
+
+## Come funziona l'haiku del giorno
+
+Ogni mattina alle 6 italiane lo script `genera_haiku.py` gira su GitHub Actions
+(vedi `.github/workflows/haiku.yml`), chiede a Claude un haiku nuovo e salva
+`haiku.json` nel repository. La pagina legge quel file, come per le notizie.
+
+L'haiku non è generico: allo scrittore vengono passati la data, la stagione e
+il meteo di Perugia del giorno (da Open-Meteo, senza chiave), più gli ultimi 25
+haiku già scritti — così non si ripete. Ne resta un archivio di 90 dentro
+`haiku.json`.
+
+**Serve una chiave API Anthropic**, salvata nei Secrets del repository
+(*Settings → Secrets and variables → Actions → New repository secret*) col nome
+`ANTHROPIC_API_KEY`. Costo: un haiku al giorno sono pochi centesimi l'anno.
+
+Per cambiare lo stile degli haiku modifica il testo `ISTRUZIONI` in
+`genera_haiku.py`.
 
 ## Personalizzare
 

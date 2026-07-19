@@ -386,6 +386,25 @@ input[type="text"]:focus { outline: 2px solid var(--accento); border-color: tran
 }
 .autore { margin-top: 10px; color: var(--testo-tenue); font-size: .88rem; }
 
+
+/* ---- Haiku del giorno ----
+   I tre versi vanno a capo da soli perche' nel JSON sono separati da
+   un "a capo": white-space:pre-line dice al browser di rispettarlo. */
+.haiku {
+  white-space: pre-line;
+  font-size: 1.15rem;
+  line-height: 1.9;
+  font-style: italic;
+  text-align: center;
+  padding: 6px 0;
+}
+.haiku-nota {
+  margin-top: 10px;
+  text-align: center;
+  color: var(--testo-tenue);
+  font-size: .85rem;
+}
+
 /* La scheda della citazione occupa tutta la larghezza della griglia
    solo quando c'e' spazio (schermi larghi). "1 / -1" = da prima
    colonna a ultima. */
@@ -524,6 +543,16 @@ input[type="text"]:focus { outline: 2px solid var(--accento); border-color: tran
       </h2>
       <blockquote class="citazione" id="testo-citazione"></blockquote>
       <p class="autore" id="autore-citazione"></p>
+    </section>
+
+    <!-- --- Scheda HAIKU DEL GIORNO --- -->
+    <section class="scheda scheda-larga">
+      <h2 class="titolo-scheda">
+        <span>Haiku del giorno</span>
+        <span id="data-haiku"></span>
+      </h2>
+      <p class="haiku" id="testo-haiku">Carico l'haiku...</p>
+      <p class="haiku-nota" id="nota-haiku"></p>
     </section>
 
   </div>
@@ -1318,6 +1347,54 @@ function mostraCitazione() {
 
 mostraCitazione();
 document.getElementById("btn-nuova-citazione").onclick = mostraCitazione;
+
+
+/* ------------------------------------------------------------
+   SEZIONE 9 - HAIKU DEL GIORNO
+   ------------------------------------------------------------
+   Ogni notte lo script genera_haiku.py gira sui computer di
+   GitHub, chiede a Claude un haiku nuovo che parla della data e
+   del tempo che fa a Perugia, e lo deposita in haiku.json accanto
+   alla pagina. Qui non facciamo altro che leggere quel file.
+
+   Lo stesso trucco delle notizie: se apri la pagina dal disco
+   (indirizzo che inizia per "file:") il file accanto non c'e',
+   quindi lo prendiamo dal sito pubblicato.
+   ------------------------------------------------------------ */
+
+const FONTE_HAIKU = (location.protocol === "file:")
+  ? "https://gvasta62.github.io/dashboard-personale/haiku.json"
+  : "haiku.json";
+
+async function caricaHaiku() {
+  const versi = document.getElementById("testo-haiku");
+  const nota  = document.getElementById("nota-haiku");
+  const data  = document.getElementById("data-haiku");
+
+  try {
+    // Aggiungiamo l'ora corrente all'indirizzo per evitare che il
+    // browser ci riproponga la copia di ieri tenuta in memoria.
+    const risposta = await fetch(FONTE_HAIKU + "?t=" + Date.now());
+    if (!risposta.ok) throw new Error("HTTP " + risposta.status);
+    const dati = await risposta.json();
+
+    versi.textContent = dati.testo || "";
+    nota.textContent  = dati.nota  || "";
+
+    // Mostriamo la data in forma italiana: "19 luglio".
+    if (dati.data) {
+      const giorno = new Date(dati.data + "T12:00:00");
+      data.textContent = giorno.toLocaleDateString("it-IT",
+        { day: "numeric", month: "long" });
+    }
+  } catch (errore) {
+    versi.textContent = "Haiku non disponibile.";
+    nota.textContent  = "Riprova piu' tardi.";
+    console.error("Haiku:", errore);
+  }
+}
+
+caricaHaiku();
 </script>
 </body>
 </html>
