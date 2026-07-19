@@ -15,6 +15,7 @@ dipendenze. Funziona aperta da file locale o pubblicata sul web.
 | Lista da fare | salvata nel browser |
 | Blocco note | testo libero, salvataggio automatico |
 | Notizie ANSA | 8 categorie (incl. Umbria), aggiornate ogni 30 min |
+| Cambio EUR/JPY | valore, variazione a 7 giorni e sparkline; dati BCE via [Frankfurter](https://frankfurter.dev) |
 | Link rapidi | configurabili |
 | Citazione casuale | |
 

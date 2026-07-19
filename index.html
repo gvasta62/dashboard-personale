@@ -99,7 +99,11 @@ body {
   font-variant-numeric: tabular-nums; /* le cifre non "ballano" */
 }
 
-#data { color: var(--testo-tenue); font-size: 1.05rem; text-transform: capitalize; }
+#data { color: var(--testo-tenue); font-size: 1.05rem; }
+/* Solo la PRIMA lettera maiuscola: "domenica 19 luglio 2026" ->
+   "Domenica 19 luglio 2026". Con "capitalize" verrebbe maiuscola
+   anche l'iniziale del mese, che in italiano si scrive minuscola. */
+#data::first-letter { text-transform: uppercase; }
 
 
 /* ---- Griglia delle schede ------------------------------------
@@ -288,6 +292,55 @@ input[type="text"]:focus { outline: 2px solid var(--accento); border-color: tran
 .link-griglia .emoji { font-size: 1.7rem; }
 
 
+/* ---- Cambio euro / yen ---- */
+
+/* Il valore grande. Nota: NIENTE tabular-nums qui.
+   Le cifre a larghezza fissa servono nelle colonne di numeri da
+   allineare (come l'orologio); su un numero grande isolato fanno
+   sembrare le cifre distanziate male. */
+.cambio-valore {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1;
+}
+.cambio-unita { font-size: 1.1rem; color: var(--testo-tenue); font-weight: 400; margin-left: 4px; }
+
+/* La variazione resta in colore neutro, non verde/rosso: su un
+   cambio valutario "sale" non vuol dire ne' bene ne' male, dipende
+   se stai comprando o vendendo. La freccia dice gia' la direzione. */
+.cambio-delta { font-size: .9rem; color: var(--testo-tenue); margin-top: 6px; }
+
+.cambio-grafico { margin-top: 14px; position: relative; }
+.cambio-grafico svg { display: block; width: 100%; }
+
+/* Riquadro che compare passando il mouse sui punti del grafico. */
+.cambio-tooltip {
+  position: absolute;
+  pointer-events: none;          /* non deve intercettare il mouse */
+  background: #0d1024;
+  border: 1px solid var(--bordo);
+  border-radius: 8px;
+  padding: 6px 9px;
+  font-size: .75rem;
+  white-space: nowrap;
+  transform: translate(-50%, -130%);
+  opacity: 0;
+  transition: opacity .12s;
+  z-index: 2;
+}
+.cambio-tooltip.visibile { opacity: 1; }
+.cambio-tooltip b { font-variant-numeric: tabular-nums; }
+
+.cambio-note {
+  margin-top: 10px;
+  font-size: .75rem;
+  color: var(--testo-tenue);
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+
 /* ---- Notizie ANSA ---- */
 .news-categorie {
   display: flex;
@@ -436,6 +489,17 @@ input[type="text"]:focus { outline: 2px solid var(--accento); border-color: tran
     <section class="scheda">
       <h2 class="titolo-scheda"><span>Link rapidi</span></h2>
       <div class="link-griglia" id="link-rapidi"></div>
+    </section>
+
+    <!-- --- Scheda CAMBIO EURO / YEN --- -->
+    <section class="scheda">
+      <h2 class="titolo-scheda">
+        <span>Cambio euro / yen</span>
+        <button class="mini-bottone" id="btn-aggiorna-cambio">aggiorna</button>
+      </h2>
+      <div id="cambio-contenuto">
+        <p class="vuoto">Carico il cambio...</p>
+      </div>
     </section>
 
     <!-- --- Scheda NOTIZIE (ANSA) --- -->
@@ -933,6 +997,202 @@ LINK.forEach(function (voce) {
   a.appendChild(nome);
   contenitoreLink.appendChild(a);
 });
+
+
+/* ------------------------------------------------------------
+   SEZIONE 4-ter - CAMBIO EURO / YEN CON ANDAMENTO SETTIMANALE
+   ------------------------------------------------------------
+   I dati arrivano da Frankfurter, che ripubblica i cambi
+   ufficiali della Banca Centrale Europea: gratuito, senza chiave.
+
+   Due cose da sapere sui dati della BCE:
+   - vengono pubblicati una volta al giorno, verso le 16:00
+   - NON esistono per sabato, domenica e festivi (mercati chiusi)
+   Percio' di domenica il valore piu' recente e' quello di venerdi'.
+   La pagina mostra sempre la data del dato, per non ingannare.
+   ------------------------------------------------------------ */
+
+const API_CAMBIO = "https://api.frankfurter.dev/v1/";
+
+/* Formatta un numero all'italiana: 185.65 -> "185,65" */
+function numeroIta(valore, decimali) {
+  return valore.toLocaleString("it-IT", {
+    minimumFractionDigits: decimali,
+    maximumFractionDigits: decimali
+  });
+}
+
+/* Disegna il grafichino (sparkline).
+
+   Perche' calcoliamo le coordinate in JavaScript invece di lasciar
+   fare allo scaling automatico dell'SVG: se si allunga un disegno
+   solo in orizzontale, i cerchi diventano ovali e le linee cambiano
+   spessore. Misurando la larghezza reale e disegnando in pixel veri
+   il grafico resta pulito a qualsiasi dimensione.                  */
+function disegnaGrafico(punti, contenitore) {
+  const larghezza = contenitore.clientWidth || 300;
+  const altezza   = 70;
+  const margine   = 8;   // spazio ai bordi, per non tagliare il pallino
+
+  const valori = punti.map(function (p) { return p.valore; });
+  const minimo = Math.min.apply(null, valori);
+  const massimo = Math.max.apply(null, valori);
+  // Se in una settimana il cambio non si e' mosso per niente
+  // eviteremmo una divisione per zero: mettiamo un minimo di scala.
+  const escursione = (massimo - minimo) || 1;
+
+  // Da valore a coordinata sullo schermo.
+  const x = function (i) {
+    return margine + (i / Math.max(punti.length - 1, 1)) * (larghezza - margine * 2);
+  };
+  const y = function (v) {
+    // Nell'SVG la y cresce verso il BASSO, quindi il valore piu'
+    // alto deve avere la y piu' piccola: per questo "1 - ...".
+    return margine + (1 - (v - minimo) / escursione) * (altezza - margine * 2);
+  };
+
+  const coordinate = punti.map(function (p, i) { return x(i) + "," + y(p.valore); });
+
+  // Area sfumata sotto la linea: chiude il tracciato fino alla base.
+  const areaSotto = "M" + coordinate.join(" L") +
+                    " L" + x(punti.length - 1) + "," + altezza +
+                    " L" + x(0) + "," + altezza + " Z";
+
+  const ultimo = punti[punti.length - 1];
+
+  let svg =
+    '<svg viewBox="0 0 ' + larghezza + ' ' + altezza + '" ' +
+         'width="' + larghezza + '" height="' + altezza + '" ' +
+         'role="img" aria-label="Andamento del cambio euro yen negli ultimi 7 giorni, ' +
+         'da ' + numeroIta(punti[0].valore, 2) + ' a ' + numeroIta(ultimo.valore, 2) + ' yen">' +
+      '<defs>' +
+        '<linearGradient id="sfumatura-cambio" x1="0" y1="0" x2="0" y2="1">' +
+          '<stop offset="0%"   stop-color="#46e0b8" stop-opacity=".28"/>' +
+          '<stop offset="100%" stop-color="#46e0b8" stop-opacity="0"/>' +
+        '</linearGradient>' +
+      '</defs>' +
+      '<path d="' + areaSotto + '" fill="url(#sfumatura-cambio)"/>' +
+      // La linea: 2px, senza spigoli vivi agli angoli.
+      '<path d="M' + coordinate.join(" L") + '" fill="none" stroke="#46e0b8" ' +
+            'stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>' +
+      // Pallino sull'ultimo valore, cerchiato del colore della scheda
+      // per staccarlo dalla linea.
+      '<circle cx="' + x(punti.length - 1) + '" cy="' + y(ultimo.valore) + '" r="4" ' +
+              'fill="#46e0b8" stroke="#191d33" stroke-width="2"/>';
+
+  // Zone invisibili sensibili al passaggio del mouse, una per punto.
+  // Sono piu' larghe del punto stesso, cosi' e' facile centrarle.
+  punti.forEach(function (p, i) {
+    const passo = (larghezza - margine * 2) / Math.max(punti.length - 1, 1);
+    svg += '<rect class="zona-cambio" data-i="' + i + '" ' +
+                 'x="' + (x(i) - passo / 2) + '" y="0" ' +
+                 'width="' + passo + '" height="' + altezza + '" ' +
+                 'fill="transparent" style="cursor:crosshair"/>';
+  });
+
+  svg += "</svg>";
+  return svg;
+}
+
+async function caricaCambio() {
+  const contenitore = document.getElementById("cambio-contenuto");
+
+  try {
+    // Chiediamo una finestra di 10 giorni: servono per essere sicuri
+    // di raccogliere almeno 5 giorni lavorativi anche con un festivo
+    // di mezzo. Il grafico poi mostra gli ultimi 7 giorni di dati.
+    const oggi = new Date();
+    const inizio = new Date(oggi.getTime() - 12 * 24 * 60 * 60 * 1000);
+    const gg = function (d) { return d.toISOString().slice(0, 10); };  // "2026-07-19"
+
+    const risposta = await fetch(API_CAMBIO + gg(inizio) + ".." + gg(oggi) + "?base=EUR&symbols=JPY");
+    if (!risposta.ok) throw new Error("risposta non valida");
+    const dati = await risposta.json();
+
+    // I dati arrivano come oggetto {data: {JPY: valore}}: li
+    // trasformiamo in un elenco ordinato per data.
+    let punti = Object.keys(dati.rates).sort().map(function (data) {
+      return { data: data, valore: dati.rates[data].JPY };
+    });
+    if (punti.length === 0) throw new Error("nessun dato");
+
+    punti = punti.slice(-7);   // gli ultimi 7 rilevamenti
+
+    const ultimo  = punti[punti.length - 1];
+    const primo   = punti[0];
+    const delta   = ultimo.valore - primo.valore;
+    const deltaPc = (delta / primo.valore) * 100;
+    const freccia = delta > 0 ? "↑" : (delta < 0 ? "↓" : "→");
+    const segno   = delta > 0 ? "+" : (delta < 0 ? "−" : "");
+
+    const valori  = punti.map(function (p) { return p.valore; });
+    const minimo  = Math.min.apply(null, valori);
+    const massimo = Math.max.apply(null, valori);
+
+    // Data del dato piu' recente, scritta per esteso.
+    const dataUltimo = new Date(ultimo.data + "T12:00:00")
+      .toLocaleDateString("it-IT", { weekday: "short", day: "numeric", month: "short" });
+
+    contenitore.innerHTML =
+      '<div class="cambio-valore">' + numeroIta(ultimo.valore, 2) +
+        '<span class="cambio-unita">¥ per 1 €</span></div>' +
+      '<div class="cambio-delta">' + freccia + ' ' + segno +
+        numeroIta(Math.abs(delta), 2) + ' (' + segno + numeroIta(Math.abs(deltaPc), 2) +
+        '%) in 7 giorni</div>' +
+      '<div class="cambio-grafico" id="grafico-cambio">' +
+        '<div class="cambio-tooltip" id="tooltip-cambio"></div>' +
+      '</div>' +
+      '<div class="cambio-note">' +
+        '<span>min ' + numeroIta(minimo, 2) + '</span>' +
+        '<span>max ' + numeroIta(massimo, 2) + '</span>' +
+        '<span>dato di ' + dataUltimo + ' &middot; BCE</span>' +
+      '</div>';
+
+    const riquadro = document.getElementById("grafico-cambio");
+    const tooltip  = document.getElementById("tooltip-cambio");
+
+    function ridisegna() {
+      // Togliamo il vecchio SVG (se c'e') e ne mettiamo uno nuovo
+      // calcolato sulla larghezza attuale.
+      const vecchio = riquadro.querySelector("svg");
+      if (vecchio) vecchio.remove();
+      riquadro.insertAdjacentHTML("beforeend", disegnaGrafico(punti, riquadro));
+
+      // Colleghiamo il tooltip alle zone sensibili.
+      riquadro.querySelectorAll(".zona-cambio").forEach(function (zona) {
+        zona.onmouseenter = function () {
+          const p = punti[Number(zona.getAttribute("data-i"))];
+          const giorno = new Date(p.data + "T12:00:00")
+            .toLocaleDateString("it-IT", { weekday: "short", day: "numeric", month: "short" });
+          tooltip.innerHTML = giorno + " &middot; <b>" + numeroIta(p.valore, 2) + "</b> ¥";
+          // Posizioniamo il riquadro sopra il punto.
+          tooltip.style.left = (Number(zona.getAttribute("x")) + Number(zona.getAttribute("width")) / 2) + "px";
+          tooltip.style.top  = "50%";
+          tooltip.classList.add("visibile");
+        };
+        zona.onmouseleave = function () { tooltip.classList.remove("visibile"); };
+      });
+    }
+
+    ridisegna();
+
+    // Se ridimensioni la finestra ridisegniamo, ma non ad ogni
+    // singolo pixel: aspettiamo che ti fermi (stesso trucco delle note).
+    let attesaRidisegno = null;
+    window.addEventListener("resize", function () {
+      clearTimeout(attesaRidisegno);
+      attesaRidisegno = setTimeout(ridisegna, 200);
+    });
+
+  } catch (errore) {
+    contenitore.innerHTML =
+      '<p class="vuoto">Cambio non disponibile al momento.</p>';
+  }
+}
+
+caricaCambio();
+setInterval(caricaCambio, 60 * 60 * 1000);   // ricontrolla ogni ora
+document.getElementById("btn-aggiorna-cambio").onclick = caricaCambio;
 
 
 /* ------------------------------------------------------------
