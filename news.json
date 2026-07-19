@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-19T15:52:08.875324+00:00",
+ "aggiornato": "2026-07-19T16:40:13.588402+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Otto intossicati per fuga di cloro in piscina, bimbo in codice rosso",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/otto-intossicati-per-fuga-di-cloro-in-piscina-bimbo-in-codice-rosso_cff15bd8-6d53-426e-bd1c-ac87d14c5c0d.html",
+     "data": "2026-07-19T16:15:11+00:00"
+    },
+    {
+     "titolo": "Kiev, 20 morti e almeno 142 feriti in attacchi russi nelle ultime 24 ore",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/kiev-20-morti-e-almeno-142-feriti-in-attacchi-russi-nelle-ultime-24-ore_35b19cb7-28f5-428e-915c-8dc12c074184.html",
+     "data": "2026-07-19T16:09:03+00:00"
+    },
     {
      "titolo": "F1: Belgio; presidente Aci La Russa 'doppietta perfetta, Italia assoluta protagonista'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/f1belgiopresidente-aci-la-russa-doppietta-perfetta-italia-assoluta-padrona-circus_822b4b3b-e3e1-4bc7-923a-a26c0fdf672b.html",
@@ -44,22 +54,17 @@
      "titolo": "Roggero: Lega deposita Pdl che estende possibilità legittima difesa",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/roggero-lega-deposita-pdl-che-estende-possibilita-legittima-difesa_955d267e-d179-44a0-a48b-39c55959fb27.html",
      "data": "2026-07-19T12:31:43+00:00"
-    },
-    {
-     "titolo": "Mattarella, il disegno eversivo di via D'Amelio è stato sconfitto",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/mattarella-il-disegno-eversivo-di-via-damelio-e-stato-sconfitto_6c5ffc6b-a9dc-4713-9dea-59ae2cce7538.html",
-     "data": "2026-07-19T08:46:13+00:00"
-    },
-    {
-     "titolo": "Famiglia Roggero,'nel 2005 fu istinto paterno, non una spedizione punitiva'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/famiglia-roggeronel-2005-fu-istinto-paterno-non-una-spedizione-punitiva_bca230f9-efa5-4f7e-b8af-f377cbbcbb2d.html",
-     "data": "2026-07-19T06:16:09+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Incendi, Prisco ringrazia i vigili del fuoco e tutta la macchina dei soccorsi",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/19/incendi-prisco-ringrazia-i-vigili-del-fuoco-e-tutta-la-macchina-dei-soccorsi_bc25599c-c476-4d48-b8a1-d1dc7091ee79.html",
+     "data": "2026-07-19T16:27:07+00:00"
+    },
     {
      "titolo": "Usl Umbria 2, rete distribuzione di acqua a Terni, tutti i parametri nei limiti",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/19/usl-umbria-2-rete-distribuzione-di-acqua-a-terni-tutti-i-parametri-nei-limiti_cfc2ec58-fb08-4171-93c0-941db7adf0ab.html",
@@ -78,7 +83,7 @@
     {
      "titolo": "Incendi, non ci sono al momento focolai attivi in Umbria",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/19/incendi-non-ci-sono-al-momento-focolai-attivi-in-umbria_d5fbb8ef-acce-47ac-9bc0-1a962b293fae.html",
-     "data": "2026-07-19T11:14:39+00:00"
+     "data": "2026-07-19T16:27:41+00:00"
     },
     {
      "titolo": "Marchetti (Lega), l'Alta Valle del Tevere abbandonata dalla Giunta Proietti",
@@ -114,17 +119,27 @@
      "titolo": "A Nocera Umbra sono andati a fuoco 180 ettari di vegetazione",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/18/a-nocera-umbra-sono-andati-a-fuoco-180-ettari-di-vegetazione_32eee22f-1c46-41b3-b229-6a930e6cf660.html",
      "data": "2026-07-18T16:23:14+00:00"
-    },
-    {
-     "titolo": "Divieto precauzionale di bere l'acqua di rete in alcune zone di Terni",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/18/divieto-precauzionale-di-bere-lacqua-di-rete-in-alcune-zone-di-terni_ab73146f-92d1-4edd-a002-7e9d80a63a2a.html",
-     "data": "2026-07-18T15:34:54+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Giornalista ucciso e poi  dato alle fiamme nel Salernitano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/giornalista-ucciso-e-poi-dato-alle-fiamme-nel-salernitano_4e628c7b-c90f-4710-9cce-358ffa47a1fb.html",
+     "data": "2026-07-19T16:25:50+00:00"
+    },
+    {
+     "titolo": "Otto intossicati per fuga di cloro in piscina, bimbo in codice rosso",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/otto-intossicati-per-fuga-di-cloro-in-piscina-bimbo-in-codice-rosso_d08a0608-82ae-4a97-bf70-75a3ed012ea3.html",
+     "data": "2026-07-19T16:15:14+00:00"
+    },
+    {
+     "titolo": "Il Pilastro di Bologna, quartiere difficile che ha appena compiuto 60 anni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/il-pilastro-di-bologna-quartiere-difficile-che-ha-appena-compiuto-60-anni_a396bf24-df2c-4e55-9930-03a16ad6bcf8.html",
+     "data": "2026-07-19T16:35:41+00:00"
+    },
     {
      "titolo": "Tre anziani morti dopo malori per il caldo in località balneari leccesi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/tre-anziani-morti-dopo-malori-per-il-caldo-in-localita-balneari-leccesi_7b67e57d-5344-4e02-9465-c51cf9e9d4d5.html",
@@ -138,7 +153,7 @@
     {
      "titolo": "Un uomo ammanettato muore durante un intervento della polizia a Bologna",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/un-uomo-ammanettato-muore-durante-un-intervento-della-polizia-a-bologna_d0b602cf-d7c4-454f-84d1-d4f6d5f4922d.html",
-     "data": "2026-07-19T15:49:35+00:00"
+     "data": "2026-07-19T16:25:58+00:00"
     },
     {
      "titolo": "A Bologna uomo ammanettato muore durante intervento della polizia",
@@ -169,21 +184,6 @@
      "titolo": "Un 17enne colpito alla testa con tirapugni in discoteca, è grave",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/un-17enne-colpito-alla-testa-con-tirapugni-in-discoteca-e-grave_70e33328-437d-4a4d-98a5-252209874f33.html",
      "data": "2026-07-19T13:44:28+00:00"
-    },
-    {
-     "titolo": "Luigi 'Luca' Esposito, ecco chi era il giornalista ucciso ad Eboli, pochi giorni fa il suo compleanno",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/luigi-luca-esposito-ecco-chi-era-il-giornalista-ucciso-ad-eboli-pochi_be26d0ae-1d20-4529-8f02-52066462db63.html",
-     "data": "2026-07-19T14:00:28+00:00"
-    },
-    {
-     "titolo": "Scompare vicino rifugio Jervis in Val Pellice, trovata morta",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/scompare-vicino-rifugio-jervis-in-val-pellice-trovata-morta_c245e05b-63fd-44f1-bd71-cd7d83c32783.html",
-     "data": "2026-07-19T12:44:16+00:00"
-    },
-    {
-     "titolo": "Bimba di 4 anni annega in piscina, ripresa in parte dalle telecamere",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/bimba-di-4-anni-annega-in-piscina-ripresa-in-parte-dalle-telecamere_2ff58fa3-77a2-4115-9485-c21a9c608a74.html",
-     "data": "2026-07-19T15:26:29+00:00"
     }
    ]
   },
@@ -276,6 +276,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Kiev, 20 morti e almeno 142 feriti in attacchi russi nelle ultime 24 ore",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/19/kiev-20-morti-e-almeno-142-feriti-in-attacchi-russi-nelle-ultime-24-ore_b28b5850-dcaa-437a-b78b-dcbee20b7715.html",
+     "data": "2026-07-19T16:09:20+00:00"
+    },
+    {
      "titolo": "Egitto ed Eritrea, sicurezza del mar Rosso spetta solo agli Stati costieri",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/19/egitto-ed-eritrea-sicurezza-del-mar-rosso-spetta-solo-agli-stati_cacada68-bd50-4971-8a7b-76850bb119eb.html",
      "data": "2026-07-19T15:38:29+00:00"
@@ -296,9 +301,9 @@
      "data": "2026-07-19T13:59:00+00:00"
     },
     {
-     "titolo": "Kiev sotto attacco, raid russo con oltre 40 missili. Zelensky: 'È  uno dei più grandi attacchi balistici'",
+     "titolo": "Notte d'inferno a Kiev, Mosca scatena una tempesta di missili e droni",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/19/kiev-sotto-attacco-raid-russo-con-oltre-40-missili.-zelensky-e-uno_a2923793-3707-4d32-bcd8-81241afb54db.html",
-     "data": "2026-07-19T12:01:51+00:00"
+     "data": "2026-07-19T16:17:06+00:00"
     },
     {
      "titolo": "Tunisia, presidente Saied riappare in pubblico, ispezione a impianto idrico El Golla",
@@ -329,11 +334,6 @@
      "titolo": "Trump, 'l'Iran ha annullato l'intesa? Non me ne importa nulla'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/trump-liran-ha-annullato-lintesa-non-me-ne-importa-nulla_cb0bdc55-18cb-4732-90ba-67ead1736564.html",
      "data": "2026-07-18T22:21:17+00:00"
-    },
-    {
-     "titolo": "Trump, 'la morte dei due soldati americani in Giordania è molto triste'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/19/trump-la-morte-dei-due-soldati-americani-in-giordania-e-molto-triste_87f3db2d-e301-4864-9ff8-d57af6955578.html",
-     "data": "2026-07-18T22:09:55+00:00"
     }
    ]
   },
@@ -406,6 +406,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "F1: Italia show a Spa, trionfa Antonelli poi una bella Ferrari con Leclerc",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/19/f1-italia-show-a-spa-trionfa-antonelli-poi-una-bella-ferrari-con_740b7b81-383d-459f-86fc-5878eb299ef6.html",
+     "data": "2026-07-19T16:29:16+00:00"
+    },
+    {
      "titolo": "Tour: Evenepoel beffa Pogacar a Plateau de Solaison, terzo Del Toro",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/19/tour-evenepoel-beffa-pogacar-a-plateau-de-solaison-terzo-del-toro_b0a12023-71d4-4611-9d51-0c5ae810b4ad.html",
      "data": "2026-07-19T15:46:06+00:00"
@@ -434,11 +439,6 @@
      "titolo": "Gp Belgio: Antonelli 'bellissimo tornare sul gradino più alto, vittoria dura",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/19/gp-belgio-antonelli-bellissimo-tornare-sul-gradino-piu-alto-vittoria-dura_ef965f08-2b13-4cda-8fea-611bc32737b6.html",
      "data": "2026-07-19T14:46:54+00:00"
-    },
-    {
-     "titolo": "F1: Kimi Antonelli trionfa in Belgio, seconda la Ferrari di Leclerc",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/19/f1-belgio-vince-antonelli-seconda-la-ferrari-di-leclerc_740b7b81-383d-459f-86fc-5878eb299ef6.html",
-     "data": "2026-07-19T14:55:17+00:00"
     },
     {
      "titolo": "Mondiali: controlli rafforzati al MetLife Stadium, cancelli per i tifosi aprono prima",
