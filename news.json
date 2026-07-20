@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-20T20:14:47.849167+00:00",
+ "aggiornato": "2026-07-20T21:37:21.753901+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Casa Bianca, dazi addizionali del 50%' su alcuni beni importati dal Canada",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/casa-bianca-dazi-addizionali-del-50-su-alcuni-beni-importati-dal-canada_6b03e6d0-ce73-4575-bdcb-58b633c527e3.html",
+     "data": "2026-07-20T21:24:08+00:00"
+    },
+    {
+     "titolo": "Centcom, 'lanciata una nuova serie di attacchi contro l'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/centcom-lanciata-una-nuova-serie-di-attacchi-contro-liran_edd34b08-6757-45c1-9870-e728e8915344.html",
+     "data": "2026-07-20T20:37:23+00:00"
+    },
+    {
+     "titolo": "È morto Daniele Compatangelo, corrispondente La7 a Washington",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/e-morto-daniele-compatangelo-corrispondente-la7-a-washington_a2f3df12-ba4e-4ee4-baa1-7dec8fb70f6e.html",
+     "data": "2026-07-20T20:27:10+00:00"
+    },
     {
      "titolo": "Idf, 'iniziato il programma Zona sicura con Centcom ed esercito Libano'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/idf-iniziato-il-programma-zona-sicura-con-centcom-ed-esercito-libano_6b20dba5-b0bf-4fc7-b3f8-a7d1b7a8ba61.html",
@@ -39,21 +54,6 @@
      "titolo": "Romeo, se La Russa sceglie su Milano, alla Lega la Regione Lombardia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/romeo-se-la-russa-sceglie-su-milano-alla-lega-la-regione-lombardia_92f886ab-859d-44b0-8c7d-acd708be5c71.html",
      "data": "2026-07-20T16:54:08+00:00"
-    },
-    {
-     "titolo": "Inondazioni in Afghanistan, '20 morti e oltre 100 dispersi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/inondazioni-in-afghanistan-20-morti-e-oltre-100-dispersi_d0e9c914-79c8-4296-bb8c-e2c17439b302.html",
-     "data": "2026-07-20T16:48:58+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas chiude in rialzo a 58,36 euro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/il-prezzo-del-gas-chiude-in-rialzo-a-5836-euro_d4c73845-5407-4dfb-b7f4-9e4115cc283e.html",
-     "data": "2026-07-20T16:40:22+00:00"
-    },
-    {
-     "titolo": "Procura generale Torino, sequestro di 50mila euro a Roggero",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/procura-generale-torino-sequestro-di-50mila-euro-a-roggero_95b7586f-fe6c-4643-8ad4-2aaf0e9e07a9.html",
-     "data": "2026-07-20T16:17:32+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "La piazza si infiamma a Bologna, scontri tra manifestanti e agenti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/la-piazza-si-infiamma-a-bologna-scontri-tra-manifestanti-e-agenti_8194e073-2643-4249-8a13-656b522b755c.html",
+     "data": "2026-07-20T21:01:38+00:00"
+    },
+    {
      "titolo": "Lancio di bomba carta da manifestanti e carica della Polizia a Bologna",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/lancio-di-bomba-carta-da-manifestanti-e-carica-della-polizia-a-bologna_992e101b-9f01-4699-8a5f-187d7b84ebba.html",
      "data": "2026-07-20T19:21:44+00:00"
@@ -133,7 +138,7 @@
     {
      "titolo": "In sei coinvolti nella morte di Fakir, il pm applica lo 'scudo'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/in-sei-coinvolti-nella-morte-di-fakir-il-pm-applica-lo-scudo_667f2cb6-3f79-46b0-a3e1-b09a0467b0cf.html",
-     "data": "2026-07-20T20:06:47+00:00"
+     "data": "2026-07-20T21:08:50+00:00"
     },
     {
      "titolo": "Il volto a terra, le urla, il silenzio, il film del dramma di Fakir",
@@ -179,17 +184,17 @@
      "titolo": "Giornalista ucciso nel Salernitano, attesa l'autopsia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/giornalista-ucciso-nel-salernitano-attesa-lautopsia_4fd507d6-5678-4b77-9f9f-9fba092c9ad1.html",
      "data": "2026-07-20T16:58:09+00:00"
-    },
-    {
-     "titolo": "Ucciso per le cuffiette, confermata la condanna a 27 anni per Daniele Rezza",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/ucciso-per-le-cuffiette-confermata-la-condanna-a-27-anni-per-daniele-rezza_b6edb46d-8448-4a0f-af37-09d2e5690fd6.html",
-     "data": "2026-07-20T16:44:44+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "È morto Daniele Compatangelo, corrispondente La7 a Washington",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/e-morto-daniele-compatangelo-corrispondente-la7-a-washington_b571a845-f8ee-4d17-8f14-97dfcb03b129.html",
+     "data": "2026-07-20T21:10:29+00:00"
+    },
     {
      "titolo": "Capigruppo maggioranza, pronto emendamento contro risarcimenti a criminali",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/capigruppo-maggioranza-pronto-emendamento-contro-risarcimenti-a-criminali_3ed9bd68-b449-49eb-9a89-041c6c405754.html",
@@ -244,11 +249,6 @@
      "titolo": "Meloni, il Portogallo acquista tre fregate costruite da Fincantieri",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/meloni-il-portogallo-acquista-tre-fregate-costruite-da-fincantieri_86e46241-4ea6-42f4-8d26-c560d7e17141.html",
      "data": "2026-07-20T13:05:29+00:00"
-    },
-    {
-     "titolo": "Meloni, rilanciamo la cooperazione bilaterale con il Portogallo",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/meloni-rilanciamo-la-cooperazione-bilaterale-con-il-portogallo_881ec044-ef5d-4b00-9fe5-3779c2ca9936.html",
-     "data": "2026-07-20T12:47:36+00:00"
     }
    ]
   },
@@ -321,6 +321,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Casa Bianca, dazi addizionali del 50%' su alcuni beni importati dal Canada",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/20/casa-bianca-dazi-addizionali-del-50-su-alcuni-beni-importati-dal-canada_9a04e29c-5dbc-40e2-9e7a-24a76c124c0d.html",
+     "data": "2026-07-20T21:24:09+00:00"
+    },
+    {
+     "titolo": "Centcom, 'lanciata una nuova serie di attacchi contro l'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/centcom-lanciata-una-nuova-serie-di-attacchi-contro-liran_2a4fc017-9475-4fa4-8bbe-e782de6d7b60.html",
+     "data": "2026-07-20T20:37:23+00:00"
+    },
+    {
+     "titolo": "Colombia, ultimo discorso di Petro tra accuse di brogli e difesa del suo operato",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/colombia-ultimo-discorso-di-petro-tra-accuse-di-brogli-e-difesa-del-suo_d852ef5f-94f3-41e1-bb00-e9e9beb55052.html",
+     "data": "2026-07-20T20:37:40+00:00"
+    },
+    {
      "titolo": "Venezuela, servono oltre 3.400 salari per acquistare il paniere alimentare di base",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/venezuela-servono-oltre-3.400-salari-per-acquistare-il-paniere-alimentare-di-base_e114d2b3-ddfa-4615-8d1a-9493d51f891e.html",
      "data": "2026-07-20T20:02:52+00:00"
@@ -364,21 +379,6 @@
      "titolo": "Trump, Netanyahu non sarà arrestato in nessuna circostanza negli Usa",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/20/trump-netanyahu-non-sara-arrestato-in-nessuna-circostanza-negli-usa_ce6d0b29-6ea9-4942-a98c-317dc8b63f9b.html",
      "data": "2026-07-20T17:07:59+00:00"
-    },
-    {
-     "titolo": "Trump, 'Iran pagherà a caro prezzo le uccisioni dei soldati Usa, ho dato ordini'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/20/trump-iran-paghera-a-caro-prezzo-le-uccisioni-dei-soldati-usa-ho-dato_78501bb5-70fb-4e95-a078-17919b5f00ca.html",
-     "data": "2026-07-20T16:58:47+00:00"
-    },
-    {
-     "titolo": "Trump, 'Iran pagherà a caro prezzo le uccisioni dei soldati Usa, ho dato ordini'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/trump-iran-paghera-a-caro-prezzo-le-uccisioni-dei-soldati-usa-ho-dato_1c5528ff-ff5c-49b9-b411-39d63051b365.html",
-     "data": "2026-07-20T16:59:01+00:00"
-    },
-    {
-     "titolo": "Medio Oriente, 17 soldati Usa morti nella guerra con l'Iran. Trump: Teheran pagherà caro",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/20/medio-oriente-17-soldati-americani-morti-nella-guerra-contro-liran_7139a2c2-c2fa-412d-a3c3-3d373ef99703.html",
-     "data": "2026-07-20T18:00:33+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Mondiali: festa Spagna, due milioni in strada a Madrid",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-festa-spagna-due-milioni-in-strada-a-madrid_ff7d9ad7-1f27-4ef1-b44c-ff82f250a1c2.html",
+     "data": "2026-07-20T21:35:22+00:00"
+    },
+    {
+     "titolo": "Lotito si presenta a Reggio Calabria, \"serie D solo momento di partenza\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/lotito-si-presenta-a-reggio-calabria-serie-d-solo-momento-di-partenza_e685ec18-4d6e-43f8-81fa-532baafb15f9.html",
+     "data": "2026-07-20T20:22:31+00:00"
+    },
+    {
      "titolo": "Mondiali: Inaki Williams, Nico rende orgogliosi milioni di immigrati come mamma e papà",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-inaki-williams-nico-rende-orgogliosi-milioni-di-immigrati-come-mamma_fcfd6cc1-ce9f-4501-a6e4-044aed7cc851.html",
      "data": "2026-07-20T19:36:41+00:00"
@@ -499,16 +509,6 @@
      "titolo": "Inzaghi vuole Bastoni all'Hilal, la Juve insiste per Martinez",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/inzaghi-vuole-bastoni-allhilal-la-juve-insiste-per-martinez_d7cb4a04-d8d9-4f2f-8329-d6152ec2cef5.html",
      "data": "2026-07-20T17:56:21+00:00"
-    },
-    {
-     "titolo": "Al Parioli i campionati maschili U15 dedicati a Mattia Maselli",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/20/al-parioli-i-campionati-maschili-u15-dedicati-a-mattia-maselli_dadb2634-cda9-47a5-b753-a4ca5bdee0f4.html",
-     "data": "2026-07-20T17:21:05+00:00"
-    },
-    {
-     "titolo": "L'Italia attende il ct, Maldini-Leonardo in missione per Guardiola",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/20/litalia-attende-il-ct-maldini-leonardo-in-missione-per-guardiola_9e731ae8-6a03-4aa8-b5f3-7a664051abb1.html",
-     "data": "2026-07-20T17:42:54+00:00"
     }
    ]
   }
