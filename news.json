@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-20T22:43:21.107615+00:00",
+ "aggiornato": "2026-07-20T23:43:45.780949+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Pentagono, quasi 100 militari Usa feriti dal 7 luglio in scontri con Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/pentagono-quasi-100-militari-usa-feriti-dal-7-luglio-in-scontri-con_9ca68abc-0cc6-42cb-b546-08e4a5fded14.html",
+     "data": "2026-07-20T23:31:15+00:00"
+    },
+    {
+     "titolo": "Iran, colpita una base militare americana in Kuwait",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/iran-colpita-una-base-militare-americana-in-kuwait_338f6f87-628e-4697-b8c2-33db96692be6.html",
+     "data": "2026-07-20T23:17:13+00:00"
+    },
+    {
+     "titolo": "L'annuncio di Daniel Ortega, 'in Nicaragua non ci saranno più elezioni'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/lannuncio-di-daniel-ortega-in-nicaragua-non-ci-saranno-piu-elezioni_ec3a7fb3-50a1-4814-9774-e0975ba4c51f.html",
+     "data": "2026-07-20T23:00:01+00:00"
+    },
     {
      "titolo": "Trump, 'ottima conversazione con il nuovo premier britannico Burnham'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/trump-ottima-conversazione-con-il-nuovo-premier-britannico-burnham_3cc5d6be-1c3c-4144-a13b-5fa6efb5d354.html",
@@ -39,21 +54,6 @@
      "titolo": "Capigruppo maggioranza, pronto emendamento contro risarcimenti a criminali",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/capigruppo-maggioranza-pronto-emendamento-contro-risarcimenti-a-criminali_9cd3a0ce-e8d0-4d7b-9a68-eb4ec8acca94.html",
      "data": "2026-07-20T18:55:21+00:00"
-    },
-    {
-     "titolo": "Trump, Netanyahu non sarà arrestato in nessuna circostanza negli Usa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/trump-netanyahu-non-sara-arrestato-in-nessuna-circostanza-negli-usa_d7f6d254-35a2-4cb6-8bb6-2fa7ec9d74f5.html",
-     "data": "2026-07-20T17:07:36+00:00"
-    },
-    {
-     "titolo": "Legale famiglia Fakir, non sia polizia a fare indagini, lo dice la Cedu",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/legale-famiglia-fakir-non-sia-polizia-a-fare-indagini-lo-dice-la-cedu_4f372546-771d-4b93-857d-c844ce121d4e.html",
-     "data": "2026-07-20T17:04:17+00:00"
-    },
-    {
-     "titolo": "Trump, 'Iran pagherà a caro prezzo le uccisioni dei soldati Usa, ho dato ordini'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/trump-iran-paghera-a-caro-prezzo-le-uccisioni-dei-soldati-usa-ho-dato_81de679b-58ad-43ec-9ef1-039fb0de0cd9.html",
-     "data": "2026-07-20T16:58:47+00:00"
     }
    ]
   },
@@ -321,6 +321,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Pentagono, quasi 100 militari Usa feriti dal 7 luglio in scontri con Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/21/pentagono-quasi-100-militari-usa-feriti-dal-7-luglio-in-scontri-con_b70f795c-668a-4236-8921-d8af0f2fe242.html",
+     "data": "2026-07-20T23:31:45+00:00"
+    },
+    {
+     "titolo": "Iran, colpita una base militare americana in Kuwait",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/21/iran-colpita-una-base-militare-americana-in-kuwait_3a03d7d0-006a-47b9-8cc0-a5f27f2fd5c1.html",
+     "data": "2026-07-20T23:17:13+00:00"
+    },
+    {
+     "titolo": "L'annuncio di Daniel Ortega, 'in Nicaragua non ci saranno più elezioni'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/lannuncio-di-daniel-ortega-in-nicaragua-non-ci-saranno-piu-elezioni_06109805-0b0f-44a2-83e8-c371bb7fa9ca.html",
+     "data": "2026-07-20T23:00:19+00:00"
+    },
+    {
      "titolo": "Trump, 'ottima conversazione con il nuovo premier britannico Burnham'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/trump-ottima-conversazione-con-il-nuovo-premier-britannico-burnham_c3f32dcc-c3dc-428f-afdf-b325b8c9ad2f.html",
      "data": "2026-07-20T22:35:10+00:00"
@@ -364,21 +379,6 @@
      "titolo": "Messico, ergastolo a 'El Mayo' Zambada, il fondatore del cartello di Sinaloa",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/messico-ergastolo-a-el-mayo-zambada-il-fondatore-del-cartello-di-sinaloa_50f34b03-70ec-4780-ba97-a9ebd4566782.html",
      "data": "2026-07-20T19:22:20+00:00"
-    },
-    {
-     "titolo": "Rapporto ong, 97 reclute morte a Cuba dal 2001 durante il servizio militare",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/rapporto-ong-97-reclute-morte-a-cuba-dal-2001-durante-il-servizio-militare_88c8d2f3-e518-41c9-9eaf-a88e63d54838.html",
-     "data": "2026-07-20T19:18:01+00:00"
-    },
-    {
-     "titolo": "Tante donne e volti nuovi nel 'governo ecumenico' di Andy",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/20/tante-donne-e-volti-nuovi-nel-governo-ecumenico-di-andy_c977ec62-a1d1-43cd-b791-d180a189c6c7.html",
-     "data": "2026-07-20T18:49:58+00:00"
-    },
-    {
-     "titolo": "Verso l'inizio del ritiro delle truppe israeliane dal Libano",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/verso-linizio-del-ritiro-delle-truppe-israeliane-dal-libano_e79c5e70-1bed-4519-8910-424948f0efce.html",
-     "data": "2026-07-20T19:53:41+00:00"
     }
    ]
   },
