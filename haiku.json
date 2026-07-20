@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-07-19T17:00:27.302637+00:00",
- "data": "2026-07-19",
- "testo": "Sui tetti roventi\nun piccione cerca l'ombra\ndel comignolo",
- "nota": "Nel meriggio afoso un piccione immobile all'ombra di un camino.",
+ "aggiornato": "2026-07-20T06:38:26.941844+00:00",
+ "data": "2026-07-20",
+ "testo": "Cielo di cenere\nsui campi di girasoli\nnessun ronzio",
+ "nota": "Sotto le nuvole basse i girasoli sembrano spenti, e manca il suono delle api.",
  "archivio": [
+  {
+   "data": "2026-07-20",
+   "testo": "Cielo di cenere\nsui campi di girasoli\nnessun ronzio",
+   "nota": "Sotto le nuvole basse i girasoli sembrano spenti, e manca il suono delle api."
+  },
   {
    "data": "2026-07-19",
    "testo": "Sui tetti roventi\nun piccione cerca l'ombra\ndel comignolo",
