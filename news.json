@@ -1,65 +1,80 @@
 {
- "aggiornato": "2026-07-20T07:53:12.383629+00:00",
+ "aggiornato": "2026-07-20T10:36:17.243477+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
+     "titolo": "Zelensky, 'colpite 2 petroliere flotta ombra russa e 4 mercantili nel Mar Nero'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/zelensky-colpite-2-petroliere-flotta-ombra-russa-e-4-mercantili-nel-mar-nero_be5045c9-0b68-4a3c-968a-ef4d26a801e4.html",
+     "data": "2026-07-20T10:07:54+00:00"
+    },
+    {
+     "titolo": "Dall'India a Pantelleria, il 20 luglio è la Giornata Internazionale della Luna",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/dallindia-a-pantelleria-il-20-luglio-e-la-giornata-internazionale-della-luna_eeefc54c-ce0c-42fc-ac1b-9d0ed7c1e8ab.html",
+     "data": "2026-07-20T09:44:25+00:00"
+    },
+    {
+     "titolo": "Musk difende Roggero, 'è follia, giudice e pm dovrebbero essere condannati'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/musk-difende-roggero-e-follia-giudice-e-pm-dovrebbero-essere-condannati_ba526a2e-611a-4e25-ae7f-80f13daeebb2.html",
+     "data": "2026-07-20T09:44:46+00:00"
+    },
+    {
+     "titolo": "Mosca convoca l'incaricato d'affari italiano",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/mosca-convoca-lincaricato-daffari-italiano_49000962-8409-4cc4-9174-dc9a9e96c8b9.html",
+     "data": "2026-07-20T09:27:15+00:00"
+    },
+    {
+     "titolo": "Incassi cinema, esordio da 10 milioni di euro per l'Odissea di Nolan in Italia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/incassi-cinema-esordio-da-10-milioni-di-euro-per-lodissea-di-nolan-in-italia_dd6c8dab-ce7e-453b-8e80-38a3adb946a9.html",
+     "data": "2026-07-20T09:19:30+00:00"
+    },
+    {
+     "titolo": "Morto ammanettato, applicata la nuova norma sullo 'scudo' per gli agenti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/morto-ammanettato-applicata-la-nuova-norma-sullo-scudo-per-gli-agenti_32b8b68f-c147-4d64-b933-66d8d50c7c0c.html",
+     "data": "2026-07-20T09:09:48+00:00"
+    },
+    {
+     "titolo": "Migliaia di persone protestano nel centro di Nuova Delhi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/migliaia-di-persone-protestano-nel-centro-di-nuova-delhi_61456866-f361-4a64-b064-5779461cc502.html",
+     "data": "2026-07-20T08:19:44+00:00"
+    },
+    {
+     "titolo": "Media iraniani, raid Usa contro città sede di una centrale nucleare",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/media-iraniani-raid-usa-contro-citta-sede-di-una-centrale-nucleare_457b9b5c-9bc0-4340-8ebc-cd7d6013c0ed.html",
+     "data": "2026-07-20T08:16:36+00:00"
+    },
+    {
+     "titolo": "Teheran, 'proseguono scambi diplomatici con Usa tramite i mediatori'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/teheran-proseguono-scambi-diplomatici-con-usa-tramite-i-mediatori_5adf64de-8279-46ca-a28b-523a525bc2e8.html",
+     "data": "2026-07-20T08:05:07+00:00"
+    },
+    {
      "titolo": "Borsa: l'Europa apre in calo con lente su escalation Usa-Iran",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/borsa-leuropa-apre-in-calo-con-lente-su-escalation-usa-iran_b8672701-56e4-4fa5-abb8-ca153cde1b2e.html",
      "data": "2026-07-20T07:24:07+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre a -0,18%, Tim -1,8% in avvio opas da parte Poste",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/borsa-milano-apre-a-018-tim-18-in-avvio-opas-da-parte-poste_f0f10a8d-b2e0-4b62-9703-a20ef394d139.html",
-     "data": "2026-07-20T07:16:14+00:00"
-    },
-    {
-     "titolo": "++ I prezzi dei carburanti avanzano ancora, benzina a 2,025 euro in autostrada ++",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/i-prezzi-dei-carburanti-avanzano-ancora-benzina-a-2025-euro-in-autostrada_494eafef-a52f-46c8-ab9b-36cfb43b5dc9.html",
-     "data": "2026-07-20T07:15:56+00:00"
-    },
-    {
-     "titolo": "Borsa: Asia in rosso con escalation Usa-Iran, Europa verso calo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/borsa-asia-in-rosso-con-escalation-usa-iran-europa-verso-calo_6d2a66bf-cd95-4ef3-b5e5-28e636086daf.html",
-     "data": "2026-07-20T06:49:47+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund in avvio sale a 86 punti base poi lima a 83,5",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/lo-spread-tra-btp-e-bund-in-avvio-sale-a-86-punti-base-poi-lima_2f5d7dc7-8599-4111-9556-138830782f4d.html",
-     "data": "2026-07-20T06:37:50+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas su massimi da marzo a 60 euro con escalation Usa-Iran",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/il-prezzo-del-gas-su-massimi-da-marzo-a-60-euro-con-escalation-usa-iran_07f3a206-9a08-48ca-ae23-2b6580bc0670.html",
-     "data": "2026-07-20T06:27:03+00:00"
-    },
-    {
-     "titolo": "L'oro è in calo, a 4.010,75 dollari l'oncia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/loro-e-in-calo-a-4.01075-dollari-loncia_a90ed485-a546-445a-a9c0-4d409b148050.html",
-     "data": "2026-07-20T06:16:47+00:00"
-    },
-    {
-     "titolo": "L'euro è poco mosso, a 1,1441 dollari",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/leuro-e-poco-mosso-a-11441-dollari_f9900bb0-39a6-4f11-bd17-5e09cd612036.html",
-     "data": "2026-07-20T06:07:46+00:00"
-    },
-    {
-     "titolo": "Il petrolio è ancora in rialzo, Wti a 84,40 dollaro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/il-petrolio-e-ancora-in-rialzo-wti-a-8440-dollaro_4909dd3e-1961-4521-b1e4-10ca64ce7189.html",
-     "data": "2026-07-20T05:59:12+00:00"
-    },
-    {
-     "titolo": "Maxi operazione contro la criminalità giovanile, 539 arresti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/maxi-operazione-contro-la-criminalita-giovanile-539-arresti_e8701e48-7355-43a0-a842-347a8f4b54af.html",
-     "data": "2026-07-20T05:48:01+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "La Giunta comunale di Assisi pronta a tutelare i prodotti del territorio",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/20/la-giunta-comunale-di-assisi-pronta-a-tutelare-i-prodotti-del-territorio_c498c5dc-eadb-4021-a21a-3fb107cdaff5.html",
+     "data": "2026-07-20T10:26:12+00:00"
+    },
+    {
+     "titolo": "Per opposizione Regione 'crollo del gradimento della presidente Proietti'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/20/per-opposizione-regione-crollo-del-gradimento-della-presidente-proietti_b3978c68-36c2-476a-b232-91e68dcf0d42.html",
+     "data": "2026-07-20T10:07:44+00:00"
+    },
+    {
+     "titolo": "In Umbria il prezzo dei carburanti in linea con l'aumento nazionale",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/20/in-umbria-il-prezzo-dei-carburanti-in-linea-con-laumento-nazionale_dd99221b-f539-4d48-b48f-7f9bc3d69242.html",
+     "data": "2026-07-20T10:01:39+00:00"
+    },
     {
      "titolo": "In Umbria mezzanotte con caldo da giornata di sole estiva",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/20/in-umbria-mezzanotte-con-caldo-da-giornata-di-sole-estiva_8d2caec9-9a2c-44d1-82a8-8dc6d72f349f.html",
@@ -104,27 +119,42 @@
      "titolo": "A Monteleone di Spoleto la 14/a edizione della 'Fiera di San Felice'",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/19/a-monteleone-di-spoleto-la-14a-edizione-della-fiera-di-san-felice_520f790c-63c2-445b-84fd-bc0a0e5a7ced.html",
      "data": "2026-07-19T10:40:08+00:00"
-    },
-    {
-     "titolo": "Proietti, risposta ferma e coordinata del sistema pubblico all'emergenza incendi",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/19/proietti-risposta-ferma-e-coordinata-del-sistema-pubblico-allemergenza-incendi_c2079c71-44ff-4641-802b-01888fecf301.html",
-     "data": "2026-07-19T17:18:08+00:00"
-    },
-    {
-     "titolo": "Sollecito, io assolto in caso Meredith e mai risarcito è cortocircuito morale",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/19/sollecito-io-assolto-in-caso-meredith-e-mai-risarcito-e-cortocircuito-morale_270b094f-9cd7-4ba8-813b-f3e64edeb7c3.html",
-     "data": "2026-07-19T07:40:02+00:00"
-    },
-    {
-     "titolo": "Il Premio 'Città di Corciano' a Cucinelli e Cosmi",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/18/il-premio-citta-di-corciano-a-cucinelli-e-cosmi_4d676d81-6800-416a-bd3b-37e98e82eaa0.html",
-     "data": "2026-07-18T18:30:25+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Svolta in arrivo, calano le temperature e arrivano forti temporali",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/svolta-in-arrivo-calano-le-temperature-e-arrivano-forti-temporali_3e433c9b-01f2-409b-b59a-33ee959d249d.html",
+     "data": "2026-07-20T10:21:51+00:00"
+    },
+    {
+     "titolo": "Morto ammanettato, applicata la nuova norma sullo 'scudo' per gli agenti. Al vaglio dei pm 6 persone",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/morto-ammanettato-applicata-la-nuova-norma-sullo-scudo-per-gli-agenti._667f2cb6-3f79-46b0-a3e1-b09a0467b0cf.html",
+     "data": "2026-07-20T10:02:01+00:00"
+    },
+    {
+     "titolo": "Giornalista ucciso nel Salernitano, domani l'autopsia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/giornalista-ucciso-nel-salernitano-domani-lautopsia_4fd507d6-5678-4b77-9f9f-9fba092c9ad1.html",
+     "data": "2026-07-20T09:44:51+00:00"
+    },
+    {
+     "titolo": "Cuccioli di cane morti per caldo, attivisti 'proprietario non finirà in cella'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/cuccioli-di-cane-morti-per-caldo-attivisti-proprietario-non-finira-in-cella_2e62b24c-8a46-4449-ae7a-400fb5e55aa6.html",
+     "data": "2026-07-20T09:45:25+00:00"
+    },
+    {
+     "titolo": "A Lipari è crisi idrica, arriva metà del fabbisogno",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/a-lipari-e-crisi-idrica-arriva-meta-del-fabbisogno_32a0e2aa-0565-491b-9a9f-59e0b8f12fc8.html",
+     "data": "2026-07-20T09:32:25+00:00"
+    },
+    {
+     "titolo": "Attentato Ranucci, giudici Riesame si riservano su istanza difensori banda",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/attentato-ranucci-giudici-riesame-si-riservano-su-istanza-difensori-banda_2fe8c096-29d1-4f89-95c5-93205f6d0623.html",
+     "data": "2026-07-20T09:31:04+00:00"
+    },
     {
      "titolo": "Muore annegato al lago di Viverone dopo il giro in pedalò",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/muore-annegato-al-lago-di-viverone-dopo-il-giro-in-pedalo_1894f303-3d9e-4fc2-9d8f-2379d81ae8cf.html",
@@ -143,7 +173,7 @@
     {
      "titolo": "Maxi blitz contro le baby gang, trovati mille profili social inneggianti violenza. Oltre 500 arresti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/maxi-blitz-contro-le-baby-gang-trovati-mille-profili-social-inneggianti_33417dc9-655c-4b4e-9704-c40eecb3c53f.html",
-     "data": "2026-07-20T06:03:51+00:00"
+     "data": "2026-07-20T08:54:41+00:00"
     },
     {
      "titolo": "Rapinano una donna in centro a Milano, in carcere due ragazze di 15 e 17 anni",
@@ -154,42 +184,17 @@
      "titolo": "È morto il Comandante Alfa, era tra i fondatori del Gis dei Carabinieri",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/e-morto-il-comandante-alfa-era-tra-i-fondatori-del-gis-dei-carabinieri_06d0d1a3-3574-4d2d-9d7d-e2bcefa3ff02.html",
      "data": "2026-07-19T22:05:49+00:00"
-    },
-    {
-     "titolo": "+++ LA SPAGNA È CAMPIONE DEL MONDO  ARGENTINA  BATTUTA 1-0 IN FINALE+++",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/la-spagna-e-campione-del-mondo-argentina-battuta-1-0-in-finale_425c6927-daaa-49ea-a86f-a378936786bf.html",
-     "data": "2026-07-19T22:02:37+00:00"
-    },
-    {
-     "titolo": "Morto a Bologna, gli altri casi da Cucchi a Magherini",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/morto-a-bologna-gli-altri-casi-da-cucchi-a-magherini_cdcb4c82-f9f5-4952-a386-8b9ba92e7a46.html",
-     "data": "2026-07-19T20:03:11+00:00"
-    },
-    {
-     "titolo": "Toni bassi e tempi lunghi, cambia la strategia per la grazia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/toni-bassi-e-tempi-lunghi-cambia-la-strategia-per-la-grazia_210f34ed-5566-4ba3-9aec-0a38ac0c3d27.html",
-     "data": "2026-07-19T19:08:30+00:00"
-    },
-    {
-     "titolo": "Il padre di Aldrovandi: 'Le indagini partano subito e ci sia trasparenza'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/il-padre-di-aldrovandi-le-indagini-partano-subito-e-ci-sia-trasparenza_f5b95a81-1ec0-4d11-97b8-4f0b68616334.html",
-     "data": "2026-07-19T19:52:55+00:00"
-    },
-    {
-     "titolo": "Un giornalista ucciso nel Salernitano, il corpo dato alle fiamme",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/giornalista-ucciso-e-poi-dato-alle-fiamme-nel-salernitano_4e628c7b-c90f-4710-9cce-358ffa47a1fb.html",
-     "data": "2026-07-19T19:39:42+00:00"
-    },
-    {
-     "titolo": "Morto a Bologna, questura 'a disposizione dei pm filmati bodycam degli agenti'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/morto-a-bologna-questura-a-disposizione-dei-pm-filmati-bodycam-degli-agenti_131dd65e-9c0d-4819-8696-42755bc02fb9.html",
-     "data": "2026-07-19T18:01:17+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Musk difende Roggero: 'E' follia, giudice e pm dovrebbero essere condannati'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/musk-difende-roggero-e-follia-giudice-e-pm-dovrebbero-essere-condannati_042afb28-a759-45ed-af8a-dcd18dc661c4.html",
+     "data": "2026-07-20T08:29:35+00:00"
+    },
     {
      "titolo": "FdI difende i poliziotti di Bologna, il Campo largo chiede chiarezza",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/19/fdi-difende-i-poliziotti-di-bologna-il-campo-largo-chiede-chiarezza_deb18583-74a0-4b4a-a735-1f7099b342fd.html",
@@ -213,7 +218,7 @@
     {
      "titolo": "Ddl della Lega per allargare le maglie della legittima difesa, stop da FI",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/19/roggero-la-lega-deposita-la-pdl-che-estende-i-limiti-della-legittima-difesa_f5eb2d6d-554d-471d-a00b-9471f951ff56.html",
-     "data": "2026-07-19T19:48:30+00:00"
+     "data": "2026-07-20T08:28:42+00:00"
     },
     {
      "titolo": "Salvini visita Roggero, 'raccogli la tua esperienza in un libro'",
@@ -230,6 +235,26 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Da Cdp 1,8 miliardi a UniCredit per la crescita e competitività delle imprese",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/20/da-cdp-18-miliardi-a-unicredit-per-la-crescita-e-competitivita-delle-imprese_c1d86ee0-c54e-44b1-85dd-262a77c2c7ab.html",
+     "data": "2026-07-20T09:36:28+00:00"
+    },
+    {
+     "titolo": "Bce, imprese segnalano banche più rigide su concessione prestiti e tassi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/20/bce-imprese-segnalano-banche-piu-rigide-su-concessione-prestiti-e-tassi_4e7cee22-0316-4ea2-945c-660df8ccc9cd.html",
+     "data": "2026-07-20T09:16:56+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa tenta via rialzo con diplomazie Usa-Iran a lavoro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/20/borsa-leuropa-tenta-via-rialzo-con-diplomazie-usa-iran-a-lavoro_373039f0-688e-4ccc-ba42-d3c87e81f24e.html",
+     "data": "2026-07-20T09:02:54+00:00"
+    },
+    {
+     "titolo": "Intesa Sanpaolo premiata come migliore Investment bank in Italia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/20/intesa-sanpaolo-premiata-come-migliore-investment-bank-in-italia_f2038575-408c-4592-956b-884ea8b566ce.html",
+     "data": "2026-07-20T07:51:38+00:00"
+    },
     {
      "titolo": "Borsa: l'Europa apre in calo con lente su escalation Usa-Iran",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/20/borsa-leuropa-apre-in-calo-con-lente-su-escalation-usa-iran_920c519d-d57e-475e-94a8-c0d12fab0d13.html",
@@ -269,32 +294,52 @@
      "titolo": "L'euro è poco mosso, a 1,1441 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/20/leuro-e-poco-mosso-a-11441-dollari_53a40dda-7c2e-4dea-a18c-21e174db800b.html",
      "data": "2026-07-20T06:07:48+00:00"
-    },
-    {
-     "titolo": "Prysmian accelera su data center, accordo con Molex da 5,5 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/20/prysmian-accelera-su-data-center-accordo-con-molex-da-55-miliardi_9b1e9b37-33bd-453c-92e4-e8b398bd2d13.html",
-     "data": "2026-07-20T06:01:47+00:00"
-    },
-    {
-     "titolo": "Il petrolio è ancora in rialzo, Wti a 84,40 dollaro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/20/il-petrolio-e-ancora-in-rialzo-wti-a-8440-dollaro_dcdfcc03-29a3-4c47-b413-ce67b54f2112.html",
-     "data": "2026-07-20T05:59:28+00:00"
-    },
-    {
-     "titolo": "Effetto Hormuz, con la ripresa ostilità aumenta il prezzo dei carburanti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/19/effetto-hormuz-con-la-ripresa-ostilita-aumenta-il-prezzo-dei-carburanti_406ee0aa-6fb0-4759-9286-29fdb4e5b0e9.html",
-     "data": "2026-07-19T15:33:20+00:00"
-    },
-    {
-     "titolo": "Vacanze sempre più costose, gli italiani cambiano abitudini e spesa",
-     "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/07/19/vacanze-sempre-piu-costose-gli-italiani-cambiano-abitudini-e-spesa_52c53e8a-9f3b-4292-a1b1-a2931fbce472.html",
-     "data": "2026-07-19T13:38:07+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Zelensky, 'colpite 2 petroliere flotta ombra russa e 4 mercantili nel Mar Nero'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/20/zelensky-colpite-2-petroliere-flotta-ombra-russa-e-4-mercantili-nel-mar-nero_6c64c9e0-7384-44d1-99e6-9b37cd801299.html",
+     "data": "2026-07-20T10:08:11+00:00"
+    },
+    {
+     "titolo": "Musk difende Roggero, 'è follia, giudice e pm dovrebbero essere condannati'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/20/musk-difende-roggero-e-follia-giudice-e-pm-dovrebbero-essere-condannati_18534d13-8c03-4d02-a90c-21b8537012e2.html",
+     "data": "2026-07-20T09:44:49+00:00"
+    },
+    {
+     "titolo": "Mosca convoca l'incaricato d'affari italiano",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/20/mosca-convoca-lincaricato-daffari-italiano_437695dd-5f10-4e40-8444-ae647242ff94.html",
+     "data": "2026-07-20T09:27:19+00:00"
+    },
+    {
+     "titolo": "Il vecchio gatto Larry attende Burnham, la stabilità a Downing Street è lui",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/20/il-vecchio-gatto-larry-attende-burnham-la-stabilita-a-downing-street-e-lui_6f4fd794-f964-4cb7-9d6b-344fa32353c0.html",
+     "data": "2026-07-20T09:22:00+00:00"
+    },
+    {
+     "titolo": "Mondiali: Nazionale sconfitta, ma in Argentina sarà festa nazionale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/mondiali-nazionale-sconfitta-ma-in-argentina-sara-festa-nazionale_999743a8-9e30-45be-9dff-a780b6e6c840.html",
+     "data": "2026-07-20T08:33:47+00:00"
+    },
+    {
+     "titolo": "Migliaia di persone protestano nel centro di Nuova Delhi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/20/migliaia-di-persone-protestano-nel-centro-di-nuova-delhi_84968f9f-8572-4836-a282-d1872c88b2c3.html",
+     "data": "2026-07-20T08:20:16+00:00"
+    },
+    {
+     "titolo": "Media iraniani, raid Usa contro città sede di una centrale nucleare",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/media-iraniani-raid-usa-contro-citta-sede-di-una-centrale-nucleare_7b14c6e7-9a9a-42e3-9f3f-27cea5f3b8ef.html",
+     "data": "2026-07-20T08:16:52+00:00"
+    },
+    {
+     "titolo": "Teheran, 'proseguono scambi diplomatici con Usa tramite i mediatori'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/teheran-proseguono-scambi-diplomatici-con-usa-tramite-i-mediatori_4ffd898b-cf21-4f04-8010-f1764a55b38a.html",
+     "data": "2026-07-20T08:05:27+00:00"
+    },
     {
      "titolo": "Veliero dell'ong Open Arms arrivato a Cuba con aiuti umanitari",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/veliero-dellong-open-arms-arrivato-a-cuba-con-aiuti-umanitari_2907f40e-63aa-4a2d-b54e-a093e6bbd9c4.html",
@@ -314,46 +359,6 @@
      "titolo": "Rubio, 'Iran usa Hormuz come una leva, altri Paesi devono fare di più'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/20/rubio-iran-usa-hormuz-come-una-leva-altri-paesi-devono_6a7a716c-4afa-401d-9562-ea2d17976bc2.html",
      "data": "2026-07-20T02:30:07+00:00"
-    },
-    {
-     "titolo": "Rubio, 'Iran usa Hormuz come una leva, altri Paesi devono fare di più'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/rubio-iran-usa-hormuz-come-una-leva-altri-paesi-devono_5fbad98f-9355-4c69-872e-2c16721b2d4e.html",
-     "data": "2026-07-20T02:30:21+00:00"
-    },
-    {
-     "titolo": "Trump, 'abbiamo colpito duramente l'Iran in onore dei soldati caduti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/20/trump-abbiamo-colpito-duramente-liran-in-onore-dei-soldati-caduti_fc1ac94a-04a6-44ec-9890-d5d55ae16998.html",
-     "data": "2026-07-20T00:28:43+00:00"
-    },
-    {
-     "titolo": "Mondiali: Sheinbaum da New York elogia i Paesi organizzatori e la Spagna",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/mondiali-sheinbaum-da-new-york-elogia-i-paesi-organizzatori-e-la-spagna_4eead661-4e90-41b1-986f-efa661e5e482.html",
-     "data": "2026-07-20T00:22:17+00:00"
-    },
-    {
-     "titolo": "Il premier ungherese propone la leggenda degli scacchi Polgàr come presidente",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/20/il-premier-ungherese-propone-la-leggenda-degli-scacchi-polgar-come-presidente_6e74efd1-2739-4d23-aa6c-ecb531fa54a8.html",
-     "data": "2026-07-19T22:12:09+00:00"
-    },
-    {
-     "titolo": "Cuba attacca gli Usa sui Mondiali, 'Ingerenze e visti negati'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/19/cuba-attacca-gli-usa-sui-mondiali-ingerenze-e-visti-negati_2bb1e712-4fc7-4fd7-8fb4-40a1bfb1b54c.html",
-     "data": "2026-07-19T20:56:36+00:00"
-    },
-    {
-     "titolo": "Usa, un militare ucciso in Iraq durante la detonazione di un drone iraniano",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/usa-un-militare-ucciso-in-iraq-durante-la-detonazione-di-un-drone-iraniano_d18f8663-2243-47c3-968f-9b07835e762a.html",
-     "data": "2026-07-19T19:36:33+00:00"
-    },
-    {
-     "titolo": "Merz accusa Sinistra e Verdi, 'al Bundestag hanno lo stesso tono dell'AfD'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/19/merz-accusa-sinistra-e-verdi-al-bundestag-hanno-lo-stesso-tono-dellafd_42df6486-fb37-40e7-ab32-75dae5ea7351.html",
-     "data": "2026-07-19T18:36:50+00:00"
-    },
-    {
-     "titolo": "Marina ucraina, missili russi su una nave mercantile turca, 5 morti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/19/marina-ucraina-missili-russi-su-una-nave-mercantile-turca-5-morti_ec320c44-1d49-4645-b13d-c1ce1223222e.html",
-     "data": "2026-07-19T18:32:24+00:00"
     }
    ]
   },
@@ -426,6 +431,46 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Mondiali: da Casemiro a Calhanoglu, quanti flop",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-da-casemiro-a-calhanoglu-quanti-flop_b3d532fc-f76e-4a5d-8fb3-3ddf84e088b5.html",
+     "data": "2026-07-20T09:54:18+00:00"
+    },
+    {
+     "titolo": "Mondiali: Rodri, Messi e Mbappè, ecco la top 11",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-rodri-messi-e-mbappe-ecco-la-top-11_c1d49bd5-64cd-41e2-8a31-80117963f37f.html",
+     "data": "2026-07-20T09:40:15+00:00"
+    },
+    {
+     "titolo": "Mondiali: Spagna, squadra e trofeo attesi a Madrid in mattinata",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-spagna-squadra-e-trofeo-attesi-a-madrid-in-mattinata_94b5dce5-ac69-4491-9e95-53db614f89b6.html",
+     "data": "2026-07-20T09:33:15+00:00"
+    },
+    {
+     "titolo": "Omaggio alla Spagna 'Mundial' in un'opera di land art in Veneto",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/omaggio-alla-spagna-mundial-in-unopera-di-land-art-in-veneto_0f65c54a-29b7-4937-a79d-f184de5ed317.html",
+     "data": "2026-07-20T09:33:34+00:00"
+    },
+    {
+     "titolo": "Juventus, Ekhator al J Medical per valutare l'infortunio",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/juve-ekhator-al-j-medical-per-valutare-linfortunio_96c14184-a132-4eb2-9866-84d5751fd283.html",
+     "data": "2026-07-20T09:31:21+00:00"
+    },
+    {
+     "titolo": "L'arbitro escluso, l'Iran, le Falkland: negli Usa il Mondiale più politico",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/larbitro-escluso-liran-le-falkland-negli-usa-il-mondiale-piu-politico_f648d0d6-cca9-47b9-969c-a7183bb9faee.html",
+     "data": "2026-07-20T09:00:27+00:00"
+    },
+    {
+     "titolo": "Ministra sport, Zidane \"una manna per la nazionale francese\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/ministra-sport-zidane-una-manna-per-la-nazionale-francese_73600446-7463-48c3-bd69-3301fdc21916.html",
+     "data": "2026-07-20T08:35:43+00:00"
+    },
+    {
+     "titolo": "Mondiali: Nazionale sconfitta, ma in Argentina sarà festa nazionale",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-nazionale-sconfitta-ma-in-argentina-sara-festa-nazionale_1e8bcf4d-ce47-4b73-9a73-377273f6b0ea.html",
+     "data": "2026-07-20T08:34:08+00:00"
+    },
+    {
      "titolo": "Finals VNL uomini, nei quarti Italia-Stati Uniti",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/07/20/finals-vnl-uomini-nei-quarti-italia-stati-uniti_7721cec6-ff27-4d08-909f-3dbb75af45a6.html",
      "data": "2026-07-20T07:09:53+00:00"
@@ -444,46 +489,6 @@
      "titolo": "Mondiali: Scaloni, 'Spagna più brava di noi, provo gratitudine e tristezza'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-scaloni-spagna-piu-brava-di-noi-provo-gratitudine-e-tristezza_a5e83e6f-1490-4a30-86c0-d177e05a6801.html",
      "data": "2026-07-19T23:03:33+00:00"
-    },
-    {
-     "titolo": "Mondiali: de la Fuente, 'orgoglio per aver accompagnato questa generazione'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-de-la-fuente-orgoglio-per-aver-accompagnato-questa-generazione_20c991dd-d014-4552-b865-a753b03dee1e.html",
-     "data": "2026-07-19T22:57:55+00:00"
-    },
-    {
-     "titolo": "Mondiali: Messi in lacrime dopo la premiazione del secondo posto",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-messi-in-lacrime-dopo-la-premiazione-del-secondo-posto_20355751-b825-436d-a26e-980e173de460.html",
-     "data": "2026-07-19T22:42:39+00:00"
-    },
-    {
-     "titolo": "Mondiali: fischi per Trump e Infantino all'ingresso in campo",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-fischi-per-trump-e-infantino-allingresso-in-campo_af731cd7-9722-4b23-bdff-74c1ba3cabe3.html",
-     "data": "2026-07-19T22:37:47+00:00"
-    },
-    {
-     "titolo": "Mondiali: Mbappé scarpa d'oro, decisivi i due gol con l'Inghilterra",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-mbappe-scarpa-doro-decisivi-i-due-gol-con-linghilterra_aa19fea7-a224-4d77-a209-1d465371b347.html",
-     "data": "2026-07-19T22:21:25+00:00"
-    },
-    {
-     "titolo": "1-0 all'Argentina, la Spagna e' Campione del Mondo",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/1-0-allargentina-la-spagna-e-campione-del-mondo_8f1902f9-da6f-4fc2-8c7f-ec8c5647ffd1.html",
-     "data": "2026-07-19T22:03:25+00:00"
-    },
-    {
-     "titolo": "Finale Mondiali con halftime show come al Superbowl, e l'intervallo dura 27'20''",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/19/finale-mondiali-con-halftime-show-come-al-superbowl-e-lintervallo-dura-2720_f084824a-8378-40da-9274-3f6ad68f39eb.html",
-     "data": "2026-07-19T20:32:16+00:00"
-    },
-    {
-     "titolo": "Serie A: ufficiale, Oulai è un giocatore della Fiorentina",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/19/serie-a-ufficiale-oulai-e-un-giocatore-della-fiorentina_c6742a29-b5f8-49ec-85e9-2ab439349e1f.html",
-     "data": "2026-07-19T19:24:01+00:00"
-    },
-    {
-     "titolo": "Conte: 'Al ct azzurro serve progetto senza se e senza ma'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/19/conte-la-scelta-del-ct-senza-se-e-senza-ma-da-tutte-e-due-le-parti_626e4a1d-0812-4537-8cb6-a1049db70a6a.html",
-     "data": "2026-07-19T19:28:19+00:00"
     }
    ]
   }
