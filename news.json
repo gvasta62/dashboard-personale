@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-20T01:18:08.873059+00:00",
+ "aggiornato": "2026-07-20T04:57:10.635979+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Rubio, 'Iran usa Hormuz come una leva, altri Paesi devono fare di più'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/rubio-iran-usa-hormuz-come-una-leva-altri-paesi-devono_7ac10982-869c-4d13-87cf-e6b8f69948dc.html",
+     "data": "2026-07-20T02:30:04+00:00"
+    },
     {
      "titolo": "Trump, 'abbiamo colpito duramente l'Iran in onore dei soldati caduti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/trump-abbiamo-colpito-duramente-liran-in-onore-dei-soldati-caduti_a446c1d0-0945-4a8e-936a-de4c4a9fb1c2.html",
@@ -49,11 +54,6 @@
      "titolo": "Morto a Bologna, questura 'a disposizione dei pm filmati bodycam degli agenti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/morto-a-bologna-questura-a-disposizione-dei-pm-filmati-bodycam-degli-agenti_aadcbfa0-a687-4dc3-baec-7df4d31175d2.html",
      "data": "2026-07-19T18:01:20+00:00"
-    },
-    {
-     "titolo": "L'ufficio di Netanyahu a Mamdani, 'vuole distogliere attenzione dai suoi fallimenti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/lufficio-di-netanyahu-a-mamdani-vuole-distogliere-attenzione-dai-suoi-fallimenti_c1baced4-d2a6-442d-abaa-b814cf62f658.html",
-     "data": "2026-07-19T17:59:16+00:00"
     }
    ]
   },
@@ -266,6 +266,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Rubio, 'Iran usa Hormuz come una leva, altri Paesi devono fare di più'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/20/rubio-iran-usa-hormuz-come-una-leva-altri-paesi-devono_6a7a716c-4afa-401d-9562-ea2d17976bc2.html",
+     "data": "2026-07-20T02:30:07+00:00"
+    },
+    {
+     "titolo": "Rubio, 'Iran usa Hormuz come una leva, altri Paesi devono fare di più'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/rubio-iran-usa-hormuz-come-una-leva-altri-paesi-devono_5fbad98f-9355-4c69-872e-2c16721b2d4e.html",
+     "data": "2026-07-20T02:30:21+00:00"
+    },
+    {
      "titolo": "Trump, 'abbiamo colpito duramente l'Iran in onore dei soldati caduti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/20/trump-abbiamo-colpito-duramente-liran-in-onore-dei-soldati-caduti_fc1ac94a-04a6-44ec-9890-d5d55ae16998.html",
      "data": "2026-07-20T00:28:43+00:00"
@@ -314,16 +324,6 @@
      "titolo": "L'ufficio di Netanyahu a Mamdani, 'vuole distogliere attenzione dai suoi fallimenti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/lufficio-di-netanyahu-a-mamdani-vuole-distogliere-attenzione-dai-suoi-fallimenti_9d7b4016-f586-4c2e-babe-39ccee0b89a7.html",
      "data": "2026-07-19T17:59:19+00:00"
-    },
-    {
-     "titolo": "La sorte di Khamenei sempre più un mistero, 'non è in Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/la-sorte-di-khamenei-sempre-piu-un-mistero-non-e-in-iran_9673601e-3c76-40b0-bcad-1574a7f1ae2d.html",
-     "data": "2026-07-19T17:51:30+00:00"
-    },
-    {
-     "titolo": "Idf, 'monitoriamo gli sviluppi in Iran, pronti a riprendere i combattimenti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/idf-monitoriamo-gli-sviluppi-in-iran-pronti-a-riprendere-i-combattimenti_05e58780-c40b-4004-89ac-e750a4209a89.html",
-     "data": "2026-07-19T17:33:46+00:00"
     }
    ]
   },
