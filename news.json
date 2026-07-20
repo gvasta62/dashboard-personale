@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-20T18:46:52.672307+00:00",
+ "aggiornato": "2026-07-20T20:14:47.849167+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Idf, 'iniziato il programma Zona sicura con Centcom ed esercito Libano'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/idf-iniziato-il-programma-zona-sicura-con-centcom-ed-esercito-libano_6b20dba5-b0bf-4fc7-b3f8-a7d1b7a8ba61.html",
+     "data": "2026-07-20T19:54:51+00:00"
+    },
+    {
+     "titolo": "Lancio di bomba carta da manifestanti e carica della Polizia a Bologna",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/lancio-di-bomba-carta-da-manifestanti-e-carica-della-polizia-a-bologna_7af771fc-fd0b-41c8-9f97-4af357b735da.html",
+     "data": "2026-07-20T19:21:45+00:00"
+    },
+    {
+     "titolo": "Capigruppo maggioranza, pronto emendamento contro risarcimenti a criminali",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/capigruppo-maggioranza-pronto-emendamento-contro-risarcimenti-a-criminali_9cd3a0ce-e8d0-4d7b-9a68-eb4ec8acca94.html",
+     "data": "2026-07-20T18:55:21+00:00"
+    },
     {
      "titolo": "Trump, Netanyahu non sarà arrestato in nessuna circostanza negli Usa",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/trump-netanyahu-non-sara-arrestato-in-nessuna-circostanza-negli-usa_d7f6d254-35a2-4cb6-8bb6-2fa7ec9d74f5.html",
@@ -39,21 +54,6 @@
      "titolo": "Procura generale Torino, sequestro di 50mila euro a Roggero",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/procura-generale-torino-sequestro-di-50mila-euro-a-roggero_95b7586f-fe6c-4643-8ad4-2aaf0e9e07a9.html",
      "data": "2026-07-20T16:17:32+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude stabile a 82 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/lo-spread-tra-btp-e-bund-chiude-stabile-a-82-punti_1d603aa5-130e-4522-a7a7-5589885f00a0.html",
-     "data": "2026-07-20T16:08:58+00:00"
-    },
-    {
-     "titolo": "A Giffoni Antonino Bartuccio, il sindaco che denunciò la 'ndrangheta",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/a-giffoni-antonino-bartuccio-il-sindaco-che-denuncio-la-ndrangheta_11cf27e6-c4ae-464d-b887-29fcc924c27b.html",
-     "data": "2026-07-20T16:09:17+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude fiacca e guarda al Medio Oriente",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/borsa-leuropa-chiude-fiacca-e-guarda-al-medio-oriente_c5376e8f-5025-4bf7-bfea-60e6ec688b22.html",
-     "data": "2026-07-20T15:55:17+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Lancio di bomba carta da manifestanti e carica della Polizia a Bologna",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/lancio-di-bomba-carta-da-manifestanti-e-carica-della-polizia-a-bologna_992e101b-9f01-4699-8a5f-187d7b84ebba.html",
+     "data": "2026-07-20T19:21:44+00:00"
+    },
+    {
+     "titolo": "In sei coinvolti nella morte di Fakir, il pm applica lo 'scudo'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/in-sei-coinvolti-nella-morte-di-fakir-il-pm-applica-lo-scudo_667f2cb6-3f79-46b0-a3e1-b09a0467b0cf.html",
+     "data": "2026-07-20T20:06:47+00:00"
+    },
+    {
+     "titolo": "Il volto a terra, le urla, il silenzio, il film del dramma di Fakir",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/il-volto-a-terra-le-urla-il-silenzio-il-film-del-dramma-di-fakir_dabf289a-5eae-4b93-a575-a5cafaeeaf70.html",
+     "data": "2026-07-20T18:53:34+00:00"
+    },
+    {
      "titolo": "Processo a 2 maestre d'asilo per maltrattamenti, negata richiesta patteggiamento",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/processo-a-2-maestre-dasilo-per-maltrattamenti-negata-richiesta-patteggiamento_faaf3a29-4598-4af0-80cf-61eca5066e57.html",
      "data": "2026-07-20T18:31:03+00:00"
@@ -134,6 +149,11 @@
      "titolo": "Si ribalta con un mezzo agricolo, trovato morto a 57 anni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/si-ribalta-con-un-mezzo-agricolo-trovato-morto-a-57-anni_f2dc830a-1ac9-4a0e-bae5-9307855e39f5.html",
      "data": "2026-07-20T18:24:43+00:00"
+    },
+    {
+     "titolo": "Muore il titolare della ditta in cui perse la vita Luana D'Orazio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/muore-il-titolare-della-ditta-in-cui-perse-la-vita-luana-dorazio_afa31a48-2e81-4794-9309-a83fc5da183c.html",
+     "data": "2026-07-20T19:43:41+00:00"
     },
     {
      "titolo": "'Lavoratore, educato, negli ultimi tempi non sereno', chi era Fakir",
@@ -164,32 +184,17 @@
      "titolo": "Ucciso per le cuffiette, confermata la condanna a 27 anni per Daniele Rezza",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/ucciso-per-le-cuffiette-confermata-la-condanna-a-27-anni-per-daniele-rezza_b6edb46d-8448-4a0f-af37-09d2e5690fd6.html",
      "data": "2026-07-20T16:44:44+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-07-20T16:43:18+00:00"
-    },
-    {
-     "titolo": "Le adesca promettendo un tatuaggio e le violenta, condannato a 10 anni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/le-adesca-promettendo-un-tatuaggio-e-le-violenta-condannato-a-10-anni_d4facae4-aa88-4aff-830c-9aca4095ffa5.html",
-     "data": "2026-07-20T16:20:24+00:00"
-    },
-    {
-     "titolo": "Procura generale Torino, sequestro di 50mila euro a Roggero",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/procura-generale-torino-sequestro-di-50mila-euro-a-roggero_61f4e658-aa2a-4433-ba5a-ab95119a4651.html",
-     "data": "2026-07-20T16:17:27+00:00"
-    },
-    {
-     "titolo": "In sei coinvolti per la morte di Fakir, il pm applica lo scudo. La famiglia: 'Non indaghi la polizia'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/in-sei-coinvolti-per-la-morte-di-fakir-il-pm-applica-lo-scudo.-la-famiglia-non-indaghi_667f2cb6-3f79-46b0-a3e1-b09a0467b0cf.html",
-     "data": "2026-07-20T18:35:00+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Capigruppo maggioranza, pronto emendamento contro risarcimenti a criminali",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/capigruppo-maggioranza-pronto-emendamento-contro-risarcimenti-a-criminali_3ed9bd68-b449-49eb-9a89-041c6c405754.html",
+     "data": "2026-07-20T18:55:25+00:00"
+    },
     {
      "titolo": "La legge elettorale al via in commissione al Senato, la maggioranza per ora non corre",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/la-legge-elettorale-al-via-in-commissione-al-senato-la-maggioranza-per-ora-non-corre_9324394e-bb3e-41a6-8e44-8a267c6756db.html",
@@ -244,11 +249,6 @@
      "titolo": "Meloni, rilanciamo la cooperazione bilaterale con il Portogallo",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/meloni-rilanciamo-la-cooperazione-bilaterale-con-il-portogallo_881ec044-ef5d-4b00-9fe5-3779c2ca9936.html",
      "data": "2026-07-20T12:47:36+00:00"
-    },
-    {
-     "titolo": "Morto a Bologna: Zuppi,ora non strumentalizzare per nessuna ragione",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/morto-a-bologna-zuppiora-non-strumentalizzare-per-nessuna-ragione_bec0847f-a5ad-40e6-a7ab-ec6efce40081.html",
-     "data": "2026-07-20T12:10:47+00:00"
     }
    ]
   },
@@ -321,14 +321,44 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Venezuela, servono oltre 3.400 salari per acquistare il paniere alimentare di base",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/venezuela-servono-oltre-3.400-salari-per-acquistare-il-paniere-alimentare-di-base_e114d2b3-ddfa-4615-8d1a-9493d51f891e.html",
+     "data": "2026-07-20T20:02:52+00:00"
+    },
+    {
+     "titolo": "Idf, 'iniziato il programma Zona sicura con Centcom ed esercito Libano'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/idf-iniziato-il-programma-zona-sicura-con-centcom-ed-esercito-libano_2b1cafd5-c465-4db6-8830-39de6100ddc4.html",
+     "data": "2026-07-20T19:55:07+00:00"
+    },
+    {
+     "titolo": "Esportazioni record nel primo semestre per l'Argentina, +24,4% su anno",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/esportazioni-record-nel-primo-semestre-per-largentina-244-su-anno_e37281b6-afe8-47ec-b63f-fbfb9d29f5ca.html",
+     "data": "2026-07-20T19:50:41+00:00"
+    },
+    {
+     "titolo": "Messico, ergastolo a 'El Mayo' Zambada, il fondatore del cartello di Sinaloa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/messico-ergastolo-a-el-mayo-zambada-il-fondatore-del-cartello-di-sinaloa_50f34b03-70ec-4780-ba97-a9ebd4566782.html",
+     "data": "2026-07-20T19:22:20+00:00"
+    },
+    {
+     "titolo": "Rapporto ong, 97 reclute morte a Cuba dal 2001 durante il servizio militare",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/rapporto-ong-97-reclute-morte-a-cuba-dal-2001-durante-il-servizio-militare_88c8d2f3-e518-41c9-9eaf-a88e63d54838.html",
+     "data": "2026-07-20T19:18:01+00:00"
+    },
+    {
+     "titolo": "Tante donne e volti nuovi nel 'governo ecumenico' di Andy",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/20/tante-donne-e-volti-nuovi-nel-governo-ecumenico-di-andy_c977ec62-a1d1-43cd-b791-d180a189c6c7.html",
+     "data": "2026-07-20T18:49:58+00:00"
+    },
+    {
      "titolo": "Verso l'inizio del ritiro delle truppe israeliane dal Libano",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/verso-linizio-del-ritiro-delle-truppe-israeliane-dal-libano_e79c5e70-1bed-4519-8910-424948f0efce.html",
-     "data": "2026-07-20T17:45:28+00:00"
+     "data": "2026-07-20T19:53:41+00:00"
     },
     {
      "titolo": "Sale la tensione nel Golfo, embargo Houthi contro Riad",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/sale-la-tensione-nel-golfo-embargo-houthi-contro-riad_e09047c1-1941-4338-aad2-90e41f1fa9e3.html",
-     "data": "2026-07-20T18:42:07+00:00"
+     "data": "2026-07-20T20:02:39+00:00"
     },
     {
      "titolo": "Trump, Netanyahu non sarà arrestato in nessuna circostanza negli Usa",
@@ -349,36 +379,6 @@
      "titolo": "Medio Oriente, 17 soldati Usa morti nella guerra con l'Iran. Trump: Teheran pagherà caro",
      "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/20/medio-oriente-17-soldati-americani-morti-nella-guerra-contro-liran_7139a2c2-c2fa-412d-a3c3-3d373ef99703.html",
      "data": "2026-07-20T18:00:33+00:00"
-    },
-    {
-     "titolo": "Inondazioni in Afghanistan, '20 morti e oltre 100 dispersi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/20/inondazioni-in-afghanistan-20-morti-e-oltre-100-dispersi_55ccf043-4f3d-4d6d-a268-a0e2515fc4b7.html",
-     "data": "2026-07-20T16:52:50+00:00"
-    },
-    {
-     "titolo": "Inondazioni in Afghanistan, almeno 20 morti e oltre 100 dispersi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/20/inondazioni-in-afghanistan-almeno-20-morti-e-oltre-100-dispersi_1705ba1a-5127-40ba-98e4-c87366a9e371.html",
-     "data": "2026-07-20T16:47:40+00:00"
-    },
-    {
-     "titolo": "Emergenza maltempo in Cile, bilancio sale a 5 vittime e 4 dispersi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/emergenza-maltempo-in-cile-bilancio-sale-a-5-vittime-e-4-dispersi_0258c520-851d-491f-988d-bbdea875e375.html",
-     "data": "2026-07-20T16:39:32+00:00"
-    },
-    {
-     "titolo": "Hayya nuovo leader di Hamas, primo erede ufficiale di Sinwar",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/hayya-nuovo-leader-di-hamas-primo-erede-ufficiale-di-sinwar_67113bd6-e022-4a88-97ff-13617f93eabe.html",
-     "data": "2026-07-20T16:40:08+00:00"
-    },
-    {
-     "titolo": "Lancia dispositivo esplosivo contro sede Fbi a Ny, un fermato",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/20/lancia-dispositivo-esplosivo-contro-sede-fbi-a-ny-un-fermato_dba2ff52-9bda-451e-a06a-ee0f6398de1a.html",
-     "data": "2026-07-20T13:55:16+00:00"
-    },
-    {
-     "titolo": "Tajani, Mosca ha espulso addetto militare italiano e collaboratore senza motivo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/20/tajani-mosca-ha-espulso-addetto-militare-italiano-e-collaboratore-senza-motivo_e80e3db1-05e2-41bc-a79a-0dbefcc1e6de.html",
-     "data": "2026-07-20T13:51:50+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Mondiali: Inaki Williams, Nico rende orgogliosi milioni di immigrati come mamma e papà",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-inaki-williams-nico-rende-orgogliosi-milioni-di-immigrati-come-mamma_fcfd6cc1-ce9f-4501-a6e4-044aed7cc851.html",
+     "data": "2026-07-20T19:36:41+00:00"
+    },
+    {
+     "titolo": "Mondiali: Lautaro 'orgoglioso, mi sarebbe piaciuto poter aiutare in campo'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-lautaro-orgoglioso-mi-sarebbe-piaciuto-poter-aiutare-in-campo_813321cd-0af2-4c73-8162-cd9f3a03e943.html",
+     "data": "2026-07-20T19:03:42+00:00"
+    },
+    {
      "titolo": "Gattuso 'Lazio con spirito e voglia, avanti su questa strada",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/gattuso-lazio-con-spirito-e-voglia-avanti-su-questa-strada_aeecbe65-1312-48c7-898b-70ef5faa0dc7.html",
      "data": "2026-07-20T18:38:47+00:00"
@@ -499,16 +509,6 @@
      "titolo": "L'Italia attende il ct, Maldini-Leonardo in missione per Guardiola",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/07/20/litalia-attende-il-ct-maldini-leonardo-in-missione-per-guardiola_9e731ae8-6a03-4aa8-b5f3-7a664051abb1.html",
      "data": "2026-07-20T17:42:54+00:00"
-    },
-    {
-     "titolo": "'Becoming Her: Prima di diventare grandi', quando nasce una calciatrice",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/becoming-her-prima-di-diventare-grandi-quando-nasce-una-calciatrice_2f0ad64a-503f-4909-89f6-fd6382967c99.html",
-     "data": "2026-07-20T17:00:47+00:00"
-    },
-    {
-     "titolo": "Trump 'Mondiali un successo spettacolare, da Infantino ottimo lavoro'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/trump-mondiali-un-successo-spettacolare-da-infantino-ottimo-lavoro_b710f7f4-6c63-44ce-a02f-989100f68c78.html",
-     "data": "2026-07-20T16:48:40+00:00"
     }
    ]
   }
