@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-19T23:43:14.856186+00:00",
+ "aggiornato": "2026-07-20T01:18:08.873059+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, 'abbiamo colpito duramente l'Iran in onore dei soldati caduti'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/trump-abbiamo-colpito-duramente-liran-in-onore-dei-soldati-caduti_a446c1d0-0945-4a8e-936a-de4c4a9fb1c2.html",
+     "data": "2026-07-20T00:28:26+00:00"
+    },
     {
      "titolo": "Usa, lanciata una nuova ondata di attacchi contro l'Iran",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/usa-lanciata-una-nuovo-ondata-di-attacchi-contro-liran_a3e816d3-914b-4f6c-886a-5c7c5c16fc12.html",
@@ -49,11 +54,6 @@
      "titolo": "L'ufficio di Netanyahu a Mamdani, 'vuole distogliere attenzione dai suoi fallimenti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/lufficio-di-netanyahu-a-mamdani-vuole-distogliere-attenzione-dai-suoi-fallimenti_c1baced4-d2a6-442d-abaa-b814cf62f658.html",
      "data": "2026-07-19T17:59:16+00:00"
-    },
-    {
-     "titolo": "Idf, 'monitoriamo gli sviluppi in Iran, pronti a riprendere i combattimenti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/19/idf-monitoriamo-gli-sviluppi-in-iran-pronti-a-riprendere-i-combattimenti_e09451a8-3e94-4640-ab4c-d0d80854e459.html",
-     "data": "2026-07-19T17:33:34+00:00"
     }
    ]
   },
@@ -266,9 +266,19 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump, 'abbiamo colpito duramente l'Iran in onore dei soldati caduti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/20/trump-abbiamo-colpito-duramente-liran-in-onore-dei-soldati-caduti_fc1ac94a-04a6-44ec-9890-d5d55ae16998.html",
+     "data": "2026-07-20T00:28:43+00:00"
+    },
+    {
+     "titolo": "Mondiali: Sheinbaum da New York elogia i Paesi organizzatori e la Spagna",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/mondiali-sheinbaum-da-new-york-elogia-i-paesi-organizzatori-e-la-spagna_4eead661-4e90-41b1-986f-efa661e5e482.html",
+     "data": "2026-07-20T00:22:17+00:00"
+    },
+    {
      "titolo": "Usa, lanciata una nuovo ondata di attacchi contro l'Iran",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/usa-lanciata-una-nuovo-ondata-di-attacchi-contro-liran_ab9cf219-ad5e-46cf-bcd7-f1610e424da5.html",
-     "data": "2026-07-19T23:22:19+00:00"
+     "data": "2026-07-20T01:06:29+00:00"
     },
     {
      "titolo": "Il premier ungherese propone la leggenda degli scacchi Polgàr come presidente",
@@ -314,16 +324,6 @@
      "titolo": "Idf, 'monitoriamo gli sviluppi in Iran, pronti a riprendere i combattimenti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/19/idf-monitoriamo-gli-sviluppi-in-iran-pronti-a-riprendere-i-combattimenti_05e58780-c40b-4004-89ac-e750a4209a89.html",
      "data": "2026-07-19T17:33:46+00:00"
-    },
-    {
-     "titolo": "Kiev, 20 morti e almeno 142 feriti in attacchi russi nelle ultime 24 ore",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/19/kiev-20-morti-e-almeno-142-feriti-in-attacchi-russi-nelle-ultime-24-ore_b28b5850-dcaa-437a-b78b-dcbee20b7715.html",
-     "data": "2026-07-19T16:09:20+00:00"
-    },
-    {
-     "titolo": "Egitto ed Eritrea, sicurezza del mar Rosso spetta solo agli Stati costieri",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/19/egitto-ed-eritrea-sicurezza-del-mar-rosso-spetta-solo-agli-stati_cacada68-bd50-4971-8a7b-76850bb119eb.html",
-     "data": "2026-07-19T15:38:29+00:00"
     }
    ]
   },
