@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-20T21:37:21.753901+00:00",
+ "aggiornato": "2026-07-20T22:43:21.107615+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, 'ottima conversazione con il nuovo premier britannico Burnham'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/trump-ottima-conversazione-con-il-nuovo-premier-britannico-burnham_3cc5d6be-1c3c-4144-a13b-5fa6efb5d354.html",
+     "data": "2026-07-20T22:35:08+00:00"
+    },
     {
      "titolo": "Casa Bianca, dazi addizionali del 50%' su alcuni beni importati dal Canada",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/casa-bianca-dazi-addizionali-del-50-su-alcuni-beni-importati-dal-canada_6b03e6d0-ce73-4575-bdcb-58b633c527e3.html",
@@ -49,11 +54,6 @@
      "titolo": "Trump, 'Iran pagherà a caro prezzo le uccisioni dei soldati Usa, ho dato ordini'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/trump-iran-paghera-a-caro-prezzo-le-uccisioni-dei-soldati-usa-ho-dato_81de679b-58ad-43ec-9ef1-039fb0de0cd9.html",
      "data": "2026-07-20T16:58:47+00:00"
-    },
-    {
-     "titolo": "Romeo, se La Russa sceglie su Milano, alla Lega la Regione Lombardia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/romeo-se-la-russa-sceglie-su-milano-alla-lega-la-regione-lombardia_92f886ab-859d-44b0-8c7d-acd708be5c71.html",
-     "data": "2026-07-20T16:54:08+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump, 'ottima conversazione con il nuovo premier britannico Burnham'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/trump-ottima-conversazione-con-il-nuovo-premier-britannico-burnham_c3f32dcc-c3dc-428f-afdf-b325b8c9ad2f.html",
+     "data": "2026-07-20T22:35:10+00:00"
+    },
+    {
+     "titolo": "Mondiali: la Selección rientra a Buenos Aires accolta dall'abbraccio dei tifosi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/mondiali-la-seleccion-rientra-a-buenos-aires-accolta-dallabbraccio-dei-tifosi_73a41271-d893-47af-9f1d-eb089637c015.html",
+     "data": "2026-07-20T22:02:33+00:00"
+    },
+    {
      "titolo": "Casa Bianca, dazi addizionali del 50%' su alcuni beni importati dal Canada",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/20/casa-bianca-dazi-addizionali-del-50-su-alcuni-beni-importati-dal-canada_9a04e29c-5dbc-40e2-9e7a-24a76c124c0d.html",
      "data": "2026-07-20T21:24:09+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Verso l'inizio del ritiro delle truppe israeliane dal Libano",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/verso-linizio-del-ritiro-delle-truppe-israeliane-dal-libano_e79c5e70-1bed-4519-8910-424948f0efce.html",
      "data": "2026-07-20T19:53:41+00:00"
-    },
-    {
-     "titolo": "Sale la tensione nel Golfo, embargo Houthi contro Riad",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/sale-la-tensione-nel-golfo-embargo-houthi-contro-riad_e09047c1-1941-4338-aad2-90e41f1fa9e3.html",
-     "data": "2026-07-20T20:02:39+00:00"
-    },
-    {
-     "titolo": "Trump, Netanyahu non sarà arrestato in nessuna circostanza negli Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/20/trump-netanyahu-non-sara-arrestato-in-nessuna-circostanza-negli-usa_ce6d0b29-6ea9-4942-a98c-317dc8b63f9b.html",
-     "data": "2026-07-20T17:07:59+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Mondiali: la Selección rientra a Buenos Aires accolta dall'abbraccio dei tifosi",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/mondiali-la-seleccion-rientra-a-buenos-aires-accolta-dallabbraccio-dei-tifosi_74b2f129-2be8-4817-a475-2a1fba5d93e5.html",
+     "data": "2026-07-20T22:02:37+00:00"
+    },
+    {
      "titolo": "Mondiali: festa Spagna, due milioni in strada a Madrid",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-festa-spagna-due-milioni-in-strada-a-madrid_ff7d9ad7-1f27-4ef1-b44c-ff82f250a1c2.html",
      "data": "2026-07-20T21:35:22+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Mondiali: Messi 'il dolore è forte, ma è immenso l'orgoglio argentino'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-messi-il-dolore-e-forte-ma-e-immenso-lorgoglio-argentino_84bef2c0-a589-4f30-8e7b-49bcb1dcc54b.html",
      "data": "2026-07-20T17:51:06+00:00"
-    },
-    {
-     "titolo": "Inzaghi vuole Bastoni all'Hilal, la Juve insiste per Martinez",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/inzaghi-vuole-bastoni-allhilal-la-juve-insiste-per-martinez_d7cb4a04-d8d9-4f2f-8329-d6152ec2cef5.html",
-     "data": "2026-07-20T17:56:21+00:00"
     }
    ]
   }
