@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-07-21T07:24:45.036817+00:00",
+ "aggiornato": "2026-07-21T09:56:29.005477+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Meloni, a Bologna fatto inaccettabile, accertare la verità con rigore",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/meloni-a-bologna-fatto-inaccettabile-accertare-la-verita-con-rigore_d63a99e0-0caf-40c2-8256-01228402fa9e.html",
+     "data": "2026-07-21T09:40:51+00:00"
+    },
+    {
+     "titolo": "Terna, domanda elettricità giugno al top da 10 anni, pesa il caldo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/terna-domanda-elettricita-giugno-al-top-da-10-anni-pesa-il-caldo_ccb1f004-1b3d-421a-8f8d-749fb1cd9a4c.html",
+     "data": "2026-07-21T09:39:59+00:00"
+    },
+    {
+     "titolo": "Guerriglia a Bologna fino a notte, incendiata anche un'auto del Comune",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/guerriglia-a-bologna-fino-a-notte-incendiata-anche-unauto-del-comune_510b9954-73c2-4573-a27d-d69b6d6fe54d.html",
+     "data": "2026-07-21T07:47:46+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano prosegue in rialzo, in luce Prysmian e Leonardo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/borsa-milano-prosegue-in-rialzo-in-luce-prysmian-e-leonardo_cee21b8f-381f-464d-80b8-9d496d3f631c.html",
+     "data": "2026-07-21T07:43:15+00:00"
+    },
     {
      "titolo": "Borsa: l'Europa apre in rialzo tra Medio Oriente e Ia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/borsa-leuropa-apre-in-rialzo-tra-medio-oriente-e-ia_7d91097d-bcc4-44a2-8f10-f8d0ee93fc09.html",
@@ -34,26 +54,6 @@
      "titolo": "Pasdaran, 'abbiamo distrutto un data center di Amazon in Bahrein'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/pasdaran-abbiamo-distrutto-un-data-center-di-amazon-in-bahrein_3df1e286-a5b6-495b-8184-02fb9eb35dbf.html",
      "data": "2026-07-21T06:23:57+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas apre in calo a 57,75 euro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/il-prezzo-del-gas-apre-in-calo-a-5775-euro_e4206beb-3578-4b58-99ee-639b7542df32.html",
-     "data": "2026-07-21T06:11:08+00:00"
-    },
-    {
-     "titolo": "Fmi, via libera a 690 milioni di dollari per l'Ucraina",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/fmi-via-libera-a-690-milioni-di-dollari-per-lucraina_eb88bc0e-3acb-4767-890c-897656c3d181.html",
-     "data": "2026-07-21T03:58:17+00:00"
-    },
-    {
-     "titolo": "Fmi, via libera a 690 milioni di dollari per l'Ucraina",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/fmi-via-libera-a-690-milioni-di-dollari-per-lucraina_bf0d3cc9-7fb3-493a-ada9-7430b9921aeb.html",
-     "data": "2026-07-21T03:57:12+00:00"
-    },
-    {
-     "titolo": "Carney, 'pronti a intensificare le discussioni sui nuovi dazi di Trump'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/carney-pronti-a-intensificare-le-discussioni-sui-nuovi-dazi-di-trump_78285235-3c24-4c64-9af6-8c4e5c93fb69.html",
-     "data": "2026-07-21T00:29:58+00:00"
     }
    ]
   },
@@ -126,6 +126,46 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Meloni: 'A Bologna fatto inaccettabile, accertare la verità con rigore'. In città guerriglia fino a notte",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/meloni-a-bologna-fatto-inaccettabile-accertare-la-verita-con-rigore.-in-citta-guerriglia_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
+     "data": "2026-07-21T09:46:13+00:00"
+    },
+    {
+     "titolo": "Cartello fuori da gioielleria di Roggero avvisa: 'nessuna dichiarazione'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/cartello-fuori-da-gioielleria-di-roggero-avvisa-nessuna-dichiarazione_fe07d977-35cb-415b-be87-8509f3ea40d2.html",
+     "data": "2026-07-21T09:45:56+00:00"
+    },
+    {
+     "titolo": "Anomalie su una confisca di denaro, indagini su dipendente dell'ufficio Gip di Milano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/anomalie-su-una-confisca-di-denaro-indagini-su-dipendente-dellufficio-gip-di-milano_9fdefd80-7c3d-44ee-8d6f-8cc5ab5c6aa8.html",
+     "data": "2026-07-21T09:38:58+00:00"
+    },
+    {
+     "titolo": "Precipita da una terrazza, muore a Roma l'attore Pippo di Marca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/precipita-da-una-terrazza-muore-a-roma-lattore-pippo-di-marca_fb387749-7405-4ac6-8ba9-32b95272e70b.html",
+     "data": "2026-07-21T09:08:40+00:00"
+    },
+    {
+     "titolo": "Riaperta la gioielleria di Mario Roggero",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/riaperta-la-gioielleria-di-mario-roggero_b8c78b1b-c0be-45a4-bcdf-3090f3bd6d18.html",
+     "data": "2026-07-21T08:40:45+00:00"
+    },
+    {
+     "titolo": "Travolto mentre lavora sui binari, indagate tre persone per omicidio colposo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/travolto-mentre-lavora-sui-binari-indagate-tre-persone-per-omicidio_0353af50-d5ee-4626-8ce5-1d7ffea704d8.html",
+     "data": "2026-07-21T08:32:54+00:00"
+    },
+    {
+     "titolo": "Risucchiata dal bocchettone della piscina, bimba salvata nel Trevigiano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/risucchiata-dal-bocchettone-della-piscina-bimba-salvata-nel-trevigiano_2651e236-3563-4521-bbd7-11b77ba6f823.html",
+     "data": "2026-07-21T08:28:46+00:00"
+    },
+    {
+     "titolo": "Gdf e Adm sequestrano oltre 770 kg di cocaina nel porto di Vado Ligure",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/gdf-e-adm-sequestrano-oltre-770-kg-di-cocaina-nel-porto-di-vado-ligure_eadad50d-ce75-4701-8d0a-3ea38098058c.html",
+     "data": "2026-07-21T07:37:27+00:00"
+    },
+    {
      "titolo": "La piazza si infiamma a Bologna, scontri tra manifestanti e agenti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/la-piazza-si-infiamma-a-bologna-scontri-tra-manifestanti-e-agenti_8194e073-2643-4249-8a13-656b522b755c.html",
      "data": "2026-07-20T21:01:38+00:00"
@@ -144,52 +184,17 @@
      "titolo": "Il volto a terra, le urla, il silenzio, il film del dramma di Fakir",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/il-volto-a-terra-le-urla-il-silenzio-il-film-del-dramma-di-fakir_dabf289a-5eae-4b93-a575-a5cafaeeaf70.html",
      "data": "2026-07-20T18:53:34+00:00"
-    },
-    {
-     "titolo": "Processo a 2 maestre d'asilo per maltrattamenti, negata richiesta patteggiamento",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/processo-a-2-maestre-dasilo-per-maltrattamenti-negata-richiesta-patteggiamento_faaf3a29-4598-4af0-80cf-61eca5066e57.html",
-     "data": "2026-07-20T18:31:03+00:00"
-    },
-    {
-     "titolo": "Si ribalta con un mezzo agricolo, trovato morto a 57 anni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/si-ribalta-con-un-mezzo-agricolo-trovato-morto-a-57-anni_f2dc830a-1ac9-4a0e-bae5-9307855e39f5.html",
-     "data": "2026-07-20T18:24:43+00:00"
-    },
-    {
-     "titolo": "Muore il titolare della ditta in cui perse la vita Luana D'Orazio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/muore-il-titolare-della-ditta-in-cui-perse-la-vita-luana-dorazio_afa31a48-2e81-4794-9309-a83fc5da183c.html",
-     "data": "2026-07-20T19:43:41+00:00"
-    },
-    {
-     "titolo": "'Lavoratore, educato, negli ultimi tempi non sereno', chi era Fakir",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/-lavoratore-educato-negli-ultimi-tempi-non-sereno-chi-era-fakir_7efed13e-740c-49bc-8ee8-38e5ef8e6ba9.html",
-     "data": "2026-07-20T18:19:25+00:00"
-    },
-    {
-     "titolo": "Fondi ad Hamas, Hannoun scrive ai giudici 'beneficenza non è terrorismo'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/fondi-ad-hamas-hannoun-scrive-ai-giudici-beneficenza-non-e-terrorismo_2f474e07-8e28-4791-a840-997c8a047e87.html",
-     "data": "2026-07-20T17:23:39+00:00"
-    },
-    {
-     "titolo": "Camionista suicida per angherie e turni massacranti, due condanne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/camionista-suicida-per-angherie-e-turni-massacranti-due-condanne_8ec150bc-f349-4608-a3fe-020f2690ba88.html",
-     "data": "2026-07-20T17:06:03+00:00"
-    },
-    {
-     "titolo": "Legale famiglia Fakir, non sia polizia a fare indagini, lo dice la Cedu",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/legale-famiglia-fakir-non-sia-polizia-a-fare-indagini-lo-dice-la-cedu_048983c5-8e22-45ff-bd8e-0d8c090ac6ba.html",
-     "data": "2026-07-20T17:04:15+00:00"
-    },
-    {
-     "titolo": "Giornalista ucciso nel Salernitano, attesa l'autopsia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/giornalista-ucciso-nel-salernitano-attesa-lautopsia_4fd507d6-5678-4b77-9f9f-9fba092c9ad1.html",
-     "data": "2026-07-20T16:58:09+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Meloni, a Bologna fatto inaccettabile, accertare la verità con rigore",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/21/meloni-a-bologna-fatto-inaccettabile-accertare-la-verita-con-rigore_ca31363c-b4b2-475c-b074-fea9e834aca2.html",
+     "data": "2026-07-21T09:40:46+00:00"
+    },
     {
      "titolo": "È morto Daniele Compatangelo, corrispondente La7 a Washington",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/e-morto-daniele-compatangelo-corrispondente-la7-a-washington_b571a845-f8ee-4d17-8f14-97dfcb03b129.html",
@@ -244,11 +249,6 @@
      "titolo": "In un video fatto con l'Ia Vannacci vestito da imperatore ordina la morte dei nemici politici",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/in-video-vannacci-vestito-da-imperatore-ordina-la-morte-dei-nemici-politici_d4398c4a-a07d-4a2f-8d5e-16ff1b488db9.html",
      "data": "2026-07-20T18:12:36+00:00"
-    },
-    {
-     "titolo": "Meloni, il Portogallo acquista tre fregate costruite da Fincantieri",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/meloni-il-portogallo-acquista-tre-fregate-costruite-da-fincantieri_86e46241-4ea6-42f4-8d26-c560d7e17141.html",
-     "data": "2026-07-20T13:05:29+00:00"
     }
    ]
   },
@@ -256,70 +256,75 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Borsa: l'Europa apre in rialzo tra Medio Oriente e Ia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/borsa-leuropa-apre-in-rialzo-tra-medio-oriente-e-ia_a5fc1e0e-3762-4bf8-91c6-c6e58a504346.html",
-     "data": "2026-07-21T07:20:06+00:00"
+     "titolo": "Terna, domanda elettricità giugno al top da 10 anni, pesa il caldo",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/terna-domanda-elettricita-giugno-al-top-da-10-anni-pesa-il-caldo_9f50fada-c881-4791-bba9-8ce73929c9e2.html",
+     "data": "2026-07-21T09:41:36+00:00"
     },
     {
-     "titolo": "Borsa: Milano apre in rialzo dello 0,37%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/borsa-milano-apre-in-rialzo-dello-037_9a163cd3-29be-42c7-a1ba-758d02d0b3cd.html",
-     "data": "2026-07-21T07:17:45+00:00"
+     "titolo": "Eurozona, nel I trimestre deficit/Pil in leggero calo, aumenta il debito",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/eurozona-nel-i-trimestre-deficitpil-in-leggero-calo-aumenta-il-debito_bfa6ee76-31cb-49ad-95bc-9613236f3cff.html",
+     "data": "2026-07-21T09:33:17+00:00"
     },
     {
-     "titolo": "Borsa: l'Asia chiude in rialzo, si guarda agli investimenti per l'Ia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/borsa-lasia-chiude-in-rialzo-si-guarda-agli-investimenti-per-lia_629a2b16-85ef-419d-b4eb-3666d9052df9.html",
-     "data": "2026-07-21T06:55:27+00:00"
+     "titolo": "Acri, nel 2025 più dividendi da banche, erogazioni al massimo da 17 anni",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/acri-nel-2025-piu-dividendi-da-banche-erogazioni-al-massimo-da-17-anni_d2917050-9145-43d1-bab1-ec93b2edd018.html",
+     "data": "2026-07-21T09:32:39+00:00"
     },
     {
-     "titolo": "Lo spread tra Btp e Bund apre in lieve calo a 81 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/lo-spread-tra-btp-e-bund-apre-in-lieve-calo-a-81-punti_39eea76c-1966-4983-b1c7-61d5f8b7d5c8.html",
-     "data": "2026-07-21T06:34:28+00:00"
+     "titolo": "Folgiero nominato nel board della Scuola Politica 'Vivere nella Comunità'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/folgiero-nominato-nel-board-della-scuola-politica-vivere-nella-comunita_b6234959-62ae-4659-b075-6f14a7684998.html",
+     "data": "2026-07-21T08:58:29+00:00"
     },
     {
-     "titolo": "Prezzo oro in aumento, Spot scambiato a 4.071 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/prezzo-oro-in-aumento-spot-scambiato-a-4.071-dollari_48d55bd3-e85a-4178-8ca7-20ad0d17f354.html",
-     "data": "2026-07-21T06:32:22+00:00"
+     "titolo": "Borsa di Londra punta ad apertura non stop dal prossimo anno",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/borsa-di-londra-punta-ad-apertura-non-stop-dal-prossimo-anno_74b19256-c5fb-4c2c-831f-a158205035cf.html",
+     "data": "2026-07-21T08:39:54+00:00"
     },
     {
-     "titolo": "Swatch batte le stime, nel semestre ricavi a 3,37 miliardi di euro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/swatch-batte-le-stime-nel-semestre-ricavi-a-337-miliardi-di-euro_b6f8d6a1-1ba0-4113-8e0c-4955612eda4c.html",
-     "data": "2026-07-21T06:38:09+00:00"
+     "titolo": "Borsa: l'Europa positiva con il petrolio in calo, lente sul Medio Oriente",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/borsa-leuropa-positiva-con-il-petrolio-in-calo-lente-sul-medio-oriente_9ab3bad6-24eb-429e-bb06-14d21be4c91f.html",
+     "data": "2026-07-21T08:38:00+00:00"
     },
     {
-     "titolo": "Euro poco mosso, scambiato a 1,1418 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/euro-poco-mosso-scambiato-a-11418-dollari_f63b64b5-1772-41af-8249-f63c5b56ed68.html",
-     "data": "2026-07-21T06:10:53+00:00"
+     "titolo": "Bce, le banche stringono sul credito, pesano i rischi geopolitici",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/bce-le-banche-stringono-sul-credito-pesano-i-rischi-geopolitici_b8dbbbd3-b3f5-4648-b7b4-1f34bd639b5a.html",
+     "data": "2026-07-21T09:33:10+00:00"
     },
     {
-     "titolo": "Il prezzo del gas apre in calo a 57,75 euro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/il-prezzo-del-gas-apre-in-calo-a-5775-euro_e15fd776-43a6-46bb-a905-6828e8994b6c.html",
-     "data": "2026-07-21T06:11:24+00:00"
+     "titolo": "illycaffè, accordo con sindacati per Premio di risultato",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/illycaffe-accordo-con-sindacati-per-premio-di-risultato_f850ed63-63b2-4bb8-a751-0a5d0ca1fc04.html",
+     "data": "2026-07-21T09:33:25+00:00"
     },
     {
-     "titolo": "Prezzo petrolio in calo, Wti scambiato a 82,84 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/prezzo-petrolio-in-calo-wti-scambiato-a-8284-dollari_d1d1e792-46e0-4f3b-a7b6-6a6caa0601b4.html",
-     "data": "2026-07-21T06:38:25+00:00"
+     "titolo": "Gme, il prezzo dell'elettricità sale a 161,23 euro al MWh",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/gme-il-prezzo-dellelettricita-sale-a-16123-euro-al-mwh_e6523341-3104-45ca-a019-dc30d54470a6.html",
+     "data": "2026-07-21T09:33:33+00:00"
     },
     {
-     "titolo": "Il prezzo del gas chiude in rialzo a 58,36 euro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/20/il-prezzo-del-gas-chiude-in-rialzo-a-5836-euro_6b07f01f-c84a-40ef-9c06-cd8e8cbbd8b5.html",
-     "data": "2026-07-20T16:40:29+00:00"
+     "titolo": "Acri, nel 2025 più dividendi da banche, erogazioni al massimo da 17 anni",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/acri-nel-2025-piu-dividendi-da-banche-erogazioni-al-massimo-da-17-anni_b544d21c-b834-4c73-9483-03394f94cf85.html",
+     "data": "2026-07-21T08:04:53+00:00"
     },
     {
-     "titolo": "Borsa: Milano chiude fiacca con l'Europa, giù Avio e Tim",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/20/borsa-milano-chiude-fiacca-con-leuropa-giu-avio-e-tim_df73a17f-ab1e-4257-9fd0-d497c7eb42d2.html",
-     "data": "2026-07-20T16:29:57+00:00"
+     "titolo": "Borsa: Milano prosegue in rialzo, in luce Prysmian e Leonardo",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/borsa-milano-prosegue-in-rialzo-in-luce-prysmian-e-leonardo_88a56136-5f23-43bb-bb1b-8cf761c3f649.html",
+     "data": "2026-07-21T07:42:59+00:00"
     },
     {
-     "titolo": "Lo spread tra Btp e Bund chiude stabile a 82 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/20/lo-spread-tra-btp-e-bund-chiude-stabile-a-82-punti_dfc58bb4-112f-4454-af8f-3ffe6711c297.html",
-     "data": "2026-07-20T16:09:01+00:00"
+     "titolo": "Mimit, prezzi carburanti in aumento, benzina self a 1,942 euro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/mimit-prezzi-carburanti-in-aumento-benzina-self-a-1942-euro_19406169-de3b-47b3-ae3b-8182f2826d31.html",
+     "data": "2026-07-21T09:35:19+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Bolivia, 'essenziale un accordo con il Fmi per uscire dalla crisi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/bolivia-essenziale-un-accordo-con-il-fmi-per-uscire-dalla-crisi_14faebc4-7be6-4055-8bf4-c0c6441058e7.html",
+     "data": "2026-07-21T07:39:27+00:00"
+    },
     {
      "titolo": "Esercito libanese si schiera nelle 'zone pilota' del ritiro Idf nel sud",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/21/esercito-libanese-si-schiera-nelle-zone-pilota-del-ritiro-idf-nel_f230922e-db51-4a8a-bcc9-33f462742559.html",
@@ -374,11 +379,6 @@
      "titolo": "Panama, Fitch conferma debito sovrano a BB+ e stima il Pil a +4% nel 2026",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/panama-fitch-conferma-debito-sovrano-a-bb-e-stima-il-pil-a-4-nel-2026_1f846d07-f59e-4df8-8f08-2cad31716fdd.html",
      "data": "2026-07-21T02:02:17+00:00"
-    },
-    {
-     "titolo": "Messico, al via il dibattito nazionale su IA e social per i minori",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/messico-al-via-il-dibattito-nazionale-su-ia-e-social-per-i-minori_48230bd1-766a-48c0-9a19-e18c1e01edf1.html",
-     "data": "2026-07-21T01:08:12+00:00"
     }
    ]
   },
@@ -451,6 +451,41 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Abodi 'ricordare Heysel sia monito affinché tragedie così non accadano più'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/abodi-ricordare-heysel-sia-monito-affinche-tragedie-cosi-non-accadano_bca5fbb2-b9ae-4a90-a695-60e900fac920.html",
+     "data": "2026-07-21T09:25:35+00:00"
+    },
+    {
+     "titolo": "I convocati per gli Europei di fondo, Paltrinieri guida gli azzurri",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/07/21/i-convocati-per-gli-europei-di-fondo-paltrinieri-guida-gli-azzurri_7a77683e-9757-414d-be14-387b1c300924.html",
+     "data": "2026-07-21T09:24:39+00:00"
+    },
+    {
+     "titolo": "Abodi 'Guardiola? Chiunque sarà il ct dovremo essergli vicini'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/abodi-guardiola-chiunque-sara-il-ct-dovremo-essergli-vicini_b047256a-77e9-49fd-a5ed-48c1bdf81e10.html",
+     "data": "2026-07-21T09:11:34+00:00"
+    },
+    {
+     "titolo": "Morto il padre del tecnico dell'Atalanta Sarri, aveva 97 anni",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/morto-il-padre-del-tecnico-dellatalanta-sarri-aveva-97-anni_f18565c9-27db-4496-a9ca-58e1ad3569bb.html",
+     "data": "2026-07-21T08:54:27+00:00"
+    },
+    {
+     "titolo": "Finali di Volley Nations League, Velasco 'in campo dimenticando i trionfi'",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/07/21/finali-di-volley-nations-league-velasco-in-campo-dimenticando-i-trionfi_3f109eb0-b677-44f5-a9b3-6b7f45c4ee67.html",
+     "data": "2026-07-21T08:36:37+00:00"
+    },
+    {
+     "titolo": "Calcio: Juve presenta maglia da trasferta, sarà rosa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/calcio-juve-presenta-maglia-da-trasferta-sara-rosa_415e8750-c485-4c00-a65e-ae69080116c2.html",
+     "data": "2026-07-21T08:32:16+00:00"
+    },
+    {
+     "titolo": "La Spagna ora vuole tutto, Rodri e Yamal puntano al Pallone d'oro",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/la-spagna-ora-vuole-tutto-rodri-e-yamal-puntano-al-pallone-doro_55ab7759-c9ab-4dab-b470-a538ec537a3e.html",
+     "data": "2026-07-21T07:38:56+00:00"
+    },
+    {
      "titolo": "Mondiali: la Selección rientra a Buenos Aires accolta dall'abbraccio dei tifosi",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/mondiali-la-seleccion-rientra-a-buenos-aires-accolta-dallabbraccio-dei-tifosi_74b2f129-2be8-4817-a475-2a1fba5d93e5.html",
      "data": "2026-07-20T22:02:37+00:00"
@@ -474,41 +509,6 @@
      "titolo": "Mondiali: Lautaro 'orgoglioso, mi sarebbe piaciuto poter aiutare in campo'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-lautaro-orgoglioso-mi-sarebbe-piaciuto-poter-aiutare-in-campo_813321cd-0af2-4c73-8162-cd9f3a03e943.html",
      "data": "2026-07-20T19:03:42+00:00"
-    },
-    {
-     "titolo": "Gattuso 'Lazio con spirito e voglia, avanti su questa strada",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/gattuso-lazio-con-spirito-e-voglia-avanti-su-questa-strada_aeecbe65-1312-48c7-898b-70ef5faa0dc7.html",
-     "data": "2026-07-20T18:38:47+00:00"
-    },
-    {
-     "titolo": "Mondiali: inizia la parata della Spagna dopo la visita a Sanchez",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-inizia-la-parata-della-spagna-dopo-la-visita-a-sanchez_de3395c1-4464-4ea5-b4da-292ae3e3e3a2.html",
-     "data": "2026-07-20T18:13:30+00:00"
-    },
-    {
-     "titolo": "Atletica: occhi sugli Assoluti, nel weekend tutti i big a Firenze",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/20/atletica-occhi-sugli-assoluti-nel-weekend-tutti-i-big-a-firenze_357f565a-a2f3-4523-a1fa-9719e83c22d2.html",
-     "data": "2026-07-20T18:07:11+00:00"
-    },
-    {
-     "titolo": "F1: Ferrari in crescita, altra chance in Ungheria",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/20/f1-ferrari-in-crescita-altra-chance-in-ungheria_c249397b-4681-40bf-9c3a-78f7cca8fd56.html",
-     "data": "2026-07-20T18:03:04+00:00"
-    },
-    {
-     "titolo": "La Ferrari in crescita, altra chance in Ungheria",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/20/la-ferrari-in-crescita-altra-chance-in-ungheria_8f560759-6cad-439a-8425-0d41e853ebba.html",
-     "data": "2026-07-20T18:08:23+00:00"
-    },
-    {
-     "titolo": "Test in famiglia per la Lazio di Gattuso, Primavera battuta 3-1",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/test-in-famiglia-per-la-lazio-di-gattuso-primavera-battuta-3-1_0b1a8507-676c-4a47-ad31-a016d594cf92.html",
-     "data": "2026-07-20T18:02:06+00:00"
-    },
-    {
-     "titolo": "Mondiali: Messi 'il dolore è forte, ma è immenso l'orgoglio argentino'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-messi-il-dolore-e-forte-ma-e-immenso-lorgoglio-argentino_84bef2c0-a589-4f30-8e7b-49bcb1dcc54b.html",
-     "data": "2026-07-20T17:51:06+00:00"
     }
    ]
   }
