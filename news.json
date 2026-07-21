@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-20T23:43:45.780949+00:00",
+ "aggiornato": "2026-07-21T01:15:11.545155+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Carney, 'pronti a intensificare le discussioni sui nuovi dazi di Trump'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/carney-pronti-a-intensificare-le-discussioni-sui-nuovi-dazi-di-trump_78285235-3c24-4c64-9af6-8c4e5c93fb69.html",
+     "data": "2026-07-21T00:29:58+00:00"
+    },
     {
      "titolo": "Pentagono, quasi 100 militari Usa feriti dal 7 luglio in scontri con Iran",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/pentagono-quasi-100-militari-usa-feriti-dal-7-luglio-in-scontri-con_9ca68abc-0cc6-42cb-b546-08e4a5fded14.html",
@@ -49,11 +54,6 @@
      "titolo": "Lancio di bomba carta da manifestanti e carica della Polizia a Bologna",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/lancio-di-bomba-carta-da-manifestanti-e-carica-della-polizia-a-bologna_7af771fc-fd0b-41c8-9f97-4af357b735da.html",
      "data": "2026-07-20T19:21:45+00:00"
-    },
-    {
-     "titolo": "Capigruppo maggioranza, pronto emendamento contro risarcimenti a criminali",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/capigruppo-maggioranza-pronto-emendamento-contro-risarcimenti-a-criminali_9cd3a0ce-e8d0-4d7b-9a68-eb4ec8acca94.html",
-     "data": "2026-07-20T18:55:21+00:00"
     }
    ]
   },
@@ -321,6 +321,36 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Messico, al via il dibattito nazionale su IA e social per i minori",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/messico-al-via-il-dibattito-nazionale-su-ia-e-social-per-i-minori_48230bd1-766a-48c0-9a19-e18c1e01edf1.html",
+     "data": "2026-07-21T01:08:12+00:00"
+    },
+    {
+     "titolo": "Alla Fenaf 2026 il Padiglione italiano porta in Brasile le tecnologie per la fonderia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/alla-fenaf-2026-il-padiglione-italiano-porta-in-brasile-le-tecnologie-per-la-fonderia_aaf21c75-0414-403d-98e9-b0b9d230d2ac.html",
+     "data": "2026-07-21T01:06:23+00:00"
+    },
+    {
+     "titolo": "Venezuela, Figuera ringrazia Rubio e apre al dialogo per la transizione democratica",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/venezuela-figuera-ringrazia-rubio-e-apre-al-dialogo-per-la-transizione-democratica_ddaf2d86-ecfe-4d16-a461-61cc12e29000.html",
+     "data": "2026-07-21T01:04:18+00:00"
+    },
+    {
+     "titolo": "Lula sfida Rubio, 'venga in Brasile, batteremo tutti' contro il fronte Bolsonaro",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/lula-sfida-rubio-venga-in-brasile-batteremo-tutti-contro-il-fronte-bolsonaro_a3066d96-19ad-40ca-a2af-3d6922ebfd0c.html",
+     "data": "2026-07-21T01:00:27+00:00"
+    },
+    {
+     "titolo": "Eduardo Bolsonaro ottiene la green card Usa mentre resta la condanna in Brasile",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/eduardo-bolsonaro-ottiene-la-green-card-usa-mentre-resta-la-condanna-in-brasile_039b24d2-ca50-467b-81c0-fc593f1613f1.html",
+     "data": "2026-07-21T00:31:52+00:00"
+    },
+    {
+     "titolo": "Carney, 'pronti a intensificare le discussioni sui nuovi dazi di Trump'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/21/carney-pronti-a-intensificare-le-discussioni-sui-nuovi-dazi-di-trump_299e6e70-9774-4b54-9a0f-7a53b8d52342.html",
+     "data": "2026-07-21T00:30:15+00:00"
+    },
+    {
      "titolo": "Pentagono, quasi 100 militari Usa feriti dal 7 luglio in scontri con Iran",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/21/pentagono-quasi-100-militari-usa-feriti-dal-7-luglio-in-scontri-con_b70f795c-668a-4236-8921-d8af0f2fe242.html",
      "data": "2026-07-20T23:31:45+00:00"
@@ -349,36 +379,6 @@
      "titolo": "Casa Bianca, dazi addizionali del 50%' su alcuni beni importati dal Canada",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/20/casa-bianca-dazi-addizionali-del-50-su-alcuni-beni-importati-dal-canada_9a04e29c-5dbc-40e2-9e7a-24a76c124c0d.html",
      "data": "2026-07-20T21:24:09+00:00"
-    },
-    {
-     "titolo": "Centcom, 'lanciata una nuova serie di attacchi contro l'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/centcom-lanciata-una-nuova-serie-di-attacchi-contro-liran_2a4fc017-9475-4fa4-8bbe-e782de6d7b60.html",
-     "data": "2026-07-20T20:37:23+00:00"
-    },
-    {
-     "titolo": "Colombia, ultimo discorso di Petro tra accuse di brogli e difesa del suo operato",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/colombia-ultimo-discorso-di-petro-tra-accuse-di-brogli-e-difesa-del-suo_d852ef5f-94f3-41e1-bb00-e9e9beb55052.html",
-     "data": "2026-07-20T20:37:40+00:00"
-    },
-    {
-     "titolo": "Venezuela, servono oltre 3.400 salari per acquistare il paniere alimentare di base",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/venezuela-servono-oltre-3.400-salari-per-acquistare-il-paniere-alimentare-di-base_e114d2b3-ddfa-4615-8d1a-9493d51f891e.html",
-     "data": "2026-07-20T20:02:52+00:00"
-    },
-    {
-     "titolo": "Idf, 'iniziato il programma Zona sicura con Centcom ed esercito Libano'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/20/idf-iniziato-il-programma-zona-sicura-con-centcom-ed-esercito-libano_2b1cafd5-c465-4db6-8830-39de6100ddc4.html",
-     "data": "2026-07-20T19:55:07+00:00"
-    },
-    {
-     "titolo": "Esportazioni record nel primo semestre per l'Argentina, +24,4% su anno",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/esportazioni-record-nel-primo-semestre-per-largentina-244-su-anno_e37281b6-afe8-47ec-b63f-fbfb9d29f5ca.html",
-     "data": "2026-07-20T19:50:41+00:00"
-    },
-    {
-     "titolo": "Messico, ergastolo a 'El Mayo' Zambada, il fondatore del cartello di Sinaloa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/20/messico-ergastolo-a-el-mayo-zambada-il-fondatore-del-cartello-di-sinaloa_50f34b03-70ec-4780-ba97-a9ebd4566782.html",
-     "data": "2026-07-20T19:22:20+00:00"
     }
    ]
   },
