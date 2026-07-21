@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-21T22:02:41.365424+00:00",
+ "aggiornato": "2026-07-21T23:25:08.541311+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, dazi zero sui farmaci generici che entrano in Usa per 2 anni, poi salgono",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/trump-dazi-zero-sui-farmaci-generici-che-entrano-in-usa-per_1817b8ee-7b95-4402-8cc1-572a50992c85.html",
+     "data": "2026-07-21T23:15:05+00:00"
+    },
     {
      "titolo": "Zelensky rimuove Syrsky da capo delle forze armate, al suo posto Drapatyi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/zelensky-rimuove-syrsky-da-capo-delle-forze-armate-al-suo-posto-drapatyi_8757926b-0ba5-4870-b6b0-13bbf5371082.html",
@@ -49,11 +54,6 @@
      "titolo": "Il prezzo del gas chiude in rialzo a 59,5 euro",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/il-prezzo-del-gas-chiude-in-rialzo-a-595-euro_881d493e-dc6f-4771-b77a-094b6d5f3a8a.html",
      "data": "2026-07-21T16:36:50+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude stabile a 82 punti base",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/lo-spread-tra-btp-e-bund-chiude-stabile-a-82-punti-base_e5b7ad2a-ea58-4e8a-98e9-3c3d896172b9.html",
-     "data": "2026-07-21T16:08:33+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump, dazi zero sui farmaci generici che entrano in Usa per 2 anni, poi salgono",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/22/trump-dazi-zero-sui-farmaci-generici-che-entrano-in-usa-per_58a6384b-0c57-4a98-aba5-c67d5a0a8524.html",
+     "data": "2026-07-21T23:15:25+00:00"
+    },
+    {
+     "titolo": "Moody's promuove il debito dell'Argentina e migliora l'outlook a positivo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/moodys-promuove-il-debito-dellargentina-e-migliora-loutlook-a-positivo_9f8ccdea-9d9e-42a6-9b39-b85453385cd2.html",
+     "data": "2026-07-21T22:52:49+00:00"
+    },
+    {
      "titolo": "Prestito di 7,5 miliardi all'Ecuador dalla Banca Interamericana per lo sviluppo",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/prestito-di-75-miliardi-allecuador-dalla-banca-interamericana-per-lo-sviluppo_c8939d5c-78a2-4e56-a9d4-a6b973ba3f32.html",
      "data": "2026-07-21T21:50:43+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Quindici anni fa Utoya, il dolore e il ricordo di Jens Stoltenberg",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/quindici-anni-fa-utoya-il-dolore-e-il-ricordo-di-jens-stoltenberg_83ccc266-30e6-4704-a0e8-f62df16708ac.html",
      "data": "2026-07-21T17:55:48+00:00"
-    },
-    {
-     "titolo": "Il Messico mira a parte dei 15 miliardi di dollari chiesti dagli Usa a 'El Mayo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/il-messico-mira-a-parte-dei-15-miliardi-di-dollari-chiesti-dagli-usa-a-el-mayo_55e0f12c-86ea-42e0-b16b-86826830e831.html",
-     "data": "2026-07-21T17:46:15+00:00"
-    },
-    {
-     "titolo": "Media, Rahul Gandhi fermato dalla polizia dopo le proteste",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/21/media-rahul-gandhi-fermato-dalla-polizia-dopo-le-proteste_102201d8-1c47-469d-a327-bf1205d31d13.html",
-     "data": "2026-07-21T17:39:36+00:00"
     }
    ]
   },
