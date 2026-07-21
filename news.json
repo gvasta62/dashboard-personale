@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-21T01:15:11.545155+00:00",
+ "aggiornato": "2026-07-21T04:38:53.294314+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Fmi, via libera a 690 milioni di dollari per l'Ucraina",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/fmi-via-libera-a-690-milioni-di-dollari-per-lucraina_eb88bc0e-3acb-4767-890c-897656c3d181.html",
+     "data": "2026-07-21T03:58:17+00:00"
+    },
+    {
+     "titolo": "Fmi, via libera a 690 milioni di dollari per l'Ucraina",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/fmi-via-libera-a-690-milioni-di-dollari-per-lucraina_bf0d3cc9-7fb3-493a-ada9-7430b9921aeb.html",
+     "data": "2026-07-21T03:57:12+00:00"
+    },
+    {
+     "titolo": "I fratelli Tate restano in detenzione, battaglia su richiesta Gb di estradizione",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/i-fratelli-tate-restano-in-detenzione-battaglia-su-richiesta-gb-di-estradizione_83713c66-10b7-4638-8566-ca0d307bf6eb.html",
+     "data": "2026-07-21T03:06:18+00:00"
+    },
     {
      "titolo": "Carney, 'pronti a intensificare le discussioni sui nuovi dazi di Trump'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/carney-pronti-a-intensificare-le-discussioni-sui-nuovi-dazi-di-trump_78285235-3c24-4c64-9af6-8c4e5c93fb69.html",
@@ -39,21 +54,6 @@
      "titolo": "Centcom, 'lanciata una nuova serie di attacchi contro l'Iran'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/centcom-lanciata-una-nuova-serie-di-attacchi-contro-liran_edd34b08-6757-45c1-9870-e728e8915344.html",
      "data": "2026-07-20T20:37:23+00:00"
-    },
-    {
-     "titolo": "È morto Daniele Compatangelo, corrispondente La7 a Washington",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/e-morto-daniele-compatangelo-corrispondente-la7-a-washington_a2f3df12-ba4e-4ee4-baa1-7dec8fb70f6e.html",
-     "data": "2026-07-20T20:27:10+00:00"
-    },
-    {
-     "titolo": "Idf, 'iniziato il programma Zona sicura con Centcom ed esercito Libano'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/idf-iniziato-il-programma-zona-sicura-con-centcom-ed-esercito-libano_6b20dba5-b0bf-4fc7-b3f8-a7d1b7a8ba61.html",
-     "data": "2026-07-20T19:54:51+00:00"
-    },
-    {
-     "titolo": "Lancio di bomba carta da manifestanti e carica della Polizia a Bologna",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/20/lancio-di-bomba-carta-da-manifestanti-e-carica-della-polizia-a-bologna_7af771fc-fd0b-41c8-9f97-4af357b735da.html",
-     "data": "2026-07-20T19:21:45+00:00"
     }
    ]
   },
@@ -321,6 +321,36 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Fmi, via libera a 690 milioni di dollari per l'Ucraina",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/fmi-via-libera-a-690-milioni-di-dollari-per-lucraina_8a1dc19e-d519-449e-8379-667ec085251d.html",
+     "data": "2026-07-21T03:58:18+00:00"
+    },
+    {
+     "titolo": "Fmi, via libera a 690 milioni di dollari per l'Ucraina",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/fmi-via-libera-a-690-milioni-di-dollari-per-lucraina_f191e160-3b32-4a1d-a2ce-3086944486f4.html",
+     "data": "2026-07-21T03:57:30+00:00"
+    },
+    {
+     "titolo": "Messico, Sheinbaum contro l'opposizione sul diritto di voto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/messico-sheinbaum-contro-lopposizione-sul-diritto-di-voto_e9a0dac5-dd4c-45ab-8479-8cb64ed2d5cb.html",
+     "data": "2026-07-21T03:42:21+00:00"
+    },
+    {
+     "titolo": "Brasile, Lula vara nuove norme per l'industria della salute",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/brasile-lula-vara-nuove-norme-per-lindustria-della-salute_01093b47-5846-4c7f-b09b-8e3872f6c602.html",
+     "data": "2026-07-21T03:39:58+00:00"
+    },
+    {
+     "titolo": "I fratelli Tate restano in detenzione, battaglia su richiesta Gb di estradizione",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/21/i-fratelli-tate-restano-in-detenzione-battaglia-su-richiesta-gb-di-estradizione_6a681de5-b180-4ad5-920f-3c99672b44ca.html",
+     "data": "2026-07-21T03:06:36+00:00"
+    },
+    {
+     "titolo": "Panama, Fitch conferma debito sovrano a BB+ e stima il Pil a +4% nel 2026",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/panama-fitch-conferma-debito-sovrano-a-bb-e-stima-il-pil-a-4-nel-2026_1f846d07-f59e-4df8-8f08-2cad31716fdd.html",
+     "data": "2026-07-21T02:02:17+00:00"
+    },
+    {
      "titolo": "Messico, al via il dibattito nazionale su IA e social per i minori",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/messico-al-via-il-dibattito-nazionale-su-ia-e-social-per-i-minori_48230bd1-766a-48c0-9a19-e18c1e01edf1.html",
      "data": "2026-07-21T01:08:12+00:00"
@@ -349,36 +379,6 @@
      "titolo": "Carney, 'pronti a intensificare le discussioni sui nuovi dazi di Trump'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/21/carney-pronti-a-intensificare-le-discussioni-sui-nuovi-dazi-di-trump_299e6e70-9774-4b54-9a0f-7a53b8d52342.html",
      "data": "2026-07-21T00:30:15+00:00"
-    },
-    {
-     "titolo": "Pentagono, quasi 100 militari Usa feriti dal 7 luglio in scontri con Iran",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/21/pentagono-quasi-100-militari-usa-feriti-dal-7-luglio-in-scontri-con_b70f795c-668a-4236-8921-d8af0f2fe242.html",
-     "data": "2026-07-20T23:31:45+00:00"
-    },
-    {
-     "titolo": "Iran, colpita una base militare americana in Kuwait",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/21/iran-colpita-una-base-militare-americana-in-kuwait_3a03d7d0-006a-47b9-8cc0-a5f27f2fd5c1.html",
-     "data": "2026-07-20T23:17:13+00:00"
-    },
-    {
-     "titolo": "L'annuncio di Daniel Ortega, 'in Nicaragua non ci saranno più elezioni'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/lannuncio-di-daniel-ortega-in-nicaragua-non-ci-saranno-piu-elezioni_06109805-0b0f-44a2-83e8-c371bb7fa9ca.html",
-     "data": "2026-07-20T23:00:19+00:00"
-    },
-    {
-     "titolo": "Trump, 'ottima conversazione con il nuovo premier britannico Burnham'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/trump-ottima-conversazione-con-il-nuovo-premier-britannico-burnham_c3f32dcc-c3dc-428f-afdf-b325b8c9ad2f.html",
-     "data": "2026-07-20T22:35:10+00:00"
-    },
-    {
-     "titolo": "Mondiali: la Selección rientra a Buenos Aires accolta dall'abbraccio dei tifosi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/mondiali-la-seleccion-rientra-a-buenos-aires-accolta-dallabbraccio-dei-tifosi_73a41271-d893-47af-9f1d-eb089637c015.html",
-     "data": "2026-07-20T22:02:33+00:00"
-    },
-    {
-     "titolo": "Casa Bianca, dazi addizionali del 50%' su alcuni beni importati dal Canada",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/20/casa-bianca-dazi-addizionali-del-50-su-alcuni-beni-importati-dal-canada_9a04e29c-5dbc-40e2-9e7a-24a76c124c0d.html",
-     "data": "2026-07-20T21:24:09+00:00"
     }
    ]
   },
