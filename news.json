@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-21T11:41:44.445046+00:00",
+ "aggiornato": "2026-07-21T13:07:41.980477+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "I leader di maggioranza a Palazzo Chigi per il vertice con Meloni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/i-leader-di-maggioranza-a-palazzo-chigi-per-il-vertice-con-meloni_51a9a199-eb07-4d33-8dac-f4fe8cfcb26d.html",
+     "data": "2026-07-21T11:48:13+00:00"
+    },
+    {
+     "titolo": "Moglie Roggero in gioielleria, 'spero molto presto possa venire qui'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/moglie-roggero-in-gioielleria-spero-molto-presto-possa-venire-qui_640a383e-30f8-4c28-b494-5ae8446e98fc.html",
+     "data": "2026-07-21T11:42:53+00:00"
+    },
     {
      "titolo": "'Il ministro dell'Interno iraniano incontra i mediatori in Pakistan'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/il-ministro-dellinterno-iraniano-incontra-i-mediatori-in-pakistan_122de060-3489-47c7-8abf-6a920154021c.html",
@@ -44,16 +54,6 @@
      "titolo": "Terna, domanda elettricità giugno al top da 10 anni, pesa il caldo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/terna-domanda-elettricita-giugno-al-top-da-10-anni-pesa-il-caldo_ccb1f004-1b3d-421a-8f8d-749fb1cd9a4c.html",
      "data": "2026-07-21T09:39:59+00:00"
-    },
-    {
-     "titolo": "Guerriglia a Bologna fino a notte, incendiata anche un'auto del Comune",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/guerriglia-a-bologna-fino-a-notte-incendiata-anche-unauto-del-comune_510b9954-73c2-4573-a27d-d69b6d6fe54d.html",
-     "data": "2026-07-21T07:47:46+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano prosegue in rialzo, in luce Prysmian e Leonardo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/borsa-milano-prosegue-in-rialzo-in-luce-prysmian-e-leonardo_cee21b8f-381f-464d-80b8-9d496d3f631c.html",
-     "data": "2026-07-21T07:43:15+00:00"
     }
    ]
   },
@@ -61,14 +61,19 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Più servizi dalla Misericordia di Perugia-Olmo che compie 20 anni",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/21/piu-servizi-dalla-misericordia-di-perugia-olmo-che-compie-20-anni_d1339b8e-91bd-481d-85d3-b18674992116.html",
+     "data": "2026-07-21T11:56:55+00:00"
+    },
+    {
      "titolo": "Scoperta una crack house a Foligno, tavoli e poltrone per consumare la droga",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/21/scoperta-una-crack-house-a-foligno-tavoli-e-poltrone-per-consumare-la-droga_d0ef0be1-5de5-461e-b8bb-2495a1cfd7f0.html",
-     "data": "2026-07-21T11:22:07+00:00"
+     "data": "2026-07-21T11:37:38+00:00"
     },
     {
      "titolo": "La Soprintendenza consegna i lavori di recupero delle Mura di Amelia",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/21/la-soprintendenza-consegna-i-lavori-di-recupero-delle-mura-di-amelia_d8428ec0-4bfe-4a7c-9863-791bd35af238.html",
-     "data": "2026-07-21T10:57:25+00:00"
+     "data": "2026-07-21T11:37:47+00:00"
     },
     {
      "titolo": "In Umbria nascite quasi dimezzate dal 2008, nel 2025 sono 4.442",
@@ -114,11 +119,6 @@
      "titolo": "Prisco inaugura i nuovi moduli abitativi del Centro di formazione vigili fuoco Terni",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/20/prisco-inaugura-i-nuovi-moduli-abitativi-del-centro-di-formazione-vigili-fuoco_500f1195-08fb-4aa2-9a32-9ecc3add67bc.html",
      "data": "2026-07-20T14:13:32+00:00"
-    },
-    {
-     "titolo": "Eletta la nuova giunta della Camera di commercio dell'Umbria",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/20/eletta-la-nuova-giunta-della-camera-di-commercio-dellumbria_9c9d71d6-162a-44e7-8a3e-c6fef2493428.html",
-     "data": "2026-07-20T13:59:46+00:00"
     }
    ]
   },
@@ -126,9 +126,54 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Il presidente dei 118: 'Con un medico subito Fakir si sarebbe potuto salvare'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/il-presidente-dei-118-con-un-medico-subito-fakir-si-sarebbe-potuto-salvare_70a246b0-ae29-4df5-a54d-44ad2cbe19ff.html",
+     "data": "2026-07-21T12:58:32+00:00"
+    },
+    {
+     "titolo": "L'Anm: 'Minacce e clima d'odio contro i magistrati del caso Roggero'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/anm-minacce-e-clima-dodio-contro-i-magistrati-del-caso-roggero_978202ca-7585-48d8-a6d4-769244f698b8.html",
+     "data": "2026-07-21T12:59:28+00:00"
+    },
+    {
+     "titolo": "Verso una tregua dal caldo, i temporali si spostano al Centro-Sud",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/verso-una-tregua-dal-caldo-i-temporali-si-spostano-al-centro-sud_34ea2c7d-83d7-4747-95ca-62ea703d16ca.html",
+     "data": "2026-07-21T11:51:04+00:00"
+    },
+    {
+     "titolo": "Minaccia i vicini con una katana, trovato in casa un piccolo arsenale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/minaccia-i-vicini-con-una-katana-trovato-in-casa-un-piccolo-arsenale_f66005a4-bbfd-45ae-bc75-4cbf1dcb9bd1.html",
+     "data": "2026-07-21T11:50:05+00:00"
+    },
+    {
+     "titolo": "Incidente in un parco eolico del Cosentino, muore operaio 23enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/incidente-in-un-parco-eolico-del-cosentino-muore-operaio-23enne_254580aa-ea79-4166-8fc2-8624e1e74c0d.html",
+     "data": "2026-07-21T11:48:29+00:00"
+    },
+    {
+     "titolo": "Sul litorale veneziano stretta contro costume o torso nudo per strada",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/sul-litorale-veneziano-stretta-contro-costume-o-torso-nudo-per-strada_bc06b3d1-f664-4644-b8e2-5402a6bcd51f.html",
+     "data": "2026-07-21T11:46:19+00:00"
+    },
+    {
+     "titolo": "Moglie Roggero in gioielleria, 'io e mia figlia siamo anche a rischio'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/moglie-roggero-in-gioielleria-io-e-mia-figlia-siamo-anche-a-rischio_09a08bfe-ec7f-4b5a-96da-2f4bec0ea82f.html",
+     "data": "2026-07-21T11:43:54+00:00"
+    },
+    {
+     "titolo": "Moglie Roggero in gioielleria, 'spero molto presto possa venire qui'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/moglie-roggero-in-gioielleria-spero-molto-presto-possa-venire-qui_47dc6510-b148-4fad-b382-38c39552a1c2.html",
+     "data": "2026-07-21T11:42:50+00:00"
+    },
+    {
+     "titolo": "Omicidio Diabolik: giudici, prove contro Calderon poche e controverse",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/omicidio-diabolik-giudici-prove-contro-calderon-poche-e-controverse_2d237c87-0d6f-4d2c-a3aa-f7cb49929973.html",
+     "data": "2026-07-21T11:39:36+00:00"
+    },
+    {
      "titolo": "Riaperta la gioielleria di Roggero, la moglie: 'Spero molto presto possa venire qui'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/riaperta-la-gioielleria-di-roggero-la-moglie-spero-molto-presto-possa-venire-qui_b8c78b1b-c0be-45a4-bcdf-3090f3bd6d18.html",
-     "data": "2026-07-21T11:34:22+00:00"
+     "data": "2026-07-21T13:00:07+00:00"
     },
     {
      "titolo": "Manette si incastrano, malore per una donna dopo l'arresto su A16",
@@ -139,57 +184,22 @@
      "titolo": "Frode sui fondi Pnrr in Italia, 84 indagati dalla procura europea",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/frode-sui-fondi-pnrr-in-italia-84-indagati-dalla-procura-europea_4bbc7634-de7b-4069-a16e-3a53887d5b3a.html",
      "data": "2026-07-21T11:01:17+00:00"
-    },
-    {
-     "titolo": "Sequestra una coppia in casa sotto la minaccia di coltelli, arrestato in Versilia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/sequestra-coppia-in-casa-sotto-minaccia-coltelli-arrestato-in-versilia_8da4657b-6f21-43da-932f-afcdcedb53e5.html",
-     "data": "2026-07-21T11:24:49+00:00"
-    },
-    {
-     "titolo": "L'avvocata di Fakir: 'Aveva paura di essere espulso'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/lavvocata-di-fakir-aveva-paura-di-essere-espulso_174c1c9f-37c0-42c7-b9d7-0139945ba033.html",
-     "data": "2026-07-21T10:31:25+00:00"
-    },
-    {
-     "titolo": "Lepore: \"Ieri a Bologna due piazze, solo una rappresenta la città\"",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/lepore-ieri-a-bologna-due-piazze-solo-una-rappresenta-la-citta_5b6584ca-b6c0-4bf9-9fd9-d9b95ef652cb.html",
-     "data": "2026-07-21T10:13:14+00:00"
-    },
-    {
-     "titolo": "Barchino affonda a Venezia, due persone salvate dalla Gdf",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/barchino-affonda-a-venezia-due-persone-salvate-dalla-gdf_0ba7154f-2181-4bf6-ad7b-0d6fea61e3cc.html",
-     "data": "2026-07-21T10:06:19+00:00"
-    },
-    {
-     "titolo": "Cadavere recuperato in un canale in provincia di Rovigo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/cadavere-recuperato-in-un-canale-in-provincia-di-rovigo_00a5d005-ad21-49f4-b314-99f0a582e010.html",
-     "data": "2026-07-21T09:48:56+00:00"
-    },
-    {
-     "titolo": "Meloni: 'A Bologna fatto inaccettabile, accertare la verità con rigore'. In città guerriglia fino a notte",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/meloni-a-bologna-fatto-inaccettabile-accertare-la-verita-con-rigore.-in-citta-guerriglia_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
-     "data": "2026-07-21T11:20:08+00:00"
-    },
-    {
-     "titolo": "Cartello fuori da gioielleria di Roggero avvisa: 'nessuna dichiarazione'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/cartello-fuori-da-gioielleria-di-roggero-avvisa-nessuna-dichiarazione_fe07d977-35cb-415b-be87-8509f3ea40d2.html",
-     "data": "2026-07-21T09:45:56+00:00"
-    },
-    {
-     "titolo": "Indagini su un dipendente dell'ufficio gip di Milano, 'ha provato a portare via 985mila euro'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/anomalie-su-una-confisca-di-denaro-indagini-su-dipendente-dellufficio-gip-di-milano_9fdefd80-7c3d-44ee-8d6f-8cc5ab5c6aa8.html",
-     "data": "2026-07-21T11:15:07+00:00"
-    },
-    {
-     "titolo": "Precipita da una terrazza, muore a Roma l'attore Pippo di Marca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/precipita-da-una-terrazza-muore-a-roma-lattore-pippo-di-marca_fb387749-7405-4ac6-8ba9-32b95272e70b.html",
-     "data": "2026-07-21T09:08:40+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Ilaria Cucchi: 'Con le parole della nipote di Fakir ho rivissuto un dolore, in atto una macchina del fango'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/21/ilaria-cucchi-con-le-parole-della-nipote-di-fakir-ho-rivissuto-un-dolore-in-atto_a1db7e5a-9fc7-4e56-9ec4-2026c982e8d5.html",
+     "data": "2026-07-21T12:58:19+00:00"
+    },
+    {
+     "titolo": "I leader di maggioranza a Palazzo Chigi per il vertice con Meloni",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/21/i-leader-di-maggioranza-a-palazzo-chigi-per-il-vertice-con-meloni_59606fed-9cfe-4a17-bc10-5059d558f4e3.html",
+     "data": "2026-07-21T11:48:13+00:00"
+    },
     {
      "titolo": "Oggi vertice con Meloni e leader di maggioranza, definirà priorità del governo",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/21/oggi-vertice-con-meloni-e-leader-di-maggioranza-definira-priorita-del-governo_20ceeebc-0431-4de2-8e19-0bd138976488.html",
@@ -239,22 +249,22 @@
      "titolo": "Magi, 'norma anti-frammentazione contro la Costituzione, non abbassiamo la testa'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/magi-norma-anti-frammentazione-contro-la-costituzione-non-abbassiamo-la-testa_11203b1e-baac-48d2-b29c-df02c9cb0e87.html",
      "data": "2026-07-20T14:43:52+00:00"
-    },
-    {
-     "titolo": "A Milano pranzo a casa La Russa con civici e Lupi per il futuro candidato sindaco",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/a-milano-pranzo-a-casa-la-russa-con-civici-e-lupi-per-il-futuro-candidato_3a153e21-dc99-4633-82c6-6e1b86c0535d.html",
-     "data": "2026-07-20T13:56:11+00:00"
-    },
-    {
-     "titolo": "Rai, al via verifiche interne sulla vicenda Ranucci",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/rai-al-via-verifiche-interne-sulla-vicenda-ranucci_72280ee6-1d60-48b8-ae57-a457c7c1b187.html",
-     "data": "2026-07-20T13:40:28+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Petrolio e gas in rialzo, il Brent oltre 90 dollari al barile",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/petrolio-e-gas-in-rialzo-il-brent-oltre-90-dollari-al-barile_f3adcc95-7a6a-4f37-af83-90ac92263504.html",
+     "data": "2026-07-21T11:35:18+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa sale e guarda agli investimenti per l'Ia, Milano +0,5%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/borsa-leuropa-sale-e-guarda-agli-investimenti-per-lia-milano-05_7cb719f4-67d8-4ff4-9a32-25c1b7c97348.html",
+     "data": "2026-07-21T11:34:09+00:00"
+    },
     {
      "titolo": "Fs, in Tunisia concluso primo progetto formazione in ambito Piano Mattei",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/fs-in-tunisia-concluso-primo-progetto-formazione-in-ambito-piano-mattei_d621a7bc-06b3-4332-a984-b95e593f7ab5.html",
@@ -304,22 +314,27 @@
      "titolo": "Folgiero nominato nel board della Scuola Politica 'Vivere nella Comunità'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/folgiero-nominato-nel-board-della-scuola-politica-vivere-nella-comunita_b6234959-62ae-4659-b075-6f14a7684998.html",
      "data": "2026-07-21T08:58:29+00:00"
-    },
-    {
-     "titolo": "Borsa di Londra punta ad apertura non stop dal prossimo anno",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/borsa-di-londra-punta-ad-apertura-non-stop-dal-prossimo-anno_74b19256-c5fb-4c2c-831f-a158205035cf.html",
-     "data": "2026-07-21T08:39:54+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa positiva con il petrolio in calo, lente sul Medio Oriente",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/borsa-leuropa-positiva-con-il-petrolio-in-calo-lente-sul-medio-oriente_9ab3bad6-24eb-429e-bb06-14d21be4c91f.html",
-     "data": "2026-07-21T08:38:00+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Argentina, surplus commerciale quintuplicato nel primo semestre del 2026",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/argentina-surplus-commerciale-quintuplicato-nel-primo-semestre-del-2026_f6a9d323-6eae-4890-8662-6f8ed16eae9c.html",
+     "data": "2026-07-21T12:43:12+00:00"
+    },
+    {
+     "titolo": "Ambasciatore in Senegal apre Scuola di Goreè per migrazioni sostenibili",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/21/ambasciatore-in-senegal-apre-scuola-di-goree-per-migrazioni-sostenibili_0aec5a7d-fed0-49ac-9b65-7bfe8ac11168.html",
+     "data": "2026-07-21T12:17:11+00:00"
+    },
+    {
+     "titolo": "Panama e la Cina rinnovano l'accordo sul trasporto marittimo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/panama-e-la-cina-rinnovano-laccordo-sul-trasporto-marittimo_351633f4-d24f-45ff-9229-d7bf87933617.html",
+     "data": "2026-07-21T11:58:04+00:00"
+    },
     {
      "titolo": "'Il ministro dell'Interno iraniano incontra i mediatori in Pakistan'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/21/il-ministro-dellinterno-iraniano-incontra-i-mediatori-in-pakistan_d8f06a69-9609-483f-bb6c-c672fccb8935.html",
@@ -364,21 +379,6 @@
      "titolo": "Fmi, via libera a 690 milioni di dollari per l'Ucraina",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/fmi-via-libera-a-690-milioni-di-dollari-per-lucraina_8a1dc19e-d519-449e-8379-667ec085251d.html",
      "data": "2026-07-21T03:58:18+00:00"
-    },
-    {
-     "titolo": "Fmi, via libera a 690 milioni di dollari per l'Ucraina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/fmi-via-libera-a-690-milioni-di-dollari-per-lucraina_f191e160-3b32-4a1d-a2ce-3086944486f4.html",
-     "data": "2026-07-21T03:57:30+00:00"
-    },
-    {
-     "titolo": "Messico, Sheinbaum contro l'opposizione sul diritto di voto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/messico-sheinbaum-contro-lopposizione-sul-diritto-di-voto_e9a0dac5-dd4c-45ab-8479-8cb64ed2d5cb.html",
-     "data": "2026-07-21T03:42:21+00:00"
-    },
-    {
-     "titolo": "Brasile, Lula vara nuove norme per l'industria della salute",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/brasile-lula-vara-nuove-norme-per-lindustria-della-salute_01093b47-5846-4c7f-b09b-8e3872f6c602.html",
-     "data": "2026-07-21T03:39:58+00:00"
     }
    ]
   },
@@ -451,6 +451,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Truffa con superbonus 110%, maxi sequestro per il patron della Juve Stabia",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/truffa-con-superbonus-110-maxi-sequestro-per-il-patron-della-juve_d53c2a09-669a-4f15-b1a5-85972ce0cdbc.html",
+     "data": "2026-07-21T12:36:07+00:00"
+    },
+    {
+     "titolo": "Violazioni norme federali, la Fci commissaria la Lega ciclismo professionistico di Pella",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/21/violazioni-norme-federali-la-fci-commissaria-la-lega-ciclismo-professionistico-di-pella_5392549a-75ab-475f-8060-f0b2ff9de611.html",
+     "data": "2026-07-21T12:24:01+00:00"
+    },
+    {
+     "titolo": "Infantino entro fine anno in Somalia, la prima volta per un presidente Fifa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/infantino-entro-fine-anno-in-somalia-la-prima-volta-per-un-presidente-fifa_6c772dc3-9c55-4115-9f91-8c10fd1a369b.html",
+     "data": "2026-07-21T11:39:55+00:00"
+    },
+    {
      "titolo": "Malagò 'solidarietà ad azzurri paralimpici, lo sport abbatte le barriere'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/malago-solidarieta-ad-azzurri-paralimpici-lo-sport-abbatte-le-barriere_2577f50c-b15e-4398-8f32-064e47376193.html",
      "data": "2026-07-21T11:11:18+00:00"
@@ -494,21 +509,6 @@
      "titolo": "Abodi 'Guardiola? Chiunque sarà il ct dovremo essergli vicini'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/abodi-guardiola-chiunque-sara-il-ct-dovremo-essergli-vicini_b047256a-77e9-49fd-a5ed-48c1bdf81e10.html",
      "data": "2026-07-21T09:11:34+00:00"
-    },
-    {
-     "titolo": "Morto il padre del tecnico dell'Atalanta Sarri, aveva 97 anni",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/morto-il-padre-del-tecnico-dellatalanta-sarri-aveva-97-anni_f18565c9-27db-4496-a9ca-58e1ad3569bb.html",
-     "data": "2026-07-21T08:54:27+00:00"
-    },
-    {
-     "titolo": "L'Italia di Velasco alle Finals di Nations League, il via con l'Olanda",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/07/21/finali-di-volley-nations-league-velasco-in-campo-dimenticando-i-trionfi_3f109eb0-b677-44f5-a9b3-6b7f45c4ee67.html",
-     "data": "2026-07-21T11:21:53+00:00"
-    },
-    {
-     "titolo": "Calcio: Juve presenta maglia da trasferta, sarà rosa",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/calcio-juve-presenta-maglia-da-trasferta-sara-rosa_415e8750-c485-4c00-a65e-ae69080116c2.html",
-     "data": "2026-07-21T08:32:16+00:00"
     }
    ]
   }
