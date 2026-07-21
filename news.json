@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-21T19:57:37.895680+00:00",
+ "aggiornato": "2026-07-21T20:59:44.636537+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Zelensky rimuove Syrsky da capo delle forze armate, al suo posto Drapatyi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/zelensky-rimuove-syrsky-da-capo-delle-forze-armate-al-suo-posto-drapatyi_8757926b-0ba5-4870-b6b0-13bbf5371082.html",
+     "data": "2026-07-21T19:58:06+00:00"
+    },
     {
      "titolo": "Hegseth, 'è urgente approvare i fondi al Pentagono per 67 miliardi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/hegseth-e-urgente-approvare-i-fondi-al-pentagono-per-67-miliardi_704527c3-48d0-4b17-86aa-73866d332b58.html",
@@ -49,11 +54,6 @@
      "titolo": "Lo spread tra Btp e Bund chiude stabile a 82 punti base",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/lo-spread-tra-btp-e-bund-chiude-stabile-a-82-punti-base_e5b7ad2a-ea58-4e8a-98e9-3c3d896172b9.html",
      "data": "2026-07-21T16:08:33+00:00"
-    },
-    {
-     "titolo": "Trump, 'non lasciamo l'Iran, colpiremo presto Pickaxe Mountain'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/trump-non-lasciamo-liran-colpiremo-presto-pickaxe-mountain_e440987c-3cce-4440-b237-71b7e8a50e83.html",
-     "data": "2026-07-21T15:59:08+00:00"
     }
    ]
   },
@@ -131,6 +131,11 @@
      "data": "2026-07-21T19:53:50+00:00"
     },
     {
+     "titolo": "Lite famigliare a cena, morto in ospedale il nonno 87enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/lite-famigliare-a-cena-morto-in-ospedale-il-nonno-87enne_cea5bb3a-dea2-4ba7-83b8-1a822faa7da6.html",
+     "data": "2026-07-21T20:05:23+00:00"
+    },
+    {
      "titolo": "Caso arbitri, 'non prove ma suggestioni degradate anche a illazioni'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/caso-arbitri-non-prove-ma-suggestioni-degradate-anche-a-illazioni_7ff5b43b-eaf3-4c92-b39b-f399bd91966c.html",
      "data": "2026-07-21T19:32:43+00:00"
@@ -178,12 +183,7 @@
     {
      "titolo": "Meloni: 'A Bologna violenza inaccettabile contro le forze dell'ordine'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/meloni-a-bologna-fatto-inaccettabile.-lepore-chiedere-la-verita-non-delegittima-le-divise_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
-     "data": "2026-07-21T18:33:14+00:00"
-    },
-    {
-     "titolo": "La moglie di Roggero riapre la gioielleria, 'siamo a rischio'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/la-difesa-di-roggero-reitera-listanza-di-differimento-della-pena-al-tribunale-di-sorveglianza-di-milano_b8c78b1b-c0be-45a4-bcdf-3090f3bd6d18.html",
-     "data": "2026-07-21T18:41:10+00:00"
+     "data": "2026-07-21T20:18:06+00:00"
     }
    ]
   },
@@ -321,6 +321,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Venezuela conferma tre morti per hantavirus nello Stato di Anzoátegui",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/venezuela-conferma-tre-morti-per-hantavirus-nello-stato-di-anzoategui_2ff47e12-ebc0-4426-91c1-b96d291ed801.html",
+     "data": "2026-07-21T20:52:32+00:00"
+    },
+    {
+     "titolo": "Dopo Meliá anche la catena spagnola Iberostar lascia Cuba",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/dopo-melia-anche-la-catena-spagnola-iberostar-lascia-cuba_ce3f7acf-5deb-4913-8bcb-bebc5e1a56c9.html",
+     "data": "2026-07-21T20:13:43+00:00"
+    },
+    {
+     "titolo": "Zelensky rimuove Syrsky da capo delle forze armate, al suo posto Drapatyi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/zelensky-rimuove-syrsky-da-capo-delle-forze-armate-al-suo-posto-drapatyi_747a6c5c-d705-45dc-b7bf-79490b44dd8d.html",
+     "data": "2026-07-21T19:58:05+00:00"
+    },
+    {
+     "titolo": "Zelensky silura anche Syrsky, lo sostituisce con Drapatyi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/zelensky-rimuove-syrsky-da-capo-delle-forze-armate-al-suo-posto-drapatyi_0cd2a931-8658-4d5e-96f8-544c31609a42.html",
+     "data": "2026-07-21T20:45:20+00:00"
+    },
+    {
      "titolo": "Hegseth, 'è urgente approvare i fondi al Pentagono per 67 miliardi'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/21/hegseth-e-urgente-approvare-i-fondi-al-pentagono-per-67-miliardi_efb69589-f0a4-44a3-bd12-20006a489412.html",
      "data": "2026-07-21T19:04:17+00:00"
@@ -359,26 +379,6 @@
      "titolo": "Rahul Gandhi fermato dalla polizia dopo le proteste",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/21/rahul-gandhi-fermato-dalla-polizia-dopo-le-proteste_08243966-b1fa-4c20-9615-6b384aeebef7.html",
      "data": "2026-07-21T18:32:55+00:00"
-    },
-    {
-     "titolo": "I Paesi Bassi vietano l'import dagli insediamenti israeliani in Cisgiordania",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/i-paesi-bassi-vietano-limport-dagli-insediamenti-israeliani-in-cisgiordania_a8e87fcc-a5bd-4663-9269-63324a4f09b1.html",
-     "data": "2026-07-21T17:17:02+00:00"
-    },
-    {
-     "titolo": "Ranking dei passaporti più 'potenti', Usa dal primo al decimo posto in 20 anni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/21/ranking-dei-passaporti-piu-potenti-usa-dal-primo-al-decimo-posto_ec9a5a0f-c252-4efd-a8a7-157ed79757f1.html",
-     "data": "2026-07-21T17:02:06+00:00"
-    },
-    {
-     "titolo": "Incendi boschivi in Algeria, almeno sei i morti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/21/incendi-boschivi-in-algeria-almeno-sei-i-morti_45e7fb6f-02b1-4119-aff6-d75c9bcb1656.html",
-     "data": "2026-07-21T17:01:12+00:00"
-    },
-    {
-     "titolo": "Trump, 'non lasciamo l'Iran, colpiremo presto Pickaxe Mountain'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/21/trump-non-lasciamo-liran-colpiremo-presto-pickaxe-mountain_6514907a-828a-4a1b-8ebf-f1314e40d78e.html",
-     "data": "2026-07-21T15:59:11+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Rossi, tra la Ferrari e Antonelli io tifo per Kimi",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/21/rossi-tra-la-ferrari-e-antonelli-io-tifo-per-kimi_bea8cd53-d6bc-4f8e-803f-7780cc3c0899.html",
+     "data": "2026-07-21T20:26:32+00:00"
+    },
+    {
      "titolo": "Malagò conferma contatti con Guardiola, \"per lui si può fare eccezione al budget\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/malago-conferma-contatti-con-guardiola-per-lui-si-puo-fare-eccezione_b2972af7-908b-4a73-b5d7-9ad284c4b30a.html",
      "data": "2026-07-21T19:47:13+00:00"
@@ -486,9 +491,9 @@
      "data": "2026-07-21T18:16:26+00:00"
     },
     {
-     "titolo": "Mancini o Pirlo e il sogno Guardiola, l'Italia e il nodo panchina",
+     "titolo": "L'Italia e il nodo ct, Malagò su Guardiola: \"Il dialogo è aperto\"",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/07/21/mancini-o-pirlo-e-il-sogno-guardiola-litalia-e-il-nodo-panchina_8e6f0a56-00c5-4c65-9049-4db15f93bd74.html",
-     "data": "2026-07-21T18:02:22+00:00"
+     "data": "2026-07-21T20:49:03+00:00"
     },
     {
      "titolo": "Lega ciclismo professionistico, agiremo contro un commissariamento privo di fondamento",
@@ -504,11 +509,6 @@
      "titolo": "Pisacane, 'obiettivo salvezza ma mi piacerebbe alzare asticella'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/pisacane-obiettivo-salvezza-ma-mi-piacerebbe-alzare-asticella_c6adeab9-b0b2-42d9-89b5-97154e356a10.html",
      "data": "2026-07-21T16:34:00+00:00"
-    },
-    {
-     "titolo": "Pugilato: a Capri una sfida Italia-Usa in chiave olimpica",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/21/pugilato-a-capri-una-sfida-italia-usa-in-chiave-olimpica_e0722bed-27a1-47d1-b5e6-b1a500117fac.html",
-     "data": "2026-07-21T16:25:05+00:00"
     }
    ]
   }
