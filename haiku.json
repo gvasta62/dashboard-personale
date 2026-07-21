@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-07-20T06:38:26.941844+00:00",
- "data": "2026-07-20",
- "testo": "Cielo di cenere\nsui campi di girasoli\nnessun ronzio",
- "nota": "Sotto le nuvole basse i girasoli sembrano spenti, e manca il suono delle api.",
+ "aggiornato": "2026-07-21T06:22:11.735640+00:00",
+ "data": "2026-07-21",
+ "testo": "Sudore alla fronte\nlungo il muro di pietra\nlucertola immobile",
+ "nota": "Una lucertola ferma sul muro caldo mentre il cielo resta coperto.",
  "archivio": [
+  {
+   "data": "2026-07-21",
+   "testo": "Sudore alla fronte\nlungo il muro di pietra\nlucertola immobile",
+   "nota": "Una lucertola ferma sul muro caldo mentre il cielo resta coperto."
+  },
   {
    "data": "2026-07-20",
    "testo": "Cielo di cenere\nsui campi di girasoli\nnessun ronzio",
