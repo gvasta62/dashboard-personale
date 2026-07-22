@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-22T09:05:16.627078+00:00",
+ "aggiornato": "2026-07-22T11:23:04.222592+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Dedicata a Giorgio Gosetti la 23/a edizione delle Giornate degli Autori a Venezia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/dedicata-a-giorgio-gosetti-la-23a-edizione-delle-giornate-degli-autori-a-venezia_8c57628f-499b-444e-9a81-90e8676343da.html",
+     "data": "2026-07-22T09:53:05+00:00"
+    },
+    {
+     "titolo": "Il principe George compie 13 anni, una foto da teenager per festeggiarlo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/il-principe-george-compie-13-anni-una-foto-da-teenager-per-festeggiarlo_b6e902ad-8a23-4502-b44b-8018f61d2b62.html",
+     "data": "2026-07-22T09:50:41+00:00"
+    },
+    {
+     "titolo": "Trovato morto a Parigi Siad, presunto reclutatore del pedofilo Epstein",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/trovato-morto-a-parigi-siad-presunto-reclutatore-del-pedofilo-epstein_e20e0975-7a78-42b9-9c99-ef8006af3598.html",
+     "data": "2026-07-22T09:30:56+00:00"
+    },
     {
      "titolo": "Media, 'sei missili iraniani su Aqaba, quattro intercettati e nessun danno'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/media-sei-missili-iraniani-su-aqaba-quattro-intercettati-e-nessun-danno_967f2cd9-0572-408c-9f5f-d2a826d39010.html",
@@ -39,27 +54,52 @@
      "titolo": "Media, Ornella Muti e sua figlia fanno domanda per la cittadinanza russa",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/media-ornella-muti-e-sua-figlia-fanno-domanda-per-la-cittadinanza-russa_7cdc15fc-696c-4428-a0b7-3e06f12dab82.html",
      "data": "2026-07-22T07:41:45+00:00"
-    },
-    {
-     "titolo": "OpenAI, 'nostri modelli Ia fuori controllo, hanno hackerato altra piattaforma'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/openai-nostri-modelli-ia-fuori-controllo-hanno-hackerato-altra-piattaforma_f468eab0-293b-49c3-8108-48fa16b7baa3.html",
-     "data": "2026-07-22T07:37:53+00:00"
-    },
-    {
-     "titolo": "Tajani, il 28 e 29 luglio a Roma riunione su soluzione a due Stati",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/tajani-il-28-e-29-luglio-a-roma-riunione-su-soluzione-a-due-stati_15e547a8-7045-4417-8577-24221f4001d4.html",
-     "data": "2026-07-22T07:35:52+00:00"
-    },
-    {
-     "titolo": "Tajani, nuova sessione di dialogo sul Libano a Roma il 4 agosto",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/tajani-nuova-sessione-di-dialogo-sul-libano-a-roma-il-4-agosto_8a35d8ac-eb44-42f8-ad26-dc8f556d4ae3.html",
-     "data": "2026-07-22T07:32:09+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Al Cortile di Francesco sinergie e relazioni al servizio della vita",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/22/al-cortile-di-francesco-sinergie-e-relazioni-al-servizio-della-vita_52992d86-f20a-4b8e-9230-3544e3c54ead.html",
+     "data": "2026-07-22T11:09:56+00:00"
+    },
+    {
+     "titolo": "Successo per la prima Mediofondo di Assisi nel segno di san Francesco",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/22/successo-per-la-prima-mediofondo-di-assisi-nel-segno-di-san-francesco_af2285cd-0f9f-492b-8a64-63a9f6895c1e.html",
+     "data": "2026-07-22T10:52:50+00:00"
+    },
+    {
+     "titolo": "La Regione coinvolge i Comuni contro violenza di genere e discriminazioni",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/22/la-regione-coinvolge-i-comuni-contro-violenza-di-genere-e-discriminazioni_6d0b7896-5bbb-403d-8bc3-bfd5cd914d2b.html",
+     "data": "2026-07-22T10:56:02+00:00"
+    },
+    {
+     "titolo": "Minaccia di gettarsi da ottavo piano con la figlia di 11 mesi ma viene bloccato",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/22/minaccia-di-gettarsi-da-ottavo-piano-con-la-figlia-di-11-mesi-ma-viene-bloccato_1533d1e6-c9b8-46d4-af99-a0c013323f05.html",
+     "data": "2026-07-22T10:14:49+00:00"
+    },
+    {
+     "titolo": "Andrea Sfascia è il nuovo presidente sezione turismo di Confindustria Umbria",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/22/andrea-sfascia-e-il-nuovo-presidente-sezione-turismo-di-confindustria-umbria_5cd7c859-8d35-4dfb-95fc-9fa584c5223a.html",
+     "data": "2026-07-22T10:14:54+00:00"
+    },
+    {
+     "titolo": "De Luca, aumenteremo il riciclo dei rifiuti per creare ricchezza sul territorio",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/22/de-luca-aumenteremo-il-riciclo-dei-rifiuti-per-creare-ricchezza-sul-territorio_308ec6d4-2413-4638-8560-a6596d16d6f4.html",
+     "data": "2026-07-22T09:38:33+00:00"
+    },
+    {
+     "titolo": "Azienda Umbria-Toscana usa acqua di raccolta per difendere i vigneti dal caldo estremo",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/22/azienda-umbria-toscana-usa-acqua-di-raccolta-per-difendere-i-vigneti-dal_d91262e8-6868-4535-a67b-08e100e33158.html",
+     "data": "2026-07-22T09:18:26+00:00"
+    },
+    {
+     "titolo": "Sulla gestione dei rifiuti l'Umbria 'cambia paradigma' e diventa 'circolare'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/22/sulla-gestione-dei-rifiuti-lumbria-cambia-paradigma-e-diventa-circolare_3644507d-4a3f-4b67-b620-825bb52ab138.html",
+     "data": "2026-07-22T10:16:15+00:00"
+    },
     {
      "titolo": "Bandecchi, microspie in comune aprono scenari particolari",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/21/bandecchi-microspie-in-comune-aprono-scenari-particolari_dc89577c-7d77-4ffd-8199-740de4f7f2c2.html",
@@ -79,46 +119,6 @@
      "titolo": "Bandecchi mostra sui social la microspia trovata al comune di Terni",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/21/bandecchi-mostra-sui-social-la-microspia-trovata-al-comune-di-terni_bc71dffc-7eef-4090-9675-0ebecb104bcb.html",
      "data": "2026-07-21T18:16:44+00:00"
-    },
-    {
-     "titolo": "Andrea Catizone è la nuova direttrice dell'Università degli Studi di Perugia",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/21/andrea-catizone-e-la-nuova-direttrice-delluniversita-degli-studi-di-perugia_7c29fe7d-078c-4b55-bd14-0179d286aa56.html",
-     "data": "2026-07-21T17:07:22+00:00"
-    },
-    {
-     "titolo": "Alessio Lutazi eletto Consigliere delegato di Gesenu",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/21/alessio-lutazi-eletto-consigliere-delegato-di-gesenu_569b7f75-746c-4ddc-863c-3d6c7a9ef148.html",
-     "data": "2026-07-21T17:22:32+00:00"
-    },
-    {
-     "titolo": "Bandecchi, le cimici in Comune? Spero siano dei pm perché più naturale",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/21/bandecchi-le-cimici-in-comune-spero-siano-dei-pm-perche-piu-naturale_0a87624a-b949-4dd8-b09e-c6287ec597db.html",
-     "data": "2026-07-21T13:57:07+00:00"
-    },
-    {
-     "titolo": "Proseguono le operazioni per la cattura del lupo che ha aggredito una bimba ad Arrone",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/21/proseguono-le-operazioni-per-la-cattura-del-lupo-che-ha-aggredito-una-bimba_dd93571d-b98e-4a68-b938-32aa2ec15383.html",
-     "data": "2026-07-21T18:07:14+00:00"
-    },
-    {
-     "titolo": "Bandecchi, cimici per l'ascolto nelle prese elettriche del Comune di Terni",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/21/bandecchi-cimici-per-lascolto-nelle-prese-elettriche-del-comune-di-terni_64302b5d-dd1c-49c8-8fcb-95a419c83b74.html",
-     "data": "2026-07-21T14:00:57+00:00"
-    },
-    {
-     "titolo": "Più servizi dalla Misericordia di Perugia-Olmo che compie 20 anni",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/21/piu-servizi-dalla-misericordia-di-perugia-olmo-che-compie-20-anni_d1339b8e-91bd-481d-85d3-b18674992116.html",
-     "data": "2026-07-21T11:56:55+00:00"
-    },
-    {
-     "titolo": "Scoperta una crack house a Foligno, tavoli e poltrone per consumare la droga",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/21/scoperta-una-crack-house-a-foligno-tavoli-e-poltrone-per-consumare-la-droga_d0ef0be1-5de5-461e-b8bb-2495a1cfd7f0.html",
-     "data": "2026-07-21T11:37:38+00:00"
-    },
-    {
-     "titolo": "La Soprintendenza consegna i lavori di recupero delle Mura di Amelia",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/21/la-soprintendenza-consegna-i-lavori-di-recupero-delle-mura-di-amelia_d8428ec0-4bfe-4a7c-9863-791bd35af238.html",
-     "data": "2026-07-21T11:37:47+00:00"
     }
    ]
   },
@@ -126,70 +126,75 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Incendio minaccia cittadina dell'Agrigentino, sgomberate oltre 100 persone",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/incendio-minaccia-cittadina-dellagrigentino-sgomberate-oltre-100-persone_7846ef18-d019-41ba-947f-8a96952e3237.html",
-     "data": "2026-07-22T08:18:19+00:00"
+     "titolo": "Cade durante un corso di mountain bike, grave un bambino di 8 anni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/cade-durante-un-corso-di-mountain-bike-grave-un-bambino-di-8-anni_87374d45-162f-4f88-9bf6-76e6ef081ea5.html",
+     "data": "2026-07-22T11:08:37+00:00"
     },
     {
-     "titolo": "Incendio minaccia una cittadina dell'Agrigentino, sgomberate oltre 100 persone",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/incendio-minaccia-una-cittadina-dellagrigentino-sgomberate-oltre-100-persone-_8d447fe9-28ea-4c49-84ae-32121acba72d.html",
-     "data": "2026-07-22T08:53:51+00:00"
+     "titolo": "Morì nel 2022 dopo intervento agenti, presto nuovi accertamenti medico legali",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/mori-nel-2022-dopo-intervento-agenti-presto-nuovi-accertamenti-medico_81254b65-74d4-497a-a6e5-4917c27831ca.html",
+     "data": "2026-07-22T11:01:02+00:00"
     },
     {
-     "titolo": "Sequestro di materiale pedopornografico, sei arresti tra Lombardia e Campania",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/sequestro-di-materiale-pedopornografico-sei-arresti-tra-lombardia-e-campania_612c2ca3-8265-43cd-b608-f53c8c45f9eb.html",
-     "data": "2026-07-22T06:57:54+00:00"
+     "titolo": "Sindaco San Benedetto del Tronto, 'chiederemo lo stato di emergenza'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/sindaco-san-benedetto-del-tronto-chiederemo-lo-stato-di-emergenza_ec916100-7099-4f37-af20-407d5b064923.html",
+     "data": "2026-07-22T10:49:12+00:00"
     },
     {
-     "titolo": "Spara a ladri per tentato furto, custode denunciato nel Bolognese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/spara-a-ladri-per-tentato-furto-custode-denunciato-nel-bolognese_a95c8e9b-a4e2-4a43-8a5a-21028ab980ed.html",
-     "data": "2026-07-22T06:50:59+00:00"
+     "titolo": "S.Sede-Cina: ordinato il vescovo di Chifeng",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/s.sede-cina-ordinato-il-vescovo-di-chifeng_29a897ba-31b0-4aa3-94bf-cd6f83447085.html",
+     "data": "2026-07-22T10:32:34+00:00"
     },
     {
-     "titolo": "Ritrovato il corpo della bimba scomparsa nel lago di Como",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/ritrovato-il-corpo-della-bimba-scomparsa-nel-lago-di-como_521a2c70-fb35-45a4-a7d8-3093c9317813.html",
-     "data": "2026-07-21T21:54:36+00:00"
+     "titolo": "Sedicenne stuprata a Milano da un ragazzo conosciuto su Instagram",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/sedicenne-stuprata-a-milano-da-un-ragazzo-conosciuto-su-instagram-_729ddd17-0759-4e4f-965f-48698a809ce1.html",
+     "data": "2026-07-22T10:25:16+00:00"
     },
     {
-     "titolo": "Uccise un ladro durante un furto, definitiva la condanna del tabaccaio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/uccise-un-ladro-durante-un-furto-definitiva-la-condanna-del-tabaccaio_e5487deb-84d3-44ad-b6de-96a60f96d726.html",
-     "data": "2026-07-21T19:53:50+00:00"
+     "titolo": "Travolto da un'auto mentre è sul monopattino, muore ragazzo di 16 anni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/travolto-da-unauto-mentre-e-sul-monopattino-muore-ragazzo-di-16-anni_6572eea6-08f9-4555-8000-efc93bef489b.html",
+     "data": "2026-07-22T10:17:40+00:00"
     },
     {
-     "titolo": "Lite famigliare a cena, morto in ospedale il nonno 87enne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/lite-famigliare-a-cena-morto-in-ospedale-il-nonno-87enne_cea5bb3a-dea2-4ba7-83b8-1a822faa7da6.html",
-     "data": "2026-07-21T20:05:23+00:00"
+     "titolo": "Minaccia di gettarsi da ottavo piano con la figlia di 11 mesi ma viene bloccato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/minaccia-di-gettarsi-da-ottavo-piano-con-la-figlia-di-11-mesi-ma-viene-bloccato_215ce8ae-3565-482d-b39e-59691444eab9.html",
+     "data": "2026-07-22T10:14:19+00:00"
     },
     {
-     "titolo": "Caso arbitri, 'non prove ma suggestioni degradate anche a illazioni'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/caso-arbitri-non-prove-ma-suggestioni-degradate-anche-a-illazioni_7ff5b43b-eaf3-4c92-b39b-f399bd91966c.html",
-     "data": "2026-07-21T19:32:43+00:00"
+     "titolo": "Sedicenne stuprata a Milano da un ragazzo conosciuto su Instagram",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/sedicenne-stuprata-a-milano-da-un-ragazzo-conosciuto-su-instagram_c35650d4-c5a6-4bbf-ba23-fa7f8e775754.html",
+     "data": "2026-07-22T10:03:42+00:00"
     },
     {
-     "titolo": "Avvolto nel mistero l'omicidio del giornalista, si cerca l'arma del delitto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/avvolto-nel-mistero-lomicidio-del-giornalista-si-cerca-larma-del-delitto_3766b099-cddf-402d-91ec-2a9d2d49f070.html",
-     "data": "2026-07-21T18:57:19+00:00"
+     "titolo": "Fedez resta ricoverato, ora è all'Humanitas",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/fedez-resta-ricoverato-ora-e-allhumanitas_d8f4684b-a865-4153-be4d-673d34bd85e6.html",
+     "data": "2026-07-22T09:53:23+00:00"
     },
     {
-     "titolo": "Le linee guida sul fermo e altri video al vaglio dei pm di Bologna",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/le-linee-guida-sul-fermo-e-altri-video-al-vaglio-dei-pm-di-bologna_a546ba6d-feab-4a95-b57d-0b6eeb5e4e4b.html",
-     "data": "2026-07-21T18:31:04+00:00"
+     "titolo": "Farà meno caldo, fase tranquilla fino a sabato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/fara-meno-caldo-fase-tranquilla-fino-a-sabato_545f8ae0-a8f2-4d21-8ddb-0566beac8060.html",
+     "data": "2026-07-22T09:50:38+00:00"
     },
     {
-     "titolo": "Domato incendio a Capistrello, a Rocca di Mezzo in azione 5 mezzi aerei",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/domato-incendio-a-capistrello-a-rocca-di-mezzo-in-azione-5-mezzi-aerei_ccd8e79a-24eb-475a-af8b-6daefc66212e.html",
-     "data": "2026-07-21T18:19:15+00:00"
+     "titolo": "Maltempo in Italia, violente grandinate nelle Marche e in Abruzzo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/maltempo-in-italia-violente-grandinate-nelle-marche.-il-pd-la-regione-chieda-lo-stato-di-emergenza_4ec616eb-86ad-4baa-8e78-6f26ce47080a.html",
+     "data": "2026-07-22T11:05:58+00:00"
     },
     {
-     "titolo": "Caso arbitri, 'non prove ma suggestioni degradate anche a illazioni'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/caso-arbitri-non-prove-ma-suggestioni-degradate-anche-a-illazioni_976057e7-535b-4e8f-a936-fb0c0e2f843a.html",
-     "data": "2026-07-21T18:15:40+00:00"
+     "titolo": "Grandine nel Teramano, Cna 'Regione Abruzzo chieda stato calamità naturale'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/grandine-nel-teramano-cna-regione-abruzzo-chieda-stato-calamita-naturale_641b10fc-bda4-437b-b74b-ddb4f2b4ad8a.html",
+     "data": "2026-07-22T09:38:52+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Caso Delmastro, la Camera boccia la richiesta dei pm sulle chat con Caroccia",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/22/caso-delmastro-la-camera-boccia-la-richiesta-dei-pm-sulle-chat_0585e1bd-5302-4277-8ff9-5aff52807480.html",
+     "data": "2026-07-22T11:18:43+00:00"
+    },
     {
      "titolo": "Vannacci, centrodestra e sinistra provano a censurarmi, ma amplificano le mie idee",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/22/vannacci-centrodestra-e-sinistra-provano-a-censurarmi-ma-amplificano-le-mie-idee_ddc583e4-5380-4a38-957a-aa920d92b676.html",
@@ -208,7 +213,7 @@
     {
      "titolo": "Indro Montanelli, 25 anni fa moriva l'ultimo inviato d'assalto",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/22/indro-montanelli-25-anni-fa-moriva-lultimo-inviato-dassalto_ede4cfeb-91e4-4698-9b0b-ad491e6bde84.html",
-     "data": "2026-07-22T05:32:47+00:00"
+     "data": "2026-07-22T09:43:34+00:00"
     },
     {
      "titolo": "Maggioranza divisa, il ddl col reintegro dei medici no vax esce dall'ordine del giorno",
@@ -244,17 +249,42 @@
      "titolo": "Ancora nodi da sciogliere, legge elettorale in Aula a settembre",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/21/al-via-liter-in-senato-sulla-legge-elettorale.-le-opposizioni-forzatura-sulle-audizioni_7a82ea94-6727-4a32-a072-74415df430f1.html",
      "data": "2026-07-21T19:24:58+00:00"
-    },
-    {
-     "titolo": "Ilaria Cucchi: 'Con le parole della nipote di Fakir ho rivissuto un dolore, in atto una macchina del fango'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/21/ilaria-cucchi-con-le-parole-della-nipote-di-fakir-ho-rivissuto-un-dolore-in-atto_a1db7e5a-9fc7-4e56-9ec4-2026c982e8d5.html",
-     "data": "2026-07-21T12:58:19+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Inps, nel primo semestre nuove pensioni donne inferiori 30% a uomini, cresce divario",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/inps-nel-primo-semestre-nuove-pensioni-donne-inferiori-30-a-uomini-cresce_7fe040b4-1183-462e-bb8c-969a417444b3.html",
+     "data": "2026-07-22T11:15:50+00:00"
+    },
+    {
+     "titolo": "Vard (Fincantieri) costruirà due unità multifunzione per Autorità Fari Inghilterra",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/vard-fincantieri-costruira-due-unita-multifunzione-per-autorita-fari-inghilterra_7f41858e-9c72-4ae4-a475-e73f1d6459e8.html",
+     "data": "2026-07-22T10:41:53+00:00"
+    },
+    {
+     "titolo": "Motus-E, crescita record per la rete delle colonnine per auto elettriche",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/motus-e-crescita-record-per-la-rete-delle-colonnine-per-auto-elettriche_08c7b11f-fc35-433d-b236-1c4a0480fa36.html",
+     "data": "2026-07-22T10:39:31+00:00"
+    },
+    {
+     "titolo": "Akira Yamaguchi nuovo marketing director di Jti Italia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/akira-yamaguchi-nuovo-marketing-director-di-jti-italia_64f55957-ae06-41b5-9b50-4bfcde0cd02b.html",
+     "data": "2026-07-22T10:30:37+00:00"
+    },
+    {
+     "titolo": "Pirelli, in Germania le gomme a fine vita e di scarto 'rinascono'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/pirelli-in-germania-le-gomme-a-fine-vita-e-di-scarto-rinascono_c08ed6a4-6a3a-4dab-82f6-669332721536.html",
+     "data": "2026-07-22T10:12:05+00:00"
+    },
+    {
+     "titolo": "Istat, italiani più solidali, salgono aiuti informali a parenti e amici",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/istat-italiani-piu-solidali-salgono-aiuti-informali-a-parenti-e-amici_3ef4127a-8935-424b-9c06-359df00a7b5a.html",
+     "data": "2026-07-22T09:45:16+00:00"
+    },
     {
      "titolo": "Borsa: Europa gira in rialzo con l'energia",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/borsa-europa-gira-in-rialzo-con-lenergia_9d1eb2bc-6138-4e9c-b18c-6c65cc310a16.html",
@@ -284,42 +314,32 @@
      "titolo": "Borsa: Europa incerta, indici poco variati in avvio",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/borsa-europa-incerta-indici-poco-variati-in-avvio_1ac26ce6-aa10-4ef3-98b7-9594c3ef61cf.html",
      "data": "2026-07-22T07:13:04+00:00"
-    },
-    {
-     "titolo": "Mimit, prezzi carburanti in aumento, benzina self venduta a 1,949 euro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/mimit-prezzi-carburanti-in-aumento-benzina-self-venduta-a-1949-euro_8e90731d-c399-4e09-a57d-d12ffc1ad6a6.html",
-     "data": "2026-07-22T07:13:38+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre in calo. Ftse Mib -0,35%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/borsa-milano-apre-in-calo.-ftse-mib-035_ce34d0ba-0d35-4240-a9a4-6486d5cb17fc.html",
-     "data": "2026-07-22T07:13:01+00:00"
-    },
-    {
-     "titolo": "Nel 2025 le pmi italiane hanno venduto per 4 miliardi di euro su Amazon",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/nel-2025-le-pmi-italiane-hanno-venduto-per-4-miliardi-di-euro-su-amazon_891fdcfd-df68-4db1-bcf3-ba05e331ccf8.html",
-     "data": "2026-07-22T07:01:58+00:00"
-    },
-    {
-     "titolo": "Borsa: Asia oscilla, tecnologici cauti in attesa conti Alphabet",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/borsa-asia-oscilla-tecnologici-cauti-in-attesa-conti-alphabet_fa091d04-3ec0-4f69-9a01-3022717bbdfb.html",
-     "data": "2026-07-22T07:02:06+00:00"
-    },
-    {
-     "titolo": "Lo spread Btp-Bund apre a 83 punti, rendimento italiano al 4%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/lo-spread-btp-bund-apre-a-83-punti-rendimento-italiano-al-4_35c34f45-a343-4c27-87ff-bc3d89f044c0.html",
-     "data": "2026-07-22T06:55:16+00:00"
-    },
-    {
-     "titolo": "Gas: future in rialzo in apertura a 60,61 euro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/gas-future-in-rialzo-in-apertura-a-6061-euro_c3a2fb34-ce8e-4175-b3c1-5575712d70f7.html",
-     "data": "2026-07-22T06:52:40+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Il principe George compie 13 anni, una foto da teenager per festeggiarlo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/22/il-principe-george-compie-13-anni-una-foto-da-teenager-per-festeggiarlo_1c46df40-e465-4768-86f3-1ae0e87e22ce.html",
+     "data": "2026-07-22T09:50:27+00:00"
+    },
+    {
+     "titolo": "Trovato morto a Parigi Siad, presunto reclutatore del pedofilo Epstein",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/22/trovato-morto-a-parigi-siad-presunto-reclutatore-del-pedofilo-epstein_37bdd848-02e8-4cda-890c-eaaa6e5bc5ca.html",
+     "data": "2026-07-22T09:30:56+00:00"
+    },
+    {
+     "titolo": "Trovato morto a Parigi Siad, presunto reclutatore del pedofilo Epstein",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/22/trovato-morto-a-parigi-siad-presunto-reclutatore-del-pedofilo-epstein_fd692460-7dbf-4ca2-b9bb-93ece22285b2.html",
+     "data": "2026-07-22T09:31:13+00:00"
+    },
+    {
+     "titolo": "Gli abitanti di Cuba continuano a calare, ora sono meno di 9,5 milioni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/gli-abitanti-di-cuba-continuano-a-calare-ora-sono-meno-di-95-milioni_ec15d917-49fc-4bdd-9bcc-bb1f14174021.html",
+     "data": "2026-07-22T09:10:06+00:00"
+    },
     {
      "titolo": "Media, 'sei missili iraniani su Aqaba, quattro intercettati e nessun danno'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/22/media-sei-missili-iraniani-su-aqaba-quattro-intercettati-e-nessun-danno_06e00a93-5769-447b-8863-0f4da3ddad22.html",
@@ -359,26 +379,6 @@
      "titolo": "Il Congresso cileno approva la riforma fiscale del governo Kast",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/il-congresso-cileno-approva-la-riforma-fiscale-del-governo-kast_bc1757ea-abd5-439c-b7b2-f2076b0f86b5.html",
      "data": "2026-07-22T07:32:41+00:00"
-    },
-    {
-     "titolo": "Tajani, nuova sessione di dialogo sul Libano a Roma il 4 agosto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/22/tajani-nuova-sessione-di-dialogo-sul-libano-a-roma-il-4-agosto_bfa39311-1cad-4268-88b7-a08f02548056.html",
-     "data": "2026-07-22T07:31:56+00:00"
-    },
-    {
-     "titolo": "Arrivato a Cuba il primo volo di aiuti umanitari degli Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/arrivato-a-cuba-il-primo-volo-di-aiuti-umanitari-degli-usa_636abbc4-00c4-4a6c-a72d-92f01b366514.html",
-     "data": "2026-07-22T06:41:50+00:00"
-    },
-    {
-     "titolo": "Rubio, controllo iraniano su Hormuz sarebbe precedente pericoloso",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/22/rubio-controllo-iraniano-su-hormuz-sarebbe-precedente-pericoloso_3579f4bb-7e68-4290-88be-a4a2540f662d.html",
-     "data": "2026-07-22T03:26:05+00:00"
-    },
-    {
-     "titolo": "Ferrero investe 86 milioni di dollari nel suo impianto in Messico",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/ferrero-investe-86-milioni-di-dollari-nel-suo-impianto-in-messico_b533f1d7-421b-4310-b529-16e0e1cc5084.html",
-     "data": "2026-07-22T03:02:16+00:00"
     }
    ]
   },
@@ -451,6 +451,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Tour: tutti i corridori sottoposti a test antidoping",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/22/tour-tutti-i-corridori-sottoposti-a-test-antidoping_dd36b08a-1b8d-4b6e-93f7-cc0bd7b90ec1.html",
+     "data": "2026-07-22T10:17:11+00:00"
+    },
+    {
+     "titolo": "Lutto per Montella, morta la sorella Caterina",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/22/lutto-per-montella-morta-la-sorella-caterina_b352489c-0182-4159-b267-2e4d0cdb2a62.html",
+     "data": "2026-07-22T10:08:28+00:00"
+    },
+    {
+     "titolo": "Pallavolo: 3-0 all'Olanda, azzurre in semifinale di Nations League",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/07/22/pallavolo-3-0-allolanda-azzurre-in-semifinale-di-nations-league_0772ea3c-d1ea-43b7-8ad6-260d5b9a5d4d.html",
+     "data": "2026-07-22T09:32:35+00:00"
+    },
+    {
      "titolo": "Sinner guida gli otto azzurri agli Us Open, in tabellone c'è Alcaraz",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/22/sinner-guida-gli-otto-azzurri-agli-us-open-in-tabellone-ce-alcaraz_8c1fca52-a0c3-4416-b43c-b5d77894829b.html",
      "data": "2026-07-22T08:34:58+00:00"
@@ -494,21 +509,6 @@
      "titolo": "Donnarumma si sposa, il 24 luglio le nozze a Locorotondo",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/donnarumma-si-sposa-il-24-luglio-le-nozze-a-locorotondo_df375c45-6691-43d4-877f-08a61fe94cae.html",
      "data": "2026-07-21T18:40:06+00:00"
-    },
-    {
-     "titolo": "L'ambasciatore spagnolo in Argentina, giocare la Finalissima in omaggio a Messi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/lambasciatore-spagnolo-in-argentina-giocare-la-finalissima-in-omaggio-a-messi_a9a9523f-cf3c-4e7b-8b29-a21eb430fb20.html",
-     "data": "2026-07-21T18:38:21+00:00"
-    },
-    {
-     "titolo": "Modric e Milan ancora insieme, accordo fino al 2027",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/modric-e-milan-ancora-insieme-accordo-fino-al-2027_8302de7c-1a25-47d0-85bc-c87c69d517c3.html",
-     "data": "2026-07-21T18:18:21+00:00"
-    },
-    {
-     "titolo": "Caso arbitri, 'non prove ma suggestioni degradate anche a illazioni'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/caso-arbitri-non-prove-ma-suggestioni-degradate-anche-a-illazioni_25f982ed-8343-440b-b287-9d0f56398974.html",
-     "data": "2026-07-21T18:15:43+00:00"
     }
    ]
   }
