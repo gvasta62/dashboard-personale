@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-22T20:04:04.136268+00:00",
+ "aggiornato": "2026-07-22T21:33:25.349456+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Calcio: Romagnoli convocato dalla Lazio, il difensore atteso in ritiro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/calcio-romagnoli-convocato-dalla-lazio-il-difensore-atteso-in-ritiro_93cb76d8-8ed1-4e63-bb74-61e6dd98aca2.html",
+     "data": "2026-07-22T20:53:59+00:00"
+    },
     {
      "titolo": "Araghchi replica a Trump minacciando 'occhio per occhio'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/araghchi-replica-a-trump-minacciando-occhio-per-occhio_034614c6-ad41-44f8-b9c3-30b0151c672e.html",
@@ -49,11 +54,6 @@
      "titolo": "Il prezzo del gas chiude oltre i 60 euro, ai massimi da marzo scorso",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/il-prezzo-del-gas-chiude-oltre-i-60-euro-ai-massimi-da-marzo-scorso_b4382137-d406-4d29-a2d6-cd51ea3a945b.html",
      "data": "2026-07-22T16:45:42+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude stabile a 82 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/lo-spread-tra-btp-e-bund-chiude-stabile-a-82-punti_2285666c-13bf-4167-b083-edfe3c6c5bad.html",
-     "data": "2026-07-22T16:07:34+00:00"
     }
    ]
   },
@@ -168,7 +168,7 @@
     {
      "titolo": "In un video la rianimazione di Fakir, 'legato e volto marrone per lo spray",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/in-video-la-rianimazione-di-fakir-legato-e-volto-marrone-per-lo-spray_ab1cd085-eda0-4af3-8d0b-183c55d500b0.html",
-     "data": "2026-07-22T19:18:00+00:00"
+     "data": "2026-07-22T20:13:40+00:00"
     },
     {
      "titolo": "Vigile del fuoco colto da malore, muore mentre spegne un incendio",
@@ -178,18 +178,23 @@
     {
      "titolo": "Investe con l'auto una coppia e poi accoltella a morte il ragazzo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/investe-con-lauto-una-coppia-e-poi-accoltella-a-morte-ragazzo_d8577a59-9bdb-4182-8826-3265118403ff.html",
-     "data": "2026-07-22T19:37:48+00:00"
+     "data": "2026-07-22T20:23:45+00:00"
     },
     {
      "titolo": "Scossa nel centrodestra milanese, il capogruppo di FI va con Vannacci",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/scossa-nel-centrodestra-milanese-il-capogruppo-di-fi-va-con-vannacci_6c8f76fc-aeb0-4eba-9f65-037bb97951a1.html",
-     "data": "2026-07-22T19:20:19+00:00"
+     "data": "2026-07-22T20:06:10+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Mario Calabresi valuta una possibile candidatura a sindaco di Milano",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/22/mario-calabresi-valuta-una-possibile-candidatura-a-sindaco-di-milano_ada69c87-c839-43a7-8481-c4214470a4bc.html",
+     "data": "2026-07-22T21:30:20+00:00"
+    },
     {
      "titolo": "Il capogruppo di FI a Milano Luca Bernardo aderisce a Futuro Nazionale",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/22/il-capogruppo-di-fi-a-milano-luca-bernardo-aderisce-a-futuro-nazionale_bfc061c7-475e-4c61-8835-a9105007717b.html",
@@ -244,11 +249,6 @@
      "titolo": "Meloni: \"Sulle preferenze non ho cambiato idea\"",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/22/meloni-sulle-preferenze-non-ho-cambiato-idea_0b06c19e-ffe0-4d06-91a8-3057fc9f9805.html",
      "data": "2026-07-22T08:24:49+00:00"
-    },
-    {
-     "titolo": "Tajani: 'Il 28 e 29 luglio a Roma la riunione per la soluzione a due Stati'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/22/tajani-il-28-e-29-luglio-a-roma-riunione-su-soluzione-a-due-stati_f52e79bc-57e7-4d8e-a655-d2b98f1decfa.html",
-     "data": "2026-07-22T12:28:23+00:00"
     }
    ]
   },
@@ -321,6 +321,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Rapporto Onu su traffico di droga conferma l'Ecuador come snodo logistico",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/rapporto-onu-su-traffico-di-droga-conferma-lecuador-come-snodo-logistico_8d898c2b-3d18-48bb-b149-49bdc26799c0.html",
+     "data": "2026-07-22T20:41:15+00:00"
+    },
+    {
      "titolo": "Parlamento Nicaragua voterà ad agosto legge per cancellare le elezioni",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/parlamento-nicaragua-votera-ad-agosto-legge-per-cancellare-le-elezioni_d2c075f3-defd-497d-9f43-7d33942e7761.html",
      "data": "2026-07-22T19:43:35+00:00"
@@ -374,11 +379,6 @@
      "titolo": "'Zelensky ha parlato con Witkoff e Kushner sugli sforzi per la fine della guerra'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/22/zelensky-ha-parlato-con-witkoff-e-kushner-sugli-sforzi-per-la-fine-della_b021550a-8ee5-4851-ba84-74289e13448f.html",
      "data": "2026-07-22T18:11:15+00:00"
-    },
-    {
-     "titolo": "Terremoto in Venezuela, governo chiede test genetici per identificare le vittime",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/terremoto-in-venezuela-governo-chiede-test-genetici-per-identificare-le-vittime_d53d81c0-40a0-45aa-a889-8ee9e8276764.html",
-     "data": "2026-07-22T18:03:04+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: Romagnoli convocato dalla Lazio, il difensore atteso in ritiro",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/22/calcio-romagnoli-convocato-dalla-lazio-il-difensore-atteso-in-ritiro_b1a9dbe6-a59b-4cd1-b559-50e58f92d19e.html",
+     "data": "2026-07-22T20:54:02+00:00"
+    },
+    {
      "titolo": "Malagò-Mancini vincono con l'Aniene, n.1 Figc 'non penso il ct arrivi domani'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/22/malago-mancini-vincono-con-laniene-n.1-figc-non-penso-il-ct-arrivi_ed7b6d30-b284-4a62-a360-20feb3bc3edf.html",
      "data": "2026-07-22T19:54:20+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Il Tour si avvia al gran finale, prima gioia di Philipsen",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/22/il-tour-si-avvia-al-gran-finale-prima-gioia-di-philipsen_7888ccbc-280d-4b15-827f-4ae41a6c89eb.html",
      "data": "2026-07-22T18:33:25+00:00"
-    },
-    {
-     "titolo": "Il Bologna pareggia la seconda amichevole, 1-1 con l'Heidenheim",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/22/il-bologna-pareggia-la-seconda-amichevole-1-1-con-lheidenheim_767c2355-876e-405d-90ec-f13c15cedaef.html",
-     "data": "2026-07-22T16:22:15+00:00"
     }
    ]
   }
