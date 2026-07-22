@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-22T14:51:07.542282+00:00",
+ "aggiornato": "2026-07-22T16:11:07.242710+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: l'Europa chiude in rialzo con l'Ia, lente su Medio Oriente",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/borsa-leuropa-chiude-in-rialzo-con-lia-lente-su-medio-oriente_160f8988-5190-457b-834f-27be54a5c513.html",
+     "data": "2026-07-22T15:57:32+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude in rialzo dello 0,97%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/borsa-milano-chiude-in-rialzo-dello-097_1fd3f637-1050-4b64-8935-8acf5fe06a82.html",
+     "data": "2026-07-22T15:41:43+00:00"
+    },
+    {
+     "titolo": "Roggero, ufficio sorveglianza Torino respinge istanza scarcerazione",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/roggero-ufficio-sorveglianza-torino-respinge-istanza-scarcerazione_7135658d-e497-4d5f-9758-8e002622458e.html",
+     "data": "2026-07-22T15:40:23+00:00"
+    },
     {
      "titolo": "Operaio precipita capannone industriale e muore nel leccese",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/operaio-precipita-capannone-industriale-e-muore-nel-leccese_51a60556-b7f8-4baf-a0f1-f8283fec2b9c.html",
@@ -39,21 +54,6 @@
      "titolo": "L'Ue sconsiglia alle compagnie aeree di sorvolare la Giordania",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/lue-sconsiglia-alle-compagnie-aeree-di-sorvolare-la-giordania_7cd9f29e-aa28-40d8-9c81-687bd77fb889.html",
      "data": "2026-07-22T13:18:04+00:00"
-    },
-    {
-     "titolo": "Trump, ogni volta che l'Iran spara a Hormuz colpiremo un ponte o centrale elettrica",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/trump-ogni-volta-che-liran-spara-a-hormuz-colpiremo-un-ponte-o-centrale_c3794bb6-3b10-4050-b05b-3e60680f9412.html",
-     "data": "2026-07-22T13:10:29+00:00"
-    },
-    {
-     "titolo": "Malore in piscina, muore un bimbo di 5 anni vicino Roma",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/malore-in-piscina-muore-un-bimbo-di-5-anni-vicino-roma_9ec62b2a-b076-4ca3-8a19-c0eb17bb082e.html",
-     "data": "2026-07-22T12:33:13+00:00"
-    },
-    {
-     "titolo": "Attentato a Ranucci, il Riesame conferma arresti e metodo mafioso",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/attentato-a-ranucci-il-riesame-conferma-arresti-e-metodo-mafioso_7715b3f1-4142-4e00-8930-c6657ef562d3.html",
-     "data": "2026-07-22T12:22:52+00:00"
     }
    ]
   },
@@ -126,64 +126,64 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Maltempo, a Pescara raffiche di vento fino a 80 chilometri orari",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/maltempo-a-pescara-raffiche-di-vento-fino-a-80-chilometri-orari_c6d10c52-ca02-43c6-9ced-6d1d28809b7f.html",
-     "data": "2026-07-22T14:33:05+00:00"
+     "titolo": "Roggero, ufficio sorveglianza Torino respinge istanza scarcerazione",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/roggero-ufficio-sorveglianza-torino-respinge-istanza-scarcerazione_e2dc460d-ee53-408d-bcf6-473ce174a73e.html",
+     "data": "2026-07-22T15:40:20+00:00"
     },
     {
-     "titolo": "Ragazze morirono in incidente stradale in Calabria, condannato a tre anni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/ragazze-morirono-in-incidente-stradale-in-calabria-condannato-a-tre-anni_696fcdb0-b8c2-4ab7-b298-6ca8413a63e6.html",
-     "data": "2026-07-22T14:15:28+00:00"
+     "titolo": "L'ufficio di sorveglianza di Torino respinge l'istanza di scarcerazione per Roggero",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/lufficio-di-sorveglianza-di-torino-respinge-listanza-di-scarcerazione-per-roggero_b08714c0-0422-40cf-8392-ff97c91a6014.html",
+     "data": "2026-07-22T15:52:49+00:00"
     },
     {
-     "titolo": "Volontari della Cri assolti per il caso Magherini, 'scenario non sicuro'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/volontari-della-cri-assolti-per-il-caso-magherini-scenario-non-sicuro_12413e1f-1605-4a3a-8b63-b5cdcfde4fcf.html",
-     "data": "2026-07-22T14:18:24+00:00"
+     "titolo": "Operaio 60enne muore in cantiere, Cgil e Fillea chiedono chiarezza",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/operaio-60enne-muore-in-cantiere-cgil-e-fillea-chiedono-chiarezza_bef19dfb-4c6e-468e-9ed4-990ca5f01faa.html",
+     "data": "2026-07-22T15:32:11+00:00"
     },
     {
-     "titolo": "Si 'rompe' l'aorta, donna in gravidanza operata con il bimbo ancora in utero",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/si-rompe-laorta-donna-in-gravidanza-operata-con-il-bimbo-ancora-in-utero_949aed5d-3798-49db-b2c7-e553a7cc5c6a.html",
-     "data": "2026-07-22T14:10:56+00:00"
+     "titolo": "Morte di Fakir, a Pisa scritte anti-polizia anche sui muri della prefettura",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/morte-di-fakir-a-pisa-scritte-anti-polizia-anche-sui-muri-della_958974c5-94d6-45ef-967c-c2015592c526.html",
+     "data": "2026-07-22T15:31:15+00:00"
     },
     {
-     "titolo": "Operaio precipita capannone industriale e muore nel leccese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/operaio-precipita-capannone-industriale-e-muore-nel-leccese_fdf741c2-e29e-42c9-9c20-d686bbad58af.html",
-     "data": "2026-07-22T13:58:04+00:00"
+     "titolo": "Il matematico della Sissa, Rozza, eletto Fellow e vicepresidente di Eccomas",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/il-matematico-della-sissa-rozza-eletto-fellow-e-vicepresidente-di-eccomas_c6f26e07-5bcf-4c1a-9ce0-4ccf19fa6576.html",
+     "data": "2026-07-22T15:29:19+00:00"
     },
     {
-     "titolo": "Tribunale di Bolzano crollato, verso un decreto per lo svolgimento dei processi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/tribunale-di-bolzano-crollato-verso-un-decreto-per-lo-svolgimento-dei-processi_99780fdf-3495-420b-817d-701f673f8e38.html",
-     "data": "2026-07-22T13:53:41+00:00"
+     "titolo": "Dall'azienda sanitaria attrezzature all'Esercito per gli ospedali in Libano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/dallazienda-sanitaria-attrezzature-allesercito-per-gli-ospedali-in-libano_1b9394a5-6464-4909-a680-8c9d839270a5.html",
+     "data": "2026-07-22T15:27:10+00:00"
     },
     {
-     "titolo": "Auto sulla folla a Modena, donna 55enne muore dopo due mesi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/auto-sulla-folla-a-modena-donna-55enne-muore-dopo-due-mesi_5a2d738d-e921-4a33-9ce1-06dc7c659e2b.html",
-     "data": "2026-07-22T14:23:44+00:00"
+     "titolo": "Un apparente controsenso della gastronomia, la pizzeria 'Gorizia' a Napoli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/un-apparente-controsenso-della-gastronomia-la-pizzeria-gorizia-a-napoli_ea4dc599-191d-4bc5-8aac-55def765c2a1.html",
+     "data": "2026-07-22T15:27:56+00:00"
     },
     {
-     "titolo": "Auto sulla folla a Modena, 55enne muore dopo due mesi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/auto-sulla-folla-a-modena-55enne-muore-dopo-due-mesi_58fa5021-c953-4f5a-906f-6cfffd57ab1e.html",
-     "data": "2026-07-22T13:18:39+00:00"
+     "titolo": "Esplosione distributore Gpl a Roma, cinque rischiano il processo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/esplosione-distributore-gpl-a-roma-cinque-rischiano-il-processo_f4d342f3-1715-4fcd-8c10-1d6fe54a2556.html",
+     "data": "2026-07-22T15:12:18+00:00"
     },
     {
-     "titolo": "Ancora caldo in Sicilia, il termometro supera i 46 gradi a Siracusa",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/ancora-caldo-in-sicilia-il-termometro-supera-i-46-gradi-a-siracusa_ceab6847-fc62-47fa-8584-a5af52d96995.html",
-     "data": "2026-07-22T13:07:17+00:00"
+     "titolo": "La Rete Cardiologica Irccs del Ministero Salute avvia la progettazione permanente",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/la-rete-cardiologica-irccs-del-ministero-salute-avvia-la-progettazione-permanente_5f566239-3c5c-4b45-b480-0404d1696f89.html",
+     "data": "2026-07-22T15:09:12+00:00"
     },
     {
-     "titolo": "Bandecchi, 'le microspie in Comune sono un caso politico-malavitoso'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/bandecchi-le-microspie-in-comune-sono-un-caso-politico-malavitoso_93e8cde2-fbe0-494d-8645-500a6dc0bd8a.html",
-     "data": "2026-07-22T12:46:06+00:00"
+     "titolo": "Donna trovata morta a Torino, disposta per domani l'autopsia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/donna-trovata-morta-a-torino-disposta-per-domani-lautopsia_451cfcf0-e067-40ef-ab85-34e7dae703b8.html",
+     "data": "2026-07-22T14:59:45+00:00"
     },
     {
-     "titolo": "Gatti come inneschi per gli incendi, dagli animalisti una taglia di 1.000 euro sui piromani",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/gatti-come-inneschi-per-gli-incendi-dagli-animalisti-una-taglia_0dc40c29-c41e-4854-b921-03f38ddae0d6.html",
-     "data": "2026-07-22T13:03:05+00:00"
+     "titolo": "Omicidio Boiocchi, va a processo in Assise anche l'ultrà interista Mauro Nepi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/omicidio-boiocchi-va-a-processo-in-assise-anche-lultra-interista-mauro-nepi_b81fbcaf-c7df-4463-86f2-f076f61cc560.html",
+     "data": "2026-07-22T14:45:11+00:00"
     },
     {
-     "titolo": "Gatti come inneschi per gli incendi, da animalisti una taglia sui piromani",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/gatti-come-inneschi-per-gli-incendi-da-animalisti-una-taglia-sui_fe3cb7c0-ef55-4168-9249-5e5c46d0f30e.html",
-     "data": "2026-07-22T12:39:13+00:00"
+     "titolo": "Altri video mostrano Fakir prima dell'intervento in stato confusionale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/altri-video-mostrano-fakir-prima-dellintervento-in-stato-confusionale_a41f65d9-a79b-4763-b064-957d52e4b4f4.html",
+     "data": "2026-07-22T15:29:31+00:00"
     }
    ]
   },
@@ -223,7 +223,7 @@
     {
      "titolo": "Caso Delmastro, la Camera boccia la richiesta dei pm sulle chat con Caroccia. I senatori del M5s occupano i banchi del governo",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/22/caso-delmastro-la-camera-boccia-la-richiesta-dei-pm-sulle-chat_0585e1bd-5302-4277-8ff9-5aff52807480.html",
-     "data": "2026-07-22T12:44:53+00:00"
+     "data": "2026-07-22T15:42:45+00:00"
     },
     {
      "titolo": "Vannacci, centrodestra e sinistra provano a censurarmi, ma amplificano le mie idee",
@@ -255,6 +255,21 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: l'Europa chiude in rialzo con l'Ia, lente su Medio Oriente",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/borsa-leuropa-chiude-in-rialzo-con-lia-lente-su-medio-oriente_d250acd2-c4ac-4cce-b2ed-b27d56488999.html",
+     "data": "2026-07-22T15:57:41+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude in rialzo dello 0,97%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/borsa-milano-chiude-in-rialzo-dello-097_f21a0445-a588-49d2-ab24-9cacd535551c.html",
+     "data": "2026-07-22T15:42:07+00:00"
+    },
+    {
+     "titolo": "Revolut, al via vendita di azioni dipendenti. Gruppo stimato a 115 miliardi dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/revolut-al-via-vendita-di-azioni-dipendenti.-gruppo-stimato-a-115-miliardi-dollari_ffdfdce1-4268-4ecf-a7b2-7e5261e247d0.html",
+     "data": "2026-07-22T15:04:07+00:00"
+    },
     {
      "titolo": "Prysmian e Relativity Networks concludono test sulla fibra a nucleo cavo",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/prysmian-e-relativity-networks-concludono-test-sulla-fibra-a-nucleo-cavo_ded4007c-3c9b-41c7-a719-b1547e0cb075.html",
@@ -299,27 +314,17 @@
      "titolo": "Inps, nel primo semestre nuove pensioni donne inferiori 30% a uomini, cresce divario",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/inps-nel-primo-semestre-nuove-pensioni-donne-inferiori-30-a-uomini-cresce_7fe040b4-1183-462e-bb8c-969a417444b3.html",
      "data": "2026-07-22T11:15:50+00:00"
-    },
-    {
-     "titolo": "Vard (Fincantieri) costruirà due unità multifunzione per Autorità Fari Inghilterra",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/vard-fincantieri-costruira-due-unita-multifunzione-per-autorita-fari-inghilterra_7f41858e-9c72-4ae4-a475-e73f1d6459e8.html",
-     "data": "2026-07-22T10:41:53+00:00"
-    },
-    {
-     "titolo": "Motus-E, crescita record per la rete delle colonnine per auto elettriche",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/motus-e-crescita-record-per-la-rete-delle-colonnine-per-auto-elettriche_08c7b11f-fc35-433d-b236-1c4a0480fa36.html",
-     "data": "2026-07-22T10:39:31+00:00"
-    },
-    {
-     "titolo": "Akira Yamaguchi nuovo marketing director di Jti Italia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/akira-yamaguchi-nuovo-marketing-director-di-jti-italia_64f55957-ae06-41b5-9b50-4bfcde0cd02b.html",
-     "data": "2026-07-22T10:30:37+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Brasile, il governatore di San Paolo conferirà la massima onorificenza a Milei",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/brasile-il-governatore-di-san-paolo-conferira-la-massima-onorificenza-a-milei_332d6b5e-197d-4eda-a24f-f269e2fc149c.html",
+     "data": "2026-07-22T15:23:30+00:00"
+    },
     {
      "titolo": "L'Ue sconsiglia alle compagnie aeree di sorvolare la Giordania",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/22/lue-sconsiglia-alle-compagnie-aeree-di-sorvolare-la-giordania_cee54120-bf3b-4548-8b10-38eaac039fce.html",
@@ -374,11 +379,6 @@
      "titolo": "Media, 'sei missili iraniani su Aqaba, quattro intercettati e nessun danno'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/22/media-sei-missili-iraniani-su-aqaba-quattro-intercettati-e-nessun-danno_06e00a93-5769-447b-8863-0f4da3ddad22.html",
      "data": "2026-07-22T08:55:01+00:00"
-    },
-    {
-     "titolo": "Colombia, De la Espriella nomina gli ambasciatori in Messico e Venezuela",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/colombia-de-la-espriella-nomina-gli-ambasciatori-in-messico-e-venezuela_78f036a9-6cbe-4f28-a973-f5b290d250f2.html",
-     "data": "2026-07-22T08:41:29+00:00"
     }
    ]
   },
@@ -451,6 +451,36 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Leao si allena ma deve decidere del suo futuro lontano dal Milan",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/22/leao-si-allena-ma-deve-decidere-del-suo-futuro-lontano-dal-milan_dbe94d28-9006-4028-bc4b-44ab0e42a537.html",
+     "data": "2026-07-22T16:03:47+00:00"
+    },
+    {
+     "titolo": "La Roma torna a Trigoria, rientra Malen dopo il Mondiale",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/22/la-roma-torna-a-trigoria-rientra-malen-dopo-il-mondiale_a2dd90bf-26f1-470e-a366-b3fc070aa87b.html",
+     "data": "2026-07-22T15:57:36+00:00"
+    },
+    {
+     "titolo": "Tour: 17ma tappa al belga Philipsen, vittoria in volata",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/22/tour-17ma-tappa-al-belga-philipsen-vittoria-in-volata_47d74d7a-8371-4bbd-b0e3-98f1718c3bb2.html",
+     "data": "2026-07-22T15:39:54+00:00"
+    },
+    {
+     "titolo": "Da Cunha e il Como ancora insieme, rinnovo fino al 2031",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/22/da-cunha-e-il-como-ancora-insieme-rinnovo-fino-al-2031_e6aa8c3f-8adc-4546-a8f8-2fa5ff5d2740.html",
+     "data": "2026-07-22T15:36:29+00:00"
+    },
+    {
+     "titolo": "Il Festival dello Sport di Trento torna con gli 'Invincibili'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/22/il-festival-dello-sport-di-trento-torna-con-gli-invincibili_cc0e7814-c820-42a6-8f0d-debfcfeddda6.html",
+     "data": "2026-07-22T15:32:28+00:00"
+    },
+    {
+     "titolo": "Abodi incontra il ginnasta Maino, 'una fortuna potergli stringere la mano'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/22/abodi-incontra-il-ginnasta-maino-una-fortuna-potergli-stringere-la-mano_621fffb7-2fe0-485d-b658-46ba1c9fc7c4.html",
+     "data": "2026-07-22T14:55:57+00:00"
+    },
+    {
      "titolo": "Calcio: Cairo, 'sensazioni positive sul nuovo Torino di Abate'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/22/calcio-cairo-sensazioni-positive-sul-nuovo-torino-di-abate_9e150ff7-f7c1-4c19-9d6c-ffda405edd2c.html",
      "data": "2026-07-22T14:21:50+00:00"
@@ -479,36 +509,6 @@
      "titolo": "Mare e relax per Sinner, in Sardegna con la fidanzata Laila",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/22/sinner-mare-e-relax-in-sardegna-con-la-fidanzata-laila_b73272ef-a1c7-4c7c-becb-d299de5faf07.html",
      "data": "2026-07-22T13:41:56+00:00"
-    },
-    {
-     "titolo": "F1: Vasseur, 'In Ungheria una Ferrari fiduciosa ma ogni Gp fa storia a sé'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/22/vasseur-in-ungheria-una-ferrari-fiduciosa-ma-ogni-gp-fa-storia-a-se_46ac624c-98aa-45d4-ae14-a86733f573c1.html",
-     "data": "2026-07-22T13:43:20+00:00"
-    },
-    {
-     "titolo": "Atletica: infortunio per Tortu, rinuncia agli Assoluti a Firenze",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/22/atletica-infortunio-per-tortu-rinuncia-agli-assoluti-a-firenze_8c497af5-70f7-4fc1-9e0a-70c6686593c0.html",
-     "data": "2026-07-22T13:44:28+00:00"
-    },
-    {
-     "titolo": "Garnacho si allontana dalla Roma, Aston Villa in pole",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/22/garnacho-si-allontana-dalla-roma-aston-villa-in-pole_e3559ae2-5b8d-48d9-ac97-7df5659d0652.html",
-     "data": "2026-07-22T13:51:43+00:00"
-    },
-    {
-     "titolo": "Sinner tra mare e relax, in Sardegna con la fidanzata Laila",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/22/sinner-mare-e-relax-in-sardegna-con-la-fidanzata-laila_9dafc944-90b4-442c-8c6e-33a62419bc45.html",
-     "data": "2026-07-22T11:43:38+00:00"
-    },
-    {
-     "titolo": "Calcio: l'olandese Van Hecke al Tottenham per 60 milioni di euro",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/22/calcio-lolandese-van-hecke-al-tottenham-per-60-milioni-di-euro_8fcdc17b-2aea-485f-a87e-cccb94630579.html",
-     "data": "2026-07-22T13:52:58+00:00"
-    },
-    {
-     "titolo": "L'Inter scalda i motori, contro l'SV Aasen ne fa 16",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/22/linter-scalda-i-motori-contro-lsv-aasen-ne-fa-16_74099531-9cb8-4996-bc61-21776510a37c.html",
-     "data": "2026-07-22T13:54:04+00:00"
     }
    ]
   }
