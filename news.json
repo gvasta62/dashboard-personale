@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-07-22T03:53:28.584324+00:00",
+ "aggiornato": "2026-07-22T06:18:33.557204+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Indro Montanelli, 25 anni fa moriva l'ultimo inviato d'assalto",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/22/indro-montanelli-25-anni-fa-moriva-lultimo-inviato-dassalto_ede4cfeb-91e4-4698-9b0b-ad491e6bde84.html",
+     "data": "2026-07-22T05:32:47+00:00"
+    },
+    {
      "titolo": "Maggioranza divisa, il ddl col reintegro dei medici no vax esce dall'ordine del giorno",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/21/maggioranza-divisa-il-ddl-col-reintegro-dei-medici-no-vax-esce-dallordine_c99defbb-e981-45c8-9693-52d2ca3ec3c4.html",
      "data": "2026-07-21T17:02:40+00:00"
@@ -244,17 +249,22 @@
      "titolo": "Meloni, a Bologna fatto inaccettabile, accertare la verità con rigore",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/21/meloni-a-bologna-fatto-inaccettabile-accertare-la-verita-con-rigore_ca31363c-b4b2-475c-b074-fea9e834aca2.html",
      "data": "2026-07-21T09:40:46+00:00"
-    },
-    {
-     "titolo": "È morto Daniele Compatangelo, corrispondente La7 a Washington",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/20/e-morto-daniele-compatangelo-corrispondente-la7-a-washington_b571a845-f8ee-4d17-8f14-97dfcb03b129.html",
-     "data": "2026-07-20T21:10:29+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Euro poco mosso, scambiato a 1,1411 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/euro-poco-mosso-scambiato-a-11411-dollari_621138e9-e4b8-4c57-be69-0f61ffc9810e.html",
+     "data": "2026-07-22T06:10:27+00:00"
+    },
+    {
+     "titolo": "Prezzo petrolio in aumento, Wti scambiato a 85,11 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/prezzo-petrolio-in-aumento-wti-scambiato-a-8511-dollari_82d500cf-06e0-403f-976c-0a6034a50e52.html",
+     "data": "2026-07-22T06:02:34+00:00"
+    },
     {
      "titolo": "Ferrero investe 86 milioni di dollari nel suo impianto in Messico",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/ferrero-investe-86-milioni-di-dollari-nel-suo-impianto-in-messico_8a77f224-c80d-4c4e-9f7d-6f7e7324e6d8.html",
@@ -304,16 +314,6 @@
      "titolo": "P.Chigi, con flessibilità Ue maggiore spesa nel biennio concentrata sul caro energia",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/p.chigi-con-flessibilita-ue-maggiore-spesa-nel-biennio-concentrata-sul-caro_a42904b3-9652-45c9-945a-ab3a454665a7.html",
      "data": "2026-07-21T15:02:28+00:00"
-    },
-    {
-     "titolo": "Bankitalia, banche prevedono aumento richiesta prestiti in terzo trimestre",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/bankitalia-banche-prevedono-aumento-richiesta-prestiti-in-terzo-trimestre_27db2f21-7d0d-4d59-991f-e05669d09679.html",
-     "data": "2026-07-21T15:19:39+00:00"
-    },
-    {
-     "titolo": "Nell'ultimo anno bagagli smarriti per 2,8 milioni di italiani",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/nellultimo-anno-bagagli-smarriti-per-28-milioni-di-italiani_2452c82e-c33a-4bce-84c1-ca42b81fca82.html",
-     "data": "2026-07-21T13:44:32+00:00"
     }
    ]
   },
