@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-22T21:33:25.349456+00:00",
+ "aggiornato": "2026-07-22T22:47:30.438209+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Usa, lanciata nuova ondata di attacchi contro l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/usa-lanciata-nuova-ondata-di-attacchi-contro-liran_03e4605a-5f6e-4b0a-a822-c833f941c730.html",
+     "data": "2026-07-22T22:14:34+00:00"
+    },
+    {
+     "titolo": "Houthi, 'attaccate due petroliere saudite che hanno violato il blocco navale'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/houthi-attaccate-due-petroliere-saudite-che-hanno-violato-il-blocco-navale_9cb61920-e7e4-4180-b676-a5b1fbfee1f7.html",
+     "data": "2026-07-22T22:02:56+00:00"
+    },
+    {
+     "titolo": "Ukmto, petroliera colpita in attacco nel Mar Rosso al largo dell'Arabia Saudita",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/ukmto-petroliera-colpita-in-attacco-nel-mar-rosso-al-largo-dellarabia-saudita_b8d57ab5-a699-457c-bb32-e35859eba42a.html",
+     "data": "2026-07-22T21:50:00+00:00"
+    },
     {
      "titolo": "Calcio: Romagnoli convocato dalla Lazio, il difensore atteso in ritiro",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/calcio-romagnoli-convocato-dalla-lazio-il-difensore-atteso-in-ritiro_93cb76d8-8ed1-4e63-bb74-61e6dd98aca2.html",
@@ -39,21 +54,6 @@
      "titolo": "'Zelensky ha parlato con Witkoff e Kushner sugli sforzi per la fine della guerra'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/zelensky-ha-parlato-con-witkoff-e-kushner-sugli-sforzi-per-la-fine-della_03aede19-6d11-470a-9061-a18a8c8e18ff.html",
      "data": "2026-07-22T18:11:00+00:00"
-    },
-    {
-     "titolo": "Investe con l'auto una coppia e poi accoltella a morte ragazzo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/investe-con-lauto-una-coppia-e-poi-accoltella-a-morte-ragazzo_6ef7b74a-1fc7-4254-83d9-f381ca823247.html",
-     "data": "2026-07-22T18:00:35+00:00"
-    },
-    {
-     "titolo": "Capogruppo di FI a Milano Luca Bernardo aderisce a Futuro Nazionale",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/capogruppo-di-fi-a-milano-luca-bernardo-aderisce-a-futuro-nazionale_c70c66de-61d4-4c8a-b6ec-baf59dc011e9.html",
-     "data": "2026-07-22T16:50:20+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas chiude oltre i 60 euro, ai massimi da marzo scorso",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/il-prezzo-del-gas-chiude-oltre-i-60-euro-ai-massimi-da-marzo-scorso_b4382137-d406-4d29-a2d6-cd51ea3a945b.html",
-     "data": "2026-07-22T16:45:42+00:00"
     }
    ]
   },
@@ -321,6 +321,36 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Filosa a Lula, 'Fiat storia italiana di successo in Brasile da 50 anni'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/filosa-a-lula-fiat-storia-italiana-di-successo-in-brasile-da-50-anni_1a27be09-3957-4c56-b329-c6008bde9edc.html",
+     "data": "2026-07-22T22:27:56+00:00"
+    },
+    {
+     "titolo": "Usa, lanciata nuova ondata di attacchi contro l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/23/usa-lanciata-nuova-ondata-di-attacchi-contro-liran_20d1dc4e-108f-44c0-9a5d-159f2609913a.html",
+     "data": "2026-07-22T22:14:49+00:00"
+    },
+    {
+     "titolo": "Houthi, 'attaccate due petroliere saudite che hanno violato il blocco navale'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/23/houthi-attaccate-due-petroliere-saudite-che-hanno-violato-il-blocco-navale_d7eafc61-328c-40bd-a586-76d6255b9510.html",
+     "data": "2026-07-22T22:03:14+00:00"
+    },
+    {
+     "titolo": "Ukmto, petroliera colpita in attacco nel Mar Rosso al largo dell'Arabia Saudita",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/22/ukmto-petroliera-colpita-in-attacco-nel-mar-rosso-al-largo-dellarabia-saudita_0f1257e6-4583-44a2-88d4-05746c5912fe.html",
+     "data": "2026-07-22T21:50:00+00:00"
+    },
+    {
+     "titolo": "L'attività economica non decolla in Argentina, +0,2% su anno a maggio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/lattivita-economica-non-decolla-in-argentina-02-su-anno-a-maggio_54475df0-0c56-423d-aa16-1375db0cb0e9.html",
+     "data": "2026-07-22T21:43:52+00:00"
+    },
+    {
+     "titolo": "Onu condanna la repressione delle libertà per lo stop alle elezioni in Nicaragua",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/onu-condanna-la-repressione-delle-liberta-per-lo-stop-alle-elezioni-in-nicaragua_e4ca995b-e9bb-4641-9f5f-efa1f41d1206.html",
+     "data": "2026-07-22T21:36:15+00:00"
+    },
+    {
      "titolo": "Rapporto Onu su traffico di droga conferma l'Ecuador come snodo logistico",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/rapporto-onu-su-traffico-di-droga-conferma-lecuador-come-snodo-logistico_8d898c2b-3d18-48bb-b149-49bdc26799c0.html",
      "data": "2026-07-22T20:41:15+00:00"
@@ -349,36 +379,6 @@
      "titolo": "Mondiali: media,Tapia trattenuto dall'Fbi a New York prima volo ritorno dell'Argentina",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/mondiali-mediatapia-trattenuto-dallfbi-a-new-york-prima-volo-ritorno-dellargentina_8a6d0d15-c6d7-4b16-9c02-ed3f665ba73f.html",
      "data": "2026-07-22T18:42:12+00:00"
-    },
-    {
-     "titolo": "Mauritius approva una legge per criminalizzare lo stupro coniugale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/22/mauritius-approva-una-legge-per-criminalizzare-lo-stupro-coniugale_92b48f35-ca3e-4202-9e7b-5dba8b64c6cb.html",
-     "data": "2026-07-22T18:25:21+00:00"
-    },
-    {
-     "titolo": "Netanyahu, 'lavoro per ampio governo nazionale, il lavoro con i nemici non è finito'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/22/netanyahu-lavoro-per-ampio-governo-nazionale-il-lavoro-con-i-nemici-non_ce14584b-ea42-499e-9512-e135ead1404e.html",
-     "data": "2026-07-22T18:15:58+00:00"
-    },
-    {
-     "titolo": "Il Messico presenta 20 denunce alla giustizia Usa contro le azioni dell'Ice",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/22/il-messico-presenta-20-denunce-alla-giustizia-usa-contro-le-azioni-dellice_1ce25b69-33c3-4511-bb70-a1905a1ee076.html",
-     "data": "2026-07-22T18:13:23+00:00"
-    },
-    {
-     "titolo": "Il Messico presenta 20 denunce alla giustizia Usa contro le azioni dell'Ice",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/il-messico-presenta-20-denunce-alla-giustizia-usa-contro-le-azioni-dellice_29f22a7e-6f56-48be-833a-a03c2c5402fa.html",
-     "data": "2026-07-22T18:13:39+00:00"
-    },
-    {
-     "titolo": "'Zelensky ha parlato con Witkoff e Kushner sugli sforzi per la fine della guerra'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/22/zelensky-ha-parlato-con-witkoff-e-kushner-sugli-sforzi-per-la-fine-della_a881743e-444e-4ecb-9316-59b3c918d430.html",
-     "data": "2026-07-22T18:11:12+00:00"
-    },
-    {
-     "titolo": "'Zelensky ha parlato con Witkoff e Kushner sugli sforzi per la fine della guerra'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/22/zelensky-ha-parlato-con-witkoff-e-kushner-sugli-sforzi-per-la-fine-della_b021550a-8ee5-4851-ba84-74289e13448f.html",
-     "data": "2026-07-22T18:11:15+00:00"
     }
    ]
   },
