@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-22T00:13:01.416299+00:00",
+ "aggiornato": "2026-07-22T03:53:28.584324+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Rubio, controllo iraniano su Hormuz sarebbe precedente pericoloso",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/rubio-controllo-iraniano-su-hormuz-sarebbe-precedente-pericoloso_25ebb9af-a640-4271-a8e5-91f6b588f7d5.html",
+     "data": "2026-07-22T03:25:30+00:00"
+    },
+    {
+     "titolo": "Media, 'Trump vuole Infantino come segretario generale dell'Onu'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/media-trump-vuole-infantino-come-segretario-generale-dellonu_5e722464-ef30-4228-9383-418319189c4c.html",
+     "data": "2026-07-22T00:32:19+00:00"
+    },
     {
      "titolo": "Usa, lanciati nuovi attacchi contro target militari in Iran",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/usa-lanciati-nuovi-attacchi-contro-target-militari-in-iran_1047c514-944d-4829-b4fe-b617c8113a05.html",
@@ -44,16 +54,6 @@
      "titolo": "I Paesi Bassi vietano l'import dagli insediamenti israeliani in Cisgiordania",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/i-paesi-bassi-vietano-limport-dagli-insediamenti-israeliani-in-cisgiordania_d17e3e9d-0d28-4b1b-ae80-39089ee407a2.html",
      "data": "2026-07-21T17:16:57+00:00"
-    },
-    {
-     "titolo": "Incendi boschivi in Algeria, almeno sei i morti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/incendi-boschivi-in-algeria-almeno-sei-i-morti_a7248e79-6d22-4037-8d14-572192832d28.html",
-     "data": "2026-07-21T17:01:12+00:00"
-    },
-    {
-     "titolo": "Massimiliano Gallo comandante ferreo e fragile nel liceo militare di Minerva",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/massimiliano-gallo-comandante-ferreo-e-fragile-nel-liceo-militare-di-minerva_8b0edf31-ba2a-47fd-9a28-88283327faef.html",
-     "data": "2026-07-21T16:58:26+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Ferrero investe 86 milioni di dollari nel suo impianto in Messico",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/ferrero-investe-86-milioni-di-dollari-nel-suo-impianto-in-messico_8a77f224-c80d-4c4e-9f7d-6f7e7324e6d8.html",
+     "data": "2026-07-22T03:02:15+00:00"
+    },
+    {
      "titolo": "Il petrolio chiude in rialzo a New York, a 84,87 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/il-petrolio-chiude-in-rialzo-a-new-york-a-8487-dollari_9bdf5ecc-d078-4d10-8cb9-271eb98114bf.html",
      "data": "2026-07-21T18:40:28+00:00"
@@ -309,17 +314,37 @@
      "titolo": "Nell'ultimo anno bagagli smarriti per 2,8 milioni di italiani",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/nellultimo-anno-bagagli-smarriti-per-28-milioni-di-italiani_2452c82e-c33a-4bce-84c1-ca42b81fca82.html",
      "data": "2026-07-21T13:44:32+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa avanti in cauto rialzo con lente su Ia e Medioriente",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/borsa-leuropa-avanti-in-cauto-rialzo-con-lente-su-ia-e-medioriente_b27a47ba-4add-41f8-863d-54520ae8f635.html",
-     "data": "2026-07-21T15:20:26+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Rubio, controllo iraniano su Hormuz sarebbe precedente pericoloso",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/22/rubio-controllo-iraniano-su-hormuz-sarebbe-precedente-pericoloso_3579f4bb-7e68-4290-88be-a4a2540f662d.html",
+     "data": "2026-07-22T03:26:05+00:00"
+    },
+    {
+     "titolo": "Ferrero investe 86 milioni di dollari nel suo impianto in Messico",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/ferrero-investe-86-milioni-di-dollari-nel-suo-impianto-in-messico_b533f1d7-421b-4310-b529-16e0e1cc5084.html",
+     "data": "2026-07-22T03:02:16+00:00"
+    },
+    {
+     "titolo": "Perù-Messico, Fujimori tratta per riaprire i rapporti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/peru-messico-fujimori-tratta-per-riaprire-i-rapporti_429f1c37-68c8-4e13-aa66-983d1e751de6.html",
+     "data": "2026-07-22T03:00:40+00:00"
+    },
+    {
+     "titolo": "Messico-Usa, continua la revisione dell'accordo commerciale nordamericano",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/messico-usa-continua-la-revisione-dellaccordo-commerciale-nordamericano_f10d01d1-5cc7-4d11-8713-2e207784bfa8.html",
+     "data": "2026-07-22T01:30:05+00:00"
+    },
+    {
+     "titolo": "Media, 'Trump vuole Infantino come segretario generale dell'Onu'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/22/media-trump-vuole-infantino-come-segretario-generale-dellonu_883b8ff2-3ecd-4983-abbd-6931037b375b.html",
+     "data": "2026-07-22T00:32:21+00:00"
+    },
     {
      "titolo": "Brasile esclude ritorsioni contro i dazi Usa, 'la risposta non sarà la vendetta'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/brasile-esclude-ritorsioni-contro-i-dazi-usa-la-risposta-non-sara-la-vendetta_fe03096e-1371-4de2-b1c7-57737e0515de.html",
@@ -354,31 +379,6 @@
      "titolo": "Dopo Meliá anche la catena spagnola Iberostar lascia Cuba",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/21/dopo-melia-anche-la-catena-spagnola-iberostar-lascia-cuba_ce3f7acf-5deb-4913-8bcb-bebc5e1a56c9.html",
      "data": "2026-07-21T20:13:43+00:00"
-    },
-    {
-     "titolo": "Zelensky rimuove Syrsky da capo delle forze armate, al suo posto Drapatyi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/zelensky-rimuove-syrsky-da-capo-delle-forze-armate-al-suo-posto-drapatyi_747a6c5c-d705-45dc-b7bf-79490b44dd8d.html",
-     "data": "2026-07-21T19:58:05+00:00"
-    },
-    {
-     "titolo": "Zelensky silura anche Syrsky, lo sostituisce con Drapatyi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/zelensky-rimuove-syrsky-da-capo-delle-forze-armate-al-suo-posto-drapatyi_0cd2a931-8658-4d5e-96f8-544c31609a42.html",
-     "data": "2026-07-21T20:45:20+00:00"
-    },
-    {
-     "titolo": "Hegseth, 'è urgente approvare i fondi al Pentagono per 67 miliardi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/21/hegseth-e-urgente-approvare-i-fondi-al-pentagono-per-67-miliardi_efb69589-f0a4-44a3-bd12-20006a489412.html",
-     "data": "2026-07-21T19:04:17+00:00"
-    },
-    {
-     "titolo": "Via libera definitivo del Parlamento francese al divieto dei social per under-15",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/via-libera-definitivo-del-parlamento-francese-al-divieto-dei-social-per_0a312463-6685-4d83-8ac2-cfd1c18f65ea.html",
-     "data": "2026-07-21T18:28:06+00:00"
-    },
-    {
-     "titolo": "La Francia vieta i social agli under 15, è la prima in Europa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/ok-definitivo-del-parlamento-francese-al-divieto-dei-social-per-gli-under_0f104c2a-31dc-4664-8baf-4b11786ab8a7.html",
-     "data": "2026-07-21T19:09:28+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Media, 'Trump vuole Infantino come segretario generale dell'Onu'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/22/media-trump-vuole-infantino-come-segretario-generale-dellonu_15f39f08-161a-40aa-9457-1d0e0c0241a6.html",
+     "data": "2026-07-22T00:32:19+00:00"
+    },
+    {
      "titolo": "Calcio: Ochoa si ritira a 41 anni dopo sei Mondiali con il Messico",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/22/calcio-ochoa-si-ritira-a-41-anni-dopo-sei-mondiali-con-il-messico_74ee5410-2da9-420b-ab8e-31d7140020c5.html",
      "data": "2026-07-21T23:38:37+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Lega ciclismo professionistico, agiremo contro un commissariamento privo di fondamento",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/21/lega-ciclismo-professionistico-agiremo-contro-un-commissariamento-privo-di-fondamento_a241f13a-a0e2-4fe5-9d07-f2eb9949fa62.html",
      "data": "2026-07-21T17:31:28+00:00"
-    },
-    {
-     "titolo": "Si ritira l'arbitro Taylor, fece infuriare Mourinho e i romanisti",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/si-ritira-larbitro-taylor-fece-infuriare-mourinho-e-i-romanisti_0c154205-7ac0-4de5-aa13-f5eeb5bc62ff.html",
-     "data": "2026-07-21T16:57:31+00:00"
     }
    ]
   }
