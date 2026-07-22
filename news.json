@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-21T23:25:08.541311+00:00",
+ "aggiornato": "2026-07-22T00:13:01.416299+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Usa, lanciati nuovi attacchi contro target militari in Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/usa-lanciati-nuovi-attacchi-contro-target-militari-in-iran_1047c514-944d-4829-b4fe-b617c8113a05.html",
+     "data": "2026-07-21T23:46:16+00:00"
+    },
     {
      "titolo": "Trump, dazi zero sui farmaci generici che entrano in Usa per 2 anni, poi salgono",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/trump-dazi-zero-sui-farmaci-generici-che-entrano-in-usa-per_1817b8ee-7b95-4402-8cc1-572a50992c85.html",
@@ -49,11 +54,6 @@
      "titolo": "Massimiliano Gallo comandante ferreo e fragile nel liceo militare di Minerva",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/massimiliano-gallo-comandante-ferreo-e-fragile-nel-liceo-militare-di-minerva_8b0edf31-ba2a-47fd-9a28-88283327faef.html",
      "data": "2026-07-21T16:58:26+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas chiude in rialzo a 59,5 euro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/21/il-prezzo-del-gas-chiude-in-rialzo-a-595-euro_881d493e-dc6f-4771-b77a-094b6d5f3a8a.html",
-     "data": "2026-07-21T16:36:50+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Brasile esclude ritorsioni contro i dazi Usa, 'la risposta non sarà la vendetta'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/brasile-esclude-ritorsioni-contro-i-dazi-usa-la-risposta-non-sara-la-vendetta_fe03096e-1371-4de2-b1c7-57737e0515de.html",
+     "data": "2026-07-21T23:47:50+00:00"
+    },
+    {
+     "titolo": "Usa, lanciati nuovi attacchi contro target militari in Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/22/usa-lanciati-nuovi-attacchi-contro-target-militari-in-iran_56900517-cc05-40fd-b3fe-e7da9412e7d8.html",
+     "data": "2026-07-21T23:46:16+00:00"
+    },
+    {
      "titolo": "Trump, dazi zero sui farmaci generici che entrano in Usa per 2 anni, poi salgono",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/22/trump-dazi-zero-sui-farmaci-generici-che-entrano-in-usa-per_58a6384b-0c57-4a98-aba5-c67d5a0a8524.html",
      "data": "2026-07-21T23:15:25+00:00"
@@ -369,16 +379,6 @@
      "titolo": "La Francia vieta i social agli under 15, è la prima in Europa",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/ok-definitivo-del-parlamento-francese-al-divieto-dei-social-per-gli-under_0f104c2a-31dc-4664-8baf-4b11786ab8a7.html",
      "data": "2026-07-21T19:09:28+00:00"
-    },
-    {
-     "titolo": "Le forze libanesi nelle zone pilota. Trump: 'Parlo io con Hezbollah'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/21/le-forze-libanesi-nelle-zone-pilota.-trump-parlo-io-con-hezbollah_17083af5-1fef-4f58-9db1-2ad741a52aca.html",
-     "data": "2026-07-21T18:16:23+00:00"
-    },
-    {
-     "titolo": "Quindici anni fa Utoya, il dolore e il ricordo di Jens Stoltenberg",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/quindici-anni-fa-utoya-il-dolore-e-il-ricordo-di-jens-stoltenberg_83ccc266-30e6-4704-a0e8-f62df16708ac.html",
-     "data": "2026-07-21T17:55:48+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: Ochoa si ritira a 41 anni dopo sei Mondiali con il Messico",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/22/calcio-ochoa-si-ritira-a-41-anni-dopo-sei-mondiali-con-il-messico_74ee5410-2da9-420b-ab8e-31d7140020c5.html",
+     "data": "2026-07-21T23:38:37+00:00"
+    },
+    {
      "titolo": "Rossi, tra la Ferrari e Antonelli io tifo per Kimi",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/21/rossi-tra-la-ferrari-e-antonelli-io-tifo-per-kimi_bea8cd53-d6bc-4f8e-803f-7780cc3c0899.html",
      "data": "2026-07-21T20:26:32+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Si ritira l'arbitro Taylor, fece infuriare Mourinho e i romanisti",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/si-ritira-larbitro-taylor-fece-infuriare-mourinho-e-i-romanisti_0c154205-7ac0-4de5-aa13-f5eeb5bc62ff.html",
      "data": "2026-07-21T16:57:31+00:00"
-    },
-    {
-     "titolo": "Pisacane, 'obiettivo salvezza ma mi piacerebbe alzare asticella'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/21/pisacane-obiettivo-salvezza-ma-mi-piacerebbe-alzare-asticella_c6adeab9-b0b2-42d9-89b5-97154e356a10.html",
-     "data": "2026-07-21T16:34:00+00:00"
     }
    ]
   }
