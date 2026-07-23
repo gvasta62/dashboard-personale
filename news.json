@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-23T16:56:47.625143+00:00",
+ "aggiornato": "2026-07-23T18:07:29.427487+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Meloni, chi sbaglia risponde delle proprie azioni, anche i minorenni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/meloni-chi-sbaglia-risponde-delle-proprie-azioni-anche-i-minorenni_36e57132-a829-40bb-b497-d539725c45ec.html",
+     "data": "2026-07-23T17:31:00+00:00"
+    },
+    {
+     "titolo": "Sarah Toscano, 'innamorata della musica ma sogno un ruolo da cattiva sul set'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/sarah-toscano-innamorata-della-musica-ma-sogno-un-ruolo-da-cattiva-sul-set_d7764559-9da1-422b-8f2e-ab860a080154.html",
+     "data": "2026-07-23T17:03:18+00:00"
+    },
+    {
+     "titolo": "Rischio salmonella, ritirati dai supermercati Usa 19 milioni di uova",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/rischio-salmonella-ritirati-dai-supermercati-usa-19-milioni-di-uova_232f209d-e61d-4a94-b977-5338e9d4de9e.html",
+     "data": "2026-07-23T16:59:08+00:00"
+    },
     {
      "titolo": "Sold out in tre minuti il concerto speciale di Baglioni del 24 ottobre a Roma",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/sold-out-in-tre-minuti-il-concerto-speciale-di-baglioni-del-24-ottobre-a-roma_b098f69a-f2e4-42ff-bfe6-ddce65ac08f4.html",
@@ -39,27 +54,17 @@
      "titolo": "Nuovo schiaffo a Trump, un'altra risoluzione della Camera contro la guerra in Iran",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/nuovo-schiaffo-a-trump-unaltra-risoluzione-della-camera-contro-la-guerra-in-iran_f0e6e98e-1dff-4b97-9ba0-617e213c8471.html",
      "data": "2026-07-23T14:50:10+00:00"
-    },
-    {
-     "titolo": "Bocelli canterà per il Papa, il 29 luglio a Castel Gandolfo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/bocelli-cantera-per-il-papa-il-29-luglio-a-castel-gandolfo_adc0849a-2d74-4dba-a37f-69342e91be22.html",
-     "data": "2026-07-23T14:25:38+00:00"
-    },
-    {
-     "titolo": "Sondaggio, 'AfD per la prima volta in testa a Berlino a due mesi dal voto'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/sondaggio-afd-per-la-prima-volta-in-testa-a-berlino-a-due-mesi-dal_e6e0b3de-7d36-4f7f-8f7b-c44cb41779af.html",
-     "data": "2026-07-23T14:05:39+00:00"
-    },
-    {
-     "titolo": "Al Tg1 video bodycam agente, 'contatto tra Fakir e altra persona'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/al-tg1-video-bodycam-agente-contatto-tra-fakir-e-altra-persona_d750b8be-4582-4567-ac93-2f9797867366.html",
-     "data": "2026-07-23T13:37:05+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Bandecchi, una società che lavora per me controlla che non sia controllato",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/23/bandecchi-una-societa-che-lavora-per-me-controlla-che-non-sia_abc31df5-8d14-41df-943a-4b2040899aa9.html",
+     "data": "2026-07-23T17:26:52+00:00"
+    },
     {
      "titolo": "Eseguite da Anas prove di carico su due nuovi viadotti della Perugia-Ancona",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/23/eseguite-da-anas-prove-di-carico-su-due-nuovi-viadotti-della-perugia-ancona_b3848858-f61d-44e1-aeff-ce1301a6f522.html",
@@ -114,17 +119,57 @@
      "titolo": "L'Umbria, 'palestra a cielo aperto', punta sullo 'sport e benessere per tutti'",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/23/lumbria-palestra-a-cielo-aperto-punta-sullo-sport-e-benessere-per-tutti_49cd281e-7a51-4a67-bb87-5d16a4373212.html",
      "data": "2026-07-23T14:15:57+00:00"
-    },
-    {
-     "titolo": "In Umbria sotto la media nazionale i prezzi gasolio e benzina che però supera 2,1 euro",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/23/in-umbria-sotto-la-media-nazionale-i-prezzi-gasolio-e-benzina-che-pero-supera_e79e551d-ad6e-49b9-be77-45c3b29dc1c1.html",
-     "data": "2026-07-23T10:58:02+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "La mamma di Domenico Caliendo sui social, non rinuncio al processo penale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/la-mamma-di-domenico-caliendo-sui-social-non-rinuncio-al-processo-penale_da68e278-1f20-4874-bfbd-c7325c0ee829.html",
+     "data": "2026-07-23T18:03:44+00:00"
+    },
+    {
+     "titolo": "Morte bimbo, sequestrato a Tropea l'asilo che frequentava",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/morte-bimbo-sequestrato-a-tropea-lasilo-che-frequentava_4a1aae9d-4a07-48f5-b99e-71b4ec002555.html",
+     "data": "2026-07-23T17:59:30+00:00"
+    },
+    {
+     "titolo": "Gli auguri del Papa a Mattarella, 'grazie per attenzione alla Chiesa'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/gli-auguri-del-papa-a-mattarella-grazie-per-attenzione-alla-chiesa_330f9b2a-4ac5-457f-bee3-6bb87930000e.html",
+     "data": "2026-07-23T17:36:02+00:00"
+    },
+    {
+     "titolo": "\"Yankee go home\", protesta a Trieste contro presenza ambasciatore Usa Fertitta",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/yankee-go-home-protesta-a-trieste-contro-presenza-ambasciatore-usa-fertitta_3fdaef21-975e-42ec-abda-e9743febc059.html",
+     "data": "2026-07-23T17:30:57+00:00"
+    },
+    {
+     "titolo": "25enne si getta dal balcone durante perquisizione in casa, morto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/25enne-si-getta-dal-balcone-durante-perquisizione-in-casa-morto_29f3fd82-cc62-40f4-b8ce-d964d8e915b9.html",
+     "data": "2026-07-23T17:27:56+00:00"
+    },
+    {
+     "titolo": "Morto il bimbo di 6 anni investito da una moto nell'Imperiese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/morto-il-bimbo-di-6-anni-investito-da-una-moto-nellimperiese_15871055-a9e0-4c7a-be6e-99e2771228a2.html",
+     "data": "2026-07-23T17:14:03+00:00"
+    },
+    {
+     "titolo": "Donna trovata morta a Torino, indagato ex compagno",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/donna-trovata-morta-a-torino-indagato-ex-compagno_8b3473e7-d373-4c3a-8c36-65c8f102cea8.html",
+     "data": "2026-07-23T17:16:39+00:00"
+    },
+    {
+     "titolo": "Minorenne suicida nel 2024, indagati quattro compagni di scuola",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/minorenne-suicida-nel-2024-indagati-quattro-compagni-di-scuola_b31b21bd-4641-4b91-9410-acd65092b2ce.html",
+     "data": "2026-07-23T17:14:03+00:00"
+    },
+    {
+     "titolo": "Bimba morta in piscina, domani i funerali di Alice",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/bimba-morta-in-piscina-domani-i-funerali-di-alice_7e9b20b9-8205-4582-aae8-dd85aeedbfa0.html",
+     "data": "2026-07-23T16:57:38+00:00"
+    },
     {
      "titolo": "Via libera a norme attuative del Piano regolatore di Roma, 'giornata storica'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/via-libera-a-norme-attuative-del-piano-regolatore-di-roma-giornata-storica_24c2fe8e-bcab-4b4e-b573-489bef56df6c.html",
@@ -139,57 +184,37 @@
      "titolo": "Morto a 33 anni a Ibiza, l'autopsia esclude segni di violenza",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/morto-a-33-anni-a-ibiza-lautopsia-esclude-segni-di-violenza_e9b0dd80-ef16-40d8-a44d-9e3ba20cdf36.html",
      "data": "2026-07-23T16:31:31+00:00"
-    },
-    {
-     "titolo": "19enne ucciso da giorni perseguitava la sorella del minorenne arrestato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/19enne-ucciso-da-giorni-perseguitava-la-sorella-del-minorenne-arrestato_561287d7-bd4c-4fbb-97d0-ee84c884e8ff.html",
-     "data": "2026-07-23T16:22:18+00:00"
-    },
-    {
-     "titolo": "Il giornalista ucciso a Eboli sarebbe stato strozzato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/il-giornalista-ucciso-a-eboli-sarebbe-stato-strozzato_24e9a5bd-4a0a-4809-a495-53efa5faa67d.html",
-     "data": "2026-07-23T16:27:21+00:00"
-    },
-    {
-     "titolo": "Temporali in arrivo sulle coste adriatiche",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/temporali-in-arrivo-sulle-coste-adriatiche_809afff6-39e7-4ea8-b3b9-1c0f1daf91f4.html",
-     "data": "2026-07-23T15:53:58+00:00"
-    },
-    {
-     "titolo": "Qualcuno ha riacceso o ha spostato il telefono del giornalista ucciso",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/qualcuno-ha-riacceso-o-ha-spostato-il-telefono-del-giornalista-ucciso_8e0ddea3-4a48-485b-ae2f-681fc3b64e3e.html",
-     "data": "2026-07-23T14:27:56+00:00"
-    },
-    {
-     "titolo": "Bocelli canterà per il Papa, il 29 luglio a Castel Gandolfo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/bocelli-cantera-per-il-papa-il-29-luglio-a-castel-gandolfo_806c3aec-53ff-450f-baa2-9150abc9d17a.html",
-     "data": "2026-07-23T14:25:34+00:00"
-    },
-    {
-     "titolo": "Al Tg1 video bodycam agente, 'contatto tra Fakir e altra persona'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/al-tg1-video-bodycam-agente-contatto-tra-fakir-e-altra-persona_daddbc54-4e40-4753-8579-42734353322a.html",
-     "data": "2026-07-23T13:37:01+00:00"
-    },
-    {
-     "titolo": "Bimbo morto in piscina vicino Roma, tre indagati per omicidio colposo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/bimbo-morto-in-piscina-vicino-roma-tre-indagati-per-omicidio-colposo_570581cc-ba41-4f73-8d53-0dce4b85211d.html",
-     "data": "2026-07-23T13:35:38+00:00"
-    },
-    {
-     "titolo": "Bimbo morto in piscina, 3 indagati per omicidio colposo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/bimbo-morto-in-piscina-3-indagati-per-omicidio-colposo_f8942b31-2d3b-41c7-8e6e-123b26f07513.html",
-     "data": "2026-07-23T13:39:01+00:00"
-    },
-    {
-     "titolo": "Rapina in banca alle porte di Bologna, persone chiuse nel caveau",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/rapina-in-banca-alle-porte-di-bologna-persone-chiuse-nel-caveau_09b33930-2199-4dde-9b30-81449ac07873.html",
-     "data": "2026-07-23T16:18:51+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Meloni, chi sbaglia risponde delle proprie azioni, anche i minorenni",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/23/meloni-chi-sbaglia-risponde-delle-proprie-azioni-anche-i-minorenni_7839b830-e4cd-4c64-978f-bc4acba48e39.html",
+     "data": "2026-07-23T17:31:04+00:00"
+    },
+    {
+     "titolo": "Buttafuoco contro i tagli Ue: 'Ci sarà un giudice a Berlino'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/23/buttafuoco-contro-i-tagli-ue-ci-sara-un-giudice-a-berlino_e2821ea6-3537-459c-b195-623d3d4f3cc6.html",
+     "data": "2026-07-23T17:15:21+00:00"
+    },
+    {
+     "titolo": "Mario Calabresi accende la partita per Milano, Vannacci 'ci saremo'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/23/mario-calabresi-accende-la-partita-per-milano-vannacci-ci-saremo_ada69c87-c839-43a7-8481-c4214470a4bc.html",
+     "data": "2026-07-23T17:12:47+00:00"
+    },
+    {
+     "titolo": "Chat Delmastro, la Procura di Roma valuta il conflitto di attribuzione",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/23/chat-delmastro-la-procura-di-roma-valuta-il-conflitto-di-attribuzione_0585e1bd-5302-4277-8ff9-5aff52807480.html",
+     "data": "2026-07-23T17:16:13+00:00"
+    },
+    {
+     "titolo": "Nordio: 'Approvato un provvedimento sull'imputabilità dei minori tra i 14 e i 18 anni'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/23/nordio-approvato-un-provvedimento-sullimputabilita-dei-minori-tra-i-14-e-i-18-anni_1008440b-330b-4cf4-b62c-7a068dc7b39d.html",
+     "data": "2026-07-23T17:48:54+00:00"
+    },
     {
      "titolo": "Barachini, 'al via il contributo pubblico per i giornali a scuola'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/23/barachini-al-via-il-contributo-pubblico-per-i-giornali-a-scuola_af57ed9f-db1c-4a7d-8f4d-2b0767350963.html",
@@ -224,27 +249,22 @@
      "titolo": "Cottarelli, non è mia intenzione candidarmi a sindaco di Milano",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/23/cottarelli-non-e-mia-intenzione-candidarmi-a-sindaco-di-milano_8611b72d-aac0-4146-aec1-e56fb6d6dca1.html",
      "data": "2026-07-23T07:27:16+00:00"
-    },
-    {
-     "titolo": "Mario Calabresi valuta una possibile candidatura a sindaco di Milano",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/22/mario-calabresi-valuta-una-possibile-candidatura-a-sindaco-di-milano_ada69c87-c839-43a7-8481-c4214470a4bc.html",
-     "data": "2026-07-23T09:43:05+00:00"
-    },
-    {
-     "titolo": "Il capogruppo di FI a Milano Luca Bernardo aderisce a Futuro Nazionale",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/22/il-capogruppo-di-fi-a-milano-luca-bernardo-aderisce-a-futuro-nazionale_bfc061c7-475e-4c61-8835-a9105007717b.html",
-     "data": "2026-07-22T16:55:20+00:00"
-    },
-    {
-     "titolo": "Capogruppo di FI a Milano Luca Bernardo aderisce a Futuro Nazionale",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/22/capogruppo-di-fi-a-milano-luca-bernardo-aderisce-a-futuro-nazionale_89334b09-14ec-46e1-8e16-d0d0ed732721.html",
-     "data": "2026-07-22T16:50:39+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": ">ANSA-FOCUS/Lagarde resta fino al 2027 ma alla Bce aperta gara per successore",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/23/ansa-focuslagarde-resta-fino-al-2027-ma-alla-bce-aperta-gara-per_b9f21a08-1629-4d99-9db6-1b18b8f70a28.html",
+     "data": "2026-07-23T17:24:56+00:00"
+    },
+    {
+     "titolo": "Callas e Leonardo, le nuove banconote in euro alla fase finale",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/23/callas-e-leonardo-le-nuove-banconote-in-euro-alla-fase-finale_62922951-b6ec-44f5-b163-963d793c0291.html",
+     "data": "2026-07-23T17:57:39+00:00"
+    },
     {
      "titolo": "Gas: future chiudono in calo a 61,8 euro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/23/gas-future-chiudono-in-calo-a-618-euro_76823c87-e378-4074-bf40-a72fdee7db2f.html",
@@ -294,22 +314,17 @@
      "titolo": "Governatore della Banca centrale del Sudafrica annuncia che i tassi restano invariati",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/23/governatore-della-banca-centrale-del-sudafrica-annuncia-che-i-tassi-restano_ec09faeb-317a-4c73-9cc5-430645c0babe.html",
      "data": "2026-07-23T15:20:16+00:00"
-    },
-    {
-     "titolo": "Accordo Cdp-Mcc-Fei, nuova finanza per 5,7 miliardi alle pmi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/23/accordo-cdp-mcc-fei-nuova-finanza-per-57-miliardi-alle-pmi_95f94715-4e94-4c46-87a4-34ccf1e32df2.html",
-     "data": "2026-07-23T15:19:14+00:00"
-    },
-    {
-     "titolo": "Wall Street prosegue negativa, il Nasdaq amplia le perdite a -2,37%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/23/wall-street-prosegue-negativa-il-nasdaq-amplia-le-perdite-a-237_aa25fc18-57c9-4993-9424-b671a75d9bb7.html",
-     "data": "2026-07-23T15:11:17+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Rischio salmonella, ritirati dai supermercati Usa 19 milioni di uova",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/23/rischio-salmonella-ritirati-dai-supermercati-usa-19-milioni-di-uova_e00f61ac-eae3-480e-9e2b-5a8d2d914768.html",
+     "data": "2026-07-23T16:59:12+00:00"
+    },
     {
      "titolo": "Sisi celebra la rivoluzione di Nasser, 'sforzi per la pace non devono cessare'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/23/sisi-celebra-la-rivoluzione-di-nasser-sforzi-per-la-pace-non-devono-cessare_ad04ea8f-a63a-4bfc-a255-a278aa604620.html",
@@ -364,11 +379,6 @@
      "titolo": "Crisi in Bolivia, il governo punta sui crediti di organizzazioni multilaterali",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/crisi-in-bolivia-il-governo-punta-sui-crediti-di-organizzazioni-multilaterali_182f36ac-e730-4538-8fce-f12aca39319d.html",
      "data": "2026-07-23T13:49:19+00:00"
-    },
-    {
-     "titolo": "Trump, 'Usa riterranno l'Iran responsabile degli attacchi degli Houthi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/23/trump-usa-riterranno-liran-responsabile-degli-attacchi-degli-houthi_268e71e7-bc72-442d-8803-171013dd6694.html",
-     "data": "2026-07-23T12:32:12+00:00"
     }
    ]
   },
@@ -441,6 +451,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Cristante, è difficile dire oggi quale sia l'obiettivo della Roma'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/23/cristante-e-difficile-dire-oggi-quale-sia-lobiettivo-della-roma_fb05e9ea-f5cb-4d4b-a764-ccb5ddfe0953.html",
+     "data": "2026-07-23T17:58:58+00:00"
+    },
+    {
+     "titolo": "Amichevoli: Fabregas 'test di domani col Paris Fc importante per preparazione'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/23/amichevoli-fabregas-test-di-domani-col-paris-fc-importante-per-preparazione_df5a6eb6-9cd1-4179-83b8-cd069e3e0202.html",
+     "data": "2026-07-23T17:37:39+00:00"
+    },
+    {
+     "titolo": "Amichevoli: 6-0 della Roma al Trastevere, per Malen esordio e gol",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/23/amichevoli-6-0-della-roma-al-trastevere-per-malen-esordio-e-gol_be7e4a63-4436-4824-b8d8-848a30fc2623.html",
+     "data": "2026-07-23T17:36:16+00:00"
+    },
+    {
+     "titolo": "Garnacho all'Aston Villa, in prestito dal Chelsea",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/23/garnacho-allaston-villa-in-prestito-dal-chelsea_d881c686-4312-4fdd-b16e-03527269d3f5.html",
+     "data": "2026-07-23T17:14:06+00:00"
+    },
+    {
      "titolo": "Lazio in campo a Formello, Romagnoli si allena con squadra",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/23/lazio-in-campo-a-formello-romagnoli-si-allena-con-squadra_bd40703e-53f3-4501-89b0-3a241bd18da2.html",
      "data": "2026-07-23T16:53:35+00:00"
@@ -451,9 +481,9 @@
      "data": "2026-07-23T16:39:19+00:00"
     },
     {
-     "titolo": "E' ufficiale, Modric resta al Milan fino al 2027",
+     "titolo": "Modric e il Milan insieme fino al 2027: 'Ci vediamo presto'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/23/e-ufficiale-modric-resta-al-milan-fino-al-2027_6305d15a-3cf3-4289-a70b-eafda2b85f11.html",
-     "data": "2026-07-23T16:24:57+00:00"
+     "data": "2026-07-23T17:50:21+00:00"
     },
     {
      "titolo": "Atalanta: domenica altra amichevole con l'Arezzo a Zingonia",
@@ -479,26 +509,6 @@
      "titolo": "F1: Hamilton: 'Ferrari favorita a Budapest? Mercedes la più veloce'",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/23/f1-hamilton-ferrari-favorita-a-budapest-mercedes-la-piu-veloce_446d6f13-9277-4732-85a7-fd239f41c4e4.html",
      "data": "2026-07-23T15:31:58+00:00"
-    },
-    {
-     "titolo": "Malagò: 'Martedì 28 possibile data per il ct, ma usciranno altri nomi'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/23/malago-martedi-28-possibile-data-per-il-ct-ma-usciranno-altri-nomi_27bdf986-8d4e-4929-a7e0-98aacbb86240.html",
-     "data": "2026-07-23T15:35:58+00:00"
-    },
-    {
-     "titolo": "Maldini 'per Guardiola l'aspetto economico non è rilevante'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/23/maldini-per-guardiola-laspetto-economico-non-e-rilevante_cd968847-5a01-4006-9019-3ded918c9e0d.html",
-     "data": "2026-07-23T14:22:57+00:00"
-    },
-    {
-     "titolo": "Mondiali: De la Fuente, la felicità della gente é la miglior ricompensa",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/23/mondiali-de-la-fuente-la-felicita-della-gente-e-la-miglior-ricompensa_f6422eb5-4276-478e-a971-481d5d83278a.html",
-     "data": "2026-07-23T14:07:22+00:00"
-    },
-    {
-     "titolo": "Cairo 'i programmi Figc sono buoni, ma tempi troppo lunghi'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/23/cairo-i-programmi-figc-sono-buoni-ma-tempi-troppo-lunghi_5c2a7584-775f-404d-acc9-0b2c29421604.html",
-     "data": "2026-07-23T14:00:18+00:00"
     }
    ]
   }
