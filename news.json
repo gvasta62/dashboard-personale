@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-22T23:49:55.604787+00:00",
+ "aggiornato": "2026-07-23T01:20:40.221872+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, 'missili Usa colpiscono città iraniana al confine iracheno'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/media-missili-usa-colpiscono-citta-iraniana-al-confine-iracheno_b04cb714-a1ae-44bc-aa25-5d89970c703c.html",
+     "data": "2026-07-23T00:43:31+00:00"
+    },
+    {
+     "titolo": "Pasdaran, 'petroliera in fiamme a Hormuz, altre due fanno dietrofront'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/pasdaran-petroliera-in-fiamme-a-hormuz-altre-due-fanno-dietrofront_7eaf4a9e-42ad-4197-ad2e-1fd4d38441a7.html",
+     "data": "2026-07-23T00:20:36+00:00"
+    },
     {
      "titolo": "Usa, lanciata nuova ondata di attacchi contro l'Iran",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/usa-lanciata-nuova-ondata-di-attacchi-contro-liran_03e4605a-5f6e-4b0a-a822-c833f941c730.html",
@@ -44,16 +54,6 @@
      "titolo": "Netanyahu, 'lavoro per ampio governo nazionale, il lavoro con i nemici non è finito'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/netanyahu-lavoro-per-ampio-governo-nazionale-il-lavoro-con-i-nemici-non_ba6da87e-a210-44c8-b656-f776a7a2668d.html",
      "data": "2026-07-22T18:15:37+00:00"
-    },
-    {
-     "titolo": "Il Messico presenta 20 denunce alla giustizia Usa contro le azioni dell'Ice",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/il-messico-presenta-20-denunce-alla-giustizia-usa-contro-le-azioni-dellice_a0bde8ca-3fca-4b45-8142-6ae4ed46b170.html",
-     "data": "2026-07-22T18:13:21+00:00"
-    },
-    {
-     "titolo": "'Zelensky ha parlato con Witkoff e Kushner sugli sforzi per la fine della guerra'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/zelensky-ha-parlato-con-witkoff-e-kushner-sugli-sforzi-per-la-fine-della_03aede19-6d11-470a-9061-a18a8c8e18ff.html",
-     "data": "2026-07-22T18:11:00+00:00"
     }
    ]
   },
@@ -321,6 +321,36 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Dazi Usa, il Messico dialoga con Washington per evitare rincari",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/dazi-usa-il-messico-dialoga-con-washington-per-evitare-rincari_d4f54390-35f2-466e-9b31-d3885d8b8ea1.html",
+     "data": "2026-07-23T01:14:01+00:00"
+    },
+    {
+     "titolo": "L'America Latina invecchia, a rischio i sistemi pensionistici",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/lamerica-latina-invecchia-a-rischio-i-sistemi-pensionistici_4363c1d5-543c-4d8d-9b50-8d7ca70cfeff.html",
+     "data": "2026-07-23T01:05:19+00:00"
+    },
+    {
+     "titolo": "Media, 'missili Usa colpiscono città iraniana al confine iracheno'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/23/media-missili-usa-colpiscono-citta-iraniana-al-confine-iracheno_b334bccd-481e-44d5-92be-e80edecf5f0a.html",
+     "data": "2026-07-23T00:43:48+00:00"
+    },
+    {
+     "titolo": "Perù, Corte suprema conferma altri 12 mesi di custodia cautelare per Pedro Castillo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/peru-corte-suprema-conferma-altri-12-mesi-di-custodia-cautelare-per-pedro_c5d7b71f-58a6-4e5d-a2d1-d4d1f5a6f89e.html",
+     "data": "2026-07-23T00:15:23+00:00"
+    },
+    {
+     "titolo": "Pasdaran, 'petroliera in fiamme a Hormuz, altre due fanno dietrofront'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/23/pasdaran-petroliera-in-fiamme-a-hormuz-altre-due-fanno-dietrofront_30e9727a-d09f-4fe3-a68f-46e83cd7b10b.html",
+     "data": "2026-07-23T00:20:02+00:00"
+    },
+    {
+     "titolo": "Bolivia, arresti domiciliari per la sorellastra del narcotrafficante Marset",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/bolivia-arresti-domiciliari-per-la-sorellastra-del-narcotrafficante-marset_081f01db-b056-4e43-b59e-ec9feca117d6.html",
+     "data": "2026-07-23T00:06:13+00:00"
+    },
+    {
      "titolo": "Filosa a Lula, 'Fiat storia italiana di successo in Brasile da 50 anni'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/filosa-a-lula-fiat-storia-italiana-di-successo-in-brasile-da-50-anni_1a27be09-3957-4c56-b329-c6008bde9edc.html",
      "data": "2026-07-22T22:27:56+00:00"
@@ -349,36 +379,6 @@
      "titolo": "Onu condanna la repressione delle libertà per lo stop alle elezioni in Nicaragua",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/onu-condanna-la-repressione-delle-liberta-per-lo-stop-alle-elezioni-in-nicaragua_e4ca995b-e9bb-4641-9f5f-efa1f41d1206.html",
      "data": "2026-07-22T21:36:15+00:00"
-    },
-    {
-     "titolo": "Rapporto Onu su traffico di droga conferma l'Ecuador come snodo logistico",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/rapporto-onu-su-traffico-di-droga-conferma-lecuador-come-snodo-logistico_8d898c2b-3d18-48bb-b149-49bdc26799c0.html",
-     "data": "2026-07-22T20:41:15+00:00"
-    },
-    {
-     "titolo": "Parlamento Nicaragua voterà ad agosto legge per cancellare le elezioni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/parlamento-nicaragua-votera-ad-agosto-legge-per-cancellare-le-elezioni_d2c075f3-defd-497d-9f43-7d33942e7761.html",
-     "data": "2026-07-22T19:43:35+00:00"
-    },
-    {
-     "titolo": "Brasile, Lula stanzia 3,2 miliardi di euro per le imprese colpite dai dazi Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/brasile-lula-stanzia-32-miliardi-di-euro-per-le-imprese-colpite-dai-dazi_6d553791-33d1-4db3-b608-95b1eef96a34.html",
-     "data": "2026-07-22T19:34:16+00:00"
-    },
-    {
-     "titolo": "Araghchi replica a Trump minacciando 'occhio per occhio'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/22/araghchi-replica-a-trump-minacciando-occhio-per-occhio_dd8d8952-070b-4588-a486-834952f8518c.html",
-     "data": "2026-07-22T19:14:22+00:00"
-    },
-    {
-     "titolo": "Araghchi replica a Trump minacciando 'occhio per occhio'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/22/araghchi-replica-a-trump-minacciando-occhio-per-occhio_d499c779-a379-418a-a594-8b8423475205.html",
-     "data": "2026-07-22T19:14:24+00:00"
-    },
-    {
-     "titolo": "Mondiali: media,Tapia trattenuto dall'Fbi a New York prima volo ritorno dell'Argentina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/mondiali-mediatapia-trattenuto-dallfbi-a-new-york-prima-volo-ritorno-dellargentina_8a6d0d15-c6d7-4b16-9c02-ed3f665ba73f.html",
-     "data": "2026-07-22T18:42:12+00:00"
     }
    ]
   },
