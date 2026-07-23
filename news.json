@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-23T20:47:38.662592+00:00",
+ "aggiornato": "2026-07-23T21:52:01.911220+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Casa Bianca, dazi dal 10 al 12,5 per cento su molti partner da domani",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/casa-bianca-dazi-dal-10-al-125-per-cento-su-molti-partner-da-domani_27301ceb-f1cf-4e89-a686-53eb24d1c5a8.html",
+     "data": "2026-07-23T21:18:06+00:00"
+    },
     {
      "titolo": "Trump, 'Xi verrà in visita il 24 settembre, parlerò con lui di IA'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/trump-xi-verra-in-visita-il-24-settembre-parlero-con-lui-di-ia_ddaacf77-62b7-4c66-b886-e26e80770f93.html",
@@ -49,11 +54,6 @@
      "titolo": "Borsa: Milano chiude in calo, Ftse Mib -2,8%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/borsa-milano-chiude-in-calo-ftse-mib-28_2daaac94-4ce6-4f22-a45e-3bcef68c1dd6.html",
      "data": "2026-07-23T15:42:40+00:00"
-    },
-    {
-     "titolo": "'Trump, sono vicino a una decisione su un attacco massiccio all'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/trump-sono-vicino-a-una-decisione-su-un-attacco-massiccio-alliran_8b7c30b8-dec2-4a30-b37c-f039bc1a02ec.html",
-     "data": "2026-07-23T15:39:01+00:00"
     }
    ]
   },
@@ -128,7 +128,7 @@
     {
      "titolo": "Precipita dal palazzo della scuola della Guardia di Finanza a L'Aquila, gravissima una 22enne",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/precipita-dal-palazzo-della-scuola-della-guardia-di-finanza-a-laquila-gravissima_81be3b0e-e6c9-4e3d-b2e6-4fc5adad8dcc.html",
-     "data": "2026-07-23T20:00:22+00:00"
+     "data": "2026-07-23T21:28:06+00:00"
     },
     {
      "titolo": "L'Emilia-Romagna approva la legge sul suicidio assistito",
@@ -191,9 +191,9 @@
    "nome": "Politica",
    "voci": [
     {
-     "titolo": "Varato il decreto legge anti-maranza, minorenni sempre imputabili tra i 14 e i 18 anni",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/23/varato-il-decreto-legge-anti-maranza-minorenni-sempre-imputabili-tra-i-14-e-i-18-anni_1008440b-330b-4cf4-b62c-7a068dc7b39d.html",
-     "data": "2026-07-23T20:12:43+00:00"
+     "titolo": "Guerra ai baby-delinquenti, minori imputabili dai 14 anni",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/23/guerra-ai-baby-delinquenti-minori-imputabili-dai-14-anni_1008440b-330b-4cf4-b62c-7a068dc7b39d.html",
+     "data": "2026-07-23T21:20:38+00:00"
     },
     {
      "titolo": "Crosetto, spero che con attacchi Usa l'Iran non allarghi la guerra",
@@ -321,6 +321,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Uruguay, gli omicidi aumentano del 6,6% nel primo semestre dell'anno",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/uruguay-gli-omicidi-aumentano-del-66-nel-primo-semestre-dellanno_4d2f7c1f-cb38-4645-8385-5cace70f9223.html",
+     "data": "2026-07-23T21:41:21+00:00"
+    },
+    {
+     "titolo": "L'AfD vola a Berlino, per la prima volta avanti nei sondaggi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/23/lafd-vola-a-berlino-per-la-prima-volta-avanti-nei-sondaggi_42bb0070-2ae5-460e-8020-7c8dbf00099c.html",
+     "data": "2026-07-23T21:25:47+00:00"
+    },
+    {
+     "titolo": "Casa Bianca, dazi dal 10 al 12,5 per cento su molti partner da domani",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/23/casa-bianca-dazi-dal-10-al-125-per-cento-su-molti-partner-da-domani_73a56b34-4c3c-41ee-be95-362471f5b377.html",
+     "data": "2026-07-23T21:18:10+00:00"
+    },
+    {
      "titolo": "Cuba, Caritas avvia la distribuzione degli aiuti umanitari inviati dagli Usa",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/cuba-caritas-avvia-la-distribuzione-degli-aiuti-umanitari-inviati-dagli-usa_f232b129-8638-4b07-82ab-9027b8aeda2f.html",
      "data": "2026-07-23T20:04:26+00:00"
@@ -364,21 +379,6 @@
      "titolo": "Nuovo schiaffo a Trump, un'altra risoluzione della Camera contro la guerra in Iran",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/23/nuovo-schiaffo-a-trump-unaltra-risoluzione-della-camera-contro-la-guerra-in-iran_803fe4fd-e499-43d1-a2f5-aa5b916fce48.html",
      "data": "2026-07-23T15:46:49+00:00"
-    },
-    {
-     "titolo": "Milei risponde sui social alla 'campagna anti-Argentina' post mondiale di calcio",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/milei-risponde-sui-social-alla-campagna-anti-argentina-post-mondiale_c9b10531-aa40-47c0-a42a-ec9972a3790c.html",
-     "data": "2026-07-23T14:20:16+00:00"
-    },
-    {
-     "titolo": "Sondaggio, 'AfD per la prima volta in testa a Berlino a due mesi dal voto'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/23/sondaggio-afd-per-la-prima-volta-in-testa-a-berlino-a-due-mesi-dal_42bb0070-2ae5-460e-8020-7c8dbf00099c.html",
-     "data": "2026-07-23T14:46:25+00:00"
-    },
-    {
-     "titolo": "Mark Zuckerberg lancia una campagna all'insegna dell'ottimismo sull'IA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/23/mark-zuckerberg-lancia-una-campagna-allinsegna-dellottimismo-sullia-_df5336f9-1a2d-4593-a8de-d972042d9d7f.html",
-     "data": "2026-07-23T14:03:59+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Canoa: mondiali slalom, De Gennaro bronzo nel k1 uomini",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/23/canoa-mondiali-slalom-de-gennaro-bronzo-nel-k1-uomini_22c911a9-8530-4f63-b50f-d1e063034db3.html",
+     "data": "2026-07-23T21:25:51+00:00"
+    },
+    {
      "titolo": "Atletica: assoluti al via, da domani in mille in pista a Firenze",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/23/atletica-assoluti-al-via-da-domani-in-mille-in-pista-a-firenze_fcebee5f-6889-40f1-b6cc-01fb71eb177b.html",
      "data": "2026-07-23T19:36:07+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Atalanta: domenica altra amichevole con l'Arezzo a Zingonia",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/23/atalanta-domenica-altra-amichevole-con-larezzo-a-zingonia_4b26d402-6a0f-41eb-8e2d-28a04909848f.html",
      "data": "2026-07-23T16:24:32+00:00"
-    },
-    {
-     "titolo": "Milan e Modric insieme fino al 2027, manca solo ufficialità",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/23/milan-e-modric-insieme-fino-al-2027-manca-solo-ufficialita_5f25dcce-5915-45ce-91ef-69dfb283a6b3.html",
-     "data": "2026-07-23T16:07:12+00:00"
     }
    ]
   }
