@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-07-23T19:52:10.948296+00:00",
+ "aggiornato": "2026-07-23T20:47:38.662592+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Precipita dal palazzo della scuola della Guardia di Finanza a L'Aquila, gravissima una 22enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/precipita-dal-palazzo-della-scuola-della-guardia-di-finanza-a-laquila-gravissima_81be3b0e-e6c9-4e3d-b2e6-4fc5adad8dcc.html",
+     "data": "2026-07-23T20:00:22+00:00"
+    },
+    {
      "titolo": "L'Emilia-Romagna approva la legge sul suicidio assistito",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/lemilia-romagna-approva-la-legge-sul-suicidio-assistito_7b2c3d32-a966-4d44-80ae-4714537cf570.html",
      "data": "2026-07-23T18:45:40+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Bimba morta in piscina, domani i funerali di Alice",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/bimba-morta-in-piscina-domani-i-funerali-di-alice_7e9b20b9-8205-4582-aae8-dd85aeedbfa0.html",
      "data": "2026-07-23T16:57:38+00:00"
-    },
-    {
-     "titolo": "Via libera a norme attuative del Piano regolatore di Roma, 'giornata storica'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/via-libera-a-norme-attuative-del-piano-regolatore-di-roma-giornata-storica_24c2fe8e-bcab-4b4e-b573-489bef56df6c.html",
-     "data": "2026-07-23T16:47:39+00:00"
     }
    ]
   },
@@ -193,7 +193,7 @@
     {
      "titolo": "Varato il decreto legge anti-maranza, minorenni sempre imputabili tra i 14 e i 18 anni",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/23/varato-il-decreto-legge-anti-maranza-minorenni-sempre-imputabili-tra-i-14-e-i-18-anni_1008440b-330b-4cf4-b62c-7a068dc7b39d.html",
-     "data": "2026-07-23T19:19:46+00:00"
+     "data": "2026-07-23T20:12:43+00:00"
     },
     {
      "titolo": "Crosetto, spero che con attacchi Usa l'Iran non allarghi la guerra",
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Il governo vara il Ddl concorrenza con la riforma della rete carburanti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/23/il-governo-vara-il-ddl-concorrenza-con-la-riforma-della-rete-carburanti_02558cba-06f7-4cf0-8655-bc98d6425f15.html",
+     "data": "2026-07-23T20:05:07+00:00"
+    },
+    {
      "titolo": ">ANSA-FOCUS/Lagarde resta fino al 2027 ma alla Bce aperta gara per successore",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/23/ansa-focuslagarde-resta-fino-al-2027-ma-alla-bce-aperta-gara-per_b9f21a08-1629-4d99-9db6-1b18b8f70a28.html",
      "data": "2026-07-23T17:24:56+00:00"
@@ -309,17 +314,17 @@
      "titolo": "Stellantis rafforza il management, Tianshu Xin alla Cina e Asia-Pacifico",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/23/stellantis-rafforza-il-management-tianshu-xin-alla-cina-e-asia-pacifico_573c077d-aec6-43a6-83d5-7c62bb06680c.html",
      "data": "2026-07-23T15:22:32+00:00"
-    },
-    {
-     "titolo": "Governatore della Banca centrale del Sudafrica annuncia che i tassi restano invariati",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/23/governatore-della-banca-centrale-del-sudafrica-annuncia-che-i-tassi-restano_ec09faeb-317a-4c73-9cc5-430645c0babe.html",
-     "data": "2026-07-23T15:20:16+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Cuba, Caritas avvia la distribuzione degli aiuti umanitari inviati dagli Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/cuba-caritas-avvia-la-distribuzione-degli-aiuti-umanitari-inviati-dagli-usa_f232b129-8638-4b07-82ab-9027b8aeda2f.html",
+     "data": "2026-07-23T20:04:26+00:00"
+    },
     {
      "titolo": "Rischio salmonella, ritirati dai supermercati Usa 19 milioni di uova",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/23/rischio-salmonella-ritirati-dai-supermercati-usa-19-milioni-di-uova_e00f61ac-eae3-480e-9e2b-5a8d2d914768.html",
@@ -374,11 +379,6 @@
      "titolo": "Mark Zuckerberg lancia una campagna all'insegna dell'ottimismo sull'IA",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/23/mark-zuckerberg-lancia-una-campagna-allinsegna-dellottimismo-sullia-_df5336f9-1a2d-4593-a8de-d972042d9d7f.html",
      "data": "2026-07-23T14:03:59+00:00"
-    },
-    {
-     "titolo": "Crisi in Bolivia, il governo punta sui crediti di organizzazioni multilaterali",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/crisi-in-bolivia-il-governo-punta-sui-crediti-di-organizzazioni-multilaterali_182f36ac-e730-4538-8fce-f12aca39319d.html",
-     "data": "2026-07-23T13:49:19+00:00"
     }
    ]
   },
@@ -456,6 +456,11 @@
      "data": "2026-07-23T19:36:07+00:00"
     },
     {
+     "titolo": "Mercato: il Napoli tentato da Gatti, un trittico di nomi per la Roma",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/23/mercato-il-napoli-tentato-da-gatti-un-trittico-di-nomi-per-la-roma_6ac3c5d1-a27f-4cf0-8b8c-a0176db6973f.html",
+     "data": "2026-07-23T19:54:07+00:00"
+    },
+    {
      "titolo": "Maldini e il nodo ct: 'Non c'è fretta, aspettiamo chi vogliamo veramente'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/23/maldini-e-il-nodo-ct-non-ce-fretta-aspettiamo-chi-vogliamo-veramente_27bdf986-8d4e-4929-a7e0-98aacbb86240.html",
      "data": "2026-07-23T18:03:47+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Milan e Modric insieme fino al 2027, manca solo ufficialità",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/23/milan-e-modric-insieme-fino-al-2027-manca-solo-ufficialita_5f25dcce-5915-45ce-91ef-69dfb283a6b3.html",
      "data": "2026-07-23T16:07:12+00:00"
-    },
-    {
-     "titolo": "Tour: arriva la fuga e Carapaz vince la 18/a tappa, Pogacar in controllo",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/23/tour-arriva-la-fuga-e-carapaz-vince-la-18a-tappa-pogacar-in-controllo_830e21e0-5fa0-4789-99c7-db153540c973.html",
-     "data": "2026-07-23T15:32:35+00:00"
     }
    ]
   }
