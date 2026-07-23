@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-23T22:43:14.388504+00:00",
+ "aggiornato": "2026-07-23T23:45:10.458849+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "CentCom Usa, 'avviato un nuovo ciclo di attacchi all'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/centcom-usa-avviato-un-nuovo-ciclo-di-attacchi-alliran_1b10f6e9-9b4a-4e9f-8180-1836c99e7790.html",
+     "data": "2026-07-23T23:43:00+00:00"
+    },
     {
      "titolo": "Trump, 'da ora ogni danno a navi sarà risarcito con i fondi iraniani'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/trump-da-ora-ogni-danno-a-navi-sara-risarcito-con-i-fondi-iraniani_9fa77832-54d4-4d98-b2c0-8aaa37e711dc.html",
@@ -49,11 +54,6 @@
      "titolo": "Sold out in tre minuti il concerto speciale di Baglioni del 24 ottobre a Roma",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/sold-out-in-tre-minuti-il-concerto-speciale-di-baglioni-del-24-ottobre-a-roma_b098f69a-f2e4-42ff-bfe6-ddce65ac08f4.html",
      "data": "2026-07-23T16:18:50+00:00"
-    },
-    {
-     "titolo": "Stime Ue, da blocco price cap sul petrolio -3,5 miliardi per Mosca in un anno",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/stime-ue-da-blocco-price-cap-sul-petrolio-35-miliardi-per-mosca-in-un-anno_8906e842-292d-4b81-bd69-0a1516ffd4ac.html",
-     "data": "2026-07-23T16:03:43+00:00"
     }
    ]
   },
@@ -321,6 +321,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Cuba, gli Usa sanzionano le missioni mediche all'estero e il ministro della Sanità",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/cuba-gli-usa-sanzionano-le-missioni-mediche-allestero-e-il-ministro-della-sanita_830e71b4-e727-4889-a203-e4bd4b872ec8.html",
+     "data": "2026-07-23T23:43:17+00:00"
+    },
+    {
+     "titolo": "Dazi Usa, ministro delle Finanze brasiliano: 'Trump li ha ripristinati con la forza'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/dazi-usa-ministro-delle-finanze-brasiliano-trump-li-ha-ripristinati-con-la-forza_86df18c2-4a17-4815-80e9-545f83af7449.html",
+     "data": "2026-07-23T23:43:36+00:00"
+    },
+    {
+     "titolo": "CentCom Usa, 'avviato un nuovo ciclo di attacchi all'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/centcom-usa-avviato-un-nuovo-ciclo-di-attacchi-alliran_5689e212-2ac4-4841-a6a5-627335d68109.html",
+     "data": "2026-07-23T23:43:02+00:00"
+    },
+    {
+     "titolo": "Il governo Lula respinge i nuovi dazi di Trump del 12,5% sul lavoro forzato",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/il-governo-lula-respinge-i-nuovi-dazi-di-trump-del-125-sul-lavoro_c36a4762-7229-4ad6-bdfc-03bfdc61fb25.html",
+     "data": "2026-07-23T22:47:19+00:00"
+    },
+    {
      "titolo": "Trump, 'da ora ogni danno a navi sarà risarcito con i fondi iraniani'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/trump-da-ora-ogni-danno-a-navi-sara-risarcito-con-i-fondi-iraniani_ae42b921-20be-448a-ba6c-7d6a37f24dad.html",
      "data": "2026-07-23T22:22:28+00:00"
@@ -359,26 +379,6 @@
      "titolo": "Sisi celebra la rivoluzione di Nasser, 'sforzi per la pace non devono cessare'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/23/sisi-celebra-la-rivoluzione-di-nasser-sforzi-per-la-pace-non-devono-cessare_ad04ea8f-a63a-4bfc-a255-a278aa604620.html",
      "data": "2026-07-23T16:19:45+00:00"
-    },
-    {
-     "titolo": "Stime Ue, da blocco price cap sul petrolio -3,5 miliardi per Mosca in un anno",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/23/stime-ue-da-blocco-price-cap-sul-petrolio-35-miliardi-per-mosca-in-un-anno_33c11e54-22b3-4de9-a03e-7e7494ee0e4b.html",
-     "data": "2026-07-23T16:03:47+00:00"
-    },
-    {
-     "titolo": "'Trump, sono vicino a una decisione su un attacco massiccio all'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/23/trump-sono-vicino-a-una-decisione-su-un-attacco-massiccio-alliran_ac984e89-09ca-46f0-b777-decf5a9e68f1.html",
-     "data": "2026-07-23T15:39:17+00:00"
-    },
-    {
-     "titolo": "Governatore della Banca centrale del Sudafrica annuncia che i tassi restano invariati",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/23/governatore-della-banca-centrale-del-sudafrica-annuncia-che-i-tassi-restano_9efe3057-4cc2-4ea4-ac18-cf27a7937761.html",
-     "data": "2026-07-23T15:20:20+00:00"
-    },
-    {
-     "titolo": "Record di femminicidi in Brasile nel 2025, 1.571 le donne uccise per motivi di genere",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/record-di-femminicidi-in-brasile-nel-2025-1.571-le-donne-uccise-per-motivi_adb20989-0420-4a39-a623-44729f95465f.html",
-     "data": "2026-07-23T15:10:10+00:00"
     }
    ]
   },
