@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-23T01:20:40.221872+00:00",
+ "aggiornato": "2026-07-23T04:43:04.660634+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "++ A giugno in Europa +13,1% le vendite di auto, Stellantis cresce del 5,3% ++",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/a-giugno-in-europa-131-le-vendite-di-auto-stellantis-cresce-del-53_271ca07c-b5af-4faa-8f34-58473a58200d.html",
+     "data": "2026-07-23T04:01:24+00:00"
+    },
+    {
+     "titolo": "Teheran, 'se Usa colpiscono infrastrutture non passerà una goccia di petrolio'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/teheran-se-usa-colpiscono-infrastrutture-non-passera-una-goccia-di-petrolio_94f3eb45-8240-4d0b-a4d0-8b34ae12e717.html",
+     "data": "2026-07-23T02:21:59+00:00"
+    },
     {
      "titolo": "Media, 'missili Usa colpiscono città iraniana al confine iracheno'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/media-missili-usa-colpiscono-citta-iraniana-al-confine-iracheno_b04cb714-a1ae-44bc-aa25-5d89970c703c.html",
@@ -44,16 +54,6 @@
      "titolo": "Due indagati per il furto delle fiale di Fentanyl a Roma",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/due-indagati-per-il-furto-delle-fiale-di-fentanyl-a-roma_897a4d95-6f1e-4c53-9ecc-5df68411878a.html",
      "data": "2026-07-22T18:40:15+00:00"
-    },
-    {
-     "titolo": "Mauritius approva una legge per criminalizzare lo stupro coniugale",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/mauritius-approva-una-legge-per-criminalizzare-lo-stupro-coniugale_5e1dabd3-6acb-480b-b2ca-a6af9c864f76.html",
-     "data": "2026-07-22T18:25:08+00:00"
-    },
-    {
-     "titolo": "Netanyahu, 'lavoro per ampio governo nazionale, il lavoro con i nemici non è finito'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/22/netanyahu-lavoro-per-ampio-governo-nazionale-il-lavoro-con-i-nemici-non_ba6da87e-a210-44c8-b656-f776a7a2668d.html",
-     "data": "2026-07-22T18:15:37+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "++ A giugno in Europa +13,1% le vendite di auto, Stellantis cresce del 5,3% ++",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/23/a-giugno-in-europa-131-le-vendite-di-auto-stellantis-cresce-del-53_d56e454d-7ff1-4e83-980c-dfd9fcc3a687.html",
+     "data": "2026-07-23T04:01:22+00:00"
+    },
+    {
      "titolo": "Il prezzo del gas chiude oltre i 60 euro, ai massimi da marzo scorso",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/il-prezzo-del-gas-chiude-oltre-i-60-euro-ai-massimi-da-marzo-scorso_37563033-52ed-4863-8ac9-3e077da0e351.html",
      "data": "2026-07-22T16:45:25+00:00"
@@ -309,11 +314,6 @@
      "titolo": "Il Consiglio Ue sceglie l'italiano Comporti per la guida dell'Esma",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/il-consiglio-ue-sceglie-litaliano-comporti-per-la-guida-dellesma_45176fbd-c4ec-4570-9cb8-aaecb01e5189.html",
      "data": "2026-07-22T13:39:46+00:00"
-    },
-    {
-     "titolo": "Comunicazioni di Giorgetti sulle clausole salvaguardia il 5 agosto alla Camera",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/comunicazioni-di-giorgetti-sulle-clausole-salvaguardia-il-5-agosto-alla-camera_517ac2b1-dbde-4c5e-8228-f6d73b8d867a.html",
-     "data": "2026-07-22T13:28:10+00:00"
     }
    ]
   },
