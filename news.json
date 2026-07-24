@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-24T01:16:52.035399+00:00",
+ "aggiornato": "2026-07-24T04:40:18.057926+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Araghchi, 'confisca? Precedente esplosivo, nessun bene sarà al sicuro'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/araghchi-confisca-precedente-esplosivo-nessun-bene-sara-al-sicuro_20c14c0d-9591-41d1-8d27-81d59325ed6d.html",
+     "data": "2026-07-24T03:28:26+00:00"
+    },
     {
      "titolo": "Media Iran, 'attivata la difesa aerea nella zona est di Teheran'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/media-iran-attivata-la-difesa-aerea-nella-zona-est-di-teheran_ee8145d2-bbe7-4a0b-b5c3-2f9cf530277d.html",
@@ -13,7 +18,7 @@
     {
      "titolo": "CentCom Usa, 'avviato un nuovo ciclo di attacchi all'Iran'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/centcom-usa-avviato-un-nuovo-ciclo-di-attacchi-alliran_1b10f6e9-9b4a-4e9f-8180-1836c99e7790.html",
-     "data": "2026-07-23T23:58:53+00:00"
+     "data": "2026-07-24T01:29:28+00:00"
     },
     {
      "titolo": "Trump, 'da ora ogni danno a navi sarà risarcito con i fondi iraniani'",
@@ -49,11 +54,6 @@
      "titolo": "Sarah Toscano, 'innamorata della musica ma sogno un ruolo da cattiva sul set'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/sarah-toscano-innamorata-della-musica-ma-sogno-un-ruolo-da-cattiva-sul-set_d7764559-9da1-422b-8f2e-ab860a080154.html",
      "data": "2026-07-23T17:03:18+00:00"
-    },
-    {
-     "titolo": "Rischio salmonella, ritirati dai supermercati Usa 19 milioni di uova",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/rischio-salmonella-ritirati-dai-supermercati-usa-19-milioni-di-uova_232f209d-e61d-4a94-b977-5338e9d4de9e.html",
-     "data": "2026-07-23T16:59:08+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Araghchi, 'confisca? Precedente esplosivo, nessun bene sarà al sicuro'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/araghchi-confisca-precedente-esplosivo-nessun-bene-sara-al-sicuro_bc4b0b45-c8b9-49ce-843f-5795c2249c25.html",
+     "data": "2026-07-24T03:28:10+00:00"
+    },
+    {
+     "titolo": "Ministro brasiliano, 'ingiusti i nuovi dazi Usa'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/ministro-brasiliano-ingiusti-i-nuovi-dazi-usa_c6cefa79-f05f-4d3f-9549-6e8337c9a603.html",
+     "data": "2026-07-24T01:15:51+00:00"
+    },
+    {
      "titolo": "A luglio inflazione al 3,1% in Messico, minimo dal 2020",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/a-luglio-inflazione-al-31-in-messico-minimo-dal-2020_837cb7ba-8b26-4897-801a-f1e68f93a480.html",
      "data": "2026-07-24T01:14:48+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Trump, 'da ora ogni danno a navi sarà risarcito con i fondi iraniani'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/trump-da-ora-ogni-danno-a-navi-sara-risarcito-con-i-fondi-iraniani_ae42b921-20be-448a-ba6c-7d6a37f24dad.html",
      "data": "2026-07-23T22:22:28+00:00"
-    },
-    {
-     "titolo": "Messico, nuove sanzioni Usa contro il nuovo leader del cartello di Jalisco",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/messico-nuove-sanzioni-usa-contro-il-nuovo-leader-del-cartello-di-jalisco_9efc23aa-55ad-44cc-bf09-8a1e8afaeaba.html",
-     "data": "2026-07-23T21:59:00+00:00"
-    },
-    {
-     "titolo": "Uruguay, gli omicidi aumentano del 6,6% nel primo semestre dell'anno",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/uruguay-gli-omicidi-aumentano-del-66-nel-primo-semestre-dellanno_4d2f7c1f-cb38-4645-8385-5cace70f9223.html",
-     "data": "2026-07-23T21:41:21+00:00"
     }
    ]
   },
