@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-24T17:56:29.438301+00:00",
+ "aggiornato": "2026-07-24T19:11:25.096508+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, Stati membri della Cpi destituiscono il procuratore Karim Khan",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/media-stati-membri-della-cpi-destituiscono-il-procuratore-karim-khan_f2301c8c-6f60-4c4f-971a-c048b47ff52c.html",
+     "data": "2026-07-24T18:11:09+00:00"
+    },
+    {
+     "titolo": "Spagna, 'incendio vicino a Madrid al suo apice, impossibile spegnerlo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/spagna-incendio-vicino-a-madrid-al-suo-apice-impossibile-spegnerlo_19745426-ef1f-469f-9779-8360175b0c4c.html",
+     "data": "2026-07-24T17:56:59+00:00"
+    },
     {
      "titolo": "Trump minaccia l'Ue con dazi, 'la pagherà, revochi multe a società Usa'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/trump-minaccia-lue-con-dazi-la-paghera-revochi-multe-a-societa-usa_87077b9f-ce8b-48e7-92d6-1fc8d9e6e648.html",
@@ -44,16 +54,6 @@
      "titolo": "Axios, 'verso conferenza a Londra su coalizione internazionale per Hormuz'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/axios-verso-conferenza-a-londra-su-coalizione-internazionale-per-hormuz_fac15112-43f0-48a3-b88c-18708913538e.html",
      "data": "2026-07-24T16:33:22+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude in calo a 82 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/lo-spread-tra-btp-e-bund-chiude-in-calo-a-82-punti_2d7107e3-e447-4cf5-83f9-47a2f3294cab.html",
-     "data": "2026-07-24T16:13:43+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude in rialzo, si guarda al Medio Oriente",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/borsa-leuropa-chiude-in-rialzo-si-guarda-al-medio-oriente_455a4fce-571c-48a9-ac9e-2939814bb8c0.html",
-     "data": "2026-07-24T15:59:38+00:00"
     }
    ]
   },
@@ -126,14 +126,54 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Il procuratore di Palermo: 'Lo Stato non controlla più le carceri'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/il-procuratore-di-palermo-lo-stato-non-controlla-piu-le-carceri_c24f02f4-17cb-4c2f-a91b-2197259d2449.html",
-     "data": "2026-07-24T17:22:48+00:00"
+     "titolo": "Donna di 35 anni trovata morta in casa a Como, indaga la polizia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/donna-di-35-anni-trovata-morta-in-casa-a-como-indaga-la-polizia_eadb2a54-c592-4ab3-8c2c-3e6e5bda0391.html",
+     "data": "2026-07-24T19:07:16+00:00"
+    },
+    {
+     "titolo": "Aggredita nell'androne di casa, un fermo per violenza sessuale a Milano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/aggredita-nellandrone-di-casa-un-fermo-per-violenza-sessuale-a-milano_c3ee4319-cf9b-4aa8-8509-b30d25bfc102.html",
+     "data": "2026-07-24T18:58:57+00:00"
+    },
+    {
+     "titolo": "'Lo Stato non controlla le carceri', scontro tra il procuratore di Palermo e Nordio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/lo-stato-non-controlla-le-carceri-scontro-tra-il-procuratore-di-palermo-e-nordio_c24f02f4-17cb-4c2f-a91b-2197259d2449.html",
+     "data": "2026-07-24T18:55:55+00:00"
+    },
+    {
+     "titolo": "L'autopsia su Fakir, sangue nei polmoni e schiacciamento.",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/lautopsia-su-fakir-sangue-nei-polmoni-e-schiacciamento._38d2db79-44ca-4296-bf26-1722afc6e2ba.html",
+     "data": "2026-07-24T18:49:32+00:00"
+    },
+    {
+     "titolo": "Legale ragazza chiede di riaprire l'inchiesta su La Russa jr, 'nuove prove'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/legale-ragazza-chiede-di-riaprire-linchiesta-su-la-russa-jr-nuove-prove_ce46d7d0-88fe-4ed5-9f63-98921e54beb6.html",
+     "data": "2026-07-24T18:35:48+00:00"
+    },
+    {
+     "titolo": "Studentessa aggredita in un parco a Bari: 'Una violenza inaudita'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/studentessa-aggredita-in-un-parco-a-bari-una-violenza-inaudita_d2410e2b-e13a-45ab-a4de-199bb86048dd.html",
+     "data": "2026-07-24T19:03:27+00:00"
+    },
+    {
+     "titolo": "Tragico incidente stradale in Kenya, morta una turista italiana",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/tragico-incidente-stradale-in-kenya-morta-una-turista-italiana_b0563555-8635-4332-8f4e-bc840efdd9a6.html",
+     "data": "2026-07-24T18:05:02+00:00"
+    },
+    {
+     "titolo": "In Procura una memoria con le chat Delmastro-Caroccia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/in-procura-una-memoria-con-le-chat-delmastro-caroccia_52786888-166b-4b2f-af84-c2e334b2470a.html",
+     "data": "2026-07-24T18:00:57+00:00"
+    },
+    {
+     "titolo": "Uccise per le cuffiette, la giustizia riparativa 'ultima chance'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/uccise-per-le-cuffiette-la-giustizia-riparativa-ultima-chance_681f17f0-0c12-47d9-912f-ebcd4d9c1548.html",
+     "data": "2026-07-24T17:58:55+00:00"
     },
     {
      "titolo": "Travolta da una Porsche,  otto anni a uno degli imputati. Assolto l'altro",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/travolta-da-una-porsche-otto-anni-a-uno-degli-imputati.-assolto-laltro_927fa04f-84b2-4e74-bca3-aba7badc0e3b.html",
-     "data": "2026-07-24T17:16:09+00:00"
+     "data": "2026-07-24T19:07:18+00:00"
     },
     {
      "titolo": "Giornalista ucciso, forse ancora vivo quando gli hanno dato fuoco",
@@ -141,55 +181,25 @@
      "data": "2026-07-24T17:09:29+00:00"
     },
     {
-     "titolo": "Donna di 35 anni trovata morta in casa a Como, indaga la polizia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/donna-di-35-anni-trovata-morta-in-casa-a-como-indaga-la-polizia_eadb2a54-c592-4ab3-8c2c-3e6e5bda0391.html",
-     "data": "2026-07-24T17:30:16+00:00"
-    },
-    {
      "titolo": "Tribunale Sorveglianza Torino fissa udienza su differimento pena Roggero",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/tribunale-sorveglianza-torino-fissa-udienza-su-differimento-pena-roggero_38f811ed-0f75-4f88-ae3e-a459adf7eb26.html",
      "data": "2026-07-24T16:56:16+00:00"
-    },
-    {
-     "titolo": "L'autopsia su Fakir, sangue nei polmoni e schiacciamento. La difesa degli agenti: 'Nessuna azione violenta dei due poliziotti'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/lautopsia-su-fakir-sangue-nei-polmoni-e-schiacciamento.-la-difesa-degli-agenti-nessuna_38d2db79-44ca-4296-bf26-1722afc6e2ba.html",
-     "data": "2026-07-24T17:25:59+00:00"
-    },
-    {
-     "titolo": "L'Appello sospende l'efficacia della decadenza, Mimmo Lucano torna sindaco di Riace",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/lappello-sospende-lefficacia-della-decadenza-mimmo-lucano-torna-sindaco-di-riace_cca40e76-6110-4c46-ab68-c383d09142ba.html",
-     "data": "2026-07-24T16:38:32+00:00"
-    },
-    {
-     "titolo": "Aggredita nell'androne di casa, un fermo per violenza sessuale a Milano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/aggredita-nellandrone-di-casa-un-fermo-per-violenza-sessuale-a-milano_c3ee4319-cf9b-4aa8-8509-b30d25bfc102.html",
-     "data": "2026-07-24T17:30:42+00:00"
-    },
-    {
-     "titolo": "Caso Rear, il gip dispone l'archiviazione per Laus e altri indagati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/caso-rear-il-gip-dispone-larchiviazione-per-laus-e-altri-indagati_1f714ca2-7677-4211-940f-af782a19ff0e.html",
-     "data": "2026-07-24T16:18:37+00:00"
-    },
-    {
-     "titolo": "'Alice nel cuore', chiesa gremita ai funerali della bimba morta in piscina",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/alice-nel-cuore-chiesa-gremita-ai-funerali-della-bimba-morta-in-piscina_5967a8df-2d3a-4f0a-be4a-87f4428104b9.html",
-     "data": "2026-07-24T15:30:27+00:00"
-    },
-    {
-     "titolo": "Delmastro: 'Il deposito delle chat farà piena chiarezza sulla mia estraneità'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/delmastro-il-deposito-delle-chat-fara-piena-chiarezza-sulla-mia-estraneita_52786888-166b-4b2f-af84-c2e334b2470a.html",
-     "data": "2026-07-24T15:26:52+00:00"
-    },
-    {
-     "titolo": "Ancora sangue sul lavoro, muoiono due operai: uno aveva appena 18 anni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/ancora-sangue-sul-lavoro-muoiono-due-operai-uno-aveva-appena_27c744bc-0d7b-4119-bbdb-15099831502e.html",
-     "data": "2026-07-24T17:12:08+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Piantedosi contro Lepore: 'Grave sottovalutazione dei rischi'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/piantedosi-contro-lepore-grave-sottovalutazione-dei-rischi_ed04eaea-6e6b-4ba5-8800-97fff46175dc.html",
+     "data": "2026-07-24T18:11:41+00:00"
+    },
+    {
+     "titolo": "Lo stop a Schlein del M5s e di Avs sull'Ucraina: 'Basta armi'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/lo-stop-a-schlein-del-m5s-e-di-avs-sullucraina-basta-armi_e44c43eb-003a-4523-b2c0-329375f73402.html",
+     "data": "2026-07-24T18:08:37+00:00"
+    },
     {
      "titolo": "I dubbi dei penalisti: 'Incostituzionali le nuove norme sui minori'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/i-dubbi-dei-penalisti-incostituzionali-le-nuove-norme-sui-minori_31b52b21-f112-4d94-ac09-e911abc22d71.html",
@@ -239,22 +249,17 @@
      "titolo": "Lepore a Piantedosi, 'attaccare me non risolve problemi di ordine pubblico'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/lepore-a-piantedosi-attaccare-me-non-risolve-problemi-di-ordine-pubblico_21520243-e06e-432d-9c1a-64a5cf096220.html",
      "data": "2026-07-24T12:38:54+00:00"
-    },
-    {
-     "titolo": "La morte di Fakir, Piantedosi: 'Da Lepore grave sottovalutazione sui rischi della piazza'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/la-morte-di-fakir-piantedosi-da-lepore-grave-sottovalutazione-sui-rischi-della-piazza_f08a77d1-26c8-41f7-bc3f-d5484b0be972.html",
-     "data": "2026-07-24T13:07:39+00:00"
-    },
-    {
-     "titolo": "Guerra ai baby-delinquenti, minori imputabili dai 14 anni",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/23/guerra-ai-baby-delinquenti-minori-imputabili-dai-14-anni_1008440b-330b-4cf4-b62c-7a068dc7b39d.html",
-     "data": "2026-07-24T09:01:01+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Governo al lavoro su carburanti, allo studio anche accise mobili",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/24/governo-al-lavoro-su-carburanti-allo-studio-anche-accise-mobili_52a71d7e-633f-4fd1-a27f-3bdb30492e1f.html",
+     "data": "2026-07-24T17:53:57+00:00"
+    },
     {
      "titolo": "Confindustria lancia l'allarme, impatti su crescita e credito",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/24/confindustria-lancia-lallarme-impatti-su-crescita-e-credito_a9cd528d-3a44-400d-9de3-6be850131e73.html",
@@ -309,17 +314,27 @@
      "titolo": "Rixi, portiamo avanti allargamento zona franca porto Trieste",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/24/rixi-portiamo-avanti-allargamento-zona-franca-porto-trieste_19180f66-2d8d-4456-ade6-1ca832874cf7.html",
      "data": "2026-07-24T14:29:44+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa dopo positiva Wall Street, Milano +0,5%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/24/borsa-leuropa-dopo-positiva-wall-street-milano-05_121635f7-8302-48b7-92b5-c46d77902196.html",
-     "data": "2026-07-24T14:03:55+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "La Cisgiordania in fiamme, Netanyahu schiera l'esercito e assedia Nablus",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/la-cisgiordania-in-fiamme-netanyahu-schiera-lesercito-e-assedia-nablus_a874a002-a783-4e74-bcf5-6004a0436904.html",
+     "data": "2026-07-24T18:46:22+00:00"
+    },
+    {
+     "titolo": "Media, Stati membri della Cpi destituiscono il procuratore Karim Khan",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/24/media-stati-membri-della-cpi-destituiscono-il-procuratore-karim-khan_fc8aa139-3908-4758-b882-8b6672752891.html",
+     "data": "2026-07-24T18:11:21+00:00"
+    },
+    {
+     "titolo": "Spagna, 'incendio vicino a Madrid al suo apice, impossibile spegnerlo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/24/spagna-incendio-vicino-a-madrid-al-suo-apice-impossibile-spegnerlo_1ffd3a4b-ae0f-454f-9d30-e0d2f333ba73.html",
+     "data": "2026-07-24T17:57:17+00:00"
+    },
     {
      "titolo": "Trump minaccia l'Ue con dazi, 'la pagherà, revochi multe a società Usa'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/24/trump-minaccia-lue-con-dazi-la-paghera-revochi-multe-a-societa-usa_daec1ec3-5d61-484f-bec6-aa92a2373037.html",
@@ -364,21 +379,6 @@
      "titolo": "Petro decreta l'emergenza climatica in Colombia per 12 mesi",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/petro-decreta-lemergenza-climatica-in-colombia-per-12-mesi_811e3cb9-ae86-4916-ab86-0ac9528639a7.html",
      "data": "2026-07-24T16:20:02+00:00"
-    },
-    {
-     "titolo": "Italia e Brasile, rafforzare coordinamento inter-istituzionale contro le mafie",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/italia-e-brasile-rafforzare-coordinamento-inter-istituzionale-contro-le-mafie_3aeff819-336c-4e18-8a47-7e105674736e.html",
-     "data": "2026-07-24T16:11:22+00:00"
-    },
-    {
-     "titolo": "Amb. Usa in Israele, 'rischio di escalation imprevista e chiusura spazio aereo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/24/amb.-usa-in-israele-rischio-di-escalation-imprevista-e-chiusura-spazio-aereo_760479e7-3043-430c-9b96-bdcf0565e434.html",
-     "data": "2026-07-24T15:57:38+00:00"
-    },
-    {
-     "titolo": "Amb. Usa in Israele, 'rischio di escalation imprevista e chiusura spazio aereo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/amb.-usa-in-israele-rischio-di-escalation-imprevista-e-chiusura-spazio-aereo_31b49f75-c967-4071-b599-dbf241d517a7.html",
-     "data": "2026-07-24T15:57:40+00:00"
     }
    ]
   },
@@ -451,6 +451,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Sinner salterà Montreal, termina la striscia di Masters 1000 consecutivi vinti",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/24/sinner-saltera-montreal-termina-la-striscia-di-masters-1000-consecutivi-vinti_95eaf9c2-4875-4a74-9daa-79572c06abe8.html",
+     "data": "2026-07-24T18:53:59+00:00"
+    },
+    {
+     "titolo": "Nba: LeBron spiazza tutti e sceglie Philadelphia, a caccia del titolo",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/24/nba-lebron-spiazza-tutti-e-sceglie-philadelphia-a-caccia-del-titolo_2b93404e-283f-4486-96f5-bca222d6b545.html",
+     "data": "2026-07-24T18:41:38+00:00"
+    },
+    {
+     "titolo": "Sfuma il sogno Pep Guardiola, Pirlo pronto a fare il ct",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/sfuma-il-sogno-pep-guardiola-pirlo-pronto-a-fare-il-ct_fe13a9b2-458c-40c1-b186-830757ff843a.html",
+     "data": "2026-07-24T17:55:15+00:00"
+    },
+    {
+     "titolo": "Como stringe per Chalobah, Leao al Milan: 'Liberami'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/como-stringe-per-chalobah-leao-al-milan-liberami_d41e91ea-3545-419c-8f6d-a1a51e57a8cd.html",
+     "data": "2026-07-24T18:10:31+00:00"
+    },
+    {
      "titolo": "Borgo in festa a Locorotondo, Donnarumma e Alessia Elefante sposi",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/borgo-in-festa-a-locorotondo-donnarumma-e-alessia-elefante-sposi_e7687c95-22be-449f-a746-2485427217e3.html",
      "data": "2026-07-24T17:37:02+00:00"
@@ -459,11 +479,6 @@
      "titolo": "F1: Ungheria, uno-due Ferrari nelle prime libere",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/24/f1-ungheria-uno-due-ferrari-nelle-prime-libere_47f738b4-e935-4d6d-bc64-5a82a036304a.html",
      "data": "2026-07-24T17:47:29+00:00"
-    },
-    {
-     "titolo": "Sfuma il sogno Pep Guardiola, Pirlo verso la panchina degli azzurri",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/sfuma-il-sogno-guardiola-pirlo-verso-la-panchina-azzurra-_fe13a9b2-458c-40c1-b186-830757ff843a.html",
-     "data": "2026-07-24T16:58:44+00:00"
     },
     {
      "titolo": "Juve al lavoro, Spalletti prepara il test di Liegi",
@@ -493,22 +508,7 @@
     {
      "titolo": "Tour: Pogacar re sull'Alpe d'Huez, battuto il record di Pantani",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/24/tour-pogacar-doma-lalpe-dhuez-e-batte-il-record-di-pantani_486cdb72-2da0-4ee6-9997-71a296860bc0.html",
-     "data": "2026-07-24T17:48:45+00:00"
-    },
-    {
-     "titolo": "Maresca, Rodri lunedì si opera alla schiena",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/maresca-rodri-lunedi-si-opera-alla-schiena_5e6c39c5-92fd-41be-94cc-e89ac57f0fcb.html",
-     "data": "2026-07-24T15:05:48+00:00"
-    },
-    {
-     "titolo": "Locorotondo in festa per le nozze di Donnarumma, anche tifosi in attesa",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/locorotondo-in-festa-per-le-nozze-di-donnarumma-anche-tifosi-in-attesa_a7d470a1-a5c5-457b-9942-5c8fb0b97279.html",
-     "data": "2026-07-24T14:20:30+00:00"
-    },
-    {
-     "titolo": "Van Bommel nuovo ct del Belgio",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/van-bommel-nuovo-ct-del-belgio_22838414-e989-4f46-a4c6-c4051b36eea0.html",
-     "data": "2026-07-24T13:29:35+00:00"
+     "data": "2026-07-24T18:55:50+00:00"
     }
    ]
   }
