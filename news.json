@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-07-24T12:54:20.713183+00:00",
+ "aggiornato": "2026-07-24T14:30:40.604585+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Si spacca il partito polacco del Pis, espulso l'ex premier Morawiecki",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/si-spacca-il-partito-polacco-del-pis-espulso-lex-premier-morawiecki_8377659f-f952-4dfb-bad3-82a6fd6e6ffb.html",
+     "data": "2026-07-24T13:48:36+00:00"
+    },
+    {
+     "titolo": "Media, nella sparatoria vicino Nablus morto un maggiore dell'Idf rimasto ferito",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/media-nella-sparatoria-vicino-nablus-morto-un-maggiore-dellidf-rimasto-ferito_c3819204-d0c3-4b75-80ea-b57a743ab855.html",
+     "data": "2026-07-24T13:46:01+00:00"
+    },
+    {
+     "titolo": "Proposta della Lega, in campagna elettorale divieto di usare lingue straniere",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/proposta-della-lega-in-campagna-elettorale-divieto-di-usare-lingue-straniere_bac35076-43de-4d34-a631-2fb7be25143d.html",
+     "data": "2026-07-24T13:19:15+00:00"
+    },
+    {
+     "titolo": "Kiev, salgono a 10 i morti e un centinaio di feriti per raid russo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/kiev-salgono-a-10-i-morti-e-un-centinaio-di-feriti-per-raid-russo_1dc47ad3-5f45-4fd2-98de-7337451ddf0d.html",
+     "data": "2026-07-24T13:08:51+00:00"
+    },
+    {
+     "titolo": "Fakir aveva appuntamento a inizio agosto in centro di salute mentale",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/fakir-aveva-appuntamento-a-inizio-agosto-in-centro-di-salute-mentale_b018e714-43a4-4034-a6b2-420c510b9787.html",
+     "data": "2026-07-24T13:06:44+00:00"
+    },
     {
      "titolo": "Lepore a Piantedosi, 'attaccare me non risolve problemi di ordine pubblico'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/lepore-a-piantedosi-attaccare-me-non-risolve-problemi-di-ordine-pubblico_0d54bd3e-041e-4963-a0ad-674d7ff02f59.html",
@@ -29,31 +54,6 @@
      "titolo": "Incidente in Kenya, muore turista italiana in vacanza con la famiglia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/incidente-in-kenya-muore-turista-italiana-in-vacanza-con-la-famiglia_4b0aae57-e3ea-425d-af95-071a710c06ce.html",
      "data": "2026-07-24T12:20:04+00:00"
-    },
-    {
-     "titolo": "Mezzaluna Rossa, da stamattina tre attacchi di coloni vicino Nablus",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/mezzaluna-rossa-da-stamattina-tre-attacchi-di-coloni-vicino-nablus_9e8c8586-2470-48be-bc55-c7d905d71bb7.html",
-     "data": "2026-07-24T11:45:24+00:00"
-    },
-    {
-     "titolo": "Giustizia riparativa al 21enne che uccise per le cuffiette, 'ultima chance'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/giustizia-riparativa-al-21enne-che-uccise-per-le-cuffiette-ultima-chance_97bf78cc-e8c3-4219-ad02-255637a7f4ce.html",
-     "data": "2026-07-24T11:42:34+00:00"
-    },
-    {
-     "titolo": "Zelensky, 6 morti e decine di feriti nel raid russo su Kiev",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/zelensky-6-morti-e-decine-di-feriti-nel-raid-russo-su-kiev_c479d3d7-74d5-459b-bd44-2128c47aa116.html",
-     "data": "2026-07-24T11:22:08+00:00"
-    },
-    {
-     "titolo": "Compagni di Scuola, il film cult di Verdone torna in tv restaurato in alta definizione",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/compagni-di-scuola-il-film-cult-di-verdone-torna-in-tv-restaurato-in-alta-definizione_d774f0a8-5ee7-464c-90d1-53800af17ae3.html",
-     "data": "2026-07-24T11:10:37+00:00"
-    },
-    {
-     "titolo": "Pm Palermo, 'le carceri non sono più sotto il controllo dello Stato'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/pm-palermo-le-carceri-non-sono-piu-sotto-il-controllo-dello-stato_e558c93d-4d7b-4b7d-89fa-3435df97ea8e.html",
-     "data": "2026-07-24T10:18:18+00:00"
     }
    ]
   },
@@ -126,70 +126,90 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Cappellano del Beccaria, la norma sui minori è un passo indietro",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/cappellano-del-beccaria-la-norma-sui-minori-e-un-passo-indietro_5d18c25c-5e34-4449-9ee6-1d4a71a081a5.html",
-     "data": "2026-07-24T12:25:06+00:00"
+     "titolo": "Incidente nell'impianto di trattamento dei rifiuti, muore operaio 18enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/incidente-nellimpianto-di-trattamento-dei-rifiuti-muore-operaio-18enne_27c744bc-0d7b-4119-bbdb-15099831502e.html",
+     "data": "2026-07-24T14:14:43+00:00"
     },
     {
-     "titolo": "Operaio muore schiacciato da macchina una spazzatrice a Roma",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/operaio-muore-schiacciato-da-macchina-una-spazzatrice-a-roma_d24d25ba-ea34-4a81-9d0c-0942769af08f.html",
-     "data": "2026-07-24T12:25:23+00:00"
+     "titolo": "Istat-Aci: 'Nel 2025 in calo le vittime degli incidenti stradali, -5,3%'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/istat-aci-nel-2025-in-calo-le-vittime-degli-incidenti-stradali-53_b0a865b1-969d-4c03-8a1f-f63c97ad42a2.html",
+     "data": "2026-07-24T14:02:19+00:00"
     },
     {
-     "titolo": "Anziano scompare da reparto dell'ospedale, trovato dopo 10 ore nei sotterranei",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/anziano-scompare-da-reparto-dellospedale-trovato-dopo-10-ore-nei-sotterranei_64b01e92-ca43-4b82-8036-35d121168915.html",
-     "data": "2026-07-24T11:50:27+00:00"
+     "titolo": "Due Canadair e tre elicotteri per spegnere un rogo in Ogliastra",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/due-canadair-e-tre-elicotteri-per-spegnere-un-rogo-in-ogliastra_88c50f90-10ed-47ac-99f4-f66aea517db0.html",
+     "data": "2026-07-24T13:55:42+00:00"
     },
     {
-     "titolo": "Percorre 5 km in Tangenziale Napoli contromano, bloccata una donna",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/percorre-5-km-in-tangenziale-napoli-contromano-bloccata-una-donna_6e73543c-017e-45c7-8370-a6a90780fcc2.html",
-     "data": "2026-07-24T11:49:12+00:00"
+     "titolo": "Allarme mare e piscine, solo il 53,7% degli italiani nuota con sicurezza",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/allarme-mare-e-piscine-solo-il-537-degli-italiani-nuota-con-sicurezza_deb92436-a951-491f-892e-9390b6618701.html",
+     "data": "2026-07-24T13:54:52+00:00"
     },
     {
-     "titolo": "Telefono Azzurro premia Casellati 'per impegno a tutela diritti dei bambini'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/telefono-azzurro-premia-casellati-per-impegno-a-tutela-diritti-dei-bambini_65058fe2-eebf-450d-8d32-997c0cd3db1b.html",
-     "data": "2026-07-24T11:46:55+00:00"
+     "titolo": "Con il caldo record il sorgo diventa veleno, 50 pecore morte in pochi minuti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/col-caldo-record-il-sorgo-diventa-veleno-50-pecore-morte-in-pochi-minuti_02ced281-8120-4af9-9f07-aca7d64ed300.html",
+     "data": "2026-07-24T13:48:33+00:00"
     },
     {
-     "titolo": "Giustizia riparativa al 21enne che uccise per le cuffiette, 'ultima chance'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/giustizia-riparativa-al-21enne-che-uccise-per-le-cuffiette-ultima-chance_f1975318-4920-456e-90b6-40d9f65b551f.html",
-     "data": "2026-07-24T11:42:34+00:00"
+     "titolo": "Fakir era seguito da un centro di salute mentale. Piantedosi: 'Dai video la correttezza della polizia'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/fakir-era-seguito-da-un-centro-di-salute-mentale.-piantedosi-dai-video-la-correttezza_38d2db79-44ca-4296-bf26-1722afc6e2ba.html",
+     "data": "2026-07-24T14:21:13+00:00"
     },
     {
-     "titolo": "Giustizia riparativa al 21enne che uccise per delle cuffiette: 'L'ultima chance'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/giustizia-riparativa-al-21enne-che-uccise-per-delle-cuffiette-lultima-chance_681f17f0-0c12-47d9-912f-ebcd4d9c1548.html",
-     "data": "2026-07-24T11:42:33+00:00"
+     "titolo": "L'autopsia di Abderrahim Fakir, i quesiti aperti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/lautopsia-di-abderrahim-fakir-i-quesiti-aperti_733cc5dd-c041-4a2d-bba2-0b305ea18f43.html",
+     "data": "2026-07-24T13:23:54+00:00"
     },
     {
-     "titolo": "Bimbo morto, sotto sorveglianza dell'Asp 38 piccoli andati all'asilo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/bimbo-morto-sotto-sorveglianza-dellasp-38-piccoli-andati-allasilo_5915c9f9-dc99-4cb9-b239-5a834550d497.html",
-     "data": "2026-07-24T11:38:32+00:00"
+     "titolo": "Schianto sull'Asti-Cuneo: il pm chiede 10 anni per la sfida mortale tra Porsche",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/schianto-asti-cuneo-pm-chiede-10-anni-per-la-sfida-mortale-tra-porsche_927fa04f-84b2-4e74-bca3-aba7badc0e3b.html",
+     "data": "2026-07-24T13:53:58+00:00"
     },
     {
-     "titolo": "Attesa per l'autopsia di Fakir. Piantedosi: 'Dai video emerge la correttezza dei poliziotti. Cinquemila bodycam in arrivo'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/attesa-per-lautopsia-di-fakir.-piantedosi-dai-video-emerge-la-correttezza-dei_38d2db79-44ca-4296-bf26-1722afc6e2ba.html",
-     "data": "2026-07-24T11:43:13+00:00"
+     "titolo": "Fakir aveva appuntamento a inizio agosto in centro di salute mentale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/fakir-aveva-appuntamento-a-inizio-agosto-in-centro-di-salute-mentale_338c3d0e-340f-4d09-9b83-f57614b62991.html",
+     "data": "2026-07-24T13:06:41+00:00"
     },
     {
-     "titolo": "Bagnanti morsi nel mare del Cilento, pesce balestra o barracuda le ipotesi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/bagnanti-morsi-nel-mare-del-cilento-pesce-balestra-o-barracuda-le-ipotesi_22b6958f-d6a1-4fcf-9f13-7fc2e198b63e.html",
-     "data": "2026-07-24T11:32:14+00:00"
+     "titolo": "Col caldo record il sorgo diventa veleno, 50 pecore morte in pochi minuti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/col-caldo-record-il-sorgo-diventa-veleno-50-pecore-morte-in-pochi-minuti_9f46da2c-cb05-45ad-b64f-39834dd71b3b.html",
+     "data": "2026-07-24T13:03:01+00:00"
     },
     {
-     "titolo": "Il pm di Palermo: 'Le carceri non sono più sotto il controllo dello Stato'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/il-pm-di-palermo-le-carceri-non-sono-piu-sotto-il-controllo-dello-stato_c24f02f4-17cb-4c2f-a91b-2197259d2449.html",
-     "data": "2026-07-24T11:15:55+00:00"
+     "titolo": "Lucano, bene la sospensione della decadenza, il danno era per Riace",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/lucano-bene-la-sospensione-della-decadenza-il-danno-era-per-riace_127259df-42e2-4093-a17e-445228779285.html",
+     "data": "2026-07-24T12:58:36+00:00"
     },
     {
-     "titolo": "Sequestrati 1.000 razzi nautici, potevano dare 150 kg di esplosivo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/sequestrati-1.000-razzi-nautici-potevano-dare-150-kg-di-esplosivo_89946261-446b-4859-9335-011018026235.html",
-     "data": "2026-07-24T10:59:12+00:00"
+     "titolo": "Incidente in Kenya, muore turista italiana in vacanza con la famiglia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/incidente-in-kenya-muore-turista-italiana-in-vacanza-con-la-famiglia_b0563555-8635-4332-8f4e-bc840efdd9a6.html",
+     "data": "2026-07-24T13:47:17+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "I penalisti: 'Dubbi di incostituzionalità sull'imputabilità dei minorenni'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/i-penalisti-dubbi-di-incostituzionalita-sullimputabilita-dei-minorenni_31b52b21-f112-4d94-ac09-e911abc22d71.html",
+     "data": "2026-07-24T14:24:23+00:00"
+    },
+    {
+     "titolo": "Proposta della Lega, in campagna elettorale divieto di usare lingue straniere",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/proposta-della-lega-in-campagna-elettorale-divieto-di-usare-lingue-straniere_632902d8-16bf-4ef2-99ba-25554bca08a3.html",
+     "data": "2026-07-24T13:19:20+00:00"
+    },
+    {
+     "titolo": "Gaenswein, papa Leone ha dato nuova energia alla diplomazia vaticana",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/gaenswein-papa-leone-ha-dato-nuova-energia-alla-diplomazia-vaticana_7c4bb76e-1d77-4f18-b2ae-247957188528.html",
+     "data": "2026-07-24T13:17:30+00:00"
+    },
+    {
+     "titolo": "Lepore, Bologna ha vissuto il dramma di una morte evitabile",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/lepore-bologna-ha-vissuto-il-dramma-di-una-morte-evitabile_1ec654b7-d9a7-46b7-8714-1195b2832995.html",
+     "data": "2026-07-24T12:52:32+00:00"
+    },
     {
      "titolo": "Lepore a Piantedosi, 'attaccare me non risolve problemi di ordine pubblico'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/lepore-a-piantedosi-attaccare-me-non-risolve-problemi-di-ordine-pubblico_21520243-e06e-432d-9c1a-64a5cf096220.html",
@@ -198,7 +218,7 @@
     {
      "titolo": "La morte di Fakir, Piantedosi: 'Da Lepore grave sottovalutazione sui rischi della piazza'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/la-morte-di-fakir-piantedosi-da-lepore-grave-sottovalutazione-sui-rischi-della-piazza_f08a77d1-26c8-41f7-bc3f-d5484b0be972.html",
-     "data": "2026-07-24T11:24:54+00:00"
+     "data": "2026-07-24T13:07:39+00:00"
     },
     {
      "titolo": "Guerra ai baby-delinquenti, minori imputabili dai 14 anni",
@@ -229,22 +249,22 @@
      "titolo": "Chat Delmastro, la Procura di Roma valuta il conflitto di attribuzione",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/23/chat-delmastro-la-procura-di-roma-valuta-il-conflitto-di-attribuzione_0585e1bd-5302-4277-8ff9-5aff52807480.html",
      "data": "2026-07-23T17:16:13+00:00"
-    },
-    {
-     "titolo": "Barachini, 'al via il contributo pubblico per i giornali a scuola'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/23/barachini-al-via-il-contributo-pubblico-per-i-giornali-a-scuola_af57ed9f-db1c-4a7d-8f4d-2b0767350963.html",
-     "data": "2026-07-23T15:07:24+00:00"
-    },
-    {
-     "titolo": "Mattarella compie 85 anni, gli auguri di Meloni",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/23/mattarella-compie-85-anni-gli-auguri-di-meloni_2a7b8d3d-562b-4ef9-975b-83c88177dcc3.html",
-     "data": "2026-07-23T13:07:48+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: l'Europa dopo positiva Wall Street, Milano +0,5%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/24/borsa-leuropa-dopo-positiva-wall-street-milano-05_121635f7-8302-48b7-92b5-c46d77902196.html",
+     "data": "2026-07-24T14:03:55+00:00"
+    },
+    {
+     "titolo": "Enel, 'accordo apripista sulla gestione dell'IA' in azienda",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/24/enel-accordo-apripista-sulla-gestione-dellia-in-azienda_57310787-6acb-41ec-bf9a-81f72b11075a.html",
+     "data": "2026-07-24T14:00:52+00:00"
+    },
     {
      "titolo": "Borsa: Europa prosegue in rialzo, Milano +0,6% con le banche",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/24/borsa-europa-prosegue-in-rialzo-milano-06-con-le-banche_48e7582b-8a13-4c5c-a350-452db8989225.html",
@@ -294,22 +314,27 @@
      "titolo": "Sindacati, con Enel accordo innovativo su Ia, importante passo avanti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/24/sindacati-con-enel-accordo-innovativo-su-ia-importante-passo-avanti_26c7bcda-e23c-4451-ad6f-784181cccb43.html",
      "data": "2026-07-24T09:15:34+00:00"
-    },
-    {
-     "titolo": "Vacanze estive per 36 milioni di italiani, al top agosto con mete italiane e mare",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/24/vacanze-estive-per-36-milioni-di-italiani-al-top-agosto-con-mete-italiane_251b22c5-0134-491a-973a-cb45976eef12.html",
-     "data": "2026-07-24T09:14:05+00:00"
-    },
-    {
-     "titolo": "Allianz compra Hsbc Life Singapore per 2 miliardi euro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/24/allianz-compra-hsbc-life-singapore-per-2-miliardi-euro_3f5b3011-3715-4e47-a030-e15dc4b33dbb.html",
-     "data": "2026-07-24T08:59:11+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Si spacca il partito polacco del Pis, espulso l'ex premier Morawiecki",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/24/si-spacca-il-partito-polacco-del-pis-espulso-lex-premier-morawiecki_79397b25-170a-4ab7-b7b2-08166ff58367.html",
+     "data": "2026-07-24T13:48:53+00:00"
+    },
+    {
+     "titolo": "Media, nella sparatoria vicino Nablus morto un maggiore dell'Idf rimasto ferito",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/media-nella-sparatoria-vicino-nablus-morto-un-maggiore-dellidf-rimasto-ferito_0467bdb2-d2bc-4fe7-88ce-c2cf9932da3f.html",
+     "data": "2026-07-24T13:46:17+00:00"
+    },
+    {
+     "titolo": "Kiev, salgono a 10 i morti e un centinaio di feriti per raid russo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/24/kiev-salgono-a-10-i-morti-e-un-centinaio-di-feriti-per-raid-russo_9a266285-4dd5-420e-a5fb-8265aeb9178d.html",
+     "data": "2026-07-24T13:09:04+00:00"
+    },
     {
      "titolo": "Sudafrica, corte rinvia procedimento parlamentare di impeachment del presidente",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/24/sudafrica-corte-rinvia-procedimento-parlamentare-di-impeachment-del-presidente_c6f46d16-644d-4c00-a010-e1629f4783c7.html",
@@ -354,21 +379,6 @@
      "titolo": "Governo Burnham minimizza su nuovi dazi Usa, per Gb non cambia nulla",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/24/governo-burnham-minimizza-su-nuovi-dazi-usa-per-gb-non-cambia-nulla_1ab8b74e-d50c-41a1-91ae-8f0052d591f5.html",
      "data": "2026-07-24T09:40:16+00:00"
-    },
-    {
-     "titolo": "La Cina aggiunge 14 entità dell'Ue all'elenco dei controlli sulle esportazioni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/24/la-cina-aggiunge-14-entita-dellue-allelenco-dei-controlli-sulle-esportazioni_16ed41a0-dedf-4314-9204-281b385a4b4f.html",
-     "data": "2026-07-24T08:43:40+00:00"
-    },
-    {
-     "titolo": "Capo Idf ordina 'massiccio dispiegamento' in Cisgiordania",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/capo-idf-ordina-massiccio-dispiegamento-in-cisgiordania_d072ba80-2e1b-4c74-a20f-14aae544120f.html",
-     "data": "2026-07-24T08:42:36+00:00"
-    },
-    {
-     "titolo": "Netanyahu promette 'fermezza contro i terroristi' dopo scontri in Cisgiordania",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/netanyahu-promette-fermezza-contro-i-terroristi-dopo-scontri-in-cisgiordania_787da8df-1980-4447-acd6-5f6257596239.html",
-     "data": "2026-07-24T07:54:35+00:00"
     }
    ]
   },
@@ -441,9 +451,34 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Milan: Cardinale punta sui giovani 'priorità a giocatori vivaio'",
+     "titolo": "Locorotondo in festa per le nozze di Donnarumma, anche tifosi in attesa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/locorotondo-in-festa-per-le-nozze-di-donnarumma-anche-tifosi-in-attesa_a7d470a1-a5c5-457b-9942-5c8fb0b97279.html",
+     "data": "2026-07-24T14:20:30+00:00"
+    },
+    {
+     "titolo": "Van Bommel nuovo ct del Belgio",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/van-bommel-nuovo-ct-del-belgio_22838414-e989-4f46-a4c6-c4051b36eea0.html",
+     "data": "2026-07-24T13:29:35+00:00"
+    },
+    {
+     "titolo": "Basket: Milano completa roster, firma Wright e aspetta Mathews",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/07/24/basket-milano-completa-roster-firma-wright-e-aspetta-mathews_7d61feb5-533b-477a-b90e-5c6ab9284e3f.html",
+     "data": "2026-07-24T13:41:42+00:00"
+    },
+    {
+     "titolo": "Allegri e lo staff tecnico presentati in ritiro ai tifosi del Napoli",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/allegri-e-lo-staff-tecnico-presentati-in-ritiro-ai-tifosi-del-napoli_74d8d17f-92fd-447b-9b77-bb62f05a1bad.html",
+     "data": "2026-07-24T13:42:26+00:00"
+    },
+    {
+     "titolo": "F1: la Ferrari di Leclerc vola in prime libere a Budapest, poi Verstappen",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/24/f1-la-ferrari-di-leclerc-vola-in-prime-libere-a-budapest-poi-verstappen_f4fefa38-71ec-4abe-8670-6afc182e94ad.html",
+     "data": "2026-07-24T13:09:01+00:00"
+    },
+    {
+     "titolo": "Milan, Cardinale punta sui giovani: 'Priorità a giocatori del vivaio'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/milan-cardinale-punta-sui-giovani-priorita-a-giocatori-vivaio_debb66b7-bde4-49f1-bf81-e2a745857c35.html",
-     "data": "2026-07-24T12:34:05+00:00"
+     "data": "2026-07-24T13:46:08+00:00"
     },
     {
      "titolo": "Abodi a Venezia, incontro con Venturini e visita al 'Bosco dello Sport'",
@@ -461,9 +496,9 @@
      "data": "2026-07-24T11:36:18+00:00"
     },
     {
-     "titolo": "Calcio: test esordio per Como, pari con il Paris FC",
+     "titolo": "Amichevoli: test esordio per Como, pari con il Paris FC",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/calcio-test-esordio-per-como-pari-con-il-paris-fc_dedf3161-1830-4940-94b9-d640f972f45b.html",
-     "data": "2026-07-24T11:34:11+00:00"
+     "data": "2026-07-24T13:43:54+00:00"
     },
     {
      "titolo": "Mondiali: all'arbitro della finale Vinčić il premio 'Giulio Campanati'",
@@ -473,32 +508,7 @@
     {
      "titolo": "Il Milan blinda Comotto e Camarda, rinnovo fino al 2031",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/il-milan-blinda-comotto-e-camarda-rinnovo-fino-al-2031_5223e7da-0f1b-4616-a566-e59cc7ba2146.html",
-     "data": "2026-07-24T10:26:47+00:00"
-    },
-    {
-     "titolo": "Kloop saluta la Red Bull 'un onore allenare la Germania'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/kloop-saluta-la-red-bull-un-onore-allenare-la-germania_6b85d17d-e182-4013-84f7-4adc823cf887.html",
-     "data": "2026-07-24T10:08:46+00:00"
-    },
-    {
-     "titolo": "Auto: Aci presenta le nuove commissioni sportive",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/24/auto-aci-presenta-le-nuove-commissioni-sportive_41357bcc-ae54-4cb7-bbe8-37dac52554e9.html",
-     "data": "2026-07-24T09:44:18+00:00"
-    },
-    {
-     "titolo": "E' ufficiale, Klopp nominato nuovo ct della Germania",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/e-ufficiale-klopp-nominato-nuovo-ct-della-germania_f2b13bac-d22b-40bb-8b35-c4c602bf1d24.html",
-     "data": "2026-07-24T09:35:50+00:00"
-    },
-    {
-     "titolo": "Nations League: Italia-Francia si giocherà il 12 novembre a Milano",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/nations-league-italia-francia-si-giochera-il-12-novembre-a-milano_029ea0e6-f6c7-4ef5-89b8-96ed4b28247a.html",
-     "data": "2026-07-24T10:09:36+00:00"
-    },
-    {
-     "titolo": "Guardiola rifiuta l'offerta della Federcalcio, non sarà ct dell'Italia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/guardiola-rifiuta-lofferta-della-federcalcio-non-sara-ct-dellitalia_1a635c6f-f7fc-4a5d-8d59-be2dae79ccf5.html",
-     "data": "2026-07-24T08:59:45+00:00"
+     "data": "2026-07-24T13:45:45+00:00"
     }
    ]
   }
