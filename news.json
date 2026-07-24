@@ -1,14 +1,19 @@
 {
- "aggiornato": "2026-07-23T23:45:10.458849+00:00",
+ "aggiornato": "2026-07-24T01:16:52.035399+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
+     "titolo": "Media Iran, 'attivata la difesa aerea nella zona est di Teheran'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/media-iran-attivata-la-difesa-aerea-nella-zona-est-di-teheran_ee8145d2-bbe7-4a0b-b5c3-2f9cf530277d.html",
+     "data": "2026-07-24T01:03:54+00:00"
+    },
+    {
      "titolo": "CentCom Usa, 'avviato un nuovo ciclo di attacchi all'Iran'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/centcom-usa-avviato-un-nuovo-ciclo-di-attacchi-alliran_1b10f6e9-9b4a-4e9f-8180-1836c99e7790.html",
-     "data": "2026-07-23T23:43:00+00:00"
+     "data": "2026-07-23T23:58:53+00:00"
     },
     {
      "titolo": "Trump, 'da ora ogni danno a navi sarà risarcito con i fondi iraniani'",
@@ -49,11 +54,6 @@
      "titolo": "Rischio salmonella, ritirati dai supermercati Usa 19 milioni di uova",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/rischio-salmonella-ritirati-dai-supermercati-usa-19-milioni-di-uova_232f209d-e61d-4a94-b977-5338e9d4de9e.html",
      "data": "2026-07-23T16:59:08+00:00"
-    },
-    {
-     "titolo": "Sold out in tre minuti il concerto speciale di Baglioni del 24 ottobre a Roma",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/23/sold-out-in-tre-minuti-il-concerto-speciale-di-baglioni-del-24-ottobre-a-roma_b098f69a-f2e4-42ff-bfe6-ddce65ac08f4.html",
-     "data": "2026-07-23T16:18:50+00:00"
     }
    ]
   },
@@ -321,6 +321,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "A luglio inflazione al 3,1% in Messico, minimo dal 2020",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/a-luglio-inflazione-al-31-in-messico-minimo-dal-2020_837cb7ba-8b26-4897-801a-f1e68f93a480.html",
+     "data": "2026-07-24T01:14:48+00:00"
+    },
+    {
+     "titolo": "Media Iran, 'attivata la difesa aerea nella zona est di Teheran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/media-iran-attivata-la-difesa-aerea-nella-zona-est-di-teheran_593c3c53-7ab6-42ba-92ec-7b27e882cf34.html",
+     "data": "2026-07-24T01:03:55+00:00"
+    },
+    {
+     "titolo": "Onu, cinque dei sei candidati al dopo Guterres sono latinoamericani e caraibici",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/onu-cinque-dei-sei-candidati-al-dopo-guterres-sono-latinoamericani-e-caraibici_d7a8e06d-c388-4b0d-846c-43f317f78632.html",
+     "data": "2026-07-24T00:36:07+00:00"
+    },
+    {
+     "titolo": "Nuovi dazi Usa, 'per il Messico nessun cambiamento'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/nuovi-dazi-usa-per-il-messico-nessun-cambiamento_99510acb-639e-43be-ba24-549b14d22b87.html",
+     "data": "2026-07-24T00:07:59+00:00"
+    },
+    {
      "titolo": "Cuba, gli Usa sanzionano le missioni mediche all'estero e il ministro della Sanità",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/cuba-gli-usa-sanzionano-le-missioni-mediche-allestero-e-il-ministro-della-sanita_830e71b4-e727-4889-a203-e4bd4b872ec8.html",
      "data": "2026-07-23T23:43:17+00:00"
@@ -331,9 +351,14 @@
      "data": "2026-07-23T23:43:36+00:00"
     },
     {
+     "titolo": "Venezuela, famiglie di minori scomparsi chiamate a identificare 38 corpi senza nome",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/venezuela-famiglie-di-minori-scomparsi-chiamate-a-identificare-38-corpi-senza-nome_8776a3bf-4792-4da9-9474-3104e9b60b73.html",
+     "data": "2026-07-23T23:43:55+00:00"
+    },
+    {
      "titolo": "CentCom Usa, 'avviato un nuovo ciclo di attacchi all'Iran'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/centcom-usa-avviato-un-nuovo-ciclo-di-attacchi-alliran_5689e212-2ac4-4841-a6a5-627335d68109.html",
-     "data": "2026-07-23T23:43:02+00:00"
+     "data": "2026-07-24T00:07:10+00:00"
     },
     {
      "titolo": "Il governo Lula respinge i nuovi dazi di Trump del 12,5% sul lavoro forzato",
@@ -354,31 +379,6 @@
      "titolo": "Uruguay, gli omicidi aumentano del 6,6% nel primo semestre dell'anno",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/uruguay-gli-omicidi-aumentano-del-66-nel-primo-semestre-dellanno_4d2f7c1f-cb38-4645-8385-5cace70f9223.html",
      "data": "2026-07-23T21:41:21+00:00"
-    },
-    {
-     "titolo": "L'AfD vola a Berlino, per la prima volta avanti nei sondaggi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/23/lafd-vola-a-berlino-per-la-prima-volta-avanti-nei-sondaggi_42bb0070-2ae5-460e-8020-7c8dbf00099c.html",
-     "data": "2026-07-23T21:25:47+00:00"
-    },
-    {
-     "titolo": "Casa Bianca, dazi dal 10 al 12,5 per cento su molti partner da domani",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/23/casa-bianca-dazi-dal-10-al-125-per-cento-su-molti-partner-da-domani_73a56b34-4c3c-41ee-be95-362471f5b377.html",
-     "data": "2026-07-23T21:18:10+00:00"
-    },
-    {
-     "titolo": "Cuba, Caritas avvia la distribuzione degli aiuti umanitari inviati dagli Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/cuba-caritas-avvia-la-distribuzione-degli-aiuti-umanitari-inviati-dagli-usa_f232b129-8638-4b07-82ab-9027b8aeda2f.html",
-     "data": "2026-07-23T20:04:26+00:00"
-    },
-    {
-     "titolo": "Rischio salmonella, ritirati dai supermercati Usa 19 milioni di uova",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/23/rischio-salmonella-ritirati-dai-supermercati-usa-19-milioni-di-uova_e00f61ac-eae3-480e-9e2b-5a8d2d914768.html",
-     "data": "2026-07-23T16:59:12+00:00"
-    },
-    {
-     "titolo": "Sisi celebra la rivoluzione di Nasser, 'sforzi per la pace non devono cessare'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/23/sisi-celebra-la-rivoluzione-di-nasser-sforzi-per-la-pace-non-devono-cessare_ad04ea8f-a63a-4bfc-a255-a278aa604620.html",
-     "data": "2026-07-23T16:19:45+00:00"
     }
    ]
   },
