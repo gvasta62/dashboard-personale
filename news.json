@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-24T19:11:25.096508+00:00",
+ "aggiornato": "2026-07-24T20:43:09.414140+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, 'parliamo con l'Iran più seriamente, non ho fretta di chiudere'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/trump-parliamo-con-liran-piu-seriamente-non-ho-fretta-di-chiudere_c28022be-1dc1-487d-a271-7ef320b66905.html",
+     "data": "2026-07-24T19:46:47+00:00"
+    },
+    {
+     "titolo": "Macron chiede alle Forze Armate massimo supporto per domare gli incendi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/macron-chiede-alle-forze-armate-massimo-supporto-per-domare-gli_0628bb87-fe84-4af6-a1f7-8e069a7bf945.html",
+     "data": "2026-07-24T19:45:23+00:00"
+    },
+    {
+     "titolo": "Incendi in Spagna, 63.000 le persone evacuate nella regione di Madrid",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/incendi-in-spagna-63.000-le-persone-evacuate-nella-regione-di-madrid_eb9828eb-2f9e-49c6-9608-ca5e9b75d59b.html",
+     "data": "2026-07-24T19:44:00+00:00"
+    },
     {
      "titolo": "Media, Stati membri della Cpi destituiscono il procuratore Karim Khan",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/media-stati-membri-della-cpi-destituiscono-il-procuratore-karim-khan_f2301c8c-6f60-4c4f-971a-c048b47ff52c.html",
@@ -39,27 +54,17 @@
      "titolo": "Iran, 'per ogni iraniano morto nei raid uccideremo un soldato Usa'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/iran-per-ogni-iraniano-morto-nei-raid-uccideremo-un-soldato-usa_f1e50249-ce38-4272-abf3-17450f4dd683.html",
      "data": "2026-07-24T16:48:18+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas chiude in rialzo a 63,14 euro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/il-prezzo-del-gas-chiude-in-rialzo-a-6314-euro_21d78496-aece-4e9e-9063-6241ffa77bf1.html",
-     "data": "2026-07-24T16:47:07+00:00"
-    },
-    {
-     "titolo": "L'Ue convoca il rappresentante russo dopo l'attacco al consolato lettone",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/lue-convoca-il-rappresentante-russo-dopo-lattacco-al-consolato-lettone_8fb5ae8e-24fe-44c2-89b8-93bfdc92d420.html",
-     "data": "2026-07-24T16:36:05+00:00"
-    },
-    {
-     "titolo": "Axios, 'verso conferenza a Londra su coalizione internazionale per Hormuz'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/axios-verso-conferenza-a-londra-su-coalizione-internazionale-per-hormuz_fac15112-43f0-48a3-b88c-18708913538e.html",
-     "data": "2026-07-24T16:33:22+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Incendio ad Assisi in area in prossimità del 'Bosco di San Francesco'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/24/incendio-ad-assisi-in-area-in-prossimita-del-bosco-di-san-francesco_ad4312dd-f6c3-4906-81d1-dd752127ab9a.html",
+     "data": "2026-07-24T20:19:26+00:00"
+    },
     {
      "titolo": "Sul dimensionamento scolastico dell'Umbria scontro aperto tra Ascani e Valditara",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/24/sul-dimensionamento-scolastico-dellumbria-scontro-aperto-tra-ascani-e-valditara_4749b017-f864-4fa1-a94d-6182311a0d45.html",
@@ -114,17 +119,17 @@
      "titolo": "Eseguite da Anas prove di carico su due nuovi viadotti della Perugia-Ancona",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/23/eseguite-da-anas-prove-di-carico-su-due-nuovi-viadotti-della-perugia-ancona_b3848858-f61d-44e1-aeff-ce1301a6f522.html",
      "data": "2026-07-23T16:16:31+00:00"
-    },
-    {
-     "titolo": "Castiglione del Lago pronta a ospitare l'Umbria Balloon Festival",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/23/castiglione-del-lago-pronta-a-ospitare-lumbria-balloon-festival_44ae0536-2fbf-428a-adf1-df2b6de99b60.html",
-     "data": "2026-07-23T16:00:16+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Ilaria Cucchi: 'Da anni denunciamo fatti gravi nella scuola della GdF dell'Aquila'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/ilaria-cucchi-da-anni-denunciamo-fatti-gravi-nella-scuola-della-gdf_73bf495c-f33a-47d0-af68-eabecf463767.html",
+     "data": "2026-07-24T19:37:36+00:00"
+    },
     {
      "titolo": "Donna di 35 anni trovata morta in casa a Como, indaga la polizia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/donna-di-35-anni-trovata-morta-in-casa-a-como-indaga-la-polizia_eadb2a54-c592-4ab3-8c2c-3e6e5bda0391.html",
@@ -141,9 +146,9 @@
      "data": "2026-07-24T18:55:55+00:00"
     },
     {
-     "titolo": "L'autopsia su Fakir, sangue nei polmoni e schiacciamento.",
+     "titolo": "L'autopsia su Fakir, sangue nei polmoni e schiacciamento",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/lautopsia-su-fakir-sangue-nei-polmoni-e-schiacciamento._38d2db79-44ca-4296-bf26-1722afc6e2ba.html",
-     "data": "2026-07-24T18:49:32+00:00"
+     "data": "2026-07-24T19:15:51+00:00"
     },
     {
      "titolo": "Legale ragazza chiede di riaprire l'inchiesta su La Russa jr, 'nuove prove'",
@@ -179,17 +184,17 @@
      "titolo": "Giornalista ucciso, forse ancora vivo quando gli hanno dato fuoco",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/giornalista-ucciso-forse-ancora-vivo-quando-gli-hanno-dato-fuoco_b94a1897-4a9c-436b-9750-3f9db769497d.html",
      "data": "2026-07-24T17:09:29+00:00"
-    },
-    {
-     "titolo": "Tribunale Sorveglianza Torino fissa udienza su differimento pena Roggero",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/tribunale-sorveglianza-torino-fissa-udienza-su-differimento-pena-roggero_38f811ed-0f75-4f88-ae3e-a459adf7eb26.html",
-     "data": "2026-07-24T16:56:16+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "L'incognita FI sulle preferenze, è sfida con Meloni anche sulla giustizia",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/lincognita-fi-sulle-preferenze-e-sfida-con-meloni-anche-sulla-giustizia_e339df34-ba22-4a1f-b91c-4bcc7242cfb1.html",
+     "data": "2026-07-24T19:15:02+00:00"
+    },
     {
      "titolo": "Piantedosi contro Lepore: 'Grave sottovalutazione dei rischi'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/piantedosi-contro-lepore-grave-sottovalutazione-dei-rischi_ed04eaea-6e6b-4ba5-8800-97fff46175dc.html",
@@ -244,11 +249,6 @@
      "titolo": "Lepore, Bologna ha vissuto il dramma di una morte evitabile",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/lepore-bologna-ha-vissuto-il-dramma-di-una-morte-evitabile_1ec654b7-d9a7-46b7-8714-1195b2832995.html",
      "data": "2026-07-24T12:52:32+00:00"
-    },
-    {
-     "titolo": "Lepore a Piantedosi, 'attaccare me non risolve problemi di ordine pubblico'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/lepore-a-piantedosi-attaccare-me-non-risolve-problemi-di-ordine-pubblico_21520243-e06e-432d-9c1a-64a5cf096220.html",
-     "data": "2026-07-24T12:38:54+00:00"
     }
    ]
   },
@@ -256,9 +256,9 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Governo al lavoro su carburanti, allo studio anche accise mobili",
+     "titolo": "Governo al lavoro sui carburanti, allo studio anche accise mobili",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/24/governo-al-lavoro-su-carburanti-allo-studio-anche-accise-mobili_52a71d7e-633f-4fd1-a27f-3bdb30492e1f.html",
-     "data": "2026-07-24T17:53:57+00:00"
+     "data": "2026-07-24T19:33:31+00:00"
     },
     {
      "titolo": "Confindustria lancia l'allarme, impatti su crescita e credito",
@@ -321,6 +321,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Il Venezuela conferma il ritiro dalla Corte Penale Internazionale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/il-venezuela-conferma-il-ritiro-dalla-corte-penale-internazionale_a8eac99b-1986-4d74-b6af-16e98a54d7dc.html",
+     "data": "2026-07-24T19:52:15+00:00"
+    },
+    {
+     "titolo": "Trump, 'parliamo con l'Iran più seriamente, non ho fretta di chiudere'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/trump-parliamo-con-liran-piu-seriamente-non-ho-fretta-di-chiudere_0c4d9110-1b06-4ce8-a4a7-cb28e3b0c512.html",
+     "data": "2026-07-24T19:46:45+00:00"
+    },
+    {
+     "titolo": "Macron chiede alle Forze Armate massimo supporto per domare gli incendi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/24/macron-chiede-alle-forze-armate-massimo-supporto-per-domare-gli_57415fd4-f93b-4067-a01e-951f77362080.html",
+     "data": "2026-07-24T19:45:36+00:00"
+    },
+    {
+     "titolo": "Incendi in Spagna, 63.000 le persone evacuate nella regione di Madrid",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/24/incendi-in-spagna-63.000-le-persone-evacuate-nella-regione-di-madrid_3b25d552-2c7f-4da9-9b23-d3c143c5e03e.html",
+     "data": "2026-07-24T19:44:03+00:00"
+    },
+    {
+     "titolo": "Allerta clima, il fenomeno di El Niño nel 2026-2027 sarà il più potente della storia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/allerta-clima-il-fenomeno-di-el-nino-nel-2026-2027-sara-il-piu-potente_fb088bf8-22ea-4cb4-8040-e19f4e43ea69.html",
+     "data": "2026-07-24T19:18:50+00:00"
+    },
+    {
      "titolo": "La Cisgiordania in fiamme, Netanyahu schiera l'esercito e assedia Nablus",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/la-cisgiordania-in-fiamme-netanyahu-schiera-lesercito-e-assedia-nablus_a874a002-a783-4e74-bcf5-6004a0436904.html",
      "data": "2026-07-24T18:46:22+00:00"
@@ -354,31 +379,6 @@
      "titolo": "Iran, 'per ogni iraniano morto nei raid uccideremo un soldato Usa'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/iran-per-ogni-iraniano-morto-nei-raid-uccideremo-un-soldato-usa_f2dd9e0e-889b-4065-b476-9ae743027ec0.html",
      "data": "2026-07-24T16:48:22+00:00"
-    },
-    {
-     "titolo": "L'Ue convoca il rappresentante russo dopo l'attacco al consolato lettone",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/24/lue-convoca-il-rappresentante-russo-dopo-lattacco-al-consolato-lettone_5131014b-3b3c-4211-a8fb-5728a9a99308.html",
-     "data": "2026-07-24T16:36:11+00:00"
-    },
-    {
-     "titolo": "Axios, 'verso conferenza a Londra su coalizione internazionale per Hormuz'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/24/axios-verso-conferenza-a-londra-su-coalizione-internazionale-per-hormuz_7e5ce066-6f6c-4e10-bd9e-02c0a1624165.html",
-     "data": "2026-07-24T16:33:22+00:00"
-    },
-    {
-     "titolo": "Axios, 'verso conferenza a Londra su coalizione internazionale per Hormuz'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/24/axios-verso-conferenza-a-londra-su-coalizione-internazionale-per-hormuz_24387b2f-b182-432f-85ac-9025f09f7cee.html",
-     "data": "2026-07-24T16:33:38+00:00"
-    },
-    {
-     "titolo": "Axios, 'verso conferenza a Londra su coalizione internazionale per Hormuz'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/axios-verso-conferenza-a-londra-su-coalizione-internazionale-per-hormuz_430d6098-433c-45d4-a3eb-e1db197c63b0.html",
-     "data": "2026-07-24T16:33:42+00:00"
-    },
-    {
-     "titolo": "Petro decreta l'emergenza climatica in Colombia per 12 mesi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/petro-decreta-lemergenza-climatica-in-colombia-per-12-mesi_811e3cb9-ae86-4916-ab86-0ac9528639a7.html",
-     "data": "2026-07-24T16:20:02+00:00"
     }
    ]
   },
@@ -451,9 +451,19 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Presentato al Senato il ddl Paganella, \"unire lo sport in un'unica filiera\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/24/presentato-al-senato-il-ddl-paganella-unire-lo-sport-in-ununica-filiera_2f2cb995-79cf-423b-98aa-d0bd5633e583.html",
+     "data": "2026-07-24T19:25:58+00:00"
+    },
+    {
      "titolo": "Sinner salterà Montreal, termina la striscia di Masters 1000 consecutivi vinti",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/24/sinner-saltera-montreal-termina-la-striscia-di-masters-1000-consecutivi-vinti_95eaf9c2-4875-4a74-9daa-79572c06abe8.html",
      "data": "2026-07-24T18:53:59+00:00"
+    },
+    {
+     "titolo": "Sinner salterà Montreal, termina la striscia di Masters 1000 consecutivi vinti",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/24/sinner-saltera-montreal-termina-la-striscia-di-masters-1000-consecutivi-vinti_728b2512-d9b3-4fe6-9230-aba4258b1905.html",
+     "data": "2026-07-24T19:16:22+00:00"
     },
     {
      "titolo": "Nba: LeBron spiazza tutti e sceglie Philadelphia, a caccia del titolo",
@@ -499,16 +509,6 @@
      "titolo": "Nba: annuncio a sorpresa di LeBron James, giocherà con i Philadelphia 76ers",
      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/07/24/nba-annuncio-a-sorpresa-di-lebron-james-giochera-con-i-philadelphia-76ers_57f8e5d5-e06c-4ddf-ad18-abfcad4d6818.html",
      "data": "2026-07-24T15:59:34+00:00"
-    },
-    {
-     "titolo": "Tour: Pogacar doma l'Alpe d'Huez e batte il record di Pantani",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/24/tour-pogacar-doma-lalpe-dhuez-e-batte-il-record-di-pantani_6cb1cf85-6ef0-4ac4-9261-ac1b6acee336.html",
-     "data": "2026-07-24T15:37:31+00:00"
-    },
-    {
-     "titolo": "Tour: Pogacar re sull'Alpe d'Huez, battuto il record di Pantani",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/24/tour-pogacar-doma-lalpe-dhuez-e-batte-il-record-di-pantani_486cdb72-2da0-4ee6-9997-71a296860bc0.html",
-     "data": "2026-07-24T18:55:50+00:00"
     }
    ]
   }
