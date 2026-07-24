@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-24T20:43:09.414140+00:00",
+ "aggiornato": "2026-07-24T21:51:17.822370+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media Riad, 'nave saudita colpita nel Mar Rosso, lievi danni'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/media-riad-nave-saudita-colpita-nel-mar-rosso-lievi-danni_6a149bda-7473-4e1b-93ce-041c9e4a2797.html",
+     "data": "2026-07-24T20:46:46+00:00"
+    },
+    {
+     "titolo": "Media Houthi, raid saudita su Hodeida e isola di Kamaran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/media-houthi-raid-saudita-su-hodeida-e-isola-di-kamaran_55681024-983c-4c93-bb09-5bb207824a6c.html",
+     "data": "2026-07-24T20:44:58+00:00"
+    },
     {
      "titolo": "Trump, 'parliamo con l'Iran più seriamente, non ho fretta di chiudere'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/trump-parliamo-con-liran-piu-seriamente-non-ho-fretta-di-chiudere_c28022be-1dc1-487d-a271-7ef320b66905.html",
@@ -44,16 +54,6 @@
      "titolo": "Meloni vede Giorgetti, 'al lavoro contro il caro-benzina'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/meloni-vede-giorgetti-al-lavoro-contro-il-caro-benzina_9e33085a-8d58-4b77-8286-9c643f5dd01c.html",
      "data": "2026-07-24T17:05:41+00:00"
-    },
-    {
-     "titolo": "Wsj, 'Barhein e Kuwait hanno colpito obiettivi in Iran'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/wsj-barhein-e-kuwait-hanno-colpito-obiettivi-in-iran_4d1f7192-b391-4b4b-a37c-b9030f9e4d98.html",
-     "data": "2026-07-24T16:49:58+00:00"
-    },
-    {
-     "titolo": "Iran, 'per ogni iraniano morto nei raid uccideremo un soldato Usa'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/iran-per-ogni-iraniano-morto-nei-raid-uccideremo-un-soldato-usa_f1e50249-ce38-4272-abf3-17450f4dd683.html",
-     "data": "2026-07-24T16:48:18+00:00"
     }
    ]
   },
@@ -61,9 +61,14 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Incendio ad Assisi circoscritto, ma situazione 'complessa'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/24/incendio-ad-assisi-circoscritto-ma-situazione-ancora-complessa_0d8927d9-5b67-42c3-931a-ac01f04e7b2c.html",
+     "data": "2026-07-24T21:20:16+00:00"
+    },
+    {
      "titolo": "Incendio ad Assisi in area in prossimità del 'Bosco di San Francesco'",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/24/incendio-ad-assisi-in-area-in-prossimita-del-bosco-di-san-francesco_ad4312dd-f6c3-4906-81d1-dd752127ab9a.html",
-     "data": "2026-07-24T20:19:26+00:00"
+     "data": "2026-07-24T21:21:38+00:00"
     },
     {
      "titolo": "Sul dimensionamento scolastico dell'Umbria scontro aperto tra Ascani e Valditara",
@@ -114,11 +119,6 @@
      "titolo": "Bandecchi, una società che lavora per me controlla che non sia controllato",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/23/bandecchi-una-societa-che-lavora-per-me-controlla-che-non-sia_abc31df5-8d14-41df-943a-4b2040899aa9.html",
      "data": "2026-07-23T18:21:19+00:00"
-    },
-    {
-     "titolo": "Eseguite da Anas prove di carico su due nuovi viadotti della Perugia-Ancona",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/23/eseguite-da-anas-prove-di-carico-su-due-nuovi-viadotti-della-perugia-ancona_b3848858-f61d-44e1-aeff-ce1301a6f522.html",
-     "data": "2026-07-23T16:16:31+00:00"
     }
    ]
   },
@@ -321,6 +321,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ong, salgono a 36 i detenuti morti quest'anno nelle prigioni venezuelane",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/ong-salgono-a-36-i-detenuti-morti-questanno-nelle-prigioni-venezuelane_0089cc47-79fb-4c7e-bcf5-804e44b6f868.html",
+     "data": "2026-07-24T21:40:05+00:00"
+    },
+    {
+     "titolo": "Perù, respinta l'ultima richiesta di grazia per Pedro Castillo, resta in carcere",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/peru-respinta-lultima-richiesta-di-grazia-per-pedro-castillo-resta-in-carcere_bfd2fd8e-2d34-442e-8728-7a76f7fc3336.html",
+     "data": "2026-07-24T20:57:39+00:00"
+    },
+    {
+     "titolo": "Zambelli non estradata per la salute, ma 'nessuna persecuzione politica'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/zambelli-non-estradata-per-la-salute-ma-nessuna-persecuzione-politica_d437aadc-540f-4c06-931b-3360549f1f4e.html",
+     "data": "2026-07-24T20:48:08+00:00"
+    },
+    {
+     "titolo": "Media Riad, 'nave saudita colpita nel Mar Rosso, lievi danni'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/media-riad-nave-saudita-colpita-nel-mar-rosso-lievi-danni_a06dfa08-0af1-4ccc-babd-a3f5f9004c95.html",
+     "data": "2026-07-24T20:46:58+00:00"
+    },
+    {
+     "titolo": "Media Houthi, raid saudita su Hodeida e isola di Kamaran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/media-houthi-raid-saudita-su-hodeida-e-isola-di-kamaran_4e1a0fb8-3311-41be-9752-1c2da5450aef.html",
+     "data": "2026-07-24T20:45:15+00:00"
+    },
+    {
      "titolo": "Il Venezuela conferma il ritiro dalla Corte Penale Internazionale",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/il-venezuela-conferma-il-ritiro-dalla-corte-penale-internazionale_a8eac99b-1986-4d74-b6af-16e98a54d7dc.html",
      "data": "2026-07-24T19:52:15+00:00"
@@ -354,31 +379,6 @@
      "titolo": "Media, Stati membri della Cpi destituiscono il procuratore Karim Khan",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/24/media-stati-membri-della-cpi-destituiscono-il-procuratore-karim-khan_fc8aa139-3908-4758-b882-8b6672752891.html",
      "data": "2026-07-24T18:11:21+00:00"
-    },
-    {
-     "titolo": "Spagna, 'incendio vicino a Madrid al suo apice, impossibile spegnerlo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/24/spagna-incendio-vicino-a-madrid-al-suo-apice-impossibile-spegnerlo_1ffd3a4b-ae0f-454f-9d30-e0d2f333ba73.html",
-     "data": "2026-07-24T17:57:17+00:00"
-    },
-    {
-     "titolo": "Trump minaccia l'Ue con dazi, 'la pagherà, revochi multe a società Usa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/24/trump-minaccia-lue-con-dazi-la-paghera-revochi-multe-a-societa-usa_daec1ec3-5d61-484f-bec6-aa92a2373037.html",
-     "data": "2026-07-24T17:24:43+00:00"
-    },
-    {
-     "titolo": "Incendi nella regione di Madrid, 40.000 tra evacuati e confinati",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/24/incendi-nella-regione-di-madrid-40.000-tra-evacuati-e-confinati_8d05e282-b466-479b-a943-7cd00a6ab66c.html",
-     "data": "2026-07-24T17:13:05+00:00"
-    },
-    {
-     "titolo": "Wsj, 'Barhein e Kuwait hanno colpito obiettivi in Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/wsj-barhein-e-kuwait-hanno-colpito-obiettivi-in-iran_dd578279-4e79-4b66-8c1b-a3fd5ac90650.html",
-     "data": "2026-07-24T16:50:00+00:00"
-    },
-    {
-     "titolo": "Iran, 'per ogni iraniano morto nei raid uccideremo un soldato Usa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/iran-per-ogni-iraniano-morto-nei-raid-uccideremo-un-soldato-usa_f2dd9e0e-889b-4065-b476-9ae743027ec0.html",
-     "data": "2026-07-24T16:48:22+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Darderi in semifinale a Estoril, battuto Faria in rimonta",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/24/darderi-in-semifinale-a-estoril-battuto-faria-in-rimonta_a716095b-84d5-4867-b326-fc5bc9960f0e.html",
+     "data": "2026-07-24T21:22:27+00:00"
+    },
+    {
      "titolo": "Presentato al Senato il ddl Paganella, \"unire lo sport in un'unica filiera\"",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/24/presentato-al-senato-il-ddl-paganella-unire-lo-sport-in-ununica-filiera_2f2cb995-79cf-423b-98aa-d0bd5633e583.html",
      "data": "2026-07-24T19:25:58+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Ungheria, le Ferrari di Hamilton e Leclerc guidano le seconde libere",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/24/ungheria-le-ferrari-di-hamilton-e-leclerc-guidano-le-seconde-libere_235e10b9-0fb9-49ce-8397-c4cbf3587e70.html",
      "data": "2026-07-24T16:12:20+00:00"
-    },
-    {
-     "titolo": "Nba: annuncio a sorpresa di LeBron James, giocherà con i Philadelphia 76ers",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/07/24/nba-annuncio-a-sorpresa-di-lebron-james-giochera-con-i-philadelphia-76ers_57f8e5d5-e06c-4ddf-ad18-abfcad4d6818.html",
-     "data": "2026-07-24T15:59:34+00:00"
     }
    ]
   }
