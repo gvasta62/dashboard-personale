@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-24T21:51:17.822370+00:00",
+ "aggiornato": "2026-07-24T22:47:40.847664+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Parigi, 'incendi senza precedenti, da domani oltre 1000 militari sul terreno'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/parigi-incendi-senza-precedenti-da-domani-oltre-1000-militari-sul-terreno_dc6bf0a0-4ab9-4254-96d6-4ccb239ec779.html",
+     "data": "2026-07-24T22:09:08+00:00"
+    },
     {
      "titolo": "Media Riad, 'nave saudita colpita nel Mar Rosso, lievi danni'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/media-riad-nave-saudita-colpita-nel-mar-rosso-lievi-danni_6a149bda-7473-4e1b-93ce-041c9e4a2797.html",
@@ -49,11 +54,6 @@
      "titolo": "Incendi nella regione di Madrid, 40.000 tra evacuati e confinati",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/incendi-nella-regione-di-madrid-40.000-tra-evacuati-e-confinati_3d153f54-606e-4423-8670-9cca70271ec5.html",
      "data": "2026-07-24T17:13:00+00:00"
-    },
-    {
-     "titolo": "Meloni vede Giorgetti, 'al lavoro contro il caro-benzina'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/meloni-vede-giorgetti-al-lavoro-contro-il-caro-benzina_9e33085a-8d58-4b77-8286-9c643f5dd01c.html",
-     "data": "2026-07-24T17:05:41+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Vinícius invita Haaland a Rio con Terry Crews dopo il meme virale del Mondiale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/vinicius-invita-haaland-a-rio-con-terry-crews-dopo-il-meme-virale_17d783af-d284-4369-aa14-97f818345541.html",
+     "data": "2026-07-24T22:12:41+00:00"
+    },
+    {
+     "titolo": "Parigi, 'incendi senza precedenti, da domani oltre 1000 militari sul terreno'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/parigi-incendi-senza-precedenti-da-domani-oltre-1000-militari-sul-terreno_fc03b2f9-f816-4d8f-95aa-c25c7f4e29c3.html",
+     "data": "2026-07-24T22:09:10+00:00"
+    },
+    {
      "titolo": "Ong, salgono a 36 i detenuti morti quest'anno nelle prigioni venezuelane",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/ong-salgono-a-36-i-detenuti-morti-questanno-nelle-prigioni-venezuelane_0089cc47-79fb-4c7e-bcf5-804e44b6f868.html",
      "data": "2026-07-24T21:40:05+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Allerta clima, il fenomeno di El Niño nel 2026-2027 sarà il più potente della storia",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/allerta-clima-il-fenomeno-di-el-nino-nel-2026-2027-sara-il-piu-potente_fb088bf8-22ea-4cb4-8040-e19f4e43ea69.html",
      "data": "2026-07-24T19:18:50+00:00"
-    },
-    {
-     "titolo": "La Cisgiordania in fiamme, Netanyahu schiera l'esercito e assedia Nablus",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/la-cisgiordania-in-fiamme-netanyahu-schiera-lesercito-e-assedia-nablus_a874a002-a783-4e74-bcf5-6004a0436904.html",
-     "data": "2026-07-24T18:46:22+00:00"
-    },
-    {
-     "titolo": "Media, Stati membri della Cpi destituiscono il procuratore Karim Khan",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/24/media-stati-membri-della-cpi-destituiscono-il-procuratore-karim-khan_fc8aa139-3908-4758-b882-8b6672752891.html",
-     "data": "2026-07-24T18:11:21+00:00"
     }
    ]
   },
