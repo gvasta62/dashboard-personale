@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-07-24T22:47:40.847664+00:00",
+ "aggiornato": "2026-07-24T23:50:58.543527+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -61,6 +61,11 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "'Sotto controllo' l'incendio ad Assisi nei pressi del bosco di San Francesco",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/25/sotto-controllo-lincendio-ad-assisi-nei-pressi-del-bosco-di-san-francesco_8faba470-8b7f-4acd-9b82-61057da6b086.html",
+     "data": "2026-07-24T23:28:26+00:00"
+    },
+    {
      "titolo": "Incendio ad Assisi circoscritto, ma situazione 'complessa'",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/24/incendio-ad-assisi-circoscritto-ma-situazione-ancora-complessa_0d8927d9-5b67-42c3-931a-ac01f04e7b2c.html",
      "data": "2026-07-24T21:20:16+00:00"
@@ -114,11 +119,6 @@
      "titolo": "Dalla Regione un nuovo modello di governance partecipativa per lo sviluppo",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/24/dalla-regione-un-nuovo-modello-di-governance-partecipativa-per-lo-sviluppo_6a17ea74-1b6c-4d3b-b82a-4cad903d2b47.html",
      "data": "2026-07-24T09:23:08+00:00"
-    },
-    {
-     "titolo": "Bandecchi, una società che lavora per me controlla che non sia controllato",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/23/bandecchi-una-societa-che-lavora-per-me-controlla-che-non-sia_abc31df5-8d14-41df-943a-4b2040899aa9.html",
-     "data": "2026-07-23T18:21:19+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Argentina, Milei vola in Brasile per sostenere la candidatura di Flávio Bolsonaro",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/argentina-milei-vola-in-brasile-per-sostenere-la-candidatura-di-flavio-bolsonaro_9188d197-79fc-4f6c-ba10-ee15dc79dc49.html",
+     "data": "2026-07-24T23:23:45+00:00"
+    },
+    {
+     "titolo": "Lula rilancia la difesa del Brasile, 'ci sono pazzi che vogliono fare la guerra'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/lula-rilancia-la-difesa-del-brasile-ci-sono-pazzi-che-vogliono-fare_05819f9d-567f-48be-b408-6db58f52ee1b.html",
+     "data": "2026-07-24T22:58:25+00:00"
+    },
+    {
      "titolo": "Vinícius invita Haaland a Rio con Terry Crews dopo il meme virale del Mondiale",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/vinicius-invita-haaland-a-rio-con-terry-crews-dopo-il-meme-virale_17d783af-d284-4369-aa14-97f818345541.html",
      "data": "2026-07-24T22:12:41+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Macron chiede alle Forze Armate massimo supporto per domare gli incendi",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/24/macron-chiede-alle-forze-armate-massimo-supporto-per-domare-gli_57415fd4-f93b-4067-a01e-951f77362080.html",
      "data": "2026-07-24T19:45:36+00:00"
-    },
-    {
-     "titolo": "Incendi in Spagna, 63.000 le persone evacuate nella regione di Madrid",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/24/incendi-in-spagna-63.000-le-persone-evacuate-nella-regione-di-madrid_3b25d552-2c7f-4da9-9b23-d3c143c5e03e.html",
-     "data": "2026-07-24T19:44:03+00:00"
-    },
-    {
-     "titolo": "Allerta clima, il fenomeno di El Niño nel 2026-2027 sarà il più potente della storia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/allerta-clima-il-fenomeno-di-el-nino-nel-2026-2027-sara-il-piu-potente_fb088bf8-22ea-4cb4-8040-e19f4e43ea69.html",
-     "data": "2026-07-24T19:18:50+00:00"
     }
    ]
   },
