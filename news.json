@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-25T14:24:03.199304+00:00",
+ "aggiornato": "2026-07-25T15:33:51.505211+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Francia, 1.500 soldati mobilitati da questa sera contro gli incendi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/francia-1.500-soldati-mobilitati-da-questa-sera-contro-gli-incendi_f3d76f18-7b5c-490d-9e92-6a3cf6337fa7.html",
+     "data": "2026-07-25T14:45:35+00:00"
+    },
     {
      "titolo": "Nuovo video AI di Vannacci-generale,intercede con finto Mattarella su grazia a Roggero",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/nuovo-video-ai-di-vannacci-generaleintercede-con-finto-mattarella-su-grazia-a-roggero_32a060ae-2f92-42cf-ae85-a15388013ad2.html",
@@ -49,11 +54,6 @@
      "titolo": "Madrid, incendi hanno bruciato 25.000 ettari, due volte la città di Parigi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/madrid-incendi-hanno-bruciato-25.000-ettari-due-volte-la-citta-di-parigi_76a7f062-33c8-4612-994d-4b419cc71c35.html",
      "data": "2026-07-25T09:17:37+00:00"
-    },
-    {
-     "titolo": "Mosca, 'in raid ucraini su regione Zaporizhzhia almeno 8 morti, 2 sono bimbi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/mosca-in-raid-ucraini-su-regione-zaporizhzhia-almeno-8-morti-2-sono-bimbi_06599a0d-e16d-4d77-b6f2-e6ff5938f1b9.html",
-     "data": "2026-07-25T09:06:13+00:00"
     }
    ]
   },
@@ -126,9 +126,14 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Tensioni alla marcia No Tav, pietre e bombe carta contro la polizia",
+     "titolo": "E' l'Olimpiade delle Clanfe, i goliardici tuffi di Trieste",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/e-lolimpiade-delle-clanfe-i-goliardici-tuffi-di-trieste_6de26c54-f034-42e0-b3eb-3b3c1e937aaf.html",
+     "data": "2026-07-25T14:52:37+00:00"
+    },
+    {
+     "titolo": "Tensioni alla marcia No Tav, centinaia di incappucciati assaltano il cantiere di Chiomonte",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/tensioni-alla-marcia-no-tav-pietre-e-bombe-carta-contro-la-polizia_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
-     "data": "2026-07-25T14:17:52+00:00"
+     "data": "2026-07-25T15:06:33+00:00"
     },
     {
      "titolo": "Due cani bloccati nella tana di un tasso salvati dai vigili del fuoco",
@@ -156,9 +161,9 @@
      "data": "2026-07-25T12:33:22+00:00"
     },
     {
-     "titolo": "Sit-in di protesta contro scritta fascista su scuola dedicata a eroe partigiano",
+     "titolo": "Sit-in contro scritta fascista sulla scuola dedicata a un eroe partigiano",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/sit-in-di-protesta-contro-scritta-fascista-su-scuola-dedicata-a-eroe-partigiano_46a10bc1-1b8f-46d9-b7cb-253105c22567.html",
-     "data": "2026-07-25T14:21:22+00:00"
+     "data": "2026-07-25T14:58:09+00:00"
     },
     {
      "titolo": "Legale agenti, il sangue arriva dalla ferita alla nuca di Fakir",
@@ -179,17 +184,17 @@
      "titolo": "Stop a Ddl Caccia selvaggia, sit-in all'Aquila Wwf e altre 12 associazioni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/stop-a-ddl-caccia-selvaggia-sit-in-allaquila-wwf-e-altre-12-associazioni_940b71dc-aae8-4225-8d16-12ad1246a614.html",
      "data": "2026-07-25T11:20:01+00:00"
-    },
-    {
-     "titolo": "Scontro tra detenuti rivali nel carcere di Catania, inchiesta per rivolta",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/scontro-tra-detenuti-rivali-nel-carcere-di-catania-inchiesta-per-rivolta_9949fb57-e0e7-4126-879c-87bd73f21fbe.html",
-     "data": "2026-07-25T10:46:55+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Nuovo video AI di Vannacci-generale,intercede con finto Mattarella su grazia a Roggero",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/nuovo-video-ai-di-vannacci-generaleintercede-con-finto-mattarella-su-grazia-a-roggero_5800233c-7065-4878-bad0-955f6047f639.html",
+     "data": "2026-07-25T14:55:52+00:00"
+    },
     {
      "titolo": "Nuovo video AI di Vannacci-generale,intercede con finto Mattarella su grazia a Roggero",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/nuovo-video-ai-di-vannacci-generaleintercede-con-finto-mattarella-su-grazia-a-roggero_341a7469-21ee-4ab8-8b2b-ea0a4291ac91.html",
@@ -244,11 +249,6 @@
      "titolo": "Meloni vede Giorgetti, 'al lavoro contro il caro-benzina'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/meloni-vede-giorgetti-al-lavoro-contro-il-caro-benzina_165e5564-0bc5-4796-8f92-ebde247b1691.html",
      "data": "2026-07-24T17:05:44+00:00"
-    },
-    {
-     "titolo": "Nuovo rinvio sui medici no vax, braccio di ferro nella maggioranza",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/nuovo-rinvio-sui-medici-no-vax-braccio-di-ferro-nella-maggioranza_0a1d1ebf-be50-4528-88ec-8d4050f805fa.html",
-     "data": "2026-07-24T16:06:49+00:00"
     }
    ]
   },
@@ -268,7 +268,7 @@
     {
      "titolo": "Nomine, ancora oltre 60 poltrone da rinnovare, si parte da Sogin",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/nomine-ancora-oltre-60-poltrone-da-rinnovare-si-parte-da-sogin_91352634-9c82-430d-a496-610c0b7321a2.html",
-     "data": "2026-07-25T11:33:05+00:00"
+     "data": "2026-07-25T14:58:17+00:00"
     },
     {
      "titolo": "Il gas sui massimi dall'agosto del 2022, scorte Italia oltre il 73%",
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Il Brasile blocca la missione Usa per contestare le urne elettroniche",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/il-brasile-blocca-la-missione-usa-per-contestare-le-urne-elettroniche_cdad8ce3-582e-4812-bb80-9fb287337545.html",
+     "data": "2026-07-25T15:25:43+00:00"
+    },
+    {
+     "titolo": "Francia, 1.500 soldati mobilitati da questa sera contro gli incendi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/francia-1.500-soldati-mobilitati-da-questa-sera-contro-gli-incendi_1790d7f8-7ec7-429f-a369-0bc47354b541.html",
+     "data": "2026-07-25T14:45:51+00:00"
+    },
+    {
      "titolo": "Media, gli Usa preparano un piano per delegittimare il voto in Brasile",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/media-gli-usa-preparano-un-piano-per-delegittimare-il-voto-in-brasile_20829796-2bc1-4a4f-8520-dfdfef0eaf05.html",
      "data": "2026-07-25T12:51:25+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Completato con successo il volo di Starship, 'scenario da sogno'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/25/completato-con-successo-il-volo-di-starship-scenario-da-sogno_4fb55a80-463d-41a3-bfd1-03baee5169da.html",
      "data": "2026-07-25T00:20:20+00:00"
-    },
-    {
-     "titolo": "Díaz-Canel prepara la difesa contro gli Usa, 'minaccia costante di aggressione'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/diaz-canel-prepara-la-difesa-contro-gli-usa-minaccia-costante-di-aggressione_a16270a7-731d-4401-b5a5-be91d3a8ffa5.html",
-     "data": "2026-07-25T00:12:29+00:00"
-    },
-    {
-     "titolo": "Petro accusa De la Espriella: 'Obbedisce direttamente al governo degli Stati Uniti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/petro-accusa-de-la-espriella-obbedisce-direttamente-al-governo-degli-stati-uniti_9cbe7847-1a0a-461e-b696-d7eff926cf70.html",
-     "data": "2026-07-24T23:59:54+00:00"
     }
    ]
   },
@@ -451,6 +451,31 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "F1: sindaco Imola, 'il ritorno del Gp? Noi sempre pronti e disponibili'",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/25/f1-sindaco-imola-il-ritorno-del-gp-noi-sempre-pronti-e-disponibili_c1a1f021-6c5f-4879-b901-12a0ee5f12bd.html",
+     "data": "2026-07-25T15:26:06+00:00"
+    },
+    {
+     "titolo": "Serie A: Vergara rinnova il contratto con il Napoli fino al 30 giugno 2031",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/serie-a-vergara-rinnova-il-contratto-con-il-napoli-fino-al-30-giugno-2031_bc2850da-c843-4d41-9b0b-0a2f23de446b.html",
+     "data": "2026-07-25T15:14:01+00:00"
+    },
+    {
+     "titolo": "F1: pole di Norris in Ungheria, Hamilton secondo per 12 millesimi",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/25/f1-pole-di-norris-in-ungheria-hamilton-secondo-per-12-millesimi_1f3db3f4-cb6b-4912-b687-1e35893429d4.html",
+     "data": "2026-07-25T15:21:29+00:00"
+    },
+    {
+     "titolo": "Gp Ungheria: pole di Norris in Ungheria, Hamilton secondo per 12 millesimi",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/25/gp-ungheria-pole-di-norris-in-ungheria-hamilton-secondo-per-12-millesimi_e56ef54c-07a9-4064-b885-e803b94e76da.html",
+     "data": "2026-07-25T15:07:29+00:00"
+    },
+    {
+     "titolo": "Tour: bis di Carapaz nella tappa regina, Pogacar fa il gregario per Del Toro",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/25/tour-bis-di-carapaz-nella-tappa-regina-pogacar-fa-il-gregario-per-del_ca0f0d11-2ee3-4c40-804b-63530c5d9e28.html",
+     "data": "2026-07-25T14:39:44+00:00"
+    },
+    {
      "titolo": "Tour: tappa finale accorciata, i servizi di soccorso sono impegnati sul fronte incendi",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/25/tour-tappa-finale-accorciata-i-servizi-di-soccorso-sono-impegnati-sul-fronte_38427857-b95d-4613-af5b-01d2623375b7.html",
      "data": "2026-07-25T14:16:04+00:00"
@@ -484,31 +509,6 @@
      "titolo": "La Russa: \"Pirlo ct? Che Dio ce la mandi buona\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/la-russa-pirlo-ct-che-dio-ce-la-mandi-buona_5b2fa72d-a8bb-40ad-b953-70cb28df0fca.html",
      "data": "2026-07-25T11:42:15+00:00"
-    },
-    {
-     "titolo": "La Russa, \"Pirlo ct? Che Dio ce la mandi buona\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/la-russa-pirlo-ct-che-dio-ce-la-mandi-buona_a62e29b7-c77f-46a6-8e71-debaae766522.html",
-     "data": "2026-07-25T11:29:08+00:00"
-    },
-    {
-     "titolo": "Primo ko per le azzurre di Velasco, Brasile in finale di Nations League",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/07/25/primo-ko-per-le-azzurre-di-velasco-brasile-in-finale-di-nations-league_defeb369-582b-4e31-ab4c-0772515ded98.html",
-     "data": "2026-07-25T13:12:39+00:00"
-    },
-    {
-     "titolo": "Scherma: Mondiali, a medaglia Macchi nel fioretto e Rizzi nella spada",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/25/scherma-mondiali-a-medaglia-macchi-nel-fioretto-e-rizzi-nella-spada_7b662761-f60f-44f3-90ac-c2b945910851.html",
-     "data": "2026-07-25T09:42:53+00:00"
-    },
-    {
-     "titolo": "Atletica: Lyles campione Usa dei 100 in 9\"79, primato mondiale stagionale",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/25/atletica-lyles-campione-usa-dei-100-in-979-primato-mondiale-stagionale_548e0581-9058-48c7-b5db-1e5e899eb3a9.html",
-     "data": "2026-07-25T07:56:53+00:00"
-    },
-    {
-     "titolo": "Darderi in semifinale a Estoril, battuto Faria in rimonta",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/24/darderi-in-semifinale-a-estoril-battuto-faria-in-rimonta_a716095b-84d5-4867-b326-fc5bc9960f0e.html",
-     "data": "2026-07-24T21:22:27+00:00"
     }
    ]
   }
