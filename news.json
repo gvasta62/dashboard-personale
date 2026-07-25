@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-24T23:50:58.543527+00:00",
+ "aggiornato": "2026-07-25T01:18:01.312164+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Esercito Usa, 'spari contro petroliera che voleva forzare il blocco a Hormuz'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/esercito-usa-spari-contro-petroliera-che-voleva-forzare-il-blocco-a-hormuz_7be8d4a7-6088-4892-ad09-6680ad1817aa.html",
+     "data": "2026-07-25T00:55:35+00:00"
+    },
+    {
+     "titolo": "Venezuela, salgono a 5.546 i morti del doppio terremoto del 24 giugno",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/venezuela-salgono-a-5.546-i-morti-del-doppio-terremoto-del-24-giugno_568764c5-5c5f-4daf-901a-50ef5e18bfdf.html",
+     "data": "2026-07-25T00:45:41+00:00"
+    },
+    {
+     "titolo": "Completato con successo il volo di Starship, 'scenario da sogno'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/completato-con-successo-il-volo-di-starship-scenario-da-sogno_3af10869-6399-4bf5-a925-54ea2a0bfef6.html",
+     "data": "2026-07-25T00:20:03+00:00"
+    },
     {
      "titolo": "Parigi, 'incendi senza precedenti, da domani oltre 1000 militari sul terreno'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/parigi-incendi-senza-precedenti-da-domani-oltre-1000-militari-sul-terreno_dc6bf0a0-4ab9-4254-96d6-4ccb239ec779.html",
@@ -39,21 +54,6 @@
      "titolo": "Media, Stati membri della Cpi destituiscono il procuratore Karim Khan",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/media-stati-membri-della-cpi-destituiscono-il-procuratore-karim-khan_f2301c8c-6f60-4c4f-971a-c048b47ff52c.html",
      "data": "2026-07-24T18:11:09+00:00"
-    },
-    {
-     "titolo": "Spagna, 'incendio vicino a Madrid al suo apice, impossibile spegnerlo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/spagna-incendio-vicino-a-madrid-al-suo-apice-impossibile-spegnerlo_19745426-ef1f-469f-9779-8360175b0c4c.html",
-     "data": "2026-07-24T17:56:59+00:00"
-    },
-    {
-     "titolo": "Trump minaccia l'Ue con dazi, 'la pagherà, revochi multe a società Usa'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/trump-minaccia-lue-con-dazi-la-paghera-revochi-multe-a-societa-usa_87077b9f-ce8b-48e7-92d6-1fc8d9e6e648.html",
-     "data": "2026-07-24T17:24:43+00:00"
-    },
-    {
-     "titolo": "Incendi nella regione di Madrid, 40.000 tra evacuati e confinati",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/incendi-nella-regione-di-madrid-40.000-tra-evacuati-e-confinati_3d153f54-606e-4423-8670-9cca70271ec5.html",
-     "data": "2026-07-24T17:13:00+00:00"
     }
    ]
   },
@@ -321,6 +321,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Esercito Usa, 'spari contro petroliera che voleva forzare il blocco a Hormuz'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/25/esercito-usa-spari-contro-petroliera-che-voleva-forzare-il-blocco-a-hormuz_7e8e673e-6ba3-4760-8dd8-3616d5341459.html",
+     "data": "2026-07-25T00:55:51+00:00"
+    },
+    {
+     "titolo": "Venezuela, salgono a 5.546 i morti del doppio terremoto del 24 giugno",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/venezuela-salgono-a-5.546-i-morti-del-doppio-terremoto-del-24-giugno_da6d06e6-5c48-49ff-8f04-228b3628fc31.html",
+     "data": "2026-07-25T00:45:55+00:00"
+    },
+    {
+     "titolo": "Completato con successo il volo di Starship, 'scenario da sogno'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/25/completato-con-successo-il-volo-di-starship-scenario-da-sogno_4fb55a80-463d-41a3-bfd1-03baee5169da.html",
+     "data": "2026-07-25T00:20:20+00:00"
+    },
+    {
+     "titolo": "Díaz-Canel prepara la difesa contro gli Usa, 'minaccia costante di aggressione'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/diaz-canel-prepara-la-difesa-contro-gli-usa-minaccia-costante-di-aggressione_a16270a7-731d-4401-b5a5-be91d3a8ffa5.html",
+     "data": "2026-07-25T00:12:29+00:00"
+    },
+    {
+     "titolo": "Petro accusa De la Espriella: 'Obbedisce direttamente al governo degli Stati Uniti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/petro-accusa-de-la-espriella-obbedisce-direttamente-al-governo-degli-stati-uniti_9cbe7847-1a0a-461e-b696-d7eff926cf70.html",
+     "data": "2026-07-24T23:59:54+00:00"
+    },
+    {
      "titolo": "Argentina, Milei vola in Brasile per sostenere la candidatura di Flávio Bolsonaro",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/argentina-milei-vola-in-brasile-per-sostenere-la-candidatura-di-flavio-bolsonaro_9188d197-79fc-4f6c-ba10-ee15dc79dc49.html",
      "data": "2026-07-24T23:23:45+00:00"
@@ -354,31 +379,6 @@
      "titolo": "Zambelli non estradata per la salute, ma 'nessuna persecuzione politica'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/zambelli-non-estradata-per-la-salute-ma-nessuna-persecuzione-politica_d437aadc-540f-4c06-931b-3360549f1f4e.html",
      "data": "2026-07-24T20:48:08+00:00"
-    },
-    {
-     "titolo": "Media Riad, 'nave saudita colpita nel Mar Rosso, lievi danni'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/media-riad-nave-saudita-colpita-nel-mar-rosso-lievi-danni_a06dfa08-0af1-4ccc-babd-a3f5f9004c95.html",
-     "data": "2026-07-24T20:46:58+00:00"
-    },
-    {
-     "titolo": "Media Houthi, raid saudita su Hodeida e isola di Kamaran",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/media-houthi-raid-saudita-su-hodeida-e-isola-di-kamaran_4e1a0fb8-3311-41be-9752-1c2da5450aef.html",
-     "data": "2026-07-24T20:45:15+00:00"
-    },
-    {
-     "titolo": "Il Venezuela conferma il ritiro dalla Corte Penale Internazionale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/24/il-venezuela-conferma-il-ritiro-dalla-corte-penale-internazionale_a8eac99b-1986-4d74-b6af-16e98a54d7dc.html",
-     "data": "2026-07-24T19:52:15+00:00"
-    },
-    {
-     "titolo": "Trump, 'parliamo con l'Iran più seriamente, non ho fretta di chiudere'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/trump-parliamo-con-liran-piu-seriamente-non-ho-fretta-di-chiudere_0c4d9110-1b06-4ce8-a4a7-cb28e3b0c512.html",
-     "data": "2026-07-24T19:46:45+00:00"
-    },
-    {
-     "titolo": "Macron chiede alle Forze Armate massimo supporto per domare gli incendi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/24/macron-chiede-alle-forze-armate-massimo-supporto-per-domare-gli_57415fd4-f93b-4067-a01e-951f77362080.html",
-     "data": "2026-07-24T19:45:36+00:00"
     }
    ]
   },
