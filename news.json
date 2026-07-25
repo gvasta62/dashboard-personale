@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-25T10:49:20.428697+00:00",
+ "aggiornato": "2026-07-25T11:54:35.916996+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Circa 250mila evacuati negli incendi fra Francia e Spagna",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/circa-250mila-evacuati-negli-incendi-fra-francia-e-spagna_9d6603d1-dd0a-458a-914f-3c8fceaf7109.html",
+     "data": "2026-07-25T11:17:40+00:00"
+    },
     {
      "titolo": "Zelensky, 'colpite nel Mar Caspio navi con armi dirette all'Iran'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/zelensky-colpite-nel-mar-caspio-navi-con-armi-dirette-alliran_b38be433-44fe-440b-9054-70580ee15481.html",
@@ -49,17 +54,22 @@
      "titolo": "Oltre 220mila evacuati per gli incendi fra Francia e Spagna",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/oltre-220mila-evacuati-per-gli-incendi-fra-francia-e-spagna_52f4d4df-e8a1-461f-be44-7f302ab9e4ce.html",
      "data": "2026-07-25T05:57:40+00:00"
-    },
-    {
-     "titolo": "Giornalista carbonizzato a Eboli, un fermato dai carabinieri",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/giornalista-carbonizzato-a-eboli-un-fermato-dai-carabinieri_fa82d092-47bd-4d56-af11-4650f2826e50.html",
-     "data": "2026-07-25T05:03:16+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Rinviato a lunedì il concerto di Sergio Cammariere a Castel Rigone",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/25/rinviato-a-lunedi-il-concerto-di-sergio-cammariere-a-castel-rigone_7a6f717b-c8fd-4e79-bc30-c173c536f2b7.html",
+     "data": "2026-07-25T11:03:39+00:00"
+    },
+    {
+     "titolo": "Melasecche, su Montemolino e Poggio Aquilone unico impegno della nostra giunta",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/25/melasecche-su-montemolino-e-poggio-aquilone-unico-impegno-della-nostra-giunta_fab1e6d3-7442-487d-b123-d93511b134f1.html",
+     "data": "2026-07-25T10:49:17+00:00"
+    },
     {
      "titolo": "Caprai, meno vino a causa di caldo e siccità ma per l'Umbria non è un male",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/25/caprai-meno-vino-a-causa-di-caldo-e-siccita-ma-per-lumbria-non-e-un-male_213e975f-ce4f-427e-afde-adc69cdf60fb.html",
@@ -109,16 +119,6 @@
      "titolo": "Oltre 4 mila presenze per la 18/a edizione di InCanto d'Estate a San Venanzo",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/24/oltre-4-mila-presenze-per-la-18a-edizione-di-incanto-destate-a-san-venanzo_ac02dd0d-1c32-4f75-8d09-20f1036e2547.html",
      "data": "2026-07-24T14:48:54+00:00"
-    },
-    {
-     "titolo": "Città della Pieve nel fine settimana capitale del Green music festival",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/24/citta-della-pieve-nel-fine-settimana-capitale-del-green-music_b39cacb6-f37d-4832-ba31-eae8da92fe0e.html",
-     "data": "2026-07-24T14:45:44+00:00"
-    },
-    {
-     "titolo": "La Provincia di Terni ha annunciato nuovi fondi dell'Ente per strade e scuole",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/24/la-provincia-di-terni-ha-annunciato-nuovi-fondi-dellente-per-strade-e-scuole_b07efe0d-a5d0-42cc-9fad-c50bca001628.html",
-     "data": "2026-07-24T10:50:33+00:00"
     }
    ]
   },
@@ -126,9 +126,24 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "'Fece il saluto romano ad Acca Larentia', negato il patentino da buttafuori",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/fece-il-saluto-romano-ad-acca-larentia-negato-il-patentino-da-buttafuori_26acbf39-d961-4122-949f-7b49c7abe8e6.html",
+     "data": "2026-07-25T11:47:32+00:00"
+    },
+    {
+     "titolo": "Stop a Ddl Caccia selvaggia, sit-in all'Aquila Wwf e altre 12 associazioni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/stop-a-ddl-caccia-selvaggia-sit-in-allaquila-wwf-e-altre-12-associazioni_940b71dc-aae8-4225-8d16-12ad1246a614.html",
+     "data": "2026-07-25T11:20:01+00:00"
+    },
+    {
+     "titolo": "Scontro tra detenuti rivali nel carcere di Catania, inchiesta per rivolta",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/scontro-tra-detenuti-rivali-nel-carcere-di-catania-inchiesta-per-rivolta_9949fb57-e0e7-4126-879c-87bd73f21fbe.html",
+     "data": "2026-07-25T10:46:55+00:00"
+    },
+    {
      "titolo": "C'è un nuovo video, una chiazza di sangue sotto la testa di Fakir morto",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/ce-un-nuovo-video-una-chiazza-di-sangue-sotto-la-testa-di-fakir-morto_99e6053d-4edf-41de-9930-bbf15dced48a.html",
-     "data": "2026-07-25T10:11:32+00:00"
+     "data": "2026-07-25T11:42:58+00:00"
     },
     {
      "titolo": "Nuovo video, chiazza di sangue sotto la testa di Fakir morto",
@@ -144,6 +159,11 @@
      "titolo": "L'Anm: 'Da Nordio attacchi scomposti al procuratore di Palermo sulle carceri'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/lanm-da-nordio-attacchi-scomposti-al-procuratore-di-palermo-sulle-carceri_a8ed90da-6e0a-49bb-842a-8e5c6f851a93.html",
      "data": "2026-07-25T09:26:57+00:00"
+    },
+    {
+     "titolo": "Bimbo morto a Catanzaro, ricovero precauzionale per un altro piccolo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/bimbo-morto-a-catanzaro-ricovero-precauzionale-per-un-altro-piccolo_5310d0a0-2eb8-4472-b642-89f0f8b5223d.html",
+     "data": "2026-07-25T11:51:37+00:00"
     },
     {
      "titolo": "Festival No Tav, tre francesi arrivati in Piemonte allontanati dall'Italia",
@@ -163,33 +183,33 @@
     {
      "titolo": "Giornalista carbonizzato a Eboli, confessa il 26enne fermato. Salvini all'attacco: 'È un clandestino'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/giornalista-carbonizzato-a-eboli-un-fermato-e-un-26enne-senza-fissa-dimora_e696714f-1d78-4d29-940f-fd443fd6fcd1.html",
-     "data": "2026-07-25T10:21:38+00:00"
-    },
-    {
-     "titolo": "Operaio morto dopo il ribaltamento di un'autogrù, indagini in corso",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/operaio-morto-dopo-il-ribaltamento-di-unautogru-indagini-in-corso_20fcb6ae-b404-4445-8c2f-fd839a1f25c5.html",
-     "data": "2026-07-25T05:58:34+00:00"
-    },
-    {
-     "titolo": "Terremoto di magnitudo 4.1 in Molise, gente in strada",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/terremoto-di-magnitudo-4.1-in-molise-gente-in-strada_20e96cc2-ebf0-4e86-8e57-9f11835f922e.html",
-     "data": "2026-07-25T10:04:33+00:00"
-    },
-    {
-     "titolo": "Ilaria Cucchi: 'Da anni denunciamo fatti gravi nella scuola della GdF dell'Aquila'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/ilaria-cucchi-da-anni-denunciamo-fatti-gravi-nella-scuola-della-gdf_73bf495c-f33a-47d0-af68-eabecf463767.html",
-     "data": "2026-07-24T19:37:36+00:00"
-    },
-    {
-     "titolo": "Donna di 35 anni trovata morta in casa a Como, indaga la polizia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/donna-di-35-anni-trovata-morta-in-casa-a-como-indaga-la-polizia_eadb2a54-c592-4ab3-8c2c-3e6e5bda0391.html",
-     "data": "2026-07-24T19:07:16+00:00"
+     "data": "2026-07-25T11:36:54+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Ranucci intercettato: 'Massoneria e mafia in Rai'. Per FdI 'dichiarazioni gravissime'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/ranucci-intercettato-massoneria-e-mafia-in-rai.-per-fdi-dichiarazioni-gravissime_3eb17993-2438-4385-b8f0-bde6c7ff6ef7.html",
+     "data": "2026-07-25T11:35:30+00:00"
+    },
+    {
+     "titolo": "Sondaggio Ipsos, il centrodestra in testa insieme a Futuro Nazionale, ma è a rischio voti",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/sondaggio-ipsos-il-centrodestra-in-testa-insieme-a-futuro-nazionale-ma-e-a-rischio-voti_f572697f-a7e9-440d-b341-4fe4f12ecf89.html",
+     "data": "2026-07-25T10:53:37+00:00"
+    },
+    {
+     "titolo": "Enna capitale della Resistenza con la 'pastasciutta' dei fratelli Cervi",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/enna-capitale-della-resistenza-con-la-pastasciutta-dei-fratelli-cervi_77386ccc-f0cc-4646-9837-60a746350760.html",
+     "data": "2026-07-25T10:48:06+00:00"
+    },
+    {
+     "titolo": "Enna capitale della Resistenza con la 'pastasciutta' antifascista dei fratelli Cervi",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/enna-capitale-della-resistenza-con-la-pastasciutta-antifascista-dei-fratelli-cervi_470aa1a3-1b5c-4822-bea3-ec5217c75f1b.html",
+     "data": "2026-07-25T10:47:41+00:00"
+    },
     {
      "titolo": "Giornalista carbonizzato a Eboli, Salvini all'attacco: 'È un tunisino clandestino l'assassino di Esposito'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/giornalista-carbonizzato-a-eboli-salvini-allattacco-e-un-tunisino-clandestino-lassassino-di-esposito_af865c13-c1fc-499a-8056-eaf205d36ec6.html",
@@ -229,32 +249,27 @@
      "titolo": "Pd Veneto, 'reintegro medici no vax grave ingerenza sugli Ordini'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/pd-veneto-reintegro-medici-no-vax-grave-ingerenza-sugli-ordini_8f86bb55-ac78-4dfb-b04a-2e04457566db.html",
      "data": "2026-07-24T15:58:59+00:00"
-    },
-    {
-     "titolo": "Delmastro, deposito chat faranno piena chiarezza su mia estraneità",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/delmastro-deposito-chat-faranno-piena-chiarezza-su-mia-estraneita_1a20d685-9973-45d9-afe5-38372a92ba0c.html",
-     "data": "2026-07-24T15:29:22+00:00"
-    },
-    {
-     "titolo": "Piero De Luca a Giffoni, 'il trumpismo ha mostrato i suoi limiti'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/piero-de-luca-a-giffoni-il-trumpismo-ha-mostrato-i-suoi-limiti_98b0e358-784d-4718-aa77-69b7e1024848.html",
-     "data": "2026-07-24T15:21:22+00:00"
-    },
-    {
-     "titolo": "Proposta della Lega, in campagna elettorale divieto di usare lingue straniere",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/proposta-della-lega-in-campagna-elettorale-divieto-di-usare-lingue-straniere_632902d8-16bf-4ef2-99ba-25554bca08a3.html",
-     "data": "2026-07-24T13:19:20+00:00"
-    },
-    {
-     "titolo": "Gaenswein, papa Leone ha dato nuova energia alla diplomazia vaticana",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/gaenswein-papa-leone-ha-dato-nuova-energia-alla-diplomazia-vaticana_7c4bb76e-1d77-4f18-b2ae-247957188528.html",
-     "data": "2026-07-24T13:17:30+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Nomine, ancora oltre 60 poltrone da rinnovare, si parte da Sogin",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/nomine-ancora-oltre-60-poltrone-da-rinnovare-si-parte-da-sogin_91352634-9c82-430d-a496-610c0b7321a2.html",
+     "data": "2026-07-25T11:33:05+00:00"
+    },
+    {
+     "titolo": "A Milano la benzina vola oltre i 2,6 euro. 'A luglio e agosto stangata da 10,8 miliardi'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/a-milano-la-benzina-vola-oltre-i-26-euro.-a-luglio-e-agosto-stangata-da-108-miliardi_ee16d5cb-032b-4f8d-8b84-28c78c3f4ac0.html",
+     "data": "2026-07-25T11:45:04+00:00"
+    },
+    {
+     "titolo": "Il gas sui massimi dall'agosto del 2022, scorte Italia oltre il 73%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/il-gas-sui-massimi-dallagosto-del-2022-scorte-italia-oltre-il-73_f4274c95-f0e9-4703-b2b7-8596198374c8.html",
+     "data": "2026-07-25T11:09:09+00:00"
+    },
     {
      "titolo": "Nuovo stop ai treni fino al 30 luglio a Firenze, da domani secondo round di lavori",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/rfi-a-firenze-da-domani-sera-secondo-round-lavori-stop-a-treni-fino_304d2647-2e2e-4681-93c3-db958076034f.html",
@@ -266,14 +281,9 @@
      "data": "2026-07-25T08:44:11+00:00"
     },
     {
-     "titolo": "Codacons, su carburanti a luglio e agosto stangata da 10,8 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/codacons-su-carburanti-a-luglio-e-agosto-stangata-da-108-miliardi_ee16d5cb-032b-4f8d-8b84-28c78c3f4ac0.html",
-     "data": "2026-07-25T08:25:37+00:00"
-    },
-    {
      "titolo": "Cgia, con la guerra del Golfo una stangata da 29 miliardi per le famiglie italiane",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/cgia-con-guerra-del-golfo-stangata-da-29-miliardi-per-famiglie-italiane_f2020fe9-de03-4274-ae19-7b4c6627ad86.html",
-     "data": "2026-07-25T08:48:38+00:00"
+     "data": "2026-07-25T11:02:34+00:00"
     },
     {
      "titolo": "Consob, Piazza Affari regina d'Europa, ma il mercato si restringe",
@@ -304,22 +314,17 @@
      "titolo": "Borsa: Milano chiude in rialzo con le banche, in luce Bper",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/24/borsa-milano-chiude-in-rialzo-con-le-banche-in-luce-bper_8fa2d6cf-f52f-4628-8780-6716586a6c52.html",
      "data": "2026-07-24T16:16:19+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude in calo a 82 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/24/lo-spread-tra-btp-e-bund-chiude-in-calo-a-82-punti_a44b9702-10fa-4003-9058-691e4bb96405.html",
-     "data": "2026-07-24T16:13:47+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude in rialzo, si guarda al Medio Oriente",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/24/borsa-leuropa-chiude-in-rialzo-si-guarda-al-medio-oriente_2c860e6c-8efd-4e95-9dad-de34c23d8493.html",
-     "data": "2026-07-24T15:59:38+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Circa 250mila evacuati negli incendi fra Francia e Spagna",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/circa-250mila-evacuati-negli-incendi-fra-francia-e-spagna_3f129ceb-8475-43c5-93ae-a4b72761fd76.html",
+     "data": "2026-07-25T11:17:45+00:00"
+    },
     {
      "titolo": "Zelensky, 'colpite nel Mar Caspio navi con armi dirette all'Iran'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/zelensky-colpite-nel-mar-caspio-navi-con-armi-dirette-alliran_caaf890c-30d1-44d7-a116-6ed3b8f7102d.html",
@@ -374,11 +379,6 @@
      "titolo": "Argentina, Milei vola in Brasile per sostenere la candidatura di Flávio Bolsonaro",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/argentina-milei-vola-in-brasile-per-sostenere-la-candidatura-di-flavio-bolsonaro_9188d197-79fc-4f6c-ba10-ee15dc79dc49.html",
      "data": "2026-07-24T23:23:45+00:00"
-    },
-    {
-     "titolo": "Lula rilancia la difesa del Brasile, 'ci sono pazzi che vogliono fare la guerra'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/lula-rilancia-la-difesa-del-brasile-ci-sono-pazzi-che-vogliono-fare_05819f9d-567f-48be-b408-6db58f52ee1b.html",
-     "data": "2026-07-24T22:58:25+00:00"
     }
    ]
   },
@@ -451,6 +451,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Gp Ungheria: a Norris le terze libere, poi Hamilton e Antonelli",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/25/gp-ungheria-a-norris-le-terze-libere-poi-hamilton-e-antonelli_28069308-51b9-4e45-af5a-8e4eb52bddd0.html",
+     "data": "2026-07-25T11:43:42+00:00"
+    },
+    {
+     "titolo": "La Russa: \"Pirlo ct? Che Dio ce la mandi buona\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/la-russa-pirlo-ct-che-dio-ce-la-mandi-buona_5b2fa72d-a8bb-40ad-b953-70cb28df0fca.html",
+     "data": "2026-07-25T11:42:15+00:00"
+    },
+    {
+     "titolo": "La Russa, \"Pirlo ct? Che Dio ce la mandi buona\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/la-russa-pirlo-ct-che-dio-ce-la-mandi-buona_a62e29b7-c77f-46a6-8e71-debaae766522.html",
+     "data": "2026-07-25T11:29:08+00:00"
+    },
+    {
      "titolo": "Primo ko per le azzurre di Velasco, Brasile in finale di Nations League",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/07/25/primo-ko-per-le-azzurre-di-velasco-brasile-in-finale-di-nations-league_defeb369-582b-4e31-ab4c-0772515ded98.html",
      "data": "2026-07-25T10:35:51+00:00"
@@ -459,11 +474,6 @@
      "titolo": "Scherma: Mondiali, a medaglia Macchi nel fioretto e Rizzi nella spada",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/25/scherma-mondiali-a-medaglia-macchi-nel-fioretto-e-rizzi-nella-spada_7b662761-f60f-44f3-90ac-c2b945910851.html",
      "data": "2026-07-25T09:42:53+00:00"
-    },
-    {
-     "titolo": "Abodi: \"Mi auguro che Pirlo porti i risultati sperati, io il primo supporter\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/abodi-mi-auguro-pirlo-porti-risultati-sperati-io-primo-supporter_5b2fa72d-a8bb-40ad-b953-70cb28df0fca.html",
-     "data": "2026-07-25T09:05:27+00:00"
     },
     {
      "titolo": "Atletica: Lyles campione Usa dei 100 in 9\"79, primato mondiale stagionale",
@@ -499,16 +509,6 @@
      "titolo": "Sfuma il sogno Pep Guardiola, Pirlo pronto a fare il ct",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/sfuma-il-sogno-pep-guardiola-pirlo-pronto-a-fare-il-ct_fe13a9b2-458c-40c1-b186-830757ff843a.html",
      "data": "2026-07-24T17:55:15+00:00"
-    },
-    {
-     "titolo": "Como stringe per Chalobah, Leao al Milan: 'Liberami'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/como-stringe-per-chalobah-leao-al-milan-liberami_d41e91ea-3545-419c-8f6d-a1a51e57a8cd.html",
-     "data": "2026-07-24T18:10:31+00:00"
-    },
-    {
-     "titolo": "Borgo in festa a Locorotondo, Donnarumma e Alessia Elefante sposi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/borgo-in-festa-a-locorotondo-donnarumma-e-alessia-elefante-sposi_e7687c95-22be-449f-a746-2485427217e3.html",
-     "data": "2026-07-24T17:37:02+00:00"
     }
    ]
   }
