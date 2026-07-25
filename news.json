@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-25T20:02:21.831480+00:00",
+ "aggiornato": "2026-07-25T21:12:51.929180+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, 'veicolo contro la folla a Berlino a margine del Gay Pride, feriti'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/media-veicolo-contro-la-folla-a-berlino-a-margine-del-gay-pride-feriti_6d7b77c0-2b46-410a-84cf-28f00d364fa7.html",
+     "data": "2026-07-25T21:01:34+00:00"
+    },
     {
      "titolo": "Lecornu, 'situazione critica in Gironda per i roghi, prossime ore difficili'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/lecornu-situazione-critica-in-gironda-per-i-roghi-prossime-ore-difficili_237a25e9-7f9f-49aa-91a4-d427fe791492.html",
@@ -49,11 +54,6 @@
      "titolo": "Meloni, la violenza non piegherà lo Stato",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/meloni-la-violenza-non-pieghera-lo-stato_501ce4b6-92c8-4563-9046-62d18b826042.html",
      "data": "2026-07-25T17:18:25+00:00"
-    },
-    {
-     "titolo": "Un morto in un incendio boschivo vicino Valencia in Spagna",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/un-morto-in-un-incendio-boschivo-vicino-valencia-in-spagna_a87c5d8c-62f2-4638-9fe1-c9c18d9262a0.html",
-     "data": "2026-07-25T16:25:42+00:00"
     }
    ]
   },
@@ -126,9 +126,19 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Incendio nel carcere di Viterbo, soccorsi 20 detenuti intossicati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/incendio-nel-carcere-di-viterbo-soccorsi-20-detenuti-intossicati_77c97ef1-e8dd-46ab-9ff1-ff023c0e0ad1.html",
+     "data": "2026-07-25T20:47:53+00:00"
+    },
+    {
+     "titolo": "Incendio blocca la circolazione dei treni, passeggeri fermi nel Vibonese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/incendio-blocca-la-circolazione-dei-treni-passeggeri-fermi-nel-vibonese_f712524f-b939-4dff-a92e-6c46d7a5a757.html",
+     "data": "2026-07-25T20:32:02+00:00"
+    },
+    {
      "titolo": "Guerriglia No Tav, in centinaia assaltano i cantieri. Piantedosi: 'C'è chi vuole un'escalation'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/guerriglia-no-tav-in-centinaia-assaltano-i-cantieri.-piantedosi-ce-chi-vuole-unescalation_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
-     "data": "2026-07-25T19:18:23+00:00"
+     "data": "2026-07-25T20:42:46+00:00"
     },
     {
      "titolo": "Cena della comunità al Pilastro, oltre cento persone per ricordare Fakir",
@@ -174,16 +184,6 @@
      "titolo": "E' l'Olimpiade delle Clanfe, i goliardici tuffi di Trieste",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/e-lolimpiade-delle-clanfe-i-goliardici-tuffi-di-trieste_6de26c54-f034-42e0-b3eb-3b3c1e937aaf.html",
      "data": "2026-07-25T14:52:37+00:00"
-    },
-    {
-     "titolo": "Due cani bloccati nella tana di un tasso salvati dai vigili del fuoco",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/due-cani-bloccati-nella-tana-di-un-tasso-salvati-dai-vigili-del_c4e91d7f-063b-48d3-8103-8f0c36b449e5.html",
-     "data": "2026-07-25T13:16:44+00:00"
-    },
-    {
-     "titolo": "Turista disperso nel lago di Como, si è tuffato per salvare il figlio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/turista-disperso-nel-lago-di-como-si-e-tuffato-per-salvare-il-figlio_90ac14fc-e583-4f72-af92-bf468b753d2d.html",
-     "data": "2026-07-25T13:13:57+00:00"
     }
    ]
   },
@@ -311,6 +311,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Media, 'veicolo contro la folla a Berlino a margine del Gay Pride, feriti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/media-veicolo-contro-la-folla-a-berlino-a-margine-del-gay-pride-feriti_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
+     "data": "2026-07-25T21:01:49+00:00"
+    },
+    {
      "titolo": "Lecornu, 'situazione critica in Gironda per i roghi, prossime ore difficili'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/lecornu-situazione-critica-in-gironda-per-i-roghi-prossime-ore-difficili_20e76494-029d-42f6-a3e9-cd80cbdd468b.html",
      "data": "2026-07-25T19:46:28+00:00"
@@ -364,11 +369,6 @@
      "titolo": "Zelensky, 'colpite nel Mar Caspio navi con armi dirette all'Iran'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/zelensky-colpite-nel-mar-caspio-navi-con-armi-dirette-alliran_caaf890c-30d1-44d7-a116-6ed3b8f7102d.html",
      "data": "2026-07-25T10:45:12+00:00"
-    },
-    {
-     "titolo": "Ministro istruzione indiano lascia dopo proteste del partito delle blatte",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/25/ministro-istruzione-indiano-lascia-dopo-proteste-del-partito-delle-blatte_186a637c-53dd-4e4a-951b-9ec98ec956d7.html",
-     "data": "2026-07-25T09:21:32+00:00"
     }
    ]
   },
@@ -441,6 +441,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Miretti sblocca la Juve, vittoria per 1-0 nel test a Liegi",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/miretti-sblocca-la-juve-vittoria-per-1-0-nel-test-a-liegi_5bf7cc7b-4999-4336-8d4c-993737657d0f.html",
+     "data": "2026-07-25T20:19:14+00:00"
+    },
+    {
      "titolo": "Atletica: agli assoluti Diaz migliora il suo primato italiano nel triplo",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/25/atletica-agli-assoluti-diaz-migliora-il-suo-primato-italiano-nel-triplo_336d183d-c04a-44e6-9c7e-39a50275584d.html",
      "data": "2026-07-25T19:54:59+00:00"
@@ -474,11 +479,6 @@
      "titolo": "GP Ungheria, penalità di tre posizioni per Antonelli",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/25/gp-ungheria-penalita-di-tre-posizioni-per-antonelli_fcc59d60-e26f-499c-8365-52e8fc0ac164.html",
      "data": "2026-07-25T17:48:14+00:00"
-    },
-    {
-     "titolo": "Juventus: Openda verso Lione, Spalletti lo esclude dall'amichevole",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/25/calcio-juve-openda-verso-lione-spalletti-lo-esclude-da-amichevole_5bf7cc7b-4999-4336-8d4c-993737657d0f.html",
-     "data": "2026-07-25T17:31:59+00:00"
     },
     {
      "titolo": "Carapaz favola a pois nella tappa regina, Pogacar gregario d'onore",
