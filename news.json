@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-25T17:46:23.184908+00:00",
+ "aggiornato": "2026-07-25T18:43:49.596633+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Sua Maestà e le drag queen, al via il WorldPride 2026 ad Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/sua-maesta-e-le-drag-queen-al-via-il-worldpride-2026-ad-amsterdam_2d3a6e90-16e0-4b3f-ba8a-8dc3f13f7905.html",
+     "data": "2026-07-25T18:30:32+00:00"
+    },
+    {
+     "titolo": "Zelensky, 'nuovo sostegno di Mosca all'Iran, fornisce immagini dei siti Usa'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/zelensky-nuovo-sostegno-di-mosca-alliran-fornisce-immagini-dei-siti-usa_5170f0cf-a9bd-4e26-9ffa-79e77a0e0f7d.html",
+     "data": "2026-07-25T18:10:46+00:00"
+    },
     {
      "titolo": "Meloni, la violenza non piegherà lo Stato",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/meloni-la-violenza-non-pieghera-lo-stato_501ce4b6-92c8-4563-9046-62d18b826042.html",
@@ -44,16 +54,6 @@
      "titolo": "Turista disperso nel lago di Como, si è tuffato per salvare il figlio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/turista-disperso-nel-lago-di-como-si-e-tuffato-per-salvare-il-figlio_544605d1-ff87-4eff-81a1-28f113249bb2.html",
      "data": "2026-07-25T13:14:02+00:00"
-    },
-    {
-     "titolo": "Turista si tuffa con uno dei tre figli nel lago di Como e non riemerge",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/turista-si-tuffa-con-uno-dei-tre-figli-nel-lago-di-como_d19a6727-6143-4cc3-abdd-4c09619ca3b8.html",
-     "data": "2026-07-25T12:29:44+00:00"
-    },
-    {
-     "titolo": "Legale agenti, il sangue arriva dalla ferita alla nuca di Fakir",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/legale-agenti-il-sangue-arriva-dalla-ferita-alla-nuca-di-fakir_da452228-4970-418a-8d2d-ee4333d95807.html",
-     "data": "2026-07-25T12:09:20+00:00"
     }
    ]
   },
@@ -126,9 +126,14 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Tensioni alla marcia No Tav: centinaia di incappucciati assaltano i cantieri. Meloni: 'La violenza non piegherà lo Stato'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/tensioni-alla-marcia-no-tav-centinaia-di-incappucciati-assaltano-i-cantieri.-meloni-la-violenza_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
-     "data": "2026-07-25T17:24:00+00:00"
+     "titolo": "Guerriglia No Tav, centinaia di incappucciati assaltano i cantieri. Mattarella chiama Piantedosi: 'Grato e vicino agli agenti feriti'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/guerriglia-no-tav-centinaia-di-incappucciati-assaltano-i-cantieri.-mattarella-chiama-piantedosi-grato_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
+     "data": "2026-07-25T18:36:16+00:00"
+    },
+    {
+     "titolo": "Anziano va dalla moglie gravemente malata in clinica, le spara poi si suicida",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/anziano-va-dalla-moglie-gravemente-malata-in-clinica-le-spara-poi-si-suicida_22e5f0b3-9ed5-442a-891c-30201ef1b285.html",
+     "data": "2026-07-25T18:16:30+00:00"
     },
     {
      "titolo": "#AccadeOggi",
@@ -179,11 +184,6 @@
      "titolo": "Temperature invernali sulle montagne abruzzesi, Pescocostanzo sotto zero",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/temperature-invernali-sulle-montagne-abruzzesi-pescocostanzo-sotto-zero_5c198cf3-3a4e-438f-b84d-fcac9f589031.html",
      "data": "2026-07-25T12:55:44+00:00"
-    },
-    {
-     "titolo": "Turista si tuffa per salvare il figlio nel lago di Como e non riemerge",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/turista-si-tuffa-per-salvare-il-figlio-nel-lago-di-como-e-non-riemerge_af8c0331-41c6-4e01-aaa2-1931c89661cd.html",
-     "data": "2026-07-25T13:09:58+00:00"
     }
    ]
   },
@@ -223,7 +223,7 @@
     {
      "titolo": "'Massoni in Rai', polemica sulle intercettazioni di Ranucci",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/ranucci-intercettato-massoneria-e-mafia-in-rai.-per-fdi-dichiarazioni-gravissime_3eb17993-2438-4385-b8f0-bde6c7ff6ef7.html",
-     "data": "2026-07-25T17:08:41+00:00"
+     "data": "2026-07-25T18:13:48+00:00"
     },
     {
      "titolo": "Sondaggio Ipsos, il centrodestra in testa insieme a Futuro Nazionale, ma è a rischio voti",
@@ -311,6 +311,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Sua Maestà e le drag queen, al via il WorldPride 2026 ad Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/sua-maesta-e-le-drag-queen-al-via-il-worldpride-2026-ad-amsterdam_86773840-24f6-4336-b7ea-e10fefa4d1fc.html",
+     "data": "2026-07-25T18:30:49+00:00"
+    },
+    {
+     "titolo": "Zelensky, 'nuovo sostegno di Mosca all'Iran, fornisce immagini dei siti Usa'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/zelensky-nuovo-sostegno-di-mosca-alliran-fornisce-immagini-dei-siti-usa_3609f394-19f2-4f72-b854-53b656044387.html",
+     "data": "2026-07-25T18:11:03+00:00"
+    },
+    {
+     "titolo": "Flavio Bolsonaro candidato alla presidenza, la destra lancia la sfida a Lula",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/flavio-bolsonaro-candidato-alla-presidenza-la-destra-lancia-la-sfida-a-lula_dc55ac63-ff8f-4a3c-b421-f1b395cd8830.html",
+     "data": "2026-07-25T17:46:24+00:00"
+    },
+    {
      "titolo": "Brasile, Milei riceve a San Paolo la massima onorificenza dello Stato",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/brasile-milei-riceve-a-san-paolo-la-massima-onorificenza-dello-stato_416ee3a6-dfcb-4ed9-a4bb-a76a9aa60126.html",
      "data": "2026-07-25T16:44:50+00:00"
@@ -354,21 +369,6 @@
      "titolo": "Madrid, incendi hanno bruciato 25.000 ettari, due volte la città di Parigi",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/madrid-incendi-hanno-bruciato-25.000-ettari-due-volte-la-citta-di-parigi_86e2a6a2-a6c5-4471-b37e-a8e79537463f.html",
      "data": "2026-07-25T09:17:37+00:00"
-    },
-    {
-     "titolo": "Mosca, 'in raid ucraini su regione Zaporizhzhia almeno 8 morti, 2 sono bimbi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/mosca-in-raid-ucraini-su-regione-zaporizhzhia-almeno-8-morti-2-sono-bimbi_249cba80-4bd3-4bf2-8370-3fa032e6d984.html",
-     "data": "2026-07-25T09:06:13+00:00"
-    },
-    {
-     "titolo": "Oltre 220mila evacuati per gli incendi fra Francia e Spagna",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/oltre-220mila-evacuati-per-gli-incendi-fra-francia-e-spagna_58025db2-a27d-4bc2-8e27-bee1e4d8ac85.html",
-     "data": "2026-07-25T05:57:58+00:00"
-    },
-    {
-     "titolo": "Esercito Usa, 'spari contro petroliera che voleva forzare il blocco a Hormuz'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/25/esercito-usa-spari-contro-petroliera-che-voleva-forzare-il-blocco-a-hormuz_7e8e673e-6ba3-4760-8dd8-3616d5341459.html",
-     "data": "2026-07-25T00:55:51+00:00"
     }
    ]
   },
@@ -441,6 +441,31 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calciomercato: il Galatasaray cerca Leao, la Juve rilancia su Kolo Muani",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/calciomercato-il-galatasaray-cerca-leao-la-juve-rilancia-su-kolo-muani_dbdbdb5b-8566-4f76-ad9d-84031bc136fe.html",
+     "data": "2026-07-25T18:32:18+00:00"
+    },
+    {
+     "titolo": "Norris torna in pole, Hamilton perde tre posti in griglia",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/25/norris-torna-in-pole-hamilton-perde-tre-posti-in-griglia_1f3db3f4-cb6b-4912-b687-1e35893429d4.html",
+     "data": "2026-07-25T18:41:18+00:00"
+    },
+    {
+     "titolo": "Pirlo ct, in attesa dell'annuncio l'Italia si divide",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/pirlo-ct-in-attesa-dellannuncio-litalia-si-divide_5b2fa72d-a8bb-40ad-b953-70cb28df0fca.html",
+     "data": "2026-07-25T18:20:09+00:00"
+    },
+    {
+     "titolo": "F1: Gp d'Ungheria, la griglia di partenza",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/25/f1-gp-dungheria-la-griglia-di-partenza_78765997-44dd-4b14-bf53-cf4db3fbba96.html",
+     "data": "2026-07-25T18:39:59+00:00"
+    },
+    {
+     "titolo": "GP Ungheria, penalità di tre posizioni per Antonelli",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/25/gp-ungheria-penalita-di-tre-posizioni-per-antonelli_fcc59d60-e26f-499c-8365-52e8fc0ac164.html",
+     "data": "2026-07-25T17:48:14+00:00"
+    },
+    {
      "titolo": "Juventus: Openda verso Lione, Spalletti lo esclude dall'amichevole",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/07/25/calcio-juve-openda-verso-lione-spalletti-lo-esclude-da-amichevole_5bf7cc7b-4999-4336-8d4c-993737657d0f.html",
      "data": "2026-07-25T17:31:59+00:00"
@@ -461,11 +486,6 @@
      "data": "2026-07-25T17:15:22+00:00"
     },
     {
-     "titolo": "Pole di Norris in Ungheria. Hamilton, secondo, poi penalizzato di tre posizioni",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/25/pole-di-norris-in-ungheria.-hamilton-secondo-poi-penalizzato-di-tre-posizioni_1f3db3f4-cb6b-4912-b687-1e35893429d4.html",
-     "data": "2026-07-25T16:56:05+00:00"
-    },
-    {
      "titolo": "GP Ungheria, Hamilton penalizzato di tre posizioni in griglia",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/25/gp-ungheria-hamilton-penalizzato-di-tre-posizioni-in-griglia_e9054050-6ab2-4869-8940-8a56c8931f58.html",
      "data": "2026-07-25T16:53:56+00:00"
@@ -479,26 +499,6 @@
      "titolo": "Tour: tappa finale accorciata, i servizi di soccorso sono impegnati sul fronte incendi",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/25/tour-tappa-finale-accorciata-i-servizi-di-soccorso-sono-impegnati-sul-fronte_38427857-b95d-4613-af5b-01d2623375b7.html",
      "data": "2026-07-25T16:44:58+00:00"
-    },
-    {
-     "titolo": "Vergara rinnova il contratto con il Napoli fino al 30 giugno 2031",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/vergara-rinnova-il-contratto-con-il-napoli-fino-al-30-giugno-2031_bc2850da-c843-4d41-9b0b-0a2f23de446b.html",
-     "data": "2026-07-25T16:44:08+00:00"
-    },
-    {
-     "titolo": "Di Lorenzo approva il Napoli di Allegri: 'Ci teniamo a far bene'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/di-lorenzo-approva-il-napoli-di-allegri-ci-teniamo-a-far-bene_3e9cefcd-e5ae-452e-afbf-a00dab0bc6f5.html",
-     "data": "2026-07-25T16:43:21+00:00"
-    },
-    {
-     "titolo": "Il sindaco di Imola: 'Il ritorno del Gp? Noi sempre pronti e disponibili'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/25/il-sindaco-di-imola-il-ritorno-del-gp-noi-sempre-pronti-e-disponibili_c1a1f021-6c5f-4879-b901-12a0ee5f12bd.html",
-     "data": "2026-07-25T16:40:59+00:00"
-    },
-    {
-     "titolo": "L'ex compagno Oddo vota Pirlo 'su Andrea preconcetti, è l'uomo giusto'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/lex-compagno-oddo-vota-pirlo-su-andrea-preconcetti-e-luomo-giusto_b6711d79-1bb4-4c7d-97b6-8d945792ebec.html",
-     "data": "2026-07-25T16:39:44+00:00"
     }
    ]
   }
