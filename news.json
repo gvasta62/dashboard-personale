@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-25T12:52:38.104199+00:00",
+ "aggiornato": "2026-07-25T14:24:03.199304+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Nuovo video AI di Vannacci-generale,intercede con finto Mattarella su grazia a Roggero",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/nuovo-video-ai-di-vannacci-generaleintercede-con-finto-mattarella-su-grazia-a-roggero_32a060ae-2f92-42cf-ae85-a15388013ad2.html",
+     "data": "2026-07-25T14:08:25+00:00"
+    },
+    {
+     "titolo": "Turista disperso nel lago di Como, si è tuffato per salvare il figlio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/turista-disperso-nel-lago-di-como-si-e-tuffato-per-salvare-il-figlio_544605d1-ff87-4eff-81a1-28f113249bb2.html",
+     "data": "2026-07-25T13:14:02+00:00"
+    },
     {
      "titolo": "Turista si tuffa con uno dei tre figli nel lago di Como e non riemerge",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/turista-si-tuffa-con-uno-dei-tre-figli-nel-lago-di-como_d19a6727-6143-4cc3-abdd-4c09619ca3b8.html",
@@ -44,22 +54,17 @@
      "titolo": "Mosca, 'in raid ucraini su regione Zaporizhzhia almeno 8 morti, 2 sono bimbi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/mosca-in-raid-ucraini-su-regione-zaporizhzhia-almeno-8-morti-2-sono-bimbi_06599a0d-e16d-4d77-b6f2-e6ff5938f1b9.html",
      "data": "2026-07-25T09:06:13+00:00"
-    },
-    {
-     "titolo": "Codacons, su carburanti a luglio e agosto stangata da 10,8 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/codacons-su-carburanti-a-luglio-e-agosto-stangata-da-108-miliardi_9fea8b46-c97c-40e3-83f1-5f123c1ec4ad.html",
-     "data": "2026-07-25T08:05:12+00:00"
-    },
-    {
-     "titolo": "Eleonora Marangoni vince il 97/o Premio Viareggio-Rèpaci per la narrativa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/eleonora-marangoni-vince-il-97o-premio-viareggio-repaci-per-la-narrativa_cfaf1a1a-1720-442b-9285-e28d45bc952d.html",
-     "data": "2026-07-25T07:52:45+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Dopo il grande caldo sull'Umbria arrivano pioggia e temporali",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/25/dopo-il-grande-caldo-sullumbria-arrivano-pioggia-e-temporali_347c1521-0497-45bf-a0ad-f01043c2f7b3.html",
+     "data": "2026-07-25T13:04:29+00:00"
+    },
     {
      "titolo": "Giambartolomei, autorizzazioni sociosanitarie bloccate anche da due anni",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/25/giambartolomei-autorizzazioni-sociosanitarie-bloccate-anche-da-due-anni_3f3beebf-787a-45a2-a488-667d9d255507.html",
@@ -68,7 +73,7 @@
     {
      "titolo": "Il Bosco Fai di San Francesco ad Assisi è 'intatto e regolarmente aperto'",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/25/il-bosco-fai-di-san-francesco-ad-assisi-e-intatto-e-regolarmente-aperto_1f4862f2-94fd-4f21-b287-50b0d437f19b.html",
-     "data": "2026-07-25T12:37:10+00:00"
+     "data": "2026-07-25T13:05:59+00:00"
     },
     {
      "titolo": "Rinviato a lunedì il concerto di Sergio Cammariere a Castel Rigone",
@@ -114,11 +119,6 @@
      "titolo": "Sul dimensionamento scolastico dell'Umbria scontro aperto tra Ascani e Valditara",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/24/sul-dimensionamento-scolastico-dellumbria-scontro-aperto-tra-ascani-e-valditara_4749b017-f864-4fa1-a94d-6182311a0d45.html",
      "data": "2026-07-24T17:29:54+00:00"
-    },
-    {
-     "titolo": "Marchetti, meno vittime sulle strade confermano che la direzione di Salvini è giusta",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/24/marchetti-meno-vittime-sulle-strade-confermano-che-la-direzione-di-salvini-e-giusta_87fbdd54-bb42-47fa-837f-848d0b7d04e8.html",
-     "data": "2026-07-24T16:37:04+00:00"
     }
    ]
   },
@@ -126,14 +126,39 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Tensioni alla marcia No Tav, pietre e bombe carta contro la polizia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/tensioni-alla-marcia-no-tav-pietre-e-bombe-carta-contro-la-polizia_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
+     "data": "2026-07-25T14:17:52+00:00"
+    },
+    {
+     "titolo": "Due cani bloccati nella tana di un tasso salvati dai vigili del fuoco",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/due-cani-bloccati-nella-tana-di-un-tasso-salvati-dai-vigili-del_c4e91d7f-063b-48d3-8103-8f0c36b449e5.html",
+     "data": "2026-07-25T13:16:44+00:00"
+    },
+    {
+     "titolo": "Turista disperso nel lago di Como, si è tuffato per salvare il figlio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/turista-disperso-nel-lago-di-como-si-e-tuffato-per-salvare-il-figlio_90ac14fc-e583-4f72-af92-bf468b753d2d.html",
+     "data": "2026-07-25T13:13:57+00:00"
+    },
+    {
+     "titolo": "Temperature invernali sulle montagne abruzzesi, Pescocostanzo sotto zero",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/temperature-invernali-sulle-montagne-abruzzesi-pescocostanzo-sotto-zero_5c198cf3-3a4e-438f-b84d-fcac9f589031.html",
+     "data": "2026-07-25T12:55:44+00:00"
+    },
+    {
+     "titolo": "Turista si tuffa per salvare il figlio nel lago di Como e non riemerge",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/turista-si-tuffa-per-salvare-il-figlio-nel-lago-di-como-e-non-riemerge_af8c0331-41c6-4e01-aaa2-1931c89661cd.html",
+     "data": "2026-07-25T13:09:58+00:00"
+    },
+    {
      "titolo": "'Massima attenzione' per il corteo di domani al Pilastro",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/massima-attenzione-per-il-corteo-di-domani-al-pilastro_af1d58a5-2cd7-4ab8-9f8e-c49950e4ca2f.html",
      "data": "2026-07-25T12:33:22+00:00"
     },
     {
-     "titolo": "Turista si tuffa con uno dei tre figli nel lago di Como e non riemerge",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/turista-si-tuffa-con-uno-dei-tre-figli-nel-lago-di-como_af8c0331-41c6-4e01-aaa2-1931c89661cd.html",
-     "data": "2026-07-25T12:32:43+00:00"
+     "titolo": "Sit-in di protesta contro scritta fascista su scuola dedicata a eroe partigiano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/sit-in-di-protesta-contro-scritta-fascista-su-scuola-dedicata-a-eroe-partigiano_46a10bc1-1b8f-46d9-b7cb-253105c22567.html",
+     "data": "2026-07-25T14:21:22+00:00"
     },
     {
      "titolo": "Legale agenti, il sangue arriva dalla ferita alla nuca di Fakir",
@@ -156,40 +181,20 @@
      "data": "2026-07-25T11:20:01+00:00"
     },
     {
-     "titolo": "No Tav, partita da Venaus la marcia ai 'cantieri della devastazione'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/no-tav-partita-da-venaus-la-marcia-ai-cantieri-della-devastazione_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
-     "data": "2026-07-25T12:24:32+00:00"
-    },
-    {
      "titolo": "Scontro tra detenuti rivali nel carcere di Catania, inchiesta per rivolta",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/scontro-tra-detenuti-rivali-nel-carcere-di-catania-inchiesta-per-rivolta_9949fb57-e0e7-4126-879c-87bd73f21fbe.html",
      "data": "2026-07-25T10:46:55+00:00"
-    },
-    {
-     "titolo": "Indiani uccisi fuori dal tempio Sikh, il ricercato arrestato nel Regno Unito",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/indiani-uccisi-fuori-dal-tempio-sikh-il-ricercato-arrestato-nel-regno_4ffbf753-f88e-4a58-bcf3-253349575e99.html",
-     "data": "2026-07-25T12:29:06+00:00"
-    },
-    {
-     "titolo": "C'è un nuovo video, una chiazza di sangue sotto la testa di Fakir morto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/ce-un-nuovo-video-una-chiazza-di-sangue-sotto-la-testa-di-fakir-morto_99e6053d-4edf-41de-9930-bbf15dced48a.html",
-     "data": "2026-07-25T12:12:23+00:00"
-    },
-    {
-     "titolo": "Nuovo video, chiazza di sangue sotto la testa di Fakir morto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/nuovo-video-chiazza-di-sangue-sotto-la-testa-di-fakir-morto_ef51e36b-1880-4632-ac2c-2e5032def32d.html",
-     "data": "2026-07-25T10:08:05+00:00"
-    },
-    {
-     "titolo": "Domenica con la pioggia, poi il ritorno del caldo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/domenica-con-la-pioggia-poi-il-ritorno-del-caldo_94a5ee27-961a-46b4-83d4-97090325e399.html",
-     "data": "2026-07-25T09:20:59+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Nuovo video AI di Vannacci-generale,intercede con finto Mattarella su grazia a Roggero",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/nuovo-video-ai-di-vannacci-generaleintercede-con-finto-mattarella-su-grazia-a-roggero_341a7469-21ee-4ab8-8b2b-ea0a4291ac91.html",
+     "data": "2026-07-25T14:08:30+00:00"
+    },
     {
      "titolo": "Ranucci intercettato: 'Massoneria e mafia in Rai'. Per FdI 'dichiarazioni gravissime'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/ranucci-intercettato-massoneria-e-mafia-in-rai.-per-fdi-dichiarazioni-gravissime_3eb17993-2438-4385-b8f0-bde6c7ff6ef7.html",
@@ -244,17 +249,17 @@
      "titolo": "Nuovo rinvio sui medici no vax, braccio di ferro nella maggioranza",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/nuovo-rinvio-sui-medici-no-vax-braccio-di-ferro-nella-maggioranza_0a1d1ebf-be50-4528-88ec-8d4050f805fa.html",
      "data": "2026-07-24T16:06:49+00:00"
-    },
-    {
-     "titolo": "Pd Veneto, 'reintegro medici no vax grave ingerenza sugli Ordini'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/24/pd-veneto-reintegro-medici-no-vax-grave-ingerenza-sugli-ordini_8f86bb55-ac78-4dfb-b04a-2e04457566db.html",
-     "data": "2026-07-24T15:58:59+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "A Milano la benzina vola oltre i 2,6 euro. 'A luglio e agosto stangata da 10,8 miliardi'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/a-milano-la-benzina-vola-oltre-i-26-euro.-a-luglio-e-agosto-stangata-da-108-miliardi_ee16d5cb-032b-4f8d-8b84-28c78c3f4ac0.html",
+     "data": "2026-07-25T13:37:43+00:00"
+    },
     {
      "titolo": "Unimpresa, riparte il credito, in un anno +33 miliardi a famiglie e imprese",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/unimpresa-riparte-il-credito-in-un-anno-33-miliardi-a-famiglie-e-imprese_dc312ae8-d0ae-48ad-b99a-33a1814ce166.html",
@@ -264,11 +269,6 @@
      "titolo": "Nomine, ancora oltre 60 poltrone da rinnovare, si parte da Sogin",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/nomine-ancora-oltre-60-poltrone-da-rinnovare-si-parte-da-sogin_91352634-9c82-430d-a496-610c0b7321a2.html",
      "data": "2026-07-25T11:33:05+00:00"
-    },
-    {
-     "titolo": "A Milano la benzina vola oltre i 2,6 euro. 'A luglio e agosto stangata da 10,8 miliardi'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/a-milano-la-benzina-vola-oltre-i-26-euro.-a-luglio-e-agosto-stangata-da-108-miliardi_ee16d5cb-032b-4f8d-8b84-28c78c3f4ac0.html",
-     "data": "2026-07-25T12:40:13+00:00"
     },
     {
      "titolo": "Il gas sui massimi dall'agosto del 2022, scorte Italia oltre il 73%",
@@ -451,9 +451,19 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Mondiali scherma: prima medaglia Italia, Macchi argento nel fioretto",
+     "titolo": "Tour: tappa finale accorciata, i servizi di soccorso sono impegnati sul fronte incendi",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/25/tour-tappa-finale-accorciata-i-servizi-di-soccorso-sono-impegnati-sul-fronte_38427857-b95d-4613-af5b-01d2623375b7.html",
+     "data": "2026-07-25T14:16:04+00:00"
+    },
+    {
+     "titolo": "Mondiali scherma: Rizzi argento nella spada, vince la coreana Song",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/25/mondiali-scherma-rizzi-argento-nella-spada-vince-la-coreana-song_e5d41736-85a6-46b8-9f7f-d8064816cbe1.html",
+     "data": "2026-07-25T12:54:21+00:00"
+    },
+    {
+     "titolo": "Prima medaglia dell'Italia ai mondiali di scherma: Macchi argento nel fioretto",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/25/mondiali-scherma-prima-medaglia-italia-macchi-argento-nel-fioretto_86c7319b-0ca1-46fb-a008-5305486ff497.html",
-     "data": "2026-07-25T12:44:38+00:00"
+     "data": "2026-07-25T12:52:56+00:00"
     },
     {
      "titolo": "Velasco \"brasiliane più brave, Italia grintosa ma poco lucida\"",
@@ -483,7 +493,7 @@
     {
      "titolo": "Primo ko per le azzurre di Velasco, Brasile in finale di Nations League",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/07/25/primo-ko-per-le-azzurre-di-velasco-brasile-in-finale-di-nations-league_defeb369-582b-4e31-ab4c-0772515ded98.html",
-     "data": "2026-07-25T12:44:54+00:00"
+     "data": "2026-07-25T13:12:39+00:00"
     },
     {
      "titolo": "Scherma: Mondiali, a medaglia Macchi nel fioretto e Rizzi nella spada",
@@ -499,16 +509,6 @@
      "titolo": "Darderi in semifinale a Estoril, battuto Faria in rimonta",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/24/darderi-in-semifinale-a-estoril-battuto-faria-in-rimonta_a716095b-84d5-4867-b326-fc5bc9960f0e.html",
      "data": "2026-07-24T21:22:27+00:00"
-    },
-    {
-     "titolo": "Presentato al Senato il ddl Paganella, \"unire lo sport in un'unica filiera\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/24/presentato-al-senato-il-ddl-paganella-unire-lo-sport-in-ununica-filiera_2f2cb995-79cf-423b-98aa-d0bd5633e583.html",
-     "data": "2026-07-24T19:25:58+00:00"
-    },
-    {
-     "titolo": "Sinner salterà Montreal, termina la striscia di Masters 1000 consecutivi vinti",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/24/sinner-saltera-montreal-termina-la-striscia-di-masters-1000-consecutivi-vinti_95eaf9c2-4875-4a74-9daa-79572c06abe8.html",
-     "data": "2026-07-24T18:53:59+00:00"
     }
    ]
   }
