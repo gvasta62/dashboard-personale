@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-25T21:12:51.929180+00:00",
+ "aggiornato": "2026-07-25T22:14:33.946608+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Furgone contro la folla a Berlino, 'un morto e 15 feriti'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/furgone-contro-la-folla-a-berlino-un-morto-e-15-feriti_fe78e490-ef86-499d-8b3b-cbc38ba93b1d.html",
+     "data": "2026-07-25T21:51:18+00:00"
+    },
     {
      "titolo": "Media, 'veicolo contro la folla a Berlino a margine del Gay Pride, feriti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/media-veicolo-contro-la-folla-a-berlino-a-margine-del-gay-pride-feriti_6d7b77c0-2b46-410a-84cf-28f00d364fa7.html",
@@ -49,11 +54,6 @@
      "titolo": "Zelensky, 'nuovo sostegno di Mosca all'Iran, fornisce immagini dei siti Usa'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/zelensky-nuovo-sostegno-di-mosca-alliran-fornisce-immagini-dei-siti-usa_5170f0cf-a9bd-4e26-9ffa-79e77a0e0f7d.html",
      "data": "2026-07-25T18:10:46+00:00"
-    },
-    {
-     "titolo": "Meloni, la violenza non piegherà lo Stato",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/meloni-la-violenza-non-pieghera-lo-stato_501ce4b6-92c8-4563-9046-62d18b826042.html",
-     "data": "2026-07-25T17:18:25+00:00"
     }
    ]
   },
@@ -311,9 +311,14 @@
    "nome": "Mondo",
    "voci": [
     {
-     "titolo": "Media, 'veicolo contro la folla a Berlino a margine del Gay Pride, feriti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/media-veicolo-contro-la-folla-a-berlino-a-margine-del-gay-pride-feriti_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
-     "data": "2026-07-25T21:01:49+00:00"
+     "titolo": "Furgone contro la folla a Berlino, 'un morto e 15 feriti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/furgone-contro-la-folla-a-berlino-un-morto-e-15-feriti_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
+     "data": "2026-07-25T22:01:55+00:00"
+    },
+    {
+     "titolo": "Furgone contro la folla a Berlino, 'un morto e 15 feriti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/furgone-contro-la-folla-a-berlino-un-morto-e-15-feriti_8f68cfe0-4c10-4177-83ea-8b60c12fad79.html",
+     "data": "2026-07-25T21:51:21+00:00"
     },
     {
      "titolo": "Lecornu, 'situazione critica in Gironda per i roghi, prossime ore difficili'",
@@ -364,11 +369,6 @@
      "titolo": "Circa 250mila evacuati negli incendi fra Francia e Spagna",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/circa-250mila-evacuati-negli-incendi-fra-francia-e-spagna_3f129ceb-8475-43c5-93ae-a4b72761fd76.html",
      "data": "2026-07-25T11:17:45+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'colpite nel Mar Caspio navi con armi dirette all'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/zelensky-colpite-nel-mar-caspio-navi-con-armi-dirette-alliran_caaf890c-30d1-44d7-a116-6ed3b8f7102d.html",
-     "data": "2026-07-25T10:45:12+00:00"
     }
    ]
   },
@@ -441,6 +441,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "In Ungheria pole di Norris poi Leclerc, penalizzati Hamilton e Antonelli",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/25/in-ungheria-pole-di-norris-poi-leclerc-penalizzati-hamilton-e-antonelli_1f3db3f4-cb6b-4912-b687-1e35893429d4.html",
+     "data": "2026-07-25T21:27:54+00:00"
+    },
+    {
      "titolo": "Miretti sblocca la Juve, vittoria per 1-0 nel test a Liegi",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/miretti-sblocca-la-juve-vittoria-per-1-0-nel-test-a-liegi_5bf7cc7b-4999-4336-8d4c-993737657d0f.html",
      "data": "2026-07-25T20:19:14+00:00"
@@ -459,11 +464,6 @@
      "titolo": "Calciomercato: il Galatasaray cerca Leao, la Juve rilancia su Kolo Muani",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/calciomercato-il-galatasaray-cerca-leao-la-juve-rilancia-su-kolo-muani_dbdbdb5b-8566-4f76-ad9d-84031bc136fe.html",
      "data": "2026-07-25T18:32:18+00:00"
-    },
-    {
-     "titolo": "Norris torna in pole, Hamilton perde tre posti in griglia",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/25/norris-torna-in-pole-hamilton-perde-tre-posti-in-griglia_1f3db3f4-cb6b-4912-b687-1e35893429d4.html",
-     "data": "2026-07-25T18:46:57+00:00"
     },
     {
      "titolo": "Pirlo ct, in attesa dell'annuncio l'Italia si divide",
