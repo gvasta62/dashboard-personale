@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-25T01:18:01.312164+00:00",
+ "aggiornato": "2026-07-25T04:34:54.153451+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Giornalista carbonizzato a Eboli, un fermato dai carabinieri",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/giornalista-carbonizzato-a-eboli-un-fermato-dai-carabinieri_fa82d092-47bd-4d56-af11-4650f2826e50.html",
+     "data": "2026-07-25T04:30:17+00:00"
+    },
+    {
+     "titolo": "Terremoto di magnitudo 4.1 in Molise, gente in strada",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/terremoto-di-magnitudo-4.1-in-molise-gente-in-strada_eecde956-1328-4ffb-94bf-8424154381db.html",
+     "data": "2026-07-25T03:28:48+00:00"
+    },
     {
      "titolo": "Esercito Usa, 'spari contro petroliera che voleva forzare il blocco a Hormuz'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/esercito-usa-spari-contro-petroliera-che-voleva-forzare-il-blocco-a-hormuz_7be8d4a7-6088-4892-ad09-6680ad1817aa.html",
@@ -44,16 +54,6 @@
      "titolo": "Macron chiede alle Forze Armate massimo supporto per domare gli incendi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/macron-chiede-alle-forze-armate-massimo-supporto-per-domare-gli_0628bb87-fe84-4af6-a1f7-8e069a7bf945.html",
      "data": "2026-07-24T19:45:23+00:00"
-    },
-    {
-     "titolo": "Incendi in Spagna, 63.000 le persone evacuate nella regione di Madrid",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/incendi-in-spagna-63.000-le-persone-evacuate-nella-regione-di-madrid_eb9828eb-2f9e-49c6-9608-ca5e9b75d59b.html",
-     "data": "2026-07-24T19:44:00+00:00"
-    },
-    {
-     "titolo": "Media, Stati membri della Cpi destituiscono il procuratore Karim Khan",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/24/media-stati-membri-della-cpi-destituiscono-il-procuratore-karim-khan_f2301c8c-6f60-4c4f-971a-c048b47ff52c.html",
-     "data": "2026-07-24T18:11:09+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Terremoto di magnitudo 4.1 in Molise, gente in strada",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/terremoto-di-magnitudo-4.1-in-molise-gente-in-strada_20e96cc2-ebf0-4e86-8e57-9f11835f922e.html",
+     "data": "2026-07-25T03:27:32+00:00"
+    },
+    {
      "titolo": "Ilaria Cucchi: 'Da anni denunciamo fatti gravi nella scuola della GdF dell'Aquila'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/ilaria-cucchi-da-anni-denunciamo-fatti-gravi-nella-scuola-della-gdf_73bf495c-f33a-47d0-af68-eabecf463767.html",
      "data": "2026-07-24T19:37:36+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Travolta da una Porsche,  otto anni a uno degli imputati. Assolto l'altro",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/travolta-da-una-porsche-otto-anni-a-uno-degli-imputati.-assolto-laltro_927fa04f-84b2-4e74-bca3-aba7badc0e3b.html",
      "data": "2026-07-24T19:07:18+00:00"
-    },
-    {
-     "titolo": "Giornalista ucciso, forse ancora vivo quando gli hanno dato fuoco",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/giornalista-ucciso-forse-ancora-vivo-quando-gli-hanno-dato-fuoco_b94a1897-4a9c-436b-9750-3f9db769497d.html",
-     "data": "2026-07-24T17:09:29+00:00"
     }
    ]
   },
