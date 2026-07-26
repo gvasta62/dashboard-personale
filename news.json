@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-07-26T09:31:33.889116+00:00",
+ "aggiornato": "2026-07-26T11:11:18.372447+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il Papa, preoccupato per l'inasprirsi della violenza in Terra Santa",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/il-papa-preoccupato-per-linasprirsi-della-violenza-in-terra-santa_afaf4f06-de10-42df-b6be-a9f1e9cb31e6.html",
+     "data": "2026-07-26T11:05:28+00:00"
+    },
+    {
+     "titolo": "Bild, secondo la polizia di Berlino attentatore Gay Pride è sostenitore dell'Isis",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/bild-secondo-la-polizia-di-berlino-attentatore-gay-pride-e-sostenitore-dellisis_7e8361d4-b38f-4e7f-8202-f74df5c005e9.html",
+     "data": "2026-07-26T10:34:06+00:00"
+    },
+    {
+     "titolo": "Iran, stop agli attacchi di rappresaglia dopo che gli Usa hanno sospeso i raid",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/iran-stop-agli-attacchi-di-rappresaglia-dopo-che-gli-usa-hanno_8a3f714f-1c08-4664-affc-814f75a9820f.html",
+     "data": "2026-07-26T10:13:27+00:00"
+    },
+    {
+     "titolo": "Meloni, al fianco della Germania, Italia condanna odio ed estremismi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/meloni-al-fianco-della-germania-italia-condanna-odio-ed-estremismi_511bcc83-0554-4714-8a90-1fd04a6c410f.html",
+     "data": "2026-07-26T09:49:26+00:00"
+    },
     {
      "titolo": "I teatri condominiali riconosciuti patrimonio dell'umanità Unesco",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/i-teatri-condominiali-riconosciuti-patrimonio-dellumanita-unesco_77a67147-2f02-4e03-84e7-e78f0b88c5cf.html",
@@ -34,32 +54,22 @@
      "titolo": "In Gironda l'incendio minaccia periferia di Bordeaux, 220mila evacuati",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/in-gironda-lincendio-minaccia-periferia-di-bordeaux-220mila-evacuati_23e59edb-c4b8-4144-bff6-1f959fc80eaf.html",
      "data": "2026-07-26T05:51:21+00:00"
-    },
-    {
-     "titolo": "Media, identificato un sospetto per l'attacco a Berlino",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/media-identificato-un-sospetto-per-lattacco-a-berlino_4f879eed-a257-443d-89cb-ae21efe85ced.html",
-     "data": "2026-07-26T01:25:03+00:00"
-    },
-    {
-     "titolo": "Nyt, 'Trump accantona escalation contro Iran per rischio a scorte Patriot'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/nyt-trump-accantona-escalation-contro-iran-per-rischio-a-scorte-patriot_1559809f-fcdf-4ffd-a745-d0cc447abe3e.html",
-     "data": "2026-07-26T06:59:41+00:00"
-    },
-    {
-     "titolo": "Furgone contro la folla a Berlino, 'un morto e 15 feriti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/furgone-contro-la-folla-a-berlino-un-morto-e-15-feriti_fe78e490-ef86-499d-8b3b-cbc38ba93b1d.html",
-     "data": "2026-07-25T21:51:18+00:00"
-    },
-    {
-     "titolo": "Media, 'veicolo contro la folla a Berlino a margine del Gay Pride, feriti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/media-veicolo-contro-la-folla-a-berlino-a-margine-del-gay-pride-feriti_6d7b77c0-2b46-410a-84cf-28f00d364fa7.html",
-     "data": "2026-07-25T21:01:34+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Prisco, a Chiomonte un attacco premeditato alle istituzioni",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/26/prisco-a-chiomonte-un-attacco-premeditato-alle-istituzioni_5f5d0ce7-2496-4c98-9a22-fa779baa7aca.html",
+     "data": "2026-07-26T10:12:37+00:00"
+    },
+    {
+     "titolo": "Temporale su Perugia, auto in difficoltà e barriere che galleggiano",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/26/temporale-su-perugia-auto-in-difficolta-e-barriere-che-galleggiano_4ef2e717-6824-4bae-b9c4-2f8cd1157853.html",
+     "data": "2026-07-26T09:34:34+00:00"
+    },
     {
      "titolo": "Il teatro Nuovo Menotti a Spoleto nella Lista del Patrimonio mondiale dell'Unesco",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/26/il-teatro-nuovo-menotti-a-spoleto-nella-lista-del-patrimonio-mondiale-dellunesco_e161afc3-8b41-49f7-ab3a-ffb23daa68af.html",
@@ -109,22 +119,42 @@
      "titolo": "Caprai, meno vino a causa di caldo e siccità ma per l'Umbria non è un male",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/25/caprai-meno-vino-a-causa-di-caldo-e-siccita-ma-per-lumbria-non-e-un-male_213e975f-ce4f-427e-afde-adc69cdf60fb.html",
      "data": "2026-07-25T10:36:54+00:00"
-    },
-    {
-     "titolo": "Torna a crescere il numero delle imprese in Umbria ma resta 'debolezza di fondo'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/25/torna-a-crescere-il-numero-delle-imprese-in-umbria-ma-resta-debolezza-di-fondo_df868fc1-8226-4909-90d9-dd127fa4cdc2.html",
-     "data": "2026-07-25T09:01:24+00:00"
-    },
-    {
-     "titolo": "Al via la bonifica dell'incendio di Assisi, nessun danno al bosco di San Francesco",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/25/al-via-la-bonifica-dellincendio-di-assisi-nessun-danno-al-bosco-di-san-francesco_519c04c9-40f2-4f1c-bf2c-392f62003779.html",
-     "data": "2026-07-25T08:26:33+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "A Predappio il ricordo della nascita di Mussolini, evitati i saluti romani",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/a-predappio-il-ricordo-della-nascita-di-mussolini-evitati-i-saluti-romani_05fca82b-237e-4a00-8815-eed9fcac79a0.html",
+     "data": "2026-07-26T11:05:08+00:00"
+    },
+    {
+     "titolo": "Guerriglia No Tav, in centinaia assaltano i cantieri. Piantedosi: 'C'è chi vuole una escalation'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/guerriglia-no-tav-in-centinaia-assaltano-i-cantieri.-piantedosi-ce-chi-vuole-una-escalation_afed739d-d740-493e-a1f5-de9964d3e3ef.html",
+     "data": "2026-07-26T10:38:52+00:00"
+    },
+    {
+     "titolo": "Danni ai cantieri Tav, non ci sono operai feriti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/danni-ai-cantieri-tav-non-ci-sono-operai-feriti_57fe3de2-de2f-4edb-b2b1-d7983c17ec1a.html",
+     "data": "2026-07-26T09:58:00+00:00"
+    },
+    {
+     "titolo": "Scontri No Tav: 450 identificati, più di un centinaio di feriti tra le forze dell'ordine",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/guerriglia-no-tav-in-centinaia-assaltano-i-cantieri.-oltre-un-centinaio-di-feriti-tra-le-forze_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
+     "data": "2026-07-26T10:40:57+00:00"
+    },
+    {
+     "titolo": "Maltempo, oggi temporali intensi. In Toscana, salvata una coppia bloccata in auto dall'acqua",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/maltempo-oggi-temporali-intensi.-in-toscana-salvata-una-coppia-bloccata-in-auto_bb2e835a-d54a-4472-bac6-ba79da02c859.html",
+     "data": "2026-07-26T09:45:21+00:00"
+    },
+    {
+     "titolo": "La gip del caso Resinovich 'in prestito' a Gorizia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/la-gip-del-caso-resinovich-in-prestito-a-gorizia_a2548011-3557-434b-92a9-fe0822489edf.html",
+     "data": "2026-07-26T09:40:02+00:00"
+    },
     {
      "titolo": "Scontri No Tav, oltre un centinaio di feriti tra le forze dell'ordine",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/scontri-no-tav-oltre-un-centinaio-di-feriti-tra-le-forze-dellordine_707976f1-9ec2-4ffe-b9a1-c85685ed8378.html",
@@ -154,42 +184,22 @@
      "titolo": "Si tuffa per salvare il figlio nel lago di Como, proseguono le ricerche",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/si-tuffa-per-salvare-il-figlio-nel-lago-di-como-proseguono-le-ricerche_d4d6345e-f7a7-4f2c-89c6-4c0be16d04de.html",
      "data": "2026-07-26T08:03:40+00:00"
-    },
-    {
-     "titolo": "Giornalista ucciso, domani l'udienza di convalida del fermo del presunto assassino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/giornalista-ucciso-domani-ludienza-di-convalida-del-fermo-del-presunto-assassino_7a54f99f-fb1d-4972-94ec-2f01224ba98d.html",
-     "data": "2026-07-26T07:39:14+00:00"
-    },
-    {
-     "titolo": "Minacce social, assegnata la scorta al sindaco di Bologna Lepore",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/minacce-social-assegnata-la-scorta-al-sindaco-di-bologna-lepore_0a20aa4f-871f-45f4-8940-8d53c8444ef5.html",
-     "data": "2026-07-26T07:15:54+00:00"
-    },
-    {
-     "titolo": "Minacce social, assegnata la scorta al sindaco di Bologna Lepore",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/minacce-social-assegnata-la-scorta-al-sindaco-di-bologna-lepore-_bdd19b9e-2c31-450b-8c34-ab215277a2c7.html",
-     "data": "2026-07-26T07:23:51+00:00"
-    },
-    {
-     "titolo": "Tav, per Foietta forze dell'ordine vittime violenza oorganizzata",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/tav-per-foietta-forze-dellordine-vittime-violenza-oorganizzata_c965b1ff-0e24-4dea-b375-661830799054.html",
-     "data": "2026-07-26T07:13:44+00:00"
-    },
-    {
-     "titolo": "Telt, solidarietà a operai e forze delle ordine impegnati per sicurezza Tav",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/telt-solidarieta-a-operai-e-forze-delle-ordine-impegnati-per-sicurezza-tav_d06223df-a7a5-40a2-a833-f2bb7d584317.html",
-     "data": "2026-07-26T07:04:59+00:00"
-    },
-    {
-     "titolo": "Tre arresti e due indagati in Veneto per detenzione di materiale pedopornografico",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/tre-arresti-e-due-indagati-in-veneto-per-detenzione-di-materiale-pedopornografico_21b0fdee-452b-4160-beb5-ab4d0bc3796f.html",
-     "data": "2026-07-26T07:04:26+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "++ No Tav, 'una grande giornata di lotta per la Val di Susa' ++",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/no-tav-una-grande-giornata-di-lotta-per-la-val-di-susa_632afa0b-3ed7-45e6-8447-2d5dc6bd9918.html",
+     "data": "2026-07-26T09:54:06+00:00"
+    },
+    {
+     "titolo": "Meloni, al fianco della Germania, Italia condanna odio ed estremismi",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/meloni-al-fianco-della-germania-italia-condanna-odio-ed-estremismi_58e87e84-ce48-4179-9de8-c0ae561d6aad.html",
+     "data": "2026-07-26T09:49:29+00:00"
+    },
     {
      "titolo": "Attentato a Berlino, Salvini e Vannacci all'attacco",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/salvini-il-fanatismo-islamico-e-il-problema-stop-spazi-a-islam-senza-accordi_4e9d6895-1c19-491e-92c9-965b7b5b4a3a.html",
@@ -239,22 +249,17 @@
      "titolo": "Meloni, la violenza non piegherà lo Stato",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/meloni-la-violenza-non-pieghera-lo-stato_57b1275f-7cf6-4851-8ce7-056da1070a32.html",
      "data": "2026-07-25T17:18:28+00:00"
-    },
-    {
-     "titolo": "A Milano annunciato corteo per Roggero ma si presenta solo l'organizzatrice",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/a-milano-annunciato-corteo-per-roggero-ma-si-presenta-solo-lorganizzatrice_2624f382-2c74-4d85-8453-bdc08b7eb349.html",
-     "data": "2026-07-25T16:12:44+00:00"
-    },
-    {
-     "titolo": "Fontana, un'emozione premiare Mario e Giancarlo, deportati per no a Germania nazista",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/fontana-unemozione-premiare-mario-e-giancarlo-deportati-per-no-a-germania-nazista_6ef8abf0-d0de-4b0c-8eaa-13312952c163.html",
-     "data": "2026-07-25T15:35:13+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Danni ai cantieri Tav, non ci sono operai feriti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/26/danni-ai-cantieri-tav-non-ci-sono-operai-feriti_f67d5f23-f683-4aaf-917d-c6493daff123.html",
+     "data": "2026-07-26T09:58:06+00:00"
+    },
     {
      "titolo": "Dal 31 luglio nuovi obblighi per i produttori, arriva il diritto alla riparazione",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/26/dal-31-luglio-nuovi-obblighi-per-i-produttori-arriva-il-diritto-alla-riparazione_c9baa048-1c1f-40cb-83a0-52ae542b90be.html",
@@ -301,6 +306,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Bild, secondo la polizia di Berlino attentatore Gay Pride è sostenitore dell'Isis",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/bild-secondo-la-polizia-di-berlino-attentatore-gay-pride-e-sostenitore-dellisis_b4e42a0a-f168-437f-a259-713ee1ddc05e.html",
+     "data": "2026-07-26T10:34:04+00:00"
+    },
+    {
+     "titolo": "Le notti insonni di Takaichi accendono il dibattito in Giappone, pioggia di critiche",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/26/le-notti-insonni-di-takaichi-accendono-il-dibattito-in-giappone-pioggia-di-critiche_cfdbbd1d-da4f-42e7-a0f3-3e01dfd7d09f.html",
+     "data": "2026-07-26T10:22:47+00:00"
+    },
+    {
+     "titolo": "Iran, stop agli attacchi di rappresaglia dopo che gli Usa hanno sospeso i raid",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/26/iran-stop-agli-attacchi-di-rappresaglia-dopo-che-gli-usa-hanno_efbb1b2e-902c-496b-9cde-e12f2fa89349.html",
+     "data": "2026-07-26T10:13:27+00:00"
+    },
+    {
+     "titolo": "Iran, stop agli attacchi di rappresaglia dopo che gli Usa hanno sospeso i raid",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/26/iran-stop-agli-attacchi-di-rappresaglia-dopo-che-gli-usa-hanno_ecf4c8a4-e664-4d7b-ba02-6cef9612bf17.html",
+     "data": "2026-07-26T10:13:43+00:00"
+    },
+    {
+     "titolo": "Burnham a Bbc, 'pronto a criticare Trump per difendere interesse nazionale'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/burnham-a-bbc-pronto-a-criticare-trump-per-difendere-interesse-nazionale_d836ad3b-67e0-4791-8e18-3d3f7173f6ad.html",
+     "data": "2026-07-26T09:36:37+00:00"
+    },
+    {
      "titolo": "Katy Perry contro la Casa Bianca: 'Non usate la mia musica per celebrare la guerra'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/26/katy-perry-contro-la-casa-bianca-non-usate-la-mia-musica-per_356a2fc2-a432-448d-9878-1681d2b0fcd2.html",
      "data": "2026-07-26T09:07:11+00:00"
@@ -323,7 +353,7 @@
     {
      "titolo": "Chi è il giovane ricercato per l'attentato al Pride di Berlino",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/polizia-berlino-cerca-21enne-abdul-per-attentato-al-pride-forse-complici_eb66a6ce-ce4e-4eac-803f-830d73a49b05.html",
-     "data": "2026-07-26T09:15:50+00:00"
+     "data": "2026-07-26T10:15:54+00:00"
     },
     {
      "titolo": "In Gironda l'incendio minaccia periferia di Bordeaux, 220mila evacuati",
@@ -331,34 +361,9 @@
      "data": "2026-07-26T05:51:26+00:00"
     },
     {
-     "titolo": "Furgone contro la folla al Pride di Berlino, un morto e 16 feriti. Ricercato un giovane, forse ci sono complici",
+     "titolo": "Furgone contro la folla al Pride di Berlino, un morto e 16 feriti. Ricercato un 21enne, forse ha complici",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/furgone-contro-la-folla-al-pride-di-berlino-un-morto-e-16-feriti_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
-     "data": "2026-07-26T09:18:17+00:00"
-    },
-    {
-     "titolo": "Media, identificato un sospetto per l'attacco a Berlino",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/media-identificato-un-sospetto-per-lattacco-a-berlino_9b9ec14a-7eff-4a67-a1f5-c79b75cad8b0.html",
-     "data": "2026-07-26T01:25:04+00:00"
-    },
-    {
-     "titolo": "Nyt, 'Trump accantona escalation contro Iran per rischio a scorte Patriot'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/26/nyt-trump-accantona-escalation-contro-iran-per-rischio-a-scorte-patriot_f20b060e-b7cc-42dd-b27c-8ec0e63c4545.html",
-     "data": "2026-07-25T23:45:16+00:00"
-    },
-    {
-     "titolo": "Furgone contro la folla a Berlino, 'un morto e 15 feriti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/furgone-contro-la-folla-a-berlino-un-morto-e-15-feriti_8f68cfe0-4c10-4177-83ea-8b60c12fad79.html",
-     "data": "2026-07-25T21:51:21+00:00"
-    },
-    {
-     "titolo": "Lecornu, 'situazione critica in Gironda per i roghi, prossime ore difficili'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/lecornu-situazione-critica-in-gironda-per-i-roghi-prossime-ore-difficili_20e76494-029d-42f6-a3e9-cd80cbdd468b.html",
-     "data": "2026-07-25T19:46:28+00:00"
-    },
-    {
-     "titolo": "Sua Maestà e le drag queen, al via il WorldPride 2026 ad Amsterdam",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/sua-maesta-e-le-drag-queen-al-via-il-worldpride-2026-ad-amsterdam_86773840-24f6-4336-b7ea-e10fefa4d1fc.html",
-     "data": "2026-07-25T18:30:49+00:00"
+     "data": "2026-07-26T10:23:08+00:00"
     }
    ]
   },
@@ -431,6 +436,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Sarà la Malesia a ospitare il Gp del Bahrain, il 4 ottobre",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/26/sara-la-malesia-a-ospitare-il-gp-del-bahrain-il-4-ottobre_56f1c044-0c15-4f34-8b29-df28dfa37242.html",
+     "data": "2026-07-26T10:59:07+00:00"
+    },
+    {
+     "titolo": "Atalanta: rientrato anche Pasalic, mancano solo due nazionali",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/atalanta-rientrato-anche-pasalic-mancano-solo-due-nazionali_cadc8958-4ba9-41e4-86c3-b1d57b4a32bd.html",
+     "data": "2026-07-26T09:47:12+00:00"
+    },
+    {
+     "titolo": "Nations League: 3-1 alla Cina, le azzurre conquistano il bronzo",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/07/26/nations-league-3-1-alla-cina-le-azzurre-conquistano-il-bronzo_cbdfa7bc-6434-4095-9ba1-9ced409d33bb.html",
+     "data": "2026-07-26T09:42:40+00:00"
+    },
+    {
      "titolo": "Mondiali scherma: Di Veroli in semifinale nella spada",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/26/mondiali-scherma-di-veroli-in-semifinale-nella-spada_b3d2ac30-2b97-4fdb-b5e8-8709b54e2f2e.html",
      "data": "2026-07-26T09:07:24+00:00"
@@ -474,21 +494,6 @@
      "titolo": "Atletica: assoluti, Jacobs vince la finale dei 100 metri",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/25/atletica-assoluti-jacobs-vince-la-finale-dei-100-metri_32eff76a-caef-440c-997c-695411a532f7.html",
      "data": "2026-07-25T19:27:33+00:00"
-    },
-    {
-     "titolo": "Calciomercato: il Galatasaray cerca Leao, la Juve rilancia su Kolo Muani",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/calciomercato-il-galatasaray-cerca-leao-la-juve-rilancia-su-kolo-muani_dbdbdb5b-8566-4f76-ad9d-84031bc136fe.html",
-     "data": "2026-07-25T18:32:18+00:00"
-    },
-    {
-     "titolo": "Pirlo ct, in attesa dell'annuncio l'Italia si divide dai social emergono perplessità almeno per la prima agenzia di scommesse in russia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/pirlo-ct-in-attesa-dellannuncio-litalia-si-divide_5b2fa72d-a8bb-40ad-b953-70cb28df0fca.html",
-     "data": "2026-07-26T08:21:30+00:00"
-    },
-    {
-     "titolo": "F1: Gp d'Ungheria, la griglia di partenza",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/25/f1-gp-dungheria-la-griglia-di-partenza_78765997-44dd-4b14-bf53-cf4db3fbba96.html",
-     "data": "2026-07-25T18:53:05+00:00"
     }
    ]
   }
