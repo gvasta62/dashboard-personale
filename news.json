@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-26T16:41:32.782588+00:00",
+ "aggiornato": "2026-07-26T17:49:37.900206+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Polizia tedesca, 'il sospetto attentatore del Pride è stato ucciso'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/polizia-tedesca-il-sospetto-attentatore-del-pride-e-stato-ucciso_54a1c776-d8ce-4d5a-9465-e9895f6dd032.html",
+     "data": "2026-07-26T17:44:16+00:00"
+    },
+    {
+     "titolo": "Media, 'polizia tedesca fa irruzione, l'attentatore è morto'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/media-polizia-tedesca-fa-irruzione-lattentatore-e-morto_7dd2cf2d-70d8-4db3-8282-21a300b975a3.html",
+     "data": "2026-07-26T17:20:27+00:00"
+    },
+    {
+     "titolo": "La Russa, Meloni al Colle sarebbe una grande fortuna per l'Italia,dopo Mattarella",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/la-russa-meloni-al-colle-sarebbe-una-grande-fortuna-per-litaliadopo-mattarella_01d06727-d92d-4488-a453-f711ca063466.html",
+     "data": "2026-07-26T16:48:04+00:00"
+    },
     {
      "titolo": "Marocco intitola a Trump superstrada per Sahara. Presidente Usa ringrazia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/marocco-intitola-a-trump-superstrada-per-sahara.-presidente-usa-ringrazia_8f156cf3-246e-46de-9127-94dc2dee9a86.html",
@@ -39,21 +54,6 @@
      "titolo": "Ministro Interno tedesco, 'attacco al Pride un attentato terroristico islamista'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/ministro-interno-tedesco-attacco-al-pride-un-attentato-terroristico-islamista_a020b01b-442c-456b-9b52-6b692e7b2911.html",
      "data": "2026-07-26T12:33:43+00:00"
-    },
-    {
-     "titolo": "Meloni, teatri condominiali gioielli storici, rendono unica l'identità italiana",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/meloni-teatri-condominiali-gioielli-storici-rendono-unica-lidentita-italiana_88f7c36c-1937-4eeb-b76c-8e7e84a9bfc6.html",
-     "data": "2026-07-26T12:24:20+00:00"
-    },
-    {
-     "titolo": "Attentato Berlino, 'il sospetto già condannato per piano contro lo Stato'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/attentato-berlino-il-sospetto-gia-condannato-per-piano-contro-lo-stato_090b3b76-d409-46e3-8999-1bd96a3ef0a3.html",
-     "data": "2026-07-26T12:22:45+00:00"
-    },
-    {
-     "titolo": "Media, i coloni danno fuoco a due moschee in Cisgiordania",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/media-i-coloni-danno-fuoco-a-due-moschee-in-cisgiordania_bba03d86-fcc3-4116-9660-537bf6120eb8.html",
-     "data": "2026-07-26T11:47:11+00:00"
     }
    ]
   },
@@ -126,6 +126,26 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "I temporali sferzano la Toscana, allerta fino in Campania",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/i-temporali-sferzano-la-toscana-allerta-fino-in-campania_bb2e835a-d54a-4472-bac6-ba79da02c859.html",
+     "data": "2026-07-26T17:03:56+00:00"
+    },
+    {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-07-26T16:47:39+00:00"
+    },
+    {
+     "titolo": "Maxi rogo di sterpaglie a ridosso del Raccordo a Roma, traffico in tilt",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/maxi-rogo-di-sterpaglie-a-ridosso-del-raccordo-a-roma-traffico-in-tilt_12f0687f-01b7-451b-8d9e-5d0293546cb3.html",
+     "data": "2026-07-26T16:45:23+00:00"
+    },
+    {
+     "titolo": "Protesta nel carcere di Viterbo, incendio con 23 intossicati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/protesta-nel-carcere-di-viterbo-incendio-con-23-intossicati_3eadee4a-7f97-4c2a-8b0b-743317e0f600.html",
+     "data": "2026-07-26T16:39:54+00:00"
+    },
+    {
      "titolo": "Incendio di vegetazione su un'area di 100 ettari nel Crotonese",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/incendio-di-vegetazione-su-unarea-di-100-ettari-nel-crotonese_37950a4c-6a91-4639-9dd3-2ecddfe29f71.html",
      "data": "2026-07-26T16:12:53+00:00"
@@ -158,38 +178,23 @@
     {
      "titolo": "Incendi sul Gargano e in Molise: evacuate spiagge e campeggi, anziani trasferiti da una Rsa",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/incendi-sul-gargano-e-in-molise-evacuate-spiagge-e-campeggi-anziani-trasferiti-da-una_f1e930ad-79df-413b-b658-5f1f6850fb1c.html",
-     "data": "2026-07-26T16:21:09+00:00"
+     "data": "2026-07-26T17:37:56+00:00"
     },
     {
      "titolo": "Incendi in Basso Molise, evacuati campeggi, chiuse statale e ferrovia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/incendi-in-basso-molise-evacuati-campeggi-chiuse-statale-e-ferrovia_a83d5e03-f24f-4f4b-9f9b-b5ccf2ea4d19.html",
      "data": "2026-07-26T14:44:13+00:00"
-    },
-    {
-     "titolo": "Maxirogo di sterpaglie a ridosso del Raccordo a Roma, traffico in tilt",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/maxirogo-di-sterpaglie-a-ridosso-del-raccordo-a-roma-traffico-in-tilt_ecd3d8a7-b20c-43eb-9092-5901fdb36715.html",
-     "data": "2026-07-26T16:20:57+00:00"
-    },
-    {
-     "titolo": "Telt, 'prima stima di danni è 1 milione di euro solo a Chiomonte'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/telt-prima-stima-di-danni-e-1-milione-di-euro-solo-a-chiomonte_1b16de1c-c346-4463-8158-dea70c690fab.html",
-     "data": "2026-07-26T13:53:32+00:00"
-    },
-    {
-     "titolo": "Si tuffa per trovare il figlio, trovato il corpo del turista olandese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/si-tuffa-per-trovare-il-figlio-trovato-il-corpo-del-turista-olandese_9916372f-f41a-400d-91b1-a7a8b5b78f9f.html",
-     "data": "2026-07-26T13:41:35+00:00"
-    },
-    {
-     "titolo": "Fakir, il frame dalla bodycam del poliziotto. L'esclusiva al Tg1",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/fakir-esclusiva-al-tg1-il-frame-dalla-bodycam-del-poliziotto-_0608b35c-5ce3-4423-aef6-2fa59bf90cd4.html",
-     "data": "2026-07-26T14:39:17+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "La Russa, Meloni al Colle sarebbe una grande fortuna per l'Italia,dopo Mattarella",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/la-russa-meloni-al-colle-sarebbe-una-grande-fortuna-per-litaliadopo-mattarella_ce67f032-5123-49e5-91cc-98994caa05cf.html",
+     "data": "2026-07-26T16:48:08+00:00"
+    },
     {
      "titolo": "Il sindaco di Chiomonte: 'Violenze incomprensibili, ma i lavori accelerino'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/il-sindaco-di-chiomonte-violenze-incomprensibili-ma-i-lavori-accelerino_b80c9fdf-4698-45b3-aae7-06239550b166.html",
@@ -244,17 +249,17 @@
      "titolo": "Tajani, guerriglia inaccettabile, sinistra connivente da Bologna ai no Tav",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/tajani-guerriglia-inaccettabile-sinistra-connivente-da-bologna-ai-no-tav_da1ab4d1-477d-40f6-acc0-e0c4bbea1b8a.html",
      "data": "2026-07-25T18:47:48+00:00"
-    },
-    {
-     "titolo": "Mattarella chiama Piantedosi, grato e vicino ad agenti feriti",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/mattarella-chiama-piantedosi-grato-e-vicino-ad-agenti-feriti_1b4566a1-c763-498a-a6b1-6c42393a8419.html",
-     "data": "2026-07-25T18:42:59+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "LA SCHEDA Il progetto, i lavori e i tempi della Torino-Lione",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/26/la-scheda-il-progetto-i-lavori-e-i-tempi-della-torino-lione_a5041618-aa24-4a31-a548-3056fc574058.html",
+     "data": "2026-07-26T17:40:36+00:00"
+    },
     {
      "titolo": "Telt, 'prima stima di danni è 1 milione di euro solo a Chiomonte'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/26/telt-prima-stima-di-danni-e-1-milione-di-euro-solo-a-chiomonte_9458eeeb-6384-46f2-9576-41d26281d9b3.html",
@@ -279,22 +284,32 @@
      "titolo": "Nuovo stop ai treni fino al 30 luglio a Firenze, da oggi secondo round di lavori",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/26/nuovo-stop-ai-treni-fino-al-30-luglio-a-firenze-da-oggi-secondo-round-di-lavori_304d2647-2e2e-4681-93c3-db958076034f.html",
      "data": "2026-07-26T08:46:30+00:00"
-    },
-    {
-     "titolo": "A Milano la benzina vola oltre i 2,6 euro. 'A luglio e agosto stangata da 10,8 miliardi'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/a-milano-la-benzina-vola-oltre-i-26-euro.-a-luglio-e-agosto-stangata-da-108-miliardi_ee16d5cb-032b-4f8d-8b84-28c78c3f4ac0.html",
-     "data": "2026-07-25T17:31:44+00:00"
-    },
-    {
-     "titolo": "Varta presenta istanza fallimento al Tribunale di Stoccarda",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/varta-presenta-istanza-fallimento-al-tribunale-di-stoccarda_69dbdec9-1de1-4dbd-8431-98be93874912.html",
-     "data": "2026-07-25T17:13:27+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Polizia tedesca, 'il sospetto attentatore del Pride è stato ucciso'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/polizia-tedesca-il-sospetto-attentatore-del-pride-e-stato-ucciso_868f8432-1c4c-40c8-93b5-0a3623214f57.html",
+     "data": "2026-07-26T17:44:17+00:00"
+    },
+    {
+     "titolo": "Chi era Abdul Ballout, il giovane sospettato per l'attentato al Pride di Berlino",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/chi-era-abdul-ballout-il-giovane-sospettato-per-lattentato-al-pride-di-berlino_eb66a6ce-ce4e-4eac-803f-830d73a49b05.html",
+     "data": "2026-07-26T17:38:19+00:00"
+    },
+    {
+     "titolo": "Attacco sulla folla del Pride a Berlino, ucciso l'attentatore dopo uno scontro a fuoco con la polizia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/attacco-sulla-folla-del-pride-a-berlino-ucciso-lattentatore-dopo-uno_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
+     "data": "2026-07-26T17:47:09+00:00"
+    },
+    {
+     "titolo": "Media, 'polizia tedesca fa irruzione, l'attentatore è morto'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/media-polizia-tedesca-fa-irruzione-lattentatore-e-morto_12ff8c45-5a5f-4e5a-a667-cb9ce495fbef.html",
+     "data": "2026-07-26T17:20:44+00:00"
+    },
     {
      "titolo": "Marocco intitola a Trump superstrada per Sahara. Presidente Usa ringrazia",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/26/marocco-intitola-a-trump-superstrada-per-sahara.-presidente-usa-ringrazia_df591027-26c8-40a0-aa17-361447606ae5.html",
@@ -326,11 +341,6 @@
      "data": "2026-07-26T14:37:54+00:00"
     },
     {
-     "titolo": "Attacco a Berlino: ricercato un 21enne, arrestato un presunto complice. 'Non esclusi altri attacchi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/attacco-a-berlino-ricercato-un-21enne-arrestato-un-presunto-complice.-non-esclusi-altri_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
-     "data": "2026-07-26T15:47:46+00:00"
-    },
-    {
      "titolo": "L'accusa della Bbc: 'Bimbi italiani in sovrappeso, colpa di pizza, pasta e pane'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/laccusa-della-bbc-bimbi-italiani-in-sovrappeso-per-colpa-di-pizza-pasta_b0a36976-ef35-4d3f-8213-d364d6a11493.html",
      "data": "2026-07-26T14:28:44+00:00"
@@ -339,21 +349,6 @@
      "titolo": "Colombia, avanza il ricorso contro l'elezione di De la Espriella",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/26/colombia-avanza-il-ricorso-contro-lelezione-di-de-la-espriella_3625c10c-6228-4a91-95f8-8f8fc57d804e.html",
      "data": "2026-07-26T13:40:03+00:00"
-    },
-    {
-     "titolo": "Ministro Interno tedesco, 'attacco al Pride un attentato terroristico islamista'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/ministro-interno-tedesco-attacco-al-pride-un-attentato-terroristico-islamista_896f35d4-ee78-457d-83f2-f50c802c2452.html",
-     "data": "2026-07-26T12:33:57+00:00"
-    },
-    {
-     "titolo": "Attentato Berlino, 'il sospetto già condannato per piano contro lo Stato'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/attentato-berlino-il-sospetto-gia-condannato-per-piano-contro-lo-stato_be940def-6dd4-47ed-8b73-95f2297c2aab.html",
-     "data": "2026-07-26T12:23:04+00:00"
-    },
-    {
-     "titolo": "Chi è Abdul Ballout, il giovane ricercato per l'attentato al Pride di Berlino",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/chi-e-abdul-ballout-il-giovane-ricercato-per-lattentato-al-pride-di-berlino_eb66a6ce-ce4e-4eac-803f-830d73a49b05.html",
-     "data": "2026-07-26T12:17:35+00:00"
     }
    ]
   },
@@ -426,6 +421,56 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "La Roma solo pari con il Cannes, Dybala già in formato campionato",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/la-roma-solo-pari-con-il-cannes-dybala-gia-in-formato-campionato_2b7b7945-c478-4f02-bdb9-6421ef4d0067.html",
+     "data": "2026-07-26T17:45:57+00:00"
+    },
+    {
+     "titolo": "Amichevoli: Roma-Cannes 3-3, doppietta di Dybala",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/amichevoli-roma-cannes-3-3-doppietta-di-dybala_42633b61-4c34-4146-91b4-fa796b2c0412.html",
+     "data": "2026-07-26T17:43:05+00:00"
+    },
+    {
+     "titolo": "F1: Norris domina in Ungheria, Antonelli rafforza la leadership",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/26/f1-norris-domina-in-ungheria-antonelli-rafforza-la-leadership_f4342c93-f4b2-41a7-ab42-a47deb4b66f0.html",
+     "data": "2026-07-26T17:35:56+00:00"
+    },
+    {
+     "titolo": "Scherma, Di Veroli: 'A una stoccata dall'oro fa un po' male, ma orgoglioso dell'argento'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/26/scherma-di-veroli-a-una-stoccata-dalloro-fa-un-po-male-ma-orgoglioso-dellargento_3b0dafdb-0aa8-490b-8695-4745b4bcc246.html",
+     "data": "2026-07-26T17:25:29+00:00"
+    },
+    {
+     "titolo": "Brasile sconfitto 3-1, la Turchia di Santarelli vince la Nations League femminile",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/07/26/brasile-sconfitto-3-1-la-turchia-di-santarelli-vince-la-nations-league-femminile_9b115e19-8dfe-4a10-a893-ef36193c9fd0.html",
+     "data": "2026-07-26T17:21:51+00:00"
+    },
+    {
+     "titolo": "Doppietta Diouf, l'Inter vince rimontando nel finale il Karlsruher",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/doppietta-diouf-linter-vince-rimontando-nel-finale-il-karlsruher_fbe6b1c2-c6c0-4a25-a80d-ac13c9e73ce0.html",
+     "data": "2026-07-26T17:13:46+00:00"
+    },
+    {
+     "titolo": "Amichevoli: doppietta di Diouf, l'Inter vince rimontando nel finale il Karlsruher",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/amichevoli-doppietta-di-diouf-linter-vince-rimontando-nel-finale-il-karlsruher_4ccd4338-5701-4df8-a190-dc07df714afb.html",
+     "data": "2026-07-26T17:12:37+00:00"
+    },
+    {
+     "titolo": "Vannacci: 'Lo sponsor russi? La politica non si schieri contro Pirlo ct'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/26/vannacci-lo-sponsor-russi-la-politica-non-si-schieri-contro-pirlo-ct_890fdf40-2d16-4e97-be6a-41265eceff5b.html",
+     "data": "2026-07-26T17:04:32+00:00"
+    },
+    {
+     "titolo": "Hamilton: 'Non andava fatta l'ultima sosta, da parte mia troppi errori'",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/26/hamilton-non-andava-fatta-lultima-sosta-da-parte-mia-troppi-errori_6905914e-5b82-4fe0-ad09-6ad913427787.html",
+     "data": "2026-07-26T17:01:48+00:00"
+    },
+    {
+     "titolo": "De Laurentiis: 'Ovvio l'entusiasmo per Allegri, ha vinto sei scudetti'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/de-laurentiis-ovvio-lentusiasmo-per-allegri-ha-vinto-sei-scudetti_7ec57a57-c4ee-4812-869a-c8e71acbb0f9.html",
+     "data": "2026-07-26T17:06:06+00:00"
+    },
+    {
      "titolo": "Atalanta: rientrato anche Pasalic, mancano solo due nazionali",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/atalanta-rientrato-anche-pasalic-mancano-solo-due-nazionali_cadc8958-4ba9-41e4-86c3-b1d57b4a32bd.html",
      "data": "2026-07-26T16:38:11+00:00"
@@ -433,57 +478,7 @@
     {
      "titolo": "Ginnastica: assoluti artistica, nuova campionessa è la 18enne Jusy Marano",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/07/26/ginnastica-assoluti-artistica-nuova-campionessa-e-la-18enne-jusy-marano_d5ff2416-8ab7-4be5-b65d-15bcad21cb88.html",
-     "data": "2026-07-26T16:33:21+00:00"
-    },
-    {
-     "titolo": "Neymar segna una doppietta ed esulta contro le critiche",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/26/neymar-segna-una-doppietta-ed-esulta-contro-le-critiche_1eb41148-7d67-42f2-85c7-2af12ec4ce1a.html",
-     "data": "2026-07-26T16:29:44+00:00"
-    },
-    {
-     "titolo": "Scherma: Di Veroli 'a una stoccata dall'oro fa un po' male ma orgoglioso dell'argento'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/26/scherma-di-veroli-a-una-stoccata-dalloro-fa-un-po-male-ma-orgoglioso-dellargento_3b0dafdb-0aa8-490b-8695-4745b4bcc246.html",
-     "data": "2026-07-26T16:28:19+00:00"
-    },
-    {
-     "titolo": "Il Milan parte per l'Australia, c'è anche Gila",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/il-milan-parte-per-laustralia-ce-anche-gila_b3068117-026f-4c65-960c-78dc7cab999d.html",
-     "data": "2026-07-26T16:22:31+00:00"
-    },
-    {
-     "titolo": "Pugilato: 'Capri boxing night', la sfida Italia-Usa finisce in parità",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/26/pugilato-capri-boxing-night-la-sfida-italia-usa-finisce-in-parita_da4521cc-1aa3-40bb-8145-f453525a532c.html",
-     "data": "2026-07-26T16:12:05+00:00"
-    },
-    {
-     "titolo": "GP Ungheria, vince Norris davanti a Verstappen",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/26/gp-ungheria-vince-norris-davanti-a-verstappen_55a999ea-e2c3-474b-baaa-40b12e579f10.html",
-     "data": "2026-07-26T14:50:04+00:00"
-    },
-    {
-     "titolo": "F1, in Ungheria vince Norris davanti a Verstappen",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/26/f1-in-ungheria-vince-norris-davanti-a-verstappen_f4342c93-f4b2-41a7-ab42-a47deb4b66f0.html",
-     "data": "2026-07-26T16:35:33+00:00"
-    },
-    {
-     "titolo": "Brasile scinfitto 3-1, la Turchia di Santarelli vince la Nations League femminile",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/07/26/brasile-scinfitto-3-1-la-turchia-vince-la-nations-league-femminile_9b115e19-8dfe-4a10-a893-ef36193c9fd0.html",
-     "data": "2026-07-26T16:24:19+00:00"
-    },
-    {
-     "titolo": "La carica dei 100, da Lukaku a Frattesi quanti esuberi in serie A",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/26/ansala-carica-dei-100-da-lukaku-a-frattesi-quanti-esuberi-in-serie-a_e785f990-7d47-4f21-bd48-883ec74cc212.html",
-     "data": "2026-07-26T16:21:00+00:00"
-    },
-    {
-     "titolo": "Vannacci: 'Sponsor russi? La politica non si schieri contro Pirlo ct'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/26/vannacci-sponsor-russi-la-politica-non-si-schieri-contro-pirlo-ct_890fdf40-2d16-4e97-be6a-41265eceff5b.html",
-     "data": "2026-07-26T12:56:02+00:00"
-    },
-    {
-     "titolo": "Vannacci, 'sponsor russi? La politica non si schieri contro Pirlo ct'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/vannacci-sponsor-russi-la-politica-non-si-schieri-contro-pirlo-ct_2b8d91c5-7881-4a3e-b350-2d072bd2d86c.html",
-     "data": "2026-07-26T12:40:13+00:00"
+     "data": "2026-07-26T16:41:14+00:00"
     }
    ]
   }
