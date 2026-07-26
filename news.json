@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-26T12:34:38.754539+00:00",
+ "aggiornato": "2026-07-26T14:20:32.561760+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "L'accusa della Bbc, 'bimbi italiani in sovrappeso per colpa di pizza, pasta e pane'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/laccusa-della-bbc-bimbi-italiani-in-sovrappeso-per-colpa-di-pizza-pasta_bf9909de-5632-4d64-a078-583d9739a420.html",
+     "data": "2026-07-26T14:05:14+00:00"
+    },
+    {
+     "titolo": "Telt, 'prima stima di danni è 1 milione di euro solo a Chiomonte'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/telt-prima-stima-di-danni-e-1-milione-di-euro-solo-a-chiomonte_82f1eaf4-61a3-45f6-a661-de367ced9b35.html",
+     "data": "2026-07-26T13:53:32+00:00"
+    },
+    {
+     "titolo": "Ministro Interno tedesco, 'attacco al Pride un attentato terroristico islamista'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/ministro-interno-tedesco-attacco-al-pride-un-attentato-terroristico-islamista_a020b01b-442c-456b-9b52-6b692e7b2911.html",
+     "data": "2026-07-26T12:33:43+00:00"
+    },
     {
      "titolo": "Meloni, teatri condominiali gioielli storici, rendono unica l'identità italiana",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/meloni-teatri-condominiali-gioielli-storici-rendono-unica-lidentita-italiana_88f7c36c-1937-4eeb-b76c-8e7e84a9bfc6.html",
@@ -39,21 +54,6 @@
      "titolo": "Bild, secondo la polizia di Berlino attentatore Gay Pride è sostenitore dell'Isis",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/bild-secondo-la-polizia-di-berlino-attentatore-gay-pride-e-sostenitore-dellisis_7e8361d4-b38f-4e7f-8202-f74df5c005e9.html",
      "data": "2026-07-26T10:34:06+00:00"
-    },
-    {
-     "titolo": "Iran, stop agli attacchi di rappresaglia dopo che gli Usa hanno sospeso i raid",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/iran-stop-agli-attacchi-di-rappresaglia-dopo-che-gli-usa-hanno_8a3f714f-1c08-4664-affc-814f75a9820f.html",
-     "data": "2026-07-26T10:13:27+00:00"
-    },
-    {
-     "titolo": "Meloni, al fianco della Germania, Italia condanna odio ed estremismi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/meloni-al-fianco-della-germania-italia-condanna-odio-ed-estremismi_511bcc83-0554-4714-8a90-1fd04a6c410f.html",
-     "data": "2026-07-26T09:49:26+00:00"
-    },
-    {
-     "titolo": "I teatri condominiali riconosciuti patrimonio dell'umanità Unesco",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/i-teatri-condominiali-riconosciuti-patrimonio-dellumanita-unesco_77a67147-2f02-4e03-84e7-e78f0b88c5cf.html",
-     "data": "2026-07-26T08:36:19+00:00"
     }
    ]
   },
@@ -126,6 +126,31 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Telt, 'prima stima di danni è 1 milione di euro solo a Chiomonte'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/telt-prima-stima-di-danni-e-1-milione-di-euro-solo-a-chiomonte_1b16de1c-c346-4463-8158-dea70c690fab.html",
+     "data": "2026-07-26T13:53:32+00:00"
+    },
+    {
+     "titolo": "Si tuffa per trovare il figlio, trovato il corpo del turista olandese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/si-tuffa-per-trovare-il-figlio-trovato-il-corpo-del-turista-olandese_9916372f-f41a-400d-91b1-a7a8b5b78f9f.html",
+     "data": "2026-07-26T13:41:35+00:00"
+    },
+    {
+     "titolo": "Fakir: esclusiva al Tg1, il frame dalla bodycam del poliziotto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/fakir-esclusiva-al-tg1-il-frame-dalla-bodycam-del-poliziotto-_0608b35c-5ce3-4423-aef6-2fa59bf90cd4.html",
+     "data": "2026-07-26T13:55:48+00:00"
+    },
+    {
+     "titolo": "Incendio sul Gargano, turisti evacuati sulle barche della guardia costiera",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/incendio-sul-gargano-turisti-evacuati-sulle-barche-guardia-costiera_f1e930ad-79df-413b-b658-5f1f6850fb1c.html",
+     "data": "2026-07-26T14:07:21+00:00"
+    },
+    {
+     "titolo": "Osteria con bandiera palestinese, clienti con ospiti israeliani disdicono la prenotazione",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/osteria-con-bandiera-palestinese-clienti-con-ospiti-israeliani-disdicono_cefc3f65-66ef-4d31-8ec3-7b5460296522.html",
+     "data": "2026-07-26T13:39:13+00:00"
+    },
+    {
      "titolo": "Incendio nel carcere di Viterbo, un detenuto si è impiccato nella notte",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/incendio-nel-carcere-di-viterbo-un-detenuto-si-e-impiccato-in-cella-nella-notte_304f42c1-4dc9-4cdf-a00b-699311b1e9a9.html",
      "data": "2026-07-26T11:14:56+00:00"
@@ -156,40 +181,20 @@
      "data": "2026-07-26T09:58:00+00:00"
     },
     {
-     "titolo": "Scontri No Tav: 450 identificati, più di un centinaio di feriti tra le forze dell'ordine",
+     "titolo": "Scontri No Tav, Telt: 'La prima stima dei danni è di 1 milione di euro solo a Chiomonte'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/guerriglia-no-tav-in-centinaia-assaltano-i-cantieri.-oltre-un-centinaio-di-feriti-tra-le-forze_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
-     "data": "2026-07-26T11:53:41+00:00"
-    },
-    {
-     "titolo": "Maltempo, oggi temporali intensi. In Toscana, salvata una coppia bloccata in auto dall'acqua",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/maltempo-oggi-temporali-intensi.-in-toscana-salvata-una-coppia-bloccata-in-auto_bb2e835a-d54a-4472-bac6-ba79da02c859.html",
-     "data": "2026-07-26T11:57:17+00:00"
-    },
-    {
-     "titolo": "La gip del caso Resinovich 'in prestito' a Gorizia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/la-gip-del-caso-resinovich-in-prestito-a-gorizia_a2548011-3557-434b-92a9-fe0822489edf.html",
-     "data": "2026-07-26T09:40:02+00:00"
-    },
-    {
-     "titolo": "Scontri No Tav, oltre un centinaio di feriti tra le forze dell'ordine",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/scontri-no-tav-oltre-un-centinaio-di-feriti-tra-le-forze-dellordine_707976f1-9ec2-4ffe-b9a1-c85685ed8378.html",
-     "data": "2026-07-26T09:13:41+00:00"
-    },
-    {
-     "titolo": "Torna a vedere con autotrapianto segmento anteriore occhio e parte retina",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/torna-a-vedere-con-autotrapianto-segmento-anteriore-occhio-e-parte-retina_ac859fb1-9717-489d-83ac-04e7d361b5fc.html",
-     "data": "2026-07-26T09:01:51+00:00"
-    },
-    {
-     "titolo": "Si tuffa per salvare il figlio nel lago di Como, proseguono le ricerche",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/si-tuffa-per-salvare-il-figlio-nel-lago-di-como-proseguono-le-ricerche_7d8af35c-8584-445b-ade3-bfb82417a215.html",
-     "data": "2026-07-26T08:58:01+00:00"
+     "data": "2026-07-26T13:54:04+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Bonelli: 'Musumeci e Pichetto Fratin si sveglino. L'Italia ha smantellato la prevenzione e adesso brucia'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/bonelli-musumeci-e-pichetto-fratin-si-sveglino.-litalia-ha-smantellato-la-prevenzione-e-adesso-brucia_46008dac-c50c-4ff0-8721-06f2d217758b.html",
+     "data": "2026-07-26T14:06:18+00:00"
+    },
     {
      "titolo": "Meloni, teatri condominiali gioielli storici, rendono unica l'identità italiana",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/meloni-teatri-condominiali-gioielli-storici-rendono-unica-lidentita-italiana_87707b1e-c030-46bb-ab20-663c27791570.html",
@@ -206,9 +211,9 @@
      "data": "2026-07-26T09:49:29+00:00"
     },
     {
-     "titolo": "Meloni: 'Solidarietà per le drammatiche notizie da Berlino', Salvini e Vannacci all'attacco",
+     "titolo": "Meloni: 'Solidarietà a Berlino', Salvini e Vannacci all'attacco",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/salvini-il-fanatismo-islamico-e-il-problema-stop-spazi-a-islam-senza-accordi_4e9d6895-1c19-491e-92c9-965b7b5b4a3a.html",
-     "data": "2026-07-26T12:19:32+00:00"
+     "data": "2026-07-26T12:55:50+00:00"
     },
     {
      "titolo": "Il Papa ai giovani, attenti ai social, proiettano in un mondo irreale",
@@ -244,17 +249,17 @@
      "titolo": "Le violenze No Tav riaccendono lo scontro politico, destra all'attacco",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/le-violenze-no-tav-riaccendono-lo-scontro-politico-destra-allattacco_bd9e109d-185b-4d72-99bf-5d7f868c2f96.html",
      "data": "2026-07-25T18:44:40+00:00"
-    },
-    {
-     "titolo": "Ricorso del ministero contro lo sconto di pena ad Alemanno, Nordio lo revoca",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/25/ricorso-del-ministero-contro-lo-sconto-di-pena-ad-alemanno-nordio-lo-revoca_429598cd-0ff0-465c-9b68-11a9e54f13ef.html",
-     "data": "2026-07-25T17:30:18+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Telt, 'prima stima di danni è 1 milione di euro solo a Chiomonte'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/26/telt-prima-stima-di-danni-e-1-milione-di-euro-solo-a-chiomonte_9458eeeb-6384-46f2-9576-41d26281d9b3.html",
+     "data": "2026-07-26T13:53:53+00:00"
+    },
     {
      "titolo": "Danni ai cantieri Tav, non ci sono operai feriti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/26/danni-ai-cantieri-tav-non-ci-sono-operai-feriti_f67d5f23-f683-4aaf-917d-c6493daff123.html",
@@ -263,12 +268,12 @@
     {
      "titolo": "Dal 31 luglio nuovi obblighi per i produttori, arriva il diritto alla riparazione",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/26/dal-31-luglio-nuovi-obblighi-per-i-produttori-arriva-il-diritto-alla-riparazione_c9baa048-1c1f-40cb-83a0-52ae542b90be.html",
-     "data": "2026-07-26T09:13:48+00:00"
+     "data": "2026-07-26T14:11:06+00:00"
     },
     {
      "titolo": "Bankitalia, chi si aspetta un'eredità spende di più e risparmia di meno",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/26/bankitalia-chi-si-aspetta-uneredita-spende-di-piu-e-risparmia-di-meno_e5c6e738-dadd-4284-89d6-2b82afb44d9a.html",
-     "data": "2026-07-26T09:10:21+00:00"
+     "data": "2026-07-26T14:10:29+00:00"
     },
     {
      "titolo": "Nuovo stop ai treni fino al 30 luglio a Firenze, da oggi secondo round di lavori",
@@ -284,27 +289,32 @@
      "titolo": "Varta presenta istanza fallimento al Tribunale di Stoccarda",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/varta-presenta-istanza-fallimento-al-tribunale-di-stoccarda_69dbdec9-1de1-4dbd-8431-98be93874912.html",
      "data": "2026-07-25T17:13:27+00:00"
-    },
-    {
-     "titolo": "Unimpresa, riparte il credito, in un anno +33 miliardi a famiglie e imprese",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/unimpresa-riparte-il-credito-in-un-anno-33-miliardi-a-famiglie-e-imprese_dc312ae8-d0ae-48ad-b99a-33a1814ce166.html",
-     "data": "2026-07-25T12:00:59+00:00"
-    },
-    {
-     "titolo": "Nomine, non solo le big, ancora oltre 60 poltrone da rinnovare",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/nomine-ancora-oltre-60-poltrone-da-rinnovare-si-parte-da-sogin_91352634-9c82-430d-a496-610c0b7321a2.html",
-     "data": "2026-07-25T17:10:27+00:00"
-    },
-    {
-     "titolo": "Il gas sui massimi dall'agosto del 2022, scorte Italia oltre il 73%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/il-gas-sui-massimi-dallagosto-del-2022-scorte-italia-oltre-il-73_f4274c95-f0e9-4703-b2b7-8596198374c8.html",
-     "data": "2026-07-25T11:09:09+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "L'accusa della Bbc, 'bimbi italiani in sovrappeso per colpa di pizza, pasta e pane'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/laccusa-della-bbc-bimbi-italiani-in-sovrappeso-per-colpa-di-pizza-pasta_b0a36976-ef35-4d3f-8213-d364d6a11493.html",
+     "data": "2026-07-26T14:05:11+00:00"
+    },
+    {
+     "titolo": "Colombia, avanza il ricorso contro l'elezione di De la Espriella",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/26/colombia-avanza-il-ricorso-contro-lelezione-di-de-la-espriella_3625c10c-6228-4a91-95f8-8f8fc57d804e.html",
+     "data": "2026-07-26T13:40:03+00:00"
+    },
+    {
+     "titolo": "Furgone contro la folla al Pride di Berlino, un morto e 29 feriti. Ricercato un 21enne, un altro uomo già arrestato",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/furgone-contro-la-folla-al-pride-di-berlino-un-morto-e-29-feriti.-ricercato-un-21enne-un-altro_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
+     "data": "2026-07-26T14:15:36+00:00"
+    },
+    {
+     "titolo": "Ministro Interno tedesco, 'attacco al Pride un attentato terroristico islamista'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/ministro-interno-tedesco-attacco-al-pride-un-attentato-terroristico-islamista_896f35d4-ee78-457d-83f2-f50c802c2452.html",
+     "data": "2026-07-26T12:33:57+00:00"
+    },
     {
      "titolo": "Attentato Berlino, 'il sospetto già condannato per piano contro lo Stato'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/attentato-berlino-il-sospetto-gia-condannato-per-piano-contro-lo-stato_be940def-6dd4-47ed-8b73-95f2297c2aab.html",
@@ -344,26 +354,6 @@
      "titolo": "Usa, la missione bloccata in Brasile 'non voleva interferire nelle elezioni'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/26/usa-la-missione-bloccata-in-brasile-non-voleva-interferire-nelle-elezioni_2b31e2e3-9978-4263-a445-42218147a092.html",
      "data": "2026-07-26T11:39:41+00:00"
-    },
-    {
-     "titolo": "Màxima d'Olanda prima regina al mondo a inaugurare un Pride Lgbtqia+",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/maxima-dolanda-prima-regina-al-mondo-a-inaugurare-un-pride-lgbtqia_6da4d9e7-430e-43c5-a59d-15201a64d7d6.html",
-     "data": "2026-07-26T11:37:23+00:00"
-    },
-    {
-     "titolo": "Netanyahu, 'pronti ad agire in modo più vasto contro covi terroristi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/26/netanyahu-pronti-ad-agire-in-modo-piu-vasto-contro-covi-terroristi_512725e9-7eb5-403f-b127-e751d1124a3b.html",
-     "data": "2026-07-26T11:26:27+00:00"
-    },
-    {
-     "titolo": "Le spiagge della Normandia del D-Day iscritte nel patrimonio Unesco",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/le-spiagge-della-normandia-del-d-day-iscritte-nel-patrimonio-unesco_f65e0e64-76b1-4cf4-b4bd-e98f377c6498.html",
-     "data": "2026-07-26T11:24:29+00:00"
-    },
-    {
-     "titolo": "Bild, secondo la polizia di Berlino attentatore Gay Pride è sostenitore dell'Isis",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/bild-secondo-la-polizia-di-berlino-attentatore-gay-pride-e-sostenitore-dellisis_b4e42a0a-f168-437f-a259-713ee1ddc05e.html",
-     "data": "2026-07-26T10:34:04+00:00"
     }
    ]
   },
@@ -436,6 +426,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Brasile scinfitto 3-1, la Turchia vince la Nations League femminile",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/07/26/brasile-scinfitto-3-1-la-turchia-vince-la-nations-league-femminile_9b115e19-8dfe-4a10-a893-ef36193c9fd0.html",
+     "data": "2026-07-26T14:17:00+00:00"
+    },
+    {
+     "titolo": "Vannacci: 'Sponsor russi? La politica non si schieri contro Pirlo ct'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/26/vannacci-sponsor-russi-la-politica-non-si-schieri-contro-pirlo-ct_890fdf40-2d16-4e97-be6a-41265eceff5b.html",
+     "data": "2026-07-26T12:56:02+00:00"
+    },
+    {
+     "titolo": "Vannacci, 'sponsor russi? La politica non si schieri contro Pirlo ct'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/vannacci-sponsor-russi-la-politica-non-si-schieri-contro-pirlo-ct_2b8d91c5-7881-4a3e-b350-2d072bd2d86c.html",
+     "data": "2026-07-26T12:40:13+00:00"
+    },
+    {
      "titolo": "Standard Liegi-Juventus: Miretti sblocca il risultato, vittoria per 1-0 nel test",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/standard-liegi-juventus-miretti-sblocca-il-risultato-vittoria-per-1-0-nel-test_5bf7cc7b-4999-4336-8d4c-993737657d0f.html",
      "data": "2026-07-26T12:27:26+00:00"
@@ -479,21 +484,6 @@
      "titolo": "Calcio: frenata all'iter sulla convezione per lo stadio Barbera",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/calcio-frenata-alliter-sulla-convezione-per-lo-stadio-barbera_ac8b0483-8a8b-410d-b4da-c5da4b34b458.html",
      "data": "2026-07-26T08:53:07+00:00"
-    },
-    {
-     "titolo": "Milan: per Gila risentimento muscolare, escluse lesioni",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/milan-per-gila-risentimento-muscolare-escluse-lesioni_89e0def0-7649-430b-b90b-c60d034abc09.html",
-     "data": "2026-07-26T08:37:23+00:00"
-    },
-    {
-     "titolo": "Nasce un club di tifosi del Venezia calcio nel carcere lagunare",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/nasce-un-club-di-tifosi-del-venezia-calcio-nel-carcere-lagunare_594380ef-ebbb-4e03-bbf8-ce1a41558a44.html",
-     "data": "2026-07-26T08:33:24+00:00"
-    },
-    {
-     "titolo": "Pugilato: Joshua torna su ring e si commuove per gli amici morti in incidente con lui",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/26/pugilato-joshua-torna-su-ring-e-si-commuove-per-gli-amici-morti-in-incidente_9786dfcc-0840-4694-acfc-01d1f238cfe4.html",
-     "data": "2026-07-26T08:32:05+00:00"
     }
    ]
   }
