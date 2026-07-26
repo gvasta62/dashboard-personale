@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-07-25T06:09:48.755903+00:00",
- "data": "2026-07-25",
- "testo": "Cielo di lavagna\ngocce sui panni stesi\ntra due terrazze",
- "nota": "Bucato appeso tra le case sotto un cielo coperto d'estate.",
+ "aggiornato": "2026-07-26T06:29:21.878442+00:00",
+ "data": "2026-07-26",
+ "testo": "Scroscio sull'acciottolato\ngrondaie che traboccano\nodore di terra",
+ "nota": "Il temporale lava le pietre della città e libera il profumo del suolo bagnato.",
  "archivio": [
+  {
+   "data": "2026-07-26",
+   "testo": "Scroscio sull'acciottolato\ngrondaie che traboccano\nodore di terra",
+   "nota": "Il temporale lava le pietre della città e libera il profumo del suolo bagnato."
+  },
   {
    "data": "2026-07-25",
    "testo": "Cielo di lavagna\ngocce sui panni stesi\ntra due terrazze",
