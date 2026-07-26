@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-26T20:01:40.585491+00:00",
+ "aggiornato": "2026-07-26T21:15:32.552934+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "'Oltre 400 militari Usa trasferiti per cure mediche da inizio guerra all'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/oltre-400-militari-usa-trasferiti-per-cure-mediche-da-inizio-guerra_84e1738c-204a-4470-bdab-c2ae183e6712.html",
+     "data": "2026-07-26T20:33:03+00:00"
+    },
     {
      "titolo": "Putin, 'l'operazione militare in Ucraina finirà con la nostra vittoria'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/putin-loperazione-militare-in-ucraina-finira-con-la-nostra-vittoria_a94776b2-c4a5-4380-b402-b09c6f5bf599.html",
@@ -49,11 +54,6 @@
      "titolo": "Media, 'Teheran è disponibile a proseguire i negoziati'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/media-teheran-e-disponibile-a-proseguire-i-negoziati_67940738-cb43-4b54-af1d-6d61a4428115.html",
      "data": "2026-07-26T14:40:03+00:00"
-    },
-    {
-     "titolo": "Polizia Berlino, non è ancora chiaro se l'attentatore avesse complici",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/polizia-berlino-non-e-ancora-chiaro-se-lattentatore-avesse-complici_fce16641-64bd-4df5-a828-e1db8d647a69.html",
-     "data": "2026-07-26T14:37:35+00:00"
     }
    ]
   },
@@ -133,7 +133,7 @@
     {
      "titolo": "Agente spara e lo ferisce, aveva tentato di accoltellare i vigili due volte",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/agente-spara-e-lo-ferisce-aveva-tentato-di-accoltellare-i-vigili-due-volte_6403b55a-1f40-4211-8673-46e93efc5e88.html",
-     "data": "2026-07-26T19:37:15+00:00"
+     "data": "2026-07-26T20:48:23+00:00"
     },
     {
      "titolo": "Incendi sul Gargano e in Molise: evacuate spiagge e campeggi",
@@ -286,6 +286,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "'Oltre 400 militari Usa trasferiti per cure mediche da inizio guerra all'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/26/oltre-400-militari-usa-trasferiti-per-cure-mediche-da-inizio-guerra_6f7ce2c9-dc45-425b-b968-640377392526.html",
+     "data": "2026-07-26T20:33:06+00:00"
+    },
+    {
+     "titolo": "'Oltre 400 militari Usa trasferiti per cure mediche da inizio guerra all'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/26/oltre-400-militari-usa-trasferiti-per-cure-mediche-da-inizio-guerra_6e4f0f9b-d9f9-4ba7-9eaa-05d53b95595a.html",
+     "data": "2026-07-26T20:33:09+00:00"
+    },
+    {
      "titolo": "Ucciso dalla polizia l'attentatore del Pride a Berlino, 'sosteneva l'Isis'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/ucciso-dalla-polizia-lattentatore-del-pride-a-berlino-sosteneva-lisis_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
      "data": "2026-07-26T18:50:51+00:00"
@@ -334,16 +344,6 @@
      "titolo": "Marocco intitola a Trump superstrada per Sahara. Presidente Usa ringrazia",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/26/marocco-intitola-a-trump-superstrada-per-sahara.-presidente-usa-ringrazia_2b4e04ba-7670-427d-a1e8-cea1dcc6c6bd.html",
      "data": "2026-07-26T16:12:37+00:00"
-    },
-    {
-     "titolo": "Lula al Washington Post, 'non accettiamo pressioni politiche dagli Usa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/26/lula-al-washington-post-non-accettiamo-pressioni-politiche-dagli-usa_db7dacd9-9607-4756-a53f-0c490d006c6c.html",
-     "data": "2026-07-26T15:04:06+00:00"
-    },
-    {
-     "titolo": "Diaz-Canel, 'contro Cuba un genocidio freddamente pianificato dagli Usa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/26/diaz-canel-contro-cuba-un-genocidio-freddamente-pianificato-dagli-usa_42309c9e-09bf-418f-8e93-589246788a22.html",
-     "data": "2026-07-26T14:43:06+00:00"
     }
    ]
   },
@@ -416,9 +416,24 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Atletica: Pernici, proposta di matrimonio dopo il titolo italiano degli 800",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/26/atletica-pernici-proposta-di-matrimonio-dopo-il-titolo-italiano-degli-800_eba7f505-e219-4551-a55c-96ba6f73f3c5.html",
-     "data": "2026-07-26T19:28:31+00:00"
+     "titolo": "Atletica: Sioli batte Tamberi agli Assoluti, bis di Battocletti nei 1500",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/26/atletica-sioli-batte-tamberi-agli-assoluti-bis-di-battocletti-nei-1500_e0f1708b-b700-4c06-b539-071058a3e02a.html",
+     "data": "2026-07-26T20:46:17+00:00"
+    },
+    {
+     "titolo": "Il recordman degli 800, Pernici, alla fidanzata dopo il titolo italiano: 'Mi vuoi sposare?'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/26/il-recordman-degli-800-pernici-alla-fidanzata-dopo-il-titolo-italiano-mi-vuoi_eba7f505-e219-4551-a55c-96ba6f73f3c5.html",
+     "data": "2026-07-26T21:09:13+00:00"
+    },
+    {
+     "titolo": "L'Atalanta batte l'Arezzo 3-2 in rimonta a Zingonia",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/latalanta-batte-larezzo-3-2-in-rimonta-a-zingonia_cadc8958-4ba9-41e4-86c3-b1d57b4a32bd.html",
+     "data": "2026-07-26T20:26:17+00:00"
+    },
+    {
+     "titolo": "L'Atalanta batte l'Arezzo 3-2 in rimonta nell'amichevole a Zingonia",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/latalanta-batte-larezzo-3-2-in-rimonta-nellamichevole-a-zingonia_5e4b48e6-ee67-444e-8aa3-b6e4ca2acb13.html",
+     "data": "2026-07-26T20:02:19+00:00"
     },
     {
      "titolo": "Sul ct è ancora stallo: Maldini si lega a Pirlo, i tormenti di Malagò",
@@ -459,21 +474,6 @@
      "titolo": "La Roma solo pari con il Cannes, Dybala già in formato campionato",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/la-roma-solo-pari-con-il-cannes-dybala-gia-in-formato-campionato_2b7b7945-c478-4f02-bdb9-6421ef4d0067.html",
      "data": "2026-07-26T17:45:57+00:00"
-    },
-    {
-     "titolo": "Amichevoli: Roma-Cannes 3-3, doppietta di Dybala",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/amichevoli-roma-cannes-3-3-doppietta-di-dybala_42633b61-4c34-4146-91b4-fa796b2c0412.html",
-     "data": "2026-07-26T17:43:05+00:00"
-    },
-    {
-     "titolo": "F1: Norris domina in Ungheria, Antonelli rafforza la leadership",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/26/f1-norris-domina-in-ungheria-antonelli-rafforza-la-leadership_f4342c93-f4b2-41a7-ab42-a47deb4b66f0.html",
-     "data": "2026-07-26T18:42:24+00:00"
-    },
-    {
-     "titolo": "Scherma, Di Veroli: 'A una stoccata dall'oro fa un po' male, ma orgoglioso dell'argento'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/26/scherma-di-veroli-a-una-stoccata-dalloro-fa-un-po-male-ma-orgoglioso-dellargento_3b0dafdb-0aa8-490b-8695-4745b4bcc246.html",
-     "data": "2026-07-26T17:25:29+00:00"
     }
    ]
   }
