@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-27T18:16:40.173728+00:00",
+ "aggiornato": "2026-07-27T20:00:35.349957+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Telt, 'A Chiomonte il peggior attacco ai cantieri Tav dal 2011'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/telt-a-chiomonte-il-peggior-attacco-ai-cantieri-tav-dal-2011_8bff9d1f-f208-401b-aa70-edc8cfdfcc75.html",
+     "data": "2026-07-27T19:07:24+00:00"
+    },
+    {
+     "titolo": "Macron, l'incendio nelle Lande 'è sotto controllo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/macron-lincendio-nelle-lande-e-sotto-controllo_8229258c-5016-420f-90df-cdd71f33a254.html",
+     "data": "2026-07-27T18:55:23+00:00"
+    },
     {
      "titolo": "Meloni, il taglio sul gasolio non risolve il problema ma è tempestivo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/meloni-il-taglio-sul-gasolio-non-risolve-il-problema-ma-e-tempestivo_5f101b32-ba9d-4533-b737-a4799d3bf9d1.html",
@@ -44,16 +54,6 @@
      "titolo": "Borsa: Milano chiude in rialzo, Ftse Mib +0,49%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/borsa-milano-chiude-in-rialzo-ftse-mib-049_d378c869-1eb9-4606-8972-0ee992535bef.html",
      "data": "2026-07-27T15:47:47+00:00"
-    },
-    {
-     "titolo": "Queen Budapest, il leggendario live dei Queen del 1986, al cinema dal 7 ottobre",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/queen-budapest-il-leggendario-live-dei-queen-del-1986-al-cinema-dal_55a8b600-5a78-4745-b7c7-ebfd249f8143.html",
-     "data": "2026-07-27T15:46:19+00:00"
-    },
-    {
-     "titolo": "Telt, 'A Chiomonte il peggior attacco ai cantieri Tav dal 2011'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/telt-a-chiomonte-il-peggior-attacco-ai-cantieri-tav-dal-2011_8bff9d1f-f208-401b-aa70-edc8cfdfcc75.html",
-     "data": "2026-07-27T15:40:28+00:00"
     }
    ]
   },
@@ -126,19 +126,24 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "I No Tav: 'Siamo tutti responsabili per Chiomonte'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/i-no-tav-siamo-tutti-responsabili-per-chiomonte_3d63de39-5ae3-40ba-a63c-b35e2a104e1e.html",
+     "data": "2026-07-27T18:54:28+00:00"
+    },
+    {
      "titolo": "25enne morto a Cosenza, madre 'lo hanno lasciato saltare nel vuoto'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/25enne-morto-a-cosenza-madre-lo-hanno-lasciato-saltare-nel-vuoto_c30dffbe-1c8d-4571-bf63-d330eefabbbd.html",
      "data": "2026-07-27T17:56:33+00:00"
     },
     {
-     "titolo": "Nel cantiere devastato, 'il peggior attacco dal 2011'",
+     "titolo": "Nel cantiere devastato, 'A Chiomonte il peggior attacco dal 2011'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/nel-cantiere-devastato-il-peggior-attacco-dal-2011_3730cc79-7307-41a1-98a2-2a5a3d3291d4.html",
-     "data": "2026-07-27T17:53:42+00:00"
+     "data": "2026-07-27T18:55:59+00:00"
     },
     {
      "titolo": "Odissea di 150 turisti a Palma di Maiorca, 'bloccati in aeroporto per 18 ore'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/odissea-di-150-turisti-a-palma-di-maiorca-bloccati-in-aeroporto-per-18-ore_a53582d0-c34e-4a57-ad9d-6b5e08e99e49.html",
-     "data": "2026-07-27T17:40:52+00:00"
+     "data": "2026-07-27T18:34:02+00:00"
     },
     {
      "titolo": "Gli eredi dei Black Bloc che si sono presi la Val di Susa dei No Tav",
@@ -148,17 +153,17 @@
     {
      "titolo": "Telt, 'i danni al cantiere di Chiomonte potrebbero superare il milione'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/telt-i-danni-al-cantiere-di-chiomonte-potrebbero-superare-il-milione_eb8b888e-acf9-4d26-a50f-656d933c22cc.html",
-     "data": "2026-07-27T16:27:58+00:00"
+     "data": "2026-07-27T18:35:31+00:00"
     },
     {
      "titolo": "Telt, 'A Chiomonte il peggior attacco ai cantieri Tav dal 2011'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/telt-a-chiomonte-il-peggior-attacco-ai-cantieri-tav-dal-2011_2a55c96f-bd12-4175-8b24-878dc487ed2c.html",
-     "data": "2026-07-27T15:53:12+00:00"
+     "data": "2026-07-27T18:35:33+00:00"
     },
     {
-     "titolo": "Meloni in Val di Susa: 'Violenza organizzata'. I No-Tav: 'Siamo tutti responsabili'",
+     "titolo": "Meloni nei cantieri Tav, ' i magistrati facciano il massimo'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/guerriglia-no-tav-meloni-in-val-di-susa-violenza-organizzata.-i-no-tav-siamo-tutti_6aeee38f-44bd-40ef-afaf-9b3a940a47ca.html",
-     "data": "2026-07-27T17:50:41+00:00"
+     "data": "2026-07-27T19:11:25+00:00"
     },
     {
      "titolo": "Fissore (No Tav), 'la divisione tra valligiani e black bloc è falsa'",
@@ -179,17 +184,17 @@
      "titolo": "Anomalia termica in quota, domani forti temporali sulla Sicilia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/anomalia-termica-in-quota-domani-forti-temporali-sulla-sicilia_e7010a36-fa81-4ee6-a7dd-7bc4f20c2591.html",
      "data": "2026-07-27T14:14:08+00:00"
-    },
-    {
-     "titolo": "Fermati 4 antagonisti stranieri, altri 800 No Tav identificati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/oltre-800-identificati-alluscita-dal-festival-no-tav-fermati-quattro-antagonisti_52a3db6a-eac8-4e14-b8f1-748da1a77536.html",
-     "data": "2026-07-27T17:50:20+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Val Susa, Schlein-Conte condannano ma è scontro con il governo: 'Strumentalizza'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/val-susa-schlein-conte-condannano-ma-e-scontro-con-il-governo-strumentalizza_b78bd2fd-044a-486d-9717-08798145e23f.html",
+     "data": "2026-07-27T18:19:25+00:00"
+    },
     {
      "titolo": "Meloni, il taglio sul gasolio non risolve il problema ma è tempestivo",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/meloni-il-taglio-sul-gasolio-non-risolve-il-problema-ma-e-tempestivo_83fae40e-2e71-494e-97f0-96be9fcea5e2.html",
@@ -198,7 +203,7 @@
     {
      "titolo": "Telt, 'A Chiomonte il peggior attacco ai cantieri Tav dal 2011'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/telt-a-chiomonte-il-peggior-attacco-ai-cantieri-tav-dal-2011_720b925a-fc25-4c0c-b105-3582769d5c99.html",
-     "data": "2026-07-27T15:40:30+00:00"
+     "data": "2026-07-27T19:03:24+00:00"
     },
     {
      "titolo": "Meloni: 'Schlein sul caso Ranucci gettò ombra sul governo, chieda scusa'",
@@ -244,11 +249,6 @@
      "titolo": "Cirio, 'ho sentito Meloni, Piemonte sarà parte civile sugli scontri'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/cirio-ho-sentito-meloni-prima-del-suo-arrivo-a-torino_737c6a22-b4ae-4208-a3f4-5d1316a1ad11.html",
      "data": "2026-07-27T13:52:43+00:00"
-    },
-    {
-     "titolo": "Il vescovo di Ascoli a Pastasciutta, 'antifascismo è patrimonio condiviso'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/il-vescovo-di-ascoli-a-pastasciutta-antifascismo-e-patrimonio-condiviso_13f604a6-3e63-4e1c-8d2f-a518b47d0fe7.html",
-     "data": "2026-07-27T09:52:39+00:00"
     }
    ]
   },
@@ -283,12 +283,12 @@
     {
      "titolo": "Telt, 'i danni al cantiere di Chiomonte potrebbero superare il milione'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/telt-i-danni-al-cantiere-di-chiomonte-potrebbero-superare-il-milione_b76057b6-8de3-441e-b7a1-b142768f11b8.html",
-     "data": "2026-07-27T16:27:46+00:00"
+     "data": "2026-07-27T18:34:19+00:00"
     },
     {
-     "titolo": "Giorgetti: 'Sconto solo sul diesel, 17 centesimi al litro fino al 6 agosto",
+     "titolo": "Sul diesel sconto da 17 cent fino al 6 agosto, Fi-Lega contro aumento tabacchi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/giorgetti-sconto-solo-sul-diesel-17-centesimi-al-litro_9c8411bb-583f-407e-a372-27214add207a.html",
-     "data": "2026-07-27T18:09:47+00:00"
+     "data": "2026-07-27T18:34:38+00:00"
     },
     {
      "titolo": "Giorgetti, sconto solo sul gasolio per 17 centesimi al litro",
@@ -320,6 +320,21 @@
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Haiti al voto il 13 dicembre, prima volta dal 2016",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/haiti-al-voto-il-13-dicembre-prima-volta-dal-2016_2e02bc1c-90fd-472f-85bf-1116be4e77e3.html",
+     "data": "2026-07-27T19:33:44+00:00"
+    },
+    {
+     "titolo": "Macron, l'incendio nelle Lande 'è sotto controllo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/27/macron-lincendio-nelle-lande-e-sotto-controllo_f6ff8105-3c3f-4b58-b155-793857c30a98.html",
+     "data": "2026-07-27T18:55:36+00:00"
+    },
+    {
+     "titolo": "Keiko Fujimori rivela nomine chiave del suo futuro governo in Perù",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/keiko-fujimori-rivela-nomine-chiave-del-suo-futuro-governo-in-peru_121ad58b-f89f-4ac0-a6a6-77ea7a39c584.html",
+     "data": "2026-07-27T18:39:40+00:00"
+    },
     {
      "titolo": "Le truppe Usa si ritirano dal Venezuela, conclusa missione umanitaria post terremoto",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/le-truppe-usa-si-ritirano-dal-venezuela-conclusa-missione-umanitaria-post-terremoto_809fc3c5-5063-4564-811b-dca829c3c775.html",
@@ -364,21 +379,6 @@
      "titolo": "Trump, sospesi i raid all'Iran per dare una chance ma pronto a forte azione",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/27/trump-sospesi-i-raid-alliran-per-dare-una-chance-ma-pronto-a-forte_ae4977d1-5ef1-4876-98ba-cb9f39c6095e.html",
      "data": "2026-07-27T15:28:44+00:00"
-    },
-    {
-     "titolo": "Georgieva (Fmi) in Argentina, in agenda incontro con Milei e visita a Vaca Muerta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/georgieva-fmi-in-argentina-in-agenda-incontro-con-milei-e-visita-a-vaca-muerta_0aeca59b-55c7-47e6-81ad-6aa6dec9948b.html",
-     "data": "2026-07-27T15:25:38+00:00"
-    },
-    {
-     "titolo": "Il Cile contro i dazi imposti dagli Usa, 'minano il rapporto bilaterale'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/il-cile-contro-i-dazi-imposti-dagli-usa-minano-il-rapporto-bilaterale_5ab4e5fe-ce79-41cc-982c-efd24938fa48.html",
-     "data": "2026-07-27T14:48:50+00:00"
-    },
-    {
-     "titolo": "L'accoltellatore di Parigi, 'Allah mi ha mandato per uccidere delle donne'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/27/laccoltellatore-di-parigi-allah-mi-ha-mandato-per-uccidere-delle-donne_9060a13f-dd8c-4a60-b527-a5b079720c3e.html",
-     "data": "2026-07-27T14:29:23+00:00"
     }
    ]
   },
@@ -451,6 +451,31 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Caos azzurro: Maldini e Leonardo sbattono la porta, risalgono Conte e Mancini",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/27/caos-azzurro-maldini-e-leonardo-sbattono-la-porta-risalgono-conte-e-mancini_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
+     "data": "2026-07-27T19:32:54+00:00"
+    },
+    {
+     "titolo": "Nazionale, lo sconcerto di Abete: 'Non siamo abituati, ora riprendere filo del discorso'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/27/nazionale-lo-sconcerto-di-abete-non-siamo-abituati-ora-riprendere-filo-del_71fa9850-6e49-4d03-a18b-33639c02f06e.html",
+     "data": "2026-07-27T19:15:34+00:00"
+    },
+    {
+     "titolo": "Atp Washington: Arnaldi si ritira, facile rientro per Musetti",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/27/atp-washington-arnaldi-si-ritira-facile-rientro-per-musetti_f32d609c-336b-40dd-9ded-eacaa9857458.html",
+     "data": "2026-07-27T19:12:50+00:00"
+    },
+    {
+     "titolo": "Il Toro chiude per Comuzzo, arriva dalla Fiorentina",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/27/il-toro-chiude-per-comuzzo-arriva-dalla-fiorentina_944d1c6d-3aa6-402d-a150-d579e0f4b068.html",
+     "data": "2026-07-27T18:16:38+00:00"
+    },
+    {
+     "titolo": "Calciomercato: Castro il primo colpo della Roma, il Milan chiude per Diawara",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/27/calciomercato-castro-il-primo-colpo-della-roma-il-milan-chiude-per-diawara_7ff2962d-61a9-4c26-b01d-8c7b2b0aed4e.html",
+     "data": "2026-07-27T18:24:19+00:00"
+    },
+    {
      "titolo": "Lo sconcerto di Abete, 'Malagò non ha fatto nomi, non siamo abituati a certe situazioni'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/27/lo-sconcerto-di-abete-malago-non-ha-fatto-nomi-siamo-abituati-a-certe-situazioni_fdf093fb-d390-4a70-9802-054ea96250b4.html",
      "data": "2026-07-27T18:03:50+00:00"
@@ -484,31 +509,6 @@
      "titolo": "Ciclismo, il romanzo di Pogacar: 'Ho bisogno sempre di nuovi traguardi'",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/07/27/ciclismo-il-romanzo-di-pogacar-ho-bisogno-sempre-di-nuovi-traguardi_4756fde8-2087-42ff-81d7-6fd702cf78be.html",
      "data": "2026-07-27T15:17:29+00:00"
-    },
-    {
-     "titolo": "Calciomercato: Pochi colpi e tanti stranieri, la serie A non parla ancora italiano",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/27/calciomercato-pochi-colpi-e-tanti-stranieri-la-serie-a-non-parla-ancora-italiano_cedf8237-54cd-40bc-9ad6-9fffb85a4b6a.html",
-     "data": "2026-07-27T14:16:52+00:00"
-    },
-    {
-     "titolo": "Ai Mondiali trionfano le fiorettiste azzurre, Favaretto e Errigo oro e argento",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/27/mondiali-scherma-fioretto-donne-favaretto-oro-e-errigo-dargento_68b6b7df-df86-46fc-9431-cf4f79da753c.html",
-     "data": "2026-07-27T16:12:28+00:00"
-    },
-    {
-     "titolo": "Pirlo non sarà il Ct. Sky: 'Maldini e Leonardo lasciano la nazionale'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/27/pirlo-non-sara-il-ct.-abodi-recuperare-alla-brutta-figura.-malago_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
-     "data": "2026-07-27T18:12:46+00:00"
-    },
-    {
-     "titolo": "Chiesa: 'Scommetto ancora sul Liverpool, ma non mollo l'Italia'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/27/chiesa-scommetto-ancora-sul-liverpool-ma-non-mollo-litalia_9cc5c85f-dcd9-49ad-90fe-9ed13be16d42.html",
-     "data": "2026-07-27T13:37:48+00:00"
-    },
-    {
-     "titolo": "Malagò 'brutta figura sul ct? Dipende chi l'ha fatta...'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/27/malago-brutta-figura-sul-ct-dipende-chi-lha-fatta..._158ef8b0-6f12-4813-87b1-5cd483b124af.html",
-     "data": "2026-07-27T13:10:25+00:00"
     }
    ]
   }
