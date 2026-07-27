@@ -1,65 +1,100 @@
 {
- "aggiornato": "2026-07-27T08:27:18.307985+00:00",
+ "aggiornato": "2026-07-27T11:48:12.716182+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
-     "titolo": "Cgil presenta un esposto alla Corte dei Conti per danno erariale sul ponte Stretto",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/cgil-presenta-un-esposto-alla-corte-dei-conti-per-danno-erariale_5384aa1d-93d6-4932-ac4b-fb5c1de90550.html",
-     "data": "2026-07-27T08:14:50+00:00"
+     "titolo": "Difende l'amico rapinato e viene aggredito, muore dopo 8 giorni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/difende-lamico-rapinato-e-viene-aggredito-muore-dopo-8-giorni_16df3b17-6260-49a2-ad4b-d0fd617826aa.html",
+     "data": "2026-07-27T11:27:42+00:00"
     },
     {
-     "titolo": "Media, Netanyahu si opporrà a ritiro Idf da 'zone sicurezza' di Gaza, Libano e Siria",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/media-netanyahu-si-opporra-a-ritiro-idf-da-zone-sicurezza-di-gaza-libano-e-siria_a6551c72-843c-4a10-9146-e3b6caa4decc.html",
-     "data": "2026-07-27T08:08:39+00:00"
+     "titolo": "Fedez: \"Quando sei in ospedale ti senti vacillare, pensi che il tempo stia per finire\"",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/fedez-quando-sei-in-ospedale-ti-senti-vacillare-pensi-che-il-tempo-stia_bb453781-3dde-49de-914b-5adfa71b67a0.html",
+     "data": "2026-07-27T11:17:48+00:00"
     },
     {
-     "titolo": "Capo della polizia in Val di Susa dopo assalti No Tav ai cantieri",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/capo-della-polizia-in-val-di-susa-dopo-assalti-no-tav-ai-cantieri_733d506f-b37a-4fbc-b330-b82fdec2d4e8.html",
-     "data": "2026-07-27T07:55:06+00:00"
+     "titolo": "Tre feriti in un attacco con il coltello a Parigi, fermato un uomo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/tre-feriti-in-un-attacco-con-il-coltello-a-parigi-fermato-un-uomo_03de1912-74ec-45a9-a7e8-d1d5033084df.html",
+     "data": "2026-07-27T11:10:19+00:00"
     },
     {
-     "titolo": "Codacons, bene sconti differenziati su benzina e gasolio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/codacons-bene-sconti-differenziati-su-benzina-e-gasolio_f209f3bf-00c5-4139-a262-52e8e19d5da6.html",
-     "data": "2026-07-27T07:42:17+00:00"
+     "titolo": "Accolto reclamo cittadini su ex Ilva, stop area a caldo in 90 giorni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/accolto-reclamo-cittadini-su-ex-ilva-stop-area-a-caldo-in-90-giorni_40476ddf-a992-4dca-8f2d-30c3474dec02.html",
+     "data": "2026-07-27T11:04:12+00:00"
     },
     {
-     "titolo": "Borsa: Milano prosegue in rialzo con le banche, corre Amplifon",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/borsa-milano-prosegue-in-rialzo-con-le-banche-corre-amplifon_536a615b-363a-4fc0-86d9-0f42de66f0f9.html",
-     "data": "2026-07-27T07:24:32+00:00"
+     "titolo": "Schlein, il Colle un'ossessione di Meloni, ma non è la soluzione",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/schlein-il-colle-unossessione-di-meloni-ma-non-e-la-soluzione_38f797b8-8c11-4904-8cd5-e66b6087d22f.html",
+     "data": "2026-07-27T10:33:32+00:00"
     },
     {
-     "titolo": "Staffetta, gasolio vicino al record storico di marzo 2022",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/staffetta-gasolio-vicino-al-record-storico-di-marzo-2022_d436e555-7f9b-4814-a79d-173988bd218a.html",
-     "data": "2026-07-27T07:25:05+00:00"
+     "titolo": "Premio Bancarella, vince Lorenza Gentile con 'La volta giusta'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/premio-bancarella-vince-lorenza-gentile-con-la-volta-giusta_b5f04e76-cd03-400f-910b-da4a7b367e46.html",
+     "data": "2026-07-27T10:33:42+00:00"
     },
     {
-     "titolo": "Borsa: l'Europa apre in rialzo, giù petrolio e gas con il Medio Oriente",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/borsa-leuropa-apre-in-rialzo-giu-petrolio-e-gas-con-il-medio-oriente_675626d8-b76c-4201-9064-abfa6fdc45cb.html",
-     "data": "2026-07-27T07:23:55+00:00"
+     "titolo": "Schlein, il governo strumentalizza, lavoriamo insieme per isolare i violenti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/schlein-il-governo-strumentalizza-lavoriamo-insieme-per-isolare-i-violenti_e981e397-0294-45ae-8600-ddf076c65323.html",
+     "data": "2026-07-27T10:26:53+00:00"
     },
     {
-     "titolo": "Mimit, prezzo medio self benzina a 1,982 euro al litro, gasolio a 2,185",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/mimit-prezzo-medio-self-benzina-a-1982-euro-al-litro-gasolio-a-2185_627b8fb4-1a0a-4c46-8966-c91690b4cea7.html",
-     "data": "2026-07-27T07:22:20+00:00"
+     "titolo": "Meloni, dai No Tav violenza organizzata, la magistratura faccia il massimo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/meloni-dai-no-tav-violenza-organizzata-la-magistratura-faccia-il-massimo_23bb2480-15b5-42be-baff-92a5b65d3dd6.html",
+     "data": "2026-07-27T10:25:54+00:00"
     },
     {
-     "titolo": "Stop treni Firenze, varo nuovo ponte al Pino alla presenza di Salvini",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/stop-treni-firenze-varo-nuovo-ponte-al-pino-alla-presenza-di-salvini_210de3e1-e584-41c1-87b6-7cedb604eb96.html",
-     "data": "2026-07-27T07:05:12+00:00"
+     "titolo": "'Solidarietà' a Pirlo dall'ambasciatore russo in Italia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/solidarieta-a-pirlo-dallambasciatore-russo-in-italia_624e0c7c-e434-4173-8a42-85bc0b064793.html",
+     "data": "2026-07-27T10:15:26+00:00"
     },
     {
-     "titolo": "Borsa: Milano apre in rialzo dello 0,67%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/borsa-milano-apre-in-rialzo-dello-067_b1bd5219-5372-4c02-b081-82cac69e7bd7.html",
-     "data": "2026-07-27T07:05:34+00:00"
+     "titolo": "Meloni e Piantedosi lasciano la Val di Susa in elicottero",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/meloni-e-piantedosi-lasciano-la-val-di-susa-in-elicottero_69deff77-911d-4e4d-8ab5-6f00b70bdc5d.html",
+     "data": "2026-07-27T10:14:46+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Prosegue 'Suoni Controvento', anche Mannarino alla Rocca di Assisi",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/27/prosegue-suoni-controvento-anche-mannarino-alla-rocca-di-assisi_020c1f32-2e1b-493d-a1c3-50dcb65a1ebf.html",
+     "data": "2026-07-27T11:18:44+00:00"
+    },
+    {
+     "titolo": "La Stranieri acquista un immobile destinato a residenza per studenti e docenti",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/27/la-stranieri-acquista-un-immobile-destinato-a-residenza-per-studenti-e-docenti_04a80b6e-26f1-407a-87e5-fd3ffbe6d42f.html",
+     "data": "2026-07-27T10:57:58+00:00"
+    },
+    {
+     "titolo": "La clinica urologica di Terni si conferma protagonista nell'innovazione scientifica",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/27/la-clinica-urologica-di-terni-si-conferma-protagonista-nellinnovazione-scientifica_26a473db-a908-4f88-bd1c-93db4d0f27c7.html",
+     "data": "2026-07-27T10:42:41+00:00"
+    },
+    {
+     "titolo": "Avs presenta il dossier 'Crisi idrica e dispersione dell'acqua in Italia'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/27/avs-presenta-il-dossier-crisi-idrica-e-dispersione-dellacqua-in-italia_ffaa057c-4051-41ef-a72d-822ba027cd8a.html",
+     "data": "2026-07-27T10:26:15+00:00"
+    },
+    {
+     "titolo": "A Spello 'Stati d'Arte', oltre 100 opere a Villa Fidelia",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/27/a-spello-stati-darte-oltre-100-opere-a-villa-fidelia_682f5ea9-fbe7-4e76-bbec-74e43167ae83.html",
+     "data": "2026-07-27T10:26:17+00:00"
+    },
+    {
+     "titolo": "Agosto tra visite guidate e tour nei musei con la Spoleto Card",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/27/agosto-tra-visite-guidate-e-tour-nei-musei-con-la-spoleto-card_b192e764-ff51-4e9e-8379-71717d105407.html",
+     "data": "2026-07-27T10:26:21+00:00"
+    },
+    {
+     "titolo": "Mozione di Filipponi (Pd) per terapie del dolore e cure palliative omogenee in Umbria",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/27/mozione-di-filipponi-pd-per-terapie-del-dolore-e-cure-palliative-omogenee-in-umbria_b7bd4611-f965-48f3-96cf-511080baf29c.html",
+     "data": "2026-07-27T10:26:25+00:00"
+    },
     {
      "titolo": "Numerosi interventi dei vigili del fuoco in provincia di Perugia per il maltempo",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/26/numerosi-interventi-dei-vigili-del-fuoco-in-provincia-di-perugia-per-il-maltempo_8dd8ce21-e472-4bb2-9715-2658437dfb58.html",
@@ -84,41 +119,6 @@
      "titolo": "Torna a Magione torna il campo estivo in Italia dell'Ordine di Malta",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/26/torna-a-magione-torna-il-campo-estivo-in-italia-dellordine-di-malta_544795e9-1bc3-4b4f-83c7-e1c1ce512abf.html",
      "data": "2026-07-26T11:12:32+00:00"
-    },
-    {
-     "titolo": "Prisco, a Chiomonte un attacco premeditato alle istituzioni",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/26/prisco-a-chiomonte-un-attacco-premeditato-alle-istituzioni_5f5d0ce7-2496-4c98-9a22-fa779baa7aca.html",
-     "data": "2026-07-26T10:12:37+00:00"
-    },
-    {
-     "titolo": "Temporale su Perugia, auto in difficoltà e barriere che galleggiano",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/26/temporale-su-perugia-auto-in-difficolta-e-barriere-che-galleggiano_4ef2e717-6824-4bae-b9c4-2f8cd1157853.html",
-     "data": "2026-07-26T15:15:00+00:00"
-    },
-    {
-     "titolo": "Il teatro Nuovo Menotti a Spoleto nella Lista del Patrimonio mondiale dell'Unesco",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/26/il-teatro-nuovo-menotti-a-spoleto-nella-lista-del-patrimonio-mondiale-dellunesco_e161afc3-8b41-49f7-ab3a-ffb23daa68af.html",
-     "data": "2026-07-26T11:23:55+00:00"
-    },
-    {
-     "titolo": "Arrivate pioggia e temporali su gran parte della provincia di Perugia",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/26/arrivate-pioggia-e-temporali-su-gran-parte-della-provincia-di-perugia_8856ec50-0f1d-4f87-b2e5-cb247dd3aaea.html",
-     "data": "2026-07-26T08:53:30+00:00"
-    },
-    {
-     "titolo": "A Villa Fidelia la cena imperiale romana per l'anteprima di Hispellvm",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/25/a-villa-fidelia-la-cena-imperiale-romana-per-lanteprima-di-hispellvm_3dd89cf1-052a-46c0-b8cb-cf7b5d8ab643.html",
-     "data": "2026-07-25T16:08:36+00:00"
-    },
-    {
-     "titolo": "Ad Amelia la mostra 'Aenigma', il Germanico rivive negli scatti di Maurizio Galimberti",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/25/ad-amelia-la-mostra-aenigma-il-germanico-rivive-negli-scatti-di-maurizio-galimberti_9f57e1a9-9807-42b1-87e6-2f119b89df50.html",
-     "data": "2026-07-25T16:09:43+00:00"
-    },
-    {
-     "titolo": "Dopo il grande caldo sull'Umbria arrivano pioggia e temporali",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/25/dopo-il-grande-caldo-sullumbria-arrivano-pioggia-e-temporali_347c1521-0497-45bf-a0ad-f01043c2f7b3.html",
-     "data": "2026-07-25T13:04:29+00:00"
     }
    ]
   },
@@ -126,70 +126,115 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Difende l'amico rapinato e viene aggredito, muore dopo 8 giorni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/difende-lamico-rapinato-e-viene-aggredito-muore-dopo-8-giorni_735f6345-621d-4b77-9598-0dfa81129bbb.html",
+     "data": "2026-07-27T11:27:39+00:00"
+    },
+    {
+     "titolo": "No Tav, 'posti di blocco e persone identificate è una prova di forza'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/no-tav-posti-di-blocco-e-persone-identificate-e-una-prova-di-forza_032787ff-1ae7-4864-bfc5-85121dc8d142.html",
+     "data": "2026-07-27T10:49:15+00:00"
+    },
+    {
+     "titolo": "Il sindaco Lepore: 'Bologna è una città ferita. Non ho chiesto io la scorta, è stato un obbligo'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/il-sindaco-lepore-bologna-ferita-dal-pilastro-spero-tanta-gente-al-corteo_5044ada6-ca4d-473e-bb72-27db671c8e6c.html",
+     "data": "2026-07-27T11:12:40+00:00"
+    },
+    {
+     "titolo": "Trovato un corpo carbonizzato in una zona di campagna in Friuli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/trovato-un-corpo-carbonizzato-in-una-zona-di-campagna-in-friuli_b4b9ee9e-1085-4130-9eb7-0d1a8b698ccb.html",
+     "data": "2026-07-27T10:03:59+00:00"
+    },
+    {
+     "titolo": "Trovato corpo carbonizzato in zona di campagna in Friuli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/trovato-corpo-carbonizzato-in-zona-di-campagna-in-friuli_46678fad-92fa-4596-acbb-793bf7c67228.html",
+     "data": "2026-07-27T09:55:46+00:00"
+    },
+    {
+     "titolo": "Tamponamento in A10 tra Savona e Ventimiglia, otto chilometri di coda",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/tamponamento-in-a10-tra-savona-e-ventimiglia-otto-chilometri-di-coda_d6482450-cd1f-47f4-b1a3-218133a56b32.html",
+     "data": "2026-07-27T09:52:57+00:00"
+    },
+    {
+     "titolo": "Vive in auto dopo lo sfratto, cerca casa per riavere i figli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/vive-in-auto-dopo-lo-sfratto-cerca-casa-per-riavere-i-figli_e1b455b4-0f58-46aa-bfe9-3e03e40b69e3.html",
+     "data": "2026-07-27T10:52:12+00:00"
+    },
+    {
+     "titolo": "Ancora instabilità, poi la nuova ondata di calore",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/ancora-instabilita-poi-la-nuova-ondata-di-calore_35a517bf-d1eb-4cbb-bc7a-f9af8bac3817.html",
+     "data": "2026-07-27T09:37:35+00:00"
+    },
+    {
+     "titolo": "Guerriglia No Tav, Meloni in Val di Susa: 'Violenza organizzata'. Schlein: 'Il governo strumentalizza'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/meloni-e-piantedosi-in-val-di-susa-dopo-gli-assalti-no-tav-ai-cantieri-fermati_6aeee38f-44bd-40ef-afaf-9b3a940a47ca.html",
+     "data": "2026-07-27T10:59:59+00:00"
+    },
+    {
+     "titolo": "Permessi di soggiorno 'a pagamento', 22 misure cautelari in 10 province",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/permessi-di-soggiorno-a-pagamento-22-misure-cautelari-in-10-province_8f8a58f4-6102-4c32-9818-16f17f62826f.html",
+     "data": "2026-07-27T08:25:10+00:00"
+    },
+    {
+     "titolo": "Rafforzati i controlli per la fine del campeggio No Tav",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/rafforzati-i-controlli-per-la-fine-del-campeggio-no-tav_a55ea481-8438-4162-8e02-da107a8d4f27.html",
+     "data": "2026-07-27T08:23:13+00:00"
+    },
+    {
      "titolo": "Spia la ex con un drone, arrestato stalker in Alto Adige",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/spia-la-ex-con-un-drone-arrestato-stalker-in-alto-adige_489f0ae9-91ae-419b-b762-ea661205f43c.html",
      "data": "2026-07-27T08:08:07+00:00"
-    },
-    {
-     "titolo": "Il capo della polizia in Val di Susa dopo gli assalti No Tav ai cantieri, fermati 4 antagonisti stranieri",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/fermati-antagonisti-stranieri-per-assalti-ai-cantieri-no-tav_6aeee38f-44bd-40ef-afaf-9b3a940a47ca.html",
-     "data": "2026-07-27T08:18:05+00:00"
-    },
-    {
-     "titolo": "Alpinismo, a 3.800 metri sul Cervino apre la nuova Capanna Carrel",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/alpinismo-a-3.800-metri-sul-cervino-apre-la-nuova-capanna-carrel_c4b526b8-12dc-44d0-a438-416fa8afed6a.html",
-     "data": "2026-07-27T07:45:04+00:00"
-    },
-    {
-     "titolo": "Fermati antagonisti stranieri per assalti ai cantieri No Tav",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/fermati-antagonisti-stranieri-per-assalti-ai-cantieri-no-tav_5a291703-b4aa-4931-80a7-5cd56397983b.html",
-     "data": "2026-07-27T07:45:25+00:00"
-    },
-    {
-     "titolo": "Stop dei treni a Firenze, Italia nuovamente divisa in due",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/stop-treni-firenze-varo-nuovo-ponte-al-pino-alla-presenza-di-salvini_47279b0d-6a13-4528-aa14-471ed294ea17.html",
-     "data": "2026-07-27T08:14:24+00:00"
-    },
-    {
-     "titolo": "Sindaco Peschici, 'incendio sotto controllo, turisti rientrati in alloggi'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/sindaco-peschici-incendio-sotto-controllo-turisti-rientrati-in-alloggi_8fe477ce-284b-483a-815f-22f9afff674a.html",
-     "data": "2026-07-27T07:26:41+00:00"
-    },
-    {
-     "titolo": "Assaltato a postamat nel Foggiano, quattro persone in fuga",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/assaltato-a-postamat-nel-foggiano-quattro-persone-in-fuga_7ae226ba-5fb3-4698-ae2a-e7d058374700.html",
-     "data": "2026-07-27T07:17:22+00:00"
-    },
-    {
-     "titolo": "Furgone si incastra sotto un camion, conducente muore in A4",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/furgone-si-incastra-sotto-un-camion-conducente-muore-in-a4_9d2c517a-0871-49fe-913c-acf45bd5d554.html",
-     "data": "2026-07-27T07:12:47+00:00"
-    },
-    {
-     "titolo": "Due uomini gambizzati ad aprile, arrestate due persone a Bari",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/due-uomini-gambizzati-ad-aprile-arrestate-due-persone-a-bari_93639dab-4517-462d-9224-6af54b6d77af.html",
-     "data": "2026-07-27T07:04:18+00:00"
-    },
-    {
-     "titolo": "Crolla albero per il maltempo, danni a cinque auto nel Napoletano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/crolla-albero-per-il-maltempo-danni-a-cinque-auto-nel-napoletano_205bbbb8-7883-444e-b8c3-739921e0ca74.html",
-     "data": "2026-07-27T07:00:28+00:00"
-    },
-    {
-     "titolo": "Giornalista ucciso, oggi l'udienza di convalida del fermo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/giornalista-ucciso-oggi-ludienza-di-convalida-del-fermo_c57f11d8-1c05-4663-bb70-4097a9cf0454.html",
-     "data": "2026-07-27T06:59:42+00:00"
-    },
-    {
-     "titolo": "Tenta di accoltellare pattuglia dei vigili, agente spara e lo ferisce",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/tenta-di-accoltellare-pattuglia-dei-vigili-agente-spara-e-lo-ferisce_d26a9b24-fdd5-495e-b9bf-0982bacd0e5a.html",
-     "data": "2026-07-26T19:26:07+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Schlein: 'Il Colle un'ossessione di Meloni, ma non è la soluzione'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/schlein-il-colle-unossessione-di-meloni-ma-non-e-la-soluzione_9f0e2d87-01dc-4571-86e4-dd15a7b57fcb.html",
+     "data": "2026-07-27T10:47:32+00:00"
+    },
+    {
+     "titolo": "Schlein, il governo strumentalizza, lavoriamo insieme per isolare i violenti",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/schlein-il-governo-strumentalizza-lavoriamo-insieme-per-isolare-i-violenti_1d815bb5-c355-4a61-8827-5dd68bad81dd.html",
+     "data": "2026-07-27T10:26:51+00:00"
+    },
+    {
+     "titolo": "Meloni, dai No Tav violenza organizzata, la magistratura faccia il massimo",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/meloni-dai-no-tav-violenza-organizzata-la-magistratura-faccia-il-massimo_1a801380-7ed7-4bf3-9771-e13e0d2d54e9.html",
+     "data": "2026-07-27T10:25:49+00:00"
+    },
+    {
+     "titolo": "Meloni e Piantedosi lasciano la Val di Susa in elicottero",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/meloni-e-piantedosi-lasciano-la-val-di-susa-in-elicottero_00335644-90a2-44ea-aaa4-fae3849b2c79.html",
+     "data": "2026-07-27T10:14:48+00:00"
+    },
+    {
+     "titolo": "Milano ricorda la strage di via Palestro, 'attentato vile e disumano'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/milano-ricorda-la-strage-di-via-palestro-attentato-vile-e-disumano_37536e23-1afb-4a81-b8bc-321993ba37ed.html",
+     "data": "2026-07-27T10:05:05+00:00"
+    },
+    {
+     "titolo": "Cirio, 'ho sentito Meloni prima del suo arrivo a Torino'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/cirio-ho-sentito-meloni-prima-del-suo-arrivo-a-torino_737c6a22-b4ae-4208-a3f4-5d1316a1ad11.html",
+     "data": "2026-07-27T10:02:33+00:00"
+    },
+    {
+     "titolo": "Il vescovo di Ascoli a Pastasciutta, 'antifascismo è patrimonio condiviso'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/il-vescovo-di-ascoli-a-pastasciutta-antifascismo-e-patrimonio-condiviso_13f604a6-3e63-4e1c-8d2f-a518b47d0fe7.html",
+     "data": "2026-07-27T09:52:39+00:00"
+    },
+    {
+     "titolo": "Meloni e Piantedosi in Val di Susa dopo gli assalti No Tav ai cantieri",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/meloni-e-piantedosi-in-val-di-susa-dopo-gli-assalti-no-tav-ai-cantieri_d5e281ee-2b30-41e4-9433-33f48eb9005a.html",
+     "data": "2026-07-27T08:41:12+00:00"
+    },
+    {
+     "titolo": "Cdm alle 17.30, in arrivo l'intervento ponte sui carburanti",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/cdm-alle-17.30-in-arrivo-lintervento-ponte-sui-carburanti_4ab3d196-1483-4535-a747-500a0dbf0f3c.html",
+     "data": "2026-07-27T08:35:33+00:00"
+    },
     {
      "titolo": "Capo della polizia in Val di Susa dopo assalti No Tav ai cantieri",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/capo-della-polizia-in-val-di-susa-dopo-assalti-no-tav-ai-cantieri_7329d318-cf9b-42ae-a0a0-a368b3180715.html",
@@ -204,41 +249,6 @@
      "titolo": "Attentato al Pride, Meloni condanna l'odio dopo Berlino. Salvini: 'Fanatismo islamico'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/attentato-al-pride-meloni-condanna-lodio-dopo-berlino.-salvini-fanatismo-islamico_4e9d6895-1c19-491e-92c9-965b7b5b4a3a.html",
      "data": "2026-07-26T18:49:46+00:00"
-    },
-    {
-     "titolo": "Le intercettazioni alla prova dell'Aula, tensione sulle preferenze",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/le-intercettazioni-alla-prova-dellaula-tensione-sulle-preferenze_83763947-1346-4503-a72f-147ca9a81875.html",
-     "data": "2026-07-27T07:01:48+00:00"
-    },
-    {
-     "titolo": "La Russa: 'Meloni al Colle sarebbe una grande fortuna per l'Italia, dopo Mattarella'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/la-russa-meloni-al-colle-sarebbe-una-grande-fortuna-per-litaliadopo-mattarella_ce67f032-5123-49e5-91cc-98994caa05cf.html",
-     "data": "2026-07-27T07:00:16+00:00"
-    },
-    {
-     "titolo": "Il sindaco di Chiomonte: 'Violenze incomprensibili, ma i lavori accelerino'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/il-sindaco-di-chiomonte-violenze-incomprensibili-ma-i-lavori-accelerino_b80c9fdf-4698-45b3-aae7-06239550b166.html",
-     "data": "2026-07-26T17:48:03+00:00"
-    },
-    {
-     "titolo": "Bonelli: 'Musumeci e Pichetto Fratin si sveglino. L'Italia ha smantellato la prevenzione e adesso brucia'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/bonelli-musumeci-e-pichetto-fratin-si-sveglino.-litalia-ha-smantellato-la-prevenzione-e-adesso-brucia_46008dac-c50c-4ff0-8721-06f2d217758b.html",
-     "data": "2026-07-26T14:06:18+00:00"
-    },
-    {
-     "titolo": "Meloni, teatri condominiali gioielli storici, rendono unica l'identità italiana",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/meloni-teatri-condominiali-gioielli-storici-rendono-unica-lidentita-italiana_87707b1e-c030-46bb-ab20-663c27791570.html",
-     "data": "2026-07-26T12:24:24+00:00"
-    },
-    {
-     "titolo": "++ No Tav, 'una grande giornata di lotta per la Val di Susa' ++",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/no-tav-una-grande-giornata-di-lotta-per-la-val-di-susa_632afa0b-3ed7-45e6-8447-2d5dc6bd9918.html",
-     "data": "2026-07-26T09:54:06+00:00"
-    },
-    {
-     "titolo": "Meloni, al fianco della Germania, Italia condanna odio ed estremismi",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/26/meloni-al-fianco-della-germania-italia-condanna-odio-ed-estremismi_58e87e84-ce48-4179-9de8-c0ae561d6aad.html",
-     "data": "2026-07-26T09:49:29+00:00"
     }
    ]
   },
@@ -246,70 +256,100 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Cgil presenta un esposto alla Corte dei Conti per danno erariale sul ponte Stretto",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/cgil-presenta-un-esposto-alla-corte-dei-conti-per-danno-erariale_5e9966c8-61b1-4eb1-9182-d4cedf9d5519.html",
-     "data": "2026-07-27T08:14:47+00:00"
+     "titolo": "Vaber Industriale torna italiana, nuova governance torinese per l'azienda",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/vaber-industriale-torna-italiana-nuova-governance-torinese-per-lazienda_1fca2d32-e66b-4955-8906-745a144ce39f.html",
+     "data": "2026-07-27T11:33:28+00:00"
     },
     {
-     "titolo": "L'indice della fiducia delle imprese tedesche Ifo sale a luglio",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/lindice-della-fiducia-delle-imprese-tedesche-ifo-sale-a-luglio_d41c8246-cd93-436a-84e9-5dbed52684b9.html",
-     "data": "2026-07-27T08:13:08+00:00"
+     "titolo": "Istat, nel 2023 1,1 milioni di aziende agricole, stabili sul 2020",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/istat-nel-2023-11-milioni-di-aziende-agricole-stabili-sul-2020_e84fc0bc-628b-4c15-83ed-6f48222e9656.html",
+     "data": "2026-07-27T11:28:15+00:00"
     },
     {
-     "titolo": "Miani (Sima) nominato vicepresidente di Green Building Council Italia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/miani-sima-nominato-vicepresidente-di-green-building-council-italia_7509d3ae-7b7f-4e02-97fb-3844e2931a18.html",
-     "data": "2026-07-27T08:03:49+00:00"
+     "titolo": "Al Trieste Airport il livello ACA 4 - Transformation, nuovo traguardo ambientale",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/al-trieste-airport-il-livello-aca-4-transformation-nuovo-traguardo-ambientale_c83a9abe-4fad-41d1-91b7-e45b594d295c.html",
+     "data": "2026-07-27T11:26:31+00:00"
     },
     {
-     "titolo": "Nuovo stop treni Firenze, disagi contenuti a Campo di Marte",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/nuovo-stop-treni-firenze-disagi-contenuti-a-campo-di-marte_14539a9f-dd34-4512-ab8d-98afa24d5e99.html",
-     "data": "2026-07-27T07:47:29+00:00"
+     "titolo": "Petrolio e gas in caduta libera, il Brent sotto i 90 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/petrolio-e-gas-in-caduta-libera-il-brent-sotto-i-90-dollari_12b2da71-8388-4212-9190-6d087489405f.html",
+     "data": "2026-07-27T11:28:20+00:00"
     },
     {
-     "titolo": "Codacons, bene sconti differenziati su benzina e gasolio",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/codacons-bene-sconti-differenziati-su-benzina-e-gasolio_adfc9f16-eda1-40fc-860e-3850613af606.html",
-     "data": "2026-07-27T08:08:22+00:00"
+     "titolo": "Borsa: l'Europa positiva guarda a Wall Street, Milano +0,8%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/borsa-leuropa-positiva-guarda-a-wall-street-milano-08_d7862457-832d-445f-816c-3f80b534033a.html",
+     "data": "2026-07-27T11:15:29+00:00"
     },
     {
-     "titolo": "Staffetta, gasolio vicino al record storico di marzo 2022",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/staffetta-gasolio-vicino-al-record-storico-di-marzo-2022_bc6b74f8-8f19-492b-b8e6-c323c4d2f429.html",
-     "data": "2026-07-27T07:35:22+00:00"
+     "titolo": "Accolto il reclamo dei cittadini sulla ex Ilva, stop all'area a caldo in 90 giorni",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/accolto-reclamo-cittadini-su-ex-ilva-stop-area-a-caldo-in-90-giorni_5b26db8a-3a8e-4fe3-b064-3186d5f2e70c.html",
+     "data": "2026-07-27T11:35:23+00:00"
     },
     {
-     "titolo": "Borsa: Milano prosegue in rialzo con le banche, corre Amplifon",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/borsa-milano-prosegue-in-rialzo-con-le-banche-corre-amplifon_256694bf-5e5b-4c17-a446-1b795cfee54b.html",
-     "data": "2026-07-27T07:36:15+00:00"
+     "titolo": "Ciucci, Stretto di Messina ha massimo rispetto norme e tutela denaro pubblico",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/ciucci-stretto-di-messina-ha-massimo-rispetto-norme-e-tutela-denaro-pubblico_2f05b316-dcf0-4780-b5c9-ed9a4184993a.html",
+     "data": "2026-07-27T11:29:45+00:00"
     },
     {
-     "titolo": "Fincantieri sottoscrive accordo con i soci reinvestitori di Nextgeo",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/fincantieri-sottoscrive-accordo-con-i-soci-reinvestitori-di-nextgeo_50ba920a-a46e-4919-a7a5-642637525246.html",
-     "data": "2026-07-27T08:06:27+00:00"
+     "titolo": "Gallo, 'Italgas accelera sulle attività per la sicurezza energetica'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/gallo-italgas-accelera-sulle-attivita-per-la-sicurezza-energetica_0138aeba-75be-46eb-b48e-ea731b4f437e.html",
+     "data": "2026-07-27T10:28:14+00:00"
     },
     {
-     "titolo": "Borsa: l'Europa apre in rialzo, giù petrolio e gas con il Medio Oriente",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/borsa-leuropa-apre-in-rialzo-giu-petrolio-e-gas-con-il-medio-oriente_d89a0a6a-8786-4246-acd0-2a380d9d7d2d.html",
-     "data": "2026-07-27T07:23:08+00:00"
+     "titolo": "Per Enav record storico. Gestiti in un giorno 8.446 voli",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/per-enav-record-storico.-gestiti-in-un-giorno-8.446-voli_c7eca7b3-4e36-4cf8-89ac-38f217c34e44.html",
+     "data": "2026-07-27T10:23:29+00:00"
     },
     {
-     "titolo": "Mimit, prezzo medio self benzina a 1,982 euro al litro, gasolio a 2,185",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/mimit-prezzo-medio-self-benzina-a-1982-euro-al-litro-gasolio-a-2185_80f3428b-e155-4acc-a5c6-3e0dee2cdb44.html",
-     "data": "2026-07-27T07:22:22+00:00"
+     "titolo": "Via libera Ue all'Italia per 300 milioni di aiuti a autotrasportatori",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/via-libera-ue-allitalia-per-300-milioni-di-aiuti-a-autotrasportatori_e92ba06b-cb44-4ace-8dcd-227422876afb.html",
+     "data": "2026-07-27T10:20:27+00:00"
     },
     {
-     "titolo": "Stop treni Firenze, varo nuovo ponte al Pino alla presenza di Salvini",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/stop-treni-firenze-varo-nuovo-ponte-al-pino-alla-presenza-di-salvini_8fcc3dae-6ad1-4320-a3bc-09b207898b79.html",
-     "data": "2026-07-27T07:05:34+00:00"
+     "titolo": "Istat, 222.999 protesti nel 2024, -0,9% rispetto a 2023",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/istat-222.999-protesti-nel-2024-09-rispetto-a-2023_10d5591f-02dc-41d7-ba3a-9061d5da3aa1.html",
+     "data": "2026-07-27T10:21:21+00:00"
     },
     {
-     "titolo": "Borsa: Milano apre in rialzo dello 0,67%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/borsa-milano-apre-in-rialzo-dello-067_d5b86ee9-8360-44da-848b-0944f342f514.html",
-     "data": "2026-07-27T07:05:36+00:00"
+     "titolo": "Italgas chiude il semestre con ricavi a oltre 1,32 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/italgas-chiude-il-semestre-con-ricavi-a-oltre-132-miliardi_feaf065c-36cf-48fd-b0f1-68011236722f.html",
+     "data": "2026-07-27T10:21:30+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Tre feriti in un attacco con il coltello a Parigi, fermato un uomo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/27/tre-feriti-in-un-attacco-con-il-coltello-a-parigi-fermato-un-uomo_63afc328-38af-4d72-9c63-6d846823e759.html",
+     "data": "2026-07-27T11:10:19+00:00"
+    },
+    {
+     "titolo": "'Solidarietà' a Pirlo dall'ambasciatore russo in Italia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/27/solidarieta-a-pirlo-dallambasciatore-russo-in-italia_0e8ef926-0e9b-4107-a593-abf32fcd8655.html",
+     "data": "2026-07-27T10:15:28+00:00"
+    },
+    {
+     "titolo": "Lula riceve a Brasilia il presidente della Corea del Sud",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/lula-riceve-a-brasilia-il-presidente-della-corea-del-sud_2613e253-919f-49fa-ba59-02fa472ad9d5.html",
+     "data": "2026-07-27T10:12:28+00:00"
+    },
+    {
+     "titolo": "Salvador, l'opposizione nomina i candidati che sfideranno Bukele",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/salvador-lopposizione-nomina-i-candidati-che-sfideranno-bukele_7c0ab53a-69f4-4bd1-8e26-7e36bd5be505.html",
+     "data": "2026-07-27T08:56:21+00:00"
+    },
+    {
+     "titolo": "Teheran, gli Usa non sono coinvolti nei colloqui con l'Oman su Hormuz",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/27/teheran-gli-usa-non-sono-coinvolti-nei-colloqui-con-loman_4a06bfe1-83da-4ac6-821f-515761909e95.html",
+     "data": "2026-07-27T08:41:54+00:00"
+    },
+    {
+     "titolo": "A luglio in Ucraina il maggior numero di vittime civili dal 2022",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/27/a-luglio-in-ucraina-il-maggior-numero-di-vittime-civili-dal-2022_0d181a24-7035-4550-b718-67cf9b073ee2.html",
+     "data": "2026-07-27T08:39:48+00:00"
+    },
     {
      "titolo": "Media, Netanyahu si opporrà a ritiro Idf da 'zone sicurezza' di Gaza, Libano e Siria",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/27/media-netanyahu-si-opporra-a-ritiro-idf-da-zone-sicurezza-di-gaza-libano-e-siria_27da89bb-73ad-46ac-b7f6-5ce6253c1529.html",
@@ -339,36 +379,6 @@
      "titolo": "Russia, attacco aereo a Rostov uccide due persone e ne ferisce 5",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/27/russia-attacco-aereo-a-rostov-uccide-due-persone-e-ne-ferisce-5_809bc23a-3b6b-4910-bbc8-75a75212dd94.html",
      "data": "2026-07-27T03:24:03+00:00"
-    },
-    {
-     "titolo": "Oltre 1.400 morti nell'epidemia di Ebola in Congo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/27/oltre-1.400-morti-nellepidemia-di-ebola-in-congo_1d3b15a0-79fd-4f03-b704-0f8eafb49a9c.html",
-     "data": "2026-07-27T01:05:21+00:00"
-    },
-    {
-     "titolo": "Pentagono 'taglia' 4 militari caduti dalla guerra all'Iran e crea nuova categoria",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/27/pentagono-taglia-4-militari-caduti-dalla-guerra-alliran-e-crea-nuova-categoria_9ff80be9-13f2-4a24-83bc-f486af189fe8.html",
-     "data": "2026-07-27T00:29:15+00:00"
-    },
-    {
-     "titolo": "Trump, 'abbiamo munizioni più di chiunque altro e ben oltre il nostro fabbisogno'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/27/trump-abbiamo-munizioni-piu-di-chiunque-altro-e-ben-oltre-il-nostro-fabbisogno_fb677f62-1bf4-4421-a3ee-179741d10423.html",
-     "data": "2026-07-26T22:16:54+00:00"
-    },
-    {
-     "titolo": "Il tycoon posta foto col cappellino 'Trump 2028', con Jfk e mentre salva Washington",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/27/il-tycoon-posta-foto-col-cappellino-trump-2028-con-jfk-e-mentre_a4075cd2-730f-4356-8d48-3bf4208b9a0b.html",
-     "data": "2026-07-26T22:05:27+00:00"
-    },
-    {
-     "titolo": "Monito di Trump all'Iran con foto ritoccate con l'IA, 'Attaccate l'isola di Kharg'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/26/monito-di-trump-alliran-con-foto-ritoccate-con-lia-attaccate-lisola_44e58262-bbd2-4775-a875-d476a52826f7.html",
-     "data": "2026-07-26T21:15:22+00:00"
-    },
-    {
-     "titolo": "'Oltre 400 militari Usa trasferiti per cure mediche da inizio guerra all'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/26/oltre-400-militari-usa-trasferiti-per-cure-mediche-da-inizio-guerra_6f7ce2c9-dc45-425b-b968-640377392526.html",
-     "data": "2026-07-26T20:33:06+00:00"
     }
    ]
   },
@@ -441,6 +451,31 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Mondiali scherma: Favaretto e Arrigo in semifinale fioretto, podio certo",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/27/mondiali-scherma-favaretto-e-arrigo-in-semifinale-fioretto-podio-certo_68b6b7df-df86-46fc-9431-cf4f79da753c.html",
+     "data": "2026-07-27T10:05:28+00:00"
+    },
+    {
+     "titolo": "Abodi, Pirlo? Ora bisogna recuperare alla brutta figura",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/27/abodi-pirlo-ora-bisogna-recuperare-alla-brutta-figura_9136034b-64fd-41a1-add9-5ba76ddc9210.html",
+     "data": "2026-07-27T10:03:41+00:00"
+    },
+    {
+     "titolo": "Beach Rugby, trofeo 2026 a The Rockets per gli uomini e Sabbie Mobili per le donne",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/27/beach-rugby-trofeo-2026-a-the-rockets-per-gli-uomini-e-sabbie_da925f75-0fcb-4a30-8c86-29305985ae3d.html",
+     "data": "2026-07-27T09:09:20+00:00"
+    },
+    {
+     "titolo": "Ranking Wta, Paolini stabile al 15mo posto",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/27/ranking-wta-paolini-stabile-al-15mo-posto_c4cb73aa-e1ef-4cb5-92e3-6d16b4a94b29.html",
+     "data": "2026-07-27T09:37:06+00:00"
+    },
+    {
+     "titolo": "Ranking Atp, Sinner sempre saldamente al comando",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/27/ranking-atp-sinner-sempre-saldamente-al-comando_2896aae7-0894-4dce-a1da-b2a8c3211887.html",
+     "data": "2026-07-27T09:38:24+00:00"
+    },
+    {
      "titolo": "Pirlo: \"Ho appreso di non essere più candidato al ruolo di ct\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/27/pirlo-ho-appreso-di-non-essere-piu-candidato-al-ruolo-di-ct_1c898f8f-08e7-40ff-b54f-bf024d5026a6.html",
      "data": "2026-07-27T08:20:21+00:00"
@@ -448,12 +483,12 @@
     {
      "titolo": "Pirlo: \"Ho appreso di non essere più candidato al ruolo di ct\"",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/07/27/pirlo-ho-appreso-di-non-essere-piu-candidato-al-ruolo-di-ct_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
-     "data": "2026-07-27T08:12:48+00:00"
+     "data": "2026-07-27T09:31:40+00:00"
     },
     {
      "titolo": "Calcio: il Psg si ritira dall'asta per Diomande, la spunta il Real Madrid",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/27/calcio-il-psg-si-ritira-dallasta-per-diomande-la-spunta-il-real-madrid_4425c475-f02f-4fa7-a82d-e19c7c28b5c6.html",
-     "data": "2026-07-27T07:43:44+00:00"
+     "data": "2026-07-27T09:39:40+00:00"
     },
     {
      "titolo": "Pirlo: \"Sempre rispettato le leggi, rammarico per le polemiche\"",
@@ -461,9 +496,9 @@
      "data": "2026-07-26T22:06:43+00:00"
     },
     {
-     "titolo": "Infantino, 'avete diffuso odio sui Mondiali, sono stati lo spettacolo più bello'",
+     "titolo": "Infantino: 'Avete diffuso odio sui Mondiali, sono stati lo spettacolo più bello'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/infantino-avete-diffuso-odio-sui-mondiali-sono-stati-lo-spettacolo-piu_1aa9c95a-aeb2-4b36-88d2-163775effc56.html",
-     "data": "2026-07-26T21:26:07+00:00"
+     "data": "2026-07-27T09:42:16+00:00"
     },
     {
      "titolo": "Atletica: Sioli batte Tamberi agli Assoluti, bis di Battocletti nei 1500",
@@ -474,31 +509,6 @@
      "titolo": "Il recordman degli 800, Pernici, alla fidanzata dopo il titolo italiano: 'Mi vuoi sposare?'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/26/il-recordman-degli-800-pernici-alla-fidanzata-dopo-il-titolo-italiano-mi-vuoi_eba7f505-e219-4551-a55c-96ba6f73f3c5.html",
      "data": "2026-07-26T21:09:13+00:00"
-    },
-    {
-     "titolo": "L'Atalanta batte l'Arezzo 3-2 in rimonta a Zingonia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/latalanta-batte-larezzo-3-2-in-rimonta-a-zingonia_cadc8958-4ba9-41e4-86c3-b1d57b4a32bd.html",
-     "data": "2026-07-26T20:26:17+00:00"
-    },
-    {
-     "titolo": "L'Atalanta batte l'Arezzo 3-2 in rimonta nell'amichevole a Zingonia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/latalanta-batte-larezzo-3-2-in-rimonta-nellamichevole-a-zingonia_5e4b48e6-ee67-444e-8aa3-b6e4ca2acb13.html",
-     "data": "2026-07-26T20:02:19+00:00"
-    },
-    {
-     "titolo": "Tadej Pogacar vince il suo quinto Tour de France",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/26/tadej-pogacar-vince-il-suo-quinto-tour-de-france_7bf2d068-7c39-4941-a0c1-ac9887f5003e.html",
-     "data": "2026-07-26T19:27:04+00:00"
-    },
-    {
-     "titolo": "La Lazio vince ancora, il Flaminia Civita Castellana battuto 6-0",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/26/la-lazio-vince-ancora-il-flaminia-civita-castellana-battuto-6-0_66ec5278-fa34-4d2b-b22e-b2c97cbd28f8.html",
-     "data": "2026-07-26T18:30:30+00:00"
-    },
-    {
-     "titolo": "Pogacar: \"su 7 Tour corsi 7 podi e 5 vittorie, nemmeno nei sogni da bambini\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/26/pogacar-su-7-tour-corsi-7-podi-e-5-vittorie-nemmeno-nei-sogni-da-bambini_71823a9b-d56a-4386-8e05-ad07797f205a.html",
-     "data": "2026-07-26T18:22:59+00:00"
     }
    ]
   }
