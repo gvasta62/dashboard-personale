@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-26T23:25:42.518330+00:00",
+ "aggiornato": "2026-07-27T01:04:42.226068+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Pentagono 'taglia' 4 militari caduti dalla guerra all'Iran e crea nuova categoria",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/pentagono-taglia-4-militari-caduti-dalla-guerra-alliran-e-crea-nuova-categoria_53696d52-5ab4-4941-add4-e793e123a86e.html",
+     "data": "2026-07-27T00:29:02+00:00"
+    },
     {
      "titolo": "Trump, 'abbiamo munizioni più di chiunque altro e ben oltre il nostro fabbisogno'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/trump-abbiamo-munizioni-piu-di-chiunque-altro-e-ben-oltre-il-nostro-fabbisogno_8119c07b-0207-4624-94f7-4c610f82a56f.html",
@@ -49,11 +54,6 @@
      "titolo": "Polizia tedesca, 'il sospetto attentatore del Pride è stato ucciso'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/polizia-tedesca-il-sospetto-attentatore-del-pride-e-stato-ucciso_54a1c776-d8ce-4d5a-9465-e9895f6dd032.html",
      "data": "2026-07-26T17:44:16+00:00"
-    },
-    {
-     "titolo": "Media, 'polizia tedesca fa irruzione, l'attentatore è morto'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/media-polizia-tedesca-fa-irruzione-lattentatore-e-morto_7dd2cf2d-70d8-4db3-8282-21a300b975a3.html",
-     "data": "2026-07-26T17:20:27+00:00"
     }
    ]
   },
@@ -286,6 +286,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Pentagono 'taglia' 4 militari caduti dalla guerra all'Iran e crea nuova categoria",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/27/pentagono-taglia-4-militari-caduti-dalla-guerra-alliran-e-crea-nuova-categoria_9ff80be9-13f2-4a24-83bc-f486af189fe8.html",
+     "data": "2026-07-27T00:29:15+00:00"
+    },
+    {
      "titolo": "Trump, 'abbiamo munizioni più di chiunque altro e ben oltre il nostro fabbisogno'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/27/trump-abbiamo-munizioni-piu-di-chiunque-altro-e-ben-oltre-il-nostro-fabbisogno_fb677f62-1bf4-4421-a3ee-179741d10423.html",
      "data": "2026-07-26T22:16:54+00:00"
@@ -339,11 +344,6 @@
      "titolo": "Attentato al Pride di Berlino: chi era Abdul Ballout, estremista di origine libanese già condannato",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/attentato-al-pride-di-berlino-chi-era-abdul-ballout-estremista-di-origine-libanese_eb66a6ce-ce4e-4eac-803f-830d73a49b05.html",
      "data": "2026-07-26T17:58:25+00:00"
-    },
-    {
-     "titolo": "Polizia tedesca, 'il sospetto attentatore del Pride è stato ucciso'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/polizia-tedesca-il-sospetto-attentatore-del-pride-e-stato-ucciso_868f8432-1c4c-40c8-93b5-0a3623214f57.html",
-     "data": "2026-07-26T17:44:17+00:00"
     }
    ]
   },
