@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-27T16:36:49.005157+00:00",
+ "aggiornato": "2026-07-27T18:16:40.173728+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Meloni, il taglio sul gasolio non risolve il problema ma è tempestivo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/meloni-il-taglio-sul-gasolio-non-risolve-il-problema-ma-e-tempestivo_5f101b32-ba9d-4533-b737-a4799d3bf9d1.html",
+     "data": "2026-07-27T17:10:52+00:00"
+    },
+    {
+     "titolo": "Giorgetti, in decreto 100 milioni per l'ex Ilva",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/giorgetti-in-decreto-100-milioni-per-lex-ilva_2591b6e7-e556-4af3-ab3d-268b7367d6db.html",
+     "data": "2026-07-27T16:50:14+00:00"
+    },
+    {
+     "titolo": "Giorgetti, scostamento apre ampi spazi, vanno usati in modo intelligente e mirato",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/giorgetti-scostamento-apre-ampi-spazi-vanno-usati-in-modo-intelligente-e-mirato_9308f15b-e62c-4b55-b088-949308ef0811.html",
+     "data": "2026-07-27T16:39:56+00:00"
+    },
     {
      "titolo": "Giorgetti, sconto solo sul gasolio per 17 centesimi al litro",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/giorgetti-sconto-solo-sul-gasolio-per-17-centesimi-al-litro_eb9741c3-ef61-483b-8db4-b55ed99c4ef2.html",
@@ -39,21 +54,6 @@
      "titolo": "Telt, 'A Chiomonte il peggior attacco ai cantieri Tav dal 2011'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/telt-a-chiomonte-il-peggior-attacco-ai-cantieri-tav-dal-2011_8bff9d1f-f208-401b-aa70-edc8cfdfcc75.html",
      "data": "2026-07-27T15:40:28+00:00"
-    },
-    {
-     "titolo": "Fissore (No Tav), 'la divisione tra valligiani e black bloc è falsa'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/fissore-no-tav-la-divisione-tra-valligiani-e-black-bloc-e-falsa_82a6e081-0ac5-4f60-87ac-1b08f4f774ad.html",
-     "data": "2026-07-27T15:36:04+00:00"
-    },
-    {
-     "titolo": "Trump, sospesi i raid all'Iran per dare una chance ma pronto a forte azione",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/trump-sospesi-i-raid-alliran-per-dare-una-chance-ma-pronto-a-forte_ea34d7d1-d545-414d-8f05-899c52a02c43.html",
-     "data": "2026-07-27T15:28:25+00:00"
-    },
-    {
-     "titolo": "L'accoltellatore di Parigi, 'Allah mi ha mandato per uccidere delle donne'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/laccoltellatore-di-parigi-allah-mi-ha-mandato-per-uccidere-delle-donne_e89170bb-551e-4468-99a4-2794de9f300c.html",
-     "data": "2026-07-27T14:28:15+00:00"
     }
    ]
   },
@@ -126,6 +126,31 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "25enne morto a Cosenza, madre 'lo hanno lasciato saltare nel vuoto'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/25enne-morto-a-cosenza-madre-lo-hanno-lasciato-saltare-nel-vuoto_c30dffbe-1c8d-4571-bf63-d330eefabbbd.html",
+     "data": "2026-07-27T17:56:33+00:00"
+    },
+    {
+     "titolo": "Nel cantiere devastato, 'il peggior attacco dal 2011'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/nel-cantiere-devastato-il-peggior-attacco-dal-2011_3730cc79-7307-41a1-98a2-2a5a3d3291d4.html",
+     "data": "2026-07-27T17:53:42+00:00"
+    },
+    {
+     "titolo": "Odissea di 150 turisti a Palma di Maiorca, 'bloccati in aeroporto per 18 ore'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/odissea-di-150-turisti-a-palma-di-maiorca-bloccati-in-aeroporto-per-18-ore_a53582d0-c34e-4a57-ad9d-6b5e08e99e49.html",
+     "data": "2026-07-27T17:40:52+00:00"
+    },
+    {
+     "titolo": "Gli eredi dei Black Bloc che si sono presi la Val di Susa dei No Tav",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/gli-eredi-dei-black-bloc-che-si-sono-presi-la-val-di-susa_3f3eda2c-1b9f-42d5-b896-d3a30a12a89b.html",
+     "data": "2026-07-27T17:01:30+00:00"
+    },
+    {
+     "titolo": "Telt, 'i danni al cantiere di Chiomonte potrebbero superare il milione'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/telt-i-danni-al-cantiere-di-chiomonte-potrebbero-superare-il-milione_eb8b888e-acf9-4d26-a50f-656d933c22cc.html",
+     "data": "2026-07-27T16:27:58+00:00"
+    },
+    {
      "titolo": "Telt, 'A Chiomonte il peggior attacco ai cantieri Tav dal 2011'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/telt-a-chiomonte-il-peggior-attacco-ai-cantieri-tav-dal-2011_2a55c96f-bd12-4175-8b24-878dc487ed2c.html",
      "data": "2026-07-27T15:53:12+00:00"
@@ -133,7 +158,7 @@
     {
      "titolo": "Meloni in Val di Susa: 'Violenza organizzata'. I No-Tav: 'Siamo tutti responsabili'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/guerriglia-no-tav-meloni-in-val-di-susa-violenza-organizzata.-i-no-tav-siamo-tutti_6aeee38f-44bd-40ef-afaf-9b3a940a47ca.html",
-     "data": "2026-07-27T16:16:48+00:00"
+     "data": "2026-07-27T17:50:41+00:00"
     },
     {
      "titolo": "Fissore (No Tav), 'la divisione tra valligiani e black bloc è falsa'",
@@ -146,9 +171,9 @@
      "data": "2026-07-27T14:35:17+00:00"
     },
     {
-     "titolo": "Nove persone sono state tratte in salvo dall'incendio sul Gargano",
+     "titolo": "Incendio spento sul Gargano, danni all'economia stimati in 10 milioni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/nove-persone-sono-state-tratte-in-salvo-dallincendio-sul-gargano_83c38818-e7d6-433b-8106-dffc331c649f.html",
-     "data": "2026-07-27T14:26:57+00:00"
+     "data": "2026-07-27T17:08:55+00:00"
     },
     {
      "titolo": "Anomalia termica in quota, domani forti temporali sulla Sicilia",
@@ -156,40 +181,20 @@
      "data": "2026-07-27T14:14:08+00:00"
     },
     {
-     "titolo": "Oltre 800 identificati all'uscita del Festival No Tav, fermati quattro antagonisti stranieri",
+     "titolo": "Fermati 4 antagonisti stranieri, altri 800 No Tav identificati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/oltre-800-identificati-alluscita-dal-festival-no-tav-fermati-quattro-antagonisti_52a3db6a-eac8-4e14-b8f1-748da1a77536.html",
-     "data": "2026-07-27T13:55:03+00:00"
-    },
-    {
-     "titolo": "Giornalista ucciso a Eboli, disposto il carcere per l'accusato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/giornalista-ucciso-a-eboli-disposto-il-carcere-per-laccusato_5c0a980f-8031-4f7e-9bc5-65f397f345b1.html",
-     "data": "2026-07-27T15:08:06+00:00"
-    },
-    {
-     "titolo": "Giornalista ucciso, disposto il carcere per l'accusato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/giornalista-ucciso-disposto-il-carcere-per-laccusato_3c6e996f-725a-4c37-9a79-db91a69e4759.html",
-     "data": "2026-07-27T12:54:04+00:00"
-    },
-    {
-     "titolo": "Le madri dalla Polizia per far lasciare il clan ai figli",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/mamma-al-figlio-lascia-il-clan-non-voglio-piangerti-al-cimitero_558792d4-fece-4fd0-841a-50362121888c.html",
-     "data": "2026-07-27T16:21:43+00:00"
-    },
-    {
-     "titolo": "Anziano annega in mare, salvata la figlia disabile che era con lui",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/anziano-annega-in-mare-salvata-la-figlia-disabile-che-era-con-lui_23906a5d-ef77-43ff-8877-c1f973f0bea6.html",
-     "data": "2026-07-27T14:26:35+00:00"
-    },
-    {
-     "titolo": "Oltre 800 identificati dopo il Festival No Tav Alta Felicità",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/oltre-800-identificati-dopo-il-festival-no-tav-alta-felicita_e4dba725-faba-447d-95d4-5429fb9a5c5e.html",
-     "data": "2026-07-27T12:08:28+00:00"
+     "data": "2026-07-27T17:50:20+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Meloni, il taglio sul gasolio non risolve il problema ma è tempestivo",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/meloni-il-taglio-sul-gasolio-non-risolve-il-problema-ma-e-tempestivo_83fae40e-2e71-494e-97f0-96be9fcea5e2.html",
+     "data": "2026-07-27T17:10:46+00:00"
+    },
     {
      "titolo": "Telt, 'A Chiomonte il peggior attacco ai cantieri Tav dal 2011'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/telt-a-chiomonte-il-peggior-attacco-ai-cantieri-tav-dal-2011_720b925a-fc25-4c0c-b105-3582769d5c99.html",
@@ -211,9 +216,9 @@
      "data": "2026-07-27T14:02:23+00:00"
     },
     {
-     "titolo": "Schlein: 'Il Colle un'ossessione di Meloni'. La premier: 'Gettò ombre sul caso Ranucci, chieda scusa'",
+     "titolo": "'Ossessionata dal Quirinale', il campo largo fa muro contro Meloni",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/schlein-il-colle-unossessione-di-meloni-ma-non-e-la-soluzione_9f0e2d87-01dc-4571-86e4-dd15a7b57fcb.html",
-     "data": "2026-07-27T15:15:52+00:00"
+     "data": "2026-07-27T18:01:25+00:00"
     },
     {
      "titolo": "Schlein, il governo strumentalizza, lavoriamo insieme per isolare i violenti",
@@ -244,11 +249,6 @@
      "titolo": "Il vescovo di Ascoli a Pastasciutta, 'antifascismo è patrimonio condiviso'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/il-vescovo-di-ascoli-a-pastasciutta-antifascismo-e-patrimonio-condiviso_13f604a6-3e63-4e1c-8d2f-a518b47d0fe7.html",
      "data": "2026-07-27T09:52:39+00:00"
-    },
-    {
-     "titolo": "Meloni e Piantedosi in Val di Susa dopo gli assalti No Tav ai cantieri",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/27/meloni-e-piantedosi-in-val-di-susa-dopo-gli-assalti-no-tav-ai-cantieri_d5e281ee-2b30-41e4-9433-33f48eb9005a.html",
-     "data": "2026-07-27T08:41:12+00:00"
     }
    ]
   },
@@ -256,14 +256,39 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Taglio accise e accise mobili, cosa succede alla pompa",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/taglio-accise-e-accise-mobili-cosa-succede-alla-pompa_1e509d72-cf82-4ef9-9d55-6b76067b65bc.html",
+     "data": "2026-07-27T18:09:12+00:00"
+    },
+    {
+     "titolo": "Ford corre per la sua più importante commessa militare dalla Guerra Fredda",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/ford-corre-per-la-sua-piu-importante-commessa-militare-dalla-guerra_9d7774d9-393e-44e4-975a-34e40a8428a5.html",
+     "data": "2026-07-27T17:30:51+00:00"
+    },
+    {
+     "titolo": "Saipem chiude il semestre con ricavi in crescita a 7,34 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/saipem-chiude-il-semestre-con-ricavi-in-crescita-a-734-miliardi_508bbf87-81c2-44da-8405-b4244ef6eb13.html",
+     "data": "2026-07-27T18:06:57+00:00"
+    },
+    {
+     "titolo": "Giorgetti, in decreto 100 milioni per l'ex Ilva",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/giorgetti-in-decreto-100-milioni-per-lex-ilva_d12affdf-265c-4604-b359-a65706e9b7e5.html",
+     "data": "2026-07-27T16:50:19+00:00"
+    },
+    {
+     "titolo": "Giorgetti, scostamento apre ampi spazi, vanno usati in modo intelligente e mirato",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/giorgetti-scostamento-apre-ampi-spazi-vanno-usati-in-modo-intelligente-e-mirato_ba237b01-b511-4349-93be-8c3364dc1a6d.html",
+     "data": "2026-07-27T16:40:00+00:00"
+    },
+    {
      "titolo": "Telt, 'i danni al cantiere di Chiomonte potrebbero superare il milione'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/telt-i-danni-al-cantiere-di-chiomonte-potrebbero-superare-il-milione_b76057b6-8de3-441e-b7a1-b142768f11b8.html",
      "data": "2026-07-27T16:27:46+00:00"
     },
     {
-     "titolo": "Giorgetti: 'Sconto solo sul diesel, 17 centesimi al litro'",
+     "titolo": "Giorgetti: 'Sconto solo sul diesel, 17 centesimi al litro fino al 6 agosto",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/giorgetti-sconto-solo-sul-diesel-17-centesimi-al-litro_9c8411bb-583f-407e-a372-27214add207a.html",
-     "data": "2026-07-27T16:22:56+00:00"
+     "data": "2026-07-27T18:09:47+00:00"
     },
     {
      "titolo": "Giorgetti, sconto solo sul gasolio per 17 centesimi al litro",
@@ -289,37 +314,27 @@
      "titolo": "Lvmh, nel semestre ricavi a 38,6 miliardi (-3%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/lvmh-nel-semestre-ricavi-a-386-miliardi-3_7fa588d7-3e80-4780-84c9-6d60a08d7035.html",
      "data": "2026-07-27T16:11:14+00:00"
-    },
-    {
-     "titolo": "Bufalini (Telt), 'rischio ritardo Tav ma non ci facciamo intimidire'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/bufalini-telt-rischio-ritardo-tav-ma-non-ci-facciamo-intimidire_ae4fece3-478c-4eae-83be-5e78ee7250c1.html",
-     "data": "2026-07-27T16:02:05+00:00"
-    },
-    {
-     "titolo": "Telt, 'A Chiomonte il peggior attacco ai cantieri Tav dal 2011'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/telt-a-chiomonte-il-peggior-attacco-ai-cantieri-tav-dal-2011_11155bdd-7c4d-47d9-9e61-9f62eeb6ff50.html",
-     "data": "2026-07-27T15:53:09+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in rialzo, Ftse Mib +0,49%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/borsa-milano-chiude-in-rialzo-ftse-mib-049_f768f3de-c742-4aaf-b0e3-1211a1a3ebf5.html",
-     "data": "2026-07-27T15:47:43+00:00"
-    },
-    {
-     "titolo": "Boring Company di Musk punta a una valutazione di 20 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/boring-company-di-musk-punta-a-una-valutazione-di-20-miliardi_0da73597-ab5a-4338-ae02-2a26c6f03608.html",
-     "data": "2026-07-27T15:01:23+00:00"
-    },
-    {
-     "titolo": "'United ha avvicinato Delta per una maxi-fusione'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/united-ha-avvicinato-delta-per-una-maxi-fusione_972a7f91-e56d-4d08-a20e-e56b1a49b904.html",
-     "data": "2026-07-27T14:55:05+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Le truppe Usa si ritirano dal Venezuela, conclusa missione umanitaria post terremoto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/le-truppe-usa-si-ritirano-dal-venezuela-conclusa-missione-umanitaria-post-terremoto_809fc3c5-5063-4564-811b-dca829c3c775.html",
+     "data": "2026-07-27T18:03:38+00:00"
+    },
+    {
+     "titolo": "La Florida giustizierà due detenuti in un giorno, prima volta in 60 anni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/27/la-florida-giustiziera-due-detenuti-in-un-giorno-prima-volta-in-60-anni_45feb819-1426-47ec-9919-b54c6564d1be.html",
+     "data": "2026-07-27T17:41:33+00:00"
+    },
+    {
+     "titolo": "Georgieva (Fmi), 'oggi l'Argentina è in condizione di affrontare il suo debito'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/georgieva-fmi-oggi-largentina-e-in-condizione-di-affrontare-il-suo-debito_25f5b9af-e422-45be-9183-746076aaa38b.html",
+     "data": "2026-07-27T16:38:48+00:00"
+    },
     {
      "titolo": "Tajani, 'con summit su Medio Oriente Roma sarà capitale di pace'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/27/tajani-con-summit-su-medio-oriente-roma-sara-capitale-di-pace_1803c878-33a4-4856-bad9-17054ee62df5.html",
@@ -364,21 +379,6 @@
      "titolo": "L'accoltellatore di Parigi, 'Allah mi ha mandato per uccidere delle donne'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/27/laccoltellatore-di-parigi-allah-mi-ha-mandato-per-uccidere-delle-donne_9060a13f-dd8c-4a60-b527-a5b079720c3e.html",
      "data": "2026-07-27T14:29:23+00:00"
-    },
-    {
-     "titolo": "Presidente Sudafrica chiede risposta africana comune sulla migrazione",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/27/presidente-sudafrica-chiede-risposta-africana-comune-sulla-migrazione_7dd6a63f-7f08-49df-a4e4-89ca454f7bd0.html",
-     "data": "2026-07-27T14:14:13+00:00"
-    },
-    {
-     "titolo": "Nigeriano muore durante arresto a Città del Capo in Sudafrica",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/27/nigeriano-muore-durante-arresto-a-citta-del-capo-in-sudafrica_600d882c-9748-4ad1-b780-7410b51a0a52.html",
-     "data": "2026-07-27T14:12:09+00:00"
-    },
-    {
-     "titolo": "Houthi, attaccati con droni impianti petroliferi sauditi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/27/houthi-attaccati-con-droni-impianti-petroliferi-sauditi_6b2aa76d-e459-48b3-90dd-88210f9d7e68.html",
-     "data": "2026-07-27T13:34:02+00:00"
     }
    ]
   },
@@ -451,6 +451,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Lo sconcerto di Abete, 'Malagò non ha fatto nomi, non siamo abituati a certe situazioni'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/27/lo-sconcerto-di-abete-malago-non-ha-fatto-nomi-siamo-abituati-a-certe-situazioni_fdf093fb-d390-4a70-9802-054ea96250b4.html",
+     "data": "2026-07-27T18:03:50+00:00"
+    },
+    {
+     "titolo": "Simonelli 'appreso dalla tv delle dimissioni di Maldini, dispiaciuto ma non sorpreso'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/27/simonelli-appreso-dalla-tv-delle-dimissioni-di-maldini-dispiaciuto-ma-non-sorpreso_2d843dcb-0572-4007-b656-1e48e237b5f2.html",
+     "data": "2026-07-27T17:34:59+00:00"
+    },
+    {
+     "titolo": "Euro 2032: Abodi, il Flaminio può essere usato per gli allenamenti non come stadio",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/27/euro-2032-abodi-il-flaminio-puo-essere-usato-per-gli-allenamenti_430f7494-7f3c-4d50-b305-eb3ac2d95a10.html",
+     "data": "2026-07-27T17:01:48+00:00"
+    },
+    {
+     "titolo": "Ct Italia, Abodi: 'Brutta figura', e ambasciata Russia sta con Pirlo",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/27/ct-italia-abodi-brutta-figura-e-ambasciata-russia-sta-con-pirlo_74c60993-9b2f-4dcb-beaa-4c5132c6cd21.html",
+     "data": "2026-07-27T17:40:53+00:00"
+    },
+    {
      "titolo": "Cagliari: Caprile 'primo traguardo la salvezza poi proveremo a migliorarci'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/27/cagliari-caprile-primo-traguardo-la-salvezza-poi-proveremo-a-migliorarci_62b917e3-facb-4019-a21a-835951bb376f.html",
      "data": "2026-07-27T15:58:06+00:00"
@@ -476,9 +496,9 @@
      "data": "2026-07-27T16:12:28+00:00"
     },
     {
-     "titolo": "Pirlo non sarà il Ct. Abodi: 'Recuperare alla brutta figura'. Malagò: 'Dipende chi l'ha fatta'",
+     "titolo": "Pirlo non sarà il Ct. Sky: 'Maldini e Leonardo lasciano la nazionale'",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/07/27/pirlo-non-sara-il-ct.-abodi-recuperare-alla-brutta-figura.-malago_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
-     "data": "2026-07-27T15:39:05+00:00"
+     "data": "2026-07-27T18:12:46+00:00"
     },
     {
      "titolo": "Chiesa: 'Scommetto ancora sul Liverpool, ma non mollo l'Italia'",
@@ -489,26 +509,6 @@
      "titolo": "Malagò 'brutta figura sul ct? Dipende chi l'ha fatta...'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/27/malago-brutta-figura-sul-ct-dipende-chi-lha-fatta..._158ef8b0-6f12-4813-87b1-5cd483b124af.html",
      "data": "2026-07-27T13:10:25+00:00"
-    },
-    {
-     "titolo": "Abodi, Pirlo? Ora bisogna recuperare alla brutta figura",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/27/abodi-pirlo-ora-bisogna-recuperare-alla-brutta-figura_9136034b-64fd-41a1-add9-5ba76ddc9210.html",
-     "data": "2026-07-27T10:03:41+00:00"
-    },
-    {
-     "titolo": "Beach Rugby, trofeo 2026 a The Rockets per gli uomini e Sabbie Mobili per le donne",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/27/beach-rugby-trofeo-2026-a-the-rockets-per-gli-uomini-e-sabbie_da925f75-0fcb-4a30-8c86-29305985ae3d.html",
-     "data": "2026-07-27T09:09:20+00:00"
-    },
-    {
-     "titolo": "Ranking Wta, Paolini stabile al 15mo posto",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/27/ranking-wta-paolini-stabile-al-15mo-posto_c4cb73aa-e1ef-4cb5-92e3-6d16b4a94b29.html",
-     "data": "2026-07-27T14:55:43+00:00"
-    },
-    {
-     "titolo": "Ranking Atp, Sinner sempre saldamente al comando",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/27/ranking-atp-sinner-sempre-saldamente-al-comando_2896aae7-0894-4dce-a1da-b2a8c3211887.html",
-     "data": "2026-07-27T13:51:20+00:00"
     }
    ]
   }
