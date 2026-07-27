@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-27T01:04:42.226068+00:00",
+ "aggiornato": "2026-07-27T04:58:48.344984+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Usa, 2 morti e diversi feriti in una sparatoria a Seattle",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/usa-2-morti-e-diversi-feriti-in-una-sparatoria-a-seattle_bdac8270-04b2-461c-a10a-7a3ef91e1577.html",
+     "data": "2026-07-27T04:45:00+00:00"
+    },
+    {
+     "titolo": "Russia, attacco aereo a Rostov uccide due persone e ne ferisce 5",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/russia-attacco-aereo-a-rostov-uccide-due-persone-e-ne-ferisce-5_ebb9254a-d35d-4e05-ab39-3aa235da68d5.html",
+     "data": "2026-07-27T03:24:03+00:00"
+    },
+    {
+     "titolo": "Oltre 1.400 morti nell'epidemia di Ebola in Congo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/oltre-1.400-morti-nellepidemia-di-ebola-in-congo_91d010c3-808e-4139-a792-bdb3aa1668f0.html",
+     "data": "2026-07-27T01:05:18+00:00"
+    },
     {
      "titolo": "Pentagono 'taglia' 4 militari caduti dalla guerra all'Iran e crea nuova categoria",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/pentagono-taglia-4-militari-caduti-dalla-guerra-alliran-e-crea-nuova-categoria_53696d52-5ab4-4941-add4-e793e123a86e.html",
@@ -39,21 +54,6 @@
      "titolo": "Putin, 'l'operazione militare in Ucraina finirà con la nostra vittoria'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/putin-loperazione-militare-in-ucraina-finira-con-la-nostra-vittoria_a94776b2-c4a5-4380-b402-b09c6f5bf599.html",
      "data": "2026-07-26T18:21:39+00:00"
-    },
-    {
-     "titolo": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/axios-per-capo-centcom-i-raid-a-hormuz-hanno-raggiunto-limiti-defficacia_a18e90d4-b76f-46c5-812b-7bd8ea414fe0.html",
-     "data": "2026-07-26T18:08:28+00:00"
-    },
-    {
-     "titolo": "Polizia Berlino, Ballout ha aggredito agenti con arma da taglio prima di essere ucciso",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/polizia-berlino-ballout-ha-aggredito-agenti-con-arma-da-taglio-prima-di-essere_359a3bce-7e79-4122-b7a4-20d89b16d198.html",
-     "data": "2026-07-26T18:06:02+00:00"
-    },
-    {
-     "titolo": "Polizia tedesca, 'il sospetto attentatore del Pride è stato ucciso'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/26/polizia-tedesca-il-sospetto-attentatore-del-pride-e-stato-ucciso_54a1c776-d8ce-4d5a-9465-e9895f6dd032.html",
-     "data": "2026-07-26T17:44:16+00:00"
     }
    ]
   },
@@ -286,6 +286,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Usa, 2 morti e diversi feriti in una sparatoria a Seattle",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/27/usa-2-morti-e-diversi-feriti-in-una-sparatoria-a-seattle_820c5e01-f6a7-4a41-b340-ef76c39715d0.html",
+     "data": "2026-07-27T04:45:03+00:00"
+    },
+    {
+     "titolo": "Russia, attacco aereo a Rostov uccide due persone e ne ferisce 5",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/27/russia-attacco-aereo-a-rostov-uccide-due-persone-e-ne-ferisce-5_809bc23a-3b6b-4910-bbc8-75a75212dd94.html",
+     "data": "2026-07-27T03:24:03+00:00"
+    },
+    {
+     "titolo": "Oltre 1.400 morti nell'epidemia di Ebola in Congo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/27/oltre-1.400-morti-nellepidemia-di-ebola-in-congo_1d3b15a0-79fd-4f03-b704-0f8eafb49a9c.html",
+     "data": "2026-07-27T01:05:21+00:00"
+    },
+    {
      "titolo": "Pentagono 'taglia' 4 militari caduti dalla guerra all'Iran e crea nuova categoria",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/27/pentagono-taglia-4-militari-caduti-dalla-guerra-alliran-e-crea-nuova-categoria_9ff80be9-13f2-4a24-83bc-f486af189fe8.html",
      "data": "2026-07-27T00:29:15+00:00"
@@ -329,21 +344,6 @@
      "titolo": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/26/axios-per-capo-centcom-i-raid-a-hormuz-hanno-raggiunto-limiti-defficacia_32e11869-2d89-4464-a117-88d64e291f49.html",
      "data": "2026-07-26T18:08:32+00:00"
-    },
-    {
-     "titolo": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/26/axios-per-capo-centcom-i-raid-a-hormuz-hanno-raggiunto-limiti-defficacia_22b246c8-eea9-414e-9fe6-7bcc8f1af3ac.html",
-     "data": "2026-07-26T18:08:32+00:00"
-    },
-    {
-     "titolo": "Polizia Berlino, Ballout ha aggredito agenti con arma da taglio prima di essere ucciso",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/polizia-berlino-ballout-ha-aggredito-agenti-con-arma-da-taglio-prima-di-essere_b4cc749c-bab2-450d-a25f-52b9b10ba674.html",
-     "data": "2026-07-26T18:06:02+00:00"
-    },
-    {
-     "titolo": "Attentato al Pride di Berlino: chi era Abdul Ballout, estremista di origine libanese già condannato",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/attentato-al-pride-di-berlino-chi-era-abdul-ballout-estremista-di-origine-libanese_eb66a6ce-ce4e-4eac-803f-830d73a49b05.html",
-     "data": "2026-07-26T17:58:25+00:00"
     }
    ]
   },
