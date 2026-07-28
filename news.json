@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-28T01:12:43.212648+00:00",
+ "aggiornato": "2026-07-28T04:32:30.374899+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, attacco ucraino a Mosca con centinaia di droni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/28/media-attacco-ucraino-a-mosca-con-un-centinaio-di-droni_2e468ba4-5763-4059-9630-e3bbf1ab3f8d.html",
+     "data": "2026-07-28T04:22:35+00:00"
+    },
+    {
+     "titolo": "Borsa: Seul crolla oltre l'8%, scatta il circuit breaker sul Kospi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/28/borsa-seul-crolla-oltre-l8-scatta-il-circuit-breaker-sul-kospi_0ed58570-71e5-4b31-92c0-3568f482de76.html",
+     "data": "2026-07-28T03:39:07+00:00"
+    },
+    {
+     "titolo": "Borse: Tokyo cede oltre il 4%, Seul quasi -8% sui timori per i chip",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/28/borse-tokyo-cede-oltre-il-4-seul-quasi-8-sui-timori-per-i-chip_f3abd0b7-847d-4fbc-95ce-2be577e1106c.html",
+     "data": "2026-07-28T01:59:33+00:00"
+    },
     {
      "titolo": "Axios, 'per funzionari Usa sanzioni all'Iran fanno più male dei raid'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/28/axios-per-funzionari-usa-sanzioni-alliran-fanno-piu-male-dei_dbef728d-7247-4dc3-a35f-8308ede3e517.html",
@@ -39,21 +54,6 @@
      "titolo": "Giorgetti, in decreto 100 milioni per l'ex Ilva",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/giorgetti-in-decreto-100-milioni-per-lex-ilva_2591b6e7-e556-4af3-ab3d-268b7367d6db.html",
      "data": "2026-07-27T16:50:14+00:00"
-    },
-    {
-     "titolo": "Giorgetti, scostamento apre ampi spazi, vanno usati in modo intelligente e mirato",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/giorgetti-scostamento-apre-ampi-spazi-vanno-usati-in-modo-intelligente-e-mirato_9308f15b-e62c-4b55-b088-949308ef0811.html",
-     "data": "2026-07-27T16:39:56+00:00"
-    },
-    {
-     "titolo": "Giorgetti, sconto solo sul gasolio per 17 centesimi al litro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/giorgetti-sconto-solo-sul-gasolio-per-17-centesimi-al-litro_eb9741c3-ef61-483b-8db4-b55ed99c4ef2.html",
-     "data": "2026-07-27T16:23:12+00:00"
-    },
-    {
-     "titolo": "Tajani, 'con summit su Medio Oriente Roma sarà capitale di pace'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/tajani-con-summit-su-medio-oriente-roma-sara-capitale-di-pace_8dd5449d-88b7-4980-8c42-5909fe2a372c.html",
-     "data": "2026-07-27T16:20:12+00:00"
     }
    ]
   },
@@ -256,6 +256,16 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Seul crolla oltre l'8%, scatta il circuit breaker sul Kospi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/borsa-seul-crolla-oltre-l8-scatta-il-circuit-breaker-sul-kospi_c2b44ed3-72fe-4c21-8cac-71de72c95b67.html",
+     "data": "2026-07-28T03:38:35+00:00"
+    },
+    {
+     "titolo": "Borse: Tokyo cede oltre il 4%, Seul quasi -8% sui timori per i chip",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/borse-tokyo-cede-oltre-il-4-seul-quasi-8-sui-timori-per-i-chip_0a94d4fd-d4c8-4268-8b93-426581f2041b.html",
+     "data": "2026-07-28T01:59:13+00:00"
+    },
+    {
      "titolo": "Jindal conferma impegno per l'acquisizione dell'ex Ilva di Taranto",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/jindal-conferma-impegno-per-lacquisizione-dellex-ilva-di-taranto_e91f18be-6725-4613-b282-89ca94a56a4c.html",
      "data": "2026-07-27T21:46:37+00:00"
@@ -304,22 +314,32 @@
      "titolo": "Gas: future in discesa libera a 57,7 euro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/gas-future-in-discesa-libera-a-577-euro_1f6585aa-ae9f-4a25-8d51-c46bdfc3b279.html",
      "data": "2026-07-27T16:23:12+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude a 80,9 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/lo-spread-tra-btp-e-bund-chiude-a-809-punti_358bcd5e-8c70-437d-b4bb-5120b4889209.html",
-     "data": "2026-07-27T16:18:45+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa in rialzo, Francoforte +1,04%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/borsa-europa-in-rialzo-francoforte-104_ec7c6ef0-7db0-4ff0-ba45-a822c8f7553e.html",
-     "data": "2026-07-27T16:13:52+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Media, attacco ucraino a Mosca con un centinaio di droni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/28/media-attacco-ucraino-a-mosca-con-un-centinaio-di-droni_82cf6864-862a-407d-a5a5-449230900e20.html",
+     "data": "2026-07-28T04:04:31+00:00"
+    },
+    {
+     "titolo": "Nozze 'Appy', l'intelligenza artificiale aiuta centinaia di giapponesi a sposarsi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/28/nozze-appy-lintelligenza-artificiale-aiuta-centinaia-di-giapponesi-a-sposarsi_4f8ac25b-921e-4c5b-94bd-ca532327b888.html",
+     "data": "2026-07-28T03:02:31+00:00"
+    },
+    {
+     "titolo": "Lula al presidente sudcoreano Lee, 'sappiamo difendere la democrazia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/28/lula-al-presidente-sudcoreano-lee-sappiamo-difendere-la-democrazia_88630540-597b-43a3-8eda-38a612f18f75.html",
+     "data": "2026-07-28T01:35:16+00:00"
+    },
+    {
+     "titolo": "Messico, Sheinbaum cerca il consenso su nuove regole per i cellulari",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/28/messico-sheinbaum-cerca-il-consenso-su-nuove-regole-per-i-cellulari_c3be63a6-a3a6-4061-98bf-ab6a7921e802.html",
+     "data": "2026-07-28T01:17:53+00:00"
+    },
     {
      "titolo": "Axios, 'per funzionari Usa sanzioni all'Iran fanno più male dei raid'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/28/axios-per-funzionari-usa-sanzioni-alliran-fanno-piu-male-dei_59be125d-f343-40c4-ac9d-99b14db8ecbd.html",
@@ -359,26 +379,6 @@
      "titolo": "Uruguay schiera blindati contro la criminalità nelle aree più a rischio di Montevideo",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/uruguay-schiera-blindati-contro-la-criminalita-nelle-aree-piu-a-rischio-di-montevideo_0fe0a365-d99e-4dd1-8a16-9cdb9cb8e1f6.html",
      "data": "2026-07-27T20:56:22+00:00"
-    },
-    {
-     "titolo": "Ministro Brasile contro Milei, 'provocazione senza precedenti nei rapporti bilaterali'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/ministro-brasile-contro-milei-provocazione-senza-precedenti-nei-rapporti-bilaterali_adea0c20-b52f-4b0b-b999-d2efa15c4088.html",
-     "data": "2026-07-27T20:18:01+00:00"
-    },
-    {
-     "titolo": "Haiti al voto il 13 dicembre, prima volta dal 2016",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/haiti-al-voto-il-13-dicembre-prima-volta-dal-2016_2e02bc1c-90fd-472f-85bf-1116be4e77e3.html",
-     "data": "2026-07-27T19:33:44+00:00"
-    },
-    {
-     "titolo": "Macron, l'incendio nelle Lande 'è sotto controllo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/27/macron-lincendio-nelle-lande-e-sotto-controllo_f6ff8105-3c3f-4b58-b155-793857c30a98.html",
-     "data": "2026-07-27T18:55:36+00:00"
-    },
-    {
-     "titolo": "Keiko Fujimori rivela nomine chiave del suo futuro governo in Perù",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/keiko-fujimori-rivela-nomine-chiave-del-suo-futuro-governo-in-peru_121ad58b-f89f-4ac0-a6a6-77ea7a39c584.html",
-     "data": "2026-07-27T18:39:40+00:00"
     }
    ]
   },
