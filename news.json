@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-28T17:49:20.476312+00:00",
+ "aggiornato": "2026-07-28T19:00:52.502554+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Netanyahu, 'incontro eccellente, con Trump non vogliamo nucleare all'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/28/netanyahu-incontro-eccellente-con-trump-non-vogliamo-nucleare-alliran_22560304-0967-4b11-ac8e-204e73876ef0.html",
+     "data": "2026-07-28T18:35:53+00:00"
+    },
     {
      "titolo": "Madre di Domenico, 'a settembre il processo, voglio guardarli negli occhi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/28/madre-di-domenico-a-settembre-il-processo-voglio-guardarli-negli-occhi_fe6135be-96c4-47a9-983c-419e5c2dcac5.html",
@@ -49,17 +54,17 @@
      "titolo": "Borsa: l'Europa risale nel finale, Milano maglia nera (-0,8%)",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/28/borsa-leuropa-risale-nel-finale-milano-maglia-nera-08_6c0e1cdf-8e87-4f8e-9165-9d391a8bb616.html",
      "data": "2026-07-28T15:17:23+00:00"
-    },
-    {
-     "titolo": "Bracciante muore in una serra, non escluso malore per caldo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/28/bracciante-muore-in-una-serra-non-escluso-malore-per-caldo_06dbe023-df9a-432f-9d27-7f1ee125743c.html",
-     "data": "2026-07-28T14:54:31+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Perugia ha intitolato a Ilario Castagner lo stadio della prima volta in A",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/28/calcio-perugia-ha-intitolato-a-ilario-castagner-lo-stadio-della-prima-volta-in-a_a2b1ec20-dc86-4eb8-aa05-7f8f1bef530c.html",
+     "data": "2026-07-28T18:21:02+00:00"
+    },
     {
      "titolo": "Gdf, a Orvieto le esercitazioni per il personale in addestramento al tiro",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/28/gdf-a-orvieto-le-esercitazioni-per-il-personale-in-addestramento-al-tiro_7d4adb52-a5bf-4ba2-be5b-212696e6a4b7.html",
@@ -88,7 +93,7 @@
     {
      "titolo": "Bori, 'i nostri teatri non soltanto gioielli d'arte ma veri e propri fari comunitari'",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/28/bori-i-nostri-teatri-non-soltanto-gioielli-darte-ma-veri-e-propri-fari_f109a74d-d03c-4b12-9c4d-66075583891a.html",
-     "data": "2026-07-28T14:35:11+00:00"
+     "data": "2026-07-28T18:10:41+00:00"
     },
     {
      "titolo": "Il Teatro Menotti di Spoleto patrimonio Unesco, 'premiata una lunga storia culturale'",
@@ -114,17 +119,22 @@
      "titolo": "Per dossier Avs da bere a 43 milioni di persone con acqua persa dalle condotte",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/28/per-dossier-avs-da-bere-a-43-milioni-di-persone-con-acqua-persa-dalle_166307f7-005a-4385-b6ce-0f5e82117385.html",
      "data": "2026-07-28T13:25:52+00:00"
-    },
-    {
-     "titolo": "Fratoianni, crisi climatica è enorme questione politica",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/28/fratoianni-crisi-climatica-e-enorme-questione-politica_9ecc7102-f595-49ae-8287-62055cb7b28a.html",
-     "data": "2026-07-28T11:46:58+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Pisani a Bologna, vede agenti e i parenti di Fakir. Nuovi testi dai pm",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/28/pisani-a-bologna-vede-agenti-e-i-parenti-di-fakir.-nuovi-testi-dai-pm_75bb7158-c308-4b52-b6e4-16fddff8b2be.html",
+     "data": "2026-07-28T18:06:35+00:00"
+    },
+    {
+     "titolo": "Ucciso a Milano, il fermato aggredì un uomo urlando Allah Akbar",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/28/ucciso-a-milano-il-fermato-aggredi-un-uomo-urlando-allah-akbar_46e919a0-592b-44fa-afbd-0453355aab23.html",
+     "data": "2026-07-28T17:46:43+00:00"
+    },
     {
      "titolo": "Madre di Domenico, 'a settembre il processo, voglio guardarli negli occhi'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/28/madre-di-domenico-a-settembre-il-processo-voglio-guardarli-negli-occhi_d83ec0a6-b30a-42a7-a148-d0ac59af43e1.html",
@@ -174,16 +184,6 @@
      "titolo": "Omicidio a Milano, il fermato incastrato dall'impronta di una mano",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/28/omicidio-a-milano-il-fermato-incastrato-dallimpronta-di-una-mano_6ce3429e-405c-4055-812e-8e38d79ca99e.html",
      "data": "2026-07-28T13:16:27+00:00"
-    },
-    {
-     "titolo": "Morta nell'attentato a Modena, addio sulle note di Vasco e palloncini in cielo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/28/morta-nellattentato-a-modena-addio-sulle-note-di-vasco-e-palloncini-in-cielo_18124e50-1228-4734-ad1c-5bca2fb6856f.html",
-     "data": "2026-07-28T12:23:26+00:00"
-    },
-    {
-     "titolo": "Neonata di 3 giorni resta chiusa in auto a Lecco, salvata",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/28/neonata-di-3-giorni-resta-chiusa-in-auto-a-lecco-salvata_5aca41c8-8ae0-4721-b93c-f2b7c08191f4.html",
-     "data": "2026-07-28T12:14:45+00:00"
     }
    ]
   },
@@ -191,9 +191,24 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "L'assalto dei No Tav, scontro in Consiglio in Piemonte",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/28/lassalto-dei-no-tav-scontro-in-consiglio-in-piemonte_f36fcd76-3851-44e3-b12c-1620d5a16718.html",
+     "data": "2026-07-28T17:58:57+00:00"
+    },
+    {
+     "titolo": "La maggioranza accelera sulla riforma Rai: 'L'Ad nominato dal Cda'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/28/la-maggioranza-accelera-sulla-riforma-rai-lad-nominato-dal-cda_b7022842-d7d9-4e3a-beeb-02bf1b36ddf0.html",
+     "data": "2026-07-28T18:15:28+00:00"
+    },
+    {
      "titolo": "Il sindaco di Borgone, 'il movimento No Tav è morto'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/28/il-sindaco-di-borgone-il-movimento-no-tav-e-morto_db7ab522-a363-4981-a344-6f3729f9f4d2.html",
      "data": "2026-07-28T17:40:09+00:00"
+    },
+    {
+     "titolo": "Alemanno da Nordio: 'Contraddizioni del sistema carceri'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/28/alemanno-da-nordio-contraddizioni-del-sistema-carceri_af01592b-e7b0-4bdc-8bf9-3b790a9fcc67.html",
+     "data": "2026-07-28T18:19:50+00:00"
     },
     {
      "titolo": "Mattarella a Pantelleria per il decennale del parco nazionale",
@@ -221,9 +236,9 @@
      "data": "2026-07-28T13:43:04+00:00"
     },
     {
-     "titolo": "Fontana: 'Destra al Colle? Chi diventa presidente deve essere un buon arbitro'",
+     "titolo": "Fontana frena su Roggero e i nuovi reati: 'Le leggi esistono già'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/28/fontana-destra-al-colle-chi-diventa-presidente-deve-essere-un-buon-arbitro_bdd91581-ac42-49dd-a65a-1a93a22c1aad.html",
-     "data": "2026-07-28T14:52:37+00:00"
+     "data": "2026-07-28T18:11:34+00:00"
     },
     {
      "titolo": "Alemanno da Nordio: 'Il mio caso ha evidenziato le contraddizioni del sistema carceri'",
@@ -234,27 +249,17 @@
      "titolo": "Borghi (Lega), 'nessuna decisione sul Safe, si esprimerà il Parlamento'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/28/borghi-lega-nessuna-decisione-sul-safe-si-esprimera-il-parlamento_a59f9dca-677a-46bb-997c-a908dd072e2d.html",
      "data": "2026-07-28T10:26:16+00:00"
-    },
-    {
-     "titolo": "Prestiti agevolati per la difesa. Cosa è e come funziona il fondo Safe",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/28/cosa-e-e-come-funziona-il-fondo-safe_82bc1925-72c8-427a-ab73-15f9bdec7a73.html",
-     "data": "2026-07-28T10:09:06+00:00"
-    },
-    {
-     "titolo": "Tajani, 'contrari ad emendamento su intercettazioni, credo sia anche inammissibile'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/28/tajani-contrari-ad-emendamento-su-intercettazioni-credo-sia-anche-inammissibile_2f478448-4d27-4316-8c9e-1c740c404a8a.html",
-     "data": "2026-07-28T09:48:52+00:00"
-    },
-    {
-     "titolo": "Tajani: 'Il governo ha prenotato 14,9 miliardi delle risorse Safe' per le spese militari",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/28/tajani-abbiamo-deciso-di-chiedere-safe-per-149-miliardi_14b82a80-5820-48e4-865f-082cdab8620b.html",
-     "data": "2026-07-28T14:13:02+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Il gas prosegue in deciso calo (-3,8%) ad Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/il-gas-prosegue-in-deciso-calo-38-ad-amsterdam_8de2bc2f-d334-486e-987b-ec940c982195.html",
+     "data": "2026-07-28T17:57:55+00:00"
+    },
     {
      "titolo": "Lo spread Btp-Bund scende a ridosso degli 80 punti base",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/lo-spread-btp-bund-scende-a-ridosso-degli-80-punti-base_0db34db6-2562-4dc4-a511-6a672900e8d9.html",
@@ -309,17 +314,27 @@
      "titolo": "Borsa: l'Europa arranca con le vendite sui semiconduttori, Milano -0,6%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/borsa-leuropa-arranca-con-le-vendite-sui-semiconduttori-milano-06_3c8dfff4-0c59-491c-8890-e825b3378458.html",
      "data": "2026-07-28T14:10:10+00:00"
-    },
-    {
-     "titolo": "Per Boeing trimestre in rosso, pesano i costi dell'Air Force One",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/per-boeing-trimestre-in-rosso-pesano-i-costi-dellair-force-one_a183e21d-1ec4-4283-b1e6-f5f61424ee42.html",
-     "data": "2026-07-28T14:08:00+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Netanyhau da Trump nello Studio Ovale, 'allineati su ogni scelta in Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/28/netanyhau-da-trump-nello-studio-ovale-allineati-su-ogni-scelta-in-iran_95f4f633-27f6-4be2-b9b0-a7f0079b17b7.html",
+     "data": "2026-07-28T18:45:40+00:00"
+    },
+    {
+     "titolo": "Netanyahu, 'incontro eccellente, con Trump non vogliamo nucleare all'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/28/netanyahu-incontro-eccellente-con-trump-non-vogliamo-nucleare-alliran_abfbf62b-b741-4d54-bb4c-e47660f320ce.html",
+     "data": "2026-07-28T18:36:10+00:00"
+    },
+    {
+     "titolo": "Opposizione di Machado scende in piazza in Venezuela a ricordo del voto del 2024",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/28/opposizione-di-machado-scende-in-piazza-in-venezuela-a-ricordo-del-voto-del-2024_94df5568-692c-48d8-b7b8-72516089ff72.html",
+     "data": "2026-07-28T17:52:29+00:00"
+    },
     {
      "titolo": "Israele, 'con Usa allineati sull'Iran, sosteniamo qualsiasi strada Trump scelga'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/28/israele-con-usa-allineati-sulliran-sosteniamo-qualsiasi-strada-trump-scelga_ed7e01eb-fea0-4c99-88fb-1cde116036dc.html",
@@ -333,7 +348,7 @@
     {
      "titolo": "Zelensky e Netanyahu ricevuti da Trump, la Casa Bianca: 'Incontri positivi e produttivi'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/28/zelensky-e-netanyahu-ricevuti-da-trump-la-casa-bianca-incontri-positivi-e-produttivi_539957a0-62cc-4a90-a88d-11f651ed94cb.html",
-     "data": "2026-07-28T17:24:01+00:00"
+     "data": "2026-07-28T18:46:13+00:00"
     },
     {
      "titolo": "Casa Bianca, 'incontri di Trump con Zelensky e Netanyahu positivi e produttivi'",
@@ -364,21 +379,6 @@
      "titolo": "Grecia, evacuazioni precauzionali per un incendio sull'isola di Paros",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/28/grecia-evacuazioni-precauzionali-per-un-incendio-sullisola-di-paros_61a5ba0f-d455-4836-95b7-f373dbd4c8e1.html",
      "data": "2026-07-28T15:26:52+00:00"
-    },
-    {
-     "titolo": "'Dove uccidere Melania?!', il video shock Made in Iran",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/28/dove-uccidere-melania-il-video-shock-made-in-iran_ca9da360-61bf-46b0-8cf2-9726a944ac40.html",
-     "data": "2026-07-28T14:55:29+00:00"
-    },
-    {
-     "titolo": "La Spagna vara aiuti straordinari per le aree devastate dai roghi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/28/la-spagna-vara-aiuti-straordinari-per-le-aree-devastate-dai-roghi_812a391a-c0b7-4a18-8b89-d32ac4799e99.html",
-     "data": "2026-07-28T14:37:58+00:00"
-    },
-    {
-     "titolo": "Oxfam, l'Italia si impegni per riconoscere titolarità palestinese per ricostruire Gaza",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/28/oxfam-litalia-si-impegni-per-riconoscere-titolarita-palestinese-per-ricostruire-gaza_e80ad557-3970-400a-b9ac-752c0628f36a.html",
-     "data": "2026-07-28T14:36:11+00:00"
     }
    ]
   },
@@ -451,6 +451,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Gravina duro con la Fifa, \"limite superato, le Confederazioni si ribellino\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/28/gravina-duro-con-la-fifa-limite-superato-le-confederazioni-si-ribellino_bd81c78a-fb72-46ec-8480-56f70e949018.html",
+     "data": "2026-07-28T18:44:15+00:00"
+    },
+    {
+     "titolo": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/28/calciomercato-inter-in-chiusura-su-stones-diawara-fa-le-visite-al-milan_3f7cec2f-77f5-4313-883b-a1bc164d728c.html",
+     "data": "2026-07-28T18:33:50+00:00"
+    },
+    {
+     "titolo": "Calcio: Perugia ha intitolato a Ilario Castagner lo stadio della prima volta in A",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/28/calcio-perugia-ha-intitolato-a-ilario-castagner-lo-stadio-della-prima-volta-in-a_07879c2f-990d-4c3c-b12c-9f996ad74ca9.html",
+     "data": "2026-07-28T18:18:50+00:00"
+    },
+    {
+     "titolo": "A Mancini e Ranieri gli auguri di De Laurentiis",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/28/a-mancini-e-ranieri-gli-auguri-di-de-laurentiis_c33992f1-66f3-4620-a702-f064505c81d6.html",
+     "data": "2026-07-28T18:16:00+00:00"
+    },
+    {
      "titolo": "Il ritorno di mister Wolf, l'aggiustatutto Ranieri per il calcio italiano",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/07/28/il-ritorno-di-mister-wolf-laggiustatutto-ranieri-per-il-calcio-italiano_36e8317f-17c5-44f1-80c9-f571293c9285.html",
      "data": "2026-07-28T17:35:45+00:00"
@@ -489,26 +509,6 @@
      "titolo": "Simonelli, 'ore intense, buon lavoro a Mancini e Ranieri a nome della Lega A'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/28/simonelli-ore-intense-buon-lavoro-a-mancini-e-ranieri-a-nome-della-lega_d0ec2d72-b014-4af7-88a3-f5a5f786d63e.html",
      "data": "2026-07-28T15:17:57+00:00"
-    },
-    {
-     "titolo": "Mamma di Mancini: 'Felice che torni in azzurro, l'Arabia un anno difficile'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/28/mamma-di-mancini-felice-che-torni-in-azzurro-larabia-un-anno-difficile_5fd69659-a313-42c8-bda4-835d2ed5afc1.html",
-     "data": "2026-07-28T15:37:45+00:00"
-    },
-    {
-     "titolo": "Le convocate di Capobianco in vista dei Mondiali di settembre",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/07/28/le-convocate-di-capobianco-in-vista-dei-mondiali-di-settembre_1b7bf989-4bce-481a-a02b-d41d565239ed.html",
-     "data": "2026-07-28T15:55:20+00:00"
-    },
-    {
-     "titolo": "Il Palermo si ritira dal progetto di riqualificazione dello stadio",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/28/il-palermo-si-ritira-dal-progetto-di-riqualificazione-dello-stadio_5af9ed26-a034-4e7b-b94e-d6f27500c50d.html",
-     "data": "2026-07-28T14:58:31+00:00"
-    },
-    {
-     "titolo": "Il Mondiale fa ricca la Fifa, 'nuova società aperta a capitali privati'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/28/mondiali-fifa-apre-il-capitale-a-privati-in-vendita-quota-di-una-societa-commerciale_0e0c8894-232c-4d78-8b8b-5a50f70a382b.html",
-     "data": "2026-07-28T17:24:30+00:00"
     }
    ]
   }
