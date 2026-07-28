@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-27T23:51:16.593316+00:00",
+ "aggiornato": "2026-07-28T01:12:43.212648+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Axios, 'per funzionari Usa sanzioni all'Iran fanno più male dei raid'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/28/axios-per-funzionari-usa-sanzioni-alliran-fanno-piu-male-dei_dbef728d-7247-4dc3-a35f-8308ede3e517.html",
+     "data": "2026-07-28T00:44:51+00:00"
+    },
     {
      "titolo": "Processo Maradona, nutrizionista riferisce una lite tra il campione e il medico Luque",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/28/processo-maradona-nutrizionista-riferisce-una-lite-tra-il-campione-e-il-medico-luque_8736a46c-33c8-4120-a51f-3510223114b0.html",
@@ -49,11 +54,6 @@
      "titolo": "Tajani, 'con summit su Medio Oriente Roma sarà capitale di pace'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/tajani-con-summit-su-medio-oriente-roma-sara-capitale-di-pace_8dd5449d-88b7-4980-8c42-5909fe2a372c.html",
      "data": "2026-07-27T16:20:12+00:00"
-    },
-    {
-     "titolo": "Putin aumenta di 25.000 il numero di militari, totale a oltre 1,5 milioni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/27/putin-aumenta-di-25.000-il-numero-di-militari-totale-a-oltre-15-milioni_887f60d3-f92f-4776-a5be-77747dc3537c.html",
-     "data": "2026-07-27T16:12:08+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Axios, 'per funzionari Usa sanzioni all'Iran fanno più male dei raid'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/28/axios-per-funzionari-usa-sanzioni-alliran-fanno-piu-male-dei_59be125d-f343-40c4-ac9d-99b14db8ecbd.html",
+     "data": "2026-07-28T00:44:55+00:00"
+    },
+    {
+     "titolo": "Lima accoglie il re di Spagna e sette presidenti per l'insediamento di Keiko Fujimori",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/28/lima-accoglie-il-re-di-spagna-e-sette-presidenti-per-linsediamento-di-keiko-fujimori_5b3668b1-0beb-498b-af37-889cf3064294.html",
+     "data": "2026-07-27T23:53:55+00:00"
+    },
+    {
      "titolo": "Processo Maradona, nutrizionista riferisce una lite tra il campione e il medico Luque",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/28/processo-maradona-nutrizionista-riferisce-una-lite-tra-il-campione-e-il-medico-luque_061e042a-30c8-449b-a6a0-0f0765529f40.html",
      "data": "2026-07-27T22:56:38+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Keiko Fujimori rivela nomine chiave del suo futuro governo in Perù",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/keiko-fujimori-rivela-nomine-chiave-del-suo-futuro-governo-in-peru_121ad58b-f89f-4ac0-a6a6-77ea7a39c584.html",
      "data": "2026-07-27T18:39:40+00:00"
-    },
-    {
-     "titolo": "Le truppe Usa si ritirano dal Venezuela, conclusa missione umanitaria post terremoto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/le-truppe-usa-si-ritirano-dal-venezuela-conclusa-missione-umanitaria-post-terremoto_809fc3c5-5063-4564-811b-dca829c3c775.html",
-     "data": "2026-07-27T18:03:38+00:00"
-    },
-    {
-     "titolo": "La Florida giustizierà due detenuti in un giorno, prima volta in 60 anni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/27/la-florida-giustiziera-due-detenuti-in-un-giorno-prima-volta-in-60-anni_45feb819-1426-47ec-9919-b54c6564d1be.html",
-     "data": "2026-07-27T17:41:33+00:00"
     }
    ]
   },
