@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-29T17:44:02.458068+00:00",
+ "aggiornato": "2026-07-29T18:46:01.790838+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "L'ombra di mega spese legali per Harry e altri vip dopo causa perduta col Mail",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/lombra-di-mega-spese-legali-per-harry-e-altri-vip-dopo-causa_393a4016-5268-4ae3-9f4c-0c503b285641.html",
+     "data": "2026-07-29T18:17:36+00:00"
+    },
+    {
+     "titolo": "La Fed lascia i tassi fermi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/la-fed-lascia-i-tassi-fermi_d52c9d2e-e935-4159-b0a7-12ab9c67a256.html",
+     "data": "2026-07-29T18:09:51+00:00"
+    },
     {
      "titolo": "Si va verso il voto di fiducia sul dl Giustizia in aula al Senato",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/si-va-verso-il-voto-di-fiducia-sul-dl-giustizia-in-aula-al-senato_8e7b8642-68f3-4240-a95b-cbc06aac4efd.html",
@@ -44,16 +54,6 @@
      "titolo": "Borsa: Milano chiude a -0,49% con Italgas, Lottomatica e Stm, corre Eni",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/borsa-milano-chiude-a-049-con-italgas-lottomatica-e-stm-corre-eni_18237e90-7a1f-4f78-ae1d-ef32ef2defbf.html",
      "data": "2026-07-29T15:43:17+00:00"
-    },
-    {
-     "titolo": "Silvia Calandrelli nuova presidente della Fondazione Accademia del Cinema Italiano",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/silvia-calandrelli-nuova-presidente-della-fondazione-accademia-del-cinema-italiano_abd86a30-dc0d-49ee-93cf-11a9424ca027.html",
-     "data": "2026-07-29T15:44:13+00:00"
-    },
-    {
-     "titolo": "Salgono a 75 i morti nelle inondazioni nel nord-est dell'India",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/salgono-a-75-i-morti-nelle-inondazioni-nel-nord-est-dellindia_3570bda9-1375-4da4-afd0-860b47790305.html",
-     "data": "2026-07-29T15:34:34+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Il Garante: 'Le immagini del corpo di Chiara Poggi ledono la sua dignità'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/il-garante-le-immagini-del-corpo-di-chiara-poggi-ledono-la-sua-dignita_994d317b-5482-4884-af9f-8d7b01fa310e.html",
+     "data": "2026-07-29T18:30:21+00:00"
+    },
+    {
+     "titolo": "Piantedosi, 'ci saranno divieti e tante divise al campeggio No Tav'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/piantedosi-ci-saranno-divieti-e-tante-divise-al-campeggio-no-tav_33a041b1-c4e8-4603-a372-83f9441f8658.html",
+     "data": "2026-07-29T18:29:47+00:00"
+    },
+    {
+     "titolo": "Le piazze di Roma 'isole di calore', il video sulla Cnn",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/le-piazze-di-roma-isole-di-calore-il-video-sulla-cnn_b487b8b3-b2e5-45e5-97e8-37db9480276d.html",
+     "data": "2026-07-29T18:25:15+00:00"
+    },
+    {
      "titolo": "Caldo record, a Bologna arriva la prima Rider house comunale",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/caldo-record-a-bologna-arriva-la-prima-rider-house-comunale_2836c6cc-1e34-46af-81f3-28ccd6c0e270.html",
      "data": "2026-07-29T17:38:43+00:00"
@@ -138,7 +153,7 @@
     {
      "titolo": "Cede la tettoia del cantiere, 66enne salva il figlio e muore",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/cede-la-tettoia-del-cantiere-66enne-salva-il-figlio-e-muore_944d2f31-f0be-488f-9c99-00a43e61db4c.html",
-     "data": "2026-07-29T17:34:57+00:00"
+     "data": "2026-07-29T17:41:14+00:00"
     },
     {
      "titolo": "'Si fa da solo l'attentato', giovane cronista indagato per simulazione",
@@ -161,11 +176,6 @@
      "data": "2026-07-29T17:07:15+00:00"
     },
     {
-     "titolo": "Il Garante: 'Le immagini del corpo di Chiara Poggi lesive della dignità della vittima'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/il-garante-le-immagini-del-corpo-di-chiara-poggi-lesive-della-dignita-della_994d317b-5482-4884-af9f-8d7b01fa310e.html",
-     "data": "2026-07-29T16:50:47+00:00"
-    },
-    {
      "titolo": "Le piazze di Roma 'isole di calore', il video sulla Cnn",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/le-piazze-di-roma-isole-di-calore-il-video-sulla-cnn_d33a9c84-245a-4497-9696-14827d9c3435.html",
      "data": "2026-07-29T16:49:10+00:00"
@@ -174,22 +184,27 @@
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-07-29T16:34:01+00:00"
-    },
-    {
-     "titolo": "A Hong Wang e Yu Deng il 'Nobel' della matematica dopo il premio alla Sissa",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/a-hong-wang-e-yu-deng-il-nobel-della-matematica-dopo-il-premio-alla-sissa_09bacfcd-92ba-4a81-8d0d-7b76517a4552.html",
-     "data": "2026-07-29T16:13:55+00:00"
-    },
-    {
-     "titolo": "Commando rapina gioielleria nel Milanese e scappa speronando Polizia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/commando-rapina-gioielleria-nel-milanese-e-scappa-speronando-polizia_bec4b0fa-8fad-4408-b2a2-1e9fadfb0c0e.html",
-     "data": "2026-07-29T17:13:32+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "La nuova legge elettorale in Aula al Senato dal 9 settembre",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/la-nuova-legge-elettorale-in-aula-al-senato-dal-9-settembre_e69a3567-020b-4a05-b91f-3aa55cadfee0.html",
+     "data": "2026-07-29T18:12:07+00:00"
+    },
+    {
+     "titolo": "La Russa: 'Meloni al Colle piacerebbe a gran parte degli elettori del centrosinistra'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/la-russa-meloni-al-colle-piacerebbe-a-gran-parte-degli-elettori-del-centrosinistra_084fe224-4296-4fa3-9c14-721c20281d61.html",
+     "data": "2026-07-29T18:06:24+00:00"
+    },
+    {
+     "titolo": "Il governo: 'Proseguire sul federalismo fiscale, il 29 agosto il termine per la delega'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/il-governo-proseguire-sul-federalismo-fiscale-il-29-agosto-il-termine-per-la-delega_9f5d929b-4d4c-47d9-80d4-54c094aed234.html",
+     "data": "2026-07-29T17:53:09+00:00"
+    },
     {
      "titolo": "Si va verso il voto di fiducia sul dl Giustizia in aula al Senato",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/si-va-verso-il-voto-di-fiducia-sul-dl-giustizia-in-aula-al-senato_7fc09f8a-d6c3-491a-b2f4-f336410ddbef.html",
@@ -208,7 +223,7 @@
     {
      "titolo": "Ok definitivo del Senato al dl sport, passa anche la stretta sulle piscine",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/ok-definitivo-del-senato-al-dl-sport-passa-anche-la-stretta-sulle-piscine_83eda730-b4f6-4465-a918-ee70dabbef75.html",
-     "data": "2026-07-29T16:13:24+00:00"
+     "data": "2026-07-29T18:13:51+00:00"
     },
     {
      "titolo": "AI Act, Garante Privacy 'rafforzare le tutele per i dati biometrici'",
@@ -226,35 +241,35 @@
      "data": "2026-07-29T14:48:54+00:00"
     },
     {
-     "titolo": "Sprint sul decreto sul riconoscimento facciale, ira delle opposizioni",
+     "titolo": "Il governo accelera sul riconoscimento facciale, Pd-M5s insorgono",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/sprint-sul-decreto-sul-riconoscimento-facciale-ira-delle-opposizioni_0c3b1df0-6c14-490f-9cf6-9cb2d422ffb5.html",
-     "data": "2026-07-29T16:42:29+00:00"
+     "data": "2026-07-29T18:18:03+00:00"
     },
     {
      "titolo": "Barachini, 'campagna sulle uscite di emergenza negli eventi, ci aiutino gli artisti'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/barachini-campagna-sulle-uscite-di-emergenza-negli-eventi-ci-aiutino-gli-artisti_86b2b15c-5b12-405f-a7db-ffd02e612b52.html",
      "data": "2026-07-29T12:46:32+00:00"
-    },
-    {
-     "titolo": "Nordio: 'Con domiciliari per tossicodipendenti 10mila fuori dalle carceri'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/nordio-con-domiciliari-per-tossicodipendenti-10mila-fuori-dalle-carceri_8766c645-bdd0-4009-9227-12457c94c477.html",
-     "data": "2026-07-29T13:32:37+00:00"
-    },
-    {
-     "titolo": "Manifesto antisemita nella bacheca di Radio1, Rossi 'intimidazioni gravissime'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/manifesto-antisemita-nella-bacheca-di-radio1-rossi-intimidazioni-gravissime_97121aee-ed43-47ac-baa9-076f761c5935.html",
-     "data": "2026-07-29T11:39:50+00:00"
-    },
-    {
-     "titolo": "Meloni, sulla tossicodipenza e il carcere vittoria su più fronti",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/meloni-sulla-tossicodipenza-e-il-carcere-vittoria-su-piu-fronti_6cc9c15b-da61-4499-9bf1-a9eb8fc5cc1d.html",
-     "data": "2026-07-29T10:51:19+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Il petrolio chiude in rialzo a New York a 84,46 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/il-petrolio-chiude-in-rialzo-a-new-york-a-8446-dollari_ac28ea9f-454b-421e-bbd9-c7b848ae8998.html",
+     "data": "2026-07-29T18:44:02+00:00"
+    },
+    {
+     "titolo": "La Fed lascia i tassi fermi tra il 3,50 e il 3,75%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/la-fed-lascia-i-tassi-fermi-tra-il-350-e-il-375_8284f607-af52-47ae-8c91-4c76f501d877.html",
+     "data": "2026-07-29T18:41:16+00:00"
+    },
+    {
+     "titolo": "La Fed lascia i tassi fermi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/la-fed-lascia-i-tassi-fermi_d9285f86-5d1a-41f4-82cb-5bd3deb9c56b.html",
+     "data": "2026-07-29T18:42:13+00:00"
+    },
     {
      "titolo": "Per quota 49,9% in portoghese Tap offerte da Lufthansa e Air France",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/per-quota-499-in-portoghese-tap-offerte-da-lufthansa-e-air-france_400ad36d-4f36-426a-9d22-3e1d0367f3d5.html",
@@ -299,27 +314,22 @@
      "titolo": "Pirelli, nel semestre utile +13,3% a 299 milioni",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/pirelli-nel-semestre-utile-133-a-299-milioni_0d24429c-1632-441d-92e3-1a85e5ded86a.html",
      "data": "2026-07-29T15:53:53+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude a -0,49% con Italgas, Lottomatica e Stm, corre Eni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/borsa-milano-chiude-a-049-con-italgas-lottomatica-e-stm-corre-eni_8a01ebba-1119-4d3b-b88e-95fb01fc2789.html",
-     "data": "2026-07-29T15:43:14+00:00"
-    },
-    {
-     "titolo": "Incentivi per i veicoli commerciali a basse emissioni, fondi subito esauriti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/incentivi-per-i-veicoli-commerciali-a-basse-emissioni-fondi-subito-esauriti_053190fc-efd6-4e11-9b74-d9f664113bdf.html",
-     "data": "2026-07-29T15:13:11+00:00"
-    },
-    {
-     "titolo": "Codacons deposita esposto a Procura e Antitrust su mancato taglio accise gasolio",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/codacons-deposita-esposto-a-procura-e-antitrust-su-mancato-taglio-accise-gasolio_6b42eab9-2586-4ddc-97e1-ba3d6f9d6e90.html",
-     "data": "2026-07-29T15:12:21+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Egitto, 'sul porto di Damietta nessun drone, fiamme domate'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/29/egitto-sul-porto-di-damietta-nessun-drone-fiamme-domate_6bcc8ce5-633e-4392-9606-e80869d74a8b.html",
+     "data": "2026-07-29T18:36:47+00:00"
+    },
+    {
+     "titolo": "L'ombra di mega spese legali per Harry e altri vip dopo causa perduta col Mail",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/29/lombra-di-mega-spese-legali-per-harry-e-altri-vip-dopo-causa_ec437d44-5e88-46dd-ae1b-029d2c57cc4e.html",
+     "data": "2026-07-29T18:17:53+00:00"
+    },
     {
      "titolo": "Gb, 'drone colpisce petroliera statunitense nel porto egiziano di Damietta'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/29/gb-drone-colpisce-petroliera-statunitense-nel-porto-egiziano-di-damietta_a15b6083-e05c-4094-8405-2f13650b73a3.html",
@@ -369,16 +379,6 @@
      "titolo": "Petrobras, produzione record nel trimestre con 3,34 milioni di barili al giorno",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/29/petrobras-produzione-record-nel-trimestre-con-334-milioni-di-barili-al-giorno_7b56dac9-e200-4b91-889f-3345ddb5498a.html",
      "data": "2026-07-29T12:19:19+00:00"
-    },
-    {
-     "titolo": "Ministro Yemen, 'Houthi intendono imporre pedaggi nel Mar Rosso'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/29/ministro-yemen-houthi-intendono-imporre-pedaggi-nel-mar-rosso_79cd0749-2408-48d7-a605-94a2fad23140.html",
-     "data": "2026-07-29T11:53:15+00:00"
-    },
-    {
-     "titolo": "Danubio senz'acqua, evacuati 186 turisti da nave da crociera in Bulgaria",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/29/danubio-senzacqua-evacuati-186-turisti-da-nave-da-crociera-in-bulgaria_a06a8679-e96e-4b01-b9a7-081629d9f1a1.html",
-     "data": "2026-07-29T10:22:50+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "La Lega Serie B augura buon lavoro a Mancini e Ranieri",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/la-lega-serie-b-augura-buon-lavoro-a-mancini-e-ranieri_1f8166f9-e6f9-404b-8595-1a6cc548433b.html",
+     "data": "2026-07-29T17:43:51+00:00"
+    },
+    {
+     "titolo": "Kolo Muani-Alajbegovic doppio colpo Juve, Bisseck rinnova con l'Inter",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/29/kolo-muani-alajbegovic-doppio-colpo-juve-bisseck-rinnova-con-linter_b3141d8c-c4b3-4d6f-b60e-e20345c7b749.html",
+     "data": "2026-07-29T17:43:05+00:00"
+    },
+    {
      "titolo": "Figc: Polemica sulle immagini tv a pagamento, Malagò: 'Se errore rimedieremo'",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/07/29/figc-polemica-sulle-immagini-tv-a-pagamento-malago-se-errore-rimedieremo_6b09aaf9-022a-4b63-a1bc-c6d37f424179.html",
      "data": "2026-07-29T17:25:05+00:00"
@@ -499,16 +509,6 @@
      "titolo": "Mancini: \"Farò giocare bene l'Italia e i tifosi mi perdoneranno\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/mancini-faro-giocare-bene-litalia-e-i-tifosi-mi-perdoneranno_8a065548-ad33-4adc-94d8-407806f8128b.html",
      "data": "2026-07-29T16:40:28+00:00"
-    },
-    {
-     "titolo": "Atletica: Jacobs e co., gli staffettisti azzurri in ritiro a Roma",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/29/atletica-jacobs-e-co.-gli-staffettisti-azzurri-in-ritiro-a-roma_6df571bf-3811-4945-8020-14c06bccd07b.html",
-     "data": "2026-07-29T16:23:21+00:00"
-    },
-    {
-     "titolo": "Il Bologna ufficializza il secondo acquisto dell'estate, Amondarain",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/il-bologna-ufficializza-il-secondo-acquisto-dellestate-amondarain_8e0cbdac-da8b-4c43-95a8-225ca8e290e8.html",
-     "data": "2026-07-29T16:20:51+00:00"
     }
    ]
   }
