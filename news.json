@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-29T01:15:17.118527+00:00",
+ "aggiornato": "2026-07-29T04:38:06.333639+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Giappone, il bilancio del terremoto sale ad almeno 13 morti e 100 feriti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/giappone-il-bilancio-del-terremoto-sale-ad-almeno-13-morti-e-100-feriti_a4359258-ec22-4675-a66d-5df8d8e5f2a7.html",
+     "data": "2026-07-29T01:48:09+00:00"
+    },
+    {
+     "titolo": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/attacco-delliran-su-una-base-usa-in-giordania-il-petrolio-balza-del-3-in-asia_3a208b66-d175-4663-8a9b-716ee21a231f.html",
+     "data": "2026-07-29T01:13:51+00:00"
+    },
     {
      "titolo": "Netanyahu, 'incontro eccellente, con Trump non vogliamo nucleare all'Iran'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/28/netanyahu-incontro-eccellente-con-trump-non-vogliamo-nucleare-alliran_22560304-0967-4b11-ac8e-204e73876ef0.html",
@@ -44,16 +54,6 @@
      "titolo": "Borsa: Milano chiude in calo (-0,69%), maglia nera in Europa",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/28/borsa-milano-chiude-in-calo-069-maglia-nera-in-europa_67e7d8db-b899-4043-8c83-d2b7e620cb10.html",
      "data": "2026-07-28T15:39:54+00:00"
-    },
-    {
-     "titolo": "Grecia, evacuazioni precauzionali per un incendio sull'isola di Paros",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/28/grecia-evacuazioni-precauzionali-per-un-incendio-sullisola-di-paros_377ca587-c988-44f9-ba56-3300b3a9abb6.html",
-     "data": "2026-07-28T15:26:31+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa risale nel finale, Milano maglia nera (-0,8%)",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/28/borsa-leuropa-risale-nel-finale-milano-maglia-nera-08_6c0e1cdf-8e87-4f8e-9165-9d391a8bb616.html",
-     "data": "2026-07-28T15:17:23+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/attacco-delliran-su-una-base-usa-in-giordania-il-petrolio-balza-del-3-in-asia_e283fb00-738c-42f1-be45-d5709bd07d7f.html",
+     "data": "2026-07-29T01:13:51+00:00"
+    },
+    {
      "titolo": "Il gas prosegue in deciso calo (-3,8%) ad Amsterdam",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/il-gas-prosegue-in-deciso-calo-38-ad-amsterdam_8de2bc2f-d334-486e-987b-ec940c982195.html",
      "data": "2026-07-28T17:57:55+00:00"
@@ -309,17 +314,27 @@
      "titolo": "Alla Tower 5 di New York il sistema sospeso della Pilosio per la ristrutturazione",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/alla-tower-5-di-new-york-il-sistema-sospeso-della-pilosio-per-la-ristrutturazione_ae849ddc-a7df-471d-9d89-e0c4f28e42e7.html",
      "data": "2026-07-28T14:21:50+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa arranca con le vendite sui semiconduttori, Milano -0,6%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/borsa-leuropa-arranca-con-le-vendite-sui-semiconduttori-milano-06_3c8dfff4-0c59-491c-8890-e825b3378458.html",
-     "data": "2026-07-28T14:10:10+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Sheinbaum, 'in arrivo le conclusioni sul fracking in Messico'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/29/sheinbaum-in-arrivo-le-conclusioni-sul-fracking-in-messico_76744166-4e7f-4730-90a6-07553b36518e.html",
+     "data": "2026-07-29T01:53:57+00:00"
+    },
+    {
+     "titolo": "Giappone, il bilancio del terremoto sale ad almeno 13 morti e 100 feriti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/29/giappone-il-bilancio-del-terremoto-sale-ad-almeno-13-morti-e-100-feriti_df104aba-35d0-4df0-9514-14675f4f7944.html",
+     "data": "2026-07-29T01:48:08+00:00"
+    },
+    {
+     "titolo": "Forte terremoto in Giappone, almeno 13 morti sull'isola di Kyushu",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/29/forte-terremoto-in-giappone-almeno-13-morti-sullisola-di-kyushu_29db69bc-52b4-4387-b4ab-d36ddb328e6e.html",
+     "data": "2026-07-29T01:44:05+00:00"
+    },
     {
      "titolo": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/29/attacco-delliran-su-una-base-usa-in-giordania-il-petrolio-balza-del-3-in-asia_9709f24e-8c3e-4e35-b69c-1c886c8c4edd.html",
@@ -364,21 +379,6 @@
      "titolo": "Griselli (Tim Brasil), 'Opa Poste renderà il gruppo più forte sul piano patrimoniale'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/28/griselli-tim-brasil-opa-poste-rendera-il-gruppo-piu-forte-sul_da894dff-8008-421b-bf8c-98d3025bbec1.html",
      "data": "2026-07-28T20:15:46+00:00"
-    },
-    {
-     "titolo": "Netanyhau da Trump nello Studio Ovale, 'allineati su ogni scelta in Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/28/netanyhau-da-trump-nello-studio-ovale-allineati-su-ogni-scelta-in-iran_95f4f633-27f6-4be2-b9b0-a7f0079b17b7.html",
-     "data": "2026-07-28T19:18:43+00:00"
-    },
-    {
-     "titolo": "Netanyahu, 'incontro eccellente, con Trump non vogliamo nucleare all'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/28/netanyahu-incontro-eccellente-con-trump-non-vogliamo-nucleare-alliran_abfbf62b-b741-4d54-bb4c-e47660f320ce.html",
-     "data": "2026-07-28T18:36:10+00:00"
-    },
-    {
-     "titolo": "Opposizione di Machado scende in piazza in Venezuela a ricordo del voto del 2024",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/28/opposizione-di-machado-scende-in-piazza-in-venezuela-a-ricordo-del-voto-del-2024_94df5568-692c-48d8-b7b8-72516089ff72.html",
-     "data": "2026-07-28T17:52:29+00:00"
     }
    ]
   },
