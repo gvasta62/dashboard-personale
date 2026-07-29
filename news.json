@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-29T22:25:30.537058+00:00",
+ "aggiornato": "2026-07-29T23:27:58.618413+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Bolivia, ordinato l'arresto di Evo Morales per terrorismo e rivolta armata",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/bolivia-ordinato-larresto-di-evo-morales-per-terrorismo-e-rivolta-armata_a8020d5a-ccd7-4181-8704-479e8d312ee7.html",
+     "data": "2026-07-29T22:55:29+00:00"
+    },
     {
      "titolo": "Media, Riad al lavoro per costruire coalizione a difesa Mar Rosso dagli Houthi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/media-riad-al-lavoro-per-costruire-coalizione-a-difesa-mar-rosso-dagli_f0c2c1c0-45e6-432b-a32d-230be8142c89.html",
@@ -49,11 +54,6 @@
      "titolo": "Cuba apre ai privati i settori del petrolio, del gas e farmaceutico",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/cuba-apre-ai-privati-i-settori-del-petrolio-del-gas-e-farmaceutico_e2a62dce-ecb3-4c3f-a1ec-25c64dccc646.html",
      "data": "2026-07-29T17:11:22+00:00"
-    },
-    {
-     "titolo": "Legge elettorale, emendamenti entro il primo settembre al Senato",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/legge-elettorale-emendamenti-entro-il-primo-settembre-al-senato_d4d53235-f79c-4d7b-8935-96216cb215b6.html",
-     "data": "2026-07-29T17:07:03+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Bolivia, ordinato l'arresto di Evo Morales per terrorismo e rivolta armata",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/bolivia-ordinato-larresto-di-evo-morales-per-terrorismo-e-rivolta-armata_d455c088-c28d-4cda-a98a-7e2bcc364d9c.html",
+     "data": "2026-07-29T22:55:29+00:00"
+    },
+    {
+     "titolo": "In Cile scontro sull'ipotesi di privatizzazione della compagnia del rame",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/in-cile-scontro-sullipotesi-di-privatizzazione-della-compagnia-del-rame_4fbde2eb-9345-4bb4-add5-e4421ad465fe.html",
+     "data": "2026-07-29T22:25:43+00:00"
+    },
+    {
      "titolo": "Argentina, Fifa apre procedimento contro Afa per bandiera sulle Malvinas e incidenti",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/29/argentina-fifa-apre-procedimento-contro-afa-per-bandiera-sulle-malvinas_a1e0e863-ecc5-4169-92f0-d1625ed7bb74.html",
      "data": "2026-07-29T21:03:21+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Finanziamento di 1,9 miliardi di dollari dell'Fmi alla Bolivia per uscire dalla crisi",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/29/finanziamento-di-19-miliardi-di-dollari-dellfmi-alla-bolivia-per-uscire-dalla-crisi_714bcc31-410a-44ac-adc1-a1779498ace3.html",
      "data": "2026-07-29T16:27:58+00:00"
-    },
-    {
-     "titolo": "L'ex presidente Kirchner ricorre all'Onu contro la condanna per corruzione",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/29/lex-presidente-kirchner-ricorre-allonu-contro-la-condanna-per-corruzione_9a07bb24-b083-486f-ab6f-5bd2c2f0c813.html",
-     "data": "2026-07-29T15:49:01+00:00"
-    },
-    {
-     "titolo": "Scoperto in Zimbawe dinosauro di 210 milioni di anni con vertebre, costole e arti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/29/scoperto-in-zimbawe-dinosauro-di-210-milioni-di-anni-con-vertebre-costole-e-arti_3521a834-4f78-4efc-9802-4cad80923879.html",
-     "data": "2026-07-29T15:45:04+00:00"
     }
    ]
   },
