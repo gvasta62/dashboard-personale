@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-29T18:46:01.790838+00:00",
+ "aggiornato": "2026-07-29T20:04:58.469208+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, 'Warsh fantastico, gli piacerebbe vedere tassi più bassi'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/trump-warsh-fantastico-gli-piacerebbe-vedere-tassi-piu-bassi_7e8291e7-35f8-4025-a527-5a3f4679c844.html",
+     "data": "2026-07-29T20:00:54+00:00"
+    },
+    {
+     "titolo": "Zelensky, 'Mosca prepara un massiccio attacco, potrebbe essere stanotte'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/zelensky-mosca-prepara-un-massiccio-attacco-potrebbe-essere-stanotte_19aa2d89-8628-4f0e-8900-64d8101b5032.html",
+     "data": "2026-07-29T19:21:17+00:00"
+    },
+    {
+     "titolo": "Webuild lancia opa su Trevi da 295 milioni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/webuild-lancia-opa-su-trevi-da-295-milioni_80b42487-8ea5-4ebe-9487-364e831e3f6d.html",
+     "data": "2026-07-29T18:45:26+00:00"
+    },
     {
      "titolo": "L'ombra di mega spese legali per Harry e altri vip dopo causa perduta col Mail",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/lombra-di-mega-spese-legali-per-harry-e-altri-vip-dopo-causa_393a4016-5268-4ae3-9f4c-0c503b285641.html",
@@ -39,21 +54,6 @@
      "titolo": "Il prezzo del gas avanza oltre i 60 euro ad Amsterdam",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/il-prezzo-del-gas-avanza-oltre-i-60-euro-ad-amsterdam_5247621c-d321-4b1a-9abd-915e0d3a336f.html",
      "data": "2026-07-29T16:24:55+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude in rialzo a 83 punti base",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-83-punti-base_f0ac7dd7-8ca6-40d4-a0fb-46ca9a5a9e6c.html",
-     "data": "2026-07-29T16:14:27+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude debole con le tensioni tra Stati Uniti e Iran",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/borsa-leuropa-chiude-debole-con-le-tensioni-tra-stati-uniti-e-iran_41975102-a667-4ad5-9d3c-74d7a48e855c.html",
-     "data": "2026-07-29T15:54:20+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude a -0,49% con Italgas, Lottomatica e Stm, corre Eni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/borsa-milano-chiude-a-049-con-italgas-lottomatica-e-stm-corre-eni_18237e90-7a1f-4f78-ae1d-ef32ef2defbf.html",
-     "data": "2026-07-29T15:43:17+00:00"
     }
    ]
   },
@@ -191,14 +191,19 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Intercettazioni e preferenze, in bilico la doppia intesa nella maggioranza",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/intercettazioni-e-preferenze-in-bilico-la-doppia-intesa-nella-maggioranza_9f7977cd-ed02-438c-a96d-633bfd9110de.html",
+     "data": "2026-07-29T19:42:21+00:00"
+    },
+    {
      "titolo": "La nuova legge elettorale in Aula al Senato dal 9 settembre",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/la-nuova-legge-elettorale-in-aula-al-senato-dal-9-settembre_e69a3567-020b-4a05-b91f-3aa55cadfee0.html",
      "data": "2026-07-29T18:12:07+00:00"
     },
     {
-     "titolo": "La Russa: 'Meloni al Colle piacerebbe a gran parte degli elettori del centrosinistra'",
+     "titolo": "La Russa: 'Meloni al Colle gradita agli elettori del centrosinistra'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/la-russa-meloni-al-colle-piacerebbe-a-gran-parte-degli-elettori-del-centrosinistra_084fe224-4296-4fa3-9c14-721c20281d61.html",
-     "data": "2026-07-29T18:06:24+00:00"
+     "data": "2026-07-29T18:57:31+00:00"
     },
     {
      "titolo": "Il governo: 'Proseguire sul federalismo fiscale, il 29 agosto il termine per la delega'",
@@ -244,11 +249,6 @@
      "titolo": "Il governo accelera sul riconoscimento facciale, Pd-M5s insorgono",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/sprint-sul-decreto-sul-riconoscimento-facciale-ira-delle-opposizioni_0c3b1df0-6c14-490f-9cf6-9cb2d422ffb5.html",
      "data": "2026-07-29T18:18:03+00:00"
-    },
-    {
-     "titolo": "Barachini, 'campagna sulle uscite di emergenza negli eventi, ci aiutino gli artisti'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/barachini-campagna-sulle-uscite-di-emergenza-negli-eventi-ci-aiutino-gli-artisti_86b2b15c-5b12-405f-a7db-ffd02e612b52.html",
-     "data": "2026-07-29T12:46:32+00:00"
     }
    ]
   },
@@ -256,14 +256,19 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "La Fed mantiene i tassi fermi dopo 'una vera lite di famiglia'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/la-fed-mantiene-i-tassi-fermi-dopo-una-vera-lite-di-famiglia_8284f607-af52-47ae-8c91-4c76f501d877.html",
+     "data": "2026-07-29T19:26:20+00:00"
+    },
+    {
+     "titolo": "Webuild lancia opa su Trevi da 295 milioni",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/webuild-lancia-opa-su-trevi-da-295-milioni_958a765a-569f-491d-8557-7acf47df3af3.html",
+     "data": "2026-07-29T18:45:59+00:00"
+    },
+    {
      "titolo": "Il petrolio chiude in rialzo a New York a 84,46 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/il-petrolio-chiude-in-rialzo-a-new-york-a-8446-dollari_ac28ea9f-454b-421e-bbd9-c7b848ae8998.html",
      "data": "2026-07-29T18:44:02+00:00"
-    },
-    {
-     "titolo": "La Fed lascia i tassi fermi tra il 3,50 e il 3,75%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/la-fed-lascia-i-tassi-fermi-tra-il-350-e-il-375_8284f607-af52-47ae-8c91-4c76f501d877.html",
-     "data": "2026-07-29T18:41:16+00:00"
     },
     {
      "titolo": "La Fed lascia i tassi fermi",
@@ -309,17 +314,17 @@
      "titolo": "Borsa: l'Europa chiude debole con le tensioni tra Stati Uniti e Iran",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/borsa-leuropa-chiude-debole-con-le-tensioni-tra-stati-uniti-e-iran_87aed4d6-c110-4f6c-bf73-d86fe169a2c7.html",
      "data": "2026-07-29T15:54:17+00:00"
-    },
-    {
-     "titolo": "Pirelli, nel semestre utile +13,3% a 299 milioni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/29/pirelli-nel-semestre-utile-133-a-299-milioni_0d24429c-1632-441d-92e3-1a85e5ded86a.html",
-     "data": "2026-07-29T15:53:53+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Zelensky, 'Mosca prepara un massiccio attacco, potrebbe essere stanotte'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/29/zelensky-mosca-prepara-un-massiccio-attacco-potrebbe-essere-stanotte_f8d823f1-b175-4229-9cd8-0360a8b92c9f.html",
+     "data": "2026-07-29T19:21:36+00:00"
+    },
     {
      "titolo": "Egitto, 'sul porto di Damietta nessun drone, fiamme domate'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/29/egitto-sul-porto-di-damietta-nessun-drone-fiamme-domate_6bcc8ce5-633e-4392-9606-e80869d74a8b.html",
@@ -374,11 +379,6 @@
      "titolo": "Ira di Trump per i raid su target Usa, colpiremo l'Iran duramente",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/29/ira-di-trump-per-i-raid-su-target-usa-colpiremo-liran-duramente_35d66e22-1fba-4adc-956f-dd55abf3ab9f.html",
      "data": "2026-07-29T12:39:27+00:00"
-    },
-    {
-     "titolo": "Petrobras, produzione record nel trimestre con 3,34 milioni di barili al giorno",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/29/petrobras-produzione-record-nel-trimestre-con-334-milioni-di-barili-al-giorno_7b56dac9-e200-4b91-889f-3345ddb5498a.html",
-     "data": "2026-07-29T12:19:19+00:00"
     }
    ]
   },
@@ -451,6 +451,36 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Infantino, la proposta della Fifa \"un'opportunità, non un obbligo\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/infantino-la-proposta-della-fifa-unopportunita-non-un-obbligo_e974174f-01d6-4ec0-9b40-e354d510d0ff.html",
+     "data": "2026-07-29T19:58:45+00:00"
+    },
+    {
+     "titolo": "Milan, 'momenti delicati per Franco Baresi, rispettate la privacy'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/milan-momenti-delicati-per-franco-baresi-rispettate-la-privacy_e938d079-3cbc-4cc1-bd3a-3cdb9bdd38f3.html",
+     "data": "2026-07-29T19:52:59+00:00"
+    },
+    {
+     "titolo": "L'Italnuoto degli Europei 2026 si prepara a Livigno",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/07/29/litalnuoto-degli-europei-2026-si-prepara-a-livigno_45087fa9-41fb-4dae-9b0b-214686888324.html",
+     "data": "2026-07-29T19:50:59+00:00"
+    },
+    {
+     "titolo": "Milan: 'Momenti delicati per Franco Baresi, rispettate la privacy'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/29/milan-momenti-delicati-per-franco-baresi-rispettate-la-privacy_6dcdea34-947d-4cb0-9d0a-6d71e0a2575e.html",
+     "data": "2026-07-29T19:49:57+00:00"
+    },
+    {
+     "titolo": "Atp Washington: Musetti batte Vukic in tre set e va ai quarti",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/29/atp-washington-musetti-batte-vukic-e-va-ai-quarti_d9818ec1-dc41-4461-aa0a-f2e741c6af45.html",
+     "data": "2026-07-29T19:59:19+00:00"
+    },
+    {
+     "titolo": "Mancini, anche Vialli ora sarebbe felice",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/mancini-anche-vialli-ora-sarebbe-felice_31db6788-d8d2-45c7-a06e-7539b02cf912.html",
+     "data": "2026-07-29T18:57:09+00:00"
+    },
+    {
      "titolo": "La Lega Serie B augura buon lavoro a Mancini e Ranieri",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/la-lega-serie-b-augura-buon-lavoro-a-mancini-e-ranieri_1f8166f9-e6f9-404b-8595-1a6cc548433b.html",
      "data": "2026-07-29T17:43:51+00:00"
@@ -479,36 +509,6 @@
      "titolo": "Malagò, \"Donnarumma mi ha scritto 'era quello che volevamo'\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/malago-donnarumma-mi-ha-scritto-era-quello-che-volevamo_75e20919-9028-42a6-87ea-adb40ebcfa64.html",
      "data": "2026-07-29T17:00:42+00:00"
-    },
-    {
-     "titolo": "Ranieri, \"dobbiamo tornare a curare la tecnica dei bambini\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/ranieri-dobbiamo-tornare-a-curare-la-tecnica-dei-bambini_b8f29700-2630-4e6b-a32d-3fe6bf92b7dd.html",
-     "data": "2026-07-29T16:59:45+00:00"
-    },
-    {
-     "titolo": "Mancini \"Faro' giocare bene l'Italia e i tifosi mi perdoneranno\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/mancini-faro-giocare-bene-litalia-e-i-tifosi-mi-perdoneranno_16f6ee0e-3bc8-45ea-918c-aea1cb54698c.html",
-     "data": "2026-07-29T17:00:01+00:00"
-    },
-    {
-     "titolo": "Le scuse di Mancini, 'se perdi la donna della tua vita hai sbagliato'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/le-scuse-di-mancini-se-perdi-la-donna-della-tua-vita-hai-sbagliato_42a9bfeb-92c6-4fd4-9b83-9ef3c2dfb362.html",
-     "data": "2026-07-29T16:57:55+00:00"
-    },
-    {
-     "titolo": "Ranieri: 'Voglio far tornare i bambini a vedere l'Italia al Mondiale'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/ranieri-voglio-far-tornare-i-bambini-a-vedere-litalia-al-mondiale_eccd2687-7ae3-4b4d-972e-24f8681423f5.html",
-     "data": "2026-07-29T16:52:11+00:00"
-    },
-    {
-     "titolo": "La Nazionale, Mancini: 'Faro' giocare bene l'Italia e i tifosi mi perdoneranno'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/la-nazionale-mancini-faro-giocare-bene-litalia-e-i-tifosi-mi-perdoneranno_53bd6cd0-fbf8-4cf4-919b-17575bd33ae7.html",
-     "data": "2026-07-29T17:25:43+00:00"
-    },
-    {
-     "titolo": "Mancini: \"Farò giocare bene l'Italia e i tifosi mi perdoneranno\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/mancini-faro-giocare-bene-litalia-e-i-tifosi-mi-perdoneranno_8a065548-ad33-4adc-94d8-407806f8128b.html",
-     "data": "2026-07-29T16:40:28+00:00"
     }
    ]
   }
