@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-29T20:04:58.469208+00:00",
+ "aggiornato": "2026-07-29T21:23:43.961899+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, Riad al lavoro per costruire coalizione a difesa Mar Rosso dagli Houthi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/media-riad-al-lavoro-per-costruire-coalizione-a-difesa-mar-rosso-dagli_f0c2c1c0-45e6-432b-a32d-230be8142c89.html",
+     "data": "2026-07-29T20:36:45+00:00"
+    },
+    {
+     "titolo": "Nicaragua, rapporto denuncia oltre 250 giornalisti costretti all'esilio dal regime",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/nicaragua-rapporto-denuncia-oltre-250-giornalisti-costretti-allesilio-dal-regime_9af49697-d47d-4669-847d-d56c3ba83695.html",
+     "data": "2026-07-29T20:35:20+00:00"
+    },
     {
      "titolo": "Trump, 'Warsh fantastico, gli piacerebbe vedere tassi più bassi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/trump-warsh-fantastico-gli-piacerebbe-vedere-tassi-piu-bassi_7e8291e7-35f8-4025-a527-5a3f4679c844.html",
@@ -44,16 +54,6 @@
      "titolo": "Legge elettorale, emendamenti entro il primo settembre al Senato",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/legge-elettorale-emendamenti-entro-il-primo-settembre-al-senato_d4d53235-f79c-4d7b-8935-96216cb215b6.html",
      "data": "2026-07-29T17:07:03+00:00"
-    },
-    {
-     "titolo": "Gb, 'drone colpisce petroliera statunitense nel porto egiziano di Damietta'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/gb-drone-colpisce-petroliera-statunitense-nel-porto-egiziano-di-damietta_8f991dd3-bb43-4471-a129-6e96f8f3fd51.html",
-     "data": "2026-07-29T16:56:15+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas avanza oltre i 60 euro ad Amsterdam",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/il-prezzo-del-gas-avanza-oltre-i-60-euro-ad-amsterdam_5247621c-d321-4b1a-9abd-915e0d3a336f.html",
-     "data": "2026-07-29T16:24:55+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Arriva Guardia costiera, da motoscafo in avaria lanciati in mare 500mila euro",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/arriva-guardia-costiera-da-motoscafo-in-avaria-lanciati-in-mare-500mila-euro_9ff69a15-2340-4cf0-8668-5613f8df61a2.html",
+     "data": "2026-07-29T20:15:01+00:00"
+    },
+    {
      "titolo": "Il Garante: 'Le immagini del corpo di Chiara Poggi ledono la sua dignità'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/il-garante-le-immagini-del-corpo-di-chiara-poggi-ledono-la-sua-dignita_994d317b-5482-4884-af9f-8d7b01fa310e.html",
      "data": "2026-07-29T18:30:21+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Le piazze di Roma 'isole di calore', il video sulla Cnn",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/le-piazze-di-roma-isole-di-calore-il-video-sulla-cnn_d33a9c84-245a-4497-9696-14827d9c3435.html",
      "data": "2026-07-29T16:49:10+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-07-29T16:34:01+00:00"
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "titolo": "La Russa: 'Meloni al Colle gradita agli elettori del centrosinistra'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/29/la-russa-meloni-al-colle-piacerebbe-a-gran-parte-degli-elettori-del-centrosinistra_084fe224-4296-4fa3-9c14-721c20281d61.html",
-     "data": "2026-07-29T18:57:31+00:00"
+     "data": "2026-07-29T20:12:55+00:00"
     },
     {
      "titolo": "Il governo: 'Proseguire sul federalismo fiscale, il 29 agosto il termine per la delega'",
@@ -321,6 +321,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Argentina, Fifa apre procedimento contro Afa per bandiera sulle Malvinas e incidenti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/29/argentina-fifa-apre-procedimento-contro-afa-per-bandiera-sulle-malvinas_a1e0e863-ecc5-4169-92f0-d1625ed7bb74.html",
+     "data": "2026-07-29T21:03:21+00:00"
+    },
+    {
+     "titolo": "A Cuba nuovo record di blackout, senza elettricità il 74% dell'isola caraibica",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/29/a-cuba-nuovo-record-di-blackout-senza-elettricita-il-74-dellisola-caraibica_a50d55b3-9e4a-42ec-bbbb-a6c1ccbc0601.html",
+     "data": "2026-07-29T20:48:59+00:00"
+    },
+    {
+     "titolo": "Media, Riad al lavoro per costruire coalizione a difesa Mar Rosso dagli Houthi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/29/media-riad-al-lavoro-per-costruire-coalizione-a-difesa-mar-rosso-dagli_9b9cc888-7599-497c-8c1c-9ad7bc0a23f3.html",
+     "data": "2026-07-29T20:36:45+00:00"
+    },
+    {
+     "titolo": "Nicaragua, rapporto denuncia oltre 250 giornalisti costretti all'esilio dal regime",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/29/nicaragua-rapporto-denuncia-oltre-250-giornalisti-costretti-allesilio-dal-regime_721abcc6-6265-4112-ad4f-e00008c7ab02.html",
+     "data": "2026-07-29T20:35:36+00:00"
+    },
+    {
+     "titolo": "Trump, 'Warsh fantastico, gli piacerebbe vedere tassi più bassi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/29/trump-warsh-fantastico-gli-piacerebbe-vedere-tassi-piu-bassi_81c1267a-9137-4dae-9787-8de31d8ad800.html",
+     "data": "2026-07-29T20:01:12+00:00"
+    },
+    {
      "titolo": "Zelensky, 'Mosca prepara un massiccio attacco, potrebbe essere stanotte'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/29/zelensky-mosca-prepara-un-massiccio-attacco-potrebbe-essere-stanotte_f8d823f1-b175-4229-9cd8-0360a8b92c9f.html",
      "data": "2026-07-29T19:21:36+00:00"
@@ -354,31 +379,6 @@
      "titolo": "Scoperto in Zimbawe dinosauro di 210 milioni di anni con vertebre, costole e arti",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/29/scoperto-in-zimbawe-dinosauro-di-210-milioni-di-anni-con-vertebre-costole-e-arti_3521a834-4f78-4efc-9802-4cad80923879.html",
      "data": "2026-07-29T15:45:04+00:00"
-    },
-    {
-     "titolo": "Salgono a 75 i morti nelle inondazioni nel nord-est dell'India",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/29/salgono-a-75-i-morti-nelle-inondazioni-nel-nord-est-dellindia_13af9011-7985-4679-a61e-95d22cb48a96.html",
-     "data": "2026-07-29T15:34:52+00:00"
-    },
-    {
-     "titolo": "Prestiti agevolati in Venezuela per chi ha perso casa nel terremoto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/29/prestiti-agevolati-in-venezuela-per-chi-ha-perso-casa-nel-terremoto_323ddbf0-bcbd-43a8-8231-bbed69ad8493.html",
-     "data": "2026-07-29T15:08:07+00:00"
-    },
-    {
-     "titolo": "Brasile, Lula resta avanti nei sondaggi in tutti gli scenari di voto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/29/brasile-lula-resta-avanti-nei-sondaggi-in-tutti-gli-scenari-di-voto_1da4b4a3-6e4a-4900-b9cb-2a36c58bbb52.html",
-     "data": "2026-07-29T15:06:45+00:00"
-    },
-    {
-     "titolo": "Due pompieri greci morti in un incendio boschivo a Creta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/29/due-pompieri-greci-morti-in-un-incendio-boschivo-a-creta_ccdc4d6c-9d44-42a4-8c44-44423180787f.html",
-     "data": "2026-07-29T14:38:38+00:00"
-    },
-    {
-     "titolo": "Ira di Trump per i raid su target Usa, colpiremo l'Iran duramente",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/29/ira-di-trump-per-i-raid-su-target-usa-colpiremo-liran-duramente_35d66e22-1fba-4adc-956f-dd55abf3ab9f.html",
-     "data": "2026-07-29T12:39:27+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Rissa post finale e Malvinas, la Fifa apre un procedimento contro l'Argentina",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/rissa-post-finale-e-malvinas-la-fifa-apre-un-procedimento-contro-largentina_4aea53cb-f4b9-4724-b3bf-9e8ef18c3833.html",
+     "data": "2026-07-29T20:54:32+00:00"
+    },
+    {
+     "titolo": "Bove capitano contro la Fiorentina, abbracci e commozione a Watford",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/bove-capitano-contro-la-fiorentina-abbracci-e-commozione-a-watford_76dd5626-eeb5-483c-93c5-e76a3274a909.html",
+     "data": "2026-07-29T20:42:28+00:00"
+    },
+    {
      "titolo": "Infantino, la proposta della Fifa \"un'opportunità, non un obbligo\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/infantino-la-proposta-della-fifa-unopportunita-non-un-obbligo_e974174f-01d6-4ec0-9b40-e354d510d0ff.html",
      "data": "2026-07-29T19:58:45+00:00"
@@ -466,9 +476,9 @@
      "data": "2026-07-29T19:50:59+00:00"
     },
     {
-     "titolo": "Milan: 'Momenti delicati per Franco Baresi, rispettate la privacy'",
+     "titolo": "Ore di apprensione per Franco Baresi, il Milan: 'Rispettare la privacy'",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/07/29/milan-momenti-delicati-per-franco-baresi-rispettate-la-privacy_6dcdea34-947d-4cb0-9d0a-6d71e0a2575e.html",
-     "data": "2026-07-29T19:49:57+00:00"
+     "data": "2026-07-29T20:29:33+00:00"
     },
     {
      "titolo": "Atp Washington: Musetti batte Vukic in tre set e va ai quarti",
@@ -499,16 +509,6 @@
      "titolo": "Mancini, 'se andiamo al Mondiale siamo tra i favoriti'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/mancini-se-andiamo-al-mondiale-siamo-tra-i-favoriti_21db7999-5059-4f0a-acf4-e0f0f59613c3.html",
      "data": "2026-07-29T17:09:25+00:00"
-    },
-    {
-     "titolo": "Malagò \"domani un'assemblea dell'Uefa sul progetto Fifa\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/malago-domani-unassemblea-delluefa-sul-progetto-fifa_3faeb530-8c0e-406d-9294-235d997cb7fd.html",
-     "data": "2026-07-29T17:07:57+00:00"
-    },
-    {
-     "titolo": "Malagò, \"Donnarumma mi ha scritto 'era quello che volevamo'\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/malago-donnarumma-mi-ha-scritto-era-quello-che-volevamo_75e20919-9028-42a6-87ea-adb40ebcfa64.html",
-     "data": "2026-07-29T17:00:42+00:00"
     }
    ]
   }
