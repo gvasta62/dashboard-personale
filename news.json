@@ -1,65 +1,90 @@
 {
- "aggiornato": "2026-07-30T15:10:00.898661+00:00",
+ "aggiornato": "2026-07-30T16:55:45.681730+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
+     "titolo": "Il prezzo del gas in calo a 58,18 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/il-prezzo-del-gas-in-calo-a-5818-euro-al-megawattora_48a1d1d4-9972-418a-87b0-21d094b00831.html",
+     "data": "2026-07-30T16:37:55+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund chiude in calo a 80 punti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/lo-spread-tra-btp-e-bund-chiude-in-calo-a-80-punti_543d82b6-3626-46f1-8987-5090b286047f.html",
+     "data": "2026-07-30T16:22:08+00:00"
+    },
+    {
+     "titolo": "Apre a Fes il Museo della moneta, oltre 20mila pezzi dai sesterzi romani al bancomat",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/apre-a-fes-il-museo-della-moneta-oltre-20mila-pezzi-dai-sesterzi_75bfd6a6-dcf7-4903-88b7-41ca282f1369.html",
+     "data": "2026-07-30T16:11:29+00:00"
+    },
+    {
+     "titolo": "Al via il dopo Guterres con il primo voto informale in Consiglio di Sicurezza Onu",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/al-via-il-dopo-guterres-con-il-primo-voto-informale-in-consiglio-di-sicurezza-onu_f1b4eff9-c986-431b-aaeb-d66fd486d399.html",
+     "data": "2026-07-30T16:03:33+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa chiude in rialzo, si guarda a crescita economica e Ia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/borsa-leuropa-chiude-in-rialzo-si-guarda-a-crescita-economica-e-ia_024653a5-60f1-4ae3-a97a-de48002074f8.html",
+     "data": "2026-07-30T16:02:44+00:00"
+    },
+    {
+     "titolo": "Un tricheco si avventura nelle foreste in Norvegia, 'mai visto nulla di simile'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/un-tricheco-si-avventura-nelle-foreste-in-norvegia-mai-visto-nulla-di-simile_ef561e2f-fa90-4e79-8aef-abfc2bd64bbf.html",
+     "data": "2026-07-30T15:47:53+00:00"
+    },
+    {
+     "titolo": "Uefa all'unanimità, 'boicottiamo tutte le competizioni Fifa'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/uefa-allunanimita-boicottiamo-tutte-le-competizioni-fifa_bc53eb57-ca94-4975-9713-ef5d53071040.html",
+     "data": "2026-07-30T15:43:20+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude in netto rialzo dell'1,29%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/borsa-milano-chiude-in-netto-rialzo-dell129_0ec3aa76-6c91-4aa8-a4f7-91ae061f6620.html",
+     "data": "2026-07-30T15:41:15+00:00"
+    },
+    {
+     "titolo": "Crolla edificio a Messina, ci sarebbero dispersi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/crolla-edificio-a-messina-ci-sarebbero-dispersi_b7940f37-df61-48db-abe8-b450d6f29be4.html",
+     "data": "2026-07-30T15:31:35+00:00"
+    },
+    {
      "titolo": "Nato, 'adotteremo tutte le misure necessarie per difendere il territorio'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/nato-adotteremo-tutte-le-misure-necessarie-per-difendere-il-territorio_9d0e6530-9188-4559-8aa8-8171139ac1a5.html",
      "data": "2026-07-30T14:32:23+00:00"
-    },
-    {
-     "titolo": "Wall Street apre in rialzo, Dj +0,63%, Nasdaq +1,61%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/wall-street-apre-in-rialzo-dj-063-nasdaq-161_3bed5588-ebcb-494f-a1d1-3fedc0d56fcd.html",
-     "data": "2026-07-30T13:55:55+00:00"
-    },
-    {
-     "titolo": "L'inflazione registra un'impennata in Germania, 2,8% a luglio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/linflazione-registra-unimpennata-in-germania-28-a-luglio_ae7602e2-12d8-4d2b-bfe2-a8186803896d.html",
-     "data": "2026-07-30T12:43:00+00:00"
-    },
-    {
-     "titolo": "L'economia Usa cresce dell'1,5% nel secondo trimestre, sotto le attese",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/leconomia-usa-cresce-dell15-nel-secondo-trimestre-sotto-le-attese_15c3b2ee-59ef-4da2-83e5-d7aa8b84cd03.html",
-     "data": "2026-07-30T12:40:18+00:00"
-    },
-    {
-     "titolo": "L'inflazione Usa rallenta a giugno al 3,7%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/linflazione-usa-rallenta-a-giugno-al-37_da5758c2-c6a4-4b96-a26d-6097aecb9a01.html",
-     "data": "2026-07-30T12:38:37+00:00"
-    },
-    {
-     "titolo": "Peggiora la siccità del Po, la criticità diventa 'alta'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/peggiora-la-siccita-del-po-la-criticita-diventa-alta_4ae1c412-bbed-47b7-b306-ffc1d761632a.html",
-     "data": "2026-07-30T12:35:29+00:00"
-    },
-    {
-     "titolo": "Nasce il Cammino di Francesco, spot del MiTur con Bocelli",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/nasce-il-cammino-di-francesco-spot-del-mitur-con-bocelli_e8714c61-2612-4e4a-bc65-747f26eb0c22.html",
-     "data": "2026-07-30T12:03:38+00:00"
-    },
-    {
-     "titolo": "Cdp, utile del semestre sale a 4,3 miliardi di euro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/cdp-utile-del-semestre-sale-a-43-miliardi-di-euro_2a933d45-6f76-484c-9a56-74b7c98aa308.html",
-     "data": "2026-07-30T12:00:23+00:00"
-    },
-    {
-     "titolo": "Fonti Chigi, sul riconoscimento facciale l'Italia rispetta le norme Ue",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/fonti-chigi-sul-riconoscimento-facciale-litalia-rispetta-le-norme-ue_ad913fc6-f0b2-4c32-b446-7da6d5a54847.html",
-     "data": "2026-07-30T11:43:10+00:00"
-    },
-    {
-     "titolo": "Media, progressi nelle trattative Hamas-Israele su Gaza, accordo possibile",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/media-progressi-nelle-trattative-hamas-israele-su-gaza-accordo-possibile_8a080109-709f-4263-9970-10f3c3c326cd.html",
-     "data": "2026-07-30T11:32:41+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "A Philip Morris Italia il 45% delle produzione umbra di tabacco",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/30/a-philip-morris-italia-il-45-delle-produzione-umbra-di-tabacco_9cad504a-2552-4411-8512-b8a818793f1b.html",
+     "data": "2026-07-30T16:32:16+00:00"
+    },
+    {
+     "titolo": "Pd Gualdo Tadino, da Fratelli d'Italia accusa vergognosa",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/30/pd-gualdo-tadino-da-fratelli-ditalia-accusa-vergognosa_ffb4161f-71c7-4ff1-9124-ca1a64f111c3.html",
+     "data": "2026-07-30T15:59:34+00:00"
+    },
+    {
+     "titolo": "Nominati i componenti del nuovo cda della 'Casa di riposo Andrea Rossi'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/30/nominati-i-componenti-del-nuovo-cda-della-casa-di-riposo-andrea-rossi_5a937e64-0992-44fe-a33b-48bf48c26806.html",
+     "data": "2026-07-30T15:32:14+00:00"
+    },
+    {
+     "titolo": "Bandecchi, il nuovo ospedale di Terni non vedrà la luce in questa legislatura",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/30/bandecchi-il-nuovo-ospedale-di-terni-non-vedra-la-luce-in-questa-legislatura_dd4458c7-776b-4222-a4c1-5c254e5f0cd5.html",
+     "data": "2026-07-30T15:31:08+00:00"
+    },
+    {
+     "titolo": "La Regione accelera sulla messa in sicurezza del sito della cascata delle Marmore",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/30/la-regione-accelera-sulla-messa-in-sicurezza-del-sito-della-cascata-delle_1600fdb8-8473-4d79-9b88-9d02cff8beea.html",
+     "data": "2026-07-30T15:11:27+00:00"
+    },
     {
      "titolo": "Prisco, intesa Prefettura Perugia e guardia finanza per stretta sui migranti",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/30/prisco-intesa-prefettura-perugia-e-guardia-finanza-per-stretta-sui-migranti_28108dc3-82f9-4b96-867a-c7a19852fc42.html",
@@ -78,7 +103,7 @@
     {
      "titolo": "In Assemblea il disegno di legge Rendiconto generale dell'amministrazione regionale",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/30/in-assemblea-il-disegno-di-legge-rendiconto-generale-dellamministrazione-regionale_b0e278e3-f530-4581-87e0-1fb4e8fd83ad.html",
-     "data": "2026-07-30T13:35:07+00:00"
+     "data": "2026-07-30T15:14:37+00:00"
     },
     {
      "titolo": "Sindaco di Amelia, nessun passo indietro sull'ospedale",
@@ -94,37 +119,52 @@
      "titolo": "Nasce il Cammino di Francesco, spot del MiTur con Bocelli",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/30/nasce-il-cammino-di-francesco-spot-del-mitur-con-bocelli_4c0d7677-cd83-4ff4-8619-56312a596940.html",
      "data": "2026-07-30T12:03:32+00:00"
-    },
-    {
-     "titolo": "Oltre un terzo dei detenuti a Perugia interessati da legge sui domiciliari",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/30/oltre-un-terzo-dei-detenuti-a-perugia-interessati-da-legge-sui-domiciliari_f86bc158-b401-4e68-910f-f5f885e6d9fc.html",
-     "data": "2026-07-30T11:40:51+00:00"
-    },
-    {
-     "titolo": "A Collevalenza la 77/a Casa dell'acqua di Umbria Acque",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/30/a-collevalenza-la-77a-casa-dellacqua-di-umbria-acque_15ec5a22-2875-4240-8fc0-ca99b9767d56.html",
-     "data": "2026-07-30T10:39:37+00:00"
-    },
-    {
-     "titolo": "Sono 10 mila 740 i progetti in Umbria della Regione finanziati con il Pnrr",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/30/sono-10-mila-740-i-progetti-in-umbria-della-regione-finanziati-con-il-pnrr_94e47d4f-ff13-4fbc-a29c-e2cf95f1961e.html",
-     "data": "2026-07-30T15:08:09+00:00"
-    },
-    {
-     "titolo": "Comunità Incontro di Amelia 'bene ddl su misure alternative al carcere'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/30/comunita-incontro-di-amelia-bene-ddl-su-misure-alternative-al-carcere_e2ff0895-f371-4e3d-80ce-ee4ef4643374.html",
-     "data": "2026-07-30T10:17:23+00:00"
-    },
-    {
-     "titolo": "In 189 querelati da consigliere Pd Perugia per insulti omofobi dopo pride",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/30/in-189-querelati-da-consigliere-pd-perugia-per-insulti-omofobi-dopo-pride_a8a10cb7-0662-4e75-87c1-781025925f47.html",
-     "data": "2026-07-30T09:53:05+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Caso Almasri, Nordio invia alla Procura generale le carte",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/caso-almasri-nordio-invia-alla-procura-generale-le-carte_6d20c447-a7e8-431b-95d1-b9ac14f3b38a.html",
+     "data": "2026-07-30T16:45:29+00:00"
+    },
+    {
+     "titolo": "Incendio allo Spin Time, sequestro giudiziario dello stabile",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/incendio-allo-spin-time-sequestro-giudiziario-dello-stabile-_718f6af2-0c97-4b22-8419-29fc1a9c298d.html",
+     "data": "2026-07-30T16:15:22+00:00"
+    },
+    {
+     "titolo": "Crollo edificio: cliente negozio, 'uscita in tempo, è venuto tutto giù'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/crollo-edificio-cliente-negozio-uscita-in-tempo-e-venuto-tutto-giu_12f8aee8-6c3f-40e9-8b58-40cfe9d43152.html",
+     "data": "2026-07-30T15:52:39+00:00"
+    },
+    {
+     "titolo": "Scontro tra due furgoni nell'Ennese, due morti e tre feriti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/scontro-tra-due-furgoni-nellennese-due-morti-e-tre-feriti_347c9882-4948-46bc-9d8b-208d0ba72e69.html",
+     "data": "2026-07-30T15:44:13+00:00"
+    },
+    {
+     "titolo": "No Tav, 'le iniziative vanno avanti a Venaus, almeno per oggi\"",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/no-tav-le-iniziative-vanno-avanti-a-venaus-almeno-per-oggi_613909a8-aeeb-4917-a4fb-cfdf61afb044.html",
+     "data": "2026-07-30T15:35:04+00:00"
+    },
+    {
+     "titolo": "Crolla edificio a Messina, ci sarebbero dispersi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/crolla-edificio-a-messina-ci-sarebbero-dispersi_ab50704b-d800-4763-bcb1-9b4b40e1ae5a.html",
+     "data": "2026-07-30T15:31:43+00:00"
+    },
+    {
+     "titolo": "No Tav, 'presidio non vietato da ordinanza, restiamo qui'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/no-tav-presidio-non-vietato-da-ordinanza-restiamo-qui_a2de57a4-9256-4514-a9fb-1e3289b420c7.html",
+     "data": "2026-07-30T15:31:47+00:00"
+    },
+    {
+     "titolo": "Crolla un edificio a Messina, almeno 5 feriti gravi in ospedale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/crolla-un-edificio-a-messina-ci-sarebbero-dispersi_0cec36af-74ef-48cd-acf0-778d622745e7.html",
+     "data": "2026-07-30T16:31:05+00:00"
+    },
     {
      "titolo": "Arriva Guardia costiera, buttano in mare 665 mila euro, tre denunce",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/arriva-guardia-costiera-buttano-in-mare-665-mila-euro-tre-denunce_56bd95f0-d05b-4ce9-a5fe-e5ecf4f147f1.html",
@@ -138,58 +178,23 @@
     {
      "titolo": "La Procura di Roma apre un fascicolo su un giovane morto a Barcellona dopo un fermo di polizia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/il-pm-di-roma-apre-fascicolo-su-un-giovane-morto-a-barcellona-dopo-fermo-da-parte-della_2028d37b-3101-432b-8600-bf13cfb815be.html",
-     "data": "2026-07-30T15:00:12+00:00"
+     "data": "2026-07-30T15:40:42+00:00"
     },
     {
      "titolo": "Osservatorio sul Po, 'le regioni del Nord in difficoltà'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/osservatorio-sul-po-le-regioni-del-nord-in-difficolta_b016b2c1-794d-4734-b4d4-fb4960c384a3.html",
      "data": "2026-07-30T13:01:43+00:00"
-    },
-    {
-     "titolo": "Peggiora la siccità del Po, la criticità diventa 'alta'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/peggiora-la-siccita-del-po-la-criticita-diventa-alta_f3daf85c-2412-4c43-a8cc-ada6a21e85df.html",
-     "data": "2026-07-30T12:56:06+00:00"
-    },
-    {
-     "titolo": "Peggiora la siccità del Po, la criticità diventa 'alta'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/peggiora-la-siccita-del-po-la-criticita-diventa-alta_0be47624-ba7e-42d3-ac09-515a0c239757.html",
-     "data": "2026-07-30T12:35:30+00:00"
-    },
-    {
-     "titolo": "Incendio allo Spin Time, 50 minori accolti in strutture vicine",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/incendio-allo-spin-time-50-minori-accolti-in-strutture-vicine-_dbbacb92-e895-4b68-bb7e-72c221beb899.html",
-     "data": "2026-07-30T12:41:38+00:00"
-    },
-    {
-     "titolo": "No Tav, 'la polizia ci chiede di lasciare il campeggio di Venaus'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/no-tav-la-polizia-ci-chiede-di-lasciare-il-campeggio-di-venaus_eb626a10-a5b7-4e3a-9312-86b82cb3e619.html",
-     "data": "2026-07-30T12:10:56+00:00"
-    },
-    {
-     "titolo": "A Venaus è iniziato il campeggio No Tav dopo il divieto a Susa",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/a-venaus-e-iniziato-il-campeggio-no-tav-dopo-il-divieto-a-susa_f3ebd5bd-2197-4f9a-8f02-c48f69ec8250.html",
-     "data": "2026-07-30T12:10:01+00:00"
-    },
-    {
-     "titolo": "Colonna di fumo da binario in stazione a Milano, due pompieri intossicati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/colonna-di-fumo-da-binario-in-stazione-a-milano-due-pompieri-intossicati_df4f4d06-70e9-47d0-9e98-76bc07cad044.html",
-     "data": "2026-07-30T11:48:58+00:00"
-    },
-    {
-     "titolo": "Etna, flusso piroclastico e nube lavica alta 7 km dalla Voragine",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/etna-flusso-piroclastico-e-nube-lavica-alta-7-km-dalla-voragine_95a76a92-5c64-4d77-8d5e-3af3dcf6bdce.html",
-     "data": "2026-07-30T11:29:41+00:00"
-    },
-    {
-     "titolo": "Truffarono 1.200 anziane nella vendita 'porta a porta', sei a giudizio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/truffarono-1.200-anziane-nella-vendita-porta-a-porta-sei-a-giudizio_ad8f8d16-3927-403f-80e7-fea1015b5c63.html",
-     "data": "2026-07-30T11:19:44+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "No Tav, 'la prefettura di Torino fa le veci della politica'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/30/no-tav-la-prefettura-di-torino-fa-le-veci-della-politica_8d766c58-b642-4566-b204-da6fad70d12c.html",
+     "data": "2026-07-30T16:01:55+00:00"
+    },
     {
      "titolo": "Famiglie sospese a Sala, 'solleciti governo per legge che sblocchi urbanistica'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/30/famiglie-sospese-a-sala-solleciti-governo-per-legge-che-sblocchi-urbanistica_a8a4dfdb-54cb-44a5-9c99-e739151e680a.html",
@@ -244,17 +249,62 @@
      "titolo": "Mattarella, adattare leggi a comportamenti individuali è l'abdicazione dello Stato",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/30/mattarella-adattare-leggi-a-comportamenti-individuali-e-labdicazione-dello-stato_3ee7a0f4-c1a0-4025-8760-9339da8f2941.html",
      "data": "2026-07-30T09:35:49+00:00"
-    },
-    {
-     "titolo": "Mattarella cita il Papa, basta con la logica dell'emergenza sui migranti",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/30/mattarella-cita-il-papa-basta-con-la-logica-dellemergenza-sui-migranti_0972d7d2-c9b1-44db-81fc-6fc745d9aed9.html",
-     "data": "2026-07-30T09:33:20+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Il prezzo del gas in calo a 58,18 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/il-prezzo-del-gas-in-calo-a-5818-euro-al-megawattora_9e761cc3-2de4-4931-a069-a52df160ec39.html",
+     "data": "2026-07-30T16:37:52+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude in rialzo con l'Europa, balzo di Stm",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/borsa-milano-chiude-in-rialzo-con-leuropa-balzo-di-stm_5580f0e1-e58a-48ae-bda3-c95aa6653fcc.html",
+     "data": "2026-07-30T16:31:04+00:00"
+    },
+    {
+     "titolo": "Strnad, 'Pirelli investimento di lungo termine in campione industriale globale'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/strnad-pirelli-investimento-di-lungo-termine-in-campione-industriale-globale_fb60105c-7214-4e40-a984-7b9ad30ac791.html",
+     "data": "2026-07-30T16:29:38+00:00"
+    },
+    {
+     "titolo": "Enel, indebitamento sale a 61 miliardi, dl bollette incide per 1,2 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/enel-indebitamento-sale-a-61-miliardi-dl-bollette-incide-per-12-miliardi_fd2cbcfc-4b6d-409d-82aa-46faddf2fa00.html",
+     "data": "2026-07-30T16:25:54+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund chiude in calo a 80 punti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/lo-spread-tra-btp-e-bund-chiude-in-calo-a-80-punti_3bfe1d53-fe09-4f52-9479-28e43da35af9.html",
+     "data": "2026-07-30T16:22:11+00:00"
+    },
+    {
+     "titolo": "Amplifon cresce nel semestre, i ricavi salgono a 1,2 miliardi di euro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/amplifon-cresce-nel-semestre-i-ricavi-salgono-a-12-miliardi-di-euro_9e95e4be-6a24-48fc-8450-e0276e6c4ea8.html",
+     "data": "2026-07-30T16:17:58+00:00"
+    },
+    {
+     "titolo": "Cnrc vende il 14% del capitale di Pirelli a Strnad",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/cnrc-vende-il-14-del-capitale-di-pirelli-a-strnad_59cf0c2a-a70e-444b-bf42-1138ced6dffb.html",
+     "data": "2026-07-30T16:17:11+00:00"
+    },
+    {
+     "titolo": "Enel, nel semestre utile netto +2,8% a 3,929 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/enel-nel-semestre-utile-netto-28-a-3929-miliardi_5bb6b032-a97f-4b94-b133-24d73d82530c.html",
+     "data": "2026-07-30T16:14:48+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa chiude in rialzo, si guarda a crescita economica e Ia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/borsa-leuropa-chiude-in-rialzo-si-guarda-a-crescita-economica-e-ia_c1970c76-d4bf-44eb-8b4f-43051aabe33a.html",
+     "data": "2026-07-30T16:02:40+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude in netto rialzo dell'1,29%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/borsa-milano-chiude-in-netto-rialzo-dell129_2bbac52f-12bc-4133-89f6-d06ed318ea8a.html",
+     "data": "2026-07-30T15:41:12+00:00"
+    },
     {
      "titolo": "Peste suina, abbattuti il 10% degli esemplari di Cinta senese",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/peste-suina-abbattuti-il-10-degli-esemplari-di-cinta-senese_97e8fbda-92d8-4b6e-a6da-d621329bd37a.html",
@@ -264,62 +314,37 @@
      "titolo": "Borsa: l'Europa sale dopo Wall Street, Milano +0,9%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/borsa-leuropa-sale-dopo-wall-street-milano-09_7927e537-8c48-4d55-96f6-47469b0a495f.html",
      "data": "2026-07-30T13:56:31+00:00"
-    },
-    {
-     "titolo": "Wall Street apre in rialzo, Dj +0,63%, Nasdaq +1,61%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/wall-street-apre-in-rialzo-dj-063-nasdaq-161_5f2009ae-e0c7-4564-b0a0-68a7a4341484.html",
-     "data": "2026-07-30T13:55:52+00:00"
-    },
-    {
-     "titolo": "Via alla vendemmia, in provincia di Cuneo si parte in anticipo",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/via-alla-vendemmia-in-provincia-di-cuneo-si-parte-in-anticipo_2fafd287-ae49-429e-895b-54ef2beb7bcd.html",
-     "data": "2026-07-30T13:53:29+00:00"
-    },
-    {
-     "titolo": "Ferrari, ricavi e utile netto in crescita, stime anno in rialzo",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/ferrari-ricavi-e-utile-netto-in-crescita-stime-anno-in-rialzo_39ad882d-087b-47b0-abbe-55c26d190372.html",
-     "data": "2026-07-30T13:48:26+00:00"
-    },
-    {
-     "titolo": "Il petrolio in calo a New York a 84,19 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/il-petrolio-in-calo-a-new-york-a-8419-dollari_98820966-a3e6-455d-9cc8-7d7a1110092d.html",
-     "data": "2026-07-30T13:09:40+00:00"
-    },
-    {
-     "titolo": "L'inflazione registra un'impennata in Germania, 2,8% a luglio",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/linflazione-registra-unimpennata-in-germania-28-a-luglio_4df7c2b7-a514-4193-9028-d29983e7b0ee.html",
-     "data": "2026-07-30T12:43:17+00:00"
-    },
-    {
-     "titolo": "L'economia Usa cresce dell'1,5% nel secondo trimestre, sotto le attese",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/leconomia-usa-cresce-dell15-nel-secondo-trimestre-sotto-le-attese_3e11545c-27da-479e-8bd2-8c08284d0f80.html",
-     "data": "2026-07-30T12:40:13+00:00"
-    },
-    {
-     "titolo": "L'inflazione Usa rallenta a giugno al 3,7%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/linflazione-usa-rallenta-a-giugno-al-37_097aa3f4-34c2-4ddf-8f11-e4fe18e75b3c.html",
-     "data": "2026-07-30T12:38:55+00:00"
-    },
-    {
-     "titolo": "Mondadori cresce nel semestre, i ricavi salgono a 415,9 milioni di euro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/mondadori-cresce-nel-semestre-i-ricavi-salgono-a-4159-milioni-di-euro_dd403546-fa49-41a9-a11f-b05067c5dfea.html",
-     "data": "2026-07-30T12:36:14+00:00"
-    },
-    {
-     "titolo": "Associazioni tpl, con federalismo fiscale a rischio trasporto pubblico",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/associazioni-tpl-con-federalismo-fiscale-a-rischio-trasporto-pubblico_f3376e90-18d7-47fc-99a7-b4d1a616486f.html",
-     "data": "2026-07-30T12:18:58+00:00"
-    },
-    {
-     "titolo": "Cdp, utile del semestre sale a 4,3 miliardi di euro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/cdp-utile-del-semestre-sale-a-43-miliardi-di-euro_0d13b107-0fd4-4ea1-b796-09d0815cafc8.html",
-     "data": "2026-07-30T12:00:28+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Apre a Fes il Museo della moneta, oltre 20mila pezzi dai sesterzi romani al bancomat",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/30/apre-a-fes-il-museo-della-moneta-oltre-20mila-pezzi-dai-sesterzi_f8d01569-9929-4eca-8f29-e152849ba604.html",
+     "data": "2026-07-30T16:11:58+00:00"
+    },
+    {
+     "titolo": "Al via il dopo Guterres con il primo voto informale in Consiglio di Sicurezza Onu",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/30/al-via-il-dopo-guterres-con-il-primo-voto-informale-in-consiglio-di-sicurezza-onu_7f1de582-5147-4841-89b7-65ca02dfe813.html",
+     "data": "2026-07-30T16:03:40+00:00"
+    },
+    {
+     "titolo": "Ucraina, Zelensky mostra la foto della famiglia uccisa in un raid russo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/ucraina-zelensky-mostra-la-foto-della-famiglia-uccisa-in-un-raid-russo_fc7bb489-9292-435d-add9-b65fa80eb4a5.html",
+     "data": "2026-07-30T15:58:23+00:00"
+    },
+    {
+     "titolo": "Si riattiva la crescita in Messico, +2,1% su anno nel secondo trimestre",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/si-riattiva-la-crescita-in-messico-21-su-anno-nel-secondo-trimestre_0070fe94-be62-4d53-98fd-6fc0b937f569.html",
+     "data": "2026-07-30T15:52:10+00:00"
+    },
+    {
+     "titolo": "Un tricheco si avventura nelle foreste in Norvegia, 'mai visto nulla di simile'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/un-tricheco-si-avventura-nelle-foreste-in-norvegia-mai-visto-nulla-di-simile_c0e86723-ef9d-4c1f-bed6-0c0b7f96f213.html",
+     "data": "2026-07-30T15:48:10+00:00"
+    },
     {
      "titolo": "Nato, 'adotteremo tutte le misure necessarie per difendere il territorio'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/nato-adotteremo-tutte-le-misure-necessarie-per-difendere-il-territorio_5115ee74-22db-4918-b986-e1325836dc6e.html",
@@ -351,34 +376,9 @@
      "data": "2026-07-30T11:10:33+00:00"
     },
     {
-     "titolo": "Raid sull'Ucraina, 'un missile russo caduto in Polonia'. Tusk: 'Violato il nostro spazio aereo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/raid-sullucraina-un-missile-russo-caduto-in-polonia.-tusk-violato-il-nostro-spazio_fc7bb489-9292-435d-add9-b65fa80eb4a5.html",
-     "data": "2026-07-30T13:16:06+00:00"
-    },
-    {
      "titolo": "L'Ue versa altri 3,47 miliardi a Kiev per droni, missili e caccia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/lue-versa-altri-347-miliardi-a-kiev-per-droni-missili-e-caccia_b385ffdd-aa07-48bc-b3f5-14079d65e924.html",
      "data": "2026-07-30T10:20:06+00:00"
-    },
-    {
-     "titolo": "Chiude al pubblico la casa messicana dello scrittore García Márquez",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/chiude-al-pubblico-la-casa-messicana-dello-scrittore-garcia-marquez_521bddc5-e2a2-4b98-b152-b72295501277.html",
-     "data": "2026-07-30T09:40:07+00:00"
-    },
-    {
-     "titolo": "Presunto 'deepfake' di Bolsonaro agita le elezioni in Brasile",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/presunto-deepfake-di-bolsonaro-agita-le-elezioni-in-brasile_962b3f17-1d05-400a-bcc8-bbc98a919f96.html",
-     "data": "2026-07-30T08:13:50+00:00"
-    },
-    {
-     "titolo": "Media polacchi, missile russo caduto vicino Lublino in Polonia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/media-polacchi-missile-russo-caduto-vicino-lublino-in-polonia_d76ac315-290b-41ef-a712-1c88bafa2f74.html",
-     "data": "2026-07-30T07:21:23+00:00"
-    },
-    {
-     "titolo": "Tusk, violato lo spazio aereo polacco durante raid russo su Ucraina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/tusk-violato-lo-spazio-aereo-polacco-durante-raid-russo-su-ucraina_6ad0048a-9c76-436b-bed4-0eb32b0ebdc9.html",
-     "data": "2026-07-30T07:05:54+00:00"
     }
    ]
   },
@@ -451,64 +451,64 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Boicottaggio Uefa, a rischio il mondiale donne U20 di settembre",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/30/boicottaggio-uefa-a-rischio-il-mondiale-donne-u20-di-settembre_07acdfe9-1cd6-4cdf-834a-aa2db250f270.html",
+     "data": "2026-07-30T16:32:22+00:00"
+    },
+    {
+     "titolo": "Abodi 'presto un bando da 50 milioni per oratori nazionali'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/30/abodi-presto-un-bando-da-50-milioni-per-oratori-nazionali_52f7e142-88b3-49b4-92b2-51024ba6b23d.html",
+     "data": "2026-07-30T16:31:00+00:00"
+    },
+    {
+     "titolo": "Calcio: l'Inter vola a Hong Kong, sabato sfida al City",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/30/calcio-linter-vola-a-hong-kong-sabato-sfida-al-city_2b76c2ed-e452-4ec7-a4c4-a0a639fca86a.html",
+     "data": "2026-07-30T16:29:27+00:00"
+    },
+    {
+     "titolo": "Nuovo corso dell'Italia, Mancini dà l'arrivederci a settembre",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/30/nuovo-corso-dellitalia-mancini-da-larrivederci-a-settembre_8c2a37f1-e728-4cba-9a63-f35f84772dd6.html",
+     "data": "2026-07-30T16:27:48+00:00"
+    },
+    {
+     "titolo": "Napoli di nuovo in ritiro, da domani festa per il Centenario",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/30/napoli-di-nuovo-in-ritiro-da-domani-festa-per-il-centenario_d087dc66-3b4d-4f81-ab5b-d8ef9534ae8c.html",
+     "data": "2026-07-30T16:31:42+00:00"
+    },
+    {
+     "titolo": "La Uefa boicotta il Mondiale di Infantino, 'il calcio non è in vendita'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/30/la-uefa-boicotta-il-mondiale-di-infantino-il-calcio-non-e-in-vendita_2fe1aa40-a76f-41e4-9a72-473e0eb27718.html",
+     "data": "2026-07-30T15:50:34+00:00"
+    },
+    {
+     "titolo": "L'Europa boicotta il Mondiale di Infantino, \"via il progetto o non giochiamo\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/30/luefa-allunanimita-boicottiamo-tutte-le-competizioni-fifa-_5abbfa4e-5c9f-4dab-b68b-20105a8bbc35.html",
+     "data": "2026-07-30T16:41:16+00:00"
+    },
+    {
+     "titolo": "Uefa all'unanimità, 'boicottiamo tutte le competizioni Fifa'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/30/uefa-allunanimita-boicottiamo-tutte-le-competizioni-fifa_69da0cb8-366c-477f-ba19-85258f87cac5.html",
+     "data": "2026-07-30T15:43:16+00:00"
+    },
+    {
+     "titolo": "L'Udinese presenta i nuovi acquisti Vojvoda, Gomez e Chakvetadze",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/30/ludinese-presenta-i-nuovi-acquisti-vojvoda-gomez-e-chakvetadze_88ef3d32-3375-4e80-9e7c-9a91135274c5.html",
+     "data": "2026-07-30T15:39:25+00:00"
+    },
+    {
+     "titolo": "Libri: \"Carlo Ascarelli\", la storia del fondatore del Napoli nel centenario del club",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/30/libri-carlo-ascarelli-la-storia-del-fondatore-del-napoli-nel-centenario_6fa5d145-a47c-47b6-8f39-adceaf3b01e8.html",
+     "data": "2026-07-30T15:28:50+00:00"
+    },
+    {
+     "titolo": "Atletica: Mei 'A Birmingham puntiamo a vincere il medagliere'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/30/atletica-mei-a-birmingham-puntiamo-a-vincere-il-medagliere_1ef6882e-afdc-4329-a847-e8f085cc3409.html",
+     "data": "2026-07-30T15:14:55+00:00"
+    },
+    {
      "titolo": "Masters 1000 Cincinnati: ci sarà anche Djokovic, non vedo l'ora",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/30/masters-1000-cincinnati-ci-sara-anche-djokovic-non-vedo-lora_6f883c28-6e6d-4cbe-8ef7-93197892d5cc.html",
      "data": "2026-07-30T14:45:30+00:00"
-    },
-    {
-     "titolo": "Viaggio nelle scuole calcio, tra rette alte e troppa tattica",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/30/viaggio-nelle-scuole-calcio-tra-rette-alte-e-troppa-tattica_c7bff92a-7a0c-48ce-a90d-ece0408f6590.html",
-     "data": "2026-07-30T14:41:53+00:00"
-    },
-    {
-     "titolo": "Lacroix dal Crystal Palace al Chelsea per 60 milioni di euro",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/30/lacroix-dal-crystal-palace-al-chelsea-per-60-milioni-di-euro_27a99063-4ebf-4161-ae37-469d5c383bab.html",
-     "data": "2026-07-30T14:41:10+00:00"
-    },
-    {
-     "titolo": "Giochi Mediterraneo: Irma Testa e Filippo Tortu i portabandiera dell'Italia",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/30/giochi-mediterraneo-irma-testa-e-filippo-tortu-i-portabandiera-dellitalia_22d80d50-752a-48ab-b7c3-ae08c07e89ad.html",
-     "data": "2026-07-30T13:28:37+00:00"
-    },
-    {
-     "titolo": "Pallavolo: De Giorgi, \"spiace per sconfitta, ma guardiamo agli Europei\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/07/30/pallavolo-de-giorgi-spiace-per-sconfitta-ma-guardiamo-agli-europei_100da4ba-c911-43d1-9050-ae6e62176dcf.html",
-     "data": "2026-07-30T12:17:47+00:00"
-    },
-    {
-     "titolo": "Calcio: Dovbyk arriva al Bologna nell'operazione Castro alla Roma",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/30/calcio-dovbyk-arriva-al-bologna-nelloperazione-castro-alla-roma_1c72e104-7837-409a-b0ac-a8f2e07216b8.html",
-     "data": "2026-07-30T12:19:52+00:00"
-    },
-    {
-     "titolo": "Mondiali scherma: l'Italia conquista l'oro nel fioretto a squadre donne",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/30/mondiali-scherma-italia-conquista-loro-nel-fioretto-a-squadre-donne_b21ee33e-a170-4a44-b999-c46e4cfadf2d.html",
-     "data": "2026-07-30T12:20:45+00:00"
-    },
-    {
-     "titolo": "Calcio: ufficiale Castro alla Roma, operazione da 35 milioni",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/30/calcio-ufficiale-castro-alla-roma-operazione-da-35-milioni_9ea4b932-d045-481e-b7c7-b16685b65167.html",
-     "data": "2026-07-30T12:21:37+00:00"
-    },
-    {
-     "titolo": "Ancelotti: 'L'Italia mi ha contattato ma il Brasile mi ha accolto, mantengo la parola'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/30/ancelotti-litalia-mi-ha-contattato-ma-brasile-mi-ha-accolto-mantengo-la-parola_44adf446-fba0-42f0-a765-11b65297d83e.html",
-     "data": "2026-07-30T12:22:46+00:00"
-    },
-    {
-     "titolo": "Mondiali scherma: fioretto donne, Italia in finale per l'oro con gli Usa",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/07/30/mondiali-scherma-fioretto-donne-italia-in-finale-per-loro-con-gli_aedb8be0-9df4-4ccb-8041-7ee699a166e5.html",
-     "data": "2026-07-30T10:09:16+00:00"
-    },
-    {
-     "titolo": "Calcio: John Stones a Milano, visite e poi firma con l'Inter",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/30/calcio-john-stones-a-milano-visite-e-poi-firma-con-linter_c2e8ffac-2f46-47bf-9354-041f3dedae5c.html",
-     "data": "2026-07-30T12:23:35+00:00"
-    },
-    {
-     "titolo": "Pallavolo: Italia fuori dalla Nations League. De Giorgi: 'Ora guardiamo agli Europei'",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/07/30/pallavolo-nations-league-italia-ko-con-gli-usa-e-fuori-ai-quarti_f726b4bd-9f82-4b4f-b3cb-51cab19b2fd3.html",
-     "data": "2026-07-30T14:43:38+00:00"
     }
    ]
   }
