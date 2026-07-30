@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-30T19:57:48.027592+00:00",
+ "aggiornato": "2026-07-30T21:00:29.887669+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Madrid protesta per le parole di Tajani su Schengen e convoca l'ambasciatore",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/madrid-protesta-per-le-parole-di-tajani-su-schengen-e-convoca-lambasciatore_554b7b55-436f-4de6-9d8d-571bbf0c802f.html",
+     "data": "2026-07-30T20:45:05+00:00"
+    },
     {
      "titolo": "Tajani, 'favorevole alla chiusura di Schengen con la Spagna'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/tajani-favorevole-alla-chiusura-di-schengen-con-la-spagna_5ea7999e-0f6c-4d05-822d-d567069cd242.html",
@@ -49,11 +54,6 @@
      "titolo": "Gli abitanti di Ceuta, 'le strade inondate di migranti, noi abbandonati'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/gli-abitanti-di-ceuta-le-strade-inondate-di-migranti-noi-abbandonati_1d79278a-9b4f-4e23-986f-744dde0b9bce.html",
      "data": "2026-07-30T17:39:35+00:00"
-    },
-    {
-     "titolo": "Sei i dispersi nel crollo dell'edificio a Messina",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/sei-i-dispersi-nel-crollo-delledificio-a-messina_eadee5eb-d5aa-4050-b007-d92dd709b458.html",
-     "data": "2026-07-30T17:21:36+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-07-30T20:28:18+00:00"
+    },
+    {
      "titolo": "Sull'Etna tremore vulcanico in risalita, frattura eruttiva",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/sulletna-tremore-vulcanico-in-risalita-frattura-eruttiva_e6d5b97a-20e1-4999-aa45-d2a18a95f5bd.html",
      "data": "2026-07-30T19:37:00+00:00"
@@ -163,7 +168,7 @@
     {
      "titolo": "Morte avvelenate, gli esperti tedeschi a caccia della ricina",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/morte-avvelenate-gli-esperti-tedeschi-a-caccia-della-ricina_240c97ee-7559-4ef5-9114-34fea3e09cc0.html",
-     "data": "2026-07-30T17:47:42+00:00"
+     "data": "2026-07-30T20:02:17+00:00"
     },
     {
      "titolo": "Via libera al dl giustizia, dall'esame per gli avvocati alla protezione dei migranti",
@@ -179,11 +184,6 @@
      "titolo": "Neuropsichiatra, 'minori imputabili? L'immaturità a quell'età è la norma'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/neuropsichiatra-minori-imputabili-limmaturita-a-quelleta-e-la-norma-_e6086e60-30fb-40e6-b64b-bfdc99c3a15e.html",
      "data": "2026-07-30T17:09:51+00:00"
-    },
-    {
-     "titolo": "Nordio invia alla Procura generale le carte sul caso Almasri",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/caso-almasri-nordio-invia-alla-procura-generale-le-carte_6d20c447-a7e8-431b-95d1-b9ac14f3b38a.html",
-     "data": "2026-07-30T18:44:19+00:00"
     }
    ]
   },
@@ -236,9 +236,9 @@
      "data": "2026-07-30T11:42:28+00:00"
     },
     {
-     "titolo": "Stallo sulla gara unica per l'Intercity, il decreto Pnrr slitta",
+     "titolo": "Stallo sulla gara unica per l'Intercity, Mit accusa Bruxelles",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/30/dl-pnrr-il-nodo-della-gara-per-gli-intercity-il-provvedimento-slitta-a-lunedi_1266c168-ff75-4f91-9d1d-aae2fc035ba2.html",
-     "data": "2026-07-30T18:33:18+00:00"
+     "data": "2026-07-30T19:57:46+00:00"
     },
     {
      "titolo": "Mattarella, inammissibile la violenza in Val di Susa, non si esiti a condannare",
@@ -321,6 +321,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "La violenza estrema dei narcos in Ecuador raggiunge anche la capitale Quito",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/la-violenza-estrema-dei-narcos-in-ecuador-raggiunge-anche-la-capitale-quito_f55a7bf5-d8ee-428b-9a00-eb159e653db2.html",
+     "data": "2026-07-30T20:51:02+00:00"
+    },
+    {
+     "titolo": "Madrid protesta per le parole di Tajani su Schengen e convoca l'ambasciatore",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/madrid-protesta-per-le-parole-di-tajani-su-schengen-e-convoca-lambasciatore_4d7f0a88-616f-480d-b2dd-d7f89b509a25.html",
+     "data": "2026-07-30T20:45:03+00:00"
+    },
+    {
+     "titolo": "Venezuela, via alle demolizioni nelle zone colpite dal duplice terremoto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/venezuela-via-alle-demolizioni-nelle-zone-colpite-dal-duplice-terremoto_ecbaaa02-57ad-48fe-8341-4063d2219ea8.html",
+     "data": "2026-07-30T20:42:46+00:00"
+    },
+    {
+     "titolo": "Brasile, ex attaccante del Botafogo muore nel crollo di un muro per il maltempo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/brasile-ex-attaccante-del-botafogo-muore-nel-crollo-di-un-muro-per-il-maltempo_8cfe8535-3102-4efd-8c90-7b868349960e.html",
+     "data": "2026-07-30T20:21:24+00:00"
+    },
+    {
      "titolo": "Ucraina sotto attacco, 'sterminata una famiglia con 7 figli'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/ucraina-sotto-attacco-sterminata-una-famiglia-con-7-figli_fc7bb489-9292-435d-add9-b65fa80eb4a5.html",
      "data": "2026-07-30T19:45:56+00:00"
@@ -359,26 +379,6 @@
      "titolo": "Durov, 'per Mosca sono terrorista perché ho rifiutato le richieste di censura'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/durov-per-mosca-sono-terrorista-perche-ho-rifiutato-le-richieste-di-censura_1069e835-6151-4221-8e05-6f7104d6f76f.html",
      "data": "2026-07-30T17:44:38+00:00"
-    },
-    {
-     "titolo": "Gli abitanti di Ceuta, 'le strade inondate di migranti, noi abbandonati'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/30/gli-abitanti-di-ceuta-le-strade-inondate-di-migranti-noi-abbandonati_50e37e8f-d06a-412a-97f6-8bbefbf451ac.html",
-     "data": "2026-07-30T17:39:35+00:00"
-    },
-    {
-     "titolo": "Il Venezuela discute il finanziamento della ricostruzione con il Fondo Monetario",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/il-venezuela-discute-il-finanziamento-della-ricostruzione-con-il-fondo-monetario_d3c1f205-1480-45cd-be0a-14538f6cf61d.html",
-     "data": "2026-07-30T17:21:54+00:00"
-    },
-    {
-     "titolo": "Nyt, Musk spenderà 100-120 milioni per aiutare i repubblicani alle midterm",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/30/nyt-musk-spendera-100-120-milioni-per-aiutare-i-repubblicani-alle_3479821e-a7b3-47b6-bf7b-448f60022c5b.html",
-     "data": "2026-07-30T17:16:38+00:00"
-    },
-    {
-     "titolo": "Riad prepara 'una coalizione navale per difendere il Mar Rosso'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/30/riad-prepara-una-coalizione-navale-per-difendere-il-mar-rosso_d31af7f6-b748-4723-8730-04ca46af7b31.html",
-     "data": "2026-07-30T17:07:01+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "La Concacaf si allinea all'Uefa e respinge il piano della Fifa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/30/la-concacaf-si-allinea-alluefa-e-respinge-il-piano-della-fifa_35ec529a-0f8f-4b16-86a5-bbc6c97ffed2.html",
+     "data": "2026-07-30T19:56:25+00:00"
+    },
+    {
      "titolo": "Stones 'emozionato, sono all'Inter per vincere ancora'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/30/stones-emozionato-sono-allinter-per-vincere-ancora_2f49bb18-6624-428e-ab5b-b022ac80694e.html",
      "data": "2026-07-30T19:33:40+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Maxima Roma: Matiasic nominato presidente esecutivo",
      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/07/30/maxima-roma-matiasic-nominato-presidente-esecutivo_2173f285-06c0-4bd7-912d-782bc89d5e3b.html",
      "data": "2026-07-30T16:55:03+00:00"
-    },
-    {
-     "titolo": "Boicottaggio Uefa, a rischio il mondiale donne U20 di settembre",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/30/boicottaggio-uefa-a-rischio-il-mondiale-donne-u20-di-settembre_07acdfe9-1cd6-4cdf-834a-aa2db250f270.html",
-     "data": "2026-07-30T16:32:22+00:00"
     }
    ]
   }
