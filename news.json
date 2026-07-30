@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-30T21:00:29.887669+00:00",
+ "aggiornato": "2026-07-30T22:31:54.138199+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, 'sale a 16 il numero dei migranti annegati a Ceuta in 24 ore'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/media-sale-a-16-il-numero-dei-migranti-annegati-a-ceuta-in-24-ore_4a62cdfc-6016-4125-ac1e-3a260a421763.html",
+     "data": "2026-07-30T22:08:57+00:00"
+    },
+    {
+     "titolo": "Netanyahu, 'abbiamo distrutto i tunnel di Hezbollah nella zona di Beaufort in Libano'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/netanyahu-abbiamo-distrutto-i-tunnel-di-hezbollah-nella-zona-di-beaufort-in-libano_896a90ca-e7b6-4ac4-ae7a-a4a015c63462.html",
+     "data": "2026-07-30T21:22:08+00:00"
+    },
     {
      "titolo": "Madrid protesta per le parole di Tajani su Schengen e convoca l'ambasciatore",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/madrid-protesta-per-le-parole-di-tajani-su-schengen-e-convoca-lambasciatore_554b7b55-436f-4de6-9d8d-571bbf0c802f.html",
@@ -44,16 +54,6 @@
      "titolo": "Fontana chiede parere a Giunta regolamento, congelato accesso a chat Delmastro",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/fontana-chiede-parere-a-giunta-regolamento-congelato-accesso-a-chat-delmastro_16675736-adeb-4f5d-b0dc-f1e5c07acae2.html",
      "data": "2026-07-30T17:47:36+00:00"
-    },
-    {
-     "titolo": "Durov, 'per Mosca sono terrorista perché ho rifiutato le richieste di censura'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/durov-per-mosca-sono-terrorista-perche-ho-rifiutato-le-richieste-di-censura_016f9998-ab87-4464-8521-ab95ba735eee.html",
-     "data": "2026-07-30T17:44:38+00:00"
-    },
-    {
-     "titolo": "Gli abitanti di Ceuta, 'le strade inondate di migranti, noi abbandonati'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/gli-abitanti-di-ceuta-le-strade-inondate-di-migranti-noi-abbandonati_1d79278a-9b4f-4e23-986f-744dde0b9bce.html",
-     "data": "2026-07-30T17:39:35+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Da marzo una task force di 400 militari italiani è schierata in Arabia Saudita, Kuwait e Bahrein",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/da-marzo-una-task-force-di-400-militari-italiani-e-schierata-in-arabia-saudita_17108210-31fa-4b7b-bb74-00143101d12e.html",
+     "data": "2026-07-30T21:19:39+00:00"
+    },
+    {
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-07-30T20:28:18+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Si tuffa in acqua per salvare la figlia, un uomo disperso nel Po",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/si-tuffa-in-acqua-per-salvare-la-figlia-un-uomo-disperso-nel-po_f3c3f7ce-74d2-4a3d-bd9f-db6347e8d205.html",
      "data": "2026-07-30T17:02:43+00:00"
-    },
-    {
-     "titolo": "Neuropsichiatra, 'minori imputabili? L'immaturità a quell'età è la norma'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/neuropsichiatra-minori-imputabili-limmaturita-a-quelleta-e-la-norma-_e6086e60-30fb-40e6-b64b-bfdc99c3a15e.html",
-     "data": "2026-07-30T17:09:51+00:00"
     }
    ]
   },
@@ -273,7 +273,7 @@
     {
      "titolo": "A Philip Morris Italia il 45% delle produzione umbra di tabacco",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/a-philip-morris-italia-il-45-delle-produzione-umbra-di-tabacco_b5a849fb-ef97-4d98-9710-be4bba77c15b.html",
-     "data": "2026-07-30T19:01:21+00:00"
+     "data": "2026-07-30T21:36:49+00:00"
     },
     {
      "titolo": "Borsa: Milano chiude in rialzo con l'Europa, balzo di Stm",
@@ -321,6 +321,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Media, 'sale a 16 il numero dei migranti annegati a Ceuta in 24 ore'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/31/media-sale-a-16-il-numero-dei-migranti-annegati-a-ceuta-in-24-ore_8768e8fc-9745-4306-aa13-2037c4ccf54d.html",
+     "data": "2026-07-30T22:09:00+00:00"
+    },
+    {
+     "titolo": "Netanyahu, 'abbiamo distrutto i tunnel di Hezbollah nella zona di Beaufort in Libano'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/30/netanyahu-abbiamo-distrutto-i-tunnel-di-hezbollah-nella-zona-di-beaufort-in-libano_13bc54e0-9bca-4d32-afad-fa581aa44bd7.html",
+     "data": "2026-07-30T21:22:24+00:00"
+    },
+    {
+     "titolo": "Ecuador e Paraguay rafforzano la cooperazione contro il crimine organizzato",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/ecuador-e-paraguay-rafforzano-la-cooperazione-contro-il-crimine-organizzato_033a3d59-590e-4cb7-857c-2243f1b68196.html",
+     "data": "2026-07-30T21:17:40+00:00"
+    },
+    {
+     "titolo": "Cile, il governo Kast esclude la privatizzazione della società mineraria Codelco",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/cile-il-governo-kast-esclude-la-privatizzazione-della-societa-mineraria-codelco_3e21e89e-b013-44ad-9fb6-ab1460c9272f.html",
+     "data": "2026-07-30T21:09:21+00:00"
+    },
+    {
      "titolo": "La violenza estrema dei narcos in Ecuador raggiunge anche la capitale Quito",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/la-violenza-estrema-dei-narcos-in-ecuador-raggiunge-anche-la-capitale-quito_f55a7bf5-d8ee-428b-9a00-eb159e653db2.html",
      "data": "2026-07-30T20:51:02+00:00"
@@ -353,32 +373,12 @@
     {
      "titolo": "Emergenza migranti a Ceuta, in migliaia arrivati a nuoto",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/emergenza-migranti-a-ceuta-in-migliaia-arrivati-a-nuoto_086bcfef-66be-440c-8681-4e02c95572da.html",
-     "data": "2026-07-30T19:38:28+00:00"
+     "data": "2026-07-30T21:18:26+00:00"
     },
     {
      "titolo": "Recuperati i cadaveri di 9 migranti annegati tentando di arrivare a Ceuta",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/recuperati-i-cadaveri-di-9-migranti-annegati-tentando-di-arrivare-a-ceuta_d123a5ae-44f3-40f1-a648-8132ad6cfbef.html",
      "data": "2026-07-30T18:40:20+00:00"
-    },
-    {
-     "titolo": "Burnham ascolta Trump, 'approccio pragmatico per gas e petrolio nel Mare del Nord'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/burnham-ascolta-trump-approccio-pragmatico-per-gas-e-petrolio-nel-mare_e2bf24b7-eaeb-4d07-abd2-9cf5c9de67fe.html",
-     "data": "2026-07-30T18:19:33+00:00"
-    },
-    {
-     "titolo": "Nasce un nuovo festival del cinema nella salina di Uyuni, in Bolivia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/nasce-un-nuovo-festival-del-cinema-nella-salina-di-uyuni-in-bolivia_37e1edd9-f5d7-461b-9d3b-143dd2a2d09f.html",
-     "data": "2026-07-30T18:11:08+00:00"
-    },
-    {
-     "titolo": "Madrid mobilita l'esercito per far fronte alla crisi dei migranti a Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/30/madrid-mobilita-lesercito-per-far-fronte-alla-crisi-dei-migranti_2eba99c5-2afb-4d15-993c-d57339d273ef.html",
-     "data": "2026-07-30T18:07:40+00:00"
-    },
-    {
-     "titolo": "Durov, 'per Mosca sono terrorista perché ho rifiutato le richieste di censura'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/durov-per-mosca-sono-terrorista-perche-ho-rifiutato-le-richieste-di-censura_1069e835-6151-4221-8e05-6f7104d6f76f.html",
-     "data": "2026-07-30T17:44:38+00:00"
     }
    ]
   },
