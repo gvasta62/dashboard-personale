@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-30T22:31:54.138199+00:00",
+ "aggiornato": "2026-07-30T23:49:13.063488+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Nikkei, il Giappone interviene a sostegno dello yen",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/nikkei-il-giappone-interviene-a-sostegno-dello-yen_e31a9f4c-c11e-4ad2-8f7e-8d6d50336b13.html",
+     "data": "2026-07-30T23:11:45+00:00"
+    },
+    {
+     "titolo": "Trump, 'accordo storico su disarmo completo di Hamas, Israele uscirà da Gaza'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/trump-accordo-storico-su-disarmo-completo-di-hamas-israele-uscira-da-gaza_a6947e9e-1956-4dc3-bf89-b9e95c8ba5be.html",
+     "data": "2026-07-30T22:48:58+00:00"
+    },
+    {
+     "titolo": "Incendio nel carcere di Sassari, detenuto muore carbonizzato",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/incendio-nel-carcere-di-sassari-detenuto-muore-carbonizzato_09e7f58e-3f02-47bd-a000-f10221e73ce0.html",
+     "data": "2026-07-30T22:47:21+00:00"
+    },
     {
      "titolo": "Media, 'sale a 16 il numero dei migranti annegati a Ceuta in 24 ore'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/media-sale-a-16-il-numero-dei-migranti-annegati-a-ceuta-in-24-ore_4a62cdfc-6016-4125-ac1e-3a260a421763.html",
@@ -39,21 +54,6 @@
      "titolo": "Madrid mobilita l'esercito per far fronte alla crisi dei migranti a Ceuta",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/madrid-mobilita-lesercito-per-far-fronte-alla-crisi-dei-migranti_d2544204-9409-458e-bd99-5f41ddf2b183.html",
      "data": "2026-07-30T18:07:19+00:00"
-    },
-    {
-     "titolo": "Fratello Roggero,quante norme cambiate dai politici per favorire se stessi?",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/fratello-roggeroquante-norme-cambiate-dai-politici-per-favorire-se-stessi_55204b68-c4d1-4bdd-abdc-bbe139616cb3.html",
-     "data": "2026-07-30T17:59:28+00:00"
-    },
-    {
-     "titolo": "Delmastro, ho inoltrato io le chat alla procura non avendo nulla da nascondere",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/delmastro-ho-inoltrato-io-le-chat-alla-procura-non-avendo-nulla-da-nascondere_f6049e36-82c5-4f66-b63d-ba8a4d8beff3.html",
-     "data": "2026-07-30T17:48:59+00:00"
-    },
-    {
-     "titolo": "Fontana chiede parere a Giunta regolamento, congelato accesso a chat Delmastro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/fontana-chiede-parere-a-giunta-regolamento-congelato-accesso-a-chat-delmastro_16675736-adeb-4f5d-b0dc-f1e5c07acae2.html",
-     "data": "2026-07-30T17:47:36+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Incendio nel carcere di Sassari, detenuto muore carbonizzato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/incendio-nel-carcere-di-sassari-detenuto-muore-carbonizzato_77a0e1bf-e488-4ab1-aadb-3edfb290f115.html",
+     "data": "2026-07-30T22:47:23+00:00"
+    },
+    {
      "titolo": "Da marzo una task force di 400 militari italiani è schierata in Arabia Saudita, Kuwait e Bahrein",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/da-marzo-una-task-force-di-400-militari-italiani-e-schierata-in-arabia-saudita_17108210-31fa-4b7b-bb74-00143101d12e.html",
      "data": "2026-07-30T21:19:39+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Via libera al dl giustizia, dall'esame per gli avvocati alla protezione dei migranti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/via-libera-al-dl-giustizia-dallesame-per-gli-avvocati-alla-protezione-dei_e9878807-8121-4719-b130-f9cd5dd3caa2.html",
      "data": "2026-07-30T17:40:31+00:00"
-    },
-    {
-     "titolo": "Si tuffa in acqua per salvare la figlia, un uomo disperso nel Po",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/si-tuffa-in-acqua-per-salvare-la-figlia-un-uomo-disperso-nel-po_f3c3f7ce-74d2-4a3d-bd9f-db6347e8d205.html",
-     "data": "2026-07-30T17:02:43+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Nikkei, il Giappone interviene a sostegno dello yen",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/nikkei-il-giappone-interviene-a-sostegno-dello-yen_6db3811a-652c-4ff2-b747-0faa3886535e.html",
+     "data": "2026-07-30T23:11:45+00:00"
+    },
+    {
      "titolo": "Turismo mare, 100 milioni movimenti passeggeri e Italia 2/a per crociere",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/turismo-mare-100-milioni-movimenti-passeggeri-e-italia-2a-per-crociere_d7af23b3-816d-4ac5-9268-d4c85aa5a9f4.html",
      "data": "2026-07-30T17:02:19+00:00"
@@ -309,17 +314,27 @@
      "titolo": "Enel, nel semestre utile netto +2,8% a 3,929 miliardi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/enel-nel-semestre-utile-netto-28-a-3929-miliardi_5bb6b032-a97f-4b94-b133-24d73d82530c.html",
      "data": "2026-07-30T16:14:48+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude in rialzo, si guarda a crescita economica e Ia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/borsa-leuropa-chiude-in-rialzo-si-guarda-a-crescita-economica-e-ia_c1970c76-d4bf-44eb-8b4f-43051aabe33a.html",
-     "data": "2026-07-30T16:02:40+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Cile e Venezuela ristabiliscono relazioni diplomatiche dopo la rottura del 2024",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/cile-e-venezuela-ristabiliscono-relazioni-diplomatiche-dopo-la-rottura-del-2024_1dae11f9-6158-432b-b69c-f4aafddf67d8.html",
+     "data": "2026-07-30T23:14:10+00:00"
+    },
+    {
+     "titolo": "Trump, 'accordo storico su disarmo completo di Hamas, Israele uscirà da Gaza'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/31/trump-accordo-storico-su-disarmo-completo-di-hamas-israele-uscira-da-gaza_2f325b52-0c5a-4a3b-9907-701392bc191f.html",
+     "data": "2026-07-30T22:49:20+00:00"
+    },
+    {
+     "titolo": "Emergenza migranti a Ceuta, in migliaia arrivati a nuoto. Scontro Roma-Madrid su Schengen",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/31/emergenza-migranti-a-ceuta-in-migliaia-arrivati-a-nuoto.-scontro-roma-madrid-su-schengen_086bcfef-66be-440c-8681-4e02c95572da.html",
+     "data": "2026-07-30T22:35:30+00:00"
+    },
     {
      "titolo": "Media, 'sale a 16 il numero dei migranti annegati a Ceuta in 24 ore'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/31/media-sale-a-16-il-numero-dei-migranti-annegati-a-ceuta-in-24-ore_8768e8fc-9745-4306-aa13-2037c4ccf54d.html",
@@ -364,21 +379,6 @@
      "titolo": "Ucraina sotto attacco, 'sterminata una famiglia con 7 figli'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/ucraina-sotto-attacco-sterminata-una-famiglia-con-7-figli_fc7bb489-9292-435d-add9-b65fa80eb4a5.html",
      "data": "2026-07-30T19:45:56+00:00"
-    },
-    {
-     "titolo": "Tajani, 'favorevole alla chiusura di Schengen con la Spagna'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/tajani-favorevole-alla-chiusura-di-schengen-con-la-spagna_43259a61-5d83-45ea-ac12-7e0ae258901e.html",
-     "data": "2026-07-30T18:49:56+00:00"
-    },
-    {
-     "titolo": "Emergenza migranti a Ceuta, in migliaia arrivati a nuoto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/emergenza-migranti-a-ceuta-in-migliaia-arrivati-a-nuoto_086bcfef-66be-440c-8681-4e02c95572da.html",
-     "data": "2026-07-30T21:18:26+00:00"
-    },
-    {
-     "titolo": "Recuperati i cadaveri di 9 migranti annegati tentando di arrivare a Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/recuperati-i-cadaveri-di-9-migranti-annegati-tentando-di-arrivare-a-ceuta_d123a5ae-44f3-40f1-a648-8132ad6cfbef.html",
-     "data": "2026-07-30T18:40:20+00:00"
     }
    ]
   },
