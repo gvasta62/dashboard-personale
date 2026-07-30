@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-30T00:52:41.630890+00:00",
+ "aggiornato": "2026-07-30T03:47:48.387535+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Usa: terminata una serie di duri attacchi contro l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/usa-terminata-una-serie-di-duri-attacchi-contro-liran_f6ff5313-6a2f-4506-a6a3-6476f745e581.html",
+     "data": "2026-07-30T02:53:43+00:00"
+    },
     {
      "titolo": "Bolivia, ordinato l'arresto di Evo Morales per terrorismo e rivolta armata",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/bolivia-ordinato-larresto-di-evo-morales-per-terrorismo-e-rivolta-armata_a8020d5a-ccd7-4181-8704-479e8d312ee7.html",
@@ -49,11 +54,6 @@
      "titolo": "Si va verso il voto di fiducia sul dl Giustizia in aula al Senato",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/si-va-verso-il-voto-di-fiducia-sul-dl-giustizia-in-aula-al-senato_8e7b8642-68f3-4240-a95b-cbc06aac4efd.html",
      "data": "2026-07-29T17:18:48+00:00"
-    },
-    {
-     "titolo": "Cuba apre ai privati i settori del petrolio, del gas e farmaceutico",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/29/cuba-apre-ai-privati-i-settori-del-petrolio-del-gas-e-farmaceutico_e2a62dce-ecb3-4c3f-a1ec-25c64dccc646.html",
-     "data": "2026-07-29T17:11:22+00:00"
     }
    ]
   },
@@ -321,6 +321,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Usa: terminata una serie di duri attacchi contro l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/30/usa-terminata-una-serie-di-duri-attacchi-contro-liran_ed6a87d5-1e31-4857-a7a6-11d81deab2a9.html",
+     "data": "2026-07-30T02:54:00+00:00"
+    },
+    {
+     "titolo": "Messico, Kia investe 570 milioni di euro per l'auto elettrica",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/messico-kia-investe-570-milioni-di-euro-per-lauto-elettrica_32919eb3-2149-48b3-a6c3-bc790bd6c024.html",
+     "data": "2026-07-30T01:41:33+00:00"
+    },
+    {
+     "titolo": "Brasile, Lula firma nuove misure contro la violenza di genere",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/brasile-lula-firma-nuove-misure-contro-la-violenza-di-genere_79faf502-73e9-4a32-a26d-1c67b7cfe099.html",
+     "data": "2026-07-30T01:42:11+00:00"
+    },
+    {
      "titolo": "Venezuela, Rodríguez ringrazia l'italiano Rampolla del Tindaro dopo i terremoti",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/venezuela-rodriguez-ringrazia-litaliano-rampolla-del-tindaro-dopo-i-terremoti_0725948e-898a-49b6-9338-69369aa4b282.html",
      "data": "2026-07-30T00:24:37+00:00"
@@ -364,21 +379,6 @@
      "titolo": "Nicaragua, rapporto denuncia oltre 250 giornalisti costretti all'esilio dal regime",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/29/nicaragua-rapporto-denuncia-oltre-250-giornalisti-costretti-allesilio-dal-regime_721abcc6-6265-4112-ad4f-e00008c7ab02.html",
      "data": "2026-07-29T20:35:36+00:00"
-    },
-    {
-     "titolo": "Trump, 'Warsh fantastico, gli piacerebbe vedere tassi più bassi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/29/trump-warsh-fantastico-gli-piacerebbe-vedere-tassi-piu-bassi_81c1267a-9137-4dae-9787-8de31d8ad800.html",
-     "data": "2026-07-29T20:01:12+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'Mosca prepara un massiccio attacco, potrebbe essere stanotte'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/29/zelensky-mosca-prepara-un-massiccio-attacco-potrebbe-essere-stanotte_f8d823f1-b175-4229-9cd8-0360a8b92c9f.html",
-     "data": "2026-07-29T19:21:36+00:00"
-    },
-    {
-     "titolo": "Egitto, 'sul porto di Damietta nessun drone, fiamme domate'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/29/egitto-sul-porto-di-damietta-nessun-drone-fiamme-domate_6bcc8ce5-633e-4392-9606-e80869d74a8b.html",
-     "data": "2026-07-29T18:36:47+00:00"
     }
    ]
   },
