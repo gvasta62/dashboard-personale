@@ -1,10 +1,50 @@
 {
- "aggiornato": "2026-07-31T12:23:38.132008+00:00",
+ "aggiornato": "2026-07-31T14:43:20.902160+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Assolto italiano detenuto in Kenya, disposta l'immediata scarcerazione",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/assolto-italiano-detenuto-in-kenya-disposta-limmediata-scarcerazione_5033e9c4-0321-4a75-beea-6363f03e8eda.html",
+     "data": "2026-07-31T14:22:04+00:00"
+    },
+    {
+     "titolo": "Salgono a 43 i cadaveri di migranti recuperati al largo di Ceuta",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/salgono-a-43-i-cadaveri-di-migranti-recuperati-al-largo-di-ceuta_8e4c216a-c5f6-4fdf-afa6-a985e1848b73.html",
+     "data": "2026-07-31T14:18:47+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa rallenta dopo Wall Street, poco mossa Milano",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/borsa-leuropa-rallenta-dopo-wall-street-poco-mossa-milano_e3453a50-efc2-413c-877b-7f34efc95a54.html",
+     "data": "2026-07-31T14:05:27+00:00"
+    },
+    {
+     "titolo": "Wall Street apre in rialzo, Dj +0,46%, Nasdaq +0,91%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/wall-street-apre-in-rialzo-dj-046-nasdaq-091_90b19815-bca1-4193-a98f-2f6ef0209a0a.html",
+     "data": "2026-07-31T13:36:11+00:00"
+    },
+    {
+     "titolo": "Il petrolio è in rialzo a New York a 85,61 dollari",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/il-petrolio-e-in-rialzo-a-new-york-a-8561-dollari_22eb9073-fd33-4b34-ad0a-06080364cead.html",
+     "data": "2026-07-31T13:32:23+00:00"
+    },
+    {
+     "titolo": "FdI celebra a Bari la longevità del governo, festa al porto il 4 settembre",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/fdi-celebra-a-bari-la-longevita-del-governo-festa-al-porto-il-4-settembre_66bfae94-e486-4a97-b93b-08c2a2ba9afa.html",
+     "data": "2026-07-31T13:15:26+00:00"
+    },
+    {
+     "titolo": "Madrid, '25.000 migranti già rientrati in Marocco da Ceuta, 150 al minuto'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/madrid-25.000-migranti-gia-rientrati-in-marocco-da-ceuta-150-al-minuto_40b8c93a-1dab-41d8-b701-bdea4297c65e.html",
+     "data": "2026-07-31T13:13:55+00:00"
+    },
+    {
+     "titolo": "Ceuta, almeno 34 i migranti morti nel tentativo di attraversare il mare",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/ceuta-almeno-34-i-migranti-morti-nel-tentativo-di-attraversare-il-mare_6fffe8e5-fcb5-471d-a75f-372334b2733d.html",
+     "data": "2026-07-31T13:12:30+00:00"
+    },
     {
      "titolo": "Autobus finisce in una scarpata in Algeria, almeno 25 morti e 44 feriti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/autobus-finisce-in-una-scarpata-in-algeria-almeno-25-morti-e-44-feriti_fab90b83-86c7-4504-8aa4-8493b76e06bd.html",
@@ -14,52 +54,27 @@
      "titolo": "Un miliardo di stream per 'Don't Go Breaking My Heart' di Elton John",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/un-miliardo-di-stream-per-dont-go-breaking-my-heart-di-elton-john_bc89c161-39d8-41ad-abca-09997c5b61a8.html",
      "data": "2026-07-31T12:11:36+00:00"
-    },
-    {
-     "titolo": "Presidente Ceuta, 'si stima siano entrate 60.000 persone in ultime ore",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/presidente-ceuta-si-stima-siano-entrate-60.000-persone-in-ultime-ore_9512375a-403b-4ba2-b61d-39c52c305717.html",
-     "data": "2026-07-31T11:41:01+00:00"
-    },
-    {
-     "titolo": "Magistrati Corte Conti, riforma in cdm il 4 agosto. Il governo ci convochi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/magistrati-corte-conti-riforma-in-cdm-il-4-agosto.-il-governo-ci-convochi_546e69f6-0ac4-411b-a80f-4fa133278bfe.html",
-     "data": "2026-07-31T11:15:28+00:00"
-    },
-    {
-     "titolo": "Sanchez a Ceuta, 'è un attacco a sovranità territoriale della Spagna'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/sanchez-a-ceuta-e-un-attacco-a-sovranita-territoriale-della-spagna_9e01b798-d95b-43b0-af14-109d6b250b4f.html",
-     "data": "2026-07-31T11:12:03+00:00"
-    },
-    {
-     "titolo": "Filippo Bisciglia, 'Temptation ha successo perché è realtà, io pronto anche per altro'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/filippo-bisciglia-temptation-ha-successo-perche-e-realta-io-pronto-anche-per-altro_b6ea665e-ee99-4eba-9b00-7b7c48193284.html",
-     "data": "2026-07-31T11:02:36+00:00"
-    },
-    {
-     "titolo": "Avs-M5s-Pd, su chat Delmastro da Fontana gravissima lesione a prerogative parlamentari",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/avs-m5s-pd-su-chat-delmastro-da-fontana-gravissima-lesione-a-prerogative-parlamentari_a22ec66a-4886-468c-9927-c9e6fcbd4a08.html",
-     "data": "2026-07-31T11:02:38+00:00"
-    },
-    {
-     "titolo": "Stress test Bce, le banche europee più attente a rischi geopolitici",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/stress-test-bce-le-banche-europee-piu-attente-a-rischi-geopolitici_307a81b6-feee-45f4-b221-80645b84409e.html",
-     "data": "2026-07-31T10:57:44+00:00"
-    },
-    {
-     "titolo": "Attesi al Cdm del 4 agosto ddl per rafforzare Difesa e norme riconoscimento facciale",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/attesi-al-cdm-del-4-agosto-ddl-per-rafforzare-difesa-e-norme-riconoscimento_5b8b665e-fb35-487e-ab1e-209cacd78c92.html",
-     "data": "2026-07-31T10:55:39+00:00"
-    },
-    {
-     "titolo": "Salgono a 24 i migranti morti recuperati in acque Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/salgono-a-24-i-migranti-morti-recuperati-in-acque-ceuta_86985308-2a5f-4dfe-b196-e54a446612d1.html",
-     "data": "2026-07-31T10:33:19+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Città della Pieve torna al Rinascimento con il Palio dei Terzieri",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/31/citta-della-pieve-torna-al-rinascimento-con-il-palio-dei-terzieri_089e335b-2b7c-4a10-a433-bdbf22536d51.html",
+     "data": "2026-07-31T14:13:11+00:00"
+    },
+    {
+     "titolo": "Patto Avanti, nuovo ospedale Terni punto di svolta per la sanità pubblica",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/31/patto-avanti-nuovo-ospedale-terni-punto-di-svolta-per-la-sanita-pubblica_c83aadeb-2a47-4062-bd42-7084c5aa24cc.html",
+     "data": "2026-07-31T13:31:52+00:00"
+    },
+    {
+     "titolo": "Una struttura da 600 posti letto il nuovo ospedale di Terni che sorgerà a Sabbione",
+     "link": "https://www.ansa.it/umbria/notizie/2026/07/31/una-struttura-da-600-posti-letto-il-nuovo-ospedale-di-terni-che-sorgera_40405c21-8996-4e3f-aa49-a220097f8541.html",
+     "data": "2026-07-31T14:12:56+00:00"
+    },
     {
      "titolo": "Per il nuovo ospedale di Terni la Regione individua l'area di Sabbione",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/31/per-il-nuovo-ospedale-di-terni-la-regione-individua-larea-di-sabbione-rpt_97d604bf-c6ab-48fb-8f05-a65f5bec6af7.html",
@@ -104,21 +119,6 @@
      "titolo": "Con il caldo aumento del 10 per cento degli accessi ai pronto soccorso dell'Usl 2",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/30/con-il-caldo-aumento-del-10-per-cento-degli-accessi-ai-pronto-soccorso_7715db38-ca24-4b6f-9c74-bb2cb11965e5.html",
      "data": "2026-07-30T17:32:46+00:00"
-    },
-    {
-     "titolo": "A Philip Morris Italia il 45% delle produzione umbra di tabacco",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/30/a-philip-morris-italia-il-45-delle-produzione-umbra-di-tabacco_9cad504a-2552-4411-8512-b8a818793f1b.html",
-     "data": "2026-07-30T16:32:16+00:00"
-    },
-    {
-     "titolo": "Pd Gualdo Tadino, da Fratelli d'Italia accusa vergognosa",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/30/pd-gualdo-tadino-da-fratelli-ditalia-accusa-vergognosa_ffb4161f-71c7-4ff1-9124-ca1a64f111c3.html",
-     "data": "2026-07-30T15:59:34+00:00"
-    },
-    {
-     "titolo": "Nominati i componenti del nuovo cda della 'Casa di riposo Andrea Rossi'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/30/nominati-i-componenti-del-nuovo-cda-della-casa-di-riposo-andrea-rossi_5a937e64-0992-44fe-a33b-48bf48c26806.html",
-     "data": "2026-07-30T15:32:14+00:00"
     }
    ]
   },
@@ -126,9 +126,49 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Caldo sulle Alpi, stop allo sci estivo ai piedi del Cervino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/caldo-sulle-alpi-stop-allo-sci-estivo-ai-piedi-del-cervino_6a995a95-e8c3-42c8-a427-afc23fb3765d.html",
+     "data": "2026-07-31T13:55:38+00:00"
+    },
+    {
+     "titolo": "FdI celebra a Bari la longevità del governo, festa al porto il 4 settembre",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/fdi-celebra-a-bari-la-longevita-del-governo-festa-al-porto-il-4-settembre_d5baec41-9daa-407b-ab73-39599bf2c582.html",
+     "data": "2026-07-31T13:15:23+00:00"
+    },
+    {
+     "titolo": "Operatore ente di assistenza abusa di un'anziana malata in casa, arrestato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/operatore-ente-di-assistenza-abusa-di-unanziana-malata-in-casa-arrestato_6437180a-966a-4387-b8ab-48961d119cbb.html",
+     "data": "2026-07-31T13:07:13+00:00"
+    },
+    {
+     "titolo": "Extinction Rebellion proietta slogan sulla Mole Antonelliana a Torino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/extinction-rebellion-proietta-slogan-sulla-mole-antonelliana-a-torino_b9bbdf99-d262-4c20-9204-f4d35efb366d.html",
+     "data": "2026-07-31T13:03:58+00:00"
+    },
+    {
+     "titolo": "Rapina in ufficio postale, il  furgone usato come ariete e dipendenti aggrediti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/rapina-in-ufficio-postale-il-furgone-usato-come-ariete-e-dipendenti-aggrediti_458fe6c2-6225-46c3-a50c-0ebc651713cc.html",
+     "data": "2026-07-31T12:52:15+00:00"
+    },
+    {
+     "titolo": "Si tuffa per salvare la figlia e muore, recuperato il corpo del 36enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/si-tuffa-per-salvare-la-figlia-e-muore-recuperato-il-corpo-del-36enne_d801ca95-55ef-4d7d-af76-f0305a6305dc.html",
+     "data": "2026-07-31T12:42:35+00:00"
+    },
+    {
+     "titolo": "Emozione e siparietti tra il Papa e Patti Smith, 'parli inglese anche tu?'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/emozione-e-siparietti-tra-il-papa-e-patti-smith-parli-inglese-anche-tu_95e5b4b1-4acd-4fc9-8617-da24ff0df721.html",
+     "data": "2026-07-31T12:31:57+00:00"
+    },
+    {
+     "titolo": "AI Act a tappe, ecco le norme già in vigore e quelle in arrivo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/ai-act-a-tappe-ecco-le-norme-gia-in-vigore-e-quelle-in-arrivo_886ac171-f16c-416a-beac-b81220665834.html",
+     "data": "2026-07-31T12:53:26+00:00"
+    },
+    {
      "titolo": "Inchiesta escort, sentiti come testimoni a Milano anche Barella e Dimarco",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/inchiesta-escort-sentiti-come-testimoni-a-milano-anche-barella-e-dimarco_e170ff9a-62a6-4689-bce4-7af9be72d43a.html",
-     "data": "2026-07-31T11:51:57+00:00"
+     "data": "2026-07-31T12:31:40+00:00"
     },
     {
      "titolo": "Cdm il 4/8, attesi il ddl per rafforzare la Difesa e le norme su riconoscimento facciale",
@@ -136,54 +176,14 @@
      "data": "2026-07-31T11:00:11+00:00"
     },
     {
-     "titolo": "Assolto italiano detenuto in Kenya, disposta l'immediata scarcerazione",
+     "titolo": "Assolto un italiano detenuto in Kenya, disposta l'immediata scarcerazione",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/assolto-italiano-detenuto-in-kenya-disposta-limmediata-scarcerazione_d4cc88e1-41c9-4054-8359-4d539c890ff7.html",
-     "data": "2026-07-31T11:43:56+00:00"
+     "data": "2026-07-31T14:37:09+00:00"
     },
     {
      "titolo": "Il fiume Po a Cremona non è mai stato così basso",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/il-fiume-po-a-cremona-non-e-mai-stato-cosi-basso_bea8fe7a-2d5a-44c1-8428-d3438ce5f148.html",
      "data": "2026-07-31T10:43:05+00:00"
-    },
-    {
-     "titolo": "Uccide la madre malata a coltellate, figlio 52enne fermato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/uccide-la-madre-malata-a-coltellate-figlio-52enne-fermato_4555ea53-426f-4e10-a4f0-b1f253e7e828.html",
-     "data": "2026-07-31T11:23:55+00:00"
-    },
-    {
-     "titolo": "Uccide la madre malata a coltellate, figlio 52enne fermato in attesa pm",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/uccide-la-madre-malata-a-coltellate-figlio-52enne-fermato-in-attesa-pm_a606e4cf-59c5-4e82-b4ce-eff7f7139150.html",
-     "data": "2026-07-31T10:24:58+00:00"
-    },
-    {
-     "titolo": "Un euro cassetta di arance raccolte, ordinanza per 4 per caporalato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/un-euro-cassetta-di-arance-raccolte-ordinanza-per-4-per-caporalato_31396197-86ea-4291-ab60-dfb099e112ac.html",
-     "data": "2026-07-31T10:02:51+00:00"
-    },
-    {
-     "titolo": "La cantante Patti Smith in Vaticano, inconterà Papa Leone",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/la-cantante-patti-smith-in-vaticano-incontera-papa-leone-_95e5b4b1-4acd-4fc9-8617-da24ff0df721.html",
-     "data": "2026-07-31T10:00:59+00:00"
-    },
-    {
-     "titolo": "No Tav, notte tranquilla al 'non campeggio' di Venaus",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/no-tav-notte-tranquilla-al-non-campeggio-di-venaus_2ae8c139-7771-4a0a-bb79-322548092538.html",
-     "data": "2026-07-31T09:57:00+00:00"
-    },
-    {
-     "titolo": "Ue: 'Dal 2 agosto scatta la vigilanza sull'AI Act, scure su chatbot e deepfake'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/ue-dal-2-agosto-scatta-la-vigilanza-sullai-act-scure-su-chatbot-e-deepfake_7a2a332b-d870-48c5-ae6c-0b9685cc8735.html",
-     "data": "2026-07-31T10:03:51+00:00"
-    },
-    {
-     "titolo": "Italiano morto a Barcellona, i genitori: 'Dal 1 giugno non stiamo più vivendo'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/italiano-morto-a-barcellona-i-genitori-dal-1-giugno-non-stiamo-piu-vivendo_6c246d53-21ea-40c1-adb8-380de181c741.html",
-     "data": "2026-07-31T09:50:52+00:00"
-    },
-    {
-     "titolo": "Crosetto: 'Missione in Arabia illustrata con massima trasparenza'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/crosetto-missione-in-arabia-illustrata-con-massima-trasparenza_a8275fb1-9898-4288-93a4-b6c4f5b0204a.html",
-     "data": "2026-07-31T11:02:29+00:00"
     }
    ]
   },
@@ -251,6 +251,31 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: l'Europa rallenta dopo Wall Street, poco mossa Milano",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/borsa-leuropa-rallenta-dopo-wall-street-poco-mossa-milano_adcb8b6d-64a5-4f27-b622-7d37b94c536f.html",
+     "data": "2026-07-31T14:05:09+00:00"
+    },
+    {
+     "titolo": "Dall'Ue nuovi aiuti per gli agricoltori contro il caro prezzi dei fertilizzanti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/dallue-nuovi-aiuti-per-gli-agricoltori-contro-il-caro-prezzi-dei_92d21bf8-fc46-499f-b443-2cea449b8333.html",
+     "data": "2026-07-31T13:51:02+00:00"
+    },
+    {
+     "titolo": "Wall Street apre in rialzo, Dj +0,46%, Nasdaq +0,91%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/wall-street-apre-in-rialzo-dj-046-nasdaq-091_d19f43da-78c2-4154-862e-465e913a591b.html",
+     "data": "2026-07-31T13:36:14+00:00"
+    },
+    {
+     "titolo": "Il petrolio è in rialzo a New York a 85,61 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/il-petrolio-e-in-rialzo-a-new-york-a-8561-dollari_22455663-e40d-4563-b360-a6d7789f74ef.html",
+     "data": "2026-07-31T13:32:42+00:00"
+    },
+    {
+     "titolo": "Anastassov, 'Ferretti rivede i target non le ambizioni'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/anastassov-ferretti-rivede-i-target-non-le-ambizioni_b641d049-4c00-4d45-a84f-1032cf9e2985.html",
+     "data": "2026-07-31T12:36:31+00:00"
+    },
+    {
      "titolo": "Accenture rileva da Ibm la maggioranza della jv con Unicredit",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/accenture-rileva-da-ibm-la-maggioranza-della-jv-con-unicredit_82bb4aae-950b-477e-8e87-2990fd3491d0.html",
      "data": "2026-07-31T11:18:06+00:00"
@@ -284,37 +309,42 @@
      "titolo": "Fisac Cgil, per assicurazioni utili record nel 2025, +10%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/fisac-cgil-per-assicurazioni-utili-record-nel-2025-10_e0980bbc-b29d-413b-ac31-31d0fc3bc2ec.html",
      "data": "2026-07-31T10:12:54+00:00"
-    },
-    {
-     "titolo": "Ferretti, impatto crisi Medio Oriente sul semestre, utile -13%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/ferretti-impatto-crisi-medio-oriente-sul-semestre-utile-13_ecd28ff8-8f5f-4ce1-abc5-c5504400bbf4.html",
-     "data": "2026-07-31T09:53:39+00:00"
-    },
-    {
-     "titolo": "Istat, l'inflazione a luglio cala al 2,8%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/istat-linflazione-a-luglio-cala-al-28_18445120-bd25-44ec-b477-1190260ed034.html",
-     "data": "2026-07-31T10:13:09+00:00"
-    },
-    {
-     "titolo": "Inps, al via bonus assunzioni per mamme con tre figli e incentivi per under35",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/inps-al-via-bonus-assunzioni-per-mamme-con-tre-figli-e-incentivi_7c086493-0746-4a59-a02b-46fa582ce07f.html",
-     "data": "2026-07-31T10:10:11+00:00"
-    },
-    {
-     "titolo": "A Ferragosto 17,5 milioni di turisti, spesa diretta superiore a 9 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/a-ferragosto-175-milioni-di-turisti-spesa-diretta-superiore-a-9-miliardi_3ba61015-5cc4-497a-b057-0353515d9204.html",
-     "data": "2026-07-31T09:00:48+00:00"
-    },
-    {
-     "titolo": "Catastrofi naturali, in 6 mesi perdite per 112 miliardi di dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/catastrofi-naturali-in-6-mesi-perdite-per-112-miliardi-di-dollari_22c2433e-32ca-4aa1-b91d-ead517717fa6.html",
-     "data": "2026-07-31T10:10:57+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "LA SCHEDA - Cosa sono le barriere di Ceuta e Melilla, le due enclave spagnole in Nord Africa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/31/la-scheda-cosa-sono-le-barriere-di-ceuta-e-melilla-le-due-enclave-spagnole-in-nord_02a1f7f5-096b-47c5-b173-6c4612176df7.html",
+     "data": "2026-07-31T14:26:27+00:00"
+    },
+    {
+     "titolo": "Assolto italiano detenuto in Kenya, disposta l'immediata scarcerazione",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/31/assolto-italiano-detenuto-in-kenya-disposta-limmediata-scarcerazione_f4cc5ae6-55a6-4b2d-b94f-b0105ef581c4.html",
+     "data": "2026-07-31T14:22:04+00:00"
+    },
+    {
+     "titolo": "Salgono a 43 i cadaveri di migranti recuperati al largo di Ceuta",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/31/salgono-a-43-i-cadaveri-di-migranti-recuperati-al-largo-di-ceuta_660c8dbe-f7c8-494d-8c75-42a9e459f11f.html",
+     "data": "2026-07-31T14:18:53+00:00"
+    },
+    {
+     "titolo": "Madrid, '25.000 migranti già rientrati in Marocco da Ceuta, 150 al minuto'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/31/madrid-25.000-migranti-gia-rientrati-in-marocco-da-ceuta-150-al-minuto_9f6676e3-4be1-473c-911f-2da9161a16f2.html",
+     "data": "2026-07-31T13:13:55+00:00"
+    },
+    {
+     "titolo": "Ceuta, almeno 34 i migranti morti nel tentativo di attraversare il mare",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/31/ceuta-almeno-34-i-migranti-morti-nel-tentativo-di-attraversare-il-mare_3fdc72fd-f5ee-4329-bd7a-388ac87056c3.html",
+     "data": "2026-07-31T13:12:33+00:00"
+    },
+    {
+     "titolo": "Autobus finisce in una scarpata in Algeria, almeno 25 morti e 44 feriti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/31/autobus-finisce-in-una-scarpata-in-algeria-almeno-25-morti-e-44-feriti_95c52d4d-ed88-4858-8f15-df8a28e742a2.html",
+     "data": "2026-07-31T12:15:14+00:00"
+    },
     {
      "titolo": "Presidente Ceuta, 'si stima siano entrate 60.000 persone in ultime ore",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/31/presidente-ceuta-si-stima-siano-entrate-60.000-persone-in-ultime-ore_7963f2f5-f15c-47ef-a14d-5b154c6ab16c.html",
@@ -344,36 +374,6 @@
      "titolo": "Chiusura Schengen, la Finlandia appoggia la proposta italiana",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/31/chiusura-schengen-la-finlandia-appoggia-la-proposta-italiana_0c91245e-bee9-4e36-b0fe-4c2a561ee6df.html",
      "data": "2026-07-31T10:32:40+00:00"
-    },
-    {
-     "titolo": "Firmata a Brindisi l'adesione alla Pax Silica con gli Stati Uniti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/31/firmata-a-brindisi-ladesione-alla-pax-silica-con-gli-stati-uniti_a98652ae-a885-42a0-8424-ca5d9ceb86e2.html",
-     "data": "2026-07-31T10:17:32+00:00"
-    },
-    {
-     "titolo": "Colombia, 11mila agenti di sicurezza al giuramento di De la Espriella",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/colombia-11mila-agenti-di-sicurezza-al-giuramento-di-de-la-espriella_702aac81-2139-425b-9bd2-0bad922578f0.html",
-     "data": "2026-07-31T09:58:16+00:00"
-    },
-    {
-     "titolo": "Teheran, colpite due petroliere scortate dagli Usa a Hormuz",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/31/teheran-colpite-due-petroliere-scortate-dagli-usa-a-hormuz_0b929932-86f2-4b8d-89ac-55d520c64b57.html",
-     "data": "2026-07-31T09:44:11+00:00"
-    },
-    {
-     "titolo": "Media, 'la firma dell'accordo per Gaza la settimana prossima al Cairo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/31/media-la-firma-dellaccordo-per-gaza-la-settimana-prossima-al-cairo_130c3c01-b5de-449f-af9c-2b7bec5ee1fe.html",
-     "data": "2026-07-31T09:33:31+00:00"
-    },
-    {
-     "titolo": "LA SCHEDA - Cosa sono le barriere di Ceuta e Melilla, nelle enclave spagnole in Nord Africa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/31/la-scheda-cosa-sono-le-barriere-di-ceuta-e-melilla-le-enclave-spagnole-in-nord-africa_02a1f7f5-096b-47c5-b173-6c4612176df7.html",
-     "data": "2026-07-31T12:07:09+00:00"
-    },
-    {
-     "titolo": "Argentina, Milei propone al Congresso di riformare la Banca centrale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/argentina-milei-propone-al-congresso-di-riformare-la-banca-centrale_4184a7b4-c601-448a-a939-7f4a7392047f.html",
-     "data": "2026-07-31T09:10:48+00:00"
     }
    ]
   },
@@ -446,24 +446,49 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Fifa: 'Continueremo con il confronto sulla privatizzazione nonostante le critiche'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/fifa-continueremo-con-il-confronto-sulla-privatizzazione-nonostante-le-critiche_f2d9547f-e219-49cb-bb8a-941f80986049.html",
-     "data": "2026-07-31T11:00:48+00:00"
+     "titolo": ">ANSA-FOCUS/ Billie Jean King Cup Finals, l'Italia cerca il tris in Cina",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/31/ansa-focus-billie-jean-king-cup-finals-litalia-cerca-il-tris_d38c6592-59a3-4739-8990-571439ea6702.html",
+     "data": "2026-07-31T13:57:58+00:00"
     },
     {
-     "titolo": "Calcio: Monza; Juric, obiettivo partire dal basso e migliorare già tra 6 mesi",
+     "titolo": "Addio a Franco Baresi, Raffaele Ranucci e le lacrime a Usa 94: 'Ora piango io per un gigante'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/addio-a-franco-baresi-raffaele-ranucci-e-le-lacrime-a-usa-94-ora-piango-io-per_83f5c438-8c73-423c-8ba9-01b07b9e3cc2.html",
+     "data": "2026-07-31T14:10:12+00:00"
+    },
+    {
+     "titolo": "Europei di nuoto, il primo oro è dell'Italia nei tuffi a squadre",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/07/31/europei-nuoto-il-primo-oro-e-dellitalia-nei-tuffi-a-squadre_1553ddc7-5365-46fe-8c2a-3fb39fe4a402.html",
+     "data": "2026-07-31T13:48:19+00:00"
+    },
+    {
+     "titolo": "Baresi: quando Werner Herzog ammise: 'Avrei voluto il suo senso dello spazio'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/baresi-quando-werner-herzog-ammise-avrei-voluto-il-suo-senso-dello_c6a45aee-c57b-4828-9752-7a505cbd9138.html",
+     "data": "2026-07-31T14:11:53+00:00"
+    },
+    {
+     "titolo": "Burnham torna all'attacco di Infantino: 'Pessimo presidente della Fifa'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/burnham-torna-allattacco-di-infantino-pessimo-presidente-della-fifa_f2d9547f-e219-49cb-bb8a-941f80986049.html",
+     "data": "2026-07-31T13:22:03+00:00"
+    },
+    {
+     "titolo": "Fifa si dimette il principale consigliere di Infantino, l'americano Carlos Cordeiro",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/fifa-si-dimette-il-principale-consigliere-di-infantino-lamericano-carlos-cordeiro_091a40d2-6795-4dcc-afea-ab0e44cbe0f4.html",
+     "data": "2026-07-31T13:20:41+00:00"
+    },
+    {
+     "titolo": "Monza, Juric: 'Obiettivo partire dal basso e migliorare già tra 6 mesi'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/calcio-monza-juric-obiettivo-partire-dal-basso-e-migliorare-gia-tra_5764b598-2349-4f4f-913d-f5bcbaeaccd8.html",
-     "data": "2026-07-31T10:25:39+00:00"
+     "data": "2026-07-31T12:49:45+00:00"
     },
     {
-     "titolo": "Tennis: Garbin convoca Paolini ed Errani per le Billie Jean King Cup Finals in Cina",
+     "titolo": "Tennis: Billie Jean King Cup Finals, l'Italia cerca il tris in Cina",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/31/tennis-garbin-convoca-paolini-ed-errani-per-le-billie-jean-king-cup_8d2638e9-f4fa-4866-ac27-76d51103f085.html",
-     "data": "2026-07-31T10:36:37+00:00"
+     "data": "2026-07-31T14:06:27+00:00"
     },
     {
-     "titolo": "Calcio: Inter; Chivu 'Stones alza livello, sul mercato valuteremo opportunità'",
+     "titolo": "Inter, Chivu: 'Stones alza livello, sul mercato valuteremo opportunità'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/calcio-inter-chivu-stones-alza-livello-sul-mercato-valuteremo-opportunita_c7966910-c479-4c73-8470-d96e7d7e7c92.html",
-     "data": "2026-07-31T09:54:52+00:00"
+     "data": "2026-07-31T12:50:40+00:00"
     },
     {
      "titolo": "Napoli di nuovo in ritiro, al via la festa per il Centenario",
@@ -471,39 +496,14 @@
      "data": "2026-07-31T09:40:07+00:00"
     },
     {
-     "titolo": "Calcio: La Federazione asiatica si unisce a Uefa e Concacaf contro la Fifa",
+     "titolo": "La Federazione asiatica si unisce a Uefa e Concacaf contro la Fifa",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/calcio-la-federazione-asiatica-si-unisce-a-uefa-e-concacaf-contro-la-fifa_f506f5ab-1bbe-4960-99b5-93831148f7fc.html",
-     "data": "2026-07-31T08:50:45+00:00"
+     "data": "2026-07-31T12:48:30+00:00"
     },
     {
      "titolo": "Cagliari, dal Sudtirol arriva il difensore Kofler",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/cagliari-dal-sudtirol-arriva-il-difensore-kofler_d1bbaf26-3501-451a-b621-af1811165c00.html",
      "data": "2026-07-31T07:37:38+00:00"
-    },
-    {
-     "titolo": "Baresi: il ricordo all'estero, \"La morte di un precursore\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/baresi-il-ricordo-allestero-la-morte-di-un-precursore_34f74484-4164-43f4-aa7e-57d9296ac8dc.html",
-     "data": "2026-07-31T07:35:02+00:00"
-    },
-    {
-     "titolo": "Milan, è morto Franco Baresi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/milan-e-morto-franco-baresi_f5da61c3-9041-4286-bb6f-8316872837ac.html",
-     "data": "2026-07-31T07:14:55+00:00"
-    },
-    {
-     "titolo": "Morto Franco Baresi, bandiera del Milan e della Nazionale",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/morto-franco-baresi-bandiera-del-milan_1b73ea5b-b4e8-4a14-aaf4-12a756b6679b.html",
-     "data": "2026-07-31T09:25:09+00:00"
-    },
-    {
-     "titolo": "Il ricordo di Maldini: \"Franco Baresi è stato il calciatore più forte con cui ho giocato\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/il-ricordo-di-maldini-franco-baresi-e-stato-il-calciatore-piu-forte-con-cui_65c70729-372b-4f56-92da-d8391becdc17.html",
-     "data": "2026-07-31T10:27:48+00:00"
-    },
-    {
-     "titolo": "La Concacaf si allinea all'Uefa e respinge il piano della Fifa",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/30/la-concacaf-si-allinea-alluefa-e-respinge-il-piano-della-fifa_35ec529a-0f8f-4b16-86a5-bbc6c97ffed2.html",
-     "data": "2026-07-30T19:56:25+00:00"
     }
    ]
   }
