@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-30T23:49:13.063488+00:00",
+ "aggiornato": "2026-07-31T01:21:11.522245+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Anthropic, 'accesso non autorizzato' nostra AI al mondo reale nei test",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/anthropic-accesso-non-autorizzato-nostra-ai-al-mondo-reale-nei-test_7449ca6a-2c79-4ecd-a826-f8eb079e1b51.html",
+     "data": "2026-07-31T00:34:25+00:00"
+    },
+    {
+     "titolo": "Hamas conferma l'accordo con Israele, 'disarmo del movimento a Gaza'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/hamas-conferma-laccordo-con-israele-disarmo-del-movimento-a-gaza_a310785f-82ab-4bc8-b6f9-5f326f0d530c.html",
+     "data": "2026-07-31T00:03:55+00:00"
+    },
+    {
+     "titolo": "Trump al Ft, 'non ho deciso se consentire all'Ucraina di produrre i Patriot'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/trump-al-ft-non-ho-deciso-se-consentire-allucraina-di-produrre-i-patriot_fb299f2f-bc51-43ac-b294-1728bbaf544b.html",
+     "data": "2026-07-30T23:57:23+00:00"
+    },
     {
      "titolo": "Nikkei, il Giappone interviene a sostegno dello yen",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/nikkei-il-giappone-interviene-a-sostegno-dello-yen_e31a9f4c-c11e-4ad2-8f7e-8d6d50336b13.html",
@@ -39,21 +54,6 @@
      "titolo": "Tajani, 'favorevole alla chiusura di Schengen con la Spagna'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/tajani-favorevole-alla-chiusura-di-schengen-con-la-spagna_5ea7999e-0f6c-4d05-822d-d567069cd242.html",
      "data": "2026-07-30T18:49:38+00:00"
-    },
-    {
-     "titolo": "Recuperati i cadaveri di 9 migranti annegati tentando di arrivare a Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/recuperati-i-cadaveri-di-9-migranti-annegati-tentando-di-arrivare-a-ceuta_f45ebd5a-0a0b-41ac-ab65-ccc94a4d8470.html",
-     "data": "2026-07-30T18:40:15+00:00"
-    },
-    {
-     "titolo": "Burnham ascolta Trump, 'approccio pragmatico per gas e petrolio nel Mare del Nord'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/burnham-ascolta-trump-approccio-pragmatico-per-gas-e-petrolio-nel-mare_abc7f407-a1dd-46bf-8a64-14b64307dcd8.html",
-     "data": "2026-07-30T18:19:13+00:00"
-    },
-    {
-     "titolo": "Madrid mobilita l'esercito per far fronte alla crisi dei migranti a Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/madrid-mobilita-lesercito-per-far-fronte-alla-crisi-dei-migranti_d2544204-9409-458e-bd99-5f41ddf2b183.html",
-     "data": "2026-07-30T18:07:19+00:00"
     }
    ]
   },
@@ -321,6 +321,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Anthropic, 'accesso non autorizzato' nostra AI al mondo reale nei test",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/31/anthropic-accesso-non-autorizzato-nostra-ai-al-mondo-reale-nei-test_4877c351-fd21-4c90-98f4-ff5e5954f01f.html",
+     "data": "2026-07-31T00:34:27+00:00"
+    },
+    {
+     "titolo": "Venezuela, De Grazia denuncia nuovi accordi per il controllo delle miniere illegali",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/venezuela-de-grazia-denuncia-nuovi-accordi-per-il-controllo-delle-miniere-illegali_72428cbc-e967-4bcd-aaaa-e62c3739eec2.html",
+     "data": "2026-07-31T00:08:19+00:00"
+    },
+    {
+     "titolo": "Lula replica a Milei, 'la pagliacciata venuta dall'Argentina non fermerà il voto'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/lula-replica-a-milei-la-pagliacciata-venuta-dallargentina-non-fermera-il-voto_09e1e8a5-6681-48d1-afaf-b598222cefb4.html",
+     "data": "2026-07-31T00:06:00+00:00"
+    },
+    {
+     "titolo": "Hamas conferma l'accordo con Israele, 'disarmo del movimento a Gaza'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/31/hamas-conferma-laccordo-con-israele-disarmo-del-movimento-a-gaza_754861c5-4813-4a10-978e-b44bf5b8600e.html",
+     "data": "2026-07-31T00:03:55+00:00"
+    },
+    {
+     "titolo": "Trump al Ft, 'non ho deciso se consentire all'Ucraina di produrre i Patriot'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/31/trump-al-ft-non-ho-deciso-se-consentire-allucraina-di-produrre-i-patriot_87bc6ec2-67d9-48c8-804e-c29ebfc7f19f.html",
+     "data": "2026-07-30T23:57:42+00:00"
+    },
+    {
      "titolo": "Cile e Venezuela ristabiliscono relazioni diplomatiche dopo la rottura del 2024",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/cile-e-venezuela-ristabiliscono-relazioni-diplomatiche-dopo-la-rottura-del-2024_1dae11f9-6158-432b-b69c-f4aafddf67d8.html",
      "data": "2026-07-30T23:14:10+00:00"
@@ -354,31 +379,6 @@
      "titolo": "Cile, il governo Kast esclude la privatizzazione della società mineraria Codelco",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/cile-il-governo-kast-esclude-la-privatizzazione-della-societa-mineraria-codelco_3e21e89e-b013-44ad-9fb6-ab1460c9272f.html",
      "data": "2026-07-30T21:09:21+00:00"
-    },
-    {
-     "titolo": "La violenza estrema dei narcos in Ecuador raggiunge anche la capitale Quito",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/la-violenza-estrema-dei-narcos-in-ecuador-raggiunge-anche-la-capitale-quito_f55a7bf5-d8ee-428b-9a00-eb159e653db2.html",
-     "data": "2026-07-30T20:51:02+00:00"
-    },
-    {
-     "titolo": "Madrid protesta per le parole di Tajani su Schengen e convoca l'ambasciatore",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/madrid-protesta-per-le-parole-di-tajani-su-schengen-e-convoca-lambasciatore_4d7f0a88-616f-480d-b2dd-d7f89b509a25.html",
-     "data": "2026-07-30T20:45:03+00:00"
-    },
-    {
-     "titolo": "Venezuela, via alle demolizioni nelle zone colpite dal duplice terremoto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/venezuela-via-alle-demolizioni-nelle-zone-colpite-dal-duplice-terremoto_ecbaaa02-57ad-48fe-8341-4063d2219ea8.html",
-     "data": "2026-07-30T20:42:46+00:00"
-    },
-    {
-     "titolo": "Brasile, ex attaccante del Botafogo muore nel crollo di un muro per il maltempo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/brasile-ex-attaccante-del-botafogo-muore-nel-crollo-di-un-muro-per-il-maltempo_8cfe8535-3102-4efd-8c90-7b868349960e.html",
-     "data": "2026-07-30T20:21:24+00:00"
-    },
-    {
-     "titolo": "Ucraina sotto attacco, 'sterminata una famiglia con 7 figli'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/ucraina-sotto-attacco-sterminata-una-famiglia-con-7-figli_fc7bb489-9292-435d-add9-b65fa80eb4a5.html",
-     "data": "2026-07-30T19:45:56+00:00"
     }
    ]
   },
