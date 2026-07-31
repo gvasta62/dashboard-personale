@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-07-31T21:01:03.104326+00:00",
+ "aggiornato": "2026-07-31T22:29:13.542865+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Messico, 'nel Pacifico si concentra il principale traffico marittimo di droga'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/messico-nel-pacifico-si-concentra-il-principale-traffico-marittimo-di-droga_403be767-5b98-4d7a-ac64-922b32576567.html",
+     "data": "2026-07-31T21:51:41+00:00"
+    },
+    {
+     "titolo": "Wsj, 'Trump ha ordinato un nuovo attacco all'Iran, forse nel fine settimana'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/wsj-trump-ha-ordinato-un-nuovo-attacco-alliran-forse-nel-fine-settimana_6db723fd-7a77-43ee-862e-8ed2f4edde18.html",
+     "data": "2026-07-31T21:30:01+00:00"
+    },
+    {
+     "titolo": "Cbs, 'Usa e Israele si preparano ad attaccare le infrastrutture energetiche Iran'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/cbs-usa-e-israele-si-preparano-ad-attaccare-le-infrastrutture-energetiche-iran_bb6a355c-da5f-4877-a0a1-1f4e07fed4af.html",
+     "data": "2026-07-31T21:06:58+00:00"
+    },
     {
      "titolo": "Kamala Harris non ha ancora deciso sul 2028, concentrata sulle midterm",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/kamala-harris-non-ha-ancora-deciso-sul-2028-concentrata-sulle-midterm_63c8d22f-2841-49e7-ae9c-f6ec4563e43b.html",
@@ -39,21 +54,6 @@
      "titolo": "Terremoto a Napoli, la scossa ai Campi Flegrei di magnitudo 4.7",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/terremoto-a-napoli-la-scossa-ai-campi-flegrei-di-magnitudo-4.7_24443088-4c2e-49ea-a2f7-ccf10641c7c5.html",
      "data": "2026-07-31T18:43:48+00:00"
-    },
-    {
-     "titolo": "Mattarella ricorda don Mazzi, sua assistenza a servizio degli ultimi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/mattarella-ricorda-don-mazzi-sua-assistenza-a-servizio-degli-ultimi_ee4bbc8d-c040-485c-a563-0a06db067812.html",
-     "data": "2026-07-31T18:20:39+00:00"
-    },
-    {
-     "titolo": "Meloni, sospendiamo Schengen ma attenti a limitare l'impatto sul turismo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/meloni-sospendiamo-schengen-ma-attenti-a-limitare-limpatto-sul-turismo_5e3d0d24-530d-463f-beae-16ab29ac8bd5.html",
-     "data": "2026-07-31T17:50:17+00:00"
-    },
-    {
-     "titolo": "Meloni, la sospensione di Schengen per tutelare la sicurezza nazionale",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/meloni-la-sospensione-di-schengen-per-tutelare-la-sicurezza-nazionale_e843a665-f8ec-49b3-83bf-f33ea0f91dfc.html",
-     "data": "2026-07-31T17:43:55+00:00"
     }
    ]
   },
@@ -128,7 +128,7 @@
     {
      "titolo": "Torna la paura ai Campi Flegrei: scossa 4.7, crolli e otto feriti lievi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/torna-la-paura-ai-campi-flegrei-scossa-4.7-crolli-e-otto-feriti-lievi_c40469ed-2529-4076-956e-d61621f42b86.html",
-     "data": "2026-07-31T20:17:27+00:00"
+     "data": "2026-07-31T21:20:20+00:00"
     },
     {
      "titolo": "Cinturrino a processo immediato per l'omicidio di Mansouri",
@@ -243,13 +243,18 @@
     {
      "titolo": "Scontro sulle chat di Delmastro, l'opposizione 'occupa' la giunta",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/31/dori-non-possiamo-accedere-a-chat-delmastro-ma-restiamo-in-giunta_076ad0fb-8a6d-4cbf-8795-ec3d4304559a.html",
-     "data": "2026-07-31T17:36:01+00:00"
+     "data": "2026-07-31T22:13:54+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Salta il matrimonio Mps-Bpm, il freno dell'Agricole",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/salta-il-matrimonio-mps-bpm-il-freno-dellagricole_8989314a-7c41-422c-9357-79578b75e8c8.html",
+     "data": "2026-07-31T21:31:40+00:00"
+    },
     {
      "titolo": "Mps prende atto della decisione del Banco, 'valuteremo ogni opzione'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/mps-prende-atto-della-decisione-del-banco-valuteremo-ogni-opzione_0aabcef8-3537-40e2-9884-b9123a6a4c76.html",
@@ -303,18 +308,43 @@
     {
      "titolo": "Telemarketing, il Garante Privacy multa Tim per 9,5 milioni",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/telemarketing-il-garante-privacy-multa-tim-per-95-milioni_87fd3a6e-1d24-4e3d-8610-61cc4e4bf954.html",
-     "data": "2026-07-31T15:47:03+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa rallenta dopo Wall Street, poco mossa Milano",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/borsa-leuropa-rallenta-dopo-wall-street-poco-mossa-milano_adcb8b6d-64a5-4f27-b622-7d37b94c536f.html",
-     "data": "2026-07-31T14:05:09+00:00"
+     "data": "2026-07-31T21:01:38+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Messico, 'nel Pacifico si concentra il principale traffico marittimo di droga'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/messico-nel-pacifico-si-concentra-il-principale-traffico-marittimo-di-droga_499171f2-6311-494f-bb79-7829c1209d61.html",
+     "data": "2026-07-31T21:52:00+00:00"
+    },
+    {
+     "titolo": "Il dissidente cubano Otero Alcántara prevede una rivolta più ampia del luglio 2021",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/il-dissidente-cubano-otero-alcantara-prevede-una-rivolta-piu-ampia-del_1648437c-fad9-4dba-8f0e-780b2d8946ee.html",
+     "data": "2026-07-31T21:36:26+00:00"
+    },
+    {
+     "titolo": "Wsj, 'Trump ha ordinato un nuovo attacco all'Iran, forse nel fine settimana'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/31/wsj-trump-ha-ordinato-un-nuovo-attacco-alliran-forse-nel-fine-settimana_87b518fc-4937-44af-ad3c-8acf5747c69c.html",
+     "data": "2026-07-31T21:30:05+00:00"
+    },
+    {
+     "titolo": "Noto terrorista venezuelano detenuto in Francia chiede di rientrare in patria",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/noto-terrorista-venezuelano-detenuto-in-francia-chiede-di-rientrare-in-patria_046a05a4-1548-4128-98d6-23aa9c91d7c9.html",
+     "data": "2026-07-31T21:29:12+00:00"
+    },
+    {
+     "titolo": "Al via ad Haiti la registrazione degli elettori tra violenze e controllo delle gang",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/al-via-ad-haiti-la-registrazione-degli-elettori-tra-violenze-e-controllo-delle-gang_996cfd30-c635-4285-84cc-8a63a515fd62.html",
+     "data": "2026-07-31T21:06:39+00:00"
+    },
+    {
+     "titolo": "Cbs, 'Usa e Israele si preparano ad attaccare le infrastrutture energetiche Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/31/cbs-usa-e-israele-si-preparano-ad-attaccare-le-infrastrutture-energetiche-iran_715e2f4b-d0be-47c8-8156-4c4911dd4fbf.html",
+     "data": "2026-07-31T21:07:13+00:00"
+    },
     {
      "titolo": "Ong Venezuela contestano la presidente sui prigionieri politici",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/ong-venezuela-contestano-la-presidente-sui-prigionieri-politici_71a055b7-94f4-4621-a770-3c1aa9fc91a8.html",
@@ -344,36 +374,6 @@
      "titolo": "Fonti, non ancora notificato all'Ue lo stop a Schengen dell'Italia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/31/fonti-non-ancora-notificato-allue-lo-stop-a-schengen-dellitalia_5e188f70-e409-4ef0-9ad7-520f1a9ba5e6.html",
      "data": "2026-07-31T19:14:05+00:00"
-    },
-    {
-     "titolo": "Madrid, 'l'integrità dello spazio Schengen è assolutamente garantita",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/31/madrid-lintegrita-dello-spazio-schengen-e-assolutamente-garantita_f1bc008f-8175-4586-a286-9dd6fb9793e9.html",
-     "data": "2026-07-31T19:05:46+00:00"
-    },
-    {
-     "titolo": "Il partito Progressistas brasiliano resta neutrale e nega il vice a Bolsonaro",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/il-partito-progressistas-brasiliano-resta-neutrale-e-nega-il-vice-a-bolsonaro_169ea9ef-5296-41cc-b920-46a13f131f9e.html",
-     "data": "2026-07-31T18:01:48+00:00"
-    },
-    {
-     "titolo": "Presidenza Ue, 'da Ceuta no flussi verso l'Europa, domani riunione anti-crisi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/31/presidenza-ue-da-ceuta-no-flussi-verso-leuropa-domani-riunione-anti-crisi_9efb2525-4eff-4f46-bcbb-5a3081bbe6cb.html",
-     "data": "2026-07-31T17:41:25+00:00"
-    },
-    {
-     "titolo": "Arrestato in Messico il mandante dei clamorosi omicidi di un sindaco e una influencer",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/arrestato-in-messico-il-mandante-dei-clamorosi-omicidi-di-un-sindaco-e-una-influencer_e1bf1c32-af20-40dc-9f6d-2ca9ce82e696.html",
-     "data": "2026-07-31T17:38:47+00:00"
-    },
-    {
-     "titolo": "'Il tasso di approvazione di Trump al 32%, 6 americani su 10 contro la guerra in Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/31/il-tasso-di-approvazione-di-trump-al-32-6-americani-su-10-contro-la-guerra-in-iran_ed97397b-43fb-48b3-9645-e9f2f1bda285.html",
-     "data": "2026-07-31T17:11:28+00:00"
-    },
-    {
-     "titolo": "Argentina e Corea del Sud siglano un'intesa sui minerali critici",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/argentina-e-corea-del-sud-siglano-unintesa-sui-minerali-critici_d3e5f9c1-6b7c-4ab9-a1dc-f565181fd44b.html",
-     "data": "2026-07-31T17:07:54+00:00"
     }
    ]
   },
@@ -446,6 +446,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Investito da un'auto, Roglic si ritira dalla Clásica San Sebastián",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/31/investito-da-unauto-roglic-si-ritira-dalla-clasica-san-sebastian_8861369c-d277-435d-9551-54de668296f2.html",
+     "data": "2026-07-31T21:25:58+00:00"
+    },
+    {
      "titolo": "È morto Franco Baresi, il mondo si inchina al 'Piscinin'",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/e-morto-franco-baresi-il-mondo-si-inchina-al-piscinin_1b73ea5b-b4e8-4a14-aaf4-12a756b6679b.html",
      "data": "2026-07-31T20:57:52+00:00"
@@ -499,11 +504,6 @@
      "titolo": "Europei: nuoto artistico, Pelati argento nel solo tecnico",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/07/31/europei-nuoto-artistico-pelati-argento-nel-solo-tecnico_98559169-7adf-4345-868c-b008d88d1a92.html",
      "data": "2026-07-31T18:27:48+00:00"
-    },
-    {
-     "titolo": ">>>ANSA/Calcio: Juve ok contro il Nizza, alla Continassa finisce 2-0",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/ansacalcio-juve-ok-contro-il-nizza-alla-continassa-finisce-2-0_539a9da2-68ea-43f4-81ae-473c194df90e.html",
-     "data": "2026-07-31T20:23:44+00:00"
     }
    ]
   }
