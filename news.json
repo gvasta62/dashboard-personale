@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-07-31T22:29:13.542865+00:00",
+ "aggiornato": "2026-07-31T23:29:15.113776+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Terremoto Campi Flegrei, Protezione civile '21 feriti, due in codice rosso'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/terremoto-campi-flegrei-protezione-civile-21-feriti-due-in-codice-rosso_6a0f1503-a9fd-4f10-ac94-e1ad189076fd.html",
+     "data": "2026-07-31T23:13:20+00:00"
+    },
+    {
+     "titolo": "Incendio nella cattedrale di San Basilio nella piazza Rossa di Mosca",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/incendio-nella-cattedrale-di-san-basilio-nella-piazza-rossa-di-mosca_e911f08e-9224-4d36-9db2-37e12d15443c.html",
+     "data": "2026-07-31T23:07:24+00:00"
+    },
+    {
+     "titolo": "Esplosioni a Kiev, 'siamo sotto attacco missilistico'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/esplosioni-a-kiev-siamo-sotto-attacco-missilistico_8aac2ba5-c2e2-4382-a350-a711e0fad24c.html",
+     "data": "2026-07-31T22:47:36+00:00"
+    },
+    {
+     "titolo": "Iran, 'pronto il piano per rispondere alla follia americana'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/iran-pronto-il-piano-per-rispondere-alla-follia-americana_404b6b63-3d64-4ec4-b205-b4eeeeaab11d.html",
+     "data": "2026-07-31T22:27:48+00:00"
+    },
     {
      "titolo": "Messico, 'nel Pacifico si concentra il principale traffico marittimo di droga'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/messico-nel-pacifico-si-concentra-il-principale-traffico-marittimo-di-droga_403be767-5b98-4d7a-ac64-922b32576567.html",
@@ -34,26 +54,6 @@
      "titolo": "Al via negoziato per la transizione tra governo venezuelano e parte dell'opposizione",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/al-via-negoziato-per-la-transizione-tra-governo-venezuelano-e-parte-dellopposizione_c26ae07f-5416-451a-b26d-db31e1c1fa32.html",
      "data": "2026-07-31T19:51:43+00:00"
-    },
-    {
-     "titolo": "Fonti, non ancora notificato all'Ue lo stop a Schengen dell'Italia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/fonti-non-ancora-notificato-allue-lo-stop-a-schengen-dellitalia_4e8a7873-c1c4-443b-a519-9781af8b2ca5.html",
-     "data": "2026-07-31T19:14:23+00:00"
-    },
-    {
-     "titolo": "Madrid, 'l'integrità dello spazio Schengen è assolutamente garantita",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/madrid-lintegrita-dello-spazio-schengen-e-assolutamente-garantita_c7252897-3c03-4cdf-833f-ebf3796c8f2a.html",
-     "data": "2026-07-31T19:05:09+00:00"
-    },
-    {
-     "titolo": "Cinturrino a processo immediato per l'omicidio di Mansouri",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/cinturrino-a-processo-immediato-per-lomicidio-di-mansouri_3948fd6a-0afc-4607-ad27-071ccb29843e.html",
-     "data": "2026-07-31T18:44:44+00:00"
-    },
-    {
-     "titolo": "Terremoto a Napoli, la scossa ai Campi Flegrei di magnitudo 4.7",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/terremoto-a-napoli-la-scossa-ai-campi-flegrei-di-magnitudo-4.7_24443088-4c2e-49ea-a2f7-ccf10641c7c5.html",
-     "data": "2026-07-31T18:43:48+00:00"
     }
    ]
   },
@@ -126,9 +126,14 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Torna la paura ai Campi Flegrei: scossa 4.7, crolli e otto feriti lievi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/torna-la-paura-ai-campi-flegrei-scossa-4.7-crolli-e-otto-feriti-lievi_c40469ed-2529-4076-956e-d61621f42b86.html",
-     "data": "2026-07-31T21:20:20+00:00"
+     "titolo": "Terremoto Campi Flegrei, Protezione civile '21 feriti, due in codice rosso'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/terremoto-campi-flegrei-protezione-civile-21-feriti-due-in-codice-rosso_a795653c-3424-4c3c-9831-457466ae7288.html",
+     "data": "2026-07-31T23:13:22+00:00"
+    },
+    {
+     "titolo": "Torna la paura ai Campi Flegrei: scossa 4.7, crolli e 21 feriti. Oltre 30 repliche",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/torna-la-paura-ai-campi-flegrei-scossa-4.7-crolli-e-21-feriti.-oltre-30-repliche_c40469ed-2529-4076-956e-d61621f42b86.html",
+     "data": "2026-07-31T22:38:06+00:00"
     },
     {
      "titolo": "Cinturrino a processo immediato per l'omicidio di Mansouri",
@@ -179,11 +184,6 @@
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-07-31T16:43:19+00:00"
-    },
-    {
-     "titolo": "È morto Don Mazzi, fondatore della comunità Exodus",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/e-morto-don-mazzi-fondatore-della-comunita-exodus_ca3fae41-adca-494c-ac85-8283e9b40694.html",
-     "data": "2026-07-31T16:42:35+00:00"
     }
    ]
   },
@@ -316,6 +316,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Incendio nella cattedrale di San Basilio nella piazza Rossa di Mosca",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/incendio-nella-cattedrale-di-san-basilio-nella-piazza-rossa-di-mosca_7fc579b6-18cc-44f8-9310-08c51f000e53.html",
+     "data": "2026-07-31T23:07:42+00:00"
+    },
+    {
+     "titolo": "Esplosioni a Kiev, 'siamo sotto attacco missilistico'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/esplosioni-a-kiev-siamo-sotto-attacco-missilistico_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
+     "data": "2026-07-31T22:47:54+00:00"
+    },
+    {
+     "titolo": "Iran, 'pronto il piano per rispondere alla follia americana'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/01/iran-pronto-il-piano-per-rispondere-alla-follia-americana_b22392ce-8e1d-45b8-b7ed-f629ab94249f.html",
+     "data": "2026-07-31T22:28:01+00:00"
+    },
+    {
      "titolo": "Messico, 'nel Pacifico si concentra il principale traffico marittimo di droga'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/messico-nel-pacifico-si-concentra-il-principale-traffico-marittimo-di-droga_499171f2-6311-494f-bb79-7829c1209d61.html",
      "data": "2026-07-31T21:52:00+00:00"
@@ -359,21 +374,6 @@
      "titolo": "I dispersi dopo il sisma in Venezuela sono 1.338",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/i-dispersi-dopo-il-sisma-in-venezuela-sono-1.338_8d1a43d8-4d45-4695-9758-76d1ae50d628.html",
      "data": "2026-07-31T20:21:53+00:00"
-    },
-    {
-     "titolo": "Messico si smarca da Concacaf e valuta piano Infantino su investimenti privati Fifa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/messico-si-smarca-da-concacaf-e-valuta-piano-infantino-su-investimenti-privati-fifa_fae45336-0b15-4737-a579-3d8d7449be15.html",
-     "data": "2026-07-31T20:12:29+00:00"
-    },
-    {
-     "titolo": "Al via negoziato per la transizione tra governo venezuelano e parte dell'opposizione",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/al-via-negoziato-per-la-transizione-tra-governo-venezuelano-e-parte-dellopposizione_dd1cbd46-4217-488d-aa33-88fedca90cf6.html",
-     "data": "2026-07-31T19:51:48+00:00"
-    },
-    {
-     "titolo": "Fonti, non ancora notificato all'Ue lo stop a Schengen dell'Italia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/31/fonti-non-ancora-notificato-allue-lo-stop-a-schengen-dellitalia_5e188f70-e409-4ef0-9ad7-520f1a9ba5e6.html",
-     "data": "2026-07-31T19:14:05+00:00"
     }
    ]
   },
