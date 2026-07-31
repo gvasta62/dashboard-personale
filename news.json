@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-07-31T01:21:11.522245+00:00",
+ "aggiornato": "2026-07-31T04:49:43.506437+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Wsj, Tesla valuta vendita attività cinesi per possibile fusione con SpaceX",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/wsj-tesla-valuta-vendita-attivita-cinesi-per-possibile-fusione-con_de77e7fd-6f78-4810-a63b-eadf5fab6527.html",
+     "data": "2026-07-31T03:00:47+00:00"
+    },
     {
      "titolo": "Anthropic, 'accesso non autorizzato' nostra AI al mondo reale nei test",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/anthropic-accesso-non-autorizzato-nostra-ai-al-mondo-reale-nei-test_7449ca6a-2c79-4ecd-a826-f8eb079e1b51.html",
@@ -49,11 +54,6 @@
      "titolo": "Madrid protesta per le parole di Tajani su Schengen e convoca l'ambasciatore",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/madrid-protesta-per-le-parole-di-tajani-su-schengen-e-convoca-lambasciatore_554b7b55-436f-4de6-9d8d-571bbf0c802f.html",
      "data": "2026-07-30T20:45:05+00:00"
-    },
-    {
-     "titolo": "Tajani, 'favorevole alla chiusura di Schengen con la Spagna'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/30/tajani-favorevole-alla-chiusura-di-schengen-con-la-spagna_5ea7999e-0f6c-4d05-822d-d567069cd242.html",
-     "data": "2026-07-30T18:49:38+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Crollo edificio Messina, chi sono i sei dispersi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/crollo-edificio-messina-chi-sono-i-sei-dispersi_d8800407-8ced-429a-8423-60724349f5bc.html",
+     "data": "2026-07-31T04:15:59+00:00"
+    },
+    {
      "titolo": "Incendio nel carcere di Sassari, detenuto muore carbonizzato",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/incendio-nel-carcere-di-sassari-detenuto-muore-carbonizzato_77a0e1bf-e488-4ab1-aadb-3edfb290f115.html",
      "data": "2026-07-30T22:47:23+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Morte avvelenate, gli esperti tedeschi a caccia della ricina",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/morte-avvelenate-gli-esperti-tedeschi-a-caccia-della-ricina_240c97ee-7559-4ef5-9114-34fea3e09cc0.html",
      "data": "2026-07-30T20:02:17+00:00"
-    },
-    {
-     "titolo": "Via libera al dl giustizia, dall'esame per gli avvocati alla protezione dei migranti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/via-libera-al-dl-giustizia-dallesame-per-gli-avvocati-alla-protezione-dei_e9878807-8121-4719-b130-f9cd5dd3caa2.html",
-     "data": "2026-07-30T17:40:31+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Wsj, Tesla valuta vendita attività cinesi per possibile fusione con SpaceX",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/wsj-tesla-valuta-vendita-attivita-cinesi-per-possibile-fusione-con_210e2ea7-1c29-4bfb-b239-ffaa8a294902.html",
+     "data": "2026-07-31T03:00:47+00:00"
+    },
+    {
      "titolo": "Nikkei, il Giappone interviene a sostegno dello yen",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/nikkei-il-giappone-interviene-a-sostegno-dello-yen_6db3811a-652c-4ff2-b747-0faa3886535e.html",
      "data": "2026-07-30T23:11:45+00:00"
@@ -309,17 +314,22 @@
      "titolo": "Cnrc vende il 14% del capitale di Pirelli a Strnad",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/cnrc-vende-il-14-del-capitale-di-pirelli-a-strnad_59cf0c2a-a70e-444b-bf42-1138ced6dffb.html",
      "data": "2026-07-30T16:17:11+00:00"
-    },
-    {
-     "titolo": "Enel, nel semestre utile netto +2,8% a 3,929 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/30/enel-nel-semestre-utile-netto-28-a-3929-miliardi_5bb6b032-a97f-4b94-b133-24d73d82530c.html",
-     "data": "2026-07-30T16:14:48+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Panama, piano da 100 milioni per microelettronica e chip",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/panama-piano-da-100-milioni-per-microelettronica-e-chip_089a2e30-52c6-45b0-ad95-d1e49c2cc0b2.html",
+     "data": "2026-07-31T03:53:56+00:00"
+    },
+    {
+     "titolo": "In America Latina la disoccupazione scende al 5,3%, ma pesa l'informalità",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/in-america-latina-la-disoccupazione-scende-al-53-ma-pesa-linformalita_3a196515-20cd-4dda-a502-6776f22715ed.html",
+     "data": "2026-07-31T02:39:22+00:00"
+    },
     {
      "titolo": "Anthropic, 'accesso non autorizzato' nostra AI al mondo reale nei test",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/31/anthropic-accesso-non-autorizzato-nostra-ai-al-mondo-reale-nei-test_4877c351-fd21-4c90-98f4-ff5e5954f01f.html",
@@ -369,16 +379,6 @@
      "titolo": "Netanyahu, 'abbiamo distrutto i tunnel di Hezbollah nella zona di Beaufort in Libano'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/30/netanyahu-abbiamo-distrutto-i-tunnel-di-hezbollah-nella-zona-di-beaufort-in-libano_13bc54e0-9bca-4d32-afad-fa581aa44bd7.html",
      "data": "2026-07-30T21:22:24+00:00"
-    },
-    {
-     "titolo": "Ecuador e Paraguay rafforzano la cooperazione contro il crimine organizzato",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/ecuador-e-paraguay-rafforzano-la-cooperazione-contro-il-crimine-organizzato_033a3d59-590e-4cb7-857c-2243f1b68196.html",
-     "data": "2026-07-30T21:17:40+00:00"
-    },
-    {
-     "titolo": "Cile, il governo Kast esclude la privatizzazione della società mineraria Codelco",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/30/cile-il-governo-kast-esclude-la-privatizzazione-della-societa-mineraria-codelco_3e21e89e-b013-44ad-9fb6-ab1460c9272f.html",
-     "data": "2026-07-30T21:09:21+00:00"
     }
    ]
   },
