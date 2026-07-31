@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-07-31T19:58:50.728999+00:00",
+ "aggiornato": "2026-07-31T21:01:03.104326+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Kamala Harris non ha ancora deciso sul 2028, concentrata sulle midterm",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/kamala-harris-non-ha-ancora-deciso-sul-2028-concentrata-sulle-midterm_63c8d22f-2841-49e7-ae9c-f6ec4563e43b.html",
+     "data": "2026-07-31T20:29:16+00:00"
+    },
+    {
+     "titolo": "I dispersi dopo il sisma in Venezuela sono 1.338",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/i-dispersi-dopo-il-sisma-in-venezuela-sono-1.338_38f873af-cfec-43a7-bdde-f3d914f0ce00.html",
+     "data": "2026-07-31T20:21:34+00:00"
+    },
     {
      "titolo": "Al via negoziato per la transizione tra governo venezuelano e parte dell'opposizione",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/al-via-negoziato-per-la-transizione-tra-governo-venezuelano-e-parte-dellopposizione_c26ae07f-5416-451a-b26d-db31e1c1fa32.html",
@@ -44,16 +54,6 @@
      "titolo": "Meloni, la sospensione di Schengen per tutelare la sicurezza nazionale",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/meloni-la-sospensione-di-schengen-per-tutelare-la-sicurezza-nazionale_e843a665-f8ec-49b3-83bf-f33ea0f91dfc.html",
      "data": "2026-07-31T17:43:55+00:00"
-    },
-    {
-     "titolo": "Presidenza Ue, 'da Ceuta no flussi verso l'Europa, domani riunione anti-crisi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/presidenza-ue-da-ceuta-no-flussi-verso-leuropa-domani-riunione-anti-crisi_f4472023-98bc-4249-a44e-644d66c0d842.html",
-     "data": "2026-07-31T17:41:23+00:00"
-    },
-    {
-     "titolo": "Arrestato in Messico il mandante dei clamorosi omicidi di un sindaco e una influencer",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/arrestato-in-messico-il-mandante-dei-clamorosi-omicidi-di-un-sindaco-e-una-influencer_37a9ecb9-860c-4121-8c4b-2ac14e53d9a6.html",
-     "data": "2026-07-31T17:38:47+00:00"
     }
    ]
   },
@@ -126,9 +126,9 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Terremoto nei Campi Flegrei di magnitudo 4.7, il più forte degli ultimi tempi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/terremoto-nei-campi-flegrei-di-magnitudo-4.7-il-piu-forte-degli-ultimi_c40469ed-2529-4076-956e-d61621f42b86.html",
-     "data": "2026-07-31T19:24:27+00:00"
+     "titolo": "Torna la paura ai Campi Flegrei: scossa 4.7, crolli e otto feriti lievi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/torna-la-paura-ai-campi-flegrei-scossa-4.7-crolli-e-otto-feriti-lievi_c40469ed-2529-4076-956e-d61621f42b86.html",
+     "data": "2026-07-31T20:17:27+00:00"
     },
     {
      "titolo": "Cinturrino a processo immediato per l'omicidio di Mansouri",
@@ -251,6 +251,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Mps prende atto della decisione del Banco, 'valuteremo ogni opzione'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/mps-prende-atto-della-decisione-del-banco-valuteremo-ogni-opzione_0aabcef8-3537-40e2-9884-b9123a6a4c76.html",
+     "data": "2026-07-31T20:15:43+00:00"
+    },
+    {
      "titolo": "Tronchetti si rafforza in Pirelli, sale al 26,56%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/tronchetti-si-rafforza-in-pirelli-sale-al-2656_9a0c85ed-0a18-4a67-8532-d7eb0ded9439.html",
      "data": "2026-07-31T18:02:11+00:00"
@@ -304,17 +309,32 @@
      "titolo": "Borsa: l'Europa rallenta dopo Wall Street, poco mossa Milano",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/borsa-leuropa-rallenta-dopo-wall-street-poco-mossa-milano_adcb8b6d-64a5-4f27-b622-7d37b94c536f.html",
      "data": "2026-07-31T14:05:09+00:00"
-    },
-    {
-     "titolo": "Dall'Ue nuovi aiuti per gli agricoltori contro il caro prezzi dei fertilizzanti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/dallue-nuovi-aiuti-per-gli-agricoltori-contro-il-caro-prezzi-dei_92d21bf8-fc46-499f-b443-2cea449b8333.html",
-     "data": "2026-07-31T13:51:02+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Ong Venezuela contestano la presidente sui prigionieri politici",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/ong-venezuela-contestano-la-presidente-sui-prigionieri-politici_71a055b7-94f4-4621-a770-3c1aa9fc91a8.html",
+     "data": "2026-07-31T20:57:01+00:00"
+    },
+    {
+     "titolo": "Kamala Harris non ha ancora deciso sul 2028, concentrata sulle midterm",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/31/kamala-harris-non-ha-ancora-deciso-sul-2028-concentrata-sulle-midterm_cc57a3e9-6c89-48ce-b9c2-cdb761886946.html",
+     "data": "2026-07-31T20:29:17+00:00"
+    },
+    {
+     "titolo": "I dispersi dopo il sisma in Venezuela sono 1.338",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/i-dispersi-dopo-il-sisma-in-venezuela-sono-1.338_8d1a43d8-4d45-4695-9758-76d1ae50d628.html",
+     "data": "2026-07-31T20:21:53+00:00"
+    },
+    {
+     "titolo": "Messico si smarca da Concacaf e valuta piano Infantino su investimenti privati Fifa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/messico-si-smarca-da-concacaf-e-valuta-piano-infantino-su-investimenti-privati-fifa_fae45336-0b15-4737-a579-3d8d7449be15.html",
+     "data": "2026-07-31T20:12:29+00:00"
+    },
     {
      "titolo": "Al via negoziato per la transizione tra governo venezuelano e parte dell'opposizione",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/al-via-negoziato-per-la-transizione-tra-governo-venezuelano-e-parte-dellopposizione_dd1cbd46-4217-488d-aa33-88fedca90cf6.html",
@@ -354,26 +374,6 @@
      "titolo": "Argentina e Corea del Sud siglano un'intesa sui minerali critici",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/argentina-e-corea-del-sud-siglano-unintesa-sui-minerali-critici_d3e5f9c1-6b7c-4ab9-a1dc-f565181fd44b.html",
      "data": "2026-07-31T17:07:54+00:00"
-    },
-    {
-     "titolo": "Situazione stabile in Gironda per i roghi, rientrano a casa gran parte degli evacuati",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/31/situazione-stabile-in-gironda-per-i-roghi-rientrano-a-casa-gran-parte-degli_8063b5e0-74bc-473e-83a0-7d19f9c320f0.html",
-     "data": "2026-07-31T17:04:09+00:00"
-    },
-    {
-     "titolo": "Sanchez, 'la solidarietà è facoltativa, il rispetto dei trattati Ue non lo è'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/31/sanchez-la-solidarieta-e-facoltativa-il-rispetto-dei-trattati-ue-non-lo-e_08bbfad6-2996-4471-a552-2fc62a97292b.html",
-     "data": "2026-07-31T16:59:54+00:00"
-    },
-    {
-     "titolo": "Díaz-Canel, 'gli Usa vogliono replicare a Cuba il genocidio di Gaza'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/diaz-canel-gli-usa-vogliono-replicare-a-cuba-il-genocidio-di-gaza_b8070c29-cc0a-497e-b9b0-e04794aaa09e.html",
-     "data": "2026-07-31T16:36:21+00:00"
-    },
-    {
-     "titolo": "Trump, 'Israele molto contento dell'accordo con Hamas, ci hanno aiutato'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/31/trump-israele-molto-contento-dellaccordo-con-hamas-ci-hanno-aiutato_1c206bae-23fb-4abe-9ef1-65a7ebf1462f.html",
-     "data": "2026-07-31T16:34:07+00:00"
     }
    ]
   },
@@ -446,9 +446,54 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Calcio: in ventimila sul lungomare per i 100 anni del Napoli, festa 'No Business'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/calcio-in-ventimila-sul-lungomare-per-i-100-anni-del-napoli-festa_9a2c6989-9b3d-4ed4-a755-aefca8763f10.html",
-     "data": "2026-07-31T19:51:17+00:00"
+     "titolo": "È morto Franco Baresi, il mondo si inchina al 'Piscinin'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/e-morto-franco-baresi-il-mondo-si-inchina-al-piscinin_1b73ea5b-b4e8-4a14-aaf4-12a756b6679b.html",
+     "data": "2026-07-31T20:57:52+00:00"
+    },
+    {
+     "titolo": "Al Wta 500 di Washington Cocciaretto esce nei quarti",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/31/al-wta-500-di-washington-cocciaretto-esce-nei-quarti_4d72774a-50a0-4d75-84ef-38dd788fab5c.html",
+     "data": "2026-07-31T20:50:17+00:00"
+    },
+    {
+     "titolo": "Kakà: Con Baresi il calcio perde esempi di lealtà, classe e leadership'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/kaka-con-baresi-il-calcio-perde-esempi-di-lealta-classe-e-leadership_e22cd811-13a2-4953-bdba-de3532a752b5.html",
+     "data": "2026-07-31T20:46:05+00:00"
+    },
+    {
+     "titolo": "Billie Jean King Cup Finals, l'Italia cerca il tris in Cina",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/31/billie-jean-king-cup-finals-litalia-cerca-il-tris-in-cina_d38c6592-59a3-4739-8990-571439ea6702.html",
+     "data": "2026-07-31T20:43:45+00:00"
+    },
+    {
+     "titolo": "In 20 mila sul lungomare per i 100 anni del Napoli, festa 'No Business'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/in-20-mila-sul-lungomare-per-i-100-anni-del-napoli-festa-no-business_9a2c6989-9b3d-4ed4-a755-aefca8763f10.html",
+     "data": "2026-07-31T20:41:46+00:00"
+    },
+    {
+     "titolo": "L'Inter al test City, 'Stones alza livello ma valutiamo altre opportunità'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/linter-al-test-city-stones-alza-livello-ma-valutiamo-altre-opportunita_5128be50-ff0c-4cbf-8646-eb72af0ac5cd.html",
+     "data": "2026-07-31T20:39:32+00:00"
+    },
+    {
+     "titolo": "Calciomercato: Soulé nel mirino del Milan, puntata al rialzo del Como per Chalobah",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/calciomercato-soule-nel-mirino-del-milan-puntata-al-rialzo-del-como_590af71d-d581-467c-a72a-19a7fbeb1a18.html",
+     "data": "2026-07-31T20:34:27+00:00"
+    },
+    {
+     "titolo": "Oro nei tuffi e argento nel nuoto artistico, l'Italia parte bene agli Europei",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/07/31/oro-nei-tuffi-e-argento-nel-nuoto-artistico-litalia-parte-bene_1553ddc7-5365-46fe-8c2a-3fb39fe4a402.html",
+     "data": "2026-07-31T20:29:24+00:00"
+    },
+    {
+     "titolo": "Bergomi: \"Con Baresi il calcio perde una leggenda, io un amico\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/baresi-bergomi-il-calcio-perde-una-leggenda-io-un-amico_9aa7f458-d7d0-405a-8929-bf2d0083b975.html",
+     "data": "2026-07-31T20:48:16+00:00"
+    },
+    {
+     "titolo": "Ancelotti a Baresi: 'Rimarrai per sempre il mio capitano'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/baresi-ancelotti-rimarrai-per-sempre-il-mio-capitano_6c576e1e-ff52-4e83-aa42-c09dd5a9a6f2.html",
+     "data": "2026-07-31T20:50:12+00:00"
     },
     {
      "titolo": "Europei: nuoto artistico, Pelati argento nel solo tecnico",
@@ -456,54 +501,9 @@
      "data": "2026-07-31T18:27:48+00:00"
     },
     {
-     "titolo": ">>>ANSA/ Soulé nel mirino del Milan, puntata al rialzo del Como per Chalobah",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/ansa-soule-nel-mirino-del-milan-puntata-al-rialzo-del-como_590af71d-d581-467c-a72a-19a7fbeb1a18.html",
-     "data": "2026-07-31T19:51:31+00:00"
-    },
-    {
-     "titolo": "Amichevoli: Juve ok contro il Nizza, alla Continassa finisce 2-0",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/amichevoli-juve-ok-contro-il-nizza-alla-continassa-finisce-2-0_016881ce-c5a5-4c66-b25a-3460b41df6cb.html",
-     "data": "2026-07-31T19:49:51+00:00"
-    },
-    {
-     "titolo": "Lo spagnolo Santi Denia nominato ct della Repubblica Ceca",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/lo-spagnolo-santi-denia-nominato-ct-della-repubblica-ceca_8e8e1a81-2660-4e4d-b778-0eddfa322c27.html",
-     "data": "2026-07-31T19:51:44+00:00"
-    },
-    {
-     "titolo": "Howe si dimette da allenatore del Newcastle",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/howe-si-dimette-da-allenatore-del-newcastle_e8c65166-dda8-470a-b068-5f6a80642209.html",
-     "data": "2026-07-31T19:51:47+00:00"
-    },
-    {
-     "titolo": "Morto Franco Baresi, il mondo si inchina al 'Piscinin'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/morto-franco-baresi-il-mondo-si-inchina-al-piscinin_e6058b98-78a8-4cb4-9a70-4d9831cd67df.html",
-     "data": "2026-07-31T19:50:02+00:00"
-    },
-    {
-     "titolo": "Giulia Dragoni al Chelsea Women, è l'italiana più pagata di sempre",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/giulia-dragoni-al-chelsea-women-e-litaliana-piu-pagata-di-sempre_129f098f-0d6a-40a8-beb9-eaaaed5bb876.html",
-     "data": "2026-07-31T19:50:09+00:00"
-    },
-    {
-     "titolo": ">>>ANSA/L'Inter al test City, 'Stones alza livello ma valutiamo altre opportunità'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/ansalinter-al-test-city-stones-alza-livello-ma-valutiamo-altre-opportunita_5128be50-ff0c-4cbf-8646-eb72af0ac5cd.html",
-     "data": "2026-07-31T19:52:05+00:00"
-    },
-    {
-     "titolo": "Calcio: Roma in Galles per il ritiro, domani l'amichevole contro il Cardiff",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/calcio-roma-in-galles-per-il-ritiro-domani-lamichevole-contro-il-cardiff_0a64d02f-7ca3-4aae-b92c-0c662e60b719.html",
-     "data": "2026-07-31T15:47:06+00:00"
-    },
-    {
-     "titolo": "Baresi: Raffaele Ranucci e le lacrime a Usa 94, ora piango io per un gigante",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/baresi-raffaele-ranucci-e-le-lacrime-a-usa-94-ora-piango-io-per-un-gigante_2c37c82e-8bb3-436c-b535-e6828d215913.html",
-     "data": "2026-07-31T15:34:24+00:00"
-    },
-    {
-     "titolo": "Euro 2032: sindaco Cagliari invia documenti a Figc per candidatura",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/31/euro-2032-sindaco-cagliari-invia-documenti-a-figc-per-candidatura_964494f2-c2b6-478f-8b0b-8b6acae38d94.html",
-     "data": "2026-07-31T14:49:23+00:00"
+     "titolo": ">>>ANSA/Calcio: Juve ok contro il Nizza, alla Continassa finisce 2-0",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/ansacalcio-juve-ok-contro-il-nizza-alla-continassa-finisce-2-0_539a9da2-68ea-43f4-81ae-473c194df90e.html",
+     "data": "2026-07-31T20:23:44+00:00"
     }
    ]
   }
