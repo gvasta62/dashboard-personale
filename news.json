@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-01T21:13:26.258374+00:00",
+ "aggiornato": "2026-08-01T22:17:06.654338+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Addio all'attore Vincent Pastore, una delle star dei Soprano",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/addio-allattore-vincent-pastore-una-delle-star-dei-soprano_90a0c4fb-e4df-4ccd-b8fd-c4ee9e543107.html",
+     "data": "2026-08-01T22:10:59+00:00"
+    },
+    {
+     "titolo": "Usa alzano il livello di allerta per i viaggi a Ceuta, 'riconsiderate'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/usa-alzano-il-livello-di-allerta-per-i-viaggi-a-ceuta-riconsiderate_9ba6d5cd-ee60-4142-b2ae-5b6d5e773a09.html",
+     "data": "2026-08-01T21:51:37+00:00"
+    },
     {
      "titolo": "Media, '7 italiani tra le vittime dello schianto aereo turistico in Perù'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/media-7-italiani-tra-le-vittime-dello-schianto-aereo-turistico-in-peru_c9b81f71-63be-4e4a-801e-e1c731b02632.html",
@@ -44,16 +54,6 @@
      "titolo": "Edificio crollato a Messina, ci sono 3 indagati",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/edificio-crollato-a-messina-ci-sono-3-indagati_63fb3dda-0326-40b6-b875-2e60e1ab7888.html",
      "data": "2026-08-01T18:33:13+00:00"
-    },
-    {
-     "titolo": "++ Esplosione in un caffè a Mosca, 3 morti e 15 feriti ++",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/esplosione-in-un-caffe-a-mosca-3-morti-e-15-feriti_c98675c8-0705-4fe1-b0b2-ae1bd9e8bf5f.html",
-     "data": "2026-08-01T18:13:20+00:00"
-    },
-    {
-     "titolo": "Petro chiede agli Usa di non invadere Cuba, 'è l'ora del dialogo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/petro-chiede-agli-usa-di-non-invadere-cuba-e-lora-del-dialogo_58f1ecce-4fad-428a-92e6-b770a30ea881.html",
-     "data": "2026-08-01T17:12:13+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Incendio in appartamento in Brianza, uomo si lancia nel vuoto e muore",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/incendio-in-appartamento-in-brianza-uomo-si-lancia-nel-vuoto-e-muore_252dc8a7-703b-4eb7-87ce-4633b914e90f.html",
+     "data": "2026-08-01T21:16:32+00:00"
+    },
+    {
      "titolo": "Precipitò da una terrazza a Roma, spunta l'ipotesi di un femminicidio",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/precipito-da-una-terrazza-a-roma-spunta-lipotesi-di-un-femminicidio_336fea78-2204-4ffe-bb14-896273f9e6a5.html",
      "data": "2026-08-01T19:36:27+00:00"
@@ -179,11 +184,6 @@
      "titolo": "No Tav, a Venaus una grande bandiera della Palestina come paravento",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/no-tav-a-venaus-una-grande-bandiera-della-palestina-come-paravento_04f5fccf-700a-4d0d-be2d-1d119cb03df3.html",
      "data": "2026-08-01T17:33:10+00:00"
-    },
-    {
-     "titolo": "Fuga di monossido in un hotel di Perugia, morto un musicista. Due indagati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/fuga-di-monossido-in-un-hotel-di-perugia-morto-un-musicista.-due-indagati_c7230e17-2b2c-4ba1-a688-164e51c3e320.html",
-     "data": "2026-08-01T17:23:35+00:00"
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "titolo": "Meloni e 21 leader Ue: 'Vertice su Ceuta'. E' scontro con Sanchez",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/meloni-e-21-leader-ue-vertice-su-ceuta.-e-scontro-con-sanchez_dab85127-0560-4ac1-8fcb-789013fbbad4.html",
-     "data": "2026-08-01T19:59:13+00:00"
+     "data": "2026-08-01T21:56:26+00:00"
     },
     {
      "titolo": "No Tav: 'Rompiamo l'assedio, usciremo dal presidio di Venaus'",
@@ -296,14 +296,24 @@
    "nome": "Mondo",
    "voci": [
     {
-     "titolo": "Ordigno contro un ristorante a Mosca: 3 morti e 15 feriti, 'c'era un generale'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ordigno-contro-un-ristorante-a-mosca-3-morti-e-15-feriti-cera-un-generale_9a95d02a-69a3-4695-b559-d34f31423b96.html",
-     "data": "2026-08-01T21:10:37+00:00"
+     "titolo": "Addio all'attore Vincent Pastore, una delle star dei Soprano",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/02/addio-allattore-vincent-pastore-una-delle-star-dei-soprano_fe789955-1adb-47d5-81de-9d8bd6468235.html",
+     "data": "2026-08-01T22:11:17+00:00"
     },
     {
-     "titolo": "Piccolo aereo turistico si schianta in Perù, 7 italiani tra i 13 morti",
+     "titolo": "Usa alzano il livello di allerta per i viaggi a Ceuta, 'riconsiderate'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/01/usa-alzano-il-livello-di-allerta-per-i-viaggi-a-ceuta-riconsiderate_65be7d0a-3cd3-4f44-a67d-00aac2bbd4ef.html",
+     "data": "2026-08-01T21:51:54+00:00"
+    },
+    {
+     "titolo": "Terrore a Mosca, bomba esplode davanti a un locale e causa 3 morti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ordigno-contro-un-ristorante-a-mosca-3-morti-e-15-feriti-cera-un-generale_9a95d02a-69a3-4695-b559-d34f31423b96.html",
+     "data": "2026-08-01T21:36:54+00:00"
+    },
+    {
+     "titolo": "Disastro aereo in Perù, muoiono 7 turisti italiani",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/piccolo-aereo-turistico-si-schianta-in-peru-7-italiani-tra-i-13-morti_c83b925c-2fc9-4b66-94bf-b0a73a568502.html",
-     "data": "2026-08-01T21:03:52+00:00"
+     "data": "2026-08-01T21:40:36+00:00"
     },
     {
      "titolo": "Media, '7 italiani tra le vittime dello schianto aereo turistico in Perù'",
@@ -344,16 +354,6 @@
      "titolo": "Petro chiede agli Usa di non invadere Cuba, 'è l'ora del dialogo'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/petro-chiede-agli-usa-di-non-invadere-cuba-e-lora-del-dialogo_67befeb3-9453-410d-987b-778752bdb2a1.html",
      "data": "2026-08-01T17:12:32+00:00"
-    },
-    {
-     "titolo": "Ceuta, la paura dei residenti e la rabbia dei giovani respinti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ceuta-la-paura-dei-residenti-e-la-rabbia-dei-giovani-respinti_5cb7bd79-cf95-4363-bf8a-af0a3b9c5d5d.html",
-     "data": "2026-08-01T19:58:15+00:00"
-    },
-    {
-     "titolo": "Lula, 'finché sarò vivo l'estrema destra non governerà più il Brasile'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/lula-finche-saro-vivo-lestrema-destra-non-governera-piu-il-brasile_78cbefd9-10f0-4f14-885d-8e763f3f6ba3.html",
-     "data": "2026-08-01T15:43:31+00:00"
     }
    ]
   },
@@ -426,6 +426,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Sarà Eala-Pegula la finale del Wta 500 di Washington",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/01/sara-eala-pegula-la-finale-del-wta-500-di-washington_f17f9461-6d06-4607-9ee1-e432ddf6fa01.html",
+     "data": "2026-08-01T21:55:41+00:00"
+    },
+    {
+     "titolo": "Allegri, 'a Napoli passione notevole, la prossima festa per un trofeo'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/allegri-a-napoli-passione-notevole-la-prossima-festa-per-un-trofeo_04cd4d03-f2bf-45b5-9a11-f8afa989a4b1.html",
+     "data": "2026-08-01T21:11:28+00:00"
+    },
+    {
      "titolo": "Europei: Marsaglia quarto nel trampolino 1m, azzurre seste dalla piattaforma 10m",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/01/europei-marsaglia-quarto-nel-trampolino-1m-azzurre-seste-dalla-piattaforma_c4e95d17-020b-4acc-ab7d-c13e5f2a93df.html",
      "data": "2026-08-01T20:59:32+00:00"
@@ -474,16 +484,6 @@
      "titolo": "La Juve accoglie Alajbegovic, è atterrato a Torino-Caselle",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/la-juve-accoglie-alajbegovic-e-atterrato-a-torino-caselle_a5e18698-522b-447b-9947-d6f49be8979a.html",
      "data": "2026-08-01T17:19:38+00:00"
-    },
-    {
-     "titolo": "Gasperini 'Roma da completare, con le coppe servono due giocatori per ruolo'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/gasperini-roma-da-completare-con-le-coppe-servono-due-giocatori-per-ruolo_66a66c8c-bc51-40a7-9feb-045d9cf529f6.html",
-     "data": "2026-08-01T17:16:53+00:00"
-    },
-    {
-     "titolo": "L'Udinese pareggia 3-3 con il Magonza, Zaniolo in gol",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/ludinese-pareggia-3-3-con-il-magonza-zaniolo-in-gol_4e11a8d3-b9a4-458d-871e-52d0bfe13e72.html",
-     "data": "2026-08-01T18:09:19+00:00"
     }
    ]
   }
