@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-01T04:43:53.081001+00:00",
+ "aggiornato": "2026-08-01T07:20:49.626321+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Un morto in albergo a Perugia per sospetta intossicazione da monossido di carbonio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/un-morto-in-albergo-a-perugia-per-sospetta-intossicazione-da-monossido-di-carbonio_f2a391a8-93b6-4b43-b171-5df7a97845a4.html",
+     "data": "2026-08-01T07:05:25+00:00"
+    },
     {
      "titolo": "Edificio crollato a Messina, recuperato il corpo della seconda vittima",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/edificio-crollato-a-messina-recuperato-il-corpo-della-seconda-vittima_16cfcf93-83fe-4444-873b-0685c784955f.html",
@@ -49,17 +54,17 @@
      "titolo": "Messico, 'nel Pacifico si concentra il principale traffico marittimo di droga'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/messico-nel-pacifico-si-concentra-il-principale-traffico-marittimo-di-droga_403be767-5b98-4d7a-ac64-922b32576567.html",
      "data": "2026-07-31T21:51:41+00:00"
-    },
-    {
-     "titolo": "Wsj, 'Trump ha ordinato un nuovo attacco all'Iran, forse nel fine settimana'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/wsj-trump-ha-ordinato-un-nuovo-attacco-alliran-forse-nel-fine-settimana_6db723fd-7a77-43ee-862e-8ed2f4edde18.html",
-     "data": "2026-07-31T21:30:01+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Un morto in albergo a Perugia per sospetta intossicazione da monossido di carbonio",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/01/un-morto-in-albergo-a-perugia-per-sospetta-intossicazione-da-monossido-di-carbonio_2e49a4ba-3793-42ae-8644-f0996111c0cf.html",
+     "data": "2026-08-01T07:05:47+00:00"
+    },
     {
      "titolo": "Verini, Governo chiarisca in Parlamento presenza di militari in Arabia Saudita",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/31/verini-governo-chiarisca-in-parlamento-presenza-di-militari-in-arabia-saudita_8474b26a-f565-4668-be88-2e5ab7209faf.html",
@@ -114,17 +119,42 @@
      "titolo": "Per il nuovo ospedale di Terni la Regione individua l'area di Sabbione",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/31/per-il-nuovo-ospedale-di-terni-la-regione-individua-larea-di-sabbione-rpt_97d604bf-c6ab-48fb-8f05-a65f5bec6af7.html",
      "data": "2026-07-31T11:27:56+00:00"
-    },
-    {
-     "titolo": "Busitalia potenzia la mobilità verso Assisi, Orvieto, Cascia, Norcia e Gubbio",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/31/busitalia-potenzia-la-mobilita-verso-assisi-orvieto-cascia-norcia-e-gubbio_c1c2aa47-a427-4cc2-92bb-86a1d5cc004b.html",
-     "data": "2026-07-31T11:15:06+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Esplosione distrugge bancomat a Bari, ladri in fuga",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/esplosione-distrugge-bancomat-a-bari-ladri-in-fuga_3ed28cb0-8772-41da-9c4b-6e0885e2dba0.html",
+     "data": "2026-08-01T07:07:22+00:00"
+    },
+    {
+     "titolo": "Campi Flegrei, carabinieri trovano un cane in un edificio inagibile",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/campi-flegrei-carabinieri-trovano-un-cane-in-un-edificio-inagibile_56d16534-b410-40e4-8b5b-4eda218e656d.html",
+     "data": "2026-08-01T07:06:20+00:00"
+    },
+    {
+     "titolo": "Un morto in albergo a Perugia per sospetta intossicazione da monossido di carbonio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/un-morto-in-albergo-a-perugia-per-sospetta-intossicazione-da-monossido-di-carbonio_59bd5034-9b37-4217-ba1d-1967f177a282.html",
+     "data": "2026-08-01T07:05:32+00:00"
+    },
+    {
+     "titolo": "Musicista muore in albergo per una sospetta intossicazione da monossido",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/musicista-muore-in-albergo-per-una-sospetta-intossicazione-da-monossido-_c7230e17-2b2c-4ba1-a688-164e51c3e320.html",
+     "data": "2026-08-01T07:15:11+00:00"
+    },
+    {
+     "titolo": "Terremoto - Prosegue lo sciame sismico ai Campi Flegrei, decine di scosse",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/terremoto-prosegue-lo-sciame-sismico-ai-campi-flegrei-decine-le-scosse_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html",
+     "data": "2026-08-01T07:07:35+00:00"
+    },
+    {
+     "titolo": "Blitz in campi nomadi di Roma, Casoria, Reggio Calabria e Bari, 10 arresti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/blitz-in-campi-nomadi-di-roma-casoria-reggio-calabria-e-bari-10-arresti_278fce34-0b7d-4d47-8daa-a84ec4f8ce90.html",
+     "data": "2026-08-01T05:44:49+00:00"
+    },
     {
      "titolo": "Edificio crollato a Messina, recuperato il corpo della seconda vittima",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/edificio-crollato-a-messina-recuperato-il-corpo-della-seconda-vittima_70c3e257-ac60-44cb-af3b-c00686aa615a.html",
@@ -138,7 +168,7 @@
     {
      "titolo": "Torna la paura ai Campi Flegrei: scossa 4.7, crolli e 21 feriti. Oltre 30 repliche",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/torna-la-paura-ai-campi-flegrei-scossa-4.7-crolli-e-21-feriti.-oltre-30-repliche_c40469ed-2529-4076-956e-d61621f42b86.html",
-     "data": "2026-07-31T22:38:06+00:00"
+     "data": "2026-08-01T05:58:00+00:00"
     },
     {
      "titolo": "Cinturrino a processo immediato per l'omicidio di Mansouri",
@@ -154,36 +184,6 @@
      "titolo": "Lo stop a Schengen con la Spagna per un mese, i controlli in porti e aeroporti: cosa cambia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/lo-stop-a-schengen-con-la-spagna-per-un-mese-i-controlli-in-porti-e-aeroporti-cosa_117dd000-c9ab-4f52-b276-fcb32c41a790.html",
      "data": "2026-07-31T18:29:23+00:00"
-    },
-    {
-     "titolo": "Gualtieri: 'Il Comune valuta l'acquisto di Spin Time'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/gualtieri-il-comune-valuta-lacquisto-di-spin-time_fd888e27-1e93-4d9a-924f-82558b17b4ee.html",
-     "data": "2026-07-31T18:13:36+00:00"
-    },
-    {
-     "titolo": "Si scava nel palazzo a Messina, avanza l'ipotesi del cedimento",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/si-scava-nel-palazzo-a-messina-avanza-lipotesi-del-cedimento_4307426c-c935-44e4-a630-346d8d7b9458.html",
-     "data": "2026-07-31T17:48:06+00:00"
-    },
-    {
-     "titolo": "Uccide la madre a coltellate, arrestato il figlio 52enne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/uccide-la-madre-a-coltellate-arrestato-il-figlio-52enne_4555ea53-426f-4e10-a4f0-b1f253e7e828.html",
-     "data": "2026-07-31T17:39:50+00:00"
-    },
-    {
-     "titolo": "Dopo 14 anni torna a respirare senza ossigeno e festeggia le nozze d'oro",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/dopo-14-anni-torna-a-respirare-senza-ossigeno-e-festeggia-le-nozze-doro_8e6b53b0-25da-493f-b2d0-da2430364374.html",
-     "data": "2026-07-31T17:35:06+00:00"
-    },
-    {
-     "titolo": "Un euro a cassetta di arance raccolte, un arresto e altre tre indagati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/un-euro-a-cassetta-di-arance-raccolte-un-arresto-e-altre-tre-indagati_31396197-86ea-4291-ab60-dfb099e112ac.html",
-     "data": "2026-07-31T17:33:48+00:00"
-    },
-    {
-     "titolo": "Il pm:  'Cinturrino a processo immediato per l'omicidio di Mansouri'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/il-pm-cinturrino-a-processo-immediato-per-lomicidio-di-mansouri-_c7c67913-93bd-43f6-827c-63bcf1eee9ab.html",
-     "data": "2026-07-31T17:27:21+00:00"
     }
    ]
   },
@@ -316,6 +316,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ucraina - Esplosioni a Kiev, 'almeno 9 morti e 23 feriti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
+     "data": "2026-08-01T06:13:20+00:00"
+    },
+    {
      "titolo": "Ukmto, 'petroliera colpita all'ingresso dello Stretto di Hormutz'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/01/ukmto-petroliera-colpita-allingresso-dello-stretto-di-hormutz_81526b85-7407-4f2a-be33-ec9cd002d321.html",
      "data": "2026-08-01T03:52:40+00:00"
@@ -334,11 +339,6 @@
      "titolo": "Incendio nella cattedrale di San Basilio nella piazza Rossa di Mosca",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/incendio-nella-cattedrale-di-san-basilio-nella-piazza-rossa-di-mosca_7fc579b6-18cc-44f8-9310-08c51f000e53.html",
      "data": "2026-07-31T23:07:42+00:00"
-    },
-    {
-     "titolo": "Esplosioni a Kiev, 'almeno 9 morti e 23 feriti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/esplosioni-a-kiev-siamo-sotto-attacco-missilistico_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
-     "data": "2026-08-01T04:30:11+00:00"
     },
     {
      "titolo": "Iran, 'pronto il piano per rispondere alla follia americana'",
