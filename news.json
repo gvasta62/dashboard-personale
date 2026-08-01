@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-01T16:42:58.241850+00:00",
+ "aggiornato": "2026-08-01T17:47:26.020130+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Petro chiede agli Usa di non invadere Cuba, 'è l'ora del dialogo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/petro-chiede-agli-usa-di-non-invadere-cuba-e-lora-del-dialogo_58f1ecce-4fad-428a-92e6-b770a30ea881.html",
+     "data": "2026-08-01T17:12:13+00:00"
+    },
+    {
+     "titolo": "Valditara, divieto burqa a scuola per la dignità delle donne",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/valditara-divieto-burqa-a-scuola-per-la-dignita-delle-donne_2fed8bb9-d6ec-49ae-b600-7e30513ebbe4.html",
+     "data": "2026-08-01T17:10:28+00:00"
+    },
+    {
+     "titolo": "Sindacato polizia, con controlli alle frontiere rischio paralisi scali",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/sindacato-polizia-con-controlli-alle-frontiere-rischio-paralisi-scali_ff6dc52e-6891-403c-b199-672f2a6f9144.html",
+     "data": "2026-08-01T17:07:23+00:00"
+    },
+    {
+     "titolo": "Il noto oppositore Said Saadi torna in Algeria dopo sette anni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/il-noto-oppositore-said-saadi-torna-in-algeria-dopo-sette-anni_364f752c-93b2-4fd0-b25b-d90c1b4a5e79.html",
+     "data": "2026-08-01T17:04:55+00:00"
+    },
     {
      "titolo": "Martedì la videocall dei ministri degli Interni Ue su Ceuta",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/martedi-la-videocall-dei-ministri-degli-interni-ue-su-ceuta_0fed0feb-182f-4ae6-b661-311887079792.html",
@@ -34,32 +54,17 @@
      "titolo": "Italia e Danimarca promuovono lettera alla Ue su Ceuta, firmano in 22",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/italia-e-danimarca-promuovono-lettera-alla-ue-su-ceuta-firmano-in-22_3dd8b99f-58d6-4df0-891a-6d097f0943b7.html",
      "data": "2026-08-01T09:47:07+00:00"
-    },
-    {
-     "titolo": "Sanchez, 'stop a Schengen dettato da ignoranza o interessi politici'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/sanchez-stop-a-schengen-dettato-da-ignoranza-o-interessi-politici_09780123-700f-44c7-99a0-a98e6d3d53ba.html",
-     "data": "2026-08-01T09:40:21+00:00"
-    },
-    {
-     "titolo": "Monossido su più piani nell'albergo dove è morto il musicista",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/monossido-su-piu-piani-nellalbergo-dove-e-morto-il-musicista_baca16e1-4a21-4b62-ac5e-3623c750cd59.html",
-     "data": "2026-08-01T08:58:16+00:00"
-    },
-    {
-     "titolo": "Teheran, 'gli Usa preparano un conflitto totale nella regione'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/teheran-gli-usa-preparano-un-conflitto-totale-nella-regione_6bfadc88-a205-4e3a-b4f6-4cb9347270d5.html",
-     "data": "2026-08-01T08:57:37+00:00"
-    },
-    {
-     "titolo": "Sanchez scrive a Bruxelles per riunione urgente dei ministri Interni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/sanchez-scrive-a-bruxelles-per-riunione-urgente-dei-ministri-interni_41f9435b-47ad-4125-bed2-5d16e2f62e57.html",
-     "data": "2026-08-01T08:54:24+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Due indagati nel fascicolo per la morte di un musicista a Perugia",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/01/due-indagati-nel-fascicolo-per-la-morte-di-un-musicista-a-perugia_ca6d4606-3ff0-4df9-816d-2c7945a94281.html",
+     "data": "2026-08-01T17:10:06+00:00"
+    },
     {
      "titolo": "Caldo, in Umbria toccati i 41 gradi ad Attigliano",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/01/caldo-in-umbria-toccati-i-41-gradi-ad-attigliano_b2c7f8f8-40bc-4eca-9ce9-4fdb23d060e7.html",
@@ -93,7 +98,7 @@
     {
      "titolo": "Musicista muore in hotel a Perugia, si sospetta il monossido di carbonio",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/01/procura-perugia-fascicolo-omicidio-colposo-per-musicista-morto-in-hotel_c0de4a67-dd31-4c8c-b1f4-8274f3e734e2.html",
-     "data": "2026-08-01T14:30:37+00:00"
+     "data": "2026-08-01T16:41:21+00:00"
     },
     {
      "titolo": "Camera commercio, Umbria delle imprese migliora ma procede a due velocità",
@@ -114,11 +119,6 @@
      "titolo": "Un morto in albergo a Perugia per sospetta intossicazione da monossido di carbonio",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/01/un-morto-in-albergo-a-perugia-per-sospetta-intossicazione-da-monossido-di-carbonio_2e49a4ba-3793-42ae-8644-f0996111c0cf.html",
      "data": "2026-08-01T07:53:51+00:00"
-    },
-    {
-     "titolo": "Verini, Governo chiarisca in Parlamento presenza di militari in Arabia Saudita",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/31/verini-governo-chiarisca-in-parlamento-presenza-di-militari-in-arabia-saudita_8474b26a-f565-4668-be88-2e5ab7209faf.html",
-     "data": "2026-07-31T18:41:54+00:00"
     }
    ]
   },
@@ -126,70 +126,75 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Grossa colata di fango a San Vigilio di Marebbe in val Badia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/grossa-colata-di-fango-a-san-vigilio-di-marebbe-in-val-badia_e4210b30-a1fa-43ac-8b83-2e08c3cd2692.html",
+     "data": "2026-08-01T17:38:28+00:00"
+    },
+    {
+     "titolo": "No Tav, a Venaus una grande bandiera della Palestina come paravento",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/no-tav-a-venaus-una-grande-bandiera-della-palestina-come-paravento_04f5fccf-700a-4d0d-be2d-1d119cb03df3.html",
+     "data": "2026-08-01T17:33:10+00:00"
+    },
+    {
+     "titolo": "Fuga di monossido in un hotel di Perugia, morto un musicista. Due indagati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/fuga-di-monossido-in-un-hotel-di-perugia-morto-un-musicista.-due-indagati_c7230e17-2b2c-4ba1-a688-164e51c3e320.html",
+     "data": "2026-08-01T17:23:35+00:00"
+    },
+    {
+     "titolo": "Precipitò da una terrazza a Roma, 'è stato un femminicidio'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/precipito-da-una-terrazza-a-roma-e-stato-un-femminicidio_336fea78-2204-4ffe-bb14-896273f9e6a5.html",
+     "data": "2026-08-01T17:15:49+00:00"
+    },
+    {
+     "titolo": "Valditara, divieto burqa a scuola per la dignità delle donne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/valditara-divieto-burqa-a-scuola-per-la-dignita-delle-donne_ec5093a7-7a97-4308-9d9c-0253b027008c.html",
+     "data": "2026-08-01T17:10:28+00:00"
+    },
+    {
+     "titolo": "Sindacato polizia, con controlli alle frontiere rischio paralisi scali",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/sindacato-polizia-con-controlli-alle-frontiere-rischio-paralisi-scali_7191a55d-4196-429f-bc87-3a9e3e74a2fd.html",
+     "data": "2026-08-01T17:07:28+00:00"
+    },
+    {
+     "titolo": "La strage di Bologna 46 anni fa, la città 'ferita' in piazza anche per Fakir",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/la-strage-di-bologna-46-anni-fa-la-citta-ferita-in-piazza-anche-per-fakir_b9a1fa2f-942b-4a65-8852-2cb2dff2faf7.html",
+     "data": "2026-08-01T17:03:58+00:00"
+    },
+    {
+     "titolo": "Da Bellocchio a Verdone, appello della cultura a sostegno di Spin Time",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/da-bellocchio-a-verdone-appello-della-cultura-a-sostegno-di-spin-time_fd888e27-1e93-4d9a-924f-82558b17b4ee.html",
+     "data": "2026-08-01T16:42:47+00:00"
+    },
+    {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-08-01T16:38:22+00:00"
+    },
+    {
      "titolo": "Fiamme in valle Gesso, pompieri in azione nel Cuneese",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/fiamme-in-valle-gesso-pompieri-in-azione-nel-cuneese_541bcd71-bdad-45e7-8d42-886852b98c48.html",
      "data": "2026-08-01T16:35:31+00:00"
     },
     {
+     "titolo": "I dubbi dell'esperto: 'Lo stop a Schengen legittimo, ma non c'è una minaccia'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/i-dubbi-dellesperto-lo-stop-a-schengen-legittimo-ma-non-ce-una-minaccia_8781ef87-d7e1-492e-91a3-4def4c0d44d9.html",
+     "data": "2026-08-01T16:39:44+00:00"
+    },
+    {
      "titolo": "Terremoto, Musumeci: 'Lo sciame sismico ai Campi Flegrei è ancora in corso'. Registrate decine di scosse",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/terremoto-musumeci-lo-sciame-sismico-ai-campi-flegrei-e-ancora-in-corso.-registrate-decine_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html",
      "data": "2026-08-01T16:06:10+00:00"
-    },
-    {
-     "titolo": "Lo sciame ai Campi Flegrei in linea con i dati osservati finora",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/lo-sciame-ai-campi-flegrei-in-linea-con-i-dati-osservati-finora_7e9ab44f-cb99-4bbb-82b6-e61bb7313099.html",
-     "data": "2026-08-01T16:03:24+00:00"
-    },
-    {
-     "titolo": "Folgorato alle Ferriere Nord, un operaio di 40 anni è in pericolo di vita in Friuli",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/folgorato-alle-ferriere-in-pericolo-di-vita-un-operaio-di-40-anni-in-friuli_4d2e2f70-d2c5-48a5-8097-7ef8428c001d.html",
-     "data": "2026-08-01T15:57:11+00:00"
-    },
-    {
-     "titolo": "Aperta la camera ardente di don Mazzi nella sede di Exodus",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/aperta-la-camera-ardente-di-don-mazzi-nella-sede-di-exodus_ac5fcd28-454f-400d-a83f-3bc9a51c3f14.html",
-     "data": "2026-08-01T15:50:46+00:00"
-    },
-    {
-     "titolo": "Uomo schiacciato fra le porte di un treno, è in gravissime condizioni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/uomo-schiacciato-fra-le-porte-di-un-treno-e-in-gravissime-condizioni_a920f5a0-d865-4483-a93a-9cd8519dc8b7.html",
-     "data": "2026-08-01T15:07:12+00:00"
-    },
-    {
-     "titolo": "Tre Canadair per domare fiamme nel Sassarese, uno in avaria",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/tre-canadair-per-domare-fiamme-nel-sassarese-uno-in-avaria_3da0cf0f-3927-4236-8670-19806e20c419.html",
-     "data": "2026-08-01T15:06:56+00:00"
-    },
-    {
-     "titolo": "Cucciolo investito, la polizia scorta i proprietari dal veterinario",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/cucciolo-investito-la-polizia-scorta-i-proprietari-dal-veterinario_38dbb2fc-2940-4acf-926a-e452173d4b17.html",
-     "data": "2026-08-01T15:00:37+00:00"
-    },
-    {
-     "titolo": "Trovati altri due corpi senza vita nell'edificio crollato a Messina",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/trovati-altri-due-corpi-senza-vita-nelledificio-crollato-a-messina_1ce25cee-2957-4946-9f7a-1b17758c72d6.html",
-     "data": "2026-08-01T14:41:04+00:00"
-    },
-    {
-     "titolo": "No Tav, 'domani usciremo dal presidio di Venaus, rompiamo l'assedio'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/no-tav-domani-usciremo-dal-presidio-di-venaus-rompiamo-lassedio_37749c52-fb8d-432b-8c11-db0d0c27e2b0.html",
-     "data": "2026-08-01T14:16:09+00:00"
-    },
-    {
-     "titolo": "Donna accoltella ex dopo una lite, disposti i domiciliari",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/donna-accoltella-ex-dopo-una-lite-disposti-i-domiciliari_f8a7626a-2053-4bf0-867a-7f7362ac7b60.html",
-     "data": "2026-08-01T14:16:41+00:00"
-    },
-    {
-     "titolo": "Donna accoltella l'ex dopo lite, attesa la convalida dell'arresto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/donna-accoltella-lex-dopo-lite-attesa-la-convalida-dellarresto_2f5f8ebd-5da1-43fd-9ee8-afd241b4bdbd.html",
-     "data": "2026-08-01T14:12:52+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Valditara: 'Divieto di burqa a scuola per la dignità delle donne'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/valditara-divieto-di-burqa-a-scuola-per-la-dignita-delle-donne_96dce8bc-ba56-4eec-81fb-3060089a4a5d.html",
+     "data": "2026-08-01T17:13:46+00:00"
+    },
     {
      "titolo": "Giovani di tutto il mondo in cammino ad Assisi sulle orme di San Francesco",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/giovani-di-tutto-il-mondo-in-cammino-ad-assisi-sulle-orme-di-san-francesco_213c4de8-6e98-46f8-9278-1e6b6e5490be.html",
@@ -224,11 +229,6 @@
      "titolo": "Salvini, 'bene lo stop di Schengen, passa la linea della Lega'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/31/salvini-bene-lo-stop-di-schengen-passa-la-linea-della-lega_f733399d-816b-4c34-b329-baf98e3019a0.html",
      "data": "2026-07-31T17:27:23+00:00"
-    },
-    {
-     "titolo": "Gualtieri, abbiamo messo sul tavolo la proposta di acquistare Spin Time",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/31/gualtieri-abbiamo-messo-sul-tavolo-la-proposta-di-acquistare-spin-time_2bfd9ca4-e318-471c-aada-f32416c3f53e.html",
-     "data": "2026-07-31T16:10:29+00:00"
     }
    ]
   },
@@ -301,9 +301,14 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Petro chiede agli Usa di non invadere Cuba, 'è l'ora del dialogo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/petro-chiede-agli-usa-di-non-invadere-cuba-e-lora-del-dialogo_67befeb3-9453-410d-987b-778752bdb2a1.html",
+     "data": "2026-08-01T17:12:32+00:00"
+    },
+    {
      "titolo": "Ceuta, la paura dei residenti e la rabbia dei giovani respinti",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ceuta-la-paura-dei-residenti-e-la-rabbia-dei-giovani-respinti_5cb7bd79-cf95-4363-bf8a-af0a3b9c5d5d.html",
-     "data": "2026-08-01T16:26:29+00:00"
+     "data": "2026-08-01T16:44:53+00:00"
     },
     {
      "titolo": "Lula, 'finché sarò vivo l'estrema destra non governerà più il Brasile'",
@@ -336,9 +341,9 @@
      "data": "2026-08-01T13:47:49+00:00"
     },
     {
-     "titolo": "Ucraina, esplosioni a Kiev: 'Almeno 9 morti e 23 feriti. Danneggiata l'ambasciata lituana'",
+     "titolo": "Missili russi su Kiev, 'colpita l'ambasciata lituana'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti.-danneggiata-lambasciata-lituana_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
-     "data": "2026-08-01T12:38:35+00:00"
+     "data": "2026-08-01T17:23:40+00:00"
     },
     {
      "titolo": "L'ex presidente del Perù lascia il carcere e torna libero",
@@ -346,19 +351,14 @@
      "data": "2026-08-01T12:35:12+00:00"
     },
     {
+     "titolo": "Dieci morti nella valanga sul Broad Peak, addio al leggendario Nirmal Purja",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/01/valanga-sul-broad-peak-il-noto-alpinista-nims-dai-tra-le-vittime_08e181c8-78b4-4af8-99eb-7e2f5d860a1b.html",
+     "data": "2026-08-01T17:08:23+00:00"
+    },
+    {
      "titolo": "In Venezuela approvata una legge per agevolare gli affitti ai terremotati",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/in-venezuela-approvata-una-legge-per-agevolare-gli-affitti-ai-terremotati_a410a7bf-5d78-4fa8-a70d-75afb480f292.html",
      "data": "2026-08-01T11:27:22+00:00"
-    },
-    {
-     "titolo": "Von der Leyen, lettere da diversi leader Ue, ok a videocall straordinaria",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/von-der-leyen-lettere-da-diversi-leader-ue-ok-a-videocall-straordinaria_2637f5e1-f4f7-48d5-b5a3-c1309d7723fe.html",
-     "data": "2026-08-01T11:17:30+00:00"
-    },
-    {
-     "titolo": "Il Perù annuncia l'adesione allo 'Scudo delle Americhe' di Trump",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/il-peru-annuncia-ladesione-allo-scudo-delle-americhe-di-trump_1622622d-b1ac-4f2e-8f1c-d867423e6c96.html",
-     "data": "2026-08-01T11:07:41+00:00"
     }
    ]
   },
@@ -431,14 +431,34 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "La Concacaf, \"c'è preoccupazione, va rivista la gestione di Infantino\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/la-concacaf-ce-preoccupazione-va-rivista-la-gestione-di-infantino_75c0eb45-4ea0-4102-abe2-1668a7178fb4.html",
+     "data": "2026-08-01T17:29:45+00:00"
+    },
+    {
+     "titolo": "La Juve accoglie Alajbegovic, è atterrato a Torino-Caselle",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/la-juve-accoglie-alajbegovic-e-atterrato-a-torino-caselle_a5e18698-522b-447b-9947-d6f49be8979a.html",
+     "data": "2026-08-01T17:19:38+00:00"
+    },
+    {
+     "titolo": "Gasperini 'Roma da completare, con le coppe servono due giocatori per ruolo'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/gasperini-roma-da-completare-con-le-coppe-servono-due-giocatori-per-ruolo_66a66c8c-bc51-40a7-9feb-045d9cf529f6.html",
+     "data": "2026-08-01T17:16:53+00:00"
+    },
+    {
+     "titolo": "L'Udinese pareggia 3-3 con il Magonza, Zaniolo in gol",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/ludinese-pareggia-3-3-con-il-magonza-zaniolo-in-gol_4e11a8d3-b9a4-458d-871e-52d0bfe13e72.html",
+     "data": "2026-08-01T17:02:07+00:00"
+    },
+    {
      "titolo": "Lorena Wiebes vince la prima tappa del Tour femminile",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/01/lorena-wiebes-vince-la-prima-tappa-del-tour-femminile_26904401-cec8-44ca-9681-049a7489aa7c.html",
      "data": "2026-08-01T16:25:08+00:00"
     },
     {
-     "titolo": "Amichevoli: la Roma cade in Galles, ko per 4-1 contro il Cardiff",
+     "titolo": "Crollo Roma in Galles col Cardiff, ma arriva Koulierakis",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/amichevoli-la-roma-cade-in-galles-ko-per-4-1-contro-il-cardiff_867066dc-f76c-40aa-a845-f481f2d64abc.html",
-     "data": "2026-08-01T16:28:24+00:00"
+     "data": "2026-08-01T16:49:08+00:00"
     },
     {
      "titolo": "Atalanta: El Bilal Touré verso la cessione, non parte per Rotterdam",
@@ -469,26 +489,6 @@
      "titolo": "Europei: nuoto artistico, Pelati e Ruggiero bronzo nel duo libero misto",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/01/europei-nuoto-artistico-pelati-e-ruggiero-bronzo-nel-duo-libero-misto_8b602343-3c15-4f1d-a595-f863343fb4dc.html",
      "data": "2026-08-01T15:19:36+00:00"
-    },
-    {
-     "titolo": "Federcalcio Germania: 'Fare indagine completa sulla proposta della Fifa'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/federcalcio-germania-fare-indagine-completa-sulla-proposta-della-fifa_0b863bd7-e187-4533-866c-c1cf5ab0a944.html",
-     "data": "2026-08-01T14:00:18+00:00"
-    },
-    {
-     "titolo": "L'Inter vince ai rigori col Manchester City, Chivu: 'Ottimo primo tempo'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/inter-batte-il-manchester-city-vittoria-ai-rigori-a-hong-kong_0845824f-6e60-46dd-831d-d07faaf8fc4f.html",
-     "data": "2026-08-01T16:32:20+00:00"
-    },
-    {
-     "titolo": "Euro 2032: 13 città candidate in Italia, ne rimarranno 5",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/euro-2032-abodi-16-progetti-di-stadi-il-calcio-italiano-cambiera-volto_9490f302-a3a3-487b-b3ae-da88c850ae77.html",
-     "data": "2026-08-01T16:30:55+00:00"
-    },
-    {
-     "titolo": "Europei canottaggio: l'Italia cinque volte sul podio, due gli ori",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/01/europei-canottaggio-litalia-cinque-volte-sul-podio-due-gli-ori_c012a071-e620-427f-a6ba-b840c01f142c.html",
-     "data": "2026-08-01T13:38:00+00:00"
     }
    ]
   }
