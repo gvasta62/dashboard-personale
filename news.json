@@ -1,10 +1,45 @@
 {
- "aggiornato": "2026-08-01T07:20:49.626321+00:00",
+ "aggiornato": "2026-08-01T09:29:22.386195+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Monossido su più piani nell'albergo dove è morto il musicista",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/monossido-su-piu-piani-nellalbergo-dove-e-morto-il-musicista_baca16e1-4a21-4b62-ac5e-3623c750cd59.html",
+     "data": "2026-08-01T08:58:16+00:00"
+    },
+    {
+     "titolo": "Teheran, 'gli Usa preparano un conflitto totale nella regione'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/teheran-gli-usa-preparano-un-conflitto-totale-nella-regione_6bfadc88-a205-4e3a-b4f6-4cb9347270d5.html",
+     "data": "2026-08-01T08:57:37+00:00"
+    },
+    {
+     "titolo": "Sanchez scrive a Bruxelles per riunione urgente dei ministri Interni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/sanchez-scrive-a-bruxelles-per-riunione-urgente-dei-ministri-interni_41f9435b-47ad-4125-bed2-5d16e2f62e57.html",
+     "data": "2026-08-01T08:54:24+00:00"
+    },
+    {
+     "titolo": "Cnn, nessun segnale che Israele parteciperà al nuovo attacco Usa contro l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/cnn-nessun-segnale-che-israele-partecipera-al-nuovo-attacco-usa-contro_5368ddd2-bf1f-458e-9657-6e8d2c38c51b.html",
+     "data": "2026-08-01T08:53:56+00:00"
+    },
+    {
+     "titolo": "Salgono a 67 i migranti morti tentando di arrivare a nuoto a Ceuta",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/salgono-a-67-i-migranti-morti-tentando-di-arrivare-a-nuoto-a-ceuta_a97926cf-9feb-403a-af87-a6460391c4f0.html",
+     "data": "2026-08-01T07:48:41+00:00"
+    },
+    {
+     "titolo": "Controlli nel settore turistico-alberghiero, sospese 157 attività",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/controlli-nel-settore-turistico-alberghiero-sospese-157-attivita_220a231c-33a0-46a9-910e-404451b3bb21.html",
+     "data": "2026-08-01T07:36:44+00:00"
+    },
+    {
+     "titolo": "Ghalibaf, 'l'Iran ha vinto la guerra con Usa e Israele'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/ghalibaf-liran-ha-vinto-la-guerra-con-usa-e-israele_10d42586-584f-4002-bcd4-4016527b635b.html",
+     "data": "2026-08-01T07:25:34+00:00"
+    },
     {
      "titolo": "Un morto in albergo a Perugia per sospetta intossicazione da monossido di carbonio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/un-morto-in-albergo-a-perugia-per-sospetta-intossicazione-da-monossido-di-carbonio_f2a391a8-93b6-4b43-b171-5df7a97845a4.html",
@@ -19,41 +54,6 @@
      "titolo": "Ukmto, 'petroliera colpita all'ingresso dello Stretto di Hormutz'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/ukmto-petroliera-colpita-allingresso-dello-stretto-di-hormutz_c3129e94-7126-4afc-baf9-688bf50d397c.html",
      "data": "2026-08-01T03:52:22+00:00"
-    },
-    {
-     "titolo": "Attacco su Kiev, il bilancio delle vittime sale a nove morti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/attacco-su-kiev-il-bilancio-delle-vittime-sale-a-nove-morti_344b4376-fe61-4a11-aac0-b0b520ae333d.html",
-     "data": "2026-08-01T03:45:43+00:00"
-    },
-    {
-     "titolo": "Passo indietro della Fifa, 'la proposta non verrà portata avanti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/passo-indietro-della-fifa-la-proposta-non-verra-portata-avanti_cd99e9e9-5baa-4f51-98bc-825959f21e14.html",
-     "data": "2026-07-31T23:42:35+00:00"
-    },
-    {
-     "titolo": "Terremoto Campi Flegrei, Protezione civile '21 feriti, due in codice rosso'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/terremoto-campi-flegrei-protezione-civile-21-feriti-due-in-codice-rosso_6a0f1503-a9fd-4f10-ac94-e1ad189076fd.html",
-     "data": "2026-07-31T23:13:20+00:00"
-    },
-    {
-     "titolo": "Incendio nella cattedrale di San Basilio nella piazza Rossa di Mosca",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/incendio-nella-cattedrale-di-san-basilio-nella-piazza-rossa-di-mosca_e911f08e-9224-4d36-9db2-37e12d15443c.html",
-     "data": "2026-07-31T23:07:24+00:00"
-    },
-    {
-     "titolo": "Esplosioni a Kiev, 'siamo sotto attacco missilistico'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/esplosioni-a-kiev-siamo-sotto-attacco-missilistico_8aac2ba5-c2e2-4382-a350-a711e0fad24c.html",
-     "data": "2026-07-31T22:47:36+00:00"
-    },
-    {
-     "titolo": "Iran, 'pronto il piano per rispondere alla follia americana'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/iran-pronto-il-piano-per-rispondere-alla-follia-americana_404b6b63-3d64-4ec4-b205-b4eeeeaab11d.html",
-     "data": "2026-07-31T22:27:48+00:00"
-    },
-    {
-     "titolo": "Messico, 'nel Pacifico si concentra il principale traffico marittimo di droga'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/messico-nel-pacifico-si-concentra-il-principale-traffico-marittimo-di-droga_403be767-5b98-4d7a-ac64-922b32576567.html",
-     "data": "2026-07-31T21:51:41+00:00"
     }
    ]
   },
@@ -61,9 +61,24 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Camera commercio, Umbria delle imprese migliora ma procede a due velocità",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/01/camera-commercio-umbria-delle-imprese-migliora-ma-procede-a-due-velocita_5ea40949-79e6-4c52-84b6-e815e1124820.html",
+     "data": "2026-08-01T09:03:26+00:00"
+    },
+    {
+     "titolo": "Monossido su più piani nell'albergo dove è morto il musicista",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/01/monossido-su-piu-piani-nellalbergo-dove-e-morto-il-musicista_849be54f-422c-463a-892a-36b3a5eebb53.html",
+     "data": "2026-08-01T09:04:56+00:00"
+    },
+    {
+     "titolo": "Musicista morto a Perugia, l'allarme dato dagli altri artisti",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/01/musicista-morto-a-perugia-lallarme-dato-dagli-altri-artisti_6d220ef3-c082-4b0a-a164-e0a5d4c15081.html",
+     "data": "2026-08-01T07:50:45+00:00"
+    },
+    {
      "titolo": "Un morto in albergo a Perugia per sospetta intossicazione da monossido di carbonio",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/01/un-morto-in-albergo-a-perugia-per-sospetta-intossicazione-da-monossido-di-carbonio_2e49a4ba-3793-42ae-8644-f0996111c0cf.html",
-     "data": "2026-08-01T07:05:47+00:00"
+     "data": "2026-08-01T07:53:51+00:00"
     },
     {
      "titolo": "Verini, Governo chiarisca in Parlamento presenza di militari in Arabia Saudita",
@@ -104,21 +119,6 @@
      "titolo": "Città della Pieve torna al Rinascimento con il Palio dei Terzieri",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/31/citta-della-pieve-torna-al-rinascimento-con-il-palio-dei-terzieri_089e335b-2b7c-4a10-a433-bdbf22536d51.html",
      "data": "2026-07-31T14:13:11+00:00"
-    },
-    {
-     "titolo": "Patto Avanti, nuovo ospedale Terni punto di svolta per la sanità pubblica",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/31/patto-avanti-nuovo-ospedale-terni-punto-di-svolta-per-la-sanita-pubblica_c83aadeb-2a47-4062-bd42-7084c5aa24cc.html",
-     "data": "2026-07-31T13:31:52+00:00"
-    },
-    {
-     "titolo": "Una struttura da 600 posti letto il nuovo ospedale di Terni che sorgerà a Sabbione",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/31/una-struttura-da-600-posti-letto-il-nuovo-ospedale-di-terni-che-sorgera_40405c21-8996-4e3f-aa49-a220097f8541.html",
-     "data": "2026-07-31T15:55:38+00:00"
-    },
-    {
-     "titolo": "Per il nuovo ospedale di Terni la Regione individua l'area di Sabbione",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/31/per-il-nuovo-ospedale-di-terni-la-regione-individua-larea-di-sabbione-rpt_97d604bf-c6ab-48fb-8f05-a65f5bec6af7.html",
-     "data": "2026-07-31T11:27:56+00:00"
     }
    ]
   },
@@ -126,64 +126,64 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Esplosione distrugge bancomat a Bari, ladri in fuga",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/esplosione-distrugge-bancomat-a-bari-ladri-in-fuga_3ed28cb0-8772-41da-9c4b-6e0885e2dba0.html",
-     "data": "2026-08-01T07:07:22+00:00"
+     "titolo": "Rallentamenti per l'arrivo dei turisti sull'Autobrennero",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/rallentamenti-per-larrivo-dei-turisti-sullautobrennero_0cac29ba-c69b-44fc-a0c1-3dee8dde50d9.html",
+     "data": "2026-08-01T09:25:40+00:00"
     },
     {
-     "titolo": "Campi Flegrei, carabinieri trovano un cane in un edificio inagibile",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/campi-flegrei-carabinieri-trovano-un-cane-in-un-edificio-inagibile_56d16534-b410-40e4-8b5b-4eda218e656d.html",
-     "data": "2026-08-01T07:06:20+00:00"
+     "titolo": "Residenti Campi Flegrei, 'ci dicano se dobbiamo andare via'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/residenti-campi-flegrei-ci-dicano-se-dobbiamo-andare-via_9b101706-996b-4b14-96cc-b2f82e9da373.html",
+     "data": "2026-08-01T09:19:06+00:00"
     },
     {
-     "titolo": "Un morto in albergo a Perugia per sospetta intossicazione da monossido di carbonio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/un-morto-in-albergo-a-perugia-per-sospetta-intossicazione-da-monossido-di-carbonio_59bd5034-9b37-4217-ba1d-1967f177a282.html",
-     "data": "2026-08-01T07:05:32+00:00"
+     "titolo": "A \"Chi l'ha visto?\" la scomparsa 14 anni fa di Maria Vassallo in Croazia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/a-chi-lha-visto-la-scomparsa-14-anni-fa-di-maria-vassallo-in-croazia_eaf66223-f28b-484f-9f8c-633d4090a37a.html",
+     "data": "2026-08-01T09:01:50+00:00"
+    },
+    {
+     "titolo": "Monossido su più piani nell'albergo dove è morto il musicista",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/monossido-su-piu-piani-nellalbergo-dove-e-morto-il-musicista_2009861d-652a-49ec-a0cd-6c85d99cad80.html",
+     "data": "2026-08-01T08:58:23+00:00"
+    },
+    {
+     "titolo": "False offerte di lavoro on line, perquisizioni della polizia di Venezia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/false-offerte-di-lavoro-on-line-perquisizioni-della-polizia-di-venezia_af8fc119-1050-426f-8f9a-4efbe15cf7e2.html",
+     "data": "2026-08-01T08:29:31+00:00"
+    },
+    {
+     "titolo": "Scontro tra tre auto in provincia di Cremona, morta una donna, 6 feriti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/scontro-tra-tre-auto-in-provincia-di-cremona-morta-una-donna-6-feriti_89102c7a-288e-43b7-9565-8fb03f27376e.html",
+     "data": "2026-08-01T08:28:04+00:00"
+    },
+    {
+     "titolo": "Stop Schengen con Spagna: controlli a Fiumicino, Malpensa e Linate",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/stop-schengen-con-spagna-controlli-a-fiumicino-malpensa-e-linate_401ae5b5-f22e-4848-9dbe-b5f410f2ebdd.html",
+     "data": "2026-08-01T09:22:20+00:00"
+    },
+    {
+     "titolo": "Fermati un uomo e una donna a Roma per il tentato omicidio di un 53enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/fermati-un-uomo-e-una-donna-a-roma-per-il-tentato-omicidio-di-un-53enne_62d04f67-7c41-4485-bc82-f37591fc036c.html",
+     "data": "2026-08-01T08:06:48+00:00"
     },
     {
      "titolo": "Musicista muore in albergo per una sospetta intossicazione da monossido",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/musicista-muore-in-albergo-per-una-sospetta-intossicazione-da-monossido-_c7230e17-2b2c-4ba1-a688-164e51c3e320.html",
-     "data": "2026-08-01T07:15:11+00:00"
+     "data": "2026-08-01T09:03:29+00:00"
     },
     {
-     "titolo": "Terremoto - Prosegue lo sciame sismico ai Campi Flegrei, decine di scosse",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/terremoto-prosegue-lo-sciame-sismico-ai-campi-flegrei-decine-le-scosse_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html",
-     "data": "2026-08-01T07:07:35+00:00"
+     "titolo": "Musicista morto a Perugia, l'allarme dato dagli altri artisti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/musicista-morto-a-perugia-lallarme-dato-dagli-altri-artisti_7d7e39b8-1a82-463f-96cc-9b27bd147858.html",
+     "data": "2026-08-01T07:50:43+00:00"
     },
     {
-     "titolo": "Blitz in campi nomadi di Roma, Casoria, Reggio Calabria e Bari, 10 arresti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/blitz-in-campi-nomadi-di-roma-casoria-reggio-calabria-e-bari-10-arresti_278fce34-0b7d-4d47-8daa-a84ec4f8ce90.html",
-     "data": "2026-08-01T05:44:49+00:00"
+     "titolo": "Controlli nel settore turistico-alberghiero, sospese 157 attività",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/controlli-nel-settore-turistico-alberghiero-sospese-157-attivita_cf625209-7fa8-465d-8511-b97326a5c325.html",
+     "data": "2026-08-01T07:36:41+00:00"
     },
     {
-     "titolo": "Edificio crollato a Messina, recuperato il corpo della seconda vittima",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/edificio-crollato-a-messina-recuperato-il-corpo-della-seconda-vittima_70c3e257-ac60-44cb-af3b-c00686aa615a.html",
-     "data": "2026-08-01T04:20:29+00:00"
-    },
-    {
-     "titolo": "Terremoto Campi Flegrei, Protezione civile '21 feriti, due in codice rosso'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/terremoto-campi-flegrei-protezione-civile-21-feriti-due-in-codice-rosso_a795653c-3424-4c3c-9831-457466ae7288.html",
-     "data": "2026-07-31T23:13:22+00:00"
-    },
-    {
-     "titolo": "Torna la paura ai Campi Flegrei: scossa 4.7, crolli e 21 feriti. Oltre 30 repliche",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/torna-la-paura-ai-campi-flegrei-scossa-4.7-crolli-e-21-feriti.-oltre-30-repliche_c40469ed-2529-4076-956e-d61621f42b86.html",
-     "data": "2026-08-01T05:58:00+00:00"
-    },
-    {
-     "titolo": "Cinturrino a processo immediato per l'omicidio di Mansouri",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/cinturrino-a-processo-immediato-per-lomicidio-di-mansouri_3f039b86-4a30-4f16-8148-ceae0675d754.html",
-     "data": "2026-07-31T18:44:44+00:00"
-    },
-    {
-     "titolo": "Terremoto a Napoli, la scossa ai Campi Flegrei di magnitudo 4.7",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/terremoto-a-napoli-la-scossa-ai-campi-flegrei-di-magnitudo-4.7_2f1022d7-4561-454e-b75d-1c8f7265bcdd.html",
-     "data": "2026-07-31T18:43:48+00:00"
-    },
-    {
-     "titolo": "Lo stop a Schengen con la Spagna per un mese, i controlli in porti e aeroporti: cosa cambia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/lo-stop-a-schengen-con-la-spagna-per-un-mese-i-controlli-in-porti-e-aeroporti-cosa_117dd000-c9ab-4f52-b276-fcb32c41a790.html",
-     "data": "2026-07-31T18:29:23+00:00"
+     "titolo": "Investito da un treno alla stazione di Albisola, morto 24enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/investito-da-un-treno-alla-stazione-di-albisola-morto-24enne_b8cecdc7-4e17-4110-b70f-a0b92aa8673f.html",
+     "data": "2026-08-01T07:32:07+00:00"
     }
    ]
   },
@@ -251,6 +251,46 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Mit, finanziati ulteriori 292 interventi per strade in piccoli comuni",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/mit-finanziati-ulteriori-292-interventi-per-strade-in-piccoli-comuni_b87f15ab-4efc-41bb-b0e5-b54c5a382732.html",
+     "data": "2026-08-01T09:09:31+00:00"
+    },
+    {
+     "titolo": "Cgia, padroncini, taxisti e Ncc in ginocchio per diesel alle stelle",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/cgia-padroncini-taxisti-e-ncc-in-ginocchio-per-diesel-alle-stelle_ae7a441e-cd40-45bd-8cc1-98c1090fd367.html",
+     "data": "2026-08-01T09:09:49+00:00"
+    },
+    {
+     "titolo": "Studio Crc, sull'esodo estivo stangata carburanti, oltre 450 euro da Torino a Palermo",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/studio-crc-sullesodo-estivo-stangata-carburanti-oltre-450-euro-da-torino_cd69dd24-78fa-4692-a215-335efc9b7d9d.html",
+     "data": "2026-08-01T09:02:27+00:00"
+    },
+    {
+     "titolo": "Garante scioperi, 'Tar respinge ricorso sindacati su regole per festivi e Av'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/garante-scioperi-tar-respinge-ricorso-sindacati-su-regole-per-festivi-e-av_8dfe7afc-1f50-4231-89c0-01aece8efd61.html",
+     "data": "2026-08-01T08:38:36+00:00"
+    },
+    {
+     "titolo": "In arrivo norme Ue per mettere ordine in giungla agenzie del debito",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/in-arrivo-norme-ue-per-mettere-ordine-in-giungla-agenzie-del-debito_e0665d94-07e0-494a-95e3-5060bf6025df.html",
+     "data": "2026-08-01T08:31:53+00:00"
+    },
+    {
+     "titolo": "Moneta celebra SSC Napoli, 'una fede lunga cent'anni'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/moneta-celebra-ssc-napoli-una-fede-lunga-centanni_b922f1ee-72f7-4d38-9db9-54219c81dd20.html",
+     "data": "2026-08-01T08:28:35+00:00"
+    },
+    {
+     "titolo": "Cna, oltre 11mila sportelli chiusi in 10 anni. Senza banca 4,8 milioni di cittadini",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/cna-oltre-11mila-sportelli-chiusi-in-10-anni.-senza-banca-48-milioni-di-cittadini_cdcad54c-f416-4a79-b722-b021b760feab.html",
+     "data": "2026-08-01T08:19:17+00:00"
+    },
+    {
+     "titolo": "Trenitalia, oltre 33 milioni i passeggeri in viaggio nell'estate 2025",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/trenitalia-oltre-33-milioni-i-passeggeri-in-viaggio-nellestate-2025_5c0aa7de-438e-449d-8b6c-05be1e3602eb.html",
+     "data": "2026-08-01T07:55:27+00:00"
+    },
+    {
      "titolo": "Salta il matrimonio Mps-Bpm, il freno dell'Agricole",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/salta-il-matrimonio-mps-bpm-il-freno-dellagricole_8989314a-7c41-422c-9357-79578b75e8c8.html",
      "data": "2026-07-31T21:31:40+00:00"
@@ -269,46 +309,6 @@
      "titolo": "Banco Bpm interrompe consultazioni per aggregazione con Mps",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/banco-bpm-interrompe-consultazioni-per-aggregazione-con-mps_e6dc41e8-9691-439d-b84e-52127a95bb01.html",
      "data": "2026-07-31T17:59:16+00:00"
-    },
-    {
-     "titolo": "Esperto Golden Power, 'discesa socio cinese Pirelli è coerente con nuovo baricentro'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/esperto-golden-power-discesa-socio-cinese-pirelli-e-coerente-con-nuovo_e00a84e0-6cd9-4db0-a84c-d5f300babce4.html",
-     "data": "2026-07-31T17:39:18+00:00"
-    },
-    {
-     "titolo": "Gcf e Gefer, conferma governance per prossimo triennio, Tiziano Onesti presidente",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/gcf-e-gefer-conferma-governance-per-prossimo-triennio-tiziano-onesti-presidente_aacb5ed9-fde5-4809-a007-4a7a853499fc.html",
-     "data": "2026-07-31T17:19:16+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas in calo a 58,24 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/il-prezzo-del-gas-in-calo-a-5824-euro-al-megawattora_3438cc77-5320-4adf-8a36-18ace182c189.html",
-     "data": "2026-07-31T16:46:23+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in lieve rialzo con l'Europa, vola Amplifon",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/borsa-milano-chiude-in-lieve-rialzo-con-leuropa-vola-amplifon_7a5f4a96-fef3-4ee1-8960-cf619dce2632.html",
-     "data": "2026-07-31T16:20:55+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude in lieve rialzo a 81 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/lo-spread-tra-btp-e-bund-chiude-in-lieve-rialzo-a-81-punti_3ffcdeb3-27c4-49b0-a933-c6b1f48f1a90.html",
-     "data": "2026-07-31T16:15:29+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude cauta, tra Medio Oriente e Ia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/borsa-leuropa-chiude-cauta-tra-medio-oriente-e-ia_901558e6-6d3c-4c36-9abf-723e19a1449c.html",
-     "data": "2026-07-31T16:04:54+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in rialzo dello 0,13%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/borsa-milano-chiude-in-rialzo-dello-013_b9e40d8c-efeb-44f6-bd06-413d183375b5.html",
-     "data": "2026-07-31T15:44:25+00:00"
-    },
-    {
-     "titolo": "Telemarketing, il Garante Privacy multa Tim per 9,5 milioni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/telemarketing-il-garante-privacy-multa-tim-per-95-milioni_87fd3a6e-1d24-4e3d-8610-61cc4e4bf954.html",
-     "data": "2026-07-31T21:01:38+00:00"
     }
    ]
   },
@@ -316,9 +316,49 @@
    "nome": "Mondo",
    "voci": [
     {
-     "titolo": "Ucraina - Esplosioni a Kiev, 'almeno 9 morti e 23 feriti'",
+     "titolo": "Ecuador, spari contro il ministro degli Interni durante un blitz antidroga",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/ecuador-spari-contro-il-ministro-degli-interni-durante-un-blitz-antidroga_06a82231-2fb5-40e0-a9e7-47b01131268a.html",
+     "data": "2026-08-01T09:02:51+00:00"
+    },
+    {
+     "titolo": "Teheran, 'gli Usa preparano un conflitto totale nella regione'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/01/teheran-gli-usa-preparano-un-conflitto-totale-nella-regione_69465145-a863-4929-9644-a10b66e991cc.html",
+     "data": "2026-08-01T08:57:52+00:00"
+    },
+    {
+     "titolo": "Sanchez scrive a Bruxelles per riunione urgente dei ministri Interni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/sanchez-scrive-a-bruxelles-per-riunione-urgente-dei-ministri-interni_c1c9cf8c-27ac-454f-8e3a-d9a8b0ae9733.html",
+     "data": "2026-08-01T08:54:24+00:00"
+    },
+    {
+     "titolo": "Cnn, nessun segnale che Israele parteciperà al nuovo attacco Usa contro l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/01/cnn-nessun-segnale-che-israele-partecipera-al-nuovo-attacco-usa-contro_3f8259f5-2982-4f64-94f2-8ffc40d97eaf.html",
+     "data": "2026-08-01T08:53:58+00:00"
+    },
+    {
+     "titolo": "Cnn, nessun segnale che Israele parteciperà al nuovo attacco Usa contro l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/01/cnn-nessun-segnale-che-israele-partecipera-al-nuovo-attacco-usa-contro_d1a6cd26-a250-4325-8471-62e4dba8c08c.html",
+     "data": "2026-08-01T08:54:00+00:00"
+    },
+    {
+     "titolo": "Ucraina - Esplosioni a Kiev: 'Almeno 9 morti e 23 feriti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
-     "data": "2026-08-01T06:13:20+00:00"
+     "data": "2026-08-01T08:10:36+00:00"
+    },
+    {
+     "titolo": "Salgono a 67 i migranti morti tentando di arrivare a nuoto a Ceuta",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/salgono-a-67-i-migranti-morti-tentando-di-arrivare-a-nuoto-a-ceuta_872bd3e0-06f8-4279-bb3b-b28fde4657b6.html",
+     "data": "2026-08-01T07:48:57+00:00"
+    },
+    {
+     "titolo": "Proteste a Tripoli, chieste elezioni e la fine degli organismi politici",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/01/proteste-a-tripoli-chieste-elezioni-e-la-fine-degli-organismi-politici_5a1d63e4-a55c-49e2-9ffd-b4459f7f2b10.html",
+     "data": "2026-08-01T07:37:36+00:00"
+    },
+    {
+     "titolo": "Ghalibaf, 'l'Iran ha vinto la guerra con Usa e Israele'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/01/ghalibaf-liran-ha-vinto-la-guerra-con-usa-e-israele_6b440139-34fa-4d66-a62c-1c223baa0d7b.html",
+     "data": "2026-08-01T07:25:17+00:00"
     },
     {
      "titolo": "Ukmto, 'petroliera colpita all'ingresso dello Stretto di Hormutz'",
@@ -334,46 +374,6 @@
      "titolo": "Nave Vespucci a Montreal, la riceve l'ambasciatore Cattaneo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/01/nave-vespucci-a-montreal-la-riceve-lambasciatore-cattaneo_fdf63fce-fcfe-4220-accb-db12439aa021.html",
      "data": "2026-08-01T00:43:53+00:00"
-    },
-    {
-     "titolo": "Incendio nella cattedrale di San Basilio nella piazza Rossa di Mosca",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/incendio-nella-cattedrale-di-san-basilio-nella-piazza-rossa-di-mosca_7fc579b6-18cc-44f8-9310-08c51f000e53.html",
-     "data": "2026-07-31T23:07:42+00:00"
-    },
-    {
-     "titolo": "Iran, 'pronto il piano per rispondere alla follia americana'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/01/iran-pronto-il-piano-per-rispondere-alla-follia-americana_b22392ce-8e1d-45b8-b7ed-f629ab94249f.html",
-     "data": "2026-07-31T22:28:01+00:00"
-    },
-    {
-     "titolo": "Messico, 'nel Pacifico si concentra il principale traffico marittimo di droga'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/messico-nel-pacifico-si-concentra-il-principale-traffico-marittimo-di-droga_499171f2-6311-494f-bb79-7829c1209d61.html",
-     "data": "2026-07-31T21:52:00+00:00"
-    },
-    {
-     "titolo": "Il dissidente cubano Otero Alcántara prevede una rivolta più ampia del luglio 2021",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/il-dissidente-cubano-otero-alcantara-prevede-una-rivolta-piu-ampia-del_1648437c-fad9-4dba-8f0e-780b2d8946ee.html",
-     "data": "2026-07-31T21:36:26+00:00"
-    },
-    {
-     "titolo": "Wsj, 'Trump ha ordinato un nuovo attacco all'Iran, forse nel fine settimana'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/31/wsj-trump-ha-ordinato-un-nuovo-attacco-alliran-forse-nel-fine-settimana_87b518fc-4937-44af-ad3c-8acf5747c69c.html",
-     "data": "2026-07-31T21:30:05+00:00"
-    },
-    {
-     "titolo": "Noto terrorista venezuelano detenuto in Francia chiede di rientrare in patria",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/noto-terrorista-venezuelano-detenuto-in-francia-chiede-di-rientrare-in-patria_046a05a4-1548-4128-98d6-23aa9c91d7c9.html",
-     "data": "2026-07-31T21:29:12+00:00"
-    },
-    {
-     "titolo": "Al via ad Haiti la registrazione degli elettori tra violenze e controllo delle gang",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/al-via-ad-haiti-la-registrazione-degli-elettori-tra-violenze-e-controllo-delle-gang_996cfd30-c635-4285-84cc-8a63a515fd62.html",
-     "data": "2026-07-31T21:06:39+00:00"
-    },
-    {
-     "titolo": "Cbs, 'Usa e Israele si preparano ad attaccare le infrastrutture energetiche Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/31/cbs-usa-e-israele-si-preparano-ad-attaccare-le-infrastrutture-energetiche-iran_715e2f4b-d0be-47c8-8156-4c4911dd4fbf.html",
-     "data": "2026-07-31T21:07:13+00:00"
     }
    ]
   },
@@ -446,9 +446,24 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Passo indietro della Fifa, 'la proposta non verrà portata avanti'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/passo-indietro-della-fifa-la-proposta-non-verra-portata-avanti_051de076-54fa-4c21-9284-675f558272be.html",
-     "data": "2026-08-01T00:57:44+00:00"
+     "titolo": "Washington, Musetti esce nei quarti con Jodar",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/01/washington-musetti-esce-nei-quarti-con-jodar_eafdd8e4-7cbe-4d2f-acb3-5554f472f042.html",
+     "data": "2026-08-01T08:10:10+00:00"
+    },
+    {
+     "titolo": "Tennis: a Washington Musetti esce nei quarti con Jodar",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/01/tennis-a-washington-musetti-esce-nei-quarti-con-jodar_1c5134cf-9de7-488f-9318-568b772922bd.html",
+     "data": "2026-08-01T08:12:37+00:00"
+    },
+    {
+     "titolo": "Retromarcia di Infantino, stop al Mondiale aperto a capitali privati",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/retromarcia-di-infantino-stop-al-mondiale-aperto-a-capitali-privati_051de076-54fa-4c21-9284-675f558272be.html",
+     "data": "2026-08-01T08:03:54+00:00"
+    },
+    {
+     "titolo": "Retromarcia di Infantino, stop al Mondiale aperto a capitali privati",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/retromarcia-di-infantino-stop-al-mondiale-aperto-a-capitali-privati_4e3b9d3d-7b56-4786-a1fb-bcd239ca82df.html",
+     "data": "2026-08-01T07:57:46+00:00"
     },
     {
      "titolo": "Investito da un'auto, Roglic si ritira dalla Clásica San Sebastián",
@@ -489,21 +504,6 @@
      "titolo": "Calciomercato: Soulé nel mirino del Milan, puntata al rialzo del Como per Chalobah",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/calciomercato-soule-nel-mirino-del-milan-puntata-al-rialzo-del-como_590af71d-d581-467c-a72a-19a7fbeb1a18.html",
      "data": "2026-07-31T20:34:27+00:00"
-    },
-    {
-     "titolo": "Oro nei tuffi e argento nel nuoto artistico, l'Italia parte bene agli Europei",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/07/31/oro-nei-tuffi-e-argento-nel-nuoto-artistico-litalia-parte-bene_1553ddc7-5365-46fe-8c2a-3fb39fe4a402.html",
-     "data": "2026-07-31T20:29:24+00:00"
-    },
-    {
-     "titolo": "Bergomi: \"Con Baresi il calcio perde una leggenda, io un amico\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/baresi-bergomi-il-calcio-perde-una-leggenda-io-un-amico_9aa7f458-d7d0-405a-8929-bf2d0083b975.html",
-     "data": "2026-07-31T20:48:16+00:00"
-    },
-    {
-     "titolo": "Ancelotti a Baresi: 'Rimarrai per sempre il mio capitano'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/07/31/baresi-ancelotti-rimarrai-per-sempre-il-mio-capitano_6c576e1e-ff52-4e83-aa42-c09dd5a9a6f2.html",
-     "data": "2026-07-31T20:50:12+00:00"
     }
    ]
   }
