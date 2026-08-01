@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-01T01:02:07.594138+00:00",
+ "aggiornato": "2026-08-01T04:43:53.081001+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Edificio crollato a Messina, recuperato il corpo della seconda vittima",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/edificio-crollato-a-messina-recuperato-il-corpo-della-seconda-vittima_16cfcf93-83fe-4444-873b-0685c784955f.html",
+     "data": "2026-08-01T04:20:32+00:00"
+    },
+    {
+     "titolo": "Ukmto, 'petroliera colpita all'ingresso dello Stretto di Hormutz'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/ukmto-petroliera-colpita-allingresso-dello-stretto-di-hormutz_c3129e94-7126-4afc-baf9-688bf50d397c.html",
+     "data": "2026-08-01T03:52:22+00:00"
+    },
+    {
+     "titolo": "Attacco su Kiev, il bilancio delle vittime sale a nove morti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/attacco-su-kiev-il-bilancio-delle-vittime-sale-a-nove-morti_344b4376-fe61-4a11-aac0-b0b520ae333d.html",
+     "data": "2026-08-01T03:45:43+00:00"
+    },
     {
      "titolo": "Passo indietro della Fifa, 'la proposta non verrà portata avanti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/passo-indietro-della-fifa-la-proposta-non-verra-portata-avanti_cd99e9e9-5baa-4f51-98bc-825959f21e14.html",
@@ -39,21 +54,6 @@
      "titolo": "Wsj, 'Trump ha ordinato un nuovo attacco all'Iran, forse nel fine settimana'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/wsj-trump-ha-ordinato-un-nuovo-attacco-alliran-forse-nel-fine-settimana_6db723fd-7a77-43ee-862e-8ed2f4edde18.html",
      "data": "2026-07-31T21:30:01+00:00"
-    },
-    {
-     "titolo": "Cbs, 'Usa e Israele si preparano ad attaccare le infrastrutture energetiche Iran'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/cbs-usa-e-israele-si-preparano-ad-attaccare-le-infrastrutture-energetiche-iran_bb6a355c-da5f-4877-a0a1-1f4e07fed4af.html",
-     "data": "2026-07-31T21:06:58+00:00"
-    },
-    {
-     "titolo": "Kamala Harris non ha ancora deciso sul 2028, concentrata sulle midterm",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/kamala-harris-non-ha-ancora-deciso-sul-2028-concentrata-sulle-midterm_63c8d22f-2841-49e7-ae9c-f6ec4563e43b.html",
-     "data": "2026-07-31T20:29:16+00:00"
-    },
-    {
-     "titolo": "I dispersi dopo il sisma in Venezuela sono 1.338",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/07/31/i-dispersi-dopo-il-sisma-in-venezuela-sono-1.338_38f873af-cfec-43a7-bdde-f3d914f0ce00.html",
-     "data": "2026-07-31T20:21:34+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Edificio crollato a Messina, recuperato il corpo della seconda vittima",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/edificio-crollato-a-messina-recuperato-il-corpo-della-seconda-vittima_70c3e257-ac60-44cb-af3b-c00686aa615a.html",
+     "data": "2026-08-01T04:20:29+00:00"
+    },
+    {
      "titolo": "Terremoto Campi Flegrei, Protezione civile '21 feriti, due in codice rosso'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/terremoto-campi-flegrei-protezione-civile-21-feriti-due-in-codice-rosso_a795653c-3424-4c3c-9831-457466ae7288.html",
      "data": "2026-07-31T23:13:22+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Il pm:  'Cinturrino a processo immediato per l'omicidio di Mansouri'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/il-pm-cinturrino-a-processo-immediato-per-lomicidio-di-mansouri-_c7c67913-93bd-43f6-827c-63bcf1eee9ab.html",
      "data": "2026-07-31T17:27:21+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-07-31T16:43:19+00:00"
     }
    ]
   },
@@ -316,6 +316,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ukmto, 'petroliera colpita all'ingresso dello Stretto di Hormutz'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/01/ukmto-petroliera-colpita-allingresso-dello-stretto-di-hormutz_81526b85-7407-4f2a-be33-ec9cd002d321.html",
+     "data": "2026-08-01T03:52:40+00:00"
+    },
+    {
+     "titolo": "Attacco su Kiev, il bilancio delle vittime sale a nove morti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/attacco-su-kiev-il-bilancio-delle-vittime-sale-a-nove-morti_cb43d76e-e053-4bbf-880f-3271eed3a4a2.html",
+     "data": "2026-08-01T03:45:48+00:00"
+    },
+    {
      "titolo": "Nave Vespucci a Montreal, la riceve l'ambasciatore Cattaneo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/01/nave-vespucci-a-montreal-la-riceve-lambasciatore-cattaneo_fdf63fce-fcfe-4220-accb-db12439aa021.html",
      "data": "2026-08-01T00:43:53+00:00"
@@ -326,9 +336,9 @@
      "data": "2026-07-31T23:07:42+00:00"
     },
     {
-     "titolo": "Esplosioni a Kiev, 'siamo sotto attacco missilistico'",
+     "titolo": "Esplosioni a Kiev, 'almeno 9 morti e 23 feriti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/esplosioni-a-kiev-siamo-sotto-attacco-missilistico_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
-     "data": "2026-07-31T23:44:43+00:00"
+     "data": "2026-08-01T04:30:11+00:00"
     },
     {
      "titolo": "Iran, 'pronto il piano per rispondere alla follia americana'",
@@ -364,16 +374,6 @@
      "titolo": "Cbs, 'Usa e Israele si preparano ad attaccare le infrastrutture energetiche Iran'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/31/cbs-usa-e-israele-si-preparano-ad-attaccare-le-infrastrutture-energetiche-iran_715e2f4b-d0be-47c8-8156-4c4911dd4fbf.html",
      "data": "2026-07-31T21:07:13+00:00"
-    },
-    {
-     "titolo": "Ong Venezuela contestano la presidente sui prigionieri politici",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/31/ong-venezuela-contestano-la-presidente-sui-prigionieri-politici_71a055b7-94f4-4621-a770-3c1aa9fc91a8.html",
-     "data": "2026-07-31T20:57:01+00:00"
-    },
-    {
-     "titolo": "Kamala Harris non ha ancora deciso sul 2028, concentrata sulle midterm",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/31/kamala-harris-non-ha-ancora-deciso-sul-2028-concentrata-sulle-midterm_cc57a3e9-6c89-48ce-b9c2-cdb761886946.html",
-     "data": "2026-07-31T20:29:17+00:00"
     }
    ]
   },
