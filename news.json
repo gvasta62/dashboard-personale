@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-01T15:32:25.239080+00:00",
+ "aggiornato": "2026-08-01T16:42:58.241850+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Martedì la videocall dei ministri degli Interni Ue su Ceuta",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/martedi-la-videocall-dei-ministri-degli-interni-ue-su-ceuta_0fed0feb-182f-4ae6-b661-311887079792.html",
+     "data": "2026-08-01T15:33:43+00:00"
+    },
     {
      "titolo": "Ambasciate Usa agli americani, 'valutare possibilità di lasciare il Medio Oriente'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/ambasciate-usa-agli-americani-valutare-possibilita-di-lasciare-il-medio-oriente_85bf1273-4deb-448e-a208-a50dee52330a.html",
@@ -49,17 +54,17 @@
      "titolo": "Sanchez scrive a Bruxelles per riunione urgente dei ministri Interni",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/sanchez-scrive-a-bruxelles-per-riunione-urgente-dei-ministri-interni_41f9435b-47ad-4125-bed2-5d16e2f62e57.html",
      "data": "2026-08-01T08:54:24+00:00"
-    },
-    {
-     "titolo": "Cnn, nessun segnale che Israele parteciperà al nuovo attacco Usa contro l'Iran",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/cnn-nessun-segnale-che-israele-partecipera-al-nuovo-attacco-usa-contro_5368ddd2-bf1f-458e-9657-6e8d2c38c51b.html",
-     "data": "2026-08-01T08:53:56+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Caldo, in Umbria toccati i 41 gradi ad Attigliano",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/01/caldo-in-umbria-toccati-i-41-gradi-ad-attigliano_b2c7f8f8-40bc-4eca-9ce9-4fdb23d060e7.html",
+     "data": "2026-08-01T16:37:43+00:00"
+    },
     {
      "titolo": "Al Calvi Festival la presentazione del libro 'Erano donne' di Gioia Costa",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/01/al-calvi-festival-la-presentazione-del-libro-erano-donne-di-gioia-costa_be14bd72-8752-49ca-85e2-b1b3e120f072.html",
@@ -114,11 +119,6 @@
      "titolo": "Verini, Governo chiarisca in Parlamento presenza di militari in Arabia Saudita",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/31/verini-governo-chiarisca-in-parlamento-presenza-di-militari-in-arabia-saudita_8474b26a-f565-4668-be88-2e5ab7209faf.html",
      "data": "2026-07-31T18:41:54+00:00"
-    },
-    {
-     "titolo": "Simonetti, nuovo ospedale di Terni diventi uno dei poli sanitari più moderni",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/31/simonetti-nuovo-ospedale-di-terni-diventi-uno-dei-poli-sanitari-piu_7e8137ab-021e-4e9d-b71b-c00703480f89.html",
-     "data": "2026-07-31T16:06:20+00:00"
     }
    ]
   },
@@ -126,9 +126,29 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Folgorato alle ferriere, operaio gravissimo in Friuli",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/folgorato-alle-ferriere-operaio-gravissimo-in-friuli_4d2e2f70-d2c5-48a5-8097-7ef8428c001d.html",
-     "data": "2026-08-01T15:09:37+00:00"
+     "titolo": "Fiamme in valle Gesso, pompieri in azione nel Cuneese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/fiamme-in-valle-gesso-pompieri-in-azione-nel-cuneese_541bcd71-bdad-45e7-8d42-886852b98c48.html",
+     "data": "2026-08-01T16:35:31+00:00"
+    },
+    {
+     "titolo": "Terremoto, Musumeci: 'Lo sciame sismico ai Campi Flegrei è ancora in corso'. Registrate decine di scosse",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/terremoto-musumeci-lo-sciame-sismico-ai-campi-flegrei-e-ancora-in-corso.-registrate-decine_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html",
+     "data": "2026-08-01T16:06:10+00:00"
+    },
+    {
+     "titolo": "Lo sciame ai Campi Flegrei in linea con i dati osservati finora",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/lo-sciame-ai-campi-flegrei-in-linea-con-i-dati-osservati-finora_7e9ab44f-cb99-4bbb-82b6-e61bb7313099.html",
+     "data": "2026-08-01T16:03:24+00:00"
+    },
+    {
+     "titolo": "Folgorato alle Ferriere Nord, un operaio di 40 anni è in pericolo di vita in Friuli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/folgorato-alle-ferriere-in-pericolo-di-vita-un-operaio-di-40-anni-in-friuli_4d2e2f70-d2c5-48a5-8097-7ef8428c001d.html",
+     "data": "2026-08-01T15:57:11+00:00"
+    },
+    {
+     "titolo": "Aperta la camera ardente di don Mazzi nella sede di Exodus",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/aperta-la-camera-ardente-di-don-mazzi-nella-sede-di-exodus_ac5fcd28-454f-400d-a83f-3bc9a51c3f14.html",
+     "data": "2026-08-01T15:50:46+00:00"
     },
     {
      "titolo": "Uomo schiacciato fra le porte di un treno, è in gravissime condizioni",
@@ -164,26 +184,6 @@
      "titolo": "Donna accoltella l'ex dopo lite, attesa la convalida dell'arresto",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/donna-accoltella-lex-dopo-lite-attesa-la-convalida-dellarresto_2f5f8ebd-5da1-43fd-9ee8-afd241b4bdbd.html",
      "data": "2026-08-01T14:12:52+00:00"
-    },
-    {
-     "titolo": "Stalker condominiale 'seriale', 68enne arrestata e portata in carcere",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/stalker-condominiale-seriale-68enne-arrestata-e-portata-in-carcere_21589895-0998-4287-9c94-03b59e1a0845.html",
-     "data": "2026-08-01T14:10:46+00:00"
-    },
-    {
-     "titolo": "Uccide a coltellate la madre malata, attesa la convalida dell'arresto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/uccide-a-coltellate-la-madre-malata-attesa-la-convalida-dellarresto-_b159875e-4615-4351-a5cf-fb0ad4bee6fd.html",
-     "data": "2026-08-01T14:05:42+00:00"
-    },
-    {
-     "titolo": "Ricoverato per calcoli morì dopo due mesi, la famiglia chiede i danni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/ricoverato-per-calcoli-mori-dopo-due-mesi-la-famiglia-chiede-i-danni_2cc28f58-ee96-4dae-8773-39fd8c68eba2.html",
-     "data": "2026-08-01T14:03:34+00:00"
-    },
-    {
-     "titolo": "A Modena via libera all'Ai per scrivere le tesi di laurea",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/a-modena-via-libera-allai-per-scrivere-le-tesi-di-laurea_7a2311d7-0e03-4737-a34a-292d9769bc2b.html",
-     "data": "2026-08-01T14:01:51+00:00"
     }
    ]
   },
@@ -301,6 +301,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ceuta, la paura dei residenti e la rabbia dei giovani respinti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ceuta-la-paura-dei-residenti-e-la-rabbia-dei-giovani-respinti_5cb7bd79-cf95-4363-bf8a-af0a3b9c5d5d.html",
+     "data": "2026-08-01T16:26:29+00:00"
+    },
+    {
+     "titolo": "Lula, 'finché sarò vivo l'estrema destra non governerà più il Brasile'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/lula-finche-saro-vivo-lestrema-destra-non-governera-piu-il-brasile_78cbefd9-10f0-4f14-885d-8e763f3f6ba3.html",
+     "data": "2026-08-01T15:43:31+00:00"
+    },
+    {
+     "titolo": "Martedì la videocall dei ministri degli Interni Ue su Ceuta",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/martedi-la-videocall-dei-ministri-degli-interni-ue-su-ceuta_766d1540-2c8b-4d85-97df-4de65a1f977d.html",
+     "data": "2026-08-01T15:33:41+00:00"
+    },
+    {
+     "titolo": "Martedì la videocall dei ministri degli Interni Ue su Ceuta",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/01/martedi-la-videocall-dei-ministri-degli-interni-ue-su-ceuta_9f0b769c-2337-4a8b-ab69-56bba27a0b36.html",
+     "data": "2026-08-01T15:33:43+00:00"
+    },
+    {
      "titolo": "Autobomba esplode in Colombia, 11 feriti",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/autobomba-esplode-in-colombia-11-feriti_20e03b05-44a2-49c6-a48a-a9dab5a74a6f.html",
      "data": "2026-08-01T14:03:38+00:00"
@@ -339,26 +359,6 @@
      "titolo": "Il Perù annuncia l'adesione allo 'Scudo delle Americhe' di Trump",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/il-peru-annuncia-ladesione-allo-scudo-delle-americhe-di-trump_1622622d-b1ac-4f2e-8f1c-d867423e6c96.html",
      "data": "2026-08-01T11:07:41+00:00"
-    },
-    {
-     "titolo": "La situazione nell'enclave spagnola di Ceuta è tornata quasi alla normalità.",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/la-situazione-nellenclave-spagnola-di-ceuta-e-tornata-quasi-alla-normalita._87ada5bc-220e-421e-84b7-b1b72c0dce60.html",
-     "data": "2026-08-01T09:57:27+00:00"
-    },
-    {
-     "titolo": "Sanchez, 'stop a Schengen dettato da ignoranza o interessi politici'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/sanchez-stop-a-schengen-dettato-da-ignoranza-o-interessi-politici_f7f09708-9a60-4cca-b961-73c92a31417b.html",
-     "data": "2026-08-01T09:40:25+00:00"
-    },
-    {
-     "titolo": "Ecuador, spari contro il ministro degli Interni durante un blitz antidroga",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/ecuador-spari-contro-il-ministro-degli-interni-durante-un-blitz-antidroga_06a82231-2fb5-40e0-a9e7-47b01131268a.html",
-     "data": "2026-08-01T09:02:51+00:00"
-    },
-    {
-     "titolo": "Teheran, 'gli Usa preparano un conflitto totale nella regione'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/01/teheran-gli-usa-preparano-un-conflitto-totale-nella-regione_69465145-a863-4929-9644-a10b66e991cc.html",
-     "data": "2026-08-01T08:57:52+00:00"
     }
    ]
   },
@@ -431,6 +431,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Lorena Wiebes vince la prima tappa del Tour femminile",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/01/lorena-wiebes-vince-la-prima-tappa-del-tour-femminile_26904401-cec8-44ca-9681-049a7489aa7c.html",
+     "data": "2026-08-01T16:25:08+00:00"
+    },
+    {
+     "titolo": "Amichevoli: la Roma cade in Galles, ko per 4-1 contro il Cardiff",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/amichevoli-la-roma-cade-in-galles-ko-per-4-1-contro-il-cardiff_867066dc-f76c-40aa-a845-f481f2d64abc.html",
+     "data": "2026-08-01T16:28:24+00:00"
+    },
+    {
+     "titolo": "Atalanta: El Bilal Touré verso la cessione, non parte per Rotterdam",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/atalanta-el-bilal-toure-verso-la-cessione-non-parte-per-rotterdam_efdda1dc-f0c8-4ae7-901a-ff1c763e7289.html",
+     "data": "2026-08-01T15:50:09+00:00"
+    },
+    {
+     "titolo": "Atletica: cinque anni fa l'oro di Tokyo. Jacobs: 'Non me ne sono mai andato'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/01/atletica-jacobs-io-tornato-quello-di-tokyo-non-me-ne-sono-mai-andato_e5c2e352-3c70-402c-8fc4-a9fb2f4c9faf.html",
+     "data": "2026-08-01T16:34:26+00:00"
+    },
+    {
      "titolo": "Volley: Nations League, gli Usa battono il Giappone e conquistano la finale",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/01/volley-nations-league-gli-usa-battono-il-giappone-e-conquistano-la-finale_6205e262-0b98-4351-85cf-a32f4651d349.html",
      "data": "2026-08-01T15:17:16+00:00"
@@ -456,39 +476,19 @@
      "data": "2026-08-01T14:00:18+00:00"
     },
     {
-     "titolo": "Inter batte il Manchester City, vittoria ai rigori a Hong Kong",
+     "titolo": "L'Inter vince ai rigori col Manchester City, Chivu: 'Ottimo primo tempo'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/inter-batte-il-manchester-city-vittoria-ai-rigori-a-hong-kong_0845824f-6e60-46dd-831d-d07faaf8fc4f.html",
-     "data": "2026-08-01T13:55:10+00:00"
+     "data": "2026-08-01T16:32:20+00:00"
     },
     {
-     "titolo": "Euro 2032, Abodi: '16 progetti di stadi, il calcio italiano cambierà volto'",
+     "titolo": "Euro 2032: 13 città candidate in Italia, ne rimarranno 5",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/euro-2032-abodi-16-progetti-di-stadi-il-calcio-italiano-cambiera-volto_9490f302-a3a3-487b-b3ae-da88c850ae77.html",
-     "data": "2026-08-01T13:57:23+00:00"
+     "data": "2026-08-01T16:30:55+00:00"
     },
     {
      "titolo": "Europei canottaggio: l'Italia cinque volte sul podio, due gli ori",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/01/europei-canottaggio-litalia-cinque-volte-sul-podio-due-gli-ori_c012a071-e620-427f-a6ba-b840c01f142c.html",
      "data": "2026-08-01T13:38:00+00:00"
-    },
-    {
-     "titolo": "Tonali subito in gol col Tottenham, battuto il Chelsea di Palestra",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/tonali-subito-in-gol-col-tottenham-battuto-il-chelsea-di-palestra_9a187c77-0b42-41f8-afe0-d5f512e6b8cd.html",
-     "data": "2026-08-01T13:24:17+00:00"
-    },
-    {
-     "titolo": "Torino, il 5 agosto nuovo test a porte aperte a Filadelfia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/torino-torino-il-5-agosto-nuovo-test-a-porte-aperte-a-filadelfia_e1ca4652-a015-4108-9a18-a3a038a675a2.html",
-     "data": "2026-08-01T13:38:36+00:00"
-    },
-    {
-     "titolo": "Roma: Koulierakis è arrivato nella Capitale",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/roma-koulierakis-e-arrivato-nella-capitale_739c6b2d-e0de-4b92-aebf-ff18eb1987cf.html",
-     "data": "2026-08-01T13:39:16+00:00"
-    },
-    {
-     "titolo": "Esposito lascia il ritiro del Cagliari, l'ira del club",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/esposito-lascia-il-ritiro-del-cagliari-lira-del-club_f5c993af-e4bf-4773-9647-437169800120.html",
-     "data": "2026-08-01T13:39:49+00:00"
     }
    ]
   }
