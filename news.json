@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-01T11:56:51.584639+00:00",
+ "aggiornato": "2026-08-01T12:58:26.084263+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -61,6 +61,16 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "In Umbria 480.000 euro dal Mit per il 'Fondo investimenti stradali nei piccoli Comuni'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/01/in-umbria-480.000-euro-dal-mit-per-il-fondo-investimenti-stradali-nei_f988a081-692b-42c6-9048-d3fd1307f3a0.html",
+     "data": "2026-08-01T12:42:45+00:00"
+    },
+    {
+     "titolo": "Ferranti, dalla Giunta regionale non un solo atto sul nuovo ospedale di Terni",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/01/ferranti-dalla-giunta-regionale-non-un-solo-atto-sul-nuovo-ospedale_179a4cd8-83f7-4709-a352-0c707527050b.html",
+     "data": "2026-08-01T12:24:10+00:00"
+    },
+    {
      "titolo": "Dal Comune di Perugia 'il più profondo cordoglio' per il musicista deceduto",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/01/dal-comune-di-perugia-il-piu-profondo-cordoglio-per-il-musicista-deceduto_c4b63901-b782-4971-a6e1-06ae9cd69c74.html",
      "data": "2026-08-01T11:29:31+00:00"
@@ -68,7 +78,7 @@
     {
      "titolo": "Procura Perugia, fascicolo omicidio colposo per musicista morto in hotel",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/01/procura-perugia-fascicolo-omicidio-colposo-per-musicista-morto-in-hotel_c0de4a67-dd31-4c8c-b1f4-8274f3e734e2.html",
-     "data": "2026-08-01T11:26:30+00:00"
+     "data": "2026-08-01T12:07:48+00:00"
     },
     {
      "titolo": "Camera commercio, Umbria delle imprese migliora ma procede a due velocità",
@@ -109,16 +119,6 @@
      "titolo": "Siglato l'accordo per il rinnovo del contratto dei quadri ed impiegati agricoli",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/31/siglato-laccordo-per-il-rinnovo-del-contratto-dei-quadri-ed-impiegati-agricoli_b629ea05-3cfd-4fcd-8fa4-4f4f2e3f44d0.html",
      "data": "2026-07-31T15:24:37+00:00"
-    },
-    {
-     "titolo": "Bandecchi, concretizzate le peggiori aspettative per il nuovo ospedale di Terni",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/31/bandecchi-concretizzate-le-peggiori-aspettative-per-il-nuovo-ospedale-di-terni_147c42a3-908c-4396-83ae-dc91137bfd0b.html",
-     "data": "2026-07-31T15:17:21+00:00"
-    },
-    {
-     "titolo": "Per la prima volta l'Umbria con due squadre nella serie A di rugby",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/31/per-la-prima-volta-lumbria-con-due-squadre-nella-serie-a-di-rugby_b919cb50-ba1c-43ca-b68b-ef83f3e75a8d.html",
-     "data": "2026-07-31T15:09:13+00:00"
     }
    ]
   },
@@ -126,9 +126,9 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Terremoto - Musumeci: 'Lo sciame sismico ai Campi Flegrei è ancora in corso'. Registrate decine di scosse",
+     "titolo": "Terremoto, Musumeci: 'Lo sciame sismico ai Campi Flegrei è ancora in corso'. Registrate decine di scosse",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/terremoto-musumeci-lo-sciame-sismico-ai-campi-flegrei-e-ancora-in-corso.-registrate-decine_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html",
-     "data": "2026-08-01T11:46:22+00:00"
+     "data": "2026-08-01T12:21:59+00:00"
     },
     {
      "titolo": "Tamaro, famiglia del bosco ancora divisa offusca l'immagine di un Paese civile",
@@ -316,6 +316,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ucraina, esplosioni a Kiev: 'Almeno 9 morti e 23 feriti. Danneggiata l'ambasciata lituana'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti.-danneggiata-lambasciata-lituana_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
+     "data": "2026-08-01T12:38:35+00:00"
+    },
+    {
+     "titolo": "L'ex presidente del Perù lascia il carcere e torna libero",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/lex-presidente-del-peru-lascia-il-carcere-e-torna-libero_4147e942-6d8a-4c2c-821f-870e18c63fae.html",
+     "data": "2026-08-01T12:35:12+00:00"
+    },
+    {
      "titolo": "In Venezuela approvata una legge per agevolare gli affitti ai terremotati",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/in-venezuela-approvata-una-legge-per-agevolare-gli-affitti-ai-terremotati_a410a7bf-5d78-4fa8-a70d-75afb480f292.html",
      "data": "2026-08-01T11:27:22+00:00"
@@ -329,11 +339,6 @@
      "titolo": "Il Perù annuncia l'adesione allo 'Scudo delle Americhe' di Trump",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/il-peru-annuncia-ladesione-allo-scudo-delle-americhe-di-trump_1622622d-b1ac-4f2e-8f1c-d867423e6c96.html",
      "data": "2026-08-01T11:07:41+00:00"
-    },
-    {
-     "titolo": "Ucraina, esplosioni a Kiev: 'Almeno 9 morti e 23 feriti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
-     "data": "2026-08-01T10:30:23+00:00"
     },
     {
      "titolo": "La situazione nell'enclave spagnola di Ceuta è tornata quasi alla normalità.",
@@ -369,11 +374,6 @@
      "titolo": "Cnn, nessun segnale che Israele parteciperà al nuovo attacco Usa contro l'Iran",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/01/cnn-nessun-segnale-che-israele-partecipera-al-nuovo-attacco-usa-contro_d1a6cd26-a250-4325-8471-62e4dba8c08c.html",
      "data": "2026-08-01T08:54:00+00:00"
-    },
-    {
-     "titolo": "Salgono a 67 i migranti morti tentando di arrivare a nuoto a Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/salgono-a-67-i-migranti-morti-tentando-di-arrivare-a-nuoto-a-ceuta_872bd3e0-06f8-4279-bb3b-b28fde4657b6.html",
-     "data": "2026-08-01T07:48:57+00:00"
     }
    ]
   },
@@ -446,6 +446,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Torino: Torino, il 5 agosto nuovo test a porte aperte a Filadelfia",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/torino-torino-il-5-agosto-nuovo-test-a-porte-aperte-a-filadelfia_e1ca4652-a015-4108-9a18-a3a038a675a2.html",
+     "data": "2026-08-01T12:33:35+00:00"
+    },
+    {
      "titolo": "Roma: Koulierakis è arrivato nella Capitale",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/roma-koulierakis-e-arrivato-nella-capitale_739c6b2d-e0de-4b92-aebf-ff18eb1987cf.html",
      "data": "2026-08-01T11:23:35+00:00"
@@ -486,9 +491,9 @@
      "data": "2026-08-01T08:10:10+00:00"
     },
     {
-     "titolo": "Tennis: a Washington Musetti esce nei quarti con Jodar",
+     "titolo": "Tennis: Musetti si arrende a Jodar e saluta l'Atp di Washington, ora Montreal",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/01/tennis-a-washington-musetti-esce-nei-quarti-con-jodar_1c5134cf-9de7-488f-9318-568b772922bd.html",
-     "data": "2026-08-01T10:19:57+00:00"
+     "data": "2026-08-01T12:27:53+00:00"
     },
     {
      "titolo": "Retromarcia di Infantino, stop al Mondiale aperto a capitali privati",
@@ -499,11 +504,6 @@
      "titolo": "Retromarcia di Infantino, stop al Mondiale aperto a capitali privati",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/retromarcia-di-infantino-stop-al-mondiale-aperto-a-capitali-privati_4e3b9d3d-7b56-4786-a1fb-bcd239ca82df.html",
      "data": "2026-08-01T07:57:46+00:00"
-    },
-    {
-     "titolo": "Investito da un'auto, Roglic si ritira dalla Clásica San Sebastián",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/07/31/investito-da-unauto-roglic-si-ritira-dalla-clasica-san-sebastian_8861369c-d277-435d-9551-54de668296f2.html",
-     "data": "2026-07-31T21:25:58+00:00"
     }
    ]
   }
