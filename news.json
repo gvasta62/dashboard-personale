@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-01T22:17:06.654338+00:00",
+ "aggiornato": "2026-08-01T23:24:12.480912+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Araghchi mette in guardia contro 'qualsiasi azione avventuristica' degli Usa",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/araghchi-mette-in-guardia-contro-qualsiasi-azione-avventuristica-degli-usa_28a8f2fc-9efa-435b-bb07-6a114ad799e1.html",
+     "data": "2026-08-01T22:20:18+00:00"
+    },
     {
      "titolo": "Addio all'attore Vincent Pastore, una delle star dei Soprano",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/addio-allattore-vincent-pastore-una-delle-star-dei-soprano_90a0c4fb-e4df-4ccd-b8fd-c4ee9e543107.html",
@@ -49,11 +54,6 @@
      "titolo": "Sanchez vola a Lanzarote per le vacanze e posta sui social sua playlist",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/sanchez-vola-a-lanzarote-per-le-vacanze-e-posta-sui-social-sua-playlist_1666efbd-3354-4bb7-907b-10ed287db9b5.html",
      "data": "2026-08-01T18:39:16+00:00"
-    },
-    {
-     "titolo": "Edificio crollato a Messina, ci sono 3 indagati",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/edificio-crollato-a-messina-ci-sono-3-indagati_63fb3dda-0326-40b6-b875-2e60e1ab7888.html",
-     "data": "2026-08-01T18:33:13+00:00"
     }
    ]
   },
@@ -296,6 +296,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Araghchi mette in guardia contro 'qualsiasi azione avventuristica' degli Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/02/araghchi-mette-in-guardia-contro-qualsiasi-azione-avventuristica-degli-usa_1f4790ca-1dea-4bc9-b8f8-cfac4df85db0.html",
+     "data": "2026-08-01T22:20:36+00:00"
+    },
+    {
      "titolo": "Addio all'attore Vincent Pastore, una delle star dei Soprano",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/02/addio-allattore-vincent-pastore-una-delle-star-dei-soprano_fe789955-1adb-47d5-81de-9d8bd6468235.html",
      "data": "2026-08-01T22:11:17+00:00"
@@ -349,11 +354,6 @@
      "titolo": "Sanchez assediato dall'opposizione, 'ha fallito'. Ma lui va in vacanza",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/sanchez-assediato-dallopposizione-triplice-fallimento-del-governo_29eed2ed-3f50-42a7-ae01-9762373ec307.html",
      "data": "2026-08-01T18:59:42+00:00"
-    },
-    {
-     "titolo": "Petro chiede agli Usa di non invadere Cuba, 'è l'ora del dialogo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/petro-chiede-agli-usa-di-non-invadere-cuba-e-lora-del-dialogo_67befeb3-9453-410d-987b-778752bdb2a1.html",
-     "data": "2026-08-01T17:12:32+00:00"
     }
    ]
   },
