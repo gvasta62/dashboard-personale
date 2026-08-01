@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-01T20:02:07.867237+00:00",
+ "aggiornato": "2026-08-01T21:13:26.258374+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, '7 italiani tra le vittime dello schianto aereo turistico in Perù'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/media-7-italiani-tra-le-vittime-dello-schianto-aereo-turistico-in-peru_c9b81f71-63be-4e4a-801e-e1c731b02632.html",
+     "data": "2026-08-01T21:03:33+00:00"
+    },
+    {
+     "titolo": "++ Antiterrorismo russo, 'esplosione a Mosca causata da ordigno artigianale' ++",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/-antiterrorismo-russo-esplosione-a-mosca-causata-da-ordigno-artigianale-_2817b89f-a54c-46e5-8ecd-01823d16d32d.html",
+     "data": "2026-08-01T20:57:29+00:00"
+    },
+    {
+     "titolo": "Antiterrorismo russo, 'esplosione a Mosca causata da ordigno artigianale'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/antiterrorismo-russo-esplosione-a-mosca-causata-da-ordigno-artigianale_89bc547a-908b-44de-84fa-3dfbaeb6515c.html",
+     "data": "2026-08-01T20:49:37+00:00"
+    },
+    {
+     "titolo": "Precipita un piccolo aereo turistico nel sud del Perù, 13 morti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/precipita-un-piccolo-aereo-turistico-nel-sud-del-peru-13-morti_b0ec49fe-c596-46bc-b060-c5b1b6da1890.html",
+     "data": "2026-08-01T20:05:30+00:00"
+    },
     {
      "titolo": "Media russi, 'nel locale di Mosca era in corso una festa con un generale'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/media-russi-nel-locale-di-mosca-era-in-corso-una-festa-con_dad365d0-2083-435d-a703-a8e7af476cc4.html",
@@ -34,26 +54,6 @@
      "titolo": "Petro chiede agli Usa di non invadere Cuba, 'è l'ora del dialogo'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/petro-chiede-agli-usa-di-non-invadere-cuba-e-lora-del-dialogo_58f1ecce-4fad-428a-92e6-b770a30ea881.html",
      "data": "2026-08-01T17:12:13+00:00"
-    },
-    {
-     "titolo": "Valditara, divieto burqa a scuola per la dignità delle donne",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/valditara-divieto-burqa-a-scuola-per-la-dignita-delle-donne_2fed8bb9-d6ec-49ae-b600-7e30513ebbe4.html",
-     "data": "2026-08-01T17:10:28+00:00"
-    },
-    {
-     "titolo": "Sindacato polizia, con controlli alle frontiere rischio paralisi scali",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/sindacato-polizia-con-controlli-alle-frontiere-rischio-paralisi-scali_ff6dc52e-6891-403c-b199-672f2a6f9144.html",
-     "data": "2026-08-01T17:07:23+00:00"
-    },
-    {
-     "titolo": "Il noto oppositore Said Saadi torna in Algeria dopo sette anni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/il-noto-oppositore-said-saadi-torna-in-algeria-dopo-sette-anni_364f752c-93b2-4fd0-b25b-d90c1b4a5e79.html",
-     "data": "2026-08-01T17:04:55+00:00"
-    },
-    {
-     "titolo": "Martedì la videocall dei ministri degli Interni Ue su Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/martedi-la-videocall-dei-ministri-degli-interni-ue-su-ceuta_0fed0feb-182f-4ae6-b661-311887079792.html",
-     "data": "2026-08-01T15:33:43+00:00"
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "titolo": "Meloni e 21 leader Ue: 'Vertice su Ceuta'. E' scontro con Sanchez",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/meloni-e-21-leader-ue-vertice-su-ceuta.-e-scontro-con-sanchez_dab85127-0560-4ac1-8fcb-789013fbbad4.html",
-     "data": "2026-08-01T19:08:42+00:00"
+     "data": "2026-08-01T19:59:13+00:00"
     },
     {
      "titolo": "No Tav: 'Rompiamo l'assedio, usciremo dal presidio di Venaus'",
@@ -296,6 +296,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ordigno contro un ristorante a Mosca: 3 morti e 15 feriti, 'c'era un generale'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ordigno-contro-un-ristorante-a-mosca-3-morti-e-15-feriti-cera-un-generale_9a95d02a-69a3-4695-b559-d34f31423b96.html",
+     "data": "2026-08-01T21:10:37+00:00"
+    },
+    {
+     "titolo": "Piccolo aereo turistico si schianta in Perù, 7 italiani tra i 13 morti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/piccolo-aereo-turistico-si-schianta-in-peru-7-italiani-tra-i-13-morti_c83b925c-2fc9-4b66-94bf-b0a73a568502.html",
+     "data": "2026-08-01T21:03:52+00:00"
+    },
+    {
+     "titolo": "Media, '7 italiani tra le vittime dello schianto aereo turistico in Perù'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/media-7-italiani-tra-le-vittime-dello-schianto-aereo-turistico-in-peru_d7f4aeac-8eee-48d5-8d8e-324278d01b0f.html",
+     "data": "2026-08-01T21:03:46+00:00"
+    },
+    {
+     "titolo": "Antiterrorismo russo, 'esplosione a Mosca causata da ordigno artigianale'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/antiterrorismo-russo-esplosione-a-mosca-causata-da-ordigno-artigianale_fa728545-ee74-47a7-9b06-f3afa12e6863.html",
+     "data": "2026-08-01T20:49:50+00:00"
+    },
+    {
+     "titolo": "Precipita un piccolo aereo turistico nel sud del Perù, 13 morti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/precipita-un-piccolo-aereo-turistico-nel-sud-del-peru-13-morti_d466d553-ee30-4c5a-b04a-abe5222f8322.html",
+     "data": "2026-08-01T20:05:43+00:00"
+    },
+    {
      "titolo": "Media russi, 'nel locale di Mosca era in corso una festa con un generale'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/media-russi-nel-locale-di-mosca-era-in-corso-una-festa-con_e555eea6-f051-41c1-bd0b-9dab81cecee9.html",
      "data": "2026-08-01T19:51:53+00:00"
@@ -311,11 +336,6 @@
      "data": "2026-08-01T18:13:37+00:00"
     },
     {
-     "titolo": "Esplosione in un ristorante a Mosca: 3 morti e 15 feriti, 'c'era un generale'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/01/esplosione-in-un-caffe-a-mosca-3-morti-e-15-feriti_9a95d02a-69a3-4695-b559-d34f31423b96.html",
-     "data": "2026-08-01T19:45:21+00:00"
-    },
-    {
      "titolo": "Sanchez assediato dall'opposizione, 'ha fallito'. Ma lui va in vacanza",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/sanchez-assediato-dallopposizione-triplice-fallimento-del-governo_29eed2ed-3f50-42a7-ae01-9762373ec307.html",
      "data": "2026-08-01T18:59:42+00:00"
@@ -328,32 +348,12 @@
     {
      "titolo": "Ceuta, la paura dei residenti e la rabbia dei giovani respinti",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ceuta-la-paura-dei-residenti-e-la-rabbia-dei-giovani-respinti_5cb7bd79-cf95-4363-bf8a-af0a3b9c5d5d.html",
-     "data": "2026-08-01T18:59:59+00:00"
+     "data": "2026-08-01T19:58:15+00:00"
     },
     {
      "titolo": "Lula, 'finché sarò vivo l'estrema destra non governerà più il Brasile'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/lula-finche-saro-vivo-lestrema-destra-non-governera-piu-il-brasile_78cbefd9-10f0-4f14-885d-8e763f3f6ba3.html",
      "data": "2026-08-01T15:43:31+00:00"
-    },
-    {
-     "titolo": "Martedì la videocall dei ministri degli Interni Ue su Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/martedi-la-videocall-dei-ministri-degli-interni-ue-su-ceuta_766d1540-2c8b-4d85-97df-4de65a1f977d.html",
-     "data": "2026-08-01T15:33:41+00:00"
-    },
-    {
-     "titolo": "Martedì la videocall dei ministri degli Interni Ue su Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/01/martedi-la-videocall-dei-ministri-degli-interni-ue-su-ceuta_9f0b769c-2337-4a8b-ab69-56bba27a0b36.html",
-     "data": "2026-08-01T15:33:43+00:00"
-    },
-    {
-     "titolo": "Autobomba esplode in Colombia, 11 feriti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/autobomba-esplode-in-colombia-11-feriti_20e03b05-44a2-49c6-a48a-a9dab5a74a6f.html",
-     "data": "2026-08-01T14:03:38+00:00"
-    },
-    {
-     "titolo": "Ambasciate Usa agli americani, 'valutare possibilità di lasciare il Medio Oriente'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/01/ambasciate-usa-agli-americani-valutare-possibilita-di-lasciare-il-medio-oriente_80041c64-6903-45a6-bfef-c576e05fd133.html",
-     "data": "2026-08-01T13:47:48+00:00"
     }
    ]
   },
@@ -426,6 +426,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei: Marsaglia quarto nel trampolino 1m, azzurre seste dalla piattaforma 10m",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/01/europei-marsaglia-quarto-nel-trampolino-1m-azzurre-seste-dalla-piattaforma_c4e95d17-020b-4acc-ab7d-c13e5f2a93df.html",
+     "data": "2026-08-01T20:59:32+00:00"
+    },
+    {
      "titolo": "Serie A: ufficiale Koulierakis alla Roma, al Wolfsburg 17 milioni",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/serie-a-ufficiale-koulierakis-alla-roma-al-wolfsburg-17-milioni_d95afbb7-1f8e-4b08-9290-cf116332f0bf.html",
      "data": "2026-08-01T19:45:30+00:00"
@@ -479,11 +484,6 @@
      "titolo": "L'Udinese pareggia 3-3 con il Magonza, Zaniolo in gol",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/ludinese-pareggia-3-3-con-il-magonza-zaniolo-in-gol_4e11a8d3-b9a4-458d-871e-52d0bfe13e72.html",
      "data": "2026-08-01T18:09:19+00:00"
-    },
-    {
-     "titolo": "Lorena Wiebes vince la prima tappa del Tour femminile",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/01/lorena-wiebes-vince-la-prima-tappa-del-tour-femminile_26904401-cec8-44ca-9681-049a7489aa7c.html",
-     "data": "2026-08-01T16:25:08+00:00"
     }
    ]
   }
