@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-01T14:24:21.391957+00:00",
+ "aggiornato": "2026-08-01T15:32:25.239080+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -61,6 +61,11 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Al Calvi Festival la presentazione del libro 'Erano donne' di Gioia Costa",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/01/al-calvi-festival-la-presentazione-del-libro-erano-donne-di-gioia-costa_be14bd72-8752-49ca-85e2-b1b3e120f072.html",
+     "data": "2026-08-01T14:26:33+00:00"
+    },
+    {
      "titolo": "Giovani di tutto il mondo in cammino ad Assisi sulle orme di San Francesco",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/01/giovani-di-tutto-il-mondo-in-cammino-ad-assisi-sulle-orme-di-san-francesco_e9987155-325a-445d-928f-156eabe34749.html",
      "data": "2026-08-01T13:03:30+00:00"
@@ -81,9 +86,9 @@
      "data": "2026-08-01T11:29:31+00:00"
     },
     {
-     "titolo": "Procura Perugia, fascicolo omicidio colposo per musicista morto in hotel",
+     "titolo": "Musicista muore in hotel a Perugia, si sospetta il monossido di carbonio",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/01/procura-perugia-fascicolo-omicidio-colposo-per-musicista-morto-in-hotel_c0de4a67-dd31-4c8c-b1f4-8274f3e734e2.html",
-     "data": "2026-08-01T12:07:48+00:00"
+     "data": "2026-08-01T14:30:37+00:00"
     },
     {
      "titolo": "Camera commercio, Umbria delle imprese migliora ma procede a due velocità",
@@ -114,17 +119,37 @@
      "titolo": "Simonetti, nuovo ospedale di Terni diventi uno dei poli sanitari più moderni",
      "link": "https://www.ansa.it/umbria/notizie/2026/07/31/simonetti-nuovo-ospedale-di-terni-diventi-uno-dei-poli-sanitari-piu_7e8137ab-021e-4e9d-b71b-c00703480f89.html",
      "data": "2026-07-31T16:06:20+00:00"
-    },
-    {
-     "titolo": "Opposizione Regione, sul nuovo ospedale di Terni solo propaganda",
-     "link": "https://www.ansa.it/umbria/notizie/2026/07/31/opposizione-regione-sul-nuovo-ospedale-di-terni-solo-propaganda_87899ad3-0da3-4ee2-91ae-071a752a2e11.html",
-     "data": "2026-07-31T15:54:51+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Folgorato alle ferriere, operaio gravissimo in Friuli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/folgorato-alle-ferriere-operaio-gravissimo-in-friuli_4d2e2f70-d2c5-48a5-8097-7ef8428c001d.html",
+     "data": "2026-08-01T15:09:37+00:00"
+    },
+    {
+     "titolo": "Uomo schiacciato fra le porte di un treno, è in gravissime condizioni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/uomo-schiacciato-fra-le-porte-di-un-treno-e-in-gravissime-condizioni_a920f5a0-d865-4483-a93a-9cd8519dc8b7.html",
+     "data": "2026-08-01T15:07:12+00:00"
+    },
+    {
+     "titolo": "Tre Canadair per domare fiamme nel Sassarese, uno in avaria",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/tre-canadair-per-domare-fiamme-nel-sassarese-uno-in-avaria_3da0cf0f-3927-4236-8670-19806e20c419.html",
+     "data": "2026-08-01T15:06:56+00:00"
+    },
+    {
+     "titolo": "Cucciolo investito, la polizia scorta i proprietari dal veterinario",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/cucciolo-investito-la-polizia-scorta-i-proprietari-dal-veterinario_38dbb2fc-2940-4acf-926a-e452173d4b17.html",
+     "data": "2026-08-01T15:00:37+00:00"
+    },
+    {
+     "titolo": "Trovati altri due corpi senza vita nell'edificio crollato a Messina",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/trovati-altri-due-corpi-senza-vita-nelledificio-crollato-a-messina_1ce25cee-2957-4946-9f7a-1b17758c72d6.html",
+     "data": "2026-08-01T14:41:04+00:00"
+    },
     {
      "titolo": "No Tav, 'domani usciremo dal presidio di Venaus, rompiamo l'assedio'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/no-tav-domani-usciremo-dal-presidio-di-venaus-rompiamo-lassedio_37749c52-fb8d-432b-8c11-db0d0c27e2b0.html",
@@ -146,11 +171,6 @@
      "data": "2026-08-01T14:10:46+00:00"
     },
     {
-     "titolo": "Cucciolo di cane ferito, la polizia scorta i padroni alla clinica veterinaria",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/cucciolo-di-cane-ferito-la-polizia-scorta-i-padroni-alla-clinica-veterinaria_38dbb2fc-2940-4acf-926a-e452173d4b17.html",
-     "data": "2026-08-01T14:07:20+00:00"
-    },
-    {
      "titolo": "Uccide a coltellate la madre malata, attesa la convalida dell'arresto",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/uccide-a-coltellate-la-madre-malata-attesa-la-convalida-dellarresto-_b159875e-4615-4351-a5cf-fb0ad4bee6fd.html",
      "data": "2026-08-01T14:05:42+00:00"
@@ -164,26 +184,6 @@
      "titolo": "A Modena via libera all'Ai per scrivere le tesi di laurea",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/a-modena-via-libera-allai-per-scrivere-le-tesi-di-laurea_7a2311d7-0e03-4737-a34a-292d9769bc2b.html",
      "data": "2026-08-01T14:01:51+00:00"
-    },
-    {
-     "titolo": "Giovane aggredita nel parco a Bari 'di nuovo accerchiata e insultata'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/giovane-aggredita-nel-parco-a-bari-di-nuovo-accerchiata-e-insultata_672c19b8-6086-40a5-b18d-a2c40f4d9d02.html",
-     "data": "2026-08-01T13:59:38+00:00"
-    },
-    {
-     "titolo": "Aveva un amo conficcato nella bocca, salvata una tartaruga su una spiaggia del Lazio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/aveva-un-amo-conficcato-nella-bocca-salvata-una-tartaruga-su-una-spiaggia_9345deb3-7fa5-44ad-bd66-4fa81bdb0b95.html",
-     "data": "2026-08-01T13:50:27+00:00"
-    },
-    {
-     "titolo": "Disabile aggredito e ferito con la punta arroventata di una matita, indagati due sedicenni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/disabile-aggredito-e-ferito-con-la-punta-arroventata-di-una-matita-indagati-due_95779968-c291-4416-b72e-6bc6f0c457e2.html",
-     "data": "2026-08-01T13:30:12+00:00"
-    },
-    {
-     "titolo": "Era ricercato per rapina aggravata in Pakistan, 28enne arrestato a Otranto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/era-ricercato-per-rapina-aggravata-in-pakistan-28enne-arrestato-a-otranto_ebe89ecc-8a8e-413c-9624-7ef20b687881.html",
-     "data": "2026-08-01T13:45:26+00:00"
     }
    ]
   },
@@ -235,6 +235,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Il caldo soffoca cozze e vongole mentre il granchio blu si moltiplica senza sosta",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/il-caldo-soffoca-cozze-e-vongole-mentre-il-granchio-blu-si-moltiplica-senza-sosta_3cf5b791-6e0a-4b3a-9017-8d19a9a2e3dd.html",
+     "data": "2026-08-01T15:04:41+00:00"
+    },
     {
      "titolo": "Abi, protezione utenti priorità settore, seguire regole per operare online",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/abi-protezione-utenti-priorita-settore-seguire-regole-per-operare-online_fc657c76-13ac-47f3-ad80-a229b9c9fa29.html",
@@ -289,11 +294,6 @@
      "titolo": "Salta il matrimonio Mps-Bpm, il freno dell'Agricole",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/salta-il-matrimonio-mps-bpm-il-freno-dellagricole_8989314a-7c41-422c-9357-79578b75e8c8.html",
      "data": "2026-07-31T21:31:40+00:00"
-    },
-    {
-     "titolo": "Mps prende atto della decisione del Banco, 'valuteremo ogni opzione'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/07/31/mps-prende-atto-della-decisione-del-banco-valuteremo-ogni-opzione_0aabcef8-3537-40e2-9884-b9123a6a4c76.html",
-     "data": "2026-07-31T20:15:43+00:00"
     }
    ]
   },
@@ -431,6 +431,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Volley: Nations League, gli Usa battono il Giappone e conquistano la finale",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/01/volley-nations-league-gli-usa-battono-il-giappone-e-conquistano-la-finale_6205e262-0b98-4351-85cf-a32f4651d349.html",
+     "data": "2026-08-01T15:17:16+00:00"
+    },
+    {
+     "titolo": "Atletica: Europei in dubbio per Tortu, 'deciderò il 4 agosto'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/01/atletica-europei-in-dubbio-per-tortu-decidero-il-4-agosto_e6cc74b8-aaf1-4b4b-bd4d-9bdb42576e43.html",
+     "data": "2026-08-01T15:18:40+00:00"
+    },
+    {
+     "titolo": "Evenepoel vince la Classica di San Sebastian davanti a Carapaz",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/01/evenepoel-vince-la-classica-di-san-sebastian-davanti-a-carapaz_42aaf095-c75a-42b3-a88b-8a65f8633e6d.html",
+     "data": "2026-08-01T15:17:52+00:00"
+    },
+    {
+     "titolo": "Europei: nuoto artistico, Pelati e Ruggiero bronzo nel duo libero misto",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/01/europei-nuoto-artistico-pelati-e-ruggiero-bronzo-nel-duo-libero-misto_8b602343-3c15-4f1d-a595-f863343fb4dc.html",
+     "data": "2026-08-01T15:19:36+00:00"
+    },
+    {
      "titolo": "Federcalcio Germania: 'Fare indagine completa sulla proposta della Fifa'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/federcalcio-germania-fare-indagine-completa-sulla-proposta-della-fifa_0b863bd7-e187-4533-866c-c1cf5ab0a944.html",
      "data": "2026-08-01T14:00:18+00:00"
@@ -469,26 +489,6 @@
      "titolo": "Esposito lascia il ritiro del Cagliari, l'ira del club",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/esposito-lascia-il-ritiro-del-cagliari-lira-del-club_f5c993af-e4bf-4773-9647-437169800120.html",
      "data": "2026-08-01T13:39:49+00:00"
-    },
-    {
-     "titolo": "Atletica: Mondiali U.20, azzurrini in partenza da Fiumicino verso il sogno iridato",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/01/atletica-mondiali-u.20-azzurrini-in-partenza-da-fiumicino-verso-il-sogno-iridato_7f5c4830-0903-49ba-b8ed-454859b25f3a.html",
-     "data": "2026-08-01T10:42:35+00:00"
-    },
-    {
-     "titolo": "Uefa: 'L'attuale dirigenza della Fifa ha perso la nostra fiducia'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/uefa-lattuale-dirigenza-della-fifa-ha-perso-la-nostra-fiducia_f853b8cd-2b08-45bd-92b2-d38e12e09684.html",
-     "data": "2026-08-01T13:58:29+00:00"
-    },
-    {
-     "titolo": "Lazio, Gattuso: 'Ora alziamo l'asticella e con Taylor tutto ok dopo 30 minuti'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/lazio-gattuso-ora-alziamo-lasticella-e-con-taylor-tutto-ok-dopo-30-minuti_3b8190b0-6216-4ef9-84c0-369921fbfd12.html",
-     "data": "2026-08-01T13:37:29+00:00"
-    },
-    {
-     "titolo": "La Uefa \"accoglie con favore\" il ritiro del piano Fifa sull'ingresso di privati",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/la-uefa-accoglie-con-favore-il-ritiro-del-piano-fifa-sullingresso-di-privati_91eb2448-09b4-4297-8169-a80a34fd1213.html",
-     "data": "2026-08-01T10:30:48+00:00"
     }
    ]
   }
