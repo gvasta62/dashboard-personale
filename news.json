@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-01T18:46:33.380904+00:00",
+ "aggiornato": "2026-08-01T20:02:07.867237+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media russi, 'nel locale di Mosca era in corso una festa con un generale'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/media-russi-nel-locale-di-mosca-era-in-corso-una-festa-con_dad365d0-2083-435d-a703-a8e7af476cc4.html",
+     "data": "2026-08-01T19:51:40+00:00"
+    },
+    {
+     "titolo": "Precipitò da una terrazza a Roma, 'è stato un femminicidio'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/precipito-da-una-terrazza-a-roma-e-stato-un-femminicidio_927479df-95bc-48be-bd2f-eef269b6b37d.html",
+     "data": "2026-08-01T18:52:18+00:00"
+    },
     {
      "titolo": "Sanchez vola a Lanzarote per le vacanze e posta sui social sua playlist",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/sanchez-vola-a-lanzarote-per-le-vacanze-e-posta-sui-social-sua-playlist_1666efbd-3354-4bb7-907b-10ed287db9b5.html",
@@ -44,16 +54,6 @@
      "titolo": "Martedì la videocall dei ministri degli Interni Ue su Ceuta",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/martedi-la-videocall-dei-ministri-degli-interni-ue-su-ceuta_0fed0feb-182f-4ae6-b661-311887079792.html",
      "data": "2026-08-01T15:33:43+00:00"
-    },
-    {
-     "titolo": "Ambasciate Usa agli americani, 'valutare possibilità di lasciare il Medio Oriente'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/ambasciate-usa-agli-americani-valutare-possibilita-di-lasciare-il-medio-oriente_85bf1273-4deb-448e-a208-a50dee52330a.html",
-     "data": "2026-08-01T13:47:48+00:00"
-    },
-    {
-     "titolo": "Media, altri 17 corpi recuperati sul lato marocchino della costa a Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/media-altri-17-corpi-recuperati-sul-lato-marocchino-della-costa-a-ceuta_d0833b66-af48-4ad9-b8a2-d2bcb1c0094f.html",
-     "data": "2026-08-01T11:20:53+00:00"
     }
    ]
   },
@@ -126,19 +126,49 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Precipitò da una terrazza a Roma, spunta l'ipotesi di un femminicidio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/precipito-da-una-terrazza-a-roma-spunta-lipotesi-di-un-femminicidio_336fea78-2204-4ffe-bb14-896273f9e6a5.html",
+     "data": "2026-08-01T19:36:27+00:00"
+    },
+    {
+     "titolo": "Ci sono i primi indagati  sul crollo di Messina, ancora tre dispersi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/ci-sono-i-primi-indagati-sul-crollo-di-messina-ancora-tre-dispersi_1ce25cee-2957-4946-9f7a-1b17758c72d6.html",
+     "data": "2026-08-01T19:33:27+00:00"
+    },
+    {
+     "titolo": "Incendi in Abruzzo, brucia ancora la vegetazione nell'Aquilano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/incendi-in-abruzzo-brucia-ancora-la-vegetazione-nellaquilano_54a473ad-7f03-4bc4-a976-74ac50432f02.html",
+     "data": "2026-08-01T19:11:18+00:00"
+    },
+    {
+     "titolo": "Precipitò da una terrazza a Roma, 'è stato un femminicidio'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/precipito-da-una-terrazza-a-roma-e-stato-un-femminicidio_6d92bd79-81a0-4c3d-b67a-681ecc07ab5f.html",
+     "data": "2026-08-01T18:52:18+00:00"
+    },
+    {
+     "titolo": "Incubo terremoto a Pozzuoli, in centinaia ora sono senza casa",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/incubo-terremoto-a-pozzuoli-in-centinaia-ora-sono-senza-casa_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html",
+     "data": "2026-08-01T19:14:37+00:00"
+    },
+    {
+     "titolo": "Da Bellocchio a Verdone, appello della cultura a sostegno di Spin Time",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/da-bellocchio-a-verdone-appello-della-cultura-a-sostegno-di-spin-time_fd888e27-1e93-4d9a-924f-82558b17b4ee.html",
+     "data": "2026-08-01T18:44:31+00:00"
+    },
+    {
      "titolo": "Edificio crollato a Messina, ci sono 3 indagati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/edificio-crollato-a-messina-ci-sono-3-indagati_1d209eb7-1689-4db4-9db1-b29d257c8fad.html",
      "data": "2026-08-01T18:33:32+00:00"
     },
     {
+     "titolo": "Chiuso il porto di Pozzuoli, sabato nero per i turisti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/chiuso-il-porto-di-pozzuoli-sabato-nero-per-i-turisti_10b3022f-ff0b-4500-8e92-ac8a616e9e49.html",
+     "data": "2026-08-01T18:52:51+00:00"
+    },
+    {
      "titolo": "Autostrade Alto Adriatico, 'sabato da grande esodo'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/autostrade-alto-adriatico-sabato-da-grande-esodo_5042ea01-edd5-4505-adc0-8ffcab6a3163.html",
      "data": "2026-08-01T18:06:11+00:00"
-    },
-    {
-     "titolo": "Ci sono i primi indagati per omicidio colposo, altro corpo estratto dalle macerie: ancora tre i dispersi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/ci-sono-i-primi-indagati-per-omicidio-colposo-altro-corpo-estratto-dalle_1ce25cee-2957-4946-9f7a-1b17758c72d6.html",
-     "data": "2026-08-01T17:57:33+00:00"
     },
     {
      "titolo": "Grossa colata di fango a San Vigilio di Marebbe in val Badia",
@@ -154,36 +184,6 @@
      "titolo": "Fuga di monossido in un hotel di Perugia, morto un musicista. Due indagati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/fuga-di-monossido-in-un-hotel-di-perugia-morto-un-musicista.-due-indagati_c7230e17-2b2c-4ba1-a688-164e51c3e320.html",
      "data": "2026-08-01T17:23:35+00:00"
-    },
-    {
-     "titolo": "Precipitò da una terrazza a Roma, 'è stato un femminicidio'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/precipito-da-una-terrazza-a-roma-e-stato-un-femminicidio_336fea78-2204-4ffe-bb14-896273f9e6a5.html",
-     "data": "2026-08-01T17:15:49+00:00"
-    },
-    {
-     "titolo": "Valditara, divieto burqa a scuola per la dignità delle donne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/valditara-divieto-burqa-a-scuola-per-la-dignita-delle-donne_ec5093a7-7a97-4308-9d9c-0253b027008c.html",
-     "data": "2026-08-01T17:10:28+00:00"
-    },
-    {
-     "titolo": "Sindacato polizia, con controlli alle frontiere rischio paralisi scali",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/sindacato-polizia-con-controlli-alle-frontiere-rischio-paralisi-scali_7191a55d-4196-429f-bc87-3a9e3e74a2fd.html",
-     "data": "2026-08-01T17:07:28+00:00"
-    },
-    {
-     "titolo": "La strage di Bologna 46 anni fa, la città 'ferita' in piazza anche per Fakir",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/la-strage-di-bologna-46-anni-fa-la-citta-ferita-in-piazza-anche-per-fakir_b9a1fa2f-942b-4a65-8852-2cb2dff2faf7.html",
-     "data": "2026-08-01T17:03:58+00:00"
-    },
-    {
-     "titolo": "Da Bellocchio a Verdone, appello della cultura a sostegno di Spin Time",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/da-bellocchio-a-verdone-appello-della-cultura-a-sostegno-di-spin-time_fd888e27-1e93-4d9a-924f-82558b17b4ee.html",
-     "data": "2026-08-01T16:42:47+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-08-01T16:38:22+00:00"
     }
    ]
   },
@@ -191,14 +191,24 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Valditara: 'Il divieto di burqa a scuola per riaffermare la dignità delle donne'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/valditara-il-divieto-di-burqa-a-scuola-per-riaffermare-la-dignita-delle-donne_96dce8bc-ba56-4eec-81fb-3060089a4a5d.html",
+     "data": "2026-08-01T19:03:16+00:00"
+    },
+    {
+     "titolo": "Le opposizioni attaccano, 'la premier riferisca alle Camere'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/le-opposizioni-attaccano-la-premier-riferisca-alle-camere_564b03eb-5492-41b9-bc6c-123a4664a2be.html",
+     "data": "2026-08-01T19:04:47+00:00"
+    },
+    {
+     "titolo": "Meloni e 21 leader Ue: 'Vertice su Ceuta'. E' scontro con Sanchez",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/meloni-e-21-leader-ue-vertice-su-ceuta.-e-scontro-con-sanchez_dab85127-0560-4ac1-8fcb-789013fbbad4.html",
+     "data": "2026-08-01T19:08:42+00:00"
+    },
+    {
      "titolo": "No Tav: 'Rompiamo l'assedio, usciremo dal presidio di Venaus'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/no-tav-rompiamo-lassedio-usciremo-dal-presidio-di-venaus_71f877a0-601e-44ee-aa77-5765e15682c5.html",
      "data": "2026-08-01T18:41:29+00:00"
-    },
-    {
-     "titolo": "Valditara: 'Divieto di burqa a scuola per la dignità delle donne'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/valditara-divieto-di-burqa-a-scuola-per-la-dignita-delle-donne_96dce8bc-ba56-4eec-81fb-3060089a4a5d.html",
-     "data": "2026-08-01T17:13:46+00:00"
     },
     {
      "titolo": "Dal ddl caccia al Safe, rush del Parlamento prima delle ferie",
@@ -214,11 +224,6 @@
      "titolo": "Italia e Danimarca promuovono lettera alla Ue su Ceuta, firmano in 22",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/italia-e-danimarca-promuovono-lettera-alla-ue-su-ceuta-firmano-in-22_2571360b-9f57-4e0e-86a2-e48bc1b5c660.html",
      "data": "2026-08-01T09:47:07+00:00"
-    },
-    {
-     "titolo": "L'Italia blocca Schengen con la Spagna per un mese, tensione Meloni-Sanchez",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/07/31/litalia-blocca-schengen-con-la-spagna-per-un-mese-tensione-meloni-sanchez_5561039f-ead8-4f8f-b3a2-6ca7062f84a9.html",
-     "data": "2026-07-31T19:36:48+00:00"
     }
    ]
   },
@@ -291,6 +296,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Media russi, 'nel locale di Mosca era in corso una festa con un generale'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/media-russi-nel-locale-di-mosca-era-in-corso-una-festa-con_e555eea6-f051-41c1-bd0b-9dab81cecee9.html",
+     "data": "2026-08-01T19:51:53+00:00"
+    },
+    {
      "titolo": "Sanchez vola a Lanzarote per le vacanze e posta sui social sua playlist",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/sanchez-vola-a-lanzarote-per-le-vacanze-e-posta-sui-social-sua-playlist_0a7ff58b-3ad4-4909-a594-7f3b31bcccfe.html",
      "data": "2026-08-01T18:39:19+00:00"
@@ -301,14 +311,14 @@
      "data": "2026-08-01T18:13:37+00:00"
     },
     {
-     "titolo": "Esplosione in un caffè a Mosca, 3 morti e 15 feriti",
+     "titolo": "Esplosione in un ristorante a Mosca: 3 morti e 15 feriti, 'c'era un generale'",
      "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/01/esplosione-in-un-caffe-a-mosca-3-morti-e-15-feriti_9a95d02a-69a3-4695-b559-d34f31423b96.html",
-     "data": "2026-08-01T18:25:19+00:00"
+     "data": "2026-08-01T19:45:21+00:00"
     },
     {
-     "titolo": "Sanchez assediato dall'opposizione, 'triplice fallimento del governo'",
+     "titolo": "Sanchez assediato dall'opposizione, 'ha fallito'. Ma lui va in vacanza",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/sanchez-assediato-dallopposizione-triplice-fallimento-del-governo_29eed2ed-3f50-42a7-ae01-9762373ec307.html",
-     "data": "2026-08-01T18:03:16+00:00"
+     "data": "2026-08-01T18:59:42+00:00"
     },
     {
      "titolo": "Petro chiede agli Usa di non invadere Cuba, 'è l'ora del dialogo'",
@@ -318,7 +328,7 @@
     {
      "titolo": "Ceuta, la paura dei residenti e la rabbia dei giovani respinti",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ceuta-la-paura-dei-residenti-e-la-rabbia-dei-giovani-respinti_5cb7bd79-cf95-4363-bf8a-af0a3b9c5d5d.html",
-     "data": "2026-08-01T18:09:25+00:00"
+     "data": "2026-08-01T18:59:59+00:00"
     },
     {
      "titolo": "Lula, 'finché sarò vivo l'estrema destra non governerà più il Brasile'",
@@ -344,11 +354,6 @@
      "titolo": "Ambasciate Usa agli americani, 'valutare possibilità di lasciare il Medio Oriente'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/01/ambasciate-usa-agli-americani-valutare-possibilita-di-lasciare-il-medio-oriente_80041c64-6903-45a6-bfef-c576e05fd133.html",
      "data": "2026-08-01T13:47:48+00:00"
-    },
-    {
-     "titolo": "Ambasciate Usa agli americani, 'valutare possibilità di lasciare il Medio Oriente'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/01/ambasciate-usa-agli-americani-valutare-possibilita-di-lasciare-il-medio-oriente_8f410c68-0f94-488f-b7f8-ef628ba40fcb.html",
-     "data": "2026-08-01T13:47:49+00:00"
     }
    ]
   },
@@ -421,9 +426,29 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "La Fiorentina rimonta il Real Madrid, 2-2 in amichevole",
+     "titolo": "Serie A: ufficiale Koulierakis alla Roma, al Wolfsburg 17 milioni",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/serie-a-ufficiale-koulierakis-alla-roma-al-wolfsburg-17-milioni_d95afbb7-1f8e-4b08-9290-cf116332f0bf.html",
+     "data": "2026-08-01T19:45:30+00:00"
+    },
+    {
+     "titolo": "Cento anni di calcio e passione, Napoli si tinge d'azzurro per la festa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/cento-anni-di-calcio-e-passione-napoli-si-tinge-dazzurro-per-la-festa_5a9efcfa-4f3a-4a3b-a043-a0d2d10ef674.html",
+     "data": "2026-08-01T19:43:45+00:00"
+    },
+    {
+     "titolo": "Atletica: bene Fabbri a Lonigo nell'ultimo test prima degli Europei",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/01/atletica-bene-fabbri-a-lonigo-nellultimo-test-prima-degli-europei_3df1430e-2dad-4386-8920-62405f7e9fbb.html",
+     "data": "2026-08-01T19:35:40+00:00"
+    },
+    {
+     "titolo": "Venezia sconfitto in amichevole dal Saint-Etienne 4-3",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/venezia-sconfitto-in-amichevole-dal-saint-etienne-4-3_96d0b70e-95d7-442c-a0ea-9e00fcd49082.html",
+     "data": "2026-08-01T18:48:09+00:00"
+    },
+    {
+     "titolo": "La Fiorentina soffre e poi rimonta, con il Real Madrid è 2-2",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/la-fiorentina-rimonta-il-real-madrid-2-2-in-amichevole_69d9ff1e-6cf5-4bd2-a4ea-40988d43e8c7.html",
-     "data": "2026-08-01T18:28:35+00:00"
+     "data": "2026-08-01T19:09:09+00:00"
     },
     {
      "titolo": "Calciomercato: l'Inter stringe per Jones, visite mediche e firma per Koulierakis alla Roma",
@@ -459,26 +484,6 @@
      "titolo": "Lorena Wiebes vince la prima tappa del Tour femminile",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/01/lorena-wiebes-vince-la-prima-tappa-del-tour-femminile_26904401-cec8-44ca-9681-049a7489aa7c.html",
      "data": "2026-08-01T16:25:08+00:00"
-    },
-    {
-     "titolo": "Crollo Roma in Galles col Cardiff, ma arriva Koulierakis",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/amichevoli-la-roma-cade-in-galles-ko-per-4-1-contro-il-cardiff_867066dc-f76c-40aa-a845-f481f2d64abc.html",
-     "data": "2026-08-01T18:09:42+00:00"
-    },
-    {
-     "titolo": "Atalanta: El Bilal Touré verso la cessione, non parte per Rotterdam",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/atalanta-el-bilal-toure-verso-la-cessione-non-parte-per-rotterdam_efdda1dc-f0c8-4ae7-901a-ff1c763e7289.html",
-     "data": "2026-08-01T15:50:09+00:00"
-    },
-    {
-     "titolo": "Atletica: cinque anni fa l'oro di Tokyo. Jacobs: 'Non me ne sono mai andato'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/01/atletica-jacobs-io-tornato-quello-di-tokyo-non-me-ne-sono-mai-andato_e5c2e352-3c70-402c-8fc4-a9fb2f4c9faf.html",
-     "data": "2026-08-01T16:34:26+00:00"
-    },
-    {
-     "titolo": "Volley: Nations League, gli Usa battono il Giappone e conquistano la finale",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/01/volley-nations-league-gli-usa-battono-il-giappone-e-conquistano-la-finale_6205e262-0b98-4351-85cf-a32f4651d349.html",
-     "data": "2026-08-01T15:17:16+00:00"
     }
    ]
   }
