@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-02T01:02:16.131014+00:00",
+ "aggiornato": "2026-08-02T04:45:10.199725+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, 'ritiro l'attacco sull'Iran su richiesta di Teheran e altri Paesi'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/trump-ritiro-lattacco-sulliran-su-richiesta-di-teheran-e-altri-paesi_9fda31d5-99ac-404d-8007-bef718887a1a.html",
+     "data": "2026-08-02T02:27:55+00:00"
+    },
     {
      "titolo": "Sparatoria vicino un ristorante in Ohio, due morti e tre feriti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/sparatoria-vicino-un-ristorante-in-ohio-due-morti-e-tre-feriti_81058df5-f64b-48c1-add5-18d0e21292d2.html",
@@ -49,11 +54,6 @@
      "titolo": "Media russi, 'nel locale di Mosca era in corso una festa con un generale'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/media-russi-nel-locale-di-mosca-era-in-corso-una-festa-con_dad365d0-2083-435d-a703-a8e7af476cc4.html",
      "data": "2026-08-01T19:51:40+00:00"
-    },
-    {
-     "titolo": "Precipitò da una terrazza a Roma, 'è stato un femminicidio'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/precipito-da-una-terrazza-a-roma-e-stato-un-femminicidio_927479df-95bc-48be-bd2f-eef269b6b37d.html",
-     "data": "2026-08-01T18:52:18+00:00"
     }
    ]
   },
@@ -296,6 +296,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump, 'ritiro l'attacco sull'Iran su richiesta di Teheran e altri Paesi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/02/trump-ritiro-lattacco-sulliran-su-richiesta-di-teheran-e-altri-paesi_7f25a80a-c009-46c3-aee9-ba7abc9a01bd.html",
+     "data": "2026-08-02T02:27:57+00:00"
+    },
+    {
      "titolo": "Sparatoria vicino un ristorante in Ohio, due morti e tre feriti",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/02/sparatoria-vicino-un-ristorante-in-ohio-due-morti-e-tre-feriti_d7e9653d-1f3c-441d-be6a-e4be5e79379b.html",
      "data": "2026-08-01T23:33:22+00:00"
@@ -349,11 +354,6 @@
      "titolo": "Sanchez vola a Lanzarote per le vacanze e posta sui social sua playlist",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/sanchez-vola-a-lanzarote-per-le-vacanze-e-posta-sui-social-sua-playlist_0a7ff58b-3ad4-4909-a594-7f3b31bcccfe.html",
      "data": "2026-08-01T18:39:19+00:00"
-    },
-    {
-     "titolo": "++ Esplosione in un caffè a Mosca, 3 morti e 15 feriti ++",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/esplosione-in-un-caffe-a-mosca-3-morti-e-15-feriti_d1af2053-890c-469d-8410-d4514b475e6c.html",
-     "data": "2026-08-01T18:13:37+00:00"
     }
    ]
   },
