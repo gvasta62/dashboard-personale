@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-02T17:48:27.747594+00:00",
+ "aggiornato": "2026-08-02T18:46:23.371365+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Ue, 'pronti a valutare proposte compiute su hub europei di rimpatrio'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/ue-pronti-a-valutare-proposte-compiute-su-hub-europei-di-rimpatrio_f49ad36f-7727-4180-892e-0db3119687d6.html",
+     "data": "2026-08-02T18:38:19+00:00"
+    },
     {
      "titolo": "Tajani, attentato a Mosca per intimidire italiani? 'Una balla colossale'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/tajani-attentato-a-mosca-per-intimidire-italiani-una-balla-colossale_91520c24-0e04-48f3-b15c-2b5185666aee.html",
@@ -49,17 +54,22 @@
      "titolo": "Conte, Meloni non disconosca la matrice neofascista della strage di Bologna",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/conte-meloni-non-disconosca-la-matrice-neofascista-della-strage-di-bologna_3c003862-4e26-4e6b-b4ae-6901f161bdc7.html",
      "data": "2026-08-02T14:44:48+00:00"
-    },
-    {
-     "titolo": "Media, vivi i due piloti di uno degli elicotteri scontrati in Grecia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/media-vivi-i-due-piloti-di-uno-degli-elicotteri-scontrati-in-grecia_270f5c75-a80e-4f66-adf4-633e6d0daf08.html",
-     "data": "2026-08-02T14:13:51+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Presidente Umbria, uno scenario di guerra dopo l'incidente sulla Terni-Rieti",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/02/presidente-umbria-uno-scenario-di-guerra-dopo-lincidente-sulla-terni-rieti_a2fc4903-7f29-419c-b588-317a839060ee.html",
+     "data": "2026-08-02T18:32:44+00:00"
+    },
+    {
+     "titolo": "Turisti e occupanti del camper le vittime dell'incidente sulla Terni-Rieti",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/02/turisti-e-occupanti-del-camper-le-vittime-dellincidente-sulla-terni-rieti_6804844c-af2e-4395-b028-1ffd740db8d6.html",
+     "data": "2026-08-02T18:23:45+00:00"
+    },
     {
      "titolo": "Sindaco Assisi revoca zona rossa dopo vapori da locale di una piscina",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/02/sindaco-assisi-revoca-zona-rossa-dopo-vapori-da-locale-di-una-piscina_d9b50070-4090-403b-839c-305363393d69.html",
@@ -109,16 +119,6 @@
      "titolo": "Ferranti, dalla Giunta regionale non un solo atto sul nuovo ospedale di Terni",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/01/ferranti-dalla-giunta-regionale-non-un-solo-atto-sul-nuovo-ospedale_179a4cd8-83f7-4709-a352-0c707527050b.html",
      "data": "2026-08-01T12:24:10+00:00"
-    },
-    {
-     "titolo": "Dal Comune di Perugia 'il più profondo cordoglio' per il musicista deceduto",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/01/dal-comune-di-perugia-il-piu-profondo-cordoglio-per-il-musicista-deceduto_c4b63901-b782-4971-a6e1-06ae9cd69c74.html",
-     "data": "2026-08-01T11:29:31+00:00"
-    },
-    {
-     "titolo": "Musicista muore in hotel a Perugia, si sospetta il monossido di carbonio",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/01/procura-perugia-fascicolo-omicidio-colposo-per-musicista-morto-in-hotel_c0de4a67-dd31-4c8c-b1f4-8274f3e734e2.html",
-     "data": "2026-08-01T16:41:21+00:00"
     }
    ]
   },
@@ -126,14 +126,19 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Accoltellata fuori da centro commerciale nel Bresciano, arrestato l'ex marito",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/accoltellata-fuori-da-centro-commerciale-nel-bresciano-arrestato-lex-marito_4977adff-48d1-4eb1-9403-358dbe13592e.html",
-     "data": "2026-08-02T17:23:18+00:00"
+     "titolo": "Vasto incendio a Mornese nell'Alessandrino, vigili del fuoco e Aib al lavoro",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/vasto-incendio-a-mornese-nellalessandrino-vigili-del-fuoco-e-aib-al-lavoro_cb5d53f4-863b-490d-bd6c-5d3582906a5a.html",
+     "data": "2026-08-02T18:22:28+00:00"
     },
     {
      "titolo": "Scontro sulla Terni-Rieti, 6 morti e 27 feriti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/scontro-sulla-terni-rieti-6-morti-e-26-feriti_da5389c8-2c54-4e56-8709-29f126de7e09.html",
-     "data": "2026-08-02T17:27:36+00:00"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/scontro-sulla-terni-rieti-6-morti-e-27-feriti_da5389c8-2c54-4e56-8709-29f126de7e09.html",
+     "data": "2026-08-02T18:08:51+00:00"
+    },
+    {
+     "titolo": "Accoltellata fuori da centro commerciale nel Bresciano, arrestato l'ex marito",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/accoltellata-fuori-da-centro-commerciale-nel-bresciano-arrestato-lex-marito_4977adff-48d1-4eb1-9403-358dbe13592e.html",
+     "data": "2026-08-02T17:23:18+00:00"
     },
     {
      "titolo": "Bloccato dopo una fuga dai carabinieri, muore durante il trasporto in ospedale",
@@ -158,7 +163,7 @@
     {
      "titolo": "Donna accoltellata fuori da un centro commerciale, arrestato l'ex marito",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/donna-accoltellata-fuori-da-centro-commerciale-nel-bresciano-e-grave_a2da14e7-a4ee-4410-a4f1-6f4391f1fec1.html",
-     "data": "2026-08-02T17:23:30+00:00"
+     "data": "2026-08-02T18:04:01+00:00"
     },
     {
      "titolo": "La strage di Bologna, dopo 46 anni i processi sono conclusi",
@@ -171,25 +176,25 @@
      "data": "2026-08-02T15:29:40+00:00"
     },
     {
-     "titolo": "Lo scambia per un rivale e lo uccide investendolo",
+     "titolo": "Lo scambia per un rivale e lo uccide, morto per aver aiutato una sconosciuta",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/lo-scambia-per-un-rivale-e-lo-uccide-investendolo_a25ccfde-92f4-4f57-853f-2947361e144d.html",
-     "data": "2026-08-02T17:22:19+00:00"
+     "data": "2026-08-02T17:57:09+00:00"
     },
     {
      "titolo": "Trovano un residuato bellico e lo portano a smaltire in discarica",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/trovano-un-residuato-bellico-e-lo-portano-a-smaltire-in-discarica_4627b393-6225-47c5-a346-976335d6bc82.html",
      "data": "2026-08-02T17:35:46+00:00"
-    },
-    {
-     "titolo": "Concluso lo sciame sismico, nei Campi Flegrei resta la paura",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/terremoto-ai-campi-flegrei-riaperto-il-porto-di-pozzuoli.-terminato-lo-sciame-sismico_aae7adb6-4ca6-43e9-9ec7-e96237f7651b.html",
-     "data": "2026-08-02T17:38:58+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "++ Taruffi (Pd), prima un programma condiviso e poi le primarie ++",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/02/-taruffi-pd-prima-un-programma-condiviso-e-poi-le-primarie-_1bc24b83-0d30-49ef-9ea4-ca2845ac6238.html",
+     "data": "2026-08-02T18:42:43+00:00"
+    },
     {
      "titolo": "Tajani sulla legge elettorale: 'Sì alle preferenze col capolista bloccato'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/02/tajani-sulla-legge-elettorale-si-alle-preferenze-col-capolista-bloccato_ba8b448c-51e0-4c7c-b903-6d3dc067d65e.html",
@@ -239,16 +244,6 @@
      "titolo": "Le opposizioni attaccano, 'la premier riferisca alle Camere'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/le-opposizioni-attaccano-la-premier-riferisca-alle-camere_564b03eb-5492-41b9-bc6c-123a4664a2be.html",
      "data": "2026-08-01T19:04:47+00:00"
-    },
-    {
-     "titolo": "Meloni e 21 leader Ue: 'Vertice su Ceuta'. E' scontro con Sanchez",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/meloni-e-21-leader-ue-vertice-su-ceuta.-e-scontro-con-sanchez_dab85127-0560-4ac1-8fcb-789013fbbad4.html",
-     "data": "2026-08-02T09:19:04+00:00"
-    },
-    {
-     "titolo": "No Tav: 'Rompiamo l'assedio, usciremo dal presidio di Venaus'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/no-tav-rompiamo-lassedio-usciremo-dal-presidio-di-venaus_71f877a0-601e-44ee-aa77-5765e15682c5.html",
-     "data": "2026-08-01T18:41:29+00:00"
     }
    ]
   },
@@ -321,6 +316,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ue, 'pronti a valutare proposte compiute su hub europei di rimpatrio'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/02/ue-pronti-a-valutare-proposte-compiute-su-hub-europei-di-rimpatrio_af5f8d15-748b-48d8-8df5-a3ee408c7f08.html",
+     "data": "2026-08-02T18:38:16+00:00"
+    },
+    {
+     "titolo": "Governo peruviano, 'aereo con problemi meccanici prima dello schianto'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/governo-peruviano-aereo-con-problemi-meccanici-prima-dello-schianto_8a385478-2e1a-4ef9-9f2d-5e9db763e6bb.html",
+     "data": "2026-08-02T18:36:54+00:00"
+    },
+    {
+     "titolo": "Aereo si schianta in Perù, distrutte due famiglie italiane",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/aereo-si-schianta-in-peru-distrutte-due-famiglie-italiane_c83b925c-2fc9-4b66-94bf-b0a73a568502.html",
+     "data": "2026-08-02T18:26:26+00:00"
+    },
+    {
      "titolo": "Tajani, attentato a Mosca per intimidire italiani? 'Una balla colossale'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/02/tajani-attentato-a-mosca-per-intimidire-italiani-una-balla-colossale_af606eee-af3c-4bc6-8cd4-17d0be6bec2e.html",
      "data": "2026-08-02T17:19:52+00:00"
@@ -364,21 +374,6 @@
      "titolo": "Due elicotteri antincendio si sono scontrati in Grecia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/02/due-elicotteri-antincendio-si-sono-scontrati-in-grecia_5aac41fc-5547-44ad-afb6-586a87be1ac1.html",
      "data": "2026-08-02T13:50:09+00:00"
-    },
-    {
-     "titolo": "Ambasciata russa, con l'attentato gli ucraini vogliono 'intimidire gli italiani'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/02/ambasciata-russa-con-lattentato-gli-ucraini-vogliono-intimidire-gli-italiani_e798f479-21fd-44e4-a9d8-d9c695e55609.html",
-     "data": "2026-08-02T13:15:38+00:00"
-    },
-    {
-     "titolo": "Media, salgono a 5 i morti per l'attentato nel ristorante di Mosca",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/02/media-salgono-a-5-i-morti-per-lattentato-nel-ristorante-di-mosca_a2b197f1-19db-4c19-a407-a9b85a7e6418.html",
-     "data": "2026-08-02T13:12:00+00:00"
-    },
-    {
-     "titolo": "Mosca, drone ucraino cade vicino a un reattore della centrale di Zaporizhzhia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/02/mosca-drone-ucraino-cade-vicino-a-un-reattore-della-centrale-di-zaporizhzhia_a0ea33b3-b213-4576-a3a2-810f1a3ec99d.html",
-     "data": "2026-08-02T12:55:03+00:00"
     }
    ]
   },
@@ -451,14 +446,34 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei Nuoto: oro dell'Italia nei tuffi con Chiara Pellacani e Matteo Santoro",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/02/europei-nuoto-oro-dellitalia-nei-tuffi-con-chiara-pellacani-e-matteo_7c6608a5-7548-4c8d-aacc-f780baf81097.html",
+     "data": "2026-08-02T18:07:12+00:00"
+    },
+    {
+     "titolo": "Europei Nuoto: oro dell'Italia nei tuffi con Chiara Pellacani e Matteo Santoro",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/02/europei-nuoto-oro-dellitalia-nei-tuffi-con-chiara-pellacani-e-matteo_1b37155f-6804-4605-8291-f05f327e673d.html",
+     "data": "2026-08-02T18:38:11+00:00"
+    },
+    {
+     "titolo": "Non cessano attacchi ad Infantino, oppositori chiedono riunione Fifa",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/02/non-cessano-attacchi-ad-infantino-oppositori-chiedono-riunione-fifa_966a6c28-6fb8-4565-be03-b97ec60355d4.html",
+     "data": "2026-08-02T18:23:29+00:00"
+    },
+    {
+     "titolo": "Calciomercato: l'Inter insiste per Jones. La Roma ci prova per Read",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/02/calciomercato-linter-insiste-per-jones.-la-roma-ci-prova-per-read_ee6fb51d-1b10-47df-b7d3-db037f303f11.html",
+     "data": "2026-08-02T18:28:12+00:00"
+    },
+    {
      "titolo": "Calcio: Udinese ko in amichevole con il Trabzonspor",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/02/calcio-udinese-ko-in-amichevole-con-il-trabzonspor_062656d4-3024-4285-993c-3c29d4baa250.html",
      "data": "2026-08-02T17:13:01+00:00"
     },
     {
-     "titolo": "Calcio: Juve annuncia Kolo Muani, arriva a titolo definitivo",
+     "titolo": "La Juventus accoglie Kolo Muani, un'altra casella al suo posto",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/02/calcio-juve-annuncia-kolo-muani-arriva-a-titolo-definitivo_85a8ebd3-e12b-43bd-bebd-42a81bf179c6.html",
-     "data": "2026-08-02T17:04:15+00:00"
+     "data": "2026-08-02T18:25:10+00:00"
     },
     {
      "titolo": "Amichevoli: ko col Feyenoord, ma l'Atalanta di Sarri non sfigura",
@@ -489,26 +504,6 @@
      "titolo": "Juventus: ufficializzato Alajbegovic, ha firmato fino al 2031",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/02/juventus-ufficializzato-alajbegovic-ha-firmato-fino-al-2031_c00b45ec-f4b3-4722-a718-76584706332a.html",
      "data": "2026-08-02T15:12:14+00:00"
-    },
-    {
-     "titolo": "Ciclismo: Van Aert vince il giro di Danimarca, ora la Vuelta",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/02/ciclismo-van-aert-vince-il-giro-di-danimarca-ora-la-vuelta_7a7e30ae-aef0-4222-b296-d1745615abef.html",
-     "data": "2026-08-02T15:22:03+00:00"
-    },
-    {
-     "titolo": "Aspettando Sinner, l'estate del tennis sbarca in Nordamerica",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/02/aspettando-sinner-lestate-del-tennis-sbarca-in-nordamerica_27d5ade4-4750-49f1-b3bd-0b4602e962a2.html",
-     "data": "2026-08-02T14:18:27+00:00"
-    },
-    {
-     "titolo": "In Europa le big fanno follie di mercato, dream team Real Madrid a caccia del Psg",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/02/in-europa-le-big-fanno-follie-di-mercato-dream-team-real-madrid-a-caccia_6f617483-1f02-4d7c-9f72-37175a86b771.html",
-     "data": "2026-08-02T14:35:22+00:00"
-    },
-    {
-     "titolo": "Europei di canottaggio, a Varese l'Italia chiude con nove medaglie",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/02/europei-canottaggio-due-bronzi-per-litalia-con-gli-otto_2784ba35-e114-425a-aee6-12a327616e30.html",
-     "data": "2026-08-02T15:19:50+00:00"
     }
    ]
   }
