@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-02T22:14:47.471872+00:00",
+ "aggiornato": "2026-08-02T23:24:50.562207+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il petrolio cede il 4% con l'annuncio di Trump sulla ripresa dei negoziati con l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/03/il-petrolio-cede-il-4-con-lannuncio-di-trump-sulla-ripresa-dei-negoziati-con_162d0be3-4798-4976-b99f-8b8a82ebbc0c.html",
+     "data": "2026-08-02T23:14:25+00:00"
+    },
+    {
+     "titolo": "Presidente dell'Umbria: sei morti e 34 feriti nell'incidente sulla Terni-Rieti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/03/presidente-dellumbria-sei-morti-e-34-feriti-nellincidente-sulla-terni-rieti_faf82fb0-b534-4f5c-b989-1a0167e1caef.html",
+     "data": "2026-08-02T22:48:12+00:00"
+    },
+    {
+     "titolo": "Trump, 'lo stop ai raid dopo i colloqui con Arabia Saudita, Emirati, Qatar e Iran'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/03/trump-lo-stop-ai-raid-dopo-i-colloqui-con-arabia-saudita-emirati-qatar_3597a264-cb81-414c-8469-568af44e0907.html",
+     "data": "2026-08-02T22:27:44+00:00"
+    },
     {
      "titolo": "Trump, 'interventi sullo yen come segnale di amicizia verso il Giappone'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/03/trump-interventi-sullo-yen-come-segnale-di-amicizia-verso-il-giappone_51fdad52-2d3f-4d70-96f1-2b00185e4a77.html",
@@ -39,27 +54,17 @@
      "titolo": "Morti i due piloti di un elicottero antincendio in Grecia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/morti-i-due-piloti-di-un-elicottero-antincendio-in-grecia_fc1d0b26-0ba2-44ba-96cf-f58ebe3b2cae.html",
      "data": "2026-08-02T17:12:17+00:00"
-    },
-    {
-     "titolo": "Wsj, 'l'Iran valuta attacchi preventivi anche in assenza di un'offensiva Usa'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/wsj-liran-valuta-attacchi-preventivi-anche-in-assenza-di-unoffensiva-usa_85b16ca1-807b-4a63-b329-276924631b6d.html",
-     "data": "2026-08-02T17:07:26+00:00"
-    },
-    {
-     "titolo": "Tajani sulla legge elettorale, sì alle preferenze col capolista bloccato",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/tajani-sulla-legge-elettorale-si-alle-preferenze-col-capolista-bloccato_f5620b4c-5f49-41a6-8089-46a58e73a832.html",
-     "data": "2026-08-02T16:47:18+00:00"
-    },
-    {
-     "titolo": "Conte, il nodo Ucraina lo scioglieremo con le primarie",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/conte-il-nodo-ucraina-lo-scioglieremo-con-le-primarie_6ddb1dad-4a51-4033-879c-d233a5680c57.html",
-     "data": "2026-08-02T16:20:44+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Presidente dell'Umbria: sei morti e 34 feriti nell'incidente sulla Terni-Rieti",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/03/presidente-dellumbria-sei-morti-e-34-feriti-nellincidente-sulla-terni-rieti_9c9e8532-21f2-4da1-8b5d-b1de6528b865.html",
+     "data": "2026-08-02T22:49:40+00:00"
+    },
     {
      "titolo": "Scontro sulla Terni-Rieti, attivato numero telefonico per i familiari dei coinvolti",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/02/scontro-sulla-terni-rieti-attivato-numero-telefonico-per-i-familiari-dei_c7614e1a-415c-4e46-b084-912109966dca.html",
@@ -114,17 +119,22 @@
      "titolo": "Caldo, in Umbria toccati i 41 gradi ad Attigliano",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/01/caldo-in-umbria-toccati-i-41-gradi-ad-attigliano_b2c7f8f8-40bc-4eca-9ce9-4fdb23d060e7.html",
      "data": "2026-08-01T16:37:43+00:00"
-    },
-    {
-     "titolo": "Al Calvi Festival la presentazione del libro 'Erano donne' di Gioia Costa",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/01/al-calvi-festival-la-presentazione-del-libro-erano-donne-di-gioia-costa_be14bd72-8752-49ca-85e2-b1b3e120f072.html",
-     "data": "2026-08-01T14:26:33+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Tragedia sulla Terni-Rieti, sei morti e 34 feriti in uno scontro",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/tragedia-sulla-terni-rieti-sei-morti-e-34-feriti-in-uno-scontro_da5389c8-2c54-4e56-8709-29f126de7e09.html",
+     "data": "2026-08-02T22:51:22+00:00"
+    },
+    {
+     "titolo": "Presidente dell'Umbria: sei morti e 34 feriti nell'incidente sulla Terni-Rieti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/presidente-dellumbria-sei-morti-e-34-feriti-nellincidente-sulla-terni-rieti_49d6a9b0-0197-4005-b5e8-6b7204f99353.html",
+     "data": "2026-08-02T22:47:53+00:00"
+    },
     {
      "titolo": "Scontro sulla Terni-Rieti, 6 vittime e 26 feriti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/scontro-sulla-terni-rieti-6-vittime-e-26-feriti_777b827c-9f2a-4f16-92ab-0a8f5877c31d.html",
@@ -134,11 +144,6 @@
      "titolo": "Vasto incendio a Mornese nell'Alessandrino, vigili del fuoco e Aib al lavoro",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/vasto-incendio-a-mornese-nellalessandrino-vigili-del-fuoco-e-aib-al-lavoro_cb5d53f4-863b-490d-bd6c-5d3582906a5a.html",
      "data": "2026-08-02T18:22:28+00:00"
-    },
-    {
-     "titolo": "Tragedia sulla Terni-Rieti, sei morti e 26 feriti in uno scontro",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/scontro-sulla-terni-rieti-6-morti-e-27-feriti_da5389c8-2c54-4e56-8709-29f126de7e09.html",
-     "data": "2026-08-02T19:39:39+00:00"
     },
     {
      "titolo": "Accoltellata fuori da centro commerciale nel Bresciano, arrestato l'ex marito",
@@ -179,11 +184,6 @@
      "titolo": "Lo scambia per un rivale e lo uccide investendolo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/lo-scambia-per-un-rivale-e-lo-uccide-investendolo_898488bb-73cc-4071-aa12-4148e83f891d.html",
      "data": "2026-08-02T15:29:40+00:00"
-    },
-    {
-     "titolo": "Lo scambia per un rivale e lo uccide, morto per aver aiutato una sconosciuta",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/lo-scambia-per-un-rivale-e-lo-uccide-investendolo_a25ccfde-92f4-4f57-853f-2947361e144d.html",
-     "data": "2026-08-02T17:57:09+00:00"
     }
    ]
   },
@@ -246,70 +246,20 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Corrono i prezzi dei carburanti, il governo studia misure per le accise",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/corrono-i-prezzi-dei-carburanti-il-governo-studia-misure-per-le-accise_b36eb554-02f4-4601-8552-84e3d75b7e8d.html",
-     "data": "2026-08-01T18:40:12+00:00"
-    },
-    {
-     "titolo": "Il caldo soffoca cozze e vongole mentre il granchio blu si moltiplica senza sosta",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/il-caldo-soffoca-cozze-e-vongole-mentre-il-granchio-blu-si-moltiplica-senza-sosta_3cf5b791-6e0a-4b3a-9017-8d19a9a2e3dd.html",
-     "data": "2026-08-01T15:04:41+00:00"
-    },
-    {
-     "titolo": "Abi, protezione utenti priorità settore, seguire regole per operare online",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/abi-protezione-utenti-priorita-settore-seguire-regole-per-operare-online_fc657c76-13ac-47f3-ad80-a229b9c9fa29.html",
-     "data": "2026-08-01T10:40:22+00:00"
-    },
-    {
-     "titolo": "R.Illy, nuova fiammata prezzo cacao e con ruolo macchine mercati più nervosi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/r.illy-nuova-fiammata-prezzo-cacao-e-con-ruolo-macchine-mercati-piu_f19dfbca-66aa-482a-86e3-1cee03cf23eb.html",
-     "data": "2026-08-01T09:53:18+00:00"
-    },
-    {
-     "titolo": "Mit, finanziati ulteriori 292 interventi per strade in piccoli comuni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/mit-finanziati-ulteriori-292-interventi-per-strade-in-piccoli-comuni_b87f15ab-4efc-41bb-b0e5-b54c5a382732.html",
-     "data": "2026-08-01T09:09:31+00:00"
-    },
-    {
-     "titolo": "Cgia, padroncini, taxisti e Ncc in ginocchio per diesel alle stelle",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/cgia-padroncini-taxisti-e-ncc-in-ginocchio-per-diesel-alle-stelle_ae7a441e-cd40-45bd-8cc1-98c1090fd367.html",
-     "data": "2026-08-01T09:09:49+00:00"
-    },
-    {
-     "titolo": "Studio Crc, sull'esodo estivo stangata carburanti, oltre 450 euro da Torino a Palermo",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/studio-crc-sullesodo-estivo-stangata-carburanti-oltre-450-euro-da-torino_cd69dd24-78fa-4692-a215-335efc9b7d9d.html",
-     "data": "2026-08-01T09:02:27+00:00"
-    },
-    {
-     "titolo": "Garante scioperi, 'Tar respinge ricorso sindacati su regole per festivi e Av'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/garante-scioperi-tar-respinge-ricorso-sindacati-su-regole-per-festivi-e-av_8dfe7afc-1f50-4231-89c0-01aece8efd61.html",
-     "data": "2026-08-01T08:38:36+00:00"
-    },
-    {
-     "titolo": "In arrivo norme Ue per mettere ordine in giungla agenzie del debito",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/in-arrivo-norme-ue-per-mettere-ordine-in-giungla-agenzie-del-debito_e0665d94-07e0-494a-95e3-5060bf6025df.html",
-     "data": "2026-08-01T08:31:53+00:00"
-    },
-    {
-     "titolo": "Moneta celebra SSC Napoli, 'una fede lunga cent'anni'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/moneta-celebra-ssc-napoli-una-fede-lunga-centanni_b922f1ee-72f7-4d38-9db9-54219c81dd20.html",
-     "data": "2026-08-01T08:28:35+00:00"
-    },
-    {
-     "titolo": "Cna, oltre 11mila sportelli chiusi in 10 anni. Senza banca 4,8 milioni di cittadini",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/cna-oltre-11mila-sportelli-chiusi-in-10-anni.-senza-banca-48-milioni-di-cittadini_cdcad54c-f416-4a79-b722-b021b760feab.html",
-     "data": "2026-08-01T08:19:17+00:00"
-    },
-    {
-     "titolo": "Trenitalia, oltre 33 milioni i passeggeri in viaggio nell'estate 2025",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/trenitalia-oltre-33-milioni-i-passeggeri-in-viaggio-nellestate-2025_5c0aa7de-438e-449d-8b6c-05be1e3602eb.html",
-     "data": "2026-08-01T07:55:27+00:00"
+     "titolo": "Il petrolio cede il 4% con l'annuncio di Trump sulla ripresa dei negoziati con l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/03/il-petrolio-cede-il-4-con-lannuncio-di-trump-sulla-ripresa-dei-negoziati-con_d957d7ad-e72d-4bee-9ca0-8bd1b4d78f9e.html",
+     "data": "2026-08-02T23:14:23+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Trump, 'lo stop ai raid dopo i colloqui con Arabia Saudita, Emirati, Qatar e Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/03/trump-lo-stop-ai-raid-dopo-i-colloqui-con-arabia-saudita-emirati-qatar_74202a8e-50de-4abd-9890-14bda534907b.html",
+     "data": "2026-08-02T22:28:00+00:00"
+    },
     {
      "titolo": "Trump, 'interventi sullo yen come segnale di amicizia verso il Giappone'",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/03/trump-interventi-sullo-yen-come-segnale-di-amicizia-verso-il-giappone_566a037a-6228-44c6-bdb9-708e8ba74901.html",
@@ -364,11 +314,6 @@
      "titolo": "Lula lancia ufficialmente la sua candidatura alla rielezione in Brasile",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/lula-lancia-ufficialmente-la-sua-candidatura-alla-rielezione-in-brasile_4796d943-74de-432a-90ed-7a70f75154ac.html",
      "data": "2026-08-02T16:01:12+00:00"
-    },
-    {
-     "titolo": "Flavio Bolsonaro, 'se Lula sarà rieletto avvierà una dittatura in Brasile'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/flavio-bolsonaro-se-lula-sara-rieletto-avviera-una-dittatura-in-brasile_b5480cf5-e83c-4495-be17-432f449548be.html",
-     "data": "2026-08-02T14:52:36+00:00"
     }
    ]
   },
