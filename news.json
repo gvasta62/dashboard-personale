@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-02T18:46:23.371365+00:00",
+ "aggiornato": "2026-08-02T20:02:35.287893+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Scontro sulla Terni-Rieti, 6 vittime e 26 feriti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/scontro-sulla-terni-rieti-6-vittime-e-26-feriti_bcb4af59-efb0-45ba-a8c6-8c6aad743fa9.html",
+     "data": "2026-08-02T19:02:19+00:00"
+    },
+    {
+     "titolo": "++ Taruffi (Pd), prima un programma condiviso e poi le primarie ++",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/-taruffi-pd-prima-un-programma-condiviso-e-poi-le-primarie-_114da4d0-7da3-49c8-b477-fb8392df254f.html",
+     "data": "2026-08-02T18:42:43+00:00"
+    },
     {
      "titolo": "Ue, 'pronti a valutare proposte compiute su hub europei di rimpatrio'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/ue-pronti-a-valutare-proposte-compiute-su-hub-europei-di-rimpatrio_f49ad36f-7727-4180-892e-0db3119687d6.html",
@@ -44,22 +54,17 @@
      "titolo": "Cinque morti e cinque feriti per un incidente sulla Terni-Rieti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/cinque-morti-e-cinque-feriti-per-un-incidente-sulla-terni-rieti_4e0b84aa-1d46-4515-9cf6-e8b0a3e9d804.html",
      "data": "2026-08-02T15:34:21+00:00"
-    },
-    {
-     "titolo": "Lo scambia per un rivale e lo uccide investendolo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/lo-scambia-per-un-rivale-e-lo-uccide-investendolo_207b292f-8a2f-4630-9b20-8bac442be965.html",
-     "data": "2026-08-02T15:29:43+00:00"
-    },
-    {
-     "titolo": "Conte, Meloni non disconosca la matrice neofascista della strage di Bologna",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/conte-meloni-non-disconosca-la-matrice-neofascista-della-strage-di-bologna_3c003862-4e26-4e6b-b4ae-6901f161bdc7.html",
-     "data": "2026-08-02T14:44:48+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Scontro sulla Terni-Rieti, 6 vittime e 26 feriti",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/02/scontro-sulla-terni-rieti-6-vittime-e-26-feriti_5eb5f467-29a6-4ce6-8950-80b7b731039c.html",
+     "data": "2026-08-02T19:02:19+00:00"
+    },
     {
      "titolo": "Presidente Umbria, uno scenario di guerra dopo l'incidente sulla Terni-Rieti",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/02/presidente-umbria-uno-scenario-di-guerra-dopo-lincidente-sulla-terni-rieti_a2fc4903-7f29-419c-b588-317a839060ee.html",
@@ -114,11 +119,6 @@
      "titolo": "In Umbria 480.000 euro dal Mit per il 'Fondo investimenti stradali nei piccoli Comuni'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/01/in-umbria-480.000-euro-dal-mit-per-il-fondo-investimenti-stradali-nei_f988a081-692b-42c6-9048-d3fd1307f3a0.html",
      "data": "2026-08-01T12:42:45+00:00"
-    },
-    {
-     "titolo": "Ferranti, dalla Giunta regionale non un solo atto sul nuovo ospedale di Terni",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/01/ferranti-dalla-giunta-regionale-non-un-solo-atto-sul-nuovo-ospedale_179a4cd8-83f7-4709-a352-0c707527050b.html",
-     "data": "2026-08-01T12:24:10+00:00"
     }
    ]
   },
@@ -126,14 +126,19 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Scontro sulla Terni-Rieti, 6 vittime e 26 feriti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/scontro-sulla-terni-rieti-6-vittime-e-26-feriti_777b827c-9f2a-4f16-92ab-0a8f5877c31d.html",
+     "data": "2026-08-02T19:02:20+00:00"
+    },
+    {
      "titolo": "Vasto incendio a Mornese nell'Alessandrino, vigili del fuoco e Aib al lavoro",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/vasto-incendio-a-mornese-nellalessandrino-vigili-del-fuoco-e-aib-al-lavoro_cb5d53f4-863b-490d-bd6c-5d3582906a5a.html",
      "data": "2026-08-02T18:22:28+00:00"
     },
     {
-     "titolo": "Scontro sulla Terni-Rieti, 6 morti e 27 feriti",
+     "titolo": "Tragedia sulla Terni-Rieti, sei morti e 26 feriti in uno scontro",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/scontro-sulla-terni-rieti-6-morti-e-27-feriti_da5389c8-2c54-4e56-8709-29f126de7e09.html",
-     "data": "2026-08-02T18:08:51+00:00"
+     "data": "2026-08-02T19:39:39+00:00"
     },
     {
      "titolo": "Accoltellata fuori da centro commerciale nel Bresciano, arrestato l'ex marito",
@@ -146,9 +151,9 @@
      "data": "2026-08-02T16:55:03+00:00"
     },
     {
-     "titolo": "Bloccato dopo una fuga dai carabinieri, muore durante il trasporto in ospedale",
+     "titolo": "Bloccato dopo fuga dai Carabinieri, muore durante il trasporto in ospedale",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/bloccato-dopo-una-fuga-dai-carabinieri-muore-durante-il-trasporto-in-ospedale_28766ed9-b178-4303-9b00-5b3714700d6f.html",
-     "data": "2026-08-02T17:35:13+00:00"
+     "data": "2026-08-02T19:10:48+00:00"
     },
     {
      "titolo": "In corteo i parenti di Fakir, 'restituiamo l'abbraccio di Bologna'",
@@ -179,11 +184,6 @@
      "titolo": "Lo scambia per un rivale e lo uccide, morto per aver aiutato una sconosciuta",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/lo-scambia-per-un-rivale-e-lo-uccide-investendolo_a25ccfde-92f4-4f57-853f-2947361e144d.html",
      "data": "2026-08-02T17:57:09+00:00"
-    },
-    {
-     "titolo": "Trovano un residuato bellico e lo portano a smaltire in discarica",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/trovano-un-residuato-bellico-e-lo-portano-a-smaltire-in-discarica_4627b393-6225-47c5-a346-976335d6bc82.html",
-     "data": "2026-08-02T17:35:46+00:00"
     }
    ]
   },
@@ -191,9 +191,19 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Modello Albania dopo Ceuta, spinta per hub in Uganda e Montenegro",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/02/modello-albania-dopo-ceuta-spinta-per-hub-in-uganda-e-montenegro_ac8a53df-41a7-4aff-b6fa-b216624fb09a.html",
+     "data": "2026-08-02T18:46:24+00:00"
+    },
+    {
      "titolo": "++ Taruffi (Pd), prima un programma condiviso e poi le primarie ++",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/02/-taruffi-pd-prima-un-programma-condiviso-e-poi-le-primarie-_1bc24b83-0d30-49ef-9ea4-ca2845ac6238.html",
      "data": "2026-08-02T18:42:43+00:00"
+    },
+    {
+     "titolo": "Taruffi (Pd): 'Prima un programma condiviso e poi le primarie'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/02/taruffi-pd-prima-un-programma-condiviso-e-poi-le-primarie_8dea73a4-a4ff-41a9-9e3f-2a8f58ea3b50.html",
+     "data": "2026-08-02T19:03:30+00:00"
     },
     {
      "titolo": "Tajani sulla legge elettorale: 'Sì alle preferenze col capolista bloccato'",
@@ -226,24 +236,9 @@
      "data": "2026-08-02T10:57:16+00:00"
     },
     {
-     "titolo": "Roma chiederà di creare hub per i migranti in Africa sul 'modello Albania'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/02/roma-chiedera-di-creare-hub-per-i-migranti-in-africa-sul-modello-albania_ac8a53df-41a7-4aff-b6fa-b216624fb09a.html",
-     "data": "2026-08-02T10:30:37+00:00"
-    },
-    {
      "titolo": "Mattarella, libertà, giustizia e democrazia i valori per salvaguardare il futuro",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/02/mattarella-liberta-giustizia-e-democrazia-i-valori-per-salvaguardare-il-futuro_f9e69d07-c73a-45e6-81fa-295533b04b9c.html",
      "data": "2026-08-02T07:57:16+00:00"
-    },
-    {
-     "titolo": "Valditara: 'Il divieto di burqa a scuola per riaffermare la dignità delle donne'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/valditara-il-divieto-di-burqa-a-scuola-per-riaffermare-la-dignita-delle-donne_96dce8bc-ba56-4eec-81fb-3060089a4a5d.html",
-     "data": "2026-08-02T05:54:43+00:00"
-    },
-    {
-     "titolo": "Le opposizioni attaccano, 'la premier riferisca alle Camere'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/le-opposizioni-attaccano-la-premier-riferisca-alle-camere_564b03eb-5492-41b9-bc6c-123a4664a2be.html",
-     "data": "2026-08-01T19:04:47+00:00"
     }
    ]
   },
@@ -316,6 +311,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Aereo si schianta in Perù, 'aveva problemi meccanici'. Distrutte due famiglie italiane",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/aereo-si-schianta-in-peru-aveva-problemi-meccanici.-distrutte-due-famiglie-italiane_c83b925c-2fc9-4b66-94bf-b0a73a568502.html",
+     "data": "2026-08-02T19:20:38+00:00"
+    },
+    {
      "titolo": "Ue, 'pronti a valutare proposte compiute su hub europei di rimpatrio'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/02/ue-pronti-a-valutare-proposte-compiute-su-hub-europei-di-rimpatrio_af5f8d15-748b-48d8-8df5-a3ee408c7f08.html",
      "data": "2026-08-02T18:38:16+00:00"
@@ -324,11 +324,6 @@
      "titolo": "Governo peruviano, 'aereo con problemi meccanici prima dello schianto'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/governo-peruviano-aereo-con-problemi-meccanici-prima-dello-schianto_8a385478-2e1a-4ef9-9f2d-5e9db763e6bb.html",
      "data": "2026-08-02T18:36:54+00:00"
-    },
-    {
-     "titolo": "Aereo si schianta in Perù, distrutte due famiglie italiane",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/aereo-si-schianta-in-peru-distrutte-due-famiglie-italiane_c83b925c-2fc9-4b66-94bf-b0a73a568502.html",
-     "data": "2026-08-02T18:26:26+00:00"
     },
     {
      "titolo": "Tajani, attentato a Mosca per intimidire italiani? 'Una balla colossale'",
@@ -463,7 +458,7 @@
     {
      "titolo": "Calciomercato: l'Inter insiste per Jones. La Roma ci prova per Read",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/02/calciomercato-linter-insiste-per-jones.-la-roma-ci-prova-per-read_ee6fb51d-1b10-47df-b7d3-db037f303f11.html",
-     "data": "2026-08-02T18:28:12+00:00"
+     "data": "2026-08-02T19:10:50+00:00"
     },
     {
      "titolo": "Calcio: Udinese ko in amichevole con il Trabzonspor",
