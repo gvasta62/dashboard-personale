@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-02T10:57:14.196978+00:00",
+ "aggiornato": "2026-08-02T11:55:42.168578+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Roma chiederà hub per i migranti in Africa 'modello Albania'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/roma-chiedera-hub-per-i-migranti-in-africa-modello-albania_75d3ed0e-7e8a-4e7a-92b9-f558bf016129.html",
+     "data": "2026-08-02T11:03:28+00:00"
+    },
+    {
+     "titolo": "Schlein, la Strage di Bologna ha una matrice neofascista, chi governa lo riconosca",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/schlein-la-strage-di-bologna-ha-una-matrice-neofascista-chi-governa-lo-riconosca_32cac29f-3dee-45e3-9420-979bd16859a2.html",
+     "data": "2026-08-02T10:57:45+00:00"
+    },
+    {
+     "titolo": "Meloni, con la strage di Bologna il terrorismo feroce colpì al cuore la nazione",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/meloni-con-la-strage-di-bologna-il-terrorismo-feroce-colpi-al-cuore-la-nazione_31cbf1e0-eca2-4d23-9f0a-4b2c91ba6fd1.html",
+     "data": "2026-08-02T10:57:07+00:00"
+    },
     {
      "titolo": "Il Papa, preoccupato per Ceuta, si trovino soluzioni di giustizia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/il-papa-preoccupato-per-ceuta-si-trovino-soluzioni-di-giustizia_8d963032-7593-4d79-913c-fc19967b6754.html",
@@ -39,21 +54,6 @@
      "titolo": "Molteni, 'il 2 agosto ha matrice neofascista, è data di tutta l'Italia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/molteni-il-2-agosto-ha-matrice-neofascista-e-data-di-tutta-litalia_bf15bec6-b8dc-4bcf-b09f-cca9d10de0af.html",
      "data": "2026-08-02T07:24:14+00:00"
-    },
-    {
-     "titolo": "Lepore, 'il 2 agosto è il giorno più importante della storia di Bologna'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/lepore-il-2-agosto-e-il-giorno-piu-importante-della-storia-di-bologna_567cf352-6e8c-461d-8b9d-7c1f261e6f86.html",
-     "data": "2026-08-02T06:49:54+00:00"
-    },
-    {
-     "titolo": "Trump, 'ritiro l'attacco sull'Iran su richiesta di Teheran e altri Paesi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/trump-ritiro-lattacco-sulliran-su-richiesta-di-teheran-e-altri-paesi_9fda31d5-99ac-404d-8007-bef718887a1a.html",
-     "data": "2026-08-02T02:27:55+00:00"
-    },
-    {
-     "titolo": "Sparatoria vicino un ristorante in Ohio, due morti e tre feriti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/sparatoria-vicino-un-ristorante-in-ohio-due-morti-e-tre-feriti_81058df5-f64b-48c1-add5-18d0e21292d2.html",
-     "data": "2026-08-01T23:33:22+00:00"
     }
    ]
   },
@@ -126,6 +126,56 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Folgorato alle Ferriere Nord, morto l'operaio rimasto ferito gravemente",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/folgorato-alle-ferriere-nord-morto-loperaio-rimasto-ferito-gravemente_4d2e2f70-d2c5-48a5-8097-7ef8428c001d.html",
+     "data": "2026-08-02T11:33:18+00:00"
+    },
+    {
+     "titolo": "Folgorato alle ferriere, morto operaio in Friuli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/folgorato-alle-ferriere-morto-operaio-in-friuli_5bfd5900-12b5-4247-9726-b3ee78d8ec77.html",
+     "data": "2026-08-02T11:22:25+00:00"
+    },
+    {
+     "titolo": "Incidente aereo in Perù: sindaco Monza, Comunità stretta nel dolore",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/incidente-aereo-in-peru-sindaco-monza-comunita-stretta-nel-dolore_bff79a1d-c267-4f3b-bec8-424ac7169344.html",
+     "data": "2026-08-02T11:22:06+00:00"
+    },
+    {
+     "titolo": "Trentenne ucciso dopo una lite in casa nel Modenese, fermato un uomo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/trentenne-ucciso-dopo-una-lite-in-casa-nel-modenese-fermato-un-uomo_a6efb6cb-a9ee-4063-9483-697cbc6f5657.html",
+     "data": "2026-08-02T11:29:59+00:00"
+    },
+    {
+     "titolo": "Monte Grappa, istituzioni italiane e austriache nel ricordo dei caduti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/monte-grappa-istituzioni-italiane-e-austriache-nel-ricordo-dei-caduti_afddd7e9-982d-4806-b715-0d80dde0cfa0.html",
+     "data": "2026-08-02T11:11:57+00:00"
+    },
+    {
+     "titolo": "Incidente aereo in Perù: Seregno piange famiglia Angelucci, 'città sconvolta'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/incidente-aereo-in-peru-seregno-piange-famiglia-angelucci-citta-sconvolta_05c0c301-7352-40ce-bc1f-34703ff26106.html",
+     "data": "2026-08-02T11:07:41+00:00"
+    },
+    {
+     "titolo": "Cade da cavallo e finisce in un burrone, muore uomo nel Vicentino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/cade-da-cavallo-e-finisce-in-un-burrone-muore-uomo-nel-vicentino_0886518f-ac81-4825-b85f-00977b90175c.html",
+     "data": "2026-08-02T11:05:31+00:00"
+    },
+    {
+     "titolo": "Caldo all'apice e nessuna tregua per almeno una settimana",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/caldo-allapice-e-nessuna-tregua-per-almeno-una-settimana_bf3d59f4-f811-43e9-b012-6e359e6fb0c4.html",
+     "data": "2026-08-02T11:01:32+00:00"
+    },
+    {
+     "titolo": "Schlein, la Strage di Bologna ha una matrice neofascista, chi governa lo riconosca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/schlein-la-strage-di-bologna-ha-una-matrice-neofascista-chi-governa-lo-riconosca_deaf19b9-afab-48ba-b0b1-d37762f275b3.html",
+     "data": "2026-08-02T10:57:38+00:00"
+    },
+    {
+     "titolo": "No Tav non hanno ancora iniziato a fornire documenti alle forze dell'ordine",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/no-tav-non-hanno-ancora-iniziato-a-fornire-documenti-alle-forze-dellordine_73285ef5-5c53-439a-9d1d-512b18516835.html",
+     "data": "2026-08-02T10:56:53+00:00"
+    },
+    {
      "titolo": "Incendio sul Carso triestino, pronti a evacuare case e strutture",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/incendio-sul-carso-triestino-pronti-a-evacuare-case-e-strutture_9bcdf054-6dbd-4a13-8225-8a55aa19aeb9.html",
      "data": "2026-08-02T10:55:34+00:00"
@@ -133,63 +183,23 @@
     {
      "titolo": "Aereo caduto in Perù, tra le vittime anche un manager di Deloitte e la sua famiglia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/aereo-caduto-in-peru-tra-le-vittime-anche-un-manager-di-deloitte-e-la-sua-famiglia_0d120556-f96c-459e-a453-82d5daaeb2cb.html",
-     "data": "2026-08-02T10:52:37+00:00"
-    },
-    {
-     "titolo": "Il Papa, preoccupato per Ceuta, si trovino soluzioni di giustizia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/il-papa-preoccupato-per-ceuta-si-trovino-soluzioni-di-giustizia_23b4dbfc-38e2-4c92-91ef-2e3e9164ed43.html",
-     "data": "2026-08-02T10:39:30+00:00"
-    },
-    {
-     "titolo": "Bologna ricorda la strage, Mattarella: 'Strategia neofascista'. Meloni: 'Fu terrorismo feroce'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/bologna-ricorda-la-strage-mattarella-strategia-neofascista.-meloni-fu-terrorismo-feroce_d040c4ef-2d4e-429b-beee-e39cc1efe837.html",
-     "data": "2026-08-02T10:35:27+00:00"
-    },
-    {
-     "titolo": "Campi Flegrei, 144 nuclei familiari fuori dalle loro case",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/campi-flegrei-144-nuclei-familiari-fuori-dalle-loro-case_fe8d475c-38d2-4743-917e-e437a35c1ffa.html",
-     "data": "2026-08-02T10:27:16+00:00"
-    },
-    {
-     "titolo": "Due canadair per domare le fiamme nel Cuneese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/due-canadair-per-domare-le-fiamme-nel-cuneese_b10e1be3-4a29-4846-8953-97e0dc9b9a0a.html",
-     "data": "2026-08-02T10:27:20+00:00"
-    },
-    {
-     "titolo": "Balli di gruppo e risate, l'attesa dei No Tav bloccati in strada",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/balli-di-gruppo-e-risate-lattesa-dei-no-tav-bloccati-in-strada_caa3e8de-b028-432a-a320-5f7ae64bc5fa.html",
-     "data": "2026-08-02T10:18:50+00:00"
-    },
-    {
-     "titolo": "Carovana No Tav bloccata in strada dalla polizia a Venaus",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/carovana-no-tav-bloccata-in-strada-dalla-polizia-a-venaus_5da69e03-b62c-4c02-9c15-c47917b70f6e.html",
-     "data": "2026-08-02T10:42:00+00:00"
-    },
-    {
-     "titolo": "No Tav arrivato oggi al presidio di Venaus, 'condanno le violenze'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/no-tav-arrivato-oggi-al-presidio-di-venaus-condanno-le-violenze_9371d2d1-9802-4320-b193-5616ed675910.html",
-     "data": "2026-08-02T10:17:12+00:00"
-    },
-    {
-     "titolo": "Slogan e clacson, i No Tav lasciano il presidio di Venaus",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/slogan-e-clacson-i-no-tav-lasciano-il-presidio-di-venaus_8dafd249-000e-46d3-b0a2-817e107e7f45.html",
-     "data": "2026-08-02T10:12:29+00:00"
-    },
-    {
-     "titolo": "Terremoto ai Campi Flegrei, riaperto il porto di Pozzuoli",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/terremoto-ai-campi-flegrei-riaperto-il-porto-di-pozzuoli_aae7adb6-4ca6-43e9-9ec7-e96237f7651b.html",
-     "data": "2026-08-02T10:46:59+00:00"
-    },
-    {
-     "titolo": "Proseguono ricerche tre dispersi a Messina, in azione anche cani e droni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/proseguono-ricerche-tre-dispersi-a-messina-in-azione-anche-cani-e-droni_9ccb44bd-a9d6-4a2a-b6fc-9982c4bd1a10.html",
-     "data": "2026-08-02T10:55:00+00:00"
+     "data": "2026-08-02T11:31:47+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Roma chiederà hub per i migranti in Africa 'modello Albania'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/02/roma-chiedera-hub-per-i-migranti-in-africa-modello-albania_0040898c-3154-4cb7-b91f-8fec25e2cb3b.html",
+     "data": "2026-08-02T11:03:28+00:00"
+    },
+    {
+     "titolo": "Meloni, con la strage di Bologna il terrorismo feroce colpì al cuore la nazione",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/02/meloni-con-la-strage-di-bologna-il-terrorismo-feroce-colpi-al-cuore-la-nazione_8cfb6dad-8ac2-47f9-ae4d-a77b3d91be80.html",
+     "data": "2026-08-02T10:57:16+00:00"
+    },
     {
      "titolo": "Roma chiederà di creare hub per i migranti in Africa sul 'modello Albania'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/02/roma-chiedera-di-creare-hub-per-i-migranti-in-africa-sul-modello-albania_ac8a53df-41a7-4aff-b6fa-b216624fb09a.html",
@@ -303,7 +313,7 @@
     {
      "titolo": "Quasi metà di Cuba di nuovo al buio a causa di un altro blackout",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/quasi-meta-di-cuba-di-nuovo-al-buio-a-causa-di-un-altro-blackout_3b70de17-8443-478c-945a-4a7f16141499.html",
-     "data": "2026-08-02T10:31:11+00:00"
+     "data": "2026-08-02T11:30:38+00:00"
     },
     {
      "titolo": "Iran, 'nessun accordo su Hormuz, lo Stretto resta chiuso'",
@@ -343,7 +353,7 @@
     {
      "titolo": "Disastro aereo in Perù, identificati i 7 turisti italiani. Coinvolte due famiglie lombarde",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/disastro-aereo-in-peru-identificati-i-7-turisti-italiani.-coinvolte-due-famiglie-lombarde_c83b925c-2fc9-4b66-94bf-b0a73a568502.html",
-     "data": "2026-08-02T10:44:41+00:00"
+     "data": "2026-08-02T11:32:20+00:00"
     },
     {
      "titolo": "Araghchi, 'l'Iran è pronto a salvaguardare la propria sicurezza e sovranità'",
@@ -433,52 +443,52 @@
     {
      "titolo": "Nuoto: Dressel trionfa ai campionati Usa e regala l'oro a suoi fan venuti dall'Europa",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/02/nuoto-dressel-trionfa-ai-campionati-usa-e-regala-loro-a-suoi-fan-venuti_6bb37bd7-0595-4be3-856b-cb0e8d01f3e6.html",
-     "data": "2026-08-02T10:39:28+00:00"
+     "data": "2026-08-02T11:16:54+00:00"
     },
     {
-     "titolo": "Premier: Gvardiol promuove Maresca, è perfetto per il Manchester City",
+     "titolo": "Premier League: Gvardiol promuove Maresca, è perfetto per il Manchester City",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/02/premier-gvardiol-promuove-maresca-e-perfetto-per-il-manchester-city_3a709d3a-61af-4c57-ad16-36649b89ced4.html",
-     "data": "2026-08-02T10:03:07+00:00"
+     "data": "2026-08-02T11:17:38+00:00"
     },
     {
      "titolo": "Milan: Amorim e Gabbia rendono omaggio a murale dedicato a Baresi a Perth",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/02/milan-amorim-e-gabbia-rendono-omaggio-a-murale-dedicato-a-baresi-a-perth_7d1482c6-b5c9-4411-a7d8-ded7be4314a6.html",
-     "data": "2026-08-02T09:38:20+00:00"
+     "data": "2026-08-02T11:18:56+00:00"
     },
     {
      "titolo": "Liga: Vinicius aspetta il rinnovo col Real Madrid, decisivo incontro col club",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/02/liga-vinicius-aspetta-il-rinnovo-col-real-madrid-decisivo-incontro-col_a23a16de-26b0-4f5e-ab17-ed800e8bf1c9.html",
-     "data": "2026-08-02T09:34:21+00:00"
+     "data": "2026-08-02T11:18:08+00:00"
     },
     {
-     "titolo": "Juve: ecco Kolo Muani, il francese è atterrato a Torino",
+     "titolo": "Juventus: ecco Kolo Muani, il francese è atterrato a Torino",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/02/juve-ecco-kolo-muani-il-francese-e-atterrato-a-torino_73a3cc2f-d126-4a0c-a8b4-b9c9643dffff.html",
-     "data": "2026-08-02T09:00:44+00:00"
+     "data": "2026-08-02T11:19:37+00:00"
     },
     {
      "titolo": "Mls: Messi già in campo con l'Inter Miami, ritorno senza gol",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/02/mls-messi-gia-in-campo-con-linter-miami-ritorno-senza-gol_77a62c29-99db-4bfb-8d23-6ed1dfe65be9.html",
-     "data": "2026-08-02T08:47:24+00:00"
+     "data": "2026-08-02T11:20:27+00:00"
     },
     {
      "titolo": "De Zerbi contento del Tottenham, di Tonali e Palestra",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/02/de-zerbi-contento-del-tottenham-di-tonali-e-palestra_eb6f9b2c-4b07-4e60-9e73-f8a756d55b0b.html",
-     "data": "2026-08-02T08:25:58+00:00"
+     "data": "2026-08-02T11:21:46+00:00"
     },
     {
-     "titolo": "Sarà Eala-Pegula la finale del Wta 500 di Washington",
+     "titolo": "Tennis: sarà Eala-Pegula la finale del Wta 500 di Washington",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/01/sara-eala-pegula-la-finale-del-wta-500-di-washington_f17f9461-6d06-4607-9ee1-e432ddf6fa01.html",
-     "data": "2026-08-01T21:55:41+00:00"
+     "data": "2026-08-02T11:22:31+00:00"
     },
     {
-     "titolo": "Allegri, 'a Napoli passione notevole, la prossima festa per un trofeo'",
+     "titolo": "Allegri: 'a Napoli passione notevole, la prossima festa per un trofeo'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/allegri-a-napoli-passione-notevole-la-prossima-festa-per-un-trofeo_04cd4d03-f2bf-45b5-9a11-f8afa989a4b1.html",
-     "data": "2026-08-01T21:11:28+00:00"
+     "data": "2026-08-02T11:23:39+00:00"
     },
     {
      "titolo": "Europei: Marsaglia quarto nel trampolino 1m, azzurre seste dalla piattaforma 10m",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/01/europei-marsaglia-quarto-nel-trampolino-1m-azzurre-seste-dalla-piattaforma_c4e95d17-020b-4acc-ab7d-c13e5f2a93df.html",
-     "data": "2026-08-01T20:59:32+00:00"
+     "data": "2026-08-02T11:24:58+00:00"
     },
     {
      "titolo": "Serie A: ufficiale Koulierakis alla Roma, al Wolfsburg 17 milioni",
