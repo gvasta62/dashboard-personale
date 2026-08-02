@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-01T23:24:12.480912+00:00",
+ "aggiornato": "2026-08-02T01:02:16.131014+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Sparatoria vicino un ristorante in Ohio, due morti e tre feriti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/sparatoria-vicino-un-ristorante-in-ohio-due-morti-e-tre-feriti_81058df5-f64b-48c1-add5-18d0e21292d2.html",
+     "data": "2026-08-01T23:33:22+00:00"
+    },
     {
      "titolo": "Araghchi mette in guardia contro 'qualsiasi azione avventuristica' degli Usa",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/araghchi-mette-in-guardia-contro-qualsiasi-azione-avventuristica-degli-usa_28a8f2fc-9efa-435b-bb07-6a114ad799e1.html",
@@ -49,11 +54,6 @@
      "titolo": "Precipitò da una terrazza a Roma, 'è stato un femminicidio'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/precipito-da-una-terrazza-a-roma-e-stato-un-femminicidio_927479df-95bc-48be-bd2f-eef269b6b37d.html",
      "data": "2026-08-01T18:52:18+00:00"
-    },
-    {
-     "titolo": "Sanchez vola a Lanzarote per le vacanze e posta sui social sua playlist",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/sanchez-vola-a-lanzarote-per-le-vacanze-e-posta-sui-social-sua-playlist_1666efbd-3354-4bb7-907b-10ed287db9b5.html",
-     "data": "2026-08-01T18:39:16+00:00"
     }
    ]
   },
@@ -296,6 +296,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Sparatoria vicino un ristorante in Ohio, due morti e tre feriti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/02/sparatoria-vicino-un-ristorante-in-ohio-due-morti-e-tre-feriti_d7e9653d-1f3c-441d-be6a-e4be5e79379b.html",
+     "data": "2026-08-01T23:33:22+00:00"
+    },
+    {
      "titolo": "Araghchi mette in guardia contro 'qualsiasi azione avventuristica' degli Usa",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/02/araghchi-mette-in-guardia-contro-qualsiasi-azione-avventuristica-degli-usa_1f4790ca-1dea-4bc9-b8f8-cfac4df85db0.html",
      "data": "2026-08-01T22:20:36+00:00"
@@ -349,11 +354,6 @@
      "titolo": "++ Esplosione in un caffè a Mosca, 3 morti e 15 feriti ++",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/esplosione-in-un-caffe-a-mosca-3-morti-e-15-feriti_d1af2053-890c-469d-8410-d4514b475e6c.html",
      "data": "2026-08-01T18:13:37+00:00"
-    },
-    {
-     "titolo": "Sanchez assediato dall'opposizione, 'ha fallito'. Ma lui va in vacanza",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/sanchez-assediato-dallopposizione-triplice-fallimento-del-governo_29eed2ed-3f50-42a7-ae01-9762373ec307.html",
-     "data": "2026-08-01T18:59:42+00:00"
     }
    ]
   },
