@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-02T21:14:02.362625+00:00",
+ "aggiornato": "2026-08-02T22:14:47.471872+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, 'interventi sullo yen come segnale di amicizia verso il Giappone'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/03/trump-interventi-sullo-yen-come-segnale-di-amicizia-verso-il-giappone_51fdad52-2d3f-4d70-96f1-2b00185e4a77.html",
+     "data": "2026-08-02T22:09:31+00:00"
+    },
+    {
+     "titolo": "Trump, 'con l'Iran c'è l'accordo su Hormuz, ce ne sarà uno sul nucleare'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/trump-con-liran-ce-laccordo-su-hormuz-ce-ne-sara-uno-sul-nucleare_f3db8331-a731-4f50-8f37-75cabccf8a39.html",
+     "data": "2026-08-02T21:58:32+00:00"
+    },
     {
      "titolo": "Scontro sulla Terni-Rieti, 6 vittime e 26 feriti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/scontro-sulla-terni-rieti-6-vittime-e-26-feriti_bcb4af59-efb0-45ba-a8c6-8c6aad743fa9.html",
@@ -44,22 +54,17 @@
      "titolo": "Conte, il nodo Ucraina lo scioglieremo con le primarie",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/conte-il-nodo-ucraina-lo-scioglieremo-con-le-primarie_6ddb1dad-4a51-4033-879c-d233a5680c57.html",
      "data": "2026-08-02T16:20:44+00:00"
-    },
-    {
-     "titolo": "Conte, non votiamo il sostegno militare all'Ucraina",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/conte-non-votiamo-il-sostegno-militare-allucraina_b6affd9c-729c-41ae-b0cc-239bc185558d.html",
-     "data": "2026-08-02T16:13:22+00:00"
-    },
-    {
-     "titolo": "Cinque morti e cinque feriti per un incidente sulla Terni-Rieti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/cinque-morti-e-cinque-feriti-per-un-incidente-sulla-terni-rieti_4e0b84aa-1d46-4515-9cf6-e8b0a3e9d804.html",
-     "data": "2026-08-02T15:34:21+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Scontro sulla Terni-Rieti, attivato numero telefonico per i familiari dei coinvolti",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/02/scontro-sulla-terni-rieti-attivato-numero-telefonico-per-i-familiari-dei_c7614e1a-415c-4e46-b084-912109966dca.html",
+     "data": "2026-08-02T21:29:03+00:00"
+    },
     {
      "titolo": "Scontro sulla Terni-Rieti, tre delle vittime umbre",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/02/scontro-sulla-terni-rieti-tre-delle-vittime-umbre_3e5c6e05-e62d-46ff-a736-0523b4b4bcd9.html",
@@ -114,11 +119,6 @@
      "titolo": "Al Calvi Festival la presentazione del libro 'Erano donne' di Gioia Costa",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/01/al-calvi-festival-la-presentazione-del-libro-erano-donne-di-gioia-costa_be14bd72-8752-49ca-85e2-b1b3e120f072.html",
      "data": "2026-08-01T14:26:33+00:00"
-    },
-    {
-     "titolo": "Giovani di tutto il mondo in cammino ad Assisi sulle orme di San Francesco",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/01/giovani-di-tutto-il-mondo-in-cammino-ad-assisi-sulle-orme-di-san-francesco_e9987155-325a-445d-928f-156eabe34749.html",
-     "data": "2026-08-01T13:03:30+00:00"
     }
    ]
   },
@@ -311,6 +311,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump, 'interventi sullo yen come segnale di amicizia verso il Giappone'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/03/trump-interventi-sullo-yen-come-segnale-di-amicizia-verso-il-giappone_566a037a-6228-44c6-bdb9-708e8ba74901.html",
+     "data": "2026-08-02T22:09:47+00:00"
+    },
+    {
+     "titolo": "Trump, 'con l'Iran c'è l'accordo su Hormuz, ce ne sarà uno sul nucleare'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/02/trump-con-liran-ce-laccordo-su-hormuz-ce-ne-sara-uno-sul-nucleare_5218a3d2-5dea-469a-90da-95448c09fb16.html",
+     "data": "2026-08-02T21:58:31+00:00"
+    },
+    {
      "titolo": "Aereo si schianta in Perù, 'aveva problemi meccanici'. Distrutte due famiglie italiane",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/aereo-si-schianta-in-peru-aveva-problemi-meccanici.-distrutte-due-famiglie-italiane_c83b925c-2fc9-4b66-94bf-b0a73a568502.html",
      "data": "2026-08-02T19:20:38+00:00"
@@ -359,16 +369,6 @@
      "titolo": "Flavio Bolsonaro, 'se Lula sarà rieletto avvierà una dittatura in Brasile'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/flavio-bolsonaro-se-lula-sara-rieletto-avviera-una-dittatura-in-brasile_b5480cf5-e83c-4495-be17-432f449548be.html",
      "data": "2026-08-02T14:52:36+00:00"
-    },
-    {
-     "titolo": "Media, vivi i due piloti di uno degli elicotteri scontrati in Grecia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/02/media-vivi-i-due-piloti-di-uno-degli-elicotteri-scontrati-in-grecia_78c7eb0a-3981-477d-a4c4-b942c1515ddc.html",
-     "data": "2026-08-02T14:13:54+00:00"
-    },
-    {
-     "titolo": "Due elicotteri antincendio si sono scontrati in Grecia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/02/due-elicotteri-antincendio-si-sono-scontrati-in-grecia_5aac41fc-5547-44ad-afb6-586a87be1ac1.html",
-     "data": "2026-08-02T13:50:09+00:00"
     }
    ]
   },
@@ -446,6 +446,11 @@
      "data": "2026-08-02T21:08:11+00:00"
     },
     {
+     "titolo": "Chiara Pellacani, nuova regina dei tuffi",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/02/chiara-pellacani-nuova-regina-dei-tuffi_57bd19cb-ab9a-436c-8eb9-042d82c69c65.html",
+     "data": "2026-08-02T21:15:32+00:00"
+    },
+    {
      "titolo": "Europei nuoto: Pellacani, \"Un altro oro? E' l'obiettivo, ci proverò\"",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/02/europei-nuoto-pellacani-un-altro-oro-e-lobiettivo-ci-provero_723f3616-41fd-4150-bf60-6e04ada00df9.html",
      "data": "2026-08-02T20:49:19+00:00"
@@ -458,7 +463,7 @@
     {
      "titolo": "Europei di nuoto: strepitosa Chiara Pellecani, doppietta d'oro",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/02/europei-di-nuoto-due-ori-dellitalia-nei-tuffi-con-chiara-pellacani_1b37155f-6804-4605-8291-f05f327e673d.html",
-     "data": "2026-08-02T20:35:08+00:00"
+     "data": "2026-08-02T21:52:57+00:00"
     },
     {
      "titolo": "Europei nuoto: strepitosa Chiara Pellacani, oro anche nel trampolino da 1 metro",
@@ -494,11 +499,6 @@
      "titolo": "Amichevoli: ko col Feyenoord, ma l'Atalanta di Sarri non sfigura",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/02/amichevoli-ko-col-feyenoord-ma-latalanta-di-sarri-non-sfigura_a0bb12f0-76b0-4e2f-982e-f9265477c336.html",
      "data": "2026-08-02T16:41:44+00:00"
-    },
-    {
-     "titolo": "Calcio: Salvini, Curva Sud San Siro sia intitolata a Franco Baresi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/02/calcio-salvini-curva-sud-san-siro-sia-intitolata-a-franco-baresi_c8a852a3-265e-4c9d-bd7c-27ad403280d3.html",
-     "data": "2026-08-02T15:18:26+00:00"
     }
    ]
   }
