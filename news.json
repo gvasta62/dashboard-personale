@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-02T09:27:51.321788+00:00",
+ "aggiornato": "2026-08-02T10:57:14.196978+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il Papa, preoccupato per Ceuta, si trovino soluzioni di giustizia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/il-papa-preoccupato-per-ceuta-si-trovino-soluzioni-di-giustizia_8d963032-7593-4d79-913c-fc19967b6754.html",
+     "data": "2026-08-02T10:39:22+00:00"
+    },
+    {
+     "titolo": "Iran, 'nessun accordo su Hormuz, lo Stretto resta chiuso'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/iran-nessun-accordo-su-hormuz-lo-stretto-resta-chiuso_89315601-4123-43d6-9d4c-82a9b07a823d.html",
+     "data": "2026-08-02T10:30:03+00:00"
+    },
+    {
+     "titolo": "Media sauditi confermano, Bin Salman ha proposto a Trump la diplomazia con l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/media-sauditi-confermano-bin-salman-ha-proposto-a-trump-la-diplomazia-con-liran_91fef719-7b91-49a3-a6c8-c18ec72775c2.html",
+     "data": "2026-08-02T09:26:53+00:00"
+    },
     {
      "titolo": "Media, 9 palestinesi uccisi nei raid israeliani a Gaza, anche tre bambini",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/media-9-palestinesi-uccisi-nei-raid-israeliani-a-gaza-anche-tre-bambini_2d1c5731-1aaa-4301-8877-b73e0b82f736.html",
@@ -39,21 +54,6 @@
      "titolo": "Sparatoria vicino un ristorante in Ohio, due morti e tre feriti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/sparatoria-vicino-un-ristorante-in-ohio-due-morti-e-tre-feriti_81058df5-f64b-48c1-add5-18d0e21292d2.html",
      "data": "2026-08-01T23:33:22+00:00"
-    },
-    {
-     "titolo": "Araghchi mette in guardia contro 'qualsiasi azione avventuristica' degli Usa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/araghchi-mette-in-guardia-contro-qualsiasi-azione-avventuristica-degli-usa_28a8f2fc-9efa-435b-bb07-6a114ad799e1.html",
-     "data": "2026-08-01T22:20:18+00:00"
-    },
-    {
-     "titolo": "Addio all'attore Vincent Pastore, una delle star dei Soprano",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/addio-allattore-vincent-pastore-una-delle-star-dei-soprano_90a0c4fb-e4df-4ccd-b8fd-c4ee9e543107.html",
-     "data": "2026-08-01T22:10:59+00:00"
-    },
-    {
-     "titolo": "Usa alzano il livello di allerta per i viaggi a Ceuta, 'riconsiderate'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/usa-alzano-il-livello-di-allerta-per-i-viaggi-a-ceuta-riconsiderate_9ba6d5cd-ee60-4142-b2ae-5b6d5e773a09.html",
-     "data": "2026-08-01T21:51:37+00:00"
     }
    ]
   },
@@ -126,70 +126,75 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Aereo caduto in Perù, coinvolte due famiglie di Monza e Seregno",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/aereo-caduto-in-peru-coinvolte-due-famiglie-di-monza-e-seregno_bd60f985-7eff-4022-a9d3-bf131b2c9e14.html",
-     "data": "2026-08-02T08:45:03+00:00"
+     "titolo": "Incendio sul Carso triestino, pronti a evacuare case e strutture",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/incendio-sul-carso-triestino-pronti-a-evacuare-case-e-strutture_9bcdf054-6dbd-4a13-8225-8a55aa19aeb9.html",
+     "data": "2026-08-02T10:55:34+00:00"
     },
     {
-     "titolo": "Arcivescovo Bari, 'i migranti non sono strumenti di pressione geopolitica'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/arcivescovo-bari-i-migranti-non-sono-strumenti-di-pressione-geopolitica_c9cc28c6-650d-4d44-b7e7-0578d7dadd3c.html",
-     "data": "2026-08-02T08:40:39+00:00"
+     "titolo": "Aereo caduto in Perù, tra le vittime anche un manager di Deloitte e la sua famiglia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/aereo-caduto-in-peru-tra-le-vittime-anche-un-manager-di-deloitte-e-la-sua-famiglia_0d120556-f96c-459e-a453-82d5daaeb2cb.html",
+     "data": "2026-08-02T10:52:37+00:00"
     },
     {
-     "titolo": "Frana in Cadore, evacuate 13 abitazioni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/frana-in-cadore-evacuate-13-abitazioni_676065cd-4a70-4d1d-8c9f-0996c4ac02b2.html",
-     "data": "2026-08-02T08:20:06+00:00"
+     "titolo": "Il Papa, preoccupato per Ceuta, si trovino soluzioni di giustizia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/il-papa-preoccupato-per-ceuta-si-trovino-soluzioni-di-giustizia_23b4dbfc-38e2-4c92-91ef-2e3e9164ed43.html",
+     "data": "2026-08-02T10:39:30+00:00"
     },
     {
-     "titolo": "Bologna ricorda la strage del 2 agosto, Mattarella: 'La strategia neofascista voleva distruggere libertà e democrazia'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/bologna-ricorda-la-strage-del-2-agosto-mattarella-la-strategia-neofascista-voleva-distruggere_d040c4ef-2d4e-429b-beee-e39cc1efe837.html",
-     "data": "2026-08-02T09:21:12+00:00"
+     "titolo": "Bologna ricorda la strage, Mattarella: 'Strategia neofascista'. Meloni: 'Fu terrorismo feroce'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/bologna-ricorda-la-strage-mattarella-strategia-neofascista.-meloni-fu-terrorismo-feroce_d040c4ef-2d4e-429b-beee-e39cc1efe837.html",
+     "data": "2026-08-02T10:35:27+00:00"
     },
     {
-     "titolo": "Incendio in una azienda di rifiuti a San Benedetto del Tronto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/incendio-in-una-azienda-di-rifiuti-a-san-benedetto-del-tronto_5b5a9d67-52b9-48de-8120-6cd0258c0141.html",
-     "data": "2026-08-02T07:52:34+00:00"
+     "titolo": "Campi Flegrei, 144 nuclei familiari fuori dalle loro case",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/campi-flegrei-144-nuclei-familiari-fuori-dalle-loro-case_fe8d475c-38d2-4743-917e-e437a35c1ffa.html",
+     "data": "2026-08-02T10:27:16+00:00"
     },
     {
-     "titolo": "È morto Mattia Maestri, il bimbo in coma che mangiò formaggio a latte crudo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/e-morto-mattia-maestri-il-bimbo-in-coma-che-mangio-formaggio-a-latte-crudo_0b92c19b-89df-4184-8f94-d3ab5ab152ab.html",
-     "data": "2026-08-02T07:26:30+00:00"
+     "titolo": "Due canadair per domare le fiamme nel Cuneese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/due-canadair-per-domare-le-fiamme-nel-cuneese_b10e1be3-4a29-4846-8953-97e0dc9b9a0a.html",
+     "data": "2026-08-02T10:27:20+00:00"
     },
     {
-     "titolo": "Lepore, 'il 2 agosto è il giorno più importante della storia di Bologna'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/lepore-il-2-agosto-e-il-giorno-piu-importante-della-storia-di-bologna_febb9b8d-3129-4e17-aad8-224fd761f4df.html",
-     "data": "2026-08-02T06:49:51+00:00"
+     "titolo": "Balli di gruppo e risate, l'attesa dei No Tav bloccati in strada",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/balli-di-gruppo-e-risate-lattesa-dei-no-tav-bloccati-in-strada_caa3e8de-b028-432a-a320-5f7ae64bc5fa.html",
+     "data": "2026-08-02T10:18:50+00:00"
     },
     {
-     "titolo": "Il giudice che condannò Bellini, 'prove sterminate sulla matrice fascista'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/il-giudice-che-condanno-bellini-prove-sterminate-sulla-matrice-fascista_0fd7c448-6c8d-4a5d-9798-9d8edc8b8a02.html",
-     "data": "2026-08-02T06:06:41+00:00"
+     "titolo": "Carovana No Tav bloccata in strada dalla polizia a Venaus",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/carovana-no-tav-bloccata-in-strada-dalla-polizia-a-venaus_5da69e03-b62c-4c02-9c15-c47917b70f6e.html",
+     "data": "2026-08-02T10:42:00+00:00"
     },
     {
-     "titolo": "Incendio in appartamento in Brianza, uomo si lancia nel vuoto e muore",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/incendio-in-appartamento-in-brianza-uomo-si-lancia-nel-vuoto-e-muore_252dc8a7-703b-4eb7-87ce-4633b914e90f.html",
-     "data": "2026-08-01T21:16:32+00:00"
+     "titolo": "No Tav arrivato oggi al presidio di Venaus, 'condanno le violenze'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/no-tav-arrivato-oggi-al-presidio-di-venaus-condanno-le-violenze_9371d2d1-9802-4320-b193-5616ed675910.html",
+     "data": "2026-08-02T10:17:12+00:00"
     },
     {
-     "titolo": "Precipitò da una terrazza a Roma, spunta l'ipotesi di un femminicidio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/precipito-da-una-terrazza-a-roma-spunta-lipotesi-di-un-femminicidio_336fea78-2204-4ffe-bb14-896273f9e6a5.html",
-     "data": "2026-08-01T19:36:27+00:00"
+     "titolo": "Slogan e clacson, i No Tav lasciano il presidio di Venaus",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/slogan-e-clacson-i-no-tav-lasciano-il-presidio-di-venaus_8dafd249-000e-46d3-b0a2-817e107e7f45.html",
+     "data": "2026-08-02T10:12:29+00:00"
     },
     {
-     "titolo": "Ci sono i primi indagati  sul crollo di Messina, ancora tre dispersi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/ci-sono-i-primi-indagati-sul-crollo-di-messina-ancora-tre-dispersi_1ce25cee-2957-4946-9f7a-1b17758c72d6.html",
-     "data": "2026-08-01T19:33:27+00:00"
+     "titolo": "Terremoto ai Campi Flegrei, riaperto il porto di Pozzuoli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/terremoto-ai-campi-flegrei-riaperto-il-porto-di-pozzuoli_aae7adb6-4ca6-43e9-9ec7-e96237f7651b.html",
+     "data": "2026-08-02T10:46:59+00:00"
     },
     {
-     "titolo": "Incendi in Abruzzo, brucia ancora la vegetazione nell'Aquilano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/incendi-in-abruzzo-brucia-ancora-la-vegetazione-nellaquilano_54a473ad-7f03-4bc4-a976-74ac50432f02.html",
-     "data": "2026-08-01T19:11:18+00:00"
+     "titolo": "Proseguono ricerche tre dispersi a Messina, in azione anche cani e droni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/proseguono-ricerche-tre-dispersi-a-messina-in-azione-anche-cani-e-droni_9ccb44bd-a9d6-4a2a-b6fc-9982c4bd1a10.html",
+     "data": "2026-08-02T10:55:00+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Roma chiederà di creare hub per i migranti in Africa sul 'modello Albania'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/02/roma-chiedera-di-creare-hub-per-i-migranti-in-africa-sul-modello-albania_ac8a53df-41a7-4aff-b6fa-b216624fb09a.html",
+     "data": "2026-08-02T10:30:37+00:00"
+    },
     {
      "titolo": "Mattarella, libertà, giustizia e democrazia i valori per salvaguardare il futuro",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/02/mattarella-liberta-giustizia-e-democrazia-i-valori-per-salvaguardare-il-futuro_f9e69d07-c73a-45e6-81fa-295533b04b9c.html",
@@ -224,11 +229,6 @@
      "titolo": "Giovani di tutto il mondo in cammino ad Assisi sulle orme di San Francesco",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/giovani-di-tutto-il-mondo-in-cammino-ad-assisi-sulle-orme-di-san-francesco_213c4de8-6e98-46f8-9278-1e6b6e5490be.html",
      "data": "2026-08-01T12:59:19+00:00"
-    },
-    {
-     "titolo": "Italia e Danimarca promuovono lettera alla Ue su Ceuta, firmano in 22",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/italia-e-danimarca-promuovono-lettera-alla-ue-su-ceuta-firmano-in-22_2571360b-9f57-4e0e-86a2-e48bc1b5c660.html",
-     "data": "2026-08-01T09:47:07+00:00"
     }
    ]
   },
@@ -301,6 +301,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Quasi metà di Cuba di nuovo al buio a causa di un altro blackout",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/quasi-meta-di-cuba-di-nuovo-al-buio-a-causa-di-un-altro-blackout_3b70de17-8443-478c-945a-4a7f16141499.html",
+     "data": "2026-08-02T10:31:11+00:00"
+    },
+    {
+     "titolo": "Iran, 'nessun accordo su Hormuz, lo Stretto resta chiuso'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/02/iran-nessun-accordo-su-hormuz-lo-stretto-resta-chiuso_60420909-4eb0-40da-85e3-44a77d4e7ec6.html",
+     "data": "2026-08-02T10:30:08+00:00"
+    },
+    {
+     "titolo": "Ritrovato sul Broad Peak il corpo della leggenda dell'alpinismo Nirmal Purja",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/02/ritrovato-sul-broad-peak-il-corpo-della-leggenda-dellalpinismo-nirmal-purja_9cdcdcd5-e237-491a-acc6-e918d3ccdf55.html",
+     "data": "2026-08-02T10:24:37+00:00"
+    },
+    {
+     "titolo": "Mosca, 'due morti negli attacchi ucraini nel sud-ovest'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/02/mosca-due-morti-negli-attacchi-ucraini-nel-sud-ovest_d24e413e-655b-4659-879a-eecc416a451f.html",
+     "data": "2026-08-02T09:29:19+00:00"
+    },
+    {
+     "titolo": "Media sauditi confermano, Bin Salman ha proposto a Trump la diplomazia con l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/02/media-sauditi-confermano-bin-salman-ha-proposto-a-trump-la-diplomazia-con-liran_864d797d-5e3c-4519-a18b-a7de15134b18.html",
+     "data": "2026-08-02T09:27:09+00:00"
+    },
+    {
      "titolo": "Media, 9 palestinesi uccisi nei raid israeliani a Gaza, anche tre bambini",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/02/media-9-palestinesi-uccisi-nei-raid-israeliani-a-gaza-anche-tre-bambini_0dcdd2bb-3dbe-44ba-b7bc-a584eac79952.html",
      "data": "2026-08-02T09:25:09+00:00"
@@ -318,7 +343,7 @@
     {
      "titolo": "Disastro aereo in Perù, identificati i 7 turisti italiani. Coinvolte due famiglie lombarde",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/disastro-aereo-in-peru-identificati-i-7-turisti-italiani.-coinvolte-due-famiglie-lombarde_c83b925c-2fc9-4b66-94bf-b0a73a568502.html",
-     "data": "2026-08-02T08:49:18+00:00"
+     "data": "2026-08-02T10:44:41+00:00"
     },
     {
      "titolo": "Araghchi, 'l'Iran è pronto a salvaguardare la propria sicurezza e sovranità'",
@@ -334,31 +359,6 @@
      "titolo": "Raid israeliani su Gaza nella notte, almeno otto morti",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/02/raid-israeliani-su-gaza-nella-notte-almeno-otto-morti_dd5ddcde-1926-47bf-978c-f3f70e21506f.html",
      "data": "2026-08-02T06:36:47+00:00"
-    },
-    {
-     "titolo": "Trump, 'ritiro l'attacco sull'Iran su richiesta di Teheran e altri Paesi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/02/trump-ritiro-lattacco-sulliran-su-richiesta-di-teheran-e-altri-paesi_7f25a80a-c009-46c3-aee9-ba7abc9a01bd.html",
-     "data": "2026-08-02T02:27:57+00:00"
-    },
-    {
-     "titolo": "Sparatoria vicino un ristorante in Ohio, due morti e tre feriti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/02/sparatoria-vicino-un-ristorante-in-ohio-due-morti-e-tre-feriti_d7e9653d-1f3c-441d-be6a-e4be5e79379b.html",
-     "data": "2026-08-01T23:33:22+00:00"
-    },
-    {
-     "titolo": "Araghchi mette in guardia contro 'qualsiasi azione avventuristica' degli Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/02/araghchi-mette-in-guardia-contro-qualsiasi-azione-avventuristica-degli-usa_1f4790ca-1dea-4bc9-b8f8-cfac4df85db0.html",
-     "data": "2026-08-01T22:20:36+00:00"
-    },
-    {
-     "titolo": "Addio all'attore Vincent Pastore, una delle star dei Soprano",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/02/addio-allattore-vincent-pastore-una-delle-star-dei-soprano_fe789955-1adb-47d5-81de-9d8bd6468235.html",
-     "data": "2026-08-01T22:11:17+00:00"
-    },
-    {
-     "titolo": "Usa alzano il livello di allerta per i viaggi a Ceuta, 'riconsiderate'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/01/usa-alzano-il-livello-di-allerta-per-i-viaggi-a-ceuta-riconsiderate_65be7d0a-3cd3-4f44-a67d-00aac2bbd4ef.html",
-     "data": "2026-08-01T21:51:54+00:00"
     }
    ]
   },
@@ -431,6 +431,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Nuoto: Dressel trionfa ai campionati Usa e regala l'oro a suoi fan venuti dall'Europa",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/02/nuoto-dressel-trionfa-ai-campionati-usa-e-regala-loro-a-suoi-fan-venuti_6bb37bd7-0595-4be3-856b-cb0e8d01f3e6.html",
+     "data": "2026-08-02T10:39:28+00:00"
+    },
+    {
+     "titolo": "Premier: Gvardiol promuove Maresca, è perfetto per il Manchester City",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/02/premier-gvardiol-promuove-maresca-e-perfetto-per-il-manchester-city_3a709d3a-61af-4c57-ad16-36649b89ced4.html",
+     "data": "2026-08-02T10:03:07+00:00"
+    },
+    {
+     "titolo": "Milan: Amorim e Gabbia rendono omaggio a murale dedicato a Baresi a Perth",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/02/milan-amorim-e-gabbia-rendono-omaggio-a-murale-dedicato-a-baresi-a-perth_7d1482c6-b5c9-4411-a7d8-ded7be4314a6.html",
+     "data": "2026-08-02T09:38:20+00:00"
+    },
+    {
+     "titolo": "Liga: Vinicius aspetta il rinnovo col Real Madrid, decisivo incontro col club",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/02/liga-vinicius-aspetta-il-rinnovo-col-real-madrid-decisivo-incontro-col_a23a16de-26b0-4f5e-ab17-ed800e8bf1c9.html",
+     "data": "2026-08-02T09:34:21+00:00"
+    },
+    {
      "titolo": "Juve: ecco Kolo Muani, il francese è atterrato a Torino",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/02/juve-ecco-kolo-muani-il-francese-e-atterrato-a-torino_73a3cc2f-d126-4a0c-a8b4-b9c9643dffff.html",
      "data": "2026-08-02T09:00:44+00:00"
@@ -469,26 +489,6 @@
      "titolo": "Cento anni di calcio e passione, Napoli si tinge d'azzurro per la festa",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/cento-anni-di-calcio-e-passione-napoli-si-tinge-dazzurro-per-la-festa_5a9efcfa-4f3a-4a3b-a043-a0d2d10ef674.html",
      "data": "2026-08-01T19:43:45+00:00"
-    },
-    {
-     "titolo": "Atletica: bene Fabbri a Lonigo nell'ultimo test prima degli Europei",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/01/atletica-bene-fabbri-a-lonigo-nellultimo-test-prima-degli-europei_3df1430e-2dad-4386-8920-62405f7e9fbb.html",
-     "data": "2026-08-01T19:35:40+00:00"
-    },
-    {
-     "titolo": "Venezia sconfitto in amichevole dal Saint-Etienne 4-3",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/venezia-sconfitto-in-amichevole-dal-saint-etienne-4-3_96d0b70e-95d7-442c-a0ea-9e00fcd49082.html",
-     "data": "2026-08-01T18:48:09+00:00"
-    },
-    {
-     "titolo": "La Fiorentina soffre e poi rimonta, con il Real Madrid è 2-2",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/01/la-fiorentina-rimonta-il-real-madrid-2-2-in-amichevole_69d9ff1e-6cf5-4bd2-a4ea-40988d43e8c7.html",
-     "data": "2026-08-01T19:09:09+00:00"
-    },
-    {
-     "titolo": "Calciomercato: l'Inter stringe per Jones, visite mediche e firma per Koulierakis alla Roma",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/01/calciomercato-linter-stringe-per-jones-visite-mediche-e-firma-per-koulierakis_6d566752-9a85-42e7-98a2-76838fbec3b5.html",
-     "data": "2026-08-01T18:07:55+00:00"
     }
    ]
   }
