@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-02T04:45:10.199725+00:00",
+ "aggiornato": "2026-08-02T07:25:14.160017+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Lepore, 'il 2 agosto è il giorno più importante della storia di Bologna'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/lepore-il-2-agosto-e-il-giorno-piu-importante-della-storia-di-bologna_567cf352-6e8c-461d-8b9d-7c1f261e6f86.html",
+     "data": "2026-08-02T06:49:54+00:00"
+    },
     {
      "titolo": "Trump, 'ritiro l'attacco sull'Iran su richiesta di Teheran e altri Paesi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/02/trump-ritiro-lattacco-sulliran-su-richiesta-di-teheran-e-altri-paesi_9fda31d5-99ac-404d-8007-bef718887a1a.html",
@@ -49,11 +54,6 @@
      "titolo": "Precipita un piccolo aereo turistico nel sud del Perù, 13 morti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/precipita-un-piccolo-aereo-turistico-nel-sud-del-peru-13-morti_b0ec49fe-c596-46bc-b060-c5b1b6da1890.html",
      "data": "2026-08-01T20:05:30+00:00"
-    },
-    {
-     "titolo": "Media russi, 'nel locale di Mosca era in corso una festa con un generale'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/01/media-russi-nel-locale-di-mosca-era-in-corso-una-festa-con_dad365d0-2083-435d-a703-a8e7af476cc4.html",
-     "data": "2026-08-01T19:51:40+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Lepore, 'il 2 agosto è il giorno più importante della storia di Bologna'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/lepore-il-2-agosto-e-il-giorno-piu-importante-della-storia-di-bologna_febb9b8d-3129-4e17-aad8-224fd761f4df.html",
+     "data": "2026-08-02T06:49:51+00:00"
+    },
+    {
+     "titolo": "Morto Mattia Maestri, il bimbo in coma che mangiò formaggio a latte crudo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/morto-mattia-maestri-il-bimbo-in-coma-che-mangio-formaggio-a-latte-crudo_0b92c19b-89df-4184-8f94-d3ab5ab152ab.html",
+     "data": "2026-08-02T07:21:45+00:00"
+    },
+    {
+     "titolo": "Il giudice che condannò Bellini, 'prove sterminate sulla matrice fascista'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/il-giudice-che-condanno-bellini-prove-sterminate-sulla-matrice-fascista_0fd7c448-6c8d-4a5d-9798-9d8edc8b8a02.html",
+     "data": "2026-08-02T06:06:41+00:00"
+    },
+    {
      "titolo": "Incendio in appartamento in Brianza, uomo si lancia nel vuoto e muore",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/incendio-in-appartamento-in-brianza-uomo-si-lancia-nel-vuoto-e-muore_252dc8a7-703b-4eb7-87ce-4633b914e90f.html",
      "data": "2026-08-01T21:16:32+00:00"
@@ -169,21 +184,6 @@
      "titolo": "Chiuso il porto di Pozzuoli, sabato nero per i turisti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/chiuso-il-porto-di-pozzuoli-sabato-nero-per-i-turisti_10b3022f-ff0b-4500-8e92-ac8a616e9e49.html",
      "data": "2026-08-01T18:52:51+00:00"
-    },
-    {
-     "titolo": "Autostrade Alto Adriatico, 'sabato da grande esodo'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/autostrade-alto-adriatico-sabato-da-grande-esodo_5042ea01-edd5-4505-adc0-8ffcab6a3163.html",
-     "data": "2026-08-01T18:06:11+00:00"
-    },
-    {
-     "titolo": "Grossa colata di fango a San Vigilio di Marebbe in val Badia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/grossa-colata-di-fango-a-san-vigilio-di-marebbe-in-val-badia_e4210b30-a1fa-43ac-8b83-2e08c3cd2692.html",
-     "data": "2026-08-01T17:38:28+00:00"
-    },
-    {
-     "titolo": "No Tav, a Venaus una grande bandiera della Palestina come paravento",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/no-tav-a-venaus-una-grande-bandiera-della-palestina-come-paravento_04f5fccf-700a-4d0d-be2d-1d119cb03df3.html",
-     "data": "2026-08-01T17:33:10+00:00"
     }
    ]
   },
@@ -193,7 +193,7 @@
     {
      "titolo": "Valditara: 'Il divieto di burqa a scuola per riaffermare la dignità delle donne'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/01/valditara-il-divieto-di-burqa-a-scuola-per-riaffermare-la-dignita-delle-donne_96dce8bc-ba56-4eec-81fb-3060089a4a5d.html",
-     "data": "2026-08-01T19:03:16+00:00"
+     "data": "2026-08-02T05:54:43+00:00"
     },
     {
      "titolo": "Le opposizioni attaccano, 'la premier riferisca alle Camere'",
@@ -296,6 +296,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Araghchi, 'l'Iran è pronto a salvaguardare la propria sicurezza e sovranità'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/02/araghchi-liran-e-pronto-a-salvaguardare-la-propria-sicurezza-e-sovranita_60a0bd86-82d9-4162-9401-e2da0a7f0c45.html",
+     "data": "2026-08-02T06:56:50+00:00"
+    },
+    {
+     "titolo": "Terremoto in Giappone, terminano le ricerche al centro commerciale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/02/terremoto-in-giappone-terminano-le-ricerche-al-centro-commerciale_48a80cbf-ebe9-405a-befc-2718bb8d4479.html",
+     "data": "2026-08-02T06:54:58+00:00"
+    },
+    {
+     "titolo": "Raid israeliani su Gaza nella notte, almeno otto morti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/02/raid-israeliani-su-gaza-nella-notte-almeno-otto-morti_dd5ddcde-1926-47bf-978c-f3f70e21506f.html",
+     "data": "2026-08-02T06:36:47+00:00"
+    },
+    {
      "titolo": "Trump, 'ritiro l'attacco sull'Iran su richiesta di Teheran e altri Paesi'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/02/trump-ritiro-lattacco-sulliran-su-richiesta-di-teheran-e-altri-paesi_7f25a80a-c009-46c3-aee9-ba7abc9a01bd.html",
      "data": "2026-08-02T02:27:57+00:00"
@@ -328,7 +343,7 @@
     {
      "titolo": "Disastro aereo in Perù, muoiono 7 turisti italiani",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/piccolo-aereo-turistico-si-schianta-in-peru-7-italiani-tra-i-13-morti_c83b925c-2fc9-4b66-94bf-b0a73a568502.html",
-     "data": "2026-08-01T21:40:36+00:00"
+     "data": "2026-08-02T07:13:32+00:00"
     },
     {
      "titolo": "Media, '7 italiani tra le vittime dello schianto aereo turistico in Perù'",
@@ -339,21 +354,6 @@
      "titolo": "Antiterrorismo russo, 'esplosione a Mosca causata da ordigno artigianale'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/antiterrorismo-russo-esplosione-a-mosca-causata-da-ordigno-artigianale_fa728545-ee74-47a7-9b06-f3afa12e6863.html",
      "data": "2026-08-01T20:49:50+00:00"
-    },
-    {
-     "titolo": "Precipita un piccolo aereo turistico nel sud del Perù, 13 morti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/precipita-un-piccolo-aereo-turistico-nel-sud-del-peru-13-morti_d466d553-ee30-4c5a-b04a-abe5222f8322.html",
-     "data": "2026-08-01T20:05:43+00:00"
-    },
-    {
-     "titolo": "Media russi, 'nel locale di Mosca era in corso una festa con un generale'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/media-russi-nel-locale-di-mosca-era-in-corso-una-festa-con_e555eea6-f051-41c1-bd0b-9dab81cecee9.html",
-     "data": "2026-08-01T19:51:53+00:00"
-    },
-    {
-     "titolo": "Sanchez vola a Lanzarote per le vacanze e posta sui social sua playlist",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/sanchez-vola-a-lanzarote-per-le-vacanze-e-posta-sui-social-sua-playlist_0a7ff58b-3ad4-4909-a594-7f3b31bcccfe.html",
-     "data": "2026-08-01T18:39:19+00:00"
     }
    ]
   },
