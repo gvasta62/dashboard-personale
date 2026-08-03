@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-03T20:10:46.504107+00:00",
+ "aggiornato": "2026-08-03T21:35:09.858549+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Qatar, Egitto e Turchia condannano Israele, 'continue violazioni a Gaza'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/03/qatar-egitto-e-turchia-condannano-israele-continue-violazioni-a-gaza_d9ffd5d1-c080-4e77-be9a-331b65a57605.html",
+     "data": "2026-08-03T21:04:09+00:00"
+    },
     {
      "titolo": "Zelensky rimuove Stefanyshyna dall'incarico di ambasciatrice negli Usa",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/03/zelensky-rimuove-stefanyshyna-dallincarico-di-ambasciatrice-negli-usa_7d106716-5df0-4067-a2b1-7fc6ce2dff7b.html",
@@ -49,11 +54,6 @@
      "titolo": "Tajani, 'ad Albares rispondo con i numeri in calo sugli irregolari'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/03/tajani-ad-albares-rispondo-con-i-numeri-in-calo-sugli-irregolari_0ef9cf80-0093-46b4-b9de-1fa683533e4e.html",
      "data": "2026-08-03T17:26:57+00:00"
-    },
-    {
-     "titolo": "Boeing, la Faa concede la certificazione per l'atteso 737 Max 7",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/03/boeing-la-faa-concede-la-certificazione-per-latteso-737-max-7_1d5d24da-d6fe-4b59-a328-1bb690741800.html",
-     "data": "2026-08-03T17:10:56+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-08-03T20:40:48+00:00"
+    },
+    {
      "titolo": "L'amico di Lorenzo e Matteo: 'Non erano persone qualunque'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/lamico-di-lorenzo-e-matteo-non-erano-persone-qualunque_6dfe5dad-8f67-46a8-a935-cbf42d6ea502.html",
      "data": "2026-08-03T17:34:26+00:00"
@@ -144,11 +149,6 @@
      "titolo": "Campi Flegrei, accertamenti dei pm sulla messa in sicurezza dei costoni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/campi-flegrei-accertamenti-della-procura-sulla-messa-in-sicurezza-dei-costoni_3ac4a2e6-0865-44ec-80a1-1bb021467773.html",
      "data": "2026-08-03T19:44:49+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-08-03T16:38:02+00:00"
     },
     {
      "titolo": "'Ha vissuto un calvario', il giorno dell'addio a Mattia",
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "La Giunta del Regolamento rinvia decisione sulle chat di Delmastro, è polemica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/03/la-giunta-del-regolamento-rinvia-decisione-sulle-chat-di-delmastro-e-polemica_a7b2e948-8b6a-475b-ac8e-6517310a7e0e.html",
+     "data": "2026-08-03T20:45:44+00:00"
+    },
+    {
      "titolo": "Tensione nel campo largo, Schlein stoppa Conte sulle primarie",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/03/schlein-a-conte-non-funziona-cosi-prima-il-programma-poi-le-primarie_4a760fc3-c447-4c03-a9d6-d23761eb6bef.html",
      "data": "2026-08-03T19:41:29+00:00"
@@ -199,11 +204,6 @@
      "titolo": "Tutela dei minori online, Agcom ordina blocco sito Escort Advisor. La replica: 'Recepite le indicazioni'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/03/tutela-dei-minori-online-agcom-ordina-blocco-sito-escort-advisor._eaa95f25-997c-4af1-ab3a-e6592a9dc433.html",
      "data": "2026-08-03T11:53:14+00:00"
-    },
-    {
-     "titolo": "Le chat di Delmastro al vaglio della giunta, l'incognita dell'Aula",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/03/le-chat-di-delmastro-al-vaglio-della-giunta_a7b2e948-8b6a-475b-ac8e-6517310a7e0e.html",
-     "data": "2026-08-03T19:08:17+00:00"
     }
    ]
   },
@@ -276,6 +276,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Noboa schiera 4.000 tra poliziotti e militari per la sicurezza a Quito",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/03/noboa-schiera-4.000-tra-poliziotti-e-militari-per-la-sicurezza-a-quito_f6161c51-96fb-462a-85aa-c96fae5150e2.html",
+     "data": "2026-08-03T21:24:35+00:00"
+    },
+    {
+     "titolo": "Colombia, 007 allertano su eventuali attentati della guerriglia durante la transizione",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/03/colombia-007-allertano-su-eventuali-attentati-della-guerriglia-durante-la-transizione_5aac6d0e-eaf1-413f-ae4a-54e1e2123be1.html",
+     "data": "2026-08-03T21:22:25+00:00"
+    },
+    {
+     "titolo": "Colombia, Bolívar denuncia, '95 comuni con più elettori che abitanti a presidenziali'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/03/colombia-bolivar-denuncia-95-comuni-con-piu-elettori-che-abitanti-a-presidenziali_eba467bb-bca7-41ac-9eed-8c8f6cb8bffd.html",
+     "data": "2026-08-03T21:09:14+00:00"
+    },
+    {
+     "titolo": "Bolivia e Brasile rafforzano la cooperazione nella lotta alle organizzazioni criminali",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/03/bolivia-e-brasile-rafforzano-la-cooperazione-nella-lotta-alle-organizzazioni-criminali_e8ca95b2-a7bc-4688-bd4d-f8b165cd2747.html",
+     "data": "2026-08-03T21:07:54+00:00"
+    },
+    {
+     "titolo": "Qatar, Egitto e Turchia condannano Israele, 'continue violazioni a Gaza'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/03/qatar-egitto-e-turchia-condannano-israele-continue-violazioni-a-gaza_cdad0355-4e20-4c65-9c3c-728e2401cb01.html",
+     "data": "2026-08-03T21:04:09+00:00"
+    },
+    {
      "titolo": "Madrid attacca Roma, richiamo di von der Leyen all'unità sui migranti",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/03/madrid-attacca-roma-richiamo-di-von-der-leyen-allunita-sui-migranti_daeca7b6-ac6b-4d06-80c9-90a517bc83ef.html",
      "data": "2026-08-03T19:31:04+00:00"
@@ -309,31 +334,6 @@
      "titolo": "Tajani, 'ad Albares rispondo con i numeri in calo sugli irregolari'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/03/tajani-ad-albares-rispondo-con-i-numeri-in-calo-sugli-irregolari_f86ebbd7-681a-40ac-82d1-fa7dd6950b71.html",
      "data": "2026-08-03T17:27:15+00:00"
-    },
-    {
-     "titolo": "Ue, arrivata la notifica italiana sui controlli Schengen con la Spagna",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/03/ue-arrivata-la-notifica-italiana-sui-controlli-schengen-con-la-spagna_cb45c287-10fd-4617-aea0-2e1a76e8d67d.html",
-     "data": "2026-08-03T16:37:14+00:00"
-    },
-    {
-     "titolo": "I sindacati dell'istruzione pubblica argentini scioperano contro i tagli di Milei",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/03/i-sindacati-dellistruzione-pubblica-argentini-scioperano-contro-i-tagli-di-milei_d9ec7ddc-9db2-4179-9f4b-3fc17b1545fb.html",
-     "data": "2026-08-03T16:25:50+00:00"
-    },
-    {
-     "titolo": "Trump, 'il blocco navale continua fino ad un accordo o ad una resa totale'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/03/trump-il-blocco-navale-continua-fino-ad-un-accordo-o-ad-una-resa-totale_4d705d13-51ce-4551-9611-6428a418b7be.html",
-     "data": "2026-08-03T16:03:40+00:00"
-    },
-    {
-     "titolo": "Fonti Ue, 'alla riunione del Coreper espressa forte solidarietà a Madrid'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/03/fonti-ue-alla-riunione-del-coreper-espressa-forte-solidarieta-a-madrid_09335bc6-c737-48a4-ace2-1461b7bfe6ee.html",
-     "data": "2026-08-03T16:03:10+00:00"
-    },
-    {
-     "titolo": "Nel 2025 calano del 16,6% gli omicidi in Messico, 27.989 uccisioni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/03/nel-2025-calano-del-166-gli-omicidi-in-messico-27.989-uccisioni_bf02d38d-4c69-4231-806d-b3a56b8da76e.html",
-     "data": "2026-08-03T15:55:23+00:00"
     }
    ]
   },
@@ -406,6 +406,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Ufficiale, Petkovic non è più commissario tecnico dell'Algeria",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/03/ufficiale-petkovic-non-e-piu-commissario-tecnico-dellalgeria_6bf3b7c2-e6be-4381-b773-3eb0942cdd1b.html",
+     "data": "2026-08-03T21:03:03+00:00"
+    },
+    {
+     "titolo": "Europei tuffi: Jodoin di Maria sesta nella piattaforma 10m",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/03/europei-tuffi-jodoin-di-maria-sesta-nella-piattaforma-10m_4754e388-7943-4925-b9ac-81cf6a3b088d.html",
+     "data": "2026-08-03T20:10:11+00:00"
+    },
+    {
      "titolo": "Fritz vince a Washington, battuto in 2 set Jodar in finale",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/03/fritz-vince-a-washington-battuto-in-2-set-jodar-in-finale_8e08c9e2-d791-4aa8-b3f4-11062f37b721.html",
      "data": "2026-08-03T19:38:50+00:00"
@@ -454,16 +464,6 @@
      "titolo": "Serena e Venus Williams giocheranno insieme il doppio a Cincinnati",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/03/serena-e-venus-williams-giocheranno-insieme-il-doppio-a-cincinnati_918f4455-decc-4be1-a772-bae2786a1321.html",
      "data": "2026-08-03T18:03:38+00:00"
-    },
-    {
-     "titolo": "Nasce l'alleanza contro Infantino, 'pronti a paralizzare la Fifa'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/03/nasce-lalleanza-contro-infantino-pronti-a-paralizzare-la-fifa_f4337a9f-76c9-477b-a849-49878d52dd99.html",
-     "data": "2026-08-03T18:03:56+00:00"
-    },
-    {
-     "titolo": "Nuovo rinvio per pioggia per Berrettini a Montreal",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/03/nuovo-rinvio-per-pioggia-per-berrettini-a-montreal_71fc5707-02c3-4ab0-9b80-d57bb5f9d295.html",
-     "data": "2026-08-03T17:27:56+00:00"
     }
    ]
   }
