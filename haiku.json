@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-08-02T06:25:59.135565+00:00",
- "data": "2026-08-02",
- "testo": "Cielo di piombo\nun filo di bucato\ngonfio di vento",
- "nota": "Giornata coperta e ventosa, i panni stesi si muovono senza sole.",
+ "aggiornato": "2026-08-03T06:51:50.768953+00:00",
+ "data": "2026-08-03",
+ "testo": "Nuvole gonfie\nun ragno tra le tegole\ntesse nell'afa",
+ "nota": "Osservata una tela di ragno sotto il cornicione, in un pomeriggio coperto e afoso.",
  "archivio": [
+  {
+   "data": "2026-08-03",
+   "testo": "Nuvole gonfie\nun ragno tra le tegole\ntesse nell'afa",
+   "nota": "Osservata una tela di ragno sotto il cornicione, in un pomeriggio coperto e afoso."
+  },
   {
    "data": "2026-08-02",
    "testo": "Cielo di piombo\nun filo di bucato\ngonfio di vento",
