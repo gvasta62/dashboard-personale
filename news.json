@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-04T22:49:49.034419+00:00",
+ "aggiornato": "2026-08-04T23:50:04.090218+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Tennis: ancora problemi al polso, Alcaraz salta il Masters 1000 di Cincinnati",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/tennis-ancora-problemi-al-polso-alcaraz-salta-il-masters-1000-di-cincinnati_33787077-dd6f-4d70-aa4b-a5fc8d242ca5.html",
+     "data": "2026-08-04T23:28:42+00:00"
+    },
     {
      "titolo": "Sindaco di Kiev, 'operativa la difesa aerea nella capitale'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/sindaco-di-kiev-operativa-la-difesa-aerea-nella-capitale_e4b08f02-4e8c-4ae2-90c1-71a18c6c488d.html",
@@ -49,11 +54,6 @@
      "titolo": "Ritorna l'energia a Cuba dopo due blackout totali in meno di 24 ore",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/04/ritorna-lenergia-a-cuba-dopo-due-blackout-totali-in-meno-di-24-ore_3f3ebc84-5887-44d4-a312-d8145a196d54.html",
      "data": "2026-08-04T18:50:28+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'pronti per tutti i formati di riunione, contiamo su Witkoff e Kushner'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/04/zelensky-pronti-per-tutti-i-formati-di-riunione-contiamo-su-witkoff-e-kushner_dc07363b-459c-456f-8457-b2dc1c6ddb44.html",
-     "data": "2026-08-04T18:34:18+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Tennis: ancora problemi al polso, Alcaraz salta il Masters 1000 di Cincinnati",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/05/tennis-ancora-problemi-al-polso-alcaraz-salta-il-masters-1000-di-cincinnati_c93bfabe-1171-4048-97c2-d14856368aa4.html",
+     "data": "2026-08-04T23:28:39+00:00"
+    },
+    {
      "titolo": "Commisso: Per il Centenario della FIorentoina via la maglia n.10 di Antognoni'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/05/commisso-per-il-centenario-della-fiorentoina-via-la-maglia-n.10-di-antognoni_d1aea6ce-1c3b-4e82-ad49-07b434acd078.html",
      "data": "2026-08-04T22:16:03+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Roma vuole i mondiali di atletica, sfida a Londra e Nairobi",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/04/roma-vuole-i-mondiali-di-atletica-sfida-a-londra-e-nairobi_36064129-7234-42e0-b40c-ebe8b8ee77fe.html",
      "data": "2026-08-04T19:17:10+00:00"
-    },
-    {
-     "titolo": "Bergomi: 'Fiaccola a San Siro, per una volta guidavo io Baresi'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/04/bergomi-fiaccola-a-san-siro-per-una-volta-guidavo-io-baresi_0c4ee2ee-b796-4d88-ad95-a9b220dfbbc0.html",
-     "data": "2026-08-04T19:14:40+00:00"
     }
    ]
   }
