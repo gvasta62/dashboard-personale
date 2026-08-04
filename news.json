@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-04T21:43:51.989772+00:00",
+ "aggiornato": "2026-08-04T22:49:49.034419+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Sindaco di Kiev, 'operativa la difesa aerea nella capitale'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/sindaco-di-kiev-operativa-la-difesa-aerea-nella-capitale_e4b08f02-4e8c-4ae2-90c1-71a18c6c488d.html",
+     "data": "2026-08-04T22:17:15+00:00"
+    },
+    {
+     "titolo": "Cuba, luglio segna il record storico di 1.415 proteste e denunce",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/cuba-luglio-segna-il-record-storico-di-1.415-proteste-e-denunce_c7d0cb7d-2843-4b2e-801f-d33860cf77a6.html",
+     "data": "2026-08-04T22:11:19+00:00"
+    },
+    {
+     "titolo": "Hegseth contesta la Cnn sulla carenza dei missili, 'vergognatevi'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/04/hegseth-contesta-la-cnn-sulla-carenza-dei-missili-vergognatevi_86633c1c-7d1c-41ef-9b34-71a7e0d12e0b.html",
+     "data": "2026-08-04T21:52:32+00:00"
+    },
+    {
+     "titolo": "Kiev, 'la capitale sotto attacco russo con missili balistici'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/04/kiev-la-capitale-sotto-attacco-russo-con-missili-balistici_5bc5811f-7f04-44d8-9457-c1482b01c5c9.html",
+     "data": "2026-08-04T21:44:26+00:00"
+    },
     {
      "titolo": "Cnn, 'usati l'80% di intercettori Thaad e circa il 50% di Patriot contro l'Iran'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/04/cnn-usati-l80-di-intercettori-thaad-e-circa-il-50-di-patriot-contro-liran_cd2d9faa-f8c6-48fb-9ce3-d5af0a938dbf.html",
@@ -34,26 +54,6 @@
      "titolo": "Zelensky, 'pronti per tutti i formati di riunione, contiamo su Witkoff e Kushner'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/04/zelensky-pronti-per-tutti-i-formati-di-riunione-contiamo-su-witkoff-e-kushner_dc07363b-459c-456f-8457-b2dc1c6ddb44.html",
      "data": "2026-08-04T18:34:18+00:00"
-    },
-    {
-     "titolo": "La principessa Eugenie dà alla luce bimba a Lisbona, 15esima in linea successione",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/04/la-principessa-eugenie-da-alla-luce-bimba-a-lisbona-15esima-in-linea-successione_efe9dfb4-1631-40b8-a0fc-053529600ef4.html",
-     "data": "2026-08-04T18:05:53+00:00"
-    },
-    {
-     "titolo": "Delhi, 'cargo indiano attaccato e affondato nel Mar Rosso'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/04/delhi-cargo-indiano-attaccato-e-affondato-nel-mar-rosso_3cf86dfe-833d-476a-bde4-f3dcf3b8fca4.html",
-     "data": "2026-08-04T17:57:08+00:00"
-    },
-    {
-     "titolo": "Agente dell'Fbi ruba quasi un milione di dollari in criptovalute",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/04/agente-dellfbi-ruba-quasi-un-milione-di-dollari-in-criptovalute_2e7d40a1-5ec9-4d78-a1e3-2e0273ff4fa1.html",
-     "data": "2026-08-04T17:32:44+00:00"
-    },
-    {
-     "titolo": "Il Cdm approva un nuovo taglio delle accise sul gasolio fino al 25 agosto",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/04/il-cdm-approva-un-nuovo-taglio-delle-accise-sul-gasolio-fino-al-25-agosto_1997d055-dca3-4d85-b8f1-13c7131a2044.html",
-     "data": "2026-08-04T17:20:54+00:00"
     }
    ]
   },
@@ -173,7 +173,7 @@
     {
      "titolo": "Crolla un muro nel Sassarese, muore 41enne, grave il padre",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/04/crolla-un-muro-nel-sassarese-muore-41enne-grave-il-padre_3a79b777-dc29-4adc-809f-7943dd1b0d31.html",
-     "data": "2026-08-04T18:03:18+00:00"
+     "data": "2026-08-04T21:59:19+00:00"
     },
     {
      "titolo": "Cdm, IA stabilmente nei percorsi educativi, 100milioni per formazione prof",
@@ -321,6 +321,36 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ecuador, nuove accuse sull'omicidio del candidato presidenziale Villavicencio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/ecuador-nuove-accuse-sullomicidio-del-candidato-presidenziale-villavicencio_3ea1c8cf-34b1-4d08-8afe-2275cfa7eb82.html",
+     "data": "2026-08-04T22:41:34+00:00"
+    },
+    {
+     "titolo": "Brasile, 'se gli Usa ci invadessero dovremmo aprirgli le porte. Più soldi alla difesa'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/brasile-se-gli-usa-ci-invadessero-dovremmo-aprirgli-le-porte.-piu-soldi-alla_5f10aabd-82ac-438d-aeac-f8cddad0f59f.html",
+     "data": "2026-08-04T22:21:38+00:00"
+    },
+    {
+     "titolo": "Sindaco di Kiev, 'operativa la difesa aerea nella capitale'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/05/sindaco-di-kiev-operativa-la-difesa-aerea-nella-capitale_3aef5794-d896-4fad-8318-7f82c26ed176.html",
+     "data": "2026-08-04T22:17:34+00:00"
+    },
+    {
+     "titolo": "Cuba, luglio segna il record storico di 1.415 proteste e denunce",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/cuba-luglio-segna-il-record-storico-di-1.415-proteste-e-denunce_1c1557ba-94ca-444a-87b5-8ee979018510.html",
+     "data": "2026-08-04T22:11:23+00:00"
+    },
+    {
+     "titolo": "Hegseth contesta la Cnn sulla carenza dei missili, 'vergognatevi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/04/hegseth-contesta-la-cnn-sulla-carenza-dei-missili-vergognatevi_aaa73e25-432c-4962-9b57-984213b12828.html",
+     "data": "2026-08-04T21:52:33+00:00"
+    },
+    {
+     "titolo": "Kiev, 'la capitale sotto attacco russo con missili balistici'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/04/kiev-la-capitale-sotto-attacco-russo-con-missili-balistici_ec32f965-23b3-4dca-ab5d-97ce48fe83dd.html",
+     "data": "2026-08-04T21:44:43+00:00"
+    },
+    {
      "titolo": "Cnn, 'usati l'80% di intercettori Thaad e circa il 50% di Patriot contro l'Iran'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/04/cnn-usati-l80-di-intercettori-thaad-e-circa-il-50-di-patriot-contro-liran_bd7db4fa-05ed-44bb-9ad0-ce654fddc96d.html",
      "data": "2026-08-04T21:00:58+00:00"
@@ -349,36 +379,6 @@
      "titolo": "Processo Maradona, sfila davanti al tribunale l'ultimo testimone",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/04/processo-maradona-sfila-davanti-al-tribunale-lultimo-testimone_4e4f6a63-da79-4a0b-ac25-e94daddcd3ee.html",
      "data": "2026-08-04T20:32:24+00:00"
-    },
-    {
-     "titolo": "Sventato in Brasile un piano di attentati durante le elezioni di ottobre",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/04/sventato-in-brasile-un-piano-di-attentati-durante-le-elezioni-di-ottobre_1c0f5ca1-94d5-4b31-8fa0-d7417fbbd63d.html",
-     "data": "2026-08-04T19:11:35+00:00"
-    },
-    {
-     "titolo": "Ritorna l'energia a Cuba dopo due blackout totali in meno di 24 ore",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/04/ritorna-lenergia-a-cuba-dopo-due-blackout-totali-in-meno-di-24-ore_2fd09f99-6c2b-408a-8519-019aadec2e4e.html",
-     "data": "2026-08-04T18:50:28+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'pronti per tutti i formati di riunione, contiamo su Witkoff e Kushner'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/04/zelensky-pronti-per-tutti-i-formati-di-riunione-contiamo-su-witkoff-e-kushner_653ab7b6-fe5a-4c84-a4c3-583ff4d5ba05.html",
-     "data": "2026-08-04T18:34:34+00:00"
-    },
-    {
-     "titolo": "La principessa Eugenie dà alla luce bimba a Lisbona, 15esima in linea successione",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/04/la-principessa-eugenie-da-alla-luce-bimba-a-lisbona-15esima-in-linea-successione_0999e11e-ebf4-4d7c-9eb3-8f57c138f5c5.html",
-     "data": "2026-08-04T18:06:14+00:00"
-    },
-    {
-     "titolo": "Delhi, 'cargo indiano attaccato e affondato nel Mar Rosso'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/04/delhi-cargo-indiano-attaccato-e-affondato-nel-mar-rosso_88f95197-5f4d-4820-9ecd-eb565eaf2d75.html",
-     "data": "2026-08-04T17:57:05+00:00"
-    },
-    {
-     "titolo": "Trump a picco, gli americani preferiscono i dem nell'economia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/04/trump-a-picco-gli-americani-preferiscono-i-dem-nelleconomia_4e9aeff2-1c45-442a-82f8-20f7bbd0c2e7.html",
-     "data": "2026-08-04T18:14:35+00:00"
     }
    ]
   },
@@ -451,19 +451,34 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Commisso: Per il Centenario della FIorentoina via la maglia n.10 di Antognoni'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/05/commisso-per-il-centenario-della-fiorentoina-via-la-maglia-n.10-di-antognoni_d1aea6ce-1c3b-4e82-ad49-07b434acd078.html",
+     "data": "2026-08-04T22:16:03+00:00"
+    },
+    {
+     "titolo": "Matteo Berrettini ko a Montreal e Lorenzo Sonego fuori a Toronto",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/05/matteo-berrettini-ko-a-montreal-e-lorenzo-sonego-fuori-a-toronto_311da0c0-05be-46d7-8646-5a88cf9c716a.html",
+     "data": "2026-08-04T22:13:50+00:00"
+    },
+    {
+     "titolo": "La Roma vince 4-1 contro il Newport, in gol anche Castro e Koulierakis",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/05/la-roma-vince-4-1-contro-il-newport-in-gol-anche-castro-e-koulierakis_2217db3c-8000-43c7-adf1-b9688109ccd6.html",
+     "data": "2026-08-04T22:11:11+00:00"
+    },
+    {
+     "titolo": "Ancora ori per l'Italia, Pellacani fa poker dal trampolino 3 metri e Taddeucci nella 10 km",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/05/ancora-ori-per-litalia-pellacani-fa-poker-dal-trampolino-3-metri-e-taddeucci_702bda27-61f3-4350-88be-f034fdc99d2c.html",
+     "data": "2026-08-04T22:27:34+00:00"
+    },
+    {
+     "titolo": "Tennis: Sonego ko a Montreal, sconfitto in due set da Griekspoor",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/04/tennis-sonego-ko-a-montreal-sconfitto-in-due-set-da-griekspoor_2f9f35ef-6223-4228-9ba6-811b7c3eaef6.html",
+     "data": "2026-08-04T22:07:09+00:00"
+    },
+    {
      "titolo": "Calcio: il Trabzonspor annuncia l'arrivo di Salah",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/04/calcio-il-trabzonspor-annuncia-larrivo-di-salah_ce890aea-b16d-4045-a32c-e257d43eb749.html",
-     "data": "2026-08-04T21:19:43+00:00"
-    },
-    {
-     "titolo": "Altri due ori per l'Italia, Pellacani  fa poker dal trampolino 3 metri e Taddeucci nella 10 km",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/04/altri-due-ori-per-litalia-pellacani-fa-poker-dal-trampolino-3-metri_702bda27-61f3-4350-88be-f034fdc99d2c.html",
-     "data": "2026-08-04T21:15:09+00:00"
-    },
-    {
-     "titolo": "Calcio: la Roma vince 4-1 contro il Newport, in gol anche Castro e Koulierakis",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/04/calcio-la-roma-vince-4-1-contro-il-newport-in-gol-anche-castro-e-koulierakis_2217db3c-8000-43c7-adf1-b9688109ccd6.html",
-     "data": "2026-08-04T20:03:03+00:00"
+     "data": "2026-08-04T22:06:59+00:00"
     },
     {
      "titolo": "Nove tifosi del Siena calcio denunciati, sequestrate spranghe e coltelli",
@@ -486,16 +501,6 @@
      "data": "2026-08-04T19:23:35+00:00"
     },
     {
-     "titolo": "Matteo Berrettini ko a Montreal battuto dall'argentino Mariano Navone",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/04/matteo-berrettini-ko-a-montreal-battuto-dallargentino-mariano-navone_311da0c0-05be-46d7-8646-5a88cf9c716a.html",
-     "data": "2026-08-04T19:21:51+00:00"
-    },
-    {
-     "titolo": "Commisso: Per il Centenario della FIorentoina via la maglia n.10 di Antognoni'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/04/commisso-per-il-centenario-della-fiorentoina-via-la-maglia-n.10-di-antognoni_d1aea6ce-1c3b-4e82-ad49-07b434acd078.html",
-     "data": "2026-08-04T19:19:08+00:00"
-    },
-    {
      "titolo": "Roma vuole i mondiali di atletica, sfida a Londra e Nairobi",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/04/roma-vuole-i-mondiali-di-atletica-sfida-a-londra-e-nairobi_36064129-7234-42e0-b40c-ebe8b8ee77fe.html",
      "data": "2026-08-04T19:17:10+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Bergomi: 'Fiaccola a San Siro, per una volta guidavo io Baresi'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/04/bergomi-fiaccola-a-san-siro-per-una-volta-guidavo-io-baresi_0c4ee2ee-b796-4d88-ad95-a9b220dfbbc0.html",
      "data": "2026-08-04T19:14:40+00:00"
-    },
-    {
-     "titolo": "Trasferta amara per il Genoa sconfitto 10-1 dal Bournemouth",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/04/trasferta-amara-per-il-genoa-sconfitto-10-1-dal-bournemouth_f6200945-8be5-4dfc-a790-3a1d6eb0ecbd.html",
-     "data": "2026-08-04T19:11:09+00:00"
     }
    ]
   }
