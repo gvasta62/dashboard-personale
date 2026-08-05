@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-05T19:24:51.179026+00:00",
+ "aggiornato": "2026-08-05T20:41:37.219709+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Premier Canada, non credo Infantino possa guidare la Fifa",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/premier-canada-non-credo-infantino-possa-guidare-la-fifa_5f1cb2d3-65e0-406c-a229-8303e5a83174.html",
+     "data": "2026-08-05T20:28:43+00:00"
+    },
+    {
+     "titolo": "Il governo alla Camera incassa la fiducia sul decreto giustizia, 191 sì",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/il-governo-alla-camera-incassa-la-fiducia-sul-decreto-giustizia-191-si_fe183bd9-6c51-4917-a341-4c47545eb616.html",
+     "data": "2026-08-05T19:27:15+00:00"
+    },
     {
      "titolo": "Meloni vede Tajani, Salvini e Lupi, punto prima della pausa estiva",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/meloni-vede-tajani-salvini-e-lupi-punto-prima-della-pausa-estiva_48fc0d13-1265-4e14-801a-1070fe865bf6.html",
@@ -44,16 +54,6 @@
      "titolo": "Borsa: Europa consolida i record, indici piatti in chiusura",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/borsa-europa-consolida-i-record-indici-piatti-in-chiusura_2cb7722c-3cb2-4789-99ab-533f72aa2de7.html",
      "data": "2026-08-05T16:07:25+00:00"
-    },
-    {
-     "titolo": "Protesta M5s sul caso Delmastro, alla Camera e al Senato urla 'Fuori le chat'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/protesta-m5s-sul-caso-delmastro-alla-camera-e-al-senato-urla-fuori_3bc026ac-4ede-40ff-81dc-fde205e6fb1f.html",
-     "data": "2026-08-05T15:56:36+00:00"
-    },
-    {
-     "titolo": "I deputati Avs in Aula si bendano gli occhi per protesta sul caso Delmastro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/i-deputati-avs-in-aula-si-bendano-gli-occhi-per-protesta-sul-caso_2e97be9d-b6b4-4f6c-bd6c-65340e0adce1.html",
-     "data": "2026-08-05T15:56:53+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Allarme bomba nel Milanese, sei centri commerciali evacuati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/allarme-bomba-nel-milanese-sei-centri-commerciali-evacuati_fa82eb98-0a82-4103-803d-41d49aa4246e.html",
+     "data": "2026-08-05T20:02:35+00:00"
+    },
+    {
      "titolo": "Incidente sulla Terni-Rieti, morto l'uomo ricoverato a Perugia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/incidente-sulla-terni-rieti-morto-luomo-ricoverato-a-perugia_394be5cf-69d6-41dd-b6f7-86d6c1426e19.html",
      "data": "2026-08-05T18:32:05+00:00"
@@ -179,17 +184,22 @@
      "titolo": "Militanti di estrema destra minacciano i clienti di un bar a Sarzana",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/militanti-di-estrema-destra-minacciano-i-clienti-di-un-bar-a-sarzana_c6868f22-5507-4dcd-9181-9ef399c5c0ad.html",
      "data": "2026-08-05T18:30:23+00:00"
-    },
-    {
-     "titolo": "La morte di Domenico, c'è l'intesa per il risarcimento",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/la-morte-di-domenico-ce-lintesa-per-il-risarcimento_6a515a2b-97d7-4784-ada2-a300fa902bc3.html",
-     "data": "2026-08-05T17:42:42+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Il governo alla Camera incassa la fiducia sul decreto giustizia, 191 sì",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/il-governo-alla-camera-incassa-la-fiducia-sul-decreto-giustizia-191-si_7f0abaac-57ec-4330-ab6f-f6f92374fd54.html",
+     "data": "2026-08-05T19:36:29+00:00"
+    },
+    {
+     "titolo": "Il governo alla Camera incassa la fiducia sul decreto giustizia, 191 sì",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/il-governo-alla-camera-incassa-la-fiducia-sul-decreto-giustizia-191-si_c6fe62d5-d4c0-4393-b614-76eea779ac14.html",
+     "data": "2026-08-05T19:27:35+00:00"
+    },
     {
      "titolo": "Meloni vede Tajani, Salvini e Lupi, punto prima della pausa estiva",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/meloni-vede-tajani-salvini-e-lupi-punto-prima-della-pausa-estiva_907592dd-654c-45cc-806f-2f74e63e63fd.html",
@@ -216,9 +226,9 @@
      "data": "2026-08-05T16:33:08+00:00"
     },
     {
-     "titolo": "La Camera nega l'acquisizione delle chat di Delmastro. Tensione in Aula, urla e proteste",
+     "titolo": "La Camera nega l'uso delle chat di Delmastro, l'Aula finisce in bagarre",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/la-camera-nega-lacquisizione-delle-chat-di-delmastro.-tensione-in-aula-urla-e-proteste_dc5df7c0-f10a-4c69-aa14-f042a0d51c86.html",
-     "data": "2026-08-05T17:11:50+00:00"
+     "data": "2026-08-05T19:31:59+00:00"
     },
     {
      "titolo": "Protesta M5s sul caso Delmastro, alla Camera e al Senato urla 'Fuori le chat'",
@@ -238,17 +248,7 @@
     {
      "titolo": "Giorgetti in Parlamento, 36 miliardi per energia e armi",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/clausole-di-salvaguardia-litalia-chiede-allue-lo-06-per-lenergia-e-lo-09-per-la-difesa_56757087-311b-4b58-aac5-17519294b57f.html",
-     "data": "2026-08-05T17:50:48+00:00"
-    },
-    {
-     "titolo": "Apre ad Assisi la Casa globale dell'amicizia e della speranza",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/apre-ad-assisi-la-casa-globale-dellamicizia-e-della-speranza_aa726350-4dce-44a8-a745-60eab8417fec.html",
-     "data": "2026-08-05T13:18:15+00:00"
-    },
-    {
-     "titolo": "In Veneto via all'iter per sospendere i blocco dei diesel Euro 5",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/in-veneto-via-alliter-per-sospendere-i-blocco-dei-diesel-euro-5_0c734129-a3ef-4e33-81e4-15ae16c7d439.html",
-     "data": "2026-08-05T12:46:26+00:00"
+     "data": "2026-08-05T19:55:39+00:00"
     }
    ]
   },
@@ -321,6 +321,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Papa Leone XIV in Uruguay, Chiesa locale lo celebra con in mano mate e termos",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/papa-leone-xiv-in-uruguay-chiesa-locale-lo-celebra-con-in-mano-mate_4b701630-0938-4b03-87a2-794c34d9d378.html",
+     "data": "2026-08-05T20:35:08+00:00"
+    },
+    {
+     "titolo": "Premier Canada, non credo Infantino possa guidare la Fifa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/05/premier-canada-non-credo-infantino-possa-guidare-la-fifa_6eb986cb-eea0-4b5a-8ed6-94fc716d0b15.html",
+     "data": "2026-08-05T20:28:38+00:00"
+    },
+    {
+     "titolo": "Leone XIV incontrerà Milei durante il suo viaggio in Argentina",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/leone-xiv-incontrera-milei-durante-il-suo-viaggio-in-argentina_6d92db5b-9e97-4b46-856c-861825eb1775.html",
+     "data": "2026-08-05T20:18:09+00:00"
+    },
+    {
      "titolo": "Accordo tra Iran e Oman sulle nuove rotte di Hormuz, l'ipotesi di una tregua",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/05/accordo-tra-iran-e-oman-sulle-nuove-rotte-di-hormuz-lipotesi-di-una_594e2920-4cc5-42ab-bff8-24241c6b3b0d.html",
      "data": "2026-08-05T19:15:29+00:00"
@@ -364,21 +379,6 @@
      "titolo": "Flavio Bolsonaro annuncia il suo vice alle presidenziali di ottobre",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/flavio-bolsonaro-annuncia-il-suo-vice-alle-presidenziali-di-ottobre_b43a0ea2-8823-4d57-9ce5-0e0893bebce5.html",
      "data": "2026-08-05T15:41:02+00:00"
-    },
-    {
-     "titolo": "Iran, 'raggiunto l'accordo con l'Oman sullo Stretto di Hormuz'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/05/iran-raggiunto-laccordo-con-loman-sullo-stretto-di-hormuz_5880d7a5-ad2b-4b8e-8b02-36a450b2a022.html",
-     "data": "2026-08-05T15:37:53+00:00"
-    },
-    {
-     "titolo": "Abdul El-Sayed ai dem, 'in casa si discute ma fuori serve unità'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/05/abdul-el-sayed-ai-dem-in-casa-si-discute-ma-fuori-serve-unita_08254962-9127-406d-a39f-445d4343b3cd.html",
-     "data": "2026-08-05T15:22:04+00:00"
-    },
-    {
-     "titolo": "Influencer messicano assassinato in piena diretta streaming",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/influencer-messicano-assassinato-in-piena-diretta-streaming_50c0e291-294a-4b74-befa-6cdb2be36301.html",
-     "data": "2026-08-05T15:01:06+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Mondiali 2030: Times, \"Infantino spinge per la finale in Marocco\". La Fifa, \"E' falso\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/05/mondiali-2030-times-infantino-spinge-per-la-finale-in-marocco.-la-fifa-e-falso_96953a7a-b9a0-4b80-8914-5cd7f46a0c8c.html",
+     "data": "2026-08-05T19:52:35+00:00"
+    },
+    {
+     "titolo": "Allarme Alcaraz verso gli Us Open, lo spagnolo salta anche Cincinnati",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/05/allarme-alcaraz-verso-gli-us-open-lo-spagnolo-salta-anche-cincinnati_c93bfabe-1171-4048-97c2-d14856368aa4.html",
+     "data": "2026-08-05T19:40:40+00:00"
+    },
+    {
      "titolo": "Il Torino ok in amichevole, contro il Vado finisce 3-1",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/05/il-torino-ok-in-amichevole-contro-il-vado-finisce-3-1_2d6eeb60-cb46-43c5-8a6f-727f334d7959.html",
      "data": "2026-08-05T19:22:56+00:00"
@@ -463,7 +473,7 @@
     {
      "titolo": "L'atletica italiana verso l'Europeo, Mei: 'A Birmingham per dare battaglia'",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/05/latletica-italiana-verso-leuropeo-mei-a-birmingham-per-dare-battaglia_2460e052-e0c2-451b-9528-17a4aa657168.html",
-     "data": "2026-08-05T19:20:34+00:00"
+     "data": "2026-08-05T19:24:19+00:00"
     },
     {
      "titolo": "Infantino sotto attacco, a Rabat incontro con i dirigenti della Fifa",
@@ -486,11 +496,6 @@
      "data": "2026-08-05T19:06:31+00:00"
     },
     {
-     "titolo": "Allarme Alcaraz verso Us Open. Lo spagnolo salta anche Cincinnati",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/05/allarme-alcaraz-verso-us-open.-lo-spagnolo-salta-anche-cincinnati_c93bfabe-1171-4048-97c2-d14856368aa4.html",
-     "data": "2026-08-05T19:04:35+00:00"
-    },
-    {
      "titolo": "In Canada avanti Musetti e Darderi, fuori Cobolli",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/05/in-canada-avanti-musetti-e-darderi-fuori-cobolli_0345860d-a8f5-409f-9b27-d6a6419660a5.html",
      "data": "2026-08-05T18:59:57+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Calciomercato: il Como non si ferma, arrivano Chalobah e Couto. Roma, fatta per Molina",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/05/calciomercato-il-como-non-si-ferma-arrivano-chalobah-e-couto.-roma-fatta-per_516d24e7-3b2f-4b67-93e5-1d5a1b75e2e0.html",
      "data": "2026-08-05T18:53:07+00:00"
-    },
-    {
-     "titolo": "Calcio: Vozinha potrà giocare in Cile con il soprannome sulla maglia",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/05/calcio-vozinha-potra-giocare-in-cile-con-il-soprannome-sulla-maglia_7bd76f81-289f-4453-bdfa-f89142fc5d8c.html",
-     "data": "2026-08-05T18:49:49+00:00"
     }
    ]
   }
