@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-05T20:41:37.219709+00:00",
+ "aggiornato": "2026-08-05T22:01:55.548158+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "La Camera approva il decreto legge giustizia con 165 sì, è legge",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/la-camera-approva-il-decreto-legge-giustizia-con-165-si-e-legge_a2e26db7-10a7-4fa9-84bc-c0c94cdd5d1a.html",
+     "data": "2026-08-05T21:51:49+00:00"
+    },
     {
      "titolo": "Premier Canada, non credo Infantino possa guidare la Fifa",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/premier-canada-non-credo-infantino-possa-guidare-la-fifa_5f1cb2d3-65e0-406c-a229-8303e5a83174.html",
@@ -49,11 +54,6 @@
      "titolo": "L'Aula della Camera nega alla Procura l'acquisizione delle chat su Delmastro",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/laula-della-camera-nega-alla-procura-lacquisizione-delle-chat-su-delmastro_664d3d88-9f83-4d43-a7c3-0c29fcd51ce5.html",
      "data": "2026-08-05T16:33:01+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa consolida i record, indici piatti in chiusura",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/borsa-europa-consolida-i-record-indici-piatti-in-chiusura_2cb7722c-3cb2-4789-99ab-533f72aa2de7.html",
-     "data": "2026-08-05T16:07:25+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-08-05T20:51:18+00:00"
+    },
+    {
      "titolo": "Allarme bomba nel Milanese, sei centri commerciali evacuati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/allarme-bomba-nel-milanese-sei-centri-commerciali-evacuati_fa82eb98-0a82-4103-803d-41d49aa4246e.html",
      "data": "2026-08-05T20:02:35+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Era in libertà vigilata dopo aver ucciso la figlia, caccia all'uomo nell'Aretino",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/era-in-liberta-vigilata-dopo-aver-ucciso-la-figlia-caccia-alluomo-nellaretino_b32dd14e-f541-47ad-8528-31fa96978620.html",
      "data": "2026-08-05T17:24:17+00:00"
-    },
-    {
-     "titolo": "Militanti di estrema destra minacciano i clienti di un bar a Sarzana",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/militanti-di-estrema-destra-minacciano-i-clienti-di-un-bar-a-sarzana_c6868f22-5507-4dcd-9181-9ef399c5c0ad.html",
-     "data": "2026-08-05T18:30:23+00:00"
     }
    ]
   },
@@ -191,9 +191,14 @@
    "nome": "Politica",
    "voci": [
     {
-     "titolo": "Il governo alla Camera incassa la fiducia sul decreto giustizia, 191 sì",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/il-governo-alla-camera-incassa-la-fiducia-sul-decreto-giustizia-191-si_7f0abaac-57ec-4330-ab6f-f6f92374fd54.html",
-     "data": "2026-08-05T19:36:29+00:00"
+     "titolo": "La Camera approva il decreto legge giustizia con 165 sì, è legge",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/la-camera-approva-il-decreto-legge-giustizia-con-165-si-e-legge_cb680091-1aaa-41fa-ae66-cfe7e75813c6.html",
+     "data": "2026-08-05T21:51:51+00:00"
+    },
+    {
+     "titolo": "La Camera approva il decreto legge giustizia con 165 sì, è legge",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/la-camera-approva-il-decreto-legge-giustizia-con-165-si-e-legge_7f0abaac-57ec-4330-ab6f-f6f92374fd54.html",
+     "data": "2026-08-05T21:50:27+00:00"
     },
     {
      "titolo": "Il governo alla Camera incassa la fiducia sul decreto giustizia, 191 sì",
@@ -244,11 +249,6 @@
      "titolo": "Intesa nel centrodestra sulla legge elettorale, preferenze con alternanza di genere",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/intesa-nel-centrodestra-sulla-legge-elettorale-preferenze-con-alternanza-di-genere_e2b7ec77-b7b7-4516-942f-def4ca7d9657.html",
      "data": "2026-08-05T15:18:30+00:00"
-    },
-    {
-     "titolo": "Giorgetti in Parlamento, 36 miliardi per energia e armi",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/clausole-di-salvaguardia-litalia-chiede-allue-lo-06-per-lenergia-e-lo-09-per-la-difesa_56757087-311b-4b58-aac5-17519294b57f.html",
-     "data": "2026-08-05T19:55:39+00:00"
     }
    ]
   },
@@ -321,6 +321,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Cuba apre all'importazione di veicoli, più spazio ai privati e agli elettrici",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/cuba-apre-allimportazione-di-veicoli-piu-spazio-ai-privati-e-agli-elettrici_fefe190c-08b9-4eb1-85c9-4abdd7695d8e.html",
+     "data": "2026-08-05T21:58:59+00:00"
+    },
+    {
+     "titolo": "Orsi celebra la visita di Leone XIV in Uruguay, 'segnale forte per la regione'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/orsi-celebra-la-visita-di-leone-xiv-in-uruguay-segnale-forte-per-la-regione_6577c01c-63ff-4ab7-8121-770ead86fc7c.html",
+     "data": "2026-08-05T21:42:30+00:00"
+    },
+    {
+     "titolo": "Milei sconfitto sulla liberalizzazione della vendita di terre a stranieri in Argentina",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/milei-sconfitto-sulla-liberalizzazione-della-vendita-di-terre-a-stranieri-in-argentina_613977c6-07fb-4487-bcfb-27ed8c727954.html",
+     "data": "2026-08-05T20:59:37+00:00"
+    },
+    {
+     "titolo": "Da Paolo VI a Francesco, i viaggi dei Papi in America Latina",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/da-paolo-vi-a-francesco-i-viaggi-dei-papi-in-america-latina_0660b982-ff1d-43ad-818d-45a95d7cd7d5.html",
+     "data": "2026-08-05T20:40:15+00:00"
+    },
+    {
      "titolo": "Papa Leone XIV in Uruguay, Chiesa locale lo celebra con in mano mate e termos",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/papa-leone-xiv-in-uruguay-chiesa-locale-lo-celebra-con-in-mano-mate_4b701630-0938-4b03-87a2-794c34d9d378.html",
      "data": "2026-08-05T20:35:08+00:00"
@@ -359,26 +379,6 @@
      "titolo": "Dal transito nello Stretto allo sminamento, la possibile intesa",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/05/dal-transito-nello-stretto-allo-sminamento-la-possibile-intesa_7566ab8b-3cef-48d9-834a-e808ff436691.html",
      "data": "2026-08-05T17:34:11+00:00"
-    },
-    {
-     "titolo": "Lula, 'irresponsabile' la decisone Usa di revocare il visto alla nostra ambasciatrice",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/lula-irresponsabile-la-decisone-usa-di-revocare-il-visto-alla-nostra-ambasciatrice_2b30a25e-4999-478c-9143-2d785d3f5b23.html",
-     "data": "2026-08-05T16:49:26+00:00"
-    },
-    {
-     "titolo": "Pizzaballa, 'le elezioni in Israele diano nuove leadership'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/05/pizzaballa-le-elezioni-in-israele-diano-nuove-leadership_1cfe4b17-09cf-4f6e-810b-79f640b481d9.html",
-     "data": "2026-08-05T15:54:18+00:00"
-    },
-    {
-     "titolo": "Pizzaballa, 'le elezioni in Israele diano nuove leadership'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/05/pizzaballa-le-elezioni-in-israele-diano-nuove-leadership_0191a751-bff5-4f8c-88c9-4b33ee164019.html",
-     "data": "2026-08-05T15:54:37+00:00"
-    },
-    {
-     "titolo": "Flavio Bolsonaro annuncia il suo vice alle presidenziali di ottobre",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/flavio-bolsonaro-annuncia-il-suo-vice-alle-presidenziali-di-ottobre_b43a0ea2-8823-4d57-9ce5-0e0893bebce5.html",
-     "data": "2026-08-05T15:41:02+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: la Fifa si scusa per il progetto di apertura ai privati, \"un errore\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/05/calcio-la-fifa-si-scusa-per-il-progetto-di-apertura-ai-privati-un-errore_1260eea3-4ae9-45ee-9a5b-591d0fe7a0ca.html",
+     "data": "2026-08-05T21:58:11+00:00"
+    },
+    {
      "titolo": "Mondiali 2030: Times, \"Infantino spinge per la finale in Marocco\". La Fifa, \"E' falso\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/05/mondiali-2030-times-infantino-spinge-per-la-finale-in-marocco.-la-fifa-e-falso_96953a7a-b9a0-4b80-8914-5cd7f46a0c8c.html",
      "data": "2026-08-05T19:52:35+00:00"
@@ -504,11 +509,6 @@
      "titolo": "La Juventus a Hong Kong batte anche il Chelsea, Spalletti sorride",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/05/la-juventus-a-hong-kong-batte-anche-il-chelsea-spalletti-sorride_46cc9195-dc03-490b-910a-bf3b976c730c.html",
      "data": "2026-08-05T18:55:10+00:00"
-    },
-    {
-     "titolo": "Calciomercato: il Como non si ferma, arrivano Chalobah e Couto. Roma, fatta per Molina",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/05/calciomercato-il-como-non-si-ferma-arrivano-chalobah-e-couto.-roma-fatta-per_516d24e7-3b2f-4b67-93e5-1d5a1b75e2e0.html",
-     "data": "2026-08-05T18:53:07+00:00"
     }
    ]
   }
