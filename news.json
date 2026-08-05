@@ -1,65 +1,75 @@
 {
- "aggiornato": "2026-08-05T14:41:46.837523+00:00",
+ "aggiornato": "2026-08-05T16:24:29.541279+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
+     "titolo": "Borsa: Europa consolida i record, indici piatti in chiusura",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/borsa-europa-consolida-i-record-indici-piatti-in-chiusura_2cb7722c-3cb2-4789-99ab-533f72aa2de7.html",
+     "data": "2026-08-05T16:07:25+00:00"
+    },
+    {
+     "titolo": "Protesta M5s sul caso Delmastro, alla Camera e al Senato urla 'Fuori le chat'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/protesta-m5s-sul-caso-delmastro-alla-camera-e-al-senato-urla-fuori_3bc026ac-4ede-40ff-81dc-fde205e6fb1f.html",
+     "data": "2026-08-05T15:56:36+00:00"
+    },
+    {
+     "titolo": "I deputati Avs in Aula si bendano gli occhi per protesta sul caso Delmastro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/i-deputati-avs-in-aula-si-bendano-gli-occhi-per-protesta-sul-caso_2e97be9d-b6b4-4f6c-bd6c-65340e0adce1.html",
+     "data": "2026-08-05T15:56:53+00:00"
+    },
+    {
+     "titolo": "Pizzaballa, 'le elezioni in Israele diano nuove leadership'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/pizzaballa-le-elezioni-in-israele-diano-nuove-leadership_5873d752-e3da-44d9-b9d4-3cf3dbcff865.html",
+     "data": "2026-08-05T15:54:34+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude in calo, Ftse Mib -0,18%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/borsa-milano-chiude-in-calo-ftse-mib-018_200c3e7e-1ad4-446d-a4cc-d97b20caccb2.html",
+     "data": "2026-08-05T15:48:38+00:00"
+    },
+    {
+     "titolo": "Flavio Bolsonaro annuncia il suo vice alle presidenziali di ottobre",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/flavio-bolsonaro-annuncia-il-suo-vice-alle-presidenziali-di-ottobre_fc6bf15c-c3ec-40b2-9978-af1bcad6c6e1.html",
+     "data": "2026-08-05T15:40:30+00:00"
+    },
+    {
+     "titolo": "Iran, 'raggiunto l'accordo con l'Oman sullo Stretto di Hormuz'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/iran-raggiunto-laccordo-con-loman-sullo-stretto-di-hormuz_880226a9-5bae-4e80-b19b-a369fc3645c2.html",
+     "data": "2026-08-05T15:37:38+00:00"
+    },
+    {
+     "titolo": "Abdul El-Sayed ai dem, 'in casa si discute ma fuori serve unità'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/abdul-el-sayed-ai-dem-in-casa-si-discute-ma-fuori-serve-unita_605fa0f8-5af7-42b7-9590-ed5221307496.html",
+     "data": "2026-08-05T15:22:02+00:00"
+    },
+    {
+     "titolo": "Montenegro, 'nessun hub Ue per i rimpatri sul nostro territorio'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/montenegro-nessun-hub-ue-per-i-rimpatri-sul-nostro-territorio_395d6008-435f-4c24-955c-584b5e7be2f2.html",
+     "data": "2026-08-05T14:44:41+00:00"
+    },
+    {
      "titolo": "Attacco a Londra fatto a colpi di forbici, per polizia è raptus di follia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/attacco-a-londra-fatto-a-colpi-di-forbici-per-polizia-e-raptus-di-follia_c56a595d-7391-478f-8af7-a7b52cc27e97.html",
      "data": "2026-08-05T14:17:01+00:00"
-    },
-    {
-     "titolo": "Cnn, Abdul El-Sayed ha vinto la candidatura dem in Michigan",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/cnn-abdul-el-sayed-ha-vinto-la-candidatura-dem-in-michigan_c1429fdb-09b3-45fa-b5bb-bb95faff5cd9.html",
-     "data": "2026-08-05T14:12:39+00:00"
-    },
-    {
-     "titolo": "Kiev ordina l'evacuazione di Kramatorsk per i raid russi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/kiev-ordina-levacuazione-di-kramatorsk-per-i-raid-russi_fb6fc543-a0b5-4f56-9f25-4b141fda91ed.html",
-     "data": "2026-08-05T14:10:47+00:00"
-    },
-    {
-     "titolo": "Trump attacca le primarie dem in Michigan, 'elezioni truccate'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/trump-attacca-le-primarie-dem-in-michigan-elezioni-truccate_62ba47a8-770d-458a-b778-5effb34da6f1.html",
-     "data": "2026-08-05T14:07:13+00:00"
-    },
-    {
-     "titolo": "Intesa nel centrodestra sulla legge elettorale, preferenze con alternanza genere",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/intesa-nel-centrodestra-sulla-legge-elettorale-preferenze-con-alternanza-genere_c812eaac-dc75-44a3-96a6-f1707389f7c2.html",
-     "data": "2026-08-05T14:05:33+00:00"
-    },
-    {
-     "titolo": "4 persone accoltellate nel centro di Londra, arrestata una donna",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/4-persone-accoltellate-nel-centro-di-londra-arrestata-una-donna_82693d57-45cb-4456-a936-6b3e37a3c043.html",
-     "data": "2026-08-05T14:04:38+00:00"
-    },
-    {
-     "titolo": "SpaceX crolla di oltre il 12% al Nasdaq sul boom della spesa per l'IA",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/spacex-crolla-di-oltre-il-12-al-nasdaq-sul-boom-della-spesa-per-lia_e1c6c9af-789f-4af2-acd0-4497bc68cdf3.html",
-     "data": "2026-08-05T13:48:35+00:00"
-    },
-    {
-     "titolo": "Wall Street apre positiva su nuovi record, Dj a +0,79% e Nasdaq a +0,44%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/wall-street-apre-positiva-su-nuovi-record-dj-a-079-e-nasdaq-a-044_bba29e83-f32c-4416-82ad-4e6973430640.html",
-     "data": "2026-08-05T13:38:02+00:00"
-    },
-    {
-     "titolo": "Inps, trattenuta su pensione agosto collegata ai redditi per 50mila pensionati",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/inps-trattenuta-su-pensione-agosto-collegata-ai-redditi-per-50mila-pensionati_dd1945f6-74f9-4156-9ad0-ac3d9d2687a5.html",
-     "data": "2026-08-05T13:36:03+00:00"
-    },
-    {
-     "titolo": "Poligrafico e Poste perfezionano l'acquisizione di PagoPa per massimo 500 milioni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/poligrafico-e-poste-perfezionano-lacquisizione-di-pagopa-per-massimo-500-milioni_fe2f1757-d3b0-4c08-8f39-433bd7bf9a37.html",
-     "data": "2026-08-05T13:30:51+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Incidente sulla Terni-Rieti, morto l'uomo ricoverato a Perugia",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/05/incidente-sulla-terni-rieti-morto-luomo-ricoverato-a-perugia_d3dd91e3-e903-434d-ac66-fecab50e6286.html",
+     "data": "2026-08-05T16:10:42+00:00"
+    },
+    {
+     "titolo": "Arcudi, 'l'ospedale del Trasimeno aspetta da mesi'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/05/arcudi-lospedale-del-trasimeno-aspetta-da-mesi_26af3f00-5331-4eae-a225-beef08d89166.html",
+     "data": "2026-08-05T15:52:40+00:00"
+    },
     {
      "titolo": "Il Papa ad Assisi, modifiche a viabilità e disposizioni per la sicurezza",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/05/il-papa-ad-assisi-modifiche-a-viabilita-e-disposizioni-per-la-sicurezza_f377e658-45ec-44d8-9b13-316bd1d4dc82.html",
@@ -109,16 +119,6 @@
      "titolo": "P.Fusarelli, 'più date per visita ad Assisi, Leone ha scelto quella dei giovani'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/05/p.fusarelli-piu-date-per-visita-ad-assisi-leone-ha-scelto-quella-dei_16282880-ec7c-454e-852a-4bdb9d8d2432.html",
      "data": "2026-08-05T13:26:37+00:00"
-    },
-    {
-     "titolo": "Carabinieri, visita in Umbria del generale di Corpo d'armata Aldo Iacobelli",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/04/carabinieri-visita-in-umbria-del-generale-di-corpo-darmata-aldo-iacobelli_339ffc91-2fdf-4ba2-bc3b-924316f80537.html",
-     "data": "2026-08-04T14:58:30+00:00"
-    },
-    {
-     "titolo": "A Foligno agevolazioni nel pagamento della Tari alle fasce più deboli",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/04/a-foligno-agevolazioni-nel-pagamento-della-tari-alle-fasce-piu-deboli_13240070-2555-440e-a132-1b87149beed0.html",
-     "data": "2026-08-04T14:19:54+00:00"
     }
    ]
   },
@@ -126,64 +126,64 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Mafia: Copasir, 'i clan utilizzano tecnologie sempre più complesse'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/mafia-copasir-i-clan-utilizzano-tecnologie-sempre-piu-complesse_60907596-d7ed-4a31-8c74-4f4f4c4ce4d2.html",
+     "data": "2026-08-05T16:13:12+00:00"
+    },
+    {
+     "titolo": "Incidente sulla Terni-Rieti, morto l'uomo ricoverato a Perugia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/incidente-sulla-terni-rieti-morto-luomo-ricoverato-a-perugia_394be5cf-69d6-41dd-b6f7-86d6c1426e19.html",
+     "data": "2026-08-05T16:13:27+00:00"
+    },
+    {
+     "titolo": "Piantedosi, misure per scosse magnitudo 5? Non si può spopolare Pozzuoli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/piantedosi-misure-per-scosse-magnitudo-5-non-si-puo-spopolare-pozzuoli_e5154220-59e6-47e5-8c5f-ae37da9e4368.html",
+     "data": "2026-08-05T16:13:45+00:00"
+    },
+    {
+     "titolo": "Uccise figlia, scatta piano provinciale ricerca nell'Aretino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/uccise-figlia-scatta-piano-provinciale-ricerca-nellaretino_b32dd14e-f541-47ad-8528-31fa96978620.html",
+     "data": "2026-08-05T16:13:53+00:00"
+    },
+    {
+     "titolo": "Un escursionista recuperato in una scarpata in Romagna, è grave",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/un-escursionista-recuperato-in-una-scarpata-in-romagna-e-grave_c10a80db-f47e-46b4-abdc-aec4a4b58338.html",
+     "data": "2026-08-05T16:14:03+00:00"
+    },
+    {
+     "titolo": "Trovato un corpo carbonizzato in auto nel Vibonese, indagini in corso",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/trovato-un-corpo-carbonizzato-in-auto-nel-vibonese-indagini-in-corso_288614c9-69d7-44bb-b453-2217b3b68119.html",
+     "data": "2026-08-05T16:14:36+00:00"
+    },
+    {
+     "titolo": ">>>ANSA/ La riforma della Difesa, nasce il Comando interforze cyber",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/ansa-la-riforma-della-difesa-nasce-il-comando-interforze-cyber_b7818e2f-7fc4-46c9-8f08-b2db69aff1dc.html",
+     "data": "2026-08-05T16:15:08+00:00"
+    },
+    {
+     "titolo": "'Esposto all'amianto', morto ex finanziere",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/esposto-allamianto-morto-ex-finanziere_cbbf51e4-2ce5-4b18-86cc-24d1cb1b20c5.html",
+     "data": "2026-08-05T16:17:00+00:00"
+    },
+    {
      "titolo": "Ex docente trovato morto in casa a Grosseto, disposta l'autopsia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/ex-docente-trovato-morto-in-casa-a-grosseto-disposta-lautopsia_db1ef74b-5d10-480f-b6f2-3f3287bb2457.html",
-     "data": "2026-08-05T14:31:17+00:00"
+     "data": "2026-08-05T16:17:02+00:00"
+    },
+    {
+     "titolo": "Frana sul Cervino, le guide alpine sospendono le ascese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/frana-sul-cervino-le-guide-alpine-sospendono-le-ascese_a7f358d0-e5e1-44b4-b399-31280fdffdf0.html",
+     "data": "2026-08-05T16:17:02+00:00"
+    },
+    {
+     "titolo": "Furto di farmaci a Modica, rubate 15mila confezioni per 500mila euro",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/furto-di-farmaci-a-modica-rubate-15mila-confezioni-per-500mila-euro_dc61b1e9-4cd4-4cc7-8446-dcd198405329.html",
+     "data": "2026-08-05T16:17:04+00:00"
     },
     {
      "titolo": "Sequestro davanti Tavolara, società 'agito in conformità con le leggi'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/sequestro-davanti-tavolara-societa-agito-in-conformita-con-le-leggi_6b15c0d6-5176-498b-9134-48392571452b.html",
      "data": "2026-08-05T14:08:45+00:00"
-    },
-    {
-     "titolo": "Igli Tare derubato della borsa sul treno, polizia la ritrova",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/igli-tare-derubato-della-borsa-sul-treno-polizia-la-ritrova_419e6ac5-4690-4dd0-afff-3e0222b63357.html",
-     "data": "2026-08-05T13:48:14+00:00"
-    },
-    {
-     "titolo": "Il Papa incontra l'attore Premio Oscar Matthew McConaughey",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/il-papa-incontra-lattore-premio-oscar-matthew-mcconaughey_86ae01ed-ff0d-4727-b03e-5b82045e7a08.html",
-     "data": "2026-08-05T13:02:06+00:00"
-    },
-    {
-     "titolo": "Crolla grande frana dal Cervino, nessuna persona coinvolta",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/crolla-grande-frana-dal-cervino-nessuna-persona-coinvolta_84b142fb-a18f-4af1-ac54-f7e18bcc0823.html",
-     "data": "2026-08-05T13:01:10+00:00"
-    },
-    {
-     "titolo": "Donna trovata morta a luglio a Torino, l'ex compagno arrestato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/donna-trovata-morta-a-luglio-a-torino-lex-compagno-arrestato-_3b281594-2d51-4fb1-8791-62ac53b7010c.html",
-     "data": "2026-08-05T12:42:39+00:00"
-    },
-    {
-     "titolo": "Fakir, accertamento per estrarre i dati dalla bodycam del poliziotto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/fakir-accertamento-per-estrarre-i-dati-dalla-bodycam-del-poliziotto_222d5473-e083-4b11-a2b6-5f110297fde4.html",
-     "data": "2026-08-05T11:54:00+00:00"
-    },
-    {
-     "titolo": "Sisma 2016, il 4% fondi per la ricostruzione destinati a rilancio territori",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/sisma-2016-il-4-fondi-per-la-ricostruzione-destinati-a-rilancio-territori_755e41df-9c15-4650-bd39-0000c593701f.html",
-     "data": "2026-08-05T11:34:21+00:00"
-    },
-    {
-     "titolo": "Maturità: è boom di diplomati con lode, sono 14.123",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/maturita-e-boom-di-diplomati-con-lode-sono-14.123_8c4e4a15-39f8-4093-b961-ea0b9370935e.html",
-     "data": "2026-08-05T11:21:07+00:00"
-    },
-    {
-     "titolo": "Caldo, a Firenze ancora 41 gradi e codice rosso fino a venerdì",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/caldo-a-firenze-ancora-41-gradi-e-codice-rosso-fino-a-venerdi_fdae6b2d-2099-43c3-a5ad-6ee9b4334e29.html",
-     "data": "2026-08-05T11:21:28+00:00"
-    },
-    {
-     "titolo": "Vicepresidente Comunità ebraica Milano, 'mio figlio è tornato molto scosso'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/vicepresidente-comunita-ebraica-milano-mio-figlio-e-tornato-molto-scosso_c5c4db25-b6f5-4cbb-9aa4-e8dde7fad087.html",
-     "data": "2026-08-05T11:17:47+00:00"
-    },
-    {
-     "titolo": "Auto nel Po durante un inseguimento della polizia, ricerche a Torino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/auto-nel-po-durante-un-inseguimento-della-polizia-ricerche-a-torino_80569e08-161a-453a-a380-dd616309c60e.html",
-     "data": "2026-08-05T11:13:48+00:00"
     }
    ]
   },
@@ -191,14 +191,29 @@
    "nome": "Politica",
    "voci": [
     {
-     "titolo": "Intesa nel centrodestra sulla legge elettorale, preferenze con alternanza genere",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/intesa-nel-centrodestra-sulla-legge-elettorale-preferenze-con-alternanza-genere_e2b7ec77-b7b7-4516-942f-def4ca7d9657.html",
-     "data": "2026-08-05T14:28:23+00:00"
+     "titolo": "Si vota sulle chat di Delmastro, proteste in Aula di Avs e M5s",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/si-vota-sulle-chat-di-delmastro-proteste-in-aula-di-avs-e-m5s_dc5df7c0-f10a-4c69-aa14-f042a0d51c86.html",
+     "data": "2026-08-05T16:18:14+00:00"
+    },
+    {
+     "titolo": "Protesta M5s sul caso Delmastro, alla Camera e al Senato urla 'Fuori le chat'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/protesta-m5s-sul-caso-delmastro-alla-camera-e-al-senato-urla-fuori_c2c9b1d5-0458-4610-bd9a-3a692eb25116.html",
+     "data": "2026-08-05T15:56:36+00:00"
+    },
+    {
+     "titolo": "I deputati Avs in Aula si bendano gli occhi per protesta sul caso Delmastro",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/i-deputati-avs-in-aula-si-bendano-gli-occhi-per-protesta-sul-caso_c11df728-b071-44d2-a0f0-25f587e9f382.html",
+     "data": "2026-08-05T15:56:59+00:00"
+    },
+    {
+     "titolo": "Intesa nel centrodestra sulla legge elettorale, preferenze con alternanza di genere",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/intesa-nel-centrodestra-sulla-legge-elettorale-preferenze-con-alternanza-di-genere_e2b7ec77-b7b7-4516-942f-def4ca7d9657.html",
+     "data": "2026-08-05T15:18:30+00:00"
     },
     {
      "titolo": "Clausole di salvaguardia, l'Italia chiede all'Ue il massimo per l'energia e lo 0,9% per la difesa",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/clausole-di-salvaguardia-litalia-chiede-allue-lo-06-per-lenergia-e-lo-09-per-la-difesa_56757087-311b-4b58-aac5-17519294b57f.html",
-     "data": "2026-08-05T14:28:50+00:00"
+     "data": "2026-08-05T16:13:37+00:00"
     },
     {
      "titolo": "Apre ad Assisi la Casa globale dell'amicizia e della speranza",
@@ -234,27 +249,27 @@
      "titolo": "Ranucci ascoltato dalla Commissione per il Codice Etico della Rai",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/ranucci-ascoltato-dalla-commissione-per-il-codice-etico-della-rai_a140324e-b6c4-4b13-b701-fb6ae6411308.html",
      "data": "2026-08-05T08:31:09+00:00"
-    },
-    {
-     "titolo": "Question time alla Camera con i ministri Salvini, Mazzi, Zangrillo e Urso",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/question-time-alla-camera-con-i-ministri-salvini-mazzi-zangrillo-e-ursi_22b3b12f-f672-4ea9-b854-fcbef246fb7d.html",
-     "data": "2026-08-05T13:33:44+00:00"
-    },
-    {
-     "titolo": "Caso Delmastro, al via l'Aula. Il centrodestra spiega il no all'acquisizione delle chat",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/caso-delmastro-al-via-laula.-il-centrodestra-spiega-il-no-allacquisizione-delle-chat_dc5df7c0-f10a-4c69-aa14-f042a0d51c86.html",
-     "data": "2026-08-05T14:36:35+00:00"
-    },
-    {
-     "titolo": "Schlein e Conte a pranzo per chiarirsi, ma restano le distanze",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/04/schlein-e-conte-a-pranzo-per-chiarirsi-ma-restano-le-distanze_53d4baa1-03dc-42d4-87c1-daa4dee1da5d.html",
-     "data": "2026-08-04T20:04:43+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: Europa consolida i record, indici piatti in chiusura",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/borsa-europa-consolida-i-record-indici-piatti-in-chiusura_72df5078-e51b-4120-b145-432d248f34d7.html",
+     "data": "2026-08-05T16:07:23+00:00"
+    },
+    {
+     "titolo": "Sogin, 'il Parlamento amplia il perimetro delle nostre attività'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/sogin-il-parlamento-amplia-il-perimetro-delle-nostre-attivita_b92ea757-34cd-4d72-9448-f3e79d550071.html",
+     "data": "2026-08-05T15:59:47+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude in calo, Ftse Mib -0,18%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/borsa-milano-chiude-in-calo-ftse-mib-018_8b06de21-fb5f-4e6a-aace-28a0019958a4.html",
+     "data": "2026-08-05T15:48:40+00:00"
+    },
     {
      "titolo": "Cna, Confartigianato e Conpait chiedono una Dop per il \"gelato di tradizione italiana\"",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/cna-confartigianato-e-conpait-chiedono-una-dop-per-il-gelato-di-tradizione-italiana_449b87c9-1cc4-4694-888a-2bba36e32f08.html",
@@ -299,27 +314,47 @@
      "titolo": "Il petrolio apre in rialzo a New York ma sotto 80 dollari (a 76,21 dollari)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/il-petrolio-apre-in-rialzo-a-new-york-ma-sotto-80-dollari-a-7621-dollari_b2936bed-e658-4f1a-a35e-530475b94eea.html",
      "data": "2026-08-05T13:10:30+00:00"
-    },
-    {
-     "titolo": "In Veneto via all'iter per sospendere i blocco dei diesel Euro 5",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/in-veneto-via-alliter-per-sospendere-i-blocco-dei-diesel-euro-5_135c3524-744f-4423-ad04-f15e6932d973.html",
-     "data": "2026-08-05T12:46:22+00:00"
-    },
-    {
-     "titolo": "Il gas scivola (-3%) a 54 euro al Megawattora, piatto il petrolio",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/il-gas-scivola-3-a-54-euro-al-megawattora-piatto-il-petrolio_05605a77-7093-4e8f-ad11-51aede6c8697.html",
-     "data": "2026-08-05T12:09:18+00:00"
-    },
-    {
-     "titolo": "Orsini, su ex Ilva ci sono condizioni per valutare cordata italiana",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/orsini-su-ex-ilva-ci-sono-condizioni-per-valutare-cordata-italiana_9359e745-d35f-4162-9c47-5c4df7921b2e.html",
-     "data": "2026-08-05T11:54:10+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Pizzaballa, 'le elezioni in Israele diano nuove leadership'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/05/pizzaballa-le-elezioni-in-israele-diano-nuove-leadership_1cfe4b17-09cf-4f6e-810b-79f640b481d9.html",
+     "data": "2026-08-05T15:54:18+00:00"
+    },
+    {
+     "titolo": "Pizzaballa, 'le elezioni in Israele diano nuove leadership'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/05/pizzaballa-le-elezioni-in-israele-diano-nuove-leadership_0191a751-bff5-4f8c-88c9-4b33ee164019.html",
+     "data": "2026-08-05T15:54:37+00:00"
+    },
+    {
+     "titolo": "Flavio Bolsonaro annuncia il suo vice alle presidenziali di ottobre",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/flavio-bolsonaro-annuncia-il-suo-vice-alle-presidenziali-di-ottobre_b43a0ea2-8823-4d57-9ce5-0e0893bebce5.html",
+     "data": "2026-08-05T15:41:02+00:00"
+    },
+    {
+     "titolo": "Iran, 'raggiunto l'accordo con l'Oman sullo Stretto di Hormuz'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/05/iran-raggiunto-laccordo-con-loman-sullo-stretto-di-hormuz_5880d7a5-ad2b-4b8e-8b02-36a450b2a022.html",
+     "data": "2026-08-05T15:37:53+00:00"
+    },
+    {
+     "titolo": "Abdul El-Sayed ai dem, 'in casa si discute ma fuori serve unità'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/05/abdul-el-sayed-ai-dem-in-casa-si-discute-ma-fuori-serve-unita_08254962-9127-406d-a39f-445d4343b3cd.html",
+     "data": "2026-08-05T15:22:04+00:00"
+    },
+    {
+     "titolo": "Influencer messicano assassinato in piena diretta streaming",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/influencer-messicano-assassinato-in-piena-diretta-streaming_50c0e291-294a-4b74-befa-6cdb2be36301.html",
+     "data": "2026-08-05T15:01:06+00:00"
+    },
+    {
+     "titolo": "Montenegro, 'nessun hub Ue per i rimpatri sul nostro territorio'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/05/montenegro-nessun-hub-ue-per-i-rimpatri-sul-nostro-territorio_1b738cf1-fc8e-4cf5-b189-d1052681e39f.html",
+     "data": "2026-08-05T14:45:02+00:00"
+    },
     {
      "titolo": "Attacco a Londra fatto a colpi di forbici, per polizia è raptus di follia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/05/attacco-a-londra-fatto-a-colpi-di-forbici-per-polizia-e-raptus-di-follia_53b224a5-de99-4bc0-8134-d8665bc46c70.html",
@@ -344,41 +379,6 @@
      "titolo": "4 persone accoltellate nel centro di Londra, arrestata una donna",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/05/4-persone-accoltellate-nel-centro-di-londra-arrestata-una-donna_8f6c7289-e5d5-48f6-942d-6b226f9facba.html",
      "data": "2026-08-05T14:04:52+00:00"
-    },
-    {
-     "titolo": "In Sudafrica si dibatte sul destino degli ultimi tre elefanti ospitati in uno zoo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/05/in-sudafrica-si-dibatte-sul-destino-degli-ultimi-tre-elefanti-ospitati-in-uno_7d234158-ea3d-4f7f-b36d-1c8615047c4e.html",
-     "data": "2026-08-05T13:11:23+00:00"
-    },
-    {
-     "titolo": "In Marocco 25 incriminati per il traffico di migranti verso Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/05/in-marocco-25-incriminati-per-il-traffico-di-migranti-verso-ceuta_412f2e00-e785-41e9-89f3-98a06211fd1a.html",
-     "data": "2026-08-05T13:08:21+00:00"
-    },
-    {
-     "titolo": "In Marocco 25 incriminati per il traffico di migranti verso Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/05/in-marocco-25-incriminati-per-il-traffico-di-migranti-verso-ceuta_22b1ca0b-e41c-473e-bee6-178607468736.html",
-     "data": "2026-08-05T13:08:28+00:00"
-    },
-    {
-     "titolo": "Media, a Taiwan esercitazioni per testare capacità di reazione dei comandanti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/05/media-a-taiwan-esercitazioni-per-testare-capacita-di-reazione-dei-comandanti_202cfcb7-daf6-4303-b785-84b7dd8aacd4.html",
-     "data": "2026-08-05T12:31:59+00:00"
-    },
-    {
-     "titolo": "Media, ferito in attentato l'ad di un'azienda russa che produce droni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/05/media-ferito-in-attentato-lad-di-unazienda-russa-che-produce-droni_782a78cd-63bd-4887-ba80-eceee7432763.html",
-     "data": "2026-08-05T11:40:24+00:00"
-    },
-    {
-     "titolo": "Ft, 'Trump ha respinto richiesta Zelensky di fornire nuovi missili Patriot'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/05/ft-trump-ha-respinto-richiesta-zelensky-di-fornire-nuovi-missili-patriot_94c3e0b3-5411-4261-9ff0-67b71816989c.html",
-     "data": "2026-08-05T11:34:05+00:00"
-    },
-    {
-     "titolo": "Ft, 'Trump ha respinto richiesta Zelensky di fornire nuovi missili Patriot'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/05/ft-trump-ha-respinto-richiesta-zelensky-di-fornire-nuovi-missili-patriot_aa7e7e17-83fb-4f37-a490-b753688f5988.html",
-     "data": "2026-08-05T11:34:08+00:00"
     }
    ]
   },
@@ -451,14 +451,19 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: Chivu, 'i risultati ora non contano ma vedo una crescita nell'Inter'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/05/calcio-chivu-i-risultati-ora-non-contano-ma-vedo-una-crescita-nellinter_0203acac-9bb0-413f-b72a-62a4f5770419.html",
+     "data": "2026-08-05T15:11:23+00:00"
+    },
+    {
      "titolo": "Atletica: Mei 'per i Mondiali preferenza al 2029, ma ci siamo anche per il 2031'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/05/atletica-mei-per-i-mondiali-preferenza-al-2029-ma-ci-siamo-anche-per-il-2031_e0a4e1e7-a904-49b7-ad37-7ca026e9ad88.html",
      "data": "2026-08-05T14:32:09+00:00"
     },
     {
-     "titolo": "Europei di nuoto: Taddeucci bis d'oro, bronzo Pozzobon, Paltrinieri e acrobatico a squadre",
+     "titolo": "Europei di nuoto, Taddeucci oro e Paltrinieri bronzo nella 5 km: 'Ora ci divertiamo in staffetta'",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/05/europei-di-nuoto-taddeucci-bis-doro-bronzo-pozzobon-paltrinieri-e-acrobatico-a-squadre_469755cf-62d7-4989-bd4d-16933d04062f.html",
-     "data": "2026-08-05T14:34:36+00:00"
+     "data": "2026-08-05T15:39:58+00:00"
     },
     {
      "titolo": "Calcio: Amorim, derby buon test ma Milan deve migliorare nel possesso",
@@ -493,22 +498,17 @@
     {
      "titolo": "Europei nuoto: Taddeucci oro nella 5 km donne, Pozzobon bronzo",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/05/europei-nuoto-taddeucci-oro-nella-5-km-donne-pozzobon-bronzo_cc9cf99e-4aab-425c-99bb-3f031c71c9c3.html",
-     "data": "2026-08-05T14:23:54+00:00"
+     "data": "2026-08-05T15:35:14+00:00"
     },
     {
-     "titolo": "Finisce in parità il primo derby milanese, a Perth 1-1 tra Milan e Inter",
+     "titolo": "A Dimarco risponde Nkunku, Milan-Inter finisce 1-1 ricordando Baresi",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/05/finisce-in-parita-il-primo-derby-milanese-a-perth-1-1-tra-milan-e-inter_c26526d9-a272-498e-8745-4248b3ced21a.html",
-     "data": "2026-08-05T14:14:06+00:00"
+     "data": "2026-08-05T15:37:08+00:00"
     },
     {
-     "titolo": "Figc: Zola torna in azzurro, Malagò 'coordinerà i progetti dei giovani'",
+     "titolo": "Figc, Zola nel triumvirato azzurro: 'Con lui per costruire il futuro'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/05/figc-zola-torna-in-azzurro-malago-coordinera-i-progetti-dei-giovani_400713ca-6fb5-4e58-9400-d3e3ed618405.html",
-     "data": "2026-08-05T13:27:59+00:00"
-    },
-    {
-     "titolo": "Minuto di silenzio nel derby a Perth, Milan ricorda Baresi con maglia n.6",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/05/minuto-di-silenzio-nel-derby-a-perth-milan-ricorda-baresi-con-maglia_04eec075-1194-4a74-bdda-4829e2d43b46.html",
-     "data": "2026-08-05T11:58:44+00:00"
+     "data": "2026-08-05T15:41:40+00:00"
     }
    ]
   }
