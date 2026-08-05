@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-05T01:13:03.765682+00:00",
+ "aggiornato": "2026-08-05T04:34:08.158080+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump: Stretto di Hormuz si aprirà molto presto, altrimenti colpi durissimi all'Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/trump-stretto-di-hormuz-si-aprira-molto-presto-altrimenti-colpi-durissimi-alliran_8b52a7a3-9349-4777-b2cf-ecbfad8952bd.html",
+     "data": "2026-08-05T04:20:07+00:00"
+    },
     {
      "titolo": "Tennis: ancora problemi al polso, Alcaraz salta il Masters 1000 di Cincinnati",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/tennis-ancora-problemi-al-polso-alcaraz-salta-il-masters-1000-di-cincinnati_33787077-dd6f-4d70-aa4b-a5fc8d242ca5.html",
@@ -49,11 +54,6 @@
      "titolo": "Processo Maradona, sfila davanti al tribunale l'ultimo testimone",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/04/processo-maradona-sfila-davanti-al-tribunale-lultimo-testimone_cb298428-bf0e-405b-816c-94985db3e808.html",
      "data": "2026-08-04T20:32:09+00:00"
-    },
-    {
-     "titolo": "Ritorna l'energia a Cuba dopo due blackout totali in meno di 24 ore",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/04/ritorna-lenergia-a-cuba-dopo-due-blackout-totali-in-meno-di-24-ore_3f3ebc84-5887-44d4-a312-d8145a196d54.html",
-     "data": "2026-08-04T18:50:28+00:00"
     }
    ]
   },
@@ -321,6 +321,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump: Stretto di Hormuz si aprirà molto presto, altrimenti colpi durissimi all'Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/05/trump-stretto-di-hormuz-si-aprira-molto-presto-altrimenti-colpi-durissimi-alliran_66867f6e-090a-4780-ad12-b85b8fb13415.html",
+     "data": "2026-08-05T04:20:11+00:00"
+    },
+    {
+     "titolo": "Brasile: Flávio Bolsonaro agli imprenditori, 'serve sicurezza giuridica'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/brasile-flavio-bolsonaro-agli-imprenditori-serve-sicurezza-giuridica_6df7e3ed-411e-40df-aec5-1165ef01a61f.html",
+     "data": "2026-08-05T02:19:10+00:00"
+    },
+    {
+     "titolo": "Il Messico si conferma primo partner commerciale degli Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/il-messico-si-conferma-primo-partner-commerciale-degli-usa_d641f7d8-a3fa-4660-b7f5-d48aea925864.html",
+     "data": "2026-08-05T01:15:16+00:00"
+    },
+    {
+     "titolo": "Papa Leone XIV in Perù dall'11 novembre per la prima visita nel Paese da pontefice",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/papa-leone-xiv-in-peru-dall11-novembre-per-la-prima-visita-nel_2efd33dc-3fb3-4cf4-b267-619374cab154.html",
+     "data": "2026-08-05T01:16:11+00:00"
+    },
+    {
+     "titolo": "Il cardinale Parolin in Messico, incontri con governo e Chiesa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/il-cardinale-parolin-in-messico-incontri-con-governo-e-chiesa_fdf8f23b-a6a3-4240-90f2-7654888a0d9e.html",
+     "data": "2026-08-05T01:14:29+00:00"
+    },
+    {
      "titolo": "Brasile richiama ambasciatore in Argentina e riduce relazioni dopo attacchi di Milei",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/brasile-richiama-ambasciatore-in-argentina-e-riduce-relazioni-dopo-attacchi-di-milei_42781460-d7cd-4565-8dd9-55f67cbc07bd.html",
      "data": "2026-08-05T00:35:13+00:00"
@@ -354,31 +379,6 @@
      "titolo": "Cuba, luglio segna il record storico di 1.415 proteste e denunce",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/cuba-luglio-segna-il-record-storico-di-1.415-proteste-e-denunce_1c1557ba-94ca-444a-87b5-8ee979018510.html",
      "data": "2026-08-04T22:11:23+00:00"
-    },
-    {
-     "titolo": "Hegseth contesta la Cnn sulla carenza dei missili, 'vergognatevi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/04/hegseth-contesta-la-cnn-sulla-carenza-dei-missili-vergognatevi_aaa73e25-432c-4962-9b57-984213b12828.html",
-     "data": "2026-08-04T21:52:33+00:00"
-    },
-    {
-     "titolo": "Kiev, 'la capitale sotto attacco russo con missili balistici'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/04/kiev-la-capitale-sotto-attacco-russo-con-missili-balistici_ec32f965-23b3-4dca-ab5d-97ce48fe83dd.html",
-     "data": "2026-08-04T21:44:43+00:00"
-    },
-    {
-     "titolo": "Cnn, 'usati l'80% di intercettori Thaad e circa il 50% di Patriot contro l'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/04/cnn-usati-l80-di-intercettori-thaad-e-circa-il-50-di-patriot-contro-liran_bd7db4fa-05ed-44bb-9ad0-ce654fddc96d.html",
-     "data": "2026-08-04T21:00:58+00:00"
-    },
-    {
-     "titolo": "Gli Usa revocano il visto all'ambasciatrice brasiliana a Washington",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/04/gli-usa-revocano-il-visto-allambasciatrice-brasiliana-a-washington_2fd00438-9e47-4175-80a2-fd3ddf29a9c0.html",
-     "data": "2026-08-04T20:59:46+00:00"
-    },
-    {
-     "titolo": "Salgono a 77 i morti nel tentativo di entrare a Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/04/salgono-a-77-i-morti-nel-tentativo-di-entrare-a-ceuta_ac39362d-a70f-4872-9b80-6bc1bbb20fa4.html",
-     "data": "2026-08-04T20:44:45+00:00"
     }
    ]
   },
