@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-06T03:46:36.182793+00:00",
+ "aggiornato": "2026-08-06T06:19:13.073346+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Iran, 'non stiamo negoziando con gli Usa su Hormuz, solo con l'Oman'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/iran-non-stiamo-negoziando-con-gli-usa-su-hormuz-solo-con_c568dcf2-d795-4edd-9417-355c7679f44b.html",
+     "data": "2026-08-06T05:47:53+00:00"
+    },
+    {
+     "titolo": "Bper aggiorna il piano, ai soci 7,5 miliardi di euro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/bper-aggiorna-il-piano-ai-soci-75-miliardi-di-euro_2e2b0f85-77c6-4375-9394-b9d40135d991.html",
+     "data": "2026-08-06T05:38:08+00:00"
+    },
     {
      "titolo": "La Camera approva il decreto legge giustizia con 165 sì, è legge",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/la-camera-approva-il-decreto-legge-giustizia-con-165-si-e-legge_a2e26db7-10a7-4fa9-84bc-c0c94cdd5d1a.html",
@@ -44,16 +54,6 @@
      "titolo": "Le chat su Mps-Mediobanca, pronti i chiarimenti dei pm per la Camera",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/le-chat-su-mps-mediobanca-pronti-i-chiarimenti-dei-pm-per-la-camera_305b9864-dfce-41b0-b59b-480a05c737a5.html",
      "data": "2026-08-05T17:52:09+00:00"
-    },
-    {
-     "titolo": "Axios, 'colloqui Israele-Libano a Roma interrotti per gli eventi sul terreno'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/axios-colloqui-israele-libano-a-roma-interrotti-per-gli-eventi-sul_49cb6d1f-c4e3-4f13-b037-5d3a44042c05.html",
-     "data": "2026-08-05T17:15:05+00:00"
-    },
-    {
-     "titolo": "L'Aula della Camera nega alla Procura l'acquisizione delle chat su Delmastro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/05/laula-della-camera-nega-alla-procura-lacquisizione-delle-chat-su-delmastro_664d3d88-9f83-4d43-a7c3-0c29fcd51ce5.html",
-     "data": "2026-08-05T16:33:01+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Ingv, tracimazione lavica nell'area craterica Nord dello Stromboli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/ingv-tracimazione-lavica-nellarea-craterica-nord-dello-stromboli_d6b8bcf5-f3e8-4f10-acec-f15604cca8bf.html",
+     "data": "2026-08-06T06:09:13+00:00"
+    },
+    {
+     "titolo": "Etna, evento esplosivo e attività stromboliana al cratere Voragine",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/etna-evento-esplosivo-e-attivita-stromboliana-al-cratere-voragine_55ea69ae-3018-4908-824a-3152054be232.html",
+     "data": "2026-08-06T06:01:57+00:00"
+    },
+    {
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-08-05T20:51:18+00:00"
@@ -174,16 +184,6 @@
      "titolo": "La procura indaga per omicidio colposo sulla morte di Mattia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/la-procura-indaga-per-omicidio-colposo-sulla-morte-di-mattia_75d13149-81dc-497a-83a9-f00be927d695.html",
      "data": "2026-08-05T17:31:51+00:00"
-    },
-    {
-     "titolo": "Donna trovata morta in un cantiere, il compagno indagato per omicidio colposo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/donna-trovata-morta-in-un-cantiere-il-compagno-indagato-per-omicidio-colposo_95271c53-a640-4ea5-b8a9-39fef1589cb1.html",
-     "data": "2026-08-05T17:29:05+00:00"
-    },
-    {
-     "titolo": "Era in libertà vigilata dopo aver ucciso la figlia, caccia all'uomo nell'Aretino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/era-in-liberta-vigilata-dopo-aver-ucciso-la-figlia-caccia-alluomo-nellaretino_b32dd14e-f541-47ad-8528-31fa96978620.html",
-     "data": "2026-08-05T17:24:17+00:00"
     }
    ]
   },
@@ -233,7 +233,7 @@
     {
      "titolo": "La Camera nega l'uso delle chat di Delmastro, l'Aula finisce in bagarre",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/la-camera-nega-lacquisizione-delle-chat-di-delmastro.-tensione-in-aula-urla-e-proteste_dc5df7c0-f10a-4c69-aa14-f042a0d51c86.html",
-     "data": "2026-08-05T19:31:59+00:00"
+     "data": "2026-08-06T05:19:54+00:00"
     },
     {
      "titolo": "Protesta M5s sul caso Delmastro, alla Camera e al Senato urla 'Fuori le chat'",
@@ -255,6 +255,36 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Euro poco mosso, scambiato a 1,1551 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/euro-poco-mosso-scambiato-a-11551-dollari_d9ac6281-f121-430a-bc73-9ff81cbff5b8.html",
+     "data": "2026-08-06T06:12:21+00:00"
+    },
+    {
+     "titolo": "Swisscom, nel semestre utile +6,9% a 668 milioni di franchi, conferma target 2026",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/swisscom-nel-semestre-utile-69-a-668-milioni-di-franchi-conferma-target-2026_7cd0cac5-ea3f-4ea2-a6ea-fad4322994e6.html",
+     "data": "2026-08-06T06:14:00+00:00"
+    },
+    {
+     "titolo": "Prezzo petrolio in calo, Wti scambiato a 74,81 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/prezzo-petrolio-in-calo-wti-scambiato-a-7481-dollari_090d0acb-b14c-48ae-a488-0ae74a7a680c.html",
+     "data": "2026-08-06T06:14:02+00:00"
+    },
+    {
+     "titolo": "Bper aggiorna il piano, ai soci 7,5 miliardi di euro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/bper-aggiorna-il-piano-ai-soci-75-miliardi-di-euro_79948c47-4070-411f-9b9b-ef8b87f7ceb2.html",
+     "data": "2026-08-06T05:38:21+00:00"
+    },
+    {
+     "titolo": "Fastweb+Vodafone, semestre in contrazione, ricavi -3,3%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/fastwebvodafone-semestre-in-contrazione-ricavi-33_8516f70b-b0d7-418d-b0fa-faff953b9b7f.html",
+     "data": "2026-08-06T05:39:08+00:00"
+    },
+    {
+     "titolo": "Commerzbank record anche nel semestre, l'utile a 1,8 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/commerzbank-record-anche-nel-semestre-lutile-a-18-miliardi_56022484-21c3-402e-ba14-068ee08e3018.html",
+     "data": "2026-08-06T05:38:26+00:00"
+    },
     {
      "titolo": "Pirelli entra nella difesa, con il cybertyre e Abet Hts",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/pirelli-entra-nella-difesa-con-il-cybertyre-e-abet-hts_9303bbea-e725-4a1d-b0de-ecd2c9ab30b5.html",
@@ -284,42 +314,17 @@
      "titolo": "Borsa: Milano chiude in calo, Ftse Mib -0,18%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/borsa-milano-chiude-in-calo-ftse-mib-018_8b06de21-fb5f-4e6a-aace-28a0019958a4.html",
      "data": "2026-08-05T15:48:40+00:00"
-    },
-    {
-     "titolo": "Cna, Confartigianato e Conpait chiedono una Dop per il \"gelato di tradizione italiana\"",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/cna-confartigianato-e-conpait-chiedono-una-dop-per-il-gelato-di-tradizione-italiana_449b87c9-1cc4-4694-888a-2bba36e32f08.html",
-     "data": "2026-08-05T14:20:25+00:00"
-    },
-    {
-     "titolo": "Volantinaggio dei lavoratori Superjet senza stipendio davanti a Leonardo",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/volantinaggio-dei-lavoratori-superjet-senza-stipendio-davanti-a-leonardo_d078428e-b116-4214-9791-8d6bd107c4e1.html",
-     "data": "2026-08-05T14:05:30+00:00"
-    },
-    {
-     "titolo": "SpaceX crolla di oltre il 12% al Nasdaq sul boom della spesa per l'IA",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/spacex-crolla-di-oltre-il-12-al-nasdaq-sul-boom-della-spesa-per-lia_22cc553b-8757-42cd-92fa-20464efcfaa1.html",
-     "data": "2026-08-05T13:51:08+00:00"
-    },
-    {
-     "titolo": "Wall Street apre positiva su nuovi record, Dj a +0,79% e Nasdaq a +0,44%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/wall-street-apre-positiva-su-nuovi-record-dj-a-079-e-nasdaq-a-044_ced6bbde-1b0f-4b4f-b9c6-4aa76fd6c40d.html",
-     "data": "2026-08-05T13:38:00+00:00"
-    },
-    {
-     "titolo": "Inps, trattenuta su pensione agosto collegata ai redditi per 50mila pensionati",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/inps-trattenuta-su-pensione-agosto-collegata-ai-redditi-per-50mila-pensionati_ca94d9c3-d1ad-44b9-9568-4629c6e88f3a.html",
-     "data": "2026-08-05T13:50:33+00:00"
-    },
-    {
-     "titolo": "Poligrafico e Poste perfezionano l'acquisizione di PagoPa per massimo 500 milioni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/poligrafico-e-poste-perfezionano-lacquisizione-di-pagopa-per-massimo-500-milioni_fc7eff05-f504-4ce5-8f53-27abb589a81f.html",
-     "data": "2026-08-05T13:56:38+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Iran, 'non stiamo negoziando con gli Usa su Hormuz, solo con l'Oman'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/06/iran-non-stiamo-negoziando-con-gli-usa-su-hormuz-solo-con_077dcc2e-3125-4cb4-a508-acc3a89804e6.html",
+     "data": "2026-08-06T05:48:06+00:00"
+    },
     {
      "titolo": "Sheinbaum riceve Parolin e rinnova l'invito a papa Leone XIV",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/06/sheinbaum-riceve-parolin-e-rinnova-linvito-a-papa-leone-xiv_d9f16d5a-2916-4263-b597-7a3368074348.html",
@@ -374,11 +379,6 @@
      "titolo": "Leone XIV incontrerà Milei durante il suo viaggio in Argentina",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/leone-xiv-incontrera-milei-durante-il-suo-viaggio-in-argentina_6d92db5b-9e97-4b46-856c-861825eb1775.html",
      "data": "2026-08-05T20:18:09+00:00"
-    },
-    {
-     "titolo": "Accordo tra Iran e Oman sulle nuove rotte di Hormuz, l'ipotesi di una tregua",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/05/accordo-tra-iran-e-oman-sulle-nuove-rotte-di-hormuz-lipotesi-di-una_594e2920-4cc5-42ab-bff8-24241c6b3b0d.html",
-     "data": "2026-08-05T19:15:29+00:00"
     }
    ]
   },
