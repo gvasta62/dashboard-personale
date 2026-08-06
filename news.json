@@ -1,65 +1,90 @@
 {
- "aggiornato": "2026-08-06T09:17:54.453023+00:00",
+ "aggiornato": "2026-08-06T11:37:40.089981+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
-     "titolo": "Nuburu, 'via libera del Governo all'acquisizione di Tekne'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/nuburu-via-libera-del-governo-allacquisizione-di-tekne_142ec047-62eb-4be3-9965-3de5800382bb.html",
-     "data": "2026-08-06T09:09:55+00:00"
+     "titolo": "Ocse, la crescita del reddito rallenta a +0,2% nel primo trimestre, in Italia +0,8%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/ocse-la-crescita-del-reddito-rallenta-a-02-nel-primo-trimestre-in-italia-08_8358fa00-c091-4760-96b8-bb3778f9f5c1.html",
+     "data": "2026-08-06T11:19:07+00:00"
     },
     {
-     "titolo": "La raccolta Fineco a luglio a 1,78 miliardi, da inizio anno oltre 10 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/la-raccolta-fineco-a-luglio-a-178-miliardi-da-inizio-anno-oltre-10-miliardi_4aff1591-62e3-4816-a1d9-5d825938faa5.html",
-     "data": "2026-08-06T09:08:06+00:00"
+     "titolo": "Bild, 'droni russi su nave cargo tedesca a Odessa, incendio a bordo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/bild-droni-russi-su-nave-cargo-tedesca-a-odessa-incendio-a-bordo_5d6a6341-72a5-4c0f-8247-d4936a166d05.html",
+     "data": "2026-08-06T11:20:20+00:00"
     },
     {
-     "titolo": "++ Il Papa, fantasmi e nemici inventati per imporre il proprio potere ++",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/il-papa-fantasmi-e-nemici-inventati-per-imporre-il-proprio-potere_4c3ffc21-301f-4b81-93bb-a094f781ad7a.html",
-     "data": "2026-08-06T09:00:19+00:00"
+     "titolo": "Media, per 007 spagnoli credibile appello per nuovo assalto a Ceuta il 15 agosto",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/media-per-007-spagnoli-credibile-appello-per-nuovo-assalto-a-ceuta_3aa39d7b-e7cf-446f-b485-2f794a1063fe.html",
+     "data": "2026-08-06T10:57:23+00:00"
     },
     {
-     "titolo": "Caldo record in Germania, a giugno 9600 decessi in una settimana",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/caldo-record-in-germania-a-giugno-9600-decessi-in-una-settimana_af8f8567-b6bc-47b3-ba10-10555e28da90.html",
-     "data": "2026-08-06T08:30:31+00:00"
+     "titolo": "Due soldati israeliani morti in combattimento nel sud del Libano",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/due-soldati-israeliani-morti-in-combattimento-nel-sud-del-libano_98baadfe-06c6-4948-b95b-c2189bf33cc9.html",
+     "data": "2026-08-06T10:36:39+00:00"
     },
     {
-     "titolo": "La Spagna si prepara all'eclissi 12 agosto, corsa agli occhiali, milioni in viaggio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/la-spagna-si-prepara-alleclissi-12-agosto-corsa-agli-occhiali-milioni-in-viaggio_fdd32b6c-fdb5-49c0-a3fd-7fc1bbce3a1a.html",
-     "data": "2026-08-06T08:24:53+00:00"
+     "titolo": "L'ultima testimonianza di Guccini, 'le parole sono importanti, ci fanno imparare ad amare'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/lultima-testimonianza-di-guccini-le-parole-sono-importanti-ci-fanno-imparare-ad-amare_6172a04c-41c8-4098-9bd9-f1a7ed1f309a.html",
+     "data": "2026-08-06T10:25:43+00:00"
     },
     {
-     "titolo": "++ Antitrust, 'ostacolo a corse gratis', multa milionaria a monopattini e bikesharing ++",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/antitrust-ostacolo-a-corse-gratis-multa-milionaria-a-monopattini-e-bikesharing_15a95548-f1e4-44e3-9e6b-070fb68e51c6.html",
-     "data": "2026-08-06T08:14:18+00:00"
+     "titolo": "Media Beirut, nella notte nuovi raid israeliani sul sud del Libano",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/media-beirut-nella-notte-nuovi-raid-israeliani-sul-sud-del_357a28f0-a502-4b0c-b3f8-22caf9068305.html",
+     "data": "2026-08-06T10:26:05+00:00"
     },
     {
-     "titolo": "++ Istat, produzione industriale in calo dell'1% a giugno, su anno -0,6% ++",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/istat-produzione-industriale-in-calo-dell1-a-giugno-su-anno-06_7662c46b-5a7c-4ee4-9833-291ec316d6b7.html",
-     "data": "2026-08-06T08:08:45+00:00"
+     "titolo": "Zelensky, 'colpite due raffinerie in Russia e navi nel Mar Nero'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/zelensky-colpite-due-raffinerie-in-russia-e-navi-nel-mar-nero_f6e1b2e7-da21-4430-ae25-bd9b5ff45823.html",
+     "data": "2026-08-06T10:23:04+00:00"
     },
     {
-     "titolo": "Il Papa, i cristiani sono all'opposto del fondamentalismo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/il-papa-i-cristiani-sono-allopposto-del-fondamentalismo_3288e033-d0be-420f-a14f-c7ab6263caf8.html",
-     "data": "2026-08-06T07:35:18+00:00"
+     "titolo": "Distretto fiume Po, 'emergenza siccità continua e non si vede la fine'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/distretto-fiume-po-emergenza-siccita-continua-e-non-si-vede-la-fine_f906c60d-3fcc-434e-978a-4f9272c3033e.html",
+     "data": "2026-08-06T10:21:53+00:00"
     },
     {
-     "titolo": "Brasile, si dimette il capo della campagna elettorale di Lula",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/brasile-si-dimette-il-capo-della-campagna-elettorale-di-lula_d891fea7-6214-4f21-9a51-1d017a816167.html",
-     "data": "2026-08-06T07:33:21+00:00"
+     "titolo": "La Svezia consegnerà all'Ucraina una nave della flotta ombra russa",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/la-svezia-consegnera-allucraina-una-nave-della-flotta-ombra-russa_0bbd5f2d-2e4a-4eeb-98d7-6db82112a31d.html",
+     "data": "2026-08-06T10:19:28+00:00"
     },
     {
-     "titolo": "Omicidio in carcere a Prato, vittima detenuto 32enne",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/omicidio-in-carcere-a-prato-vittima-detenuto-32enne_3cfdbc7f-dbeb-47f7-938d-65ab3e4efc9c.html",
-     "data": "2026-08-06T07:33:18+00:00"
+     "titolo": "Londra annuncia nuove sanzioni anti Mosca contro banche, navi e aziende",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/londra-annuncia-nuove-sanzioni-anti-mosca-contro-banche-navi-e-aziende_a2a5284b-0fff-411f-9852-84f1175cd26a.html",
+     "data": "2026-08-06T10:18:20+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Ferdinandi, 'sulla salute mentale basta polemiche'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/06/ferdinandi-sulla-salute-mentale-basta-polemiche_3c7017d4-41c8-49bd-ba6d-7c3a760ade77.html",
+     "data": "2026-08-06T11:17:52+00:00"
+    },
+    {
+     "titolo": "Cercava numero telefono del Papa, il piccolo Tommaso lo incontra ad Assisi",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/06/cercava-numero-telefono-del-papa-il-piccolo-tommaso-lo-incontra-ad-assisi_401af573-ced4-4d6d-82ca-cc6098f86f95.html",
+     "data": "2026-08-06T11:10:25+00:00"
+    },
+    {
+     "titolo": "Il Papa lascia in elicottero Assisi e rientra in Vaticano",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/06/il-papa-lascia-in-elicottero-assisi-e-rientra-in-vaticano_63112557-80ba-4130-8e6b-bf6d70bc0bc0.html",
+     "data": "2026-08-06T10:44:07+00:00"
+    },
+    {
+     "titolo": "I giovani al Papa, 'ad Assisi abbiamo imparato che nessuno è escluso'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/06/i-giovani-al-papa-ad-assisi-abbiamo-imparato-che-nessuno-e-escluso_48881261-b41e-486d-96dd-178e1b0a7345.html",
+     "data": "2026-08-06T10:04:56+00:00"
+    },
+    {
+     "titolo": "'Uno sguardo su Gioiella', giovani da tutta Italia costruiscono una nuova piazza",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/06/uno-sguardo-su-gioiella-giovani-da-tutta-italia-costruiscono-una-nuova-piazza_eb2e5650-08e0-42a3-bf55-66abd4359e83.html",
+     "data": "2026-08-06T10:04:24+00:00"
+    },
     {
      "titolo": "A Montefranco atti vandalici al campo sportivo, i bambini ripuliscono la struttura",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/06/a-montefranco-atti-vandalici-al-campo-sportivo-i-bambini-ripuliscono-la-struttura_643d6a72-96ed-4283-ba42-84f9dd702d9d.html",
@@ -68,7 +93,7 @@
     {
      "titolo": "Il Papa, i cristiani sono all'opposto del fondamentalismo",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/06/il-papa-i-cristiani-sono-allopposto-del-fondamentalismo_c2c537f1-3615-44dd-a7b6-89815b059f60.html",
-     "data": "2026-08-06T07:46:55+00:00"
+     "data": "2026-08-06T10:44:52+00:00"
     },
     {
      "titolo": "Il Papa è arrivato ad Assisi per l'incontro con i giovani",
@@ -94,31 +119,6 @@
      "titolo": "Arcudi, 'l'ospedale del Trasimeno aspetta da mesi'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/05/arcudi-lospedale-del-trasimeno-aspetta-da-mesi_26af3f00-5331-4eae-a225-beef08d89166.html",
      "data": "2026-08-05T15:52:40+00:00"
-    },
-    {
-     "titolo": "Il Papa ad Assisi, modifiche a viabilità e disposizioni per la sicurezza",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/05/il-papa-ad-assisi-modifiche-a-viabilita-e-disposizioni-per-la-sicurezza_f377e658-45ec-44d8-9b13-316bd1d4dc82.html",
-     "data": "2026-08-05T13:26:04+00:00"
-    },
-    {
-     "titolo": "Il sindaco e la città di Assisi accolgono Papa Leone",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/05/benvenuto-papa-leone-il-sindaco-di-assisi-accoglie-il-pontefice_261ac4b7-4c0f-44a9-a216-dc0a665596a9.html",
-     "data": "2026-08-05T12:44:35+00:00"
-    },
-    {
-     "titolo": "In Umbria vaccino Hpv gratuito anche per i ragazzi nati nel 2005",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/05/in-umbria-vaccino-hpv-gratuito-anche-per-i-ragazzi-nati-nel-2005_fb7d6694-06dd-45a3-9e98-5ace0069db20.html",
-     "data": "2026-08-05T13:43:45+00:00"
-    },
-    {
-     "titolo": "Provincia di Perugia, ok alla convenzione con i Comuni per le manutenzioni stradali",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/05/provincia-di-perugia-ok-alla-convenzione-con-i-comuni-per-le-manutenzioni-stradali_a19eaae4-9c23-436d-8ec7-1023c30eabf5.html",
-     "data": "2026-08-05T11:14:37+00:00"
-    },
-    {
-     "titolo": "Provincia di Terni, 450mila euro di lavori per la sicurezza stradale",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/05/provincia-di-terni-450mila-euro-di-lavori-per-la-sicurezza-stradale_cb4005f5-550c-446e-81d4-0dd46d6fb810.html",
-     "data": "2026-08-05T11:07:06+00:00"
     }
    ]
   },
@@ -126,70 +126,75 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Cade dal secondo piano, bimba in rianimazione al Policlinico di Bari",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/cade-dal-secondo-piano-bimba-in-rianimazione-al-policlinico-di-bari_1562a103-0f06-4217-b324-f470a721e8e7.html",
-     "data": "2026-08-06T08:53:24+00:00"
+     "titolo": "'Chiudere le sedi fasciste', a Genova raccolte oltre 10 mila firme",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/chiudere-le-sedi-fasciste-a-genova-raccolte-oltre-10-mila-firme_a6816a27-2846-4e82-9372-bb7565a562df.html",
+     "data": "2026-08-06T11:13:27+00:00"
     },
     {
-     "titolo": "Assaltò campanile di San Marco, ex Serenissimo condannato a due anni e 8 mesi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/assalto-campanile-di-san-marco-ex-serenissimo-condannato-a-due-anni-e-8-mesi_83e02c01-717b-42cd-87be-0cd0b5fa4a86.html",
-     "data": "2026-08-06T08:50:57+00:00"
+     "titolo": "Febbre del Nilo, quinto caso in Sardegna, sempre nell'Oristanese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/febbre-del-nilo-quinto-caso-in-sardegna-sempre-nelloristanese_00708ba0-e622-46c6-918f-b08bbaa96c68.html",
+     "data": "2026-08-06T11:11:06+00:00"
     },
     {
-     "titolo": "Caldo record, alla Stazione di Napoli e al mercato di Afragola 48 gradi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/caldo-record-alla-stazione-di-napoli-e-al-mercato-di-afragola-48-gradi_886bb560-49a3-44a5-9e67-ba686b63e179.html",
-     "data": "2026-08-06T08:45:03+00:00"
+     "titolo": "Caldo, stop a cani e gatti in balconi e cortili non riparati nel Cagliaritano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/caldo-stop-a-cani-e-gatti-in-balconi-e-cortili-non-riparati-nel-cagliaritano_a445217b-5b75-47cc-8913-b29acd2e8c50.html",
+     "data": "2026-08-06T10:58:28+00:00"
     },
     {
-     "titolo": "Coldiretti Puglia, 'dopo rogo gara di solidarietà per giovane allevatore'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/coldiretti-puglia-dopo-rogo-gara-di-solidarieta-per-giovane-allevatore_fb450390-c370-4334-ae31-271f099fa93c.html",
-     "data": "2026-08-06T08:42:01+00:00"
+     "titolo": "Sabato a Roma i funerali del marito della ministra Roccella",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/sabato-a-roma-i-funerali-del-marito-della-ministra-roccella_05b454f2-0d0a-4652-81ee-6edb2f8cef1c.html",
+     "data": "2026-08-06T10:57:47+00:00"
     },
     {
-     "titolo": "Caldo record in Germania, a giugno 9600 decessi in una settimana",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/caldo-record-in-germania-a-giugno-9600-decessi-in-una-settimana_3b8e7cd0-156f-44d3-8339-5791520b83b7.html",
-     "data": "2026-08-06T08:39:19+00:00"
+     "titolo": "Bimba morta a Bordighera, procura dispone supplemento di perizia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/bimba-morta-a-bordighera-procura-dispone-supplemento-di-perizia_9e8eab50-dfe3-45b7-9246-e8712daee5b0.html",
+     "data": "2026-08-06T10:51:57+00:00"
     },
     {
-     "titolo": "Vendono limonata fresca per comprare un motorino, ammoniti tre ragazzini",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/vendono-limonata-fresca-per-comprare-un-motorino-ammoniti-tre-ragazzini_c0cc2cbe-5439-489d-8abf-2a095777f8d1.html",
-     "data": "2026-08-06T08:30:03+00:00"
+     "titolo": "Auto si ribalta in fosso nel Pavese, morta una donna, feriti i due figli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/auto-si-ribalta-in-fosso-nel-pavese-morta-una-donna-feriti-i-due_6191917e-2a34-4f28-8542-77e7bd428836.html",
+     "data": "2026-08-06T10:27:27+00:00"
     },
     {
-     "titolo": "Tre sbarchi a Lampedusa, arrivati cento migranti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/tre-sbarchi-a-lampedusa-arrivati-cento-migranti_2f0826ef-b243-47f9-8cec-a0e197916bac.html",
-     "data": "2026-08-06T08:28:11+00:00"
+     "titolo": "Distretto del fiume Po: 'L'emergenza siccità continua e non si vede la fine'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/distretto-fiume-po-emergenza-siccita-continua-e-non-si-vede-la-fine_a42972ea-ad92-4c7a-8e37-cc1be8cc46cf.html",
+     "data": "2026-08-06T10:45:08+00:00"
     },
     {
-     "titolo": "Rogo brucia tonnellate di rifiuti in una piattaforma ecologica nel Pavese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/rogo-brucia-tonnellate-di-rifiuti-in-una-piattaforma-ecologica-nel-pavese_261093ee-2273-43a9-a31f-2d886519dbd2.html",
-     "data": "2026-08-06T08:03:12+00:00"
+     "titolo": "L'ex poliziotto Cinturrino non risponde al pm, 'l'interrogatorio è nullo'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/lex-poliziotto-cinturrino-non-risponde-al-pm-linterrogatorio-e-nullo_22d58dd5-14a9-4e10-a4ba-90dcb6b775cc.html",
+     "data": "2026-08-06T10:10:40+00:00"
     },
     {
-     "titolo": "'Vai via dal nostro paese', pregiudicato pestato a bastonate nel Chietino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/vai-via-dal-nostro-paese-pregiudicato-pestato-a-bastonate-nel-chietino_9bb9db4b-a12b-4cc5-bdca-5cd83433f69e.html",
-     "data": "2026-08-06T07:55:19+00:00"
+     "titolo": "Firmato contratto presidi, Valditara 'valorizza chi lavora nelle scuole'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/firmato-contratto-presidi-valditara-valorizza-chi-lavora-nelle-scuole_0322acdb-0920-4795-b676-61fb9e4e884e.html",
+     "data": "2026-08-06T10:09:46+00:00"
     },
     {
-     "titolo": "Il Papa, i cristiani sono all'opposto del fondamentalismo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/il-papa-i-cristiani-sono-allopposto-del-fondamentalismo_7e1a558d-acc6-428c-9e4d-81516b19d5f6.html",
-     "data": "2026-08-06T07:35:38+00:00"
+     "titolo": "Incendio brucia da due giorni i boschi sul monte Moregallo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/incendio-brucia-da-due-giorni-i-boschi-sul-monte-moregallo_ccca7750-a134-4c9f-af36-fb2ea3bbc8c2.html",
+     "data": "2026-08-06T09:52:17+00:00"
     },
     {
-     "titolo": "Omicidio in carcere a Prato, vittima detenuto 32enne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/omicidio-in-carcere-a-prato-vittima-detenuto-32enne_f964776e-fe0d-4136-b766-f4add2df3cc1.html",
-     "data": "2026-08-06T07:33:16+00:00"
+     "titolo": "Fsi Usae chiede incontro su criticità con Commissario edilizia carceraria",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/fsi-usae-chiede-incontro-su-criticita-con-commissario-edilizia-carceraria_6312bcfe-2f2a-4c68-a0fe-5a785e2262c7.html",
+     "data": "2026-08-06T09:49:55+00:00"
     },
     {
-     "titolo": "Maxi frana in Alto Adige, Valle Aurina isolata",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/maxi-frana-in-alto-adige-valle-aurina-isolata_e4119983-fdda-462f-858d-ecb789abe860.html",
-     "data": "2026-08-06T08:29:49+00:00"
+     "titolo": "Una ripicca tra le ipotesi per l'allarme bomba nel Milanese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/una-ripicca-tra-le-ipotesi-per-lallarme-bomba-nel-milanese_42b439ec-17d9-49f1-bdc1-8cc1ca349243.html",
+     "data": "2026-08-06T09:44:44+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Cercava numero telefono del Papa, il piccolo Tommaso lo incontra ad Assisi",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/06/cercava-numero-telefono-del-papa-il-piccolo-tommaso-lo-incontra-ad-assisi_14123df9-15b9-407b-a2bb-ffd9564015c2.html",
+     "data": "2026-08-06T11:10:27+00:00"
+    },
     {
      "titolo": "++ Il Papa, fantasmi e nemici inventati per imporre il proprio potere ++",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/06/il-papa-fantasmi-e-nemici-inventati-per-imporre-il-proprio-potere_1891f597-8eb7-4e75-84b6-91864a637bdd.html",
@@ -244,17 +249,22 @@
      "titolo": "Protesta M5s sul caso Delmastro, alla Camera e al Senato urla 'Fuori le chat'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/protesta-m5s-sul-caso-delmastro-alla-camera-e-al-senato-urla-fuori_c2c9b1d5-0458-4610-bd9a-3a692eb25116.html",
      "data": "2026-08-05T15:56:36+00:00"
-    },
-    {
-     "titolo": "I deputati Avs in Aula si bendano gli occhi per protesta sul caso Delmastro",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/i-deputati-avs-in-aula-si-bendano-gli-occhi-per-protesta-sul-caso_c11df728-b071-44d2-a0f0-25f587e9f382.html",
-     "data": "2026-08-05T15:56:59+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Ocse, la crescita del reddito rallenta a +0,2% nel primo trimestre, in Italia +0,8%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/ocse-la-crescita-del-reddito-rallenta-a-02-nel-primo-trimestre-in-italia-08_16181378-4d9c-4027-bb45-5544124ac8cf.html",
+     "data": "2026-08-06T11:23:55+00:00"
+    },
+    {
+     "titolo": "Confedilizia, l'Imu continua a produrre ruderi,+129% dal 2011",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/confedilizia-limu-continua-a-produrre-ruderi129-dal-2011_4bcf14fd-f9a7-415b-84ab-b8fbb710185d.html",
+     "data": "2026-08-06T09:55:12+00:00"
+    },
     {
      "titolo": "Nuburu, 'via libera del Governo all'acquisizione di Tekne'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/nuburu-via-libera-del-governo-allacquisizione-di-tekne_81c7ed54-25b7-440a-9c15-ef0439a87700.html",
@@ -268,12 +278,12 @@
     {
      "titolo": "Bce, caro energia pesa su famiglie a basso reddito e ne erode risparmi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/bce-caro-energia-pesa-su-famiglie-a-basso-reddito-e-ne-erode-risparmi_c129eb7b-1e6c-441e-8fde-d0bfc2df1206.html",
-     "data": "2026-08-06T08:41:11+00:00"
+     "data": "2026-08-06T10:56:32+00:00"
     },
     {
-     "titolo": "Bce: 'Incertezza elevata, l'impatto shock energetico deve ancora arrivare'",
+     "titolo": "Bce, caro energia pesa su famiglie a basso reddito e ne erode risparmi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/bce-incertezza-elevata-impatto-shock-energia-deve-ancora-arrivare_36bb802f-3733-479f-b096-8e996c1c4d55.html",
-     "data": "2026-08-06T08:34:21+00:00"
+     "data": "2026-08-06T11:23:05+00:00"
     },
     {
      "titolo": "Swisscom, nel semestre utile +6,9% a 668 milioni di franchi, conferma target 2026",
@@ -283,7 +293,7 @@
     {
      "titolo": "Dall'Antitrust multa milionaria a monopattini e bikesharing. 'Ostacolate le corse gratis'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/dallantitrust-multa-milionaria-a-monopattini-e-bikesharing.-ostacolate-le-corse-gratis_d3aa932a-0998-4ba1-a559-7114154d02b0.html",
-     "data": "2026-08-06T08:45:15+00:00"
+     "data": "2026-08-06T11:24:19+00:00"
     },
     {
      "titolo": "++ Antitrust, 'ostacolo a corse gratis', multa milionaria a monopattini e bikesharing ++",
@@ -304,16 +314,6 @@
      "titolo": "Mimit, in calo il prezzo dei carburanti, gasolio a 2,092 euro al litro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/mimit-in-calo-il-prezzo-dei-carburanti-gasolio-a-2092-euro-al-litro_4a8640a1-7972-4107-bc8e-445dbfba3a07.html",
      "data": "2026-08-06T07:27:53+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa in cauto rialzo, guarda a Hormuz",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/borsa-europa-in-cauto-rialzo-guarda-a-hormuz_f6d865ed-e321-4ba0-9b45-dca376747645.html",
-     "data": "2026-08-06T07:23:10+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre in rialzo, Ftse Mib +0,4%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/borsa-milano-apre-in-rialzo-ftse-mib-04_053b26b1-f6bb-49c8-a1be-7ffcb9dba28b.html",
-     "data": "2026-08-06T07:09:33+00:00"
     }
    ]
   },
@@ -321,64 +321,64 @@
    "nome": "Mondo",
    "voci": [
     {
-     "titolo": "Caldo record in Germania, a giugno 9600 decessi in una settimana",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/06/caldo-record-in-germania-a-giugno-9600-decessi-in-una-settimana_c0447668-3090-4bce-a29a-6c6dccc67b41.html",
-     "data": "2026-08-06T08:30:44+00:00"
+     "titolo": "Media, per 007 spagnoli credibile appello per nuovo assalto a Ceuta il 15 agosto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/06/media-per-007-spagnoli-credibile-appello-per-nuovo-assalto-a-ceuta_c349d96a-6606-4114-8922-a2a63d87b4ac.html",
+     "data": "2026-08-06T11:22:43+00:00"
     },
     {
-     "titolo": "La Spagna si prepara all'eclissi 12 agosto, corsa agli occhiali, milioni in viaggio",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/06/la-spagna-si-prepara-alleclissi-12-agosto-corsa-agli-occhiali-milioni-in-viaggio_18308d5f-48de-496e-81ff-8496cbded692.html",
-     "data": "2026-08-06T08:24:53+00:00"
+     "titolo": "Bild, 'droni russi su nave cargo tedesca a Odessa, incendio a bordo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/06/bild-droni-russi-su-nave-cargo-tedesca-a-odessa-incendio-a-bordo_4d3882fd-54ae-4c7b-8b8d-e4026340e440.html",
+     "data": "2026-08-06T11:20:43+00:00"
     },
     {
-     "titolo": "Brasile, si dimette il capo della campagna elettorale di Lula",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/06/brasile-si-dimette-il-capo-della-campagna-elettorale-di-lula_3496b1f2-f0d9-46c4-8fba-6081c984bdc0.html",
-     "data": "2026-08-06T07:33:29+00:00"
+     "titolo": "Turismo, Tunisia supera 5,8 milioni di visitatori a luglio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/06/turismo-tunisia-supera-58-milioni-di-visitatori-a-luglio_4fe0f328-9913-424d-af9c-49ede2ef910e.html",
+     "data": "2026-08-06T11:16:15+00:00"
     },
     {
-     "titolo": "Sale il rischio attentati in Colombia, trovata un'autobomba vicino Cali",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/06/sale-il-rischio-attentati-in-colombia-trovata-unautobomba-vicino-cali_fccf43bd-63e2-4235-874e-18ab9c5d05c1.html",
-     "data": "2026-08-06T07:06:56+00:00"
+     "titolo": "Media, per 007 spagnoli credibile appello per nuovo assalto a Ceuta il 15 agosto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/06/media-per-007-spagnoli-credibile-appello-per-nuovo-assalto-a-ceuta_78d84121-c62b-4d8f-b107-0ecf5e4f102d.html",
+     "data": "2026-08-06T10:57:23+00:00"
     },
     {
-     "titolo": "Da Hiroshima, 81 anni dopo la bomba, un appello mondiale al disarmo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/06/da-hiroshima-81-anni-dopo-la-bomba-un-appello-mondiale-al-disarmo_0e12910f-b2d9-4fa4-8ab7-ce18dc66f2a6.html",
-     "data": "2026-08-06T06:59:58+00:00"
+     "titolo": "Due soldati israeliani morti in combattimento nel sud del Libano",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/06/due-soldati-israeliani-morti-in-combattimento-nel-sud-del-libano_61d829b3-15a5-4261-a29f-231a6e9ff91b.html",
+     "data": "2026-08-06T10:37:02+00:00"
     },
     {
-     "titolo": "Trump, 'abbiamo molte munizioni, puniremo i divulgatori traditori'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/06/trump-abbiamo-molte-munizioni-puniremo-i-divulgatori-traditori_08e594cb-f4ef-4b3e-9e8b-089cb8c78407.html",
-     "data": "2026-08-06T06:46:06+00:00"
+     "titolo": "Media Beirut, nella notte nuovi raid israeliani sul sud del Libano",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/06/media-beirut-nella-notte-nuovi-raid-israeliani-sul-sud-del_9d7f0368-0dad-418c-b486-d85c3c1eae64.html",
+     "data": "2026-08-06T10:26:23+00:00"
     },
     {
-     "titolo": "Iran, 'non stiamo negoziando con gli Usa su Hormuz, solo con l'Oman'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/06/iran-non-stiamo-negoziando-con-gli-usa-su-hormuz-solo-con_077dcc2e-3125-4cb4-a508-acc3a89804e6.html",
-     "data": "2026-08-06T05:48:06+00:00"
+     "titolo": "Zelensky, 'colpite due raffinerie in Russia e navi nel Mar Nero'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/06/zelensky-colpite-due-raffinerie-in-russia-e-navi-nel-mar-nero_b8436343-bb1d-4a2b-bc87-7837f2109069.html",
+     "data": "2026-08-06T10:23:04+00:00"
     },
     {
-     "titolo": "Sheinbaum riceve Parolin e rinnova l'invito a papa Leone XIV",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/06/sheinbaum-riceve-parolin-e-rinnova-linvito-a-papa-leone-xiv_d9f16d5a-2916-4263-b597-7a3368074348.html",
-     "data": "2026-08-06T01:23:26+00:00"
+     "titolo": "Cile, Kast annuncia misure shock contro il crimine organizzato",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/06/cile-kast-annuncia-misure-shock-contro-il-crimine-organizzato_11343119-70c4-409d-aa5f-5547ab637a7c.html",
+     "data": "2026-08-06T10:21:26+00:00"
     },
     {
-     "titolo": "Venezuela, Maiquetía riapre ai voli cargo dopo i terremoti di giugno",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/06/venezuela-maiquetia-riapre-ai-voli-cargo-dopo-i-terremoti-di-giugno_c9e42e7e-890b-4ecf-8f0d-d77650026155.html",
-     "data": "2026-08-06T00:20:15+00:00"
+     "titolo": "La Svezia consegnerà all'Ucraina una nave della flotta ombra russa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/06/la-svezia-consegnera-allucraina-una-nave-della-flotta-ombra-russa_3594870a-a09d-4c1e-b2ff-ecf1ffbb8b58.html",
+     "data": "2026-08-06T10:19:28+00:00"
     },
     {
-     "titolo": "L'Osa convoca i ministri degli Esteri sul Nicaragua, il Brasile si dissocia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/06/losa-convoca-i-ministri-degli-esteri-sul-nicaragua-il-brasile-si-dissocia_0f785e19-0e7e-41de-9e54-89e74b9963d3.html",
-     "data": "2026-08-05T23:51:06+00:00"
+     "titolo": "Londra annuncia nuove sanzioni anti Mosca contro banche, navi e aziende",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/06/londra-annuncia-nuove-sanzioni-anti-mosca-contro-banche-navi-e-aziende_86d318ca-82df-4faa-baa7-e3d0e406235d.html",
+     "data": "2026-08-06T10:18:33+00:00"
     },
     {
-     "titolo": "Leone XIV in Perù nel segno della 'riconciliazione nazionale'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/06/leone-xiv-in-peru-nel-segno-della-riconciliazione-nazionale_1a982cf5-58a1-4125-9c76-27ce4ad18db2.html",
-     "data": "2026-08-05T23:28:59+00:00"
+     "titolo": "Seul, 'Corea del Nord ha lanciato proiettile verso il Mar del Giappone'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/06/seul-corea-del-nord-ha-lanciato-proiettile-verso-il-mar-del-giappone_29baafce-d7c2-4814-bcb0-a775e2076d88.html",
+     "data": "2026-08-06T10:15:28+00:00"
     },
     {
-     "titolo": "Cuba apre all'importazione di veicoli, più spazio ai privati e agli elettrici",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/cuba-apre-allimportazione-di-veicoli-piu-spazio-ai-privati-e-agli-elettrici_fefe190c-08b9-4eb1-85c9-4abdd7695d8e.html",
-     "data": "2026-08-05T21:58:59+00:00"
+     "titolo": "Figuera arrivata in Venezuela da Madrid per i negoziati col governo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/06/figuera-arrivata-in-venezuela-da-madrid-per-i-negoziati-col-governo_fbef9f96-5f3f-4773-b9f0-31da981eadc2.html",
+     "data": "2026-08-06T10:12:44+00:00"
     }
    ]
   },
@@ -451,6 +451,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Atletica: Mondiali U.20, Doualla riporta Italia in finale 100 metri dopo 30 anni",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/06/atletica-mondiali-u.20-doualla-riporta-italia-in-finale-100-metri-dopo_b9d6b3c8-fc9c-4270-a592-82b5eb29049f.html",
+     "data": "2026-08-06T11:22:59+00:00"
+    },
+    {
+     "titolo": "Zverev subito fuori a Montreal, \"non mi aspettavo di giocare così male\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/06/zverev-subito-fuori-a-montreal-non-mi-aspettavo-di-giocare-cosi-male_fe6b2844-6aa3-45aa-a4f4-df67cba7c3e7.html",
+     "data": "2026-08-06T10:50:19+00:00"
+    },
+    {
+     "titolo": "Seconda maglia della Roma, bianca con striscia giallorossa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/06/seconda-maglia-della-roma-bianca-con-striscia-giallorossa_ad0500b7-2fe0-4481-bc25-4ca42270b5b4.html",
+     "data": "2026-08-06T10:13:29+00:00"
+    },
+    {
      "titolo": "Con una doppietta Messi é il miglior marcatore nella Coppa di Lega",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/06/con-una-doppietta-messi-e-il-miglior-marcatore-nella-coppa-di-lega_26417238-b0a4-4226-99f6-92536c59407d.html",
      "data": "2026-08-06T08:04:49+00:00"
@@ -494,21 +509,6 @@
      "titolo": "Gattuso: 'Lazio sulla strada giusta, assenza tifosi non sia un alibi'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/05/gattuso-lazio-sulla-strada-giusta-assenza-tifosi-non-sia-un-alibi_4c61b457-3a31-4fda-beb7-56f5e8dcb14e.html",
      "data": "2026-08-05T19:11:45+00:00"
-    },
-    {
-     "titolo": "Napoli in crescita, malgrado le assenze batte l'Osasuna 2-1",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/05/napoli-in-crescita-malgrado-le-assenze-batte-losasuna-2-1_09b3fe3b-de0c-4675-bb7d-d5c10a253b48.html",
-     "data": "2026-08-05T19:09:09+00:00"
-    },
-    {
-     "titolo": "'No Totti, No party' la storia geniale del capitano romanista",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/05/no-totti-no-party-la-storia-geniale-del-capitano-romanista_88c3b67a-c4bd-4932-b1d4-e7e826df74b5.html",
-     "data": "2026-08-05T19:06:31+00:00"
-    },
-    {
-     "titolo": "In Canada avanti Musetti e Darderi, fuori Cobolli",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/05/in-canada-avanti-musetti-e-darderi-fuori-cobolli_0345860d-a8f5-409f-9b27-d6a6419660a5.html",
-     "data": "2026-08-05T18:59:57+00:00"
     }
    ]
   }
