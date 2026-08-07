@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-07T17:37:20.480799+00:00",
+ "aggiornato": "2026-08-07T18:34:37.967828+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Senato Usa approva nuove sanzioni alla Russia e all'Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/senato-usa-approva-nuove-sanzioni-alla-russia-e-alliran_158d58d8-d5c0-44f0-a1d8-65c0b45c8034.html",
+     "data": "2026-08-07T17:38:55+00:00"
+    },
     {
      "titolo": "Un video fake annuncia le dimissioni di Merz, 'è disinformazione russa'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/un-video-fake-annuncia-le-dimissioni-di-merz-e-disinformazione-russa_83b6136c-fc31-4e4d-8427-297d9f58771f.html",
@@ -49,11 +54,6 @@
      "titolo": "Batosta per Trump, corte d'appello blocca il salone delle feste della Casa Bianca",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/batosta-per-trump-corte-dappello-blocca-il-salone-delle-feste-della_8f5fef2e-fd29-41bb-ba24-bd783be88dd0.html",
      "data": "2026-08-07T16:34:55+00:00"
-    },
-    {
-     "titolo": "Ariana Grande debutta con Petal e conquista la Hit Parade",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/ariana-grande-debutta-con-petal-e-conquista-la-hit-parade_57cc1387-77d1-4828-86c2-3f332416da78.html",
-     "data": "2026-08-07T16:14:51+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "I vigili urbani respingono le accuse, analisi sui cellulari",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/i-vigili-urbani-respingono-le-accuse-analisi-sui-cellulari-_7065be0c-6acc-4333-b681-df83a0bc3314.html",
+     "data": "2026-08-07T18:22:20+00:00"
+    },
+    {
+     "titolo": "Il grande caldo sull'Italia, allerta per incendi al Centro Sud",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/il-grande-caldo-sullitalia-allerta-per-incendi-al-centro-sud-_5491cfe2-9f56-4cfb-a2bd-e422c789a247.html",
+     "data": "2026-08-07T18:01:51+00:00"
+    },
+    {
+     "titolo": "Spin Time, Gualtieri firma l'ordinanza per trasferire le famiglie",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/spin-time-gualtieri-firma-lordinanza-per-trasferire-le-famiglie_be718b35-a525-463f-907c-39ee7bd7dc73.html",
+     "data": "2026-08-07T18:24:20+00:00"
+    },
+    {
      "titolo": "Alpinista colpito da scarica di sassi, recuperato in quota",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/alpinista-colpito-da-scarica-di-sassi-recuperato-in-quota_d448c188-538c-4c7c-8449-d2bba1965232.html",
      "data": "2026-08-07T16:58:00+00:00"
@@ -169,27 +184,22 @@
      "titolo": "Partito da Roma il terzo Convoy di aiuti diretto a Cuba",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/partito-da-roma-il-terzo-convoy-di-aiuti-diretto-a-cuba_fe781fb5-bcbc-4076-aee4-35a612796692.html",
      "data": "2026-08-07T14:51:00+00:00"
-    },
-    {
-     "titolo": "Piantedosi, dopo il 15 vedremo se condizioni per revoca sospensione Schengen",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/piantedosi-dopo-il-15-vedremo-se-condizioni-per-revoca-sospensione-schengen_cc7f10fc-ad00-4eec-a028-f3eaf528307a.html",
-     "data": "2026-08-07T14:02:04+00:00"
-    },
-    {
-     "titolo": "Etna, di nuovo chiuso spazio aereo, sospesi arrivi a Catania fino alle 21",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/etna-di-nuovo-chiuso-spazio-aereo-sospesi-arrivi-a-catania-fino-alle_302235ce-e0c5-4ef7-be4d-cc396cb97c88.html",
-     "data": "2026-08-07T13:56:05+00:00"
-    },
-    {
-     "titolo": "Sollecito: il nuovo spettacolo di Amanda? 'Un approccio che non condivido'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/sollecito-il-nuovo-spettacolo-di-amanda-un-approccio-che-non-condivido_657bfc44-c2c4-4616-91dd-5a2e800fb6fc.html",
-     "data": "2026-08-07T13:46:30+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Via libera della Commissione Ue all'ultima revisione del Pnrr dell'Italia",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/via-libera-della-commissione-ue-allultima-revisione-del-pnrr-dellitalia_fa4847ab-b011-42aa-90a0-54b70040bd93.html",
+     "data": "2026-08-07T18:13:48+00:00"
+    },
+    {
+     "titolo": "La politica in vacanza. Mattarella sulle Alpi, Meloni al mare",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/la-politica-in-vacanza.-mattarella-sulle-alpi-meloni-al-mare_0883d56c-406c-4265-b317-ec4f992fa7e7.html",
+     "data": "2026-08-07T17:52:26+00:00"
+    },
     {
      "titolo": "Meloni: 'In Europa non c'è spazio per chi alimenta l'immigrazione clandestina'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/meloni-in-europa-non-ce-spazio-per-chi-alimenta-limmigrazione-clandestina_d43eddc2-0aed-4a51-94cc-f9961e03e379.html",
@@ -223,7 +233,7 @@
     {
      "titolo": "L'Ue ricorda Marcinelle, l'8 agosto sarà la giornata per le vittime sul lavoro",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/lue-ricorda-marcinelle-l8-agosto-sara-la-giornata-per-le-vittime-sul-lavoro_5769013a-61df-4679-ad69-48119de1862d.html",
-     "data": "2026-08-07T17:26:43+00:00"
+     "data": "2026-08-07T17:57:59+00:00"
     },
     {
      "titolo": "Conte, 'Meloni è la regista degli attacchi contro di me, mi affronti'",
@@ -301,6 +311,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "De la Espriella farà il suo primo discorso da presidente davanti ai militari",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/de-la-espriella-fara-il-suo-primo-discorso-da-presidente-davanti-ai-militari_ce6c5e52-5c87-40b4-ad65-ceab9d5ed434.html",
+     "data": "2026-08-07T17:49:05+00:00"
+    },
+    {
+     "titolo": "Senato Usa approva nuove sanzioni alla Russia e all'Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/07/senato-usa-approva-nuove-sanzioni-alla-russia-e-alliran_ea230f59-1dfb-473f-af87-67cda4503df6.html",
+     "data": "2026-08-07T17:39:12+00:00"
+    },
+    {
+     "titolo": "Senato Usa approva nuove sanzioni alla Russia e all'Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/07/senato-usa-approva-nuove-sanzioni-alla-russia-e-alliran_e122c4bc-8bb4-4a62-902c-e11262cf5ca3.html",
+     "data": "2026-08-07T17:39:12+00:00"
+    },
+    {
+     "titolo": "Senato Usa approva nuove sanzioni alla Russia e all'Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/07/senato-usa-approva-nuove-sanzioni-alla-russia-e-alliran_8502170a-03f4-4dfa-afa0-43c9f95f1502.html",
+     "data": "2026-08-07T17:39:15+00:00"
+    },
+    {
      "titolo": "Un video fake annuncia le dimissioni di Merz, 'è disinformazione russa'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/07/un-video-fake-annuncia-le-dimissioni-di-merz-e-disinformazione-russa_0294d1e7-2865-44ac-af66-06c1f866e37e.html",
      "data": "2026-08-07T17:32:54+00:00"
@@ -339,26 +369,6 @@
      "titolo": "In vendita la casa d'infanzia di Neil Armstrong, da lì iniziò sua passione per volo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/07/in-vendita-la-casa-dinfanzia-di-neil-armstrong-da-li-inizio-sua-passione-per-volo_73de6659-3693-4d79-a11b-716e68905298.html",
      "data": "2026-08-07T15:25:33+00:00"
-    },
-    {
-     "titolo": "Dopo oltre 40 anni, a Ny potrebbe cadere il divieto sulle 'bathhouse' Lgbtq+",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/07/dopo-oltre-40-anni-a-ny-potrebbe-cadere-il-divieto-sulle-bathhouse-lgbtq_3b342f3d-c8fc-4d4f-8b5d-c52d3e529fe5.html",
-     "data": "2026-08-07T15:10:44+00:00"
-    },
-    {
-     "titolo": "'Possibili crepe nella fusoliera', Usa ordinano ispezione sui Boeing 737 Max",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/07/possibili-crepe-nella-fusoliera-usa-ordinano-ispezione-sui-boeing-737_d26d658e-af4b-4455-be1e-4217ce3c7188.html",
-     "data": "2026-08-07T14:59:15+00:00"
-    },
-    {
-     "titolo": "Ok a legge su proprietà voluta da Milei, ma il governo stralcia parti più contestate",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/ok-a-legge-su-proprieta-voluta-da-milei-ma-il-governo-stralcia-parti-piu-contestate_19431919-76a3-481f-aa4f-5593643a8b75.html",
-     "data": "2026-08-07T14:49:39+00:00"
-    },
-    {
-     "titolo": "Perù e Messico ristabiliscono le relazioni dopo il salvacondotto alla ex premier",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/peru-e-messico-ristabiliscono-le-relazioni-dopo-il-salvacondotto-alla-ex-premier_9c9f31cd-7481-4a3d-a281-bd372dceb6e6.html",
-     "data": "2026-08-07T14:34:31+00:00"
     }
    ]
   },
@@ -431,6 +441,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Spagna, Luca Zidane lascia il Granada e passa al Leganés",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/07/spagna-luca-zidane-lascia-il-granada-e-passa-al-leganes_468da79c-6d6d-42d9-ab88-aecc7bd39ed5.html",
+     "data": "2026-08-07T18:07:31+00:00"
+    },
+    {
      "titolo": "Europei tuffi: grandi altezze, Barnabà primo e Cosetti seconda dopo due round",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/07/europei-tuffi-grandi-altezze-barnaba-primo-e-cosetti-seconda-dopo-due_38eeace2-7060-4df5-9738-6c542e91fdbc.html",
      "data": "2026-08-07T17:26:34+00:00"
@@ -484,11 +499,6 @@
      "titolo": "Europei di nuoto: beffa Paltrinieri, quarto nella 3km knockout",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/07/europei-di-nuoto-beffa-paltrinieri-quarto-nella-3km-knockout_e8b182d2-e0a1-4278-870a-90419dd9a6f4.html",
      "data": "2026-08-07T10:45:35+00:00"
-    },
-    {
-     "titolo": "Anche la federcalcio argentina si schiera con Infantino",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/07/anche-la-federcalcio-argentina-si-schiera-con-infantino_aa1e33d7-1459-4dcc-8cda-807c01ae5f1a.html",
-     "data": "2026-08-07T10:28:36+00:00"
     }
    ]
   }
