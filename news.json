@@ -1,14 +1,14 @@
 {
- "aggiornato": "2026-08-07T00:34:42.784877+00:00",
+ "aggiornato": "2026-08-07T03:41:26.120043+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
-     "titolo": "Usa, Meta dovrà pagare 567 milioni per danni dei social ai minori",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/usa-meta-dovra-pagare-567-milioni-per-danni-dei-social_43cc949d-e666-48dd-9317-6b8306994369.html",
-     "data": "2026-08-07T00:32:28+00:00"
+     "titolo": "Wsj, 'Putin potrebbe testare la determinazione Nato con attacco limitato'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/wsj-putin-potrebbe-testare-la-determinazione-nato-con-attacco-limitato_37f5a23e-e6ca-43cf-8ab2-2a4f59dafb25.html",
+     "data": "2026-08-07T03:19:33+00:00"
     },
     {
      "titolo": "Protesta contro la legge sulla proprietà davanti al Parlamento argentino, scontri",
@@ -236,6 +236,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Usa, Meta dovrà pagare 567 milioni per danni dei social ai minori",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/usa-meta-dovra-pagare-567-milioni-per-danni-dei-social_43cc949d-e666-48dd-9317-6b8306994369.html",
+     "data": "2026-08-07T00:39:03+00:00"
+    },
+    {
      "titolo": "Il petrolio chiude in rialzo a New York a 77,39 dollari al barile",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/il-petrolio-chiude-in-rialzo-a-new-york-a-7739-dollari-al-barile_1a573e29-def8-4581-a456-2d70a2aa3261.html",
      "data": "2026-08-06T18:41:55+00:00"
@@ -289,17 +294,37 @@
      "titolo": "Generali chiude il primo semestre con un utile di 2,5 miliardi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/generali-chiude-il-primo-semestre-con-un-utile-di-25-miliardi_e52fcfd5-5c92-45b2-9690-420f8177db93.html",
      "data": "2026-08-06T15:55:27+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude piatto a 77 punti base",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/lo-spread-tra-btp-e-bund-chiude-piatto-a-77-punti-base_a040be86-6d2d-4150-b742-36775a17d7cb.html",
-     "data": "2026-08-06T15:54:49+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Guatemala, terminata l'eruzione del Volcán de Fuego",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/guatemala-terminata-leruzione-del-volcan-de-fuego_631adaff-3abc-4bd0-8464-2e84aa3f9cb1.html",
+     "data": "2026-08-07T03:26:57+00:00"
+    },
+    {
+     "titolo": "Wsj, 'Putin potrebbe testare la determinazione Nato con attacco limitato'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/07/wsj-putin-potrebbe-testare-la-determinazione-nato-con-attacco-limitato_eb1a28e1-575d-4079-acc4-3ef09f178942.html",
+     "data": "2026-08-07T03:19:52+00:00"
+    },
+    {
+     "titolo": "Panama, nasce un nuovo Comando congiunto per la sicurezza del Canale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/panama-nasce-un-nuovo-comando-congiunto-per-la-sicurezza-del-canale_18148915-3a85-4067-8a07-909a5273373b.html",
+     "data": "2026-08-07T01:23:32+00:00"
+    },
+    {
+     "titolo": "Messico, un comitato di esperti condiziona i piani sul fracking",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/messico-un-comitato-di-esperti-condiziona-i-piani-sul-fracking_f2766f9e-95dc-4a78-9463-6988924d8142.html",
+     "data": "2026-08-07T01:08:07+00:00"
+    },
+    {
+     "titolo": "Usa, Meta dovrà pagare 567 milioni per danni dei social ai minori",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/07/usa-meta-dovra-pagare-567-milioni-per-danni-dei-social_8dc4c109-9422-43c3-95aa-8211accd92e8.html",
+     "data": "2026-08-07T00:34:04+00:00"
+    },
     {
      "titolo": "Messico, arrestato ex governatore di Guerrero per il caso dei 43 di Ayotzinapa",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/messico-arrestato-ex-governatore-di-guerrero-per-il-caso-dei-43-di-ayotzinapa_baf0ea7f-8502-43f1-ac2d-55c0d7e20769.html",
@@ -334,31 +359,6 @@
      "titolo": "Esplosione in un mini bus vicino Damasco, due morti e 13 feriti",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/07/esplosione-in-un-mini-bus-vicino-damasco-due-morti-e-13-feriti_e7e2afff-7b08-4ccb-90cf-09133cc4c7a1.html",
      "data": "2026-08-06T22:08:52+00:00"
-    },
-    {
-     "titolo": "Venezuela, morto l'ex prigioniero politico Breijo dopo anni tra carcere e domiciliari",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/venezuela-morto-lex-prigioniero-politico-breijo-dopo-anni-tra-carcere_d5a3d390-0981-458d-bb06-38f480608f5f.html",
-     "data": "2026-08-06T22:04:27+00:00"
-    },
-    {
-     "titolo": "Usa, conclusa a Roma la tre giorni di colloqui 'produttivi' tra Israele e Libano",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/07/usa-conclusa-a-roma-la-tre-giorni-di-colloqui-produttivi-tra-israele-e-libano_44cad1a9-e32a-4215-88bb-7613bf35af05.html",
-     "data": "2026-08-06T22:02:36+00:00"
-    },
-    {
-     "titolo": "Trump, 'negoziati in corso su Hormuz, annuncio potrebbe avvenire presto'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/06/trump-negoziati-in-corso-su-hormuz-annuncio-potrebbe-avvenire-presto_bb2cf5db-adf0-4ef4-9f27-b9c3d41b63ec.html",
-     "data": "2026-08-06T22:01:28+00:00"
-    },
-    {
-     "titolo": "Media, 'l'Arabia Saudita si aspetta attacchi imminenti da nord e da sud'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/06/media-larabia-saudita-si-aspetta-attacchi-imminenti-da-nord-e-da-sud_5fd5d8c3-58f3-4ca9-b21f-cc1e260faf1e.html",
-     "data": "2026-08-06T21:59:21+00:00"
-    },
-    {
-     "titolo": "Ghalibaf deride Trump, 'prima minaccia gli attacchi e poi li revoca'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/06/ghalibaf-deride-trump-prima-minaccia-gli-attacchi-e-poi-li-revoca_e512c52e-03d8-49a7-9b48-3bbc575ca47a.html",
-     "data": "2026-08-06T21:58:24+00:00"
     }
    ]
   },
