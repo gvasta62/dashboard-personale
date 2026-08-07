@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-07T22:01:06.141388+00:00",
+ "aggiornato": "2026-08-07T23:00:31.330944+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Lula attacca Rubio, 'odia il Brasile, Cuba e la Colombia, è un bolsonarista'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/lula-attacca-rubio-odia-il-brasile-cuba-e-la-colombia-e-un-bolsonarista_61e8341b-7684-41a3-a990-acafe6c1d6a5.html",
+     "data": "2026-08-07T22:38:00+00:00"
+    },
+    {
+     "titolo": "Kiev, 'stato di allerta aerea nella capitale, c'è la minaccia di droni nemici'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/kiev-stato-di-allerta-aerea-nella-capitale-ce-la-minaccia-di-droni-nemici_3367b3fa-405f-4e11-ab7c-84177379e8b7.html",
+     "data": "2026-08-07T22:03:43+00:00"
+    },
     {
      "titolo": "Brasile, la deforestazione in Amazzonia ai minimi da un decennio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/brasile-la-deforestazione-in-amazzonia-ai-minimi-da-un-decennio_5bd15819-dbd2-4eb1-95a1-8c8bb2fd4faf.html",
@@ -44,16 +54,6 @@
      "titolo": "Madrid, 'controlli alle frontiere per l'Italia in ritorsione'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/madrid-controlli-alle-frontiere-per-litalia-in-ritorsione_0e66cbc2-9ba1-4fff-bf5f-d2ccebca71fa.html",
      "data": "2026-08-07T19:32:09+00:00"
-    },
-    {
-     "titolo": "Araghchi esorta i musulmani, 'unitevi contro gli stranieri malintenzionati'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/araghchi-esorta-i-musulmani-unitevi-contro-gli-stranieri-malintenzionati_e8e7da28-155f-4f4e-85fa-15542c373e7a.html",
-     "data": "2026-08-07T18:38:23+00:00"
-    },
-    {
-     "titolo": "Senato Usa approva nuove sanzioni alla Russia e all'Iran",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/senato-usa-approva-nuove-sanzioni-alla-russia-e-alliran_158d58d8-d5c0-44f0-a1d8-65c0b45c8034.html",
-     "data": "2026-08-07T17:38:55+00:00"
     }
    ]
   },
@@ -128,7 +128,7 @@
     {
      "titolo": "Fulmine colpisce sedicenne sul Monte Livata, è grave",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/fulmine-colpisce-sedicenne-sul-monte-livata-e-grave_8bb357ff-0be6-493c-9450-81014e9b0bb3.html",
-     "data": "2026-08-07T21:37:34+00:00"
+     "data": "2026-08-07T22:01:06+00:00"
     },
     {
      "titolo": "Ultraleggero con due persone a bordo cade nel Pordenonese",
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Salvini rilancia la Lega di lotta: 'Se serve, più duri anche nel governo'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/salvini-rilancia-la-lega-di-lotta-se-serve-piu-duri-anche-nel-governo_f168cab9-49c3-4715-9e8e-1259470129fa.html",
+     "data": "2026-08-07T22:04:09+00:00"
+    },
+    {
      "titolo": "Via libera della Commissione Ue all'ultima revisione del Pnrr dell'Italia",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/via-libera-della-commissione-ue-allultima-revisione-del-pnrr-dellitalia_fa4847ab-b011-42aa-90a0-54b70040bd93.html",
      "data": "2026-08-07T18:13:48+00:00"
@@ -234,11 +239,6 @@
      "titolo": "Il governo ricorda Marcinelle, 'non c'è spazio per chi sfrutta i lavoratori'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/lue-ricorda-marcinelle-l8-agosto-sara-la-giornata-per-le-vittime-sul-lavoro_5769013a-61df-4679-ad69-48119de1862d.html",
      "data": "2026-08-07T18:32:55+00:00"
-    },
-    {
-     "titolo": "Conte, 'Meloni è la regista degli attacchi contro di me, mi affronti'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/06/conte-meloni-e-la-regista-degli-attacchi-contro-di-me-mi-affronti_3b3391fa-ae19-4543-8d8d-b632b863915b.html",
-     "data": "2026-08-06T19:04:39+00:00"
     }
    ]
   },
@@ -311,6 +311,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Lula attacca Rubio, 'odia il Brasile, Cuba e la Colombia, è un bolsonarista'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/lula-attacca-rubio-odia-il-brasile-cuba-e-la-colombia-e-un-bolsonarista_3876d7f0-8b37-4b31-9d90-255e5fb33195.html",
+     "data": "2026-08-07T22:38:39+00:00"
+    },
+    {
+     "titolo": "Kiev, 'stato di allerta aerea nella capitale, c'è la minaccia di droni nemici'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/kiev-stato-di-allerta-aerea-nella-capitale-ce-la-minaccia-di-droni-nemici_15ad4ccf-ecbf-41cf-867a-c68d74538257.html",
+     "data": "2026-08-07T22:03:47+00:00"
+    },
+    {
      "titolo": "Brasile, la deforestazione in Amazzonia ai minimi da un decennio",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/brasile-la-deforestazione-in-amazzonia-ai-minimi-da-un-decennio_53ed3eb7-5ad2-4be5-9632-e1cdea05beb7.html",
      "data": "2026-08-07T21:50:51+00:00"
@@ -359,16 +369,6 @@
      "titolo": "Colombia, proteste dell'opposizione contro l'insediamento di De la Espriella",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/colombia-proteste-dellopposizione-contro-linsediamento-di-de-la-espriella_1040048d-6a3d-4683-8ada-a0246a02df50.html",
      "data": "2026-08-07T19:44:16+00:00"
-    },
-    {
-     "titolo": "Madrid, 'controlli alle frontiere per l'Italia in ritorsione'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/07/madrid-controlli-alle-frontiere-per-litalia-in-ritorsione_37955a58-dc2a-444c-8f18-342fd31bc7a5.html",
-     "data": "2026-08-07T19:32:13+00:00"
-    },
-    {
-     "titolo": "Araghchi esorta i musulmani, 'unitevi contro gli stranieri malintenzionati'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/07/araghchi-esorta-i-musulmani-unitevi-contro-gli-stranieri-malintenzionati_0f99e38b-4eff-44f6-b22b-d4a1da1631e2.html",
-     "data": "2026-08-07T18:38:24+00:00"
     }
    ]
   },
