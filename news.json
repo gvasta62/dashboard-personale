@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-07T20:25:12.342175+00:00",
+ "aggiornato": "2026-08-07T21:05:09.417954+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Zelensky plaude alle nuove sanzioni Usa, 'così si aumenta la pressione su Mosca'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/zelensky-plaude-alle-nuove-sanzioni-usa-cosi-si-aumenta-la-pressione-su-mosca_b60679d7-4c45-42c5-b8ef-f1a38f01e3d8.html",
+     "data": "2026-08-07T20:35:17+00:00"
+    },
     {
      "titolo": "Ue, 'Meta e TikTok rafforzino monitoraggio e verifica dei fatti su crisi come a Ceuta'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/ue-meta-e-tiktok-rafforzino-monitoraggio-e-verifica-dei-fatti-su-crisi-come-a-ceuta_8402f74c-3998-41bf-95ac-3437e97e8e9c.html",
@@ -49,11 +54,6 @@
      "titolo": "La Francia verso l'uso del casco obbligatorio per chi usa il monopattino elettrico",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/la-francia-verso-luso-del-casco-obbligatorio-per-chi-usa-il-monopattino_879c21a1-938d-4b42-8caa-4cd6f40aba50.html",
      "data": "2026-08-07T17:01:04+00:00"
-    },
-    {
-     "titolo": "Zelensky in missione in Serbia, 'colloqui con Vucic e Macut'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/zelensky-in-missione-in-serbia-colloqui-con-vucic-e-macut_d2caeb99-437f-47ee-a4c1-3e1fee62e7a0.html",
-     "data": "2026-08-07T16:49:25+00:00"
     }
    ]
   },
@@ -311,6 +311,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Zelensky plaude alle nuove sanzioni Usa, 'così si aumenta la pressione su Mosca'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/07/zelensky-plaude-alle-nuove-sanzioni-usa-cosi-si-aumenta-la-pressione-su-mosca_b92715b0-711e-4426-9762-e3f8828afa3b.html",
+     "data": "2026-08-07T20:35:32+00:00"
+    },
+    {
      "titolo": "Ue, 'Meta e TikTok rafforzino monitoraggio e verifica dei fatti su crisi come a Ceuta'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/07/ue-meta-e-tiktok-rafforzino-monitoraggio-e-verifica-dei-fatti-su-crisi-come-a-ceuta_a8e2f169-b66b-4bd2-824e-a016447ed117.html",
      "data": "2026-08-07T20:11:38+00:00"
@@ -364,11 +369,6 @@
      "titolo": "Trump, 'la decisione sul salone delle feste è orrenda, farò appello'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/07/trump-la-decisione-sul-salone-delle-feste-e-orrenda-faro-appello_dd22d04b-cdff-4d23-aed5-9a0115790fdd.html",
      "data": "2026-08-07T17:23:42+00:00"
-    },
-    {
-     "titolo": "Ong denuncia 51 decessi da aprile nelle carceri venezuelane per mancanza di cure",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/ong-denuncia-51-decessi-da-aprile-nelle-carceri-venezuelane-per-mancanza-di-cure_1231f9cc-4c03-413c-a660-f3129431b469.html",
-     "data": "2026-08-07T17:20:06+00:00"
     }
    ]
   },
