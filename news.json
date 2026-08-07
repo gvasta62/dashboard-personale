@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-07T05:25:47.411452+00:00",
+ "aggiornato": "2026-08-07T06:39:19.414702+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "L'utile del semestre di Mps sopra le attese a 1,1 miliardi (+25%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/lutile-del-semestre-di-mps-sopra-le-attese-a-11-miliardi-25_e18ca015-f2df-481f-97f0-f59848560db8.html",
+     "data": "2026-08-07T05:49:28+00:00"
+    },
     {
      "titolo": "L'utile di Unipol balza a 1,06 miliardi nel semestre (+42%)",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/lutile-di-unipol-balza-a-106-miliardi-nel-semestre-42_15774cca-101b-4bc6-9456-4de3f272b423.html",
@@ -49,11 +54,6 @@
      "titolo": "Media, 'l'Arabia Saudita si aspetta attacchi imminenti da nord e da sud'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/media-larabia-saudita-si-aspetta-attacchi-imminenti-da-nord-e-da-sud_636ca1c2-a42a-4ba2-88c4-81056788fd00.html",
      "data": "2026-08-06T21:59:21+00:00"
-    },
-    {
-     "titolo": "Ghalibaf deride Trump, 'prima minaccia gli attacchi e poi li revoca'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/ghalibaf-deride-trump-prima-minaccia-gli-attacchi-e-poi-li-revoca_acf0022f-ba94-4ead-8a6e-636a51290e34.html",
-     "data": "2026-08-06T21:58:26+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Esodo estivo, domani sulle strade giornata da bollino nero",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/esodo-estivo-domani-sulle-strade-giornata-da-bollino-nero_5491cfe2-9f56-4cfb-a2bd-e422c789a247.html",
+     "data": "2026-08-07T06:22:18+00:00"
+    },
+    {
+     "titolo": "Etna, fontana di lava e nube vulcanica dalla Voragine, voli dirottati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/etna-fontana-di-lava-e-nube-vulcanica-dalla-voragine-voli-dirottati_b78027a2-196e-4417-811c-f13a07f1eed9.html",
+     "data": "2026-08-07T05:28:45+00:00"
+    },
+    {
      "titolo": "No dei proprietari a cessione di Spin Time, Gualtieri 'amareggiati'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/no-dei-proprietari-a-cessione-di-spin-time-gualtieri-amareggiati_cca00c30-31e0-404e-8a24-834b027b6958.html",
      "data": "2026-08-06T21:43:37+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Arresto illegale e peculato, in carcere 5 vigili urbani a Milano",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/arresto-illegale-e-peculato-in-carcere-5-vigili-urbani-a-milano_e83e8fba-1017-42ff-94d2-be24c0d99a98.html",
      "data": "2026-08-06T13:56:31+00:00"
-    },
-    {
-     "titolo": "In carcere 5 vigili urbani di Milano, 'agivano come una squadretta'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/arresti-illegali-e-peculato-arrestati-5-vigili-urbani-a-milano_7065be0c-6acc-4333-b681-df83a0bc3314.html",
-     "data": "2026-08-06T18:06:53+00:00"
-    },
-    {
-     "titolo": "La scomparsa del ghiacciaio della Marmolada documentata da due foto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/la-scomparsa-del-ghiacciaio-della-marmolada-documentata-da-due-foto_4266636f-e8ad-487b-98d4-5e17e23161a5.html",
-     "data": "2026-08-06T13:36:34+00:00"
     }
    ]
   },
@@ -198,7 +198,7 @@
     {
      "titolo": "Conte sfida la commissione Covid, duello con Meloni",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/06/conte-depositato-in-procura-documento-anonimo-su-mascherine-sospette-stato-di-emergenza-necessario_ac2c279a-6990-45a3-95a2-ac5b53a1f6cd.html",
-     "data": "2026-08-06T21:18:56+00:00"
+     "data": "2026-08-07T05:48:06+00:00"
     },
     {
      "titolo": "Conte alla commissione Covid, 'nata come un plotone d'esecuzione contro di me'",
@@ -219,16 +219,6 @@
      "titolo": "++ Il Papa, fantasmi e nemici inventati per imporre il proprio potere ++",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/06/il-papa-fantasmi-e-nemici-inventati-per-imporre-il-proprio-potere_1891f597-8eb7-4e75-84b6-91864a637bdd.html",
      "data": "2026-08-06T09:00:24+00:00"
-    },
-    {
-     "titolo": "La Camera approva il decreto legge giustizia con 165 sì, è legge",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/la-camera-approva-il-decreto-legge-giustizia-con-165-si-e-legge_cb680091-1aaa-41fa-ae66-cfe7e75813c6.html",
-     "data": "2026-08-05T21:51:51+00:00"
-    },
-    {
-     "titolo": "Il decreto giustizia-migranti è legge, ecco i contenuti",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/05/la-camera-approva-il-decreto-legge-giustizia-con-165-si-e-legge_7f0abaac-57ec-4330-ab6f-f6f92374fd54.html",
-     "data": "2026-08-06T17:00:29+00:00"
     }
    ]
   },
@@ -236,9 +226,24 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Euro poco mosso, scambiato a 1,1523 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/euro-poco-mosso-scambiato-a-11523-dollari_3585e939-6acc-4bb1-aa9e-2f1e2860adac.html",
+     "data": "2026-08-07T06:23:20+00:00"
+    },
+    {
+     "titolo": "Prezzo petrolio in rialzo, Wti scambiato a 78,24 dollari, +1,23%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/prezzo-petrolio-in-rialzo-wti-scambiato-a-7824-dollari-123_cf04371f-8e7e-46ca-a553-57e9dfb59d4c.html",
+     "data": "2026-08-07T06:05:43+00:00"
+    },
+    {
+     "titolo": "L'utile del semestre di Mps sopra le attese a 1,1 miliardi (+25%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/lutile-del-semestre-di-mps-sopra-le-attese-a-11-miliardi-25_143bc3c6-368d-49f0-a615-655f1afd4ac5.html",
+     "data": "2026-08-07T05:52:26+00:00"
+    },
+    {
      "titolo": "L'utile di Unipol balza a 1,06 miliardi nel semestre (+42%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/lutile-di-unipol-balza-a-106-miliardi-nel-semestre-42_50a2211c-9a33-4de2-8858-bcaa352474f2.html",
-     "data": "2026-08-07T05:09:24+00:00"
+     "data": "2026-08-07T05:49:27+00:00"
     },
     {
      "titolo": "Usa, Meta dovrà pagare 567 milioni per danni dei social ai minori",
@@ -279,21 +284,6 @@
      "titolo": "Donnet, 'risultati eccellenti, avanti con l'intelligenza artificiale'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/donnet-risultati-eccellenti-avanti-con-lintelligenza-artificiale_0721b654-ad10-4b3f-9607-b3143b5746aa.html",
      "data": "2026-08-06T16:06:47+00:00"
-    },
-    {
-     "titolo": "Semestre record per Mediobanca, l'utile cresce a 711,2 milioni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/semestre-record-per-mediobanca-lutile-cresce-a-7112-milioni_7fe9d311-a1aa-4d56-870c-0187b0888926.html",
-     "data": "2026-08-06T16:10:13+00:00"
-    },
-    {
-     "titolo": "Il gas in forte rialzo (+6%) a 55 euro al Megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/il-gas-in-forte-rialzo-6-a-55-euro-al-megawattora_9d5b2dde-5bf8-4eeb-9afb-b6fbf8d02e61.html",
-     "data": "2026-08-06T15:59:48+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa conclude in tenuta, fiacca Londra",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/borsa-leuropa-conclude-in-tenuta-fiacca-londra_1eac833a-18e2-4ca6-a81a-9be91814ec9d.html",
-     "data": "2026-08-06T15:57:17+00:00"
     }
    ]
   },
