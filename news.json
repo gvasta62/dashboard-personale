@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-07T11:13:03.088303+00:00",
+ "aggiornato": "2026-08-07T12:03:35.818312+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Milano tiene (+0,4%) con l'Europa in attesa dei dati Usa sul lavoro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/borsa-milano-tiene-04-con-leuropa-in-attesa-dei-dati-usa-sul_cee6eb5a-f7c4-4d51-a5ca-da7f56fba5f6.html",
+     "data": "2026-08-07T11:45:31+00:00"
+    },
+    {
+     "titolo": "I sindacati a Marcinelle, 'sia un monito perenne per tutti'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/i-sindacati-a-marcinelle-sia-un-monito-perenne-per-tutti_e75291a3-ece0-42eb-b977-22b2b26ddc2e.html",
+     "data": "2026-08-07T11:39:13+00:00"
+    },
+    {
+     "titolo": "Il Papa nel viaggio in Francia incontrerà anche le vittime di abusi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/il-papa-nel-viaggio-in-francia-incontrera-anche-le-vittime-di-abusi_98300e4e-5c06-4a66-9870-72caf2990f57.html",
+     "data": "2026-08-07T11:37:04+00:00"
+    },
     {
      "titolo": "Opposizioni a Fontana, sanzioni per Bignami dopo false accuse a Scalfaro",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/opposizioni-a-fontana-sanzioni-per-bignami-dopo-false-accuse-a-scalfaro_04868982-82ed-42c2-819b-603e760b94bd.html",
@@ -39,21 +54,6 @@
      "titolo": "Porsche in pressing su Vw, 'servono decisioni veloci, in gioco il futuro'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/porsche-in-pressing-su-vw-servono-decisioni-veloci-in-gioco-il-futuro_81db341c-d118-49c2-ac08-5c061f5530e6.html",
      "data": "2026-08-07T10:12:06+00:00"
-    },
-    {
-     "titolo": "L'Ue ricorda Marcinelle, 'l'8 agosto sia giornata per le vittime sul lavoro'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/lue-ricorda-marcinelle-l8-agosto-sia-giornata-per-le-vittime-sul-lavoro_3063188f-1fe7-489f-bfb7-221ae14e1ed7.html",
-     "data": "2026-08-07T10:10:16+00:00"
-    },
-    {
-     "titolo": "Fao, prezzi alimentari +0,6% in un mese, impattano caldo e guerre",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/fao-prezzi-alimentari-06-in-un-mese-impattano-caldo-e-guerre_9011f99a-5aec-49fb-bb87-4c98d7f35029.html",
-     "data": "2026-08-07T09:27:20+00:00"
-    },
-    {
-     "titolo": "Ue, 'oggi nuove sanzioni per 5 persone coinvolte nel complesso militare russo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/ue-oggi-nuove-sanzioni-per-5-persone-coinvolte-nel-complesso-militare-russo_a05ef92d-585c-4ee4-abdb-00c2bf337fa5.html",
-     "data": "2026-08-07T08:55:47+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Lavori in area protetta, sequestrato complesso eliportuale a Sorrento",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/lavori-in-area-protetta-sequestrato-complesso-eliportuale-a-sorrento_a333170d-0bf2-4e4b-827c-65ee68dbc3df.html",
+     "data": "2026-08-07T11:49:24+00:00"
+    },
+    {
+     "titolo": "Il Papa nel viaggio in Francia incontrerà anche le vittime di abusi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/il-papa-nel-viaggio-in-francia-incontrera-anche-le-vittime-di-abusi_bd49a2bf-b939-4fc1-bd46-de9f59d1c060.html",
+     "data": "2026-08-07T11:37:06+00:00"
+    },
+    {
+     "titolo": "Denunciò le condizioni del carcere di Torino, agente sospeso dal servizio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/denuncio-le-condizioni-del-carcere-di-torino-agente-sospeso-dal-servizio_8a57f59c-b447-418a-9230-543b8e6e4ba0.html",
+     "data": "2026-08-07T11:31:14+00:00"
+    },
+    {
      "titolo": "Dopo 13 anni dall'alluvione riapre strada provinciale in Gallura",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/dopo-13-anni-dallalluvione-riapre-strada-provinciale-in-gallura_49bef99e-7707-4d96-b521-a278a84f4397.html",
      "data": "2026-08-07T11:00:03+00:00"
@@ -133,7 +148,7 @@
     {
      "titolo": "El Niño pronto a dominare il clima globale tra agosto e ottobre",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/el-nino-pronto-a-dominare-il-clima-globale-tra-agosto-e-ottobre_9030067f-039c-4248-9272-d34578eab509.html",
-     "data": "2026-08-07T11:08:31+00:00"
+     "data": "2026-08-07T11:26:28+00:00"
     },
     {
      "titolo": "L'esperto, 'contro il caldo nelle città tetti verdi e meno asfalto'",
@@ -169,27 +184,17 @@
      "titolo": "\"Staycation\", quest'estate un italiano su due non va in vacanza",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/staycation-questestate-un-italiano-su-due-non-va-in-vacanza_f7a4e6e6-855e-43d1-a3f3-b1bab120c7af.html",
      "data": "2026-08-07T09:04:09+00:00"
-    },
-    {
-     "titolo": "Operaio cade da tre metri in un cantiere edile nel Palermitano, è grave",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/operaio-cade-da-tre-metri-in-un-cantiere-edile-nel-palermitano-e-grave_b940352a-b051-433d-950a-73009a31b0c1.html",
-     "data": "2026-08-07T08:51:35+00:00"
-    },
-    {
-     "titolo": "Parossismo Etna, sospensione atterraggi a Catania prorogata fino alle 16",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/parossismo-etna-sospensione-atterraggi-a-catania-prorogata-fino-alle-16_e5670b95-bf05-4307-aa6b-b6657bf9016c.html",
-     "data": "2026-08-07T08:34:34+00:00"
-    },
-    {
-     "titolo": "Rogo in bosco a Firenzuola, operazioni per tutta la notte, in azione Canadair",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/rogo-in-bosco-a-firenzuola-operazioni-per-tutta-la-notte-in-azione-canadair_92d969ee-66ef-48b6-986b-d4faee356002.html",
-     "data": "2026-08-07T07:44:42+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Le opposizioni a Fontana: 'Sanzioni per Bignami dopo le false accuse a Scalfaro'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/opposizioni-a-fontana-sanzioni-per-bignami-dopo-false-accuse-a-scalfaro_b4e65e3d-f942-4eb1-9729-ebc1bff8f5e1.html",
+     "data": "2026-08-07T11:14:15+00:00"
+    },
     {
      "titolo": "Covid: Conte, da Meloni ancora nessuna risposta...",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/covid-conte-da-meloni-ancora-nessuna-risposta..._aea1435b-2631-40d7-b469-0930201916ef.html",
@@ -214,17 +219,27 @@
      "titolo": "'Fango gratuito su Scalfaro', il mondo cattolico contro Bignami",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/06/caso-delmastro-il-nipote-di-scalfaro-compassione-per-chi-lo-usa-per-attaccare_be8df55d-a49f-4dc2-a918-400b77ddc9ba.html",
      "data": "2026-08-06T16:57:36+00:00"
-    },
-    {
-     "titolo": "Cercava numero telefono del Papa, il piccolo Tommaso lo incontra ad Assisi",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/06/cercava-numero-telefono-del-papa-il-piccolo-tommaso-lo-incontra-ad-assisi_14123df9-15b9-407b-a2bb-ffd9564015c2.html",
-     "data": "2026-08-06T11:10:27+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: Milano tiene (+0,4%) con l'Europa in attesa dei dati Usa sul lavoro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/borsa-milano-tiene-04-con-leuropa-in-attesa-dei-dati-usa-sul_1f894978-3cdf-4916-91a9-dfecf0bb5df7.html",
+     "data": "2026-08-07T11:45:34+00:00"
+    },
+    {
+     "titolo": "I sindacati a Marcinelle, 'sia un monito perenne per tutti'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/i-sindacati-a-marcinelle-sia-un-monito-perenne-per-tutti_5162af5c-2054-44f1-bdb7-b924ab504f76.html",
+     "data": "2026-08-07T11:39:16+00:00"
+    },
+    {
+     "titolo": "Saipem firma lettera d'intenti per progetto Rovuma Lng in Mozambico",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/saipem-firma-lettera-dintenti-per-progetto-rovuma-lng-in-mozambico_ccf2c62f-b834-4dc1-9309-ee24a9863de0.html",
+     "data": "2026-08-07T11:10:41+00:00"
+    },
     {
      "titolo": "Cassa di Ravenna, sale l'utile della spa, +4,14% nel primo semestre",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/cassa-di-ravenna-sale-lutile-della-spa-414-nel-primo-semestre_e84dc1b4-3921-4433-8eb9-be29ad5cce6c.html",
@@ -269,21 +284,6 @@
      "titolo": "Mimit, in calo il prezzo dei carburanti, gasolio a 2,084 euro al litro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/mimit-in-calo-il-prezzo-dei-carburanti-gasolio-a-2084-euro-al-litro_c3616b24-8047-40db-b3b0-38e7e1c12cbc.html",
      "data": "2026-08-07T09:00:04+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa parte incerta, Londra piatta",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/borsa-leuropa-parte-incerta-londra-piatta_b4e50bb9-c2c4-49a3-8de4-c24b3cae95a5.html",
-     "data": "2026-08-07T07:09:40+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre in leggero rialzo, Ftse Mib +0,22%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/borsa-milano-apre-in-leggero-rialzo-ftse-mib-022_9eb7a1e1-bcb2-46db-a111-a7ade392c151.html",
-     "data": "2026-08-07T08:58:39+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Asia tiene in attesa dell'annuncio su Hormuz, debole Seul",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/borsa-lasia-tiene-in-attesa-dellannuncio-su-hormuz-debole-seul_3a503678-7846-40de-ac21-99ee555cce0b.html",
-     "data": "2026-08-07T06:43:26+00:00"
     }
    ]
   },
