@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-07T03:41:26.120043+00:00",
+ "aggiornato": "2026-08-07T05:25:47.411452+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "L'utile di Unipol balza a 1,06 miliardi nel semestre (+42%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/lutile-di-unipol-balza-a-106-miliardi-nel-semestre-42_15774cca-101b-4bc6-9456-4de3f272b423.html",
+     "data": "2026-08-07T05:09:22+00:00"
+    },
     {
      "titolo": "Wsj, 'Putin potrebbe testare la determinazione Nato con attacco limitato'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/wsj-putin-potrebbe-testare-la-determinazione-nato-con-attacco-limitato_37f5a23e-e6ca-43cf-8ab2-2a4f59dafb25.html",
@@ -49,11 +54,6 @@
      "titolo": "Ghalibaf deride Trump, 'prima minaccia gli attacchi e poi li revoca'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/ghalibaf-deride-trump-prima-minaccia-gli-attacchi-e-poi-li-revoca_acf0022f-ba94-4ead-8a6e-636a51290e34.html",
      "data": "2026-08-06T21:58:26+00:00"
-    },
-    {
-     "titolo": "Salgono a 82 i migranti morti nel tentativo di raggiungere a nuoto Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/06/salgono-a-82-i-migranti-morti-nel-tentativo-di-raggiungere-a-nuoto-ceuta_c6860fea-0e43-4f1b-8144-5ae1a4f28aa9.html",
-     "data": "2026-08-06T21:51:11+00:00"
     }
    ]
   },
@@ -236,6 +236,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "L'utile di Unipol balza a 1,06 miliardi nel semestre (+42%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/lutile-di-unipol-balza-a-106-miliardi-nel-semestre-42_50a2211c-9a33-4de2-8858-bcaa352474f2.html",
+     "data": "2026-08-07T05:09:24+00:00"
+    },
+    {
      "titolo": "Usa, Meta dovrà pagare 567 milioni per danni dei social ai minori",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/usa-meta-dovra-pagare-567-milioni-per-danni-dei-social_43cc949d-e666-48dd-9317-6b8306994369.html",
      "data": "2026-08-07T00:39:03+00:00"
@@ -289,11 +294,6 @@
      "titolo": "Borsa: l'Europa conclude in tenuta, fiacca Londra",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/borsa-leuropa-conclude-in-tenuta-fiacca-londra_1eac833a-18e2-4ca6-a81a-9be91814ec9d.html",
      "data": "2026-08-06T15:57:17+00:00"
-    },
-    {
-     "titolo": "Generali chiude il primo semestre con un utile di 2,5 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/generali-chiude-il-primo-semestre-con-un-utile-di-25-miliardi_e52fcfd5-5c92-45b2-9690-420f8177db93.html",
-     "data": "2026-08-06T15:55:27+00:00"
     }
    ]
   },
