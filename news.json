@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-07T08:02:57.347352+00:00",
+ "aggiornato": "2026-08-07T09:28:01.288769+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Ue, 'oggi nuove sanzioni per 5 persone coinvolte nel complesso militare russo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/ue-oggi-nuove-sanzioni-per-5-persone-coinvolte-nel-complesso-militare-russo_a05ef92d-585c-4ee4-abdb-00c2bf337fa5.html",
+     "data": "2026-08-07T08:55:47+00:00"
+    },
+    {
+     "titolo": "Muore un giovane nel tentativo di entrare a Ceuta col parapendio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/muore-un-giovane-nel-tentativo-di-entrare-a-ceuta-col-parapendio_afe229a3-c208-4250-a06c-98dca6bf7658.html",
+     "data": "2026-08-07T08:54:52+00:00"
+    },
+    {
+     "titolo": "IranWire, 'Khamenei in condizioni critiche, potrebbe essere in punto di morte'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/iranwire-khamenei-in-condizioni-critiche-potrebbe-essere-in-punto-di-morte_dc7ccf15-4d63-4e52-b2ce-56c7f14fb93d.html",
+     "data": "2026-08-07T08:41:28+00:00"
+    },
+    {
+     "titolo": "Bolivia, il presidente conservatore difende il suo governo 'impopolare'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/bolivia-il-presidente-conservatore-difende-il-suo-governo-impopolare_149ad73e-f88a-4acb-8185-948912727f4e.html",
+     "data": "2026-08-07T08:37:31+00:00"
+    },
     {
      "titolo": "Sparatoria a scuola in Thailandia, studente uccide 8 persone",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/sparatoria-a-scuola-in-thailandia-studente-uccide-8-persone_3ff9bb6f-7645-428f-957b-455c5e570dc4.html",
@@ -34,26 +54,6 @@
      "titolo": "Lo spread tra Btp e Bund apre piatto a 77 punti base",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/lo-spread-tra-btp-e-bund-apre-piatto-a-77-punti-base_776342ca-37d0-474c-84df-30682de0f420.html",
      "data": "2026-08-07T06:43:44+00:00"
-    },
-    {
-     "titolo": "Il gas parte in rialzo (+3%) a 57 euro al Megawattora",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/il-gas-parte-in-rialzo-3-a-57-euro-al-megawattora_6b60c741-21a3-462b-b527-5c6be8316b9a.html",
-     "data": "2026-08-07T06:42:19+00:00"
-    },
-    {
-     "titolo": "L'utile del semestre di Mps sopra le attese a 1,1 miliardi (+25%)",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/lutile-del-semestre-di-mps-sopra-le-attese-a-11-miliardi-25_e18ca015-f2df-481f-97f0-f59848560db8.html",
-     "data": "2026-08-07T05:49:28+00:00"
-    },
-    {
-     "titolo": "L'utile di Unipol balza a 1,06 miliardi nel semestre (+42%)",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/lutile-di-unipol-balza-a-106-miliardi-nel-semestre-42_15774cca-101b-4bc6-9456-4de3f272b423.html",
-     "data": "2026-08-07T05:09:22+00:00"
-    },
-    {
-     "titolo": "Wsj, 'Putin potrebbe testare la determinazione Nato con attacco limitato'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/wsj-putin-potrebbe-testare-la-determinazione-nato-con-attacco-limitato_37f5a23e-e6ca-43cf-8ab2-2a4f59dafb25.html",
-     "data": "2026-08-07T03:19:33+00:00"
     }
    ]
   },
@@ -126,6 +126,31 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Blackout blocca acquedotto, si rischia crisi idrica a Ischia e Procida",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/blackout-blocca-acquedotto-si-rischia-crisi-idrica-a-ischia-e-procida_a19fecd0-5ecd-4a43-956f-212d23f4d5c3.html",
+     "data": "2026-08-07T09:11:19+00:00"
+    },
+    {
+     "titolo": "Etna, fontana di lava attenuata, due fratture con colate ad alta quota",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/etna-fontana-di-lava-attenuata-due-fratture-con-colate-ad-alta-quota_6635d306-cc66-4183-8abb-cbb4b3c5f43b.html",
+     "data": "2026-08-07T09:05:24+00:00"
+    },
+    {
+     "titolo": "\"Staycation\", quest'estate un italiano su due non va in vacanza",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/staycation-questestate-un-italiano-su-due-non-va-in-vacanza_f7a4e6e6-855e-43d1-a3f3-b1bab120c7af.html",
+     "data": "2026-08-07T09:04:09+00:00"
+    },
+    {
+     "titolo": "Operaio cade da tre metri in un cantiere edile nel Palermitano, è grave",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/operaio-cade-da-tre-metri-in-un-cantiere-edile-nel-palermitano-e-grave_b940352a-b051-433d-950a-73009a31b0c1.html",
+     "data": "2026-08-07T08:51:35+00:00"
+    },
+    {
+     "titolo": "Parossismo Etna, sospensione atterraggi a Catania prorogata fino alle 16",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/parossismo-etna-sospensione-atterraggi-a-catania-prorogata-fino-alle-16_e5670b95-bf05-4307-aa6b-b6657bf9016c.html",
+     "data": "2026-08-07T08:34:34+00:00"
+    },
+    {
      "titolo": "Rogo in bosco a Firenzuola, operazioni per tutta la notte, in azione Canadair",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/rogo-in-bosco-a-firenzuola-operazioni-per-tutta-la-notte-in-azione-canadair_92d969ee-66ef-48b6-986b-d4faee356002.html",
      "data": "2026-08-07T07:44:42+00:00"
@@ -148,7 +173,7 @@
     {
      "titolo": "Esodo estivo, domani sulle strade giornata da bollino nero",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/esodo-estivo-domani-sulle-strade-giornata-da-bollino-nero_5491cfe2-9f56-4cfb-a2bd-e422c789a247.html",
-     "data": "2026-08-07T07:56:19+00:00"
+     "data": "2026-08-07T08:21:55+00:00"
     },
     {
      "titolo": "Etna, fontana di lava e nube vulcanica dalla Voragine, voli dirottati",
@@ -159,31 +184,6 @@
      "titolo": "No dei proprietari a cessione di Spin Time, Gualtieri 'amareggiati'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/no-dei-proprietari-a-cessione-di-spin-time-gualtieri-amareggiati_cca00c30-31e0-404e-8a24-834b027b6958.html",
      "data": "2026-08-06T21:43:37+00:00"
-    },
-    {
-     "titolo": "A Gorizia 40 gradi, temperatura mai raggiunta in Fvg",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/a-gorizia-40-gradi-temperatura-mai-raggiunta-in-fvg_d4d045a3-2c28-46ee-af7b-a5646403436e.html",
-     "data": "2026-08-06T20:28:32+00:00"
-    },
-    {
-     "titolo": "Spin Time, non c'è l'accordo tra la proprietà e il Comune di Roma",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/spin-time-non-ce-laccordo-tra-la-proprieta-e-il-comune-di-roma_2ef1e596-b042-4a47-a313-4ea333a14e27.html",
-     "data": "2026-08-06T21:03:53+00:00"
-    },
-    {
-     "titolo": "Provincia di Isernia verso il referendum per aggregarsi all'Abruzzo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/provincia-di-isernia-verso-il-referendum-per-aggregarsi-allabruzzo_8a32ea8f-f6a3-44fa-ba6b-9b621d417afd.html",
-     "data": "2026-08-06T16:59:22+00:00"
-    },
-    {
-     "titolo": "La strage di Crans, 'l'Italia non potrà essere parte civile'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/la-strage-di-crans-procura-sion-respinge-costituzione-parte-civile-italia_8ef3af86-f3c4-4611-a60a-e00f03179c77.html",
-     "data": "2026-08-06T19:08:49+00:00"
-    },
-    {
-     "titolo": "Cagliari ancora col bollino rosso, cimiteri chiusi nelle ore più calde",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/cagliari-ancora-col-bollino-rosso-cimiteri-chiusi-nelle-ore-piu_44f8292f-095e-46ab-b820-7e59829b43e8.html",
-     "data": "2026-08-06T15:42:59+00:00"
     }
    ]
   },
@@ -226,6 +226,16 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: l'Europa sulla parità guarda a Hormuz e petrolio, Francoforte +0,4%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/borsa-leuropa-sulla-parita-guarda-a-hormuz-e-petrolio-francoforte-04_44e84581-9187-4019-b0f6-668efb2b14ca.html",
+     "data": "2026-08-07T09:00:16+00:00"
+    },
+    {
+     "titolo": "Antitrust, rimborsi e sconti per 30 milioni di euro per skipass in Veneto e Trentino",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/antitrust-rimborsi-e-sconti-per-30-milioni-di-euro-per-skipass-in-veneto-e-trentino_63eef9e6-ac42-4487-a25f-c756cd2e0f45.html",
+     "data": "2026-08-07T08:27:27+00:00"
+    },
+    {
      "titolo": "Risale il prezzo del gas in Italia, indice Igi a 60,29 euro al MegaWattora",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/risale-il-prezzo-del-gas-in-italia-indice-igi-a-6029-euro-al-megawattora_abda9078-77c0-46b0-9acd-6c2fc6eea9e4.html",
      "data": "2026-08-07T07:45:01+00:00"
@@ -238,7 +248,7 @@
     {
      "titolo": "Mimit, in calo il prezzo dei carburanti, gasolio a 2,084 euro al litro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/mimit-in-calo-il-prezzo-dei-carburanti-gasolio-a-2084-euro-al-litro_c3616b24-8047-40db-b3b0-38e7e1c12cbc.html",
-     "data": "2026-08-07T07:21:51+00:00"
+     "data": "2026-08-07T09:00:04+00:00"
     },
     {
      "titolo": "Borsa: l'Europa parte incerta, Londra piatta",
@@ -248,7 +258,7 @@
     {
      "titolo": "Borsa: Milano apre in leggero rialzo, Ftse Mib +0,22%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/borsa-milano-apre-in-leggero-rialzo-ftse-mib-022_9eb7a1e1-bcb2-46db-a111-a7ade392c151.html",
-     "data": "2026-08-07T07:11:27+00:00"
+     "data": "2026-08-07T08:58:39+00:00"
     },
     {
      "titolo": "Borsa: l'Asia tiene in attesa dell'annuncio su Hormuz, debole Seul",
@@ -274,22 +284,32 @@
      "titolo": "Euro poco mosso, scambiato a 1,1523 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/euro-poco-mosso-scambiato-a-11523-dollari_3585e939-6acc-4bb1-aa9e-2f1e2860adac.html",
      "data": "2026-08-07T06:23:20+00:00"
-    },
-    {
-     "titolo": "Prezzo petrolio in rialzo, Wti scambiato a 78,24 dollari, +1,23%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/prezzo-petrolio-in-rialzo-wti-scambiato-a-7824-dollari-123_cf04371f-8e7e-46ca-a553-57e9dfb59d4c.html",
-     "data": "2026-08-07T07:11:47+00:00"
-    },
-    {
-     "titolo": "L'utile del semestre di Mps sopra le attese a 1,1 miliardi (+25%)",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/lutile-del-semestre-di-mps-sopra-le-attese-a-11-miliardi-25_143bc3c6-368d-49f0-a615-655f1afd4ac5.html",
-     "data": "2026-08-07T05:52:26+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Ue, 'oggi nuove sanzioni per 5 persone coinvolte nel complesso militare russo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/07/ue-oggi-nuove-sanzioni-per-5-persone-coinvolte-nel-complesso-militare-russo_ad769a06-80dc-44d4-b523-54390ac38292.html",
+     "data": "2026-08-07T08:55:44+00:00"
+    },
+    {
+     "titolo": "Muore un giovane nel tentativo di entrare a Ceuta col parapendio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/07/muore-un-giovane-nel-tentativo-di-entrare-a-ceuta-col-parapendio_9f45355e-38e2-467c-9bef-33be81a25dae.html",
+     "data": "2026-08-07T08:54:55+00:00"
+    },
+    {
+     "titolo": "IranWire, 'Khamenei in condizioni critiche, potrebbe essere in punto di morte'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/07/iranwire-khamenei-in-condizioni-critiche-potrebbe-essere-in-punto-di-morte_19a40e16-bd0a-486d-bfb8-d65b0fefe151.html",
+     "data": "2026-08-07T08:41:47+00:00"
+    },
+    {
+     "titolo": "Bolivia, il presidente conservatore difende il suo governo 'impopolare'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/bolivia-il-presidente-conservatore-difende-il-suo-governo-impopolare_f724ca67-1062-4d19-aa69-54294384773b.html",
+     "data": "2026-08-07T08:37:50+00:00"
+    },
     {
      "titolo": "Sparatoria a scuola in Thailandia, studente uccide 8 persone",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/07/sparatoria-a-scuola-in-thailandia-studente-uccide-8-persone_86cbbc48-6b67-476b-8d91-c9956fb096ed.html",
@@ -329,26 +349,6 @@
      "titolo": "Messico, arrestato ex governatore di Guerrero per il caso dei 43 di Ayotzinapa",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/messico-arrestato-ex-governatore-di-guerrero-per-il-caso-dei-43-di-ayotzinapa_baf0ea7f-8502-43f1-ac2d-55c0d7e20769.html",
      "data": "2026-08-07T00:27:13+00:00"
-    },
-    {
-     "titolo": "Fonti saudite, 'oggi firma patto di mutua difesa con Turchia e Pakistan'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/07/fonti-saudite-oggi-firma-patto-di-mutua-difesa-con-turchia-e-pakistan_bf913cad-372e-4b29-bbd1-c34cfc1deb7c.html",
-     "data": "2026-08-06T23:52:40+00:00"
-    },
-    {
-     "titolo": "Fonti saudite, 'oggi firma patto di mutua difesa con Turchia e Pakistan'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/fonti-saudite-oggi-firma-patto-di-mutua-difesa-con-turchia-e-pakistan_ac3c24c4-a327-4dd6-a3fb-1c574b5564de.html",
-     "data": "2026-08-07T00:02:55+00:00"
-    },
-    {
-     "titolo": "Brasile, Lula riceve il ministro degli Esteri messicano Velasco",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/brasile-lula-riceve-il-ministro-degli-esteri-messicano-velasco_cd5b319d-b326-41bc-ab35-7b9da9aa07c1.html",
-     "data": "2026-08-06T22:54:55+00:00"
-    },
-    {
-     "titolo": "Protesta contro la legge sulla proprietà davanti al Parlamento argentino, scontri",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/protesta-contro-la-legge-sulla-proprieta-davanti-al-parlamento-argentino-scontri_b502b3ef-ce53-4612-a7f9-73c4b2d81447.html",
-     "data": "2026-08-06T22:28:46+00:00"
     }
    ]
   },
@@ -421,6 +421,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Chivu, 'Inter squadra da battere ma nostro puzzle ancora incompleto'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/07/chivu-inter-squadra-da-battere-ma-nostro-puzzle-ancora-incompleto_9b7c7077-2349-4ad8-80ff-1fe4594944ff.html",
+     "data": "2026-08-07T09:16:45+00:00"
+    },
+    {
+     "titolo": "La Federazione Messicana di Calcio conferma il sostegno a Infantino",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/07/la-federazione-messicana-di-calcio-conferma-il-sostegno-a-infantino_ab015a9e-c9b2-4e4d-b0b1-1443a33bd402.html",
+     "data": "2026-08-07T08:44:00+00:00"
+    },
+    {
+     "titolo": "Europei di nuoto, bronzo per Taddeucci nella 3 km knockout",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/07/bronzo-per-taddeucci-nella-3-km-knockout_2d31da30-a04f-4424-a9e6-ca8af5b95fe1.html",
+     "data": "2026-08-07T08:33:41+00:00"
+    },
+    {
      "titolo": "Amorim, 'Milan può vincere ogni incontro in qualsiasi competizione'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/07/amorim-milan-puo-vincere-ogni-incontro-in-qualsiasi-competizione_39e97a18-dfeb-46ea-b6f2-a41c15113607.html",
      "data": "2026-08-07T07:50:49+00:00"
@@ -428,7 +443,7 @@
     {
      "titolo": "Musetti si arrende a Jodar e saluta Montreal",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/07/musetti-si-arrende-a-jodar-e-saluta-montreal_33784b94-8963-485e-9783-19e3650e9062.html",
-     "data": "2026-08-07T07:09:02+00:00"
+     "data": "2026-08-07T08:11:13+00:00"
     },
     {
      "titolo": "La Confederazione africana di calcio riconferma il proprio sostegno a Infantino",
@@ -464,21 +479,6 @@
      "titolo": "Parigi: Chiara Pellacani storico en plein, 5 ori su 5 agli Europei di tuffi",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/06/europei-di-nuoto-chiara-pellacani-storico-en-plein-5-ori-su-5-agli-europei-di-tuffi_b68bad49-7310-48ee-adf8-a12c7062c1c0.html",
      "data": "2026-08-06T18:52:18+00:00"
-    },
-    {
-     "titolo": "Tennis: piove a Montreal, posticipato il match di Darderi con Shang",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/06/tennis-piove-a-montreal-posticipato-il-match-di-darderi-con-shang_1cfad7fa-f90c-4203-81cf-867a57c3da87.html",
-     "data": "2026-08-06T17:02:58+00:00"
-    },
-    {
-     "titolo": "Azzurri: si completa lo staff di Mancini, Oriali team manager e Bollini vice",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/06/azzurri-si-completa-lo-staff-di-mancini-oriali-team-manager-e-bollini-vice_134e706e-1dc4-4a6c-a92b-23caa3f9449c.html",
-     "data": "2026-08-06T16:52:16+00:00"
-    },
-    {
-     "titolo": "Pellacani festeggia i cinque ori, 'ora mi avvicino alle cinesi'",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/06/pellacani-festeggia-i-cinque-ori-ora-mi-avvicino-alle-cinesi_28c05d75-90b8-4466-8ffd-8f2cd71d4228.html",
-     "data": "2026-08-06T16:36:07+00:00"
     }
    ]
   }
