@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-08T19:49:07.554105+00:00",
+ "aggiornato": "2026-08-08T20:13:51.700184+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Per 80 milioni di persone negli Usa il weekend sarà umido come l'Amazzonia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/per-80-milioni-di-persone-negli-usa-il-weekend-sara-umido-come-lamazzonia_4dad12a3-2e4e-4f4a-8bd9-c53bd873d59a.html",
+     "data": "2026-08-08T20:06:14+00:00"
+    },
     {
      "titolo": "Media iraniano diffonde un video di Khamenei, ma è senza data",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/media-iraniano-diffonde-un-video-di-khamenei-ma-e-senza-data_94597c88-cc7e-49fd-8819-dd94dcd6eb08.html",
@@ -49,11 +54,6 @@
      "titolo": "Sofia, 'il drone esploso in Bulgaria era di un tipo ampiamente usato da Kiev'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/sofia-il-drone-esploso-in-bulgaria-era-di-un-tipo-ampiamente-usato-da-kiev_961005a0-7368-4c5a-8ae0-98b3286e29d7.html",
      "data": "2026-08-08T14:52:53+00:00"
-    },
-    {
-     "titolo": "Il leone salvato dalla guerra in Ucraina e portato negli Usa è malato",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/il-leone-salvato-dalla-guerra-in-ucraina-e-portato-negli-usa-e-malato_590e1550-6ff6-4e27-b340-88827a45591d.html",
-     "data": "2026-08-08T14:20:08+00:00"
     }
    ]
   },
@@ -276,6 +276,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Per 80 milioni di persone negli Usa il weekend sarà umido come l'Amazzonia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/per-80-milioni-di-persone-negli-usa-il-weekend-sara-umido-come-lamazzonia_c76e14fc-e567-4bc5-8913-c79814429cc4.html",
+     "data": "2026-08-08T20:06:31+00:00"
+    },
+    {
      "titolo": "Media iraniano diffonde un video di Khamenei, ma è senza data",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/08/media-iraniano-diffonde-un-video-di-khamenei-ma-e-senza-data_12087f66-0277-47c2-92e9-b052fe98cb90.html",
      "data": "2026-08-08T17:55:30+00:00"
@@ -329,11 +334,6 @@
      "titolo": "Tajani, 'Marcinelle è una tragedia europea, la dignità del lavoro prima di tutto'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/tajani-marcinelle-e-una-tragedia-europea-la-dignita-del-lavoro-prima-di-tutto_9f325168-d23e-4eaa-abaa-43b063f54963.html",
      "data": "2026-08-08T13:51:41+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'a Kiev ucciso un bimbo di 3 anni e i suoi nonni'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/zelensky-a-kiev-ucciso-un-bimbo-di-3-anni-e-i-suoi-nonni_31e8cb09-9260-43fe-9970-7886c581379b.html",
-     "data": "2026-08-08T13:50:29+00:00"
     }
    ]
   },
