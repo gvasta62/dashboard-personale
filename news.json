@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-08T14:02:38.700375+00:00",
+ "aggiornato": "2026-08-08T14:54:37.155992+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il leone salvato dalla guerra in Ucraina e portato negli Usa è malato",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/il-leone-salvato-dalla-guerra-in-ucraina-e-portato-negli-usa-e-malato_590e1550-6ff6-4e27-b340-88827a45591d.html",
+     "data": "2026-08-08T14:20:08+00:00"
+    },
     {
      "titolo": "Zelensky, 'a Kiev ucciso un bimbo di 3 anni e i suoi nonni'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/zelensky-a-kiev-ucciso-un-bimbo-di-3-anni-e-i-suoi-nonni_e35ee7ef-283b-478f-b2c7-1f0bbfb78be5.html",
@@ -49,11 +54,6 @@
      "titolo": "Drone proveniente dalla Romania esplode vicino a gasdotto bulgaro",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/drone-proveniente-dalla-romania-esplode-vicino-a-gasdotto-bulgaro_b15584b9-0f41-4454-a2b1-1497ceee4e5e.html",
      "data": "2026-08-08T10:06:58+00:00"
-    },
-    {
-     "titolo": "Meloni, grave e vergognoso gesto Cgil a commemorazione Marcinelle",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/meloni-grave-e-vergognoso-gesto-cgil-a-commemorazione-marcinelle_657d2bac-f5d4-4bca-9816-4ba26e8fcf00.html",
-     "data": "2026-08-08T09:42:22+00:00"
     }
    ]
   },
@@ -126,9 +126,14 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Automobilista travolge un gruppo di ciclisti dopo una lite, poi fa inversione e li investe di nuovo: 4 feriti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/automobilista-travolge-un-gruppo-di-ciclisti-dopo-una-lite-poi-fa-inversione-e-li-investe_42f2301b-b665-4e22-a744-ca37614dc090.html",
-     "data": "2026-08-08T13:38:30+00:00"
+     "titolo": "Litiga con i ciclisti e li investe, poi torna indietro per colpirli di nuovo: quattro feriti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/litiga-con-i-ciclisti-e-li-investe-poi-torna-indietro-per-colpirli-di-nuovo_42f2301b-b665-4e22-a744-ca37614dc090.html",
+     "data": "2026-08-08T14:47:57+00:00"
+    },
+    {
+     "titolo": "L'Etna 'rallenta', riaperte le attività di volo all'aeroporto di Catania",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/letna-rallenta-riaperte-le-attivita-di-volo-allaeroporto-di-catania_55c7be50-0b04-450b-8e07-9179369d3788.html",
+     "data": "2026-08-08T14:43:23+00:00"
     },
     {
      "titolo": "Pregliasco, 'caldo in Italia potrebbero provocare fino a 8mila morti in più'",
@@ -179,17 +184,17 @@
      "titolo": "Card. Reina, 'sarebbe sbagliato archiviare Spin Time con lo sgombero'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/card.-reina-sarebbe-sbagliato-archiviare-spin-time-con-lo-sgombero_54523ea3-5bd5-469e-b3f8-6aaf9d08febe.html",
      "data": "2026-08-08T10:48:34+00:00"
-    },
-    {
-     "titolo": "Ingv, aperta una nuova bocca eruttiva sull'Etna in Valle del Bove",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/ingv-aperta-una-nuova-bocca-eruttiva-sulletna-in-valle-del-bove_93942798-1d4e-473a-a57b-e426f35f55d5.html",
-     "data": "2026-08-08T10:35:52+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Proteste e tensioni, a Marcinelle la cerimonia delle divisioni",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/proteste-e-tensioni-a-marcinelle-la-cerimonia-delle-divisioni-_6592c2a5-e115-45c8-be49-bb1ad1956859.html",
+     "data": "2026-08-08T14:20:44+00:00"
+    },
     {
      "titolo": "Proteste e tensioni, a Marcinelle per il 70/o la cerimonia delle divisioni",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/proteste-e-tensioni-a-marcinelle-per-il-70o-la-cerimonia-delle-divisioni_1ec354cb-3f44-43c3-9c13-a88b62071d0d.html",
@@ -199,11 +204,6 @@
      "titolo": "Meloni, grave e vergognoso gesto Cgil a commemorazione Marcinelle",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/meloni-grave-e-vergognoso-gesto-cgil-a-commemorazione-marcinelle_f54e12bb-d517-4b35-b092-4c0081273906.html",
      "data": "2026-08-08T09:42:24+00:00"
-    },
-    {
-     "titolo": "Meloni: 'Grave il gesto della Cgil a Marcinelle.' Landini: 'Non ci giriamo mai dall'altra parte.' Il sindacato belga: 'Siamo stati noi'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/meloni-grave-e-vergognoso-gesto-della-cgil-a-commemorazione-marcinelle.-landini-il-sindacato_6592c2a5-e115-45c8-be49-bb1ad1956859.html",
-     "data": "2026-08-08T13:45:18+00:00"
     },
     {
      "titolo": "Fidanza, Cgil di spalle mentre la Russa leggeva Mattarella, si vergogni!",
@@ -239,11 +239,6 @@
      "titolo": "P.Chigi a Madrid, non rivediamo decisione su sospensione Schengen, almeno fino al 15",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/p.chigi-a-madrid-non-rivediamo-decisione-su-sospensione-schengen-almeno-fino-al-15_d53a3bc6-38ca-4188-a905-c25a556f52e8.html",
      "data": "2026-08-07T15:11:55+00:00"
-    },
-    {
-     "titolo": "Bignami (FdI), richiesta opposizioni è medaglia, Scalfaro fu figura divisiva",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/bignami-fdi-richiesta-opposizioni-e-medaglia-scalfaro-fu-figura-divisiva_3dd2a055-90d4-4701-9b88-f65c99bbacb7.html",
-     "data": "2026-08-07T14:11:21+00:00"
     }
    ]
   },
@@ -316,6 +311,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Sofia, 'il drone esploso in Bulgaria era di un tipo ampiamente usato da Kiev'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/sofia-il-drone-esploso-in-bulgaria-era-di-un-tipo-ampiamente-usato-da-kiev_a3352e96-bd6b-4ef5-b69b-6f0db14aa5fc.html",
+     "data": "2026-08-08T14:52:57+00:00"
+    },
+    {
+     "titolo": "I capelli di Trump di nuovo nel mirino dei social, 'ha fatto il trapianto?'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/i-capelli-di-trump-di-nuovo-nel-mirino-dei-social-ha-fatto-il-trapianto_614ee027-c99e-460f-a91f-4c489cd04541.html",
+     "data": "2026-08-08T14:29:04+00:00"
+    },
+    {
+     "titolo": "Il leone salvato dalla guerra in Ucraina e portato negli Usa è malato",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/il-leone-salvato-dalla-guerra-in-ucraina-e-portato-negli-usa-e-malato_39be0ddc-479d-4d88-b036-20e2469ffc15.html",
+     "data": "2026-08-08T14:20:13+00:00"
+    },
+    {
      "titolo": "Il costo nel burrito negli Usa fa venire il mal di pancia a Trump e ai repubblicani",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/il-costo-nel-burrito-negli-usa-fa-venire-il-mal-di-pancia-a-trump-e-ai-repubblicani_6b583b56-aa12-42c5-86cb-2736c1949262.html",
      "data": "2026-08-08T13:54:42+00:00"
@@ -353,27 +363,12 @@
     {
      "titolo": "Morto il papà di Messi, malato da tempo aveva 68 anni",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/morto-il-papa-di-messi-malato-da-tempo-aveva-68-anni_8a976af7-ff2c-40ec-8cec-55ac6e3876e6.html",
-     "data": "2026-08-08T13:49:37+00:00"
+     "data": "2026-08-08T14:10:07+00:00"
     },
     {
      "titolo": "Nicaragua, Murillo attacca gli oppositori 'sono spazzatura e traditori'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/nicaragua-murillo-attacca-gli-oppositori-sono-spazzatura-e-traditori_6a53a785-52e1-46ec-bac9-668c5a537197.html",
      "data": "2026-08-08T12:44:36+00:00"
-    },
-    {
-     "titolo": "Zelensky a Belgrado, l'Ucraina non ha più centrali elettriche intatte",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/zelensky-a-belgrado-lucraina-non-ha-piu-centrali-elettriche-intatte_6b4abe03-7222-49ce-87a0-0e7ca30bd770.html",
-     "data": "2026-08-08T13:51:05+00:00"
-    },
-    {
-     "titolo": "Pasdaran, 'riapriremo Hormuz appena Usa accetteranno le nostre condizioni'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/pasdaran-riapriremo-hormuz-appena-usa-accetteranno-le-nostre-condizioni_aea9ee04-7ddc-48fe-b346-9a78d6390307.html",
-     "data": "2026-08-08T11:06:43+00:00"
-    },
-    {
-     "titolo": "Pasdaran, 'riapriremo Hormuz appena Usa accetteranno le nostre condizioni'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/08/pasdaran-riapriremo-hormuz-appena-usa-accetteranno-le-nostre-condizioni_268e7fc5-58e2-4378-be05-d9101c52d59f.html",
-     "data": "2026-08-08T11:06:46+00:00"
     }
    ]
   },
@@ -446,6 +441,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Chelsea travolge il Milan, 3-0 con doppietta di Joao Pedro",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/chelsea-travolge-il-milan-3-0-con-doppietta-di-joao-pedro_fa8035e4-10d9-4ca9-a905-d1ac3616674e.html",
+     "data": "2026-08-08T14:22:07+00:00"
+    },
+    {
+     "titolo": "Europei Atletica: l'Italia vola a Birmingham a caccia di medaglie",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/08/europei-atletica-litalia-vola-a-birmingham-a-caccia-di-medaglie_abbf7778-3bcd-4daa-8711-e449a91abc73.html",
+     "data": "2026-08-08T14:11:08+00:00"
+    },
+    {
      "titolo": "Marchand rinuncia per infortunio ai 200 e 400 m misti",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/08/marchand-rinuncia-per-infortunio-ai-200-e-400-m-misti_a7c81d97-1536-42bf-b668-d516949509c2.html",
      "data": "2026-08-08T13:54:06+00:00"
@@ -494,16 +499,6 @@
      "titolo": "Premier League: Guimaraes va all'Arsenal per 75 milioni di sterline",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/guimaraes-va-allarsenal-per-75-milioni-di-sterline_73791ca7-037c-4ea9-b042-2a1b282563f2.html",
      "data": "2026-08-08T11:44:58+00:00"
-    },
-    {
-     "titolo": "Europei atletica: l'azzurra Dosso: 'Da outsider nessuno conosce le mie carte'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/08/europei-atletica-lazzurra-dosso-da-outsider-nessuno-conosce-le-mie-carte_b0422f1a-b986-4e9e-b6f1-9c76f72a4b3e.html",
-     "data": "2026-08-08T11:47:23+00:00"
-    },
-    {
-     "titolo": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/ufficiale-il-rinnovo-di-pellegrini-roma-la-storia-continua_d8c5b770-112b-419d-897c-387c939cc5be.html",
-     "data": "2026-08-08T11:48:38+00:00"
     }
    ]
   }
