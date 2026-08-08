@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-08T20:13:51.700184+00:00",
+ "aggiornato": "2026-08-08T20:53:32.282247+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il giudice Moraes nega a Bolsonaro la visita dei figli per la festa del papà",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/il-giudice-moraes-nega-a-bolsonaro-la-visita-dei-figli-per-la-festa-del_162bf528-faa7-4a9d-8234-98b56653a652.html",
+     "data": "2026-08-08T20:24:22+00:00"
+    },
+    {
+     "titolo": "Quattro morti in un incidente d'elicottero a Rio, tre sono turiste colombiane",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/quattro-morti-in-un-incidente-delicottero-a-rio-tre-sono-turiste-colombiane_df5354a1-adb9-4c4a-9fe8-f69d451794e7.html",
+     "data": "2026-08-08T20:14:36+00:00"
+    },
     {
      "titolo": "Per 80 milioni di persone negli Usa il weekend sarà umido come l'Amazzonia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/per-80-milioni-di-persone-negli-usa-il-weekend-sara-umido-come-lamazzonia_4dad12a3-2e4e-4f4a-8bd9-c53bd873d59a.html",
@@ -44,16 +54,6 @@
      "titolo": "Arrestato l'automobilista che ha travolto il gruppo di ciclisti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/arrestato-lautomobilista-che-ha-travolto-il-gruppo-di-ciclisti_4d5a5108-8c11-4bb3-ad47-33878851018d.html",
      "data": "2026-08-08T16:05:28+00:00"
-    },
-    {
-     "titolo": "Ucrania: El león rescatado de la guerra en Ucrania y llevado a EEUU está enfermo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/ucrania-el-leon-rescatado-de-la-guerra-en-ucrania-y-llevado-a-eeuu-esta-enfermo_1ae49515-ec68-4cfa-a546-f8ba120b81e5.html",
-     "data": "2026-08-08T14:55:16+00:00"
-    },
-    {
-     "titolo": "Sofia, 'il drone esploso in Bulgaria era di un tipo ampiamente usato da Kiev'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/sofia-il-drone-esploso-in-bulgaria-era-di-un-tipo-ampiamente-usato-da-kiev_961005a0-7368-4c5a-8ae0-98b3286e29d7.html",
-     "data": "2026-08-08T14:52:53+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-08-08T20:30:37+00:00"
+    },
+    {
      "titolo": "Vasche vuote all'alpeggio, Protezione civile salva animali al pascolo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/vasche-vuote-allalpeggio-protezione-civile-salva-animali-al-pascolo_c7810cec-9e5b-4dec-a8a1-176c13592e54.html",
      "data": "2026-08-08T19:24:01+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Zuppi, 'servono giganti come Guccini, uomini dal cuore grande'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/zuppi-servono-giganti-come-guccini-uomini-dal-cuore-grande_1c4eb765-e40e-4fef-83f8-24104df0379e.html",
      "data": "2026-08-08T16:28:01+00:00"
-    },
-    {
-     "titolo": "Litiga con i ciclisti e li investe più volte con l'auto, 4 feriti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/litiga-con-i-ciclisti-e-li-investe-poi-torna-indietro-per-colpirli-di-nuovo_42f2301b-b665-4e22-a744-ca37614dc090.html",
-     "data": "2026-08-08T19:07:47+00:00"
     }
    ]
   },
@@ -276,6 +276,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Il giudice Moraes nega a Bolsonaro la visita dei figli per la festa del papà",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/il-giudice-moraes-nega-a-bolsonaro-la-visita-dei-figli-per-la-festa-del_24d693ae-af2c-4274-86e0-57bd31abb534.html",
+     "data": "2026-08-08T20:24:32+00:00"
+    },
+    {
+     "titolo": "Quattro morti in un incidente d'elicottero a Rio, tre sono turiste colombiane",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/quattro-morti-in-un-incidente-delicottero-a-rio-tre-sono-turiste-colombiane_fd3e00d6-f9ff-4143-b285-7d34acbe35a6.html",
+     "data": "2026-08-08T20:14:53+00:00"
+    },
+    {
      "titolo": "Per 80 milioni di persone negli Usa il weekend sarà umido come l'Amazzonia",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/per-80-milioni-di-persone-negli-usa-il-weekend-sara-umido-come-lamazzonia_c76e14fc-e567-4bc5-8913-c79814429cc4.html",
      "data": "2026-08-08T20:06:31+00:00"
@@ -324,16 +334,6 @@
      "titolo": "Il leone salvato dalla guerra in Ucraina e portato negli Usa è malato",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/il-leone-salvato-dalla-guerra-in-ucraina-e-portato-negli-usa-e-malato_39be0ddc-479d-4d88-b036-20e2469ffc15.html",
      "data": "2026-08-08T14:20:13+00:00"
-    },
-    {
-     "titolo": "Il costo nel burrito negli Usa fa venire il mal di pancia a Trump e ai repubblicani",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/il-costo-nel-burrito-negli-usa-fa-venire-il-mal-di-pancia-a-trump-e-ai-repubblicani_6b583b56-aa12-42c5-86cb-2736c1949262.html",
-     "data": "2026-08-08T13:54:42+00:00"
-    },
-    {
-     "titolo": "Tajani, 'Marcinelle è una tragedia europea, la dignità del lavoro prima di tutto'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/tajani-marcinelle-e-una-tragedia-europea-la-dignita-del-lavoro-prima-di-tutto_9f325168-d23e-4eaa-abaa-43b063f54963.html",
-     "data": "2026-08-08T13:51:41+00:00"
     }
    ]
   },
