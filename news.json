@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-08T22:13:42.014038+00:00",
+ "aggiornato": "2026-08-08T22:52:28.237207+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -218,7 +218,7 @@
     {
      "titolo": "Proteste e tensioni, la cerimonia di Marcinelle spacca l'Italia",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/proteste-e-tensioni-a-marcinelle-la-cerimonia-delle-divisioni-_6592c2a5-e115-45c8-be49-bb1ad1956859.html",
-     "data": "2026-08-08T18:55:00+00:00"
+     "data": "2026-08-08T22:25:47+00:00"
     },
     {
      "titolo": "Proteste e tensioni, a Marcinelle per il 70/o la cerimonia delle divisioni",
@@ -234,11 +234,6 @@
      "titolo": "Fidanza, Cgil di spalle mentre la Russa leggeva Mattarella, si vergogni!",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/fidanza-cgil-di-spalle-mentre-la-russa-leggeva-mattarella-si-vergogni_68f9b44d-808e-4618-a734-cd32f7db0a45.html",
      "data": "2026-08-08T08:44:28+00:00"
-    },
-    {
-     "titolo": "Salvini rilancia la Lega di lotta: 'Se serve, più duri anche nel governo'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/salvini-rilancia-la-lega-di-lotta-se-serve-piu-duri-anche-nel-governo_f168cab9-49c3-4715-9e8e-1259470129fa.html",
-     "data": "2026-08-07T22:04:09+00:00"
     }
    ]
   },
@@ -275,6 +270,11 @@
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "'Pentagono ha chiesto alle industrie della difesa di accelerare la produzione di armi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/pentagono-ha-chiesto-alle-industrie-della-difesa-di-accelerare-la-produzione-di-armi_e0d066cf-34fd-4ec8-829a-ca9ae6e585ea.html",
+     "data": "2026-08-08T22:07:15+00:00"
+    },
     {
      "titolo": "La British Columbia dichiara lo stato d'emergenza per i roghi, 20.000 evacuati",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/la-british-columbia-dichiara-lo-stato-demergenza-per-i-roghi-20.000-evacuati_e733efe1-70db-4b4b-9112-24788f122f9d.html",
@@ -329,11 +329,6 @@
      "titolo": "Un cittadino tedesco rapito in Niger affidato all'esercito algerino",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/08/un-cittadino-tedesco-rapito-in-niger-affidato-allesercito-algerino_1f8fcc55-1f40-49cd-bc39-073dc050044f.html",
      "data": "2026-08-08T17:04:15+00:00"
-    },
-    {
-     "titolo": "Drone ucraino esploso in Bulgaria, Sofia convoca l'ambasciatore di Kiev",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/drone-ucraino-esploso-in-bulgaria-sofia-convoca-lambasciatore-di-kiev_1dd84cf9-66e1-429a-97c0-3d5aee8da1ab.html",
-     "data": "2026-08-08T17:01:41+00:00"
     }
    ]
   },
@@ -406,6 +401,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Darderi ai quarti del Master 1000 di Toronto",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/darderi-ai-quarti-del-master-1000-di-toronto_efb2aca4-eb8f-4223-8912-df2375204ebe.html",
+     "data": "2026-08-08T22:30:37+00:00"
+    },
+    {
+     "titolo": "Malagò alla Gazzetta dello Sport, \"Bianchedi capo delegazione Azzurri\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/malago-alla-gazzetta-dello-sport-bianchedi-capo-delegazione-azzurri_4516cf24-5884-4280-9988-61f203e7a6d2.html",
+     "data": "2026-08-08T22:21:33+00:00"
+    },
+    {
      "titolo": "Il Napoli pareggia con il Celta Vigo, Allegri mette a punto gli schemi",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/il-napoli-pareggia-con-il-celta-vigo-allegri-mette-a-punto-gli-schemi_8ba59990-899b-4c6f-8ec6-bf71d95a6358.html",
      "data": "2026-08-08T21:21:31+00:00"
@@ -414,11 +419,6 @@
      "titolo": "All'Udinese la Fvg Cup, battuti Barcellona e Nottingham",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/alludinese-la-fvg-cup-battuti-barcellona-e-nottingham_a8d66932-7ae1-45ae-ade6-df7884bd8b7c.html",
      "data": "2026-08-08T21:21:01+00:00"
-    },
-    {
-     "titolo": "Tennis: Montreal, Darderi si qualifica per i quarti",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/08/tennis-montreal-darderi-si-qualifica-per-i-quarti_efb2aca4-eb8f-4223-8912-df2375204ebe.html",
-     "data": "2026-08-08T19:10:15+00:00"
     },
     {
      "titolo": "Venezia, pari a Brest nell'ultimo test prima della stagione",
@@ -433,7 +433,7 @@
     {
      "titolo": "Calcio: Atalanta brillante un tempo, Schalke battuto 3-0",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/amichevole-a-gelsenkirchen-3-0-dellatalanta-allo-schalke-04_fa4f6aec-2c1a-4441-829d-e167e8eb618d.html",
-     "data": "2026-08-08T17:51:44+00:00"
+     "data": "2026-08-08T22:29:10+00:00"
     },
     {
      "titolo": "Gasperini 'partita pessima col Brighton manca qualcosa dal mercato'",
@@ -448,7 +448,7 @@
     {
      "titolo": "Calcio: Roma ko a Brighton, Gasperini: 'Dal mercato manca qualcosa'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/la-roma-chiude-male-il-ritiro-ko-3-0-con-il-brighton_36454960-ef8c-490d-9d7d-b21bc1b2306a.html",
-     "data": "2026-08-08T17:13:18+00:00"
+     "data": "2026-08-08T22:29:02+00:00"
     },
     {
      "titolo": "Ciclismo: Pellizzari vince l'ultima tappa della Vuelta a Burgos",
@@ -458,12 +458,7 @@
     {
      "titolo": "Prove tecniche di Serie A, all'Inter il derby d'Italia estivo",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/il-derby-ditalia-e-dellinter-juve-battuta-2-1-a-perth_a9398958-89e9-48a8-8635-62da802c65c7.html",
-     "data": "2026-08-08T16:36:17+00:00"
-    },
-    {
-     "titolo": "Canottaggio: oro per l'Italia ai Mondiali U19 nel due senza femminile",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/08/canottaggio-oro-per-litalia-ai-mondiali-u19-nel-due-senza-femminile_78bcfc08-bcbb-42e9-a19d-e7cab9a1ade6.html",
-     "data": "2026-08-08T15:24:10+00:00"
+     "data": "2026-08-08T22:28:49+00:00"
     }
    ]
   }
