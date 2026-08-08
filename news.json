@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-08T17:53:26.559521+00:00",
+ "aggiornato": "2026-08-08T18:16:59.868128+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media iraniano diffonde un video di Khamenei, ma è senza data",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/media-iraniano-diffonde-un-video-di-khamenei-ma-e-senza-data_94597c88-cc7e-49fd-8819-dd94dcd6eb08.html",
+     "data": "2026-08-08T17:55:27+00:00"
+    },
     {
      "titolo": "Un cittadino tedesco rapito in Niger affidato all'esercito algerino",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/un-cittadino-tedesco-rapito-in-niger-affidato-allesercito-algerino_a87d3f7a-e4e7-441e-b948-a30587743fe9.html",
@@ -49,11 +54,6 @@
      "titolo": "Il leone salvato dalla guerra in Ucraina e portato negli Usa è malato",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/il-leone-salvato-dalla-guerra-in-ucraina-e-portato-negli-usa-e-malato_590e1550-6ff6-4e27-b340-88827a45591d.html",
      "data": "2026-08-08T14:20:08+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'a Kiev ucciso un bimbo di 3 anni e i suoi nonni'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/zelensky-a-kiev-ucciso-un-bimbo-di-3-anni-e-i-suoi-nonni_e35ee7ef-283b-478f-b2c7-1f0bbfb78be5.html",
-     "data": "2026-08-08T13:50:29+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Incendi nel Teramano, ancora elicotteri in azione",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/incendi-nel-teramano-ancora-elicotteri-in-azione_dd20f003-a5db-4c6a-a6df-2ea0511f335b.html",
+     "data": "2026-08-08T18:01:41+00:00"
+    },
+    {
      "titolo": "Il pride arriva per la prima volta a Catanzaro, grande partecipazione",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/il-pride-arriva-per-la-prima-volta-a-catanzaro-grande-partecipazione_47f60bbb-52e0-4b8a-b930-ea4ef7136a7e.html",
      "data": "2026-08-08T17:51:20+00:00"
@@ -179,17 +184,17 @@
      "titolo": "Arrestato l'automobilista che ha travolto il gruppo di ciclisti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/arrestato-lautomobilista-che-ha-travolto-il-gruppo-di-ciclisti_1d5f7031-33d8-41c8-a8be-3c39bdf0fcc4.html",
      "data": "2026-08-08T15:53:52+00:00"
-    },
-    {
-     "titolo": "Un cadavere trovato in un torrente in val d'Ossola",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/un-cadavere-trovato-in-un-torrente-in-val-dossola_3cc244b5-1670-4a6b-8f19-79ff1566de97.html",
-     "data": "2026-08-08T15:50:05+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Ingorgo candidati per Milano, ad oggi una ventina per Palazzo Marino",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/ingorgo-candidati-per-milano-ad-oggi-una-ventina-per-palazzo-marino_4118a347-abf0-4f3b-ab9f-3a3248d6ab6f.html",
+     "data": "2026-08-08T17:59:15+00:00"
+    },
     {
      "titolo": "Per Giorgia Meloni qualche giorno di vacanza a La Maddalena",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/per-giorgia-meloni-qualche-giorno-di-vacanza-a-la-maddalena_39aac54a-b37f-4593-81a7-5b92ae199b5b.html",
@@ -224,21 +229,6 @@
      "titolo": "Salvini rilancia la Lega di lotta: 'Se serve, più duri anche nel governo'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/salvini-rilancia-la-lega-di-lotta-se-serve-piu-duri-anche-nel-governo_f168cab9-49c3-4715-9e8e-1259470129fa.html",
      "data": "2026-08-07T22:04:09+00:00"
-    },
-    {
-     "titolo": "Via libera della Commissione Ue all'ultima revisione del Pnrr dell'Italia",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/via-libera-della-commissione-ue-allultima-revisione-del-pnrr-dellitalia_fa4847ab-b011-42aa-90a0-54b70040bd93.html",
-     "data": "2026-08-07T18:13:48+00:00"
-    },
-    {
-     "titolo": "La politica in vacanza. Mattarella sulle Alpi, Meloni al mare",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/la-politica-in-vacanza.-mattarella-sulle-alpi-meloni-al-mare_0883d56c-406c-4265-b317-ec4f992fa7e7.html",
-     "data": "2026-08-07T17:52:26+00:00"
-    },
-    {
-     "titolo": "Meloni: 'In Europa non c'è spazio per chi alimenta l'immigrazione clandestina'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/07/meloni-in-europa-non-ce-spazio-per-chi-alimenta-limmigrazione-clandestina_d43eddc2-0aed-4a51-94cc-f9961e03e379.html",
-     "data": "2026-08-07T16:52:00+00:00"
     }
    ]
   },
@@ -261,45 +251,25 @@
      "data": "2026-08-08T08:26:07+00:00"
     },
     {
-     "titolo": "Confesercenti, la mappa del Pil 2026: prima Bolzano +1,8%, frena Valle d'Aosta -0,1%",
+     "titolo": "Bolzano prima per crescita davanti a Roma e Milano, la Valle d'Aosta frena",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/confesercenti-la-mappa-del-pil-2026-prima-bolzano-18-frena-valle-daosta_b274d58e-8389-49e2-aa90-5bd6441a4458.html",
-     "data": "2026-08-08T09:25:26+00:00"
+     "data": "2026-08-08T18:09:35+00:00"
     },
     {
      "titolo": "Da Confesercenti la mappa di Pil e prezzi: Bolzano prima per crescita, Valle d'Aosta frena",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/da-confesercenti-la-mappa-di-pil-e-prezzi-bolzano-prima-per-crescita-valle-daosta_5fee7b77-26e7-44fc-8bba-675ea627eb28.html",
      "data": "2026-08-08T07:01:29+00:00"
-    },
-    {
-     "titolo": "All'Italia la siccità può costare fino a 74 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/allitalia-la-siccita-puo-costare-fino-a-74-miliardi_263addfe-a92f-4327-9bf3-d9d2cf50d84a.html",
-     "data": "2026-08-07T19:52:52+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas è poco mosso sotto i 56 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/il-prezzo-del-gas-e-poco-mosso-sotto-i-56-euro-al-megawattora_4cd77346-52d4-4858-a5b7-3e0244890512.html",
-     "data": "2026-08-07T16:41:02+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude poco mosso a ridosso dei 77 punti base",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/lo-spread-tra-btp-e-bund-chiude-poco-mosso-a-ridosso-dei-77-punti_bda2aa21-d902-474b-ad2d-f326cfbf2ca8.html",
-     "data": "2026-08-07T16:05:36+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude positiva, Francoforte +0,69%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/borsa-leuropa-chiude-positiva-francoforte-069_b2948888-4693-4f36-8c16-f9863bc78dba.html",
-     "data": "2026-08-07T15:51:02+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude piatta a +0,06%, in luce Stm",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/borsa-milano-chiude-piatta-a-006-in-luce-stm_f82eb2bf-8757-4b86-94ce-3d571520701f.html",
-     "data": "2026-08-07T15:47:32+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Media iraniano diffonde un video di Khamenei, ma è senza data",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/08/media-iraniano-diffonde-un-video-di-khamenei-ma-e-senza-data_12087f66-0277-47c2-92e9-b052fe98cb90.html",
+     "data": "2026-08-08T17:55:30+00:00"
+    },
     {
      "titolo": "Un cittadino tedesco rapito in Niger affidato all'esercito algerino",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/08/un-cittadino-tedesco-rapito-in-niger-affidato-allesercito-algerino_1f8fcc55-1f40-49cd-bc39-073dc050044f.html",
@@ -354,11 +324,6 @@
      "titolo": "Zelensky, 'a Kiev ucciso un bimbo di 3 anni e i suoi nonni'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/zelensky-a-kiev-ucciso-un-bimbo-di-3-anni-e-i-suoi-nonni_31e8cb09-9260-43fe-9970-7886c581379b.html",
      "data": "2026-08-08T13:50:29+00:00"
-    },
-    {
-     "titolo": "Pezeshkian, le minacce Usa sono la continuazione della stessa mentalità di Hiroshima",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/08/pezeshkian-le-minacce-usa-sono-la-continuazione-della-stessa-mentalita-di-hiroshima_e7bea56b-05ea-45e5-9839-e50f4f67d49c.html",
-     "data": "2026-08-08T13:49:11+00:00"
     }
    ]
   },
@@ -431,9 +396,14 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Amichevole a Gelsenkirchen, 3-0 dell'Atalanta allo Schalke 04",
+     "titolo": "Calciomercato: Lukaku verso la Turchia, la Lazio stringe per Ivanovic",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/08/calciomercato-lukaku-verso-la-turchia-la-lazio-stringe-per-ivanovic_61cce3f9-296b-4279-ba73-c35c5d9ef342.html",
+     "data": "2026-08-08T17:58:56+00:00"
+    },
+    {
+     "titolo": "Calcio: Atalanta brillante un tempo, Schalke battuto 3-0",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/amichevole-a-gelsenkirchen-3-0-dellatalanta-allo-schalke-04_fa4f6aec-2c1a-4441-829d-e167e8eb618d.html",
-     "data": "2026-08-08T17:02:03+00:00"
+     "data": "2026-08-08T17:51:44+00:00"
     },
     {
      "titolo": "Gasperini 'partita pessima col Brighton manca qualcosa dal mercato'",
@@ -484,11 +454,6 @@
      "titolo": "Europei di nuoto: argento per Barnaba nei tuffi maschili da 20 metri",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/08/europei-di-nuoto-argento-per-barnaba-nei-tuffi-maschili-da-20-metri_71e6f5bb-a59b-4861-a9e1-0c01dcb95081.html",
      "data": "2026-08-08T15:03:46+00:00"
-    },
-    {
-     "titolo": "Il Milan non tira in porta e il Chelsea lo travolge 3-0",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/chelsea-travolge-il-milan-3-0-con-doppietta-di-joao-pedro_fa8035e4-10d9-4ca9-a905-d1ac3616674e.html",
-     "data": "2026-08-08T16:33:17+00:00"
     }
    ]
   }
