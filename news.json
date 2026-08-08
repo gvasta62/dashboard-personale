@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-07T23:53:27.391732+00:00",
+ "aggiornato": "2026-08-08T00:37:19.910005+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Raid russi su Kiev, tre morti tra cui un bambino vicino alla capitale",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/raid-russi-su-kiev-tre-morti-tra-cui-un-bambino-vicino-alla_a0637c8c-e2c3-4b04-b0b9-86abd68ec26b.html",
+     "data": "2026-08-08T00:21:36+00:00"
+    },
     {
      "titolo": "Cnn, 'il capo degli Stati maggiori Usa cerca una via d'uscita da guerra in Iran'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/cnn-il-capo-degli-stati-maggiori-usa-cerca-una-via-duscita_2d6e20c6-a6d5-49ac-ad51-dd17efd1b04f.html",
@@ -49,11 +54,6 @@
      "titolo": "Ue, 'Meta e TikTok rafforzino monitoraggio e verifica dei fatti su crisi come a Ceuta'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/ue-meta-e-tiktok-rafforzino-monitoraggio-e-verifica-dei-fatti-su-crisi-come-a-ceuta_8402f74c-3998-41bf-95ac-3437e97e8e9c.html",
      "data": "2026-08-07T20:11:38+00:00"
-    },
-    {
-     "titolo": "Colombia, proteste dell'opposizione contro l'insediamento di De la Espriella",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/colombia-proteste-dellopposizione-contro-linsediamento-di-de-la-espriella_be08f26c-26ff-4606-ad12-bde9c1d5ff59.html",
-     "data": "2026-08-07T19:43:57+00:00"
     }
    ]
   },
@@ -311,6 +311,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Raid russi su Kiev, tre morti tra cui un bambino vicino alla capitale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/raid-russi-su-kiev-tre-morti-tra-cui-un-bambino-vicino-alla_9de44aaa-df5a-4d5d-a98d-12f2891f1a3b.html",
+     "data": "2026-08-08T00:21:52+00:00"
+    },
+    {
+     "titolo": "De la Espriella, 'in Colombia torneranno ordine, autorità e libertà'(2)",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/de-la-espriella-in-colombia-torneranno-ordine-autorita-e-liberta2_99ae286b-b715-48e7-9d17-7d72f192b994.html",
+     "data": "2026-08-08T00:14:56+00:00"
+    },
+    {
      "titolo": "Cnn, 'il capo degli Stati maggiori Usa cerca una via d'uscita da guerra in Iran'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/08/cnn-il-capo-degli-stati-maggiori-usa-cerca-una-via-duscita_c911e12c-3f51-405c-aec6-ecc8ec721964.html",
      "data": "2026-08-07T23:34:51+00:00"
@@ -359,16 +369,6 @@
      "titolo": "Zelensky plaude alle nuove sanzioni Usa, 'così si aumenta la pressione su Mosca'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/07/zelensky-plaude-alle-nuove-sanzioni-usa-cosi-si-aumenta-la-pressione-su-mosca_b92715b0-711e-4426-9762-e3f8828afa3b.html",
      "data": "2026-08-07T20:35:32+00:00"
-    },
-    {
-     "titolo": "Ue, 'Meta e TikTok rafforzino monitoraggio e verifica dei fatti su crisi come a Ceuta'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/07/ue-meta-e-tiktok-rafforzino-monitoraggio-e-verifica-dei-fatti-su-crisi-come-a-ceuta_a8e2f169-b66b-4bd2-824e-a016447ed117.html",
-     "data": "2026-08-07T20:11:38+00:00"
-    },
-    {
-     "titolo": "Manuel Santos a De la Espriella, 'governi per tutti e difenda l'accordo di pace'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/manuel-santos-a-de-la-espriella-governi-per-tutti-e-difenda-laccordo-di-pace_bccfa450-7e2e-41c2-9ba1-4c6b9c5609b9.html",
-     "data": "2026-08-07T20:10:01+00:00"
     }
    ]
   },
