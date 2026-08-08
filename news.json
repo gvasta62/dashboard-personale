@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-08T09:59:46.045249+00:00",
+ "aggiornato": "2026-08-08T10:31:05.000636+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Drone proveniente dalla Romania esplode vicino a gasdotto bulgaro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/drone-proveniente-dalla-romania-esplode-vicino-a-gasdotto-bulgaro_b15584b9-0f41-4454-a2b1-1497ceee4e5e.html",
+     "data": "2026-08-08T10:06:58+00:00"
+    },
     {
      "titolo": "Meloni, grave e vergognoso gesto Cgil a commemorazione Marcinelle",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/meloni-grave-e-vergognoso-gesto-cgil-a-commemorazione-marcinelle_657d2bac-f5d4-4bca-9816-4ba26e8fcf00.html",
@@ -49,17 +54,17 @@
      "titolo": "Confesercenti, la mappa del Pil 2026: prima Bolzano +1,8%, frena Valle d'Aosta -0,1%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/confesercenti-la-mappa-del-pil-2026-prima-bolzano-18-frena-valle-daosta_2a473155-2da9-4ebc-9e6f-5299a59c30d5.html",
      "data": "2026-08-08T07:12:51+00:00"
-    },
-    {
-     "titolo": "Da Confesercenti la mappa di Pil e prezzi: Bolzano prima per crescita, Valle d'Aosta frena",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/da-confesercenti-la-mappa-di-pil-e-prezzi-bolzano-prima-per-crescita-valle-daosta_70d61822-fff4-4c20-bf23-85cd847cb550.html",
-     "data": "2026-08-08T07:01:29+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Lega, sull'autismo la Giunta Proietti non metta il cappello sui fondi del Governo",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/08/lega-sullautismo-la-giunta-proietti-non-metta-il-cappello-sui-fondi-del_e6ddc327-f595-4de1-a4d4-b0bd2e42d729.html",
+     "data": "2026-08-08T10:10:39+00:00"
+    },
     {
      "titolo": "Umbria, Pil pro capite 13% sotto l'Italia ma benessere complessivo 10 punti sopra",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/08/umbria-pil-pro-capite-13-sotto-litalia-ma-benessere-complessivo-10-punti-sopra_2ea53a66-bc20-4d8f-9130-84218f4f0a14.html",
@@ -114,17 +119,17 @@
      "titolo": "Una persona ferita in una esplosione negli impianti sportivi di Pietralunga",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/07/una-persona-ferita-in-una-esplosione-negli-impianti-sportivi-di-pietralunga_78addd5a-12e2-41ef-bf9c-40c6fd7f4701.html",
      "data": "2026-08-07T10:12:20+00:00"
-    },
-    {
-     "titolo": "Emergenza calore, due strutture aperte per gli anziani a Foligno",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/06/emergenza-calore-due-strutture-aperte-per-gli-anziani-a-foligno_4dce3ddd-3207-46e9-bf48-4f00755483fa.html",
-     "data": "2026-08-06T17:30:53+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Il Presidente Mattarella in Alto Adige per qualche giorno di riposo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/il-presidente-mattarella-in-alto-adige-per-qualche-giorno-di-riposo_e3c65b0c-bdb3-4d60-944a-abfb9ad97ad1.html",
+     "data": "2026-08-08T10:11:57+00:00"
+    },
     {
      "titolo": "I funerali di Luigi Cavallari, marito della ministra Roccella",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/i-funerali-di-luigi-cavallari-marito-della-ministra-roccella_8ec991ad-af74-4399-b5b3-9d90b03e61dc.html",
@@ -179,11 +184,6 @@
      "titolo": "Fulmine colpisce sedicenne sul Monte Livata, è grave",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/fulmine-colpisce-sedicenne-sul-monte-livata-e-grave_8bb357ff-0be6-493c-9450-81014e9b0bb3.html",
      "data": "2026-08-08T08:20:07+00:00"
-    },
-    {
-     "titolo": "Ultraleggero con due persone a bordo cade nel Pordenonese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/ultraleggero-con-due-persone-a-bordo-cade-nel-pordenonese_b4435e8e-15d2-41b3-8808-85b59cc9bad9.html",
-     "data": "2026-08-07T19:40:47+00:00"
     }
    ]
   },
@@ -258,7 +258,7 @@
     {
      "titolo": "Codacons, su primo esodo estivo stangata carburanti da 370 milioni",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/codacons-su-primo-esodo-estivo-stangata-carburanti-da-370-milioni_1a1a7e7f-684e-4d10-a1a3-c1a13948a704.html",
-     "data": "2026-08-08T09:38:14+00:00"
+     "data": "2026-08-08T10:12:51+00:00"
     },
     {
      "titolo": "Confartigianato: allarme credito per le pmi, 'bruciati 34 miliardi in 7 anni'",
@@ -322,6 +322,26 @@
    "voci": [
     {
      "titolo": "L'ex presidente del Perù sostiene la grazia per Toledo, 'non deve morire in carcere'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/lex-presidente-del-peru-sostiene-la-grazia-per-toledo-non-deve_13f3fc8b-acc0-4b39-a16f-1ab7cd0abb58.html",
+     "data": "2026-08-08T10:17:22+00:00"
+    },
+    {
+     "titolo": "Media, continuano le incursioni israeliane in Cisgiordania",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/08/media-continuano-le-incursioni-israeliane-in-cisgiordania_c2aa5173-c846-4eba-8494-951fc517abe4.html",
+     "data": "2026-08-08T10:17:19+00:00"
+    },
+    {
+     "titolo": "Ong, in Venezuela altri due detenuti morti per mancanza di cure",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/ong-in-venezuela-altri-due-detenuti-morti-per-mancanza-di-cure_39fcf477-3739-442b-be20-e67a010017d7.html",
+     "data": "2026-08-08T10:14:25+00:00"
+    },
+    {
+     "titolo": "Drone proveniente dalla Romania esplode vicino a gasdotto bulgaro",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/drone-proveniente-dalla-romania-esplode-vicino-a-gasdotto-bulgaro_e033e162-9233-4318-aa81-e89eaf7f75b4.html",
+     "data": "2026-08-08T10:07:16+00:00"
+    },
+    {
+     "titolo": "L'ex presidente del Perù sostiene la grazia per Toledo, 'non deve morire in carcere'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/lex-presidente-del-peru-sostiene-la-grazia-per-toledo-non-deve_b523884a-a34f-4744-9cb0-0e8d8eeae200.html",
      "data": "2026-08-08T09:51:02+00:00"
     },
@@ -359,26 +379,6 @@
      "titolo": "Raid russi su Kiev, tre morti tra cui un bambino vicino alla capitale",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/raid-russi-su-kiev-tre-morti-tra-cui-un-bambino-vicino-alla_9de44aaa-df5a-4d5d-a98d-12f2891f1a3b.html",
      "data": "2026-08-08T00:21:52+00:00"
-    },
-    {
-     "titolo": "De la Espriella, 'in Colombia torneranno ordine, autorità e libertà'(2)",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/de-la-espriella-in-colombia-torneranno-ordine-autorita-e-liberta2_99ae286b-b715-48e7-9d17-7d72f192b994.html",
-     "data": "2026-08-08T00:14:56+00:00"
-    },
-    {
-     "titolo": "Cnn, 'il capo degli Stati maggiori Usa cerca una via d'uscita da guerra in Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/08/cnn-il-capo-degli-stati-maggiori-usa-cerca-una-via-duscita_c911e12c-3f51-405c-aec6-ecc8ec721964.html",
-     "data": "2026-08-07T23:34:51+00:00"
-    },
-    {
-     "titolo": "Lula attacca Rubio, 'odia il Brasile, Cuba e la Colombia, è un bolsonarista'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/lula-attacca-rubio-odia-il-brasile-cuba-e-la-colombia-e-un-bolsonarista_3876d7f0-8b37-4b31-9d90-255e5fb33195.html",
-     "data": "2026-08-07T22:38:39+00:00"
-    },
-    {
-     "titolo": "Kiev, 'stato di allerta aerea nella capitale, c'è la minaccia di droni nemici'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/kiev-stato-di-allerta-aerea-nella-capitale-ce-la-minaccia-di-droni-nemici_15ad4ccf-ecbf-41cf-867a-c68d74538257.html",
-     "data": "2026-08-07T22:03:47+00:00"
     }
    ]
   },
