@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-08T15:15:31.638755+00:00",
+ "aggiornato": "2026-08-08T15:51:57.698312+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Un cadavere trovato in un torrente in val d'Ossola",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/un-cadavere-trovato-in-un-torrente-in-val-dossola_3cc244b5-1670-4a6b-8f19-79ff1566de97.html",
+     "data": "2026-08-08T15:50:05+00:00"
+    },
+    {
      "titolo": "Litiga con i ciclisti e li investe, poi torna indietro per colpirli di nuovo: quattro feriti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/litiga-con-i-ciclisti-e-li-investe-poi-torna-indietro-per-colpirli-di-nuovo_42f2301b-b665-4e22-a744-ca37614dc090.html",
      "data": "2026-08-08T14:47:57+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Amb. Russia presso S.Sede, prepariamo la visita di monsignor Gallagher",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/amb.-russia-presso-s.sede-prepariamo-la-visita-di-monsignor-gallagher_5a8dbbcd-d686-4150-a787-1685a36dfc3a.html",
      "data": "2026-08-08T10:55:14+00:00"
-    },
-    {
-     "titolo": "Card. Reina, 'sarebbe sbagliato archiviare Spin Time con lo sgombero'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/card.-reina-sarebbe-sbagliato-archiviare-spin-time-con-lo-sgombero_54523ea3-5bd5-469e-b3f8-6aaf9d08febe.html",
-     "data": "2026-08-08T10:48:34+00:00"
     }
    ]
   },
@@ -251,9 +251,9 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Novità allo studio per il codice strada, da bici a multe e patente a 17 anni",
+     "titolo": "Patenti a 17 anni e modifiche alle multe, novità in arrivo al codice",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/novita-allo-studio-per-il-codice-strada-da-bici-a-multe-e-patente-a-17-anni_cf688690-85fd-4b27-abba-6f464b829f55.html",
-     "data": "2026-08-08T11:46:25+00:00"
+     "data": "2026-08-08T15:35:36+00:00"
     },
     {
      "titolo": "Codacons, su primo esodo estivo stangata carburanti da 370 milioni",
@@ -299,16 +299,6 @@
      "titolo": "Borsa: Milano chiude piatta a +0,06%, in luce Stm",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/borsa-milano-chiude-piatta-a-006-in-luce-stm_f82eb2bf-8757-4b86-94ce-3d571520701f.html",
      "data": "2026-08-07T15:47:32+00:00"
-    },
-    {
-     "titolo": "'Possibili crepe nella fusoliera', Usa ordinano ispezione sui Boeing 737 Max",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/possibili-crepe-nella-fusoliera-usa-ordinano-ispezione-sui-boeing-737_0db3291f-92fc-4d98-82d4-37c9f60625a6.html",
-     "data": "2026-08-07T15:37:41+00:00"
-    },
-    {
-     "titolo": "Nuovo sciopero alla Diageo, il 27 presidio in Assolombarda",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/nuovo-sciopero-alla-diageo-il-27-presidio-in-assolombarda_4d8ec2a7-813a-4d64-bcf5-58abb5143a33.html",
-     "data": "2026-08-07T15:16:07+00:00"
     }
    ]
   },
@@ -446,9 +436,29 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Europei di nuoto, tre argenti per l'Italia: Cosetti nei tuffi femminili da 20 metri e nella staffetta mista",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/08/europei-di-nuoto-tre-argenti-per-litalia-cosetti-nei-tuffi-femminili_e616e79c-59db-4e04-aa1e-47fdbbbc7f2c.html",
-     "data": "2026-08-08T15:08:18+00:00"
+     "titolo": "Europei di nuoto: Barnaba e Cosetti argento di coppia 'scritto nel destino'",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/08/europei-di-nuoto-barnaba-e-cosetti-argento-di-coppia-scritto-nel-destino_fe2bb7fc-04cc-4a9d-8907-47d5f65c4c80.html",
+     "data": "2026-08-08T15:41:32+00:00"
+    },
+    {
+     "titolo": "Canottaggio: oro per l'Italia ai Mondiali U19 nel due senza femminile",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/08/canottaggio-oro-per-litalia-ai-mondiali-u19-nel-due-senza-femminile_78bcfc08-bcbb-42e9-a19d-e7cab9a1ade6.html",
+     "data": "2026-08-08T15:24:10+00:00"
+    },
+    {
+     "titolo": "Amorim 'sapevamo che avremmo sofferto contro il Chelsea'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/amorim-sapevamo-che-avremmo-sofferto-contro-il-chelsea_7acaad62-20e5-4ac7-bbf1-e770ba5ffdeb.html",
+     "data": "2026-08-08T15:17:59+00:00"
+    },
+    {
+     "titolo": "Juve, Spalletti 'Inter più squadra di noi, serve lavoro'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/juve-spalletti-inter-piu-squadra-di-noi-serve-lavoro_82579022-4dc9-430a-83da-638e959b5ebd.html",
+     "data": "2026-08-08T15:16:35+00:00"
+    },
+    {
+     "titolo": "Europei di nuoto, tre medaglie d'argento per l'Italia: Cosetti e Barnaba nei tuffi da 20m e nella staffetta mista",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/08/europei-di-nuoto-tre-medaglie-dargento-per-litalia-cosetti-e-barnaba-nei_e616e79c-59db-4e04-aa1e-47fdbbbc7f2c.html",
+     "data": "2026-08-08T15:14:45+00:00"
     },
     {
      "titolo": "Europei di nuoto: argento per Barnaba nei tuffi maschili da 20 metri",
@@ -484,26 +494,6 @@
      "titolo": "Morto il papà di Messi, malato da tempo aveva 68 anni",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/morto-il-papa-di-messi-malato-da-tempo-aveva-68-anni_c489333e-5800-4dc9-8582-dcbe64f8968a.html",
      "data": "2026-08-08T12:56:12+00:00"
-    },
-    {
-     "titolo": "Europei di nuoto: Cosetti d'argento nei tuffi femminili da 20 metri",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/europei-di-nuoto-cosetti-dargento-nei-tuffi-femminili-da-20-metri_ae99b7a2-4c84-45e3-b2d3-ca0759b5d346.html",
-     "data": "2026-08-08T12:45:43+00:00"
-    },
-    {
-     "titolo": "Europei di nuoto: Elisa Cosetti d'argento nei tuffi femminili da 20 metri",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/08/europei-di-nuoto-elisa-cosetti-dargento-nei-tuffi-femminili-da-20-metri_2c0cbc2f-296d-497e-803a-41dfefe22b9a.html",
-     "data": "2026-08-08T12:48:06+00:00"
-    },
-    {
-     "titolo": "Atletica: Castellani da record, vola l'azzurrina ai mondiali U20",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/08/atletica-castellani-da-record-vola-lazzurrina-ai-mondiali-u20_b04c9e86-d91f-4cde-b91b-7bf3cc5b75dc.html",
-     "data": "2026-08-08T12:44:15+00:00"
-    },
-    {
-     "titolo": "Europei di Atletica, Furlani: 'Non sono al top, ma non vedo l'ora di scendere in pedana'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/08/furlani-non-sono-al-top-ma-non-vedo-lora-di-scendere-in-pedana_cb6d1818-d9b5-41a8-944f-a73526692ef6.html",
-     "data": "2026-08-08T11:46:59+00:00"
     }
    ]
   }
