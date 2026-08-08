@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-08T14:54:37.155992+00:00",
+ "aggiornato": "2026-08-08T15:15:31.638755+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Ucrania: El león rescatado de la guerra en Ucrania y llevado a EEUU está enfermo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/ucrania-el-leon-rescatado-de-la-guerra-en-ucrania-y-llevado-a-eeuu-esta-enfermo_1ae49515-ec68-4cfa-a546-f8ba120b81e5.html",
+     "data": "2026-08-08T14:55:16+00:00"
+    },
+    {
+     "titolo": "Sofia, 'il drone esploso in Bulgaria era di un tipo ampiamente usato da Kiev'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/sofia-il-drone-esploso-in-bulgaria-era-di-un-tipo-ampiamente-usato-da-kiev_961005a0-7368-4c5a-8ae0-98b3286e29d7.html",
+     "data": "2026-08-08T14:52:53+00:00"
+    },
     {
      "titolo": "Il leone salvato dalla guerra in Ucraina e portato negli Usa è malato",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/il-leone-salvato-dalla-guerra-in-ucraina-e-portato-negli-usa-e-malato_590e1550-6ff6-4e27-b340-88827a45591d.html",
@@ -44,16 +54,6 @@
      "titolo": "Pasdaran, 'riapriremo Hormuz appena Usa accetteranno le nostre condizioni'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/pasdaran-riapriremo-hormuz-appena-usa-accetteranno-le-nostre-condizioni_3bb8f885-544a-433e-a319-217251592b56.html",
      "data": "2026-08-08T11:06:42+00:00"
-    },
-    {
-     "titolo": "Missile colpisce nave emiratina nello Stretto di Hormuz, 'nessun ferito'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/missile-colpisce-nave-emiratina-nello-stretto-di-hormuz-nessun-ferito_e9b9aa50-29ed-4d37-9100-0227b4009781.html",
-     "data": "2026-08-08T11:00:23+00:00"
-    },
-    {
-     "titolo": "Drone proveniente dalla Romania esplode vicino a gasdotto bulgaro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/drone-proveniente-dalla-romania-esplode-vicino-a-gasdotto-bulgaro_b15584b9-0f41-4454-a2b1-1497ceee4e5e.html",
-     "data": "2026-08-08T10:06:58+00:00"
     }
    ]
   },
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Pressing del Vaticano su Mosca, Gallagher prepara la missione",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/pressing-del-vaticano-su-mosca-gallagher-prepara-la-missione_2306ac83-a2b1-4104-bd4a-0c0bbbf3727e.html",
+     "data": "2026-08-08T15:06:40+00:00"
+    },
+    {
      "titolo": "Proteste e tensioni, a Marcinelle la cerimonia delle divisioni",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/proteste-e-tensioni-a-marcinelle-la-cerimonia-delle-divisioni-_6592c2a5-e115-45c8-be49-bb1ad1956859.html",
      "data": "2026-08-08T14:20:44+00:00"
@@ -311,6 +316,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ucrania: El león rescatado de la guerra en Ucrania y llevado a EEUU está enfermo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/ucrania-el-leon-rescatado-de-la-guerra-en-ucrania-y-llevado-a-eeuu-esta-enfermo_d8cdd62a-b087-4a24-84d4-759fcc45df5e.html",
+     "data": "2026-08-08T14:55:37+00:00"
+    },
+    {
      "titolo": "Sofia, 'il drone esploso in Bulgaria era di un tipo ampiamente usato da Kiev'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/sofia-il-drone-esploso-in-bulgaria-era-di-un-tipo-ampiamente-usato-da-kiev_a3352e96-bd6b-4ef5-b69b-6f0db14aa5fc.html",
      "data": "2026-08-08T14:52:57+00:00"
@@ -364,11 +374,6 @@
      "titolo": "Morto il papà di Messi, malato da tempo aveva 68 anni",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/morto-il-papa-di-messi-malato-da-tempo-aveva-68-anni_8a976af7-ff2c-40ec-8cec-55ac6e3876e6.html",
      "data": "2026-08-08T14:10:07+00:00"
-    },
-    {
-     "titolo": "Nicaragua, Murillo attacca gli oppositori 'sono spazzatura e traditori'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/nicaragua-murillo-attacca-gli-oppositori-sono-spazzatura-e-traditori_6a53a785-52e1-46ec-bac9-668c5a537197.html",
-     "data": "2026-08-08T12:44:36+00:00"
     }
    ]
   },
@@ -441,19 +446,29 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei di nuoto, tre argenti per l'Italia: Cosetti nei tuffi femminili da 20 metri e nella staffetta mista",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/08/europei-di-nuoto-tre-argenti-per-litalia-cosetti-nei-tuffi-femminili_e616e79c-59db-4e04-aa1e-47fdbbbc7f2c.html",
+     "data": "2026-08-08T15:08:18+00:00"
+    },
+    {
+     "titolo": "Europei di nuoto: argento per Barnaba nei tuffi maschili da 20 metri",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/08/europei-di-nuoto-argento-per-barnaba-nei-tuffi-maschili-da-20-metri_71e6f5bb-a59b-4861-a9e1-0c01dcb95081.html",
+     "data": "2026-08-08T15:03:46+00:00"
+    },
+    {
      "titolo": "Chelsea travolge il Milan, 3-0 con doppietta di Joao Pedro",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/chelsea-travolge-il-milan-3-0-con-doppietta-di-joao-pedro_fa8035e4-10d9-4ca9-a905-d1ac3616674e.html",
-     "data": "2026-08-08T14:22:07+00:00"
+     "data": "2026-08-08T14:59:51+00:00"
     },
     {
      "titolo": "Europei Atletica: l'Italia vola a Birmingham a caccia di medaglie",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/08/europei-atletica-litalia-vola-a-birmingham-a-caccia-di-medaglie_abbf7778-3bcd-4daa-8711-e449a91abc73.html",
-     "data": "2026-08-08T14:11:08+00:00"
+     "data": "2026-08-08T15:04:04+00:00"
     },
     {
      "titolo": "Marchand rinuncia per infortunio ai 200 e 400 m misti",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/08/marchand-rinuncia-per-infortunio-ai-200-e-400-m-misti_a7c81d97-1536-42bf-b668-d516949509c2.html",
-     "data": "2026-08-08T13:54:06+00:00"
+     "data": "2026-08-08T15:01:56+00:00"
     },
     {
      "titolo": "Il derby d'Italia è dell'Inter, Juve battuta 2-1 a Perth",
@@ -464,11 +479,6 @@
      "titolo": "Mancata partenza Nazionale Powerchair Football, l'Autorità Garante diffida EasyJet",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/08/mancata-partenza-nazionale-powerchair-football-lautorita-garante-diffida-easyjet_66f19ae0-962c-4ffc-823b-af60ad22f252.html",
      "data": "2026-08-08T13:06:54+00:00"
-    },
-    {
-     "titolo": "Europei di nuoto, doppio argento per l'Italia: Cosetti nei tuffi femminili da 20 metri e nella staffetta mista",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/08/europei-di-nuoto-doppio-argento-per-litalia-cosetti-nei-tuffi-femminili_e616e79c-59db-4e04-aa1e-47fdbbbc7f2c.html",
-     "data": "2026-08-08T13:35:35+00:00"
     },
     {
      "titolo": "Morto il papà di Messi, malato da tempo aveva 68 anni",
@@ -494,11 +504,6 @@
      "titolo": "Europei di Atletica, Furlani: 'Non sono al top, ma non vedo l'ora di scendere in pedana'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/08/furlani-non-sono-al-top-ma-non-vedo-lora-di-scendere-in-pedana_cb6d1818-d9b5-41a8-944f-a73526692ef6.html",
      "data": "2026-08-08T11:46:59+00:00"
-    },
-    {
-     "titolo": "Premier League: Guimaraes va all'Arsenal per 75 milioni di sterline",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/guimaraes-va-allarsenal-per-75-milioni-di-sterline_73791ca7-037c-4ea9-b042-2a1b282563f2.html",
-     "data": "2026-08-08T11:44:58+00:00"
     }
    ]
   }
