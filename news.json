@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-08T16:58:03.420008+00:00",
+ "aggiornato": "2026-08-08T17:23:30.888311+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Un cittadino tedesco rapito in Niger affidato all'esercito algerino",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/un-cittadino-tedesco-rapito-in-niger-affidato-allesercito-algerino_a87d3f7a-e4e7-441e-b948-a30587743fe9.html",
+     "data": "2026-08-08T17:03:49+00:00"
+    },
+    {
+     "titolo": "Drone ucraino esploso in Bulgaria, Sofia convoca l'ambasciatore di Kiev",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/drone-ucraino-esploso-in-bulgaria-sofia-convoca-lambasciatore-di-kiev_ce94c895-526d-48e2-871e-f297f2f3a59d.html",
+     "data": "2026-08-08T17:01:28+00:00"
+    },
     {
      "titolo": "Ue a Roma e Madrid, 'fiducia tra Stati è la risorsa più preziosa'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/ue-a-roma-e-madrid-fiducia-tra-stati-e-la-risorsa-piu-preziosa_6368f1b8-a448-4178-a37b-25010854dc81.html",
@@ -44,22 +54,17 @@
      "titolo": "Zelensky, 'a Kiev ucciso un bimbo di 3 anni e i suoi nonni'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/zelensky-a-kiev-ucciso-un-bimbo-di-3-anni-e-i-suoi-nonni_e35ee7ef-283b-478f-b2c7-1f0bbfb78be5.html",
      "data": "2026-08-08T13:50:29+00:00"
-    },
-    {
-     "titolo": "Europei di nuoto: Cosetti d'argento nei tuffi femminili da 20 metri",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/europei-di-nuoto-cosetti-dargento-nei-tuffi-femminili-da-20-metri_b56207a8-8944-48a6-a733-52c84e3401c9.html",
-     "data": "2026-08-08T12:45:39+00:00"
-    },
-    {
-     "titolo": "Zelensky a Belgrado, l'Ucraina non ha più centrali elettriche intatte",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/zelensky-a-belgrado-lucraina-non-ha-piu-centrali-elettriche-intatte_a9f593d2-77d4-497b-be0b-388c2169103e.html",
-     "data": "2026-08-08T12:41:45+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "A Perugia la festa di San Lorenzo, martire e diacono, titolare della cattedrale",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/08/a-perugia-la-festa-di-san-lorenzo-martire-e-diacono-titolare-della-cattedrale_5175109d-eb4c-4a72-a69e-30975ef02569.html",
+     "data": "2026-08-08T17:13:10+00:00"
+    },
     {
      "titolo": "'Tutto tranquillo' all'aeroporto dell'Umbria con i voli dalla Spagna",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/08/tutto-tranquillo-allaeroporto-dellumbria-con-i-voli-dalla-spagna_5eb26c02-864e-4d1e-85df-3dee4e275d5d.html",
@@ -114,17 +119,17 @@
      "titolo": "Borgonzoni, 13,4 milioni per l'Umbria con il piano grandi progetti beni culturali",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/07/borgonzoni-134-milioni-per-lumbria-con-il-piano-grandi-progetti-beni_05831c16-f701-4539-b585-fd9cd99b395b.html",
      "data": "2026-08-07T15:27:52+00:00"
-    },
-    {
-     "titolo": "Sollecito, Il nuovo spettacolo di Amanda? approccio che non condivido",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/07/sollecito-il-nuovo-spettacolo-di-amanda-approccio-che-non-condivido_c8c8489d-c9a8-4f54-95c1-ae3715260e8a.html",
-     "data": "2026-08-07T14:47:13+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Donna uccisa a luglio a Torino, ex compagno resta in carcere",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/donna-uccisa-a-luglio-a-torino-ex-compagno-resta-in-carcere_5bea0b16-ae01-4b71-b3cc-3619613dbd51.html",
+     "data": "2026-08-08T16:57:50+00:00"
+    },
     {
      "titolo": "Restano in cella i vigili di Milano: 'Possono inquinare le prove'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/restano-in-cella-i-vigili-di-milano-possono-inquinare-le-prove_7065be0c-6acc-4333-b681-df83a0bc3314.html",
@@ -138,7 +143,7 @@
     {
      "titolo": "L'addio a Francesco Guccini nella sua Pavana: 'Buon viaggio babbo'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/laddio-a-francesco-guccini-nella-sua-pavana-buon-viaggio-babbo_fed404f7-ec81-4d8c-af9c-8008f78a155c.html",
-     "data": "2026-08-08T16:36:06+00:00"
+     "data": "2026-08-08T17:01:41+00:00"
     },
     {
      "titolo": "Zuppi, 'servono giganti come Guccini, uomini dal cuore grande'",
@@ -179,11 +184,6 @@
      "titolo": "Pregliasco, 'caldo in Italia potrebbero provocare fino a 8mila morti in più'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/pregliasco-caldo-in-italia-potrebbero-provocare-fino-a-8mila-morti-in-piu_ab7da60f-7a95-4ca9-be43-3f91f9d97098.html",
      "data": "2026-08-08T13:13:43+00:00"
-    },
-    {
-     "titolo": "Iniziate le vacanze in Alto Adige per il Presidente della Repubblica",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/iniziate-le-vacanze-in-alto-adige-per-il-presidente-della-repubblica_d4130fbf-2723-4de7-816a-6562d98d9a12.html",
-     "data": "2026-08-08T12:38:30+00:00"
     }
    ]
   },
@@ -301,6 +301,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Un cittadino tedesco rapito in Niger affidato all'esercito algerino",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/08/un-cittadino-tedesco-rapito-in-niger-affidato-allesercito-algerino_1f8fcc55-1f40-49cd-bc39-073dc050044f.html",
+     "data": "2026-08-08T17:04:15+00:00"
+    },
+    {
+     "titolo": "Drone ucraino esploso in Bulgaria, Sofia convoca l'ambasciatore di Kiev",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/drone-ucraino-esploso-in-bulgaria-sofia-convoca-lambasciatore-di-kiev_1dd84cf9-66e1-429a-97c0-3d5aee8da1ab.html",
+     "data": "2026-08-08T17:01:41+00:00"
+    },
+    {
      "titolo": "Ue a Roma e Madrid, 'fiducia tra Stati è la risorsa più preziosa'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/ue-a-roma-e-madrid-fiducia-tra-stati-e-la-risorsa-piu-preziosa_7cf379c3-4068-4074-a420-74ad71019c07.html",
      "data": "2026-08-08T16:24:31+00:00"
@@ -349,16 +359,6 @@
      "titolo": "Pezeshkian, le minacce Usa sono la continuazione della stessa mentalità di Hiroshima",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/08/pezeshkian-le-minacce-usa-sono-la-continuazione-della-stessa-mentalita-di-hiroshima_e7bea56b-05ea-45e5-9839-e50f4f67d49c.html",
      "data": "2026-08-08T13:49:11+00:00"
-    },
-    {
-     "titolo": "Spagna, i controlli negli aeroporti non stanno provocando file o disagi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/spagna-i-controlli-negli-aeroporti-non-stanno-provocando-file-o-disagi_00385cae-2a17-4ff8-9f6c-7bc491a4d644.html",
-     "data": "2026-08-08T13:48:24+00:00"
-    },
-    {
-     "titolo": "Ong, '141 morti a Ceuta e Melilla, oltre 3.500 migranti nascosti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/08/ong-141-morti-a-ceuta-e-melilla-oltre-3.500-migranti-nascosti_29f4d565-7430-4875-aac8-34721842d796.html",
-     "data": "2026-08-08T13:32:06+00:00"
     }
    ]
   },
@@ -431,6 +431,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Amichevole a Gelsenkirchen, 3-0 dell'Atalanta allo Schalke 04",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/amichevole-a-gelsenkirchen-3-0-dellatalanta-allo-schalke-04_fa4f6aec-2c1a-4441-829d-e167e8eb618d.html",
+     "data": "2026-08-08T17:02:03+00:00"
+    },
+    {
      "titolo": "Gasperini 'partita pessima col Brighton manca qualcosa dal mercato'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/gasperini-partita-pessima-col-brighton-manca-qualcosa-dal-mercato_ee0dfb32-0e56-4e19-b27d-8ea1bc570169.html",
      "data": "2026-08-08T16:52:47+00:00"
@@ -441,9 +446,9 @@
      "data": "2026-08-08T16:47:02+00:00"
     },
     {
-     "titolo": "La Roma chiude male il ritiro, ko 3-0 con il Brighton",
+     "titolo": "Calcio: Roma ko a Brighton, Gasperini: 'Dal mercato manca qualcosa'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/la-roma-chiude-male-il-ritiro-ko-3-0-con-il-brighton_36454960-ef8c-490d-9d7d-b21bc1b2306a.html",
-     "data": "2026-08-08T16:30:24+00:00"
+     "data": "2026-08-08T17:13:18+00:00"
     },
     {
      "titolo": "Ciclismo: Pellizzari vince l'ultima tappa della Vuelta a Burgos",
@@ -484,11 +489,6 @@
      "titolo": "Il Milan non tira in porta e il Chelsea lo travolge 3-0",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/chelsea-travolge-il-milan-3-0-con-doppietta-di-joao-pedro_fa8035e4-10d9-4ca9-a905-d1ac3616674e.html",
      "data": "2026-08-08T16:33:17+00:00"
-    },
-    {
-     "titolo": "Europei Atletica: l'Italia vola a Birmingham a caccia di medaglie",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/08/europei-atletica-litalia-vola-a-birmingham-a-caccia-di-medaglie_abbf7778-3bcd-4daa-8711-e449a91abc73.html",
-     "data": "2026-08-08T15:04:04+00:00"
     }
    ]
   }
