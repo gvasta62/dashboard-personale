@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-08T07:25:32.311708+00:00",
+ "aggiornato": "2026-08-08T08:04:38.111128+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Scambio di provetta, impiantato l'embrione sbagliato al San Raffaele di Milano",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/scambio-di-provetta-impiantato-lembrione-sbagliato-al-san-raffaele-di-milano_50c404b5-fd1b-46ef-8e23-9b916162c64a.html",
+     "data": "2026-08-08T07:37:36+00:00"
+    },
     {
      "titolo": "Confesercenti, la mappa del Pil 2026: prima Bolzano +1,8%, frena Valle d'Aosta -0,1%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/confesercenti-la-mappa-del-pil-2026-prima-bolzano-18-frena-valle-daosta_2a473155-2da9-4ebc-9e6f-5299a59c30d5.html",
@@ -49,11 +54,6 @@
      "titolo": "Trump chiede alla procuratrice di riaprire il caso della vasca del Lincoln Memorial",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/trump-chiede-alla-procuratrice-di-riaprire-il-caso-della-vasca-del-lincoln_b0166f8a-db4f-4732-9617-f9256f34409a.html",
      "data": "2026-08-07T21:34:53+00:00"
-    },
-    {
-     "titolo": "Usa, 'ci aspettiamo un accordo a breve con l'Iran, poi via il blocco navale'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/usa-ci-aspettiamo-un-accordo-a-breve-con-liran-poi-via-il-blocco-navale_a09545a2-6b93-476b-afc2-f4aa720d22c8.html",
-     "data": "2026-08-07T21:30:01+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Scambio di provetta, impiantato l'embrione sbagliato al San Raffaele di Milano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/scambio-di-provetta-impiantato-lembrione-sbagliato-al-san-raffaele-di-milano_e238856f-f652-45ff-8b6b-08462d38032e.html",
+     "data": "2026-08-08T07:40:27+00:00"
+    },
+    {
      "titolo": "Ingv, tracimazione dall'area craterica Nord dello Stromboli",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/ingv-tracimazione-dallarea-craterica-nord-dello-stromboli_7222d7ed-eb86-4d46-a500-d760e1fd40de.html",
      "data": "2026-08-08T07:04:29+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Campi Flegrei: ancora proteste, corteo al porto di Pozzuoli",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/campi-flegrei-ancora-proteste-corteo-al-porto-di-pozzuoli_bc3a2226-818e-442d-b4ba-8cd0c3fe8885.html",
      "data": "2026-08-07T18:32:49+00:00"
-    },
-    {
-     "titolo": "I vigili urbani respingono le accuse, analisi sui cellulari",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/i-vigili-urbani-respingono-le-accuse-analisi-sui-cellulari-_7065be0c-6acc-4333-b681-df83a0bc3314.html",
-     "data": "2026-08-07T18:22:20+00:00"
     }
    ]
   },
@@ -441,6 +441,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Tennis: Toronto; settima vittoria di fila per talento Filippine Eala",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/08/tennis-toronto-settima-vittoria-di-fila-per-talento-filippine-eala_e2d7420c-d447-43b1-9fe3-67368757a0ab.html",
+     "data": "2026-08-08T07:58:10+00:00"
+    },
+    {
      "titolo": "Fifa: in Colombia Infantino riceve il sostegno del calcio sudamericano",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/07/fifa-in-colombia-infantino-riceve-il-sostegno-del-calcio-sudamericano_104d4a94-98dc-4d22-9895-65479c65fde9.html",
      "data": "2026-08-07T21:16:16+00:00"
@@ -494,11 +499,6 @@
      "titolo": "Paure, sorrisi e tuffi d'oro. Il magnifico mondo di Chiara Pellacani",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/07/paure-sorrisi-e-tuffi-doro.-il-magnifico-mondo-di-chiara-pellacani_708d9fa8-602a-4e69-a987-d7fba5a13c61.html",
      "data": "2026-08-07T15:11:19+00:00"
-    },
-    {
-     "titolo": "Pallavolo: la Final Four degli Europei si giocherà al Forum di Assago",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/07/pallavolo-la-final-four-degli-europei-si-giochera-al-forum-di-assago_fe462275-0903-48be-abba-28a2050ac5c7.html",
-     "data": "2026-08-07T14:51:42+00:00"
     }
    ]
   }
