@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-08T21:51:43.065464+00:00",
+ "aggiornato": "2026-08-08T22:13:42.014038+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "'Pentagono ha chiesto alle industrie della difesa di accelerare la produzione di armi'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/pentagono-ha-chiesto-alle-industrie-della-difesa-di-accelerare-la-produzione-di-armi_efdbcc71-75a2-46a8-a8df-f4921a0a64a1.html",
+     "data": "2026-08-08T22:07:00+00:00"
+    },
+    {
+     "titolo": "La British Columbia dichiara lo stato d'emergenza per i roghi, 20.000 evacuati",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/la-british-columbia-dichiara-lo-stato-demergenza-per-i-roghi-20.000-evacuati_9ed0b6c8-25cd-4754-8f6d-089251c561f6.html",
+     "data": "2026-08-08T21:56:24+00:00"
+    },
     {
      "titolo": "I candidati politici Lgbtq+ in Quebec segnalano un'ondata di odio online",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/i-candidati-politici-lgbtq-in-quebec-segnalano-unondata-di-odio-online_878f1753-f9e5-4de1-ad07-d8e17bdf1149.html",
@@ -44,16 +54,6 @@
      "titolo": "Un cittadino tedesco rapito in Niger affidato all'esercito algerino",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/un-cittadino-tedesco-rapito-in-niger-affidato-allesercito-algerino_a87d3f7a-e4e7-441e-b948-a30587743fe9.html",
      "data": "2026-08-08T17:03:49+00:00"
-    },
-    {
-     "titolo": "Drone ucraino esploso in Bulgaria, Sofia convoca l'ambasciatore di Kiev",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/drone-ucraino-esploso-in-bulgaria-sofia-convoca-lambasciatore-di-kiev_ce94c895-526d-48e2-871e-f297f2f3a59d.html",
-     "data": "2026-08-08T17:01:28+00:00"
-    },
-    {
-     "titolo": "Ue a Roma e Madrid, 'fiducia tra Stati è la risorsa più preziosa'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/ue-a-roma-e-madrid-fiducia-tra-stati-e-la-risorsa-piu-preziosa_6368f1b8-a448-4178-a37b-25010854dc81.html",
-     "data": "2026-08-08T16:24:06+00:00"
     }
    ]
   },
@@ -276,6 +276,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "La British Columbia dichiara lo stato d'emergenza per i roghi, 20.000 evacuati",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/la-british-columbia-dichiara-lo-stato-demergenza-per-i-roghi-20.000-evacuati_e733efe1-70db-4b4b-9112-24788f122f9d.html",
+     "data": "2026-08-08T21:56:38+00:00"
+    },
+    {
+     "titolo": "Machado celebra la libertà di Afiuni dopo 16 anni, 'avanti fino alla fine'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/machado-celebra-la-liberta-di-afiuni-dopo-16-anni-avanti-fino-alla-fine_70a29027-ecf4-4c6f-97a5-261b98b6243a.html",
+     "data": "2026-08-08T21:51:42+00:00"
+    },
+    {
      "titolo": "I candidati politici Lgbtq+ in Quebec segnalano un'ondata di odio online",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/i-candidati-politici-lgbtq-in-quebec-segnalano-unondata-di-odio-online_cc360c39-25ac-4522-86df-bd005b524012.html",
      "data": "2026-08-08T21:48:07+00:00"
@@ -324,16 +334,6 @@
      "titolo": "Drone ucraino esploso in Bulgaria, Sofia convoca l'ambasciatore di Kiev",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/drone-ucraino-esploso-in-bulgaria-sofia-convoca-lambasciatore-di-kiev_1dd84cf9-66e1-429a-97c0-3d5aee8da1ab.html",
      "data": "2026-08-08T17:01:41+00:00"
-    },
-    {
-     "titolo": "Ue a Roma e Madrid, 'fiducia tra Stati è la risorsa più preziosa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/ue-a-roma-e-madrid-fiducia-tra-stati-e-la-risorsa-piu-preziosa_7cf379c3-4068-4074-a420-74ad71019c07.html",
-     "data": "2026-08-08T16:24:31+00:00"
-    },
-    {
-     "titolo": "Dal Danubio in secca riemergono le navi della flotta di Hitler",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/dal-danubio-in-secca-riemergono-le-navi-della-flotta-di-hitler_f661f3b0-3d14-493b-b165-1540c1f4cee1.html",
-     "data": "2026-08-08T16:15:25+00:00"
     }
    ]
   },
