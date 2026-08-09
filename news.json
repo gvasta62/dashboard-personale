@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-09T17:53:52.936704+00:00",
+ "aggiornato": "2026-08-09T18:19:42.036519+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Zelensky 'la prossima settimana nuovi contatti coi mediatori per la pace'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/zelensky-la-prossima-settimana-nuovi-contatti-coi-mediatori-per-la-pace_613a4c01-c1f6-4de3-9c00-dbf8c9b2748f.html",
+     "data": "2026-08-09T18:09:51+00:00"
+    },
     {
      "titolo": "Trump, 'sull'Iran sto mantendo un profilo basso'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/trump-sulliran-sto-mantendo-un-profilo-basso_c696bca4-a45a-4ce1-bf0a-e062dbfb5593.html",
@@ -49,11 +54,6 @@
      "titolo": "Milioni di chili di cibo in decomposizione, un quartiere di Los Angeles soffoca",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/milioni-di-chili-di-cibo-in-decomposizione-un-quartiere-di-los-angeles-soffoca_16f17cd5-6b3c-4891-ae9c-d6568cdad5a7.html",
      "data": "2026-08-09T15:12:36+00:00"
-    },
-    {
-     "titolo": "Esodo estivo, oltre 22 milioni di veicoli sulla rete, traffico regolare",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/esodo-estivo-oltre-22-milioni-di-veicoli-sulla-rete-traffico-regolare_21d3e07a-ab02-47cb-a166-b333319f1f3a.html",
-     "data": "2026-08-09T15:03:08+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Tajani: 'I controlli restano fino al 15 agosto, rischio terrorismo'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/tajani-i-controlli-restano-fino-al-15-agosto-rischio-terrorismo_7c2fb4ec-5111-4cea-939f-ee71c6d38359.html",
+     "data": "2026-08-09T18:02:42+00:00"
+    },
+    {
      "titolo": "Travolto dal gommone, regista 29enne muore nel mare di Lampedusa",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/-travolto-dal-gommone-regista-29enne-muore-nel-mare-di-lampedusa-_5bd47e66-b190-4354-b5cf-9e1f609d183b.html",
      "data": "2026-08-09T17:40:49+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Cgil Verona alla sovrintendente dell'Arena, 'è più caldo di 50 anni fa'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/cgil-verona-alla-sovrintendente-dellarena-e-piu-caldo-di-50-anni-fa_fa4b8a8f-26e1-4f1e-a8f9-142045031eaa.html",
      "data": "2026-08-09T12:56:27+00:00"
-    },
-    {
-     "titolo": "Bimbo di tre anni investito, muore in ospedale dopo tre giorni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/bimbo-di-tre-anni-investito-muore-in-ospedale-dopo-tre-giorni_516c11b0-3e18-494a-b5ea-3171496612c5.html",
-     "data": "2026-08-09T13:35:15+00:00"
     }
    ]
   },
@@ -266,6 +266,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Nuovo appello del Papa: 'Basta violenze in Ucraina e Russia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/nuovo-appello-del-papa-basta-violenze-in-ucraina-e-russia_7438b242-98a9-4bf4-87f6-9f68cf124c64.html",
+     "data": "2026-08-09T18:13:09+00:00"
+    },
+    {
+     "titolo": "Zelensky 'la prossima settimana nuovi contatti coi mediatori per la pace'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/zelensky-la-prossima-settimana-nuovi-contatti-coi-mediatori-per-la-pace_e391b130-9fc1-4890-aeef-c86548bcaef4.html",
+     "data": "2026-08-09T18:09:53+00:00"
+    },
+    {
      "titolo": "Trump, 'sull'Iran sto mantendo un profilo basso'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/trump-sulliran-sto-mantendo-un-profilo-basso_546d32c5-03fd-4feb-af0c-f685c515a37e.html",
      "data": "2026-08-09T17:46:58+00:00"
@@ -314,16 +324,6 @@
      "titolo": "Quinta ondata di caldo estremo in Gb, si aggrava l'allarme siccità",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/quinta-ondata-di-caldo-estremo-in-gb-si-aggrava-lallarme-siccita_3db0d9ad-982a-482e-b0a9-6ac56f5b8663.html",
      "data": "2026-08-09T14:58:08+00:00"
-    },
-    {
-     "titolo": "Messico, 1.700 uomini della Marina contro la violenza a Mazatlán",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/messico-1.700-uomini-della-marina-contro-la-violenza-a-mazatlan_e8429e71-36b6-4ba3-8f2f-539e5b1711e7.html",
-     "data": "2026-08-09T13:48:23+00:00"
-    },
-    {
-     "titolo": "Petro, hanno deciso negli Usa di non far cadere i capi dei narcos",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/petro-hanno-deciso-negli-usa-di-non-far-cadere-i-capi-dei_16b27274-b29c-482e-ab83-97a3124eed9f.html",
-     "data": "2026-08-09T13:23:36+00:00"
     }
    ]
   },
