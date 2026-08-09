@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-09T11:51:15.518017+00:00",
+ "aggiornato": "2026-08-09T12:20:23.697268+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,9 +126,19 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Sindacato medici, 'in estate accessi al pronto soccorso aumentano del 15%'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/sindacato-medici-in-estate-accessi-al-pronto-soccorso-aumentano-del-15_9b59cf4d-835b-4b77-ac1d-8fcdefe95d5a.html",
+     "data": "2026-08-09T11:45:30+00:00"
+    },
+    {
      "titolo": "Litiga con i ciclisti e li investe, 'chiedo perdono ai familiari'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/litiga-con-i-ciclisti-e-li-investe-chiedo-perdono-ai-familiari_3eb5fb20-cb16-43ec-9e3f-1db4294f190b.html",
      "data": "2026-08-09T11:28:48+00:00"
+    },
+    {
+     "titolo": "Litiga con i ciclisti e li investe, 'chiedo perdono ai familiari'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/litiga-con-i-ciclisti-e-li-investe-chiedo-perdono-ai-familiari_ff766237-0e3a-481d-8a40-643d6aef8946.html",
+     "data": "2026-08-09T11:47:30+00:00"
     },
     {
      "titolo": "Incendi ancora attivi sul Carso tra Trieste e Gorizia",
@@ -174,16 +184,6 @@
      "titolo": "Etna: esplosioni e colate ad alta quota, verso normalità l'aeroporto di Catania",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/etna-esplosioni-e-colate-ad-alta-quota-verso-normalita-laeroporto-di-catania_636e8738-f27f-4e30-8aac-b817b1b50026.html",
      "data": "2026-08-09T10:06:54+00:00"
-    },
-    {
-     "titolo": "Vede un ladro in casa con la telecamera da remoto e lo fa arrestare",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/vede-un-ladro-in-casa-con-la-telecamera-da-remoto-e-lo-fa-arrestare_13e96f8f-16b8-41ff-9849-5369ca06e14e.html",
-     "data": "2026-08-09T09:01:54+00:00"
-    },
-    {
-     "titolo": "Ex Ilva, 13enne malato a Decaro 'Perché vuoi tenere aperto il mostro?'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/ex-ilva-13enne-malato-a-decaro-perche-vuoi-tenere-aperto-il-mostro_04c5d9ac-c9cd-4bb5-b67a-c998a9889507.html",
-     "data": "2026-08-09T10:02:34+00:00"
     }
    ]
   },
@@ -311,9 +311,9 @@
      "data": "2026-08-09T09:45:51+00:00"
     },
     {
-     "titolo": "Teheran: 'Se Usa non correggeranno il loro comportamento Hormuz resterà chiuso'",
+     "titolo": "Media Iran, 'Mojtaba Khamenei ha incontrato il presidente Pezeshkian'",
      "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/09/teheran-se-usa-non-correggeranno-il-loro-comportamento-hormuz-restera-chiuso_ad725f93-64e6-4cdf-91d4-fe3cd4a442b6.html",
-     "data": "2026-08-09T11:08:27+00:00"
+     "data": "2026-08-09T11:51:32+00:00"
     },
     {
      "titolo": "Metsola, 'il popolo della Bielorussia sarà libero, Ue al suo fianco'",
@@ -406,6 +406,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei atletica: Maria Perez sfida l'amica Palmisano, \"è la mia motivazione\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/europei-atletica-maria-perez-sfida-lamica-palmisano-e-la-mia-motivazione_dd11ddcf-8fc7-436c-ae42-c3689fc0f90d.html",
+     "data": "2026-08-09T12:05:21+00:00"
+    },
+    {
      "titolo": "Canottaggio: Mondiali U19, oro per l'Italia con Alizee Ribolzi nel singolo donne",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/canottaggio-mondiali-u19-oro-per-litalia-con-alizee-ribolzi-nel_6a1caa65-59f0-4e5f-b32a-39d9754fc8ac.html",
      "data": "2026-08-09T10:42:34+00:00"
@@ -459,11 +464,6 @@
      "titolo": "Calciomercato: Lukaku verso la Turchia, la Lazio stringe per Ivanovic",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/08/calciomercato-lukaku-verso-la-turchia-la-lazio-stringe-per-ivanovic_61cce3f9-296b-4279-ba73-c35c5d9ef342.html",
      "data": "2026-08-08T17:58:56+00:00"
-    },
-    {
-     "titolo": "Calcio: Atalanta brillante un tempo, Schalke battuto 3-0",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/amichevole-a-gelsenkirchen-3-0-dellatalanta-allo-schalke-04_fa4f6aec-2c1a-4441-829d-e167e8eb618d.html",
-     "data": "2026-08-08T22:29:10+00:00"
     }
    ]
   }
