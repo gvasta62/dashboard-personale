@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-09T14:57:40.158039+00:00",
+ "aggiornato": "2026-08-09T15:23:52.993780+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Milioni di chili di cibo in decomposizione, un quartiere di Los Angeles soffoca",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/milioni-di-chili-di-cibo-in-decomposizione-un-quartiere-di-los-angeles-soffoca_16f17cd5-6b3c-4891-ae9c-d6568cdad5a7.html",
+     "data": "2026-08-09T15:12:36+00:00"
+    },
+    {
+     "titolo": "Esodo estivo, oltre 22 milioni di veicoli sulla rete, traffico regolare",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/esodo-estivo-oltre-22-milioni-di-veicoli-sulla-rete-traffico-regolare_21d3e07a-ab02-47cb-a166-b333319f1f3a.html",
+     "data": "2026-08-09T15:03:08+00:00"
+    },
+    {
+     "titolo": "Quinta ondata di caldo estremo in Gb, si aggrava l'allarme siccità",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/quinta-ondata-di-caldo-estremo-in-gb-si-aggrava-lallarme-siccita_68bd58fa-24c5-4c33-90e5-9a528c4db4a7.html",
+     "data": "2026-08-09T14:58:04+00:00"
+    },
     {
      "titolo": "Furgone con braccianti si ribalta nel Foggiano, un morto e 8 feriti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/furgone-con-braccianti-si-ribalta-nel-foggiano-un-morto-e-8-feriti_2763e4e8-3cf0-4f91-b859-be379862c863.html",
@@ -39,21 +54,6 @@
      "titolo": "Netanyahu respinge il piano Usa, 'no al ritiro dell'Idf senza il disarmo di Hamas'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/netanyahu-respinge-il-piano-usa-no-al-ritiro-dellidf-senza-il-disarmo-di-hamas_3e220058-32da-44e9-b0d9-54c543fb56de.html",
      "data": "2026-08-09T11:21:04+00:00"
-    },
-    {
-     "titolo": "Houthi, 'abbiamo attaccato forze saudite nel porto yemenita di al-Makha'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/houthi-abbiamo-attaccato-forze-saudite-nel-porto-yemenita-di-al-makha_7985d721-d04a-4f15-b435-3a0e5144e783.html",
-     "data": "2026-08-09T10:31:36+00:00"
-    },
-    {
-     "titolo": "Media, nuova incursione israeliana in Siria. Carri armati e militari nel sud-ovest",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/media-nuova-incursione-israeliana-in-siria.-carri-armati-e-militari-nel-sud_c440a7d4-64c3-4c1f-aeb6-9cf38e2da56a.html",
-     "data": "2026-08-09T09:45:32+00:00"
-    },
-    {
-     "titolo": "Nyt, 'la guerra prosciuga le scorte di missili statunitensi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/nyt-la-guerra-prosciuga-le-scorte-di-missili-statunitensi_47df92e6-a106-4bd8-968b-86177c2c44b9.html",
-     "data": "2026-08-09T09:10:39+00:00"
     }
    ]
   },
@@ -126,9 +126,14 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Esodo estivo, oltre 22 milioni di veicoli sulla rete, traffico regolare",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/esodo-estivo-oltre-22-milioni-di-veicoli-sulla-rete-traffico-regolare_a8af70ef-9f36-4c01-a76c-85678eb5f35a.html",
+     "data": "2026-08-09T15:17:10+00:00"
+    },
+    {
      "titolo": "Furgone con braccianti si ribalta nel Foggiano, un morto e otto feriti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/furgone-con-braccianti-si-ribalta-nel-foggiano-un-morto-e-8-feriti_e81de15a-4ccf-4083-9410-1b71c01585fb.html",
-     "data": "2026-08-09T14:38:52+00:00"
+     "data": "2026-08-09T15:15:34+00:00"
     },
     {
      "titolo": "Cgil Verona alla sovrintendente dell'Arena, 'è più caldo di 50 anni fa'",
@@ -179,11 +184,6 @@
      "titolo": "Il Papa: 'Basta violenze in Ucraina e Russia, spazio alla diplomazia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/il-papa-basta-violenze-in-ucraina-e-russia-spazio-alla-diplomazia_704bffae-ffd3-4360-a51b-e051611df54b.html",
      "data": "2026-08-09T10:36:07+00:00"
-    },
-    {
-     "titolo": "Autopsia, probabile collasso da calore per il muratore morto a Padova",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/autopsia-probabile-collasso-da-calore-per-il-muratore-morto-a-padova_7b6b612c-2282-403c-a8d6-6d1ffcf31caa.html",
-     "data": "2026-08-09T09:59:12+00:00"
     }
    ]
   },
@@ -261,6 +261,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Milioni di chili di cibo in decomposizione, un quartiere di Los Angeles soffoca",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/milioni-di-chili-di-cibo-in-decomposizione-un-quartiere-di-los-angeles-soffoca_05487f05-6cd8-4f93-9777-b9b0c40b4661.html",
+     "data": "2026-08-09T15:12:56+00:00"
+    },
+    {
+     "titolo": "Messico, riparte l'export di avocado da Michoacán verso gli Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/messico-riparte-lexport-di-avocado-da-michoacan-verso-gli-usa_39a5d29c-bc56-4709-bf54-ba04438bd18b.html",
+     "data": "2026-08-09T15:01:04+00:00"
+    },
+    {
+     "titolo": "Quinta ondata di caldo estremo in Gb, si aggrava l'allarme siccità",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/quinta-ondata-di-caldo-estremo-in-gb-si-aggrava-lallarme-siccita_3db0d9ad-982a-482e-b0a9-6ac56f5b8663.html",
+     "data": "2026-08-09T14:58:08+00:00"
+    },
+    {
      "titolo": "Messico, 1.700 uomini della Marina contro la violenza a Mazatlán",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/messico-1.700-uomini-della-marina-contro-la-violenza-a-mazatlan_e8429e71-36b6-4ba3-8f2f-539e5b1711e7.html",
      "data": "2026-08-09T13:48:23+00:00"
@@ -304,21 +319,6 @@
      "titolo": "La giunta del Myanmar dice no all'Asean per la liberazione di Suu Kyi",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/09/la-giunta-del-myanmar-dice-no-allasean-per-la-liberazione-di-suu-kyi_5fc3a015-fedf-4434-a812-e936cae8bd53.html",
      "data": "2026-08-09T12:29:13+00:00"
-    },
-    {
-     "titolo": "Sale a 5 morti il bilancio del raid ucraino su Belgorod, 'colpiti edifici civili'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/sale-a-5-morti-il-bilancio-del-raid-ucraino-su-belgorod-colpiti-edifici-civili_7ab8e327-f833-4dc6-a845-3e5a5f4c960e.html",
-     "data": "2026-08-09T12:14:49+00:00"
-    },
-    {
-     "titolo": "Media Iran, 'Mojtaba Khamenei ha incontrato il presidente Pezeshkian'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/media-iran-mojtaba-khamenei-ha-incontrato-il-presidente-pezeshkian_74e36625-feda-4b14-9573-01b29e8c769f.html",
-     "data": "2026-08-09T11:46:20+00:00"
-    },
-    {
-     "titolo": "Ucraina, colpite nella notte Odessa e Kharkiv.&nbsp; Il Papa: 'Basta violenze, spazio alla diplomazia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/ucraina-colpite-nella-notte-odessa-e-kharkiv.nbsp-il-papa-basta-violenze-spazio_7438b242-98a9-4bf4-87f6-9f68cf124c64.html",
-     "data": "2026-08-09T11:19:20+00:00"
     }
    ]
   },
@@ -391,6 +391,31 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Atalanta: dopo un anno buio, con Sarri per ripartire",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/atalanta-dopo-un-anno-buio-con-sarri-per-ripartire_b6bbdf59-a5e9-4062-ae8e-82de0cd480e0.html",
+     "data": "2026-08-09T15:14:45+00:00"
+    },
+    {
+     "titolo": "Como: mercato ricco e Nico Paz, Fabregas continua a sognare",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/como-mercato-ricco-e-nico-paz-fabregas-continua-a-sognare_ba424c62-1c39-48f9-9a9a-cb6bd6674fc0.html",
+     "data": "2026-08-09T15:07:15+00:00"
+    },
+    {
+     "titolo": "Juventus: finalmente Kolo Muani, ma serve un portiere",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/juventus-finalmente-kolo-muani-ma-serve-un-portiere_37764327-53fa-4b90-bd8f-6ad5b00a1492.html",
+     "data": "2026-08-09T15:03:52+00:00"
+    },
+    {
+     "titolo": "Roma: più forte con Castro e Molina, ma Gasp aspetta l'esterno",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/roma-piu-forte-con-castro-e-molina-ma-gasp-aspetta-lesterno_65cbac87-6989-474a-8462-cd124a928802.html",
+     "data": "2026-08-09T14:59:25+00:00"
+    },
+    {
+     "titolo": "Napoli: con Allegri riparte la caccia all'Inter, Lukaku in partenza",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/napoli-con-allegri-riparte-la-caccia-allinter-lukaku-in-partenza_6c74e3a6-f4d1-4075-847a-d9bc5b2256aa.html",
+     "data": "2026-08-09T14:58:37+00:00"
+    },
+    {
      "titolo": "Milan: rifondazione con Amorim e Ramos, non si sblocca Leao",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/milan-rifondazione-con-amorim-e-ramos-non-si-sblocca-leao_4a17c945-c087-4b54-a0b7-ddd46fe97ef3.html",
      "data": "2026-08-09T14:52:53+00:00"
@@ -406,9 +431,9 @@
      "data": "2026-08-09T14:49:46+00:00"
     },
     {
-     "titolo": "Figc 'nessun conflitto di interessi per Bianchedi, ruolo di mera rappresentanza'",
+     "titolo": "Figc 'nessun conflitto di interessi per Bianchedi, ruolo di rappresentanza'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/figc-nessun-conflitto-di-interessi-per-bianchedi-ruolo-di-mera-rappresentanza_39416e6a-b5c6-4b49-9e1b-3117e0d7b809.html",
-     "data": "2026-08-09T14:31:18+00:00"
+     "data": "2026-08-09T15:10:02+00:00"
     },
     {
      "titolo": "Europei atletica: tutto pronto a Birmingham, subito 31 azzurri in gara",
@@ -424,31 +449,6 @@
      "titolo": "Europei atletica: Maria Perez sfida l'amica Palmisano, \"è la mia motivazione\"",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/europei-atletica-maria-perez-sfida-lamica-palmisano-e-la-mia-motivazione_dd11ddcf-8fc7-436c-ae42-c3689fc0f90d.html",
      "data": "2026-08-09T12:05:21+00:00"
-    },
-    {
-     "titolo": "Canottaggio: Mondiali U19, oro per l'Italia con Alizee Ribolzi nel singolo donne",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/canottaggio-mondiali-u19-oro-per-litalia-con-alizee-ribolzi-nel_6a1caa65-59f0-4e5f-b32a-39d9754fc8ac.html",
-     "data": "2026-08-09T10:42:34+00:00"
-    },
-    {
-     "titolo": "Pallavolo: l'Italia femminile vola in Polonia, ultimo torneo prima degli Europei",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/09/pallavolo-litalia-femminile-vola-in-polonia-ultimo-torneo-prima-degli-europei_d4b91243-40da-456c-8c9c-292c8aac2461.html",
-     "data": "2026-08-09T10:43:12+00:00"
-    },
-    {
-     "titolo": "La Fifa difende Infantino: 'C'è un piano per indebolirci'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/calcio-la-fifa-difende-infantino-qualcuno-vuole-indebolire-noi-e-il-presidente_d545537e-37a2-44b3-b52e-eedc1e293375.html",
-     "data": "2026-08-09T12:52:31+00:00"
-    },
-    {
-     "titolo": "Atletica: Mondiali U20, due ori per l'Italia nel lungo e staffetta 4x100 mista",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/atletica-mondiali-u20-due-ori-per-litalia-nel-lungo-e-staffetta_4d2f4f05-93fc-4d67-abad-a2ae032a5e07.html",
-     "data": "2026-08-09T11:36:10+00:00"
-    },
-    {
-     "titolo": "Tennis, n.1 al mondo Sabalenka sconfitta da Alexandrova a Toronto",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/tennis-n.1-al-mondo-sabalenka-sconfitta-da-alexandrova-a-toronto_dc08966d-063a-4e6d-80af-9d4f61649ea3.html",
-     "data": "2026-08-09T09:52:26+00:00"
     }
    ]
   }
