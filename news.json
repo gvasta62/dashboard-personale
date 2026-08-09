@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-09T10:01:14.577010+00:00",
+ "aggiornato": "2026-08-09T10:58:14.702901+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Houthi, 'abbiamo attaccato forze saudite nel porto yemenita di al-Makha'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/houthi-abbiamo-attaccato-forze-saudite-nel-porto-yemenita-di-al-makha_7985d721-d04a-4f15-b435-3a0e5144e783.html",
+     "data": "2026-08-09T10:31:36+00:00"
+    },
+    {
+     "titolo": "Il Papa: 'Basta violenze in Ucraina e Russia, spazio alla diplomazia'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/il-papa-basta-violenze-in-ucraina-e-russia-spazio-alla-diplomazia_704bffae-ffd3-4360-a51b-e051611df54b.html",
+     "data": "2026-08-09T10:33:10+00:00"
+    },
     {
      "titolo": "Media, nuova incursione israeliana in Siria. Carri armati e militari nel sud-ovest",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/media-nuova-incursione-israeliana-in-siria.-carri-armati-e-militari-nel-sud_c440a7d4-64c3-4c1f-aeb6-9cf38e2da56a.html",
@@ -44,16 +54,6 @@
      "titolo": "La British Columbia dichiara lo stato d'emergenza per i roghi, 20.000 evacuati",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/la-british-columbia-dichiara-lo-stato-demergenza-per-i-roghi-20.000-evacuati_9ed0b6c8-25cd-4754-8f6d-089251c561f6.html",
      "data": "2026-08-08T21:56:24+00:00"
-    },
-    {
-     "titolo": "I candidati politici Lgbtq+ in Quebec segnalano un'ondata di odio online",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/i-candidati-politici-lgbtq-in-quebec-segnalano-unondata-di-odio-online_878f1753-f9e5-4de1-ad07-d8e17bdf1149.html",
-     "data": "2026-08-08T21:48:03+00:00"
-    },
-    {
-     "titolo": "Esercito Yemen, 'gli Houthi hanno ripreso gli attacchi a Marib'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/esercito-yemen-gli-houthi-hanno-ripreso-gli-attacchi-a-marib_ff29835b-00cf-4b4f-84fa-213d0e697582.html",
-     "data": "2026-08-08T21:28:33+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Il Papa, 'basta violenze in Ucraina e Russia, spazio alla diplomazia'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/il-papa-basta-violenze-in-ucraina-e-russia-spazio-alla-diplomazia_7a995197-086a-433a-8603-901ff9a51e81.html",
+     "data": "2026-08-09T10:29:29+00:00"
+    },
+    {
+     "titolo": "Il Papa: 'Basta violenze in Ucraina e Russia, spazio alla diplomazia'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/il-papa-basta-violenze-in-ucraina-e-russia-spazio-alla-diplomazia_704bffae-ffd3-4360-a51b-e051611df54b.html",
+     "data": "2026-08-09T10:36:07+00:00"
+    },
+    {
      "titolo": "Autopsia, probabile collasso da calore per il muratore morto a Padova",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/autopsia-probabile-collasso-da-calore-per-il-muratore-morto-a-padova_7b6b612c-2282-403c-a8d6-6d1ffcf31caa.html",
      "data": "2026-08-09T09:59:12+00:00"
@@ -136,14 +146,29 @@
      "data": "2026-08-09T09:52:18+00:00"
     },
     {
+     "titolo": "Difende la madre dall'aggressione del padre, lo blocca e lo fa arrestare",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/difende-la-madre-dallaggressione-del-babbo-lo-blocca-e-lo-fa-arrestare_0abef950-9aa7-48fb-8761-52fdc480ac63.html",
+     "data": "2026-08-09T10:27:53+00:00"
+    },
+    {
      "titolo": "Etna, esplosioni e colate ad alta quota, verso normalità aeroporto Catania",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/etna-esplosioni-e-colate-ad-alta-quota-verso-normalita-aeroporto-catania_67acf164-23bf-4bdd-a4ee-e8fdf58bd100.html",
      "data": "2026-08-09T09:27:09+00:00"
     },
     {
+     "titolo": "Etna: esplosioni e colate ad alta quota, verso normalità l'aeroporto di Catania",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/etna-esplosioni-e-colate-ad-alta-quota-verso-normalita-laeroporto-di-catania_636e8738-f27f-4e30-8aac-b817b1b50026.html",
+     "data": "2026-08-09T10:06:54+00:00"
+    },
+    {
      "titolo": "Vede un ladro in casa con la telecamera da remoto e lo fa arrestare",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/vede-un-ladro-in-casa-con-la-telecamera-da-remoto-e-lo-fa-arrestare_13e96f8f-16b8-41ff-9849-5369ca06e14e.html",
      "data": "2026-08-09T09:01:54+00:00"
+    },
+    {
+     "titolo": "Ex Ilva, 13enne malato a Decaro 'Perché vuoi tenere aperto il mostro?'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/ex-ilva-13enne-malato-a-decaro-perche-vuoi-tenere-aperto-il-mostro_04c5d9ac-c9cd-4bb5-b67a-c998a9889507.html",
+     "data": "2026-08-09T10:02:34+00:00"
     },
     {
      "titolo": "Don Patriciello, pronti ad accogliere Cappellari in Sicilia",
@@ -159,31 +184,6 @@
      "titolo": "'Il rischio terrorismo è concreto', report degli 007 su Ceuta",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/il-rischio-terrorismo-e-concreto-report-degli-007-su-ceuta_7c2fb4ec-5111-4cea-939f-ee71c6d38359.html",
      "data": "2026-08-09T07:55:47+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-08-08T20:30:37+00:00"
-    },
-    {
-     "titolo": "Vasche vuote all'alpeggio, Protezione civile salva animali al pascolo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/vasche-vuote-allalpeggio-protezione-civile-salva-animali-al-pascolo_c7810cec-9e5b-4dec-a8a1-176c13592e54.html",
-     "data": "2026-08-08T19:24:01+00:00"
-    },
-    {
-     "titolo": "Finto candelotto in buca delle lettere della sorella del capomafia Santapaola",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/finto-candelotto-in-buca-delle-lettere-della-sorella-del-capomafia-santapaola_a5f3ebf0-7168-4660-8561-d1ae832e6723.html",
-     "data": "2026-08-08T19:19:22+00:00"
-    },
-    {
-     "titolo": "Vannacci: 'Carmelo Burgio candidato FnV a Milano, città rivoltata come un calzino'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/vannacci-carmelo-burgio-candidato-fnv-a-milano-citta-rivoltata-come-un-calzino_7b3650ae-fb87-45f3-9ebf-8be5c9c1248d.html",
-     "data": "2026-08-08T18:33:12+00:00"
-    },
-    {
-     "titolo": "Incendi nel Teramano, ancora elicotteri in azione",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/incendi-nel-teramano-ancora-elicotteri-in-azione_dd20f003-a5db-4c6a-a6df-2ea0511f335b.html",
-     "data": "2026-08-08T18:01:41+00:00"
     }
    ]
   },
@@ -281,9 +281,19 @@
    "nome": "Mondo",
    "voci": [
     {
-     "titolo": "Odessa sotto attacco russo, danneggiati edifici e infrastrutture",
+     "titolo": "Francia pensa a maxi-esercitazione per testare capacità in caso di blackout nazionale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/francia-pensa-a-maxi-esercitazione-per-testare-capacita-in-caso-di-blackout-nazionale_9045178c-6065-47f4-ab19-8c159978a1c9.html",
+     "data": "2026-08-09T10:39:26+00:00"
+    },
+    {
+     "titolo": "Houthi, 'abbiamo attaccato forze saudite nel porto yemenita di al-Makha'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/houthi-abbiamo-attaccato-forze-saudite-nel-porto-yemenita-di-al-makha_3c5d0ef4-2d2e-4b0b-a2ba-00d2fa072c00.html",
+     "data": "2026-08-09T10:31:54+00:00"
+    },
+    {
+     "titolo": "Ucraina, colpite nella notte Odessa e Kharkiv.&nbsp; Il Papa: 'Basta violenze, spazio alla diplomazia'&nbsp;",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/odessa-sotto-attacco-russo-danneggiati-edifici-e-infrastrutture_7438b242-98a9-4bf4-87f6-9f68cf124c64.html",
-     "data": "2026-08-09T09:44:18+00:00"
+     "data": "2026-08-09T10:38:48+00:00"
     },
     {
      "titolo": "Media, nuova incursione israeliana in Siria. Carri armati e militari nel sud-ovest",
@@ -329,16 +339,6 @@
      "titolo": "Teheran, 'se Usa non correggeranno il loro comportamento Hormuz resterà chiuso'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/teheran-se-usa-non-correggeranno-il-loro-comportamento-hormuz-restera-chiuso_4e416584-f9f8-4e9a-b57b-4ae0dbf971d3.html",
      "data": "2026-08-09T02:13:33+00:00"
-    },
-    {
-     "titolo": "'Pentagono ha chiesto alle industrie della difesa di accelerare la produzione di armi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/pentagono-ha-chiesto-alle-industrie-della-difesa-di-accelerare-la-produzione-di-armi_e0d066cf-34fd-4ec8-829a-ca9ae6e585ea.html",
-     "data": "2026-08-08T22:07:15+00:00"
-    },
-    {
-     "titolo": "La British Columbia dichiara lo stato d'emergenza per i roghi, 20.000 evacuati",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/la-british-columbia-dichiara-lo-stato-demergenza-per-i-roghi-20.000-evacuati_e733efe1-70db-4b4b-9112-24788f122f9d.html",
-     "data": "2026-08-08T21:56:38+00:00"
     }
    ]
   },
@@ -411,14 +411,24 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Calcio: la Fifa difende Infantino, \"qualcuno vuole indebolire noi e il presidente\"",
+     "titolo": "Canottaggio: Mondiali U19, oro per l'Italia con Alizee Ribolzi nel singolo donne",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/canottaggio-mondiali-u19-oro-per-litalia-con-alizee-ribolzi-nel_6a1caa65-59f0-4e5f-b32a-39d9754fc8ac.html",
+     "data": "2026-08-09T10:42:34+00:00"
+    },
+    {
+     "titolo": "Pallavolo: l'Italia femminile vola in Polonia, ultimo torneo prima degli Europei",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/09/pallavolo-litalia-femminile-vola-in-polonia-ultimo-torneo-prima-degli-europei_d4b91243-40da-456c-8c9c-292c8aac2461.html",
+     "data": "2026-08-09T10:43:12+00:00"
+    },
+    {
+     "titolo": "La Fifa difende Infantino: 'Qualcuno vuole indebolire noi e il presidente'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/calcio-la-fifa-difende-infantino-qualcuno-vuole-indebolire-noi-e-il-presidente_d545537e-37a2-44b3-b52e-eedc1e293375.html",
-     "data": "2026-08-09T09:33:44+00:00"
+     "data": "2026-08-09T10:44:21+00:00"
     },
     {
      "titolo": "Atletica: Mondiali U20, due ori per l'Italia nel lungo e staffetta 4x100 mista",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/atletica-mondiali-u20-due-ori-per-litalia-nel-lungo-e-staffetta_4d2f4f05-93fc-4d67-abad-a2ae032a5e07.html",
-     "data": "2026-08-09T08:31:22+00:00"
+     "data": "2026-08-09T10:49:32+00:00"
     },
     {
      "titolo": "Tennis, n.1 al mondo Sabalenka sconfitta da Alexandrova a Toronto",
@@ -459,16 +469,6 @@
      "titolo": "Calcio: Atalanta brillante un tempo, Schalke battuto 3-0",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/amichevole-a-gelsenkirchen-3-0-dellatalanta-allo-schalke-04_fa4f6aec-2c1a-4441-829d-e167e8eb618d.html",
      "data": "2026-08-08T22:29:10+00:00"
-    },
-    {
-     "titolo": "Gasperini 'partita pessima col Brighton manca qualcosa dal mercato'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/gasperini-partita-pessima-col-brighton-manca-qualcosa-dal-mercato_ee0dfb32-0e56-4e19-b27d-8ea1bc570169.html",
-     "data": "2026-08-08T16:52:47+00:00"
-    },
-    {
-     "titolo": "Europei di nuoto: venti metri sopra il cielo, Cosetti-Barnaba argento di coppia",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/08/europei-di-nuoto-barnaba-e-cosetti-argento-di-coppia-scritto-nel-destino_fe2bb7fc-04cc-4a9d-8907-47d5f65c4c80.html",
-     "data": "2026-08-08T16:47:02+00:00"
     }
    ]
   }
