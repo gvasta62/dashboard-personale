@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-09T15:53:22.452912+00:00",
+ "aggiornato": "2026-08-09T16:17:49.648213+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -61,11 +61,6 @@
    "nome": "Umbria",
    "voci": [
     {
-     "titolo": "Fratoianni a Conte e Schlein, non siamo in una corsa podistica, serve responsabilità",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/09/fratoianni-a-conte-e-schlein-non-siamo-in-una-corsa-podistica-serve-responsabilita_e1377530-5cca-4c8c-91d9-3301763852b0.html",
-     "data": "2026-08-09T15:42:38+00:00"
-    },
-    {
      "titolo": "Escursionista precipitato per 15 metri soccorso nel parco del Monte Cucco",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/09/escursionista-precipitato-per-15-metri-soccorso-nel-parco-del-monte-cucco_68961685-a571-481c-bce5-8e7350016a5f.html",
      "data": "2026-08-09T14:39:41+00:00"
@@ -119,6 +114,11 @@
      "titolo": "Controllo dei carabinieri in un autolavaggio, attività sospesa e una denuncia",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/08/controllo-dei-carabinieri-in-un-autolavaggio-attivita-sospesa-e-una-denuncia_1dd6fb02-4e5c-40e0-81d7-ceeb201f2bfe.html",
      "data": "2026-08-08T07:12:05+00:00"
+    },
+    {
+     "titolo": "Marchetti, il Governo dimostra con i fatti di credere nel valore della cultura",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/07/marchetti-il-governo-dimostra-con-i-fatti-di-credere-nel-valore-della-cultura_34625a61-9b8f-4595-8084-ae298e925daa.html",
+     "data": "2026-08-07T15:27:20+00:00"
     }
    ]
   },
@@ -271,6 +271,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Prosegue da 7 mesi la veglia dei familiari dei prigionieri politici venezuelani",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/prosegue-da-7-mesi-la-veglia-dei-familiari-dei-prigionieri-politici-venezuelani_668d0429-69ba-416a-986e-208e4d28d1a1.html",
+     "data": "2026-08-09T16:13:25+00:00"
+    },
+    {
+     "titolo": "México: 1.700 hombres d la Marina contra la violencia en Mazatlán",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/mexico-1.700-hombres-d-la-marina-contra-la-violencia-en-mazatlan_3bac95c6-b65c-47fa-a3e0-f4a6970a0ef1.html",
+     "data": "2026-08-09T15:51:55+00:00"
+    },
+    {
      "titolo": "Milioni di chili di cibo in decomposizione, un quartiere di Los Angeles soffoca",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/milioni-di-chili-di-cibo-in-decomposizione-un-quartiere-di-los-angeles-soffoca_05487f05-6cd8-4f93-9777-b9b0c40b4661.html",
      "data": "2026-08-09T15:12:56+00:00"
@@ -319,16 +329,6 @@
      "titolo": "Ministro pachistano, alleanza fra Paesi islamici è contro 'minaccia Israele'",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/09/ministro-pachistano-alleanza-fra-paesi-islamici-e-contro-minaccia-israele_2f9e8363-6030-497f-8181-1f8cff41c57e.html",
      "data": "2026-08-09T12:46:42+00:00"
-    },
-    {
-     "titolo": "Hamas, Usa facciano pressioni su Netanyahu per il piano su Gaza",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/hamas-usa-facciano-pressioni-su-netanyahu-per-il-piano-su-gaza_af22f365-f490-478f-8d23-02f46e1458c9.html",
-     "data": "2026-08-09T12:30:31+00:00"
-    },
-    {
-     "titolo": "La giunta del Myanmar dice no all'Asean per la liberazione di Suu Kyi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/09/la-giunta-del-myanmar-dice-no-allasean-per-la-liberazione-di-suu-kyi_5fc3a015-fedf-4434-a812-e936cae8bd53.html",
-     "data": "2026-08-09T12:29:13+00:00"
     }
    ]
   },
@@ -401,6 +401,36 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Frosinone: in A per restarci, il club passa a un fondo Usa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/frosinone-in-a-per-restarci-il-club-passa-a-un-fondo-usa_3504db46-a4c2-4b0a-b867-e73e5ec4bcc3.html",
+     "data": "2026-08-09T16:10:02+00:00"
+    },
+    {
+     "titolo": "Venezia: proprietà Usa studia modello Como, rivoluzione in laguna",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/venezia-proprieta-usa-studia-modello-como-rivoluzione-in-laguna_56abd94b-fbcd-4c53-8870-c180fa5bcd54.html",
+     "data": "2026-08-09T16:07:30+00:00"
+    },
+    {
+     "titolo": "Lecce: Di Francesco per la salvezza, Banda non vuole restare",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/lecce-di-francesco-per-la-salvezza-banda-non-vuole-restare_5c62b1fa-54e0-4c2e-84f4-de233c9dfad8.html",
+     "data": "2026-08-09T16:02:51+00:00"
+    },
+    {
+     "titolo": "Cagliari: Pisacane cerca salvezza bis, Esposito si ribella",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/cagliari-pisacane-cerca-salvezza-bis-esposito-si-ribella_343cf065-35e4-4f08-a96c-3b0b976326f4.html",
+     "data": "2026-08-09T16:00:33+00:00"
+    },
+    {
+     "titolo": "Udinese: 40 anni con Pozzo, con Zaniolo per migliorare 10/o posto",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/udinese-40-anni-con-pozzo-con-zaniolo-per-migliorare-10o-posto_7997e965-e7b7-4517-9270-2f8bc12b7b8d.html",
+     "data": "2026-08-09T15:55:25+00:00"
+    },
+    {
+     "titolo": "Genoa: De Rossi cerca continuità, in arrivo Dallinga",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/genoa-de-rossi-cerca-continuita-in-arrivo-dallinga_88097776-3a10-4a23-9b06-087e2cb672a7.html",
+     "data": "2026-08-09T15:52:51+00:00"
+    },
+    {
      "titolo": ">ANSA-BOX/Monza: obiettivo salvezza, nuova chance per Juric",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/ansa-boxmonza-obiettivo-salvezza-nuova-chance-per-juric_81e2487a-be93-48e2-b1c2-07a713dcb92c.html",
      "data": "2026-08-09T15:48:41+00:00"
@@ -429,36 +459,6 @@
      "titolo": "Bologna: via Castro ecco Dovbik, Tedesco prova il rilancio",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/bologna-via-castro-ecco-dovbik-tedesco-prova-il-rilancio_0935f260-973d-4f9c-95e6-702cc9351333.html",
      "data": "2026-08-09T15:29:33+00:00"
-    },
-    {
-     "titolo": "Lazio: senza tifosi e mercato a saldo zero, Gattuso in salita",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/lazio-senza-tifosi-e-mercato-a-saldo-zero-gattuso-in-salita_d541a5a2-6254-4333-8e11-2ec64567a707.html",
-     "data": "2026-08-09T15:25:13+00:00"
-    },
-    {
-     "titolo": "Fiorentina: Paratici porta anche Mastantuono, Grosso punta l'Europa",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/fiorentina-paratici-porta-anche-mastantuono-grosso-punta-leuropa_495b50aa-c53f-4848-8a0c-3d2dbf7804e8.html",
-     "data": "2026-08-09T15:21:37+00:00"
-    },
-    {
-     "titolo": "Atalanta: dopo un anno buio, con Sarri per ripartire",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/atalanta-dopo-un-anno-buio-con-sarri-per-ripartire_b6bbdf59-a5e9-4062-ae8e-82de0cd480e0.html",
-     "data": "2026-08-09T15:14:45+00:00"
-    },
-    {
-     "titolo": "Como: mercato ricco e Nico Paz, Fabregas continua a sognare",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/como-mercato-ricco-e-nico-paz-fabregas-continua-a-sognare_ba424c62-1c39-48f9-9a9a-cb6bd6674fc0.html",
-     "data": "2026-08-09T15:07:15+00:00"
-    },
-    {
-     "titolo": "Juventus: finalmente Kolo Muani, ma serve un portiere",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/juventus-finalmente-kolo-muani-ma-serve-un-portiere_37764327-53fa-4b90-bd8f-6ad5b00a1492.html",
-     "data": "2026-08-09T15:03:52+00:00"
-    },
-    {
-     "titolo": "Roma: più forte con Castro e Molina, ma Gasp aspetta l'esterno",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/roma-piu-forte-con-castro-e-molina-ma-gasp-aspetta-lesterno_65cbac87-6989-474a-8462-cd124a928802.html",
-     "data": "2026-08-09T14:59:25+00:00"
     }
    ]
   }
