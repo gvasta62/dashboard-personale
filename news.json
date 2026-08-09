@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-09T13:27:09.119456+00:00",
+ "aggiornato": "2026-08-09T14:04:00.003225+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Ministro pachistano, alleanza fra Paesi islamici è contro 'minaccia Israele'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/ministro-pachistano-alleanza-fra-paesi-islamici-e-contro-minaccia-israele_5e269574-c208-4510-8a66-f0135190c073.html",
+     "data": "2026-08-09T13:44:44+00:00"
+    },
     {
      "titolo": "Damasco annuncia un accordo con Mosca sulle basi militari russe in Siria",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/damasco-annuncia-un-accordo-con-mosca-sulle-basi-militari-russe-in-siria_f8015e3c-8ffa-409d-8007-1cc51ccccd12.html",
@@ -49,11 +54,6 @@
      "titolo": "Morto a Roma Massimiliano Cencelli, padre del famoso 'manuale'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/morto-a-roma-massimiliano-cencelli-padre-del-famoso-manuale_3f0f1dd2-8c0f-4e87-a752-4127b60af953.html",
      "data": "2026-08-09T08:59:19+00:00"
-    },
-    {
-     "titolo": "Ankara, 'Egitto potrebbe essere il prossimo ad aderire al Patto della Mecca'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/ankara-egitto-potrebbe-essere-il-prossimo-ad-aderire-al-patto-della-mecca_8fcf7fa7-66df-45a0-b4c5-3ab74c829532.html",
-     "data": "2026-08-09T03:34:28+00:00"
     }
    ]
   },
@@ -131,9 +131,14 @@
      "data": "2026-08-09T12:56:27+00:00"
     },
     {
+     "titolo": "Bimbo di tre anni investito, muore in ospedale dopo tre giorni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/bimbo-di-tre-anni-investito-muore-in-ospedale-dopo-tre-giorni_516c11b0-3e18-494a-b5ea-3171496612c5.html",
+     "data": "2026-08-09T13:35:15+00:00"
+    },
+    {
      "titolo": "Breve tregua temporalesca, poi caldo record per la settimana di Ferragosto",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/breve-tregua-temporalesca-poi-caldo-record-per-la-settimana-di-ferragosto_e562fabc-c6bf-4f27-a113-49b7c274af35.html",
-     "data": "2026-08-09T13:18:55+00:00"
+     "data": "2026-08-09T13:41:06+00:00"
     },
     {
      "titolo": "Sindacato medici, 'in estate accessi al pronto soccorso aumentano del 15%'",
@@ -179,11 +184,6 @@
      "titolo": "Autopsia, probabile collasso da calore per il muratore morto a Padova",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/autopsia-probabile-collasso-da-calore-per-il-muratore-morto-a-padova_9bcbaecc-4b4d-4199-bf7c-05838afc4a5d.html",
      "data": "2026-08-09T13:15:31+00:00"
-    },
-    {
-     "titolo": "Caldo, nell'Alessandrino una scuola offre ad agosto un'aula climatizzata",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/caldo-nellalessandrino-una-scuola-offre-ad-agosto-unaula-climatizzata_b9b91d32-49c0-4817-a11d-842af60903ce.html",
-     "data": "2026-08-09T09:52:18+00:00"
     }
    ]
   },
@@ -276,6 +276,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Messico, 1.700 uomini della Marina contro la violenza a Mazatlán",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/messico-1.700-uomini-della-marina-contro-la-violenza-a-mazatlan_e8429e71-36b6-4ba3-8f2f-539e5b1711e7.html",
+     "data": "2026-08-09T13:48:23+00:00"
+    },
+    {
+     "titolo": "Petro, hanno deciso negli Usa di non far cadere i capi dei narcos",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/petro-hanno-deciso-negli-usa-di-non-far-cadere-i-capi-dei_16b27274-b29c-482e-ab83-97a3124eed9f.html",
+     "data": "2026-08-09T13:23:36+00:00"
+    },
+    {
+     "titolo": "Damasco annuncia un accordo con Mosca sulle basi militari russe in Siria",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/damasco-annuncia-un-accordo-con-mosca-sulle-basi-militari-russe-in-siria_d3e47723-b7dc-4a1e-b137-9e32353e6958.html",
+     "data": "2026-08-09T13:22:31+00:00"
+    },
+    {
      "titolo": "Colombia, catturato il capo dei Comandos de Frontera alias 'Bonito'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/colombia-catturato-il-capo-dei-comandos-de-frontera-alias-bonito_bc388afc-c3fb-4035-810a-74005b2296a0.html",
      "data": "2026-08-09T13:17:58+00:00"
@@ -319,21 +334,6 @@
      "titolo": "Ucraina, colpite nella notte Odessa e Kharkiv.&nbsp; Il Papa: 'Basta violenze, spazio alla diplomazia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/ucraina-colpite-nella-notte-odessa-e-kharkiv.nbsp-il-papa-basta-violenze-spazio_7438b242-98a9-4bf4-87f6-9f68cf124c64.html",
      "data": "2026-08-09T11:19:20+00:00"
-    },
-    {
-     "titolo": "Netanyahu respinge il piano Usa, 'no al ritiro dell'Idf senza il disarmo di Hamas'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/netanyahu-respinge-il-piano-usa-no-al-ritiro-dellidf-senza-il-disarmo-di-hamas_f5453732-1d2c-4374-b032-7c2f83327719.html",
-     "data": "2026-08-09T11:21:19+00:00"
-    },
-    {
-     "titolo": "Berlino, la Germania aprirà un nuovo centro di ricerca tecnologica sui droni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/berlino-la-germania-aprira-un-nuovo-centro-di-ricerca-tecnologica-sui-droni_c5112e62-a07c-46e9-9505-4284cf949a51.html",
-     "data": "2026-08-09T11:14:01+00:00"
-    },
-    {
-     "titolo": "Francia pensa a maxi-esercitazione per testare capacità in caso di blackout nazionale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/francia-pensa-a-maxi-esercitazione-per-testare-capacita-in-caso-di-blackout-nazionale_9045178c-6065-47f4-ab19-8c159978a1c9.html",
-     "data": "2026-08-09T10:39:26+00:00"
     }
    ]
   },
@@ -406,6 +406,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei atletica: tutto pronto a Birmingham, subito 31 azzurri in gara",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/europei-atletica-tutto-pronto-a-birmingham-subito-31-azzurri-in-gara_0b63f00a-34fc-4e99-a980-b7e6f5cf149b.html",
+     "data": "2026-08-09T13:45:49+00:00"
+    },
+    {
      "titolo": "Coni: 'Bianchedi in Figc, verificheremo opportunità e incompatibilità'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/coni-bianchedi-in-figc-verificheremo-opportunita-e-incompatibilita_b8630689-65cc-4a6c-83f4-0f769ef2ae6b.html",
      "data": "2026-08-09T12:49:37+00:00"
@@ -459,11 +464,6 @@
      "titolo": "All'Udinese la Fvg Cup, battuti Barcellona e Nottingham",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/alludinese-la-fvg-cup-battuti-barcellona-e-nottingham_a8d66932-7ae1-45ae-ade6-df7884bd8b7c.html",
      "data": "2026-08-08T21:21:01+00:00"
-    },
-    {
-     "titolo": "Venezia, pari a Brest nell'ultimo test prima della stagione",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/venezia-pari-a-brest-nellultimo-test-prima-della-stagione_130f2edb-ac59-48a9-9336-23026d9d6096.html",
-     "data": "2026-08-08T19:05:34+00:00"
     }
    ]
   }
