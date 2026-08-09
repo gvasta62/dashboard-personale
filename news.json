@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-09T16:17:49.648213+00:00",
+ "aggiornato": "2026-08-09T17:00:56.555800+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Un'altra settimana di caldo, sarà un Ferragosto a 40 gradi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/unaltra-settimana-di-caldo-sara-un-ferragosto-a-40-gradi_eb336bff-4c62-4049-b2c0-e39d3e255f91.html",
+     "data": "2026-08-09T16:50:53+00:00"
+    },
+    {
+     "titolo": "Recuperato al largo di Ceuta il corpo di un altro migrante, bilancio sale a 142 morti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/recuperato-al-largo-di-ceuta-il-corpo-di-un-altro-migrante-bilancio-sale-a-142-morti_81da3a90-0d36-42ee-9be2-2c5bdc0e4453.html",
+     "data": "2026-08-09T16:18:29+00:00"
+    },
+    {
+     "titolo": "Prosegue da 7 mesi la veglia dei familiari dei prigionieri politici venezuelani",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/prosegue-da-7-mesi-la-veglia-dei-familiari-dei-prigionieri-politici-venezuelani_eec269d9-46f0-4cdc-b631-d442bee6e294.html",
+     "data": "2026-08-09T16:13:23+00:00"
+    },
     {
      "titolo": "Vannacci al centrodestra, 'mai chiuso porte ma voi parlate di me, non con me'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/vannacci-al-centrodestra-mai-chiuso-porte-ma-voi-parlate-di-me-non-con-me_3a9ee534-1a4b-4bfa-815f-939a96f4aa3a.html",
@@ -39,27 +54,17 @@
      "titolo": "Ministro pachistano, alleanza fra Paesi islamici è contro 'minaccia Israele'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/ministro-pachistano-alleanza-fra-paesi-islamici-e-contro-minaccia-israele_5e269574-c208-4510-8a66-f0135190c073.html",
      "data": "2026-08-09T13:44:44+00:00"
-    },
-    {
-     "titolo": "Damasco annuncia un accordo con Mosca sulle basi militari russe in Siria",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/damasco-annuncia-un-accordo-con-mosca-sulle-basi-militari-russe-in-siria_f8015e3c-8ffa-409d-8007-1cc51ccccd12.html",
-     "data": "2026-08-09T13:22:13+00:00"
-    },
-    {
-     "titolo": "Hamas, Usa facciano pressioni su Netanyahu per il piano su Gaza",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/hamas-usa-facciano-pressioni-su-netanyahu-per-il-piano-su-gaza_4be3d606-eb38-43f4-9177-a370df51f22f.html",
-     "data": "2026-08-09T12:30:14+00:00"
-    },
-    {
-     "titolo": "Breve tregua temporalesca, poi caldo record per la settimana di Ferragosto",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/breve-tregua-temporalesca-poi-caldo-record-per-la-settimana-di-ferragosto_b8ace5cd-6475-40a9-8ebc-4c89eec1471b.html",
-     "data": "2026-08-09T12:26:00+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Fratoianni a Conte e Schlein, non siamo in una corsa podistica, serve responsabilità",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/09/fratoianni-a-conte-e-schlein-non-siamo-in-una-corsa-podistica-serve-responsabilita_e1377530-5cca-4c8c-91d9-3301763852b0.html",
+     "data": "2026-08-09T15:42:38+00:00"
+    },
     {
      "titolo": "Escursionista precipitato per 15 metri soccorso nel parco del Monte Cucco",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/09/escursionista-precipitato-per-15-metri-soccorso-nel-parco-del-monte-cucco_68961685-a571-481c-bce5-8e7350016a5f.html",
@@ -114,17 +119,27 @@
      "titolo": "Controllo dei carabinieri in un autolavaggio, attività sospesa e una denuncia",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/08/controllo-dei-carabinieri-in-un-autolavaggio-attivita-sospesa-e-una-denuncia_1dd6fb02-4e5c-40e0-81d7-ceeb201f2bfe.html",
      "data": "2026-08-08T07:12:05+00:00"
-    },
-    {
-     "titolo": "Marchetti, il Governo dimostra con i fatti di credere nel valore della cultura",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/07/marchetti-il-governo-dimostra-con-i-fatti-di-credere-nel-valore-della-cultura_34625a61-9b8f-4595-8084-ae298e925daa.html",
-     "data": "2026-08-07T15:27:20+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-08-09T16:41:04+00:00"
+    },
+    {
+     "titolo": "Forti esplosioni ed emissione di cenere sull'Etna, avviso per il volo rosso",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/forti-esplosioni-ed-emissione-di-cenere-sulletna-avviso-per-il-volo-rosso_eaa24254-5807-42f5-9cde-d5cd552e737b.html",
+     "data": "2026-08-09T16:24:46+00:00"
+    },
+    {
+     "titolo": "Campi Flegrei: sale a 2.172 il numero degli sfollati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/campi-flegrei-sale-a-2.172-il-numero-degli-sfollati_8fde7951-baa2-48c1-a2b6-a6f8f100c658.html",
+     "data": "2026-08-09T16:23:33+00:00"
+    },
     {
      "titolo": "Esodo estivo, oltre 22 milioni di veicoli sulla rete, traffico regolare",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/esodo-estivo-oltre-22-milioni-di-veicoli-sulla-rete-traffico-regolare_a8af70ef-9f36-4c01-a76c-85678eb5f35a.html",
@@ -169,21 +184,6 @@
      "titolo": "Incendi ancora attivi sul Carso tra Trieste e Gorizia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/incendi-ancora-attivi-sul-carso-tra-trieste-e-gorizia_c47c124e-535b-468b-a660-59396af76f3a.html",
      "data": "2026-08-09T11:11:24+00:00"
-    },
-    {
-     "titolo": "Sub falciato dalle eliche di gommone a Lampedusa, inchiesta per omicidio nautico",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/sub-falciato-dalle-eliche-di-gommone-a-lampedusa-inchiesta-per-omicidio-nautico_5bd47e66-b190-4354-b5cf-9e1f609d183b.html",
-     "data": "2026-08-09T11:06:00+00:00"
-    },
-    {
-     "titolo": "Il Papa, 'basta violenze in Ucraina e Russia, spazio alla diplomazia'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/il-papa-basta-violenze-in-ucraina-e-russia-spazio-alla-diplomazia_7a995197-086a-433a-8603-901ff9a51e81.html",
-     "data": "2026-08-09T10:29:29+00:00"
-    },
-    {
-     "titolo": "Il Papa: 'Basta violenze in Ucraina e Russia, spazio alla diplomazia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/il-papa-basta-violenze-in-ucraina-e-russia-spazio-alla-diplomazia_704bffae-ffd3-4360-a51b-e051611df54b.html",
-     "data": "2026-08-09T10:36:07+00:00"
     }
    ]
   },
@@ -199,6 +199,11 @@
      "titolo": "Fratoianni a Conte e Schlein, non siamo in una corsa podistica, serve responsabilità",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/09/fratoianni-a-conte-e-schlein-non-siamo-in-una-corsa-podistica-serve-responsabilita_e71dc5ca-64d5-47f2-9ff0-9e93421b40ae.html",
      "data": "2026-08-09T15:42:17+00:00"
+    },
+    {
+     "titolo": "Chi sempre e chi (quasi) mai, le pagelle delle presenze in Parlamento",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/09/chi-sempre-e-chi-quasi-mai-le-pagelle-delle-presenze-in-parlamento_7df3fa4a-5d5f-4ce9-910e-e6cc86469611.html",
+     "data": "2026-08-09T16:50:09+00:00"
     },
     {
      "titolo": "Morto a Roma Massimiliano Cencelli, padre del famoso 'manuale'",
@@ -224,16 +229,6 @@
      "titolo": "Ingorgo candidati per Milano, ad oggi una ventina per Palazzo Marino",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/ingorgo-candidati-per-milano-ad-oggi-una-ventina-per-palazzo-marino_4118a347-abf0-4f3b-ab9f-3a3248d6ab6f.html",
      "data": "2026-08-08T17:59:15+00:00"
-    },
-    {
-     "titolo": "Per Giorgia Meloni qualche giorno di vacanza a La Maddalena",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/per-giorgia-meloni-qualche-giorno-di-vacanza-a-la-maddalena_39aac54a-b37f-4593-81a7-5b92ae199b5b.html",
-     "data": "2026-08-08T16:22:40+00:00"
-    },
-    {
-     "titolo": "Per Giorgia Meloni qualche giorno di vacanza a La Maddalena",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/per-giorgia-meloni-qualche-giorno-di-vacanza-a-la-maddalena_46d31501-9240-4fb2-a68d-4c0199c6b063.html",
-     "data": "2026-08-08T18:26:49+00:00"
     }
    ]
   },
@@ -271,6 +266,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Nuovo giallo a Teheran, 'Mojtaba Khamenei ha incontrato Pezeshkian'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/09/nuovo-giallo-a-teheran-mojtaba-khamenei-ha-incontrato-pezeshkian_ad725f93-64e6-4cdf-91d4-fe3cd4a442b6.html",
+     "data": "2026-08-09T16:46:28+00:00"
+    },
+    {
+     "titolo": "Recuperato al largo di Ceuta il corpo di un altro migrante, bilancio sale a 142 morti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/09/recuperato-al-largo-di-ceuta-il-corpo-di-un-altro-migrante-bilancio-sale-a-142-morti_794178a7-e7c7-4fee-b276-8b065d746d81.html",
+     "data": "2026-08-09T16:18:48+00:00"
+    },
+    {
      "titolo": "Prosegue da 7 mesi la veglia dei familiari dei prigionieri politici venezuelani",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/prosegue-da-7-mesi-la-veglia-dei-familiari-dei-prigionieri-politici-venezuelani_668d0429-69ba-416a-986e-208e4d28d1a1.html",
      "data": "2026-08-09T16:13:25+00:00"
@@ -283,7 +288,7 @@
     {
      "titolo": "Milioni di chili di cibo in decomposizione, un quartiere di Los Angeles soffoca",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/milioni-di-chili-di-cibo-in-decomposizione-un-quartiere-di-los-angeles-soffoca_05487f05-6cd8-4f93-9777-b9b0c40b4661.html",
-     "data": "2026-08-09T15:12:56+00:00"
+     "data": "2026-08-09T16:28:11+00:00"
     },
     {
      "titolo": "Messico, riparte l'export di avocado da Michoacán verso gli Usa",
@@ -319,16 +324,6 @@
      "titolo": "Cuba, nuove norme sulle rinnovabili mentre la crisi elettrica si aggrava",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/cuba-nuove-norme-sulle-rinnovabili-mentre-la-crisi-elettrica-si-aggrava_1a136629-8908-410e-a96c-3538d3035884.html",
      "data": "2026-08-09T13:14:39+00:00"
-    },
-    {
-     "titolo": "Tajani, non sottovalutare rischio terrorismo, lo stop a Schengen resta fino al 15",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/tajani-non-sottovalutare-rischio-terrorismo-lo-stop-a-schengen-resta-fino-al-15_7afe419c-5545-4ebc-900b-1e5f0db7532f.html",
-     "data": "2026-08-09T12:49:28+00:00"
-    },
-    {
-     "titolo": "Ministro pachistano, alleanza fra Paesi islamici è contro 'minaccia Israele'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/09/ministro-pachistano-alleanza-fra-paesi-islamici-e-contro-minaccia-israele_2f9e8363-6030-497f-8181-1f8cff41c57e.html",
-     "data": "2026-08-09T12:46:42+00:00"
     }
    ]
   },
@@ -401,64 +396,64 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Sinner 'deluso di non poter giocare a Cincinnati, obiettivo Us Open'",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/sinner-deluso-di-non-poter-giocare-a-cincinnati-obiettivo-us-open_fbce9a4c-c7a5-4304-bf45-a4bb2993e616.html",
+     "data": "2026-08-09T16:24:22+00:00"
+    },
+    {
      "titolo": "Frosinone: in A per restarci, il club passa a un fondo Usa",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/frosinone-in-a-per-restarci-il-club-passa-a-un-fondo-usa_3504db46-a4c2-4b0a-b867-e73e5ec4bcc3.html",
-     "data": "2026-08-09T16:10:02+00:00"
+     "data": "2026-08-09T16:19:17+00:00"
     },
     {
      "titolo": "Venezia: proprietà Usa studia modello Como, rivoluzione in laguna",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/venezia-proprieta-usa-studia-modello-como-rivoluzione-in-laguna_56abd94b-fbcd-4c53-8870-c180fa5bcd54.html",
-     "data": "2026-08-09T16:07:30+00:00"
+     "data": "2026-08-09T16:20:10+00:00"
     },
     {
      "titolo": "Lecce: Di Francesco per la salvezza, Banda non vuole restare",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/lecce-di-francesco-per-la-salvezza-banda-non-vuole-restare_5c62b1fa-54e0-4c2e-84f4-de233c9dfad8.html",
-     "data": "2026-08-09T16:02:51+00:00"
+     "data": "2026-08-09T16:23:02+00:00"
     },
     {
      "titolo": "Cagliari: Pisacane cerca salvezza bis, Esposito si ribella",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/cagliari-pisacane-cerca-salvezza-bis-esposito-si-ribella_343cf065-35e4-4f08-a96c-3b0b976326f4.html",
-     "data": "2026-08-09T16:00:33+00:00"
+     "data": "2026-08-09T16:25:01+00:00"
     },
     {
      "titolo": "Udinese: 40 anni con Pozzo, con Zaniolo per migliorare 10/o posto",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/udinese-40-anni-con-pozzo-con-zaniolo-per-migliorare-10o-posto_7997e965-e7b7-4517-9270-2f8bc12b7b8d.html",
-     "data": "2026-08-09T15:55:25+00:00"
+     "data": "2026-08-09T16:26:16+00:00"
     },
     {
      "titolo": "Genoa: De Rossi cerca continuità, in arrivo Dallinga",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/genoa-de-rossi-cerca-continuita-in-arrivo-dallinga_88097776-3a10-4a23-9b06-087e2cb672a7.html",
-     "data": "2026-08-09T15:52:51+00:00"
+     "data": "2026-08-09T16:27:11+00:00"
     },
     {
-     "titolo": ">ANSA-BOX/Monza: obiettivo salvezza, nuova chance per Juric",
+     "titolo": "Monza: obiettivo salvezza, nuova chance per Juric",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/ansa-boxmonza-obiettivo-salvezza-nuova-chance-per-juric_81e2487a-be93-48e2-b1c2-07a713dcb92c.html",
-     "data": "2026-08-09T15:48:41+00:00"
+     "data": "2026-08-09T16:28:19+00:00"
     },
     {
      "titolo": "Parma: salvezza nel mirino, Suzuki e Pellegrino in bilico",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/parma-salvezza-nel-mirino-suzuki-e-pellegrino-in-bilico_f8b673f1-6600-4667-add1-ad5c1403886e.html",
-     "data": "2026-08-09T15:47:27+00:00"
+     "data": "2026-08-09T16:30:05+00:00"
     },
     {
      "titolo": "Sassuolo: da Grosso ad Aquilani, sempre a trazione anteriore",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/sassuolo-da-grosso-ad-aquilani-sempre-a-trazione-anteriore_3d6bfecf-74bc-4ae7-a541-49b2b74780c5.html",
-     "data": "2026-08-09T15:43:42+00:00"
+     "data": "2026-08-09T16:31:55+00:00"
     },
     {
-     "titolo": "Sinner salta Cincinnati per un problema al ginocchio destro",
+     "titolo": "Sinner salta Cincinnati per un problema al ginocchio destro. 'Obiettivo Us Open'",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/sinner-salta-cincinnati-per-un-problema-al-ginocchio-destro_99944fbe-67d2-4bcb-9058-11dd26b792f7.html",
-     "data": "2026-08-09T15:43:15+00:00"
+     "data": "2026-08-09T16:36:04+00:00"
     },
     {
      "titolo": "Torino: con Abate, Vlasic e Simeone per il salto di qualità",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/torino-con-abate-vlasic-e-simeone-per-il-salto-di-qualita_9e3323a1-605d-45cc-a85f-842cf3809a9d.html",
-     "data": "2026-08-09T15:31:43+00:00"
-    },
-    {
-     "titolo": "Bologna: via Castro ecco Dovbik, Tedesco prova il rilancio",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/bologna-via-castro-ecco-dovbik-tedesco-prova-il-rilancio_0935f260-973d-4f9c-95e6-702cc9351333.html",
-     "data": "2026-08-09T15:29:33+00:00"
+     "data": "2026-08-09T16:23:54+00:00"
     }
    ]
   }
