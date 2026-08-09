@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-09T14:04:00.003225+00:00",
+ "aggiornato": "2026-08-09T14:57:40.158039+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Furgone con braccianti si ribalta nel Foggiano, un morto e 8 feriti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/furgone-con-braccianti-si-ribalta-nel-foggiano-un-morto-e-8-feriti_2763e4e8-3cf0-4f91-b859-be379862c863.html",
+     "data": "2026-08-09T14:31:48+00:00"
+    },
     {
      "titolo": "Ministro pachistano, alleanza fra Paesi islamici è contro 'minaccia Israele'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/ministro-pachistano-alleanza-fra-paesi-islamici-e-contro-minaccia-israele_5e269574-c208-4510-8a66-f0135190c073.html",
@@ -49,17 +54,17 @@
      "titolo": "Nyt, 'la guerra prosciuga le scorte di missili statunitensi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/nyt-la-guerra-prosciuga-le-scorte-di-missili-statunitensi_47df92e6-a106-4bd8-968b-86177c2c44b9.html",
      "data": "2026-08-09T09:10:39+00:00"
-    },
-    {
-     "titolo": "Morto a Roma Massimiliano Cencelli, padre del famoso 'manuale'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/morto-a-roma-massimiliano-cencelli-padre-del-famoso-manuale_3f0f1dd2-8c0f-4e87-a752-4127b60af953.html",
-     "data": "2026-08-09T08:59:19+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Escursionista precipitato per 15 metri soccorso nel parco del Monte Cucco",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/09/escursionista-precipitato-per-15-metri-soccorso-nel-parco-del-monte-cucco_68961685-a571-481c-bce5-8e7350016a5f.html",
+     "data": "2026-08-09T14:39:41+00:00"
+    },
     {
      "titolo": "L'atletica umbra brilla ancora ai mondiali under 20 di Eugene, negli Usa",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/09/latletica-umbra-brilla-ancora-ai-mondiali-under-20-di-eugene-negli-usa_2191fdd1-557b-4f5d-8589-bcce982f0ac9.html",
@@ -114,17 +119,17 @@
      "titolo": "Marchetti, il Governo dimostra con i fatti di credere nel valore della cultura",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/07/marchetti-il-governo-dimostra-con-i-fatti-di-credere-nel-valore-della-cultura_34625a61-9b8f-4595-8084-ae298e925daa.html",
      "data": "2026-08-07T15:27:20+00:00"
-    },
-    {
-     "titolo": "Amanda Knox risponde alle critiche per lo show su Meredith, 'ci sono abituata'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/07/amanda-knox-risponde-alle-critiche-per-lo-show-su-meredith-ci-sono-abituata_a2a7566f-b3d3-4844-a37d-2bbbb69ed474.html",
-     "data": "2026-08-07T14:51:51+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Furgone con braccianti si ribalta nel Foggiano, un morto e otto feriti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/furgone-con-braccianti-si-ribalta-nel-foggiano-un-morto-e-8-feriti_e81de15a-4ccf-4083-9410-1b71c01585fb.html",
+     "data": "2026-08-09T14:38:52+00:00"
+    },
     {
      "titolo": "Cgil Verona alla sovrintendente dell'Arena, 'è più caldo di 50 anni fa'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/cgil-verona-alla-sovrintendente-dellarena-e-piu-caldo-di-50-anni-fa_fa4b8a8f-26e1-4f1e-a8f9-142045031eaa.html",
@@ -179,11 +184,6 @@
      "titolo": "Autopsia, probabile collasso da calore per il muratore morto a Padova",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/autopsia-probabile-collasso-da-calore-per-il-muratore-morto-a-padova_7b6b612c-2282-403c-a8d6-6d1ffcf31caa.html",
      "data": "2026-08-09T09:59:12+00:00"
-    },
-    {
-     "titolo": "Autopsia, probabile collasso da calore per il muratore morto a Padova",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/autopsia-probabile-collasso-da-calore-per-il-muratore-morto-a-padova_9bcbaecc-4b4d-4199-bf7c-05838afc4a5d.html",
-     "data": "2026-08-09T13:15:31+00:00"
     }
    ]
   },
@@ -196,9 +196,9 @@
      "data": "2026-08-09T08:59:15+00:00"
     },
     {
-     "titolo": "Morto a Roma Massimiliano Cencelli, padre del famoso 'manuale'",
+     "titolo": "Morto Cencelli, col suo manuale disegnò la politica italiana",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/09/morto-a-roma-massimiliano-cencelli-padre-del-famoso-manuale-_7246c9e5-30e5-4736-87d9-ac1065b520a8.html",
-     "data": "2026-08-09T10:55:12+00:00"
+     "data": "2026-08-09T14:48:19+00:00"
     },
     {
      "titolo": "Repubblica, 'la Germania espellerà i migranti verso l'Italia'",
@@ -224,21 +224,6 @@
      "titolo": "Per Giorgia Meloni qualche giorno di vacanza a La Maddalena",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/per-giorgia-meloni-qualche-giorno-di-vacanza-a-la-maddalena_46d31501-9240-4fb2-a68d-4c0199c6b063.html",
      "data": "2026-08-08T18:26:49+00:00"
-    },
-    {
-     "titolo": "Pressing del Vaticano su Mosca, Gallagher prepara la missione",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/pressing-del-vaticano-su-mosca-gallagher-prepara-la-missione_2306ac83-a2b1-4104-bd4a-0c0bbbf3727e.html",
-     "data": "2026-08-08T15:06:40+00:00"
-    },
-    {
-     "titolo": "Proteste e tensioni, la cerimonia di Marcinelle spacca l'Italia",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/proteste-e-tensioni-a-marcinelle-la-cerimonia-delle-divisioni-_6592c2a5-e115-45c8-be49-bb1ad1956859.html",
-     "data": "2026-08-08T22:25:47+00:00"
-    },
-    {
-     "titolo": "Proteste e tensioni, a Marcinelle per il 70/o la cerimonia delle divisioni",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/proteste-e-tensioni-a-marcinelle-per-il-70o-la-cerimonia-delle-divisioni_1ec354cb-3f44-43c3-9c13-a88b62071d0d.html",
-     "data": "2026-08-08T11:11:49+00:00"
     }
    ]
   },
@@ -406,6 +391,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Milan: rifondazione con Amorim e Ramos, non si sblocca Leao",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/milan-rifondazione-con-amorim-e-ramos-non-si-sblocca-leao_4a17c945-c087-4b54-a0b7-ddd46fe97ef3.html",
+     "data": "2026-08-09T14:52:53+00:00"
+    },
+    {
+     "titolo": "Inter: favorita per bis scudetto, Stones rafforza la difesa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/inter-favorita-per-bis-scudetto-stones-rafforza-la-difesa_998fe4ed-e7ba-4a07-b4aa-e1f170f6b8be.html",
+     "data": "2026-08-09T14:49:30+00:00"
+    },
+    {
+     "titolo": "Napoli: con Allegri riparte la caccia all'Inter, Lukaku in partenza",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/napoli-con-allegri-riparte-la-caccia-allinter-lukaku-in-partenza_2e6e8949-cd81-44ad-bc2e-0aa0b19b17b4.html",
+     "data": "2026-08-09T14:49:46+00:00"
+    },
+    {
+     "titolo": "Figc 'nessun conflitto di interessi per Bianchedi, ruolo di mera rappresentanza'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/figc-nessun-conflitto-di-interessi-per-bianchedi-ruolo-di-mera-rappresentanza_39416e6a-b5c6-4b49-9e1b-3117e0d7b809.html",
+     "data": "2026-08-09T14:31:18+00:00"
+    },
+    {
      "titolo": "Europei atletica: tutto pronto a Birmingham, subito 31 azzurri in gara",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/europei-atletica-tutto-pronto-a-birmingham-subito-31-azzurri-in-gara_0b63f00a-34fc-4e99-a980-b7e6f5cf149b.html",
      "data": "2026-08-09T13:45:49+00:00"
@@ -413,7 +418,7 @@
     {
      "titolo": "Coni: 'Bianchedi in Figc, verificheremo opportunità e incompatibilità'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/coni-bianchedi-in-figc-verificheremo-opportunita-e-incompatibilita_b8630689-65cc-4a6c-83f4-0f769ef2ae6b.html",
-     "data": "2026-08-09T12:49:37+00:00"
+     "data": "2026-08-09T14:51:03+00:00"
     },
     {
      "titolo": "Europei atletica: Maria Perez sfida l'amica Palmisano, \"è la mia motivazione\"",
@@ -444,26 +449,6 @@
      "titolo": "Tennis, n.1 al mondo Sabalenka sconfitta da Alexandrova a Toronto",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/tennis-n.1-al-mondo-sabalenka-sconfitta-da-alexandrova-a-toronto_dc08966d-063a-4e6d-80af-9d4f61649ea3.html",
      "data": "2026-08-09T09:52:26+00:00"
-    },
-    {
-     "titolo": "Darderi ai quarti del Master 1000 di Toronto",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/darderi-ai-quarti-del-master-1000-di-toronto_efb2aca4-eb8f-4223-8912-df2375204ebe.html",
-     "data": "2026-08-08T22:30:37+00:00"
-    },
-    {
-     "titolo": "Malagò alla Gazzetta dello Sport, \"Bianchedi capo delegazione Azzurri\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/malago-alla-gazzetta-dello-sport-bianchedi-capo-delegazione-azzurri_4516cf24-5884-4280-9988-61f203e7a6d2.html",
-     "data": "2026-08-08T22:21:33+00:00"
-    },
-    {
-     "titolo": "Il Napoli pareggia con il Celta Vigo, Allegri mette a punto gli schemi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/il-napoli-pareggia-con-il-celta-vigo-allegri-mette-a-punto-gli-schemi_8ba59990-899b-4c6f-8ec6-bf71d95a6358.html",
-     "data": "2026-08-08T21:21:31+00:00"
-    },
-    {
-     "titolo": "All'Udinese la Fvg Cup, battuti Barcellona e Nottingham",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/alludinese-la-fvg-cup-battuti-barcellona-e-nottingham_a8d66932-7ae1-45ae-ade6-df7884bd8b7c.html",
-     "data": "2026-08-08T21:21:01+00:00"
     }
    ]
   }
