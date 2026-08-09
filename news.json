@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-09T00:39:28.255863+00:00",
+ "aggiornato": "2026-08-09T02:54:17.962402+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Tennis, n.1 al mondo Sabalenka sconfitta da Alexandrova a Toronto",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/tennis-n.1-al-mondo-sabalenka-sconfitta-da-alexandrova-a-toronto_5eb7667e-1e90-42ec-8672-444472659aa6.html",
+     "data": "2026-08-09T02:01:22+00:00"
+    },
+    {
+     "titolo": "Odessa sotto attacco russo, danneggiati edifici e infrastrutture",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/odessa-sotto-attacco-russo-danneggiati-edifici-e-infrastrutture_0a6b9dfe-f983-4651-8f8e-0eb2977fb02f.html",
+     "data": "2026-08-09T01:29:38+00:00"
+    },
+    {
+     "titolo": "Teheran, 'se Usa non correggeranno il loro comportamento Hormuz resterà chiuso'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/teheran-se-usa-non-correggeranno-il-loro-comportamento-hormuz-restera-chiuso_ad725f93-64e6-4cdf-91d4-fe3cd4a442b6.html",
+     "data": "2026-08-09T02:15:10+00:00"
+    },
     {
      "titolo": "'Pentagono ha chiesto alle industrie della difesa di accelerare la produzione di armi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/pentagono-ha-chiesto-alle-industrie-della-difesa-di-accelerare-la-produzione-di-armi_efdbcc71-75a2-46a8-a8df-f4921a0a64a1.html",
@@ -39,21 +54,6 @@
      "titolo": "Quattro morti in un incidente d'elicottero a Rio, tre sono turiste colombiane",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/quattro-morti-in-un-incidente-delicottero-a-rio-tre-sono-turiste-colombiane_df5354a1-adb9-4c4a-9fe8-f69d451794e7.html",
      "data": "2026-08-08T20:14:36+00:00"
-    },
-    {
-     "titolo": "Per 80 milioni di persone negli Usa il weekend sarà umido come l'Amazzonia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/per-80-milioni-di-persone-negli-usa-il-weekend-sara-umido-come-lamazzonia_4dad12a3-2e4e-4f4a-8bd9-c53bd873d59a.html",
-     "data": "2026-08-08T20:06:14+00:00"
-    },
-    {
-     "titolo": "Media iraniano diffonde un video di Khamenei, ma è senza data",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/media-iraniano-diffonde-un-video-di-khamenei-ma-e-senza-data_94597c88-cc7e-49fd-8819-dd94dcd6eb08.html",
-     "data": "2026-08-08T17:55:27+00:00"
-    },
-    {
-     "titolo": "Un cittadino tedesco rapito in Niger affidato all'esercito algerino",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/un-cittadino-tedesco-rapito-in-niger-affidato-allesercito-algerino_a87d3f7a-e4e7-441e-b948-a30587743fe9.html",
-     "data": "2026-08-08T17:03:49+00:00"
     }
    ]
   },
@@ -271,6 +271,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Odessa sotto attacco russo, danneggiati edifici e infrastrutture",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/odessa-sotto-attacco-russo-danneggiati-edifici-e-infrastrutture_7438b242-98a9-4bf4-87f6-9f68cf124c64.html",
+     "data": "2026-08-09T01:29:55+00:00"
+    },
+    {
+     "titolo": "Teheran, 'se Usa non correggeranno il loro comportamento Hormuz resterà chiuso'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/teheran-se-usa-non-correggeranno-il-loro-comportamento-hormuz-restera-chiuso_4e416584-f9f8-4e9a-b57b-4ae0dbf971d3.html",
+     "data": "2026-08-09T02:13:33+00:00"
+    },
+    {
+     "titolo": "Teheran, 'se Usa non correggeranno il loro comportamento Hormuz resterà chiuso'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/teheran-se-usa-non-correggeranno-il-loro-comportamento-hormuz-restera-chiuso_ad725f93-64e6-4cdf-91d4-fe3cd4a442b6.html",
+     "data": "2026-08-09T02:17:05+00:00"
+    },
+    {
      "titolo": "'Pentagono ha chiesto alle industrie della difesa di accelerare la produzione di armi'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/pentagono-ha-chiesto-alle-industrie-della-difesa-di-accelerare-la-produzione-di-armi_e0d066cf-34fd-4ec8-829a-ca9ae6e585ea.html",
      "data": "2026-08-08T22:07:15+00:00"
@@ -314,21 +329,6 @@
      "titolo": "Quattro morti in un incidente d'elicottero a Rio, tre sono turiste colombiane",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/quattro-morti-in-un-incidente-delicottero-a-rio-tre-sono-turiste-colombiane_fd3e00d6-f9ff-4143-b285-7d34acbe35a6.html",
      "data": "2026-08-08T20:14:53+00:00"
-    },
-    {
-     "titolo": "Per 80 milioni di persone negli Usa il weekend sarà umido come l'Amazzonia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/per-80-milioni-di-persone-negli-usa-il-weekend-sara-umido-come-lamazzonia_c76e14fc-e567-4bc5-8913-c79814429cc4.html",
-     "data": "2026-08-08T20:06:31+00:00"
-    },
-    {
-     "titolo": "Media iraniano diffonde un video di Khamenei, ma è senza data",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/08/media-iraniano-diffonde-un-video-di-khamenei-ma-e-senza-data_12087f66-0277-47c2-92e9-b052fe98cb90.html",
-     "data": "2026-08-08T17:55:30+00:00"
-    },
-    {
-     "titolo": "Un cittadino tedesco rapito in Niger affidato all'esercito algerino",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/08/un-cittadino-tedesco-rapito-in-niger-affidato-allesercito-algerino_1f8fcc55-1f40-49cd-bc39-073dc050044f.html",
-     "data": "2026-08-08T17:04:15+00:00"
     }
    ]
   },
@@ -401,6 +401,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Tennis, n.1 al mondo Sabalenka sconfitta da Alexandrova a Toronto",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/tennis-n.1-al-mondo-sabalenka-sconfitta-da-alexandrova-a-toronto_dc08966d-063a-4e6d-80af-9d4f61649ea3.html",
+     "data": "2026-08-09T02:01:19+00:00"
+    },
+    {
      "titolo": "Darderi ai quarti del Master 1000 di Toronto",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/darderi-ai-quarti-del-master-1000-di-toronto_efb2aca4-eb8f-4223-8912-df2375204ebe.html",
      "data": "2026-08-08T22:30:37+00:00"
@@ -454,11 +459,6 @@
      "titolo": "Ciclismo: Pellizzari vince l'ultima tappa della Vuelta a Burgos",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/08/ciclismo-pellizzari-vince-lultima-tappa-della-vuelta-a-burgos_46d63a26-6d7a-4aba-8607-4666b8fdec8f.html",
      "data": "2026-08-08T16:01:32+00:00"
-    },
-    {
-     "titolo": "Prove tecniche di Serie A, all'Inter il derby d'Italia estivo",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/il-derby-ditalia-e-dellinter-juve-battuta-2-1-a-perth_a9398958-89e9-48a8-8635-62da802c65c7.html",
-     "data": "2026-08-08T22:28:49+00:00"
     }
    ]
   }
