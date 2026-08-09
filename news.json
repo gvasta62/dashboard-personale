@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-09T08:06:33.752953+00:00",
+ "aggiornato": "2026-08-09T09:07:40.223954+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Morto a Roma Massimiliano Cencelli, padre del famoso 'manuale'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/morto-a-roma-massimiliano-cencelli-padre-del-famoso-manuale_3f0f1dd2-8c0f-4e87-a752-4127b60af953.html",
+     "data": "2026-08-09T08:59:19+00:00"
+    },
     {
      "titolo": "Ankara, 'Egitto potrebbe essere il prossimo ad aderire al Patto della Mecca'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/ankara-egitto-potrebbe-essere-il-prossimo-ad-aderire-al-patto-della-mecca_8fcf7fa7-66df-45a0-b4c5-3ab74c829532.html",
@@ -49,17 +54,17 @@
      "titolo": "Il giudice Moraes nega a Bolsonaro la visita dei figli per la festa del papà",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/il-giudice-moraes-nega-a-bolsonaro-la-visita-dei-figli-per-la-festa-del_162bf528-faa7-4a9d-8234-98b56653a652.html",
      "data": "2026-08-08T20:24:22+00:00"
-    },
-    {
-     "titolo": "Quattro morti in un incidente d'elicottero a Rio, tre sono turiste colombiane",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/quattro-morti-in-un-incidente-delicottero-a-rio-tre-sono-turiste-colombiane_df5354a1-adb9-4c4a-9fe8-f69d451794e7.html",
-     "data": "2026-08-08T20:14:36+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "L'atletica umbra brilla ancora ai mondiali under 20 di Eugene, negli Usa",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/09/latletica-umbra-brilla-ancora-ai-mondiali-under-20-di-eugene-negli-usa_2191fdd1-557b-4f5d-8589-bcce982f0ac9.html",
+     "data": "2026-08-09T08:44:03+00:00"
+    },
     {
      "titolo": "A Perugia la festa di San Lorenzo, martire e diacono, titolare della cattedrale",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/08/a-perugia-la-festa-di-san-lorenzo-martire-e-diacono-titolare-della-cattedrale_5175109d-eb4c-4a72-a69e-30975ef02569.html",
@@ -114,17 +119,27 @@
      "titolo": "Amanda Knox risponde alle critiche per lo show su Meredith, 'ci sono abituata'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/07/amanda-knox-risponde-alle-critiche-per-lo-show-su-meredith-ci-sono-abituata_a2a7566f-b3d3-4844-a37d-2bbbb69ed474.html",
      "data": "2026-08-07T14:51:51+00:00"
-    },
-    {
-     "titolo": "Borgonzoni, 13,4 milioni per l'Umbria con il piano grandi progetti beni culturali",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/07/borgonzoni-134-milioni-per-lumbria-con-il-piano-grandi-progetti-beni_05831c16-f701-4539-b585-fd9cd99b395b.html",
-     "data": "2026-08-07T15:27:52+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Vede un ladro in casa con la telecamera da remoto e lo fa arrestare",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/vede-un-ladro-in-casa-con-la-telecamera-da-remoto-e-lo-fa-arrestare_13e96f8f-16b8-41ff-9849-5369ca06e14e.html",
+     "data": "2026-08-09T09:01:54+00:00"
+    },
+    {
+     "titolo": "Don Patriciello, pronti ad accogliere Cappellari in Sicilia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/don-patriciello-pronti-ad-accogliere-cappellari-in-sicilia_6b11637a-032a-4ca5-9201-10dab3b9a34c.html",
+     "data": "2026-08-09T08:28:30+00:00"
+    },
+    {
+     "titolo": "Ad Amsterdam il passaggio di testimone al Torino Europride 2027",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/ad-amsterdam-il-passaggio-di-testimone-al-torino-europride-2027_48e5b836-1cbc-4d1f-8463-6429a76aa4da.html",
+     "data": "2026-08-09T08:04:28+00:00"
+    },
     {
      "titolo": "'Il rischio terrorismo è concreto', report degli 007 su Ceuta",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/il-rischio-terrorismo-e-concreto-report-degli-007-su-ceuta_7c2fb4ec-5111-4cea-939f-ee71c6d38359.html",
@@ -169,27 +184,22 @@
      "titolo": "Donna uccisa a luglio a Torino, ex compagno resta in carcere",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/donna-uccisa-a-luglio-a-torino-ex-compagno-resta-in-carcere_5bea0b16-ae01-4b71-b3cc-3619613dbd51.html",
      "data": "2026-08-08T16:57:50+00:00"
-    },
-    {
-     "titolo": "Restano in cella i vigili di Milano: 'Possono inquinare le prove'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/restano-in-cella-i-vigili-di-milano-possono-inquinare-le-prove_7065be0c-6acc-4333-b681-df83a0bc3314.html",
-     "data": "2026-08-08T16:46:49+00:00"
-    },
-    {
-     "titolo": "Impiantato l'embrione sbagliato al San Raffaele di Milano: 'Un errore umano'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/impiantato-lembrione-sbagliato-al-san-raffaele-di-milano-un-errore-umano_e238856f-f652-45ff-8b6b-08462d38032e.html",
-     "data": "2026-08-08T16:41:45+00:00"
-    },
-    {
-     "titolo": "L'addio a Francesco Guccini nella sua Pavana: 'Buon viaggio babbo'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/laddio-a-francesco-guccini-nella-sua-pavana-buon-viaggio-babbo_fed404f7-ec81-4d8c-af9c-8008f78a155c.html",
-     "data": "2026-08-09T06:07:38+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Morto a Roma Massimiliano Cencelli, padre del famoso 'manuale'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/09/morto-a-roma-massimiliano-cencelli-padre-del-famoso-manuale_1570733f-312a-470c-9716-de8c9afa9cf0.html",
+     "data": "2026-08-09T08:59:15+00:00"
+    },
+    {
+     "titolo": "Morto a Roma Massimiliano Cencelli, padre del famoso 'manuale'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/09/morto-a-roma-massimiliano-cencelli-padre-del-famoso-manuale-_7246c9e5-30e5-4736-87d9-ac1065b520a8.html",
+     "data": "2026-08-09T09:00:23+00:00"
+    },
     {
      "titolo": "Repubblica, 'la Germania espellerà i migranti verso l'Italia'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/09/repubblica-la-germania-espellera-i-migranti-verso-litalia_08d3762f-9308-499c-9807-c9c219f8c7b4.html",
@@ -234,11 +244,6 @@
      "titolo": "Meloni, grave e vergognoso gesto Cgil a commemorazione Marcinelle",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/meloni-grave-e-vergognoso-gesto-cgil-a-commemorazione-marcinelle_f54e12bb-d517-4b35-b092-4c0081273906.html",
      "data": "2026-08-08T09:42:24+00:00"
-    },
-    {
-     "titolo": "Fidanza, Cgil di spalle mentre la Russa leggeva Mattarella, si vergogni!",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/08/fidanza-cgil-di-spalle-mentre-la-russa-leggeva-mattarella-si-vergogni_68f9b44d-808e-4618-a734-cd32f7db0a45.html",
-     "data": "2026-08-08T08:44:28+00:00"
     }
    ]
   },
@@ -288,7 +293,7 @@
     {
      "titolo": "Teheran: 'Se Usa non correggeranno il loro comportamento Hormuz resterà chiuso'",
      "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/09/teheran-se-usa-non-correggeranno-il-loro-comportamento-hormuz-restera-chiuso_ad725f93-64e6-4cdf-91d4-fe3cd4a442b6.html",
-     "data": "2026-08-09T05:16:26+00:00"
+     "data": "2026-08-09T08:58:07+00:00"
     },
     {
      "titolo": "Ankara, 'Egitto potrebbe essere il prossimo ad aderire al Patto della Mecca'",
@@ -406,6 +411,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Atletica: Mondiali U20, due ori per l'Italia nel lungo e staffetta 4x100 mista",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/atletica-mondiali-u20-due-ori-per-litalia-nel-lungo-e-staffetta_4d2f4f05-93fc-4d67-abad-a2ae032a5e07.html",
+     "data": "2026-08-09T08:31:22+00:00"
+    },
+    {
      "titolo": "Tennis, n.1 al mondo Sabalenka sconfitta da Alexandrova a Toronto",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/tennis-n.1-al-mondo-sabalenka-sconfitta-da-alexandrova-a-toronto_dc08966d-063a-4e6d-80af-9d4f61649ea3.html",
      "data": "2026-08-09T06:01:54+00:00"
@@ -459,11 +469,6 @@
      "titolo": "Calcio: Roma ko a Brighton, Gasperini: 'Dal mercato manca qualcosa'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/la-roma-chiude-male-il-ritiro-ko-3-0-con-il-brighton_36454960-ef8c-490d-9d7d-b21bc1b2306a.html",
      "data": "2026-08-08T22:29:02+00:00"
-    },
-    {
-     "titolo": "Ciclismo: Pellizzari vince l'ultima tappa della Vuelta a Burgos",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/08/ciclismo-pellizzari-vince-lultima-tappa-della-vuelta-a-burgos_46d63a26-6d7a-4aba-8607-4666b8fdec8f.html",
-     "data": "2026-08-08T16:01:32+00:00"
     }
    ]
   }
