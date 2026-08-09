@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-09T09:07:40.223954+00:00",
+ "aggiornato": "2026-08-09T10:01:14.577010+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, nuova incursione israeliana in Siria. Carri armati e militari nel sud-ovest",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/media-nuova-incursione-israeliana-in-siria.-carri-armati-e-militari-nel-sud_c440a7d4-64c3-4c1f-aeb6-9cf38e2da56a.html",
+     "data": "2026-08-09T09:45:32+00:00"
+    },
+    {
+     "titolo": "Nyt, 'la guerra prosciuga le scorte di missili statunitensi'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/nyt-la-guerra-prosciuga-le-scorte-di-missili-statunitensi_47df92e6-a106-4bd8-968b-86177c2c44b9.html",
+     "data": "2026-08-09T09:10:39+00:00"
+    },
     {
      "titolo": "Morto a Roma Massimiliano Cencelli, padre del famoso 'manuale'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/morto-a-roma-massimiliano-cencelli-padre-del-famoso-manuale_3f0f1dd2-8c0f-4e87-a752-4127b60af953.html",
@@ -44,16 +54,6 @@
      "titolo": "Esercito Yemen, 'gli Houthi hanno ripreso gli attacchi a Marib'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/esercito-yemen-gli-houthi-hanno-ripreso-gli-attacchi-a-marib_ff29835b-00cf-4b4f-84fa-213d0e697582.html",
      "data": "2026-08-08T21:28:33+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'la Corea del Nord invierà fino a 50.000 soldati in Russia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/zelensky-la-corea-del-nord-inviera-fino-a-50.000-soldati-in-russia_80cb9b9e-1518-48d7-b2f1-35173dab5743.html",
-     "data": "2026-08-08T21:23:22+00:00"
-    },
-    {
-     "titolo": "Il giudice Moraes nega a Bolsonaro la visita dei figli per la festa del papà",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/08/il-giudice-moraes-nega-a-bolsonaro-la-visita-dei-figli-per-la-festa-del_162bf528-faa7-4a9d-8234-98b56653a652.html",
-     "data": "2026-08-08T20:24:22+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Autopsia, probabile collasso da calore per il muratore morto a Padova",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/autopsia-probabile-collasso-da-calore-per-il-muratore-morto-a-padova_7b6b612c-2282-403c-a8d6-6d1ffcf31caa.html",
+     "data": "2026-08-09T09:59:12+00:00"
+    },
+    {
+     "titolo": "Caldo, nell'Alessandrino una scuola offre ad agosto un'aula climatizzata",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/caldo-nellalessandrino-una-scuola-offre-ad-agosto-unaula-climatizzata_b9b91d32-49c0-4817-a11d-842af60903ce.html",
+     "data": "2026-08-09T09:52:18+00:00"
+    },
+    {
+     "titolo": "Etna, esplosioni e colate ad alta quota, verso normalità aeroporto Catania",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/etna-esplosioni-e-colate-ad-alta-quota-verso-normalita-aeroporto-catania_67acf164-23bf-4bdd-a4ee-e8fdf58bd100.html",
+     "data": "2026-08-09T09:27:09+00:00"
+    },
+    {
      "titolo": "Vede un ladro in casa con la telecamera da remoto e lo fa arrestare",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/vede-un-ladro-in-casa-con-la-telecamera-da-remoto-e-lo-fa-arrestare_13e96f8f-16b8-41ff-9849-5369ca06e14e.html",
      "data": "2026-08-09T09:01:54+00:00"
@@ -169,21 +184,6 @@
      "titolo": "Incendi nel Teramano, ancora elicotteri in azione",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/incendi-nel-teramano-ancora-elicotteri-in-azione_dd20f003-a5db-4c6a-a6df-2ea0511f335b.html",
      "data": "2026-08-08T18:01:41+00:00"
-    },
-    {
-     "titolo": "Il pride arriva per la prima volta a Catanzaro, grande partecipazione",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/il-pride-arriva-per-la-prima-volta-a-catanzaro-grande-partecipazione_47f60bbb-52e0-4b8a-b930-ea4ef7136a7e.html",
-     "data": "2026-08-08T17:51:20+00:00"
-    },
-    {
-     "titolo": "Monta le luminarie per la festa del paese e muore folgorato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/monta-le-luminarie-per-la-festa-del-paese-e-muore-folgorato_b3633db1-136a-4519-9613-aa62a357a2db.html",
-     "data": "2026-08-08T17:31:14+00:00"
-    },
-    {
-     "titolo": "Donna uccisa a luglio a Torino, ex compagno resta in carcere",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/donna-uccisa-a-luglio-a-torino-ex-compagno-resta-in-carcere_5bea0b16-ae01-4b71-b3cc-3619613dbd51.html",
-     "data": "2026-08-08T16:57:50+00:00"
     }
    ]
   },
@@ -281,6 +281,36 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Odessa sotto attacco russo, danneggiati edifici e infrastrutture",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/odessa-sotto-attacco-russo-danneggiati-edifici-e-infrastrutture_7438b242-98a9-4bf4-87f6-9f68cf124c64.html",
+     "data": "2026-08-09T09:44:18+00:00"
+    },
+    {
+     "titolo": "Media, nuova incursione israeliana in Siria. Carri armati e militari nel sud-ovest",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/media-nuova-incursione-israeliana-in-siria.-carri-armati-e-militari-nel-sud_3a64e2f6-5e65-4f02-aa0d-fbc958fa34ce.html",
+     "data": "2026-08-09T09:45:51+00:00"
+    },
+    {
+     "titolo": "Teheran: 'Se Usa non correggeranno il loro comportamento Hormuz resterà chiuso'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/09/teheran-se-usa-non-correggeranno-il-loro-comportamento-hormuz-restera-chiuso_ad725f93-64e6-4cdf-91d4-fe3cd4a442b6.html",
+     "data": "2026-08-09T09:34:24+00:00"
+    },
+    {
+     "titolo": "Metsola, 'il popolo della Bielorussia sarà libero, Ue al suo fianco'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/metsola-il-popolo-della-bielorussia-sara-libero-ue-al-suo-fianco_ff714fcb-2248-4e59-8896-5edb9f0219ed.html",
+     "data": "2026-08-09T09:24:18+00:00"
+    },
+    {
+     "titolo": "Iran, 'accordo con Oman non significa riapertura Stretto Hormuz'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/iran-accordo-con-oman-non-significa-riapertura-stretto-hormuz_9b79dcdf-c94d-430d-a6f5-741bfb541440.html",
+     "data": "2026-08-09T09:18:24+00:00"
+    },
+    {
+     "titolo": "Nyt, 'la guerra prosciuga le scorte di missili statunitensi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/nyt-la-guerra-prosciuga-le-scorte-di-missili-statunitensi_a9998bec-c7c3-4fd6-8260-d85e40383e82.html",
+     "data": "2026-08-09T09:10:58+00:00"
+    },
+    {
      "titolo": "Usa, tutti gli agenti Ice saranno forniti di bodycam entro agosto",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/usa-tutti-gli-agenti-ice-saranno-forniti-di-bodycam-entro-agosto_ec383b65-54bb-4094-83b2-84da70a7d70f.html",
      "data": "2026-08-09T07:56:03+00:00"
@@ -291,19 +321,9 @@
      "data": "2026-08-09T06:46:08+00:00"
     },
     {
-     "titolo": "Teheran: 'Se Usa non correggeranno il loro comportamento Hormuz resterà chiuso'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/09/teheran-se-usa-non-correggeranno-il-loro-comportamento-hormuz-restera-chiuso_ad725f93-64e6-4cdf-91d4-fe3cd4a442b6.html",
-     "data": "2026-08-09T08:58:07+00:00"
-    },
-    {
      "titolo": "Ankara, 'Egitto potrebbe essere il prossimo ad aderire al Patto della Mecca'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/ankara-egitto-potrebbe-essere-il-prossimo-ad-aderire-al-patto-della-mecca_ddb23b7d-3900-4eb8-be8c-7332245eb48a.html",
      "data": "2026-08-09T03:34:26+00:00"
-    },
-    {
-     "titolo": "Odessa sotto attacco russo, danneggiati edifici e infrastrutture",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/odessa-sotto-attacco-russo-danneggiati-edifici-e-infrastrutture_7438b242-98a9-4bf4-87f6-9f68cf124c64.html",
-     "data": "2026-08-09T05:38:54+00:00"
     },
     {
      "titolo": "Teheran, 'se Usa non correggeranno il loro comportamento Hormuz resterà chiuso'",
@@ -319,26 +339,6 @@
      "titolo": "La British Columbia dichiara lo stato d'emergenza per i roghi, 20.000 evacuati",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/la-british-columbia-dichiara-lo-stato-demergenza-per-i-roghi-20.000-evacuati_e733efe1-70db-4b4b-9112-24788f122f9d.html",
      "data": "2026-08-08T21:56:38+00:00"
-    },
-    {
-     "titolo": "Machado celebra la libertà di Afiuni dopo 16 anni, 'avanti fino alla fine'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/machado-celebra-la-liberta-di-afiuni-dopo-16-anni-avanti-fino-alla-fine_70a29027-ecf4-4c6f-97a5-261b98b6243a.html",
-     "data": "2026-08-08T21:51:42+00:00"
-    },
-    {
-     "titolo": "I candidati politici Lgbtq+ in Quebec segnalano un'ondata di odio online",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/i-candidati-politici-lgbtq-in-quebec-segnalano-unondata-di-odio-online_cc360c39-25ac-4522-86df-bd005b524012.html",
-     "data": "2026-08-08T21:48:07+00:00"
-    },
-    {
-     "titolo": "Acerbo (Rifondazione), 'a Cuba contro il blocco Usa. Dopo Gaza una nuova sofferenza'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/acerbo-rifondazione-a-cuba-contro-il-blocco-usa.-dopo-gaza-una-nuova_6fe8b50c-638d-4b83-a9e7-02f292ccc9e2.html",
-     "data": "2026-08-08T21:34:49+00:00"
-    },
-    {
-     "titolo": "Esercito Yemen, 'gli Houthi hanno ripreso gli attacchi a Marib'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/08/esercito-yemen-gli-houthi-hanno-ripreso-gli-attacchi-a-marib_49c7e79d-1d6a-4f13-965b-18601cca36cd.html",
-     "data": "2026-08-08T21:28:51+00:00"
     }
    ]
   },
@@ -411,6 +411,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: la Fifa difende Infantino, \"qualcuno vuole indebolire noi e il presidente\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/calcio-la-fifa-difende-infantino-qualcuno-vuole-indebolire-noi-e-il-presidente_d545537e-37a2-44b3-b52e-eedc1e293375.html",
+     "data": "2026-08-09T09:33:44+00:00"
+    },
+    {
      "titolo": "Atletica: Mondiali U20, due ori per l'Italia nel lungo e staffetta 4x100 mista",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/atletica-mondiali-u20-due-ori-per-litalia-nel-lungo-e-staffetta_4d2f4f05-93fc-4d67-abad-a2ae032a5e07.html",
      "data": "2026-08-09T08:31:22+00:00"
@@ -418,7 +423,7 @@
     {
      "titolo": "Tennis, n.1 al mondo Sabalenka sconfitta da Alexandrova a Toronto",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/tennis-n.1-al-mondo-sabalenka-sconfitta-da-alexandrova-a-toronto_dc08966d-063a-4e6d-80af-9d4f61649ea3.html",
-     "data": "2026-08-09T06:01:54+00:00"
+     "data": "2026-08-09T09:52:26+00:00"
     },
     {
      "titolo": "Darderi ai quarti del Master 1000 di Toronto",
@@ -464,11 +469,6 @@
      "titolo": "Europei di nuoto: venti metri sopra il cielo, Cosetti-Barnaba argento di coppia",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/08/europei-di-nuoto-barnaba-e-cosetti-argento-di-coppia-scritto-nel-destino_fe2bb7fc-04cc-4a9d-8907-47d5f65c4c80.html",
      "data": "2026-08-08T16:47:02+00:00"
-    },
-    {
-     "titolo": "Calcio: Roma ko a Brighton, Gasperini: 'Dal mercato manca qualcosa'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/la-roma-chiude-male-il-ritiro-ko-3-0-con-il-brighton_36454960-ef8c-490d-9d7d-b21bc1b2306a.html",
-     "data": "2026-08-08T22:29:02+00:00"
     }
    ]
   }
