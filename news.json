@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-09T02:54:17.962402+00:00",
+ "aggiornato": "2026-08-09T04:06:30.512617+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Ankara, 'Egitto potrebbe essere il prossimo ad aderire al Patto della Mecca'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/ankara-egitto-potrebbe-essere-il-prossimo-ad-aderire-al-patto-della-mecca_8fcf7fa7-66df-45a0-b4c5-3ab74c829532.html",
+     "data": "2026-08-09T03:34:28+00:00"
+    },
     {
      "titolo": "Tennis, n.1 al mondo Sabalenka sconfitta da Alexandrova a Toronto",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/tennis-n.1-al-mondo-sabalenka-sconfitta-da-alexandrova-a-toronto_5eb7667e-1e90-42ec-8672-444472659aa6.html",
@@ -14,11 +19,6 @@
      "titolo": "Odessa sotto attacco russo, danneggiati edifici e infrastrutture",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/odessa-sotto-attacco-russo-danneggiati-edifici-e-infrastrutture_0a6b9dfe-f983-4651-8f8e-0eb2977fb02f.html",
      "data": "2026-08-09T01:29:38+00:00"
-    },
-    {
-     "titolo": "Teheran, 'se Usa non correggeranno il loro comportamento Hormuz resterà chiuso'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/teheran-se-usa-non-correggeranno-il-loro-comportamento-hormuz-restera-chiuso_ad725f93-64e6-4cdf-91d4-fe3cd4a442b6.html",
-     "data": "2026-08-09T02:15:10+00:00"
     },
     {
      "titolo": "'Pentagono ha chiesto alle industrie della difesa di accelerare la produzione di armi'",
@@ -271,6 +271,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ankara, 'Egitto potrebbe essere il prossimo ad aderire al Patto della Mecca'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/ankara-egitto-potrebbe-essere-il-prossimo-ad-aderire-al-patto-della-mecca_ddb23b7d-3900-4eb8-be8c-7332245eb48a.html",
+     "data": "2026-08-09T03:34:26+00:00"
+    },
+    {
      "titolo": "Odessa sotto attacco russo, danneggiati edifici e infrastrutture",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/odessa-sotto-attacco-russo-danneggiati-edifici-e-infrastrutture_7438b242-98a9-4bf4-87f6-9f68cf124c64.html",
      "data": "2026-08-09T01:29:55+00:00"
@@ -324,11 +329,6 @@
      "titolo": "Il giudice Moraes nega a Bolsonaro la visita dei figli per la festa del papà",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/il-giudice-moraes-nega-a-bolsonaro-la-visita-dei-figli-per-la-festa-del_24d693ae-af2c-4274-86e0-57bd31abb534.html",
      "data": "2026-08-08T20:24:32+00:00"
-    },
-    {
-     "titolo": "Quattro morti in un incidente d'elicottero a Rio, tre sono turiste colombiane",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/08/quattro-morti-in-un-incidente-delicottero-a-rio-tre-sono-turiste-colombiane_fd3e00d6-f9ff-4143-b285-7d34acbe35a6.html",
-     "data": "2026-08-08T20:14:53+00:00"
     }
    ]
   },
