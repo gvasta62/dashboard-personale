@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-09T20:16:10.221353+00:00",
+ "aggiornato": "2026-08-09T20:57:45.113726+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, 'la Lega Araba condanna gli attacchi degli Houthi in Yemen'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/media-la-lega-araba-condanna-gli-attacchi-degli-houthi-in-yemen_b6781694-781f-42f7-96a1-276c81118024.html",
+     "data": "2026-08-09T20:29:00+00:00"
+    },
+    {
+     "titolo": "Picco di stelle cadenti negli Usa, tra le 50 e le 100 all'ora nei prossimi giorni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/picco-di-stelle-cadenti-negli-usa-tra-le-50-e-le-100-allora-nei-prossimi_14fad4f3-6390-48fa-82a0-eecec072175b.html",
+     "data": "2026-08-09T20:19:14+00:00"
+    },
     {
      "titolo": "Migliaia di residenti di Ceuta in piazza, chiedono risposte alla Spagna e all'Ue",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/migliaia-di-residenti-di-ceuta-in-piazza-chiedono-risposte-alla-spagna-e-allue_0579916d-7b1c-48a6-b6e7-d2042ae98bb8.html",
@@ -44,16 +54,6 @@
      "titolo": "Zelensky 'la prossima settimana nuovi contatti coi mediatori per la pace'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/zelensky-la-prossima-settimana-nuovi-contatti-coi-mediatori-per-la-pace_613a4c01-c1f6-4de3-9c00-dbf8c9b2748f.html",
      "data": "2026-08-09T18:09:51+00:00"
-    },
-    {
-     "titolo": "Trump, 'sull'Iran sto mantendo un profilo basso'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/trump-sulliran-sto-mantendo-un-profilo-basso_c696bca4-a45a-4ce1-bf0a-e062dbfb5593.html",
-     "data": "2026-08-09T17:46:43+00:00"
-    },
-    {
-     "titolo": "Hamas 'riafferma il suo impegno ad attuare il piano Trump per Gaza'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/hamas-riafferma-il-suo-impegno-ad-attuare-il-piano-trump-per-gaza_0118be17-d820-4f8f-bf1c-229be03798da.html",
-     "data": "2026-08-09T17:11:32+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Esce di strada col sidecar, morto il conducente",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/esce-di-strada-col-sidecar-morto-il-conducente_a714c9f9-7936-48cc-a33e-67bcc164beaa.html",
+     "data": "2026-08-09T20:53:18+00:00"
+    },
+    {
      "titolo": "Bimbo cade dalla finestra di casa in Friuli",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/bimbo-cade-dalla-finestra-di-casa-in-friuli_2924d172-5b33-44bc-84fc-944bfb16c21e.html",
      "data": "2026-08-09T18:50:35+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Campi Flegrei: sale a 2.172 il numero degli sfollati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/campi-flegrei-sale-a-2.172-il-numero-degli-sfollati_8fde7951-baa2-48c1-a2b6-a6f8f100c658.html",
      "data": "2026-08-09T16:23:33+00:00"
-    },
-    {
-     "titolo": "Esodo estivo, oltre 22 milioni di veicoli sulla rete, traffico regolare",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/esodo-estivo-oltre-22-milioni-di-veicoli-sulla-rete-traffico-regolare_a8af70ef-9f36-4c01-a76c-85678eb5f35a.html",
-     "data": "2026-08-09T19:47:34+00:00"
     }
    ]
   },
@@ -266,6 +266,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Media, 'la Lega Araba condanna gli attacchi degli Houthi in Yemen'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/media-la-lega-araba-condanna-gli-attacchi-degli-houthi-in-yemen_a4fc0f32-c3bb-4c3f-9bee-42373a1c054e.html",
+     "data": "2026-08-09T20:29:04+00:00"
+    },
+    {
+     "titolo": "Picco di stelle cadenti negli Usa, tra le 50 e le 100 all'ora nei prossimi giorni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/picco-di-stelle-cadenti-negli-usa-tra-le-50-e-le-100-allora-nei-prossimi_019c074b-42d2-4916-ba33-7c56560bf7f7.html",
+     "data": "2026-08-09T20:19:28+00:00"
+    },
+    {
      "titolo": "Migliaia di residenti di Ceuta in piazza, chiedono risposte alla Spagna e all'Ue",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/migliaia-di-residenti-di-ceuta-in-piazza-chiedono-risposte-alla-spagna-e-allue_5dd11239-2783-436b-8d7c-50d98395f65d.html",
      "data": "2026-08-09T20:09:15+00:00"
@@ -314,16 +324,6 @@
      "titolo": "Trump, 'sull'Iran sto mantendo un profilo basso'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/trump-sulliran-sto-mantendo-un-profilo-basso_546d32c5-03fd-4feb-af0c-f685c515a37e.html",
      "data": "2026-08-09T17:46:58+00:00"
-    },
-    {
-     "titolo": "Hamas 'riafferma il suo impegno ad attuare il piano Trump per Gaza'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/hamas-riafferma-il-suo-impegno-ad-attuare-il-piano-trump-per-gaza_7742f506-ec2c-4006-a956-740e424d6bba.html",
-     "data": "2026-08-09T17:11:50+00:00"
-    },
-    {
-     "titolo": "In cinquecento nudi in bicicletta a Berlino, per la protezione del clima",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/in-cinquecento-nudi-in-bicicletta-a-berlino-per-la-protezione-del-clima_e2bbb978-41d0-4339-bcb1-47d36b1dc780.html",
-     "data": "2026-08-09T17:10:27+00:00"
     }
    ]
   },
@@ -396,6 +396,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "L'omaggio di Jacobs a Livio Berruti: 'Agli Europei corriamo per lui'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/09/lomaggio-di-jacobs-a-livio-berruti-agli-europei-corriamo-per-lui_3f6a214e-a527-4538-a914-a3be0114724d.html",
+     "data": "2026-08-09T20:45:56+00:00"
+    },
+    {
+     "titolo": "Lazio di rimonta, Frosinone battuto con la doppietta di Zaccagni",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/lazio-di-rimonta-frosinone-battuto-con-la-doppietta-di-zaccagni_6d31b3b5-0a7e-467d-97af-176fd9800469.html",
+     "data": "2026-08-09T20:46:52+00:00"
+    },
+    {
+     "titolo": "Nba: è morto Don Nelson, leggenda da giocatore e da allenatore",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/09/nba-e-morto-don-nelson-leggenda-da-giocatore-e-da-allenatore_d524f5c6-a73d-4241-b54a-b327e973a355.html",
+     "data": "2026-08-09T20:20:32+00:00"
+    },
+    {
+     "titolo": "Addio all'angelo Livio Berruti, copertina di un'Italia felice",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/addio-allangelo-livio-berruti-copertina-di-unitalia-felice_e8b34776-f6df-4a4c-b37b-f579667ece82.html",
+     "data": "2026-08-09T20:46:11+00:00"
+    },
+    {
      "titolo": "Addio all'angelo Berruti, copertina di un'Italia felice",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/09/addio-allangelo-berruti-copertina-di-unitalia-felice_294d64d4-22ed-492b-a3c1-129a4a55d7c5.html",
      "data": "2026-08-09T20:05:58+00:00"
@@ -416,11 +436,6 @@
      "data": "2026-08-09T19:05:11+00:00"
     },
     {
-     "titolo": "Addio a Livio Berruti, campione olimpico a Roma 1960",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/addio-a-livio-berruti-campione-olimpico-a-roma-1960_e8b34776-f6df-4a4c-b37b-f579667ece82.html",
-     "data": "2026-08-09T19:19:34+00:00"
-    },
-    {
      "titolo": "Calciomercato: Vlahovic apre al Besiktas, idea Rodrigo Mora per la Roma",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/09/calciomercato-vlahovic-apre-al-besiktas-idea-rodrigo-mora-per-la-roma_7604fa54-8feb-4607-bb8f-acb379b50489.html",
      "data": "2026-08-09T18:47:59+00:00"
@@ -439,21 +454,6 @@
      "titolo": "Europei atletica: Fabbri 'io l'uomo da battere, sogno un trio azzurro sul podio'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/europei-atletica-fabbri-io-luomo-da-battere-sogno-un-trio-azzurro-sul-podio_7e34dd67-7765-4460-ac20-5794b445ee98.html",
      "data": "2026-08-09T17:20:23+00:00"
-    },
-    {
-     "titolo": "Ciclismo: Vollering trionfa anche nell'ultima tappa, suo il Tour de France Femmes",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/09/vollering-trionfa-anche-nellultima-tappa-suo-il-tour-de-france-femmes_92572546-6c7d-483b-9e67-32e94240b173.html",
-     "data": "2026-08-09T19:07:56+00:00"
-    },
-    {
-     "titolo": "Sinner 'deluso di non poter giocare a Cincinnati, obiettivo Us Open'",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/sinner-deluso-di-non-poter-giocare-a-cincinnati-obiettivo-us-open_fbce9a4c-c7a5-4304-bf45-a4bb2993e616.html",
-     "data": "2026-08-09T16:24:22+00:00"
-    },
-    {
-     "titolo": "Frosinone: in A per restarci, il club passa a un fondo Usa",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/frosinone-in-a-per-restarci-il-club-passa-a-un-fondo-usa_3504db46-a4c2-4b0a-b867-e73e5ec4bcc3.html",
-     "data": "2026-08-09T16:19:17+00:00"
     }
    ]
   }
