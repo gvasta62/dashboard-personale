@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-09T17:00:56.555800+00:00",
+ "aggiornato": "2026-08-09T17:53:52.936704+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, 'sull'Iran sto mantendo un profilo basso'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/trump-sulliran-sto-mantendo-un-profilo-basso_c696bca4-a45a-4ce1-bf0a-e062dbfb5593.html",
+     "data": "2026-08-09T17:46:43+00:00"
+    },
+    {
+     "titolo": "Hamas 'riafferma il suo impegno ad attuare il piano Trump per Gaza'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/hamas-riafferma-il-suo-impegno-ad-attuare-il-piano-trump-per-gaza_0118be17-d820-4f8f-bf1c-229be03798da.html",
+     "data": "2026-08-09T17:11:32+00:00"
+    },
+    {
+     "titolo": "In cinquecento nudi in bicicletta a Berlino, per la protezione del clima",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/in-cinquecento-nudi-in-bicicletta-a-berlino-per-la-protezione-del-clima_44078670-f7f6-4675-afb5-b6adbd109bd0.html",
+     "data": "2026-08-09T17:09:45+00:00"
+    },
     {
      "titolo": "Un'altra settimana di caldo, sarà un Ferragosto a 40 gradi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/unaltra-settimana-di-caldo-sara-un-ferragosto-a-40-gradi_eb336bff-4c62-4049-b2c0-e39d3e255f91.html",
@@ -39,21 +54,6 @@
      "titolo": "Esodo estivo, oltre 22 milioni di veicoli sulla rete, traffico regolare",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/esodo-estivo-oltre-22-milioni-di-veicoli-sulla-rete-traffico-regolare_21d3e07a-ab02-47cb-a166-b333319f1f3a.html",
      "data": "2026-08-09T15:03:08+00:00"
-    },
-    {
-     "titolo": "Quinta ondata di caldo estremo in Gb, si aggrava l'allarme siccità",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/quinta-ondata-di-caldo-estremo-in-gb-si-aggrava-lallarme-siccita_68bd58fa-24c5-4c33-90e5-9a528c4db4a7.html",
-     "data": "2026-08-09T14:58:04+00:00"
-    },
-    {
-     "titolo": "Furgone con braccianti si ribalta nel Foggiano, un morto e 8 feriti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/furgone-con-braccianti-si-ribalta-nel-foggiano-un-morto-e-8-feriti_2763e4e8-3cf0-4f91-b859-be379862c863.html",
-     "data": "2026-08-09T14:31:48+00:00"
-    },
-    {
-     "titolo": "Ministro pachistano, alleanza fra Paesi islamici è contro 'minaccia Israele'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/ministro-pachistano-alleanza-fra-paesi-islamici-e-contro-minaccia-israele_5e269574-c208-4510-8a66-f0135190c073.html",
-     "data": "2026-08-09T13:44:44+00:00"
     }
    ]
   },
@@ -126,6 +126,31 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Travolto dal gommone, regista 29enne muore nel mare di Lampedusa",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/-travolto-dal-gommone-regista-29enne-muore-nel-mare-di-lampedusa-_5bd47e66-b190-4354-b5cf-9e1f609d183b.html",
+     "data": "2026-08-09T17:40:49+00:00"
+    },
+    {
+     "titolo": "Due uomini soccorsi durante lo spegnimento di incendi in Piemonte",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/due-uomini-soccorsi-durante-lo-spegnimento-di-incendi-in-piemonte_fb06e9a2-0a07-4d82-a2d4-231ec495b383.html",
+     "data": "2026-08-09T17:31:09+00:00"
+    },
+    {
+     "titolo": "Nicola pestato a morte, si cerca un quinto ragazzo del branco",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/nicola-pestato-a-morte-si-cerca-un-quinto-ragazzo-del-branco_9873b75c-5b7a-42f2-8073-4e0e5ae9c391.html",
+     "data": "2026-08-09T17:24:50+00:00"
+    },
+    {
+     "titolo": "A fuoco una barca nella Laguna veneta, due ustionati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/a-fuoco-una-barca-nella-laguna-veneta-due-ustionati_bd534c24-3bf3-4a5d-8a3d-3fa72cd2651c.html",
+     "data": "2026-08-09T17:17:51+00:00"
+    },
+    {
+     "titolo": "Un'altra settimana di caldo, sarà un Ferragosto a 40 gradi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/unaltra-settimana-di-caldo-sara-un-ferragosto-a-40-gradi-_e562fabc-c6bf-4f27-a113-49b7c274af35.html",
+     "data": "2026-08-09T16:53:48+00:00"
+    },
+    {
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-08-09T16:41:04+00:00"
@@ -159,31 +184,6 @@
      "titolo": "Bimbo di tre anni investito, muore in ospedale dopo tre giorni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/bimbo-di-tre-anni-investito-muore-in-ospedale-dopo-tre-giorni_516c11b0-3e18-494a-b5ea-3171496612c5.html",
      "data": "2026-08-09T13:35:15+00:00"
-    },
-    {
-     "titolo": "Breve tregua temporalesca, poi caldo record per la settimana di Ferragosto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/breve-tregua-temporalesca-poi-caldo-record-per-la-settimana-di-ferragosto_e562fabc-c6bf-4f27-a113-49b7c274af35.html",
-     "data": "2026-08-09T13:41:06+00:00"
-    },
-    {
-     "titolo": "Sindacato medici, 'in estate accessi al pronto soccorso aumentano del 15%'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/sindacato-medici-in-estate-accessi-al-pronto-soccorso-aumentano-del-15_9b59cf4d-835b-4b77-ac1d-8fcdefe95d5a.html",
-     "data": "2026-08-09T11:45:30+00:00"
-    },
-    {
-     "titolo": "Litiga con i ciclisti e li investe, 'chiedo perdono ai familiari'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/litiga-con-i-ciclisti-e-li-investe-chiedo-perdono-ai-familiari_3eb5fb20-cb16-43ec-9e3f-1db4294f190b.html",
-     "data": "2026-08-09T11:28:48+00:00"
-    },
-    {
-     "titolo": "Litiga con i ciclisti e li investe, 'chiedo perdono ai familiari'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/litiga-con-i-ciclisti-e-li-investe-chiedo-perdono-ai-familiari_ff766237-0e3a-481d-8a40-643d6aef8946.html",
-     "data": "2026-08-09T12:13:58+00:00"
-    },
-    {
-     "titolo": "Incendi ancora attivi sul Carso tra Trieste e Gorizia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/incendi-ancora-attivi-sul-carso-tra-trieste-e-gorizia_c47c124e-535b-468b-a660-59396af76f3a.html",
-     "data": "2026-08-09T11:11:24+00:00"
     }
    ]
   },
@@ -266,9 +266,24 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump, 'sull'Iran sto mantendo un profilo basso'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/trump-sulliran-sto-mantendo-un-profilo-basso_546d32c5-03fd-4feb-af0c-f685c515a37e.html",
+     "data": "2026-08-09T17:46:58+00:00"
+    },
+    {
+     "titolo": "Hamas 'riafferma il suo impegno ad attuare il piano Trump per Gaza'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/hamas-riafferma-il-suo-impegno-ad-attuare-il-piano-trump-per-gaza_7742f506-ec2c-4006-a956-740e424d6bba.html",
+     "data": "2026-08-09T17:11:50+00:00"
+    },
+    {
+     "titolo": "In cinquecento nudi in bicicletta a Berlino, per la protezione del clima",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/in-cinquecento-nudi-in-bicicletta-a-berlino-per-la-protezione-del-clima_e2bbb978-41d0-4339-bcb1-47d36b1dc780.html",
+     "data": "2026-08-09T17:10:27+00:00"
+    },
+    {
      "titolo": "Nuovo giallo a Teheran, 'Mojtaba Khamenei ha incontrato Pezeshkian'",
      "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/09/nuovo-giallo-a-teheran-mojtaba-khamenei-ha-incontrato-pezeshkian_ad725f93-64e6-4cdf-91d4-fe3cd4a442b6.html",
-     "data": "2026-08-09T16:46:28+00:00"
+     "data": "2026-08-09T17:12:45+00:00"
     },
     {
      "titolo": "Recuperato al largo di Ceuta il corpo di un altro migrante, bilancio sale a 142 morti",
@@ -288,7 +303,7 @@
     {
      "titolo": "Milioni di chili di cibo in decomposizione, un quartiere di Los Angeles soffoca",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/milioni-di-chili-di-cibo-in-decomposizione-un-quartiere-di-los-angeles-soffoca_05487f05-6cd8-4f93-9777-b9b0c40b4661.html",
-     "data": "2026-08-09T16:28:11+00:00"
+     "data": "2026-08-09T17:01:58+00:00"
     },
     {
      "titolo": "Messico, riparte l'export di avocado da Michoacán verso gli Usa",
@@ -309,21 +324,6 @@
      "titolo": "Petro, hanno deciso negli Usa di non far cadere i capi dei narcos",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/petro-hanno-deciso-negli-usa-di-non-far-cadere-i-capi-dei_16b27274-b29c-482e-ab83-97a3124eed9f.html",
      "data": "2026-08-09T13:23:36+00:00"
-    },
-    {
-     "titolo": "Damasco annuncia un accordo con Mosca sulle basi militari russe in Siria",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/damasco-annuncia-un-accordo-con-mosca-sulle-basi-militari-russe-in-siria_d3e47723-b7dc-4a1e-b137-9e32353e6958.html",
-     "data": "2026-08-09T13:22:31+00:00"
-    },
-    {
-     "titolo": "Colombia, catturato il capo dei Comandos de Frontera alias 'Bonito'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/colombia-catturato-il-capo-dei-comandos-de-frontera-alias-bonito_bc388afc-c3fb-4035-810a-74005b2296a0.html",
-     "data": "2026-08-09T13:17:58+00:00"
-    },
-    {
-     "titolo": "Cuba, nuove norme sulle rinnovabili mentre la crisi elettrica si aggrava",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/cuba-nuove-norme-sulle-rinnovabili-mentre-la-crisi-elettrica-si-aggrava_1a136629-8908-410e-a96c-3538d3035884.html",
-     "data": "2026-08-09T13:14:39+00:00"
     }
    ]
   },
@@ -396,6 +396,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei atletica: Fabbri 'io l'uomo da battere, sogno un trio azzurro sul podio'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/europei-atletica-fabbri-io-luomo-da-battere-sogno-un-trio-azzurro-sul-podio_7e34dd67-7765-4460-ac20-5794b445ee98.html",
+     "data": "2026-08-09T17:20:23+00:00"
+    },
+    {
+     "titolo": "Vollering trionfa anche nell'ultima tappa, suo il Tour de France Femmes",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/09/vollering-trionfa-anche-nellultima-tappa-suo-il-tour-de-france-femmes_92572546-6c7d-483b-9e67-32e94240b173.html",
+     "data": "2026-08-09T17:14:09+00:00"
+    },
+    {
      "titolo": "Sinner 'deluso di non poter giocare a Cincinnati, obiettivo Us Open'",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/sinner-deluso-di-non-poter-giocare-a-cincinnati-obiettivo-us-open_fbce9a4c-c7a5-4304-bf45-a4bb2993e616.html",
      "data": "2026-08-09T16:24:22+00:00"
@@ -444,16 +454,6 @@
      "titolo": "Sassuolo: da Grosso ad Aquilani, sempre a trazione anteriore",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/sassuolo-da-grosso-ad-aquilani-sempre-a-trazione-anteriore_3d6bfecf-74bc-4ae7-a541-49b2b74780c5.html",
      "data": "2026-08-09T16:31:55+00:00"
-    },
-    {
-     "titolo": "Sinner salta Cincinnati per un problema al ginocchio destro. 'Obiettivo Us Open'",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/sinner-salta-cincinnati-per-un-problema-al-ginocchio-destro_99944fbe-67d2-4bcb-9058-11dd26b792f7.html",
-     "data": "2026-08-09T16:36:04+00:00"
-    },
-    {
-     "titolo": "Torino: con Abate, Vlasic e Simeone per il salto di qualità",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/torino-con-abate-vlasic-e-simeone-per-il-salto-di-qualita_9e3323a1-605d-45cc-a85f-842cf3809a9d.html",
-     "data": "2026-08-09T16:23:54+00:00"
     }
    ]
   }
