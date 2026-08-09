@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-09T21:24:15.837920+00:00",
+ "aggiornato": "2026-08-09T21:54:22.867830+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Oltre 5.000 indigeni marciano per la difesa dei loro territori nel sud del Messico",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/oltre-5.000-indigeni-marciano-per-la-difesa-dei-loro-territori-nel_28502997-bec0-4aab-859d-8dc91859a00e.html",
+     "data": "2026-08-09T21:46:13+00:00"
+    },
+    {
+     "titolo": "Media, '108 attacchi da parte di Israele contro i giornalisti palestinesi a luglio'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/media-108-attacchi-da-parte-di-israele-contro-i-giornalisti-palestinesi-a-luglio_31363381-5e44-466e-b25f-7cf2e46f35cc.html",
+     "data": "2026-08-09T21:29:01+00:00"
+    },
     {
      "titolo": "Media, 'la Lega Araba condanna gli attacchi degli Houthi in Yemen'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/media-la-lega-araba-condanna-gli-attacchi-degli-houthi-in-yemen_b6781694-781f-42f7-96a1-276c81118024.html",
@@ -44,16 +54,6 @@
      "titolo": "L'account di Trump usa un brano di Taylor Swift per un video, poi lo toglie",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/laccount-di-trump-usa-un-brano-di-taylor-swift-per-un-video-poi-lo-toglie_f04b4e55-3298-449c-a876-847259414357.html",
      "data": "2026-08-09T19:02:45+00:00"
-    },
-    {
-     "titolo": "Evacuate oltre 400 persone a Huelva in Spagna per un incendio boschivo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/evacuate-oltre-400-persone-a-huelva-in-spagna-per-un-incendio-boschivo_aec1814e-e8ae-481c-9d74-3def91e9ad7c.html",
-     "data": "2026-08-09T18:38:50+00:00"
-    },
-    {
-     "titolo": "Zelensky 'la prossima settimana nuovi contatti coi mediatori per la pace'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/zelensky-la-prossima-settimana-nuovi-contatti-coi-mediatori-per-la-pace_613a4c01-c1f6-4de3-9c00-dbf8c9b2748f.html",
-     "data": "2026-08-09T18:09:51+00:00"
     }
    ]
   },
@@ -266,6 +266,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Oltre 5.000 indigeni marciano per la difesa dei loro territori nel sud del Messico",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/oltre-5.000-indigeni-marciano-per-la-difesa-dei-loro-territori-nel_32d6e95e-145d-492a-93a8-68773d630ff7.html",
+     "data": "2026-08-09T21:46:27+00:00"
+    },
+    {
+     "titolo": "Media, '108 attacchi da parte di Israele contro i giornalisti palestinesi a luglio'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/media-108-attacchi-da-parte-di-israele-contro-i-giornalisti-palestinesi-a-luglio_20ec0349-b48b-4244-abc4-6ac31198886b.html",
+     "data": "2026-08-09T21:29:04+00:00"
+    },
+    {
      "titolo": "Media, 'la Lega Araba condanna gli attacchi degli Houthi in Yemen'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/media-la-lega-araba-condanna-gli-attacchi-degli-houthi-in-yemen_a4fc0f32-c3bb-4c3f-9bee-42373a1c054e.html",
      "data": "2026-08-09T20:29:04+00:00"
@@ -314,16 +324,6 @@
      "titolo": "Nuovo appello del Papa: 'Basta violenze in Ucraina e Russia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/nuovo-appello-del-papa-basta-violenze-in-ucraina-e-russia_7438b242-98a9-4bf4-87f6-9f68cf124c64.html",
      "data": "2026-08-09T18:13:09+00:00"
-    },
-    {
-     "titolo": "Zelensky 'la prossima settimana nuovi contatti coi mediatori per la pace'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/zelensky-la-prossima-settimana-nuovi-contatti-coi-mediatori-per-la-pace_e391b130-9fc1-4890-aeef-c86548bcaef4.html",
-     "data": "2026-08-09T18:09:53+00:00"
-    },
-    {
-     "titolo": "Trump, 'sull'Iran sto mantendo un profilo basso'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/trump-sulliran-sto-mantendo-un-profilo-basso_546d32c5-03fd-4feb-af0c-f685c515a37e.html",
-     "data": "2026-08-09T17:46:58+00:00"
     }
    ]
   },
@@ -396,6 +396,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Quando Livio Berruti scrisse per l'ANSA 'quei Giochi per cuori puliti'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/09/quando-livio-berruti-scrisse-per-lansa-quei-giochi-per-cuori_ad926fbd-2916-44f7-859f-7911884bfd1c.html",
+     "data": "2026-08-09T21:46:41+00:00"
+    },
+    {
+     "titolo": "Amichevoli: Gattuso, 'felice dell'interpretazione, questa Lazio può migliorare'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/amichevoli-gattuso-felice-dellinterpretazione-questa-lazio-puo-migliorare_09d21e2f-7e2f-44be-bfb3-962e4783531d.html",
+     "data": "2026-08-09T21:40:50+00:00"
+    },
+    {
      "titolo": "L'omaggio di Jacobs a Livio Berruti: 'Agli Europei corriamo per lui'",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/09/lomaggio-di-jacobs-a-livio-berruti-agli-europei-corriamo-per-lui_3f6a214e-a527-4538-a914-a3be0114724d.html",
      "data": "2026-08-09T20:45:56+00:00"
@@ -413,7 +423,7 @@
     {
      "titolo": "Addio all'angelo Livio Berruti, copertina di un'Italia felice",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/addio-allangelo-livio-berruti-copertina-di-unitalia-felice_e8b34776-f6df-4a4c-b37b-f579667ece82.html",
-     "data": "2026-08-09T21:11:12+00:00"
+     "data": "2026-08-09T21:50:22+00:00"
     },
     {
      "titolo": "Addio all'angelo Berruti, copertina di un'Italia felice",
@@ -444,16 +454,6 @@
      "titolo": "Europei di atletica, la carica dei 130 azzurri a caccia di sogni",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/09/europei-di-atletica-la-carica-dei-130-azzurri-a-caccia-di-sogni_ef3183d3-0d19-4e46-bbdb-e94b25ca989c.html",
      "data": "2026-08-09T19:02:11+00:00"
-    },
-    {
-     "titolo": "Europei: Ceccon, Curtis, Quadarella, a Parigi è l'ora dell'Italnuoto",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/09/europei-ceccon-curtis-quadarella-a-parigi-e-lora-dellitalnuoto_e82134f4-798c-4d25-913b-42aff1315114.html",
-     "data": "2026-08-09T19:55:50+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Fabbri 'io l'uomo da battere, sogno un trio azzurro sul podio'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/europei-atletica-fabbri-io-luomo-da-battere-sogno-un-trio-azzurro-sul-podio_7e34dd67-7765-4460-ac20-5794b445ee98.html",
-     "data": "2026-08-09T17:20:23+00:00"
     }
    ]
   }
