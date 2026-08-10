@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-10T10:53:32.124483+00:00",
+ "aggiornato": "2026-08-10T11:38:37.678036+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Valter Lavitola arrestato per l'attentato a Ranucci",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/valter-lavitola-arrestato-per-lattentato-a-ranucci_d5fa38dc-6818-4041-b4af-f0d45cc5560b.html",
+     "data": "2026-08-10T11:16:18+00:00"
+    },
+    {
+     "titolo": "Borsa: Europa sopra la parità, effetto Hormuz sul gas, Milano 0,15%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/borsa-europa-sopra-la-parita-effetto-hormuz-sul-gas-milano-015_4f2bdd0e-c677-43ba-8aaf-fd5b7fb627b6.html",
+     "data": "2026-08-10T11:06:24+00:00"
+    },
+    {
+     "titolo": "Federacciai, condizioni per manifestazione di interesse su ex Ilva",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/federacciai-condizioni-per-manifestazione-di-interesse-su-ex-ilva_871b8ef5-0559-4306-81a9-adbadb6aae9b.html",
+     "data": "2026-08-10T10:49:32+00:00"
+    },
+    {
+     "titolo": "Zuckerberg, 'Stati Uniti e alleati guidino l'ecosistema dell'IA open source'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/zuckerberg-stati-uniti-e-alleati-guidino-lecosistema-dellia-open-source_7fbf6890-17b2-43cc-957f-d1d2a1f7df44.html",
+     "data": "2026-08-10T10:48:52+00:00"
+    },
     {
      "titolo": "Italia ancora nella morsa del caldo, domani allerta in 19 città",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/italia-ancora-nella-morsa-del-caldo-domani-allerta-in-19-citta_a8a0db70-e932-4853-8501-6657e952c0c7.html",
@@ -34,32 +54,22 @@
      "titolo": "Tajani, 'bene Weber, difendere insieme le frontiere e potenziare Frontex'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/tajani-bene-weber-difendere-insieme-le-frontiere-e-potenziare-frontex_5c1c03f5-4802-45f0-a52e-a84bb5093a3a.html",
      "data": "2026-08-10T08:24:15+00:00"
-    },
-    {
-     "titolo": "Media, nella notte esplosione davanti a un'abitazione a Bruxelles",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/media-nella-notte-esplosione-davanti-a-unabitazione-a-bruxelles_54a12035-368b-4b28-abee-ea7d1a561488.html",
-     "data": "2026-08-10T08:11:30+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa fiacca, occhi sull'inflazione Usa, Milano -0,15%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/borsa-europa-fiacca-occhi-sullinflazione-usa-milano-015_1bf3c044-4eb2-4750-ba20-8a80f7ec96ca.html",
-     "data": "2026-08-10T08:10:09+00:00"
-    },
-    {
-     "titolo": "Media, 'ex parlamentare thailandese spara a funzionario poi chiama programma web'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/media-ex-parlamentare-thailandese-spara-a-funzionario-poi-chiama-programma-web_39d55df6-ccdf-487d-9311-8f6327fd1ef7.html",
-     "data": "2026-08-10T07:32:55+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano gira subito in calo (-0,15%), frena Tenaris, corre Stm",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/borsa-milano-gira-subito-in-calo-015-frena-tenaris-corre-stm_12fa42e2-8778-4369-b406-34885788f74a.html",
-     "data": "2026-08-10T07:28:54+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Cambio al vertice del Gruppo di Perugia della guardia di finanza",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/10/cambio-al-vertice-del-gruppo-di-perugia-della-guardia-di-finanza_1f285a9d-0dd4-4e04-82e9-8eb17a263459.html",
+     "data": "2026-08-10T11:16:43+00:00"
+    },
+    {
+     "titolo": "Tre bambini feriti in due incidenti stradali in provincia di Perugia",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/10/tre-bambini-feriti-in-due-incidenti-stradali-in-provincia-di-perugia_9dafac31-4c50-42d4-bfa2-45c43f553a37.html",
+     "data": "2026-08-10T11:05:51+00:00"
+    },
     {
      "titolo": "Lumumba, la commedia di Knox sull'omicidio Meredith? il mondo è malato...",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/10/lumumba-la-commedia-di-knox-sullomicidio-meredith-il-mondo-e-malato..._5b090cdd-8884-4d5f-8180-c8b1eda5645e.html",
@@ -109,16 +119,6 @@
      "titolo": "Confesercenti, il Pil dell'Umbria atteso a +0,6%, sotto la media nazionale",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/08/confesercenti-il-pil-dellumbria-atteso-a-06-sotto-la-media-nazionale_fc6e0039-daae-4436-9a12-add56b915ff6.html",
      "data": "2026-08-08T12:49:27+00:00"
-    },
-    {
-     "titolo": "Atletica: Castellani da record, vola l'azzurrina ai mondiali U20",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/08/atletica-castellani-da-record-vola-lazzurrina-ai-mondiali-u20_2baafe64-59a9-4d92-bbdc-68ef16c05377.html",
-     "data": "2026-08-08T12:17:05+00:00"
-    },
-    {
-     "titolo": "Aumentano le risorse al sistema universitario umbro",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/08/aumentano-le-risorse-al-sistema-universitario-umbro_f9fe1147-66aa-43f9-a89f-5a8a8cf9a462.html",
-     "data": "2026-08-08T12:17:02+00:00"
     }
    ]
   },
@@ -126,9 +126,54 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Nelle buie acque profonde del Mare di Ross c'è un 'pozzo' naturale di CO₂",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/nelle-buie-acque-profonde-del-mare-di-ross-ce-un-pozzo-naturale-di-co_98ee4cad-1623-4399-bb5f-bc80d2723a6c.html",
+     "data": "2026-08-10T11:26:09+00:00"
+    },
+    {
+     "titolo": "Sequestrati 252 chili di cocaina al porto di Gioia Tauro, due arresti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/sequestrati-252-chili-di-cocaina-al-porto-di-gioia-tauro-due-arresti_92f7b150-489c-47cc-a239-4898af026f00.html",
+     "data": "2026-08-10T11:21:13+00:00"
+    },
+    {
+     "titolo": "Valter Lavitola arrestato per l'attentato a Ranucci",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/valter-lavitola-arrestato-per-lattentato-a-ranucci_9005f909-83a7-495c-845d-7f7cd3958cb2.html",
+     "data": "2026-08-10T11:16:13+00:00"
+    },
+    {
+     "titolo": "Po a secco, annullata la processione e Cremona chiede lo stato di emergenza",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/po-a-secco-annullata-la-processione-e-cremona-chiede-lo-stato-di-emergenza_45a34da8-add5-4156-a59b-40b4fb2b0465.html",
+     "data": "2026-08-10T11:16:28+00:00"
+    },
+    {
+     "titolo": "Valter Lavitola arrestato per l'attentato a Ranucci",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/valter-lavitola-arrestato-per-lattentato-a-ranucci-_06df5fcd-1e88-4397-938f-9738782e7e29.html",
+     "data": "2026-08-10T11:30:43+00:00"
+    },
+    {
+     "titolo": "Emissione cenere sull'Etna, atterraggi sospesi a Catania fino alle 21",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/emissione-cenere-sulletna-atterraggi-sospesi-a-catania-fino-alle-21_4bab6509-001a-48ab-8a7a-894d06ccf3f3.html",
+     "data": "2026-08-10T11:06:27+00:00"
+    },
+    {
+     "titolo": "Aereo urta auto di servizio in scalo privato di Linate, nessun ferito",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/aereo-urta-auto-di-servizio-in-scalo-privato-di-linate-nessun-ferito_94f2ec3a-1eb2-40a4-8bae-524ca35dadee.html",
+     "data": "2026-08-10T11:06:53+00:00"
+    },
+    {
+     "titolo": "Ladri d'appartamento a 10 anni, due bambini fermati a Padova",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/ladri-dappartamento-a-10-anni-due-bambini-fermati-a-padova_851a40ab-6313-497f-b90d-d5c173368d46.html",
+     "data": "2026-08-10T11:02:47+00:00"
+    },
+    {
      "titolo": "Italia ancora nella morsa del caldo, domani allerta in 19 città",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/italia-ancora-nella-morsa-del-caldo-domani-allerta-in-19-citta_70323493-3fec-402e-a815-f7d50e4d93ba.html",
      "data": "2026-08-10T10:20:24+00:00"
+    },
+    {
+     "titolo": "Italia ancora nella morsa del caldo, domani allerta in 19 città",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/italia-ancora-nella-morsa-del-caldo-domani-allerta-in-19-citta_ab22e81b-040c-48b1-b313-eebc405b12eb.html",
+     "data": "2026-08-10T10:47:51+00:00"
     },
     {
      "titolo": "Immagini pedopornografiche con l'AI, un arresto nel Trevigiano",
@@ -139,51 +184,6 @@
      "titolo": "Lumumba, la commedia di Knox sull'omicidio Meredith? il mondo è malato...",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/lumumba-la-commedia-di-knox-sullomicidio-meredith-il-mondo-e-malato..._db3d834a-daf7-4575-98b4-d6131cf64d0b.html",
      "data": "2026-08-10T09:57:46+00:00"
-    },
-    {
-     "titolo": "Scippano l'orologio di lusso a un turista a Porto Rotondo, due arresti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/scippano-lorologio-di-lusso-a-un-turista-a-porto-rotondo-due-arresti_a1a314eb-b969-43cb-8ad5-4634c8b1be01.html",
-     "data": "2026-08-10T09:55:53+00:00"
-    },
-    {
-     "titolo": "Ketamina nascosta nella scatola dei corn flakes, due arresti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/ketamina-nascosta-nella-scatola-dei-corn-flakes-due-arresti_1da5f8ba-ed3f-49a1-919e-4b5ed8fa2cd9.html",
-     "data": "2026-08-10T09:26:36+00:00"
-    },
-    {
-     "titolo": "Interviene in una lite per difendere il figlio, 50enne è grave in ospedale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/interviene-nella-lite-per-difendere-il-figlio-50enne-e-grave-in-ospedale_014aa5ed-227e-4056-a110-93af739040b4.html",
-     "data": "2026-08-10T09:36:44+00:00"
-    },
-    {
-     "titolo": "Laika difende Spin Time, una tenda dipinta davanti alla sede di Investire",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/laika-difende-spin-time-una-tenda-dipinta-davanti-alla-sede_92a51ba6-83f7-4f3c-85fc-f805bb2df4b2.html",
-     "data": "2026-08-10T08:08:45+00:00"
-    },
-    {
-     "titolo": "Responsabile Pma San Raffaele, 'errore umano, uno ogni 26mila transfer'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/responsabile-pma-san-raffaele-errore-umano-uno-ogni-26mila-transfer_6b20f89a-076f-4e54-841d-683ca438cada.html",
-     "data": "2026-08-10T08:03:14+00:00"
-    },
-    {
-     "titolo": "Muore dopo un pestaggio all'esterno di una discoteca nel cosentino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/morto-dopo-un-pestaggio-allesterno-di-una-discoteca-_d317f31d-1b00-4ccf-9a5f-829e07e0b857.html",
-     "data": "2026-08-10T08:52:08+00:00"
-    },
-    {
-     "titolo": "Scossa di terremoto 3.0 nella zona dei Campi Flegrei",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/scossa-di-terremoto-3.0-nella-zona-dei-campi-flegrei_8cf3150f-9e6a-48f5-8610-864445c592e2.html",
-     "data": "2026-08-10T07:44:35+00:00"
-    },
-    {
-     "titolo": "Evasione fiscale da 1,3 milioni in strutture ricettive di lusso",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/evasione-fiscale-da-13-milioni-in-strutture-ricettive-di-lusso_9bf23d8c-bf15-4091-b0b4-bf906baa8ff8.html",
-     "data": "2026-08-10T07:29:13+00:00"
-    },
-    {
-     "titolo": "Morto per botulino: gli avvocati, 'sintomi scambiati per ubriachezza'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/morto-per-botulino-gli-avvocati-sintomi-scambiati-per-ubriachezza_273d7a5a-f7a2-42f3-afd0-1fae795549e1.html",
-     "data": "2026-08-10T07:07:39+00:00"
     }
    ]
   },
@@ -225,6 +225,16 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: Europa sopra la parità, effetto Hormuz sul gas, Milano 0,15%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-europa-sopra-la-parita-effetto-hormuz-sul-gas-milano-015_5da22494-6f6d-4fd7-9d38-1858fb4aea36.html",
+     "data": "2026-08-10T11:06:27+00:00"
+    },
+    {
+     "titolo": "Federacciai, condizioni per manifestazione di interesse su ex Ilva",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/federacciai-condizioni-per-manifestazione-di-interesse-su-ex-ilva_3fd24254-8e45-4d4d-9fe5-a8bfb3c2325b.html",
+     "data": "2026-08-10T10:50:40+00:00"
+    },
     {
      "titolo": "Con caldo rovente danni potenziali fino a 16mila euro per le auto",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/con-caldo-rovente-danni-potenziali-fino-a-16mila-euro-per-le-auto_fed7f5b4-b6cf-4149-9b42-5f50e363b677.html",
@@ -274,16 +284,6 @@
      "titolo": "Confcommercio, i consumi superano il record del 2007, più tecnologia e tempo libero",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/confcom-i-consumi-superano-il-record-del-2007-piu-tecnologia-e-tempo-libero_54e99b4f-854b-451d-b5ae-fcf1fe6b68d2.html",
      "data": "2026-08-10T09:31:34+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa fiacca, occhi sull'inflazione Usa, Milano -0,15%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-europa-fiacca-occhi-sullinflazione-usa-milano-015_92a61da5-486e-4e5e-a9d9-c2a2da6d020a.html",
-     "data": "2026-08-10T08:10:09+00:00"
-    },
-    {
-     "titolo": "Mimit, tavoli di crisi in calo da 55 a 37 da inizio legislatura",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/mimit-tavoli-di-crisi-in-calo-da-55-a-37-da-inizio-legislatura_ff94d951-b9dc-4696-a6de-43353b080265.html",
-     "data": "2026-08-10T08:57:52+00:00"
     }
    ]
   },
@@ -421,6 +421,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei atletica: primo salto e si fa subito male, ansia per Furlani",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/europei-atletica-primo-salto-e-si-fa-subito-male-ansia-per-furlani_f2788be1-5af8-4849-ab54-a82c9cb21103.html",
+     "data": "2026-08-10T11:07:53+00:00"
+    },
+    {
+     "titolo": "Calcio:giocatore festeggia gol ma salta cartelloni e cade nel tunnel, paura in Brasile",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/calciogiocatore-festeggia-gol-ma-salta-cartelloni-e-cade-nel-tunnel-paura-in-brasile_de280225-820e-4ea4-a7c8-3ef5d77bf794.html",
+     "data": "2026-08-10T10:52:26+00:00"
+    },
+    {
      "titolo": "Oltre 2.000 partite, su Sky al via 11 mesi di grande calcio",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/oltre-2.000-partite-su-sky-al-via-11-mesi-di-grande-calcio_d32f4a14-f1da-4a2e-9abf-5ea76f18b4a4.html",
      "data": "2026-08-10T10:37:14+00:00"
@@ -469,16 +479,6 @@
      "titolo": "Amichevoli: Gattuso, 'felice dell'interpretazione, questa Lazio può migliorare'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/amichevoli-gattuso-felice-dellinterpretazione-questa-lazio-puo-migliorare_09d21e2f-7e2f-44be-bfb3-962e4783531d.html",
      "data": "2026-08-09T21:40:50+00:00"
-    },
-    {
-     "titolo": "L'omaggio di Jacobs a Livio Berruti: 'Agli Europei corriamo per lui'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/09/lomaggio-di-jacobs-a-livio-berruti-agli-europei-corriamo-per-lui_3f6a214e-a527-4538-a914-a3be0114724d.html",
-     "data": "2026-08-09T20:45:56+00:00"
-    },
-    {
-     "titolo": "Lazio di rimonta, Frosinone battuto con la doppietta di Zaccagni",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/lazio-di-rimonta-frosinone-battuto-con-la-doppietta-di-zaccagni_6d31b3b5-0a7e-467d-97af-176fd9800469.html",
-     "data": "2026-08-09T20:46:52+00:00"
     }
    ]
   }
