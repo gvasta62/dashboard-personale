@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-10T18:09:03.899788+00:00",
+ "aggiornato": "2026-08-10T19:26:23.680223+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Zelensky, 'la Corea del nord continua a fornire missili a Mosca e si perfeziona'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/zelensky-la-corea-del-nord-continua-a-fornire-missili-a-mosca-e-si-perfeziona_1769eae5-c408-4aba-ad3d-6964299ff5ed.html",
+     "data": "2026-08-10T19:07:49+00:00"
+    },
+    {
+     "titolo": "Il petrolio chiude in rialzo di oltre il 5% a New York a 82,7 dollari",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/il-petrolio-chiude-in-rialzo-di-oltre-il-5-a-new-york-a-827-dollari_49ce3bce-2b5a-4f32-90a8-40d9cef991bd.html",
+     "data": "2026-08-10T18:38:56+00:00"
+    },
+    {
+     "titolo": "Presidente Colombia, il bilancio del terremoto è di 111 morti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/presidente-colombia-il-bilancio-del-terremoto-e-di-111-morti_2f7f2cd7-1234-4296-a8da-a2f6e480705c.html",
+     "data": "2026-08-10T18:36:37+00:00"
+    },
+    {
+     "titolo": "Terremoto in Colombia, almeno 82 le vittime",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/terremoto-in-colombia-almeno-82-le-vittime_5c53b112-ef98-4d8c-99d0-96e355980d8a.html",
+     "data": "2026-08-10T18:24:14+00:00"
+    },
     {
      "titolo": "Riserva strategica di petrolio Usa sotto 300 milioni di barili, minimi 43 anni",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/riserva-strategica-di-petrolio-usa-sotto-300-milioni-di-barili-minimi-43-anni_94896620-987b-4cca-b3a5-9a3223b0323f.html",
@@ -34,26 +54,6 @@
      "titolo": "Trump, 'Iran chiede un risarcimento? Dovrei chiederlo io'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/trump-iran-chiede-un-risarcimento-dovrei-chiederlo-io_2788ef64-0f65-43b9-8021-29db00cbdf78.html",
      "data": "2026-08-10T16:49:51+00:00"
-    },
-    {
-     "titolo": "Media, 'almeno 47 morti per il sisma nella Colombia occidentale'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/media-almeno-47-morti-per-il-sisma-nella-colombia-occidentale_985702c2-ebed-47b5-b58e-150aca2c1ca9.html",
-     "data": "2026-08-10T16:23:28+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa fiacca, Londra chiude in calo dello 0,35%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/borsa-europa-fiacca-londra-chiude-in-calo-dello-035_1a88cb21-7770-4703-92e5-20e594b6dea2.html",
-     "data": "2026-08-10T16:05:44+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in calo, Ftse Mib -0,1%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/borsa-milano-chiude-in-calo-ftse-mib-01_049b8f2b-1e0d-4e9f-ac61-d9a73ead91d6.html",
-     "data": "2026-08-10T15:59:11+00:00"
-    },
-    {
-     "titolo": "Gip, 'da Lavitola attentato per accrescere popolarità di Ranucci'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/gip-da-lavitola-attentato-per-accrescere-popolarita-di-ranucci_20de5d15-e790-44d3-ac53-7fe7a5b0a797.html",
-     "data": "2026-08-10T15:26:08+00:00"
     }
    ]
   },
@@ -68,7 +68,7 @@
     {
      "titolo": "Docente umbro a Cali, 'nell'aria una nebbiolina gialla sintomo di crolli'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/10/docente-umbro-a-cali-nellaria-una-nebbiolina-gialla-sintomo-di-crolli_039372c0-3a3c-4b6c-b11d-c9b04ae85ef0.html",
-     "data": "2026-08-10T16:27:58+00:00"
+     "data": "2026-08-10T19:08:53+00:00"
     },
     {
      "titolo": "Nuovo record 'storico assoluto' di traffico mensile per l'aeroporto dell'Umbria",
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-08-10T19:17:43+00:00"
+    },
+    {
+     "titolo": "Provoca incidente mortale, sottoposto a fermo per omicidio volontario",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/provoca-incidente-mortale-sottoposto-a-fermo-per-omicidio-volontario_489398ad-b353-44f0-95e1-df3f5903d6d8.html",
+     "data": "2026-08-10T18:55:50+00:00"
+    },
+    {
      "titolo": "'Tra 2 anni fai il presidente', il progetto di Valter Lavitola per Sigfrido Ranucci",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/tra-2-anni-fai-il-presidente-il-progetto-di-valter-lavitola-per-sigfrido-ranucci_dcb4880d-d855-4a58-a8e9-35e0d558193d.html",
      "data": "2026-08-10T17:32:54+00:00"
@@ -174,22 +184,17 @@
      "titolo": "Sea Watch: 'nauseante parlare di compensazioni sulla pelle delle persone'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/sea-watch-nauseante-parlare-di-compensazioni-sulla-pelle-delle-persone_22168ffe-ea40-4db0-8424-6929e0b25758.html",
      "data": "2026-08-10T14:10:29+00:00"
-    },
-    {
-     "titolo": "Picchiato a morte a Cervia, tre dei quattro giovani fermati negano accuse",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/picchiato-a-morte-a-cervia-tre-dei-quattro-giovani-fermati-negano-accuse_c2739b37-a1c2-4df1-ae53-09c9f4461261.html",
-     "data": "2026-08-10T14:27:00+00:00"
-    },
-    {
-     "titolo": "Legale Ranucci, 'fondamentale capire il movente dell'attentato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/legale-ranucci-fondamentale-capire-il-movente-dellattentato_85383a8c-629b-47b6-b9fc-4914c52ce139.html",
-     "data": "2026-08-10T13:17:53+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Le ong all'attacco, 'nauseante parlare di compensazioni'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/10/le-ong-allattacco-nauseante-parlare-di-compensazioni_fa5d76dd-d2b0-4075-a0f5-894b92bc6b3c.html",
+     "data": "2026-08-10T18:29:27+00:00"
+    },
     {
      "titolo": "Sbarcati 17mila migranti in Italia, meno della metà degli ultimi 2 anni",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/10/sbarcati-17mila-migranti-in-italia-meno-della-meta-degli-ultimi-2-anni_f10b480b-c7cd-4e87-beeb-3268c2f81e04.html",
@@ -208,7 +213,7 @@
     {
      "titolo": "Vannacci: 'Aspetto la telefonata di Meloni, per ora nessuna interlocuzione con lei'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/10/vannacci-sulla-sicurezza-occorre-la-tolleranza-zero_1206550d-c630-4ef1-9db8-5ddc8dfee1cf.html",
-     "data": "2026-08-10T13:50:02+00:00"
+     "data": "2026-08-10T19:16:50+00:00"
     },
     {
      "titolo": "FnV lancia gadget 'identitari', anche pistola acqua e secchiello con paletta",
@@ -223,7 +228,7 @@
     {
      "titolo": "Asse danese per Meloni: 'No a una immigrazione incontrollata'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/10/meloni-e-premier-danese-no-a-unimmigrazione-incontrollata-_b5c7ea31-a4a5-4186-bd58-bd5aab71964a.html",
-     "data": "2026-08-10T17:49:04+00:00"
+     "data": "2026-08-10T18:29:58+00:00"
     }
    ]
   },
@@ -231,14 +236,19 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Il petrolio chiude in rialzo di oltre il 5% a New York a 82,7 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/il-petrolio-chiude-in-rialzo-di-oltre-il-5-a-new-york-a-827-dollari_ffbd5fca-1df3-4a9f-a903-3fffed02ee17.html",
+     "data": "2026-08-10T18:38:59+00:00"
+    },
+    {
      "titolo": "Riserva strategica di petrolio Usa sotto 300 milioni di barili, minimi 43 anni",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/riserva-strategica-di-petrolio-usa-sotto-300-milioni-di-barili-minimi-43-anni_97ad8873-7f3e-40c9-8214-e5c2389d055a.html",
-     "data": "2026-08-10T17:59:31+00:00"
+     "data": "2026-08-10T18:13:10+00:00"
     },
     {
      "titolo": "Il petrolio allunga ancora a New York su timori su Hormuz, barile a +4,2%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/il-petrolio-allunga-ancora-a-new-york-su-timori-su-hormuz-barile-a-42_785ad033-b12d-424e-94fb-bf50fdfd5d5c.html",
-     "data": "2026-08-10T17:43:38+00:00"
+     "data": "2026-08-10T18:14:50+00:00"
     },
     {
      "titolo": "Gas: future balza del 10% sopra 61 euro al megawattora",
@@ -284,17 +294,27 @@
      "titolo": "I consumi oltre il record del 2007, più tecnologia e tempo libero",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/i-consumi-oltre-il-record-2007-piu-tecnologia-e-tempo-libero_54e99b4f-854b-451d-b5ae-fcf1fe6b68d2.html",
      "data": "2026-08-10T13:46:28+00:00"
-    },
-    {
-     "titolo": "Wall Street apre negativa con incertezze Hormuz, Dj a -0,07% e Nasdaq a -0,06%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/wall-street-apre-negativa-con-incertezze-hormuz-dj-a-007-e-nasdaq-a-006_d0ffdfe5-702e-4ead-942e-e2d95460f4a8.html",
-     "data": "2026-08-10T13:40:56+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Zelensky, 'la Corea del nord continua a fornire missili a Mosca e si perfeziona'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/10/zelensky-la-corea-del-nord-continua-a-fornire-missili-a-mosca-e-si-perfeziona_f736167c-d158-4805-b875-fb1aae174fdc.html",
+     "data": "2026-08-10T19:08:07+00:00"
+    },
+    {
+     "titolo": "Presidente Colombia, il bilancio del terremoto è di 111 morti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/presidente-colombia-il-bilancio-del-terremoto-e-di-111-morti_e368e2db-4ef7-42e2-9df9-3946206875e5.html",
+     "data": "2026-08-10T18:36:41+00:00"
+    },
+    {
+     "titolo": "Terremoto in Colombia, almeno 82 le vittime",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/terremoto-in-colombia-almeno-82-le-vittime_1d44dbd1-60fe-4729-956f-3c82f1013836.html",
+     "data": "2026-08-10T18:24:32+00:00"
+    },
     {
      "titolo": "Quinta ondata di caldo estremo in Gb, allerta siccità in due terzi dell'Inghilterra",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/10/quinta-ondata-di-caldo-estremo-in-gb-allerta-siccita-in-due-terzi-dellinghilterra_7c303264-cbd5-4bd8-86b2-80217314581c.html",
@@ -339,21 +359,6 @@
      "titolo": "Terremoto in Colombia, crolla la torre della cattedrale di Manizales",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/terremoto-in-colombia-crolla-la-torre-della-cattedrale-di-manizales_57ef0ad2-2588-4936-a39f-2283649be75a.html",
      "data": "2026-08-10T15:46:03+00:00"
-    },
-    {
-     "titolo": "Al via dopo 30 anni a Las Vegas il processo per l'omicidio di Tupak Shakur",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/10/al-via-dopo-30-anni-a-las-vegas-il-processo-per-lomicidio-di-tupak-shakur_ae0c4ee9-2b86-4633-aab0-6365177aa263.html",
-     "data": "2026-08-10T14:58:27+00:00"
-    },
-    {
-     "titolo": "Terremoto in Colombia, 20 morti tra Manizales e Pereira",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/terremoto-in-colombia-20-morti-tra-manizales-e-pereira_3134d531-3408-42c4-bafe-d6f9fcb7a298.html",
-     "data": "2026-08-10T14:54:16+00:00"
-    },
-    {
-     "titolo": "Terremoto in Colombia, sindaco di Cali 'almeno 20 palazzi crollati'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/terremoto-in-colombia-sindaco-di-cali-almeno-20-palazzi-crollati_800d8c3b-bb72-4bfb-86a6-3db9df3fe885.html",
-     "data": "2026-08-10T14:35:17+00:00"
     }
    ]
   },
@@ -426,6 +431,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Djimsiti saluta Bergamo e l'Atalanta, 'una casa che mi porto dentro'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/djimsiti-saluta-bergamo-e-latalanta-una-casa-che-mi-porto-dentro_d036c521-662f-4604-87c7-601afb90af8b.html",
+     "data": "2026-08-10T18:34:45+00:00"
+    },
+    {
      "titolo": "Serie A: Roma, il nuovo rinforzo Molina è arrivato a Ciampino",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/serie-a-roma-il-nuovo-rinforzo-molina-e-arrivato-a-ciampino_c4adb788-ee6f-40d8-ab65-2d36b79610ee.html",
      "data": "2026-08-10T17:53:39+00:00"
@@ -451,9 +461,9 @@
      "data": "2026-08-10T16:57:05+00:00"
     },
     {
-     "titolo": "Europei di nuoto, Razzetti argento nei 400 misti",
+     "titolo": "Europei di nuoto: l'Italia sorride, Razzetti è d'argento",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/10/europei-di-nuoto-razzetti-argento-nei-400-misti_a1d63a4c-2410-4fea-8594-ca5f76136ba0.html",
-     "data": "2026-08-10T17:47:10+00:00"
+     "data": "2026-08-10T18:49:48+00:00"
     },
     {
      "titolo": "Europei atletica: Jacobs 'buone sensazioni, obiettivo terzo titolo'",
@@ -479,11 +489,6 @@
      "titolo": "Molfetta lancia i Giochi del Mediterraneo, 'Taranto in fermento'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/molfetta-lancia-i-giochi-del-mediterraneo-taranto-in-fermento_eeb6de2e-0417-4ea3-a801-3bd1ee47ba7d.html",
      "data": "2026-08-10T15:11:00+00:00"
-    },
-    {
-     "titolo": "A 72 anni completa la 35 chilometri in mare, è la sua decima gran fondo",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/a-72-anni-completa-la-35-chilometri-in-mare-e-la-sua-decima-gran-fondo_5a887d54-18ce-4462-bc52-d4b5de8a3532.html",
-     "data": "2026-08-10T14:59:25+00:00"
     }
    ]
   }
