@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-10T19:26:23.680223+00:00",
+ "aggiornato": "2026-08-10T20:06:06.814667+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Ok dal Parlamento turco a legge storica per un'amnistia limitata ai militanti Pkk",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/ok-dal-parlamento-turco-a-legge-storica-per-unamnistia-limitata-ai-militanti-pkk_b1e2f388-5c56-4f01-8e90-ac745dd34c2e.html",
+     "data": "2026-08-10T19:57:58+00:00"
+    },
+    {
+     "titolo": "Shakira, 'il mio cuore è con tutti coloro che hanno sentito il terremoto'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/shakira-il-mio-cuore-e-con-tutti-coloro-che-hanno-sentito-il-terremoto_ae4f76f1-5826-4d84-adad-c19d9e1d48bd.html",
+     "data": "2026-08-10T19:40:55+00:00"
+    },
+    {
+     "titolo": "'Trump, 'ho le capacità per decapitare l'Iran, lo scoprirete'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/trump-ho-le-capacita-per-decapitare-liran-lo-scoprirete_990fd4af-7623-4446-8ab0-77548016d2c9.html",
+     "data": "2026-08-10T19:31:44+00:00"
+    },
     {
      "titolo": "Zelensky, 'la Corea del nord continua a fornire missili a Mosca e si perfeziona'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/zelensky-la-corea-del-nord-continua-a-fornire-missili-a-mosca-e-si-perfeziona_1769eae5-c408-4aba-ad3d-6964299ff5ed.html",
@@ -39,21 +54,6 @@
      "titolo": "Ong, 'la fotoreporter iraniana Yalda Moaiery condannata a 15 anni'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/ong-la-fotoreporter-iraniana-yalda-moaiery-condannata-a-15-anni_dc4c82a5-465c-41a5-9e57-ef693c06fa57.html",
      "data": "2026-08-10T17:04:59+00:00"
-    },
-    {
-     "titolo": "La Corte Suprema russa esclude il partito d'opposizione Yabloko dalle elezioni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/la-corte-suprema-russa-esclude-il-partito-dopposizione-yabloko-dalle-elezioni_925a9e27-dc2d-43cd-be11-9f6cba6477ab.html",
-     "data": "2026-08-10T16:58:49+00:00"
-    },
-    {
-     "titolo": "Terremoto in Colombia, salgono ad almeno 73 i morti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/terremoto-in-colombia-salgono-ad-almeno-73-i-morti_a90b612e-1921-4807-af6a-dc90913ac3ba.html",
-     "data": "2026-08-10T16:50:46+00:00"
-    },
-    {
-     "titolo": "Trump, 'Iran chiede un risarcimento? Dovrei chiederlo io'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/trump-iran-chiede-un-risarcimento-dovrei-chiederlo-io_2788ef64-0f65-43b9-8021-29db00cbdf78.html",
-     "data": "2026-08-10T16:49:51+00:00"
     }
    ]
   },
@@ -301,6 +301,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ok dal Parlamento turco a legge storica per un'amnistia limitata ai militanti Pkk",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/10/ok-dal-parlamento-turco-a-legge-storica-per-unamnistia-limitata-ai-militanti-pkk_e378cb45-fb96-4fb0-8fa1-0b3cf984c875.html",
+     "data": "2026-08-10T19:58:14+00:00"
+    },
+    {
+     "titolo": "Shakira, 'il mio cuore è con tutti coloro che hanno sentito il terremoto'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/shakira-il-mio-cuore-e-con-tutti-coloro-che-hanno-sentito-il-terremoto_27afd56c-a509-4f81-81ea-81ce1e1c17d9.html",
+     "data": "2026-08-10T19:40:57+00:00"
+    },
+    {
+     "titolo": "'Trump, 'ho le capacità per decapitare l'Iran, lo scoprirete'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/10/trump-ho-le-capacita-per-decapitare-liran-lo-scoprirete_0c5a360e-b55b-4a66-b9da-c7696ef98385.html",
+     "data": "2026-08-10T19:31:48+00:00"
+    },
+    {
      "titolo": "Zelensky, 'la Corea del nord continua a fornire missili a Mosca e si perfeziona'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/10/zelensky-la-corea-del-nord-continua-a-fornire-missili-a-mosca-e-si-perfeziona_f736167c-d158-4805-b875-fb1aae174fdc.html",
      "data": "2026-08-10T19:08:07+00:00"
@@ -344,21 +359,6 @@
      "titolo": "Direttore ospedale Colombia, 10 persone intrappolate e temiamo 5 morti",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/direttore-ospedale-colombia-10-persone-intrappolate-e-temiamo-5-morti_bdd417f6-b1f6-40ce-a369-93494f75f65f.html",
      "data": "2026-08-10T16:27:10+00:00"
-    },
-    {
-     "titolo": "Media, 'almeno 47 morti per il sisma nella Colombia occidentale'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/media-almeno-47-morti-per-il-sisma-nella-colombia-occidentale_465945f0-53c1-46c4-bf49-dedc7804acd0.html",
-     "data": "2026-08-10T16:23:42+00:00"
-    },
-    {
-     "titolo": "La Farnesina segue la situazione in Colombia, al momento nessun italiano coinvolto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/la-farnesina-segue-la-situazione-in-colombia-al-momento-nessun-italiano-coinvolto_47de0e71-218d-4bd0-8cbb-2560ba9eb1db.html",
-     "data": "2026-08-10T15:23:24+00:00"
-    },
-    {
-     "titolo": "Terremoto in Colombia, crolla la torre della cattedrale di Manizales",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/terremoto-in-colombia-crolla-la-torre-della-cattedrale-di-manizales_57ef0ad2-2588-4936-a39f-2283649be75a.html",
-     "data": "2026-08-10T15:46:03+00:00"
     }
    ]
   },
@@ -431,6 +431,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei atletica: Dosso si qualifica per la finale dei 100 metri",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/europei-atletica-dosso-si-qualifica-per-la-finale-dei-100-metri_e08c6610-90cf-4628-8647-249c7cbc69fc.html",
+     "data": "2026-08-10T19:29:33+00:00"
+    },
+    {
+     "titolo": "Dopo 3 anni di guerra il calcio torna a Gaza e in Palestina, a settembre il via",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/dopo-3-anni-di-guerra-il-calcio-torna-a-gaza-e-in-palestina-a-settembre-il-via_fcb84b1e-f28e-480d-a909-f442e2c988da.html",
+     "data": "2026-08-10T19:28:45+00:00"
+    },
+    {
      "titolo": "Djimsiti saluta Bergamo e l'Atalanta, 'una casa che mi porto dentro'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/djimsiti-saluta-bergamo-e-latalanta-una-casa-che-mi-porto-dentro_d036c521-662f-4604-87c7-601afb90af8b.html",
      "data": "2026-08-10T18:34:45+00:00"
@@ -479,16 +489,6 @@
      "titolo": "La famiglia di Berruti, 'profonda gratitudine al presidente Mattarella'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/la-famiglia-di-berruti-profonda-gratitudine-al-presidente-mattarella_aacad14a-df34-4982-8c39-021b4b0313a2.html",
      "data": "2026-08-10T15:40:06+00:00"
-    },
-    {
-     "titolo": "Ferran Torres al Psg, il Barca rifiuta la prima offerta dei parigini",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/ferran-torres-al-psg-il-barca-rifiuta-la-prima-offerta-dei-parigini_14fb9e88-1c71-49f1-8024-644f2ab49f07.html",
-     "data": "2026-08-10T15:38:16+00:00"
-    },
-    {
-     "titolo": "Molfetta lancia i Giochi del Mediterraneo, 'Taranto in fermento'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/molfetta-lancia-i-giochi-del-mediterraneo-taranto-in-fermento_eeb6de2e-0417-4ea3-a801-3bd1ee47ba7d.html",
-     "data": "2026-08-10T15:11:00+00:00"
     }
    ]
   }
