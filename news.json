@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-10T09:53:35.155235+00:00",
+ "aggiornato": "2026-08-10T10:53:32.124483+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Italia ancora nella morsa del caldo, domani allerta in 19 città",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/italia-ancora-nella-morsa-del-caldo-domani-allerta-in-19-citta_a8a0db70-e932-4853-8501-6657e952c0c7.html",
+     "data": "2026-08-10T10:20:47+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano si riporta in parità, balzo di Prysmian, giù Diasorin",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/borsa-milano-si-riporta-in-parita-balzo-di-prysmian-giu-diasorin_af643cfa-d6e6-43d8-aa14-ec320626c780.html",
+     "data": "2026-08-10T10:02:52+00:00"
+    },
     {
      "titolo": "FnV lancia gadget 'identitari', anche pistola acqua e secchiello con paletta",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/fnv-lancia-gadget-identitari-anche-pistola-acqua-e-secchiello-con-paletta_3348099d-fa77-4fc2-8145-833afedb8e83.html",
@@ -44,22 +54,17 @@
      "titolo": "Borsa: Milano gira subito in calo (-0,15%), frena Tenaris, corre Stm",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/borsa-milano-gira-subito-in-calo-015-frena-tenaris-corre-stm_12fa42e2-8778-4369-b406-34885788f74a.html",
      "data": "2026-08-10T07:28:54+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa apre contrastata, Parigi -0,05%, Francoforte +0,16%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/borsa-leuropa-apre-contrastata-parigi-005-francoforte-016_6ab1d73c-fc63-4673-b34f-50c24889c1cb.html",
-     "data": "2026-08-10T07:19:59+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre poco mossa, +0,04%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/borsa-milano-apre-poco-mossa-004_6dd1923b-9869-4ead-97dd-2a2798c3be2b.html",
-     "data": "2026-08-10T07:07:18+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Lumumba, la commedia di Knox sull'omicidio Meredith? il mondo è malato...",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/10/lumumba-la-commedia-di-knox-sullomicidio-meredith-il-mondo-e-malato..._5b090cdd-8884-4d5f-8180-c8b1eda5645e.html",
+     "data": "2026-08-10T09:57:56+00:00"
+    },
     {
      "titolo": "Grave bambino coinvolto in un incidente stradale sulla E45 in Umbria",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/10/grave-bambino-coinvolto-in-un-incidente-stradale-sulla-e45-in-umbria_93c86acd-eacd-45be-852a-8e8d15d074b9.html",
@@ -114,17 +119,32 @@
      "titolo": "Aumentano le risorse al sistema universitario umbro",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/08/aumentano-le-risorse-al-sistema-universitario-umbro_f9fe1147-66aa-43f9-a89f-5a8a8cf9a462.html",
      "data": "2026-08-08T12:17:02+00:00"
-    },
-    {
-     "titolo": "Nella Cooperativa Sociale Nuova Dimensione le ferie diventano solidarietà tra i soci",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/08/nella-cooperativa-sociale-nuova-dimensione-le-ferie-diventano-solidarieta-tra-i-soci_f04586f8-5b76-453f-a386-3575ae4ceaf5.html",
-     "data": "2026-08-08T12:19:26+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Italia ancora nella morsa del caldo, domani allerta in 19 città",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/italia-ancora-nella-morsa-del-caldo-domani-allerta-in-19-citta_70323493-3fec-402e-a815-f7d50e4d93ba.html",
+     "data": "2026-08-10T10:20:24+00:00"
+    },
+    {
+     "titolo": "Immagini pedopornografiche con l'AI, un arresto nel Trevigiano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/immagini-pedopornografiche-con-lai-un-arresto-nel-trevigiano_df3312de-999a-46dc-bced-4edfd967b865.html",
+     "data": "2026-08-10T10:17:11+00:00"
+    },
+    {
+     "titolo": "Lumumba, la commedia di Knox sull'omicidio Meredith? il mondo è malato...",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/lumumba-la-commedia-di-knox-sullomicidio-meredith-il-mondo-e-malato..._db3d834a-daf7-4575-98b4-d6131cf64d0b.html",
+     "data": "2026-08-10T09:57:46+00:00"
+    },
+    {
+     "titolo": "Scippano l'orologio di lusso a un turista a Porto Rotondo, due arresti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/scippano-lorologio-di-lusso-a-un-turista-a-porto-rotondo-due-arresti_a1a314eb-b969-43cb-8ad5-4634c8b1be01.html",
+     "data": "2026-08-10T09:55:53+00:00"
+    },
     {
      "titolo": "Ketamina nascosta nella scatola dei corn flakes, due arresti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/ketamina-nascosta-nella-scatola-dei-corn-flakes-due-arresti_1da5f8ba-ed3f-49a1-919e-4b5ed8fa2cd9.html",
@@ -164,26 +184,6 @@
      "titolo": "Morto per botulino: gli avvocati, 'sintomi scambiati per ubriachezza'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/morto-per-botulino-gli-avvocati-sintomi-scambiati-per-ubriachezza_273d7a5a-f7a2-42f3-afd0-1fae795549e1.html",
      "data": "2026-08-10T07:07:39+00:00"
-    },
-    {
-     "titolo": "Emissione di cenere sull'Etna, sospesi atterraggi a Catania fino alle 17",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/emissione-di-cenere-sulletna-sospesi-atterraggi-a-catania-fino-alle-17_670d7afb-91f4-4c65-9d85-4a3781e682b6.html",
-     "data": "2026-08-10T06:22:25+00:00"
-    },
-    {
-     "titolo": "Emissione di cenere sull'Etna, sospesi atterraggi a Catania fino alle 17",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/emissione-di-cenere-sulletna-sospesi-atterraggi-a-catania-fino-alle-17_cd58b01a-db39-41cf-aaaf-1c215a86404d.html",
-     "data": "2026-08-10T06:31:46+00:00"
-    },
-    {
-     "titolo": "Ciclista 28enne trovato morto in Salento, ipotesi auto pirata",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/ciclista-28enne-trovato-morto-in-salento-ipotesi-auto-pirata_49c630ba-9aff-48a2-a7df-b65dad800c3a.html",
-     "data": "2026-08-10T06:24:06+00:00"
-    },
-    {
-     "titolo": "In Europa occidentale giugno-luglio più caldo di sempre. Record temperature per la superficie dei mari",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/in-europa-occidentale-giugno-luglio-piu-caldo-di-sempre.-record-temperature-per_57417f75-6456-4780-8594-fed2098b9c11.html",
-     "data": "2026-08-10T09:22:28+00:00"
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "titolo": "Meloni e Frederiksen: 'No a un'immigrazione incontrollata'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/10/meloni-e-premier-danese-no-a-unimmigrazione-incontrollata-_b5c7ea31-a4a5-4186-bd58-bd5aab71964a.html",
-     "data": "2026-08-10T09:09:00+00:00"
+     "data": "2026-08-10T10:28:57+00:00"
     },
     {
      "titolo": "Vannacci al centrodestra, 'mai chiuso porte ma voi parlate di me, non con me'",
@@ -225,6 +225,31 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Con caldo rovente danni potenziali fino a 16mila euro per le auto",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/con-caldo-rovente-danni-potenziali-fino-a-16mila-euro-per-le-auto_fed7f5b4-b6cf-4149-9b42-5f50e363b677.html",
+     "data": "2026-08-10T10:36:16+00:00"
+    },
+    {
+     "titolo": "Ecogest emette nuovo bond da 3 milioni di euro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/ecogest-emette-nuovo-bond-da-3-milioni-di-euro_b2e520f2-6a73-4153-bdeb-ef589f4f49ee.html",
+     "data": "2026-08-10T10:31:15+00:00"
+    },
+    {
+     "titolo": "In Italia il 34% di mare e laghi inquinati, colpa della maladepurazione",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/in-italia-il-34-di-mare-e-laghi-inquinati-colpa-della-maladepurazione_60f7936b-1e7b-485f-af3d-f99a0704965e.html",
+     "data": "2026-08-10T10:05:02+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano si riporta in parità, balzo di Prysmian, giù Diasorin",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-milano-si-riporta-in-parita-balzo-di-prysmian-giu-diasorin_c3969c0a-eb0c-4d19-9a0b-ad66f3f71879.html",
+     "data": "2026-08-10T10:02:48+00:00"
+    },
+    {
+     "titolo": "Dal Mase fino a 400 milioni l'anno per la produzione di idrogeno rinnovabile",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/dal-mase-fino-a-400-milioni-lanno-per-la-produzione-di-idrogeno-rinnovabile_6ba8b7f8-3f02-434d-ab6e-3757bfef8863.html",
+     "data": "2026-08-10T10:36:53+00:00"
+    },
     {
      "titolo": "Impieghi in aumento a 326 milioni per Clessidra Factoring, utile +45%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/impieghi-in-aumento-a-326-milioni-per-clessidra-factoring-utile-45_d73f67d6-0ea7-4acc-a7b8-3ed3a4f183fa.html",
@@ -259,31 +284,6 @@
      "titolo": "Mimit, tavoli di crisi in calo da 55 a 37 da inizio legislatura",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/mimit-tavoli-di-crisi-in-calo-da-55-a-37-da-inizio-legislatura_ff94d951-b9dc-4696-a6de-43353b080265.html",
      "data": "2026-08-10T08:57:52+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano gira subito in calo (-0,15%), frena Tenaris, corre Stm",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-milano-gira-subito-in-calo-015-frena-tenaris-corre-stm_4cf28422-1336-425b-9044-cabc02b02b75.html",
-     "data": "2026-08-10T07:28:51+00:00"
-    },
-    {
-     "titolo": "Mimit, il prezzo dei carburanti è stabile, gasolio a 2,076 euro al litro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/mimit-il-prezzo-dei-carburanti-e-stabile-gasolio-a-2076-euro-al-litro_15c05425-9333-4adc-a986-16860e687c81.html",
-     "data": "2026-08-10T07:22:01+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa apre contrastata, Parigi -0,05%, Francoforte +0,16%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-leuropa-apre-contrastata-parigi-005-francoforte-016_fb619e5c-6c1b-4611-a563-e628c9a5bdf4.html",
-     "data": "2026-08-10T07:20:17+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre poco mossa, +0,04%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-milano-apre-poco-mossa-004_7a7dce2f-1c4c-44e3-914a-20ece13df678.html",
-     "data": "2026-08-10T07:07:20+00:00"
-    },
-    {
-     "titolo": "Borsa: Asia brillante dopo i dati sul lavoro negli Usa, Tokyo +2,08%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-asia-brillante-dopo-i-dati-sul-lavoro-negli-usa-tokyo_e6f8c1c4-9c4e-4fb5-b2b2-3b97decaf33d.html",
-     "data": "2026-08-10T06:50:42+00:00"
     }
    ]
   },
@@ -421,6 +421,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Oltre 2.000 partite, su Sky al via 11 mesi di grande calcio",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/oltre-2.000-partite-su-sky-al-via-11-mesi-di-grande-calcio_d32f4a14-f1da-4a2e-9abf-5ea76f18b4a4.html",
+     "data": "2026-08-10T10:37:14+00:00"
+    },
+    {
+     "titolo": "Jeff Bezos vicino ad un accordo per una quota del Liverpool",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/jeff-bezos-vicino-ad-un-accordo-per-una-quota-del-liverpool_62390ee1-360e-476e-9363-b83f54b870d7.html",
+     "data": "2026-08-10T10:33:41+00:00"
+    },
+    {
+     "titolo": "Media, Bezos vicino ad accordo per una quota del Liverpool",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/media-bezos-vicino-ad-accordo-per-una-quota-del-liverpool_2f6402c2-84c0-4acd-bd56-4c780772eb5b.html",
+     "data": "2026-08-10T10:32:02+00:00"
+    },
+    {
+     "titolo": "Europei atletica al via, azzurri in gara con fiocco nero per Berruti",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/europei-atletica-al-via-azzurri-in-gara-con-fiocco-nero-per-berruti_b7fb1ade-197a-4d44-b690-e82fab08fa63.html",
+     "data": "2026-08-10T10:45:32+00:00"
+    },
+    {
      "titolo": "Fifa:lettera congiunta Uefa, Concacaf e Afc 'calcio non appartiene a nessun individuo'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/fifalettera-congiunta-uefa-concacaf-e-afc-calcio-non-appartiene-a-nessun-individuo_1f43a466-eb7e-4358-9d83-1ab7b7e0468d.html",
      "data": "2026-08-10T09:20:29+00:00"
@@ -459,26 +479,6 @@
      "titolo": "Lazio di rimonta, Frosinone battuto con la doppietta di Zaccagni",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/09/lazio-di-rimonta-frosinone-battuto-con-la-doppietta-di-zaccagni_6d31b3b5-0a7e-467d-97af-176fd9800469.html",
      "data": "2026-08-09T20:46:52+00:00"
-    },
-    {
-     "titolo": "Nba: è morto Don Nelson, leggenda da giocatore e da allenatore",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/09/nba-e-morto-don-nelson-leggenda-da-giocatore-e-da-allenatore_d524f5c6-a73d-4241-b54a-b327e973a355.html",
-     "data": "2026-08-09T20:20:32+00:00"
-    },
-    {
-     "titolo": "Addio all'angelo Livio Berruti, copertina di un'Italia felice",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/addio-allangelo-livio-berruti-copertina-di-unitalia-felice_e8b34776-f6df-4a4c-b37b-f579667ece82.html",
-     "data": "2026-08-10T09:12:11+00:00"
-    },
-    {
-     "titolo": "Addio all'angelo Berruti, copertina di un'Italia felice",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/09/addio-allangelo-berruti-copertina-di-unitalia-felice_294d64d4-22ed-492b-a3c1-129a4a55d7c5.html",
-     "data": "2026-08-09T20:05:58+00:00"
-    },
-    {
-     "titolo": "Berruti: Mei, 'cambiò la storia dell'atletica italiana, il Paese si innamorò di lui'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/berruti-mei-cambio-la-storia-dellatletica-italiana-il-paese-si-innamoro-di-lui_ca0256e7-4cd5-4fbc-896c-8d99a8a7de74.html",
-     "data": "2026-08-09T19:27:49+00:00"
     }
    ]
   }
