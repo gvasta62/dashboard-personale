@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-10T04:59:56.724246+00:00",
+ "aggiornato": "2026-08-10T06:09:37.301594+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il prezzo del petrolio è in rialzo, Brent a 83,92 dollari (+0,44%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/il-prezzo-del-petrolio-e-in-rialzo-brent-a-8392-dollari-044_bc9cd34e-7d04-4d33-bd6c-0e955b7686d3.html",
+     "data": "2026-08-10T06:04:42+00:00"
+    },
     {
      "titolo": "Media, 'Netanyahu dà una chance a piano Gaza, Idf si sta ritirando'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/media-netanyahu-da-una-chance-a-piano-gaza-idf-si-sta-ritirando_e9f79aea-0ef7-4adc-895b-56697e592b9b.html",
@@ -49,11 +54,6 @@
      "titolo": "Migliaia di residenti di Ceuta in piazza, chiedono risposte alla Spagna e all'Ue",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/migliaia-di-residenti-di-ceuta-in-piazza-chiedono-risposte-alla-spagna-e-allue_0579916d-7b1c-48a6-b6e7-d2042ae98bb8.html",
      "data": "2026-08-09T20:09:12+00:00"
-    },
-    {
-     "titolo": "'Il suo yacht non soccorre imbarcazione alla deriva', bufera su Mark Zuckerberg",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/09/il-suo-yacht-non-soccorre-imbarcazione-alla-deriva-bufera-su-mark-zuckerberg_be8de518-7baa-4616-bb05-518a3dbc9716.html",
-     "data": "2026-08-09T20:06:04+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "In Europa occidentale giugno-luglio più caldo di sempre. Record temperature per la superficie dei mari",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/in-europa-occidentale-giugno-luglio-piu-caldo-di-sempre.-record-temperature-per_57417f75-6456-4780-8594-fed2098b9c11.html",
+     "data": "2026-08-10T05:53:29+00:00"
+    },
+    {
      "titolo": "Esce di strada col sidecar, morto il conducente",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/esce-di-strada-col-sidecar-morto-il-conducente_a714c9f9-7936-48cc-a33e-67bcc164beaa.html",
      "data": "2026-08-09T20:53:18+00:00"
@@ -168,7 +173,7 @@
     {
      "titolo": "Un'altra settimana di caldo, sarà un Ferragosto a 40 gradi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/unaltra-settimana-di-caldo-sara-un-ferragosto-a-40-gradi-_e562fabc-c6bf-4f27-a113-49b7c274af35.html",
-     "data": "2026-08-09T16:53:48+00:00"
+     "data": "2026-08-10T05:53:02+00:00"
     },
     {
      "titolo": "#AccadeOggi",
@@ -179,11 +184,6 @@
      "titolo": "Forti esplosioni ed emissione di cenere sull'Etna, avviso per il volo rosso",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/forti-esplosioni-ed-emissione-di-cenere-sulletna-avviso-per-il-volo-rosso_eaa24254-5807-42f5-9cde-d5cd552e737b.html",
      "data": "2026-08-09T16:24:46+00:00"
-    },
-    {
-     "titolo": "Campi Flegrei: sale a 2.172 il numero degli sfollati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/campi-flegrei-sale-a-2.172-il-numero-degli-sfollati_8fde7951-baa2-48c1-a2b6-a6f8f100c658.html",
-     "data": "2026-08-09T16:23:33+00:00"
     }
    ]
   },
@@ -236,29 +236,9 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Patenti a 17 anni e modifiche alle multe, novità in arrivo al codice",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/novita-allo-studio-per-il-codice-strada-da-bici-a-multe-e-patente-a-17-anni_cf688690-85fd-4b27-abba-6f464b829f55.html",
-     "data": "2026-08-08T15:35:36+00:00"
-    },
-    {
-     "titolo": "Codacons, su primo esodo estivo stangata carburanti da 370 milioni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/codacons-su-primo-esodo-estivo-stangata-carburanti-da-370-milioni_1a1a7e7f-684e-4d10-a1a3-c1a13948a704.html",
-     "data": "2026-08-08T10:12:51+00:00"
-    },
-    {
-     "titolo": "Confartigianato: allarme credito per le pmi, 'bruciati 34 miliardi in 7 anni'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/confartigianato-allarme-credito-per-le-pmi-bruciati-34-miliardi-in-7-anni_5faedcc9-afa0-4912-a5ab-c11364d8e171.html",
-     "data": "2026-08-08T08:26:07+00:00"
-    },
-    {
-     "titolo": "Bolzano prima per crescita davanti a Roma e Milano, la Valle d'Aosta frena",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/confesercenti-la-mappa-del-pil-2026-prima-bolzano-18-frena-valle-daosta_b274d58e-8389-49e2-aa90-5bd6441a4458.html",
-     "data": "2026-08-08T18:09:35+00:00"
-    },
-    {
-     "titolo": "Da Confesercenti la mappa di Pil e prezzi: Bolzano prima per crescita, Valle d'Aosta frena",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/da-confesercenti-la-mappa-di-pil-e-prezzi-bolzano-prima-per-crescita-valle-daosta_5fee7b77-26e7-44fc-8bba-675ea627eb28.html",
-     "data": "2026-08-08T07:01:29+00:00"
+     "titolo": "A luglio 2026 caldo record per la superficie dei mari, anche per Mediterraneo",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/a-luglio-2026-caldo-record-per-la-superficie-dei-mari-anche-per_f7bb674a-24d9-4761-8115-76d4f3920670.html",
+     "data": "2026-08-10T05:42:58+00:00"
     }
    ]
   },
