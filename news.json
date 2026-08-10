@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-10T20:06:06.814667+00:00",
+ "aggiornato": "2026-08-10T21:07:47.772739+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Etna, colate ben alimentate, fronte lavico arrivato a quota 1.370 metri",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/etna-colate-ben-alimentate-fronte-lavico-arrivato-a-quota-1.370-metri_c1b7f514-54b9-45ec-beb0-c8ac09311f5c.html",
+     "data": "2026-08-10T20:02:15+00:00"
+    },
+    {
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-08-10T19:17:43+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Abusa di due hostess a bordo di uno yacht, arrestato skipper spagnolo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/abusa-di-due-hostess-a-bordo-di-uno-yacht-arrestato-skipper-spagnolo_6fe6b739-0a40-4f24-86c2-4233ea05af41.html",
      "data": "2026-08-10T14:45:35+00:00"
-    },
-    {
-     "titolo": "Sea Watch: 'nauseante parlare di compensazioni sulla pelle delle persone'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/sea-watch-nauseante-parlare-di-compensazioni-sulla-pelle-delle-persone_22168ffe-ea40-4db0-8424-6929e0b25758.html",
-     "data": "2026-08-10T14:10:29+00:00"
     }
    ]
   },
@@ -301,6 +301,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Kast mira a riforma costituzionale per combattere le organizzazioni criminali in Cile",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/kast-mira-a-riforma-costituzionale-per-combattere-le-organizzazioni-criminali-in-cile_d8b2137b-5bec-4c54-918f-26658a6f135d.html",
+     "data": "2026-08-10T20:31:25+00:00"
+    },
+    {
      "titolo": "Ok dal Parlamento turco a legge storica per un'amnistia limitata ai militanti Pkk",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/10/ok-dal-parlamento-turco-a-legge-storica-per-unamnistia-limitata-ai-militanti-pkk_e378cb45-fb96-4fb0-8fa1-0b3cf984c875.html",
      "data": "2026-08-10T19:58:14+00:00"
@@ -354,11 +359,6 @@
      "titolo": "Svolta per la metro di Ny, banchine meno roventi d'estate con tecnologia cattura caldo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/10/svolta-per-la-metro-di-ny-banchine-meno-roventi-destate-con-tecnologia-cattura_06ae3db7-63a0-4154-b7bb-572d1807921e.html",
      "data": "2026-08-10T17:07:44+00:00"
-    },
-    {
-     "titolo": "Direttore ospedale Colombia, 10 persone intrappolate e temiamo 5 morti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/direttore-ospedale-colombia-10-persone-intrappolate-e-temiamo-5-morti_bdd417f6-b1f6-40ce-a369-93494f75f65f.html",
-     "data": "2026-08-10T16:27:10+00:00"
     }
    ]
   },
@@ -431,6 +431,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei di atletica: doppietta azzurra nel lancio del peso, oro Fabbri e argento Weir",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/europei-di-atletica-doppietta-azzurra-nel-lancio-del-peso-oro-fabbri_b7fb1ade-197a-4d44-b690-e82fab08fa63.html",
+     "data": "2026-08-10T20:43:04+00:00"
+    },
+    {
+     "titolo": "++ Europei atletica: doppietta azzurra nel lancio del peso, oro Fabbri e argento Weir ++",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/europei-atletica-doppietta-azzurra-nel-lancio-del-peso-oro-fabbri_2841135f-0ce5-4463-9ed6-24ee76db85e8.html",
+     "data": "2026-08-10T20:39:51+00:00"
+    },
+    {
      "titolo": "Europei atletica: Dosso si qualifica per la finale dei 100 metri",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/europei-atletica-dosso-si-qualifica-per-la-finale-dei-100-metri_e08c6610-90cf-4628-8647-249c7cbc69fc.html",
      "data": "2026-08-10T19:29:33+00:00"
@@ -479,16 +489,6 @@
      "titolo": "Europei atletica: Jacobs 'buone sensazioni, obiettivo terzo titolo'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/europei-atletica-jacobs-buone-sensazioni-obiettivo-terzo-titolo_b745cd4e-228e-43eb-ab1c-0b8b5e0f34d8.html",
      "data": "2026-08-10T16:00:47+00:00"
-    },
-    {
-     "titolo": "Furlani dopo l'infortunio, 'la mia stagione finisce qui'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/furlani-dopo-linfortunio-la-mia-stagione-finisce-qui_76686e3b-e5a5-4e1a-914e-d1b954b0060c.html",
-     "data": "2026-08-10T15:41:25+00:00"
-    },
-    {
-     "titolo": "La famiglia di Berruti, 'profonda gratitudine al presidente Mattarella'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/la-famiglia-di-berruti-profonda-gratitudine-al-presidente-mattarella_aacad14a-df34-4982-8c39-021b4b0313a2.html",
-     "data": "2026-08-10T15:40:06+00:00"
     }
    ]
   }
