@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-10T15:27:20.090187+00:00",
+ "aggiornato": "2026-08-10T16:13:52.200750+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Europa fiacca, Londra chiude in calo dello 0,35%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/borsa-europa-fiacca-londra-chiude-in-calo-dello-035_1a88cb21-7770-4703-92e5-20e594b6dea2.html",
+     "data": "2026-08-10T16:05:44+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude in calo, Ftse Mib -0,1%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/borsa-milano-chiude-in-calo-ftse-mib-01_049b8f2b-1e0d-4e9f-ac61-d9a73ead91d6.html",
+     "data": "2026-08-10T15:59:11+00:00"
+    },
+    {
+     "titolo": "Gip, 'da Lavitola attentato per accrescere popolarità di Ranucci'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/gip-da-lavitola-attentato-per-accrescere-popolarita-di-ranucci_20de5d15-e790-44d3-ac53-7fe7a5b0a797.html",
+     "data": "2026-08-10T15:26:08+00:00"
+    },
+    {
+     "titolo": "La Farnesina segue la situazione in Colombia, al momento nessun italiano coinvolto",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/la-farnesina-segue-la-situazione-in-colombia-al-momento-nessun-italiano-coinvolto_55fbe7cc-707a-4681-89ec-26630de5550f.html",
+     "data": "2026-08-10T15:23:17+00:00"
+    },
     {
      "titolo": "Sos Humanity, 'Le ong agiscono nel rispetto del diritto internazionale'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/sos-humanity-le-ong-agiscono-nel-rispetto-del-diritto-internazionale_8a70b0b8-6c52-4cc4-88bf-8718af9594a2.html",
@@ -34,32 +54,22 @@
      "titolo": "L'indotto ex Ilva resta in mobilitazione e prepara i licenziamenti collettivi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/lindotto-ex-ilva-resta-in-mobilitazione-e-prepara-i-licenziamenti-collettivi_c97f79db-e978-4a2d-9b3f-edbf6cd4a029.html",
      "data": "2026-08-10T14:26:03+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa gira in calo con Wall Street",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/borsa-europa-gira-in-calo-con-wall-street_718d36ee-953e-4759-a7a7-a9efc94e11f9.html",
-     "data": "2026-08-10T14:03:37+00:00"
-    },
-    {
-     "titolo": "Spettatrice contesta presenza di Salvini a concerto di Diodato per De Andrè",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/spettatrice-contesta-presenza-di-salvini-a-concerto-di-diodato-per-de-andre_7b23e829-89e9-43cf-ae89-0b13d6eba6db.html",
-     "data": "2026-08-10T13:52:09+00:00"
-    },
-    {
-     "titolo": "Wall Street apre negativa con incertezze Hormuz, Dj a -0,07% e Nasdaq a -0,06%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/wall-street-apre-negativa-con-incertezze-hormuz-dj-a-007-e-nasdaq-a-006_59b8412a-fbb9-4252-b7bb-af4c3631bf61.html",
-     "data": "2026-08-10T13:40:59+00:00"
-    },
-    {
-     "titolo": "Legale Ranucci, 'fondamentale capire il movente dell'attentato",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/legale-ranucci-fondamentale-capire-il-movente-dellattentato_02e78eef-c8e0-4816-89f7-d35ed18b0d20.html",
-     "data": "2026-08-10T13:17:55+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Nuovo record 'storico assoluto' di traffico mensile per l'aeroporto dell'Umbria",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/10/nuovo-record-storico-assoluto-di-traffico-mensile-per-laeroporto-dellumbria_7b33f4d1-de45-4757-bf09-49020a05a459.html",
+     "data": "2026-08-10T15:37:33+00:00"
+    },
+    {
+     "titolo": "Ritrovata e sta bene la ragazza che era scomparsa in provincia di Terni",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/10/ritrovata-e-sta-bene-la-ragazza-che-era-scomparsa-in-provincia-di-terni_6509b83d-beca-48e0-a698-13289a8d0c08.html",
+     "data": "2026-08-10T15:36:52+00:00"
+    },
     {
      "titolo": "Stoppini, non aderiamo a rottamazione per premiare chi ha pagato",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/10/stoppini-non-aderiamo-a-rottamazione-per-premiare-chi-ha-pagato_4b2e8c67-fe63-476f-87d8-c71607c11266.html",
@@ -109,22 +119,22 @@
      "titolo": "Lumumba, la commedia di Knox sull'omicidio Meredith? il mondo è malato...",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/10/lumumba-la-commedia-di-knox-sullomicidio-meredith-il-mondo-e-malato..._5b090cdd-8884-4d5f-8180-c8b1eda5645e.html",
      "data": "2026-08-10T09:57:56+00:00"
-    },
-    {
-     "titolo": "Grave bambino coinvolto in un incidente stradale sulla E45 in Umbria",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/10/grave-bambino-coinvolto-in-un-incidente-stradale-sulla-e45-in-umbria_93c86acd-eacd-45be-852a-8e8d15d074b9.html",
-     "data": "2026-08-10T09:24:33+00:00"
-    },
-    {
-     "titolo": "Appello di Proietti contro l'abbandono degli animali, farlo è un tradimento",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/09/appello-di-proietti-contro-labbandono-degli-animali-farlo-e-un-tradimento_b097c65f-dc29-45c1-a086-fccd0c292961.html",
-     "data": "2026-08-09T18:38:10+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Etna paralizza aeroporto di Catania, presa d'assalto da curiosi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/etna-paralizza-aeroporto-di-catania-presa-dassalto-da-curiosi_067bbcec-4134-4584-8419-cddbc4cc3128.html",
+     "data": "2026-08-10T15:42:33+00:00"
+    },
+    {
+     "titolo": "Gip, 'da Lavitola attentato per accrescere popolarità di Ranucci'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/gip-da-lavitola-attentato-per-accrescere-popolarita-di-ranucci_a5996b88-deaf-4675-ba30-fc61525faa2b.html",
+     "data": "2026-08-10T15:26:28+00:00"
+    },
     {
      "titolo": "Spin Time, 120 persone ospitate in alloggi, alcuni rifiutano 'troppo lontani'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/spin-time-120-persone-ospitate-in-alloggi-alcuni-rifiutano-troppo-lontani_a8c67697-8c50-4dbc-b6b0-9362e7d40047.html",
@@ -174,16 +184,6 @@
      "titolo": "Campi flegrei, convocata una riunione di aggiornamento del Centro coordinamento soccorsi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/campi-flegrei-convocata-una-riunione-di-aggiornamento-del-centro-coordinamento-soccorsi_abec09f4-8b10-4cf5-b2cf-1d017a7b5e2d.html",
      "data": "2026-08-10T14:12:16+00:00"
-    },
-    {
-     "titolo": "Nelle buie acque profonde del Mare di Ross c'è un 'pozzo' naturale di CO₂",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/nelle-buie-acque-profonde-del-mare-di-ross-ce-un-pozzo-naturale-di-co_98ee4cad-1623-4399-bb5f-bc80d2723a6c.html",
-     "data": "2026-08-10T11:26:09+00:00"
-    },
-    {
-     "titolo": "Sequestrati 252 chili di cocaina al porto di Gioia Tauro, due arresti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/sequestrati-252-chili-di-cocaina-al-porto-di-gioia-tauro-due-arresti_92f7b150-489c-47cc-a239-4898af026f00.html",
-     "data": "2026-08-10T11:21:13+00:00"
     }
    ]
   },
@@ -218,23 +218,33 @@
     {
      "titolo": "Meloni e Frederiksen: 'No a un'immigrazione incontrollata'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/10/meloni-e-premier-danese-no-a-unimmigrazione-incontrollata-_b5c7ea31-a4a5-4186-bd58-bd5aab71964a.html",
-     "data": "2026-08-10T10:28:57+00:00"
-    },
-    {
-     "titolo": "Vannacci al centrodestra, 'mai chiuso porte ma voi parlate di me, non con me'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/09/vannacci-al-centrodestra-mai-chiuso-porte-ma-voi-parlate-di-me-non-con-me_54bf582d-70b6-4943-82cc-4a6e57ffbc76.html",
-     "data": "2026-08-09T15:43:28+00:00"
-    },
-    {
-     "titolo": "Fratoianni a Conte e Schlein, non siamo in una corsa podistica, serve responsabilità",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/09/fratoianni-a-conte-e-schlein-non-siamo-in-una-corsa-podistica-serve-responsabilita_e71dc5ca-64d5-47f2-9ff0-9e93421b40ae.html",
-     "data": "2026-08-09T15:42:17+00:00"
+     "data": "2026-08-10T16:03:21+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Lo spread tra Btp e Bund a 78,6 punti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/lo-spread-tra-btp-e-bund-a-786-punti_40bc0fd9-5ba8-460f-93d4-ef237ce18e99.html",
+     "data": "2026-08-10T16:08:29+00:00"
+    },
+    {
+     "titolo": "Borsa: Europa fiacca, Londra chiude in calo dello 0,35%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-europa-fiacca-londra-chiude-in-calo-dello-035_9283ae7c-fb15-4a48-bcd5-121296e40bca.html",
+     "data": "2026-08-10T16:05:42+00:00"
+    },
+    {
+     "titolo": "Cresce consumo panettone a Ferragosto, pdl per Festa nazionale il 24 luglio",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/cresce-consumo-panettone-a-ferragosto-pdl-per-festa-nazionale-il-24-luglio_65a0d0c7-f6f9-40ec-96cb-5744fdfdc810.html",
+     "data": "2026-08-10T16:00:49+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude in calo, Ftse Mib -0,1%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-milano-chiude-in-calo-ftse-mib-01_4345a1de-5989-4f6b-8005-e45a339e7548.html",
+     "data": "2026-08-10T15:59:13+00:00"
+    },
     {
      "titolo": "'Unicredit e Commerzbank avviano contatti per il cambio del controllo'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/unicredit-e-commerzbank-avviano-contatti-per-il-cambio-del-controllo_8a4a4b85-96bc-473a-84b4-24b47cfc5138.html",
@@ -274,32 +284,22 @@
      "titolo": "Il gas naturale supera i 59 euro sulla piazza Ttf di Amsterdam",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/il-gas-naturale-supera-i-59-euro-sulla-piazza-ttf-di-amsterdam_7fbfd9a9-05e1-4040-9bb3-fffe94037284.html",
      "data": "2026-08-10T13:14:00+00:00"
-    },
-    {
-     "titolo": "Sindacati, 'risanamento non può trasformarsi nello smembramento di Mps'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/sindacati-risanamento-non-puo-trasformarsi-nello-smembramento-di-mps_80922f3f-04d4-437d-9751-94ec732df01a.html",
-     "data": "2026-08-10T12:11:25+00:00"
-    },
-    {
-     "titolo": "Gozzi, per la cordata italiana interesse 'da quasi tutti gli operatori'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/gozzi-per-la-cordata-italiana-interesse-da-quasi-tutti-gli-operatori_f384ffc6-8428-407d-9f91-e2148e20eb93.html",
-     "data": "2026-08-10T14:30:26+00:00"
-    },
-    {
-     "titolo": "Gse, 'Fer X definitivo è strategico per la crescita delle rinnovabili'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/gse-fer-x-definitivo-e-strategico-per-la-crescita-delle-rinnovabili_2b746bbb-c1a9-4481-ac4f-0ee78dabb6f5.html",
-     "data": "2026-08-10T12:04:42+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano migliora (+0,25%), balzo di Prysmian ed Stm",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-milano-migliora-025-balzo-di-prysmian-ed-stm_24aa3b46-a7bd-4ecf-9611-7cd5057d27e7.html",
-     "data": "2026-08-10T12:04:00+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "La Farnesina segue la situazione in Colombia, al momento nessun italiano coinvolto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/la-farnesina-segue-la-situazione-in-colombia-al-momento-nessun-italiano-coinvolto_47de0e71-218d-4bd0-8cbb-2560ba9eb1db.html",
+     "data": "2026-08-10T15:23:24+00:00"
+    },
+    {
+     "titolo": "Terremoto in Colombia, crolla la torre della cattedrale di Manizales",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/terremoto-in-colombia-crolla-la-torre-della-cattedrale-di-manizales_57ef0ad2-2588-4936-a39f-2283649be75a.html",
+     "data": "2026-08-10T15:46:03+00:00"
+    },
     {
      "titolo": "Al via dopo 30 anni a Las Vegas il processo per l'omicidio di Tupak Shakur",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/10/al-via-dopo-30-anni-a-las-vegas-il-processo-per-lomicidio-di-tupak-shakur_ae0c4ee9-2b86-4633-aab0-6365177aa263.html",
@@ -349,16 +349,6 @@
      "titolo": "Fujimori, 'mi ispiro a Bukele per ristabilire l'ordine in Perù'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/fujimori-mi-ispiro-a-bukele-per-ristabilire-lordine-in-peru_32c57bbe-ebf5-43da-8169-1aac749eb721.html",
      "data": "2026-08-10T12:33:14+00:00"
-    },
-    {
-     "titolo": "Ambiente: México toma medidas para abordar preocupaciones de incendios y deforestación",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/ambiente-mexico-toma-medidas-para-abordar-preocupaciones-de-incendios-y-deforestacion_86f64a57-90b4-4579-b95e-fe1aba4947d0.html",
-     "data": "2026-08-10T11:55:15+00:00"
-    },
-    {
-     "titolo": "Panama rafforza i confini dopo gli attacchi Farc in Colombia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/panama-rafforza-i-confini-dopo-gli-attacchi-farc-in-colombia_3aac1337-435d-4bb5-b040-711c37464d8f.html",
-     "data": "2026-08-10T09:26:23+00:00"
     }
    ]
   },
@@ -431,6 +421,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei atletica: Jacobs 'buone sensazioni, obiettivo terzo titolo'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/europei-atletica-jacobs-buone-sensazioni-obiettivo-terzo-titolo_b745cd4e-228e-43eb-ab1c-0b8b5e0f34d8.html",
+     "data": "2026-08-10T16:00:47+00:00"
+    },
+    {
+     "titolo": "Furlani dopo l'infortunio, 'la mia stagione finisce qui'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/furlani-dopo-linfortunio-la-mia-stagione-finisce-qui_76686e3b-e5a5-4e1a-914e-d1b954b0060c.html",
+     "data": "2026-08-10T15:41:25+00:00"
+    },
+    {
+     "titolo": "La famiglia di Berruti, 'profonda gratitudine al presidente Mattarella'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/la-famiglia-di-berruti-profonda-gratitudine-al-presidente-mattarella_aacad14a-df34-4982-8c39-021b4b0313a2.html",
+     "data": "2026-08-10T15:40:06+00:00"
+    },
+    {
+     "titolo": "Ferran Torres al Psg, il Barca rifiuta la prima offerta dei parigini",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/ferran-torres-al-psg-il-barca-rifiuta-la-prima-offerta-dei-parigini_14fb9e88-1c71-49f1-8024-644f2ab49f07.html",
+     "data": "2026-08-10T15:38:16+00:00"
+    },
+    {
      "titolo": "Molfetta lancia i Giochi del Mediterraneo, 'Taranto in fermento'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/molfetta-lancia-i-giochi-del-mediterraneo-taranto-in-fermento_eeb6de2e-0417-4ea3-a801-3bd1ee47ba7d.html",
      "data": "2026-08-10T15:11:00+00:00"
@@ -469,26 +479,6 @@
      "titolo": "Europei atletica: Furlani torneo finito, in finale nel lungo c'è Inzoli",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/europei-atletica-furlani-torneo-finito-in-finale-nel-lungo-ce-inzoli_f32ef396-95bb-46d3-8df6-c2abcbb28928.html",
      "data": "2026-08-10T13:07:47+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Fabbri in finale nel peso, dentro anche Ponzio e Weir",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/europei-atletica-fabbri-in-finale-nel-peso-dentro-anche-ponzio-e-weir_c02b6d15-8c72-4d65-9603-df6b2b5e92df.html",
-     "data": "2026-08-10T12:35:32+00:00"
-    },
-    {
-     "titolo": "Idoneità sportive e visite, via nuova partnership Campus Bio-medico e Ostiamare",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/idoneita-sportive-e-visite-via-nuova-partnership-campus-bio-medico-e-ostiamare_60673c31-a3f4-43e7-841a-9f1226936788.html",
-     "data": "2026-08-10T12:12:26+00:00"
-    },
-    {
-     "titolo": "Europei atletica: primo salto e si fa subito male, ansia per Furlani",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/europei-atletica-primo-salto-e-si-fa-subito-male-ansia-per-furlani_f2788be1-5af8-4849-ab54-a82c9cb21103.html",
-     "data": "2026-08-10T11:07:53+00:00"
-    },
-    {
-     "titolo": "Calcio:giocatore festeggia gol ma salta cartelloni e cade nel tunnel, paura in Brasile",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/calciogiocatore-festeggia-gol-ma-salta-cartelloni-e-cade-nel-tunnel-paura-in-brasile_de280225-820e-4ea4-a7c8-3ef5d77bf794.html",
-     "data": "2026-08-10T10:52:26+00:00"
     }
    ]
   }
