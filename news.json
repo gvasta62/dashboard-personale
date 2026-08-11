@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-11T21:21:22.362474+00:00",
+ "aggiornato": "2026-08-11T22:09:02.039251+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Cenere sull'Etna, sospese attività allo scalo di Comiso fino alle 11 di domani",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/cenere-sulletna-sospese-attivita-allo-scalo-di-comiso-fino-alle-11-di-domani_ded24a73-36de-4c6e-888f-8aba103f6d62.html",
+     "data": "2026-08-11T21:26:11+00:00"
+    },
+    {
      "titolo": "Tra i minorenni dell'istituto Beccaria, 'psicofarmaci come caramelle'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/tra-i-minorenni-dellistituto-beccaria-psicofarmaci-come-caramelle_f4e8d3b9-0843-40e2-9ebb-b8603635e6ee.html",
      "data": "2026-08-11T18:48:07+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Tenta di salvare ragazzino caduto in una scarpata, morto capo-scout nel Parmense",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/tenta-di-salvare-ragazzino-caduto-in-una-scarpata-morto-capo-scout-nel_ae7df365-e847-49ed-af9c-53087b90b8c4.html",
      "data": "2026-08-11T14:00:48+00:00"
-    },
-    {
-     "titolo": "Rigopiano, depositate le motivazioni della sentenza d'appello bis",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/rigopiano-depositate-le-motivazioni-della-sentenza-dappello-bis_24a52701-0fd7-448f-8eb7-8141d10e6fe8.html",
-     "data": "2026-08-11T13:45:25+00:00"
     }
    ]
   },
@@ -431,6 +431,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: convocata il 10 ottobre l'assemblea generale dell'Aia",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/11/calcio-convocata-il-10-ottobre-lassemblea-generale-dellaia_a38fc80f-ca5c-4229-bdf8-1cc3ab0a2dc3.html",
+     "data": "2026-08-11T21:33:20+00:00"
+    },
+    {
+     "titolo": "Battocletti regina d'Europa, Jacobs si ferma in finale dei 100",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/battocletti-regina-deuropa-jacobs-si-ferma-in-finale-dei-100_42596c64-29d9-4f2e-aa09-6d61b2bc2bd1.html",
+     "data": "2026-08-11T21:23:22+00:00"
+    },
+    {
      "titolo": "Europei atletica: Inzoli sesto nel salto in lungo, oro Tentoglou",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-inzoli-sesto-nel-salto-in-lungo-oro-tentoglou_40830af8-3d06-4119-8375-469ed0d3e098.html",
      "data": "2026-08-11T21:13:25+00:00"
@@ -476,19 +486,9 @@
      "data": "2026-08-11T18:48:05+00:00"
     },
     {
-     "titolo": "Europei di atletica: Battocletti regina dei 5000m, bronzo Majori",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-battocletti-regina-dei-5000m-bronzo-majori_42596c64-29d9-4f2e-aa09-6d61b2bc2bd1.html",
-     "data": "2026-08-11T20:55:46+00:00"
-    },
-    {
      "titolo": "Darderi eliminato da Nakashima al Masters 1000 di Montreal",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/11/darderi-eliminato-da-nakashima-al-masters-1000-di-montreal_b8fd99f0-6c5d-457b-a753-f402baaf2961.html",
      "data": "2026-08-11T18:30:28+00:00"
-    },
-    {
-     "titolo": "Quadarella, 'riconfermarsi è quel che mi dà più soddisfazione'",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/quadarella-riconfermarsi-e-quel-che-mi-da-piu-soddisfazione_84d66a48-3287-464b-ba17-78fb5a836425.html",
-     "data": "2026-08-11T18:15:02+00:00"
     }
    ]
   }
