@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-11T07:59:47.447884+00:00",
+ "aggiornato": "2026-08-11T08:53:44.691885+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Corre il prezzo del petrolio, Brent torna a 90 dollari al barile",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/corre-il-prezzo-del-petrolio-brent-torna-a-90-dollari-al-barile_42a1d084-287c-4cf2-9980-416f6b149f82.html",
+     "data": "2026-08-11T08:42:30+00:00"
+    },
+    {
+     "titolo": "A giugno l'export sale dell'1,6%, +9,8% su base annua",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/a-giugno-lexport-sale-dell16-98-su-base-annua_b35ce215-0871-44b8-bd79-cab45742181d.html",
+     "data": "2026-08-11T08:11:40+00:00"
+    },
     {
      "titolo": "Zelensky, 'Zaporizhzhia colpita da missili nordcoreani, 6 morti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/zelensky-zaporizhzhia-colpita-da-missili-nordcoreani-6-morti_cc2a70ca-79d4-4d70-b3bf-021566015161.html",
@@ -44,16 +54,6 @@
      "titolo": "Lo spread tra Btp e Bund apre in leggero rialzo a 79 punti base",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/lo-spread-tra-btp-e-bund-apre-in-leggero-rialzo-a-79-punti-base_371698e4-085f-4d62-bd70-ecd06a876faa.html",
      "data": "2026-08-11T06:46:57+00:00"
-    },
-    {
-     "titolo": "Petrolio ancora in rialzo, Brent sfiora 88 dollari al barile",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/petrolio-ancora-in-rialzo-brent-sfiora-88-dollari-al-barile_bdd9a4bb-dc12-47c3-b56f-0c9bb68a16df.html",
-     "data": "2026-08-11T06:19:01+00:00"
-    },
-    {
-     "titolo": "Ok dal Parlamento turco a legge storica per un'amnistia limitata ai militanti Pkk",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/ok-dal-parlamento-turco-a-legge-storica-per-unamnistia-limitata-ai-militanti-pkk_b1e2f388-5c56-4f01-8e90-ac745dd34c2e.html",
-     "data": "2026-08-10T19:57:58+00:00"
     }
    ]
   },
@@ -126,6 +126,51 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Ancora una settimana con il caldo intenso, 7-8 gradi oltre la media",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/ancora-una-settimana-con-il-caldo-intenso-7-8-gradi-oltre-la-media_dd2689a1-aa07-4781-aebe-7198aeeb3351.html",
+     "data": "2026-08-11T08:45:55+00:00"
+    },
+    {
+     "titolo": "Aggressione a colpi di mannaia a Torino, un arresto per tentato omicidio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/aggressione-a-colpi-di-mannaia-a-torino-un-arresto-per-tentato-omicidio_95c14df3-32a0-4941-8a7e-c825d7f1d125.html",
+     "data": "2026-08-11T08:40:39+00:00"
+    },
+    {
+     "titolo": "Auto contro cuspide area di servizio sulla Tangenziale di Mestre, un morto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/auto-contro-cuspide-area-di-servizio-sulla-tangenziale-di-mestre-un-morto_470292fb-2022-45da-ab3d-eff31a6a149f.html",
+     "data": "2026-08-11T08:34:51+00:00"
+    },
+    {
+     "titolo": "Il caldo non molla l'Italia, risalgono i bollini rossi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/il-caldo-non-molla-litalia-risalgono-i-bollini-rossi_ab22e81b-040c-48b1-b313-eebc405b12eb.html",
+     "data": "2026-08-11T08:32:37+00:00"
+    },
+    {
+     "titolo": "Morto dopo una rissa, inchiesta per omicidio a Verona",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/morto-dopo-una-rissa-inchiesta-per-omicidio-a-verona_0bb9b373-2926-4184-be17-d0a32c7e2165.html",
+     "data": "2026-08-11T08:30:05+00:00"
+    },
+    {
+     "titolo": "Maltrattamenti in un asilo nido in Brianza, due maestre ai domiciliari",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/maltrattamenti-in-un-asilo-nido-in-brianza-due-maestre-ai-domiciliari_70e4bfab-4aff-41ce-bfff-9aaeace06264.html",
+     "data": "2026-08-11T08:25:19+00:00"
+    },
+    {
+     "titolo": "Atti vandalici di giovanissimi in chiesa, parroco chiude la Collegiata a Lugo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/atti-vandalici-di-giovanissimi-in-chiesa-parroco-chiude-la-collegiata-a-lugo_09f8bb0b-0952-43c3-b199-a5d86bdf8ab7.html",
+     "data": "2026-08-11T08:36:37+00:00"
+    },
+    {
+     "titolo": "Rissa durante la festa per la promozione del Barletta, nove indagati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/rissa-durante-la-festa-per-la-promozione-del-barletta-nove-indagati_e91d1320-861d-4045-affa-2da6e32d743a.html",
+     "data": "2026-08-11T08:26:39+00:00"
+    },
+    {
+     "titolo": "Febbre del Nilo, salgono a 12 i casi di persone contagiate in Sardegna",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/febbre-del-nilo-salgono-a-12-i-casi-di-persone-contagiate-in-sardegna_278434d0-b69e-4ac1-82dc-fae05ab92976.html",
+     "data": "2026-08-11T08:06:14+00:00"
+    },
+    {
      "titolo": "Prosegue l'incendio nell'Alessandrino, potenziate le squadre",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/prosegue-lincendio-nellalessandrino-potenziate-le-squadre_87cb35aa-e3eb-490f-b9fd-ead6f564790c.html",
      "data": "2026-08-11T07:35:55+00:00"
@@ -138,52 +183,7 @@
     {
      "titolo": "Nube vulcanica sull'Etna, sospesi gli atterraggi a Catania fino alle 19",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/nube-vulcanica-sulletna-sospesi-atterraggi-a-catania-fino-alle-19_787bd872-42c8-41b0-ace2-6f10bc7311fd.html",
-     "data": "2026-08-11T07:42:19+00:00"
-    },
-    {
-     "titolo": "Nuova bocca eruttiva sull'Etna, si è aperta nella Valle del Bove",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/nuova-bocca-eruttiva-sulletna-si-e-aperta-nella-valle-del-bove_c73fee70-35a7-471f-9fb7-f81b2008e7fd.html",
-     "data": "2026-08-11T06:06:55+00:00"
-    },
-    {
-     "titolo": "Etna, colate ben alimentate, fronte lavico arrivato a quota 1.370 metri",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/etna-colate-ben-alimentate-fronte-lavico-arrivato-a-quota-1.370-metri_c1b7f514-54b9-45ec-beb0-c8ac09311f5c.html",
-     "data": "2026-08-10T20:02:15+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-08-10T19:17:43+00:00"
-    },
-    {
-     "titolo": "Provoca incidente mortale, sottoposto a fermo per omicidio volontario",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/provoca-incidente-mortale-sottoposto-a-fermo-per-omicidio-volontario_489398ad-b353-44f0-95e1-df3f5903d6d8.html",
-     "data": "2026-08-10T18:55:50+00:00"
-    },
-    {
-     "titolo": "Definì 'maiali' agenti del caso Aldrovandi, assolto Chef Rubio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/defini-maiali-agenti-del-caso-aldrovandi-assolto-chef-rubio_ce8a0cea-cd3f-4b82-a03b-76e80640c555.html",
-     "data": "2026-08-11T05:50:31+00:00"
-    },
-    {
-     "titolo": "'Tra 2 anni fai il presidente', il progetto di Valter Lavitola per Sigfrido Ranucci",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/tra-2-anni-fai-il-presidente-il-progetto-di-valter-lavitola-per-sigfrido-ranucci_dcb4880d-d855-4a58-a8e9-35e0d558193d.html",
-     "data": "2026-08-10T17:32:54+00:00"
-    },
-    {
-     "titolo": "Maria Stella nella Culla della Vita, corsa per adottarla",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/maria-stella-nella-culla-della-vita-corsa-per-adottarla_8f8cbd0d-5cc9-4a44-8ca3-8221476ce992.html",
-     "data": "2026-08-10T17:03:39+00:00"
-    },
-    {
-     "titolo": "Operaio cade dal tetto e si ferisce gravemente in Friuli",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/operaio-cade-dal-tetto-e-si-ferisce-gravemente-in-friuli_ef068af8-7128-45fe-9b8f-50f128d269b8.html",
-     "data": "2026-08-10T16:24:56+00:00"
-    },
-    {
-     "titolo": "Emissione cenere Etna, atterraggi e decolli sospesi a Catania fino alle 6 di domani",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/emissione-cenere-etna-atterraggi-e-decolli-sospesi-a-catania-fino-alle-6-di-domani_c9b18894-2cf9-4f08-9509-e475a84538d7.html",
-     "data": "2026-08-10T16:20:30+00:00"
+     "data": "2026-08-11T08:42:18+00:00"
     }
    ]
   },
@@ -191,9 +191,9 @@
    "nome": "Politica",
    "voci": [
     {
-     "titolo": "Comitato Schengen convocato giovedì a San Macuto per audizione di Piantedosi",
+     "titolo": "Il Comitato Schengen convocato giovedì a San Macuto per l'audizione di Piantedosi",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/comitato-schengen-convocato-giovedi-a-san-macuto-per-audizione-di-piantedosi_27dc23d9-1622-47e2-b6ba-03971d6857f5.html",
-     "data": "2026-08-11T07:08:16+00:00"
+     "data": "2026-08-11T08:21:38+00:00"
     },
     {
      "titolo": "Le ong all'attacco, 'nauseante parlare di compensazioni'",
@@ -230,6 +230,16 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Corre il prezzo del petrolio, Brent torna a 90 dollari al barile",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/corre-il-prezzo-del-petrolio-brent-torna-a-90-dollari-al-barile_28f3c476-fea5-4a62-bbc9-dbdd32c557e4.html",
+     "data": "2026-08-11T08:44:26+00:00"
+    },
+    {
+     "titolo": "A giugno l'export sale dell'1,6%, +9,8% su base annua",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/a-giugno-lexport-sale-dell16-98-su-base-annua_4a288612-7f00-4d1c-84f7-deaef864b5a0.html",
+     "data": "2026-08-11T08:44:44+00:00"
+    },
     {
      "titolo": "Borsa: Milano ondeggia attorno alla parità con l'Europa, attesa per Hormuz",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-milano-ondeggia-attorno-alla-parita-con-leuropa-attesa-per_38b631a9-f9b5-4ff0-afca-a22017498475.html",
@@ -279,22 +289,17 @@
      "titolo": "L'euro è poco mosso sul dollaro a 1,1540",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/leuro-e-poco-mosso-sul-dollaro-a-11540_f32541f1-c920-4a2f-b8ee-18d65a19d3f0.html",
      "data": "2026-08-11T06:28:09+00:00"
-    },
-    {
-     "titolo": "Il prezzo spot dell'oro scende dello 0,25% a 4.380 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/il-prezzo-spot-delloro-scende-dello-025-a-4.380-dollari_f6553ceb-e0c5-4c2d-a2b4-a545a32dee11.html",
-     "data": "2026-08-11T06:22:05+00:00"
-    },
-    {
-     "titolo": "Petrolio ancora in rialzo, Brent sfiora 88 dollari al barile",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/petrolio-ancora-in-rialzo-brent-sfiora-88-dollari-al-barile_f4133ee5-b1a6-4143-bd2d-1ab45b6e477b.html",
-     "data": "2026-08-11T07:23:25+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "In Nicaragua una gigantesca statua di Fidel Castro per i 100 anni della nascita",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/in-nicaragua-una-gigantesca-statua-di-fidel-castro-per-i-100-anni-della_a7b920a0-6ca6-47b9-a930-52964e964fd8.html",
+     "data": "2026-08-11T08:15:05+00:00"
+    },
     {
      "titolo": "Zelensky, 'Zaporizhzhia colpita da missili nordcoreani, 6 morti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/11/zelensky-zaporizhzhia-colpita-da-missili-nordcoreani-6-morti_79a2a352-3c78-4359-8721-44f7adf4f8be.html",
@@ -349,11 +354,6 @@
      "titolo": "'Trump, 'ho le capacità per decapitare l'Iran, lo scoprirete'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/10/trump-ho-le-capacita-per-decapitare-liran-lo-scoprirete_0c5a360e-b55b-4a66-b9da-c7696ef98385.html",
      "data": "2026-08-10T19:31:48+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'la Corea del nord continua a fornire missili a Mosca e si perfeziona'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/10/zelensky-la-corea-del-nord-continua-a-fornire-missili-a-mosca-e-si-perfeziona_f736167c-d158-4805-b875-fb1aae174fdc.html",
-     "data": "2026-08-10T19:08:07+00:00"
     }
    ]
   },
@@ -426,6 +426,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Sport: Nyt, 'caldo afoso, ma a Roma si gioca a curling con vista Colosseo'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/sport-nyt-caldo-afoso-ma-a-roma-si-gioca-a-curling-con-vista-colosseo_535724f3-327d-4b58-a25e-077c85ab8b75.html",
+     "data": "2026-08-11T08:06:14+00:00"
+    },
+    {
      "titolo": "Calcio: l'Uefa lancia un archivio di decisioni arbitrali 'Clear Line'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/11/calcio-luefa-lancia-un-archivio-di-decisioni-arbitrali-clear-line_1a8576d3-a1c1-42e1-9e1c-a92c2755fbdc.html",
      "data": "2026-08-11T07:24:35+00:00"
@@ -479,11 +484,6 @@
      "titolo": "Napoli cantiere aperto. Lukaku verso il Fenerbahce, caccia a un difensore",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/napoli-cantiere-aperto.-lukaku-verso-il-fenerbahce-caccia-a-un-difensore_c3b5af9e-acd5-439a-8118-db6ffeff4000.html",
      "data": "2026-08-10T17:12:55+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Razzetti argento nei 400 misti dietro a Borodin",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/10/europei-nuoto-razzetti-argento-nei-400-misti-dietro-a-borodin_92afe99d-0cb7-486b-912d-20dd9d8b724f.html",
-     "data": "2026-08-10T16:57:05+00:00"
     }
    ]
   }
