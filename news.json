@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-11T19:30:56.970584+00:00",
+ "aggiornato": "2026-08-11T20:30:00.836726+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Zelensky, 'la Russia si prepara a una nuova mobilitazione dopo le elezioni'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/zelensky-la-russia-si-prepara-a-una-nuova-mobilitazione-dopo-le-elezioni_91bcc9ae-547f-406f-ac32-14bba2841173.html",
+     "data": "2026-08-11T20:19:42+00:00"
+    },
+    {
+     "titolo": "Media, 'muore un italiano a Formentera. Inutili i tentativi di rianimarlo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/media-muore-un-italiano-a-formentera.-inutili-i-tentativi-di-rianimarlo_0be30dc1-d3c1-49a5-b787-6a19df410a0c.html",
+     "data": "2026-08-11T19:34:58+00:00"
+    },
+    {
+     "titolo": "Ministro Energia Usa, ora per Hormuz 9 milioni di barili di petrolio al giorno",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/ministro-energia-usa-ora-per-hormuz-9-milioni-di-barili-di-petrolio-al-giorno_efa7b679-fdbc-4561-ae94-ae1ea42b0cde.html",
+     "data": "2026-08-11T19:35:19+00:00"
+    },
     {
      "titolo": "Terremoto in Colombia, estratta viva dalle macerie dopo 30 ore",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/terremoto-in-colombia-estratta-viva-dalle-macerie-dopo-30-ore_ce77ff3c-1f90-4120-9874-e9cc11556296.html",
@@ -39,21 +54,6 @@
      "titolo": "Borsa: seduta interlocutoria Milano (+0,08%), balzo di Eni e Azimut",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/borsa-seduta-interlocutoria-milano-008-balzo-di-eni-e-azimut_dc564c72-f037-4a54-81b0-ecee3bf94f79.html",
      "data": "2026-08-11T16:28:42+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund tedeschi chiude invariato a 79,3 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/lo-spread-tra-btp-e-bund-tedeschi-chiude-invariato-a-793-punti_606cbbba-dfed-43c6-b2ef-39478257d612.html",
-     "data": "2026-08-11T16:09:14+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude contrastata, Parigi -0,13%, Francoforte +0,26%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/borsa-leuropa-chiude-contrastata-parigi-013-francoforte-026_8a87da45-4e29-41a7-8c31-c5a2de2bc248.html",
-     "data": "2026-08-11T15:51:36+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in lieve rialzo, +0,08%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/borsa-milano-chiude-in-lieve-rialzo-008_d88c3d72-4fd7-4c3b-95a8-537d19be4efb.html",
-     "data": "2026-08-11T15:39:50+00:00"
     }
    ]
   },
@@ -131,9 +131,9 @@
      "data": "2026-08-11T18:48:07+00:00"
     },
     {
-     "titolo": "Lavitola dal gip, Salvini contro Ranucci: 'Via da Report'",
+     "titolo": "Lavitola dal gip. Salvini contro Ranucci: 'Via da Report'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/lavitola-dal-gip-salvini-contro-ranucci-via-da-report_ea156374-172a-434c-8197-8bf89a7164cb.html",
-     "data": "2026-08-11T19:18:40+00:00"
+     "data": "2026-08-11T19:48:01+00:00"
     },
     {
      "titolo": "Incontro Campidoglio-Spin Time, fino a oggi sistemate circa 160 persone",
@@ -301,6 +301,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Zelensky, 'la Russia si prepara a una nuova mobilitazione dopo le elezioni'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/11/zelensky-la-russia-si-prepara-a-una-nuova-mobilitazione-dopo-le-elezioni_21a67a96-c405-49e9-a440-e38990298124.html",
+     "data": "2026-08-11T20:19:56+00:00"
+    },
+    {
+     "titolo": "Media, 'muore un italiano a Formentera. Inutili i tentativi di rianimarlo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/11/media-muore-un-italiano-a-formentera.-inutili-i-tentativi-di-rianimarlo_ec7df6b4-c086-41b2-9235-9d07e4594924.html",
+     "data": "2026-08-11T19:35:02+00:00"
+    },
+    {
+     "titolo": "Ministro Energia Usa, ora per Hormuz 9 milioni di barili di petrolio al giorno",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/11/ministro-energia-usa-ora-per-hormuz-9-milioni-di-barili-di-petrolio-al-giorno_342a6e6a-f6eb-4f3e-96fe-2685228452b2.html",
+     "data": "2026-08-11T19:35:19+00:00"
+    },
+    {
      "titolo": "Terremoto in Colombia, estratta viva dalle macerie dopo 30 ore",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/terremoto-in-colombia-estratta-viva-dalle-macerie-dopo-30-ore_f74ba32c-4d2d-4147-9a4b-07f84208b3e7.html",
      "data": "2026-08-11T19:03:36+00:00"
@@ -344,21 +359,6 @@
      "titolo": "Yemen accusa Houthi per attacco a nave nel Mar Rosso, '4 i morti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/yemen-accusa-houthi-per-attacco-a-nave-nel-mar-rosso-4-i-morti_eab988e6-4ed4-4e4c-b731-a919c00bcd36.html",
      "data": "2026-08-11T14:55:53+00:00"
-    },
-    {
-     "titolo": "Mercantile colpito nel Mar Rosso, due i marittimi uccisi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/mercantile-colpito-nel-mar-rosso-due-i-marittimi-uccisi_ce640ac2-a1d2-40cd-92fb-a9d507f088ef.html",
-     "data": "2026-08-11T14:26:55+00:00"
-    },
-    {
-     "titolo": "Rezaei, 'l'Iran non si ritirerà di fronte ad alcuna minaccia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/rezaei-liran-non-si-ritirera-di-fronte-ad-alcuna-minaccia_062dfa34-daf1-4ba8-96c1-c252a7a50f3b.html",
-     "data": "2026-08-11T14:10:43+00:00"
-    },
-    {
-     "titolo": "Wsj, 'Forzato il blocco navale, gli Usa sparano contro imbarcazione vicino all'Iran",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/wsj-forzato-il-blocco-navale-gli-usa-sparano-contro-imbarcazione-vicino_8649d63f-2f4f-4da7-9147-e0d99a62dae3.html",
-     "data": "2026-08-11T13:44:30+00:00"
     }
    ]
   },
@@ -431,6 +431,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "'Tete' mette i fantasmi alle spalle, 'ho avuto cuore per lottare'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/11/tete-mette-i-fantasmi-alle-spalle-ho-avuto-cuore-per-lottare_d628766b-40c0-467a-a975-61c6c1fd2146.html",
+     "data": "2026-08-11T20:23:23+00:00"
+    },
+    {
+     "titolo": "Europei atletica: Jacobs in finale dei 100m, dentro anche Ali",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-jacobs-in-finale-dei-100m-dentro-anche-ali_518a1d8b-0a80-40c5-aad1-8eebc57ab1a6.html",
+     "data": "2026-08-11T19:52:58+00:00"
+    },
+    {
      "titolo": "Battocletti indossa la corona dei 5000m, 'me l'ha messa mamma'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/battocletti-indossa-la-corona-dei-5000m-me-lha-messa-mamma_82936e55-1dd2-463f-982f-891a5f1c3011.html",
      "data": "2026-08-11T19:22:04+00:00"
@@ -438,7 +448,7 @@
     {
      "titolo": "Grande Italia agli Europei di nuoto, ori per Quadarella e Martinenghi",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/grande-italia-agli-europei-di-nuoto-ori-per-quadarella-e-martinenghi_6e06c872-d29c-4fb1-9ef2-735e33e4b080.html",
-     "data": "2026-08-11T19:27:17+00:00"
+     "data": "2026-08-11T20:27:08+00:00"
     },
     {
      "titolo": "Europei atletica: Battocletti regina dei 5000m, bronzo Majori",
@@ -448,7 +458,7 @@
     {
      "titolo": "Europei di atletica: Battocletti regina dei 5000m, bronzo Majori",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-battocletti-regina-dei-5000m-bronzo-majori_42596c64-29d9-4f2e-aa09-6d61b2bc2bd1.html",
-     "data": "2026-08-11T18:54:53+00:00"
+     "data": "2026-08-11T19:43:13+00:00"
     },
     {
      "titolo": "Darderi eliminato da Nakashima al Masters 1000 di Montreal",
@@ -479,16 +489,6 @@
      "titolo": "Fiorentina ecco i numeri di maglia: a Kean il 9, Mastantuono prende il 30",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/11/fiorentina-ecco-i-numeri-di-maglia-a-kean-il-9-mastantuono-prende-il-30_c2568318-c3c3-4114-a642-aa0d386b65d8.html",
      "data": "2026-08-11T17:31:30+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Dorio, 'era ora che il mio record venisse battuto'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-dorio-era-ora-che-il-mio-record-venisse-battuto_5344c9f5-c9a6-4aab-a50b-8a092d1faccb.html",
-     "data": "2026-08-11T17:26:02+00:00"
-    },
-    {
-     "titolo": "Pilato e Angiolini in finale nei 100 rana, Ceccon nei 200 dorso",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/pilato-e-angiolini-in-finale-nei-100-rana-ceccon-nei-200-dorso_ad688c6a-bb3f-4d47-a851-a6748e4aab26.html",
-     "data": "2026-08-11T17:22:58+00:00"
     }
    ]
   }
