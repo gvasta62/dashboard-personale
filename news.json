@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-11T18:11:59.192708+00:00",
+ "aggiornato": "2026-08-11T19:30:56.970584+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Terremoto in Colombia, estratta viva dalle macerie dopo 30 ore",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/terremoto-in-colombia-estratta-viva-dalle-macerie-dopo-30-ore_ce77ff3c-1f90-4120-9874-e9cc11556296.html",
+     "data": "2026-08-11T19:03:18+00:00"
+    },
+    {
+     "titolo": "Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/il-petrolio-chiude-in-rialzo-a-new-york-ma-sotto-90-dollari-a-8295-dollari_a19ef9d1-7493-4ed0-93a5-6f3de086361a.html",
+     "data": "2026-08-11T18:37:37+00:00"
+    },
     {
      "titolo": "Yemen, 'sale a sei morti il bilancio dei raid nel Mar Rosso attribuito agli Houthi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/yemen-sale-a-sei-morti-il-bilancio-dei-raid-nel-mar-rosso_3fdcf472-8e98-45e3-aec1-eebfc23ecce2.html",
@@ -44,16 +54,6 @@
      "titolo": "Borsa: Milano chiude in lieve rialzo, +0,08%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/borsa-milano-chiude-in-lieve-rialzo-008_d88c3d72-4fd7-4c3b-95a8-537d19be4efb.html",
      "data": "2026-08-11T15:39:50+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa positiva nel finale, Wall Street debole, Milano +0,2%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/borsa-europa-positiva-nel-finale-wall-street-debole-milano-02_d59b7452-0a61-42e5-bad9-55e1f700fdb7.html",
-     "data": "2026-08-11T15:33:04+00:00"
-    },
-    {
-     "titolo": "Ue, sistema elettrico stabile, preparativi per l'eclissi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/ue-sistema-elettrico-stabile-preparativi-per-leclissi_b6ca8a1a-9254-4bf0-9b33-46f5307f0e1d.html",
-     "data": "2026-08-11T15:21:49+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Tra i minorenni dell'istituto Beccaria, 'psicofarmaci come caramelle'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/tra-i-minorenni-dellistituto-beccaria-psicofarmaci-come-caramelle_f4e8d3b9-0843-40e2-9ebb-b8603635e6ee.html",
+     "data": "2026-08-11T18:48:07+00:00"
+    },
+    {
+     "titolo": "Lavitola dal gip, Salvini contro Ranucci: 'Via da Report'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/lavitola-dal-gip-salvini-contro-ranucci-via-da-report_ea156374-172a-434c-8197-8bf89a7164cb.html",
+     "data": "2026-08-11T19:18:40+00:00"
+    },
+    {
+     "titolo": "Incontro Campidoglio-Spin Time, fino a oggi sistemate circa 160 persone",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/incontro-campidoglio-spin-time-fino-a-oggi-sistemate-circa-160-persone_7724b865-27d8-49af-92de-df35845fa849.html",
+     "data": "2026-08-11T18:15:07+00:00"
+    },
+    {
      "titolo": "Spray e calci contro turista 22enne con la kippah a Roma",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/spray-e-calci-contro-turista-22enne-con-la-kippah-a-roma_3cb7d3d8-108c-435a-a543-e6d877ac841c.html",
      "data": "2026-08-11T17:56:14+00:00"
@@ -169,27 +184,17 @@
      "titolo": "Rigopiano, depositate le motivazioni della sentenza d'appello bis",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/rigopiano-depositate-le-motivazioni-della-sentenza-dappello-bis_24a52701-0fd7-448f-8eb7-8141d10e6fe8.html",
      "data": "2026-08-11T13:45:25+00:00"
-    },
-    {
-     "titolo": "Lavitola dal gip, Salvini contro Ranucci: 'Via da Report'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/lallarme-di-ranucci-sui-social-salvini-chiede-la-mia-sospensione_ea156374-172a-434c-8197-8bf89a7164cb.html",
-     "data": "2026-08-11T17:38:56+00:00"
-    },
-    {
-     "titolo": "Ancora una frana sul Monte Pelmo, è la terza in pochi giorni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/ancora-una-frana-sul-monte-pelmo-e-la-terza-in-pochi-giorni_f125ee16-964a-405e-ac4c-14998fe92742.html",
-     "data": "2026-08-11T13:17:19+00:00"
-    },
-    {
-     "titolo": "Lavitola a Ranucci in chat: 'Berlusconi ti avrebbe fatto copresidente'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/lavitola-a-ranucci-in-chat-berlusconi-ti-avrebbe-fatto-copresidente_d538b5c7-5e40-45bd-80c0-ab0236c5f4c4.html",
-     "data": "2026-08-11T16:30:44+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Riunito il Comitato etico su Ranucci, voci di sostituzione",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/a-breve-il-parere-del-comitato-etico-su-ranucci-voci-di-sostituzione_5f98de34-ab53-4e84-a352-cc980b367aa3.html",
+     "data": "2026-08-11T19:17:43+00:00"
+    },
     {
      "titolo": "Tornelli in spiaggia, Comune Livorno attacca video di Halissey 'Scorretto'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/tornelli-in-spiaggia-comune-livorno-attacca-video-di-halissey-scorretto_bcc3d5bc-0d7b-4c70-a233-225bf1c7acda.html",
@@ -224,17 +229,17 @@
      "titolo": "Nuovo attacco di Madrid a Roma: 'Su Ceuta logiche elettorali'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/comitato-schengen-convocato-giovedi-a-san-macuto-per-audizione-di-piantedosi_27dc23d9-1622-47e2-b6ba-03971d6857f5.html",
      "data": "2026-08-11T17:15:39+00:00"
-    },
-    {
-     "titolo": "Le ong all'attacco, 'nauseante parlare di compensazioni'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/10/le-ong-allattacco-nauseante-parlare-di-compensazioni_fa5d76dd-d2b0-4075-a0f5-894b92bc6b3c.html",
-     "data": "2026-08-10T18:29:27+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/il-petrolio-chiude-in-rialzo-a-new-york-ma-sotto-90-dollari-a-8295-dollari_820d9a6d-6914-4146-af06-dc475af4ee92.html",
+     "data": "2026-08-11T18:39:37+00:00"
+    },
     {
      "titolo": "Salvini incontra il commissario Squitieri, avanti sul piano casa",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/salvini-incontra-il-commissario-squitieri-avanti-sul-piano-casa_2f8df0d9-a211-476b-a12e-96958cdcc3d8.html",
@@ -243,7 +248,7 @@
     {
      "titolo": "Il gas riaggancia i 60 euro, attesa per negoziato tra Iran e Oman",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/il-gas-riaggancia-i-60-euro-attesa-per-negoziato-tra-iran-e-oman_b0a1f7d8-9e61-4a64-9941-86222e122a9e.html",
-     "data": "2026-08-11T16:44:18+00:00"
+     "data": "2026-08-11T18:37:19+00:00"
     },
     {
      "titolo": "Borsa: seduta interlocutoria Milano (+0,08%), balzo di Eni e Azimut",
@@ -289,17 +294,17 @@
      "titolo": "Tir, sindacati chiedono soluzioni antiafa dopo il 'no' della Camera ai motori accesi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/tir-sindacati-chiedono-soluzioni-antiafa-dopo-il-no-della-camera-ai-motori-accesi_bc009d0f-ec44-4e2b-8540-6aac2da2df84.html",
      "data": "2026-08-11T14:55:24+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa positiva, listini Usa contrastati, Milano +0,3%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-europa-positiva-listini-usa-contrastati-milano-03_2ac87d4f-f48c-4450-84f9-48b70f50ccb8.html",
-     "data": "2026-08-11T14:05:51+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Terremoto in Colombia, estratta viva dalle macerie dopo 30 ore",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/terremoto-in-colombia-estratta-viva-dalle-macerie-dopo-30-ore_f74ba32c-4d2d-4147-9a4b-07f84208b3e7.html",
+     "data": "2026-08-11T19:03:36+00:00"
+    },
     {
      "titolo": "Yemen, 'sale a sei morti il bilancio dei raid nel Mar Rosso attribuito agli Houthi'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/yemen-sale-a-sei-morti-il-bilancio-dei-raid-nel-mar-rosso_2709b957-28f3-4427-a834-f1bb8096b28b.html",
@@ -354,11 +359,6 @@
      "titolo": "Wsj, 'Forzato il blocco navale, gli Usa sparano contro imbarcazione vicino all'Iran",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/wsj-forzato-il-blocco-navale-gli-usa-sparano-contro-imbarcazione-vicino_8649d63f-2f4f-4da7-9147-e0d99a62dae3.html",
      "data": "2026-08-11T13:44:30+00:00"
-    },
-    {
-     "titolo": "Terremoto: Se registraron al menos 47 réplicas del terremoto de Colombia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/terremoto-se-registraron-al-menos-47-replicas-del-terremoto-de-colombia_d497b0bc-e7cd-4df6-8db2-7c6d44262e56.html",
-     "data": "2026-08-11T13:19:03+00:00"
     }
    ]
   },
@@ -431,6 +431,41 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Battocletti indossa la corona dei 5000m, 'me l'ha messa mamma'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/battocletti-indossa-la-corona-dei-5000m-me-lha-messa-mamma_82936e55-1dd2-463f-982f-891a5f1c3011.html",
+     "data": "2026-08-11T19:22:04+00:00"
+    },
+    {
+     "titolo": "Grande Italia agli Europei di nuoto, ori per Quadarella e Martinenghi",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/grande-italia-agli-europei-di-nuoto-ori-per-quadarella-e-martinenghi_6e06c872-d29c-4fb1-9ef2-735e33e4b080.html",
+     "data": "2026-08-11T19:27:17+00:00"
+    },
+    {
+     "titolo": "Europei atletica: Battocletti regina dei 5000m, bronzo Majori",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-battocletti-regina-dei-5000m-bronzo-majori_200b4899-aa8b-4931-bc10-d135228fc933.html",
+     "data": "2026-08-11T18:48:05+00:00"
+    },
+    {
+     "titolo": "Europei di atletica: Battocletti regina dei 5000m, bronzo Majori",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-battocletti-regina-dei-5000m-bronzo-majori_42596c64-29d9-4f2e-aa09-6d61b2bc2bd1.html",
+     "data": "2026-08-11T18:54:53+00:00"
+    },
+    {
+     "titolo": "Darderi eliminato da Nakashima al Masters 1000 di Montreal",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/11/darderi-eliminato-da-nakashima-al-masters-1000-di-montreal_b8fd99f0-6c5d-457b-a753-f402baaf2961.html",
+     "data": "2026-08-11T18:30:28+00:00"
+    },
+    {
+     "titolo": "Quadarella, 'riconfermarsi è quel che mi dà più soddisfazione'",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/quadarella-riconfermarsi-e-quel-che-mi-da-piu-soddisfazione_84d66a48-3287-464b-ba17-78fb5a836425.html",
+     "data": "2026-08-11T18:15:02+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: Quadarella da record, quarto oro consecutivo negli 800 stile libero",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/europei-nuoto-quadarella-da-record-quarto-oro-consecutivo-negli-800-stile_5c9c0730-4947-4320-8705-fb59af0b6e5d.html",
+     "data": "2026-08-11T18:08:18+00:00"
+    },
+    {
      "titolo": "Lukaku al Fenerbahce, c'è l'accordo. L'Inter torna forte su Spence",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/11/lukaku-al-fenerbahce-ce-laccordo.-linter-torna-forte-su-spence_4c5c3beb-00bc-48bb-a56c-544c986499a9.html",
      "data": "2026-08-11T17:52:48+00:00"
@@ -454,41 +489,6 @@
      "titolo": "Pilato e Angiolini in finale nei 100 rana, Ceccon nei 200 dorso",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/pilato-e-angiolini-in-finale-nei-100-rana-ceccon-nei-200-dorso_ad688c6a-bb3f-4d47-a851-a6748e4aab26.html",
      "data": "2026-08-11T17:22:58+00:00"
-    },
-    {
-     "titolo": "Europei di nuoto, Martinenghi oro e Cerasuolo bronzo nei 100 rana",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/europei-di-nuoto-martinenghi-oro-e-cerasuolo-bronzo-nei-100-rana_6e06c872-d29c-4fb1-9ef2-735e33e4b080.html",
-     "data": "2026-08-11T17:47:29+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Martinenghi oro e Cerasuolo bronzo nei 100 rana",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/europei-nuoto-martinenghi-oro-e-cerasuolo-bronzo-nei-100-rana_dd513fc3-15b4-4d53-8697-279aa3867786.html",
-     "data": "2026-08-11T16:56:41+00:00"
-    },
-    {
-     "titolo": "Supercoppa Europea: il Psg sfida l'Aston Villa 'tanta voglia di vincere'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/11/supercoppa-europea-il-psg-sfida-laston-villa-tanta-voglia-di-vincere_a1932199-0dd6-4aa3-8192-4a5268249628.html",
-     "data": "2026-08-11T16:54:44+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Curtis bronzo nei 100 stile libero, oro Steenbergen",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/europei-nuoto-curtis-bronzo-nei-100-stile-libero-oro-steenbergen_e2d53653-16aa-45a9-b1cf-fa0a0d4a1147.html",
-     "data": "2026-08-11T16:50:48+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Ceccon quarto nei 50 farfalla, oro al russo Kornev",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/europei-nuoto-ceccon-quarto-nei-50-farfalla-oro-al-russo-kornev_b5eb7434-c9f5-4298-ac80-6f584bf9b140.html",
-     "data": "2026-08-11T16:46:07+00:00"
-    },
-    {
-     "titolo": "Nba: LeBron sfiderà i Knicks campioni all'esordio con Philadelphia",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/11/nba-lebron-sfidera-i-knicks-campioni-allesordio-con-philadelphia_61d2b325-ed85-49c2-99ad-10ac5e7836c6.html",
-     "data": "2026-08-11T16:04:16+00:00"
-    },
-    {
-     "titolo": "Orsato: l'arbitro al centro della partita, e basta accerchiamenti",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/11/orsato-larbitro-al-centro-della-partita-e-basta-accerchiamenti_b0362383-5c90-4030-837c-c5f2f770a6d8.html",
-     "data": "2026-08-11T16:11:06+00:00"
     }
    ]
   }
