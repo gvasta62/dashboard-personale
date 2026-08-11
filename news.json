@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-11T05:32:40.749834+00:00",
+ "aggiornato": "2026-08-11T06:40:45.118283+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Petrolio ancora in rialzo, Brent sfiora 88 dollari al barile",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/petrolio-ancora-in-rialzo-brent-sfiora-88-dollari-al-barile_bdd9a4bb-dc12-47c3-b56f-0c9bb68a16df.html",
+     "data": "2026-08-11T06:19:01+00:00"
+    },
     {
      "titolo": "Ok dal Parlamento turco a legge storica per un'amnistia limitata ai militanti Pkk",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/ok-dal-parlamento-turco-a-legge-storica-per-unamnistia-limitata-ai-militanti-pkk_b1e2f388-5c56-4f01-8e90-ac745dd34c2e.html",
@@ -49,11 +54,6 @@
      "titolo": "Il petrolio allunga ancora a New York su timori su Hormuz, barile a +4,2%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/il-petrolio-allunga-ancora-a-new-york-su-timori-su-hormuz-barile-a-42_7ff53378-1157-4295-baef-ec64381010c8.html",
      "data": "2026-08-10T17:43:38+00:00"
-    },
-    {
-     "titolo": "Ong, 'la fotoreporter iraniana Yalda Moaiery condannata a 15 anni'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/10/ong-la-fotoreporter-iraniana-yalda-moaiery-condannata-a-15-anni_dc4c82a5-465c-41a5-9e57-ef693c06fa57.html",
-     "data": "2026-08-10T17:04:59+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Nuova bocca eruttiva sull'Etna, si è aperta nella Valle del Bove",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/nuova-bocca-eruttiva-sulletna-si-e-aperta-nella-valle-del-bove_c73fee70-35a7-471f-9fb7-f81b2008e7fd.html",
+     "data": "2026-08-11T06:06:55+00:00"
+    },
+    {
      "titolo": "Etna, colate ben alimentate, fronte lavico arrivato a quota 1.370 metri",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/etna-colate-ben-alimentate-fronte-lavico-arrivato-a-quota-1.370-metri_c1b7f514-54b9-45ec-beb0-c8ac09311f5c.html",
      "data": "2026-08-10T20:02:15+00:00"
@@ -139,6 +144,11 @@
      "titolo": "Provoca incidente mortale, sottoposto a fermo per omicidio volontario",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/provoca-incidente-mortale-sottoposto-a-fermo-per-omicidio-volontario_489398ad-b353-44f0-95e1-df3f5903d6d8.html",
      "data": "2026-08-10T18:55:50+00:00"
+    },
+    {
+     "titolo": "Definì 'maiali' agenti del caso Aldrovandi, assolto Chef Rubio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/defini-maiali-agenti-del-caso-aldrovandi-assolto-chef-rubio_ce8a0cea-cd3f-4b82-a03b-76e80640c555.html",
+     "data": "2026-08-11T05:50:31+00:00"
     },
     {
      "titolo": "'Tra 2 anni fai il presidente', il progetto di Valter Lavitola per Sigfrido Ranucci",
@@ -174,16 +184,6 @@
      "titolo": "Spin Time, 120 persone ospitate in alloggi, alcuni rifiutano 'troppo lontani'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/spin-time-120-persone-ospitate-in-alloggi-alcuni-rifiutano-troppo-lontani_a8c67697-8c50-4dbc-b6b0-9362e7d40047.html",
      "data": "2026-08-10T15:23:00+00:00"
-    },
-    {
-     "titolo": "La madre del regista morto: 'Aveva la boa, siamo annichiliti'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/la-madre-del-regista-morto-aveva-la-boa-siamo-annichiliti_71fa3a28-f8b7-450e-8d96-38d3a8fa0a7b.html",
-     "data": "2026-08-10T15:21:41+00:00"
-    },
-    {
-     "titolo": "Abusa di due hostess a bordo di uno yacht, arrestato skipper spagnolo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/abusa-di-due-hostess-a-bordo-di-uno-yacht-arrestato-skipper-spagnolo_6fe6b739-0a40-4f24-86c2-4233ea05af41.html",
-     "data": "2026-08-10T14:45:35+00:00"
     }
    ]
   },
@@ -236,6 +236,21 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "L'euro è poco mosso sul dollaro a 1,1540",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/leuro-e-poco-mosso-sul-dollaro-a-11540_f32541f1-c920-4a2f-b8ee-18d65a19d3f0.html",
+     "data": "2026-08-11T06:28:09+00:00"
+    },
+    {
+     "titolo": "Il prezzo spot dell'oro scende dello 0,25% a 4.380 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/il-prezzo-spot-delloro-scende-dello-025-a-4.380-dollari_f6553ceb-e0c5-4c2d-a2b4-a545a32dee11.html",
+     "data": "2026-08-11T06:22:05+00:00"
+    },
+    {
+     "titolo": "Petrolio ancora in rialzo, Brent sfiora 88 dollari al barile",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/petrolio-ancora-in-rialzo-brent-sfiora-88-dollari-al-barile_f4133ee5-b1a6-4143-bd2d-1ab45b6e477b.html",
+     "data": "2026-08-11T06:18:56+00:00"
+    },
+    {
      "titolo": "Il petrolio chiude in rialzo di oltre il 5% a New York a 82,7 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/il-petrolio-chiude-in-rialzo-di-oltre-il-5-a-new-york-a-827-dollari_ffbd5fca-1df3-4a9f-a903-3fffed02ee17.html",
      "data": "2026-08-10T18:38:59+00:00"
@@ -279,21 +294,6 @@
      "titolo": "'Unicredit e Commerzbank avviano contatti per il cambio del controllo'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/unicredit-e-commerzbank-avviano-contatti-per-il-cambio-del-controllo_8a4a4b85-96bc-473a-84b4-24b47cfc5138.html",
      "data": "2026-08-10T14:36:41+00:00"
-    },
-    {
-     "titolo": "L'indotto ex Ilva resta in mobilitazione e prepara i licenziamenti collettivi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/lindotto-ex-ilva-resta-in-mobilitazione-e-prepara-i-licenziamenti-collettivi_0f5aadf2-3499-4aed-8834-0c0898ad1af5.html",
-     "data": "2026-08-10T14:30:28+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa gira in calo con Wall Street",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-europa-gira-in-calo-con-wall-street_90037ad9-5af8-4232-a849-e8d2470dfd54.html",
-     "data": "2026-08-10T14:03:55+00:00"
-    },
-    {
-     "titolo": "I consumi oltre il record del 2007, più tecnologia e tempo libero",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/i-consumi-oltre-il-record-2007-piu-tecnologia-e-tempo-libero_54e99b4f-854b-451d-b5ae-fcf1fe6b68d2.html",
-     "data": "2026-08-10T13:46:28+00:00"
     }
    ]
   },
