@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-11T17:23:37.431986+00:00",
+ "aggiornato": "2026-08-11T18:11:59.192708+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Yemen, 'sale a sei morti il bilancio dei raid nel Mar Rosso attribuito agli Houthi'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/yemen-sale-a-sei-morti-il-bilancio-dei-raid-nel-mar-rosso_3fdcf472-8e98-45e3-aec1-eebfc23ecce2.html",
+     "data": "2026-08-11T17:30:36+00:00"
+    },
+    {
+     "titolo": "Il bilancio delle vittime del terremoto in Colombia sale a 240",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/il-bilancio-delle-vittime-del-terremoto-in-colombia-sale-a-240_ba8dce6c-b9af-482a-b745-3b78bcb26d81.html",
+     "data": "2026-08-11T17:28:58+00:00"
+    },
     {
      "titolo": "Il gas riaggancia i 60 euro, attesa per negoziato tra Iran e Oman",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/il-gas-riaggancia-i-60-euro-attesa-per-negoziato-tra-iran-e-oman_0935b0af-06df-419b-aba7-25631d24ca4e.html",
@@ -44,16 +54,6 @@
      "titolo": "Ue, sistema elettrico stabile, preparativi per l'eclissi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/ue-sistema-elettrico-stabile-preparativi-per-leclissi_b6ca8a1a-9254-4bf0-9b33-46f5307f0e1d.html",
      "data": "2026-08-11T15:21:49+00:00"
-    },
-    {
-     "titolo": "Da Sony e Tsmc maxi-investimento da 4 miliardi di euro sui sensori",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/da-sony-e-tsmc-maxi-investimento-da-4-miliardi-di-euro-sui-sensori_ddb21579-1830-4d86-a4b6-a922ca0f4a38.html",
-     "data": "2026-08-11T15:16:15+00:00"
-    },
-    {
-     "titolo": "Yemen accusa Houthi per attacco a nave nel Mar Rosso, '4 i morti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/yemen-accusa-houthi-per-attacco-a-nave-nel-mar-rosso-4-i-morti_62886496-db77-4f0e-b60f-fc0e5bb70100.html",
-     "data": "2026-08-11T14:55:24+00:00"
     }
    ]
   },
@@ -103,7 +103,7 @@
     {
      "titolo": "Orsato, chiamatemi allenatore degli arbitri perché mi piace da morire",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/11/orsato-chiamatemi-allenatore-degli-arbitri-perche-mi-piace-da-morire_b868c80f-bdb8-49ff-a890-0321f015b3ee.html",
-     "data": "2026-08-11T10:50:24+00:00"
+     "data": "2026-08-11T17:45:53+00:00"
     },
     {
      "titolo": "Gli arbitri di calcio, dalla A alle giovanili niente più accerchiamenti",
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Spray e calci contro turista 22enne con la kippah a Roma",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/spray-e-calci-contro-turista-22enne-con-la-kippah-a-roma_3cb7d3d8-108c-435a-a543-e6d877ac841c.html",
+     "data": "2026-08-11T17:56:14+00:00"
+    },
+    {
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-08-11T16:49:56+00:00"
@@ -136,9 +141,9 @@
      "data": "2026-08-11T16:12:06+00:00"
     },
     {
-     "titolo": "Spray e calci a un turista che indossa la kippah, denunciato 31enne a Roma",
+     "titolo": "Spray e calci contro turista 22enne con la kippah a Roma",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/spray-e-calci-a-un-turista-che-indossa-la-kippah-denunciato-31enne-a-roma_2d53ee89-73e8-49da-ba65-fd08f8b447f5.html",
-     "data": "2026-08-11T16:53:09+00:00"
+     "data": "2026-08-11T17:55:31+00:00"
     },
     {
      "titolo": "Aumenta il gran caldo in Sicilia, termometro supera i 39 gradi",
@@ -166,9 +171,9 @@
      "data": "2026-08-11T13:45:25+00:00"
     },
     {
-     "titolo": "L'allarme di Ranucci sui social: 'Salvini chiede la mia sospensione'",
+     "titolo": "Lavitola dal gip, Salvini contro Ranucci: 'Via da Report'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/lallarme-di-ranucci-sui-social-salvini-chiede-la-mia-sospensione_ea156374-172a-434c-8197-8bf89a7164cb.html",
-     "data": "2026-08-11T17:04:09+00:00"
+     "data": "2026-08-11T17:38:56+00:00"
     },
     {
      "titolo": "Ancora una frana sul Monte Pelmo, è la terza in pochi giorni",
@@ -179,17 +184,17 @@
      "titolo": "Lavitola a Ranucci in chat: 'Berlusconi ti avrebbe fatto copresidente'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/lavitola-a-ranucci-in-chat-berlusconi-ti-avrebbe-fatto-copresidente_d538b5c7-5e40-45bd-80c0-ab0236c5f4c4.html",
      "data": "2026-08-11T16:30:44+00:00"
-    },
-    {
-     "titolo": "Ciclista travolto e ucciso in Salento, 22enne positivo a cannabinoidi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/ciclista-travolto-e-ucciso-in-salento-22enne-positivo-a-cannabinoidi_fa9471b8-7ff7-4d77-85c0-b0252d33537a.html",
-     "data": "2026-08-11T13:17:01+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Tornelli in spiaggia, Comune Livorno attacca video di Halissey 'Scorretto'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/tornelli-in-spiaggia-comune-livorno-attacca-video-di-halissey-scorretto_bcc3d5bc-0d7b-4c70-a233-225bf1c7acda.html",
+     "data": "2026-08-11T17:51:59+00:00"
+    },
     {
      "titolo": "Quote azzurre e \"patriarcato mediterraneo\", il programma di Futuro Nazionale accende le polemiche",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/quote-azzurre-e-patriarcato-mediterraneo-il-programma-di-futuro-nazionale-accende-le-polemiche_cfd08183-2a1f-42f6-a395-54117ed30a6b.html",
@@ -198,7 +203,7 @@
     {
      "titolo": "\"L'Unità deve tornare a casa\", il Pd pronto all'offerta. L'editore: 'Il partito non può dettare condizioni'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/lunita-deve-tornare-a-casa-il-pd-pronto-allofferta_f2fd79de-d54a-4176-9daf-dbc93e0f709b.html",
-     "data": "2026-08-11T17:11:05+00:00"
+     "data": "2026-08-11T17:36:20+00:00"
     },
     {
      "titolo": "Il Papa vicino al popolo della Colombia, 'profondamente addolorato'",
@@ -230,6 +235,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Salvini incontra il commissario Squitieri, avanti sul piano casa",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/salvini-incontra-il-commissario-squitieri-avanti-sul-piano-casa_2f8df0d9-a211-476b-a12e-96958cdcc3d8.html",
+     "data": "2026-08-11T17:40:11+00:00"
+    },
     {
      "titolo": "Il gas riaggancia i 60 euro, attesa per negoziato tra Iran e Oman",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/il-gas-riaggancia-i-60-euro-attesa-per-negoziato-tra-iran-e-oman_b0a1f7d8-9e61-4a64-9941-86222e122a9e.html",
@@ -284,17 +294,22 @@
      "titolo": "Borsa: Europa positiva, listini Usa contrastati, Milano +0,3%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-europa-positiva-listini-usa-contrastati-milano-03_2ac87d4f-f48c-4450-84f9-48b70f50ccb8.html",
      "data": "2026-08-11T14:05:51+00:00"
-    },
-    {
-     "titolo": "Exor aggiorna l'accordo con Philips, potrà salire al 22%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/exor-aggiorna-laccordo-con-philips-potra-salire-al-22_cc0529d3-148c-44ce-af7a-9e9022feedfa.html",
-     "data": "2026-08-11T13:46:47+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Yemen, 'sale a sei morti il bilancio dei raid nel Mar Rosso attribuito agli Houthi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/yemen-sale-a-sei-morti-il-bilancio-dei-raid-nel-mar-rosso_2709b957-28f3-4427-a834-f1bb8096b28b.html",
+     "data": "2026-08-11T17:31:35+00:00"
+    },
+    {
+     "titolo": "Il bilancio delle vittime del terremoto in Colombia sale a 240",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/il-bilancio-delle-vittime-del-terremoto-in-colombia-sale-a-240_4ebbbe23-f5ef-47a2-9eca-d2a9ccb948ee.html",
+     "data": "2026-08-11T17:29:12+00:00"
+    },
     {
      "titolo": "Dbeibah incontra il ministro turco Fidan, 'rafforzare cooperazione Libia-Turchia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/dbeibah-incontra-il-ministro-turco-fidan-rafforzare-cooperazione-libia-turchia_dc341d7a-7519-4ce6-b96d-d85df43cb831.html",
@@ -344,16 +359,6 @@
      "titolo": "Terremoto: Se registraron al menos 47 réplicas del terremoto de Colombia",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/terremoto-se-registraron-al-menos-47-replicas-del-terremoto-de-colombia_d497b0bc-e7cd-4df6-8db2-7c6d44262e56.html",
      "data": "2026-08-11T13:19:03+00:00"
-    },
-    {
-     "titolo": "Colombia, estratte vive 7 persone dall'Ospedale universitario a Cali",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/colombia-estratte-vive-7-persone-dallospedale-universitario-a-cali_4ca039cd-3c0e-4bc7-9678-bab8e559c6a6.html",
-     "data": "2026-08-11T13:17:32+00:00"
-    },
-    {
-     "titolo": "Albares, su Ceuta linea dell'Italia dettata da esigenze di parte ed elettorali",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/11/albares-su-ceuta-linea-dellitalia-dettata-da-esigenze-di-parte-ed-elettorali_8e23aea7-bf5c-4daf-94eb-bb03beb26434.html",
-     "data": "2026-08-11T12:47:08+00:00"
     }
    ]
   },
@@ -426,9 +431,34 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Lukaku al Fenerbahce, c'è l'accordo. L'Inter torna forte su Spence",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/11/lukaku-al-fenerbahce-ce-laccordo.-linter-torna-forte-su-spence_4c5c3beb-00bc-48bb-a56c-544c986499a9.html",
+     "data": "2026-08-11T17:52:48+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: Martinenghi 'non smetto mai di stupirmi, ho avuto cuore per lottare'",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/europei-nuoto-martinenghi-non-smetto-mai-di-stupirmi-ho-avuto-cuore-per_b092c983-92a2-4048-8757-29dacde31c7c.html",
+     "data": "2026-08-11T17:36:14+00:00"
+    },
+    {
+     "titolo": "Fiorentina ecco i numeri di maglia: a Kean il 9, Mastantuono prende il 30",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/11/fiorentina-ecco-i-numeri-di-maglia-a-kean-il-9-mastantuono-prende-il-30_c2568318-c3c3-4114-a642-aa0d386b65d8.html",
+     "data": "2026-08-11T17:31:30+00:00"
+    },
+    {
+     "titolo": "Europei atletica: Dorio, 'era ora che il mio record venisse battuto'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-dorio-era-ora-che-il-mio-record-venisse-battuto_5344c9f5-c9a6-4aab-a50b-8a092d1faccb.html",
+     "data": "2026-08-11T17:26:02+00:00"
+    },
+    {
+     "titolo": "Pilato e Angiolini in finale nei 100 rana, Ceccon nei 200 dorso",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/pilato-e-angiolini-in-finale-nei-100-rana-ceccon-nei-200-dorso_ad688c6a-bb3f-4d47-a851-a6748e4aab26.html",
+     "data": "2026-08-11T17:22:58+00:00"
+    },
+    {
      "titolo": "Europei di nuoto, Martinenghi oro e Cerasuolo bronzo nei 100 rana",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/europei-di-nuoto-martinenghi-oro-e-cerasuolo-bronzo-nei-100-rana_6e06c872-d29c-4fb1-9ef2-735e33e4b080.html",
-     "data": "2026-08-11T17:05:30+00:00"
+     "data": "2026-08-11T17:47:29+00:00"
     },
     {
      "titolo": "Europei nuoto: Martinenghi oro e Cerasuolo bronzo nei 100 rana",
@@ -459,31 +489,6 @@
      "titolo": "Orsato: l'arbitro al centro della partita, e basta accerchiamenti",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/11/orsato-larbitro-al-centro-della-partita-e-basta-accerchiamenti_b0362383-5c90-4030-837c-c5f2f770a6d8.html",
      "data": "2026-08-11T16:11:06+00:00"
-    },
-    {
-     "titolo": "Serie A: trattativa in chiusura per Pellegrino alla Fiorentina",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/11/serie-a-trattativa-in-chiusura-per-pellegrino-alla-fiorentina_598debb0-b2af-4acd-9498-dd543418be1d.html",
-     "data": "2026-08-11T15:44:17+00:00"
-    },
-    {
-     "titolo": "Serie A: Lecce, la Figc blocca il trasferimento di Banda in Libia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/11/serie-a-lecce-la-figc-blocca-il-trasferimento-di-banda-in-libia_6740a80e-ca55-4934-a36f-b9b51127e40d.html",
-     "data": "2026-08-11T14:52:47+00:00"
-    },
-    {
-     "titolo": "Amichevoli: Spalletti, 'col Palermo una Juve in fiducia. Douglas? Resta'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/11/amichevoli-spalletti-col-palermo-una-juve-in-fiducia.-douglas-resta_cb9faf01-02ec-464e-804d-0b1036c26599.html",
-     "data": "2026-08-11T14:35:57+00:00"
-    },
-    {
-     "titolo": "Atletica: la centometrista Hunt e Leo Fabbri il 30 agosto al Grand Prix Brescia",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/atletica-la-centometrista-hunt-e-leo-fabbri-il-30-agosto-al-grand-prix-brescia_c824c08d-6238-4302-a466-903cb7152181.html",
-     "data": "2026-08-11T14:11:21+00:00"
-    },
-    {
-     "titolo": "Europei di atletica: Coiro regina degli 800, cade dopo 46 anni il primato di Dorio",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-di-atletica-record-italiano-dellazzurra-coiro-negli-800-metri_480fe61a-9faa-4079-9cfe-7668bb4d0dcc.html",
-     "data": "2026-08-11T16:56:58+00:00"
     }
    ]
   }
