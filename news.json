@@ -1,19 +1,24 @@
 {
- "aggiornato": "2026-08-12T05:10:31.309648+00:00",
+ "aggiornato": "2026-08-12T06:49:27.419717+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
+     "titolo": "Lo spread tra Btp e Bund tedeschi scende a 78,9 punti in apertura",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/lo-spread-tra-btp-e-bund-tedeschi-scende-a-789-punti-in-apertura_8580137d-3670-477e-af87-d63562336ae1.html",
+     "data": "2026-08-12T06:44:02+00:00"
+    },
+    {
+     "titolo": "Il gas risale sopra quota 60 euro sulla piazza Ttf di Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/il-gas-risale-sopra-quota-60-euro-sulla-piazza-ttf-di-amsterdam_ee9c0fd0-813d-4bb9-8617-fb5fa4505b5a.html",
+     "data": "2026-08-12T06:16:28+00:00"
+    },
+    {
      "titolo": "Zelensky, 'la Russia si prepara a una nuova mobilitazione dopo le elezioni'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/zelensky-la-russia-si-prepara-a-una-nuova-mobilitazione-dopo-le-elezioni_91bcc9ae-547f-406f-ac32-14bba2841173.html",
      "data": "2026-08-11T20:19:42+00:00"
-    },
-    {
-     "titolo": "Media, 'muore un italiano a Formentera. Inutili i tentativi di rianimarlo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/media-muore-un-italiano-a-formentera.-inutili-i-tentativi-di-rianimarlo_0be30dc1-d3c1-49a5-b787-6a19df410a0c.html",
-     "data": "2026-08-11T19:34:58+00:00"
     },
     {
      "titolo": "Ministro Energia Usa, ora per Hormuz 9 milioni di barili di petrolio al giorno",
@@ -49,11 +54,6 @@
      "titolo": "Gli Usa annunciano un nuovo round di negoziati tra Israele e Libano a Roma",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/gli-usa-annunciano-un-nuovo-round-di-negoziati-tra-israele-e-libano-a-roma_6f426300-d68d-4aa9-b4d4-593c4b334426.html",
      "data": "2026-08-11T16:38:02+00:00"
-    },
-    {
-     "titolo": "Borsa: seduta interlocutoria Milano (+0,08%), balzo di Eni e Azimut",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/borsa-seduta-interlocutoria-milano-008-balzo-di-eni-e-azimut_dc564c72-f037-4a54-81b0-ecee3bf94f79.html",
-     "data": "2026-08-11T16:28:42+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Emissione cenere Etna, sospese attività di volo a Catania fino alle 18",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/emissione-cenere-etna-sospese-attivita-di-volo-a-catania-fino-alle-18_d9c8900c-e898-4f2d-b69a-d43d7c0af6c3.html",
+     "data": "2026-08-12T06:19:39+00:00"
+    },
+    {
      "titolo": "Cenere sull'Etna, sospese attività allo scalo di Comiso fino alle 11 di domani",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/cenere-sulletna-sospese-attivita-allo-scalo-di-comiso-fino-alle-11-di-domani_ded24a73-36de-4c6e-888f-8aba103f6d62.html",
      "data": "2026-08-11T21:26:11+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Futuro Nazionale in presidio a Torino, 'no alla moschea'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/futuro-nazionale-in-presidio-a-torino-no-alla-moschea_0aacb919-13eb-428d-82c8-43e726c64641.html",
      "data": "2026-08-11T14:00:12+00:00"
-    },
-    {
-     "titolo": "Tenta di salvare ragazzino caduto in una scarpata, morto capo-scout nel Parmense",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/tenta-di-salvare-ragazzino-caduto-in-una-scarpata-morto-capo-scout-nel_ae7df365-e847-49ed-af9c-53087b90b8c4.html",
-     "data": "2026-08-11T14:00:48+00:00"
     }
    ]
   },
@@ -236,6 +236,26 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Il gas risale sopra quota 60 euro sulla piazza Ttf di Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/il-gas-risale-sopra-quota-60-euro-sulla-piazza-ttf-di-amsterdam_f845e336-a499-4049-a726-7c483ec5a7e7.html",
+     "data": "2026-08-12T06:18:02+00:00"
+    },
+    {
+     "titolo": "Il prezzo dell'oro risale, spot +0,40% a 4.387 dollari l'oncia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/il-prezzo-delloro-risale-spot-040-a-4.387-dollari-loncia_56baa928-1bb9-4334-8c44-39c4ad94a682.html",
+     "data": "2026-08-12T06:16:20+00:00"
+    },
+    {
+     "titolo": "Petrolio in rialzo, il Brent sale dello 0,54% oltre 89 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/petrolio-in-rialzo-il-brent-sale-dello-054-oltre-89-dollari_e47442f4-76f1-4495-a75a-d33452049c86.html",
+     "data": "2026-08-12T06:16:25+00:00"
+    },
+    {
+     "titolo": "Euro stabile sul dollaro a 1,1534",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/euro-stabile-sul-dollaro-a-11534_e0248b1f-53c9-4163-b11b-10bc869ac430.html",
+     "data": "2026-08-12T06:04:36+00:00"
+    },
+    {
      "titolo": "Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/il-petrolio-chiude-in-rialzo-a-new-york-ma-sotto-90-dollari-a-8295-dollari_820d9a6d-6914-4146-af06-dc475af4ee92.html",
      "data": "2026-08-11T18:39:37+00:00"
@@ -274,26 +294,6 @@
      "titolo": "Pichetto, quadro climatico impone rafforzamento prevenzione e adattamento",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/pichetto-quadro-climatico-impone-rafforzamento-prevenzione-e-adattamento_886e878c-8f7f-4440-9a55-3ee2dde43129.html",
      "data": "2026-08-11T15:32:13+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa positiva nel finale, Wall Street debole, Milano +0,2%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-europa-positiva-nel-finale-wall-street-debole-milano-02_0f4089d4-7089-4f9d-9f21-f4053c54ef1a.html",
-     "data": "2026-08-11T15:33:07+00:00"
-    },
-    {
-     "titolo": "Ue, sistema elettrico stabile, preparativi per l'eclissi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/ue-sistema-elettrico-stabile-preparativi-per-leclissi_5d81c56d-f725-40a9-a880-50043934335b.html",
-     "data": "2026-08-11T15:24:57+00:00"
-    },
-    {
-     "titolo": "Da Sony e Tsmc maxi-investimento da 4 miliardi di euro sui sensori",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/da-sony-e-tsmc-maxi-investimento-da-4-miliardi-di-euro-sui-sensori_e77ce317-a348-464c-93af-16f9e0eea7a9.html",
-     "data": "2026-08-11T15:25:49+00:00"
-    },
-    {
-     "titolo": "Tir, sindacati chiedono soluzioni antiafa dopo il 'no' della Camera ai motori accesi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/tir-sindacati-chiedono-soluzioni-antiafa-dopo-il-no-della-camera-ai-motori-accesi_bc009d0f-ec44-4e2b-8540-6aac2da2df84.html",
-     "data": "2026-08-11T14:55:24+00:00"
     }
    ]
   },
