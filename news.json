@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-12T20:28:27.108888+00:00",
+ "aggiornato": "2026-08-12T21:12:28.404444+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Hegseth, 'Colombia autorizza operazioni militari congiunte al narcotraffico'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/hegseth-colombia-autorizza-operazioni-militari-congiunte-al-narcotraffico_1d621af4-1a44-46ea-969a-82ea4f78a483.html",
+     "data": "2026-08-12T21:02:36+00:00"
+    },
     {
      "titolo": "Trump, 'la portavoce Karoline Leavitt lascia l'incarico alla fine del mese'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/trump-la-portavoce-karoline-leavitt-lascia-lincarico-alla-fine-del-mese_6bdc982d-78f6-4dd6-a83c-0f831b4461d6.html",
@@ -49,11 +54,6 @@
      "titolo": "Taglio dell'Irpef, contratti, energia, parte la corsa alla manovra",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/taglio-dellirpef-contratti-energia-parte-la-corsa-alla-manovra_96423bc7-1e66-485b-86b9-4306b10501ae.html",
      "data": "2026-08-12T17:07:09+00:00"
-    },
-    {
-     "titolo": "++ Difensore Lavitola, 'Ranucci sapeva? Non rispondo' ++",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/-difensore-lavitola-ranucci-sapeva-non-rispondo-_f27f555b-9ecb-43b8-9d87-0dc9db0a2e8b.html",
-     "data": "2026-08-12T16:47:45+00:00"
     }
    ]
   },
@@ -296,6 +296,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Hegseth, 'Colombia autorizza operazioni militari congiunte al narcotraffico'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/hegseth-colombia-autorizza-operazioni-militari-congiunte-al-narcotraffico_4a880a98-62be-45d9-babd-b634f412922a.html",
+     "data": "2026-08-12T21:02:39+00:00"
+    },
+    {
      "titolo": "Il sindaco di Cali ringrazia il presidente Bukele per gli aiuti post terremoto",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/il-sindaco-di-cali-ringrazia-il-presidente-bukele-per-gli-aiuti-post-terremoto_11fa7daf-2ff6-448a-b3b4-c02714bdf790.html",
      "data": "2026-08-12T20:03:06+00:00"
@@ -349,11 +354,6 @@
      "titolo": "Gli agenti dell'Ice dotati di guanti a scarica elettrica entro il 2027",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/gli-agenti-dellice-dotati-di-guanti-a-scarica-elettrica-entro-il-2027_69748e28-7e1f-40a9-901f-923a2ca04f0c.html",
      "data": "2026-08-12T16:16:36+00:00"
-    },
-    {
-     "titolo": "Nelle primarie dem in Connecticut sconfitto deputato, spinta a rinnovo generazionale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/nelle-primarie-dem-in-connecticut-sconfitto-deputato-spinta-a-rinnovo-generazionale_db74f97b-54ce-436f-8c48-b3f3549a7058.html",
-     "data": "2026-08-12T13:59:08+00:00"
     }
    ]
   },
@@ -426,14 +426,19 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: Psg batte 2-1 Aston villa e vince la Supercoppa europea",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/calcio-psg-batte-2-1-aston-villa-e-vince-la-supercoppa-europea_425f1d70-323c-4a9e-8c52-2b378cb53664.html",
+     "data": "2026-08-12T21:00:09+00:00"
+    },
+    {
      "titolo": "Europei atletica: Fantini conquista l'argento nel martello",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/europei-atletica-fantini-conquista-largento-nel-martello_5a8c9b53-c81d-419b-88da-32e0c8692df6.html",
      "data": "2026-08-12T20:04:27+00:00"
     },
     {
-     "titolo": "Europei di atletica, Sara Fantini conquista l'argento nel martello",
+     "titolo": "Europei di atletica: Fantini argento nel martello, quinta medaglia dell'Italia",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/europei-di-atletica-sara-fantini-conquista-largento-nel-martello_05cc9bf7-fdc7-4fa9-8d27-21efda72a3a6.html",
-     "data": "2026-08-12T20:16:19+00:00"
+     "data": "2026-08-12T20:41:29+00:00"
     },
     {
      "titolo": "Serie A: Kristensen è a Bergamo, domani l'ufficialità con l'Atalanta",
@@ -479,11 +484,6 @@
      "titolo": "Europei nuoto: D'Ambrosio settimo nei 100 sl, Di Pietro ottava nei 50 farfalla",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-dambrosio-settimo-nei-100-sl-di-pietro-ottava-nei-50-farfalla_c0360615-d78c-454a-ac91-be98ac86af40.html",
      "data": "2026-08-12T17:00:19+00:00"
-    },
-    {
-     "titolo": "La Lazio a un passo da Frattesi, affare verso la chiusura",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/la-lazio-a-un-passo-da-frattesi-affare-verso-la-chiusura_1ac62189-2a7c-4e2f-b04f-ae7dd191f939.html",
-     "data": "2026-08-12T16:45:40+00:00"
     }
    ]
   }
