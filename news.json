@@ -1,10 +1,40 @@
 {
- "aggiornato": "2026-08-12T06:49:27.419717+00:00",
+ "aggiornato": "2026-08-12T08:07:11.244583+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Ventunenne ucciso a colpi di arma da fuoco nel Crotonese",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/ventunenne-ucciso-a-colpi-di-arma-da-fuoco-nel-crotonese_c299086c-f71c-4371-8e89-b4a698f5e141.html",
+     "data": "2026-08-12T07:47:00+00:00"
+    },
+    {
+     "titolo": "Mattarella, volontà dominio si riaffaccia, oggi ombre di guerre anche inedite",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/mattarella-volonta-dominio-si-riaffaccia-oggi-ombre-di-guerre-anche-inedite_215ea24e-5b2e-441f-b529-ccf406a7885c.html",
+     "data": "2026-08-12T07:44:29+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano positiva (+0,25%), corre Prysmian, giù Diasorin",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/borsa-milano-positiva-025-corre-prysmian-giu-diasorin_3b19c971-3363-4a6e-b395-e4cc12764ca3.html",
+     "data": "2026-08-12T07:29:26+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa apre in ordine sparso, Parigi e Londra invariate",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/borsa-leuropa-apre-in-ordine-sparso-parigi-e-londra-invariate_0e0c6d76-8f40-460d-bf79-c8899f15fa7d.html",
+     "data": "2026-08-12T07:25:04+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano apre in rialzo, +0,36%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/borsa-milano-apre-in-rialzo-036_c17138a8-feb1-4c7c-84a5-56c57b9ad90d.html",
+     "data": "2026-08-12T07:08:18+00:00"
+    },
+    {
+     "titolo": "Borsa: Asia contrastata, sprint di Samsung e Hynix a Seul, Tokyo +0,83%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/borsa-asia-contrastata-sprint-di-samsung-e-hynix-a-seul-tokyo-083_783806ea-ba98-48af-9c5a-430102914d2d.html",
+     "data": "2026-08-12T06:58:17+00:00"
+    },
     {
      "titolo": "Lo spread tra Btp e Bund tedeschi scende a 78,9 punti in apertura",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/lo-spread-tra-btp-e-bund-tedeschi-scende-a-789-punti-in-apertura_8580137d-3670-477e-af87-d63562336ae1.html",
@@ -24,36 +54,6 @@
      "titolo": "Ministro Energia Usa, ora per Hormuz 9 milioni di barili di petrolio al giorno",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/ministro-energia-usa-ora-per-hormuz-9-milioni-di-barili-di-petrolio-al-giorno_efa7b679-fdbc-4561-ae94-ae1ea42b0cde.html",
      "data": "2026-08-11T19:35:19+00:00"
-    },
-    {
-     "titolo": "Terremoto in Colombia, estratta viva dalle macerie dopo 30 ore",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/terremoto-in-colombia-estratta-viva-dalle-macerie-dopo-30-ore_ce77ff3c-1f90-4120-9874-e9cc11556296.html",
-     "data": "2026-08-11T19:03:18+00:00"
-    },
-    {
-     "titolo": "Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/il-petrolio-chiude-in-rialzo-a-new-york-ma-sotto-90-dollari-a-8295-dollari_a19ef9d1-7493-4ed0-93a5-6f3de086361a.html",
-     "data": "2026-08-11T18:37:37+00:00"
-    },
-    {
-     "titolo": "Yemen, 'sale a sei morti il bilancio dei raid nel Mar Rosso attribuito agli Houthi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/yemen-sale-a-sei-morti-il-bilancio-dei-raid-nel-mar-rosso_3fdcf472-8e98-45e3-aec1-eebfc23ecce2.html",
-     "data": "2026-08-11T17:30:36+00:00"
-    },
-    {
-     "titolo": "Il bilancio delle vittime del terremoto in Colombia sale a 240",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/il-bilancio-delle-vittime-del-terremoto-in-colombia-sale-a-240_ba8dce6c-b9af-482a-b745-3b78bcb26d81.html",
-     "data": "2026-08-11T17:28:58+00:00"
-    },
-    {
-     "titolo": "Il gas riaggancia i 60 euro, attesa per negoziato tra Iran e Oman",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/il-gas-riaggancia-i-60-euro-attesa-per-negoziato-tra-iran-e-oman_0935b0af-06df-419b-aba7-25631d24ca4e.html",
-     "data": "2026-08-11T16:44:14+00:00"
-    },
-    {
-     "titolo": "Gli Usa annunciano un nuovo round di negoziati tra Israele e Libano a Roma",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/gli-usa-annunciano-un-nuovo-round-di-negoziati-tra-israele-e-libano-a-roma_6f426300-d68d-4aa9-b4d4-593c4b334426.html",
-     "data": "2026-08-11T16:38:02+00:00"
     }
    ]
   },
@@ -126,9 +126,29 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Emissione cenere Etna, sospese attività di volo a Catania fino alle 18",
+     "titolo": "Aggredisce medici e poliziotti in ospedale del Leccese, arrestato 34 enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/aggredisce-medici-e-poliziotti-in-ospedale-del-leccese-arrestato-34-enne_cf405220-530f-4f89-8330-2807e175758c.html",
+     "data": "2026-08-12T08:04:05+00:00"
+    },
+    {
+     "titolo": "Ventunenne ucciso a colpi di arma da fuoco nel Crotonese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/ventunenne-ucciso-a-colpi-di-arma-da-fuoco-nel-crotonese_aeb9fbdf-56a9-4966-9e12-2c8a2c294f89.html",
+     "data": "2026-08-12T07:59:17+00:00"
+    },
+    {
+     "titolo": "Colate detritiche in Trentino, scesi 22mila metri cubi di materiale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/colate-detritiche-in-trentino-scesi-22mila-metri-cubi-di-materiale_54f33161-678a-4610-b7bb-de75d82a9a7d.html",
+     "data": "2026-08-12T07:12:40+00:00"
+    },
+    {
+     "titolo": "Scritte contro la premier a Bologna, rintracciato e denunciato uno dei presunti autori",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/scritte-contro-la-premier-a-bologna-rintracciato-e-denunciato-uno-dei-presunti-autori_64d792a4-8dae-4943-bd8e-b7c58564b86b.html",
+     "data": "2026-08-12T07:05:42+00:00"
+    },
+    {
+     "titolo": "Emissione di cenere dall'Etna, sospese le attività di volo a Catania fino alle 18",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/emissione-cenere-etna-sospese-attivita-di-volo-a-catania-fino-alle-18_d9c8900c-e898-4f2d-b69a-d43d7c0af6c3.html",
-     "data": "2026-08-12T06:19:39+00:00"
+     "data": "2026-08-12T08:02:38+00:00"
     },
     {
      "titolo": "Cenere sull'Etna, sospese attività allo scalo di Comiso fino alle 11 di domani",
@@ -164,32 +184,22 @@
      "titolo": "Soccorre uno scout caduto in una scarpata, muore un accompagnatore",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/tenta-di-salvare-uno-scout-caduto-in-una-scarpata-morto-un-accompagnatore_892b3cb8-3013-4e85-949c-ae3682407317.html",
      "data": "2026-08-11T16:12:06+00:00"
-    },
-    {
-     "titolo": "Spray e calci contro turista 22enne con la kippah a Roma",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/spray-e-calci-a-un-turista-che-indossa-la-kippah-denunciato-31enne-a-roma_2d53ee89-73e8-49da-ba65-fd08f8b447f5.html",
-     "data": "2026-08-11T17:55:31+00:00"
-    },
-    {
-     "titolo": "Aumenta il gran caldo in Sicilia, termometro supera i 39 gradi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/aumenta-il-gran-caldo-in-sicilia-termometro-supera-i-39-gradi_51e2743d-2ec9-48a9-af0e-fe8a4e51a325.html",
-     "data": "2026-08-11T14:44:11+00:00"
-    },
-    {
-     "titolo": "Etna: Sac, sospese attività volo fino alle 11 di domani a Catania",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/etna-sac-sospese-attivita-volo-fino-alle-11-di-domani-a-catania_b0c49147-1227-465a-b99d-1b971d309095.html",
-     "data": "2026-08-11T14:14:13+00:00"
-    },
-    {
-     "titolo": "Futuro Nazionale in presidio a Torino, 'no alla moschea'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/futuro-nazionale-in-presidio-a-torino-no-alla-moschea_0aacb919-13eb-428d-82c8-43e726c64641.html",
-     "data": "2026-08-11T14:00:12+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Mattarella, volontà dominio si riaffaccia, oggi ombre di guerre anche inedite",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/12/mattarella-volonta-dominio-si-riaffaccia-oggi-ombre-di-guerre-anche-inedite_02143dea-9dcc-47ae-988d-22affad2f9c7.html",
+     "data": "2026-08-12T07:44:25+00:00"
+    },
+    {
+     "titolo": "Mattarella: 'La volontà di dominio si riaffaccia, oggi ombre di guerre anche inedite'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/12/mattarella-la-volonta-di-dominio-si-riaffaccia-oggi-ombre-di-guerre-anche-inedite_b82b399b-9546-445b-8bdb-7f2cc1e42e0d.html",
+     "data": "2026-08-12T07:49:32+00:00"
+    },
     {
      "titolo": "Riunito il Comitato etico su Ranucci, voci di sostituzione",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/a-breve-il-parere-del-comitato-etico-su-ranucci-voci-di-sostituzione_5f98de34-ab53-4e84-a352-cc980b367aa3.html",
@@ -224,17 +234,47 @@
      "titolo": "Salvini: 'Finché non c'è chiarezza meglio Report senza Ranucci'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/salvini-finche-non-ce-chiarezza-meglio-report-senza-ranucci_72528d8e-416f-4e74-b202-6e8cbca3dc02.html",
      "data": "2026-08-11T10:41:19+00:00"
-    },
-    {
-     "titolo": "Nuovo attacco di Madrid a Roma: 'Su Ceuta logiche elettorali'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/comitato-schengen-convocato-giovedi-a-san-macuto-per-audizione-di-piantedosi_27dc23d9-1622-47e2-b6ba-03971d6857f5.html",
-     "data": "2026-08-11T21:03:48+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Scende il prezzo del gas in Italia a 61,66 euro a MWh",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/scende-il-prezzo-del-gas-in-italia-a-6166-euro-a-mwh_f38e77f7-586e-4352-a4ea-e81074cf3f3e.html",
+     "data": "2026-08-12T08:02:01+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano positiva (+0,25%), corre Prysmian, giù Diasorin",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-milano-positiva-025-corre-prysmian-giu-diasorin_245747f7-d802-40e1-9680-fade6ba6e87e.html",
+     "data": "2026-08-12T07:29:23+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa apre in ordine sparso, Parigi e Londra invariate",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-leuropa-apre-in-ordine-sparso-parigi-e-londra-invariate_dda2763b-f49e-4892-8f0d-f467ad45e863.html",
+     "data": "2026-08-12T07:25:07+00:00"
+    },
+    {
+     "titolo": "Mimit, prezzo dei carburanti in lieve aumento con diesel a 2,076 euro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/mimit-prezzo-dei-carburanti-in-lieve-aumento-con-diesel-a-2076-euro_2dc4c35f-a2db-46d8-8316-ed83a7fcebad.html",
+     "data": "2026-08-12T08:02:13+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano apre in rialzo, +0,36%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-milano-apre-in-rialzo-036_37b6d8d6-49f1-4909-a261-e81cf172157e.html",
+     "data": "2026-08-12T07:08:20+00:00"
+    },
+    {
+     "titolo": "Borsa: Asia contrastata, sprint di Samsung e Hynix a Seul, Tokyo +0,83%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-asia-contrastata-sprint-di-samsung-e-hynix-a-seul-tokyo-083_6691f637-1288-4d6b-a41b-bc6936c5ac13.html",
+     "data": "2026-08-12T06:58:21+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund tedeschi scende a 78,9 punti in apertura",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/lo-spread-tra-btp-e-bund-tedeschi-scende-a-789-punti-in-apertura_56579542-dc69-4bbc-a46a-758dc1f08aae.html",
+     "data": "2026-08-12T06:44:00+00:00"
+    },
     {
      "titolo": "Il gas risale sopra quota 60 euro sulla piazza Ttf di Amsterdam",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/il-gas-risale-sopra-quota-60-euro-sulla-piazza-ttf-di-amsterdam_f845e336-a499-4049-a726-7c483ec5a7e7.html",
@@ -259,47 +299,17 @@
      "titolo": "Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/il-petrolio-chiude-in-rialzo-a-new-york-ma-sotto-90-dollari-a-8295-dollari_820d9a6d-6914-4146-af06-dc475af4ee92.html",
      "data": "2026-08-11T18:39:37+00:00"
-    },
-    {
-     "titolo": "Salvini incontra il commissario Squitieri, avanti sul piano casa",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/salvini-incontra-il-commissario-squitieri-avanti-sul-piano-casa_2f8df0d9-a211-476b-a12e-96958cdcc3d8.html",
-     "data": "2026-08-11T17:40:11+00:00"
-    },
-    {
-     "titolo": "Il gas riaggancia i 60 euro, attesa per negoziato tra Iran e Oman",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/il-gas-riaggancia-i-60-euro-attesa-per-negoziato-tra-iran-e-oman_b0a1f7d8-9e61-4a64-9941-86222e122a9e.html",
-     "data": "2026-08-11T18:37:19+00:00"
-    },
-    {
-     "titolo": "Borsa: seduta interlocutoria Milano (+0,08%), balzo di Eni e Azimut",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-seduta-interlocutoria-milano-008-balzo-di-eni-e-azimut_95423139-3983-4b93-a85a-84a0e38fd147.html",
-     "data": "2026-08-11T16:28:45+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund tedeschi chiude invariato a 79,3 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/lo-spread-tra-btp-e-bund-tedeschi-chiude-invariato-a-793-punti_1982b2d7-8a02-403a-be66-4a247a63c0d7.html",
-     "data": "2026-08-11T16:09:16+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude contrastata, Parigi -0,13%, Francoforte +0,26%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-leuropa-chiude-contrastata-parigi-013-francoforte-026_b13ca28c-2b36-4f78-aea6-8121dbb1c1bf.html",
-     "data": "2026-08-11T15:51:33+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in lieve rialzo, +0,08%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-milano-chiude-in-lieve-rialzo-008_eefad922-57ac-490c-b749-1c4c9a5d5ac6.html",
-     "data": "2026-08-11T15:39:47+00:00"
-    },
-    {
-     "titolo": "Pichetto, quadro climatico impone rafforzamento prevenzione e adattamento",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/pichetto-quadro-climatico-impone-rafforzamento-prevenzione-e-adattamento_886e878c-8f7f-4440-9a55-3ee2dde43129.html",
-     "data": "2026-08-11T15:32:13+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Il terremoto in Colombia ha paralizzato le esportazioni di caffè",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/il-terremoto-in-colombia-ha-paralizzato-le-esportazioni-di-caffe_ddfc2e3b-6982-4525-a6a1-5cd4b780a48c.html",
+     "data": "2026-08-12T07:29:06+00:00"
+    },
     {
      "titolo": "Costa Rica, ottava simulazione nazionale di emergenza scenari su misura per zona",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/costa-rica-ottava-simulazione-nazionale-di-emergenza-scenari-su-misura-per-zona_f824cc0c-5b85-4ad9-926b-9c0ae9a78394.html",
@@ -354,11 +364,6 @@
      "titolo": "Dbeibah incontra il ministro turco Fidan, 'rafforzare cooperazione Libia-Turchia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/dbeibah-incontra-il-ministro-turco-fidan-rafforzare-cooperazione-libia-turchia_dc341d7a-7519-4ce6-b96d-d85df43cb831.html",
      "data": "2026-08-11T16:59:14+00:00"
-    },
-    {
-     "titolo": "Gli Usa annunciano un nuovo round di negoziati tra Israele e Libano a Roma",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/11/gli-usa-annunciano-un-nuovo-round-di-negoziati-tra-israele-e-libano-a-roma_7a22301a-18cc-45bb-b62f-614223302484.html",
-     "data": "2026-08-11T16:38:06+00:00"
     }
    ]
   },
@@ -433,7 +438,7 @@
     {
      "titolo": "Cristiano Ronaldo e Georgina Rodríguez si sono sposati in Portogallo",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/cristiano-ronaldo-e-georgina-rodriguez-si-sono-sposati-in-portogallo-2_c75d9db9-b349-4e6b-997f-3db33822e9e1.html",
-     "data": "2026-08-11T23:12:48+00:00"
+     "data": "2026-08-12T07:17:27+00:00"
     },
     {
      "titolo": "Calcio: convocata il 10 ottobre l'assemblea generale dell'Aia",
@@ -443,7 +448,7 @@
     {
      "titolo": "Battocletti regina d'Europa, Jacobs si ferma in finale dei 100",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/battocletti-regina-deuropa-jacobs-si-ferma-in-finale-dei-100_42596c64-29d9-4f2e-aa09-6d61b2bc2bd1.html",
-     "data": "2026-08-11T21:23:22+00:00"
+     "data": "2026-08-12T07:23:25+00:00"
     },
     {
      "titolo": "Europei atletica: Inzoli sesto nel salto in lungo, oro Tentoglou",
