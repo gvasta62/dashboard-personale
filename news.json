@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-12T17:23:58.372027+00:00",
+ "aggiornato": "2026-08-12T18:12:39.322207+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Legale Ranucci, 'confessione Lavitola lascia sgomenti'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/legale-ranucci-confessione-lavitola-lascia-sgomenti_dd6823fb-8091-4d60-b601-0dd5f5fe4ea3.html",
+     "data": "2026-08-12T17:40:01+00:00"
+    },
+    {
+     "titolo": "Caldo estremo in Gb, Burnham riunisce il comitato Cobra e vieta i barbecue",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/caldo-estremo-in-gb-burnham-riunisce-il-comitato-cobra-e-vieta-i-barbecue_edffe752-0dc8-494d-866c-7d7007ed022b.html",
+     "data": "2026-08-12T17:40:24+00:00"
+    },
     {
      "titolo": "Taglio dell'Irpef, contratti, energia, parte la corsa alla manovra",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/taglio-dellirpef-contratti-energia-parte-la-corsa-alla-manovra_96423bc7-1e66-485b-86b9-4306b10501ae.html",
@@ -44,16 +54,6 @@
      "titolo": "Borsa: Milano chiude invariata, Ftse Mib -0,01%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/borsa-milano-chiude-invariata-ftse-mib-001_e8d79792-07fb-497e-9655-e0940a687553.html",
      "data": "2026-08-12T16:07:49+00:00"
-    },
-    {
-     "titolo": "Trump denunciato per la vendita dei post su Truth, in grado di influenzare i mercati",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/trump-denunciato-per-la-vendita-dei-post-su-truth-in-grado-di-influenzare-i-mercati_1d266405-c0e8-456d-8d31-020f033fc869.html",
-     "data": "2026-08-12T15:54:40+00:00"
-    },
-    {
-     "titolo": "Trump denunciato per la vendita dei post su Truth",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/trump-denunciato-per-la-vendita-dei-post-su-truth_1c9f5c60-f8b3-41e0-90c1-a629865313b0.html",
-     "data": "2026-08-12T15:45:42+00:00"
     }
    ]
   },
@@ -126,6 +126,26 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Medio Oriente: Zuppi, 'guai a chi semina morte e pronuncia parole d'odio'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/medio-oriente-zuppi-guai-a-chi-semina-morte-e-pronuncia-parole-dodio_f31d4a70-3c34-4ba0-ae47-045547b5577c.html",
+     "data": "2026-08-12T17:51:46+00:00"
+    },
+    {
+     "titolo": "Yacht di 30 metri affonda a Porto Cervo, salvi i 14 a bordo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/yacht-di-30-metri-affonda-a-porto-cervo-salvi-i-14-a-bordo_c376d94d-f4f9-4e4d-970a-36124f403530.html",
+     "data": "2026-08-12T17:40:32+00:00"
+    },
+    {
+     "titolo": "Legale Ranucci, 'confessione Lavitola lascia sgomenti'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/legale-ranucci-confessione-lavitola-lascia-sgomenti_57800acc-565e-47e1-8c9b-8b12fde22786.html",
+     "data": "2026-08-12T17:40:01+00:00"
+    },
+    {
+     "titolo": "L'Etna in eruzione da sei giorni. Caos in Sicilia, 700 voli saltati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/letna-in-eruzione-da-sei-giorni.-caos-in-sicilia-700-voli-saltati_d9c8900c-e898-4f2d-b69a-d43d7c0af6c3.html",
+     "data": "2026-08-12T17:23:59+00:00"
+    },
+    {
      "titolo": "Spin Time, la proprietà stanzia 500 mila euro per gli alloggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/spin-time-la-proprieta-stanzia-500-mila-euro-per-gli-alloggi_90ce8bf3-5302-4e95-ab8b-883b903bec33.html",
      "data": "2026-08-12T17:03:22+00:00"
@@ -148,7 +168,7 @@
     {
      "titolo": "Lavitola confessa: \"Sono io il mandante dell'attentato a Ranucci, l'ho fatto per il suo bene\"",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/lavitola-confessa-sono-io-il-mandante-dellattentato-a-ranucci-lho-fatto-per-il-suo_e8edc1a3-d60b-43a0-b6c3-3350795f8935.html",
-     "data": "2026-08-12T17:08:27+00:00"
+     "data": "2026-08-12T17:26:18+00:00"
     },
     {
      "titolo": "Bagnini a due euro lordi all'ora e in nero, quattro indagati a Bari",
@@ -164,26 +184,6 @@
      "titolo": "Giallo a Latina, due anziani trovati morti vicino all'auto",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/giallo-a-latina-due-anziani-trovati-morti-vicino-allauto_23d941d7-a17d-4d8c-bbc5-645bba81522f.html",
      "data": "2026-08-12T16:08:55+00:00"
-    },
-    {
-     "titolo": "Lavitola al Gip, sono io il mandante dell'attentato a Ranucci",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/lavitola-al-gip-sono-io-il-mandante-dellattentato-a-ranucci_0c033e80-01ea-463d-ac6c-5cfe69e3f9ec.html",
-     "data": "2026-08-12T15:44:19+00:00"
-    },
-    {
-     "titolo": "Lavitola al Gip, sono io il mandante dell'attentato a Ranucci",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/lavitola-al-gip-sono-io-il-mandante-dellattentato-a-ranucci_f3ddb148-2011-4464-b137-6be1a06af9a5.html",
-     "data": "2026-08-12T15:41:40+00:00"
-    },
-    {
-     "titolo": "Il Papa risponde ai genitori della Famiglia nel bosco, 'prego per voi'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/il-papa-risponde-ai-genitori-della-famiglia-nel-bosco-prego-per-voi_01c6c208-bb96-4a55-a864-3720925b2fd5.html",
-     "data": "2026-08-12T15:27:29+00:00"
-    },
-    {
-     "titolo": "Il Papa risponde ai genitori della Famiglia nel bosco, 'prego per voi'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/il-papa-risponde-ai-genitori-della-famiglia-nel-bosco-prego-per-voi_b64eef78-b3d2-4150-ae44-c7d96f14c68b.html",
-     "data": "2026-08-12T15:25:34+00:00"
     }
    ]
   },
@@ -235,6 +235,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Ex Ilva, la madre di Andrea, 'Decaro non strumentalizzi mio figlio'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/ex-ilva-la-madre-di-andrea-decaro-non-strumentalizzi-mio-figlio_c30ee4f1-938c-4a70-bb2b-bf5cc0f3be2e.html",
+     "data": "2026-08-12T17:14:44+00:00"
+    },
     {
      "titolo": "Taglio dell'Irpef, contratti, energia, parte la corsa alla manovra",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/taglio-dellirpef-contratti-energia-parte-la-corsa-alla-manovra_1a9f596e-4780-4311-ae1e-69f13c02752d.html",
@@ -289,17 +294,17 @@
      "titolo": "Ryanair, partnership con Google Cloud per 5 anni",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/ryanair-partnership-con-google-cloud-per-5-anni_96626391-6aea-4188-94b0-f2d8e800fd94.html",
      "data": "2026-08-12T13:24:52+00:00"
-    },
-    {
-     "titolo": "Facile.it, 'più di 4 milioni di italiani non vanno in vacanza per ragioni economiche'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/facile.it-piu-di-4-milioni-di-italiani-non-vanno-in-vacanza-per-ragioni-economiche_071f3a64-bea1-41d6-8e32-13aa673a1fa5.html",
-     "data": "2026-08-12T12:54:34+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Caldo estremo in Gb, Burnham riunisce il comitato Cobra e vieta i barbecue",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/12/caldo-estremo-in-gb-burnham-riunisce-il-comitato-cobra-e-vieta-i-barbecue_8cdd6c90-602d-42cb-8339-fc203cb3625d.html",
+     "data": "2026-08-12T17:40:40+00:00"
+    },
     {
      "titolo": "Migranti dello Zimbabwe in Sudafrica vittime di reclutamento russo",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/12/migranti-dello-zimbabwe-in-sudafrica-vittime-di-reclutamento-russo_f512cf44-8237-46c4-bfc3-855c1e6824b6.html",
@@ -354,11 +359,6 @@
      "titolo": "Il parlamento libanese approva l'amnistia generale",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/12/il-parlamento-libanese-approva-lamnistia-generale_45a57fb8-5cc0-4a3d-b756-e752bea56c9d.html",
      "data": "2026-08-12T09:41:13+00:00"
-    },
-    {
-     "titolo": "Sfida serrata alle primarie dem in Wisconsin, battuta Hong",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/sfida-serrata-alle-primarie-dem-in-wisconsin-battuta-hong_cfa5ee3d-c1d9-4c6c-a855-a1826ed42900.html",
-     "data": "2026-08-12T09:34:20+00:00"
     }
    ]
   },
@@ -431,6 +431,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei di nuoto: Curtis record del mondo nei 50 dorso in 26\"63",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-curtis-record-del-mondo-nei-50-dorso-in-2663_0741987e-2fba-4c9b-b208-4a8408d2d1b5.html",
+     "data": "2026-08-12T17:55:58+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: Curtis 'una follia, il record il sogno di una vita'",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-curtis-una-follia-il-record-il-sogno-di-una-vita_97fc0e93-9021-4754-8d84-1512145e33ac.html",
+     "data": "2026-08-12T17:46:28+00:00"
+    },
+    {
+     "titolo": "++ Europei nuoto: Curtis record del mondo nei 50 dorso in 26\"63 ++",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-curtis-record-del-mondo-nei-50-dorso-in-2663_31fc29d6-e418-4c46-ace1-ef34850abee3.html",
+     "data": "2026-08-12T17:39:40+00:00"
+    },
+    {
      "titolo": "Europei nuoto: Due bronzi per l'Italia con Thomas Ceccon e Benedetta Pilato",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-due-bronzi-per-gli-azzurri-con-ceccon-e-pilato_ed44be80-80fc-43f1-a6f5-8e0ca57adedb.html",
      "data": "2026-08-12T17:20:18+00:00"
@@ -473,22 +488,7 @@
     {
      "titolo": "L'omaggio di Messi al padre: 'Non so cosa farò senza di te'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/lomaggio-di-messi-al-padre-non-so-cosa-faro-senza-di-te_711825f6-b8d7-494e-b762-419866b619a6.html",
-     "data": "2026-08-12T14:50:18+00:00"
-    },
-    {
-     "titolo": "Inter sempre più inglese, in arrivo Spence e punta Jones",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/inter-sempre-piu-inglese-in-arrivo-spence-e-punta-jones_ab67bcff-72f2-47b3-8eeb-560fa3e6ef0f.html",
-     "data": "2026-08-12T14:48:49+00:00"
-    },
-    {
-     "titolo": "Il calcio torna in Palestina, a settembre la Coppa dei Mille Martiri",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/il-calcio-torna-in-palestina-a-settembre-la-coppa-dei-mille-martiri_9ba04462-2f06-4de9-b449-3d4aac06a721.html",
-     "data": "2026-08-12T14:45:43+00:00"
-    },
-    {
-     "titolo": "A Stroppiana l'addio a Berruti: 'Ci ha insegnato la lealtà '",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/a-stroppiana-laddio-a-berruti-ci-ha-insegnato-la-lealta-_05e22295-a085-46e9-a18f-97bd72ade4f5.html",
-     "data": "2026-08-12T13:57:11+00:00"
+     "data": "2026-08-12T17:33:52+00:00"
     }
    ]
   }
