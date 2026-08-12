@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-12T14:09:42.158727+00:00",
+ "aggiornato": "2026-08-12T15:25:32.194636+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -61,9 +61,19 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Il musicista Maurizio Mastrini torna a esibirsi nella sua Piegaro",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/12/il-musicista-maurizio-mastrini-torna-a-esibirsi-nella-sua-piegaro_46e57d74-4954-4728-ad37-5336a64ae09c.html",
+     "data": "2026-08-12T15:12:21+00:00"
+    },
+    {
+     "titolo": "Raggiunti i 41 gradi nell'orvietano, continua l'ondata di caldo sull'Umbria",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/12/raggiunti-i-41-gradi-nellorvietano-continua-londata-di-caldo-sullumbria_52c0ee16-2504-4ae6-8520-a2ddc0f84c4c.html",
+     "data": "2026-08-12T14:58:38+00:00"
+    },
+    {
      "titolo": "Una squadra calcistica del Ghana in ritiro a Monteleone di Spoleto",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/12/una-squadra-calcistica-del-ghana-in-ritiro-a-monteleone-di-spoleto_ca9c2302-a20d-4d96-8742-bd8df4b1cad7.html",
-     "data": "2026-08-12T13:23:05+00:00"
+     "data": "2026-08-12T14:57:18+00:00"
     },
     {
      "titolo": "Proietti, Sant'Anna di Stazzema impone di ricordare le vittime del nazifascismo",
@@ -73,7 +83,7 @@
     {
      "titolo": "Fit Cisl Umbria e Fast ferrovie, fermare le aggressioni al personale dei trasporti",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/12/fit-cisl-umbria-e-fast-ferrovie-fermare-le-aggressioni-al-personale-dei-trasporti_1fe03412-a72b-47d6-b4ca-662718e638a4.html",
-     "data": "2026-08-12T11:31:33+00:00"
+     "data": "2026-08-12T15:14:27+00:00"
     },
     {
      "titolo": "Anziani 'vulnerabili' per il caldo anche dal punto di vista cardiologico",
@@ -109,16 +119,6 @@
      "titolo": "Dalla Regione oltre 50 milioni di euro per sostenere il mondo agricolo umbro",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/11/dalla-regione-oltre-50-milioni-di-euro-per-sostenere-il-mondo-agricolo-umbro_4f5f8ec9-7c94-47e5-95d7-b6f9c7e8fd9a.html",
      "data": "2026-08-11T13:47:15+00:00"
-    },
-    {
-     "titolo": "Rigopiano, depositate le motivazioni della sentenza d'appello bis",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/11/rigopiano-depositate-le-motivazioni-della-sentenza-dappello-bis_930786de-fa55-4485-aacf-69d58508172d.html",
-     "data": "2026-08-11T13:45:29+00:00"
-    },
-    {
-     "titolo": "Sorpreso sulla E45 con quattro chili e mezzo di eroina, arrestato",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/11/sorpreso-sulla-e45-con-quattro-chili-e-mezzo-di-eroina-arrestato_54dacd14-5a18-4331-9f44-671b6dcc55f0.html",
-     "data": "2026-08-11T11:52:48+00:00"
     }
    ]
   },
@@ -126,9 +126,39 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Parroco protesta sui social per la mancanza d'acqua, 'è una vergogna'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/parroco-protesta-sui-social-per-la-mancanza-dacqua-e-una-vergogna_00b9a357-a431-40ff-909d-0870e3ba8b4d.html",
+     "data": "2026-08-12T15:13:00+00:00"
+    },
+    {
+     "titolo": "Cenere dall'Etna: all'aeroporto di Catania stop ai voli fino alle 16 di domani",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/cenere-dalletna-allaeroporto-di-catania-stop-ai-voli-fino-alle-16-di-domani_d9c8900c-e898-4f2d-b69a-d43d7c0af6c3.html",
+     "data": "2026-08-12T14:40:50+00:00"
+    },
+    {
+     "titolo": "Bimba morta a Bordighera, ipotesi zona rossa attorno a chiesa per funerale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/bimba-morta-a-bordighera-ipotesi-zona-rossa-attorno-a-chiesa-per-funerale_53561674-6012-48a6-bb38-7cd2a56374d9.html",
+     "data": "2026-08-12T14:32:57+00:00"
+    },
+    {
+     "titolo": "'Troppo caro usare l'auto, vado al lavoro col cavallo'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/troppo-caro-usare-lauto-vado-al-lavoro-col-cavallo_d4b8cb3d-dbbe-4381-94f1-686df9516e5a.html",
+     "data": "2026-08-12T14:09:18+00:00"
+    },
+    {
+     "titolo": "'Troppo caro usare l'auto, vado al lavoro col cavallo'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/troppo-caro-usare-lauto-vado-al-lavoro-col-cavallo_88ecc2ed-ac73-46d7-9a95-9761dc7c2d7b.html",
+     "data": "2026-08-12T14:35:22+00:00"
+    },
+    {
      "titolo": "Quindicenne sfregiato in piazza a Caserta, due adolescenti in comunità",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/quindicenne-sfregiato-in-piazza-a-caserta-due-adolescenti-in-comunita_a42e0fcf-a5b5-48b8-a90c-852a4d6ad1ca.html",
      "data": "2026-08-12T14:00:23+00:00"
+    },
+    {
+     "titolo": "Dopo 27 anni, un'altra eclissi totale di Sole in Europa",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/dopo-27-anni-unaltra-eclissi-totale-di-sole-in-europa_e18e185e-b80e-4db2-950d-9e41d2bec4fe.html",
+     "data": "2026-08-12T14:19:10+00:00"
     },
     {
      "titolo": "A Tesero dopo gli smottamenti vietato l'uso dell'acqua potabile",
@@ -154,36 +184,6 @@
      "titolo": "Caldo, venerdì bollini rossi in sole 7 città",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/caldo-venerdi-bollini-rossi-in-sole-7-citta_6140eba1-f67b-4604-8ce7-8cc77422ea6b.html",
      "data": "2026-08-12T12:27:42+00:00"
-    },
-    {
-     "titolo": "Incendio da 9 giorni sul Monte Barone, bruciati mille ettari",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/incendio-da-9-giorni-sul-monte-barone-bruciati-mille-ettari_d046395f-3a4e-4061-b881-aa4d610bc827.html",
-     "data": "2026-08-12T12:05:30+00:00"
-    },
-    {
-     "titolo": "Incendio da 9 giorni sul Monte Barone, bruciati mille ettari",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/incendio-da-9-giorni-sul-monte-barone-bruciati-mille-ettari_8c63d849-ac21-4efb-b082-4a332fa42a3a.html",
-     "data": "2026-08-12T12:08:32+00:00"
-    },
-    {
-     "titolo": "L'avvocato dell'investitore dei ciclisti, faremo una consulenza psichiatrica",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/lavvocato-dellinvestitore-dei-ciclisti-faremo-una-consulenza-psichiatrica_4878e84c-1cb5-487d-a19d-87403ff67004.html",
-     "data": "2026-08-12T11:04:51+00:00"
-    },
-    {
-     "titolo": "Musumeci, 'a Catania è fuori posto l'aeroporto, non il vulcano'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/musumeci-a-catania-e-fuori-posto-laeroporto-non-il-vulcano_f9344c94-78ad-421c-a883-ecae7bc8070d.html",
-     "data": "2026-08-12T11:01:39+00:00"
-    },
-    {
-     "titolo": "Uno dei ciclisti investiti, l'automobilista ci ha urlato 'vi uccido tutti'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/uno-dei-ciclisti-investiti-lautomobilista-ci-ha-urlato-vi-uccido-tutti_0dec137a-5483-42a5-a393-e4c3cf8eee62.html",
-     "data": "2026-08-12T10:44:38+00:00"
-    },
-    {
-     "titolo": "Iniziato a Rebibbia l'interrogatorio di Lavitola",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/iniziato-a-rebibbia-linterrogatorio-di-lavitola_4267e928-2789-47ec-8a7e-61355ac776bc.html",
-     "data": "2026-08-12T10:15:12+00:00"
     }
    ]
   },
@@ -276,9 +276,9 @@
      "data": "2026-08-12T11:56:15+00:00"
     },
     {
-     "titolo": "RimborsoAlVolo, diritto a rimborsi ed assistenza per disagi Etna passeggeri",
+     "titolo": "RimborsoAlVolo: 'Ecco come ottenere rimborsi ed assistenza per i disagi'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/rimborsoalvolo-diritto-a-rimborsi-ed-assistenza-per-disagi-etna-passeggeri_88e30436-e5cb-4b74-bf60-d0789fccb088.html",
-     "data": "2026-08-12T13:25:32+00:00"
+     "data": "2026-08-12T14:24:04+00:00"
     },
     {
      "titolo": "Effetto semestrale per Abn Amro in borsa ad Amsterdam (+5%)",
@@ -295,6 +295,11 @@
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Gli agenti dell'Ice saranno dotati di guanti a scarica elettrica entro il 2027",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/gli-agenti-dellice-saranno-dotati-di-guanti-a-scarica-elettrica-entro-il-2027_f51a9e46-9e9d-400b-8b83-f8a5d0b9f204.html",
+     "data": "2026-08-12T14:34:34+00:00"
+    },
     {
      "titolo": "Nelle primarie dem in Connecticut sconfitto deputato, spinta a rinnovo generazionale",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/nelle-primarie-dem-in-connecticut-sconfitto-deputato-spinta-a-rinnovo-generazionale_db74f97b-54ce-436f-8c48-b3f3549a7058.html",
@@ -349,11 +354,6 @@
      "titolo": "Il terremoto in Colombia ha paralizzato le esportazioni di caffè",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/il-terremoto-in-colombia-ha-paralizzato-le-esportazioni-di-caffe_ddfc2e3b-6982-4525-a6a1-5cd4b780a48c.html",
      "data": "2026-08-12T07:29:06+00:00"
-    },
-    {
-     "titolo": "Costa Rica, ottava simulazione nazionale di emergenza scenari su misura per zona",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/costa-rica-ottava-simulazione-nazionale-di-emergenza-scenari-su-misura-per-zona_f824cc0c-5b85-4ad9-926b-9c0ae9a78394.html",
-     "data": "2026-08-12T04:36:59+00:00"
     }
    ]
   },
@@ -426,6 +426,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "L'omaggio di Messi al padre: 'Non so cosa farò senza di te'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/lomaggio-di-messi-al-padre-non-so-cosa-faro-senza-di-te_711825f6-b8d7-494e-b762-419866b619a6.html",
+     "data": "2026-08-12T14:50:18+00:00"
+    },
+    {
+     "titolo": "Inter sempre più inglese, in arrivo Spence e punta Jones",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/inter-sempre-piu-inglese-in-arrivo-spence-e-punta-jones_ab67bcff-72f2-47b3-8eeb-560fa3e6ef0f.html",
+     "data": "2026-08-12T14:48:49+00:00"
+    },
+    {
+     "titolo": "Il calcio torna in Palestina, a settembre la Coppa dei Mille Martiri",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/il-calcio-torna-in-palestina-a-settembre-la-coppa-dei-mille-martiri_9ba04462-2f06-4de9-b449-3d4aac06a721.html",
+     "data": "2026-08-12T14:45:43+00:00"
+    },
+    {
      "titolo": "A Stroppiana l'addio a Berruti: 'Ci ha insegnato la lealtà '",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/a-stroppiana-laddio-a-berruti-ci-ha-insegnato-la-lealta-_05e22295-a085-46e9-a18f-97bd72ade4f5.html",
      "data": "2026-08-12T13:57:11+00:00"
@@ -439,11 +454,6 @@
      "titolo": "Il Ravenna presenta la squadra e Ronaldinho",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/il-ravenna-presenta-la-squadra-e-ronaldinho_89b981b7-aeea-4958-8eb4-f1655a6f3570.html",
      "data": "2026-08-12T13:52:07+00:00"
-    },
-    {
-     "titolo": "Messi, omaggio al padre, 'non so cosa farò senza di te'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/messi-omaggio-al-padre-non-so-cosa-faro-senza-di-te_711825f6-b8d7-494e-b762-419866b619a6.html",
-     "data": "2026-08-12T13:53:37+00:00"
     },
     {
      "titolo": "È ufficiale Molina alla Roma, contratto di 5 anni",
@@ -463,7 +473,7 @@
     {
      "titolo": "Jacobs e l'infortunio: 'Fa tanto male, ma non si molla mai'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/jacobs-e-linfortunio-fa-tanto-male-ma-non-si-molla-mai_de777171-9488-4bc6-99ad-29126e352fb6.html",
-     "data": "2026-08-12T13:45:51+00:00"
+     "data": "2026-08-12T14:51:24+00:00"
     },
     {
      "titolo": "Europei nuoto: Curtis in semifinale nei 50 dorso con il miglior tempo",
@@ -474,16 +484,6 @@
      "titolo": "Supercoppa Europea, il Psg sfida l'Aston Villa: 'C'è tanta voglia di vincere'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/supercoppa-europea-il-psg-sfida-laston-villa-ce-tanta-voglia-di-vincere_a1932199-0dd6-4aa3-8192-4a5268249628.html",
      "data": "2026-08-12T13:41:07+00:00"
-    },
-    {
-     "titolo": "Ginnastica ritmica, a Francoforte partono i Mondiali con le qualifiche individuali",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/ginnastica-ritmica-a-francoforte-partono-i-mondiali-con-le-qualifiche-individuali_05eb9bf1-f15e-4422-8afd-6d9ddd771569.html",
-     "data": "2026-08-12T13:31:02+00:00"
-    },
-    {
-     "titolo": "Tennis: Federer gioca sui campetti in terra rossa di Taormina",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/12/tennis-federer-gioca-sui-campetti-in-terra-rossa-di-taormina_ad99a3f0-c0f5-49e9-abe2-28b0b75d8725.html",
-     "data": "2026-08-12T13:31:08+00:00"
     }
    ]
   }
