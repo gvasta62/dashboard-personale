@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-12T18:12:39.322207+00:00",
+ "aggiornato": "2026-08-12T19:32:18.980877+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il deficit federale Usa sale a 432,3 miliardi (+48%), massimi da marzo 2021",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/il-deficit-federale-usa-sale-a-4323-miliardi-48-massimi-da-marzo-2021_5ca82081-8a7f-4203-b39c-d069f3f65ca8.html",
+     "data": "2026-08-12T18:51:28+00:00"
+    },
+    {
+     "titolo": "Il petrolio chiude a New York in leggero calo, a 83,02 dollari",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/il-petrolio-chiude-a-new-york-in-leggero-calo-a-8302-dollari_9b4a0038-d3ab-444e-a0fb-2bf9751e8c40.html",
+     "data": "2026-08-12T18:46:08+00:00"
+    },
+    {
+     "titolo": "Ciucci (Ponte stretto), 'raccomandazioni Consiglio Lavori pubblici già previste'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/ciucci-ponte-stretto-raccomandazioni-consiglio-lavori-pubblici-gia-previste_7caf8b6b-1810-4971-966e-030911b0ecd8.html",
+     "data": "2026-08-12T18:10:08+00:00"
+    },
+    {
+     "titolo": "L'eclissi è iniziata, la Luna 'rosicchia' il disco del Sole",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/leclissi-e-iniziata-la-luna-rosicchia-il-disco-del-sole_340e56fb-d80d-4602-ba5a-22b3981301ff.html",
+     "data": "2026-08-12T18:10:48+00:00"
+    },
     {
      "titolo": "Legale Ranucci, 'confessione Lavitola lascia sgomenti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/legale-ranucci-confessione-lavitola-lascia-sgomenti_dd6823fb-8091-4d60-b601-0dd5f5fe4ea3.html",
@@ -34,26 +54,6 @@
      "titolo": "Borsa: Europa frena sul finale con i timori per la guerra Usa-Iran",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/borsa-europa-frena-sul-finale-con-i-timori-per-la-guerra-usa_b767f9c1-3062-452f-825f-e2f1d7c79ffc.html",
      "data": "2026-08-12T16:40:33+00:00"
-    },
-    {
-     "titolo": "Salvini, la Rai sospenda collaborazione con Ranucci, vicenda torbida",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/salvini-la-rai-sospenda-collaborazione-con-ranucci-vicenda-torbida_88bddf26-2426-4f15-8743-34b59d9d46a9.html",
-     "data": "2026-08-12T16:16:59+00:00"
-    },
-    {
-     "titolo": "Future sul gas in rialzo a 60,5 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/future-sul-gas-in-rialzo-a-605-euro-al-megawattora_adcb8817-3307-4c13-8e2e-1f3b72ad489f.html",
-     "data": "2026-08-12T16:17:05+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund a 78,3 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/lo-spread-tra-btp-e-bund-a-783-punti_eb522b73-68e4-470c-9626-4965f22d2ccd.html",
-     "data": "2026-08-12T16:15:29+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude invariata, Ftse Mib -0,01%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/borsa-milano-chiude-invariata-ftse-mib-001_e8d79792-07fb-497e-9655-e0940a687553.html",
-     "data": "2026-08-12T16:07:49+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Nubifragi nella provincia di Firenze, alberi caduti e allagamenti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/nubifragi-nella-provincia-di-firenze-alberi-caduti-e-allagamenti_834e3d8e-f0f3-4fa3-82c9-98c16f3e5800.html",
+     "data": "2026-08-12T19:04:29+00:00"
+    },
+    {
+     "titolo": "Lavitola confessa: \"Sono io il mandante dell'attentato a Ranucci, l'ho fatto per il suo bene\"",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/lavitola-confessa-sono-io-il-mandante-dellattentato-a-ranucci-lho-fatto-per-il-suo_e8edc1a3-d60b-43a0-b6c3-3350795f8935.html",
+     "data": "2026-08-12T18:27:50+00:00"
+    },
+    {
+     "titolo": "L'eclissi è iniziata, la Luna 'rosicchia' il disco del Sole",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/leclissi-e-iniziata-la-luna-rosicchia-il-disco-del-sole_426cea5e-12a7-4972-8388-79e8ce80aadf.html",
+     "data": "2026-08-12T18:10:53+00:00"
+    },
+    {
      "titolo": "Medio Oriente: Zuppi, 'guai a chi semina morte e pronuncia parole d'odio'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/medio-oriente-zuppi-guai-a-chi-semina-morte-e-pronuncia-parole-dodio_f31d4a70-3c34-4ba0-ae47-045547b5577c.html",
      "data": "2026-08-12T17:51:46+00:00"
@@ -166,30 +181,20 @@
      "data": "2026-08-12T16:40:46+00:00"
     },
     {
-     "titolo": "Lavitola confessa: \"Sono io il mandante dell'attentato a Ranucci, l'ho fatto per il suo bene\"",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/lavitola-confessa-sono-io-il-mandante-dellattentato-a-ranucci-lho-fatto-per-il-suo_e8edc1a3-d60b-43a0-b6c3-3350795f8935.html",
-     "data": "2026-08-12T17:26:18+00:00"
-    },
-    {
      "titolo": "Bagnini a due euro lordi all'ora e in nero, quattro indagati a Bari",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/bagnini-a-due-euro-lordi-allora-e-in-nero-quattro-indagati-a-bari_b352722d-7e1f-42ed-83bf-9dd6166d9f12.html",
      "data": "2026-08-12T16:41:54+00:00"
-    },
-    {
-     "titolo": "Un cameriere di 21 anni ucciso nella piazza del paese in Calabria",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/ventunenne-ucciso-a-colpi-di-arma-da-fuoco-nel-crotonese_aeb9fbdf-56a9-4966-9e12-2c8a2c294f89.html",
-     "data": "2026-08-12T16:21:55+00:00"
-    },
-    {
-     "titolo": "Giallo a Latina, due anziani trovati morti vicino all'auto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/giallo-a-latina-due-anziani-trovati-morti-vicino-allauto_23d941d7-a17d-4d8c-bbc5-645bba81522f.html",
-     "data": "2026-08-12T16:08:55+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Tentazione Calabria per Vannacci, pronto a sfidare anche FI",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/12/tentazione-calabria-per-vannacci-pronto-a-sfidare-anche-fi_b9c0af12-a55f-42df-aab7-46fd07326b8e.html",
+     "data": "2026-08-12T18:21:50+00:00"
+    },
     {
      "titolo": "Modello Genova per il centro di Renzi: 'Salis per vincere'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/12/modello-genova-per-il-centro-di-renzi-salis-per-vincere_9162f637-4e9c-4723-98b6-7edf486f5bc4.html",
@@ -218,17 +223,7 @@
     {
      "titolo": "L'Italia ricorda Sant'Anna di Stazzema, 'simbolo dell'abisso'. Tajani primo ministro ad andare",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/12/mattarella-la-volonta-di-dominio-si-riaffaccia-oggi-ombre-di-guerre-anche-inedite_b82b399b-9546-445b-8bdb-7f2cc1e42e0d.html",
-     "data": "2026-08-12T16:33:20+00:00"
-    },
-    {
-     "titolo": "Riunito il Comitato etico su Ranucci, voci di sostituzione",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/a-breve-il-parere-del-comitato-etico-su-ranucci-voci-di-sostituzione_5f98de34-ab53-4e84-a352-cc980b367aa3.html",
-     "data": "2026-08-11T19:17:43+00:00"
-    },
-    {
-     "titolo": "Tornelli in spiaggia, Comune Livorno attacca video di Halissey 'Scorretto'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/tornelli-in-spiaggia-comune-livorno-attacca-video-di-halissey-scorretto_bcc3d5bc-0d7b-4c70-a233-225bf1c7acda.html",
-     "data": "2026-08-11T17:51:59+00:00"
+     "data": "2026-08-12T18:15:49+00:00"
     }
    ]
   },
@@ -236,14 +231,34 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Il deficit federale Usa sale a 432,3 miliardi (+48%), massimi da marzo 2021",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/il-deficit-federale-usa-sale-a-4323-miliardi-48-massimi-da-marzo-2021_0ee7ce25-4945-41ae-8bce-6e7e19395f1e.html",
+     "data": "2026-08-12T18:55:15+00:00"
+    },
+    {
+     "titolo": "Il petrolio chiude a New York in leggero calo, a 83,02 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/il-petrolio-chiude-a-new-york-in-leggero-calo-a-8302-dollari_4df0274c-73a2-49c8-97f7-cc8d1fab8050.html",
+     "data": "2026-08-12T18:46:08+00:00"
+    },
+    {
+     "titolo": "Ciucci (Ponte stretto), 'raccomandazioni Consiglio Lavori pubblici già previste'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/ciucci-ponte-stretto-raccomandazioni-consiglio-lavori-pubblici-gia-previste_1f022d08-f712-43ac-a9a4-9df4910ff7b6.html",
+     "data": "2026-08-12T18:10:11+00:00"
+    },
+    {
+     "titolo": "Media, 100 prescrizioni per ok Consiglio Lavori pubblici a Ponte Stretto",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/media-100-prescrizioni-per-ok-consiglio-lavori-pubblici-a-ponte-stretto_85da36ef-eb0c-4989-b60f-2a3d4957405b.html",
+     "data": "2026-08-12T18:11:15+00:00"
+    },
+    {
      "titolo": "Ex Ilva, la madre di Andrea, 'Decaro non strumentalizzi mio figlio'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/ex-ilva-la-madre-di-andrea-decaro-non-strumentalizzi-mio-figlio_c30ee4f1-938c-4a70-bb2b-bf5cc0f3be2e.html",
      "data": "2026-08-12T17:14:44+00:00"
     },
     {
-     "titolo": "Taglio dell'Irpef, contratti, energia, parte la corsa alla manovra",
+     "titolo": "Taglio dell'Irpef, contratti, energia: parte la corsa alla manovra",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/taglio-dellirpef-contratti-energia-parte-la-corsa-alla-manovra_1a9f596e-4780-4311-ae1e-69f13c02752d.html",
-     "data": "2026-08-12T17:09:55+00:00"
+     "data": "2026-08-12T18:17:00+00:00"
     },
     {
      "titolo": "Borsa: Europa frena sul finale con i timori per la guerra Usa-Iran",
@@ -274,32 +289,17 @@
      "titolo": "Lo spread tra Btp e Bund a 78,3 punti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/lo-spread-tra-btp-e-bund-a-783-punti_b5f20e3f-c1eb-494e-8619-2f3d71f0b833.html",
      "data": "2026-08-12T16:15:46+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude invariata, Ftse Mib -0,01%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-milano-chiude-invariata-ftse-mib-001_d620b72d-352e-4509-90ea-df684a842fee.html",
-     "data": "2026-08-12T16:08:05+00:00"
-    },
-    {
-     "titolo": "Trump denunciato per la vendita dei post su Truth, in grado di influenzare i mercati",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/trump-denunciato-per-la-vendita-dei-post-su-truth-in-grado-di-influenzare-i-mercati_94d92a4a-2d26-4974-9a77-5d8a017825a4.html",
-     "data": "2026-08-12T15:56:47+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa prosegue cauta dopo il dato sull'inflazione Usa",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-europa-prosegue-cauta-dopo-il-dato-sullinflazione-usa_cfe7d59b-f84f-4ca6-9ff6-5d5aa6de2044.html",
-     "data": "2026-08-12T13:56:35+00:00"
-    },
-    {
-     "titolo": "Ryanair, partnership con Google Cloud per 5 anni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/ryanair-partnership-con-google-cloud-per-5-anni_96626391-6aea-4188-94b0-f2d8e800fd94.html",
-     "data": "2026-08-12T13:24:52+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Versione inedita del videogame Super Mario scoperta in un negozio in Wisconsin",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/versione-inedita-del-videogame-super-mario-scoperta-in-un-negozio-in-wisconsin_0a585dbf-294b-4854-8236-46842d296fab.html",
+     "data": "2026-08-12T18:56:12+00:00"
+    },
     {
      "titolo": "Caldo estremo in Gb, Burnham riunisce il comitato Cobra e vieta i barbecue",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/12/caldo-estremo-in-gb-burnham-riunisce-il-comitato-cobra-e-vieta-i-barbecue_8cdd6c90-602d-42cb-8339-fc203cb3625d.html",
@@ -354,11 +354,6 @@
      "titolo": "Frederiksen: 'Pronti a chiudere le frontiere se ripartono i flussi migratori'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/12/frederiksen-pronti-a-chiudere-le-frontiere-se-ripartono-i-flussi-migratori_811f306b-eaf6-47d7-8075-56711a84a43b.html",
      "data": "2026-08-12T16:51:11+00:00"
-    },
-    {
-     "titolo": "Il parlamento libanese approva l'amnistia generale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/12/il-parlamento-libanese-approva-lamnistia-generale_45a57fb8-5cc0-4a3d-b756-e752bea56c9d.html",
-     "data": "2026-08-12T09:41:13+00:00"
     }
    ]
   },
@@ -431,9 +426,19 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calciomercato: all''Inter arriva Spence, la Lazio a un passo da Frattesi",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/calciomercato-allinter-arriva-spence-la-lazio-a-un-passo-da-frattesi_d11d9928-ec37-4bc1-9e09-28b7d5411b5d.html",
+     "data": "2026-08-12T18:50:09+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: argento Italia nella staffetta 4x100 stile libero femminile",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-argento-italia-nella-staffetta-4x100-stile-libero-femminile_fe50e4a8-ffa3-4598-b04b-b9327c7417ec.html",
+     "data": "2026-08-12T18:29:27+00:00"
+    },
+    {
      "titolo": "Europei di nuoto: Curtis record del mondo nei 50 dorso in 26\"63",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-curtis-record-del-mondo-nei-50-dorso-in-2663_0741987e-2fba-4c9b-b208-4a8408d2d1b5.html",
-     "data": "2026-08-12T17:55:58+00:00"
+     "data": "2026-08-12T19:10:22+00:00"
     },
     {
      "titolo": "Europei nuoto: Curtis 'una follia, il record il sogno di una vita'",
@@ -479,16 +484,6 @@
      "titolo": "Calcio: un altro Zanetti all'Inter, il figlio Tomas giocherà nell'Under15",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/calcio-un-altro-zanetti-allinter-il-figlio-tomas-giochera-nellunder15_67af60b0-aeec-4616-b87b-5d41716dfd24.html",
      "data": "2026-08-12T15:37:12+00:00"
-    },
-    {
-     "titolo": "Nba: cordata Kushner-Iger verso il controllo dei Lakers per 12,5 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/12/nba-cordata-kushner-iger-verso-il-controllo-dei-lakers-per-125_421c108b-4ee0-421d-8674-c8521299fd40.html",
-     "data": "2026-08-12T15:27:02+00:00"
-    },
-    {
-     "titolo": "L'omaggio di Messi al padre: 'Non so cosa farò senza di te'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/lomaggio-di-messi-al-padre-non-so-cosa-faro-senza-di-te_711825f6-b8d7-494e-b762-419866b619a6.html",
-     "data": "2026-08-12T17:33:52+00:00"
     }
    ]
   }
