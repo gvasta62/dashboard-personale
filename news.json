@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-12T12:36:05.594606+00:00",
+ "aggiornato": "2026-08-12T14:09:42.158727+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Nelle primarie dem in Connecticut sconfitto deputato, spinta a rinnovo generazionale",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/nelle-primarie-dem-in-connecticut-sconfitto-deputato-spinta-a-rinnovo-generazionale_07f0b63e-4179-463c-8dea-e1b8d1183e1b.html",
+     "data": "2026-08-12T13:59:04+00:00"
+    },
+    {
+     "titolo": "Berlino, 'sorpresi da agitazione, le espulsioni in Italia si faranno'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/berlino-sorpresi-da-agitazione-le-espulsioni-in-italia-si-faranno_953d20d9-36c4-47ce-ae6f-a47d24ad4c96.html",
+     "data": "2026-08-12T13:09:16+00:00"
+    },
+    {
+     "titolo": "L'inflazione Usa rallenta a luglio al 3,4%, in linea con le attese",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/linflazione-usa-rallenta-a-luglio-al-34-in-linea-con-le-attese_0837b2cf-8c5b-43f9-935d-7e63ad8b927a.html",
+     "data": "2026-08-12T12:41:37+00:00"
+    },
+    {
+     "titolo": "Circa 700 voli saltati all'aeroporto di Catania per l'eruzione dell'Etna",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/circa-700-voli-saltati-allaeroporto-di-catania-per-leruzione-delletna_ebec4410-8636-475e-a208-0791a16b8413.html",
+     "data": "2026-08-12T12:31:26+00:00"
+    },
     {
      "titolo": "Il gas si assesta sopra i 60,5 euro sulla piazza Ttf di Amsterdam",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/il-gas-si-assesta-sopra-i-605-euro-sulla-piazza-ttf-di-amsterdam_130e964a-ef1f-4e52-8994-0d2ceedf21fa.html",
@@ -34,32 +54,22 @@
      "titolo": "Iniziato a Rebibbia l'interrogatorio di Lavitola",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/iniziato-a-rebibbia-linterrogatorio-di-lavitola_8aa5b45e-760b-4c34-8383-97498fb04359.html",
      "data": "2026-08-12T10:14:58+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano sale (+0,25%), balzo di Prysmian, Inwit e Unipol",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/borsa-milano-sale-025-balzo-di-prysmian-inwit-e-unipol_59977dec-a00c-4430-9d8b-8f343201bbaa.html",
-     "data": "2026-08-12T10:10:01+00:00"
-    },
-    {
-     "titolo": "Il gip di Ivrea, arresti domiciliari per l'uomo che ha investito i ciclisti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/il-gip-di-ivrea-arresti-domiciliari-per-luomo-che-ha-investito-i-ciclisti_7863fc58-4302-420b-ae15-b09d5223f53d.html",
-     "data": "2026-08-12T10:05:53+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Jacobs e l'infortunio 'fa tanto male, ma non si molla mai'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/europei-atletica-jacobs-e-linfortunio-fa-tanto-male-ma-non-si-molla-mai_27c9d57f-c86b-4d86-bcbb-a75885b2ef0b.html",
-     "data": "2026-08-12T10:02:02+00:00"
-    },
-    {
-     "titolo": "Frederiksen, 'pronti a chiudere le frontiere se ripartono i flussi migratori'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/frederiksen-pronti-a-chiudere-le-frontiere-se-ripartono-i-flussi-migratori_6b9e7045-7942-4584-884c-a059ba07227e.html",
-     "data": "2026-08-12T09:53:09+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Una squadra calcistica del Ghana in ritiro a Monteleone di Spoleto",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/12/una-squadra-calcistica-del-ghana-in-ritiro-a-monteleone-di-spoleto_ca9c2302-a20d-4d96-8742-bd8df4b1cad7.html",
+     "data": "2026-08-12T13:23:05+00:00"
+    },
+    {
+     "titolo": "Proietti, Sant'Anna di Stazzema impone di ricordare le vittime del nazifascismo",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/12/proietti-santanna-di-stazzema-impone-di-ricordare-le-vittime-del-nazifascismo_305095db-47b4-48e4-bd1b-a5ae1245d919.html",
+     "data": "2026-08-12T13:07:03+00:00"
+    },
     {
      "titolo": "Fit Cisl Umbria e Fast ferrovie, fermare le aggressioni al personale dei trasporti",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/12/fit-cisl-umbria-e-fast-ferrovie-fermare-le-aggressioni-al-personale-dei-trasporti_1fe03412-a72b-47d6-b4ca-662718e638a4.html",
@@ -73,7 +83,7 @@
     {
      "titolo": "La cardiologa Filippucci, ecco come allenare il cuore a questo caldo estremo",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/12/la-cardiologa-filippucci-ecco-come-allenare-il-cuore-a-questo-caldo-estremo_2fa15b36-6f25-466b-bbe2-2bb95f7db472.html",
-     "data": "2026-08-12T11:09:05+00:00"
+     "data": "2026-08-12T13:08:05+00:00"
     },
     {
      "titolo": "Per l'Istat a luglio l'inflazione in Umbria in linea con il dato nazionale",
@@ -109,22 +119,42 @@
      "titolo": "Sorpreso sulla E45 con quattro chili e mezzo di eroina, arrestato",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/11/sorpreso-sulla-e45-con-quattro-chili-e-mezzo-di-eroina-arrestato_54dacd14-5a18-4331-9f44-671b6dcc55f0.html",
      "data": "2026-08-11T11:52:48+00:00"
-    },
-    {
-     "titolo": "Messina, Var solo quando secondo giallo 'chiaramente' sbagliato",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/11/messina-var-solo-quando-secondo-giallo-chiaramente-sbagliato_78e53a15-3829-4993-9987-2ab773d69f3e.html",
-     "data": "2026-08-11T11:13:10+00:00"
-    },
-    {
-     "titolo": "Messina, non ammetteremo errori etici degli arbitri",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/11/messina-non-ammetteremo-errori-etici-degli-arbitri_3c4993b2-9c44-4b87-a30f-3e37bc30ddb8.html",
-     "data": "2026-08-11T10:59:59+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Quindicenne sfregiato in piazza a Caserta, due adolescenti in comunità",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/quindicenne-sfregiato-in-piazza-a-caserta-due-adolescenti-in-comunita_a42e0fcf-a5b5-48b8-a90c-852a4d6ad1ca.html",
+     "data": "2026-08-12T14:00:23+00:00"
+    },
+    {
+     "titolo": "A Tesero dopo gli smottamenti vietato l'uso dell'acqua potabile",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/a-tesero-dopo-gli-smottamenti-vietato-luso-dellacqua-potabile_ba8d34a5-5f3b-4079-9b6a-f47c72219dbf.html",
+     "data": "2026-08-12T13:27:15+00:00"
+    },
+    {
+     "titolo": "Yacht di 30 metri affonda a Porto Cervo, nessun ferito tra i 14 occupanti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/yacht-di-30-metri-affonda-a-porto-cervo-nessun-ferito-tra-i-14-occupanti_c376d94d-f4f9-4e4d-970a-36124f403530.html",
+     "data": "2026-08-12T13:06:59+00:00"
+    },
+    {
+     "titolo": "Etna, prolungato fino a domani alle 16 lo stop dei voli a Catania",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/etna-prolungato-fino-a-domani-alle-16-lo-stop-dei-voli-a-catania_9b665baf-46e3-44f4-a330-c39bcde110f2.html",
+     "data": "2026-08-12T12:49:01+00:00"
+    },
+    {
+     "titolo": "Circa 700 voli saltati all'aeroporto di Catania per l'eruzione dell'Etna",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/circa-700-voli-saltati-allaeroporto-di-catania-per-leruzione-delletna_a09e02f9-204d-414b-81bd-8d2924cfcbc3.html",
+     "data": "2026-08-12T12:31:22+00:00"
+    },
+    {
+     "titolo": "Caldo, venerdì bollini rossi in sole 7 città",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/caldo-venerdi-bollini-rossi-in-sole-7-citta_6140eba1-f67b-4604-8ce7-8cc77422ea6b.html",
+     "data": "2026-08-12T12:27:42+00:00"
+    },
     {
      "titolo": "Incendio da 9 giorni sul Monte Barone, bruciati mille ettari",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/incendio-da-9-giorni-sul-monte-barone-bruciati-mille-ettari_d046395f-3a4e-4061-b881-aa4d610bc827.html",
@@ -154,36 +184,6 @@
      "titolo": "Iniziato a Rebibbia l'interrogatorio di Lavitola",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/iniziato-a-rebibbia-linterrogatorio-di-lavitola_4267e928-2789-47ec-8a7e-61355ac776bc.html",
      "data": "2026-08-12T10:15:12+00:00"
-    },
-    {
-     "titolo": "Tram deragliato a Milano, per medici del conducente 'nessuna negligenza'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/tram-deragliato-a-milano-per-medici-del-conducente-nessuna-negligenza_33eb5270-eaf9-4c29-afc6-0916a3de5a50.html",
-     "data": "2026-08-12T10:12:00+00:00"
-    },
-    {
-     "titolo": "A Rebibbia l'interrogatorio di Lavitola",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/attesa-per-linterrogatorio-di-lavitola-a-rebibbia_e8edc1a3-d60b-43a0-b6c3-3350795f8935.html",
-     "data": "2026-08-12T10:25:52+00:00"
-    },
-    {
-     "titolo": "Il gip di Ivrea, arresti domiciliari per l'uomo che ha investito i ciclisti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/il-gip-di-ivrea-arresti-domiciliari-per-luomo-che-ha-investito-i-ciclisti_34b3bf4a-dc60-4c3c-b08d-a9b63f0c6e35.html",
-     "data": "2026-08-12T10:05:53+00:00"
-    },
-    {
-     "titolo": "Resta ai domiciliari l'uomo che ha investito i ciclisti nel Torinese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/resta-ai-domiciliari-luomo-che-ha-investito-i-ciclisti-nel-torinese_086254ad-90d1-4f3d-8ab4-6e880e73596c.html",
-     "data": "2026-08-12T10:13:23+00:00"
-    },
-    {
-     "titolo": "Fuga di gas in hotel a Peschiera del Garda, 15 intossicati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/fuga-di-gas-in-hotel-a-peschiera-del-garda-15-intossicati_74143b93-a44f-4d9d-8110-f0b49c1973ce.html",
-     "data": "2026-08-12T09:47:44+00:00"
-    },
-    {
-     "titolo": "Spin Time, la proprietà stanzia 500mila euro per l'emergenza abitativa",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/spin-time-la-proprieta-stanzia-500mila-euro-per-lemergenza-abitativa_90ce8bf3-5302-4e95-ab8b-883b903bec33.html",
-     "data": "2026-08-12T09:49:39+00:00"
     }
    ]
   },
@@ -231,9 +231,29 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Europa prosegue cauta dopo il dato sull'inflazione Usa",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-europa-prosegue-cauta-dopo-il-dato-sullinflazione-usa_cfe7d59b-f84f-4ca6-9ff6-5d5aa6de2044.html",
+     "data": "2026-08-12T13:56:35+00:00"
+    },
+    {
+     "titolo": "Ryanair, partnership con Google Cloud per 5 anni",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/ryanair-partnership-con-google-cloud-per-5-anni_96626391-6aea-4188-94b0-f2d8e800fd94.html",
+     "data": "2026-08-12T13:24:52+00:00"
+    },
+    {
+     "titolo": "Facile.it, 'più di 4 milioni di italiani non vanno in vacanza per ragioni economiche'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/facile.it-piu-di-4-milioni-di-italiani-non-vanno-in-vacanza-per-ragioni-economiche_071f3a64-bea1-41d6-8e32-13aa673a1fa5.html",
+     "data": "2026-08-12T12:54:34+00:00"
+    },
+    {
+     "titolo": "L'inflazione Usa rallenta a luglio al 3,4%, in linea con le attese",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/linflazione-usa-rallenta-a-luglio-al-34-in-linea-con-le-attese_8fcf151d-a756-4a6c-96f8-fda68850f54d.html",
+     "data": "2026-08-12T12:44:09+00:00"
+    },
+    {
      "titolo": "Guido Stazi si insedia alla presidenza della Consob",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/guido-stazi-si-insedia-alla-presidenza-della-consob_a8552fd5-279e-410b-9644-9d0cc0d67ca8.html",
-     "data": "2026-08-12T12:30:22+00:00"
+     "data": "2026-08-12T12:44:44+00:00"
     },
     {
      "titolo": "Il gas si assesta sopra i 60,5 euro sulla piazza Ttf di Amsterdam",
@@ -256,6 +276,11 @@
      "data": "2026-08-12T11:56:15+00:00"
     },
     {
+     "titolo": "RimborsoAlVolo, diritto a rimborsi ed assistenza per disagi Etna passeggeri",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/rimborsoalvolo-diritto-a-rimborsi-ed-assistenza-per-disagi-etna-passeggeri_88e30436-e5cb-4b74-bf60-d0789fccb088.html",
+     "data": "2026-08-12T13:25:32+00:00"
+    },
+    {
      "titolo": "Effetto semestrale per Abn Amro in borsa ad Amsterdam (+5%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/effetto-semestrale-per-abn-amro-in-borsa-ad-amsterdam-5_96292037-beb6-4b69-b7c7-ac2910df582f.html",
      "data": "2026-08-12T10:59:23+00:00"
@@ -264,37 +289,22 @@
      "titolo": "Marevivo, 'l'overturism compromette l'equilibrio ambientale'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/marevivo-loverturism-compromette-lequilibrio-ambientale_78bd7f31-2821-4bc2-8ab9-6a83c1301d49.html",
      "data": "2026-08-12T10:18:54+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano sale (+0,25%), balzo di Prysmian, Inwit e Unipol",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-milano-sale-025-balzo-di-prysmian-inwit-e-unipol_c83e1fd7-bc61-428f-b9a3-2a4d0ec0d49b.html",
-     "data": "2026-08-12T10:10:19+00:00"
-    },
-    {
-     "titolo": "Fs, nel 2026 consegnati 31 treni regionali per 370 milioni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/fs-nel-2026-consegnati-31-treni-regionali-per-370-milioni_9b4892f7-6585-4119-86b6-544a13afabb3.html",
-     "data": "2026-08-12T10:03:09+00:00"
-    },
-    {
-     "titolo": "Rapporto Camera, rinnovabili coprono 20% dei consumi energia, al 2030 serve il doppio",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/rapporto-camera-rinnovabili-coprono-20-dei-consumi-energia-al-2030-serve-il-doppio_a198c83c-4837-45c2-88a3-5536b2260709.html",
-     "data": "2026-08-12T09:32:52+00:00"
-    },
-    {
-     "titolo": "Le rinnovabili coprono 20% consumi energia, al 2030 serve il doppio",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/le-rinnovabili-coprono-20-consumi-energia-al-2030-serve-il-doppio_9eba23c9-a62b-415f-ba1c-13e26738ad1d.html",
-     "data": "2026-08-12T11:56:57+00:00"
-    },
-    {
-     "titolo": "Codacons, con l'inflazione al 2,9% maggiore spesa da 959 euro a famiglia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/codacons-con-linflazione-al-29-maggiore-spesa-da-959-euro-a-famiglia_db219a88-22db-4741-ab41-27f6be1f49e3.html",
-     "data": "2026-08-12T09:31:36+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Nelle primarie dem in Connecticut sconfitto deputato, spinta a rinnovo generazionale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/nelle-primarie-dem-in-connecticut-sconfitto-deputato-spinta-a-rinnovo-generazionale_db74f97b-54ce-436f-8c48-b3f3549a7058.html",
+     "data": "2026-08-12T13:59:08+00:00"
+    },
+    {
+     "titolo": "Berlino, 'sorpresi da agitazione, le espulsioni in Italia si faranno'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/12/berlino-sorpresi-da-agitazione-le-espulsioni-in-italia-si-faranno_f44d2a56-bd3d-475d-a217-6d65275c596e.html",
+     "data": "2026-08-12T13:09:29+00:00"
+    },
     {
      "titolo": "Giaguaro torturato e ucciso, un arresto per biocidio in Bolivia",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/giaguaro-torturato-e-ucciso-un-arresto-per-biocidio-in-bolivia_bcc6f69f-79e8-4c01-a2fd-d8a0100f161a.html",
@@ -344,16 +354,6 @@
      "titolo": "Costa Rica, ottava simulazione nazionale di emergenza scenari su misura per zona",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/costa-rica-ottava-simulazione-nazionale-di-emergenza-scenari-su-misura-per-zona_f824cc0c-5b85-4ad9-926b-9c0ae9a78394.html",
      "data": "2026-08-12T04:36:59+00:00"
-    },
-    {
-     "titolo": "Messico, Sheinbaum annuncia un calo del 51% degli omicidi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/messico-sheinbaum-annuncia-un-calo-del-51-degli-omicidi_8835bbc6-a903-487c-baff-7b1a3d0cc04e.html",
-     "data": "2026-08-12T01:45:13+00:00"
-    },
-    {
-     "titolo": "Terremoto in Colombia, riaprono sei aeroporti su sette",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/terremoto-in-colombia-riaprono-sei-aeroporti-su-sette_5d32c315-e530-4494-9d3f-10e2512fe1b3.html",
-     "data": "2026-08-12T01:26:13+00:00"
     }
    ]
   },
@@ -426,64 +426,64 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "A Stroppiana l'addio a Berruti, 'ci ha insegnato lealtà e rispetto per l'avversario'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/a-stroppiana-laddio-a-berruti-ci-ha-insegnato-lealta-e-rispetto-per-lavversario_05e22295-a085-46e9-a18f-97bd72ade4f5.html",
-     "data": "2026-08-12T12:21:42+00:00"
+     "titolo": "A Stroppiana l'addio a Berruti: 'Ci ha insegnato la lealtà '",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/a-stroppiana-laddio-a-berruti-ci-ha-insegnato-la-lealta-_05e22295-a085-46e9-a18f-97bd72ade4f5.html",
+     "data": "2026-08-12T13:57:11+00:00"
+    },
+    {
+     "titolo": "Ceccon rinuncia ai 100 farfalla, Razzetti e Busa in semifinale",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/ceccon-rinuncia-ai-100-farfalla-razzetti-e-busa-in-semifinale_ba0854f4-f87e-4a76-82f7-4e8582a2115a.html",
+     "data": "2026-08-12T13:55:38+00:00"
+    },
+    {
+     "titolo": "Il Ravenna presenta la squadra e Ronaldinho",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/il-ravenna-presenta-la-squadra-e-ronaldinho_89b981b7-aeea-4958-8eb4-f1655a6f3570.html",
+     "data": "2026-08-12T13:52:07+00:00"
+    },
+    {
+     "titolo": "Messi, omaggio al padre, 'non so cosa farò senza di te'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/messi-omaggio-al-padre-non-so-cosa-faro-senza-di-te_711825f6-b8d7-494e-b762-419866b619a6.html",
+     "data": "2026-08-12T13:53:37+00:00"
+    },
+    {
+     "titolo": "È ufficiale Molina alla Roma, contratto di 5 anni",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/e-ufficiale-molina-alla-roma-contratto-di-5-anni_8bf21dea-fafc-4de5-89de-f1d6fd850524.html",
+     "data": "2026-08-12T13:50:39+00:00"
     },
     {
      "titolo": "Europei atletica: Pernici in finale negli 800 metri",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/europei-atletica-pernici-in-finale-negli-800-metri_a00262f1-7652-4388-8414-82db1373159a.html",
-     "data": "2026-08-12T12:06:54+00:00"
-    },
-    {
-     "titolo": "Ginnastica ritmica, a Francoforte partono i Mondiali con le qualifiche individuali",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/ginnastica-ritmica-a-francoforte-partono-i-mondiali-con-le-qualifiche-individuali_05eb9bf1-f15e-4422-8afd-6d9ddd771569.html",
-     "data": "2026-08-12T11:27:34+00:00"
-    },
-    {
-     "titolo": "Tennis: Federer gioca sui campetti in terra rossa di Taormina",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/12/tennis-federer-gioca-sui-campetti-in-terra-rossa-di-taormina_ad99a3f0-c0f5-49e9-abe2-28b0b75d8725.html",
-     "data": "2026-08-12T10:31:28+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Jacobs e l'infortunio 'fa tanto male, ma non si molla mai'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/europei-atletica-jacobs-e-linfortunio-fa-tanto-male-ma-non-si-molla-mai_de777171-9488-4bc6-99ad-29126e352fb6.html",
-     "data": "2026-08-12T10:01:55+00:00"
-    },
-    {
-     "titolo": "Calcio: ufficiale Molina alla Roma, contratto di 5 anni",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/calcio-ufficiale-molina-alla-roma-contratto-di-5-anni_8bf21dea-fafc-4de5-89de-f1d6fd850524.html",
-     "data": "2026-08-12T09:44:02+00:00"
+     "data": "2026-08-12T14:00:20+00:00"
     },
     {
      "titolo": "La Juve è rientrata a Torino dalla tournée in Australia",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/la-juve-e-rientrata-a-torino-dalla-tournee-in-australia_8f14455e-4050-4268-933b-0af698fd4076.html",
-     "data": "2026-08-12T09:30:46+00:00"
+     "data": "2026-08-12T13:47:47+00:00"
     },
     {
-     "titolo": "Europei nuoto: 50 dorso donne; Curtis vola in semifinale con il miglior tempo",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-50-dorso-donne-curtis-vola-in-semifinale-con-il-miglior-tempo_0741987e-2fba-4c9b-b208-4a8408d2d1b5.html",
-     "data": "2026-08-12T08:52:31+00:00"
+     "titolo": "Jacobs e l'infortunio: 'Fa tanto male, ma non si molla mai'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/jacobs-e-linfortunio-fa-tanto-male-ma-non-si-molla-mai_de777171-9488-4bc6-99ad-29126e352fb6.html",
+     "data": "2026-08-12T13:45:51+00:00"
     },
     {
-     "titolo": "Tennis, a fine ottobre torna il Valle d'Aosta Ladies Open",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/12/tennis-a-fine-ottobre-torna-il-valle-daosta-ladies-open_218a9afd-c80c-4c50-ab2a-fea580845025.html",
-     "data": "2026-08-12T08:28:42+00:00"
+     "titolo": "Europei nuoto: Curtis in semifinale nei 50 dorso con il miglior tempo",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-curtis-in-semifinale-nei-50-dorso-con-il-miglior-tempo_0741987e-2fba-4c9b-b208-4a8408d2d1b5.html",
+     "data": "2026-08-12T13:44:42+00:00"
     },
     {
-     "titolo": "Calcio: Corinthians annuncia la partenza di Depay per motivi finanziari",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/calcio-corinthians-annuncia-la-partenza-di-depay-per-motivi-finanziari_3357fccc-975b-4015-9d1a-c0888ca597fd.html",
-     "data": "2026-08-12T08:24:07+00:00"
+     "titolo": "Supercoppa Europea, il Psg sfida l'Aston Villa: 'C'è tanta voglia di vincere'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/supercoppa-europea-il-psg-sfida-laston-villa-ce-tanta-voglia-di-vincere_a1932199-0dd6-4aa3-8192-4a5268249628.html",
+     "data": "2026-08-12T13:41:07+00:00"
     },
     {
-     "titolo": "Europei nuoto: Ceccon rinuncia ai 100 farfalla, Razzetti e Busa in semifinale",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-ceccon-rinuncia-ai-100-farfalla-razzetti-e-busa-in-semifinale_ba0854f4-f87e-4a76-82f7-4e8582a2115a.html",
-     "data": "2026-08-12T08:18:33+00:00"
+     "titolo": "Ginnastica ritmica, a Francoforte partono i Mondiali con le qualifiche individuali",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/ginnastica-ritmica-a-francoforte-partono-i-mondiali-con-le-qualifiche-individuali_05eb9bf1-f15e-4422-8afd-6d9ddd771569.html",
+     "data": "2026-08-12T13:31:02+00:00"
     },
     {
-     "titolo": "Cristiano Ronaldo e Georgina Rodríguez si sono sposati in Portogallo",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/cristiano-ronaldo-e-georgina-rodriguez-si-sono-sposati-in-portogallo-2_c75d9db9-b349-4e6b-997f-3db33822e9e1.html",
-     "data": "2026-08-12T09:51:35+00:00"
+     "titolo": "Tennis: Federer gioca sui campetti in terra rossa di Taormina",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/12/tennis-federer-gioca-sui-campetti-in-terra-rossa-di-taormina_ad99a3f0-c0f5-49e9-abe2-28b0b75d8725.html",
+     "data": "2026-08-12T13:31:08+00:00"
     }
    ]
   }
