@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-12T11:36:07.575580+00:00",
+ "aggiornato": "2026-08-12T12:36:05.594606+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il gas si assesta sopra i 60,5 euro sulla piazza Ttf di Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/il-gas-si-assesta-sopra-i-605-euro-sulla-piazza-ttf-di-amsterdam_130e964a-ef1f-4e52-8994-0d2ceedf21fa.html",
+     "data": "2026-08-12T12:18:15+00:00"
+    },
+    {
+     "titolo": "Incendio da 9 giorni sul Monte Barone, bruciati mille ettari",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/incendio-da-9-giorni-sul-monte-barone-bruciati-mille-ettari_a7ac7058-fb39-41e3-81d1-5e476af7d062.html",
+     "data": "2026-08-12T12:05:30+00:00"
+    },
+    {
+     "titolo": "Domani al via le nuove regole Ue sul fine vita delle auto, più riciclo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/domani-al-via-le-nuove-regole-ue-sul-fine-vita-delle-auto-piu_8caf596e-24ad-48e4-8274-543ea1cc5e41.html",
+     "data": "2026-08-12T11:52:54+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa migliora, salgono i future Usa, Milano +0,25%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/borsa-leuropa-migliora-salgono-i-future-usa-milano-025_77345d42-fd05-475b-8e60-acfe41ed09fc.html",
+     "data": "2026-08-12T11:47:34+00:00"
+    },
     {
      "titolo": "Musumeci, 'a Catania è fuori posto l'aeroporto, non il vulcano'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/musumeci-a-catania-e-fuori-posto-laeroporto-non-il-vulcano_a576f93a-d0be-4d46-b683-2f7a25784ea2.html",
@@ -34,26 +54,6 @@
      "titolo": "Frederiksen, 'pronti a chiudere le frontiere se ripartono i flussi migratori'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/frederiksen-pronti-a-chiudere-le-frontiere-se-ripartono-i-flussi-migratori_6b9e7045-7942-4584-884c-a059ba07227e.html",
      "data": "2026-08-12T09:53:09+00:00"
-    },
-    {
-     "titolo": "Spin Time, la proprietà stanzia 500mila euro per l'emergenza abitativa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/spin-time-la-proprieta-stanzia-500mila-euro-per-lemergenza-abitativa_8f3a5316-a7ee-4b43-964b-d98d5be5e91b.html",
-     "data": "2026-08-12T09:47:08+00:00"
-    },
-    {
-     "titolo": "Il parlamento libanese approva l'amnistia generale",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/il-parlamento-libanese-approva-lamnistia-generale_914ae099-5080-4173-b2be-6cda94033e64.html",
-     "data": "2026-08-12T09:41:07+00:00"
-    },
-    {
-     "titolo": "Sfida serrata alle primarie dem in Wisconsin, battuta Hong",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/sfida-serrata-alle-primarie-dem-in-wisconsin-battuta-hong_cd83575d-e607-4480-85b0-baa6c07ccac4.html",
-     "data": "2026-08-12T09:34:13+00:00"
-    },
-    {
-     "titolo": "Rapporto Camera, rinnovabili coprono 20% dei consumi energia, al 2030 serve il doppio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/rapporto-camera-rinnovabili-coprono-20-dei-consumi-energia-al-2030-serve-il-doppio_74d84f5b-6694-42d4-a04c-6fc78ee1bf85.html",
-     "data": "2026-08-12T09:32:25+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Incendio da 9 giorni sul Monte Barone, bruciati mille ettari",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/incendio-da-9-giorni-sul-monte-barone-bruciati-mille-ettari_d046395f-3a4e-4061-b881-aa4d610bc827.html",
+     "data": "2026-08-12T12:05:30+00:00"
+    },
+    {
+     "titolo": "Incendio da 9 giorni sul Monte Barone, bruciati mille ettari",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/incendio-da-9-giorni-sul-monte-barone-bruciati-mille-ettari_8c63d849-ac21-4efb-b082-4a332fa42a3a.html",
+     "data": "2026-08-12T12:08:32+00:00"
+    },
+    {
      "titolo": "L'avvocato dell'investitore dei ciclisti, faremo una consulenza psichiatrica",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/lavvocato-dellinvestitore-dei-ciclisti-faremo-una-consulenza-psichiatrica_4878e84c-1cb5-487d-a19d-87403ff67004.html",
      "data": "2026-08-12T11:04:51+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Spin Time, la proprietà stanzia 500mila euro per l'emergenza abitativa",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/spin-time-la-proprieta-stanzia-500mila-euro-per-lemergenza-abitativa_90ce8bf3-5302-4e95-ab8b-883b903bec33.html",
      "data": "2026-08-12T09:49:39+00:00"
-    },
-    {
-     "titolo": "Terremoto, scossa 3.7 al largo della costa settentrionale della Toscana",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/terremoto-scossa-3.7-al-largo-della-costa-settentrionale-della-toscana_45d625c3-5c71-4ad9-9409-053f0ce7c918.html",
-     "data": "2026-08-12T09:44:33+00:00"
-    },
-    {
-     "titolo": "Rimprovera bambina che da un calcio all'auto, aggredita e picchiata dai genitori",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/rimprovera-bambina-che-da-un-calcio-allauto-aggredita-e-picchiata-dai-genitori_25576f2f-1812-4e89-9b5a-16ffac70c0d4.html",
-     "data": "2026-08-12T09:41:17+00:00"
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "titolo": "Mattarella: 'La volontà di dominio si riaffaccia, oggi ombre di guerre anche inedite'. Tajani a Sant'Anna di Stazzema",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/12/mattarella-la-volonta-di-dominio-si-riaffaccia-oggi-ombre-di-guerre-anche-inedite_b82b399b-9546-445b-8bdb-7f2cc1e42e0d.html",
-     "data": "2026-08-12T10:47:00+00:00"
+     "data": "2026-08-12T12:23:49+00:00"
     },
     {
      "titolo": "Riunito il Comitato etico su Ranucci, voci di sostituzione",
@@ -224,17 +224,37 @@
      "titolo": "\"L'Unità deve tornare a casa\", il Pd pronto all'offerta. L'editore: 'Il partito non può dettare condizioni'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/lunita-deve-tornare-a-casa-il-pd-pronto-allofferta_f2fd79de-d54a-4176-9daf-dbc93e0f709b.html",
      "data": "2026-08-11T17:36:20+00:00"
-    },
-    {
-     "titolo": "Il Papa vicino al popolo della Colombia, 'profondamente addolorato'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/il-papa-vicino-al-popolo-della-colombia-profondamente-addolorato_d7502b0d-3a2b-4d4c-9276-81391deebc91.html",
-     "data": "2026-08-11T11:54:08+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Guido Stazi si insedia alla presidenza della Consob",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/guido-stazi-si-insedia-alla-presidenza-della-consob_a8552fd5-279e-410b-9644-9d0cc0d67ca8.html",
+     "data": "2026-08-12T12:30:22+00:00"
+    },
+    {
+     "titolo": "Il gas si assesta sopra i 60,5 euro sulla piazza Ttf di Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/il-gas-si-assesta-sopra-i-605-euro-sulla-piazza-ttf-di-amsterdam_dd08bb17-46b9-4c32-a3ca-30517cdabb7a.html",
+     "data": "2026-08-12T12:23:35+00:00"
+    },
+    {
+     "titolo": "Domani al via le nuove regole Ue sul fine vita delle auto, più riciclo",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/domani-al-via-le-nuove-regole-ue-sul-fine-vita-delle-auto-piu_4fa137a5-011b-42d0-a367-e4bf780cfd03.html",
+     "data": "2026-08-12T11:55:26+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa migliora, salgono i future Usa, Milano +0,25%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-leuropa-migliora-salgono-i-future-usa-milano-025_0ff56a01-a731-44b9-afac-4ed4f662ca28.html",
+     "data": "2026-08-12T11:47:50+00:00"
+    },
+    {
+     "titolo": "Bankitalia, rallenta aumento prezzi abitazioni nel secondo trimestre",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/bankitalia-rallenta-aumento-prezzi-abitazioni-nel-secondo-trimestre_179de207-03ed-4fe9-b6a2-e16bf9e7ca8a.html",
+     "data": "2026-08-12T11:56:15+00:00"
+    },
     {
      "titolo": "Effetto semestrale per Abn Amro in borsa ad Amsterdam (+5%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/effetto-semestrale-per-abn-amro-in-borsa-ad-amsterdam-5_96292037-beb6-4b69-b7c7-ac2910df582f.html",
@@ -263,37 +283,12 @@
     {
      "titolo": "Le rinnovabili coprono 20% consumi energia, al 2030 serve il doppio",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/le-rinnovabili-coprono-20-consumi-energia-al-2030-serve-il-doppio_9eba23c9-a62b-415f-ba1c-13e26738ad1d.html",
-     "data": "2026-08-12T09:39:46+00:00"
+     "data": "2026-08-12T11:56:57+00:00"
     },
     {
      "titolo": "Codacons, con l'inflazione al 2,9% maggiore spesa da 959 euro a famiglia",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/codacons-con-linflazione-al-29-maggiore-spesa-da-959-euro-a-famiglia_db219a88-22db-4741-ab41-27f6be1f49e3.html",
      "data": "2026-08-12T09:31:36+00:00"
-    },
-    {
-     "titolo": "Istat, caro-vacanze, mangiare e dormire fuori costa il 3,4% in più del 2025",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/istat-caro-vacanze-mangiare-e-dormire-fuori-costa-il-34-in-piu-del-2025_c437916f-3d0e-452d-a294-1daf28827827.html",
-     "data": "2026-08-12T09:04:29+00:00"
-    },
-    {
-     "titolo": "Fondo sovrano norvegese rendimento semestre del 9,4%, trainano titoli tech",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/fondo-sovrano-norvegese-rendimento-semestre-del-94-trainano-titoli-tech_06c356f7-0048-435e-8dc4-50c80a04ca42.html",
-     "data": "2026-08-12T08:45:07+00:00"
-    },
-    {
-     "titolo": "Aie, domanda di petrolio cala, ma sul mercato mancano 1,8 milioni di barili al giorno",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/aie-domanda-di-petrolio-cala-ma-sul-mercato-mancano-18-milioni-di-barili-al-giorno_9c75b51c-5ff8-409d-b019-5967328dbfb2.html",
-     "data": "2026-08-12T08:44:37+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa contrastata, attesa per l'inflazione Usa, Milano +0,15%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-europa-contrastata-attesa-per-linflazione-usa-milano-015_8ae5043c-0a91-46d9-8393-5de9036a228e.html",
-     "data": "2026-08-12T08:41:12+00:00"
-    },
-    {
-     "titolo": "Istat rialza stime, a luglio inflazione al 2,9%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/istat-rialza-stime-a-luglio-inflazione-al-29_4ad4f74d-bcf6-4a08-adc7-c267b2dfd33f.html",
-     "data": "2026-08-12T08:18:52+00:00"
     }
    ]
   },
@@ -431,6 +426,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "A Stroppiana l'addio a Berruti, 'ci ha insegnato lealtà e rispetto per l'avversario'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/a-stroppiana-laddio-a-berruti-ci-ha-insegnato-lealta-e-rispetto-per-lavversario_05e22295-a085-46e9-a18f-97bd72ade4f5.html",
+     "data": "2026-08-12T12:21:42+00:00"
+    },
+    {
+     "titolo": "Europei atletica: Pernici in finale negli 800 metri",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/europei-atletica-pernici-in-finale-negli-800-metri_a00262f1-7652-4388-8414-82db1373159a.html",
+     "data": "2026-08-12T12:06:54+00:00"
+    },
+    {
      "titolo": "Ginnastica ritmica, a Francoforte partono i Mondiali con le qualifiche individuali",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/ginnastica-ritmica-a-francoforte-partono-i-mondiali-con-le-qualifiche-individuali_05eb9bf1-f15e-4422-8afd-6d9ddd771569.html",
      "data": "2026-08-12T11:27:34+00:00"
@@ -479,16 +484,6 @@
      "titolo": "Cristiano Ronaldo e Georgina Rodríguez si sono sposati in Portogallo",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/cristiano-ronaldo-e-georgina-rodriguez-si-sono-sposati-in-portogallo-2_c75d9db9-b349-4e6b-997f-3db33822e9e1.html",
      "data": "2026-08-12T09:51:35+00:00"
-    },
-    {
-     "titolo": "Calcio: convocata il 10 ottobre l'assemblea generale dell'Aia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/11/calcio-convocata-il-10-ottobre-lassemblea-generale-dellaia_a38fc80f-ca5c-4229-bdf8-1cc3ab0a2dc3.html",
-     "data": "2026-08-11T21:33:20+00:00"
-    },
-    {
-     "titolo": "Battocletti regina d'Europa, Jacobs si ferma in finale dei 100",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/battocletti-regina-deuropa-jacobs-si-ferma-in-finale-dei-100_42596c64-29d9-4f2e-aa09-6d61b2bc2bd1.html",
-     "data": "2026-08-12T07:23:25+00:00"
     }
    ]
   }
