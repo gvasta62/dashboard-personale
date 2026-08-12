@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-12T21:12:28.404444+00:00",
+ "aggiornato": "2026-08-12T22:07:14.865179+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -163,7 +163,7 @@
     {
      "titolo": "L'Etna in eruzione da sei giorni. Caos in Sicilia, 700 voli saltati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/letna-in-eruzione-da-sei-giorni.-caos-in-sicilia-700-voli-saltati_d9c8900c-e898-4f2d-b69a-d43d7c0af6c3.html",
-     "data": "2026-08-12T17:23:59+00:00"
+     "data": "2026-08-12T21:19:51+00:00"
     },
     {
      "titolo": "Spin Time, la proprietà stanzia 500 mila euro per gli alloggi",
@@ -296,6 +296,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Cuba, salgono a 1.327 i prigionieri politici, coinvolto anche un bambino di 13 anni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/cuba-salgono-a-1.327-i-prigionieri-politici-coinvolto-anche-un-bambino-di-13-anni_492f29c8-6ae4-4333-93e3-03f4e40db2a1.html",
+     "data": "2026-08-12T21:08:45+00:00"
+    },
+    {
      "titolo": "Hegseth, 'Colombia autorizza operazioni militari congiunte al narcotraffico'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/hegseth-colombia-autorizza-operazioni-militari-congiunte-al-narcotraffico_4a880a98-62be-45d9-babd-b634f412922a.html",
      "data": "2026-08-12T21:02:39+00:00"
@@ -349,11 +354,6 @@
      "titolo": "Gli agenti dell'Ice saranno dotati di guanti a scarica elettrica entro il 2027",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/gli-agenti-dellice-saranno-dotati-di-guanti-a-scarica-elettrica-entro-il-2027_f51a9e46-9e9d-400b-8b83-f8a5d0b9f204.html",
      "data": "2026-08-12T14:34:34+00:00"
-    },
-    {
-     "titolo": "Gli agenti dell'Ice dotati di guanti a scarica elettrica entro il 2027",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/gli-agenti-dellice-dotati-di-guanti-a-scarica-elettrica-entro-il-2027_69748e28-7e1f-40a9-901f-923a2ca04f0c.html",
-     "data": "2026-08-12T16:16:36+00:00"
     }
    ]
   },
@@ -426,6 +426,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Nba: il re delle triple doppie Westbrook annuncia il ritiro dopo 18 stagioni",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/12/nba-il-re-delle-triple-doppie-westbrook-annuncia-il-ritiro-dopo-18-stagioni_3dd0b4fa-246b-4077-beb2-3ea4cd6741b4.html",
+     "data": "2026-08-12T21:14:35+00:00"
+    },
+    {
+     "titolo": "Psg inarrestabile, vince anche la Supercoppa europea",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/psg-inarrestabile-vince-anche-la-supercoppa-europea_c6a9df14-9fce-4d25-9751-d669632780bc.html",
+     "data": "2026-08-12T21:17:14+00:00"
+    },
+    {
      "titolo": "Calcio: Psg batte 2-1 Aston villa e vince la Supercoppa europea",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/calcio-psg-batte-2-1-aston-villa-e-vince-la-supercoppa-europea_425f1d70-323c-4a9e-8c52-2b378cb53664.html",
      "data": "2026-08-12T21:00:09+00:00"
@@ -474,16 +484,6 @@
      "titolo": "Europei nuoto: Due bronzi per l'Italia con Thomas Ceccon e Benedetta Pilato",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-due-bronzi-per-gli-azzurri-con-ceccon-e-pilato_ed44be80-80fc-43f1-a6f5-8e0ca57adedb.html",
      "data": "2026-08-12T17:20:18+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Pilato bronzo nei 100 rana, oro a Evans",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-pilato-bronzo-nei-100-rana-oro-a-kos_5c0ec0e0-a348-4121-bb83-b05e620f4f11.html",
-     "data": "2026-08-12T17:14:53+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: D'Ambrosio settimo nei 100 sl, Di Pietro ottava nei 50 farfalla",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-dambrosio-settimo-nei-100-sl-di-pietro-ottava-nei-50-farfalla_c0360615-d78c-454a-ac91-be98ac86af40.html",
-     "data": "2026-08-12T17:00:19+00:00"
     }
    ]
   }
