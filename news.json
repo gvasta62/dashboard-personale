@@ -1,10 +1,40 @@
 {
- "aggiornato": "2026-08-12T08:07:11.244583+00:00",
+ "aggiornato": "2026-08-12T09:35:20.422465+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Tajani a Sant'Anna Stazzema, governo lavora perché pace sia ispirazione ogni politica",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/tajani-a-santanna-stazzema-governo-lavora-perche-pace-sia-ispirazione-ogni_5dafd304-b87c-411d-bb17-62d5ee4d7134.html",
+     "data": "2026-08-12T09:09:35+00:00"
+    },
+    {
+     "titolo": "Istat, caro-vacanze, mangiare e dormire fuori costa il 3,4% in più del 2025",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/istat-caro-vacanze-mangiare-e-dormire-fuori-costa-il-34-in-piu-del-2025_49fd69dc-93ac-4560-bf45-e57467ec6f42.html",
+     "data": "2026-08-12T09:04:23+00:00"
+    },
+    {
+     "titolo": "Borsa: Europa contrastata, attesa per l'inflazione Usa, Milano +0,15%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/borsa-europa-contrastata-attesa-per-linflazione-usa-milano-015_1eec1210-3c71-47d7-a977-eef60e7d28fc.html",
+     "data": "2026-08-12T08:41:09+00:00"
+    },
+    {
+     "titolo": "Putin, 'risponderemo ai sequestri di nostre navi da parte degli europei'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/putin-risponderemo-ai-sequestri-di-nostre-navi-da-parte-degli-europei_0b0623b3-3528-4065-bc04-e4d17abb6b45.html",
+     "data": "2026-08-12T08:30:26+00:00"
+    },
+    {
+     "titolo": "Istat rialza stime, a luglio inflazione al 2,9%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/istat-rialza-stime-a-luglio-inflazione-al-29_b35fa194-73a8-44c3-b5b4-538a1a90d0f7.html",
+     "data": "2026-08-12T08:15:04+00:00"
+    },
+    {
+     "titolo": "Meloni, sempre intervenuti sui rincari, lavoriamo a un rientro dalle ferie più leggero",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/meloni-sempre-intervenuti-sui-rincari-lavoriamo-a-un-rientro-dalle-ferie-piu_760bf6e8-4477-4237-bbfe-5d59864ec69c.html",
+     "data": "2026-08-12T08:10:23+00:00"
+    },
     {
      "titolo": "Ventunenne ucciso a colpi di arma da fuoco nel Crotonese",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/ventunenne-ucciso-a-colpi-di-arma-da-fuoco-nel-crotonese_c299086c-f71c-4371-8e89-b4a698f5e141.html",
@@ -24,36 +54,6 @@
      "titolo": "Borsa: l'Europa apre in ordine sparso, Parigi e Londra invariate",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/borsa-leuropa-apre-in-ordine-sparso-parigi-e-londra-invariate_0e0c6d76-8f40-460d-bf79-c8899f15fa7d.html",
      "data": "2026-08-12T07:25:04+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre in rialzo, +0,36%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/borsa-milano-apre-in-rialzo-036_c17138a8-feb1-4c7c-84a5-56c57b9ad90d.html",
-     "data": "2026-08-12T07:08:18+00:00"
-    },
-    {
-     "titolo": "Borsa: Asia contrastata, sprint di Samsung e Hynix a Seul, Tokyo +0,83%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/borsa-asia-contrastata-sprint-di-samsung-e-hynix-a-seul-tokyo-083_783806ea-ba98-48af-9c5a-430102914d2d.html",
-     "data": "2026-08-12T06:58:17+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund tedeschi scende a 78,9 punti in apertura",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/lo-spread-tra-btp-e-bund-tedeschi-scende-a-789-punti-in-apertura_8580137d-3670-477e-af87-d63562336ae1.html",
-     "data": "2026-08-12T06:44:02+00:00"
-    },
-    {
-     "titolo": "Il gas risale sopra quota 60 euro sulla piazza Ttf di Amsterdam",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/il-gas-risale-sopra-quota-60-euro-sulla-piazza-ttf-di-amsterdam_ee9c0fd0-813d-4bb9-8617-fb5fa4505b5a.html",
-     "data": "2026-08-12T06:16:28+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'la Russia si prepara a una nuova mobilitazione dopo le elezioni'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/zelensky-la-russia-si-prepara-a-una-nuova-mobilitazione-dopo-le-elezioni_91bcc9ae-547f-406f-ac32-14bba2841173.html",
-     "data": "2026-08-11T20:19:42+00:00"
-    },
-    {
-     "titolo": "Ministro Energia Usa, ora per Hormuz 9 milioni di barili di petrolio al giorno",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/11/ministro-energia-usa-ora-per-hormuz-9-milioni-di-barili-di-petrolio-al-giorno_efa7b679-fdbc-4561-ae94-ae1ea42b0cde.html",
-     "data": "2026-08-11T19:35:19+00:00"
     }
    ]
   },
@@ -126,6 +126,36 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Picchiato a morte a Cervia, spunta un terzo filmato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/picchiato-a-morte-a-cervia-spunta-un-terzo-filmato_7a62a3b4-9a52-4c33-9d92-a13b1d93721b.html",
+     "data": "2026-08-12T09:17:28+00:00"
+    },
+    {
+     "titolo": "Tajani a Sant'Anna Stazzema, governo lavora perché pace sia ispirazione ogni politica",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/tajani-a-santanna-stazzema-governo-lavora-perche-pace-sia-ispirazione-ogni_3596db34-cb60-4e79-b01b-38d73c7ebec6.html",
+     "data": "2026-08-12T09:09:35+00:00"
+    },
+    {
+     "titolo": "Incidente sul lavoro nel Nuorese, operaio 28enne folgorato da alta tensione",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/incidente-sul-lavoro-nel-nuorese-operaio-28enne-folgorato-da-alta-tensione_0ce11dc8-3956-4e55-bdf6-dfbbdaf7263b.html",
+     "data": "2026-08-12T08:57:16+00:00"
+    },
+    {
+     "titolo": "Caldo fino a domenica, da lunedì attesa una perturbazione",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/caldo-fino-a-domenica-da-lunedi-attesa-una-perturbazione_eb0124bb-761d-4a74-9815-d96e5ce03b1a.html",
+     "data": "2026-08-12T08:32:49+00:00"
+    },
+    {
+     "titolo": "Caldo fino a domenica, da lunedì attesa una perturbazione",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/caldo-fino-a-domenica-da-lunedi-attesa-una-perturbazione_8a8fbf0a-c38d-4496-b321-9bfda33290d0.html",
+     "data": "2026-08-12T08:43:16+00:00"
+    },
+    {
+     "titolo": "Un'auto si ribalta a Formentera, passeggero salvato da due carabinieri",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/unauto-si-ribalta-a-formentera-passeggero-salvato-da-due-carabinieri_cdabd889-ed7c-43a3-9f86-16c044e9138f.html",
+     "data": "2026-08-12T08:23:45+00:00"
+    },
+    {
      "titolo": "Aggredisce medici e poliziotti in ospedale del Leccese, arrestato 34 enne",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/aggredisce-medici-e-poliziotti-in-ospedale-del-leccese-arrestato-34-enne_cf405220-530f-4f89-8330-2807e175758c.html",
      "data": "2026-08-12T08:04:05+00:00"
@@ -133,7 +163,7 @@
     {
      "titolo": "Ventunenne ucciso a colpi di arma da fuoco nel Crotonese",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/ventunenne-ucciso-a-colpi-di-arma-da-fuoco-nel-crotonese_aeb9fbdf-56a9-4966-9e12-2c8a2c294f89.html",
-     "data": "2026-08-12T07:59:17+00:00"
+     "data": "2026-08-12T09:20:17+00:00"
     },
     {
      "titolo": "Colate detritiche in Trentino, scesi 22mila metri cubi di materiale",
@@ -148,42 +178,12 @@
     {
      "titolo": "Emissione di cenere dall'Etna, sospese le attività di volo a Catania fino alle 18",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/emissione-cenere-etna-sospese-attivita-di-volo-a-catania-fino-alle-18_d9c8900c-e898-4f2d-b69a-d43d7c0af6c3.html",
-     "data": "2026-08-12T08:02:38+00:00"
+     "data": "2026-08-12T08:34:33+00:00"
     },
     {
      "titolo": "Cenere sull'Etna, sospese attività allo scalo di Comiso fino alle 11 di domani",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/cenere-sulletna-sospese-attivita-allo-scalo-di-comiso-fino-alle-11-di-domani_ded24a73-36de-4c6e-888f-8aba103f6d62.html",
      "data": "2026-08-11T21:26:11+00:00"
-    },
-    {
-     "titolo": "Tra i minorenni dell'istituto Beccaria, 'psicofarmaci come caramelle'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/tra-i-minorenni-dellistituto-beccaria-psicofarmaci-come-caramelle_f4e8d3b9-0843-40e2-9ebb-b8603635e6ee.html",
-     "data": "2026-08-11T18:48:07+00:00"
-    },
-    {
-     "titolo": "Lavitola dal gip. Salvini contro Ranucci: 'Via da Report'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/lavitola-dal-gip-salvini-contro-ranucci-via-da-report_ea156374-172a-434c-8197-8bf89a7164cb.html",
-     "data": "2026-08-11T19:48:01+00:00"
-    },
-    {
-     "titolo": "Incontro Campidoglio-Spin Time, fino a oggi sistemate circa 160 persone",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/incontro-campidoglio-spin-time-fino-a-oggi-sistemate-circa-160-persone_7724b865-27d8-49af-92de-df35845fa849.html",
-     "data": "2026-08-11T18:15:07+00:00"
-    },
-    {
-     "titolo": "Spray e calci contro turista 22enne con la kippah a Roma",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/spray-e-calci-contro-turista-22enne-con-la-kippah-a-roma_3cb7d3d8-108c-435a-a543-e6d877ac841c.html",
-     "data": "2026-08-11T17:56:14+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-08-11T16:49:56+00:00"
-    },
-    {
-     "titolo": "Soccorre uno scout caduto in una scarpata, muore un accompagnatore",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/tenta-di-salvare-uno-scout-caduto-in-una-scarpata-morto-un-accompagnatore_892b3cb8-3013-4e85-949c-ae3682407317.html",
-     "data": "2026-08-11T16:12:06+00:00"
     }
    ]
   },
@@ -191,14 +191,19 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Meloni, sempre intervenuti sui rincari, lavoriamo a un rientro dalle ferie più leggero",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/12/meloni-sempre-intervenuti-sui-rincari-lavoriamo-a-un-rientro-dalle-ferie-piu_d10c53fd-a174-4213-bbf4-764c77f8f3c7.html",
+     "data": "2026-08-12T08:10:23+00:00"
+    },
+    {
      "titolo": "Mattarella, volontà dominio si riaffaccia, oggi ombre di guerre anche inedite",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/12/mattarella-volonta-dominio-si-riaffaccia-oggi-ombre-di-guerre-anche-inedite_02143dea-9dcc-47ae-988d-22affad2f9c7.html",
      "data": "2026-08-12T07:44:25+00:00"
     },
     {
-     "titolo": "Mattarella: 'La volontà di dominio si riaffaccia, oggi ombre di guerre anche inedite'",
+     "titolo": "Mattarella: 'La volontà di dominio si riaffaccia, oggi ombre di guerre anche inedite'. Tajani a Sant'Anna di Stazzema",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/12/mattarella-la-volonta-di-dominio-si-riaffaccia-oggi-ombre-di-guerre-anche-inedite_b82b399b-9546-445b-8bdb-7f2cc1e42e0d.html",
-     "data": "2026-08-12T07:49:32+00:00"
+     "data": "2026-08-12T09:25:26+00:00"
     },
     {
      "titolo": "Riunito il Comitato etico su Ranucci, voci di sostituzione",
@@ -241,6 +246,41 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Codacons, con l'inflazione al 2,9% maggiore spesa da 959 euro a famiglia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/codacons-con-linflazione-al-29-maggiore-spesa-da-959-euro-a-famiglia_db219a88-22db-4741-ab41-27f6be1f49e3.html",
+     "data": "2026-08-12T09:31:36+00:00"
+    },
+    {
+     "titolo": "Istat, caro-vacanze, mangiare e dormire fuori costa il 3,4% in più del 2025",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/istat-caro-vacanze-mangiare-e-dormire-fuori-costa-il-34-in-piu-del-2025_c437916f-3d0e-452d-a294-1daf28827827.html",
+     "data": "2026-08-12T09:04:29+00:00"
+    },
+    {
+     "titolo": "Fondo sovrano norvegese rendimento semestre del 9,4%, trainano titoli tech",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/fondo-sovrano-norvegese-rendimento-semestre-del-94-trainano-titoli-tech_06c356f7-0048-435e-8dc4-50c80a04ca42.html",
+     "data": "2026-08-12T08:45:07+00:00"
+    },
+    {
+     "titolo": "Aie, domanda di petrolio cala, ma sul mercato mancano 1,8 milioni di barili al giorno",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/aie-domanda-di-petrolio-cala-ma-sul-mercato-mancano-18-milioni-di-barili-al-giorno_9c75b51c-5ff8-409d-b019-5967328dbfb2.html",
+     "data": "2026-08-12T08:44:37+00:00"
+    },
+    {
+     "titolo": "Borsa: Europa contrastata, attesa per l'inflazione Usa, Milano +0,15%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-europa-contrastata-attesa-per-linflazione-usa-milano-015_8ae5043c-0a91-46d9-8393-5de9036a228e.html",
+     "data": "2026-08-12T08:41:12+00:00"
+    },
+    {
+     "titolo": "Istat rialza stime, a luglio inflazione al 2,9%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/istat-rialza-stime-a-luglio-inflazione-al-29_4ad4f74d-bcf6-4a08-adc7-c267b2dfd33f.html",
+     "data": "2026-08-12T08:18:52+00:00"
+    },
+    {
+     "titolo": "Caro-vacanze, mangiare e dormire fuori costa il 3,4% in più del 2025",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/istat-rialza-le-stime-a-luglio-inflazione-al-29-_d8b89632-6500-4330-bc33-7084f85faf92.html",
+     "data": "2026-08-12T09:24:08+00:00"
+    },
+    {
      "titolo": "Scende il prezzo del gas in Italia a 61,66 euro a MWh",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/scende-il-prezzo-del-gas-in-italia-a-6166-euro-a-mwh_f38e77f7-586e-4352-a4ea-e81074cf3f3e.html",
      "data": "2026-08-12T08:02:01+00:00"
@@ -264,47 +304,27 @@
      "titolo": "Borsa: Milano apre in rialzo, +0,36%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-milano-apre-in-rialzo-036_37b6d8d6-49f1-4909-a261-e81cf172157e.html",
      "data": "2026-08-12T07:08:20+00:00"
-    },
-    {
-     "titolo": "Borsa: Asia contrastata, sprint di Samsung e Hynix a Seul, Tokyo +0,83%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-asia-contrastata-sprint-di-samsung-e-hynix-a-seul-tokyo-083_6691f637-1288-4d6b-a41b-bc6936c5ac13.html",
-     "data": "2026-08-12T06:58:21+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund tedeschi scende a 78,9 punti in apertura",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/lo-spread-tra-btp-e-bund-tedeschi-scende-a-789-punti-in-apertura_56579542-dc69-4bbc-a46a-758dc1f08aae.html",
-     "data": "2026-08-12T06:44:00+00:00"
-    },
-    {
-     "titolo": "Il gas risale sopra quota 60 euro sulla piazza Ttf di Amsterdam",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/il-gas-risale-sopra-quota-60-euro-sulla-piazza-ttf-di-amsterdam_f845e336-a499-4049-a726-7c483ec5a7e7.html",
-     "data": "2026-08-12T06:18:02+00:00"
-    },
-    {
-     "titolo": "Il prezzo dell'oro risale, spot +0,40% a 4.387 dollari l'oncia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/il-prezzo-delloro-risale-spot-040-a-4.387-dollari-loncia_56baa928-1bb9-4334-8c44-39c4ad94a682.html",
-     "data": "2026-08-12T06:16:20+00:00"
-    },
-    {
-     "titolo": "Petrolio in rialzo, il Brent sale dello 0,54% oltre 89 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/petrolio-in-rialzo-il-brent-sale-dello-054-oltre-89-dollari_e47442f4-76f1-4495-a75a-d33452049c86.html",
-     "data": "2026-08-12T06:16:25+00:00"
-    },
-    {
-     "titolo": "Euro stabile sul dollaro a 1,1534",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/euro-stabile-sul-dollaro-a-11534_e0248b1f-53c9-4163-b11b-10bc869ac430.html",
-     "data": "2026-08-12T06:04:36+00:00"
-    },
-    {
-     "titolo": "Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/il-petrolio-chiude-in-rialzo-a-new-york-ma-sotto-90-dollari-a-8295-dollari_820d9a6d-6914-4146-af06-dc475af4ee92.html",
-     "data": "2026-08-11T18:39:37+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "La ministra della Difesa di Madrid a Ceuta",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/12/la-ministra-della-difesa-di-madrid-a-ceuta_2f09b035-49d3-4674-9eb7-c50e72f3469f.html",
+     "data": "2026-08-12T09:27:22+00:00"
+    },
+    {
+     "titolo": "La Colombia attiva i canali diplomatici per gli aiuti umanitari",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/la-colombia-attiva-i-canali-diplomatici-per-gli-aiuti-umanitari_7b27194c-94db-4e36-8ea6-065daf551274.html",
+     "data": "2026-08-12T09:18:32+00:00"
+    },
+    {
+     "titolo": "Putin, 'risponderemo ai sequestri di nostre navi da parte degli europei'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/12/putin-risponderemo-ai-sequestri-di-nostre-navi-da-parte-degli-europei_de0b6d8e-46d0-459b-af4f-48ea716745f1.html",
+     "data": "2026-08-12T08:30:40+00:00"
+    },
     {
      "titolo": "Il terremoto in Colombia ha paralizzato le esportazioni di caffè",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/il-terremoto-in-colombia-ha-paralizzato-le-esportazioni-di-caffe_ddfc2e3b-6982-4525-a6a1-5cd4b780a48c.html",
@@ -349,21 +369,6 @@
      "titolo": "Terremoto in Colombia, estratta viva dalle macerie dopo 30 ore",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/terremoto-in-colombia-estratta-viva-dalle-macerie-dopo-30-ore_f74ba32c-4d2d-4147-9a4b-07f84208b3e7.html",
      "data": "2026-08-11T19:03:36+00:00"
-    },
-    {
-     "titolo": "Yemen, 'sale a sei morti il bilancio dei raid nel Mar Rosso attribuito agli Houthi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/yemen-sale-a-sei-morti-il-bilancio-dei-raid-nel-mar-rosso_2709b957-28f3-4427-a834-f1bb8096b28b.html",
-     "data": "2026-08-11T17:31:35+00:00"
-    },
-    {
-     "titolo": "Il bilancio delle vittime del terremoto in Colombia sale a 240",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/il-bilancio-delle-vittime-del-terremoto-in-colombia-sale-a-240_4ebbbe23-f5ef-47a2-9eca-d2a9ccb948ee.html",
-     "data": "2026-08-11T17:29:12+00:00"
-    },
-    {
-     "titolo": "Dbeibah incontra il ministro turco Fidan, 'rafforzare cooperazione Libia-Turchia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/dbeibah-incontra-il-ministro-turco-fidan-rafforzare-cooperazione-libia-turchia_dc341d7a-7519-4ce6-b96d-d85df43cb831.html",
-     "data": "2026-08-11T16:59:14+00:00"
     }
    ]
   },
@@ -436,6 +441,31 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "La Juve è rientrata a Torino dalla tournée in Australia",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/la-juve-e-rientrata-a-torino-dalla-tournee-in-australia_8f14455e-4050-4268-933b-0af698fd4076.html",
+     "data": "2026-08-12T09:30:46+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: 50 dorso donne; Curtis vola in semifinale con il miglior tempo",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-50-dorso-donne-curtis-vola-in-semifinale-con-il-miglior-tempo_0741987e-2fba-4c9b-b208-4a8408d2d1b5.html",
+     "data": "2026-08-12T08:52:31+00:00"
+    },
+    {
+     "titolo": "Tennis, a fine ottobre torna il Valle d'Aosta Ladies Open",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/12/tennis-a-fine-ottobre-torna-il-valle-daosta-ladies-open_218a9afd-c80c-4c50-ab2a-fea580845025.html",
+     "data": "2026-08-12T08:28:42+00:00"
+    },
+    {
+     "titolo": "Calcio: Corinthians annuncia la partenza di Depay per motivi finanziari",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/calcio-corinthians-annuncia-la-partenza-di-depay-per-motivi-finanziari_3357fccc-975b-4015-9d1a-c0888ca597fd.html",
+     "data": "2026-08-12T08:24:07+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: Ceccon rinuncia ai 100 farfalla, Razzetti e Busa in semifinale",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-ceccon-rinuncia-ai-100-farfalla-razzetti-e-busa-in-semifinale_ba0854f4-f87e-4a76-82f7-4e8582a2115a.html",
+     "data": "2026-08-12T08:18:33+00:00"
+    },
+    {
      "titolo": "Cristiano Ronaldo e Georgina Rodríguez si sono sposati in Portogallo",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/cristiano-ronaldo-e-georgina-rodriguez-si-sono-sposati-in-portogallo-2_c75d9db9-b349-4e6b-997f-3db33822e9e1.html",
      "data": "2026-08-12T07:17:27+00:00"
@@ -469,31 +499,6 @@
      "titolo": "++ Europei atletica: infortunio per Jacobs nella finale 100m, sfuma l'oro ++",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/-europei-atletica-infortunio-per-jacobs-nella-finale-100m-sfuma-loro-_5f1ce5f4-b204-442a-b386-57ab17fe7802.html",
      "data": "2026-08-11T20:54:00+00:00"
-    },
-    {
-     "titolo": "'Tete' mette i fantasmi alle spalle, 'ho avuto cuore per lottare'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/11/tete-mette-i-fantasmi-alle-spalle-ho-avuto-cuore-per-lottare_d628766b-40c0-467a-a975-61c6c1fd2146.html",
-     "data": "2026-08-11T20:23:23+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Jacobs in finale dei 100m, dentro anche Ali",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-jacobs-in-finale-dei-100m-dentro-anche-ali_518a1d8b-0a80-40c5-aad1-8eebc57ab1a6.html",
-     "data": "2026-08-11T19:52:58+00:00"
-    },
-    {
-     "titolo": "Battocletti indossa la corona dei 5000m, 'me l'ha messa mamma'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/battocletti-indossa-la-corona-dei-5000m-me-lha-messa-mamma_82936e55-1dd2-463f-982f-891a5f1c3011.html",
-     "data": "2026-08-11T19:22:04+00:00"
-    },
-    {
-     "titolo": "Grande Italia agli Europei di nuoto, ori per Quadarella e Martinenghi",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/grande-italia-agli-europei-di-nuoto-ori-per-quadarella-e-martinenghi_6e06c872-d29c-4fb1-9ef2-735e33e4b080.html",
-     "data": "2026-08-11T20:27:08+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Battocletti regina dei 5000m, bronzo Majori",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-battocletti-regina-dei-5000m-bronzo-majori_200b4899-aa8b-4931-bc10-d135228fc933.html",
-     "data": "2026-08-11T18:48:05+00:00"
     }
    ]
   }
