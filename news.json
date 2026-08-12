@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-12T19:32:18.980877+00:00",
+ "aggiornato": "2026-08-12T20:28:27.108888+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, 'la portavoce Karoline Leavitt lascia l'incarico alla fine del mese'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/trump-la-portavoce-karoline-leavitt-lascia-lincarico-alla-fine-del-mese_6bdc982d-78f6-4dd6-a83c-0f831b4461d6.html",
+     "data": "2026-08-12T20:01:25+00:00"
+    },
+    {
+     "titolo": "Eclissi, una nuvola offusca in parte il cielo su Torino",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/eclissi-una-nuvola-offusca-in-parte-il-cielo-su-torino_8c3ea9f4-c058-4c03-95b9-d43e7c65f545.html",
+     "data": "2026-08-12T19:40:45+00:00"
+    },
     {
      "titolo": "Il deficit federale Usa sale a 432,3 miliardi (+48%), massimi da marzo 2021",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/il-deficit-federale-usa-sale-a-4323-miliardi-48-massimi-da-marzo-2021_5ca82081-8a7f-4203-b39c-d069f3f65ca8.html",
@@ -44,16 +54,6 @@
      "titolo": "++ Difensore Lavitola, 'Ranucci sapeva? Non rispondo' ++",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/-difensore-lavitola-ranucci-sapeva-non-rispondo-_f27f555b-9ecb-43b8-9d87-0dc9db0a2e8b.html",
      "data": "2026-08-12T16:47:45+00:00"
-    },
-    {
-     "titolo": "Eurovision cambia le regole, 'Paesi in guerra non potranno ospitare il concorso'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/eurovision-cambia-le-regole-paesi-in-guerra-non-potranno-ospitare-il-concorso_c923f99f-43c2-4465-882f-08a0a2f73d9b.html",
-     "data": "2026-08-12T16:43:53+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa frena sul finale con i timori per la guerra Usa-Iran",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/12/borsa-europa-frena-sul-finale-con-i-timori-per-la-guerra-usa_b767f9c1-3062-452f-825f-e2f1d7c79ffc.html",
-     "data": "2026-08-12T16:40:33+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Eclissi, una nuvola offusca in parte il cielo su Torino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/eclissi-una-nuvola-offusca-in-parte-il-cielo-su-torino_64c857af-7817-426c-ad84-2b5efcc4dec2.html",
+     "data": "2026-08-12T19:40:41+00:00"
+    },
+    {
      "titolo": "Nubifragi nella provincia di Firenze, alberi caduti e allagamenti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/nubifragi-nella-provincia-di-firenze-alberi-caduti-e-allagamenti_834e3d8e-f0f3-4fa3-82c9-98c16f3e5800.html",
      "data": "2026-08-12T19:04:29+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Incidente sul lavoro nel Nuorese, operaio 28enne folgorato dall'alta tensione",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/incidente-sul-lavoro-nel-nuorese-operaio-28enne-folgorato-dallalta-tensione_0ce11dc8-3956-4e55-bdf6-dfbbdaf7263b.html",
      "data": "2026-08-12T16:40:46+00:00"
-    },
-    {
-     "titolo": "Bagnini a due euro lordi all'ora e in nero, quattro indagati a Bari",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/bagnini-a-due-euro-lordi-allora-e-in-nero-quattro-indagati-a-bari_b352722d-7e1f-42ed-83bf-9dd6166d9f12.html",
-     "data": "2026-08-12T16:41:54+00:00"
     }
    ]
   },
@@ -296,6 +296,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Il sindaco di Cali ringrazia il presidente Bukele per gli aiuti post terremoto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/il-sindaco-di-cali-ringrazia-il-presidente-bukele-per-gli-aiuti-post-terremoto_11fa7daf-2ff6-448a-b3b4-c02714bdf790.html",
+     "data": "2026-08-12T20:03:06+00:00"
+    },
+    {
+     "titolo": "Trump, 'la portavoce Karoline Leavitt lascia l'incarico alla fine del mese'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/trump-la-portavoce-karoline-leavitt-lascia-lincarico-alla-fine-del-mese_bed97cd0-ce6c-4d70-b948-41a5ae12188f.html",
+     "data": "2026-08-12T20:01:49+00:00"
+    },
+    {
+     "titolo": "La storica casa di Allende a Santiago del Cile diventa un ufficio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/la-storica-casa-di-allende-a-santiago-del-cile-diventa-un-ufficio_50b608ea-6bfc-4c3c-b8b8-c73abdebf4a1.html",
+     "data": "2026-08-12T19:55:23+00:00"
+    },
+    {
+     "titolo": "Venezuela, la polizia blocca la protesta sindacale davanti all'hotel del negoziato",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/venezuela-la-polizia-blocca-la-protesta-sindacale-davanti-allhotel-del-negoziato_06c8d86b-1572-423b-b181-7b3f6990683f.html",
+     "data": "2026-08-12T19:46:08+00:00"
+    },
+    {
      "titolo": "Versione inedita del videogame Super Mario scoperta in un negozio in Wisconsin",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/versione-inedita-del-videogame-super-mario-scoperta-in-un-negozio-in-wisconsin_0a585dbf-294b-4854-8236-46842d296fab.html",
      "data": "2026-08-12T18:56:12+00:00"
@@ -334,26 +354,6 @@
      "titolo": "Nelle primarie dem in Connecticut sconfitto deputato, spinta a rinnovo generazionale",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/nelle-primarie-dem-in-connecticut-sconfitto-deputato-spinta-a-rinnovo-generazionale_db74f97b-54ce-436f-8c48-b3f3549a7058.html",
      "data": "2026-08-12T13:59:08+00:00"
-    },
-    {
-     "titolo": "Berlino, 'sorpresi da agitazione, le espulsioni in Italia si faranno'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/12/berlino-sorpresi-da-agitazione-le-espulsioni-in-italia-si-faranno_f44d2a56-bd3d-475d-a217-6d65275c596e.html",
-     "data": "2026-08-12T13:09:29+00:00"
-    },
-    {
-     "titolo": "Giaguaro torturato e ucciso, un arresto per biocidio in Bolivia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/giaguaro-torturato-e-ucciso-un-arresto-per-biocidio-in-bolivia_bcc6f69f-79e8-4c01-a2fd-d8a0100f161a.html",
-     "data": "2026-08-12T10:43:39+00:00"
-    },
-    {
-     "titolo": "In Colombia arrivano i 'Topos', celebri soccorritori messicani",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/in-colombia-arrivano-i-topos-celebri-soccorritori-messicani_3127f5b6-c5b4-490d-a0b3-be317d4bc4aa.html",
-     "data": "2026-08-12T09:53:46+00:00"
-    },
-    {
-     "titolo": "Frederiksen: 'Pronti a chiudere le frontiere se ripartono i flussi migratori'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/12/frederiksen-pronti-a-chiudere-le-frontiere-se-ripartono-i-flussi-migratori_811f306b-eaf6-47d7-8075-56711a84a43b.html",
-     "data": "2026-08-12T16:51:11+00:00"
     }
    ]
   },
@@ -426,19 +426,34 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Calciomercato: all''Inter arriva Spence, la Lazio a un passo da Frattesi",
+     "titolo": "Europei atletica: Fantini conquista l'argento nel martello",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/europei-atletica-fantini-conquista-largento-nel-martello_5a8c9b53-c81d-419b-88da-32e0c8692df6.html",
+     "data": "2026-08-12T20:04:27+00:00"
+    },
+    {
+     "titolo": "Europei di atletica, Sara Fantini conquista l'argento nel martello",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/europei-di-atletica-sara-fantini-conquista-largento-nel-martello_05cc9bf7-fdc7-4fa9-8d27-21efda72a3a6.html",
+     "data": "2026-08-12T20:16:19+00:00"
+    },
+    {
+     "titolo": "Serie A: Kristensen è a Bergamo, domani l'ufficialità con l'Atalanta",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/serie-a-kristensen-e-a-bergamo-domani-lufficialita-con-latalanta_f7b0a02c-0005-474e-8029-dc90392d1e2b.html",
+     "data": "2026-08-12T19:59:11+00:00"
+    },
+    {
+     "titolo": "Europei di nuoto: Curtis record del mondo nei 50 dorso, argento alla staffetta donne",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-curtis-fa-il-record-del-mondo-poi-e-argento-con-la-staffetta_0741987e-2fba-4c9b-b208-4a8408d2d1b5.html",
+     "data": "2026-08-12T20:23:00+00:00"
+    },
+    {
+     "titolo": "Calciomercato: all'Inter arriva Spence, la Lazio a un passo da Frattesi",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/calciomercato-allinter-arriva-spence-la-lazio-a-un-passo-da-frattesi_d11d9928-ec37-4bc1-9e09-28b7d5411b5d.html",
-     "data": "2026-08-12T18:50:09+00:00"
+     "data": "2026-08-12T19:33:07+00:00"
     },
     {
      "titolo": "Europei nuoto: argento Italia nella staffetta 4x100 stile libero femminile",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-argento-italia-nella-staffetta-4x100-stile-libero-femminile_fe50e4a8-ffa3-4598-b04b-b9327c7417ec.html",
      "data": "2026-08-12T18:29:27+00:00"
-    },
-    {
-     "titolo": "Europei di nuoto: Curtis record del mondo nei 50 dorso in 26\"63",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-curtis-record-del-mondo-nei-50-dorso-in-2663_0741987e-2fba-4c9b-b208-4a8408d2d1b5.html",
-     "data": "2026-08-12T19:10:22+00:00"
     },
     {
      "titolo": "Europei nuoto: Curtis 'una follia, il record il sogno di una vita'",
@@ -469,21 +484,6 @@
      "titolo": "La Lazio a un passo da Frattesi, affare verso la chiusura",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/la-lazio-a-un-passo-da-frattesi-affare-verso-la-chiusura_1ac62189-2a7c-4e2f-b04f-ae7dd191f939.html",
      "data": "2026-08-12T16:45:40+00:00"
-    },
-    {
-     "titolo": "Serie A: Pellegrino dal Parma alla Fiorentina, Piccoli passa al Bologna",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/serie-a-pellegrino-dal-parma-alla-fiorentina-piccoli-passa-al-bologna_7892c99d-345e-4e4a-8acf-e5960f1d28ea.html",
-     "data": "2026-08-12T16:25:33+00:00"
-    },
-    {
-     "titolo": "È ufficiale, Lukaku passa dal Napoli al Fenerbahce",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/e-ufficiale-lukaku-passa-dal-napoli-al-fenerbahce_706ee465-9935-4168-a1a8-d86154f9f62b.html",
-     "data": "2026-08-12T16:18:46+00:00"
-    },
-    {
-     "titolo": "Calcio: un altro Zanetti all'Inter, il figlio Tomas giocherà nell'Under15",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/calcio-un-altro-zanetti-allinter-il-figlio-tomas-giochera-nellunder15_67af60b0-aeec-4616-b87b-5d41716dfd24.html",
-     "data": "2026-08-12T15:37:12+00:00"
     }
    ]
   }
