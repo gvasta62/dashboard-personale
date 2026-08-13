@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-13T12:37:20.298999+00:00",
+ "aggiornato": "2026-08-13T14:11:49.491126+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Lavitola resta in carcere, gip respinge richiesta domiciliari",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/lavitola-resta-in-carcere-gip-respinge-richiesta-domiciliari_5078d52e-1e63-4a22-bf26-16c28d7fd00f.html",
+     "data": "2026-08-13T13:51:39+00:00"
+    },
+    {
+     "titolo": "Incendio ed esplosione in stabilimento ex Simmel Difesa a Colleferro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/incendio-ed-esplosione-in-stabilimento-ex-simmel-difesa-a-colleferro_50893c4a-4bb3-4952-90c5-6a1187443557.html",
+     "data": "2026-08-13T13:47:23+00:00"
+    },
+    {
+     "titolo": "Piantedosi, revocheremo stop Schengen solo con la fine totale dei rischi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/piantedosi-revocheremo-stop-schengen-solo-con-la-fine-totale-dei-rischi_10d4e59b-a485-4738-b109-2809501399e5.html",
+     "data": "2026-08-13T13:07:51+00:00"
+    },
+    {
+     "titolo": "Ranucci potrebbe essere sentito dai pm dopo analisi su cellulare Lavitola",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/ranucci-potrebbe-essere-sentito-dai-pm-dopo-analisi-su-cellulare-lavitola_d3b6c006-fa6e-42d9-9d0e-0e78bb3274f9.html",
+     "data": "2026-08-13T12:51:49+00:00"
+    },
     {
      "titolo": "La Groenlandia blocca compagnia petrolifera Usa pronta a trivellare",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/la-groenlandia-blocca-compagnia-petrolifera-usa-pronta-a-trivellare_e0b57086-6dff-4fe6-9168-07c0d9e8e9ce.html",
@@ -34,32 +54,37 @@
      "titolo": "Mosca, militare russo ucciso in un attentato in Crimea",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/mosca-militare-russo-ucciso-in-un-attentato-in-crimea_a07ed888-f933-4161-8c17-43efcb500139.html",
      "data": "2026-08-13T10:56:45+00:00"
-    },
-    {
-     "titolo": "Ft, ipo Anthropic potrebbe valere la cifra record di 2mila miliardi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/ft-ipo-anthropic-potrebbe-valere-la-cifra-record-di-2mila-miliardi_c65635d0-5c3f-42a4-9380-aeecae83c8a8.html",
-     "data": "2026-08-13T10:28:19+00:00"
-    },
-    {
-     "titolo": "Terna, a luglio record assoluto della domanda di elettricità",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/terna-a-luglio-record-assoluto-della-domanda-di-elettricita_5ab247d5-1ef5-4d51-bdde-bd0278c9e99c.html",
-     "data": "2026-08-13T10:23:06+00:00"
-    },
-    {
-     "titolo": "Esalazioni da depuratore, morti un operaio e un soccorritore del 118",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/esalazioni-da-depuratore-morti-un-operaio-e-un-soccorritore-del-118_c0cbf667-8d41-449f-9558-f3b586c7686e.html",
-     "data": "2026-08-13T10:05:39+00:00"
-    },
-    {
-     "titolo": "Tokyo convoca l'ambasciatore russo dopo la visita di Putin alle isole contese",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/tokyo-convoca-lambasciatore-russo-dopo-la-visita-di-putin-alle-isole-contese_1a98e3d9-ff5a-4cdb-a5cf-29ebf1b90b05.html",
-     "data": "2026-08-13T09:59:48+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "A Gualdo Tadino il teatro accende i riflettori sull'universo femminile",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/13/a-gualdo-tadino-il-teatro-accende-i-riflettori-sulluniverso-femminile_bd0ef4c8-45ea-491f-9b01-8dd32e7ff42f.html",
+     "data": "2026-08-13T13:44:11+00:00"
+    },
+    {
+     "titolo": "Ferragosto all'insegna dell'arte e alla Pinacoteca di Città di Castello",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/13/ferragosto-allinsegna-dellarte-e-alla-pinacoteca-di-citta-di-castello_0ef8413f-c95a-479f-a777-7300af12fe99.html",
+     "data": "2026-08-13T13:37:51+00:00"
+    },
+    {
+     "titolo": "Interessa anche l'Umbria il programma fedeltà X-GO di Trenitalia",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/13/interessa-anche-lumbria-il-programma-fedelta-x-go-di-trenitalia_7308b3fe-5a89-4e99-871b-4498ae5e273c.html",
+     "data": "2026-08-13T13:24:10+00:00"
+    },
+    {
+     "titolo": "Dalla Regione avviso da sei milioni per l'innovazione nelle imprese agricole",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/13/dalla-regione-avviso-da-sei-milioni-per-linnovazione-nelle-imprese-agricole_a7076b8e-0c65-49ea-80e1-d56328ddb62e.html",
+     "data": "2026-08-13T12:52:43+00:00"
+    },
+    {
+     "titolo": "Appello della sindaca di Perugia per il Nobel della pace ai bambini di Gaza",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/13/appello-della-sindaca-di-perugia-per-il-nobel-della-pace-ai-bambini-di-gaza_17f5202e-5768-4c1f-bc01-1b37b92606ea.html",
+     "data": "2026-08-13T12:53:28+00:00"
+    },
     {
      "titolo": "Melasecche, Proietti dica dove è il progetto per la stazione di Collestrada",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/13/melasecche-proietti-dica-dove-e-il-progetto-per-la-stazione-di-collestrada_114fab8e-1ea0-47df-884d-21db99e2afd1.html",
@@ -94,37 +119,47 @@
      "titolo": "Raggiunti i 41 gradi nell'orvietano, continua l'ondata di caldo sull'Umbria",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/12/raggiunti-i-41-gradi-nellorvietano-continua-londata-di-caldo-sullumbria_52c0ee16-2504-4ae6-8520-a2ddc0f84c4c.html",
      "data": "2026-08-12T14:58:38+00:00"
-    },
-    {
-     "titolo": "Una squadra calcistica del Ghana in ritiro a Monteleone di Spoleto",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/12/una-squadra-calcistica-del-ghana-in-ritiro-a-monteleone-di-spoleto_ca9c2302-a20d-4d96-8742-bd8df4b1cad7.html",
-     "data": "2026-08-12T14:57:18+00:00"
-    },
-    {
-     "titolo": "Proietti, Sant'Anna di Stazzema impone di ricordare le vittime del nazifascismo",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/12/proietti-santanna-di-stazzema-impone-di-ricordare-le-vittime-del-nazifascismo_305095db-47b4-48e4-bd1b-a5ae1245d919.html",
-     "data": "2026-08-12T13:07:03+00:00"
-    },
-    {
-     "titolo": "Fit Cisl Umbria e Fast ferrovie, fermare le aggressioni al personale dei trasporti",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/12/fit-cisl-umbria-e-fast-ferrovie-fermare-le-aggressioni-al-personale-dei-trasporti_1fe03412-a72b-47d6-b4ca-662718e638a4.html",
-     "data": "2026-08-12T15:14:27+00:00"
-    },
-    {
-     "titolo": "Anziani 'vulnerabili' per il caldo anche dal punto di vista cardiologico",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/12/anziani-vulnerabili-per-il-caldo-anche-dal-punto-di-vista-cardiologico_58344349-150a-44c1-bc08-4d21b4cbd26e.html",
-     "data": "2026-08-12T11:01:42+00:00"
-    },
-    {
-     "titolo": "La cardiologa Filippucci, ecco come allenare il cuore a questo caldo estremo",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/12/la-cardiologa-filippucci-ecco-come-allenare-il-cuore-a-questo-caldo-estremo_2fa15b36-6f25-466b-bbe2-2bb95f7db472.html",
-     "data": "2026-08-12T13:08:05+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "San Vito Lo Capo, un operaio e un soccorritore del 118 muoiono per esalazioni da un depuratore",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/san-vito-lo-capo-un-operaio-e-un-soccorritore-del-118-muoiono-per-esalazioni_fe212b0c-7c45-435f-8fe9-4fa861c6cfce.html",
+     "data": "2026-08-13T14:02:44+00:00"
+    },
+    {
+     "titolo": "Lavitola resta in carcere, gip respinge richiesta domiciliari",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/lavitola-resta-in-carcere-gip-respinge-richiesta-domiciliari_7f19b206-e1cb-4a68-8038-fb6b53173f1b.html",
+     "data": "2026-08-13T13:51:35+00:00"
+    },
+    {
+     "titolo": "Incendio ed esplosione in stabilimento ex Simmel Difesa a Colleferro",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/incendio-ed-esplosione-in-stabilimento-ex-simmel-difesa-a-colleferro_48352b9e-df7d-42d5-8aa4-69d8249fb02e.html",
+     "data": "2026-08-13T13:50:10+00:00"
+    },
+    {
+     "titolo": "Schianto aereo cargo algerino, vent'anni dopo Piacenza non dimentica",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/schianto-aereo-cargo-algerino-ventanni-dopo-piacenza-non-dimentica_1894dc6d-930f-43ad-b574-9653cb009b37.html",
+     "data": "2026-08-13T13:43:03+00:00"
+    },
+    {
+     "titolo": "Piantedosi, revocheremo stop Schengen solo con la fine totale dei rischi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/piantedosi-revocheremo-stop-schengen-solo-con-la-fine-totale-dei-rischi_b18a96fb-6fd0-405d-a1d4-af1515b24909.html",
+     "data": "2026-08-13T13:07:51+00:00"
+    },
+    {
+     "titolo": "Ranucci potrebbe essere sentito dai pm dopo analisi su cellulare Lavitola",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/ranucci-potrebbe-essere-sentito-dai-pm-dopo-analisi-su-cellulare-lavitola_00389d4b-5e25-49cf-949b-56ebea356180.html",
+     "data": "2026-08-13T12:51:48+00:00"
+    },
+    {
+     "titolo": "Coniugi trovati morti in casa a Rovigo, si indaga per omicidio colposo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/coniugi-trovati-morti-in-casa-a-rovigo-si-indaga-per-omicidio-colposo_c5a9b85e-951f-4a51-b0b9-c54f573bec02.html",
+     "data": "2026-08-13T12:45:33+00:00"
+    },
     {
      "titolo": "Nave con migranti in arrivo a Ravenna, il sindaco 'viaggio inumano'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/nave-con-migranti-in-arrivo-a-ravenna-il-sindaco-viaggio-inumano_7a4f4896-adc7-463b-95bc-2086d1834402.html",
@@ -141,55 +176,25 @@
      "data": "2026-08-13T12:08:04+00:00"
     },
     {
-     "titolo": "Lavitola al gip: \"Chiesi di sparare contro la villetta di Ranucci. Lo scoppio dell'ordigno fu comunque di valore dimostrativo\"",
+     "titolo": "'Chiesi di sparare contro la villetta di Ranucci'. Lavitola resta in carcere&nbsp;",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/lavitola-al-gip-chiesi-di-sparare-contro-la-villetta-di-ranucci.-lo-scoppio-dellordigno-fu-comunque_4bf17aff-92eb-4670-ae14-e130bd41e9d9.html",
-     "data": "2026-08-13T11:44:44+00:00"
+     "data": "2026-08-13T13:53:20+00:00"
     },
     {
      "titolo": "Lavitola al gip, 'chiesi di sparare contro la villetta di Ranucci'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/lavitola-al-gip-chiesi-di-sparare-contro-la-villetta-di-ranucci_ef174f00-14e8-4383-9c79-ecd4d21c9f8b.html",
      "data": "2026-08-13T11:42:27+00:00"
-    },
-    {
-     "titolo": "Picchiato a morte, uno dei ragazzi si vantata di 'avere ucciso un tossico'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/picchiato-a-morte-uno-dei-ragazzi-si-vantata-di-avere-ucciso-un-tossico_b07e3c15-fea2-4590-bfb5-328a43802edb.html",
-     "data": "2026-08-13T10:57:02+00:00"
-    },
-    {
-     "titolo": "Palio Siena, diocesi 'troppa libertà artistica in Madonna nel drappellone'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/palio-siena-diocesi-troppa-liberta-artistica-in-madonna-nel-drappellone_30ba8fe7-3085-4447-9c70-864376e0864f.html",
-     "data": "2026-08-13T10:48:22+00:00"
-    },
-    {
-     "titolo": "Arrestato cittadino azero in Italia, sarebbe stato ai vertici dell'intelligence",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/arrestato-cittadino-azero-in-italia-sarebbe-stato-ai-vertici-dellintelligence_b9193a23-e62c-42dd-b826-4f9e41a6665e.html",
-     "data": "2026-08-13T10:26:57+00:00"
-    },
-    {
-     "titolo": "Esalazioni da depuratore, morti un operaio e un soccorritore del 118",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/esalazioni-da-depuratore-morti-un-operaio-e-un-soccorritore-del-118_a0cc5c8a-53ff-424f-8ac8-813f85e58f59.html",
-     "data": "2026-08-13T10:05:39+00:00"
-    },
-    {
-     "titolo": "Esalazioni dal depuratore, morti un operaio e un soccorritore del 118",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/esalazioni-dal-depuratore-morti-un-operaio-e-un-soccorritore-del-118_fe212b0c-7c45-435f-8fe9-4fa861c6cfce.html",
-     "data": "2026-08-13T11:35:23+00:00"
-    },
-    {
-     "titolo": "Incendi nel Vco non ancora sotto controllo, si proteggono le abitazioni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/incendi-nel-vco-non-ancora-sotto-controllo-si-proteggono-le-abitazioni_ec0f0963-7615-45de-aec5-c9477aaae657.html",
-     "data": "2026-08-13T09:40:03+00:00"
-    },
-    {
-     "titolo": "Spara contro l'ex compagna, la donna è in ospedale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/spara-contro-lex-compagna-la-donna-e-in-ospedale_203638cf-9d01-4399-8904-ffcf480989c0.html",
-     "data": "2026-08-13T09:13:45+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Piantedosi: 'Revocheremo lo stop a Schengen solo con la fine totale dei rischi'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/13/schengen-laudizione-del-ministro-piantedosi_09eb6109-df15-4976-a0db-203b1027ebbb.html",
+     "data": "2026-08-13T14:04:36+00:00"
+    },
     {
      "titolo": "Salvini torna a Bollate, quarta visita al gioielliere Roggero",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/13/salvini-torna-a-bollate-quarta-visita-al-gioielliere-roggero_fe326225-7465-47e6-8b5b-e122d23f201d.html",
@@ -221,6 +226,16 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Salvini accelera per contributo genitori separati entro 2026",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/salvini-accelera-per-contributo-genitori-separati-entro-2026_5eac5d56-c3c6-4ffe-8dce-83722e1422a4.html",
+     "data": "2026-08-13T13:26:38+00:00"
+    },
+    {
+     "titolo": "Il petrolio frena a New York, cede più del 2%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/il-petrolio-frena-a-new-york-cede-piu-del-2_37ab3ead-7734-4dab-8bb9-4c36f188c298.html",
+     "data": "2026-08-13T13:04:17+00:00"
+    },
+    {
      "titolo": "Borsa: Europa in rialzo, Londra frenata dai minerari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/borsa-europa-in-rialzo-londra-frenata-dai-minerari_e43b6ca6-99a6-4745-abe8-a7b312521e57.html",
      "data": "2026-08-13T12:05:46+00:00"
@@ -233,7 +248,7 @@
     {
      "titolo": "Ferragosto salato per chi si sposta in auto, pieno di gasolio costa il 27,6% in più",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/ferragosto-salato-per-chi-si-sposta-in-auto-pieno-di-gasolio-costa-il-276_7fa98f4b-bbc4-4fe8-9345-a62d84c80d3d.html",
-     "data": "2026-08-13T11:27:41+00:00"
+     "data": "2026-08-13T12:39:18+00:00"
     },
     {
      "titolo": "De Nora installa un elettrolizzatore da 1 Mw in Maffei Sarda Silicati",
@@ -248,7 +263,7 @@
     {
      "titolo": "Terna, a luglio record assoluto della domanda di elettricità",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/terna-a-luglio-record-assoluto-della-domanda-di-elettricita_ef3ca3ee-9835-4f45-b5ba-8a7cfd08f491.html",
-     "data": "2026-08-13T10:54:10+00:00"
+     "data": "2026-08-13T13:13:59+00:00"
     },
     {
      "titolo": "Fipe-Confcommercio, Ferragosto d'oro per ristorazione, a tavola spesa supera miliardo",
@@ -269,16 +284,6 @@
      "titolo": "Minimo nell'Ue per la produzione di elettricità col carbone, sorpassata da solare",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/minimo-nellue-per-la-produzione-di-elettricita-col-carbone-sorpassata-da-solare_d8280bd4-02f3-43a8-abf1-ae63cd6d05b2.html",
      "data": "2026-08-13T10:06:10+00:00"
-    },
-    {
-     "titolo": "Codacons, rincari sospetti su costi autonoleggio all'aeroporto di Catania",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/codacons-rincari-sospetti-su-costi-autonoleggio-allaeroporto-di-catania_90725896-7e9b-4f93-8a7c-a0e27c42f933.html",
-     "data": "2026-08-13T10:02:05+00:00"
-    },
-    {
-     "titolo": "Consulenti Lavoro, 'Italia e Spagna al top per occupazione, ma è diversa la qualità'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/consulenti-lavoro-italia-e-spagna-al-top-per-occupazione-ma-e-diversa-la-qualita_047a69e0-708b-4762-915b-0a41ca4efb94.html",
-     "data": "2026-08-13T10:04:24+00:00"
     }
    ]
   },
@@ -286,14 +291,39 @@
    "nome": "Mondo",
    "voci": [
     {
-     "titolo": "La Groenlandia blocca compagnia petrolifera Usa pronta a trivellare",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/la-groenlandia-blocca-compagnia-petrolifera-usa-pronta-a-trivellare_1ec4c336-179a-4f3a-a278-cca5895ad660.html",
-     "data": "2026-08-13T12:28:04+00:00"
+     "titolo": "Un altro immigrato muore in un centro di detenzione Ice in New Jersey",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/un-altro-immigrato-muore-in-un-centro-di-detenzione-ice-in-new-jersey_de9c89aa-7194-480e-a05f-5aa36a4cf520.html",
+     "data": "2026-08-13T14:09:18+00:00"
+    },
+    {
+     "titolo": "Brasile, Lula e Bolsonaro aprono la campagna elettorale domenica",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/brasile-lula-e-bolsonaro-aprono-la-campagna-elettorale-domenica_c3cce26d-56b1-4871-966b-c719f8a3973c.html",
+     "data": "2026-08-13T13:44:44+00:00"
+    },
+    {
+     "titolo": "Trump pizzicato di nuovo a sonnecchiare, video virale scatena teorie complotto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/trump-pizzicato-di-nuovo-a-sonnecchiare-video-virale-scatena-teorie-complotto_55dc1376-0eb9-470a-8395-56d61d0884fa.html",
+     "data": "2026-08-13T13:30:11+00:00"
+    },
+    {
+     "titolo": "Esplosione nel porto di Rotterdam, almeno un morto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/esplosione-nel-porto-di-rotterdam-almeno-un-morto_4bc57724-0574-4659-bbd2-6b9d8ee4ca53.html",
+     "data": "2026-08-13T13:35:11+00:00"
+    },
+    {
+     "titolo": "Colombia, unità cinofile in azione 'fino all'ultimo sopravvissuto'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/colombia-unita-cinofile-in-azione-fino-allultimo-sopravvissuto_832ce227-b2f3-484c-9dad-29bd63b9ddcd.html",
+     "data": "2026-08-13T12:38:06+00:00"
     },
     {
      "titolo": "La Groenlandia blocca compagnia petrolifera Usa pronta a trivellare",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/la-groenlandia-blocca-compagnia-petrolifera-usa-pronta-a-trivellare_8c5c072d-b893-4ffb-8d53-c0e50ae3a038.html",
      "data": "2026-08-13T12:28:18+00:00"
+    },
+    {
+     "titolo": "La Groenlandia blocca una compagnia petrolifera Usa pronta a trivellare",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/la-groenlandia-blocca-compagnia-petrolifera-usa-pronta-a-trivellare_1ec4c336-179a-4f3a-a278-cca5895ad660.html",
+     "data": "2026-08-13T13:14:47+00:00"
     },
     {
      "titolo": "Media, Idf revoca ordine evacuazione a famiglie palestinesi assediate a Qusra",
@@ -319,31 +349,6 @@
      "titolo": "Tokyo convoca l'ambasciatore russo dopo la visita di Putin alle isole contese",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/13/tokyo-convoca-lambasciatore-russo-dopo-la-visita-di-putin-alle-isole-contese_de307d25-95a3-414b-b2df-407e74a5393d.html",
      "data": "2026-08-13T09:59:51+00:00"
-    },
-    {
-     "titolo": "Colombia, il calciatore Luis Díaz invierà aiuti ai terremotati",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/colombia-il-calciatore-luis-diaz-inviera-aiuti-ai-terremotati_4f8d10f0-c9e0-48ea-a600-db3aef9ac0fd.html",
-     "data": "2026-08-13T09:42:26+00:00"
-    },
-    {
-     "titolo": "Media, Idf evacua Qusra per un'operazione militare che durerà diversi giorni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/13/media-idf-evacua-qusra-per-unoperazione-militare-che-durera-diversi_2878f4a4-6933-4af8-b677-88af7e742f45.html",
-     "data": "2026-08-13T09:33:45+00:00"
-    },
-    {
-     "titolo": "Brasile, Flavio Bolsonaro vuole vietare la rielezione presidenziale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/brasile-flavio-bolsonaro-vuole-vietare-la-rielezione-presidenziale_2bb4f27c-d99f-4510-a1ee-d106851436fe.html",
-     "data": "2026-08-13T07:56:47+00:00"
-    },
-    {
-     "titolo": "Un bar nello storico cimitero dove riposa anche Evita, polemiche in Argentina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/un-bar-nello-storico-cimitero-dove-riposa-anche-evita-polemiche-in-argentina_16073f0a-2076-4960-be32-12cb7df60993.html",
-     "data": "2026-08-13T07:27:53+00:00"
-    },
-    {
-     "titolo": "In Cile è ora consentito il controllo degli zaini nelle scuole",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/in-cile-e-ora-consentito-il-controllo-degli-zaini-nelle-scuole_065a599d-7ae2-4811-abab-249dba00605f.html",
-     "data": "2026-08-13T07:25:40+00:00"
     }
    ]
   },
@@ -416,6 +421,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "L'Olanda sceglie Xavi, quella lunga storia tra Orange e Barcellona",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/lolanda-sceglie-xavi-quella-lunga-storia-tra-orange-e-barcellona_8d548141-5fc8-4308-8172-3d33c19ef052.html",
+     "data": "2026-08-13T13:58:26+00:00"
+    },
+    {
+     "titolo": "Calcio: Gaetano 'Atalanta ambiziosa, sento il peso delle responsabilità'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/calcio-gaetano-atalanta-ambiziosa-sento-il-peso-delle-responsabilita_6bb6f203-744e-4664-ac27-6482a34c732a.html",
+     "data": "2026-08-13T13:34:41+00:00"
+    },
+    {
+     "titolo": "Europei atletica: Dezza e il taglio a X da matricola, 'me lo ha fatto Tamberi'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/13/europei-atletica-dezza-e-il-taglio-a-x-da-matricola-me-lo-ha-fatto-tamberi_7b6ae865-b264-48a5-8efa-690e2ee2860c.html",
+     "data": "2026-08-13T13:32:02+00:00"
+    },
+    {
+     "titolo": "Giuntoli, 'Sarri è il primo e più grande acquisto dell'Atalanta'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/giuntoli-sarri-e-il-primo-e-piu-grande-acquisto-dellatalanta_626d71a3-3c5e-4490-97a6-38f95351c1f3.html",
+     "data": "2026-08-13T13:29:48+00:00"
+    },
+    {
      "titolo": "Cardinale a Milanello, in programma summit di mercato con Amorim",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/cardinale-a-milanello-in-programma-summit-di-mercato-con-amorim_eee64003-e3af-4d31-9a74-6402cf9bd2d1.html",
      "data": "2026-08-13T11:58:15+00:00"
@@ -454,26 +479,6 @@
      "titolo": "Ceccon si qualifica per la semifinale dei 50 dorso",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/ceccon-si-qualifica-per-la-semifinale-dei-50-dorso_6e4093d2-30d4-4990-b291-d555e936cb66.html",
      "data": "2026-08-13T08:50:12+00:00"
-    },
-    {
-     "titolo": "Xavi è il nuovo commissario tecnico dell'Olanda",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/xavi-e-il-nuovo-commissario-tecnico-dellolanda_f465742e-e63c-4038-924c-d55700dbf827.html",
-     "data": "2026-08-13T07:37:22+00:00"
-    },
-    {
-     "titolo": "Montreal, Shelton elimina Tien e vola in finale",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/13/montreal-shelton-elimina-tien-e-vola-in-finale_b458a56d-d682-4929-885d-53062bfad9e8.html",
-     "data": "2026-08-13T07:21:03+00:00"
-    },
-    {
-     "titolo": "Messi torna in campo dopo la morte del padre ma il Miami viene eliminato",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/messi-torna-in-campo-dopo-la-morte-del-padre-ma-il-miami-viene-eliminato_ae494f71-a809-4254-a87c-6a2871028cf9.html",
-     "data": "2026-08-13T06:33:12+00:00"
-    },
-    {
-     "titolo": "Nba: il re delle triple doppie Westbrook annuncia il ritiro dopo 18 stagioni",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/12/nba-il-re-delle-triple-doppie-westbrook-annuncia-il-ritiro-dopo-18-stagioni_3dd0b4fa-246b-4077-beb2-3ea4cd6741b4.html",
-     "data": "2026-08-12T21:14:35+00:00"
     }
    ]
   }
