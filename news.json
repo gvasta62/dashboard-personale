@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-13T15:27:07.855443+00:00",
+ "aggiornato": "2026-08-13T16:15:20.324004+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Wsj, 'gli Usa si apprestano ad inviare una nave per sostituire la Lincoln'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/wsj-gli-usa-si-apprestano-ad-inviare-una-nave-per-sostituire-la-lincoln_d718bd41-5210-4f9f-af6a-79196027a0c3.html",
+     "data": "2026-08-13T16:09:59+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund chiude in lieve calo a 76,4 punti base",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/lo-spread-tra-btp-e-bund-chiude-in-lieve-calo-a-764-punti-base_6fb0229a-32e2-4b1a-b028-779cbb208a01.html",
+     "data": "2026-08-13T16:10:02+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa conclude piatta, Londra debole (-0,6%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/borsa-leuropa-conclude-piatta-londra-debole-06_79b61322-1d3f-4589-8429-a95b2c68db8b.html",
+     "data": "2026-08-13T15:46:05+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude incerta, Ftse Mib -0,01%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/borsa-milano-chiude-incerta-ftse-mib-001_0e6d80df-81a4-427d-8635-d162c19f5b7e.html",
+     "data": "2026-08-13T15:41:43+00:00"
+    },
     {
      "titolo": "Esplosione nel porto di Rotterdam, almeno un morto",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/esplosione-nel-porto-di-rotterdam-almeno-un-morto_67a0f10d-09df-4cb0-8525-37dd8a8785b2.html",
@@ -34,26 +54,6 @@
      "titolo": "Ranucci potrebbe essere sentito dai pm dopo analisi su cellulare Lavitola",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/ranucci-potrebbe-essere-sentito-dai-pm-dopo-analisi-su-cellulare-lavitola_d3b6c006-fa6e-42d9-9d0e-0e78bb3274f9.html",
      "data": "2026-08-13T12:51:49+00:00"
-    },
-    {
-     "titolo": "La Groenlandia blocca compagnia petrolifera Usa pronta a trivellare",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/la-groenlandia-blocca-compagnia-petrolifera-usa-pronta-a-trivellare_e0b57086-6dff-4fe6-9168-07c0d9e8e9ce.html",
-     "data": "2026-08-13T12:28:01+00:00"
-    },
-    {
-     "titolo": "Lavitola al gip, 'chiesi di sparare contro la villetta di Ranucci'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/lavitola-al-gip-chiesi-di-sparare-contro-la-villetta-di-ranucci_b8a90267-e760-4247-8c95-02b541a0458f.html",
-     "data": "2026-08-13T11:42:24+00:00"
-    },
-    {
-     "titolo": "Ferragosto salato per chi si sposta in auto, pieno di gasolio costa il 27,6% in più",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/ferragosto-salato-per-chi-si-sposta-in-auto-pieno-di-gasolio-costa-il-276_73c1bc22-ee2f-471b-98b4-8f6677b84738.html",
-     "data": "2026-08-13T11:27:21+00:00"
-    },
-    {
-     "titolo": "Media, Idf revoca ordine evacuazione a famiglie palestinesi assediate a Qusra",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/media-idf-revoca-ordine-evacuazione-a-famiglie-palestinesi-assediate-a-qusra_bd14ff02-11d6-4427-8763-06e9604f01e7.html",
-     "data": "2026-08-13T11:06:11+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Condé Nast Traveler, Praiano è il borgo più bello del mondo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/conde-nast-traveler-praiano-e-il-borgo-piu-bello-del-mondo_1ef528f8-e55c-40b3-8057-ada287031335.html",
+     "data": "2026-08-13T15:59:07+00:00"
+    },
+    {
+     "titolo": "L'eclissi nei bioparchi, giraffe e primati tra curiosità e agitazione",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/leclissi-nei-bioparchi-giraffe-e-primati-tra-curiosita-e-agitazione_96528102-550e-4b65-80de-ce5ba79dfaf0.html",
+     "data": "2026-08-13T15:22:21+00:00"
+    },
+    {
+     "titolo": "Tra le carte dell'attentato a Ranucci le indagini sui Cantieri Vittoria",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/tra-le-carte-dellattentato-a-ranucci-le-indagini-sui-cantieri-vittoria_b8fbf093-2343-4b7e-9d4b-aaa0859167fb.html",
+     "data": "2026-08-13T15:22:07+00:00"
+    },
+    {
      "titolo": "Esalazioni da un depuratore, morti un operaio e un soccorritore",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/esalazioni-da-un-depuratore-morti-un-operaio-e-un-soccorritore_fe212b0c-7c45-435f-8fe9-4fa861c6cfce.html",
      "data": "2026-08-13T15:08:06+00:00"
@@ -141,9 +156,9 @@
      "data": "2026-08-13T13:51:35+00:00"
     },
     {
-     "titolo": "Incendio ed esplosione in una fabbrica di munizioni a Colleferro",
+     "titolo": "Incendio ed esplosione in una fabbrica di munizioni a Colleferro. Il video dello scoppio",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/incendio-ed-esplosione-in-stabilimento-ex-simmel-difesa-a-colleferro_48352b9e-df7d-42d5-8aa4-69d8249fb02e.html",
-     "data": "2026-08-13T15:18:33+00:00"
+     "data": "2026-08-13T15:50:45+00:00"
     },
     {
      "titolo": "Schianto aereo cargo algerino, vent'anni dopo Piacenza non dimentica",
@@ -169,27 +184,17 @@
      "titolo": "Nave con migranti in arrivo a Ravenna, il sindaco: 'Viaggio inumano'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/nave-con-migranti-in-arrivo-a-ravenna-il-sindaco-viaggio-inumano_7a4f4896-adc7-463b-95bc-2086d1834402.html",
      "data": "2026-08-13T15:06:23+00:00"
-    },
-    {
-     "titolo": "Folla per l'addio a 'Jack', migliora il 13enne che ha tentato di salvare",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/folla-per-laddio-a-jack-migliora-il-13enne-che-ha-tentato-di-salvare_a34fcb45-cfb6-4945-9aa5-65b6fd03c513.html",
-     "data": "2026-08-13T12:09:50+00:00"
-    },
-    {
-     "titolo": "Sindaco San Vito Lo Capo, 'due vittime, tragedia inaccettabile'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/sindaco-san-vito-lo-capo-due-vittime-tragedia-inaccettabile_760db3d7-78fb-4e2f-af57-3f6fadcdb19b.html",
-     "data": "2026-08-13T12:08:04+00:00"
-    },
-    {
-     "titolo": "'Chiesi di sparare contro la villetta di Ranucci, non una bomba'. Lavitola resta in carcere",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/lavitola-al-gip-chiesi-di-sparare-contro-la-villetta-di-ranucci.-lo-scoppio-dellordigno-fu-comunque_4bf17aff-92eb-4670-ae14-e130bd41e9d9.html",
-     "data": "2026-08-13T14:15:40+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Sondaggio Scenari Politici su Milano, Majorino e Calabresi staccano Lupi",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/13/sondaggio-scenari-politici-su-milano-majorino-e-calabresi-staccano-lupi_c9b12bbb-6dbc-43c1-93c6-ff00486e752b.html",
+     "data": "2026-08-13T15:37:26+00:00"
+    },
     {
      "titolo": "Piantedosi: 'Revocheremo lo stop a Schengen solo con la fine totale dei rischi'. Madrid, controllati oltre 3000 viaggiatori dall'Italia",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/13/schengen-laudizione-del-ministro-piantedosi_09eb6109-df15-4976-a0db-203b1027ebbb.html",
@@ -225,6 +230,16 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: l'Europa conclude piatta, Londra debole (-0,6%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/borsa-leuropa-conclude-piatta-londra-debole-06_66df8baa-e974-48d2-b578-4c1f74a153d1.html",
+     "data": "2026-08-13T15:46:02+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude incerta, Ftse Mib -0,01%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/borsa-milano-chiude-incerta-ftse-mib-001_ae09ec69-d14c-442d-a0b0-d09572f692c7.html",
+     "data": "2026-08-13T15:41:40+00:00"
+    },
     {
      "titolo": "Borsa: Milano piatta (+0,3%) con l'Europa dopo l'avvio di Wall street, bene Nexi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/borsa-milano-piatta-03-con-leuropa-dopo-lavvio-di-wall-street-bene_3eb3b8dc-5fdb-45f6-8215-aad47826994f.html",
@@ -274,22 +289,32 @@
      "titolo": "Fipe-Confcommercio, Ferragosto d'oro per ristorazione, a tavola spesa supera miliardo",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/fipe-confcommercio-ferragosto-doro-per-ristorazione-a-tavola-spesa-supera-miliardo_0dbea935-afa8-4ba1-9d1c-55fe4e139bba.html",
      "data": "2026-08-13T10:09:51+00:00"
-    },
-    {
-     "titolo": "Bce, il contante resta il metodo di pagamento più accettato nell'Eurozona",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/bce-il-contante-resta-il-metodo-di-pagamento-piu-accettato-nelleurozona_77e0e147-df97-4450-a7a4-72ebabcd8408.html",
-     "data": "2026-08-13T10:01:21+00:00"
-    },
-    {
-     "titolo": "Confcooperative, 2 italiani su 10 si indebitano per partire a Ferragosto",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/confcooperative-2-italiani-su-10-si-indebitano-per-partire-a-ferragosto_0f35f516-e288-4c03-a8cb-46c7d742c91b.html",
-     "data": "2026-08-13T10:03:34+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Hegseth, 'Usa possono mantenere il blocco navale contro l'Iran a tempo indeterminato'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/hegseth-usa-possono-mantenere-il-blocco-navale-contro-liran-a-tempo-indeterminato_03c8a90c-a82b-46ec-b2e8-e63c52deca81.html",
+     "data": "2026-08-13T16:11:43+00:00"
+    },
+    {
+     "titolo": "Wsj, 'gli Usa si apprestano ad inviare una nave per sostituire la Lincoln'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/wsj-gli-usa-si-apprestano-ad-inviare-una-nave-per-sostituire-la-lincoln_4c138f33-73b1-4828-b5cf-435271e8a7b0.html",
+     "data": "2026-08-13T16:10:17+00:00"
+    },
+    {
+     "titolo": "Dopo oltre due mesi Raul Castro riappare in pubblico per i 100 anni di Fidel",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/dopo-oltre-due-mesi-raul-castro-riappare-in-pubblico-per-i-100_715e1c9e-6e22-444b-bb04-3d75f79de878.html",
+     "data": "2026-08-13T15:34:28+00:00"
+    },
+    {
+     "titolo": "Trump pizzicato di nuovo a sonnecchiare, video virale scatena teorie complotto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/trump-pizzicato-di-nuovo-a-sonnecchiare-video-virale-scatena-teorie-complotto_34cd9cb1-962f-44fd-be23-a7274deeda48.html",
+     "data": "2026-08-13T15:22:18+00:00"
+    },
     {
      "titolo": "Esplosione nel porto di Rotterdam, almeno un morto",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/esplosione-nel-porto-di-rotterdam-almeno-un-morto_c602813e-f872-4536-8f2d-2f981bd9dac4.html",
@@ -329,26 +354,6 @@
      "titolo": "Colombia, unità cinofile in azione 'fino all'ultimo sopravvissuto'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/colombia-unita-cinofile-in-azione-fino-allultimo-sopravvissuto_832ce227-b2f3-484c-9dad-29bd63b9ddcd.html",
      "data": "2026-08-13T12:38:06+00:00"
-    },
-    {
-     "titolo": "La Groenlandia blocca compagnia petrolifera Usa pronta a trivellare",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/la-groenlandia-blocca-compagnia-petrolifera-usa-pronta-a-trivellare_8c5c072d-b893-4ffb-8d53-c0e50ae3a038.html",
-     "data": "2026-08-13T12:28:18+00:00"
-    },
-    {
-     "titolo": "La Groenlandia blocca una compagnia petrolifera Usa pronta a trivellare",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/la-groenlandia-blocca-compagnia-petrolifera-usa-pronta-a-trivellare_1ec4c336-179a-4f3a-a278-cca5895ad660.html",
-     "data": "2026-08-13T13:14:47+00:00"
-    },
-    {
-     "titolo": "Media, Idf revoca ordine evacuazione a famiglie palestinesi assediate a Qusra",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/13/media-idf-revoca-ordine-evacuazione-a-famiglie-palestinesi-assediate-a-qusra_7d236e98-5424-4b8b-8234-e25a60393e1b.html",
-     "data": "2026-08-13T11:06:30+00:00"
-    },
-    {
-     "titolo": "Rabat minaccia di sospendere l'accordo di estradizione con Madrid",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/rabat-minaccia-di-sospendere-laccordo-di-estradizione-con-madrid_6bb6a21e-591a-4548-9bbf-7821630fee42.html",
-     "data": "2026-08-13T11:33:38+00:00"
     }
    ]
   },
@@ -421,6 +426,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Vlahovic saluta la Juve, 'difficile trovare le parole giuste'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/vlahovic-saluta-la-juve-difficile-trovare-le-parole-giuste_3dc019a1-90c3-486a-b7d5-655285eafd1a.html",
+     "data": "2026-08-13T16:09:53+00:00"
+    },
+    {
+     "titolo": "Coppa Italia: Pisacane, 'con l'Arezzo si inizia a fare sul serio'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/coppa-italia-pisacane-con-larezzo-si-inizia-a-fare-sul-serio_29d2589d-0854-48e9-982f-a1e3e37e6a2a.html",
+     "data": "2026-08-13T15:21:14+00:00"
+    },
+    {
      "titolo": "Calcio: Cagliari, Esposito non c'è e presenta un nuovo certificato medico",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/calcio-cagliari-esposito-non-ce-e-presenta-un-nuovo-certificato-medico_f4ee44bb-afa0-4e3a-a0c0-40ccf8f962e4.html",
      "data": "2026-08-13T15:02:05+00:00"
@@ -469,16 +484,6 @@
      "titolo": "Grosso, 'felici di lavorare in mezzo a tanto entusiasmo'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/grosso-felici-di-lavorare-in-mezzo-a-tanto-entusiasmo_62a5d16b-b681-4051-8c8b-6a53b44abeae.html",
      "data": "2026-08-13T11:35:38+00:00"
-    },
-    {
-     "titolo": "Messi torna in campo dopo la morte del padre, ovazione dei tifosi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/messi-torna-in-campo-dopo-la-morte-del-padre-ovazione-dei-tifosi_2ccf7636-a415-4fc4-9da5-eef8ad0186ba.html",
-     "data": "2026-08-13T10:35:34+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Quadarella in finale dei 1500 sl con il miglior tempo",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/europei-nuoto-quadarella-in-finale-dei-1500-sl-con-il-miglior-tempo_d7d7392d-75cb-4483-ac2b-5ac99a50dcb0.html",
-     "data": "2026-08-13T10:18:18+00:00"
     }
    ]
   }
