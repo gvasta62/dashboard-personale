@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-13T14:11:49.491126+00:00",
+ "aggiornato": "2026-08-13T15:27:07.855443+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Esplosione nel porto di Rotterdam, almeno un morto",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/esplosione-nel-porto-di-rotterdam-almeno-un-morto_67a0f10d-09df-4cb0-8525-37dd8a8785b2.html",
+     "data": "2026-08-13T15:12:31+00:00"
+    },
+    {
+     "titolo": "Esercito iraniano, 'il passaggio da Hormuz resta sotto il nostro controllo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/esercito-iraniano-il-passaggio-da-hormuz-resta-sotto-il-nostro-controllo_043264aa-ed1e-4742-bc06-76e06797b0b9.html",
+     "data": "2026-08-13T15:10:07+00:00"
+    },
     {
      "titolo": "Lavitola resta in carcere, gip respinge richiesta domiciliari",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/lavitola-resta-in-carcere-gip-respinge-richiesta-domiciliari_5078d52e-1e63-4a22-bf26-16c28d7fd00f.html",
@@ -44,22 +54,22 @@
      "titolo": "Media, Idf revoca ordine evacuazione a famiglie palestinesi assediate a Qusra",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/media-idf-revoca-ordine-evacuazione-a-famiglie-palestinesi-assediate-a-qusra_bd14ff02-11d6-4427-8763-06e9604f01e7.html",
      "data": "2026-08-13T11:06:11+00:00"
-    },
-    {
-     "titolo": "Rabat minaccia di sospendere l'accordo di estradizione con Madrid",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/rabat-minaccia-di-sospendere-laccordo-di-estradizione-con-madrid_5489e964-9635-40bd-9724-0e6e1e532be7.html",
-     "data": "2026-08-13T11:02:27+00:00"
-    },
-    {
-     "titolo": "Mosca, militare russo ucciso in un attentato in Crimea",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/mosca-militare-russo-ucciso-in-un-attentato-in-crimea_a07ed888-f933-4161-8c17-43efcb500139.html",
-     "data": "2026-08-13T10:56:45+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Prefetto Terni richiama il Consiglio comunale al 'contegno'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/13/prefetto-terni-richiama-il-consiglio-comunale-al-contegno_df2cf243-b825-4d98-8f66-012c02d45fab.html",
+     "data": "2026-08-13T15:17:44+00:00"
+    },
+    {
+     "titolo": "Garlasco secondo l'intelligenza artificiale in un libro di un giornalista umbro",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/13/garlasco-secondo-lintelligenza-artificiale-in-un-libro-di-un-giornalista-umbro_074ba016-c76d-4bd7-8518-88d77118d576.html",
+     "data": "2026-08-13T15:17:57+00:00"
+    },
     {
      "titolo": "A Gualdo Tadino il teatro accende i riflettori sull'universo femminile",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/13/a-gualdo-tadino-il-teatro-accende-i-riflettori-sulluniverso-femminile_bd0ef4c8-45ea-491f-9b01-8dd32e7ff42f.html",
@@ -109,16 +119,6 @@
      "titolo": "Al Calvi Festival arriva 'Rock opera evolution '70'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/12/al-calvi-festival-arriva-rock-opera-evolution-70_a317eab4-6900-48b5-991f-c1b815ffefe1.html",
      "data": "2026-08-12T16:04:30+00:00"
-    },
-    {
-     "titolo": "Il musicista Maurizio Mastrini torna a esibirsi nella sua Piegaro",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/12/il-musicista-maurizio-mastrini-torna-a-esibirsi-nella-sua-piegaro_46e57d74-4954-4728-ad37-5336a64ae09c.html",
-     "data": "2026-08-12T15:12:21+00:00"
-    },
-    {
-     "titolo": "Raggiunti i 41 gradi nell'orvietano, continua l'ondata di caldo sull'Umbria",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/12/raggiunti-i-41-gradi-nellorvietano-continua-londata-di-caldo-sullumbria_52c0ee16-2504-4ae6-8520-a2ddc0f84c4c.html",
-     "data": "2026-08-12T14:58:38+00:00"
     }
    ]
   },
@@ -126,9 +126,14 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "San Vito Lo Capo, un operaio e un soccorritore del 118 muoiono per esalazioni da un depuratore",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/san-vito-lo-capo-un-operaio-e-un-soccorritore-del-118-muoiono-per-esalazioni_fe212b0c-7c45-435f-8fe9-4fa861c6cfce.html",
-     "data": "2026-08-13T14:02:44+00:00"
+     "titolo": "Esalazioni da un depuratore, morti un operaio e un soccorritore",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/esalazioni-da-un-depuratore-morti-un-operaio-e-un-soccorritore_fe212b0c-7c45-435f-8fe9-4fa861c6cfce.html",
+     "data": "2026-08-13T15:08:06+00:00"
+    },
+    {
+     "titolo": "Crans-Montana, dimessa anche l'ultima paziente ricoverata a Milano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/crans-montana-dimessa-anche-lultima-paziente-ricoverata-a-milano_a4b082b3-804c-418a-b5c4-75584c85db1a.html",
+     "data": "2026-08-13T15:01:51+00:00"
     },
     {
      "titolo": "Lavitola resta in carcere, gip respinge richiesta domiciliari",
@@ -136,9 +141,9 @@
      "data": "2026-08-13T13:51:35+00:00"
     },
     {
-     "titolo": "Incendio ed esplosione in stabilimento ex Simmel Difesa a Colleferro",
+     "titolo": "Incendio ed esplosione in una fabbrica di munizioni a Colleferro",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/incendio-ed-esplosione-in-stabilimento-ex-simmel-difesa-a-colleferro_48352b9e-df7d-42d5-8aa4-69d8249fb02e.html",
-     "data": "2026-08-13T13:50:10+00:00"
+     "data": "2026-08-13T15:18:33+00:00"
     },
     {
      "titolo": "Schianto aereo cargo algerino, vent'anni dopo Piacenza non dimentica",
@@ -161,9 +166,9 @@
      "data": "2026-08-13T12:45:33+00:00"
     },
     {
-     "titolo": "Nave con migranti in arrivo a Ravenna, il sindaco 'viaggio inumano'",
+     "titolo": "Nave con migranti in arrivo a Ravenna, il sindaco: 'Viaggio inumano'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/nave-con-migranti-in-arrivo-a-ravenna-il-sindaco-viaggio-inumano_7a4f4896-adc7-463b-95bc-2086d1834402.html",
-     "data": "2026-08-13T12:32:05+00:00"
+     "data": "2026-08-13T15:06:23+00:00"
     },
     {
      "titolo": "Folla per l'addio a 'Jack', migliora il 13enne che ha tentato di salvare",
@@ -176,14 +181,9 @@
      "data": "2026-08-13T12:08:04+00:00"
     },
     {
-     "titolo": "'Chiesi di sparare contro la villetta di Ranucci'. Lavitola resta in carcere&nbsp;",
+     "titolo": "'Chiesi di sparare contro la villetta di Ranucci, non una bomba'. Lavitola resta in carcere",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/lavitola-al-gip-chiesi-di-sparare-contro-la-villetta-di-ranucci.-lo-scoppio-dellordigno-fu-comunque_4bf17aff-92eb-4670-ae14-e130bd41e9d9.html",
-     "data": "2026-08-13T13:53:20+00:00"
-    },
-    {
-     "titolo": "Lavitola al gip, 'chiesi di sparare contro la villetta di Ranucci'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/lavitola-al-gip-chiesi-di-sparare-contro-la-villetta-di-ranucci_ef174f00-14e8-4383-9c79-ecd4d21c9f8b.html",
-     "data": "2026-08-13T11:42:27+00:00"
+     "data": "2026-08-13T14:15:40+00:00"
     }
    ]
   },
@@ -191,9 +191,9 @@
    "nome": "Politica",
    "voci": [
     {
-     "titolo": "Piantedosi: 'Revocheremo lo stop a Schengen solo con la fine totale dei rischi'",
+     "titolo": "Piantedosi: 'Revocheremo lo stop a Schengen solo con la fine totale dei rischi'. Madrid, controllati oltre 3000 viaggiatori dall'Italia",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/13/schengen-laudizione-del-ministro-piantedosi_09eb6109-df15-4976-a0db-203b1027ebbb.html",
-     "data": "2026-08-13T14:04:36+00:00"
+     "data": "2026-08-13T14:41:40+00:00"
     },
     {
      "titolo": "Salvini torna a Bollate, quarta visita al gioielliere Roggero",
@@ -225,6 +225,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: Milano piatta (+0,3%) con l'Europa dopo l'avvio di Wall street, bene Nexi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/borsa-milano-piatta-03-con-leuropa-dopo-lavvio-di-wall-street-bene_3eb3b8dc-5fdb-45f6-8215-aad47826994f.html",
+     "data": "2026-08-13T14:08:26+00:00"
+    },
     {
      "titolo": "Salvini accelera per contributo genitori separati entro 2026",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/salvini-accelera-per-contributo-genitori-separati-entro-2026_5eac5d56-c3c6-4ffe-8dce-83722e1422a4.html",
@@ -279,17 +284,27 @@
      "titolo": "Confcooperative, 2 italiani su 10 si indebitano per partire a Ferragosto",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/confcooperative-2-italiani-su-10-si-indebitano-per-partire-a-ferragosto_0f35f516-e288-4c03-a8cb-46c7d742c91b.html",
      "data": "2026-08-13T10:03:34+00:00"
-    },
-    {
-     "titolo": "Minimo nell'Ue per la produzione di elettricità col carbone, sorpassata da solare",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/minimo-nellue-per-la-produzione-di-elettricita-col-carbone-sorpassata-da-solare_d8280bd4-02f3-43a8-abf1-ae63cd6d05b2.html",
-     "data": "2026-08-13T10:06:10+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Esplosione nel porto di Rotterdam, almeno un morto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/esplosione-nel-porto-di-rotterdam-almeno-un-morto_c602813e-f872-4536-8f2d-2f981bd9dac4.html",
+     "data": "2026-08-13T15:12:31+00:00"
+    },
+    {
+     "titolo": "Esercito iraniano, 'il passaggio da Hormuz resta sotto il nostro controllo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/13/esercito-iraniano-il-passaggio-da-hormuz-resta-sotto-il-nostro-controllo_3f021431-87cf-4186-834d-aa614e69e954.html",
+     "data": "2026-08-13T15:10:10+00:00"
+    },
+    {
+     "titolo": "Lula celebra Fidel Castro, 'stimolo e saggezza nella mia vita politica'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/lula-celebra-fidel-castro-stimolo-e-saggezza-nella-mia-vita-politica_640d2e03-07fd-48e6-9b65-6966366f8575.html",
+     "data": "2026-08-13T14:43:37+00:00"
+    },
     {
      "titolo": "Un altro immigrato muore in un centro di detenzione Ice in New Jersey",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/un-altro-immigrato-muore-in-un-centro-di-detenzione-ice-in-new-jersey_de9c89aa-7194-480e-a05f-5aa36a4cf520.html",
@@ -334,21 +349,6 @@
      "titolo": "Rabat minaccia di sospendere l'accordo di estradizione con Madrid",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/rabat-minaccia-di-sospendere-laccordo-di-estradizione-con-madrid_6bb6a21e-591a-4548-9bbf-7821630fee42.html",
      "data": "2026-08-13T11:33:38+00:00"
-    },
-    {
-     "titolo": "Mosca, militare russo ucciso in un attentato in Crimea",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/mosca-militare-russo-ucciso-in-un-attentato-in-crimea_2101c819-c333-45bf-afdb-1131df7a1ec7.html",
-     "data": "2026-08-13T10:56:48+00:00"
-    },
-    {
-     "titolo": "Tokyo convoca l'ambasciatore russo dopo la visita di Putin alle isole contese",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/tokyo-convoca-lambasciatore-russo-dopo-la-visita-di-putin-alle-isole-contese_a7bb1a5a-8744-48ff-920a-dd54078fb40b.html",
-     "data": "2026-08-13T09:59:48+00:00"
-    },
-    {
-     "titolo": "Tokyo convoca l'ambasciatore russo dopo la visita di Putin alle isole contese",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/13/tokyo-convoca-lambasciatore-russo-dopo-la-visita-di-putin-alle-isole-contese_de307d25-95a3-414b-b2df-407e74a5393d.html",
-     "data": "2026-08-13T09:59:51+00:00"
     }
    ]
   },
@@ -421,6 +421,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: Cagliari, Esposito non c'è e presenta un nuovo certificato medico",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/calcio-cagliari-esposito-non-ce-e-presenta-un-nuovo-certificato-medico_f4ee44bb-afa0-4e3a-a0c0-40ccf8f962e4.html",
+     "data": "2026-08-13T15:02:05+00:00"
+    },
+    {
+     "titolo": "Calcio: la Caf difende Infantino, \"Dimissioni? Si attendano le elezioni Fifa\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/calcio-la-caf-difende-infantino-dimissioni-si-attendano-le-elezioni-fifa_17ce24b3-61d1-4bd0-94bb-355b4c8cf559.html",
+     "data": "2026-08-13T14:36:59+00:00"
+    },
+    {
      "titolo": "L'Olanda sceglie Xavi, quella lunga storia tra Orange e Barcellona",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/lolanda-sceglie-xavi-quella-lunga-storia-tra-orange-e-barcellona_8d548141-5fc8-4308-8172-3d33c19ef052.html",
      "data": "2026-08-13T13:58:26+00:00"
@@ -469,16 +479,6 @@
      "titolo": "Europei nuoto: Quadarella in finale dei 1500 sl con il miglior tempo",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/europei-nuoto-quadarella-in-finale-dei-1500-sl-con-il-miglior-tempo_d7d7392d-75cb-4483-ac2b-5ac99a50dcb0.html",
      "data": "2026-08-13T10:18:18+00:00"
-    },
-    {
-     "titolo": "Barthez nello staff di Zidane, sarà il preparatore dei portieri francesi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/barthez-nello-staff-di-zidane-sara-il-preparatore-dei-portieri-francesi_5bbdb341-4a56-4c0d-bd20-90ca7409a959.html",
-     "data": "2026-08-13T09:24:14+00:00"
-    },
-    {
-     "titolo": "Ceccon si qualifica per la semifinale dei 50 dorso",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/ceccon-si-qualifica-per-la-semifinale-dei-50-dorso_6e4093d2-30d4-4990-b291-d555e936cb66.html",
-     "data": "2026-08-13T08:50:12+00:00"
     }
    ]
   }
