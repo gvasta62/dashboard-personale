@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-13T20:26:26.265413+00:00",
+ "aggiornato": "2026-08-13T21:10:37.604052+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Europei atletica: 200 metri donne, oro all'inglese Amy Hunt",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/europei-atletica-200-metri-donne-oro-allinglese-amy-hunt_fe839d2f-c548-450c-881f-0433075da07a.html",
+     "data": "2026-08-13T21:07:40+00:00"
+    },
+    {
+     "titolo": "Europei atletica: Derkach 'è la serata più bella della mia carriera'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/europei-atletica-derkach-e-la-serata-piu-bella-della-mia-carriera_01ce7f2c-944a-4544-a116-efc5d09a44fe.html",
+     "data": "2026-08-13T20:55:22+00:00"
+    },
+    {
+     "titolo": "Europei atletica: Pernici quinto negli 800 metri",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/europei-atletica-pernici-quinto-negli-800-metri_74101a08-6131-4cc9-9b4a-f7a700aecd1d.html",
+     "data": "2026-08-13T20:48:16+00:00"
+    },
+    {
+     "titolo": "Europei atletica: oro Derkach nel salto triplo donne",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/europei-atletica-oro-derkach-nel-salto-triplo-donne_c0fb8539-f88f-4e4e-8a90-0478dfccbb8a.html",
+     "data": "2026-08-13T20:26:30+00:00"
+    },
     {
      "titolo": "Europei nuoto: Meloni videochiama Curtis 'Congratulazionissime! Tanto, tanto orgoglio'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/europei-nuoto-meloni-videochiama-curtis-congratulazionissime-tanto-tanto-orgoglio_bf199d9c-6198-4536-9353-d8e6513e1ee5.html",
@@ -34,26 +54,6 @@
      "titolo": "Europei nuoto: Curtis gioia pura 'è assurdo, un sogno e un obiettivo enorme'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/europei-nuoto-curtis-gioia-pura-e-assurdo-un-sogno-e-un-obiettivo-enorme_1af0e16b-3222-4cd6-89ce-59cfeb58e826.html",
      "data": "2026-08-13T16:51:32+00:00"
-    },
-    {
-     "titolo": "Giudice boccia causa per antisemitismo intentata da Trump contro Harvard",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/giudice-boccia-causa-per-antisemitismo-intentata-da-trump-contro-harvard_fff176cf-4aa0-49b8-8df1-bd514e539c63.html",
-     "data": "2026-08-13T16:29:53+00:00"
-    },
-    {
-     "titolo": "Il gas prosegue la seduta incerto a 60 euro al Megawattora",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/il-gas-prosegue-la-seduta-incerto-a-60-euro-al-megawattora_2186f367-8ffb-4b4a-baad-d594081dc237.html",
-     "data": "2026-08-13T16:12:47+00:00"
-    },
-    {
-     "titolo": "Wsj, 'gli Usa si apprestano ad inviare una nave per sostituire la Lincoln'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/wsj-gli-usa-si-apprestano-ad-inviare-una-nave-per-sostituire-la-lincoln_d718bd41-5210-4f9f-af6a-79196027a0c3.html",
-     "data": "2026-08-13T16:09:59+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude in lieve calo a 76,4 punti base",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/lo-spread-tra-btp-e-bund-chiude-in-lieve-calo-a-764-punti-base_6fb0229a-32e2-4b1a-b028-779cbb208a01.html",
-     "data": "2026-08-13T16:10:02+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "E' ancora emergenza per incendio in Carnia su Monte Amariana",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/e-ancora-emergenza-per-incendio-in-carnia-su-monte-amariana_4d6cb01d-c223-4b5d-9073-7d841636a58a.html",
+     "data": "2026-08-13T20:33:28+00:00"
+    },
+    {
+     "titolo": "La grigliata, la lite e le coltellate: un 18enne ucciso a Trani",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/la-grigliata-la-lite-e-le-coltellate-un-18enne-ucciso-a-trani_bcb72b07-ffe0-42d3-b36e-b05af291a9be.html",
+     "data": "2026-08-13T20:26:01+00:00"
+    },
+    {
      "titolo": "Garlasco ricorda Chiara Poggi con fiori bianchi e una Messa",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/garlasco-ricorda-chiara-poggi-con-fiori-bianchi-e-una-messa_2bec304b-d83d-4f24-9a3b-a280a75243ec.html",
      "data": "2026-08-13T19:39:59+00:00"
@@ -174,16 +184,6 @@
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-08-13T16:41:43+00:00"
-    },
-    {
-     "titolo": "Vasto incendio di sterpaglie a Piana del Sole, chiusa la Roma-Fiumicino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/vasto-incendio-di-sterpaglie-a-piana-del-sole-chiusa-la-roma-fiumicino_59ad854a-199b-4eac-ab17-d97ef249e038.html",
-     "data": "2026-08-13T16:24:49+00:00"
-    },
-    {
-     "titolo": "Tumore dopo missione Nato in Kosovo, riconosciuta la causa di servizio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/tumore-dopo-missione-nato-in-kosovo-riconosciuta-la-causa-di-servizio_e7d79609-25df-4ab7-944f-bb98ee484452.html",
-     "data": "2026-08-13T16:19:35+00:00"
     }
    ]
   },
@@ -416,6 +416,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei atletica: 200 metri donne, oro all'inglese Amy Hunt",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/13/europei-atletica-200-metri-donne-oro-allinglese-amy-hunt_83cfe392-8519-45b3-8404-3114142be06f.html",
+     "data": "2026-08-13T21:07:43+00:00"
+    },
+    {
+     "titolo": "Europei atletica: Derkach 'è la serata più bella della mia carriera'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/13/europei-atletica-derkach-e-la-serata-piu-bella-della-mia-carriera_20215aad-e63b-47bc-8d45-7ce85638aa3c.html",
+     "data": "2026-08-13T20:55:17+00:00"
+    },
+    {
+     "titolo": "Europei atletica: Dariya Derkach vince la medaglia d'oro nel salto trilplo",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/13/europei-atletica-dariya-derkach-vince-la-medaglia-doro-nel-salto-trilplo_cd6b53b1-5e66-473c-a5b0-d57e0c4bd20a.html",
+     "data": "2026-08-13T20:58:08+00:00"
+    },
+    {
+     "titolo": "Europei atletica: Pernici quinto negli 800 metri",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/13/europei-atletica-pernici-quinto-negli-800-metri_2b613414-581b-4dbd-8e66-3c0d94494d18.html",
+     "data": "2026-08-13T20:48:20+00:00"
+    },
+    {
      "titolo": "Europei nuoto: Meloni videochiama Curtis 'Congratulazionissime! Tanto, tanto orgoglio'",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/europei-nuoto-meloni-videochiama-curtis-congratulazionissime-tanto-tanto-orgoglio_7726655d-044e-4a4d-a09a-6f101e152b67.html",
      "data": "2026-08-13T19:50:48+00:00"
@@ -433,7 +453,7 @@
     {
      "titolo": "Curtis senza fine a Parigi, oro e altro record del mondo",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/curtis-senza-fine-a-parigi-oro-e-altro-record-del-mondo_280a0466-2e25-4757-b52d-00dacd230453.html",
-     "data": "2026-08-13T20:16:35+00:00"
+     "data": "2026-08-13T20:58:37+00:00"
     },
     {
      "titolo": "Il Toro si complimenta con Curtis, 'ti aspettiamo allo stadio'",
@@ -454,26 +474,6 @@
      "titolo": "Messi in campo dopo la morte del padre, ma il Miami viene eliminato",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/messi-in-campo-dopo-la-morte-del-padre-ma-il-miami-viene-eliminato_ae494f71-a809-4254-a87c-6a2871028cf9.html",
      "data": "2026-08-13T17:58:40+00:00"
-    },
-    {
-     "titolo": "Il favoloso mondo di Sara: 'Ora non svegliatemi'",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/il-favoloso-mondo-di-sara-ora-non-svegliatemi_5c781fd7-f8e9-4790-9502-4cf125b9a474.html",
-     "data": "2026-08-13T17:55:14+00:00"
-    },
-    {
-     "titolo": "Coppa Italia: Pisacane, 'con l'Arezzo si inizia a fare sul serio'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/coppa-italia-pisacane-con-larezzo-si-inizia-a-fare-sul-serio_29d2589d-0854-48e9-982f-a1e3e37e6a2a.html",
-     "data": "2026-08-13T17:51:46+00:00"
-    },
-    {
-     "titolo": "Giuntoli: 'Sarri è il primo e più grande acquisto dell'Atalanta'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/giuntoli-sarri-e-il-primo-e-piu-grande-acquisto-dellatalanta_626d71a3-3c5e-4490-97a6-38f95351c1f3.html",
-     "data": "2026-08-13T17:50:17+00:00"
-    },
-    {
-     "titolo": "L'Olanda sceglie Xavi, quella lunga storia tra Orange e Barcellona",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/lolanda-sceglie-xavi-quella-lunga-storia-tra-orange-e-barcellona_8d548141-5fc8-4308-8172-3d33c19ef052.html",
-     "data": "2026-08-13T17:49:11+00:00"
     }
    ]
   }
