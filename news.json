@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-13T18:13:33.168655+00:00",
+ "aggiornato": "2026-08-13T19:30:48.209311+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Mosca, 'infondate le critiche sulle isole Curili, da Tokyo revisionismo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/mosca-infondate-le-critiche-sulle-isole-curili-da-tokyo-revisionismo_b43340d3-3d99-4a6e-a849-28ccce30f3ff.html",
+     "data": "2026-08-13T18:43:51+00:00"
+    },
     {
      "titolo": "Media, Kiev ha proposto a Mosca una tregua su obiettivi civili nel Mar Nero",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/media-kiev-ha-proposto-a-mosca-una-tregua-su-obiettivi-civili-nel-mar_7d56a14e-c16c-45d6-a7a3-e183196b6593.html",
@@ -49,11 +54,6 @@
      "titolo": "Borsa: l'Europa conclude piatta, Londra debole (-0,6%)",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/borsa-leuropa-conclude-piatta-londra-debole-06_79b61322-1d3f-4589-8429-a95b2c68db8b.html",
      "data": "2026-08-13T15:46:05+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude incerta, Ftse Mib -0,01%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/borsa-milano-chiude-incerta-ftse-mib-001_0e6d80df-81a4-427d-8635-d162c19f5b7e.html",
-     "data": "2026-08-13T15:41:43+00:00"
     }
    ]
   },
@@ -126,9 +126,24 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "I parenti delle vittime del ponte Morandi: 'Le macerie diventino un monito'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/i-parenti-delle-vittime-del-ponte-morandi-le-macerie-diventino-un-monito_eaad2877-e9d3-4584-a55b-84a061e44fc2.html",
+     "data": "2026-08-13T19:26:51+00:00"
+    },
+    {
+     "titolo": "Unione montana, il rogo sul Monte Barone si avvicina alle baite",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/unione-montana-il-rogo-sul-monte-barone-si-avvicina-alle-baite_cc2bc60f-9505-4a15-8c7e-dc21286b689f.html",
+     "data": "2026-08-13T19:19:39+00:00"
+    },
+    {
      "titolo": "Minorenne picchiata, abusata e abbandonata in strada: c'è un arresto",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/minorenne-picchiata-abusata-e-abbandonata-in-strada-ce-un-arresto_9e054237-0bf5-4ad2-a69e-e7500a5a6470.html",
-     "data": "2026-08-13T18:03:47+00:00"
+     "data": "2026-08-13T18:27:23+00:00"
+    },
+    {
+     "titolo": "Mattarella a Bertolaso: 'Grazie per l'assistenza ai ragazzi di Crans'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/mattarella-a-bertolaso-grazie-per-lassistenza-ai-ragazzi-di-crans_96a970af-ae95-40ae-801f-43782307b429.html",
+     "data": "2026-08-13T18:14:01+00:00"
     },
     {
      "titolo": "Scout 16enne colpito da un fulmine, è in lieve miglioramento",
@@ -169,21 +184,6 @@
      "titolo": "L'eclissi nei bioparchi, giraffe e primati tra curiosità e agitazione",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/leclissi-nei-bioparchi-giraffe-e-primati-tra-curiosita-e-agitazione_96528102-550e-4b65-80de-ce5ba79dfaf0.html",
      "data": "2026-08-13T15:22:21+00:00"
-    },
-    {
-     "titolo": "Tra le carte dell'attentato a Ranucci le indagini sui Cantieri Vittoria",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/tra-le-carte-dellattentato-a-ranucci-le-indagini-sui-cantieri-vittoria_b8fbf093-2343-4b7e-9d4b-aaa0859167fb.html",
-     "data": "2026-08-13T15:22:07+00:00"
-    },
-    {
-     "titolo": "Esalazioni da un depuratore, morti un operaio e un soccorritore",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/esalazioni-da-un-depuratore-morti-un-operaio-e-un-soccorritore_fe212b0c-7c45-435f-8fe9-4fa861c6cfce.html",
-     "data": "2026-08-13T17:08:22+00:00"
-    },
-    {
-     "titolo": "Crans-Montana, dimessa anche l'ultima paziente ricoverata a Milano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/crans-montana-dimessa-anche-lultima-paziente-ricoverata-a-milano_a4b082b3-804c-418a-b5c4-75584c85db1a.html",
-     "data": "2026-08-13T17:08:57+00:00"
     }
    ]
   },
@@ -191,19 +191,24 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Piantedosi: 'Revocheremo lo stop a Schengen solo con la fine totale dei rischi'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/13/piantedosi-revocheremo-lo-stop-a-schengen-solo-con-la-fine-totale-dei-rischi_09eb6109-df15-4976-a0db-203b1027ebbb.html",
+     "data": "2026-08-13T18:22:11+00:00"
+    },
+    {
+     "titolo": "Corsa per le suppletive a Reggio Calabria, Futuro Nazionale conta le sue forze",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/13/corsa-per-le-suppletive-a-reggio-calabria-futuro-nazionale-conta-le-sue-forze_726354f0-2477-4840-87b4-e486c9c56dcd.html",
+     "data": "2026-08-13T18:28:29+00:00"
+    },
+    {
      "titolo": "Malcontento ai vertici Rai per il caso Ranucci, timori per il danno reputazionale",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/13/malcontento-ai-vertici-rai-per-il-caso-ranucci-timori-per-il-danno-reputazionale_e012dfae-c7cd-43ce-87f1-ff863f2dc465.html",
-     "data": "2026-08-13T17:42:18+00:00"
+     "data": "2026-08-13T18:29:35+00:00"
     },
     {
      "titolo": "Sondaggio Scenari Politici su Milano, Majorino e Calabresi staccano Lupi",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/13/sondaggio-scenari-politici-su-milano-majorino-e-calabresi-staccano-lupi_c9b12bbb-6dbc-43c1-93c6-ff00486e752b.html",
      "data": "2026-08-13T15:37:26+00:00"
-    },
-    {
-     "titolo": "Piantedosi: 'Revocheremo lo stop a Schengen solo con la fine totale dei rischi'. Madrid, controllati oltre 3000 viaggiatori dall'Italia",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/13/schengen-laudizione-del-ministro-piantedosi_09eb6109-df15-4976-a0db-203b1027ebbb.html",
-     "data": "2026-08-13T14:41:40+00:00"
     },
     {
      "titolo": "Salvini: 'Non si può fare un congresso all'anno, pensiamo ai militanti'",
@@ -228,7 +233,7 @@
     {
      "titolo": "Porsche arretra sull'elettrico, interrompe la produzione della Taycan",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/porsche-arretra-sullelettrico-interrompe-la-produzione-della-taycan_8f7e4414-5ea3-4e39-abfe-568714b64eda.html",
-     "data": "2026-08-13T16:42:06+00:00"
+     "data": "2026-08-13T18:39:40+00:00"
     },
     {
      "titolo": "Il gas prosegue la seduta incerto a 60 euro al Megawattora",
@@ -281,6 +286,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Mosca, 'infondate le critiche sulle isole Curili, da Tokyo revisionismo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/mosca-infondate-le-critiche-sulle-isole-curili-da-tokyo-revisionismo_5e40b38a-7d05-4a22-94ec-493688e9eee0.html",
+     "data": "2026-08-13T18:44:18+00:00"
+    },
+    {
+     "titolo": "Figuera si impegna a ottenere la liberazione dei detenuti politici in Venezuela",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/figuera-si-impegna-a-ottenere-la-liberazione-dei-detenuti-politici-in-venezuela_d5a808fb-3c77-4b57-8eeb-f8aee53bfeec.html",
+     "data": "2026-08-13T18:39:01+00:00"
+    },
+    {
      "titolo": "Ispettori Usa tornano nei campi di avocado in Messico, riprende il commercio estero",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/ispettori-usa-tornano-nei-campi-di-avocado-in-messico-riprende-il-commercio-estero_b2db6999-74ba-467a-ab53-07a8b9ed1931.html",
      "data": "2026-08-13T17:54:25+00:00"
@@ -329,16 +344,6 @@
      "titolo": "Esercito iraniano, 'il passaggio da Hormuz resta sotto il nostro controllo'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/13/esercito-iraniano-il-passaggio-da-hormuz-resta-sotto-il-nostro-controllo_3f021431-87cf-4186-834d-aa614e69e954.html",
      "data": "2026-08-13T15:10:10+00:00"
-    },
-    {
-     "titolo": "Lula celebra Fidel Castro, 'stimolo e saggezza nella mia vita politica'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/lula-celebra-fidel-castro-stimolo-e-saggezza-nella-mia-vita-politica_640d2e03-07fd-48e6-9b65-6966366f8575.html",
-     "data": "2026-08-13T14:43:37+00:00"
-    },
-    {
-     "titolo": "Un altro immigrato muore in un centro di detenzione Ice in New Jersey",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/un-altro-immigrato-muore-in-un-centro-di-detenzione-ice-in-new-jersey_de9c89aa-7194-480e-a05f-5aa36a4cf520.html",
-     "data": "2026-08-13T14:09:18+00:00"
     }
    ]
   },
@@ -411,6 +416,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Curtis senza fine a Parigi, oro e altro record del mondo",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/curtis-senza-fine-a-parigi-oro-e-altro-record-del-mondo_280a0466-2e25-4757-b52d-00dacd230453.html",
+     "data": "2026-08-13T18:25:35+00:00"
+    },
+    {
+     "titolo": "Il Toro si complimenta con Curtis, 'ti aspettiamo allo stadio'",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/il-toro-si-complimenta-con-curtis-ti-aspettiamo-allo-stadio_ede69818-00a6-4f89-b46d-875ceabf2c05.html",
+     "data": "2026-08-13T18:14:48+00:00"
+    },
+    {
      "titolo": "Gaetano: 'Atalanta ambiziosa, sento il peso delle responsabilità'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/gaetano-atalanta-ambiziosa-sento-il-peso-delle-responsabilita_6bb6f203-744e-4664-ac27-6482a34c732a.html",
      "data": "2026-08-13T18:00:46+00:00"
@@ -459,16 +474,6 @@
      "titolo": "Europei nuoto: D'Ambrosio in finale nei 200 stile libero, Ceccon nei 50 dorso",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/europei-nuoto-dambrosio-in-finale-nei-200-stile-libero-ceccon-nei_29b8a1d6-bcd5-421c-bc4d-30e75745d51a.html",
      "data": "2026-08-13T17:39:08+00:00"
-    },
-    {
-     "titolo": "Sara Curtis oro e altro record del mondo nei 50 dorso a Parigi 'È assurdo, è un sogno'",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/sara-curtis-oro-e-altro-record-del-mondo-nei-50-dorso-a-parigi_280a0466-2e25-4757-b52d-00dacd230453.html",
-     "data": "2026-08-13T17:56:16+00:00"
-    },
-    {
-     "titolo": "Primo soccorso, Bove 'la legge che porta il mio nome ferma perché mancano soldi'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/primo-soccorso-bove-la-legge-che-porta-il-mio-nome-ferma-perche_c36a661f-20ac-41ba-9e10-c76961342abb.html",
-     "data": "2026-08-13T17:22:42+00:00"
     }
    ]
   }
