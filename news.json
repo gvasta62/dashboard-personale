@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-13T11:35:57.213591+00:00",
+ "aggiornato": "2026-08-13T12:37:20.298999+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "La Groenlandia blocca compagnia petrolifera Usa pronta a trivellare",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/la-groenlandia-blocca-compagnia-petrolifera-usa-pronta-a-trivellare_e0b57086-6dff-4fe6-9168-07c0d9e8e9ce.html",
+     "data": "2026-08-13T12:28:01+00:00"
+    },
+    {
+     "titolo": "Lavitola al gip, 'chiesi di sparare contro la villetta di Ranucci'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/lavitola-al-gip-chiesi-di-sparare-contro-la-villetta-di-ranucci_b8a90267-e760-4247-8c95-02b541a0458f.html",
+     "data": "2026-08-13T11:42:24+00:00"
+    },
     {
      "titolo": "Ferragosto salato per chi si sposta in auto, pieno di gasolio costa il 27,6% in più",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/ferragosto-salato-per-chi-si-sposta-in-auto-pieno-di-gasolio-costa-il-276_73c1bc22-ee2f-471b-98b4-8f6677b84738.html",
@@ -44,16 +54,6 @@
      "titolo": "Tokyo convoca l'ambasciatore russo dopo la visita di Putin alle isole contese",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/tokyo-convoca-lambasciatore-russo-dopo-la-visita-di-putin-alle-isole-contese_1a98e3d9-ff5a-4cdb-a5cf-29ebf1b90b05.html",
      "data": "2026-08-13T09:59:48+00:00"
-    },
-    {
-     "titolo": "Media, Idf evacua Qusra per un'operazione militare che durerà diversi giorni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/media-idf-evacua-qusra-per-unoperazione-militare-che-durera-diversi_cf68cd3c-3e75-45b9-9626-a66603ed08b2.html",
-     "data": "2026-08-13T09:33:39+00:00"
-    },
-    {
-     "titolo": "Confcooperative, 2 italiani su 10 si indebitano per partire a Ferragosto",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/confcooperative-2-italiani-su-10-si-indebitano-per-partire-a-ferragosto_37cbfae6-e287-467e-a16c-483b107457e3.html",
-     "data": "2026-08-13T09:20:51+00:00"
     }
    ]
   },
@@ -126,6 +126,31 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Nave con migranti in arrivo a Ravenna, il sindaco 'viaggio inumano'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/nave-con-migranti-in-arrivo-a-ravenna-il-sindaco-viaggio-inumano_7a4f4896-adc7-463b-95bc-2086d1834402.html",
+     "data": "2026-08-13T12:32:05+00:00"
+    },
+    {
+     "titolo": "Folla per l'addio a 'Jack', migliora il 13enne che ha tentato di salvare",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/folla-per-laddio-a-jack-migliora-il-13enne-che-ha-tentato-di-salvare_a34fcb45-cfb6-4945-9aa5-65b6fd03c513.html",
+     "data": "2026-08-13T12:09:50+00:00"
+    },
+    {
+     "titolo": "Sindaco San Vito Lo Capo, 'due vittime, tragedia inaccettabile'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/sindaco-san-vito-lo-capo-due-vittime-tragedia-inaccettabile_760db3d7-78fb-4e2f-af57-3f6fadcdb19b.html",
+     "data": "2026-08-13T12:08:04+00:00"
+    },
+    {
+     "titolo": "Lavitola al gip: \"Chiesi di sparare contro la villetta di Ranucci. Lo scoppio dell'ordigno fu comunque di valore dimostrativo\"",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/lavitola-al-gip-chiesi-di-sparare-contro-la-villetta-di-ranucci.-lo-scoppio-dellordigno-fu-comunque_4bf17aff-92eb-4670-ae14-e130bd41e9d9.html",
+     "data": "2026-08-13T11:44:44+00:00"
+    },
+    {
+     "titolo": "Lavitola al gip, 'chiesi di sparare contro la villetta di Ranucci'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/lavitola-al-gip-chiesi-di-sparare-contro-la-villetta-di-ranucci_ef174f00-14e8-4383-9c79-ecd4d21c9f8b.html",
+     "data": "2026-08-13T11:42:27+00:00"
+    },
+    {
      "titolo": "Picchiato a morte, uno dei ragazzi si vantata di 'avere ucciso un tossico'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/picchiato-a-morte-uno-dei-ragazzi-si-vantata-di-avere-ucciso-un-tossico_b07e3c15-fea2-4590-bfb5-328a43802edb.html",
      "data": "2026-08-13T10:57:02+00:00"
@@ -141,11 +166,6 @@
      "data": "2026-08-13T10:26:57+00:00"
     },
     {
-     "titolo": "La procura di Roma darà parere negativo ai domiciliari per Lavitola",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/la-procura-di-roma-dara-parere-negativo-ai-domiciliari-per-lavitola_4bf17aff-92eb-4670-ae14-e130bd41e9d9.html",
-     "data": "2026-08-13T11:08:30+00:00"
-    },
-    {
      "titolo": "Esalazioni da depuratore, morti un operaio e un soccorritore del 118",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/esalazioni-da-depuratore-morti-un-operaio-e-un-soccorritore-del-118_a0cc5c8a-53ff-424f-8ac8-813f85e58f59.html",
      "data": "2026-08-13T10:05:39+00:00"
@@ -153,7 +173,7 @@
     {
      "titolo": "Esalazioni dal depuratore, morti un operaio e un soccorritore del 118",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/esalazioni-dal-depuratore-morti-un-operaio-e-un-soccorritore-del-118_fe212b0c-7c45-435f-8fe9-4fa861c6cfce.html",
-     "data": "2026-08-13T10:11:46+00:00"
+     "data": "2026-08-13T11:35:23+00:00"
     },
     {
      "titolo": "Incendi nel Vco non ancora sotto controllo, si proteggono le abitazioni",
@@ -164,26 +184,6 @@
      "titolo": "Spara contro l'ex compagna, la donna è in ospedale",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/spara-contro-lex-compagna-la-donna-e-in-ospedale_203638cf-9d01-4399-8904-ffcf480989c0.html",
      "data": "2026-08-13T09:13:45+00:00"
-    },
-    {
-     "titolo": "Assalto a portavalori nelle Marche, arrestate quattro persone",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/assalto-a-portavalori-nelle-marche-arrestate-quattro-persone_6810e2f2-301a-4c2b-bb9c-0719ade2fa01.html",
-     "data": "2026-08-13T09:07:13+00:00"
-    },
-    {
-     "titolo": "Spara contro l'ex compagna, la donna è in ospedale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/spara-contro-lex-compagna-la-donna-e-in-ospedale-_b2de5962-dd4e-4c48-a300-12c5475b0bb6.html",
-     "data": "2026-08-13T09:16:04+00:00"
-    },
-    {
-     "titolo": "Ferragosto ancora con il caldo, ma poi temperature in calo e temporali",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/ferragosto-ancora-con-il-caldo-ma-poi-temperature-in-calo-e-temporali_07451a05-c9b2-4f51-8ace-1b7ee574f9ea.html",
-     "data": "2026-08-13T08:59:22+00:00"
-    },
-    {
-     "titolo": "Etna: anche oggi sospesi tutti i voli in aeroporto Catania",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/etna-anche-oggi-sospesi-tutti-i-voli-in-aeroporto-catania_10662767-fd9c-4149-a1ea-0991c2583e91.html",
-     "data": "2026-08-13T08:43:30+00:00"
     }
    ]
   },
@@ -193,7 +193,7 @@
     {
      "titolo": "Salvini torna a Bollate, quarta visita al gioielliere Roggero",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/13/salvini-torna-a-bollate-quarta-visita-al-gioielliere-roggero_fe326225-7465-47e6-8b5b-e122d23f201d.html",
-     "data": "2026-08-13T11:27:20+00:00"
+     "data": "2026-08-13T11:38:52+00:00"
     },
     {
      "titolo": "Tentazione Calabria per Vannacci, pronto a sfidare anche FI",
@@ -220,6 +220,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: Europa in rialzo, Londra frenata dai minerari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/borsa-europa-in-rialzo-londra-frenata-dai-minerari_e43b6ca6-99a6-4745-abe8-a7b312521e57.html",
+     "data": "2026-08-13T12:05:46+00:00"
+    },
     {
      "titolo": "Stoccaggi di gas in calo in Germania, che resta sotto al 48%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/stoccaggi-di-gas-in-calo-in-germania-che-resta-sotto-al-48_234ebdce-ee2a-48aa-b8d3-717acb224735.html",
@@ -274,17 +279,22 @@
      "titolo": "Consulenti Lavoro, 'Italia e Spagna al top per occupazione, ma è diversa la qualità'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/consulenti-lavoro-italia-e-spagna-al-top-per-occupazione-ma-e-diversa-la-qualita_047a69e0-708b-4762-915b-0a41ca4efb94.html",
      "data": "2026-08-13T10:04:24+00:00"
-    },
-    {
-     "titolo": "Colosso cinese Tencent annuncia +11% di ricavi nel secondo trimestre",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/colosso-cinese-tencent-annuncia-11-di-ricavi-nel-secondo-trimestre_a2ed23fe-2db1-4e75-a880-7f7e57b808bf.html",
-     "data": "2026-08-13T10:54:50+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "La Groenlandia blocca compagnia petrolifera Usa pronta a trivellare",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/la-groenlandia-blocca-compagnia-petrolifera-usa-pronta-a-trivellare_1ec4c336-179a-4f3a-a278-cca5895ad660.html",
+     "data": "2026-08-13T12:28:04+00:00"
+    },
+    {
+     "titolo": "La Groenlandia blocca compagnia petrolifera Usa pronta a trivellare",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/la-groenlandia-blocca-compagnia-petrolifera-usa-pronta-a-trivellare_8c5c072d-b893-4ffb-8d53-c0e50ae3a038.html",
+     "data": "2026-08-13T12:28:18+00:00"
+    },
     {
      "titolo": "Media, Idf revoca ordine evacuazione a famiglie palestinesi assediate a Qusra",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/13/media-idf-revoca-ordine-evacuazione-a-famiglie-palestinesi-assediate-a-qusra_7d236e98-5424-4b8b-8234-e25a60393e1b.html",
@@ -293,7 +303,7 @@
     {
      "titolo": "Rabat minaccia di sospendere l'accordo di estradizione con Madrid",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/rabat-minaccia-di-sospendere-laccordo-di-estradizione-con-madrid_6bb6a21e-591a-4548-9bbf-7821630fee42.html",
-     "data": "2026-08-13T11:16:09+00:00"
+     "data": "2026-08-13T11:33:38+00:00"
     },
     {
      "titolo": "Mosca, militare russo ucciso in un attentato in Crimea",
@@ -334,16 +344,6 @@
      "titolo": "In Cile è ora consentito il controllo degli zaini nelle scuole",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/in-cile-e-ora-consentito-il-controllo-degli-zaini-nelle-scuole_065a599d-7ae2-4811-abab-249dba00605f.html",
      "data": "2026-08-13T07:25:40+00:00"
-    },
-    {
-     "titolo": "Ambasciatore Usa in Israele, 'assedio coloni a case palestinesi è terrorismo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/ambasciatore-usa-in-israele-assedio-coloni-a-case-palestinesi-e-terrorismo_3a113498-3d48-488c-b970-56a5500565fe.html",
-     "data": "2026-08-13T07:21:57+00:00"
-    },
-    {
-     "titolo": "Ambasciatore Usa in Israele, 'assedio coloni a case palestinesi è terrorismo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/13/ambasciatore-usa-in-israele-assedio-coloni-a-case-palestinesi-e-terrorismo_258a4782-7d06-4d72-b3f3-c8896d6d45a8.html",
-     "data": "2026-08-13T07:22:11+00:00"
     }
    ]
   },
@@ -416,6 +416,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Cardinale a Milanello, in programma summit di mercato con Amorim",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/cardinale-a-milanello-in-programma-summit-di-mercato-con-amorim_eee64003-e3af-4d31-9a74-6402cf9bd2d1.html",
+     "data": "2026-08-13T11:58:15+00:00"
+    },
+    {
+     "titolo": "Coiro in finale negli 800m femminili",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/13/coiro-in-finale-negli-800m-femminili_197dbac0-afc9-4a9c-ae01-ec9eef314492.html",
+     "data": "2026-08-13T11:52:35+00:00"
+    },
+    {
+     "titolo": "Juve: Nico Gonzalez è tornato alla Continassa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/juve-nico-gonzalez-e-tornato-alla-continassa_be8cf2f1-a0bf-4cce-a494-12806355c821.html",
+     "data": "2026-08-13T11:37:20+00:00"
+    },
+    {
+     "titolo": "Grosso, 'felici di lavorare in mezzo a tanto entusiasmo'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/grosso-felici-di-lavorare-in-mezzo-a-tanto-entusiasmo_62a5d16b-b681-4051-8c8b-6a53b44abeae.html",
+     "data": "2026-08-13T11:35:38+00:00"
+    },
+    {
      "titolo": "Messi torna in campo dopo la morte del padre, ovazione dei tifosi",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/messi-torna-in-campo-dopo-la-morte-del-padre-ovazione-dei-tifosi_2ccf7636-a415-4fc4-9da5-eef8ad0186ba.html",
      "data": "2026-08-13T10:35:34+00:00"
@@ -454,26 +474,6 @@
      "titolo": "Nba: il re delle triple doppie Westbrook annuncia il ritiro dopo 18 stagioni",
      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/12/nba-il-re-delle-triple-doppie-westbrook-annuncia-il-ritiro-dopo-18-stagioni_3dd0b4fa-246b-4077-beb2-3ea4cd6741b4.html",
      "data": "2026-08-12T21:14:35+00:00"
-    },
-    {
-     "titolo": "Psg inarrestabile, vince anche la Supercoppa europea",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/psg-inarrestabile-vince-anche-la-supercoppa-europea_c6a9df14-9fce-4d25-9751-d669632780bc.html",
-     "data": "2026-08-12T21:17:14+00:00"
-    },
-    {
-     "titolo": "Calcio: Psg batte 2-1 Aston villa e vince la Supercoppa europea",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/12/calcio-psg-batte-2-1-aston-villa-e-vince-la-supercoppa-europea_425f1d70-323c-4a9e-8c52-2b378cb53664.html",
-     "data": "2026-08-12T21:00:09+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Fantini conquista l'argento nel martello",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/europei-atletica-fantini-conquista-largento-nel-martello_5a8c9b53-c81d-419b-88da-32e0c8692df6.html",
-     "data": "2026-08-12T20:04:27+00:00"
-    },
-    {
-     "titolo": "Europei di atletica: Fantini argento nel martello, quinta medaglia dell'Italia",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/europei-di-atletica-sara-fantini-conquista-largento-nel-martello_05cc9bf7-fdc7-4fa9-8d27-21efda72a3a6.html",
-     "data": "2026-08-13T03:19:38+00:00"
     }
    ]
   }
