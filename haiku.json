@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-08-12T05:24:20.762500+00:00",
- "data": "2026-08-12",
- "testo": "Cielo senza sole\nun fico cade a terra\npolpa spiaccicata",
- "nota": "Un fico troppo maturo caduto sotto l'albero nella giornata coperta e afosa.",
+ "aggiornato": "2026-08-13T05:27:11.060982+00:00",
+ "data": "2026-08-13",
+ "testo": "Sole sui tetti\nun lenzuolo dimenticato\nsull'aia del podere",
+ "nota": "Nella luce piena, un lenzuolo bianco lasciato steso in un'aia di campagna.",
  "archivio": [
+  {
+   "data": "2026-08-13",
+   "testo": "Sole sui tetti\nun lenzuolo dimenticato\nsull'aia del podere",
+   "nota": "Nella luce piena, un lenzuolo bianco lasciato steso in un'aia di campagna."
+  },
   {
    "data": "2026-08-12",
    "testo": "Cielo senza sole\nun fico cade a terra\npolpa spiaccicata",
