@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-13T21:10:37.604052+00:00",
+ "aggiornato": "2026-08-13T22:07:19.282326+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump impone tariffe del 100% sulle importazioni di droni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/trump-impone-tariffe-del-100-sulle-importazioni-di-droni_eb121873-2eda-4095-9b5d-c1b48bdd6341.html",
+     "data": "2026-08-13T22:01:34+00:00"
+    },
     {
      "titolo": "Europei atletica: 200 metri donne, oro all'inglese Amy Hunt",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/europei-atletica-200-metri-donne-oro-allinglese-amy-hunt_fe839d2f-c548-450c-881f-0433075da07a.html",
@@ -49,11 +54,6 @@
      "titolo": "Boeing condannata a pagare 29 milioni per disastro in cui morirono anche 8 italiani",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/boeing-condannata-a-pagare-29-milioni-per-disastro-in-cui-morirono-anche-8-italiani_9e725848-5384-4bb9-bb99-a3a0570d1d97.html",
      "data": "2026-08-13T17:04:57+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Curtis gioia pura 'è assurdo, un sogno e un obiettivo enorme'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/europei-nuoto-curtis-gioia-pura-e-assurdo-un-sogno-e-un-obiettivo-enorme_1af0e16b-3222-4cd6-89ce-59cfeb58e826.html",
-     "data": "2026-08-13T16:51:32+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Etna: chiusura scalo Catania prolungata fino alle 2 di notte del 15 agosto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/etna-chiusura-scalo-catania-prolungata-fino-alle-2-di-notte-del-15-agosto_10662767-fd9c-4149-a1ea-0991c2583e91.html",
+     "data": "2026-08-13T21:30:18+00:00"
+    },
+    {
      "titolo": "E' ancora emergenza per incendio in Carnia su Monte Amariana",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/e-ancora-emergenza-per-incendio-in-carnia-su-monte-amariana_4d6cb01d-c223-4b5d-9073-7d841636a58a.html",
      "data": "2026-08-13T20:33:28+00:00"
@@ -158,7 +163,7 @@
     {
      "titolo": "Minorenne picchiata, abusata e abbandonata in strada: c'è un arresto",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/minorenne-picchiata-abusata-e-abbandonata-in-strada-ce-un-arresto_9e054237-0bf5-4ad2-a69e-e7500a5a6470.html",
-     "data": "2026-08-13T18:27:23+00:00"
+     "data": "2026-08-13T21:54:37+00:00"
     },
     {
      "titolo": "Mattarella a Bertolaso: 'Grazie per l'assistenza ai ragazzi di Crans'",
@@ -179,11 +184,6 @@
      "titolo": "Famiglia nel bosco, Amii Stewart 'tutto si sta sgretolando, ingiusto trattarli così'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/famiglia-nel-bosco-amii-stewart-tutto-si-sta-sgretolando-ingiusto-trattarli_bbe37e88-5864-4f50-9612-16be03fe4758.html",
      "data": "2026-08-13T16:55:42+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-08-13T16:41:43+00:00"
     }
    ]
   },
@@ -220,6 +220,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Balzo dell'8% dei consumi elettrici, a luglio è nuovo record",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/balzo-dell8-dei-consumi-elettrici-a-luglio-e-nuovo-record_ef3ca3ee-9835-4f45-b5ba-8a7cfd08f491.html",
+     "data": "2026-08-13T21:24:20+00:00"
+    },
     {
      "titolo": "Boeing condannata a pagare 29 milioni per un disastro aereo in cui morirono anche 8 italiani",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/boeing-condannata-a-pagare-29-milioni-per-disastro-in-cui-morirono-anche-8-italiani_934fa844-0bba-4124-b6a7-6d1b5e176e55.html",
@@ -274,17 +279,32 @@
      "titolo": "Borsa: Europa in rialzo, Londra frenata dai minerari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/borsa-europa-in-rialzo-londra-frenata-dai-minerari_e43b6ca6-99a6-4745-abe8-a7b312521e57.html",
      "data": "2026-08-13T12:05:46+00:00"
-    },
-    {
-     "titolo": "Stoccaggi di gas in calo in Germania, che resta sotto al 48%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/stoccaggi-di-gas-in-calo-in-germania-che-resta-sotto-al-48_234ebdce-ee2a-48aa-b8d3-717acb224735.html",
-     "data": "2026-08-13T11:27:21+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Trump impone tariffe del 100% sulle importazioni di droni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/14/trump-impone-tariffe-del-100-sulle-importazioni-di-droni_afa22de8-05c7-47bf-bc86-8374e8449d7d.html",
+     "data": "2026-08-13T22:01:56+00:00"
+    },
+    {
+     "titolo": "Bolivia, il presidente Paz si scusa per la carenza di carburante",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/bolivia-il-presidente-paz-si-scusa-per-la-carenza-di-carburante_d6355cb3-fd72-4f52-94de-8f2486814016.html",
+     "data": "2026-08-13T21:58:09+00:00"
+    },
+    {
+     "titolo": "Marco Bechis torna con 'Back to Buenos Aires' a Venezia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/marco-bechis-torna-con-back-to-buenos-aires-a-venezia_74420412-ba0b-4169-80cf-a4009a6bfb2a.html",
+     "data": "2026-08-13T21:39:35+00:00"
+    },
+    {
+     "titolo": "Colombia, il Senato autorizza Petro a lasciare il Paese per un anno",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/colombia-il-senato-autorizza-petro-a-lasciare-il-paese-per-un-anno_b0c774b3-a82d-4316-927e-fb64e172ce71.html",
+     "data": "2026-08-13T21:10:53+00:00"
+    },
     {
      "titolo": "Mosca, 'infondate le critiche sulle isole Curili, da Tokyo revisionismo'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/mosca-infondate-le-critiche-sulle-isole-curili-da-tokyo-revisionismo_5e40b38a-7d05-4a22-94ec-493688e9eee0.html",
@@ -324,26 +344,6 @@
      "titolo": "Wsj, 'gli Usa si apprestano ad inviare una nave per sostituire la Lincoln'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/wsj-gli-usa-si-apprestano-ad-inviare-una-nave-per-sostituire-la-lincoln_4c138f33-73b1-4828-b5cf-435271e8a7b0.html",
      "data": "2026-08-13T16:10:17+00:00"
-    },
-    {
-     "titolo": "Dopo oltre due mesi Raul Castro riappare in pubblico per i 100 anni di Fidel",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/dopo-oltre-due-mesi-raul-castro-riappare-in-pubblico-per-i-100_715e1c9e-6e22-444b-bb04-3d75f79de878.html",
-     "data": "2026-08-13T15:34:28+00:00"
-    },
-    {
-     "titolo": "Trump pizzicato di nuovo a sonnecchiare, video virale scatena teorie complotto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/trump-pizzicato-di-nuovo-a-sonnecchiare-video-virale-scatena-teorie-complotto_34cd9cb1-962f-44fd-be23-a7274deeda48.html",
-     "data": "2026-08-13T15:22:18+00:00"
-    },
-    {
-     "titolo": "Esplosione nel porto di Rotterdam, almeno un morto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/esplosione-nel-porto-di-rotterdam-almeno-un-morto_c602813e-f872-4536-8f2d-2f981bd9dac4.html",
-     "data": "2026-08-13T15:12:31+00:00"
-    },
-    {
-     "titolo": "Esercito iraniano, 'il passaggio da Hormuz resta sotto il nostro controllo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/13/esercito-iraniano-il-passaggio-da-hormuz-resta-sotto-il-nostro-controllo_3f021431-87cf-4186-834d-aa614e69e954.html",
-     "data": "2026-08-13T15:10:10+00:00"
     }
    ]
   },
@@ -416,6 +416,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei atletica: l'oro di Derkach nel triplo illumina Birmingham",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-atletica-loro-di-derkach-nel-triplo-illumina-birmingham_cd6b53b1-5e66-473c-a5b0-d57e0c4bd20a.html",
+     "data": "2026-08-13T22:00:12+00:00"
+    },
+    {
+     "titolo": "Sara Curtis e Dariya Derkach, Italia d'oro agli Europei di nuoto e atletica",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/13/sara-curtis-e-dariya-derkach-italia-doro-agli-europei-di-nuoto-e-atletica_0d478d2f-e9b4-493d-a164-9ed18ea11cc0.html",
+     "data": "2026-08-13T22:00:30+00:00"
+    },
+    {
      "titolo": "Europei atletica: 200 metri donne, oro all'inglese Amy Hunt",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/13/europei-atletica-200-metri-donne-oro-allinglese-amy-hunt_83cfe392-8519-45b3-8404-3114142be06f.html",
      "data": "2026-08-13T21:07:43+00:00"
@@ -424,11 +434,6 @@
      "titolo": "Europei atletica: Derkach 'è la serata più bella della mia carriera'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/13/europei-atletica-derkach-e-la-serata-piu-bella-della-mia-carriera_20215aad-e63b-47bc-8d45-7ce85638aa3c.html",
      "data": "2026-08-13T20:55:17+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Dariya Derkach vince la medaglia d'oro nel salto trilplo",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/13/europei-atletica-dariya-derkach-vince-la-medaglia-doro-nel-salto-trilplo_cd6b53b1-5e66-473c-a5b0-d57e0c4bd20a.html",
-     "data": "2026-08-13T20:58:08+00:00"
     },
     {
      "titolo": "Europei atletica: Pernici quinto negli 800 metri",
@@ -469,11 +474,6 @@
      "titolo": "Cagliari, Esposito non c'è e presenta un nuovo certificato medico",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/cagliari-esposito-non-ce-e-presenta-un-nuovo-certificato-medico_f4ee44bb-afa0-4e3a-a0c0-40ccf8f962e4.html",
      "data": "2026-08-13T17:59:56+00:00"
-    },
-    {
-     "titolo": "Messi in campo dopo la morte del padre, ma il Miami viene eliminato",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/messi-in-campo-dopo-la-morte-del-padre-ma-il-miami-viene-eliminato_ae494f71-a809-4254-a87c-6a2871028cf9.html",
-     "data": "2026-08-13T17:58:40+00:00"
     }
    ]
   }
