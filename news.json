@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-13T17:25:00.393722+00:00",
+ "aggiornato": "2026-08-13T18:13:33.168655+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, Kiev ha proposto a Mosca una tregua su obiettivi civili nel Mar Nero",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/media-kiev-ha-proposto-a-mosca-una-tregua-su-obiettivi-civili-nel-mar_7d56a14e-c16c-45d6-a7a3-e183196b6593.html",
+     "data": "2026-08-13T17:24:50+00:00"
+    },
     {
      "titolo": "Gip, 'da Lavitola dichiarazioni fumose e senza alcun riscontro'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/gip-da-lavitola-dichiarazioni-fumose-e-senza-alcun-riscontro_5cfa30c7-588d-4283-b181-ed685cb3653a.html",
@@ -49,11 +54,6 @@
      "titolo": "Borsa: Milano chiude incerta, Ftse Mib -0,01%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/borsa-milano-chiude-incerta-ftse-mib-001_0e6d80df-81a4-427d-8635-d162c19f5b7e.html",
      "data": "2026-08-13T15:41:43+00:00"
-    },
-    {
-     "titolo": "Esplosione nel porto di Rotterdam, almeno un morto",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/esplosione-nel-porto-di-rotterdam-almeno-un-morto_67a0f10d-09df-4cb0-8525-37dd8a8785b2.html",
-     "data": "2026-08-13T15:12:31+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Minorenne picchiata, abusata e abbandonata in strada: c'è un arresto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/minorenne-picchiata-abusata-e-abbandonata-in-strada-ce-un-arresto_9e054237-0bf5-4ad2-a69e-e7500a5a6470.html",
+     "data": "2026-08-13T18:03:47+00:00"
+    },
+    {
+     "titolo": "Scout 16enne colpito da un fulmine, è in lieve miglioramento",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/scout-16enne-colpito-da-un-fulmine-e-in-lieve-miglioramento_2341569d-b81b-4177-a691-17d1eee65ed4.html",
+     "data": "2026-08-13T17:38:34+00:00"
+    },
+    {
      "titolo": "Gip, 'da Lavitola dichiarazioni fumose e senza alcun riscontro'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/gip-da-lavitola-dichiarazioni-fumose-e-senza-alcun-riscontro_9342359a-6c1b-48d3-a1d8-b19e84337323.html",
      "data": "2026-08-13T17:13:44+00:00"
@@ -174,22 +184,17 @@
      "titolo": "Crans-Montana, dimessa anche l'ultima paziente ricoverata a Milano",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/crans-montana-dimessa-anche-lultima-paziente-ricoverata-a-milano_a4b082b3-804c-418a-b5c4-75584c85db1a.html",
      "data": "2026-08-13T17:08:57+00:00"
-    },
-    {
-     "titolo": "Lavitola resta in carcere, gip respinge richiesta domiciliari",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/lavitola-resta-in-carcere-gip-respinge-richiesta-domiciliari_7f19b206-e1cb-4a68-8038-fb6b53173f1b.html",
-     "data": "2026-08-13T13:51:35+00:00"
-    },
-    {
-     "titolo": "Incendio ed esplosione in una fabbrica di munizioni a Colleferro. Il video dello scoppio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/incendio-ed-esplosione-in-stabilimento-ex-simmel-difesa-a-colleferro_48352b9e-df7d-42d5-8aa4-69d8249fb02e.html",
-     "data": "2026-08-13T17:15:32+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Malcontento ai vertici Rai per il caso Ranucci, timori per il danno reputazionale",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/13/malcontento-ai-vertici-rai-per-il-caso-ranucci-timori-per-il-danno-reputazionale_e012dfae-c7cd-43ce-87f1-ff863f2dc465.html",
+     "data": "2026-08-13T17:42:18+00:00"
+    },
     {
      "titolo": "Sondaggio Scenari Politici su Milano, Majorino e Calabresi staccano Lupi",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/13/sondaggio-scenari-politici-su-milano-majorino-e-calabresi-staccano-lupi_c9b12bbb-6dbc-43c1-93c6-ff00486e752b.html",
@@ -276,6 +281,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ispettori Usa tornano nei campi di avocado in Messico, riprende il commercio estero",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/ispettori-usa-tornano-nei-campi-di-avocado-in-messico-riprende-il-commercio-estero_b2db6999-74ba-467a-ab53-07a8b9ed1931.html",
+     "data": "2026-08-13T17:54:25+00:00"
+    },
+    {
+     "titolo": "Media, Kiev ha proposto a Mosca una tregua su obiettivi civili nel Mar Nero",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/media-kiev-ha-proposto-a-mosca-una-tregua-su-obiettivi-civili-nel-mar_bc083752-3da0-42b9-9b78-82e170b0fcfa.html",
+     "data": "2026-08-13T17:25:08+00:00"
+    },
+    {
      "titolo": "Il Perù dichiara l'emergenza siccità per l'impatto del 'Super-El Nino'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/il-peru-dichiara-lemergenza-siccita-per-limpatto-del-super-el-nino_13313c12-7728-4111-bf02-034d8246bed4.html",
      "data": "2026-08-13T17:21:18+00:00"
@@ -324,16 +339,6 @@
      "titolo": "Un altro immigrato muore in un centro di detenzione Ice in New Jersey",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/un-altro-immigrato-muore-in-un-centro-di-detenzione-ice-in-new-jersey_de9c89aa-7194-480e-a05f-5aa36a4cf520.html",
      "data": "2026-08-13T14:09:18+00:00"
-    },
-    {
-     "titolo": "Brasile, Lula e Bolsonaro aprono la campagna elettorale domenica",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/brasile-lula-e-bolsonaro-aprono-la-campagna-elettorale-domenica_c3cce26d-56b1-4871-966b-c719f8a3973c.html",
-     "data": "2026-08-13T13:44:44+00:00"
-    },
-    {
-     "titolo": "Trump pizzicato di nuovo a sonnecchiare, video virale scatena teorie complotto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/13/trump-pizzicato-di-nuovo-a-sonnecchiare-video-virale-scatena-teorie-complotto_55dc1376-0eb9-470a-8395-56d61d0884fa.html",
-     "data": "2026-08-13T13:30:11+00:00"
     }
    ]
   },
@@ -406,64 +411,64 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Europei nuoto: Sara Curtis oro e altro record del mondo nei 50 dorso",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/europei-nuoto-sara-curtis-oro-e-altro-record-del-mondo-nei_280a0466-2e25-4757-b52d-00dacd230453.html",
-     "data": "2026-08-13T17:12:27+00:00"
+     "titolo": "Gaetano: 'Atalanta ambiziosa, sento il peso delle responsabilità'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/gaetano-atalanta-ambiziosa-sento-il-peso-delle-responsabilita_6bb6f203-744e-4664-ac27-6482a34c732a.html",
+     "data": "2026-08-13T18:00:46+00:00"
     },
     {
-     "titolo": "Europei nuoto: Sara Curtis oro e record del mondo nei 50 dorso",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/europei-nuoto-sara-curtis-oro-e-record-del-mondo-nei-50-dorso_078dd4af-9656-4280-9be1-042bc75569b6.html",
-     "data": "2026-08-13T17:08:29+00:00"
+     "titolo": "Cagliari, Esposito non c'è e presenta un nuovo certificato medico",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/cagliari-esposito-non-ce-e-presenta-un-nuovo-certificato-medico_f4ee44bb-afa0-4e3a-a0c0-40ccf8f962e4.html",
+     "data": "2026-08-13T17:59:56+00:00"
     },
     {
-     "titolo": "Pallavolo: l'Italia femminile perde Omoruyi per infortunio al ginocchio",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/13/pallavolo-litalia-femminile-perde-omoruyi-per-infortunio-al-ginocchio_89a36246-785f-4292-b504-be6823e2da19.html",
-     "data": "2026-08-13T16:57:06+00:00"
+     "titolo": "Messi in campo dopo la morte del padre, ma il Miami viene eliminato",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/messi-in-campo-dopo-la-morte-del-padre-ma-il-miami-viene-eliminato_ae494f71-a809-4254-a87c-6a2871028cf9.html",
+     "data": "2026-08-13T17:58:40+00:00"
     },
     {
-     "titolo": "Europei nuoto: Curtis gioia pura 'è assurdo, un sogno e un obiettivo enorme'",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/europei-nuoto-curtis-gioia-pura-e-assurdo-un-sogno-e-un-obiettivo-enorme_231077d1-f9ca-414b-a94d-bccb6f4899c8.html",
-     "data": "2026-08-13T16:51:35+00:00"
-    },
-    {
-     "titolo": "Thomas Ceccon si qualifica per la semifinale dei 50 dorso",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/thomas-ceccon-si-qualifica-per-la-semifinale-dei-50-dorso_6e4093d2-30d4-4990-b291-d555e936cb66.html",
-     "data": "2026-08-13T16:34:19+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Quadarella in finale dei 1500 sl con il miglior tempo",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/europei-nuoto-quadarella-in-finale-dei-1500-sl-con-il-miglior-tempo_d7d7392d-75cb-4483-ac2b-5ac99a50dcb0.html",
-     "data": "2026-08-13T16:33:11+00:00"
-    },
-    {
-     "titolo": "Vlahovic saluta la Juve: 'Difficile trovare le parole giuste'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/vlahovic-saluta-la-juve-difficile-trovare-le-parole-giuste_3dc019a1-90c3-486a-b7d5-655285eafd1a.html",
-     "data": "2026-08-13T16:31:23+00:00"
-    },
-    {
-     "titolo": "Summit Cardinale-Amorim, mezzo Milan è in vendita",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/summit-cardinale-amorim-mezzo-milan-e-in-vendita_eee64003-e3af-4d31-9a74-6402cf9bd2d1.html",
-     "data": "2026-08-13T16:27:31+00:00"
+     "titolo": "Il favoloso mondo di Sara: 'Ora non svegliatemi'",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/il-favoloso-mondo-di-sara-ora-non-svegliatemi_5c781fd7-f8e9-4790-9502-4cf125b9a474.html",
+     "data": "2026-08-13T17:55:14+00:00"
     },
     {
      "titolo": "Coppa Italia: Pisacane, 'con l'Arezzo si inizia a fare sul serio'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/coppa-italia-pisacane-con-larezzo-si-inizia-a-fare-sul-serio_29d2589d-0854-48e9-982f-a1e3e37e6a2a.html",
-     "data": "2026-08-13T16:16:47+00:00"
+     "data": "2026-08-13T17:51:46+00:00"
     },
     {
-     "titolo": "Calcio: Cagliari, Esposito non c'è e presenta un nuovo certificato medico",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/calcio-cagliari-esposito-non-ce-e-presenta-un-nuovo-certificato-medico_f4ee44bb-afa0-4e3a-a0c0-40ccf8f962e4.html",
-     "data": "2026-08-13T16:16:53+00:00"
-    },
-    {
-     "titolo": "Calcio: la Caf difende Infantino, \"Dimissioni? Si attendano le elezioni Fifa\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/calcio-la-caf-difende-infantino-dimissioni-si-attendano-le-elezioni-fifa_17ce24b3-61d1-4bd0-94bb-355b4c8cf559.html",
-     "data": "2026-08-13T16:16:57+00:00"
+     "titolo": "Giuntoli: 'Sarri è il primo e più grande acquisto dell'Atalanta'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/giuntoli-sarri-e-il-primo-e-piu-grande-acquisto-dellatalanta_626d71a3-3c5e-4490-97a6-38f95351c1f3.html",
+     "data": "2026-08-13T17:50:17+00:00"
     },
     {
      "titolo": "L'Olanda sceglie Xavi, quella lunga storia tra Orange e Barcellona",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/lolanda-sceglie-xavi-quella-lunga-storia-tra-orange-e-barcellona_8d548141-5fc8-4308-8172-3d33c19ef052.html",
-     "data": "2026-08-13T16:17:01+00:00"
+     "data": "2026-08-13T17:49:11+00:00"
+    },
+    {
+     "titolo": "L'Africa difende Infantino, \"Dimissioni? Si attendano le elezioni Fifa\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/lafrica-difende-infantino-dimissioni-si-attendano-le-elezioni-fifa_17ce24b3-61d1-4bd0-94bb-355b4c8cf559.html",
+     "data": "2026-08-13T17:47:02+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: D'Ambrosio in finale nei 200 stile libero, Ceccon nei 50 dorso",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/europei-nuoto-dambrosio-in-finale-nei-200-stile-libero-ceccon-nei_6e4093d2-30d4-4990-b291-d555e936cb66.html",
+     "data": "2026-08-13T17:43:45+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: D'Ambrosio in finale nei 200 stile libero, Ceccon nei 50 dorso",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/europei-nuoto-dambrosio-in-finale-nei-200-stile-libero-ceccon-nei_29b8a1d6-bcd5-421c-bc4d-30e75745d51a.html",
+     "data": "2026-08-13T17:39:08+00:00"
+    },
+    {
+     "titolo": "Sara Curtis oro e altro record del mondo nei 50 dorso a Parigi 'È assurdo, è un sogno'",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/sara-curtis-oro-e-altro-record-del-mondo-nei-50-dorso-a-parigi_280a0466-2e25-4757-b52d-00dacd230453.html",
+     "data": "2026-08-13T17:56:16+00:00"
+    },
+    {
+     "titolo": "Primo soccorso, Bove 'la legge che porta il mio nome ferma perché mancano soldi'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/primo-soccorso-bove-la-legge-che-porta-il-mio-nome-ferma-perche_c36a661f-20ac-41ba-9e10-c76961342abb.html",
+     "data": "2026-08-13T17:22:42+00:00"
     }
    ]
   }
