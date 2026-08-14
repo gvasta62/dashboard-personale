@@ -1,59 +1,59 @@
 {
- "aggiornato": "2026-08-14T08:05:15.299473+00:00",
+ "aggiornato": "2026-08-14T09:31:17.283233+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
+     "titolo": "Ilo, nel mondo 67 milioni di giovani disoccupati, meno lavoro per l'Ia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/ilo-nel-mondo-67-milioni-di-giovani-disoccupati-meno-lavoro-per-lia_42cfacbe-2719-4753-9531-c47b0e35a0b7.html",
+     "data": "2026-08-14T09:22:06+00:00"
+    },
+    {
+     "titolo": "Ilo, quasi 4 giovani disoccupati per ogni adulto disoccupato in Italia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/ilo-quasi-4-giovani-disoccupati-per-ogni-adulto-disoccupato-in-italia_31a55319-823d-4b44-8281-7641b7dbec0a.html",
+     "data": "2026-08-14T09:21:04+00:00"
+    },
+    {
+     "titolo": "Oxford Economics, 'più che il caldo l'Europa deve temere l'inverno'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/oxford-economics-piu-che-il-caldo-leuropa-deve-temere-linverno_9b3c568d-60a4-4b65-ba4a-904719ea7777.html",
+     "data": "2026-08-14T09:16:59+00:00"
+    },
+    {
+     "titolo": "Nell'Eurozona il Pil sale dello 0,4% nel secondo trimestre",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/nelleurozona-il-pil-sale-dello-04-nel-secondo-trimestre_7970a9ba-0a01-471f-959e-6fca2420facf.html",
+     "data": "2026-08-14T09:17:42+00:00"
+    },
+    {
+     "titolo": "Cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/cinque-italiani-nel-villaggio-palestinese-assediato-dai-coloni-israeliani_b83def10-fd64-46df-b108-ca18d9687243.html",
+     "data": "2026-08-14T09:07:26+00:00"
+    },
+    {
+     "titolo": "Trattore si ribalta, muore una ragazza di 22 anni nel Cuneese",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/trattore-si-ribalta-muore-una-ragazza-di-22-anni-nel-cuneese_e6defffb-5635-4d14-97c8-0ef9bcf997ff.html",
+     "data": "2026-08-14T09:03:50+00:00"
+    },
+    {
+     "titolo": "Cgia, botteghe a rischio e -25% di artigiani in dieci anni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/cgia-botteghe-a-rischio-e-25-di-artigiani-in-dieci-anni_de5d3079-9e1a-478e-8749-c29ae44fa433.html",
+     "data": "2026-08-14T08:49:38+00:00"
+    },
+    {
+     "titolo": "Cna, con il caldo cambia il carrello degli italiani, ma non sale il conto",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/cna-con-il-caldo-cambia-il-carrello-degli-italiani-ma-non-sale-il-conto_a3a3446a-4be6-402a-b0ba-f206f62813bc.html",
+     "data": "2026-08-14T08:49:02+00:00"
+    },
+    {
+     "titolo": "Bankitalia, nuovo record del debito, a giugno supera i 3.200 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/bankitalia-nuovo-record-del-debito-a-giugno-supera-i-3.200-miliardi_c8750a90-6d18-4933-aee3-283a358aba23.html",
+     "data": "2026-08-14T08:32:03+00:00"
+    },
+    {
      "titolo": "Borsa: l'Europa parte incerta, Londra -0,1%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/borsa-leuropa-parte-incerta-londra-01_edac8cbc-51f5-44d2-acc6-581a1d5c493c.html",
      "data": "2026-08-14T07:11:53+00:00"
-    },
-    {
-     "titolo": "Nuovo rialzo dei prezzi carburanti, self benzina a 1,989 euro, gasolio a 2,087",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/nuovo-rialzo-dei-prezzi-carburanti-self-benzina-a-1989-euro-gasolio_0799e05e-77dc-4801-aa36-c1ede354623b.html",
-     "data": "2026-08-14T07:09:14+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre in lieve rialzo, Ftse Mib +0,15%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/borsa-milano-apre-in-lieve-rialzo-ftse-mib-015_4e545157-e9ca-499c-abde-621b66e61a90.html",
-     "data": "2026-08-14T07:09:32+00:00"
-    },
-    {
-     "titolo": "La nuova frontiera del fisco, le tasse spaziali",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/la-nuova-frontiera-del-fisco-le-tasse-spaziali_1e9de242-b4e3-44f0-a265-ed31a43265f9.html",
-     "data": "2026-08-14T07:02:18+00:00"
-    },
-    {
-     "titolo": "Incidente in un'officina nel Reggino, muore un meccanico di 31 anni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/incidente-in-unofficina-nel-reggino-muore-un-meccanico-di-31-anni_12e0ead5-f08e-495f-bc2f-0622df99ddc1.html",
-     "data": "2026-08-14T06:56:01+00:00"
-    },
-    {
-     "titolo": "Il gas parte piatto a 60,3 euro al Megawattora",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/il-gas-parte-piatto-a-603-euro-al-megawattora_dd69f65c-46c0-4b44-ade4-9842efcdbe0a.html",
-     "data": "2026-08-14T06:51:58+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund apre stabile a 76 punti base",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/lo-spread-tra-btp-e-bund-apre-stabile-a-76-punti-base_b4d75fdc-98e8-4aa1-9680-8534196eb69e.html",
-     "data": "2026-08-14T06:40:09+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Asia senza una direzione guarda alla Fed, bene Seul (+2,2%)",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/borsa-lasia-senza-una-direzione-guarda-alla-fed-bene-seul_d6b8141d-2514-4f48-8de3-41394bb7dee8.html",
-     "data": "2026-08-14T06:37:48+00:00"
-    },
-    {
-     "titolo": "Petrolio in rialzo in avvio, wti a 81,98 dollari al barile (+0,9%)",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/petrolio-in-rialzo-in-avvio-wti-a-8198-dollari-al-barile-09_4ea0fb80-361a-49c7-a7ae-96bd07fd0868.html",
-     "data": "2026-08-14T06:22:28+00:00"
-    },
-    {
-     "titolo": "Trump impone tariffe del 100% sulle importazioni di droni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/trump-impone-tariffe-del-100-sulle-importazioni-di-droni_eb121873-2eda-4095-9b5d-c1b48bdd6341.html",
-     "data": "2026-08-13T22:01:34+00:00"
     }
    ]
   },
@@ -126,9 +126,54 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Gorizia è la capitale italiana del verde fruibile",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/gorizia-e-la-capitale-italiana-del-verde-fruibile_cc8a25b8-8260-4cb9-8589-bbe85aa5a56a.html",
+     "data": "2026-08-14T09:08:18+00:00"
+    },
+    {
+     "titolo": "Cadavere di un'anziana in armadio, uccisa dal figlio che chiedeva soldi per droga",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/cadavere-di-unanziana-in-armadio-uccisa-dal-figlio-che-chiedeva-soldi-per_98ba27ae-f1b9-49ba-9b93-cc15bfe8fe4f.html",
+     "data": "2026-08-14T09:04:52+00:00"
+    },
+    {
+     "titolo": "Febbre del Nilo, salgono a 14 i casi di persone contagiate in Sardegna",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/febbre-del-nilo-salgono-a-14-i-casi-di-persone-contagiate-in-sardegna_d3e161b2-e900-4311-8a49-90a1b40458c1.html",
+     "data": "2026-08-14T09:05:39+00:00"
+    },
+    {
+     "titolo": "Trattore si ribalta, muore una ragazza di 22 anni nel Cuneese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/trattore-si-ribalta-muore-una-ragazza-di-22-anni-nel-cuneese_ee23edc8-c097-4beb-9bdd-07dd1be965ff.html",
+     "data": "2026-08-14T09:03:43+00:00"
+    },
+    {
+     "titolo": "Trattore si ribalta, muore una ragazza di 22 anni nel Cuneese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/trattore-si-ribalta-muore-una-ragazza-di-22-anni-nel-cuneese_531aefce-7a9b-4b05-bb25-c67c12be7d58.html",
+     "data": "2026-08-14T09:15:10+00:00"
+    },
+    {
+     "titolo": "Dai bivacchi all'abbigliamento, Cortina stringe sul turismo 'cafone'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/dai-bivacchi-allabbigliamento-cortina-stringe-sul-turismo-cafone_44496190-4a9f-4db5-b07d-3557a32473ca.html",
+     "data": "2026-08-14T08:59:30+00:00"
+    },
+    {
+     "titolo": "Crollo Morandi: Possetti, ci aspettavamo una figura centrale dello Stato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/crollo-morandi-possetti-ci-aspettavamo-una-figura-centrale-dello-stato_957c96bf-d0d5-4c28-9bfa-083f85f0349c.html",
+     "data": "2026-08-14T08:31:32+00:00"
+    },
+    {
+     "titolo": "Auto sulla folla a Modena, torna a casa il marito di Monica Esposito",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/auto-sulla-folla-a-modena-torna-a-casa-il-marito-di-monica-esposito_e1a17a3d-67ef-43f8-8081-0dadf9229335.html",
+     "data": "2026-08-14T08:03:46+00:00"
+    },
+    {
      "titolo": "A Como 50 sfollati per gli incendi della notte",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/a-como-50-sfollati-per-gli-incendi-della-notte_89ee7b50-a731-426a-8def-1c0def6376ec.html",
      "data": "2026-08-14T07:47:58+00:00"
+    },
+    {
+     "titolo": "Bucci: \"Ponte Morandi, otto anni fa Genova veniva colpita al cuore\"",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/bucci-ponte-morandi-otto-anni-fa-genova-veniva-colpita-al-cuore_6b4f57e2-c60b-461d-bbbb-ac04cb23c135.html",
+     "data": "2026-08-14T09:19:26+00:00"
     },
     {
      "titolo": "Componente di un gruppo criminale turco estradato in Italia dall'Olanda",
@@ -139,57 +184,17 @@
      "titolo": "Palio di Siena, la Contrada della Giraffa vince la seconda prova",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/palio-di-siena-la-contrada-della-giraffa-vince-la-seconda-prova_8f61f3bd-c513-4c7c-b018-90d02a3d8f83.html",
      "data": "2026-08-14T07:39:49+00:00"
-    },
-    {
-     "titolo": "Trovato il bimbo autistico scomparso ieri da casa nel Mantovano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/trovato-il-bimbo-autistico-scomparso-ieri-da-casa-nel-mantovano_d9196608-e320-4d07-8622-c91e4b47f283.html",
-     "data": "2026-08-14T07:16:22+00:00"
-    },
-    {
-     "titolo": "Assoturismo, a Ferragosto l'afa premia la montagna, 1,6 milioni presenze nel weekend",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/assoturismo-a-ferragosto-lafa-premia-la-montagna-16-milioni-presenze-nel-weekend_ffff2317-f484-48da-88eb-d85ca2e9e691.html",
-     "data": "2026-08-14T07:00:52+00:00"
-    },
-    {
-     "titolo": "Incidente in montagna in Alto Adige, turista tedesco precipita e muore",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/incidente-in-montagna-in-alto-adige-turista-tedesco-precipita-e-muore_7160a38d-1532-434b-ace8-38593aa3b143.html",
-     "data": "2026-08-14T06:57:46+00:00"
-    },
-    {
-     "titolo": "Incidente in un'officina nel Reggino, muore un meccanico di 31 anni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/incidente-in-unofficina-nel-reggino-muore-un-meccanico-di-31-anni_90a8e4f5-da8f-4de4-b1db-dfe315e41108.html",
-     "data": "2026-08-14T07:14:28+00:00"
-    },
-    {
-     "titolo": "Minacce online al sindaco di Bologna dopo il caso Fakir, 20 persone indagate",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/minacce-online-al-sindaco-di-bologna-dopo-il-caso-fakir-20-persone-indagate_6ef266d2-aec1-4b66-acc6-6c7399708eb8.html",
-     "data": "2026-08-14T06:17:26+00:00"
-    },
-    {
-     "titolo": "Incendio alle porte di Como, Canadair ora in azione",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/incendio-alle-porte-di-como-canadair-ora-in-azione_632b6584-9d36-441d-aea7-16aa7eac0450.html",
-     "data": "2026-08-14T06:03:17+00:00"
-    },
-    {
-     "titolo": "Giovane ucciso a Trani, fermato un 17enne per omicidio volontario",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/giovane-ucciso-a-trani-fermato-un-17enne-per-omicidio-volontario_9eccc324-d693-4e54-a419-60283b4696f5.html",
-     "data": "2026-08-14T07:49:08+00:00"
-    },
-    {
-     "titolo": "Bimbo autistico si allontana da casa, ricerche nel Mantovano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/bimbo-autistico-si-allontana-da-casa-ricerche-nel-mantovano_a2927d68-d591-4cd7-992f-9793450ebdee.html",
-     "data": "2026-08-14T05:06:15+00:00"
-    },
-    {
-     "titolo": "Ancora fiamme in provincia di Como, arrivano i Canadair",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/ancora-fiamme-in-provincia-di-como-arrivano-i-canadair_fb71b3a4-8719-49bc-9fed-70df7d2a366c.html",
-     "data": "2026-08-14T04:54:22+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Meloni: 'La crisi dei migranti dimostra che l'Europa deve proteggere i confini'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/14/meloni-la-crisi-dei-migranti-dimostra-che-leuropa-deve-proteggere-i-confini_688162f9-0adb-4dc7-9f4f-77a10af4a364.html",
+     "data": "2026-08-14T08:11:04+00:00"
+    },
     {
      "titolo": "Piantedosi: 'Revocheremo lo stop a Schengen solo con la fine totale dei rischi'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/13/piantedosi-revocheremo-lo-stop-a-schengen-solo-con-la-fine-totale-dei-rischi_09eb6109-df15-4976-a0db-203b1027ebbb.html",
@@ -221,70 +226,80 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Borsa: Milano senza una direzione con l'Europa, bene Leonardo",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-milano-senza-una-direzione-con-leuropa-bene-leonardo_d2c666fe-422f-46bc-a38f-37f3e7aa18ed.html",
-     "data": "2026-08-14T07:53:43+00:00"
+     "titolo": "Ilo, nel mondo 67 milioni di giovani disoccupati, meno lavoro per l'Ia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/ilo-nel-mondo-67-milioni-di-giovani-disoccupati-meno-lavoro-per-lia_62827697-5ee4-425d-913c-3d25652d02c3.html",
+     "data": "2026-08-14T09:22:02+00:00"
     },
     {
-     "titolo": "Borsa: l'Europa parte incerta, Londra -0,1%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-leuropa-parte-incerta-londra-01_a950155b-38b2-4101-b309-a4c34e4aa4b0.html",
-     "data": "2026-08-14T07:11:56+00:00"
+     "titolo": "Quasi 4 giovani disoccupati per ogni adulto disoccupato in Italia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/ilo-quasi-4-giovani-disoccupati-per-ogni-adulto-disoccupato-in-italia_b4c2a54f-938e-4700-a828-116304919c9c.html",
+     "data": "2026-08-14T09:24:00+00:00"
     },
     {
-     "titolo": "Nuovo rialzo dei prezzi carburanti, self benzina a 1,989 euro, gasolio a 2,087",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/nuovo-rialzo-dei-prezzi-carburanti-self-benzina-a-1989-euro-gasolio_a57c4b8e-23f9-4a54-800f-5374bf148cb9.html",
-     "data": "2026-08-14T07:09:30+00:00"
+     "titolo": "Nell'Eurozona il Pil sale dello 0,4% nel secondo trimestre",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/nelleurozona-il-pil-sale-dello-04-nel-secondo-trimestre_1cb86fe1-2974-48d0-b4ed-07dc90cb8155.html",
+     "data": "2026-08-14T09:23:04+00:00"
     },
     {
-     "titolo": "Borsa: Milano apre in lieve rialzo, Ftse Mib +0,15%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-milano-apre-in-lieve-rialzo-ftse-mib-015_3647b45e-b00b-465e-a3f9-ad945c3bbf5b.html",
-     "data": "2026-08-14T07:09:48+00:00"
+     "titolo": "Oxford Economics, 'più che il caldo l'Europa deve temere l'inverno'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/oxford-economics-piu-che-il-caldo-leuropa-deve-temere-linverno_b2ce67e3-b013-440a-aee5-221619ca1dab.html",
+     "data": "2026-08-14T09:24:33+00:00"
     },
     {
-     "titolo": "Nuovo rialzo dei prezzi carburanti, self benzina a 1,989 euro, gasolio a 2,087",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/nuovo-rialzo-dei-prezzi-carburanti-self-benzina-a-1989-euro-gasolio_315f5bda-3122-4494-a8b6-32d0c2323be2.html",
-     "data": "2026-08-14T07:21:52+00:00"
+     "titolo": "DeepSeek lancia V4-Pro e rialza i prezzi fino al 1.100%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/deepseek-lancia-v4-pro-e-rialza-i-prezzi-fino-al-1.100_f35f8eee-9115-42a0-8eb5-8d951c0ac12e.html",
+     "data": "2026-08-14T09:12:04+00:00"
     },
     {
-     "titolo": "La nuova frontiera del fisco, le tasse spaziali",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/la-nuova-frontiera-del-fisco-le-tasse-spaziali_34994f25-bc67-48e9-ad2f-39f70ad6fa70.html",
-     "data": "2026-08-14T07:14:20+00:00"
+     "titolo": "Auto elettriche, in Cina oltre il 60% delle vendite per la prima volta",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/auto-elettriche-in-cina-oltre-il-60-delle-vendite-per-la-prima-volta_98393cf7-6b5a-4abe-abda-3d087b1535e2.html",
+     "data": "2026-08-14T09:07:01+00:00"
     },
     {
-     "titolo": "Il Venezuela concede le licenze per il gas a tre imprese straniere",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/il-venezuela-concede-le-licenze-per-il-gas-a-tre-imprese-straniere_70eba0b7-2848-4755-87d0-584e16ed939d.html",
-     "data": "2026-08-14T07:16:33+00:00"
+     "titolo": "L'Argentina agevola l'accesso ai prestiti in dollari per le imprese",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/largentina-agevola-laccesso-ai-prestiti-in-dollari-per-le-imprese_a82673fa-61b4-499d-9f0e-0b19eb24ff53.html",
+     "data": "2026-08-14T08:50:18+00:00"
     },
     {
-     "titolo": "Il gas parte piatto a 60,3 euro al Megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/il-gas-parte-piatto-a-603-euro-al-megawattora_c983a5c3-e938-4914-b59b-4ba5c396fbd9.html",
-     "data": "2026-08-14T06:51:57+00:00"
+     "titolo": "Cgia, botteghe a rischio e -25% di artigiani in dieci anni",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/cgia-botteghe-a-rischio-e-25-di-artigiani-in-dieci-anni_9d286dc0-e285-435c-923b-b36786eb9223.html",
+     "data": "2026-08-14T09:01:40+00:00"
     },
     {
-     "titolo": "Codacons, marea di rincari a Ferragosto, servono controlli a tappeto",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/codacons-marea-di-rincari-a-ferragosto-servono-controlli-a-tappeto_f86700b6-e9fd-4f32-8014-0155debe6cda.html",
-     "data": "2026-08-14T07:11:30+00:00"
+     "titolo": "Cna, con il caldo cambia il carrello degli italiani, ma non sale il conto",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/cna-con-il-caldo-cambia-il-carrello-degli-italiani-ma-non-sale-il-conto_5d5fdc89-0487-4088-9e6b-f270e4582e5e.html",
+     "data": "2026-08-14T09:01:06+00:00"
     },
     {
-     "titolo": "Lo spread tra Btp e Bund apre stabile a 76 punti base",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/lo-spread-tra-btp-e-bund-apre-stabile-a-76-punti-base_22c6dbfd-4a10-4741-958c-5fa7e01c61b7.html",
-     "data": "2026-08-14T06:40:08+00:00"
+     "titolo": "Iata, caro-carburanti su compagnie aeree per 350 miliardi dollari, +40%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/iata-caro-carburanti-su-compagnie-aeree-per-350-miliardi-dollari-40_eba06278-7a06-4e5e-971c-61386bb1c370.html",
+     "data": "2026-08-14T08:59:50+00:00"
     },
     {
-     "titolo": "Borsa: l'Asia senza una direzione guarda alla Fed, bene Seul (+2,2%)",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-lasia-senza-una-direzione-guarda-alla-fed-bene-seul_609e6fac-da40-4c83-a8a6-5d57d1301651.html",
-     "data": "2026-08-14T06:38:04+00:00"
+     "titolo": "Bankitalia, nuovo record del debito, a giugno supera i 3.200 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/bankitalia-nuovo-record-del-debito-a-giugno-supera-i-3.200-miliardi_2e0698e6-edfc-4c8e-9cce-c81af7428d4a.html",
+     "data": "2026-08-14T08:51:42+00:00"
     },
     {
-     "titolo": "Oro in calo in avvio, spot a 4.330,4 dollari l'oncia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/oro-in-calo-in-avvio-spot-a-4.3304-dollari-loncia_3e3675fd-8799-43d5-ae29-10a820a25a24.html",
-     "data": "2026-08-14T06:27:10+00:00"
+     "titolo": "A Siena consiglio comunale in seduta straordinaria su Mps",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/a-siena-consiglio-comunale-in-seduta-straordinaria-su-mps_59a2b2e8-5fee-4f1d-9be2-ca6f98324dba.html",
+     "data": "2026-08-14T08:13:22+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/cinque-italiani-nel-villaggio-palestinese-assediato-dai-coloni-israeliani_010d0962-af37-4418-a540-d30bea4968e2.html",
+     "data": "2026-08-14T09:22:32+00:00"
+    },
+    {
+     "titolo": "Cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/14/cinque-italiani-nel-villaggio-palestinese-assediato-dai-coloni-israeliani_3c074ba5-2565-490e-a9c2-920ffc7dde61.html",
+     "data": "2026-08-14T09:07:42+00:00"
+    },
     {
      "titolo": "In Bolivia piano contro i narcos dal Brasile dopo impennata di violenze",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/in-bolivia-piano-contro-i-narcos-dal-brasile-dopo-impennata-di-violenze_149c3295-1ec4-4293-aacf-6953daba5539.html",
@@ -334,16 +349,6 @@
      "titolo": "Trump impone tariffe del 100% sulle importazioni di droni",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/14/trump-impone-tariffe-del-100-sulle-importazioni-di-droni_afa22de8-05c7-47bf-bc86-8374e8449d7d.html",
      "data": "2026-08-13T22:01:56+00:00"
-    },
-    {
-     "titolo": "Bolivia, il presidente Paz si scusa per la carenza di carburante",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/bolivia-il-presidente-paz-si-scusa-per-la-carenza-di-carburante_d6355cb3-fd72-4f52-94de-8f2486814016.html",
-     "data": "2026-08-13T21:58:09+00:00"
-    },
-    {
-     "titolo": "Marco Bechis torna con 'Back to Buenos Aires' a Venezia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/marco-bechis-torna-con-back-to-buenos-aires-a-venezia_74420412-ba0b-4169-80cf-a4009a6bfb2a.html",
-     "data": "2026-08-13T21:39:35+00:00"
     }
    ]
   },
@@ -416,6 +421,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei nuoto: Cerasuolo vola in semifinale nei 50 rana con il record italiano",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/europei-nuoto-cerasuolo-vola-in-semifinale-nei-50-rana-con-il-record-italiano_c9089fd4-c791-4a4f-9c35-d913b9358fc2.html",
+     "data": "2026-08-14T08:16:39+00:00"
+    },
+    {
      "titolo": "Europei nuoto: Curtis va in semifinale nei 50 stile libero",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/europei-nuoto-curtis-va-in-semifinale-nei-50-stile-libero_57d8ddd0-8be0-4a80-a3b6-f63c0bee0c69.html",
      "data": "2026-08-14T07:52:39+00:00"
@@ -469,11 +479,6 @@
      "titolo": "Europei nuoto: Meloni videochiama Curtis 'Congratulazionissime! Tanto, tanto orgoglio'",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/europei-nuoto-meloni-videochiama-curtis-congratulazionissime-tanto-tanto-orgoglio_7726655d-044e-4a4d-a09a-6f101e152b67.html",
      "data": "2026-08-13T19:50:48+00:00"
-    },
-    {
-     "titolo": "Calciomercato: Roma su Fofana se salta Mora, Vlahovic al Besikitas saluta la Juve",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/13/calciomercato-roma-su-fofana-se-salta-mora-vlahovic-al-besikitas-saluta-la-juve_989ae4eb-02cb-49d7-ada6-4bc7f8c1832e.html",
-     "data": "2026-08-13T19:43:06+00:00"
     }
    ]
   }
