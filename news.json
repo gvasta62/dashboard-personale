@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-14T17:22:01.261585+00:00",
+ "aggiornato": "2026-08-14T18:11:19.960765+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, 'i dispiegamenti delle forze Usa in Iran non sono troppo lunghi'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/trump-i-dispiegamenti-delle-forze-usa-in-iran-non-sono-troppo-lunghi_1e38b280-12f6-46e3-97cd-e8df47363194.html",
+     "data": "2026-08-14T17:50:36+00:00"
+    },
     {
      "titolo": "Undici cadaveri in mare al largo delle coste libiche",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/undici-cadaveri-in-mare-al-largo-delle-coste-libiche_ac2d6667-8806-41d5-b5b6-b280eb86a911.html",
@@ -49,11 +54,6 @@
      "titolo": "Borsa: l'Europa chiude contrastata, Parigi -0,16%, Francoforte +0,53%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/borsa-leuropa-chiude-contrastata-parigi-016-francoforte-053_32402819-414b-4bfe-8a1b-7a4fd4aa23f5.html",
      "data": "2026-08-14T15:56:22+00:00"
-    },
-    {
-     "titolo": "Ponte Morandi: Meloni, 'l'Italia non dimentica, sicurezza sia sempre una priorità'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/ponte-morandi-meloni-litalia-non-dimentica-sicurezza-sia-sempre-una_29771823-b112-46c6-ba58-10fb4ba59641.html",
-     "data": "2026-08-14T15:50:33+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Disperso nel lago di Como, continuano le ricerche al largo di Lenno",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/disperso-nel-lago-di-como-continuano-le-ricerche-al-largo-di-lenno_0cd7b0a7-3baa-4426-a4f7-d0f5235d24ee.html",
+     "data": "2026-08-14T17:58:07+00:00"
+    },
+    {
+     "titolo": "Ranucci va avanti, lavora sul nuovo ciclo di Report",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/ranucci-va-avanti-lavora-sul-nuovo-ciclo-di-report_60c416c9-16af-4848-b843-e6fb0e34ba7b.html",
+     "data": "2026-08-14T17:54:11+00:00"
+    },
+    {
+     "titolo": "Il caldo allenta la morsa, domenica solo una città 'rossa'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/il-caldo-allenta-la-morsa-domenica-solo-una-citta-rossa_328f306a-87d4-4b1b-b9bc-c1ee6620cb54.html",
+     "data": "2026-08-14T17:59:07+00:00"
+    },
+    {
      "titolo": "Undici cadaveri in mare al largo delle coste libiche",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/undici-cadaveri-in-mare-al-largo-delle-coste-libiche_7e4c75fe-820f-42e8-8c9f-5fd0bb3922f7.html",
      "data": "2026-08-14T17:03:04+00:00"
@@ -166,30 +181,20 @@
      "data": "2026-08-14T13:55:28+00:00"
     },
     {
-     "titolo": "Ranucci va avanti, lavora sul nuovo ciclo di Report",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/il-legale-di-ranucci-lui-vittima-ma-gli-si-imputa-un-danno-dimmagine_60c416c9-16af-4848-b843-e6fb0e34ba7b.html",
-     "data": "2026-08-14T15:42:25+00:00"
-    },
-    {
      "titolo": "Si tuffa dalla barca e non riemerge, un disperso nel lago di Como",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/si-tuffa-dalla-barca-e-non-riemerge-un-disperso-nel-lago-di-como_913bd48f-35ad-422f-94ab-e5c69168a138.html",
      "data": "2026-08-14T12:47:09+00:00"
-    },
-    {
-     "titolo": "Precipita e muore nel Cuneese un escursionista francese di 81 anni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/precipita-e-muore-nel-cuneese-un-escursionista-francese-di-81-anni_9fec96c7-0c78-4971-99e2-1c3beceb08e2.html",
-     "data": "2026-08-14T12:41:29+00:00"
-    },
-    {
-     "titolo": "Incendio sui monti del Friuli, rinforzi dalla Slovenia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/incendio-sui-monti-del-friuli-rinforzi-dalla-slovenia_31db1485-0cbf-4b5b-8f4e-28f0e446b047.html",
-     "data": "2026-08-14T12:32:32+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Trans e allattamento, Vannacci dichiara guerra alle ostetriche",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/14/trans-e-allattamento-vannacci-dichiara-guerra-alle-ostetriche_74891541-f2d6-4ccc-b7af-57d6d89d2475.html",
+     "data": "2026-08-14T17:27:50+00:00"
+    },
     {
      "titolo": "Salvini: 'Lega è una, chi la pensa in maniera diversa non è il partito'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/14/salvini-lega-e-una-chi-la-pensa-in-maniera-diversa-non-e-il-partito_27a6dbda-834d-4367-b25e-8ae5fd210957.html",
@@ -296,6 +301,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump, 'i dispiegamenti delle forze Usa in Iran non sono troppo lunghi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/14/trump-i-dispiegamenti-delle-forze-usa-in-iran-non-sono-troppo-lunghi_9d1b97fb-a379-4df8-bccb-5e63919b35c9.html",
+     "data": "2026-08-14T17:51:01+00:00"
+    },
+    {
      "titolo": "Lula cerca un contatto con Trump, 'non interferisca nelle elezioni'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/lula-cerca-un-contatto-con-trump-non-interferisca-nelle-elezioni_c46094c6-ad9c-47d6-a31a-1695d0a7ac9d.html",
      "data": "2026-08-14T16:48:08+00:00"
@@ -349,11 +359,6 @@
      "titolo": "Allarme clima in Sudafrica e Africa australe, prevista estate segnata da El Nino",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/14/allarme-clima-in-sudafrica-e-africa-australe-prevista-estate-segnata-da-el-nino_583b80d1-7dc4-4445-aea6-c0be3f27f3c0.html",
      "data": "2026-08-14T10:08:44+00:00"
-    },
-    {
-     "titolo": "Cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/14/cinque-italiani-nel-villaggio-palestinese-assediato-dai-coloni-israeliani_3c074ba5-2565-490e-a9c2-920ffc7dde61.html",
-     "data": "2026-08-14T09:07:42+00:00"
     }
    ]
   },
@@ -426,6 +431,41 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei nuoto: Ceccon settimo nei 50 dorso, oro al ceco Knedla",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/europei-nuoto-ceccon-settimo-nei-50-dorso-oro-al-ceco-knedla_096e7a55-ad92-4019-8b9a-ec38eba0dd3b.html",
+     "data": "2026-08-14T18:01:13+00:00"
+    },
+    {
+     "titolo": "Finlay Tarling muore in un incidente con un'auto al Giro del Portogallo",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/14/finlay-tarling-muore-in-un-incidente-con-unauto-al-giro-del-portogallo_81d43d92-6f1f-44c6-b2e3-9e645d72d05e.html",
+     "data": "2026-08-14T17:58:08+00:00"
+    },
+    {
+     "titolo": "Ora è ufficiale, Bezos entra nel capitale del Liverpool",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/ora-e-ufficiale-bezos-entra-nel-capitale-del-liverpool_4f50bd42-99b1-4831-aa77-3e91bd94047b.html",
+     "data": "2026-08-14T17:47:40+00:00"
+    },
+    {
+     "titolo": "Europei atletica: Palmisano 'marcia stravolta, si vaga senza meta'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-atletica-palmisano-marcia-stravolta-si-vaga-senza-meta_3de1749b-5996-4078-8bbd-f930203789e6.html",
+     "data": "2026-08-14T17:39:20+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: Curtis in finale nei 50 stile libero",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/europei-nuoto-curtis-in-finale-nei-50-stile-libero-_57d8ddd0-8be0-4a80-a3b6-f63c0bee0c69.html",
+     "data": "2026-08-14T17:36:52+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: Curtis in finale nei 50 stile libero",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/europei-nuoto-curtis-in-finale-nei-50-stile-libero_1ccf769d-1bd0-4f5b-aa4f-4aa819655574.html",
+     "data": "2026-08-14T17:28:47+00:00"
+    },
+    {
+     "titolo": "Prima cessione Milan, Athekame in prestito al Lione",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/prima-cessione-milan-athekame-in-prestito-al-lione_4ba54c93-f66f-41dd-9e9e-3779f8dbd44e.html",
+     "data": "2026-08-14T17:23:18+00:00"
+    },
+    {
      "titolo": "Lazio: Frattesi a Roma, visite mediche poi firma del contratto",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/lazio-frattesi-a-roma-visite-mediche-poi-firma-del-contratto_ffa16209-6806-4c39-8d11-686335b7c543.html",
      "data": "2026-08-14T17:14:07+00:00"
@@ -434,11 +474,6 @@
      "titolo": "Europei nuoto: Cerasuolo e Martinenghi in finale nei 50 rana",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/europei-nuoto-cerasuolo-e-martinenghi-in-finale-nei-50-rana_e5d00b9b-6ec2-4e94-b3b4-9b33e0445626.html",
      "data": "2026-08-14T17:08:51+00:00"
-    },
-    {
-     "titolo": "Giro del Portogallo, ciclista 19enne muore travolto da un'auto",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/14/giro-del-portogallo-ciclista-19enne-muore-travolto-da-unauto_81d43d92-6f1f-44c6-b2e3-9e645d72d05e.html",
-     "data": "2026-08-14T17:07:10+00:00"
     },
     {
      "titolo": "Borussia Dortmund-Roma, Gasp convoca Molina. Out per infortunio Wesley",
@@ -454,36 +489,6 @@
      "titolo": "Europei nuoto: D'Ambrosio quinto nei 200 stile libero, oro a Popovici",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/europei-nuoto-dambrosio-quinto-nei-200-stile-libero-oro-a-popovici_997771de-b157-43d4-83d7-16e86d49f4ea.html",
      "data": "2026-08-14T16:49:16+00:00"
-    },
-    {
-     "titolo": "Lazio: Frattesi a Roma, visite mediche poi firma del contratto",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/lazio-frattesi-a-roma-visite-mediche-poi-firma-del-contratto_7e62fdba-3ee2-45ca-8a9e-2a9c1e526fa2.html",
-     "data": "2026-08-14T16:48:25+00:00"
-    },
-    {
-     "titolo": "Mbappé esalta Mourinho 'lui sa come vincere, e il Real tornerà a farlo'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/mbappe-esalta-mourinho-lui-sa-come-vincere-e-il-real-tornera-a-farlo_3e312d95-e996-4fe6-93b2-82fa7529af70.html",
-     "data": "2026-08-14T16:43:18+00:00"
-    },
-    {
-     "titolo": "Figc: \"I biglietti della Nazionale in vendita solo sui canali ufficiali\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/figc-i-biglietti-della-nazionale-in-vendita-solo-sui-canali-ufficiali_b126ddc1-fbcf-4761-9f30-0a1814ae03d8.html",
-     "data": "2026-08-14T16:41:46+00:00"
-    },
-    {
-     "titolo": "Zidane si affida a Falvo, l'ex chef Juve curerà la tavola della Francia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/zidane-si-affida-a-falvo-lex-chef-juve-curera-la-tavola-della-francia_c75a4baf-9686-48fa-9287-51f03b28af01.html",
-     "data": "2026-08-14T16:38:32+00:00"
-    },
-    {
-     "titolo": "Abate all'esordio, il suo Toro sfida la Carrarese in Coppa",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/abate-allesordio-il-suo-toro-sfida-la-carrarese-in-coppa_8f82cac7-d6b5-4f13-a711-72e280381cb0.html",
-     "data": "2026-08-14T16:37:24+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Italia sorride, va in finale la 4x100 mista",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/europei-nuoto-italia-sorride-va-in-finale-la-4x100-mista_2bc6aeeb-59b4-4426-8a42-df90ecac2cce.html",
-     "data": "2026-08-14T16:35:37+00:00"
     }
    ]
   }
