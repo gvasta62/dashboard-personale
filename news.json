@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-14T23:09:44.436879+00:00",
+ "aggiornato": "2026-08-14T23:43:16.670722+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Usa, 'numero esiguo di casi di salute mentale sulla Lincoln, nessuna vittima'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/usa-numero-esiguo-di-casi-di-salute-mentale-sulla-lincoln-nessuna-vittima_467fc295-a781-46f2-83d8-c6e27b861600.html",
+     "data": "2026-08-14T23:24:09+00:00"
+    },
     {
      "titolo": "Terremoto di magnitudo 7.7 in Indonesia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/terremoto-di-magnitudo-7.7-in-indonesia_46a82fd2-4359-47d8-bd9f-dcffa2fec351.html",
@@ -49,11 +54,6 @@
      "titolo": "Undici cadaveri in mare al largo delle coste libiche",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/undici-cadaveri-in-mare-al-largo-delle-coste-libiche_ac2d6667-8806-41d5-b5b6-b280eb86a911.html",
      "data": "2026-08-14T18:14:22+00:00"
-    },
-    {
-     "titolo": "Colpito per difendere il figlio, la Asl 'certificata la morte'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/colpito-per-difendere-il-figlio-la-asl-certificata-la-morte_f7cc6626-a78b-4d97-b4fa-ff0338256703.html",
-     "data": "2026-08-14T16:50:22+00:00"
     }
    ]
   },
@@ -286,6 +286,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Brasile, Petrobras conferma petrolio alla foce del Rio delle Amazzoni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/brasile-petrobras-conferma-petrolio-alla-foce-del-rio-delle-amazzoni_410d9db0-dedc-4e3e-a5b9-38e7973fc3cc.html",
+     "data": "2026-08-14T23:25:11+00:00"
+    },
+    {
+     "titolo": "Usa, 'numero esiguo di casi di salute mentale sulla Lincoln, nessuna vittima'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/15/usa-numero-esiguo-di-casi-di-salute-mentale-sulla-lincoln-nessuna-vittima_d0451d60-fc3e-4123-b69e-d0dce33f231f.html",
+     "data": "2026-08-14T23:24:08+00:00"
+    },
+    {
      "titolo": "Terremoto di magnitudo 7.7 in Indonesia",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/15/terremoto-di-magnitudo-7.7-in-indonesia_665f2507-4f16-4bdc-9a76-8a37942ef3a5.html",
      "data": "2026-08-14T22:55:32+00:00"
@@ -334,16 +344,6 @@
      "titolo": "Brasile, quote rosa insufficienti per aumentare la presenza femminile in politica",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/brasile-quote-rosa-insufficienti-per-aumentare-la-presenza-femminile-in-politica_536b2a2f-dea9-4d33-80ef-67b886bc0f27.html",
      "data": "2026-08-14T20:06:09+00:00"
-    },
-    {
-     "titolo": "Trump, 'i dispiegamenti delle forze Usa in Iran non sono troppo lunghi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/14/trump-i-dispiegamenti-delle-forze-usa-in-iran-non-sono-troppo-lunghi_9d1b97fb-a379-4df8-bccb-5e63919b35c9.html",
-     "data": "2026-08-14T17:51:01+00:00"
-    },
-    {
-     "titolo": "Lula cerca un contatto con Trump, 'non interferisca nelle elezioni'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/lula-cerca-un-contatto-con-trump-non-interferisca-nelle-elezioni_c46094c6-ad9c-47d6-a31a-1695d0a7ac9d.html",
-     "data": "2026-08-14T16:48:08+00:00"
     }
    ]
   },
