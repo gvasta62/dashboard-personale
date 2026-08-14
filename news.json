@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-14T09:31:17.283233+00:00",
+ "aggiornato": "2026-08-14T10:44:37.919048+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Noemi Bocchi concorrente a Ballando con le Stelle, l'ironia di Totti sui social",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/noemi-bocchi-concorrente-a-ballando-con-le-stelle-lironia-di-totti-sui-social_93812798-be41-4881-b1a2-380b45a0a3b2.html",
+     "data": "2026-08-14T10:11:50+00:00"
+    },
+    {
+     "titolo": "La Rai ricorda Baudo a un anno dalla morte, l'Ad Rossi 'simbolo del servizio pubblico'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/la-rai-ricorda-baudo-a-un-anno-dalla-morte-lad-rossi-simbolo-del_d9079dba-7d93-4e40-8cba-f5e8e4261320.html",
+     "data": "2026-08-14T09:45:13+00:00"
+    },
+    {
+     "titolo": "Cadavere di un'anziana in armadio, uccisa dal figlio che chiedeva soldi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/cadavere-di-unanziana-in-armadio-uccisa-dal-figlio-che-chiedeva-soldi_1c59ba32-d2c8-42b9-aa07-a04cedcdd702.html",
+     "data": "2026-08-14T09:39:25+00:00"
+    },
     {
      "titolo": "Ilo, nel mondo 67 milioni di giovani disoccupati, meno lavoro per l'Ia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/ilo-nel-mondo-67-milioni-di-giovani-disoccupati-meno-lavoro-per-lia_42cfacbe-2719-4753-9531-c47b0e35a0b7.html",
@@ -39,27 +54,22 @@
      "titolo": "Cgia, botteghe a rischio e -25% di artigiani in dieci anni",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/cgia-botteghe-a-rischio-e-25-di-artigiani-in-dieci-anni_de5d3079-9e1a-478e-8749-c29ae44fa433.html",
      "data": "2026-08-14T08:49:38+00:00"
-    },
-    {
-     "titolo": "Cna, con il caldo cambia il carrello degli italiani, ma non sale il conto",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/cna-con-il-caldo-cambia-il-carrello-degli-italiani-ma-non-sale-il-conto_a3a3446a-4be6-402a-b0ba-f206f62813bc.html",
-     "data": "2026-08-14T08:49:02+00:00"
-    },
-    {
-     "titolo": "Bankitalia, nuovo record del debito, a giugno supera i 3.200 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/bankitalia-nuovo-record-del-debito-a-giugno-supera-i-3.200-miliardi_c8750a90-6d18-4933-aee3-283a358aba23.html",
-     "data": "2026-08-14T08:32:03+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa parte incerta, Londra -0,1%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/borsa-leuropa-parte-incerta-londra-01_edac8cbc-51f5-44d2-acc6-581a1d5c493c.html",
-     "data": "2026-08-14T07:11:53+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "La E45 osservata speciale dall'Anas per il traffico di ferragosto",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/14/la-e45-osservata-speciale-dallanas-per-il-traffico-di-ferragosto_94143ae4-c45a-4028-bd10-f3561d494d97.html",
+     "data": "2026-08-14T09:52:18+00:00"
+    },
+    {
+     "titolo": "Sull'Umbria atteso ferragosto con il cielo generalmente sereno",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/14/sullumbria-atteso-ferragosto-con-il-cielo-generalmente-sereno_27ca0c98-d77b-48b1-a3d8-5a5eba17ea25.html",
+     "data": "2026-08-14T09:29:36+00:00"
+    },
     {
      "titolo": "Prefetto Terni richiama il Consiglio comunale al 'contegno'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/13/prefetto-terni-richiama-il-consiglio-comunale-al-contegno_df2cf243-b825-4d98-8f66-012c02d45fab.html",
@@ -109,22 +119,62 @@
      "titolo": "Dal 14 agosto la galleria Madonna Alta sarà nuovamente tutta percorribile",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/13/dal-14-agosto-la-galleria-madonna-alta-sara-nuovamente-tutta-percorribile_3b9d4a8a-76c7-471b-a949-847f79b41561.html",
      "data": "2026-08-13T09:45:37+00:00"
-    },
-    {
-     "titolo": "Bandecchi dopo il caso Toti, torni obbligatoriamente l'immunità parlamentare",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/13/bandecchi-dopo-il-caso-toti-torni-obbligatoriamente-limmunita-parlamentare_f311b944-1959-4d76-b8f6-d566a8b939f9.html",
-     "data": "2026-08-13T08:29:05+00:00"
-    },
-    {
-     "titolo": "Al Calvi Festival arriva 'Rock opera evolution '70'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/12/al-calvi-festival-arriva-rock-opera-evolution-70_a317eab4-6900-48b5-991f-c1b815ffefe1.html",
-     "data": "2026-08-12T16:04:30+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Calano i bollini rossi per il caldo, a Ferragosto solo a Bari e Bolzano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/calano-i-bollini-rossi-per-il-caldo-a-ferragosto-solo-a-bari-e-bolzano_2d3329b5-69bd-463a-9bdc-f50579bbef2e.html",
+     "data": "2026-08-14T10:40:27+00:00"
+    },
+    {
+     "titolo": "Anas, per il ponte di Ferragosto si muovono oltre 24 milioni di auto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/anas-per-il-ponte-di-ferragosto-si-muovono-oltre-24-milioni-di-auto_8e7fbe8a-93c8-4b4e-9892-a5c521fb80be.html",
+     "data": "2026-08-14T10:37:52+00:00"
+    },
+    {
+     "titolo": "Crollo Morandi: Bucci, data del 14 agosto sia un faro per chi ha responsabilità",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/crollo-morandi-bucci-data-del-14-agosto-sia-un-faro-per-chi_188dffd1-a4ee-4e35-9c66-cd0cf24cf799.html",
+     "data": "2026-08-14T10:20:09+00:00"
+    },
+    {
+     "titolo": "Abusa e molesta due ragazze in spiaggia, arrestato un 18enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/abusa-e-molesta-due-ragazze-in-spiaggia-arrestato-un-18enne_edc7ae2e-8fa8-46da-b6c6-0d81c36ea8d7.html",
+     "data": "2026-08-14T10:18:31+00:00"
+    },
+    {
+     "titolo": "Perde il controllo dell'auto e travolge un bimbo sul marciapiede, è grave",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/perde-il-controllo-dellauto-e-travolge-un-bimbo-sul-marciapiede-e-grave_edf601e6-500c-4830-8336-884353732b19.html",
+     "data": "2026-08-14T10:11:44+00:00"
+    },
+    {
+     "titolo": "Perseguita la moglie per 4 anni, arrestato dalla polizia locale a Milano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/perseguita-la-moglie-per-4-anni-arrestato-dalla-polizia-locale-a-milano_3a6bf53e-a88c-4d6d-8f2e-40653e3a10ed.html",
+     "data": "2026-08-14T09:59:28+00:00"
+    },
+    {
+     "titolo": "Parenti delle vittime del ponte Morandi: \"In attesa dell'appello ma con più fiducia\"",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/parenti-delle-vittime-del-ponte-morandi-in-attesa-dellappello-ma-con-piu_6b4f57e2-c60b-461d-bbbb-ac04cb23c135.html",
+     "data": "2026-08-14T09:53:24+00:00"
+    },
+    {
+     "titolo": "Le vacanze estive un must per le famiglie, il turismo family 'vale oltre 15 miliardi'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/le-vacanze-estive-un-must-per-le-famiglie-il-turismo-family-vale-oltre-15-miliardi_e57e559f-4798-414d-b192-0ad7c655ef0e.html",
+     "data": "2026-08-14T09:53:01+00:00"
+    },
+    {
+     "titolo": "Cadavere di un'anziana in armadio, uccisa dal figlio che chiedeva soldi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/cadavere-di-unanziana-in-armadio-uccisa-dal-figlio-che-chiedeva-soldi_80056070-0b8e-462a-abbb-8a4eca64ec55.html",
+     "data": "2026-08-14T09:39:27+00:00"
+    },
+    {
+     "titolo": "Recuperati i tre quadri di Cezanne, Matisse e Renoir rubati a Parma",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/recuperati-i-tre-quadri-di-cezanne-matisse-e-renoir-rubati-a-parma_37630a2f-51f5-42f4-92fc-3c880ac393b4.html",
+     "data": "2026-08-14T10:25:04+00:00"
+    },
     {
      "titolo": "Gorizia è la capitale italiana del verde fruibile",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/gorizia-e-la-capitale-italiana-del-verde-fruibile_cc8a25b8-8260-4cb9-8589-bbe85aa5a56a.html",
@@ -134,56 +184,6 @@
      "titolo": "Cadavere di un'anziana in armadio, uccisa dal figlio che chiedeva soldi per droga",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/cadavere-di-unanziana-in-armadio-uccisa-dal-figlio-che-chiedeva-soldi-per_98ba27ae-f1b9-49ba-9b93-cc15bfe8fe4f.html",
      "data": "2026-08-14T09:04:52+00:00"
-    },
-    {
-     "titolo": "Febbre del Nilo, salgono a 14 i casi di persone contagiate in Sardegna",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/febbre-del-nilo-salgono-a-14-i-casi-di-persone-contagiate-in-sardegna_d3e161b2-e900-4311-8a49-90a1b40458c1.html",
-     "data": "2026-08-14T09:05:39+00:00"
-    },
-    {
-     "titolo": "Trattore si ribalta, muore una ragazza di 22 anni nel Cuneese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/trattore-si-ribalta-muore-una-ragazza-di-22-anni-nel-cuneese_ee23edc8-c097-4beb-9bdd-07dd1be965ff.html",
-     "data": "2026-08-14T09:03:43+00:00"
-    },
-    {
-     "titolo": "Trattore si ribalta, muore una ragazza di 22 anni nel Cuneese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/trattore-si-ribalta-muore-una-ragazza-di-22-anni-nel-cuneese_531aefce-7a9b-4b05-bb25-c67c12be7d58.html",
-     "data": "2026-08-14T09:15:10+00:00"
-    },
-    {
-     "titolo": "Dai bivacchi all'abbigliamento, Cortina stringe sul turismo 'cafone'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/dai-bivacchi-allabbigliamento-cortina-stringe-sul-turismo-cafone_44496190-4a9f-4db5-b07d-3557a32473ca.html",
-     "data": "2026-08-14T08:59:30+00:00"
-    },
-    {
-     "titolo": "Crollo Morandi: Possetti, ci aspettavamo una figura centrale dello Stato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/crollo-morandi-possetti-ci-aspettavamo-una-figura-centrale-dello-stato_957c96bf-d0d5-4c28-9bfa-083f85f0349c.html",
-     "data": "2026-08-14T08:31:32+00:00"
-    },
-    {
-     "titolo": "Auto sulla folla a Modena, torna a casa il marito di Monica Esposito",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/auto-sulla-folla-a-modena-torna-a-casa-il-marito-di-monica-esposito_e1a17a3d-67ef-43f8-8081-0dadf9229335.html",
-     "data": "2026-08-14T08:03:46+00:00"
-    },
-    {
-     "titolo": "A Como 50 sfollati per gli incendi della notte",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/a-como-50-sfollati-per-gli-incendi-della-notte_89ee7b50-a731-426a-8def-1c0def6376ec.html",
-     "data": "2026-08-14T07:47:58+00:00"
-    },
-    {
-     "titolo": "Bucci: \"Ponte Morandi, otto anni fa Genova veniva colpita al cuore\"",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/bucci-ponte-morandi-otto-anni-fa-genova-veniva-colpita-al-cuore_6b4f57e2-c60b-461d-bbbb-ac04cb23c135.html",
-     "data": "2026-08-14T09:19:26+00:00"
-    },
-    {
-     "titolo": "Componente di un gruppo criminale turco estradato in Italia dall'Olanda",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/componente-di-un-gruppo-criminale-turco-estradato-in-italia-dallolanda_e3301396-75e1-428e-988c-6d3ca87d96c5.html",
-     "data": "2026-08-14T07:43:01+00:00"
-    },
-    {
-     "titolo": "Palio di Siena, la Contrada della Giraffa vince la seconda prova",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/palio-di-siena-la-contrada-della-giraffa-vince-la-seconda-prova_8f61f3bd-c513-4c7c-b018-90d02a3d8f83.html",
-     "data": "2026-08-14T07:39:49+00:00"
     }
    ]
   },
@@ -225,6 +225,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: l'Europa piatta in attesa dei dati Usa, bene l'euro a 1,155 contro il dollaro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-leuropa-piatta-in-attesa-dei-dati-usa-bene-leuro-a-1155_a1f875a0-974d-4031-8ef3-f9c155f40012.html",
+     "data": "2026-08-14T10:30:49+00:00"
+    },
     {
      "titolo": "Ilo, nel mondo 67 milioni di giovani disoccupati, meno lavoro per l'Ia",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/ilo-nel-mondo-67-milioni-di-giovani-disoccupati-meno-lavoro-per-lia_62827697-5ee4-425d-913c-3d25652d02c3.html",
@@ -279,11 +284,6 @@
      "titolo": "Bankitalia, nuovo record del debito, a giugno supera i 3.200 miliardi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/bankitalia-nuovo-record-del-debito-a-giugno-supera-i-3.200-miliardi_2e0698e6-edfc-4c8e-9cce-c81af7428d4a.html",
      "data": "2026-08-14T08:51:42+00:00"
-    },
-    {
-     "titolo": "A Siena consiglio comunale in seduta straordinaria su Mps",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/a-siena-consiglio-comunale-in-seduta-straordinaria-su-mps_59a2b2e8-5fee-4f1d-9be2-ca6f98324dba.html",
-     "data": "2026-08-14T08:13:22+00:00"
     }
    ]
   },
@@ -291,9 +291,14 @@
    "nome": "Mondo",
    "voci": [
     {
-     "titolo": "Cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/cinque-italiani-nel-villaggio-palestinese-assediato-dai-coloni-israeliani_010d0962-af37-4418-a540-d30bea4968e2.html",
-     "data": "2026-08-14T09:22:32+00:00"
+     "titolo": "Allarme clima in Sudafrica e Africa australe, prevista estate segnata da El Nino",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/14/allarme-clima-in-sudafrica-e-africa-australe-prevista-estate-segnata-da-el-nino_583b80d1-7dc4-4445-aea6-c0be3f27f3c0.html",
+     "data": "2026-08-14T10:08:44+00:00"
+    },
+    {
+     "titolo": "Medio Oriente, cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/medio-oriente-cinque-italiani-nel-villaggio-palestinese-assediato-dai-coloni_010d0962-af37-4418-a540-d30bea4968e2.html",
+     "data": "2026-08-14T10:34:14+00:00"
     },
     {
      "titolo": "Cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
@@ -344,11 +349,6 @@
      "titolo": "Osservatorio diritti umani Cuba, la povertà estrema è al 94%",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/osservatorio-diritti-umani-cuba-la-poverta-estrema-e-al-94_9ce4c44b-14ee-4628-95d0-bc334f1ea521.html",
      "data": "2026-08-13T22:18:51+00:00"
-    },
-    {
-     "titolo": "Trump impone tariffe del 100% sulle importazioni di droni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/14/trump-impone-tariffe-del-100-sulle-importazioni-di-droni_afa22de8-05c7-47bf-bc86-8374e8449d7d.html",
-     "data": "2026-08-13T22:01:56+00:00"
     }
    ]
   },
@@ -421,6 +421,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Lazio-Frattesi in stand-by, club al lavoro per sbloccare l'affare",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/lazio-frattesi-in-stand-by-club-al-lavoro-per-sbloccare-laffare_ffa16209-6806-4c39-8d11-686335b7c543.html",
+     "data": "2026-08-14T10:19:45+00:00"
+    },
+    {
+     "titolo": "Pugilato: morto il portoricano Prichard Colón, finì in coma per colpi illegali",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/14/pugilato-morto-il-portoricano-prichard-colon-fini-in-coma-per-colpi-illegali_0577175c-8f76-4db5-b0dc-09215d436a1c.html",
+     "data": "2026-08-14T10:38:56+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: Italia sorride, va in finale la 4x100 mista",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/europei-nuoto-italia-sorride-va-in-finale-la-4x100-mista_2bc6aeeb-59b4-4426-8a42-df90ecac2cce.html",
+     "data": "2026-08-14T10:17:53+00:00"
+    },
+    {
      "titolo": "Europei nuoto: Cerasuolo vola in semifinale nei 50 rana con il record italiano",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/europei-nuoto-cerasuolo-vola-in-semifinale-nei-50-rana-con-il-record-italiano_c9089fd4-c791-4a4f-9c35-d913b9358fc2.html",
      "data": "2026-08-14T08:16:39+00:00"
@@ -464,21 +479,6 @@
      "titolo": "Europei atletica: 200 metri donne, oro all'inglese Amy Hunt",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/13/europei-atletica-200-metri-donne-oro-allinglese-amy-hunt_83cfe392-8519-45b3-8404-3114142be06f.html",
      "data": "2026-08-13T21:07:43+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Derkach 'è la serata più bella della mia carriera'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/13/europei-atletica-derkach-e-la-serata-piu-bella-della-mia-carriera_20215aad-e63b-47bc-8d45-7ce85638aa3c.html",
-     "data": "2026-08-13T20:55:17+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Pernici quinto negli 800 metri",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/13/europei-atletica-pernici-quinto-negli-800-metri_2b613414-581b-4dbd-8e66-3c0d94494d18.html",
-     "data": "2026-08-13T20:48:20+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Meloni videochiama Curtis 'Congratulazionissime! Tanto, tanto orgoglio'",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/europei-nuoto-meloni-videochiama-curtis-congratulazionissime-tanto-tanto-orgoglio_7726655d-044e-4a4d-a09a-6f101e152b67.html",
-     "data": "2026-08-13T19:50:48+00:00"
     }
    ]
   }
