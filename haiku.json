@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-08-13T05:27:11.060982+00:00",
- "data": "2026-08-13",
- "testo": "Sole sui tetti\nun lenzuolo dimenticato\nsull'aia del podere",
- "nota": "Nella luce piena, un lenzuolo bianco lasciato steso in un'aia di campagna.",
+ "aggiornato": "2026-08-14T05:24:55.033264+00:00",
+ "data": "2026-08-14",
+ "testo": "Sera di agosto\nun pipistrello vira\nsopra il campanile",
+ "nota": "Al crepuscolo un pipistrello sfreccia attorno alla torre della chiesa.",
  "archivio": [
+  {
+   "data": "2026-08-14",
+   "testo": "Sera di agosto\nun pipistrello vira\nsopra il campanile",
+   "nota": "Al crepuscolo un pipistrello sfreccia attorno alla torre della chiesa."
+  },
   {
    "data": "2026-08-13",
    "testo": "Sole sui tetti\nun lenzuolo dimenticato\nsull'aia del podere",
