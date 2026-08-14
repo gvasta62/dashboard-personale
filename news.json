@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-14T05:11:16.003975+00:00",
+ "aggiornato": "2026-08-14T06:49:30.266542+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Lo spread tra Btp e Bund apre stabile a 76 punti base",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/lo-spread-tra-btp-e-bund-apre-stabile-a-76-punti-base_b4d75fdc-98e8-4aa1-9680-8534196eb69e.html",
+     "data": "2026-08-14T06:40:09+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Asia senza una direzione guarda alla Fed, bene Seul (+2,2%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/borsa-lasia-senza-una-direzione-guarda-alla-fed-bene-seul_d6b8141d-2514-4f48-8de3-41394bb7dee8.html",
+     "data": "2026-08-14T06:37:48+00:00"
+    },
+    {
+     "titolo": "Petrolio in rialzo in avvio, wti a 81,98 dollari al barile (+0,9%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/petrolio-in-rialzo-in-avvio-wti-a-8198-dollari-al-barile-09_4ea0fb80-361a-49c7-a7ae-96bd07fd0868.html",
+     "data": "2026-08-14T06:22:28+00:00"
+    },
     {
      "titolo": "Trump impone tariffe del 100% sulle importazioni di droni",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/trump-impone-tariffe-del-100-sulle-importazioni-di-droni_eb121873-2eda-4095-9b5d-c1b48bdd6341.html",
@@ -39,21 +54,6 @@
      "titolo": "Mosca, 'infondate le critiche sulle isole Curili, da Tokyo revisionismo'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/mosca-infondate-le-critiche-sulle-isole-curili-da-tokyo-revisionismo_b43340d3-3d99-4a6e-a849-28ccce30f3ff.html",
      "data": "2026-08-13T18:43:51+00:00"
-    },
-    {
-     "titolo": "Media, Kiev ha proposto a Mosca una tregua su obiettivi civili nel Mar Nero",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/media-kiev-ha-proposto-a-mosca-una-tregua-su-obiettivi-civili-nel-mar_7d56a14e-c16c-45d6-a7a3-e183196b6593.html",
-     "data": "2026-08-13T17:24:50+00:00"
-    },
-    {
-     "titolo": "Gip, 'da Lavitola dichiarazioni fumose e senza alcun riscontro'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/gip-da-lavitola-dichiarazioni-fumose-e-senza-alcun-riscontro_5cfa30c7-588d-4283-b181-ed685cb3653a.html",
-     "data": "2026-08-13T17:13:47+00:00"
-    },
-    {
-     "titolo": "Boeing condannata a pagare 29 milioni per disastro in cui morirono anche 8 italiani",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/13/boeing-condannata-a-pagare-29-milioni-per-disastro-in-cui-morirono-anche-8-italiani_9e725848-5384-4bb9-bb99-a3a0570d1d97.html",
-     "data": "2026-08-13T17:04:57+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Minacce online al sindaco di Bologna dopo il caso Fakir, 20 persone indagate",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/minacce-online-al-sindaco-di-bologna-dopo-il-caso-fakir-20-persone-indagate_6ef266d2-aec1-4b66-acc6-6c7399708eb8.html",
+     "data": "2026-08-14T06:17:26+00:00"
+    },
+    {
+     "titolo": "Incendio alle porte di Como, Canadair ora in azione",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/incendio-alle-porte-di-como-canadair-ora-in-azione_632b6584-9d36-441d-aea7-16aa7eac0450.html",
+     "data": "2026-08-14T06:03:17+00:00"
+    },
+    {
+     "titolo": "Giovane ucciso a Trani, fermato un 17enne per omicidio volontario",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/giovane-ucciso-a-trani-fermato-un-17enne-per-omicidio-volontario_9eccc324-d693-4e54-a419-60283b4696f5.html",
+     "data": "2026-08-14T06:05:51+00:00"
+    },
+    {
      "titolo": "Bimbo autistico si allontana da casa, ricerche nel Mantovano",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/bimbo-autistico-si-allontana-da-casa-ricerche-nel-mantovano_a2927d68-d591-4cd7-992f-9793450ebdee.html",
      "data": "2026-08-14T05:06:15+00:00"
@@ -169,21 +184,6 @@
      "titolo": "Unione montana, il rogo sul Monte Barone si avvicina alle baite",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/unione-montana-il-rogo-sul-monte-barone-si-avvicina-alle-baite_cc2bc60f-9505-4a15-8c7e-dc21286b689f.html",
      "data": "2026-08-13T19:19:39+00:00"
-    },
-    {
-     "titolo": "Minorenne picchiata, abusata e abbandonata in strada: c'è un arresto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/minorenne-picchiata-abusata-e-abbandonata-in-strada-ce-un-arresto_9e054237-0bf5-4ad2-a69e-e7500a5a6470.html",
-     "data": "2026-08-13T21:54:37+00:00"
-    },
-    {
-     "titolo": "Mattarella a Bertolaso: 'Grazie per l'assistenza ai ragazzi di Crans'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/mattarella-a-bertolaso-grazie-per-lassistenza-ai-ragazzi-di-crans_96a970af-ae95-40ae-801f-43782307b429.html",
-     "data": "2026-08-13T18:14:01+00:00"
-    },
-    {
-     "titolo": "Scout 16enne colpito da un fulmine, è in lieve miglioramento",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/scout-16enne-colpito-da-un-fulmine-e-in-lieve-miglioramento_2341569d-b81b-4177-a691-17d1eee65ed4.html",
-     "data": "2026-08-13T17:38:34+00:00"
     }
    ]
   },
@@ -221,6 +221,36 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Codacons, marea di rincari a Ferragosto, servono controlli a tappeto",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/codacons-marea-di-rincari-a-ferragosto-servono-controlli-a-tappeto_f86700b6-e9fd-4f32-8014-0155debe6cda.html",
+     "data": "2026-08-14T06:43:29+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund apre stabile a 76 punti base",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/lo-spread-tra-btp-e-bund-apre-stabile-a-76-punti-base_22c6dbfd-4a10-4741-958c-5fa7e01c61b7.html",
+     "data": "2026-08-14T06:40:08+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Asia senza una direzione guarda alla Fed, bene Seul (+2,2%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-lasia-senza-una-direzione-guarda-alla-fed-bene-seul_609e6fac-da40-4c83-a8a6-5d57d1301651.html",
+     "data": "2026-08-14T06:38:04+00:00"
+    },
+    {
+     "titolo": "Oro in calo in avvio, spot a 4.330,4 dollari l'oncia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/oro-in-calo-in-avvio-spot-a-4.3304-dollari-loncia_3e3675fd-8799-43d5-ae29-10a820a25a24.html",
+     "data": "2026-08-14T06:27:10+00:00"
+    },
+    {
+     "titolo": "Petrolio in rialzo in avvio, wti a 81,98 dollari al barile (+0,9%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/petrolio-in-rialzo-in-avvio-wti-a-8198-dollari-al-barile-09_1525269a-5c49-4e83-ae3d-5fa916d270fb.html",
+     "data": "2026-08-14T06:22:32+00:00"
+    },
+    {
+     "titolo": "L'euro a 1,1543 dollari, +0,13%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/leuro-a-11543-dollari-013_35b52af6-7b1d-4229-b43c-08d9abf17e77.html",
+     "data": "2026-08-14T06:16:20+00:00"
+    },
+    {
      "titolo": "Balzo dell'8% dei consumi elettrici, a luglio è nuovo record",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/balzo-dell8-dei-consumi-elettrici-a-luglio-e-nuovo-record_ef3ca3ee-9835-4f45-b5ba-8a7cfd08f491.html",
      "data": "2026-08-13T21:24:20+00:00"
@@ -249,36 +279,6 @@
      "titolo": "Lo spread tra Btp e Bund chiude in lieve calo a 76,4 punti base",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/lo-spread-tra-btp-e-bund-chiude-in-lieve-calo-a-764-punti-base_11a8bbd3-6434-473b-95c2-898b90ce12a2.html",
      "data": "2026-08-13T16:10:02+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa conclude piatta, Londra debole (-0,6%)",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/borsa-leuropa-conclude-piatta-londra-debole-06_66df8baa-e974-48d2-b578-4c1f74a153d1.html",
-     "data": "2026-08-13T15:46:02+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude incerta, Ftse Mib -0,01%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/borsa-milano-chiude-incerta-ftse-mib-001_ae09ec69-d14c-442d-a0b0-d09572f692c7.html",
-     "data": "2026-08-13T15:41:40+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano piatta (+0,3%) con l'Europa dopo l'avvio di Wall street, bene Nexi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/borsa-milano-piatta-03-con-leuropa-dopo-lavvio-di-wall-street-bene_3eb3b8dc-5fdb-45f6-8215-aad47826994f.html",
-     "data": "2026-08-13T14:08:26+00:00"
-    },
-    {
-     "titolo": "Salvini accelera per contributo genitori separati entro 2026",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/salvini-accelera-per-contributo-genitori-separati-entro-2026_5eac5d56-c3c6-4ffe-8dce-83722e1422a4.html",
-     "data": "2026-08-13T13:26:38+00:00"
-    },
-    {
-     "titolo": "Il petrolio frena a New York, cede più del 2%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/il-petrolio-frena-a-new-york-cede-piu-del-2_37ab3ead-7734-4dab-8bb9-4c36f188c298.html",
-     "data": "2026-08-13T13:04:17+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa in rialzo, Londra frenata dai minerari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/borsa-europa-in-rialzo-londra-frenata-dai-minerari_e43b6ca6-99a6-4745-abe8-a7b312521e57.html",
-     "data": "2026-08-13T12:05:46+00:00"
     }
    ]
   },
