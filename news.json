@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-14T22:45:06.079670+00:00",
+ "aggiornato": "2026-08-14T23:09:44.436879+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Terremoto di magnitudo 7.7 in Indonesia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/terremoto-di-magnitudo-7.7-in-indonesia_46a82fd2-4359-47d8-bd9f-dcffa2fec351.html",
+     "data": "2026-08-14T22:55:30+00:00"
+    },
     {
      "titolo": "\"Giro del Portogallo deve proseguire\", dice presidente della Federazione di ciclismo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/giro-del-portogallo-deve-proseguire-dice-presidente-della-federazione-di-ciclismo_ce106885-a4aa-47b5-9b33-5bb652a32563.html",
@@ -49,11 +54,6 @@
      "titolo": "Colpito per difendere il figlio, la Asl 'certificata la morte'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/colpito-per-difendere-il-figlio-la-asl-certificata-la-morte_f7cc6626-a78b-4d97-b4fa-ff0338256703.html",
      "data": "2026-08-14T16:50:22+00:00"
-    },
-    {
-     "titolo": "Salvini, Lega è una, chi la pensa in maniera diversa non è il partito",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/salvini-lega-e-una-chi-la-pensa-in-maniera-diversa-non-e-il-partito_df8db216-257d-463c-89d0-5bca2be2bc97.html",
-     "data": "2026-08-14T16:47:53+00:00"
     }
    ]
   },
@@ -286,6 +286,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Terremoto di magnitudo 7.7 in Indonesia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/15/terremoto-di-magnitudo-7.7-in-indonesia_665f2507-4f16-4bdc-9a76-8a37942ef3a5.html",
+     "data": "2026-08-14T22:55:32+00:00"
+    },
+    {
      "titolo": "Brasile, Lula resta avanti su Flávio Bolsonaro nei sondaggi ma il vantaggio si riduce",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/brasile-lula-resta-avanti-su-flavio-bolsonaro-nei-sondaggi-ma-il-vantaggio-si-riduce_6b4f10ab-fb41-42aa-8150-84952d0db968.html",
      "data": "2026-08-14T22:19:05+00:00"
@@ -339,11 +344,6 @@
      "titolo": "Lula cerca un contatto con Trump, 'non interferisca nelle elezioni'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/lula-cerca-un-contatto-con-trump-non-interferisca-nelle-elezioni_c46094c6-ad9c-47d6-a31a-1695d0a7ac9d.html",
      "data": "2026-08-14T16:48:08+00:00"
-    },
-    {
-     "titolo": "Dall'inizio del governo Trump rimpatriati 271 mila messicani",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/dallinizio-del-governo-trump-rimpatriati-271-mila-messicani_62ff2435-273d-47c4-b976-290a48aa2bf6.html",
-     "data": "2026-08-14T16:28:51+00:00"
     }
    ]
   },
@@ -416,6 +416,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Al Master 1000 di Cincinnati buona la prima per Berrettini e  Sonego",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/al-master-1000-di-cincinnati-buona-la-prima-per-berrettini-e-sonego_f9d0d4f5-4067-4ef2-9f83-f96909c2f913.html",
+     "data": "2026-08-14T22:51:08+00:00"
+    },
+    {
      "titolo": "\"Giro del Portogallo deve proseguire\", dice presidente della Federazione di ciclismo",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/15/giro-del-portogallo-deve-proseguire-dice-presidente-della-federazione-di-ciclismo_5f00fc14-23af-475c-9956-e8f0ad6d04c6.html",
      "data": "2026-08-14T22:38:56+00:00"
@@ -469,11 +474,6 @@
      "titolo": "Ufficiale Frattesi alla Lazio, ha firmato il contratto",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/ufficiale-frattesi-alla-lazio-ha-firmato-il-contratto_4d07c0ea-bff3-41a0-86cc-c9f0af236ab4.html",
      "data": "2026-08-14T20:43:15+00:00"
-    },
-    {
-     "titolo": "Europei atletica: bronzo Desalu nei 200 metri, oro al tedesco Ansah",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-atletica-bronzo-desalu-nei-200-metri-oro-al-tedesco-ansah_de0e7a31-db84-4c34-843a-0ae7d9cd40d6.html",
-     "data": "2026-08-14T20:33:57+00:00"
     }
    ]
   }
