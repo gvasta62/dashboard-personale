@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-14T19:24:30.062811+00:00",
+ "aggiornato": "2026-08-14T20:00:31.091910+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Scontro nel porto di Vibo Marina tra un gommone e un'imbarcazione, un morto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/scontro-nel-porto-di-vibo-marina-tra-un-gommone-e-unimbarcazione-un-morto_ce12707f-2d86-4790-baea-7251e7b7a51b.html",
+     "data": "2026-08-14T19:44:32+00:00"
+    },
+    {
      "titolo": "Faro degli inquirenti su cellulari e pc di Lavitola. Tavares: 'Tornerò'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/faro-degli-inquirenti-su-cellulari-e-pc-di-lavitola.-tavares-tornero_7d998228-523e-49c3-be93-7af7b01f417c.html",
      "data": "2026-08-14T19:12:56+00:00"
@@ -143,7 +148,7 @@
     {
      "titolo": "Crolla il balcone di un'abitazione a Livorno, morta una donna",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/crolla-il-balcone-di-unabitazione-a-livorno-morta-una-donna_ad502003-9e8d-4c8a-b5dc-eb7ca86e11d1.html",
-     "data": "2026-08-14T18:33:41+00:00"
+     "data": "2026-08-14T19:24:05+00:00"
     },
     {
      "titolo": "L'Etna non da' tregua, aeroporto chiuso a Ferragosto e passeggeri in tilt",
@@ -179,11 +184,6 @@
      "titolo": "Incendio alle porte di Como, sotto controllo dopo 30 ore",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/incendio-alle-porte-di-como-sotto-controllo-dopo-30-ore_8f1ca1c5-78b0-480a-a05f-d98c276a515e.html",
      "data": "2026-08-14T16:43:08+00:00"
-    },
-    {
-     "titolo": "Colpito con un pugno per difendere il figlio, l'uomo è morto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/colpito-per-difendere-il-figlio-la-asl-certificata-la-morte_856b7fd4-5946-4d7b-8295-336400e64aed.html",
-     "data": "2026-08-14T18:18:57+00:00"
     }
    ]
   },
@@ -191,9 +191,9 @@
    "nome": "Politica",
    "voci": [
     {
-     "titolo": "Vannacci contro le ostetriche, a congresso di Riccione sessione sull'allattamento nella comunità trans",
+     "titolo": "Ostetriche a Vannacci: 'Non rispondiamo a logiche di partito'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/14/trans-e-allattamento-vannacci-dichiara-guerra-alle-ostetriche_74891541-f2d6-4ccc-b7af-57d6d89d2475.html",
-     "data": "2026-08-14T19:15:59+00:00"
+     "data": "2026-08-14T19:36:44+00:00"
     },
     {
      "titolo": "Salvini: 'Lega è una, chi la pensa in maniera diversa non è il partito'",
@@ -323,7 +323,7 @@
     {
      "titolo": "Erano con la famiglia assediata dai coloni a Qusra, l'Idf evacua i cinque italiani",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/medio-oriente-case-palestinesi-a-qusra-assediate-da-coloni-israeliani-evacuati-cinque_010d0962-af37-4418-a540-d30bea4968e2.html",
-     "data": "2026-08-14T18:06:23+00:00"
+     "data": "2026-08-14T19:43:34+00:00"
     },
     {
      "titolo": "In Brasile 258 omicidi di leader indigeni nel 2025, in aumento del 22%",
@@ -416,6 +416,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei atletica: Battocletti 'mi sono divertita un sacco, grande giornata'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-atletica-battocletti-mi-sono-divertita-un-sacco-grande-giornata_94bc81c9-3050-4b53-8a6a-2ea040e7f99e.html",
+     "data": "2026-08-14T19:39:21+00:00"
+    },
+    {
+     "titolo": "Europei atletica: Battocletti oro nei 10.000 metri",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-atletica-battocletti-oro-nei-10.000-metri_c42e8413-4922-4bc9-b51c-bd24322d1e3b.html",
+     "data": "2026-08-14T19:53:54+00:00"
+    },
+    {
+     "titolo": "Ginnastica ritmica: Raffaeli bronzo mondiale, primo pass azzurro per i Giochi",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/ginnastica-ritmica-raffaeli-bronzo-mondiale-primo-pass-azzurro-per-i-giochi_6d569fc7-d567-4815-82bd-7640ae20604e.html",
+     "data": "2026-08-14T19:21:04+00:00"
+    },
+    {
      "titolo": "Infinita Quadarella, bis nei 1500 sl per il decimo oro europeo",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/infinita-quadarella-bis-nei-1500-sl-per-il-decimo-oro-europeo_e5bce2db-84f8-4c84-8e6e-fb252985c4eb.html",
      "data": "2026-08-14T19:17:45+00:00"
@@ -459,21 +474,6 @@
      "titolo": "Europei nuoto: Ceccon settimo nei 50 dorso, oro al ceco Knedla",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/europei-nuoto-ceccon-settimo-nei-50-dorso-oro-al-ceco-knedla_096e7a55-ad92-4019-8b9a-ec38eba0dd3b.html",
      "data": "2026-08-14T18:01:13+00:00"
-    },
-    {
-     "titolo": "Finlay Tarling muore in un incidente con un'auto al Giro del Portogallo",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/14/finlay-tarling-muore-in-un-incidente-con-unauto-al-giro-del-portogallo_81d43d92-6f1f-44c6-b2e3-9e645d72d05e.html",
-     "data": "2026-08-14T18:08:54+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Palmisano 'marcia stravolta, si vaga senza meta'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-atletica-palmisano-marcia-stravolta-si-vaga-senza-meta_3de1749b-5996-4078-8bbd-f930203789e6.html",
-     "data": "2026-08-14T17:39:20+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Curtis in finale nei 50 stile libero",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/europei-nuoto-curtis-in-finale-nei-50-stile-libero-_57d8ddd0-8be0-4a80-a3b6-f63c0bee0c69.html",
-     "data": "2026-08-14T17:36:52+00:00"
     }
    ]
   }
