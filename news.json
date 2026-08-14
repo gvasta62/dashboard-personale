@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-14T10:44:37.919048+00:00",
+ "aggiornato": "2026-08-14T11:33:31.481793+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Frontex, ingressi irregolari nell'Ue in calo del 37% nei primi 7 mesi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/frontex-ingressi-irregolari-nellue-in-calo-del-37-nei-primi-7-mesi_62764da0-ebdf-412f-bd9d-b3d755ed0f72.html",
+     "data": "2026-08-14T11:08:21+00:00"
+    },
+    {
+     "titolo": "Colpito per difendere figlio, Asl 'al via iter per certificare morte'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/colpito-per-difendere-figlio-asl-al-via-iter-per-certificare-morte_db1d5089-c3bd-4038-8a61-f17efddb1b17.html",
+     "data": "2026-08-14T10:59:07+00:00"
+    },
+    {
+     "titolo": "Il fatturato 2026 di OpenAI oltre i 40 miliardi in vista dell'Ipo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/il-fatturato-2026-di-openai-oltre-i-40-miliardi-in-vista-dellipo_2aeb50d0-9080-4f10-9c84-0bca183a4dd4.html",
+     "data": "2026-08-14T10:41:33+00:00"
+    },
+    {
+     "titolo": "Calano i bollini rossi per il caldo, a Ferragosto solo a Bari e Bolzano",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/calano-i-bollini-rossi-per-il-caldo-a-ferragosto-solo-a-bari-e-bolzano_0d0641ed-faa3-43f0-b3f7-ec0bc54ce7c5.html",
+     "data": "2026-08-14T10:40:29+00:00"
+    },
     {
      "titolo": "Noemi Bocchi concorrente a Ballando con le Stelle, l'ironia di Totti sui social",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/noemi-bocchi-concorrente-a-ballando-con-le-stelle-lironia-di-totti-sui-social_93812798-be41-4881-b1a2-380b45a0a3b2.html",
@@ -34,32 +54,17 @@
      "titolo": "Oxford Economics, 'più che il caldo l'Europa deve temere l'inverno'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/oxford-economics-piu-che-il-caldo-leuropa-deve-temere-linverno_9b3c568d-60a4-4b65-ba4a-904719ea7777.html",
      "data": "2026-08-14T09:16:59+00:00"
-    },
-    {
-     "titolo": "Nell'Eurozona il Pil sale dello 0,4% nel secondo trimestre",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/nelleurozona-il-pil-sale-dello-04-nel-secondo-trimestre_7970a9ba-0a01-471f-959e-6fca2420facf.html",
-     "data": "2026-08-14T09:17:42+00:00"
-    },
-    {
-     "titolo": "Cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/cinque-italiani-nel-villaggio-palestinese-assediato-dai-coloni-israeliani_b83def10-fd64-46df-b108-ca18d9687243.html",
-     "data": "2026-08-14T09:07:26+00:00"
-    },
-    {
-     "titolo": "Trattore si ribalta, muore una ragazza di 22 anni nel Cuneese",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/trattore-si-ribalta-muore-una-ragazza-di-22-anni-nel-cuneese_e6defffb-5635-4d14-97c8-0ef9bcf997ff.html",
-     "data": "2026-08-14T09:03:50+00:00"
-    },
-    {
-     "titolo": "Cgia, botteghe a rischio e -25% di artigiani in dieci anni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/cgia-botteghe-a-rischio-e-25-di-artigiani-in-dieci-anni_de5d3079-9e1a-478e-8749-c29ae44fa433.html",
-     "data": "2026-08-14T08:49:38+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Più di mille identificati per un rave party non autorizzato in Umbria",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/14/piu-di-mille-identificati-per-un-rave-party-non-autorizzato-in-umbria_75c4a024-9a9c-4797-9ce5-9e52943a71f0.html",
+     "data": "2026-08-14T10:46:53+00:00"
+    },
     {
      "titolo": "La E45 osservata speciale dall'Anas per il traffico di ferragosto",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/14/la-e45-osservata-speciale-dallanas-per-il-traffico-di-ferragosto_94143ae4-c45a-4028-bd10-f3561d494d97.html",
@@ -114,17 +119,22 @@
      "titolo": "'888 - Le donne cantano San Francesco', da Curtatone ad Assisi",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/13/888-le-donne-cantano-san-francesco-da-curtatone-ad-assisi_cd812c28-3116-4a63-9539-75a89bdd4b91.html",
      "data": "2026-08-13T11:22:23+00:00"
-    },
-    {
-     "titolo": "Dal 14 agosto la galleria Madonna Alta sarà nuovamente tutta percorribile",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/13/dal-14-agosto-la-galleria-madonna-alta-sara-nuovamente-tutta-percorribile_3b9d4a8a-76c7-471b-a949-847f79b41561.html",
-     "data": "2026-08-13T09:45:37+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Colpito per difendere figlio, Asl 'al via iter per certificare morte'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/colpito-per-difendere-figlio-asl-al-via-iter-per-certificare-morte_856b7fd4-5946-4d7b-8295-336400e64aed.html",
+     "data": "2026-08-14T11:10:16+00:00"
+    },
+    {
+     "titolo": "Incendio sui monti del Friuli, in azione tagliafuoco e Canadair",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/incendio-sui-monti-del-friuli-in-azione-tagliafuoco-e-canadair_36134b1b-dc64-4260-af58-4bcbca419c58.html",
+     "data": "2026-08-14T10:45:16+00:00"
+    },
     {
      "titolo": "Calano i bollini rossi per il caldo, a Ferragosto solo a Bari e Bolzano",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/calano-i-bollini-rossi-per-il-caldo-a-ferragosto-solo-a-bari-e-bolzano_2d3329b5-69bd-463a-9bdc-f50579bbef2e.html",
@@ -158,7 +168,7 @@
     {
      "titolo": "Parenti delle vittime del ponte Morandi: \"In attesa dell'appello ma con più fiducia\"",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/parenti-delle-vittime-del-ponte-morandi-in-attesa-dellappello-ma-con-piu_6b4f57e2-c60b-461d-bbbb-ac04cb23c135.html",
-     "data": "2026-08-14T09:53:24+00:00"
+     "data": "2026-08-14T11:28:40+00:00"
     },
     {
      "titolo": "Le vacanze estive un must per le famiglie, il turismo family 'vale oltre 15 miliardi'",
@@ -174,16 +184,6 @@
      "titolo": "Recuperati i tre quadri di Cezanne, Matisse e Renoir rubati a Parma",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/recuperati-i-tre-quadri-di-cezanne-matisse-e-renoir-rubati-a-parma_37630a2f-51f5-42f4-92fc-3c880ac393b4.html",
      "data": "2026-08-14T10:25:04+00:00"
-    },
-    {
-     "titolo": "Gorizia è la capitale italiana del verde fruibile",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/gorizia-e-la-capitale-italiana-del-verde-fruibile_cc8a25b8-8260-4cb9-8589-bbe85aa5a56a.html",
-     "data": "2026-08-14T09:08:18+00:00"
-    },
-    {
-     "titolo": "Cadavere di un'anziana in armadio, uccisa dal figlio che chiedeva soldi per droga",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/cadavere-di-unanziana-in-armadio-uccisa-dal-figlio-che-chiedeva-soldi-per_98ba27ae-f1b9-49ba-9b93-cc15bfe8fe4f.html",
-     "data": "2026-08-14T09:04:52+00:00"
     }
    ]
   },
@@ -225,6 +225,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Il fatturato 2026 di OpenAI oltre i 40 miliardi in vista dell'Ipo",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/il-fatturato-2026-di-openai-oltre-i-40-miliardi-in-vista-dellipo_cfd1d6ca-c688-426a-a45f-931aa22d37d5.html",
+     "data": "2026-08-14T11:15:50+00:00"
+    },
     {
      "titolo": "Borsa: l'Europa piatta in attesa dei dati Usa, bene l'euro a 1,155 contro il dollaro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-leuropa-piatta-in-attesa-dei-dati-usa-bene-leuro-a-1155_a1f875a0-974d-4031-8ef3-f9c155f40012.html",
@@ -279,11 +284,6 @@
      "titolo": "Iata, caro-carburanti su compagnie aeree per 350 miliardi dollari, +40%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/iata-caro-carburanti-su-compagnie-aeree-per-350-miliardi-dollari-40_eba06278-7a06-4e5e-971c-61386bb1c370.html",
      "data": "2026-08-14T08:59:50+00:00"
-    },
-    {
-     "titolo": "Bankitalia, nuovo record del debito, a giugno supera i 3.200 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/bankitalia-nuovo-record-del-debito-a-giugno-supera-i-3.200-miliardi_2e0698e6-edfc-4c8e-9cce-c81af7428d4a.html",
-     "data": "2026-08-14T08:51:42+00:00"
     }
    ]
   },
@@ -291,14 +291,24 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Medio Oriente, cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/medio-oriente-cinque-italiani-nel-villaggio-palestinese-assediato-dai-coloni_010d0962-af37-4418-a540-d30bea4968e2.html",
+     "data": "2026-08-14T11:15:52+00:00"
+    },
+    {
+     "titolo": "Frontex, ingressi irregolari nell'Ue in calo del 37% nei primi 7 mesi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/14/frontex-ingressi-irregolari-nellue-in-calo-del-37-nei-primi-7-mesi_c740b0a0-1154-4c95-9547-bb8f367c35aa.html",
+     "data": "2026-08-14T11:08:35+00:00"
+    },
+    {
+     "titolo": "Il dramma di tre gemelle colombiane, solo una sopravvissuta al sisma",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/il-dramma-di-tre-gemelle-colombiane-solo-una-sopravvissuta-al-sisma_374db0a1-ba76-4c7f-b88c-52ebb4e294a3.html",
+     "data": "2026-08-14T10:50:40+00:00"
+    },
+    {
      "titolo": "Allarme clima in Sudafrica e Africa australe, prevista estate segnata da El Nino",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/14/allarme-clima-in-sudafrica-e-africa-australe-prevista-estate-segnata-da-el-nino_583b80d1-7dc4-4445-aea6-c0be3f27f3c0.html",
      "data": "2026-08-14T10:08:44+00:00"
-    },
-    {
-     "titolo": "Medio Oriente, cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/medio-oriente-cinque-italiani-nel-villaggio-palestinese-assediato-dai-coloni_010d0962-af37-4418-a540-d30bea4968e2.html",
-     "data": "2026-08-14T10:34:14+00:00"
     },
     {
      "titolo": "Cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
@@ -339,16 +349,6 @@
      "titolo": "Argentina, Ypf, Eni e Xrg: 51 miliardi per esportare Gnl da Vaca Muerta",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/argentina-ypf-eni-e-xrg-51-miliardi-per-esportare-gnl-da-vaca-muerta_69b571fd-4e67-4a6a-b565-1210ed84b96d.html",
      "data": "2026-08-14T00:09:17+00:00"
-    },
-    {
-     "titolo": "Giappone: piogge torrenziali su Tokyo, quattro morti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/14/giappone-piogge-torrenziali-su-tokyo-quattro-morti_06e8c944-75ea-402c-8dd8-97469bfc0f52.html",
-     "data": "2026-08-14T00:07:57+00:00"
-    },
-    {
-     "titolo": "Osservatorio diritti umani Cuba, la povertà estrema è al 94%",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/osservatorio-diritti-umani-cuba-la-poverta-estrema-e-al-94_9ce4c44b-14ee-4628-95d0-bc334f1ea521.html",
-     "data": "2026-08-13T22:18:51+00:00"
     }
    ]
   },
@@ -423,7 +423,7 @@
     {
      "titolo": "Lazio-Frattesi in stand-by, club al lavoro per sbloccare l'affare",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/lazio-frattesi-in-stand-by-club-al-lavoro-per-sbloccare-laffare_ffa16209-6806-4c39-8d11-686335b7c543.html",
-     "data": "2026-08-14T10:19:45+00:00"
+     "data": "2026-08-14T10:58:24+00:00"
     },
     {
      "titolo": "Pugilato: morto il portoricano Prichard Colón, finì in coma per colpi illegali",
