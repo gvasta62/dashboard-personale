@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-14T21:12:39.950375+00:00",
+ "aggiornato": "2026-08-14T21:45:30.284237+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -286,6 +286,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Venezuela, governo annuncia la liberazione di 131 prigionieri politici",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/venezuela-governo-annuncia-la-liberazione-di-131-prigionieri-politici_6d7a25d6-782b-41a7-bdf6-061c91e1516e.html",
+     "data": "2026-08-14T21:32:49+00:00"
+    },
+    {
      "titolo": "Sono almeno 60 i prigionieri politici in Nicaragua, 23 risultano scomparsi",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/sono-almeno-60-i-prigionieri-politici-in-nicaragua-23-risultano-scomparsi_4d5721c2-1cd7-4f70-92df-227af96cdbba.html",
      "data": "2026-08-14T20:32:21+00:00"
@@ -339,11 +344,6 @@
      "titolo": "Mangione si chiara colpevole omicidio del ceo di UnitedHealthcare",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/14/mangione-si-chiara-colpevole-omicidio-del-ceo-di-unitedhealthcare_759eeea8-0415-4606-b6d8-ff322a90268c.html",
      "data": "2026-08-14T15:59:00+00:00"
-    },
-    {
-     "titolo": "Caldo e incendi in Gb, Burnham evoca un Paese trasformato in 'una polveriera'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/14/caldo-e-incendi-in-gb-burnham-evoca-un-paese-trasformato-in-polveriera_51278f63-3f1a-400d-a2f8-f4d287cfcb72.html",
-     "data": "2026-08-14T14:34:49+00:00"
     }
    ]
   },
@@ -416,9 +416,29 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Europei atletica: Tamberi vince nel salto in alto, bronzo a Sioli. Battocletti oro anche nei 10000",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-atletica-tamberi-vince-nel-salto-in-alto-bronzo-a-sioli.-battocletti_8c9349bf-0a5b-474a-91a8-154b9b629c14.html",
-     "data": "2026-08-14T21:02:38+00:00"
+     "titolo": "Europei atletica: Tamberi re dell'alto e Battocletti bis d'oro, Italia domina in Europa",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-atletica-tamberi-re-dellalto-e-battocletti-bis-doro-italia-domina-in-europa_8c9349bf-0a5b-474a-91a8-154b9b629c14.html",
+     "data": "2026-08-14T21:41:29+00:00"
+    },
+    {
+     "titolo": "Sarri, 'il mercato è palloso, un insulto alla mia professione'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/sarri-il-mercato-e-palloso-un-insulto-alla-mia-professione_2cb0ddb0-c3e3-4ccf-becb-b2b6edd71f5a.html",
+     "data": "2026-08-14T21:41:50+00:00"
+    },
+    {
+     "titolo": "Frattesi, 'alla Lazio per sentirmi importante, voglio essere protagonista'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/frattesi-alla-lazio-per-sentirmi-importante-voglio-essere-protagonista_a9896709-2ba4-4213-90ac-f5196757369a.html",
+     "data": "2026-08-14T21:35:10+00:00"
+    },
+    {
+     "titolo": "Coppa Italia: Fiorentina-Benevento 4-1, vittoria incoraggiante per i viola",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/coppa-italia-fiorentina-benevento-4-1-vittoria-incoraggiante-per-i-viola_f1f1e1fe-834f-4aa5-8d4a-ea02fa20c725.html",
+     "data": "2026-08-14T21:35:59+00:00"
+    },
+    {
+     "titolo": "Coppa Italia: avanzano Parma e Monza, fuori Catania e Avellino",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/coppa-italia-avanzano-parma-e-monza-fuori-catania-e-avellino_0dfaf7ac-3019-4d47-a47f-9b89ce278426.html",
+     "data": "2026-08-14T21:33:06+00:00"
     },
     {
      "titolo": "Zalewski affonda l'Athletic Bilbao, l'Atalanta vince il \"Bortolotti\"",
@@ -454,26 +474,6 @@
      "titolo": "Ginnastica ritmica: Raffaeli bronzo mondiale, primo pass azzurro per i Giochi",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/ginnastica-ritmica-raffaeli-bronzo-mondiale-primo-pass-azzurro-per-i-giochi_6d569fc7-d567-4815-82bd-7640ae20604e.html",
      "data": "2026-08-14T19:21:04+00:00"
-    },
-    {
-     "titolo": "Infinita Quadarella, bis nei 1500 sl per il decimo oro europeo",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/infinita-quadarella-bis-nei-1500-sl-per-il-decimo-oro-europeo_e5bce2db-84f8-4c84-8e6e-fb252985c4eb.html",
-     "data": "2026-08-14T19:17:45+00:00"
-    },
-    {
-     "titolo": "A Cincinnati Matteo Berrettini batte Droguet all'esordio",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/14/a-cincinnati-matteo-berrettini-batte-droguet-allesordio_f9d0d4f5-4067-4ef2-9f83-f96909c2f913.html",
-     "data": "2026-08-14T19:06:45+00:00"
-    },
-    {
-     "titolo": "Ora è ufficiale, Jeff Bezos entra nel capitale del Liverpool",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/ora-e-ufficiale-jeff-bezos-entra-nel-capitale-del-liverpool_4f50bd42-99b1-4831-aa77-3e91bd94047b.html",
-     "data": "2026-08-14T19:03:24+00:00"
-    },
-    {
-     "titolo": "Cincinnati, Berrettini batte Droguet all'esordio",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/14/cincinnati-berrettini-batte-droguet-allesordio_438c6a1f-f59e-4b90-870b-a799033ff3b4.html",
-     "data": "2026-08-14T19:02:45+00:00"
     }
    ]
   }
