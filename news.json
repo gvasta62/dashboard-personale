@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-14T22:09:23.930311+00:00",
+ "aggiornato": "2026-08-14T22:45:06.079670+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "\"Giro del Portogallo deve proseguire\", dice presidente della Federazione di ciclismo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/giro-del-portogallo-deve-proseguire-dice-presidente-della-federazione-di-ciclismo_ce106885-a4aa-47b5-9b33-5bb652a32563.html",
+     "data": "2026-08-14T22:38:39+00:00"
+    },
+    {
+     "titolo": "Cincinnati, Sonego vince all'esordio contro Shang",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/cincinnati-sonego-vince-allesordio-contro-shang_f4a06bf2-acea-40fb-b6a3-44d90f681f07.html",
+     "data": "2026-08-14T22:10:24+00:00"
+    },
     {
      "titolo": "Trump, 'colpiremo l'Iran in modo pesante economicamente'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/trump-colpiremo-liran-in-modo-pesante-economicamente_47ba2bc7-2c95-47f8-b7b2-a8066112810d.html",
@@ -44,16 +54,6 @@
      "titolo": "Salvini, Lega è una, chi la pensa in maniera diversa non è il partito",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/salvini-lega-e-una-chi-la-pensa-in-maniera-diversa-non-e-il-partito_df8db216-257d-463c-89d0-5bca2be2bc97.html",
      "data": "2026-08-14T16:47:53+00:00"
-    },
-    {
-     "titolo": "Il gas si mantiene a cavallo dei 61 euro sulla piazza Ttf di Amsterdam",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/il-gas-si-mantiene-a-cavallo-dei-61-euro-sulla-piazza-ttf-di-amsterdam_1c7b2270-ab86-4329-a02c-01c4c48a9700.html",
-     "data": "2026-08-14T16:47:00+00:00"
-    },
-    {
-     "titolo": "Ferrero acquisisce Purely Elizabeth e rafforza la sua presenza negli Usa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/ferrero-acquisisce-purely-elizabeth-e-rafforza-la-sua-presenza-negli-usa_73fd8746-2adc-4335-86e6-0f92830d153c.html",
-     "data": "2026-08-14T16:35:56+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-08-14T22:34:59+00:00"
+    },
+    {
+     "titolo": "Nel 2026 reati in calo del 10%, meno femminicidi. Piantedosi: 'Il Paese è tra i più sicuri al mondo'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/nel-2026-reati-in-calo-del-10-meno-femminicidi.-piantedosi-il-paese-e-tra_f98c6c4e-c207-4e00-80da-29cd4384e7de.html",
+     "data": "2026-08-14T22:25:23+00:00"
+    },
+    {
      "titolo": "Meccanico morto nel Reggino, 'officina non coinvolta nell'incidente'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/meccanico-morto-nel-reggino-officina-non-coinvolta-nellincidente_b512b4ed-5f73-47b1-99da-7a27a36171e1.html",
      "data": "2026-08-14T20:23:58+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Il caldo allenta la morsa, domenica solo una città 'rossa'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/il-caldo-allenta-la-morsa-domenica-solo-una-citta-rossa_328f306a-87d4-4b1b-b9bc-c1ee6620cb54.html",
      "data": "2026-08-14T17:59:07+00:00"
-    },
-    {
-     "titolo": "Undici cadaveri in mare al largo delle coste libiche",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/undici-cadaveri-in-mare-al-largo-delle-coste-libiche_7e4c75fe-820f-42e8-8c9f-5fd0bb3922f7.html",
-     "data": "2026-08-14T17:03:04+00:00"
-    },
-    {
-     "titolo": "Colpito per difendere il figlio, la Asl 'certificata la morte'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/colpito-per-difendere-il-figlio-la-asl-certificata-la-morte_18fbe262-4f74-4777-bdc9-c6a486681b89.html",
-     "data": "2026-08-14T16:50:19+00:00"
     }
    ]
   },
@@ -191,14 +191,14 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Matteo Salvini gela i frondisti: 'La Lega è una, chi non è d'accordo non la rappresenta'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/15/matteo-salvini-gela-i-frondisti-la-lega-e-una-chi-non-e-daccordo-non_27a6dbda-834d-4367-b25e-8ae5fd210957.html",
+     "data": "2026-08-14T22:10:08+00:00"
+    },
+    {
      "titolo": "Ostetriche a Vannacci: 'Non rispondiamo a logiche di partito'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/14/trans-e-allattamento-vannacci-dichiara-guerra-alle-ostetriche_74891541-f2d6-4ccc-b7af-57d6d89d2475.html",
      "data": "2026-08-14T19:36:44+00:00"
-    },
-    {
-     "titolo": "Salvini: 'Lega è una, chi la pensa in maniera diversa non è il partito'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/14/salvini-lega-e-una-chi-la-pensa-in-maniera-diversa-non-e-il-partito_27a6dbda-834d-4367-b25e-8ae5fd210957.html",
-     "data": "2026-08-14T22:06:19+00:00"
     },
     {
      "titolo": "Ponte Morandi: Meloni, 'l'Italia non dimentica, sicurezza sia sempre una priorità'",
@@ -286,6 +286,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Brasile, Lula resta avanti su Flávio Bolsonaro nei sondaggi ma il vantaggio si riduce",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/brasile-lula-resta-avanti-su-flavio-bolsonaro-nei-sondaggi-ma-il-vantaggio-si-riduce_6b4f10ab-fb41-42aa-8150-84952d0db968.html",
+     "data": "2026-08-14T22:19:05+00:00"
+    },
+    {
      "titolo": "Venezuela, governo annuncia la liberazione di 131 prigionieri politici",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/venezuela-governo-annuncia-la-liberazione-di-131-prigionieri-politici_6d7a25d6-782b-41a7-bdf6-061c91e1516e.html",
      "data": "2026-08-14T21:32:49+00:00"
@@ -339,11 +344,6 @@
      "titolo": "Dall'inizio del governo Trump rimpatriati 271 mila messicani",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/dallinizio-del-governo-trump-rimpatriati-271-mila-messicani_62ff2435-273d-47c4-b976-290a48aa2bf6.html",
      "data": "2026-08-14T16:28:51+00:00"
-    },
-    {
-     "titolo": "Mangione si chiara colpevole omicidio del ceo di UnitedHealthcare",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/14/mangione-si-chiara-colpevole-omicidio-del-ceo-di-unitedhealthcare_759eeea8-0415-4606-b6d8-ff322a90268c.html",
-     "data": "2026-08-14T15:59:00+00:00"
     }
    ]
   },
@@ -416,9 +416,19 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "\"Giro del Portogallo deve proseguire\", dice presidente della Federazione di ciclismo",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/15/giro-del-portogallo-deve-proseguire-dice-presidente-della-federazione-di-ciclismo_5f00fc14-23af-475c-9956-e8f0ad6d04c6.html",
+     "data": "2026-08-14T22:38:56+00:00"
+    },
+    {
+     "titolo": "Cincinnati, Sonego vince all'esordio contro Shang",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/cincinnati-sonego-vince-allesordio-contro-shang_57e148ac-e707-43fd-b728-3903cd1ca622.html",
+     "data": "2026-08-14T22:10:40+00:00"
+    },
+    {
      "titolo": "Quadarella e Battocletti regine d'Europa, Tamberi una leggenda",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/quadarella-e-battocletti-regine-deuropa-tamberi-una-leggenda_5a525e79-db38-4b47-b089-325fe108dd1b.html",
-     "data": "2026-08-14T22:04:00+00:00"
+     "data": "2026-08-14T22:37:47+00:00"
     },
     {
      "titolo": "Tamberi e l'urlo liberatorio: 'Non potevo solo prendere schiaffi'",
@@ -464,16 +474,6 @@
      "titolo": "Europei atletica: bronzo Desalu nei 200 metri, oro al tedesco Ansah",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-atletica-bronzo-desalu-nei-200-metri-oro-al-tedesco-ansah_de0e7a31-db84-4c34-843a-0ae7d9cd40d6.html",
      "data": "2026-08-14T20:33:57+00:00"
-    },
-    {
-     "titolo": "Europei di atletica: Battocletti magico bis, dopo i 5000 vince l'oro anche nei 10000",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-di-atletica-battocletti-magico-bis-dopo-i-5000-vince-loro-anche_c42e8413-4922-4bc9-b51c-bd24322d1e3b.html",
-     "data": "2026-08-14T20:09:02+00:00"
-    },
-    {
-     "titolo": "Cricket: ko anche Singapore nell'Icc World Cup Challenge, l'Italia conferma la vetta",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/cricket-ko-anche-singapore-nellicc-world-cup-challenge-litalia-conferma-la-vetta_1f1dffc3-e504-46c9-9c84-bbb914e961f5.html",
-     "data": "2026-08-14T20:02:42+00:00"
     }
    ]
   }
