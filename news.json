@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-15T18:09:22.626945+00:00",
+ "aggiornato": "2026-08-15T18:52:17.407381+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Marocco, 300 migranti fermati mentre tentavano di raggiungere Ceuta",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/marocco-300-migranti-fermati-mentre-tentavano-di-raggiungere-ceuta_60a8a67f-fe7c-42f0-bccb-4984a22ce5e1.html",
+     "data": "2026-08-15T18:15:15+00:00"
+    },
     {
      "titolo": "Colombia, non ce l'ha fatta la donna estratta dalle macerie a Cali dopo 40 ore",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/colombia-non-ce-lha-fatta-la-donna-estratta-dalle-macerie-a-cali-dopo_55e6bb09-807c-44f1-891e-014c0302d1fb.html",
@@ -49,11 +54,6 @@
      "titolo": "Petroliera degli Emirati Arabi attaccata nello Stretto di Hormuz",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/petroliera-degli-emirati-arabi-attaccata-nello-stretto-di-hormuz_8e5640f7-ceac-4f90-b0ec-dd1e60a29311.html",
      "data": "2026-08-15T00:28:48+00:00"
-    },
-    {
-     "titolo": "Usa, 'numero esiguo di casi di salute mentale sulla Lincoln, nessuna vittima'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/usa-numero-esiguo-di-casi-di-salute-mentale-sulla-lincoln-nessuna-vittima_467fc295-a781-46f2-83d8-c6e27b861600.html",
-     "data": "2026-08-14T23:24:09+00:00"
     }
    ]
   },
@@ -116,6 +116,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Cadavere trovato in strada allo Zen, la vittima colpita con un giravite",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/cadavere-trovato-in-strada-allo-zen-la-vittima-colpita-con-un-giravite_90651e74-2833-40c5-b899-1b0cb0f7311e.html",
+     "data": "2026-08-15T18:30:10+00:00"
+    },
+    {
+     "titolo": "Palio di Siena, contrada dell'Oca vince la prova generale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/palio-di-siena-contrada-delloca-vince-la-prova-generale_2f72cc6e-59a9-47e6-9c39-069fc8ec680f.html",
+     "data": "2026-08-15T18:08:23+00:00"
+    },
+    {
+     "titolo": "Incendio a Como, sfollati rientrano nelle loro abitazioni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/incendio-a-como-sfollati-rientrano-nelle-loro-abitazioni_2c1095d8-5a55-4b56-9745-76cc61336aed.html",
+     "data": "2026-08-15T17:57:58+00:00"
+    },
+    {
      "titolo": "Etna, l'aeroporto di Catania verso la normalità",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/etna-laeroporto-di-catania-verso-la-normalita_d182f31c-80af-4337-9d14-1c63df9c9c07.html",
      "data": "2026-08-15T16:52:48+00:00"
@@ -126,9 +141,9 @@
      "data": "2026-08-15T16:35:41+00:00"
     },
     {
-     "titolo": "Intossicati cinquanta scout minorenni durante un campo in Friuli",
+     "titolo": "Intossicati 50 giovani scout durante un campo in Friuli",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/intossicati-cinquanta-scout-minorenni-durante-un-campo-in-friuli_ed5038ee-62c7-46a1-a107-070762d5fd5d.html",
-     "data": "2026-08-15T15:38:26+00:00"
+     "data": "2026-08-15T18:20:00+00:00"
     },
     {
      "titolo": "Etna: presidente Sac, da noi massimo impegno e grazie agli aeroporti siciliani",
@@ -138,7 +153,7 @@
     {
      "titolo": "Terremoto in Indonesia, tredici bolognesi bloccati nell'isola di Flores: 'Le scosse continuano'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/tredici-bolognesi-bloccati-nellisola-di-flores-le-scosse-continuano_61f11190-139a-468f-b180-68a40bbfd96f.html",
-     "data": "2026-08-15T17:08:19+00:00"
+     "data": "2026-08-15T18:23:38+00:00"
     },
     {
      "titolo": "Troppo caldo, stop allo sci estivo sul ghiacciaio dello Stelvio",
@@ -159,21 +174,6 @@
      "titolo": "Torna il fuoco sul Monte Formiga tra Vicenza e Verona, elicottero in azione",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/torna-il-fuoco-sul-monte-formiga-tra-vicenza-e-verona-elicottero-in-azione_3bcddaed-3347-4e7d-a910-ddb0efaed092.html",
      "data": "2026-08-15T13:17:38+00:00"
-    },
-    {
-     "titolo": "Violenta una 17enne nel Materano, arrestato un 18enne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/violenta-una-17enne-nel-materano-arrestato-un-18enne_6f61f265-6a53-466d-aad8-8e388d31a8bf.html",
-     "data": "2026-08-15T13:16:18+00:00"
-    },
-    {
-     "titolo": "Trattore si ribalta e lo schiaccia, 85enne morto nel Savonese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/trattore-si-ribalta-e-lo-schiaccia-85enne-morto-nel-savonese_d7d8a6b9-fa52-43ec-853d-4a51a3c31ce8.html",
-     "data": "2026-08-15T12:35:47+00:00"
-    },
-    {
-     "titolo": "Giovane ucciso a Trani, convalidato il fermo del 17enne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/giovane-ucciso-a-trani-convalidato-il-fermo-del-17enne_545e8d3c-f245-4dbb-948a-ec3da2601de6.html",
-     "data": "2026-08-15T13:39:52+00:00"
     }
    ]
   },
@@ -276,6 +276,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Marocco, 300 migranti fermati mentre tentavano di raggiungere Ceuta",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/15/marocco-300-migranti-fermati-mentre-tentavano-di-raggiungere-ceuta_9696d162-8683-48e7-8807-7e9ff2fe6ea8.html",
+     "data": "2026-08-15T18:15:16+00:00"
+    },
+    {
      "titolo": "Colombia, non ce l'ha fatta la donna estratta dalle macerie a Cali dopo 40 ore",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/colombia-non-ce-lha-fatta-la-donna-estratta-dalle-macerie-a-cali-dopo_e578b058-7e17-40fe-98ab-603ab0b3577b.html",
      "data": "2026-08-15T17:57:21+00:00"
@@ -329,11 +334,6 @@
      "titolo": "Perù, Keiko Fujimori annuncia sussidio del 15-20% sul diesel per tre mesi",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/peru-keiko-fujimori-annuncia-sussidio-del-15-20-sul-diesel-per-tre_e638f182-46fc-44d8-a2e8-5022384b05f5.html",
      "data": "2026-08-14T23:55:10+00:00"
-    },
-    {
-     "titolo": "Brasile, Petrobras conferma petrolio alla foce del Rio delle Amazzoni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/brasile-petrobras-conferma-petrolio-alla-foce-del-rio-delle-amazzoni_410d9db0-dedc-4e3e-a5b9-38e7973fc3cc.html",
-     "data": "2026-08-14T23:25:11+00:00"
     }
    ]
   },
@@ -438,7 +438,7 @@
     {
      "titolo": "Europei di nuoto: Martinenghi concede il bis e vince l'oro anche nei 50 rana",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-martinenghi-concede-il-bis-e-vince-loro-anche-nei-50-rana_d5a08a6c-f384-48c8-a1ce-6afae74828d6.html",
-     "data": "2026-08-15T17:50:38+00:00"
+     "data": "2026-08-15T18:26:55+00:00"
     },
     {
      "titolo": "Europei nuoto: Gastaldi argento nei 200 misti",
