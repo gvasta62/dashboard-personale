@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-08-14T05:24:55.033264+00:00",
- "data": "2026-08-14",
- "testo": "Sera di agosto\nun pipistrello vira\nsopra il campanile",
- "nota": "Al crepuscolo un pipistrello sfreccia attorno alla torre della chiesa.",
+ "aggiornato": "2026-08-15T04:20:10.455439+00:00",
+ "data": "2026-08-15",
+ "testo": "Ferragosto quieto\nserranda del panificio\nabbassata a metà",
+ "nota": "Nel giorno di festa la bottega chiusa lascia la via silenziosa e vuota.",
  "archivio": [
+  {
+   "data": "2026-08-15",
+   "testo": "Ferragosto quieto\nserranda del panificio\nabbassata a metà",
+   "nota": "Nel giorno di festa la bottega chiusa lascia la via silenziosa e vuota."
+  },
   {
    "data": "2026-08-14",
    "testo": "Sera di agosto\nun pipistrello vira\nsopra il campanile",
