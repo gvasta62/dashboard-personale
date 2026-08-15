@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-15T13:48:03.025375+00:00",
+ "aggiornato": "2026-08-15T14:09:37.920182+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "++ Accoltella sua sorella, poi precipita dalla finestra e muore ++",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/-accoltella-sua-sorella-poi-precipita-dalla-finestra-e-muore-_3d02f3eb-0faa-47dc-b9d7-51f87b294523.html",
+     "data": "2026-08-15T13:51:30+00:00"
+    },
     {
      "titolo": "Lovaglio 'Meloni riconosce che il valore è nell'integrità di Mps'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/lovaglio-meloni-riconosce-che-il-valore-e-nellintegrita-di-mps_89022608-493f-4741-a82d-173800ee155f.html",
@@ -49,11 +54,6 @@
      "titolo": "Terremoto di magnitudo 7.7 in Indonesia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/terremoto-di-magnitudo-7.7-in-indonesia_46a82fd2-4359-47d8-bd9f-dcffa2fec351.html",
      "data": "2026-08-14T22:55:30+00:00"
-    },
-    {
-     "titolo": "\"Giro del Portogallo deve proseguire\", dice presidente della Federazione di ciclismo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/giro-del-portogallo-deve-proseguire-dice-presidente-della-federazione-di-ciclismo_ce106885-a4aa-47b5-9b33-5bb652a32563.html",
-     "data": "2026-08-14T22:38:39+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Accoltella la sorella, poi precipita dalla finestra e muore",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/-accoltella-sua-sorella-poi-precipita-dalla-finestra-e-muore-_3286ff0a-b2b9-4a7a-a98c-cabf76d940ce.html",
+     "data": "2026-08-15T13:56:18+00:00"
+    },
+    {
+     "titolo": "Estrema criticità per gli incendi in Carnia, informato Piantedosi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/estrema-criticita-per-gli-incendi-in-carnia-informato-piantedosi_f62b6168-4e4a-4edc-808f-1c10d6e4dffd.html",
+     "data": "2026-08-15T13:49:26+00:00"
+    },
+    {
      "titolo": "Torna il fuoco sul Monte Formiga tra Vicenza e Verona, elicottero in azione",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/torna-il-fuoco-sul-monte-formiga-tra-vicenza-e-verona-elicottero-in-azione_3bcddaed-3347-4e7d-a910-ddb0efaed092.html",
      "data": "2026-08-15T13:17:38+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Incendio a Como, di fatto spento ma con sporadiche ripartenze",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/incendio-a-como-di-fatto-spento-ma-con-sporadiche-ripartenze_c257f170-76a8-43a6-8422-ec1a922bc58f.html",
      "data": "2026-08-15T07:22:05+00:00"
-    },
-    {
-     "titolo": "Etna: confermata la riapertura dello scalo di Catania alle 14",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/nessuna-nube-lavica-sulletna-avviso-per-il-volo-passato-da-rosso-ad-arancione_d182f31c-80af-4337-9d14-1c63df9c9c07.html",
-     "data": "2026-08-15T12:23:48+00:00"
-    },
-    {
-     "titolo": "Cadavere trovato in strada allo Zen a Palermo, la vittima colpita al volto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/rissa-allo-zen-a-palermo-i-carabinieri-trovano-un-cadavere-in-strada_90651e74-2833-40c5-b899-1b0cb0f7311e.html",
-     "data": "2026-08-15T11:38:24+00:00"
     }
    ]
   },
@@ -416,6 +416,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: Ferran Torres dal Barca al Psg per 50 milioni",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/calcio-ferran-torres-dal-barca-al-psg-per-50-milioni_6829adfc-0082-4ad2-97c7-0ffbda5c0ae8.html",
+     "data": "2026-08-15T13:57:09+00:00"
+    },
+    {
      "titolo": "Europei di atletica: Massimo Stano e Sofia Fiorini oro nella maratona di marcia",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/15/europei-di-atletica-sofia-fiorini-record-del-mondo-e-oro-nella-maratona_3405fe57-2984-44c3-bc53-1b699de4b8c4.html",
      "data": "2026-08-15T11:21:46+00:00"
@@ -469,11 +474,6 @@
      "titolo": "Coppa Italia: avanzano Parma e Monza, fuori Catania e Avellino",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/coppa-italia-avanzano-parma-e-monza-fuori-catania-e-avellino_0dfaf7ac-3019-4d47-a47f-9b89ce278426.html",
      "data": "2026-08-14T21:33:06+00:00"
-    },
-    {
-     "titolo": "Zalewski affonda l'Athletic Bilbao, l'Atalanta vince il \"Bortolotti\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/zalewski-affonda-lathletic-bilbao-latalanta-vince-il-bortolotti_3216c2ea-2092-4953-afa1-8fb06f302ef1.html",
-     "data": "2026-08-14T20:50:31+00:00"
     }
    ]
   }
