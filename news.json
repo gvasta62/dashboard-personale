@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-15T17:41:28.447495+00:00",
+ "aggiornato": "2026-08-15T18:09:22.626945+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Colombia, non ce l'ha fatta la donna estratta dalle macerie a Cali dopo 40 ore",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/colombia-non-ce-lha-fatta-la-donna-estratta-dalle-macerie-a-cali-dopo_55e6bb09-807c-44f1-891e-014c0302d1fb.html",
+     "data": "2026-08-15T17:57:07+00:00"
+    },
     {
      "titolo": "++ Accoltella sua sorella, poi precipita dalla finestra e muore ++",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/-accoltella-sua-sorella-poi-precipita-dalla-finestra-e-muore-_3d02f3eb-0faa-47dc-b9d7-51f87b294523.html",
@@ -49,11 +54,6 @@
      "titolo": "Usa, 'numero esiguo di casi di salute mentale sulla Lincoln, nessuna vittima'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/usa-numero-esiguo-di-casi-di-salute-mentale-sulla-lincoln-nessuna-vittima_467fc295-a781-46f2-83d8-c6e27b861600.html",
      "data": "2026-08-14T23:24:09+00:00"
-    },
-    {
-     "titolo": "Terremoto di magnitudo 7.7 in Indonesia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/terremoto-di-magnitudo-7.7-in-indonesia_46a82fd2-4359-47d8-bd9f-dcffa2fec351.html",
-     "data": "2026-08-14T22:55:30+00:00"
     }
    ]
   },
@@ -276,6 +276,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Colombia, non ce l'ha fatta la donna estratta dalle macerie a Cali dopo 40 ore",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/colombia-non-ce-lha-fatta-la-donna-estratta-dalle-macerie-a-cali-dopo_e578b058-7e17-40fe-98ab-603ab0b3577b.html",
+     "data": "2026-08-15T17:57:21+00:00"
+    },
+    {
      "titolo": "Aumenta a 294 il bilancio delle vittime del terremoto in Colombia",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/aumenta-a-294-il-bilancio-delle-vittime-del-terremoto-in-colombia_d9d2a15b-a144-428c-bdb7-bd4e0675b9e1.html",
      "data": "2026-08-15T15:55:45+00:00"
@@ -329,11 +334,6 @@
      "titolo": "Brasile, Petrobras conferma petrolio alla foce del Rio delle Amazzoni",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/brasile-petrobras-conferma-petrolio-alla-foce-del-rio-delle-amazzoni_410d9db0-dedc-4e3e-a5b9-38e7973fc3cc.html",
      "data": "2026-08-14T23:25:11+00:00"
-    },
-    {
-     "titolo": "Usa, 'numero esiguo di casi di salute mentale sulla Lincoln, nessuna vittima'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/15/usa-numero-esiguo-di-casi-di-salute-mentale-sulla-lincoln-nessuna-vittima_d0451d60-fc3e-4123-b69e-d0dce33f231f.html",
-     "data": "2026-08-14T23:24:08+00:00"
     }
    ]
   },
@@ -406,6 +406,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei nuoto: Gastaldi, \"Si è concretizzato il lavoro di anni\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-gastaldi-si-e-concretizzato-il-lavoro-di-anni_125e3101-e8f5-4637-9eac-f7cf8ce39bce.html",
+     "data": "2026-08-15T18:01:13+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: Martinenghi, \"essere l'outsider mi ha aiutato\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-martinenghi-essere-loutsider-mi-ha-aiutato_e40e948b-ffc8-4a83-98ed-c035beadee1e.html",
+     "data": "2026-08-15T17:56:44+00:00"
+    },
+    {
+     "titolo": "Calcio: si chiude la pre season della Roma, 2-2 col Borussia Dortmund",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/calcio-si-chiude-la-pre-season-della-roma-2-2-col-borussia-dortmund_e2a3acf1-70b5-4b26-90d2-674f83faa4cc.html",
+     "data": "2026-08-15T17:45:13+00:00"
+    },
+    {
+     "titolo": "Calcio: ufficiale, Spence all'Inter e contratto fino al 2031",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/calcio-ufficiale-spence-allinter-e-contratto-fino-al-2031_d58ed035-a28a-449f-a641-ae14717de966.html",
+     "data": "2026-08-15T17:43:48+00:00"
+    },
+    {
      "titolo": "Europei nuoto: Curtis, \"Sfondato muro 24\". Sono contentissima\"",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-curtis-sfondato-muro-24.-sono-contentissima_b8b41603-e245-425a-b9f5-60c157aff12e.html",
      "data": "2026-08-15T17:29:52+00:00"
@@ -418,7 +438,7 @@
     {
      "titolo": "Europei di nuoto: Martinenghi concede il bis e vince l'oro anche nei 50 rana",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-martinenghi-concede-il-bis-e-vince-loro-anche-nei-50-rana_d5a08a6c-f384-48c8-a1ce-6afae74828d6.html",
-     "data": "2026-08-15T17:27:30+00:00"
+     "data": "2026-08-15T17:50:38+00:00"
     },
     {
      "titolo": "Europei nuoto: Gastaldi argento nei 200 misti",
@@ -444,26 +464,6 @@
      "titolo": "Europei ginnastica artistica: oro per Manila Esposito al corpo libero",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/europei-ginnastica-artistica-oro-per-manila-esposito-al-corpo-libero_d622c12e-1d46-4afa-811b-a8bf8b630604.html",
      "data": "2026-08-15T16:43:35+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Italia in finale nelle staffette 4x100 uomini e donne",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/europei-atletica-italia-in-finale-nelle-staffette-4x100-uomini-e-donne_e4ec6c48-1c6a-4ea3-98e7-d01d3a1185c7.html",
-     "data": "2026-08-15T16:38:59+00:00"
-    },
-    {
-     "titolo": "Tennis: Cincinnati, la pioggia interrompe il match di Cobolli",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/tennis-cincinnati-la-pioggia-interrompe-il-match-di-cobolli_8b378d02-95fe-49ae-9e9a-c608c5d7d258.html",
-     "data": "2026-08-15T16:38:21+00:00"
-    },
-    {
-     "titolo": "Basket: Italia-Belgio 64-63 in amichevole, vittoria delle azzurre",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/15/basket-italia-belgio-64-63-in-amichevole-vittoria-delle-azzurre_f72a7bae-ae0a-4727-97c9-9c9be71a9c9a.html",
-     "data": "2026-08-15T16:32:33+00:00"
-    },
-    {
-     "titolo": "Europei di atletica: Massimo Stano e Sofia Fiorini oro nella maratona di marcia",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/15/europei-di-atletica-sofia-fiorini-record-del-mondo-e-oro-nella-maratona_3405fe57-2984-44c3-bc53-1b699de4b8c4.html",
-     "data": "2026-08-15T11:21:46+00:00"
     }
    ]
   }
