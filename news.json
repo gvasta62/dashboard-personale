@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-15T10:09:06.088363+00:00",
+ "aggiornato": "2026-08-15T10:44:20.627207+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il Papa, 'ci sia consolazione in Terra Santa, Ucraina e Russia'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/il-papa-ci-sia-consolazione-in-terra-santa-ucraina-e-russia_e22715da-261d-4f28-b8c2-8488ec40dffb.html",
+     "data": "2026-08-15T10:27:09+00:00"
+    },
     {
      "titolo": "Media, Marocco blocca centinaia di persone dirette a Ceuta",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/media-marocco-blocca-centinaia-di-persone-dirette-a-ceuta_0c3ebc2e-12a7-4db8-bc46-8bf5101388cd.html",
@@ -49,11 +54,6 @@
      "titolo": "Cincinnati, Sonego vince all'esordio contro Shang",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/cincinnati-sonego-vince-allesordio-contro-shang_f4a06bf2-acea-40fb-b6a3-44d90f681f07.html",
      "data": "2026-08-14T22:10:24+00:00"
-    },
-    {
-     "titolo": "Trump, 'colpiremo l'Iran in modo pesante economicamente'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/trump-colpiremo-liran-in-modo-pesante-economicamente_47ba2bc7-2c95-47f8-b7b2-a8066112810d.html",
-     "data": "2026-08-14T20:14:42+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Mille incendi in più nel Veneto tra gennaio e agosto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/mille-incendi-in-piu-nel-veneto-tra-gennaio-e-agosto_f42bb461-cc07-42a3-98b2-6598de6ccf21.html",
+     "data": "2026-08-15T10:38:36+00:00"
+    },
+    {
+     "titolo": "Il Papa, 'ci sia consolazione in Terra Santa, Ucraina e Russia'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/il-papa-ci-sia-consolazione-in-terra-santa-ucraina-e-russia_ce02c7b8-d73a-43c6-b737-cdf2ff2e1f76.html",
+     "data": "2026-08-15T10:27:25+00:00"
+    },
+    {
      "titolo": "Ragazzina cade dal nono piano e muore a Palermo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/ragazzina-cade-dal-nono-piano-e-muore-a-palermo_67ae97ad-3988-48c7-a22a-b16a52b2dac0.html",
      "data": "2026-08-15T09:15:56+00:00"
@@ -136,9 +146,9 @@
      "data": "2026-08-15T07:22:05+00:00"
     },
     {
-     "titolo": "Scende l'allerta per l'Etna, riapertura dello scalo di Catania prevista per le 14",
+     "titolo": "Dopo piccola tregua riprende l'attività eruttiva dell'Etna",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/nessuna-nube-lavica-sulletna-avviso-per-il-volo-passato-da-rosso-ad-arancione_d182f31c-80af-4337-9d14-1c63df9c9c07.html",
-     "data": "2026-08-15T08:37:07+00:00"
+     "data": "2026-08-15T10:02:17+00:00"
     },
     {
      "titolo": "Cadavere trovato in strada allo Zen a Palermo, la vittima colpita al volto",
@@ -174,16 +184,6 @@
      "titolo": "Con l'auto contro un muro, muore un 40enne in Gallura",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/con-lauto-contro-un-muro-muore-un-40enne-in-gallura_f948c1d1-9e3c-4517-988e-5bc426856090.html",
      "data": "2026-08-14T18:37:00+00:00"
-    },
-    {
-     "titolo": "Uomo di 68 anni muore nel mare di Is Arenas, nell'Oristanese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/uomo-di-68-anni-muore-nel-mare-di-is-arenas-nelloristanese_b9163d2f-d97c-4393-bd01-a2bc2444c849.html",
-     "data": "2026-08-14T18:34:16+00:00"
-    },
-    {
-     "titolo": "Crolla il balcone di un'abitazione a Livorno, morta una donna",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/crolla-il-balcone-di-unabitazione-a-livorno-morta-una-donna_ad502003-9e8d-4c8a-b5dc-eb7ca86e11d1.html",
-     "data": "2026-08-14T22:06:51+00:00"
     }
    ]
   },
@@ -418,7 +418,7 @@
     {
      "titolo": "Europei di atletica: Sofia Fiorini record del mondo e oro nella maratona di marcia. Oro anche Massimo Stano",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/15/europei-di-atletica-argento-di-fortunato-e-mihai-nella-mezza-maratona-di-marcia-cosi_3405fe57-2984-44c3-bc53-1b699de4b8c4.html",
-     "data": "2026-08-15T09:58:14+00:00"
+     "data": "2026-08-15T10:34:18+00:00"
     },
     {
      "titolo": "Al Master 1000 di Cincinnati buona la prima per Berrettini e  Sonego",
