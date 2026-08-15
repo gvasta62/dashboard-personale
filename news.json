@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-15T05:46:47.436898+00:00",
+ "aggiornato": "2026-08-15T06:15:24.317204+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media libanesi, attacco israeliano nel sud del Paese ha ucciso 7 persone",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/media-libanesi-attacco-israeliano-nel-sud-del-paese-ha-ucciso-7-persone_f640d726-8d17-4430-96ab-b92b0abab747.html",
+     "data": "2026-08-15T05:45:50+00:00"
+    },
     {
      "titolo": "Terremoto in Indonesia, le autorità esortano all'evacuazione delle zone costiere",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/terremoto-in-indonesia-le-autorita-esortano-allevacuazione-delle-zone-costiere_8d8ae60c-5afc-472d-817a-103e84bef615.html",
@@ -49,11 +54,6 @@
      "titolo": "Trump, 'Iran pesantemente sconfitto, presto Hormuz territorio americano'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/trump-iran-pesantemente-sconfitto-presto-hormuz-territorio-americano_9bd3f73f-1a75-45e9-9697-d5d347bd9d93.html",
      "data": "2026-08-14T20:08:05+00:00"
-    },
-    {
-     "titolo": "Crolla il balcone di un'abitazione a Livorno, morta una donna",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/crolla-il-balcone-di-unabitazione-a-livorno-morta-una-donna_c033b30b-7a18-4904-9c4b-81cf011a6233.html",
-     "data": "2026-08-14T18:30:02+00:00"
     }
    ]
   },
@@ -286,6 +286,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Media libanesi, attacco israeliano nel sud del Paese ha ucciso 7 persone",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/15/media-libanesi-attacco-israeliano-nel-sud-del-paese-ha-ucciso-7-persone_629d7a53-1afe-4dc6-afea-655a526cec14.html",
+     "data": "2026-08-15T05:45:50+00:00"
+    },
+    {
      "titolo": "Venezuela, Figuera celebra le scarcerazioni e chiede la liberazione di tutti",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/venezuela-figuera-celebra-le-scarcerazioni-e-chiede-la-liberazione-di-tutti_954d5c6d-2e83-4c31-a7e6-3a053b9387f2.html",
      "data": "2026-08-15T00:37:59+00:00"
@@ -339,11 +344,6 @@
      "titolo": "Sono almeno 60 i prigionieri politici in Nicaragua, 23 risultano scomparsi",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/sono-almeno-60-i-prigionieri-politici-in-nicaragua-23-risultano-scomparsi_4d5721c2-1cd7-4f70-92df-227af96cdbba.html",
      "data": "2026-08-14T20:32:21+00:00"
-    },
-    {
-     "titolo": "Venezuela, liberata dopo otto anni la prigioniera politica Emirlendris Benítez",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/venezuela-liberata-dopo-otto-anni-la-prigioniera-politica-emirlendris-benitez_073a42ca-2099-46e8-807b-bf6f67ed6043.html",
-     "data": "2026-08-14T20:21:40+00:00"
     }
    ]
   },
