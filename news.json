@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-15T09:13:42.056266+00:00",
+ "aggiornato": "2026-08-15T09:45:26.982483+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, Marocco blocca centinaia di persone dirette a Ceuta",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/media-marocco-blocca-centinaia-di-persone-dirette-a-ceuta_0c3ebc2e-12a7-4db8-bc46-8bf5101388cd.html",
+     "data": "2026-08-15T09:35:46+00:00"
+    },
+    {
+     "titolo": "Sale a 38 morti il bilancio delle vittime nel sisma in Indonesia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/sale-a-38-morti-il-bilancio-delle-vittime-nel-sisma-in-indonesia_cd541c23-b98c-4256-a359-992578bbddf7.html",
+     "data": "2026-08-15T09:34:49+00:00"
+    },
     {
      "titolo": "Media libanesi, attacco israeliano nel sud del Paese ha ucciso 7 persone",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/media-libanesi-attacco-israeliano-nel-sud-del-paese-ha-ucciso-7-persone_f640d726-8d17-4430-96ab-b92b0abab747.html",
@@ -44,16 +54,6 @@
      "titolo": "Trump, 'colpiremo l'Iran in modo pesante economicamente'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/trump-colpiremo-liran-in-modo-pesante-economicamente_47ba2bc7-2c95-47f8-b7b2-a8066112810d.html",
      "data": "2026-08-14T20:14:42+00:00"
-    },
-    {
-     "titolo": "Nuovo attacco Houthi in zona yemenita al Makha, sul Mar Rosso, 6 morti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/nuovo-attacco-houthi-in-zona-yemenita-al-makha-sul-mar-rosso-6-morti_5f4b1340-57df-47cd-8b6f-bd3509bd8065.html",
-     "data": "2026-08-14T20:12:02+00:00"
-    },
-    {
-     "titolo": "Trump, 'Iran pesantemente sconfitto, presto Hormuz territorio americano'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/trump-iran-pesantemente-sconfitto-presto-hormuz-territorio-americano_9bd3f73f-1a75-45e9-9697-d5d347bd9d93.html",
-     "data": "2026-08-14T20:08:05+00:00"
     }
    ]
   },
@@ -128,7 +128,7 @@
     {
      "titolo": "Ragazzina cade dal nono piano e muore a Palermo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/ragazzina-cade-dal-nono-piano-e-muore-a-palermo_67ae97ad-3988-48c7-a22a-b16a52b2dac0.html",
-     "data": "2026-08-15T07:57:07+00:00"
+     "data": "2026-08-15T09:15:56+00:00"
     },
     {
      "titolo": "Incendio a Como, di fatto spento ma con sporadiche ripartenze",
@@ -286,6 +286,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Media, Marocco blocca centinaia di persone dirette a Ceuta",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/15/media-marocco-blocca-centinaia-di-persone-dirette-a-ceuta_d8e51fdb-7227-4bb3-8a3c-48f802d58790.html",
+     "data": "2026-08-15T09:36:03+00:00"
+    },
+    {
+     "titolo": "Sale a 38 morti il bilancio delle vittime nel sisma in Indonesia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/15/sale-a-38-morti-il-bilancio-delle-vittime-nel-sisma-in-indonesia_0d7d6c1f-2dca-40d4-ae70-be535399a237.html",
+     "data": "2026-08-15T09:34:53+00:00"
+    },
+    {
      "titolo": "Media libanesi, attacco israeliano nel sud del Paese ha ucciso 7 persone",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/15/media-libanesi-attacco-israeliano-nel-sud-del-paese-ha-ucciso-7-persone_629d7a53-1afe-4dc6-afea-655a526cec14.html",
      "data": "2026-08-15T05:45:50+00:00"
@@ -334,16 +344,6 @@
      "titolo": "Brasile, Lula resta avanti su Flávio Bolsonaro nei sondaggi ma il vantaggio si riduce",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/brasile-lula-resta-avanti-su-flavio-bolsonaro-nei-sondaggi-ma-il-vantaggio-si-riduce_6b4f10ab-fb41-42aa-8150-84952d0db968.html",
      "data": "2026-08-14T22:19:05+00:00"
-    },
-    {
-     "titolo": "Venezuela, governo annuncia la liberazione di 131 prigionieri politici",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/venezuela-governo-annuncia-la-liberazione-di-131-prigionieri-politici_6d7a25d6-782b-41a7-bdf6-061c91e1516e.html",
-     "data": "2026-08-14T21:32:49+00:00"
-    },
-    {
-     "titolo": "Sono almeno 60 i prigionieri politici in Nicaragua, 23 risultano scomparsi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/sono-almeno-60-i-prigionieri-politici-in-nicaragua-23-risultano-scomparsi_4d5721c2-1cd7-4f70-92df-227af96cdbba.html",
-     "data": "2026-08-14T20:32:21+00:00"
     }
    ]
   },
@@ -417,8 +417,8 @@
    "voci": [
     {
      "titolo": "Europei di atletica: argento di Fortunato e Mihai nella mezza maratona di marcia, Cosi si aggiudica il bronzo",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/15/europei-di-atletica-argento-di-fortunato-e-mihai-nella-mezza-maratona-cosi-si-aggiudica_3405fe57-2984-44c3-bc53-1b699de4b8c4.html",
-     "data": "2026-08-15T08:52:37+00:00"
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/15/europei-di-atletica-argento-di-fortunato-e-mihai-nella-mezza-maratona-di-marcia-cosi_3405fe57-2984-44c3-bc53-1b699de4b8c4.html",
+     "data": "2026-08-15T09:21:58+00:00"
     },
     {
      "titolo": "Al Master 1000 di Cincinnati buona la prima per Berrettini e  Sonego",
