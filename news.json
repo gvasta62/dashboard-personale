@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-15T07:03:28.511653+00:00",
+ "aggiornato": "2026-08-15T07:48:57.204194+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Incendio a Como, di fatto spento ma con sporadiche ripartenze",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/incendio-a-como-di-fatto-spento-ma-con-sporadiche-ripartenze_c257f170-76a8-43a6-8422-ec1a922bc58f.html",
+     "data": "2026-08-15T07:22:05+00:00"
+    },
+    {
+     "titolo": "'Nessuna nube lavica sull'Etna, avviso per il volo passato da rosso ad arancione'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/nessuna-nube-lavica-sulletna-avviso-per-il-volo-passato-da-rosso-ad-arancione_d182f31c-80af-4337-9d14-1c63df9c9c07.html",
+     "data": "2026-08-15T07:35:37+00:00"
+    },
+    {
+     "titolo": "Rissa allo Zen a Palermo, i carabinieri trovano un cadavere in strada",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/rissa-allo-zen-a-palermo-i-carabinieri-trovano-un-cadavere-in-strada_90651e74-2833-40c5-b899-1b0cb0f7311e.html",
+     "data": "2026-08-15T07:39:15+00:00"
+    },
+    {
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-08-14T22:34:59+00:00"
@@ -168,22 +183,7 @@
     {
      "titolo": "L'Etna non da' tregua, aeroporto chiuso a Ferragosto e passeggeri in tilt",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/letna-non-da-tregua-aeroporto-chiuso-a-ferragosto-e-passeggeri-in-tilt_10662767-fd9c-4149-a1ea-0991c2583e91.html",
-     "data": "2026-08-14T18:09:31+00:00"
-    },
-    {
-     "titolo": "Disperso nel lago di Como, continuano le ricerche al largo di Lenno",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/disperso-nel-lago-di-como-continuano-le-ricerche-al-largo-di-lenno_0cd7b0a7-3baa-4426-a4f7-d0f5235d24ee.html",
-     "data": "2026-08-14T17:58:07+00:00"
-    },
-    {
-     "titolo": "Ranucci va avanti, lavora sul nuovo ciclo di Report",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/ranucci-va-avanti-lavora-sul-nuovo-ciclo-di-report_60c416c9-16af-4848-b843-e6fb0e34ba7b.html",
-     "data": "2026-08-14T22:04:33+00:00"
-    },
-    {
-     "titolo": "Il caldo allenta la morsa, domenica solo una città 'rossa'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/il-caldo-allenta-la-morsa-domenica-solo-una-citta-rossa_328f306a-87d4-4b1b-b9bc-c1ee6620cb54.html",
-     "data": "2026-08-14T17:59:07+00:00"
+     "data": "2026-08-15T07:34:51+00:00"
     }
    ]
   },
