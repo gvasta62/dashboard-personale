@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-15T13:04:17.378990+00:00",
+ "aggiornato": "2026-08-15T13:48:03.025375+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Lovaglio 'Meloni riconosce che il valore è nell'integrità di Mps'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/lovaglio-meloni-riconosce-che-il-valore-e-nellintegrita-di-mps_89022608-493f-4741-a82d-173800ee155f.html",
+     "data": "2026-08-15T13:36:17+00:00"
+    },
     {
      "titolo": "Il Papa, 'ci sia consolazione in Terra Santa, Ucraina e Russia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/il-papa-ci-sia-consolazione-in-terra-santa-ucraina-e-russia_e22715da-261d-4f28-b8c2-8488ec40dffb.html",
@@ -49,11 +54,6 @@
      "titolo": "\"Giro del Portogallo deve proseguire\", dice presidente della Federazione di ciclismo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/giro-del-portogallo-deve-proseguire-dice-presidente-della-federazione-di-ciclismo_ce106885-a4aa-47b5-9b33-5bb652a32563.html",
      "data": "2026-08-14T22:38:39+00:00"
-    },
-    {
-     "titolo": "Cincinnati, Sonego vince all'esordio contro Shang",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/cincinnati-sonego-vince-allesordio-contro-shang_f4a06bf2-acea-40fb-b6a3-44d90f681f07.html",
-     "data": "2026-08-14T22:10:24+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Torna il fuoco sul Monte Formiga tra Vicenza e Verona, elicottero in azione",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/torna-il-fuoco-sul-monte-formiga-tra-vicenza-e-verona-elicottero-in-azione_3bcddaed-3347-4e7d-a910-ddb0efaed092.html",
+     "data": "2026-08-15T13:17:38+00:00"
+    },
+    {
+     "titolo": "Violenta una 17enne nel Materano, arrestato un 18enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/violenta-una-17enne-nel-materano-arrestato-un-18enne_6f61f265-6a53-466d-aad8-8e388d31a8bf.html",
+     "data": "2026-08-15T13:16:18+00:00"
+    },
+    {
      "titolo": "Trattore si ribalta e lo schiaccia, 85enne morto nel Savonese",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/trattore-si-ribalta-e-lo-schiaccia-85enne-morto-nel-savonese_d7d8a6b9-fa52-43ec-853d-4a51a3c31ce8.html",
      "data": "2026-08-15T12:35:47+00:00"
@@ -133,12 +143,17 @@
     {
      "titolo": "Giovane ucciso a Trani, convalidato il fermo del 17enne",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/giovane-ucciso-a-trani-convalidato-il-fermo-del-17enne_545e8d3c-f245-4dbb-948a-ec3da2601de6.html",
-     "data": "2026-08-15T12:30:39+00:00"
+     "data": "2026-08-15T13:39:52+00:00"
     },
     {
      "titolo": "Scritte contro gli ebrei al Memoriale di Firenze sulla Deportazione",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/scritte-contro-gli-ebrei-al-memoriale-di-firenze-sulla-deportazione_0da05f97-78b8-4606-b908-72ab5171f7f4.html",
      "data": "2026-08-15T12:28:48+00:00"
+    },
+    {
+     "titolo": "Scossa di magnitudo 3.9 nel Catanese: danni a una strada, nessun ferito",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/terremoti-scossa-di-magnitudo-3.9-nel-catanese_4140f767-de17-4318-96c8-4da8427d1f98.html",
+     "data": "2026-08-15T13:16:02+00:00"
     },
     {
      "titolo": "Mille incendi in più nel Veneto tra gennaio e agosto",
@@ -169,21 +184,6 @@
      "titolo": "Cadavere trovato in strada allo Zen a Palermo, la vittima colpita al volto",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/rissa-allo-zen-a-palermo-i-carabinieri-trovano-un-cadavere-in-strada_90651e74-2833-40c5-b899-1b0cb0f7311e.html",
      "data": "2026-08-15T11:38:24+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-08-14T22:34:59+00:00"
-    },
-    {
-     "titolo": "Nel 2026 reati in calo del 10%, meno femminicidi. Piantedosi: 'Il Paese è tra i più sicuri al mondo'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/nel-2026-reati-in-calo-del-10-meno-femminicidi.-piantedosi-il-paese-e-tra_f98c6c4e-c207-4e00-80da-29cd4384e7de.html",
-     "data": "2026-08-15T07:58:08+00:00"
-    },
-    {
-     "titolo": "Meccanico morto nel Reggino, 'officina non coinvolta nell'incidente'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/meccanico-morto-nel-reggino-officina-non-coinvolta-nellincidente_b512b4ed-5f73-47b1-99da-7a27a36171e1.html",
-     "data": "2026-08-14T20:23:58+00:00"
     }
    ]
   },
