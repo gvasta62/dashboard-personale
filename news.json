@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-15T15:40:52.142161+00:00",
+ "aggiornato": "2026-08-15T16:08:21.868509+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -111,6 +111,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Etna, l'aeroporto di Catania verso la normalità",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/etna-riapre-lo-scalo-di-catania-presidente-sac-per-il-ritorno-alla-normalita_d182f31c-80af-4337-9d14-1c63df9c9c07.html",
+     "data": "2026-08-15T15:44:50+00:00"
+    },
+    {
      "titolo": "Intossicati cinquanta scout minorenni durante un campo in Friuli",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/intossicati-cinquanta-scout-minorenni-durante-un-campo-in-friuli_ed5038ee-62c7-46a1-a107-070762d5fd5d.html",
      "data": "2026-08-15T15:38:26+00:00"
@@ -164,11 +169,6 @@
      "titolo": "Scritte contro gli ebrei al Memoriale di Firenze sulla Deportazione",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/scritte-contro-gli-ebrei-al-memoriale-di-firenze-sulla-deportazione_0da05f97-78b8-4606-b908-72ab5171f7f4.html",
      "data": "2026-08-15T12:28:48+00:00"
-    },
-    {
-     "titolo": "Scossa di magnitudo 3.9 nel Catanese: danni a una strada, nessun ferito",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/terremoti-scossa-di-magnitudo-3.9-nel-catanese_4140f767-de17-4318-96c8-4da8427d1f98.html",
-     "data": "2026-08-15T13:16:02+00:00"
     }
    ]
   },
@@ -271,6 +271,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Aumenta a 294 il bilancio delle vittime del terremoto in Colombia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/aumenta-a-294-il-bilancio-delle-vittime-del-terremoto-in-colombia_d9d2a15b-a144-428c-bdb7-bd4e0675b9e1.html",
+     "data": "2026-08-15T15:55:45+00:00"
+    },
+    {
      "titolo": "De la Espriella ringrazia Netanyahu per gli aiuti alla Colombia dopo il terremoto",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/de-la-espriella-ringrazia-netanyahu-per-gli-aiuti-alla-colombia-dopo-il-terremoto_b52ff664-0a14-40d6-b1c3-6a41ac822aae.html",
      "data": "2026-08-15T15:30:59+00:00"
@@ -324,11 +329,6 @@
      "titolo": "Usa, 'numero esiguo di casi di salute mentale sulla Lincoln, nessuna vittima'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/15/usa-numero-esiguo-di-casi-di-salute-mentale-sulla-lincoln-nessuna-vittima_d0451d60-fc3e-4123-b69e-d0dce33f231f.html",
      "data": "2026-08-14T23:24:08+00:00"
-    },
-    {
-     "titolo": "Terremoto di magnitudo 7.7 in Indonesia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/15/terremoto-di-magnitudo-7.7-in-indonesia_665f2507-4f16-4bdc-9a76-8a37942ef3a5.html",
-     "data": "2026-08-14T22:55:32+00:00"
     }
    ]
   },
