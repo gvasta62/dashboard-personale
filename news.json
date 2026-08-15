@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-15T20:07:45.324513+00:00",
+ "aggiornato": "2026-08-15T20:44:03.787567+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -276,6 +276,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Presidenziali in Brasile, il patrimonio di Bolsonaro raddoppia quello di Lula",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/presidenziali-in-brasile-il-patrimonio-di-bolsonaro-raddoppia-quello-di-lula_22234af6-6c38-4589-b87d-808528bd3845.html",
+     "data": "2026-08-15T20:15:24+00:00"
+    },
+    {
      "titolo": "Marocco, 300 migranti fermati mentre tentavano di raggiungere Ceuta",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/15/marocco-300-migranti-fermati-mentre-tentavano-di-raggiungere-ceuta_9696d162-8683-48e7-8807-7e9ff2fe6ea8.html",
      "data": "2026-08-15T18:15:16+00:00"
@@ -329,11 +334,6 @@
      "titolo": "Venezuela, Delcy Rodríguez definisce gli accordi con l'opposizione 'passi concreti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/venezuela-delcy-rodriguez-definisce-gli-accordi-con-lopposizione-passi-concreti_e3f66b97-7025-4c7f-990f-f37b1bfff0ca.html",
      "data": "2026-08-15T00:00:37+00:00"
-    },
-    {
-     "titolo": "Perù, Keiko Fujimori annuncia sussidio del 15-20% sul diesel per tre mesi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/peru-keiko-fujimori-annuncia-sussidio-del-15-20-sul-diesel-per-tre_e638f182-46fc-44d8-a2e8-5022384b05f5.html",
-     "data": "2026-08-14T23:55:10+00:00"
     }
    ]
   },
@@ -406,9 +406,39 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Calcio: si chiude la pre season della Roma, 2-2 col Borussia Dortmund",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/calcio-si-chiude-la-pre-season-della-roma-2-2-col-borussia-dortmund_e2a3acf1-70b5-4b26-90d2-674f83faa4cc.html",
-     "data": "2026-08-15T20:01:25+00:00"
+     "titolo": "Si chiude la pre season della Roma, 2-2 col Borussia Dortmund",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/si-chiude-la-pre-season-della-roma-2-2-col-borussia-dortmund_e2a3acf1-70b5-4b26-90d2-674f83faa4cc.html",
+     "data": "2026-08-15T20:22:24+00:00"
+    },
+    {
+     "titolo": "Coppa Italia: l'Udinese batte il Padova e passa il turno",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/coppa-italia-ludinese-batte-il-padova-e-passa-il-turno_bcd42698-5276-4a09-85ce-6504e092f174.html",
+     "data": "2026-08-15T20:17:02+00:00"
+    },
+    {
+     "titolo": "Palmisano rilancia \"nessun ritiro, c'è Los Angeles 2028\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/palmisano-rilancia-nessun-ritiro-ce-los-angeles-2028_bbc72b54-cd5e-4904-a9b8-ba982c283877.html",
+     "data": "2026-08-15T20:11:21+00:00"
+    },
+    {
+     "titolo": "Los Angeles 2028: l'Italia di flag football si qualifica per i Giochi",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/los-angeles-2028-litalia-di-flag-football-si-qualifica-per-i-giochi_0e783267-48ec-4408-96df-4c062f6bb118.html",
+     "data": "2026-08-15T20:08:32+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: Ceccon e Pilato centrano le qualificazioni in finale",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-ceccon-e-pilato-centrano-le-qualificazioni-in-finale_06147c68-e964-49d9-b409-80ab3f507cee.html",
+     "data": "2026-08-15T20:07:30+00:00"
+    },
+    {
+     "titolo": "Fiorini: \"L'oro é leggerezza. Mi sono divertita\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/fiorini-loro-e-leggerezza.-mi-sono-divertita_e192e802-e24d-4561-a901-e834e2c19d1e.html",
+     "data": "2026-08-15T20:05:42+00:00"
+    },
+    {
+     "titolo": "Stano: \"Oggi non mi fermava nessuno, volevo l'oro\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/stano-oggi-non-mi-fermava-nessuno-volevo-loro_e5fdb084-1318-4c19-81fd-8df44ba24a54.html",
+     "data": "2026-08-15T20:04:17+00:00"
     },
     {
      "titolo": "A Cincinnati Cobolli al terzo turno, eliminato Arnaldi",
@@ -416,19 +446,14 @@
      "data": "2026-08-15T20:00:11+00:00"
     },
     {
-     "titolo": "L'Inter batte il Betis 1-0, Stones entra e segna",
+     "titolo": "L'Inter batte il Real Betis 1-0, Stones entra e segna",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/linter-batte-il-betis-1-0-stones-entra-e-segna_c74b0a95-9b02-4a07-8c46-fb7e06044cd1.html",
-     "data": "2026-08-15T19:53:58+00:00"
+     "data": "2026-08-15T20:20:31+00:00"
     },
     {
      "titolo": "Tennis: Cincinnati, Arnaldi perde con Landaluce ed esce",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/tennis-cincinnati-arnaldi-perde-con-landaluce-ed-esce_431d4568-d282-4219-a6c3-db200e6d7e85.html",
      "data": "2026-08-15T19:46:09+00:00"
-    },
-    {
-     "titolo": "Los Angeles 2028: l'Italia di flag football si qualifica per i Giochi",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/los-angeles-2028-litalia-di-flag-football-si-qualifica-per-i-giochi_0e783267-48ec-4408-96df-4c062f6bb118.html",
-     "data": "2026-08-15T19:45:15+00:00"
     },
     {
      "titolo": "Europei nuoto: Gastaldi, \"Si è concretizzato il lavoro di anni\"",
@@ -439,31 +464,6 @@
      "titolo": "Europei nuoto: Martinenghi, \"essere l'outsider mi ha aiutato\"",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-martinenghi-essere-loutsider-mi-ha-aiutato_e40e948b-ffc8-4a83-98ed-c035beadee1e.html",
      "data": "2026-08-15T17:56:44+00:00"
-    },
-    {
-     "titolo": "Calcio: ufficiale, Spence all'Inter e contratto fino al 2031",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/calcio-ufficiale-spence-allinter-e-contratto-fino-al-2031_d58ed035-a28a-449f-a641-ae14717de966.html",
-     "data": "2026-08-15T19:45:27+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Curtis, \"Sfondato muro 24\". Sono contentissima\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-curtis-sfondato-muro-24.-sono-contentissima_b8b41603-e245-425a-b9f5-60c157aff12e.html",
-     "data": "2026-08-15T19:45:38+00:00"
-    },
-    {
-     "titolo": "Prima vittoria estiva del Milan, Manchester United battuto 4-2",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/prima-vittoria-estiva-del-milan-manchester-united-battuto-4-2_96a4ee6d-1db5-40e5-8c14-5d7c4a617970.html",
-     "data": "2026-08-15T17:16:25+00:00"
-    },
-    {
-     "titolo": "Europei di nuoto: Martinenghi concede il bis e vince l'oro anche nei 50 rana",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-martinenghi-concede-il-bis-e-vince-loro-anche-nei-50-rana_d5a08a6c-f384-48c8-a1ce-6afae74828d6.html",
-     "data": "2026-08-15T19:13:51+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Gastaldi argento nei 200 misti",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-gastaldi-argento-nei-200-misti_c810e263-e2e6-4377-82ec-a2aceec8f3ea.html",
-     "data": "2026-08-15T16:58:29+00:00"
     }
    ]
   }
