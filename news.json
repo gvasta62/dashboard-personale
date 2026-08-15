@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-15T00:26:16.871603+00:00",
+ "aggiornato": "2026-08-15T01:54:26.437666+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Terremoto in Indonesia, le autorità esortano all'evacuazione delle zone costiere",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/terremoto-in-indonesia-le-autorita-esortano-allevacuazione-delle-zone-costiere_8d8ae60c-5afc-472d-817a-103e84bef615.html",
+     "data": "2026-08-15T00:36:54+00:00"
+    },
+    {
+     "titolo": "Petroliera degli Emirati Arabi attaccata nello Stretto di Hormuz",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/petroliera-degli-emirati-arabi-attaccata-nello-stretto-di-hormuz_8e5640f7-ceac-4f90-b0ec-dd1e60a29311.html",
+     "data": "2026-08-15T00:28:48+00:00"
+    },
     {
      "titolo": "Usa, 'numero esiguo di casi di salute mentale sulla Lincoln, nessuna vittima'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/usa-numero-esiguo-di-casi-di-salute-mentale-sulla-lincoln-nessuna-vittima_467fc295-a781-46f2-83d8-c6e27b861600.html",
@@ -44,16 +54,6 @@
      "titolo": "Crolla il balcone di un'abitazione a Livorno, morta una donna",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/crolla-il-balcone-di-unabitazione-a-livorno-morta-una-donna_c033b30b-7a18-4904-9c4b-81cf011a6233.html",
      "data": "2026-08-14T18:30:02+00:00"
-    },
-    {
-     "titolo": "Trump, 'i dispiegamenti delle forze Usa in Iran non sono troppo lunghi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/trump-i-dispiegamenti-delle-forze-usa-in-iran-non-sono-troppo-lunghi_1e38b280-12f6-46e3-97cd-e8df47363194.html",
-     "data": "2026-08-14T18:14:22+00:00"
-    },
-    {
-     "titolo": "Undici cadaveri in mare al largo delle coste libiche",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/14/undici-cadaveri-in-mare-al-largo-delle-coste-libiche_ac2d6667-8806-41d5-b5b6-b280eb86a911.html",
-     "data": "2026-08-14T18:14:22+00:00"
     }
    ]
   },
@@ -286,6 +286,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Venezuela, Figuera celebra le scarcerazioni e chiede la liberazione di tutti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/venezuela-figuera-celebra-le-scarcerazioni-e-chiede-la-liberazione-di-tutti_954d5c6d-2e83-4c31-a7e6-3a053b9387f2.html",
+     "data": "2026-08-15T00:37:59+00:00"
+    },
+    {
+     "titolo": "Terremoto in Indonesia, le autorità esortano all'evacuazione delle zone costiere",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/15/terremoto-in-indonesia-le-autorita-esortano-allevacuazione-delle-zone-costiere_99d61cf7-3242-4b32-93be-49bb959d2843.html",
+     "data": "2026-08-15T00:36:58+00:00"
+    },
+    {
+     "titolo": "Petroliera degli Emirati Arabi attaccata nello Stretto di Hormuz",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/15/petroliera-degli-emirati-arabi-attaccata-nello-stretto-di-hormuz_ae59597d-18b7-483c-a1b1-a80a1f4f9247.html",
+     "data": "2026-08-15T00:28:48+00:00"
+    },
+    {
      "titolo": "Venezuela, Delcy Rodríguez definisce gli accordi con l'opposizione 'passi concreti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/venezuela-delcy-rodriguez-definisce-gli-accordi-con-lopposizione-passi-concreti_e3f66b97-7025-4c7f-990f-f37b1bfff0ca.html",
      "data": "2026-08-15T00:00:37+00:00"
@@ -329,21 +344,6 @@
      "titolo": "Venezuela, liberata dopo otto anni la prigioniera politica Emirlendris Benítez",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/14/venezuela-liberata-dopo-otto-anni-la-prigioniera-politica-emirlendris-benitez_073a42ca-2099-46e8-807b-bf6f67ed6043.html",
      "data": "2026-08-14T20:21:40+00:00"
-    },
-    {
-     "titolo": "Media, ex professore di Cambridge accusato di plagio trovato morto a Londra",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/14/media-ex-professore-di-cambridge-accusato-di-plagio-trovato-morto-a-londra_cbc0826a-4597-417e-8776-c01863869f8c.html",
-     "data": "2026-08-14T20:21:45+00:00"
-    },
-    {
-     "titolo": "Trump, 'colpiremo l'Iran in modo pesante economicamente'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/14/trump-colpiremo-liran-in-modo-pesante-economicamente_681460ca-2cc8-4a65-85f0-15e3bd452de7.html",
-     "data": "2026-08-14T20:21:49+00:00"
-    },
-    {
-     "titolo": "Nuovo attacco Houthi in zona yemenita al Makha, sul Mar Rosso, 6 morti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/nuovo-attacco-houthi-in-zona-yemenita-al-makha-sul-mar-rosso-6-morti_22d543fa-c5cf-4788-832a-71988284e1b5.html",
-     "data": "2026-08-14T20:21:54+00:00"
     }
    ]
   },
