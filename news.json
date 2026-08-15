@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-15T15:07:48.453141+00:00",
+ "aggiornato": "2026-08-15T15:40:52.142161+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -61,6 +61,11 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "A Ferragosto i carabinieri portano brioche e caffè ai volontari di un canile",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/15/a-ferragosto-i-carabinieri-portano-brioche-e-caffe-ai-volontari-di-un-canile_4fff24d2-b2fe-4176-9096-d20231dc137f.html",
+     "data": "2026-08-15T15:27:25+00:00"
+    },
+    {
      "titolo": "Allerta gialla per il rischio temporali domenica 16 agosto su tutta l'Umbria",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/15/allerta-gialla-per-il-rischio-temporali-domenica-16-agosto-su-tutta-lumbria_b24b331b-ef25-49d6-8675-bc7c0455f2ae.html",
      "data": "2026-08-15T14:58:24+00:00"
@@ -99,22 +104,27 @@
      "titolo": "Sull'Umbria atteso ferragosto con il cielo generalmente sereno",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/14/sullumbria-atteso-ferragosto-con-il-cielo-generalmente-sereno_27ca0c98-d77b-48b1-a3d8-5a5eba17ea25.html",
      "data": "2026-08-14T09:29:36+00:00"
-    },
-    {
-     "titolo": "Prefetto Terni richiama il Consiglio comunale al 'contegno'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/13/prefetto-terni-richiama-il-consiglio-comunale-al-contegno_df2cf243-b825-4d98-8f66-012c02d45fab.html",
-     "data": "2026-08-13T15:17:44+00:00"
-    },
-    {
-     "titolo": "Garlasco secondo l'intelligenza artificiale in un libro di un giornalista umbro",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/13/garlasco-secondo-lintelligenza-artificiale-in-un-libro-di-un-giornalista-umbro_074ba016-c76d-4bd7-8518-88d77118d576.html",
-     "data": "2026-08-13T15:17:57+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Intossicati cinquanta scout minorenni durante un campo in Friuli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/intossicati-cinquanta-scout-minorenni-durante-un-campo-in-friuli_ed5038ee-62c7-46a1-a107-070762d5fd5d.html",
+     "data": "2026-08-15T15:38:26+00:00"
+    },
+    {
+     "titolo": "Etna: presidente Sac, da noi massimo impegno e grazie agli aeroporti siciliani",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/etna-presidente-sac-da-noi-massimo-impegno-e-grazie-agli-aeroporti-siciliani_e391ee09-7935-4a0b-9b43-8483ea38fa9d.html",
+     "data": "2026-08-15T15:37:16+00:00"
+    },
+    {
+     "titolo": "Terremoto in Indonesia, tredici bolognesi bloccati nell'isola di Flores: 'Le scosse continuano'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/tredici-bolognesi-bloccati-nellisola-di-flores-le-scosse-continuano_61f11190-139a-468f-b180-68a40bbfd96f.html",
+     "data": "2026-08-15T15:35:32+00:00"
+    },
     {
      "titolo": "Troppo caldo, stop allo sci estivo sul ghiacciaio dello Stelvio",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/troppo-caldo-stop-allo-sci-estivo-sul-ghiacciaio-dello-stelvio_eb89ed9d-c824-4218-9bf7-eeee52c9df07.html",
@@ -123,7 +133,7 @@
     {
      "titolo": "Accoltella la sorella, poi precipita dalla finestra e muore",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/-accoltella-sua-sorella-poi-precipita-dalla-finestra-e-muore-_3286ff0a-b2b9-4a7a-a98c-cabf76d940ce.html",
-     "data": "2026-08-15T13:56:18+00:00"
+     "data": "2026-08-15T15:31:43+00:00"
     },
     {
      "titolo": "Estrema criticità per gli incendi in Carnia, informato Piantedosi",
@@ -159,21 +169,6 @@
      "titolo": "Scossa di magnitudo 3.9 nel Catanese: danni a una strada, nessun ferito",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/terremoti-scossa-di-magnitudo-3.9-nel-catanese_4140f767-de17-4318-96c8-4da8427d1f98.html",
      "data": "2026-08-15T13:16:02+00:00"
-    },
-    {
-     "titolo": "Mille incendi in più nel Veneto tra gennaio e agosto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/mille-incendi-in-piu-nel-veneto-tra-gennaio-e-agosto_f42bb461-cc07-42a3-98b2-6598de6ccf21.html",
-     "data": "2026-08-15T10:38:36+00:00"
-    },
-    {
-     "titolo": "Il Papa, 'ci sia consolazione in Terra Santa, Ucraina e Russia'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/il-papa-ci-sia-consolazione-in-terra-santa-ucraina-e-russia_ce02c7b8-d73a-43c6-b737-cdf2ff2e1f76.html",
-     "data": "2026-08-15T10:27:25+00:00"
-    },
-    {
-     "titolo": "Ragazzina cade dal nono piano e muore a Palermo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/ragazzina-cade-dal-nono-piano-e-muore-a-palermo_67ae97ad-3988-48c7-a22a-b16a52b2dac0.html",
-     "data": "2026-08-15T09:15:56+00:00"
     }
    ]
   },
@@ -276,6 +271,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "De la Espriella ringrazia Netanyahu per gli aiuti alla Colombia dopo il terremoto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/de-la-espriella-ringrazia-netanyahu-per-gli-aiuti-alla-colombia-dopo-il-terremoto_b52ff664-0a14-40d6-b1c3-6a41ac822aae.html",
+     "data": "2026-08-15T15:30:59+00:00"
+    },
+    {
      "titolo": "Media, Marocco blocca centinaia di persone dirette a Ceuta",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/15/media-marocco-blocca-centinaia-di-persone-dirette-a-ceuta_d8e51fdb-7227-4bb3-8a3c-48f802d58790.html",
      "data": "2026-08-15T09:36:03+00:00"
@@ -329,11 +329,6 @@
      "titolo": "Terremoto di magnitudo 7.7 in Indonesia",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/15/terremoto-di-magnitudo-7.7-in-indonesia_665f2507-4f16-4bdc-9a76-8a37942ef3a5.html",
      "data": "2026-08-14T22:55:32+00:00"
-    },
-    {
-     "titolo": "Brasile, Lula resta avanti su Flávio Bolsonaro nei sondaggi ma il vantaggio si riduce",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/brasile-lula-resta-avanti-su-flavio-bolsonaro-nei-sondaggi-ma-il-vantaggio-si-riduce_6b4f10ab-fb41-42aa-8150-84952d0db968.html",
-     "data": "2026-08-14T22:19:05+00:00"
     }
    ]
   },
