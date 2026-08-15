@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-15T21:40:25.869561+00:00",
+ "aggiornato": "2026-08-15T22:05:28.908269+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -116,6 +116,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Incendio nel Frusinate, vicino al santuario della Madonna della Guardia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/incendio-nel-frusinate-vicino-al-santuario-della-madonna-della-guardia_99f165ee-6fc3-43b5-824c-7728b8bf5274.html",
+     "data": "2026-08-15T21:54:31+00:00"
+    },
+    {
      "titolo": "Meccanico morto nel Reggino, il titolare dell'officina: 'Noi estranei'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/meccanico-morto-nel-reggino-il-titolare-dellofficina-noi-estranei_90a8e4f5-da8f-4de4-b1db-dfe315e41108.html",
      "data": "2026-08-15T19:36:32+00:00"
@@ -169,11 +174,6 @@
      "titolo": "Accoltella la sorella, poi precipita dalla finestra e muore",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/-accoltella-sua-sorella-poi-precipita-dalla-finestra-e-muore-_3286ff0a-b2b9-4a7a-a98c-cabf76d940ce.html",
      "data": "2026-08-15T15:31:43+00:00"
-    },
-    {
-     "titolo": "Estrema criticità per gli incendi in Carnia, informato Piantedosi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/estrema-criticita-per-gli-incendi-in-carnia-informato-piantedosi_f62b6168-4e4a-4edc-808f-1c10d6e4dffd.html",
-     "data": "2026-08-15T13:49:26+00:00"
     }
    ]
   },
@@ -406,6 +406,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Tennis: Cincinnati, esce Darderi battuto da Hijikata",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/tennis-cincinnati-esce-darderi-battuto-da-hijikata_2e338a6b-3446-483a-80be-753b0da7a7c4.html",
+     "data": "2026-08-15T21:54:19+00:00"
+    },
+    {
+     "titolo": "Milan: Amorim, \"Leao dovrà lottare per un posto\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/milan-amorim-leao-dovra-lottare-per-un-posto_1f63b17a-6c54-4093-a6fc-dbdf2a986c2b.html",
+     "data": "2026-08-15T21:49:15+00:00"
+    },
+    {
+     "titolo": "Tennis: a Cincinnati clamoroso ko di Djokovic, eliminato da Tirante",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/tennis-a-cincinnati-clamoroso-ko-di-djokovic-eliminato-da-tirante_7402e3ac-2c6a-4fb1-a4be-7c6aebd19874.html",
+     "data": "2026-08-15T21:44:25+00:00"
+    },
+    {
+     "titolo": "Tennis: Cincinnati, fuori Bellucci",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/tennis-cincinnati-fuori-bellucci_86de9c23-d689-46df-89c9-461dfa0756b0.html",
+     "data": "2026-08-15T21:40:26+00:00"
+    },
+    {
      "titolo": "Calcio: Torino ok in Coppa Italia, con la Carrarese basta Simeone",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/calcio-torino-ok-in-coppa-italia-con-la-carrarese-basta-simeone_99a73763-8ff2-4c44-b5a9-adba7b2a66c6.html",
      "data": "2026-08-15T21:21:15+00:00"
@@ -444,26 +464,6 @@
      "titolo": "Europei nuoto: Ceccon e Pilato centrano le qualificazioni in finale",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-ceccon-e-pilato-centrano-le-qualificazioni-in-finale_06147c68-e964-49d9-b409-80ab3f507cee.html",
      "data": "2026-08-15T20:07:30+00:00"
-    },
-    {
-     "titolo": "Fiorini: \"L'oro é leggerezza. Mi sono divertita\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/fiorini-loro-e-leggerezza.-mi-sono-divertita_e192e802-e24d-4561-a901-e834e2c19d1e.html",
-     "data": "2026-08-15T20:05:42+00:00"
-    },
-    {
-     "titolo": "Stano: \"Oggi non mi fermava nessuno, volevo l'oro\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/stano-oggi-non-mi-fermava-nessuno-volevo-loro_e5fdb084-1318-4c19-81fd-8df44ba24a54.html",
-     "data": "2026-08-15T20:04:17+00:00"
-    },
-    {
-     "titolo": "A Cincinnati Cobolli al terzo turno, eliminato Arnaldi",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/a-cincinnati-cobolli-al-terzo-turno-eliminato-arnaldi_0fe472e0-b1de-4099-8dc1-906e1350c12d.html",
-     "data": "2026-08-15T20:00:11+00:00"
-    },
-    {
-     "titolo": "L'Inter batte il Real Betis 1-0, Stones entra e segna",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/linter-batte-il-betis-1-0-stones-entra-e-segna_c74b0a95-9b02-4a07-8c46-fb7e06044cd1.html",
-     "data": "2026-08-15T20:20:31+00:00"
     }
    ]
   }
