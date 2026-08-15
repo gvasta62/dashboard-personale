@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-15T16:08:21.868509+00:00",
+ "aggiornato": "2026-08-15T16:46:12.225919+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -111,6 +111,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-08-15T16:35:41+00:00"
+    },
+    {
      "titolo": "Etna, l'aeroporto di Catania verso la normalità",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/etna-riapre-lo-scalo-di-catania-presidente-sac-per-il-ritorno-alla-normalita_d182f31c-80af-4337-9d14-1c63df9c9c07.html",
      "data": "2026-08-15T15:44:50+00:00"
@@ -164,11 +169,6 @@
      "titolo": "Giovane ucciso a Trani, convalidato il fermo del 17enne",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/giovane-ucciso-a-trani-convalidato-il-fermo-del-17enne_545e8d3c-f245-4dbb-948a-ec3da2601de6.html",
      "data": "2026-08-15T13:39:52+00:00"
-    },
-    {
-     "titolo": "Scritte contro gli ebrei al Memoriale di Firenze sulla Deportazione",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/scritte-contro-gli-ebrei-al-memoriale-di-firenze-sulla-deportazione_0da05f97-78b8-4606-b908-72ab5171f7f4.html",
-     "data": "2026-08-15T12:28:48+00:00"
     }
    ]
   },
@@ -401,9 +401,34 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei ginnastica artistica: oro per Manila Esposito al corpo libero",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/europei-ginnastica-artistica-oro-per-manila-esposito-al-corpo-libero_d622c12e-1d46-4afa-811b-a8bf8b630604.html",
+     "data": "2026-08-15T16:43:35+00:00"
+    },
+    {
+     "titolo": "Europei atletica: Italia in finale nelle staffette 4x100 uomini e donne",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/europei-atletica-italia-in-finale-nelle-staffette-4x100-uomini-e-donne_e4ec6c48-1c6a-4ea3-98e7-d01d3a1185c7.html",
+     "data": "2026-08-15T16:38:59+00:00"
+    },
+    {
+     "titolo": "Tennis: Cincinnati, la pioggia interrompe il match di Cobolli",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/tennis-cincinnati-la-pioggia-interrompe-il-match-di-cobolli_8b378d02-95fe-49ae-9e9a-c608c5d7d258.html",
+     "data": "2026-08-15T16:38:21+00:00"
+    },
+    {
+     "titolo": "Basket: Italia-Belgio 64-63 in amichevole, vittoria delle azzurre",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/15/basket-italia-belgio-64-63-in-amichevole-vittoria-delle-azzurre_f72a7bae-ae0a-4727-97c9-9c9be71a9c9a.html",
+     "data": "2026-08-15T16:32:33+00:00"
+    },
+    {
      "titolo": "Calcio: Ferran Torres dal Barca al Psg per 50 milioni",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/calcio-ferran-torres-dal-barca-al-psg-per-50-milioni_6829adfc-0082-4ad2-97c7-0ffbda5c0ae8.html",
-     "data": "2026-08-15T13:57:09+00:00"
+     "data": "2026-08-15T16:32:37+00:00"
+    },
+    {
+     "titolo": "Europei atletica: Iapichino in finale nel salto in lungo",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/europei-atletica-iapichino-in-finale-nel-salto-in-lungo_7845cc3f-df75-4b26-84cb-799dbf38e566.html",
+     "data": "2026-08-15T16:39:14+00:00"
     },
     {
      "titolo": "Europei di atletica: Massimo Stano e Sofia Fiorini oro nella maratona di marcia",
@@ -434,31 +459,6 @@
      "titolo": "Tamberi e l'urlo liberatorio: 'Non potevo solo prendere schiaffi'",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/tamberi-e-lurlo-liberatorio-non-potevo-solo-prendere-schiaffi_7fb471e9-ccfe-473a-9518-9d46335d7ca8.html",
      "data": "2026-08-14T22:01:49+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Tamberi re dell'alto e Battocletti bis d'oro, Italia domina in Europa",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-atletica-tamberi-re-dellalto-e-battocletti-bis-doro-italia-domina-in-europa_8c9349bf-0a5b-474a-91a8-154b9b629c14.html",
-     "data": "2026-08-14T21:47:22+00:00"
-    },
-    {
-     "titolo": "Sarri, 'il mercato è palloso, un insulto alla mia professione'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/sarri-il-mercato-e-palloso-un-insulto-alla-mia-professione_2cb0ddb0-c3e3-4ccf-becb-b2b6edd71f5a.html",
-     "data": "2026-08-14T21:41:50+00:00"
-    },
-    {
-     "titolo": "Frattesi, 'alla Lazio per sentirmi importante, voglio essere protagonista'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/frattesi-alla-lazio-per-sentirmi-importante-voglio-essere-protagonista_a9896709-2ba4-4213-90ac-f5196757369a.html",
-     "data": "2026-08-14T21:35:10+00:00"
-    },
-    {
-     "titolo": "Coppa Italia: Fiorentina-Benevento 4-1, vittoria incoraggiante per i viola",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/coppa-italia-fiorentina-benevento-4-1-vittoria-incoraggiante-per-i-viola_f1f1e1fe-834f-4aa5-8d4a-ea02fa20c725.html",
-     "data": "2026-08-14T21:35:59+00:00"
-    },
-    {
-     "titolo": "Coppa Italia: avanzano Parma e Monza, fuori Catania e Avellino",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/coppa-italia-avanzano-parma-e-monza-fuori-catania-e-avellino_0dfaf7ac-3019-4d47-a47f-9b89ce278426.html",
-     "data": "2026-08-14T21:33:06+00:00"
     }
    ]
   }
