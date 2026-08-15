@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-15T17:09:46.735731+00:00",
+ "aggiornato": "2026-08-15T17:41:28.447495+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -60,6 +60,11 @@
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Ferragosto con la Protezione civile per la presidente Proietti",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/15/ferragosto-con-la-protezione-civile-per-la-presidente-proietti_0313d671-0cf0-44d8-971c-5ebefb0e4ace.html",
+     "data": "2026-08-15T17:27:10+00:00"
+    },
     {
      "titolo": "A Ferragosto i carabinieri portano brioche e caffè ai volontari di un canile",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/15/a-ferragosto-i-carabinieri-portano-brioche-e-caffe-ai-volontari-di-un-canile_4fff24d2-b2fe-4176-9096-d20231dc137f.html",
@@ -133,7 +138,7 @@
     {
      "titolo": "Terremoto in Indonesia, tredici bolognesi bloccati nell'isola di Flores: 'Le scosse continuano'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/tredici-bolognesi-bloccati-nellisola-di-flores-le-scosse-continuano_61f11190-139a-468f-b180-68a40bbfd96f.html",
-     "data": "2026-08-15T15:35:32+00:00"
+     "data": "2026-08-15T17:08:19+00:00"
     },
     {
      "titolo": "Troppo caldo, stop allo sci estivo sul ghiacciaio dello Stelvio",
@@ -401,14 +406,19 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Europei nuoto: Martinenghi concede il bis e vince l'oro anche nei 50 rana",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-martinenghi-concede-il-bis-e-vince-loro-anche-nei-50-rana_d5a08a6c-f384-48c8-a1ce-6afae74828d6.html",
-     "data": "2026-08-15T17:03:56+00:00"
+     "titolo": "Europei nuoto: Curtis, \"Sfondato muro 24\". Sono contentissima\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-curtis-sfondato-muro-24.-sono-contentissima_b8b41603-e245-425a-b9f5-60c157aff12e.html",
+     "data": "2026-08-15T17:29:52+00:00"
     },
     {
-     "titolo": "Calcio: prima vittoria estiva del Milan, battuto United 4-2 con Ramos e Chukwueze",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/calcio-prima-vittoria-estiva-del-milan-battuto-united-4-2-con-ramos_96a4ee6d-1db5-40e5-8c14-5d7c4a617970.html",
-     "data": "2026-08-15T17:01:33+00:00"
+     "titolo": "Prima vittoria estiva del Milan, Manchester United battuto 4-2",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/prima-vittoria-estiva-del-milan-manchester-united-battuto-4-2_96a4ee6d-1db5-40e5-8c14-5d7c4a617970.html",
+     "data": "2026-08-15T17:16:25+00:00"
+    },
+    {
+     "titolo": "Europei di nuoto: Martinenghi concede il bis e vince l'oro anche nei 50 rana",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-martinenghi-concede-il-bis-e-vince-loro-anche-nei-50-rana_d5a08a6c-f384-48c8-a1ce-6afae74828d6.html",
+     "data": "2026-08-15T17:27:30+00:00"
     },
     {
      "titolo": "Europei nuoto: Gastaldi argento nei 200 misti",
@@ -454,11 +464,6 @@
      "titolo": "Europei di atletica: Massimo Stano e Sofia Fiorini oro nella maratona di marcia",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/15/europei-di-atletica-sofia-fiorini-record-del-mondo-e-oro-nella-maratona_3405fe57-2984-44c3-bc53-1b699de4b8c4.html",
      "data": "2026-08-15T11:21:46+00:00"
-    },
-    {
-     "titolo": "Al Master 1000 di Cincinnati buona la prima per Berrettini e  Sonego",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/al-master-1000-di-cincinnati-buona-la-prima-per-berrettini-e-sonego_f9d0d4f5-4067-4ef2-9f83-f96909c2f913.html",
-     "data": "2026-08-14T22:51:08+00:00"
     }
    ]
   }
