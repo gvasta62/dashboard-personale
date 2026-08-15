@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-15T08:11:52.687023+00:00",
+ "aggiornato": "2026-08-15T08:50:28.570650+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -136,14 +136,14 @@
      "data": "2026-08-15T07:22:05+00:00"
     },
     {
-     "titolo": "'Nessuna nube lavica sull'Etna, avviso per il volo passato da rosso ad arancione'",
+     "titolo": "Scende l'allerta per l'Etna, riapertura dello scalo di Catania prevista per le 14",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/nessuna-nube-lavica-sulletna-avviso-per-il-volo-passato-da-rosso-ad-arancione_d182f31c-80af-4337-9d14-1c63df9c9c07.html",
-     "data": "2026-08-15T07:35:37+00:00"
+     "data": "2026-08-15T08:37:07+00:00"
     },
     {
      "titolo": "Rissa allo Zen a Palermo, i carabinieri trovano un cadavere in strada",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/rissa-allo-zen-a-palermo-i-carabinieri-trovano-un-cadavere-in-strada_90651e74-2833-40c5-b899-1b0cb0f7311e.html",
-     "data": "2026-08-15T07:49:35+00:00"
+     "data": "2026-08-15T08:42:38+00:00"
     },
     {
      "titolo": "#AccadeOggi",
@@ -190,6 +190,11 @@
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Il Papa, 'il mondo impone canoni estetici che ci imprigionano'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/15/il-papa-il-mondo-impone-canoni-estetici-che-ci-imprigionano_be46cafa-6bbc-4e08-982c-1a658b9cf070.html",
+     "data": "2026-08-15T08:37:47+00:00"
+    },
     {
      "titolo": "Matteo Salvini gela i frondisti: 'La Lega è una, chi non è d'accordo non la rappresenta'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/15/matteo-salvini-gela-i-frondisti-la-lega-e-una-chi-non-e-daccordo-non_27a6dbda-834d-4367-b25e-8ae5fd210957.html",
@@ -411,6 +416,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei di atletica: argento di Fortunato e Mihai nella mezza maratona, Cosi si aggiudica il bronzo",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/15/europei-di-atletica-argento-di-fortunato-e-mihai-nella-mezza-maratona-cosi-si-aggiudica_3405fe57-2984-44c3-bc53-1b699de4b8c4.html",
+     "data": "2026-08-15T08:44:52+00:00"
+    },
+    {
      "titolo": "Al Master 1000 di Cincinnati buona la prima per Berrettini e  Sonego",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/al-master-1000-di-cincinnati-buona-la-prima-per-berrettini-e-sonego_f9d0d4f5-4067-4ef2-9f83-f96909c2f913.html",
      "data": "2026-08-14T22:51:08+00:00"
@@ -428,7 +438,7 @@
     {
      "titolo": "Quadarella e Battocletti regine d'Europa, Tamberi una leggenda",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/quadarella-e-battocletti-regine-deuropa-tamberi-una-leggenda_5a525e79-db38-4b47-b089-325fe108dd1b.html",
-     "data": "2026-08-14T22:37:47+00:00"
+     "data": "2026-08-15T08:09:52+00:00"
     },
     {
      "titolo": "Tamberi e l'urlo liberatorio: 'Non potevo solo prendere schiaffi'",
@@ -464,11 +474,6 @@
      "titolo": "Zalewski affonda l'Athletic Bilbao, l'Atalanta vince il \"Bortolotti\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/zalewski-affonda-lathletic-bilbao-latalanta-vince-il-bortolotti_3216c2ea-2092-4953-afa1-8fb06f302ef1.html",
      "data": "2026-08-14T20:50:31+00:00"
-    },
-    {
-     "titolo": "Ufficiale Frattesi alla Lazio, ha firmato il contratto",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/ufficiale-frattesi-alla-lazio-ha-firmato-il-contratto_4d07c0ea-bff3-41a0-86cc-c9f0af236ab4.html",
-     "data": "2026-08-14T20:43:15+00:00"
     }
    ]
   }
