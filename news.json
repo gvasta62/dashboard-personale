@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-15T19:40:47.969419+00:00",
+ "aggiornato": "2026-08-15T20:07:45.324513+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -118,7 +118,7 @@
     {
      "titolo": "Meccanico morto nel Reggino, il titolare dell'officina: 'Noi estranei'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/meccanico-morto-nel-reggino-il-titolare-dellofficina-noi-estranei_90a8e4f5-da8f-4de4-b1db-dfe315e41108.html",
-     "data": "2026-08-15T19:22:52+00:00"
+     "data": "2026-08-15T19:36:32+00:00"
     },
     {
      "titolo": "Cadavere trovato in strada allo Zen, la vittima colpita con un giravite",
@@ -148,7 +148,7 @@
     {
      "titolo": "Intossicati 50 giovani scout durante un campo in Friuli",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/intossicati-cinquanta-scout-minorenni-durante-un-campo-in-friuli_ed5038ee-62c7-46a1-a107-070762d5fd5d.html",
-     "data": "2026-08-15T19:18:09+00:00"
+     "data": "2026-08-15T19:40:49+00:00"
     },
     {
      "titolo": "Etna: presidente Sac, da noi massimo impegno e grazie agli aeroporti siciliani",
@@ -406,6 +406,31 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: si chiude la pre season della Roma, 2-2 col Borussia Dortmund",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/calcio-si-chiude-la-pre-season-della-roma-2-2-col-borussia-dortmund_e2a3acf1-70b5-4b26-90d2-674f83faa4cc.html",
+     "data": "2026-08-15T20:01:25+00:00"
+    },
+    {
+     "titolo": "A Cincinnati Cobolli al terzo turno, eliminato Arnaldi",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/a-cincinnati-cobolli-al-terzo-turno-eliminato-arnaldi_0fe472e0-b1de-4099-8dc1-906e1350c12d.html",
+     "data": "2026-08-15T20:00:11+00:00"
+    },
+    {
+     "titolo": "L'Inter batte il Betis 1-0, Stones entra e segna",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/linter-batte-il-betis-1-0-stones-entra-e-segna_c74b0a95-9b02-4a07-8c46-fb7e06044cd1.html",
+     "data": "2026-08-15T19:53:58+00:00"
+    },
+    {
+     "titolo": "Tennis: Cincinnati, Arnaldi perde con Landaluce ed esce",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/tennis-cincinnati-arnaldi-perde-con-landaluce-ed-esce_431d4568-d282-4219-a6c3-db200e6d7e85.html",
+     "data": "2026-08-15T19:46:09+00:00"
+    },
+    {
+     "titolo": "Los Angeles 2028: l'Italia di flag football si qualifica per i Giochi",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/los-angeles-2028-litalia-di-flag-football-si-qualifica-per-i-giochi_0e783267-48ec-4408-96df-4c062f6bb118.html",
+     "data": "2026-08-15T19:45:15+00:00"
+    },
+    {
      "titolo": "Europei nuoto: Gastaldi, \"Si è concretizzato il lavoro di anni\"",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-gastaldi-si-e-concretizzato-il-lavoro-di-anni_125e3101-e8f5-4637-9eac-f7cf8ce39bce.html",
      "data": "2026-08-15T18:01:13+00:00"
@@ -416,19 +441,14 @@
      "data": "2026-08-15T17:56:44+00:00"
     },
     {
-     "titolo": "Calcio: si chiude la pre season della Roma, 2-2 col Borussia Dortmund",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/calcio-si-chiude-la-pre-season-della-roma-2-2-col-borussia-dortmund_e2a3acf1-70b5-4b26-90d2-674f83faa4cc.html",
-     "data": "2026-08-15T17:45:13+00:00"
-    },
-    {
      "titolo": "Calcio: ufficiale, Spence all'Inter e contratto fino al 2031",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/calcio-ufficiale-spence-allinter-e-contratto-fino-al-2031_d58ed035-a28a-449f-a641-ae14717de966.html",
-     "data": "2026-08-15T17:43:48+00:00"
+     "data": "2026-08-15T19:45:27+00:00"
     },
     {
      "titolo": "Europei nuoto: Curtis, \"Sfondato muro 24\". Sono contentissima\"",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-curtis-sfondato-muro-24.-sono-contentissima_b8b41603-e245-425a-b9f5-60c157aff12e.html",
-     "data": "2026-08-15T17:29:52+00:00"
+     "data": "2026-08-15T19:45:38+00:00"
     },
     {
      "titolo": "Prima vittoria estiva del Milan, Manchester United battuto 4-2",
@@ -444,26 +464,6 @@
      "titolo": "Europei nuoto: Gastaldi argento nei 200 misti",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-gastaldi-argento-nei-200-misti_c810e263-e2e6-4377-82ec-a2aceec8f3ea.html",
      "data": "2026-08-15T16:58:29+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Sara Curtis bronzo nei 50m stile libero",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-sara-curtis-bronzo-nei-50m-stile-libero_ab65f341-5062-4e8a-9d85-cf403af37bd1.html",
-     "data": "2026-08-15T16:52:01+00:00"
-    },
-    {
-     "titolo": "Ferran Torres dal Barcellona al Psg per 50 milioni",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/ferran-torres-dal-barcellona-al-psg-per-50-milioni_6829adfc-0082-4ad2-97c7-0ffbda5c0ae8.html",
-     "data": "2026-08-15T16:48:48+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Larissa Iapichino in finale nel salto in lungo",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/europei-atletica-larissa-iapichino-in-finale-nel-salto-in-lungo_7845cc3f-df75-4b26-84cb-799dbf38e566.html",
-     "data": "2026-08-15T16:45:39+00:00"
-    },
-    {
-     "titolo": "Europei ginnastica artistica: oro per Manila Esposito al corpo libero",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/europei-ginnastica-artistica-oro-per-manila-esposito-al-corpo-libero_d622c12e-1d46-4afa-811b-a8bf8b630604.html",
-     "data": "2026-08-15T16:43:35+00:00"
     }
    ]
   }
