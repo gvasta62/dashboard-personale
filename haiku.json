@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-08-15T04:20:10.455439+00:00",
- "data": "2026-08-15",
- "testo": "Ferragosto quieto\nserranda del panificio\nabbassata a metà",
- "nota": "Nel giorno di festa la bottega chiusa lascia la via silenziosa e vuota.",
+ "aggiornato": "2026-08-16T04:26:14.303686+00:00",
+ "data": "2026-08-16",
+ "testo": "Goccia sul girasole\nlungo il muretto a secco\nscivola una lucertola",
+ "nota": "Dopo il rovescio, una lucertola bagnata corre sul muretto assolato.",
  "archivio": [
+  {
+   "data": "2026-08-16",
+   "testo": "Goccia sul girasole\nlungo il muretto a secco\nscivola una lucertola",
+   "nota": "Dopo il rovescio, una lucertola bagnata corre sul muretto assolato."
+  },
   {
    "data": "2026-08-15",
    "testo": "Ferragosto quieto\nserranda del panificio\nabbassata a metà",
