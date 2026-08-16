@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-16T02:03:22.201868+00:00",
+ "aggiornato": "2026-08-16T03:24:01.349403+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Giappone: bilancio piogge torrenziali sale a 9 morti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/giappone-bilancio-piogge-torrenziali-sale-a-9-morti_df5e3065-2170-4d79-9932-939a056aecd6.html",
+     "data": "2026-08-16T02:58:20+00:00"
+    },
     {
      "titolo": "Esplosioni a Kiev dopo l'allarme missili balistici",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/esplosioni-a-kiev-dopo-lallarme-missili-balistici_233a5d4f-fdb4-4760-a702-2d047edba97b.html",
@@ -49,11 +54,6 @@
      "titolo": "Sale a 38 morti il bilancio delle vittime nel sisma in Indonesia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/sale-a-38-morti-il-bilancio-delle-vittime-nel-sisma-in-indonesia_cd541c23-b98c-4256-a359-992578bbddf7.html",
      "data": "2026-08-15T09:34:49+00:00"
-    },
-    {
-     "titolo": "Media libanesi, attacco israeliano nel sud del Paese ha ucciso 7 persone",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/media-libanesi-attacco-israeliano-nel-sud-del-paese-ha-ucciso-7-persone_f640d726-8d17-4430-96ab-b92b0abab747.html",
-     "data": "2026-08-15T05:45:50+00:00"
     }
    ]
   },
@@ -276,6 +276,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Giappone: bilancio piogge torrenziali sale a 9 morti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/16/giappone-bilancio-piogge-torrenziali-sale-a-9-morti_1f3d5097-8aa1-4d37-bc38-e2a51740872a.html",
+     "data": "2026-08-16T02:58:37+00:00"
+    },
+    {
      "titolo": "Esplosioni a Kiev dopo l'allarme missili balistici",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/esplosioni-a-kiev-dopo-lallarme-missili-balistici_4a588ee7-629b-4322-adbe-3dfc4721faaa.html",
      "data": "2026-08-16T00:32:52+00:00"
@@ -324,16 +329,6 @@
      "titolo": "Media libanesi, attacco israeliano nel sud del Paese ha ucciso 7 persone",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/15/media-libanesi-attacco-israeliano-nel-sud-del-paese-ha-ucciso-7-persone_629d7a53-1afe-4dc6-afea-655a526cec14.html",
      "data": "2026-08-15T05:45:50+00:00"
-    },
-    {
-     "titolo": "Venezuela, Figuera celebra le scarcerazioni e chiede la liberazione di tutti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/venezuela-figuera-celebra-le-scarcerazioni-e-chiede-la-liberazione-di-tutti_954d5c6d-2e83-4c31-a7e6-3a053b9387f2.html",
-     "data": "2026-08-15T00:37:59+00:00"
-    },
-    {
-     "titolo": "Terremoto in Indonesia, le autorità esortano all'evacuazione delle zone costiere",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/15/terremoto-in-indonesia-le-autorita-esortano-allevacuazione-delle-zone-costiere_99d61cf7-3242-4b32-93be-49bb959d2843.html",
-     "data": "2026-08-15T00:36:58+00:00"
     }
    ]
   },
