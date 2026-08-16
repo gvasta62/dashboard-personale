@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-16T08:12:58.297642+00:00",
+ "aggiornato": "2026-08-16T08:52:10.182465+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Donna uccisa nella notte nel cosentino, ricercato il compagno",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/donna-uccisa-nella-notte-nel-cosentino-ricercato-il-compagno_41329a9f-8fc3-42b1-a196-b6ab3aea005a.html",
+     "data": "2026-08-16T08:37:54+00:00"
+    },
     {
      "titolo": "Mosca, 'abbattuti 822 droni ucraini su tutta la Russia nella notte'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/mosca-abbattuti-822-droni-ucraini-su-tutta-la-russia-nella-notte_8acd8fed-273f-4582-a295-9cae71d4b4ec.html",
@@ -49,11 +54,6 @@
      "titolo": "Esplosioni a Kiev dopo l'allarme missili balistici",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/esplosioni-a-kiev-dopo-lallarme-missili-balistici_233a5d4f-fdb4-4760-a702-2d047edba97b.html",
      "data": "2026-08-16T00:32:35+00:00"
-    },
-    {
-     "titolo": "L'uragano Lala si rafforza mentre si avvicina a Big Island nelle Hawaii",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/luragano-lala-si-rafforza-mentre-si-avvicina-a-big-island-nelle-hawaii_a9a99eb9-cff6-48fd-915b-f684962f4baf.html",
-     "data": "2026-08-15T21:08:49+00:00"
     }
    ]
   },
@@ -116,9 +116,19 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Donna uccisa nella notte nel cosentino, ricercato il compagno",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/donna-uccisa-nella-notte-nel-cosentino-ricercato-il-compagno_3aa78aae-54f2-4272-98b9-c08ad3e5c9b6.html",
+     "data": "2026-08-16T08:37:57+00:00"
+    },
+    {
+     "titolo": "Peggiora situazione incendio in Carnia, evacuato un abitato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/peggiora-situazione-incendio-in-carnia-evacuato-un-abitato_73966afd-aa74-413b-964d-a87a6cbc7332.html",
+     "data": "2026-08-16T08:08:50+00:00"
+    },
+    {
      "titolo": "Furto al museo, rubate opere di Antonello da Messina",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/furto-al-museo-rubate-opere-di-antonello-da-messina_d316b5fe-3a2d-489a-8f6a-544d5566e684.html",
-     "data": "2026-08-16T07:50:55+00:00"
+     "data": "2026-08-16T08:15:23+00:00"
     },
     {
      "titolo": "Condannato per pedopornografia, scoperto e arrestato nel Bellunese",
@@ -164,16 +174,6 @@
      "titolo": "Intossicati 50 giovani scout durante un campo in Friuli",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/intossicati-cinquanta-scout-minorenni-durante-un-campo-in-friuli_ed5038ee-62c7-46a1-a107-070762d5fd5d.html",
      "data": "2026-08-15T19:40:49+00:00"
-    },
-    {
-     "titolo": "Etna: presidente Sac, da noi massimo impegno e grazie agli aeroporti siciliani",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/etna-presidente-sac-da-noi-massimo-impegno-e-grazie-agli-aeroporti-siciliani_e391ee09-7935-4a0b-9b43-8483ea38fa9d.html",
-     "data": "2026-08-15T15:37:16+00:00"
-    },
-    {
-     "titolo": "Terremoto in Indonesia, tredici bolognesi bloccati nell'isola di Flores: 'Le scosse continuano'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/tredici-bolognesi-bloccati-nellisola-di-flores-le-scosse-continuano_61f11190-139a-468f-b180-68a40bbfd96f.html",
-     "data": "2026-08-15T18:23:38+00:00"
     }
    ]
   },
@@ -391,14 +391,14 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Sinner festeggia 25 anni,gli auguri della Federtennis 'Italia ti ama ed è pazza di te'",
+     "titolo": "Sinner festeggia 25 anni, gli auguri della Federtennis: 'L'Italia ti ama ed è pazza di te'",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/16/sinner-festeggia-25-annigli-auguri-della-federtennis-italia-ti-ama-ed-e-pazza-di-te_3fa867f4-686d-43e9-8b16-6c24b377d483.html",
-     "data": "2026-08-16T07:21:01+00:00"
+     "data": "2026-08-16T08:46:56+00:00"
     },
     {
      "titolo": "Al Master 1000 di Cincinnati Cobolli al terzo turno, fuori Arnaldi, Darderi e Bellucci",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/16/al-master-1000-di-cincinnati-cobolli-al-terzo-turno-fuori-arnaldi-darderi-e-bellucci_0fe472e0-b1de-4099-8dc1-906e1350c12d.html",
-     "data": "2026-08-15T22:11:15+00:00"
+     "data": "2026-08-16T08:27:21+00:00"
     },
     {
      "titolo": "Tennis: Cincinnati, esce Darderi battuto da Hijikata",
