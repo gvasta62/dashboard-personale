@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-16T21:39:57.623415+00:00",
+ "aggiornato": "2026-08-16T22:05:53.902701+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump annuncia 'significativa riduzione' delle manovre militari con Seul",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/trump-annuncia-significativa-riduzione-delle-manovre-militari-con-seul_7bf1643c-08dd-4b43-ae82-93034f9474cb.html",
+     "data": "2026-08-16T21:58:15+00:00"
+    },
     {
      "titolo": "Improvviso nubifragio nel Lecchese, ventenne muore nel lago",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/improvviso-nubifragio-nel-lecchese-ventenne-muore-nel-lago_1142e77e-6882-4bdd-a139-a4a045a15bf8.html",
@@ -49,11 +54,6 @@
      "titolo": "Italiani aggrediti a Barcellona, un 21enne in coma farmacologico",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/italiani-aggrediti-a-barcellona-un-21enne-in-coma-farmacologico_2f2b0856-a3dd-4908-ae5b-271947311fd2.html",
      "data": "2026-08-16T10:45:09+00:00"
-    },
-    {
-     "titolo": "Legale Lavitola, 'anche Ranucci aveva chiesto di aumentare la scorta'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/legale-lavitola-anche-ranucci-aveva-chiesto-di-aumentare-la-scorta_b542293a-f0e7-4eff-bf49-81f24723d5c6.html",
-     "data": "2026-08-16T10:28:11+00:00"
     }
    ]
   },
@@ -276,6 +276,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump annuncia 'significativa riduzione' delle manovre militari con Seul",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/16/trump-annuncia-significativa-riduzione-delle-manovre-militari-con-seul_5bb54d20-ad36-423f-ba3f-b68757d020fb.html",
+     "data": "2026-08-16T21:58:15+00:00"
+    },
+    {
      "titolo": "Ft, Trump mira a nuove sanzioni contro giudice brasiliano della condanna a Bolsonaro",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/ft-trump-mira-a-nuove-sanzioni-contro-giudice-brasiliano-della-condanna-a-bolsonaro_d33db08c-764d-4f19-9478-5a5dab0b00a8.html",
      "data": "2026-08-16T20:38:29+00:00"
@@ -329,11 +334,6 @@
      "titolo": "Zelensky, 'almeno 3 morti e 14 feriti per i raid russi della notte'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/zelensky-almeno-3-morti-e-14-feriti-per-i-raid-russi-della-notte_8033dbfa-6801-460f-8984-c5ce79d5ae98.html",
      "data": "2026-08-16T10:07:14+00:00"
-    },
-    {
-     "titolo": "Almeno 48 i morti per il sisma in Indonesia, circa 5mila persone evacuate",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/16/almeno-48-i-morti-per-il-sisma-in-indonesia-circa-5mila-persone-evacuate_5307ae5b-9e03-4393-99df-df0fe39adecb.html",
-     "data": "2026-08-16T10:00:37+00:00"
     }
    ]
   },
@@ -406,6 +406,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Coppa Italia: Gattuso, 'è una batosta, chiediamo scusa e andiamo avanti'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/coppa-italia-gattuso-e-una-batosta-chiediamo-scusa-e-andiamo-avanti_f24de1e7-f814-4fbc-b932-ecc6be83fce1.html",
+     "data": "2026-08-16T21:52:50+00:00"
+    },
+    {
+     "titolo": "Oro nella 4x400 e nel lungo con Iapichino, capolavoro degli azzurri campioni d'Europa",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/16/oro-nella-4x400-e-nel-lungo-con-iapichino-capolavoro-degli-azzurri_c9866f9d-ce58-4315-bcce-98ae9a01c293.html",
+     "data": "2026-08-16T21:51:49+00:00"
+    },
+    {
      "titolo": "Scotti, 'con la 4x400 ci giocavamo il medagliere, festa rovinata agli inglesi'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/scotti-con-la-4x400-ci-giocavamo-il-medagliere-festa-rovinata-agli-inglesi_b2a3d517-a7a4-4f21-9b4c-75dd3ea7e2a0.html",
      "data": "2026-08-16T21:31:02+00:00"
@@ -419,11 +429,6 @@
      "titolo": "Coppa Italia: la Lazio di Gattuso ko all'esordio, 2-0 del Mantova all'Olimpico",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/coppa-italia-la-lazio-di-gattuso-ko-allesordio-2-0-del-mantova-allolimpico_397d9093-f88d-4d30-b4c3-86e49b07bc7c.html",
      "data": "2026-08-16T21:19:56+00:00"
-    },
-    {
-     "titolo": "Oro della staffetta 4x400 uomini e di Iapichino nel salto in lungo, l'Italia vince il medagliere",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/16/oro-della-staffetta-4x400-uomini-e-di-iapichino-nel-salto-in-lungo-litalia_c9866f9d-ce58-4315-bcce-98ae9a01c293.html",
-     "data": "2026-08-16T21:29:21+00:00"
     },
     {
      "titolo": "Iapichino, 'ho vinto nella terra di mia mamma, quest'oro vale doppio'",
@@ -459,11 +464,6 @@
      "titolo": "Vlahovic e Lukaku via, contratti da nababbi in Turchia",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/vlahovic-e-lukaku-via-contratti-da-nababbi-in-turchia_2dfe712b-fb11-4cf2-bad3-070fd2b86e13.html",
      "data": "2026-08-16T20:21:56+00:00"
-    },
-    {
-     "titolo": "Count down Serie A: Inter in fuga, in sette inseguono",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/count-down-serie-a-inter-in-fuga-in-sette-inseguono_10c8c148-5119-40bc-a0ef-7f911bc1ddf8.html",
-     "data": "2026-08-16T20:33:19+00:00"
     }
    ]
   }
