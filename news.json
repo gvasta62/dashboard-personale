@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-16T18:51:25.774833+00:00",
+ "aggiornato": "2026-08-16T19:11:03.398630+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -63,7 +63,7 @@
     {
      "titolo": "Ipotesi alta velocità per incidente stradale a ridosso del centro di Terni",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/16/ipotesi-alta-velocita-per-incidente-stradale-a-ridosso-del-centro-di-terni_d0a7dbf9-aee1-4c41-9a9a-c3b425e1c004.html",
-     "data": "2026-08-16T18:48:03+00:00"
+     "data": "2026-08-16T18:51:35+00:00"
     },
     {
      "titolo": "Riparata la rottura sull'adduttrice idrica 'Scirca'",
@@ -78,7 +78,7 @@
     {
      "titolo": "Scontro tra quattro auto a ridosso del centro di Terni, una fuori strada",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/16/scontro-tra-quattro-auto-a-ridosso-del-centro-di-terni-una-fuori_431eb41e-4500-4bef-b876-5bbe6b1828dc.html",
-     "data": "2026-08-16T16:45:50+00:00"
+     "data": "2026-08-16T18:52:02+00:00"
     },
     {
      "titolo": "Rottura per l'adduttrice idrica 'Scirca' nel comune di Gubbio",
@@ -276,6 +276,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Tre morti a Caracas per alluvioni e frane causate da piogge",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/tre-morti-a-caracas-per-alluvioni-e-frane-causate-da-piogge_b9a40d80-b918-41be-a464-2bcccd389003.html",
+     "data": "2026-08-16T19:05:03+00:00"
+    },
+    {
      "titolo": "Al via la campagna elettorale per le presidenziali in Brasile",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/al-via-la-campagna-elettorale-per-le-presidenziali-in-brasile_773d557d-c45c-4d22-8227-b8c0964aa2ca.html",
      "data": "2026-08-16T17:59:24+00:00"
@@ -329,11 +334,6 @@
      "titolo": "Nato, 'il drone abbattuto in Romania sembra essere russo'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/nato-il-drone-abbattuto-in-romania-sembra-essere-russo_11554f95-40c5-44d3-b16b-0f3ea971a6a8.html",
      "data": "2026-08-16T09:56:14+00:00"
-    },
-    {
-     "titolo": "Mosca, 'abbattuti 822 droni ucraini su tutta la Russia nella notte'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/mosca-abbattuti-822-droni-ucraini-su-tutta-la-russia-nella-notte_97badf87-a6b4-4a09-8884-5c13a91b482c.html",
-     "data": "2026-08-16T07:47:14+00:00"
     }
    ]
   },
@@ -406,9 +406,19 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Cristiano Ronaldo: 'Forse sarà il mio ultimo anno prima del ritiro'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/cristiano-ronaldo-forse-sara-il-mio-ultimo-anno-prima-del-ritiro_b83b1a44-bd16-4cd5-8a63-d5fab344f190.html",
+     "data": "2026-08-16T18:59:24+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: Barelli, 'enorme orgoglio, la rete federale è viva'",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-nuoto-barelli-enorme-orgoglio-la-rete-federale-e-viva_15148d0f-e759-438a-8a19-c2acf44b08a8.html",
+     "data": "2026-08-16T18:51:18+00:00"
+    },
+    {
      "titolo": "Europei di nuoto: Simona Quadarella domina a Parigi, dopo 800 e 1500 vince l'oro anche nei 400 stile libero",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-di-nuoto-simona-quadarella-domina-a-parigi-dopo-800-e-1500-vince_50bb406b-3051-4bc7-9439-d1187708e7a4.html",
-     "data": "2026-08-16T18:42:08+00:00"
+     "data": "2026-08-16T18:56:28+00:00"
     },
     {
      "titolo": "Coppa Italia: Genoa avanti, Ascoli battuto 4-1 in rimonta",
@@ -436,6 +446,11 @@
      "data": "2026-08-16T18:12:12+00:00"
     },
     {
+     "titolo": "Calciomercato: la Juventus insiste per il 'Dibu' Martinez, Suzuki all'Aston Villa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/calciomercato-la-juventus-insiste-per-il-dibu-martinez-suzuki-allaston-villa_08bdf83b-1de0-45a0-a4a8-12bd5630fe31.html",
+     "data": "2026-08-16T19:03:56+00:00"
+    },
+    {
      "titolo": "Juve, Lucumì è arrivato al J Medical per le visite mediche",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/juve-lucumi-e-arrivato-al-j-medical-per-le-visite-mediche_8dc540be-83e7-41f4-9ea4-95e291a9c00d.html",
      "data": "2026-08-16T17:50:39+00:00"
@@ -449,21 +464,6 @@
      "titolo": "Calafiori apre le danze, Arsenal batte City 3-0 nel Community Shield",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/calafiori-apre-le-danze-arsenal-batte-city-3-0-nel-community-shield_95baeedd-1dbd-48f2-8833-68ece39010d9.html",
      "data": "2026-08-16T17:45:22+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Quadarella, 'impressionata dalla mia costanza'",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-nuoto-quadarella-impressionata-dalla-mia-costanza_ff5d50dd-6f39-4bc2-9c76-3c31a6b0d59c.html",
-     "data": "2026-08-16T17:46:32+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: Quadarella medaglia d'oro anche nei 400 stile libero",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-nuoto-quadarella-medaglia-doro-anche-nei-400-stile-libero_6caa6794-1524-4371-8eff-8d8007eb6caf.html",
-     "data": "2026-08-16T17:20:47+00:00"
-    },
-    {
-     "titolo": "Cristiano Ronaldo, 'probabilmente sarà il mio ultimo anno prima del ritiro'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/cristiano-ronaldo-probabilmente-sara-il-mio-ultimo-anno-prima-del-ritiro_b83b1a44-bd16-4cd5-8a63-d5fab344f190.html",
-     "data": "2026-08-16T18:28:50+00:00"
     }
    ]
   }
