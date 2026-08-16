@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-16T15:41:50.142640+00:00",
+ "aggiornato": "2026-08-16T16:08:39.252975+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -111,14 +111,24 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Temporali in arrivo su gran parte della penisola",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/temporali-in-arrivo-su-gran-parte-della-penisola_27854b25-e420-43dd-80eb-a8c6d5587cc2.html",
+     "data": "2026-08-16T15:46:09+00:00"
+    },
+    {
+     "titolo": "Incendi in Abruzzo, 4 mezzi aerei fermi per avaria",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/incendi-in-abruzzo-4-mezzi-aerei-fermi-per-avaria_0ce363ec-2aba-4693-9550-a01bbc8afd94.html",
+     "data": "2026-08-16T15:44:39+00:00"
+    },
+    {
      "titolo": "Uomo morto in casa nel reggino, sottoposta a fermo la moglie",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/uomo-morto-in-casa-nel-reggino-sottoposta-a-fermo-la-moglie_5280dc52-c1a6-4359-9bc1-3a32fb8d3857.html",
      "data": "2026-08-16T14:33:39+00:00"
     },
     {
-     "titolo": "Palio di Siena rinviato per la pioggia a domani lunedì 17 luglio",
+     "titolo": "Palio di Siena rinviato per la pioggia a lunedì 17 luglio",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/palio-di-siena-rinviato-per-la-pioggia-a-domani-lunedi-17-luglio_3fa35f19-2b27-4500-bea9-dc4f8be4d813.html",
-     "data": "2026-08-16T15:38:08+00:00"
+     "data": "2026-08-16T15:49:40+00:00"
     },
     {
      "titolo": "Weekend di Ferragosto, traffico scorrevole, in settimana 34 milioni di spostamenti",
@@ -159,16 +169,6 @@
      "titolo": "C'è un terzo bambino azzannato da un animale selvatico, il sindaco chiude i parchi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/terzo-bambino-azzannato-da-un-animale-selvatico-sindaco-chiude-i-parchi_dea6afcd-252e-4a61-bc79-45d7770a7026.html",
      "data": "2026-08-16T13:06:36+00:00"
-    },
-    {
-     "titolo": "Italiani aggrediti a Barcellona, un 21enne è in coma farmacologico",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/italiani-aggrediti-a-barcellona-un-21enne-in-coma-farmacologico_485dcb93-9377-4e68-8525-c67b1595d987.html",
-     "data": "2026-08-16T14:50:07+00:00"
-    },
-    {
-     "titolo": "Legale Lavitola, 'anche Ranucci aveva chiesto di aumentare la scorta'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/legale-lavitola-anche-ranucci-aveva-chiesto-di-aumentare-la-scorta_a82c8525-e795-4e9a-9c4d-dc30a4384c96.html",
-     "data": "2026-08-16T10:27:51+00:00"
     }
    ]
   },
@@ -271,6 +271,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Nuovo attacco dell'Eln contro l'esercito in Colombia, un soldato morto e cinque feriti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/nuovo-attacco-delleln-contro-lesercito-in-colombia-un-soldato-morto-e-cinque-feriti_2664af42-b222-482e-8160-9437e1d840cf.html",
+     "data": "2026-08-16T15:53:14+00:00"
+    },
+    {
      "titolo": "Ecuador, la moglie del presidente Noboa perde il suo bambino",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/ecuador-la-moglie-del-presidente-noboa-perde-il-suo-bambino_597d8a42-a536-4bb7-a24f-c90eaa5d0e60.html",
      "data": "2026-08-16T15:04:26+00:00"
@@ -324,11 +329,6 @@
      "titolo": "Katz minaccia nuovi attacchi in Libano, 'colpiremo con tutta la forza'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/16/katz-minaccia-nuovi-attacchi-in-libano-colpiremo-con-tutta-la-forza_7becb18c-d8cf-40b9-bb83-0798de447349.html",
      "data": "2026-08-16T07:39:56+00:00"
-    },
-    {
-     "titolo": "Oltre 600 droni ucraini lanciati contro Mosca nella notte",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/oltre-600-droni-ucraini-lanciati-contro-mosca-nella-notte_538ed5ae-6c01-4ce8-be5e-fd8799bdb18c.html",
-     "data": "2026-08-16T04:22:00+00:00"
     }
    ]
   },
@@ -401,6 +401,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calafiori apre le danze, Arsenal batte City 3-0 nel Community Shield",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/calafiori-apre-le-danze-arsenal-batte-city-3-0-nel-community-shield_95baeedd-1dbd-48f2-8833-68ece39010d9.html",
+     "data": "2026-08-16T15:57:59+00:00"
+    },
+    {
+     "titolo": "Flag Football: Italia vicecampione del mondo, vincono gli Usa 46-26",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/flag-football-italia-vicecampione-del-mondo-vincono-gli-usa-46-26_758ace2d-6ebd-4080-8659-2be4ae04d1f7.html",
+     "data": "2026-08-16T15:46:11+00:00"
+    },
+    {
      "titolo": "Giochi Mediterrano: Abodi 'dal Papa messaggio prezioso, auspicio sia la pace'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/giochi-mediterrano-abodi-dal-papa-messaggio-prezioso-auspicio-sia-la-pace_88f6b780-f189-4e29-8158-adc41d2e1397.html",
      "data": "2026-08-16T15:07:56+00:00"
@@ -449,16 +459,6 @@
      "titolo": "Europei atletica: la felicità di Riva 'dal km 40 stavo bene e ho atteso la volata'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atletica-la-felicita-di-riva-dal-km-40-stavo-bene-e-ho-atteso-la-volata_a58672e3-4c3b-455a-a5a6-42b6de8d7b4c.html",
      "data": "2026-08-16T09:54:51+00:00"
-    },
-    {
-     "titolo": "Europei atletica: argento Riva nella maratona",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atletica-argento-riva-nella-maratona_5b5bc4d9-304f-4f98-bc24-6a8fe80b889b.html",
-     "data": "2026-08-16T09:42:54+00:00"
-    },
-    {
-     "titolo": "Europei di atletica: argento per Pietro Riva nella maratona e per le azzurre nella classifica a squadre",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/16/europei-atletica-argento-a-pietro-riva-nella-maratona_e27d04ba-fb39-4c41-989b-48f7a7a0f449.html",
-     "data": "2026-08-16T11:43:39+00:00"
     }
    ]
   }
