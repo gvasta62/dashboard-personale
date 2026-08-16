@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-16T08:52:10.182465+00:00",
+ "aggiornato": "2026-08-16T09:14:10.719720+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Europei atletica:maratona femminile, oro alla finlandese Vainio,sesta l'azzurra Lonedo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/europei-atleticamaratona-femminile-oro-alla-finlandese-vainiosesta-lazzurra-lonedo_8702d461-3ef4-41a8-8d5e-46f28d3b9b31.html",
+     "data": "2026-08-16T09:02:19+00:00"
+    },
     {
      "titolo": "Donna uccisa nella notte nel cosentino, ricercato il compagno",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/donna-uccisa-nella-notte-nel-cosentino-ricercato-il-compagno_41329a9f-8fc3-42b1-a196-b6ab3aea005a.html",
@@ -49,11 +54,6 @@
      "titolo": "Giappone: bilancio piogge torrenziali sale a 9 morti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/giappone-bilancio-piogge-torrenziali-sale-a-9-morti_df5e3065-2170-4d79-9932-939a056aecd6.html",
      "data": "2026-08-16T02:58:20+00:00"
-    },
-    {
-     "titolo": "Esplosioni a Kiev dopo l'allarme missili balistici",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/esplosioni-a-kiev-dopo-lallarme-missili-balistici_233a5d4f-fdb4-4760-a702-2d047edba97b.html",
-     "data": "2026-08-16T00:32:35+00:00"
     }
    ]
   },
@@ -116,9 +116,19 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Dopo settimane di caldo, arrivano i primi temporali",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/dopo-settimane-di-caldo-arrivano-i-primi-temporali_4b75af74-fc23-4f1f-a498-a90254266237.html",
+     "data": "2026-08-16T08:58:53+00:00"
+    },
+    {
+     "titolo": "Donna uccisa nel Cosentino, lasciata davanti all'ingresso dell'ospedale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/donna-uccisa-nel-cosentino-lasciata-davanti-allingresso-dellospedale_770df2cb-6314-416a-908e-244ea37cdf2c.html",
+     "data": "2026-08-16T08:51:36+00:00"
+    },
+    {
      "titolo": "Donna uccisa nella notte nel cosentino, ricercato il compagno",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/donna-uccisa-nella-notte-nel-cosentino-ricercato-il-compagno_3aa78aae-54f2-4272-98b9-c08ad3e5c9b6.html",
-     "data": "2026-08-16T08:37:57+00:00"
+     "data": "2026-08-16T08:56:38+00:00"
     },
     {
      "titolo": "Peggiora situazione incendio in Carnia, evacuato un abitato",
@@ -164,16 +174,6 @@
      "titolo": "Etna, l'aeroporto di Catania verso la normalità",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/etna-laeroporto-di-catania-verso-la-normalita_d182f31c-80af-4337-9d14-1c63df9c9c07.html",
      "data": "2026-08-15T16:52:48+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-08-15T16:35:41+00:00"
-    },
-    {
-     "titolo": "Intossicati 50 giovani scout durante un campo in Friuli",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/intossicati-cinquanta-scout-minorenni-durante-un-campo-in-friuli_ed5038ee-62c7-46a1-a107-070762d5fd5d.html",
-     "data": "2026-08-15T19:40:49+00:00"
     }
    ]
   },
@@ -391,6 +391,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei atletica:maratona femminile, oro alla finlandese Vainio,sesta l'azzurra Lonedo",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atleticamaratona-femminile-oro-alla-finlandese-vainiosesta-lazzurra-lonedo_aef1775a-1abe-44a7-9f41-6caa0de8879b.html",
+     "data": "2026-08-16T09:02:15+00:00"
+    },
+    {
      "titolo": "Sinner festeggia 25 anni, gli auguri della Federtennis: 'L'Italia ti ama ed è pazza di te'",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/16/sinner-festeggia-25-annigli-auguri-della-federtennis-italia-ti-ama-ed-e-pazza-di-te_3fa867f4-686d-43e9-8b16-6c24b377d483.html",
      "data": "2026-08-16T08:46:56+00:00"
@@ -444,11 +449,6 @@
      "titolo": "Si chiude la pre season della Roma, 2-2 col Borussia Dortmund",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/si-chiude-la-pre-season-della-roma-2-2-col-borussia-dortmund_e2a3acf1-70b5-4b26-90d2-674f83faa4cc.html",
      "data": "2026-08-15T20:22:24+00:00"
-    },
-    {
-     "titolo": "Coppa Italia: l'Udinese batte il Padova e passa il turno",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/coppa-italia-ludinese-batte-il-padova-e-passa-il-turno_bcd42698-5276-4a09-85ce-6504e092f174.html",
-     "data": "2026-08-15T20:17:02+00:00"
     }
    ]
   }
