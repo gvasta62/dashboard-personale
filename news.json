@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-16T07:06:06.852928+00:00",
+ "aggiornato": "2026-08-16T07:50:26.289978+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Un autobus si è ribaltato in Ungheria, 12 morti e almeno 10 feriti gravi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/un-autobus-si-e-ribaltato-in-ungheria-12-morti-e-almeno-10-feriti-gravi_5001cba0-3baa-4f28-ac05-d5fcd612dc4f.html",
+     "data": "2026-08-16T07:43:43+00:00"
+    },
+    {
+     "titolo": "Katz minaccia nuovi attacchi in Libano, 'colpiremo con tutta la forza'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/katz-minaccia-nuovi-attacchi-in-libano-colpiremo-con-tutta-la-forza_525f1bda-fe98-4723-9d5d-7660d07261f4.html",
+     "data": "2026-08-16T07:39:37+00:00"
+    },
+    {
+     "titolo": "Furto al museo, rubate opere di Antonello da Messina",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/furto-al-museo-rubate-opere-di-antonello-da-messina_9c652816-f803-4b4a-8248-75361f4cbf60.html",
+     "data": "2026-08-16T07:25:37+00:00"
+    },
+    {
+     "titolo": "Sinner festeggia 25 anni,gli auguri della Federtennis 'Italia ti ama ed è pazza di te'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/sinner-festeggia-25-annigli-auguri-della-federtennis-italia-ti-ama-ed-e-pazza-di-te_4f7dd140-88eb-468b-93fe-72a19e8b7d6c.html",
+     "data": "2026-08-16T07:20:45+00:00"
+    },
     {
      "titolo": "Oltre 600 droni ucraini lanciati contro Mosca nella notte",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/oltre-600-droni-ucraini-lanciati-contro-mosca-nella-notte_ab70d249-6a0c-4765-bebe-bd4a680edf4a.html",
@@ -34,26 +54,6 @@
      "titolo": "Marocco, 300 migranti fermati mentre tentavano di raggiungere Ceuta",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/marocco-300-migranti-fermati-mentre-tentavano-di-raggiungere-ceuta_60a8a67f-fe7c-42f0-bccb-4984a22ce5e1.html",
      "data": "2026-08-15T18:15:15+00:00"
-    },
-    {
-     "titolo": "Colombia, non ce l'ha fatta la donna estratta dalle macerie a Cali dopo 40 ore",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/colombia-non-ce-lha-fatta-la-donna-estratta-dalle-macerie-a-cali-dopo_55e6bb09-807c-44f1-891e-014c0302d1fb.html",
-     "data": "2026-08-15T17:57:07+00:00"
-    },
-    {
-     "titolo": "++ Accoltella sua sorella, poi precipita dalla finestra e muore ++",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/-accoltella-sua-sorella-poi-precipita-dalla-finestra-e-muore-_3d02f3eb-0faa-47dc-b9d7-51f87b294523.html",
-     "data": "2026-08-15T13:51:30+00:00"
-    },
-    {
-     "titolo": "Lovaglio 'Meloni riconosce che il valore è nell'integrità di Mps'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/lovaglio-meloni-riconosce-che-il-valore-e-nellintegrita-di-mps_89022608-493f-4741-a82d-173800ee155f.html",
-     "data": "2026-08-15T13:36:17+00:00"
-    },
-    {
-     "titolo": "Il Papa, 'ci sia consolazione in Terra Santa, Ucraina e Russia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/il-papa-ci-sia-consolazione-in-terra-santa-ucraina-e-russia_e22715da-261d-4f28-b8c2-8488ec40dffb.html",
-     "data": "2026-08-15T10:27:09+00:00"
     }
    ]
   },
@@ -116,6 +116,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Furto al museo, rubate opere di Antonello da Messina",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/furto-al-museo-rubate-opere-di-antonello-da-messina_d316b5fe-3a2d-489a-8f6a-544d5566e684.html",
+     "data": "2026-08-16T07:36:44+00:00"
+    },
+    {
      "titolo": "Condannato per pedopornografia, scoperto e arrestato nel Bellunese",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/condannato-per-pedopornografia-scoperto-e-arrestato-nel-bellunese_c03f7838-e695-4696-8f3a-614823c2018e.html",
      "data": "2026-08-16T06:58:21+00:00"
@@ -169,11 +174,6 @@
      "titolo": "Terremoto in Indonesia, tredici bolognesi bloccati nell'isola di Flores: 'Le scosse continuano'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/tredici-bolognesi-bloccati-nellisola-di-flores-le-scosse-continuano_61f11190-139a-468f-b180-68a40bbfd96f.html",
      "data": "2026-08-15T18:23:38+00:00"
-    },
-    {
-     "titolo": "Troppo caldo, stop allo sci estivo sul ghiacciaio dello Stelvio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/troppo-caldo-stop-allo-sci-estivo-sul-ghiacciaio-dello-stelvio_eb89ed9d-c824-4218-9bf7-eeee52c9df07.html",
-     "data": "2026-08-15T14:36:03+00:00"
     }
    ]
   },
@@ -181,29 +181,14 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "A Venezia lanciata la proposta per un referendum comunale sugli affitti brevi",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/16/a-venezia-lanciata-la-proposta-per-un-referendum-comunale-sugli-affitti-brevi_8b7ed51a-5482-4ee2-8d57-89b8c7e55994.html",
+     "data": "2026-08-16T07:46:33+00:00"
+    },
+    {
      "titolo": "Il Papa, 'il mondo impone canoni estetici che ci imprigionano'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/15/il-papa-il-mondo-impone-canoni-estetici-che-ci-imprigionano_be46cafa-6bbc-4e08-982c-1a658b9cf070.html",
      "data": "2026-08-15T08:37:47+00:00"
-    },
-    {
-     "titolo": "Matteo Salvini gela i frondisti: 'La Lega è una, chi non è d'accordo non la rappresenta'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/15/matteo-salvini-gela-i-frondisti-la-lega-e-una-chi-non-e-daccordo-non_27a6dbda-834d-4367-b25e-8ae5fd210957.html",
-     "data": "2026-08-15T07:57:25+00:00"
-    },
-    {
-     "titolo": "Ostetriche a Vannacci: 'Non rispondiamo a logiche di partito'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/14/trans-e-allattamento-vannacci-dichiara-guerra-alle-ostetriche_74891541-f2d6-4ccc-b7af-57d6d89d2475.html",
-     "data": "2026-08-14T19:36:44+00:00"
-    },
-    {
-     "titolo": "Ponte Morandi: Meloni, 'l'Italia non dimentica, sicurezza sia sempre una priorità'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/14/ponte-morandi-meloni-litalia-non-dimentica-sicurezza-sia-sempre-una_6393a131-f896-440f-90b8-5045a3d236f2.html",
-     "data": "2026-08-14T15:50:36+00:00"
-    },
-    {
-     "titolo": "Vannacci posta sondaggio con FnV secondo nel centrodestra, 'il patriarcato porta bene'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/14/vannacci-posta-sondaggio-con-fnv-secondo-nel-centrodestra-il-patriarcato-porta_389fec68-aea8-437d-9e95-3d92fac33842.html",
-     "data": "2026-08-14T15:48:40+00:00"
     }
    ]
   },
@@ -276,6 +261,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Mosca, 'abbattuti 822 droni ucraini su tutta la Russia nella notte'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/mosca-abbattuti-822-droni-ucraini-su-tutta-la-russia-nella-notte_97badf87-a6b4-4a09-8884-5c13a91b482c.html",
+     "data": "2026-08-16T07:47:14+00:00"
+    },
+    {
+     "titolo": "Un autobus si è ribaltato in Ungheria, 12 morti e almeno 10 feriti gravi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/un-autobus-si-e-ribaltato-in-ungheria-12-morti-e-almeno-10-feriti-gravi_f3c8086e-502a-4ca8-b2bd-29300787abab.html",
+     "data": "2026-08-16T07:43:46+00:00"
+    },
+    {
+     "titolo": "Katz minaccia nuovi attacchi in Libano, 'colpiremo con tutta la forza'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/16/katz-minaccia-nuovi-attacchi-in-libano-colpiremo-con-tutta-la-forza_7becb18c-d8cf-40b9-bb83-0798de447349.html",
+     "data": "2026-08-16T07:39:56+00:00"
+    },
+    {
      "titolo": "Oltre 600 droni ucraini lanciati contro Mosca nella notte",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/oltre-600-droni-ucraini-lanciati-contro-mosca-nella-notte_538ed5ae-6c01-4ce8-be5e-fd8799bdb18c.html",
      "data": "2026-08-16T04:22:00+00:00"
@@ -319,21 +319,6 @@
      "titolo": "Aumenta a 294 il bilancio delle vittime del terremoto in Colombia",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/aumenta-a-294-il-bilancio-delle-vittime-del-terremoto-in-colombia_d9d2a15b-a144-428c-bdb7-bd4e0675b9e1.html",
      "data": "2026-08-15T15:55:45+00:00"
-    },
-    {
-     "titolo": "De la Espriella ringrazia Netanyahu per gli aiuti alla Colombia dopo il terremoto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/de-la-espriella-ringrazia-netanyahu-per-gli-aiuti-alla-colombia-dopo-il-terremoto_b52ff664-0a14-40d6-b1c3-6a41ac822aae.html",
-     "data": "2026-08-15T15:30:59+00:00"
-    },
-    {
-     "titolo": "Media, Marocco blocca centinaia di persone dirette a Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/15/media-marocco-blocca-centinaia-di-persone-dirette-a-ceuta_d8e51fdb-7227-4bb3-8a3c-48f802d58790.html",
-     "data": "2026-08-15T09:36:03+00:00"
-    },
-    {
-     "titolo": "Sale a 38 morti il bilancio delle vittime nel sisma in Indonesia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/15/sale-a-38-morti-il-bilancio-delle-vittime-nel-sisma-in-indonesia_0d7d6c1f-2dca-40d4-ae70-be535399a237.html",
-     "data": "2026-08-15T09:34:53+00:00"
     }
    ]
   },
@@ -406,6 +391,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Sinner festeggia 25 anni,gli auguri della Federtennis 'Italia ti ama ed è pazza di te'",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/16/sinner-festeggia-25-annigli-auguri-della-federtennis-italia-ti-ama-ed-e-pazza-di-te_3fa867f4-686d-43e9-8b16-6c24b377d483.html",
+     "data": "2026-08-16T07:21:01+00:00"
+    },
+    {
      "titolo": "Al Master 1000 di Cincinnati Cobolli al terzo turno, fuori Arnaldi, Darderi e Bellucci",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/16/al-master-1000-di-cincinnati-cobolli-al-terzo-turno-fuori-arnaldi-darderi-e-bellucci_0fe472e0-b1de-4099-8dc1-906e1350c12d.html",
      "data": "2026-08-15T22:11:15+00:00"
@@ -459,11 +449,6 @@
      "titolo": "Coppa Italia: l'Udinese batte il Padova e passa il turno",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/coppa-italia-ludinese-batte-il-padova-e-passa-il-turno_bcd42698-5276-4a09-85ce-6504e092f174.html",
      "data": "2026-08-15T20:17:02+00:00"
-    },
-    {
-     "titolo": "Palmisano rilancia \"nessun ritiro, c'è Los Angeles 2028\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/palmisano-rilancia-nessun-ritiro-ce-los-angeles-2028_bbc72b54-cd5e-4904-a9b8-ba982c283877.html",
-     "data": "2026-08-15T20:11:21+00:00"
     }
    ]
   }
