@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-16T00:27:14.126612+00:00",
+ "aggiornato": "2026-08-16T02:03:22.201868+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Esplosioni a Kiev dopo l'allarme missili balistici",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/esplosioni-a-kiev-dopo-lallarme-missili-balistici_233a5d4f-fdb4-4760-a702-2d047edba97b.html",
+     "data": "2026-08-16T00:32:35+00:00"
+    },
     {
      "titolo": "L'uragano Lala si rafforza mentre si avvicina a Big Island nelle Hawaii",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/luragano-lala-si-rafforza-mentre-si-avvicina-a-big-island-nelle-hawaii_a9a99eb9-cff6-48fd-915b-f684962f4baf.html",
@@ -49,11 +54,6 @@
      "titolo": "Media libanesi, attacco israeliano nel sud del Paese ha ucciso 7 persone",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/media-libanesi-attacco-israeliano-nel-sud-del-paese-ha-ucciso-7-persone_f640d726-8d17-4430-96ab-b92b0abab747.html",
      "data": "2026-08-15T05:45:50+00:00"
-    },
-    {
-     "titolo": "Terremoto in Indonesia, le autorità esortano all'evacuazione delle zone costiere",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/terremoto-in-indonesia-le-autorita-esortano-allevacuazione-delle-zone-costiere_8d8ae60c-5afc-472d-817a-103e84bef615.html",
-     "data": "2026-08-15T00:36:54+00:00"
     }
    ]
   },
@@ -276,6 +276,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Esplosioni a Kiev dopo l'allarme missili balistici",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/esplosioni-a-kiev-dopo-lallarme-missili-balistici_4a588ee7-629b-4322-adbe-3dfc4721faaa.html",
+     "data": "2026-08-16T00:32:52+00:00"
+    },
+    {
      "titolo": "L'uragano Lala si rafforza mentre si avvicina a Big Island nelle Hawaii",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/15/luragano-lala-si-rafforza-mentre-si-avvicina-a-big-island-nelle-hawaii_01347ea1-5ef2-41b7-92f2-aedd8b21dc7f.html",
      "data": "2026-08-15T21:09:04+00:00"
@@ -329,11 +334,6 @@
      "titolo": "Terremoto in Indonesia, le autorità esortano all'evacuazione delle zone costiere",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/15/terremoto-in-indonesia-le-autorita-esortano-allevacuazione-delle-zone-costiere_99d61cf7-3242-4b32-93be-49bb959d2843.html",
      "data": "2026-08-15T00:36:58+00:00"
-    },
-    {
-     "titolo": "Petroliera degli Emirati Arabi attaccata nello Stretto di Hormuz",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/15/petroliera-degli-emirati-arabi-attaccata-nello-stretto-di-hormuz_ae59597d-18b7-483c-a1b1-a80a1f4f9247.html",
-     "data": "2026-08-15T00:28:48+00:00"
     }
    ]
   },
