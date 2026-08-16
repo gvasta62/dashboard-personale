@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-16T15:08:40.878434+00:00",
+ "aggiornato": "2026-08-16T15:41:50.142640+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -118,7 +118,7 @@
     {
      "titolo": "Palio di Siena rinviato per la pioggia a domani lunedì 17 luglio",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/palio-di-siena-rinviato-per-la-pioggia-a-domani-lunedi-17-luglio_3fa35f19-2b27-4500-bea9-dc4f8be4d813.html",
-     "data": "2026-08-16T14:16:17+00:00"
+     "data": "2026-08-16T15:38:08+00:00"
     },
     {
      "titolo": "Weekend di Ferragosto, traffico scorrevole, in settimana 34 milioni di spostamenti",
@@ -175,6 +175,11 @@
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Legge elettorale e Rai, da settembre lo sprint delle Camere",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/16/legge-elettorale-e-rai-da-settembre-lo-sprint-delle-camere_90daf4e6-8acb-4b09-bf63-f18f88a90ff2.html",
+     "data": "2026-08-16T15:10:29+00:00"
+    },
     {
      "titolo": "Pm Venezia chiede di archiviare indagine sulla caccia di Trump Jr in Laguna",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/16/pm-venezia-chiede-di-archiviare-indagine-sulla-caccia-di-trump-jr-in-laguna_ba9ecd85-ca2e-47c6-bcd4-d3208c0d495a.html",
@@ -266,6 +271,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ecuador, la moglie del presidente Noboa perde il suo bambino",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/ecuador-la-moglie-del-presidente-noboa-perde-il-suo-bambino_597d8a42-a536-4bb7-a24f-c90eaa5d0e60.html",
+     "data": "2026-08-16T15:04:26+00:00"
+    },
+    {
      "titolo": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/16/farnesina-sono-circa-700-gli-italiani-sullisola-di-flores-in-indonesia_2926d338-5684-42da-9c80-4f9642a2e9a4.html",
      "data": "2026-08-16T13:19:12+00:00"
@@ -319,11 +329,6 @@
      "titolo": "Oltre 600 droni ucraini lanciati contro Mosca nella notte",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/oltre-600-droni-ucraini-lanciati-contro-mosca-nella-notte_538ed5ae-6c01-4ce8-be5e-fd8799bdb18c.html",
      "data": "2026-08-16T04:22:00+00:00"
-    },
-    {
-     "titolo": "Attacchi russi uccidono una persona in Ucraina, oltre 130 droni lanciati su Mosca",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/attacchi-russi-uccidono-una-persona-in-ucraina-oltre-130-droni-lanciati_915b85a9-3168-4d31-bbee-38bfc441406d.html",
-     "data": "2026-08-16T03:48:46+00:00"
     }
    ]
   },
@@ -396,6 +401,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Giochi Mediterrano: Abodi 'dal Papa messaggio prezioso, auspicio sia la pace'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/giochi-mediterrano-abodi-dal-papa-messaggio-prezioso-auspicio-sia-la-pace_88f6b780-f189-4e29-8158-adc41d2e1397.html",
+     "data": "2026-08-16T15:07:56+00:00"
+    },
+    {
      "titolo": "Mei, 'stasera saremo soddisfatti del medagliere'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/mei-stasera-saremo-soddisfatti-del-medagliere_6fc3ea1b-05b5-4efe-bb90-b0f335108461.html",
      "data": "2026-08-16T15:00:14+00:00"
@@ -449,11 +459,6 @@
      "titolo": "Europei di atletica: argento per Pietro Riva nella maratona e per le azzurre nella classifica a squadre",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/16/europei-atletica-argento-a-pietro-riva-nella-maratona_e27d04ba-fb39-4c41-989b-48f7a7a0f449.html",
      "data": "2026-08-16T11:43:39+00:00"
-    },
-    {
-     "titolo": "Europei atletica: argento Italia nella classifica a squadre",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atletica-argento-italia-nella-classifica-a-squadre_ced2ad20-5c39-47d8-b0b2-dd154defc2be.html",
-     "data": "2026-08-16T09:20:36+00:00"
     }
    ]
   }
