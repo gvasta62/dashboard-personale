@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-16T17:08:58.959795+00:00",
+ "aggiornato": "2026-08-16T17:39:56.463915+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "++ Nuova intensa attività esplosiva dal cratere Voragine dell'Etna ++",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/-nuova-intensa-attivita-esplosiva-dal-cratere-voragine-delletna-_44fad086-6042-4dfe-b9ed-d1fe1affd94f.html",
+     "data": "2026-08-16T17:25:55+00:00"
+    },
     {
      "titolo": "Palio di Siena rinviato per la pioggia a domani lunedì 17 luglio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/palio-di-siena-rinviato-per-la-pioggia-a-domani-lunedi-17-luglio_8d6d1894-14d6-4131-9d39-20d159951f78.html",
@@ -49,11 +54,6 @@
      "titolo": "Il Papa, 'cessino le violenze contro i palestinesi in Cisgiordania'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/il-papa-cessino-le-violenze-contro-i-palestinesi-in-cisgiordania_03e97bbb-831d-4210-952e-a082939b2343.html",
      "data": "2026-08-16T10:17:11+00:00"
-    },
-    {
-     "titolo": "Europei nuoto:Curtis record porta in finale 4x100 mista,ok anche Quadarella nei 400 sl",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/europei-nuotocurtis-record-porta-in-finale-4x100-mistaok-anche-quadarella-nei_2665eca6-f565-447d-bdfa-4ac942706fdd.html",
-     "data": "2026-08-16T10:13:09+00:00"
     }
    ]
   },
@@ -111,6 +111,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Soccorse due cordate di alpinisti sopra Cortina, una colpita da un fulmine",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/soccorse-due-cordate-di-alpinisti-sopra-cortina-una-colpita-da-un-fulmine_0610db56-b556-47af-9c4b-3faed9da9b18.html",
+     "data": "2026-08-16T17:30:14+00:00"
+    },
+    {
+     "titolo": "\"Mi ha violentata\", accusato un uomo conosciuto in discoteca a Milano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/mi-ha-violentata-accusato-un-uomo-conosciuto-in-discoteca-a-milano_1cc0167f-95eb-417b-8e27-66241af48089.html",
+     "data": "2026-08-16T17:27:40+00:00"
+    },
+    {
+     "titolo": "++ Nuova intensa attività esplosiva dal cratere Voragine dell'Etna ++",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/-nuova-intensa-attivita-esplosiva-dal-cratere-voragine-delletna-_5a8957b9-964a-4f44-9ec0-7371f677a446.html",
+     "data": "2026-08-16T17:26:01+00:00"
+    },
+    {
      "titolo": "Agente spara e ferisce detenuto in fuga, chiuso il pronto soccorso di Prato",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/agente-spara-e-ferisce-detenuto-in-fuga-chiuso-il-pronto-soccorso-di-prato_5028ccba-ee37-4e1a-9b8f-e9d711b62f10.html",
      "data": "2026-08-16T17:01:52+00:00"
@@ -128,7 +143,7 @@
     {
      "titolo": "Turisti bolognesi bloccati a Flores, poi l'imbarco per Bali",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/turisti-bolognesi-bloccati-a-flores-poi-limbarco-per-bali_b31d09e2-1815-4b4a-9f20-01909b603f3b.html",
-     "data": "2026-08-16T16:31:30+00:00"
+     "data": "2026-08-16T17:07:15+00:00"
     },
     {
      "titolo": "Ore contate per il grande caldo, adesso è allerta temporali",
@@ -154,21 +169,6 @@
      "titolo": "Uomo morto in casa nel reggino, sottoposta a fermo la moglie",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/uomo-morto-in-casa-nel-reggino-sottoposta-a-fermo-la-moglie_5280dc52-c1a6-4359-9bc1-3a32fb8d3857.html",
      "data": "2026-08-16T14:33:39+00:00"
-    },
-    {
-     "titolo": "Palio di Siena rinviato per la pioggia a lunedì 17 luglio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/palio-di-siena-rinviato-per-la-pioggia-a-domani-lunedi-17-luglio_3fa35f19-2b27-4500-bea9-dc4f8be4d813.html",
-     "data": "2026-08-16T15:49:40+00:00"
-    },
-    {
-     "titolo": "Weekend di Ferragosto, traffico scorrevole, in settimana 34 milioni di spostamenti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/weekend-di-ferragosto-traffico-scorrevole-in-settimana-34-milioni-di-spostamenti_b4df5003-b847-49f6-b6db-478217e94eb9.html",
-     "data": "2026-08-16T13:36:31+00:00"
-    },
-    {
-     "titolo": "Incendi in Carnia, spegnimento ancora in corso dopo una settimana di fiamme",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/incendi-in-carnia-spegnimento-ancora-in-corso-dopo-una-settimana-di-fiamme_8b4792c1-bd68-4c1a-9254-9ababd2437e8.html",
-     "data": "2026-08-16T13:17:01+00:00"
     }
    ]
   },
@@ -401,14 +401,34 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei di nuoto: Simona Quadarella medaglia d'oro anche nei 400 stile libero",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-di-nuoto-simona-quadarella-medaglia-doro-anche-nei-400-stile_50bb406b-3051-4bc7-9439-d1187708e7a4.html",
+     "data": "2026-08-16T17:34:35+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: Quadarella medaglia d'oro anche nei 400 stile libero",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-nuoto-quadarella-medaglia-doro-anche-nei-400-stile-libero_6caa6794-1524-4371-8eff-8d8007eb6caf.html",
+     "data": "2026-08-16T17:20:47+00:00"
+    },
+    {
+     "titolo": "Cristiano Ronaldo, 'probabilmente sarà il mio ultimo anno prima del ritiro'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/cristiano-ronaldo-probabilmente-sara-il-mio-ultimo-anno-prima-del-ritiro_b83b1a44-bd16-4cd5-8a63-d5fab344f190.html",
+     "data": "2026-08-16T17:17:56+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: Ceccon medaglia d'argento nei 100 dorso",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-nuoto-ceccon-medaglia-dargento-nei-100-dorso_1f72d4c7-bda5-4434-a568-b2c5c5045efe.html",
+     "data": "2026-08-16T17:13:36+00:00"
+    },
+    {
+     "titolo": "Europei atletica: dt La Torre 'questa Italia la più forte di sempre'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atletica-dt-la-torre-questa-italia-la-piu-forte-di-sempre_513be86f-a742-4f9c-a23b-a3f790c09157.html",
+     "data": "2026-08-16T17:05:29+00:00"
+    },
+    {
      "titolo": "Europei nuoto: Pilato 'questo centesimo mi perseguita, ma sono felice'",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-nuoto-pilato-questo-centesimo-mi-perseguita-ma-sono-felice_4ff2ca4a-4bea-461e-991c-4bd0ad973e3b.html",
      "data": "2026-08-16T16:57:23+00:00"
-    },
-    {
-     "titolo": "Europei di nuoto: Benedetta Pilato medaglia d'argento nei 50 rana",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-di-nuoto-benedetta-pilato-medaglia-dargento-nei-50-rana_50bb406b-3051-4bc7-9439-d1187708e7a4.html",
-     "data": "2026-08-16T16:53:57+00:00"
     },
     {
      "titolo": "Europei nuoto: Pilato medaglia d'argento nei 50 rana",
@@ -439,26 +459,6 @@
      "titolo": "Mei, 'stasera saremo soddisfatti del medagliere'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/mei-stasera-saremo-soddisfatti-del-medagliere_6fc3ea1b-05b5-4efe-bb90-b0f335108461.html",
      "data": "2026-08-16T15:00:14+00:00"
-    },
-    {
-     "titolo": "Juve, Lucumì è arrivato al J Medical per le visite mediche",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/juve-lucumi-e-arrivato-al-j-medical-per-le-visite-mediche_8dc540be-83e7-41f4-9ea4-95e291a9c00d.html",
-     "data": "2026-08-16T14:11:36+00:00"
-    },
-    {
-     "titolo": "Presidenza arbitri, Massini si candida 'riforme e autonomia economica'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/presidenza-arbitri-massini-si-candida-riforme-e-autonomia-economica_f207e807-4d17-4cb0-803b-ccd4fcc64481.html",
-     "data": "2026-08-16T13:29:28+00:00"
-    },
-    {
-     "titolo": "Giochi del Mediterraneo: Buonfiglio 'orgogliosi dell'omaggio di Papa Leone'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/giochi-del-mediterraneo-buonfiglio-orgogliosi-dellomaggio-di-papa-leone_db93229d-96e0-4fa6-981c-8ac637548d50.html",
-     "data": "2026-08-16T12:11:03+00:00"
-    },
-    {
-     "titolo": "Mondiali ginnastica ritmica, Sofia Raffaeli d'argento al cerchio",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/mondiali-ginnastica-ritmica-sofia-raffaeli-dargento-al-cerchio_c915c4a9-7783-487d-ab8a-e41cb254ba0c.html",
-     "data": "2026-08-16T11:27:50+00:00"
     }
    ]
   }
