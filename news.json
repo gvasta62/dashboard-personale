@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-16T03:24:01.349403+00:00",
+ "aggiornato": "2026-08-16T04:04:46.841149+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Attacchi russi uccidono una persona in Ucraina, oltre 130 droni lanciati su Mosca",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/attacchi-russi-uccidono-una-persona-in-ucraina-oltre-130-droni-lanciati_89515da7-fba9-4b2c-bc3f-8456ecf83462.html",
+     "data": "2026-08-16T03:48:44+00:00"
+    },
     {
      "titolo": "Giappone: bilancio piogge torrenziali sale a 9 morti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/giappone-bilancio-piogge-torrenziali-sale-a-9-morti_df5e3065-2170-4d79-9932-939a056aecd6.html",
@@ -49,11 +54,6 @@
      "titolo": "Media, Marocco blocca centinaia di persone dirette a Ceuta",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/media-marocco-blocca-centinaia-di-persone-dirette-a-ceuta_0c3ebc2e-12a7-4db8-bc46-8bf5101388cd.html",
      "data": "2026-08-15T09:35:46+00:00"
-    },
-    {
-     "titolo": "Sale a 38 morti il bilancio delle vittime nel sisma in Indonesia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/sale-a-38-morti-il-bilancio-delle-vittime-nel-sisma-in-indonesia_cd541c23-b98c-4256-a359-992578bbddf7.html",
-     "data": "2026-08-15T09:34:49+00:00"
     }
    ]
   },
@@ -275,6 +275,11 @@
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Attacchi russi uccidono una persona in Ucraina, oltre 130 droni lanciati su Mosca",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/attacchi-russi-uccidono-una-persona-in-ucraina-oltre-130-droni-lanciati_915b85a9-3168-4d31-bbee-38bfc441406d.html",
+     "data": "2026-08-16T03:48:46+00:00"
+    },
     {
      "titolo": "Giappone: bilancio piogge torrenziali sale a 9 morti",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/16/giappone-bilancio-piogge-torrenziali-sale-a-9-morti_1f3d5097-8aa1-4d37-bc38-e2a51740872a.html",
