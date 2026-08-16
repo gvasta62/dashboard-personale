@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-16T12:11:35.278164+00:00",
+ "aggiornato": "2026-08-16T13:05:38.246423+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -121,6 +121,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Ritrovato morto escursionista disperso sulle montagne del Centro Cadore",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/ritrovato-morto-escursionista-disperso-sulle-montagne-del-centro-cadore_64820647-cf6e-4322-a0cd-f70039340abf.html",
+     "data": "2026-08-16T12:56:32+00:00"
+    },
+    {
+     "titolo": "Rissa in spiaggia a Rimini, tre giovani in ospedale con ferite da taglio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/rissa-in-spiaggia-a-rimini-tre-giovani-in-ospedale-con-ferite-da-taglio_327b5be9-6f53-4d40-b8b6-30a95dc7f668.html",
+     "data": "2026-08-16T12:54:19+00:00"
+    },
+    {
      "titolo": "'Avverte' proprietaria di un tumore, Premio Fedeltà del cane a Joy",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/avverte-proprietaria-di-un-tumore-premio-fedelta-del-cane-a-joy_7e23ef61-1769-4877-ad6d-ae48f75c2327.html",
      "data": "2026-08-16T11:59:58+00:00"
@@ -143,7 +153,7 @@
     {
      "titolo": "Italiani aggrediti a Barcellona, un 21enne è in coma farmacologico",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/italiani-aggrediti-a-barcellona-un-21enne-in-coma-farmacologico_485dcb93-9377-4e68-8525-c67b1595d987.html",
-     "data": "2026-08-16T11:48:24+00:00"
+     "data": "2026-08-16T13:01:20+00:00"
     },
     {
      "titolo": "Legale Lavitola, 'anche Ranucci aveva chiesto di aumentare la scorta'",
@@ -153,7 +163,7 @@
     {
      "titolo": "Donna uccisa nel Cosentino, il compagno rintracciato al porto di Bari",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/donna-uccisa-nel-cosentino-il-compagno-rintracciato-al-porto-di-bari_3aa78aae-54f2-4272-98b9-c08ad3e5c9b6.html",
-     "data": "2026-08-16T11:52:27+00:00"
+     "data": "2026-08-16T12:52:34+00:00"
     },
     {
      "titolo": "Maxi rissa in spiaggia la notte di Ferragosto a Mondragone, video virale",
@@ -166,19 +176,9 @@
      "data": "2026-08-16T10:02:29+00:00"
     },
     {
-     "titolo": "I legali di Valter Lavitola: 'Anche Ranucci aveva chiesto di aumentare la scorta'",
+     "titolo": "I legali di Valter Lavitola: 'Dopo l'attentato Ranucci avrebbe potuto capire il mandante'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/i-legali-valter-lavitola-anche-ranucci-aveva-chiesto-di-aumentare-la-scorta_eec0a77e-e43b-4420-9f99-1cf6ffd88f13.html",
-     "data": "2026-08-16T10:41:28+00:00"
-    },
-    {
-     "titolo": "Pizzaballa a Taybeh: \"Farò il possibile per tutelare la presenza cristiana\"",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/pizzaballa-a-taybeh-faro-il-possibile-per-tutelare-presenza-cristiana_f5f2a802-3194-4627-a3ea-ec58163f47e6.html",
-     "data": "2026-08-16T09:56:21+00:00"
-    },
-    {
-     "titolo": "\"Mi ha violentata\", accusato un uomo conosciuto in discoteca a Milano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/conosce-un-uomo-in-discoteca-a-milano-mi-ha-violentata_1cc0167f-95eb-417b-8e27-66241af48089.html",
-     "data": "2026-08-16T10:49:09+00:00"
+     "data": "2026-08-16T12:20:05+00:00"
     }
    ]
   },
@@ -401,6 +401,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Giochi del Mediterraneo: Buonfiglio 'orgogliosi dell'omaggio di Papa Leone'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/giochi-del-mediterraneo-buonfiglio-orgogliosi-dellomaggio-di-papa-leone_db93229d-96e0-4fa6-981c-8ac637548d50.html",
+     "data": "2026-08-16T12:11:03+00:00"
+    },
+    {
      "titolo": "Mondiali ginnastica ritmica, Sofia Raffaeli d'argento al cerchio",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/mondiali-ginnastica-ritmica-sofia-raffaeli-dargento-al-cerchio_c915c4a9-7783-487d-ab8a-e41cb254ba0c.html",
      "data": "2026-08-16T11:27:50+00:00"
@@ -448,17 +453,12 @@
     {
      "titolo": "Sinner festeggia 25 anni, gli auguri della Federtennis: 'L'Italia ti ama ed è pazza di te'",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/16/sinner-festeggia-25-annigli-auguri-della-federtennis-italia-ti-ama-ed-e-pazza-di-te_3fa867f4-686d-43e9-8b16-6c24b377d483.html",
-     "data": "2026-08-16T08:46:56+00:00"
+     "data": "2026-08-16T12:55:04+00:00"
     },
     {
      "titolo": "Al Master 1000 di Cincinnati Cobolli al terzo turno, fuori Arnaldi, Darderi e Bellucci",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/16/al-master-1000-di-cincinnati-cobolli-al-terzo-turno-fuori-arnaldi-darderi-e-bellucci_0fe472e0-b1de-4099-8dc1-906e1350c12d.html",
      "data": "2026-08-16T08:27:21+00:00"
-    },
-    {
-     "titolo": "Tennis: Cincinnati, esce Darderi battuto da Hijikata",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/tennis-cincinnati-esce-darderi-battuto-da-hijikata_2e338a6b-3446-483a-80be-753b0da7a7c4.html",
-     "data": "2026-08-15T22:09:18+00:00"
     }
    ]
   }
