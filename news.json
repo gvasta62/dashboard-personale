@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-16T14:09:55.644182+00:00",
+ "aggiornato": "2026-08-16T14:43:45.269966+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Palio di Siena rinviato per la pioggia a domani lunedì 17 luglio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/palio-di-siena-rinviato-per-la-pioggia-a-domani-lunedi-17-luglio_8d6d1894-14d6-4131-9d39-20d159951f78.html",
+     "data": "2026-08-16T14:16:14+00:00"
+    },
     {
      "titolo": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/farnesina-sono-circa-700-gli-italiani-sullisola-di-flores-in-indonesia_8116bc13-4fd0-4dbe-9367-86b2776846ce.html",
@@ -49,11 +54,6 @@
      "titolo": "Europei nuoto:Curtis record porta in finale 4x100 mista,ok anche Quadarella nei 400 sl",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/europei-nuotocurtis-record-porta-in-finale-4x100-mistaok-anche-quadarella-nei_2665eca6-f565-447d-bdfa-4ac942706fdd.html",
      "data": "2026-08-16T10:13:09+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'almeno 3 morti e 14 feriti per i raid russi della notte'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/zelensky-almeno-3-morti-e-14-feriti-per-i-raid-russi-della-notte_aaacb4f9-331e-4247-98f1-a01ca2c57daa.html",
-     "data": "2026-08-16T10:07:14+00:00"
     }
    ]
   },
@@ -111,6 +111,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Uomo morto in casa nel reggino, sottoposta a fermo la moglie",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/uomo-morto-in-casa-nel-reggino-sottoposta-a-fermo-la-moglie_5280dc52-c1a6-4359-9bc1-3a32fb8d3857.html",
+     "data": "2026-08-16T14:33:39+00:00"
+    },
+    {
+     "titolo": "Palio di Siena rinviato per la pioggia a domani lunedì 17 luglio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/palio-di-siena-rinviato-per-la-pioggia-a-domani-lunedi-17-luglio_3fa35f19-2b27-4500-bea9-dc4f8be4d813.html",
+     "data": "2026-08-16T14:16:17+00:00"
+    },
+    {
      "titolo": "Weekend di Ferragosto, traffico scorrevole, in settimana 34 milioni di spostamenti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/weekend-di-ferragosto-traffico-scorrevole-in-settimana-34-milioni-di-spostamenti_b4df5003-b847-49f6-b6db-478217e94eb9.html",
      "data": "2026-08-16T13:36:31+00:00"
@@ -159,16 +169,6 @@
      "titolo": "Legale Lavitola, 'anche Ranucci aveva chiesto di aumentare la scorta'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/legale-lavitola-anche-ranucci-aveva-chiesto-di-aumentare-la-scorta_a82c8525-e795-4e9a-9c4d-dc30a4384c96.html",
      "data": "2026-08-16T10:27:51+00:00"
-    },
-    {
-     "titolo": "Donna uccisa nel Cosentino, il compagno rintracciato al porto di Bari",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/donna-uccisa-nel-cosentino-il-compagno-rintracciato-al-porto-di-bari_3aa78aae-54f2-4272-98b9-c08ad3e5c9b6.html",
-     "data": "2026-08-16T12:52:34+00:00"
-    },
-    {
-     "titolo": "Maxi rissa in spiaggia la notte di Ferragosto a Mondragone, video virale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/maxi-rissa-in-spiaggia-la-notte-di-ferragosto-a-mondragone-video-virale_6ad48b3d-f27a-4fdd-9899-11773cb84e43.html",
-     "data": "2026-08-16T10:05:13+00:00"
     }
    ]
   },
@@ -396,6 +396,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Juve, Lucumì è arrivato al J Medical per le visite mediche",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/juve-lucumi-e-arrivato-al-j-medical-per-le-visite-mediche_8dc540be-83e7-41f4-9ea4-95e291a9c00d.html",
+     "data": "2026-08-16T14:11:36+00:00"
+    },
+    {
      "titolo": "Presidenza arbitri, Massini si candida 'riforme e autonomia economica'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/presidenza-arbitri-massini-si-candida-riforme-e-autonomia-economica_f207e807-4d17-4cb0-803b-ccd4fcc64481.html",
      "data": "2026-08-16T13:29:28+00:00"
@@ -449,11 +454,6 @@
      "titolo": "Europei atletica:maratona femminile, oro alla finlandese Vainio,sesta l'azzurra Lonedo",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atleticamaratona-femminile-oro-alla-finlandese-vainiosesta-lazzurra-lonedo_aef1775a-1abe-44a7-9f41-6caa0de8879b.html",
      "data": "2026-08-16T09:02:15+00:00"
-    },
-    {
-     "titolo": "Sinner festeggia 25 anni, gli auguri della Federtennis: 'L'Italia ti ama ed è pazza di te'",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/16/sinner-festeggia-25-annigli-auguri-della-federtennis-italia-ti-ama-ed-e-pazza-di-te_3fa867f4-686d-43e9-8b16-6c24b377d483.html",
-     "data": "2026-08-16T12:55:04+00:00"
     }
    ]
   }
