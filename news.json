@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-16T11:40:40.401011+00:00",
+ "aggiornato": "2026-08-16T12:11:35.278164+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -121,14 +121,29 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Terzo bambino azzannato da un animale selvatico, sindaco chiude i parchi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/terzo-bambino-azzannato-da-un-animale-selvatico-sindaco-chiude-i-parchi_dea6afcd-252e-4a61-bc79-45d7770a7026.html",
-     "data": "2026-08-16T10:45:35+00:00"
+     "titolo": "'Avverte' proprietaria di un tumore, Premio Fedeltà del cane a Joy",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/avverte-proprietaria-di-un-tumore-premio-fedelta-del-cane-a-joy_7e23ef61-1769-4877-ad6d-ae48f75c2327.html",
+     "data": "2026-08-16T11:59:58+00:00"
     },
     {
-     "titolo": "Italiani aggrediti a Barcellona, un 21enne in coma farmacologico",
+     "titolo": "Fedriga, situazione di allerta, non di emergenza per gli incendi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/fedriga-situazione-di-allerta-non-di-emergenza-per-gli-incendi_96b4efc3-4a1b-42bf-b728-2a0ae1422d6e.html",
+     "data": "2026-08-16T11:58:36+00:00"
+    },
+    {
+     "titolo": "Scossa di terremoto 3.7 in Toscana, la Regione 'nessun danno'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/scossa-di-terremoto-3.7-in-toscana-la-regione-nessun-danno_b1bfaca0-ead5-4eec-be00-73ff7e89da10.html",
+     "data": "2026-08-16T11:48:46+00:00"
+    },
+    {
+     "titolo": "C'è un terzo bambino azzannato da un animale selvatico, il sindaco chiude i parchi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/terzo-bambino-azzannato-da-un-animale-selvatico-sindaco-chiude-i-parchi_dea6afcd-252e-4a61-bc79-45d7770a7026.html",
+     "data": "2026-08-16T11:59:25+00:00"
+    },
+    {
+     "titolo": "Italiani aggrediti a Barcellona, un 21enne è in coma farmacologico",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/italiani-aggrediti-a-barcellona-un-21enne-in-coma-farmacologico_485dcb93-9377-4e68-8525-c67b1595d987.html",
-     "data": "2026-08-16T10:45:06+00:00"
+     "data": "2026-08-16T11:48:24+00:00"
     },
     {
      "titolo": "Legale Lavitola, 'anche Ranucci aveva chiesto di aumentare la scorta'",
@@ -138,7 +153,7 @@
     {
      "titolo": "Donna uccisa nel Cosentino, il compagno rintracciato al porto di Bari",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/donna-uccisa-nel-cosentino-il-compagno-rintracciato-al-porto-di-bari_3aa78aae-54f2-4272-98b9-c08ad3e5c9b6.html",
-     "data": "2026-08-16T10:15:38+00:00"
+     "data": "2026-08-16T11:52:27+00:00"
     },
     {
      "titolo": "Maxi rissa in spiaggia la notte di Ferragosto a Mondragone, video virale",
@@ -164,21 +179,6 @@
      "titolo": "\"Mi ha violentata\", accusato un uomo conosciuto in discoteca a Milano",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/conosce-un-uomo-in-discoteca-a-milano-mi-ha-violentata_1cc0167f-95eb-417b-8e27-66241af48089.html",
      "data": "2026-08-16T10:49:09+00:00"
-    },
-    {
-     "titolo": "Dopo settimane di caldo, arrivano i primi temporali",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/dopo-settimane-di-caldo-arrivano-i-primi-temporali_4b75af74-fc23-4f1f-a498-a90254266237.html",
-     "data": "2026-08-16T08:58:53+00:00"
-    },
-    {
-     "titolo": "Donna uccisa nel Cosentino, lasciata davanti all'ingresso dell'ospedale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/donna-uccisa-nel-cosentino-lasciata-davanti-allingresso-dellospedale_770df2cb-6314-416a-908e-244ea37cdf2c.html",
-     "data": "2026-08-16T08:51:36+00:00"
-    },
-    {
-     "titolo": "Peggiora situazione incendio in Carnia, evacuato un abitato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/peggiora-situazione-incendio-in-carnia-evacuato-un-abitato_73966afd-aa74-413b-964d-a87a6cbc7332.html",
-     "data": "2026-08-16T08:08:50+00:00"
     }
    ]
   },
@@ -431,9 +431,9 @@
      "data": "2026-08-16T09:42:54+00:00"
     },
     {
-     "titolo": "Europei di atletica: argento a Pietro Riva nella maratona",
+     "titolo": "Europei di atletica: argento per Pietro Riva nella maratona e per le azzurre nella classifica a squadre",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/16/europei-atletica-argento-a-pietro-riva-nella-maratona_e27d04ba-fb39-4c41-989b-48f7a7a0f449.html",
-     "data": "2026-08-16T11:12:20+00:00"
+     "data": "2026-08-16T11:43:39+00:00"
     },
     {
      "titolo": "Europei atletica: argento Italia nella classifica a squadre",
