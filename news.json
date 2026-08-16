@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-16T21:07:28.663439+00:00",
+ "aggiornato": "2026-08-16T21:39:57.623415+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Improvviso nubifragio nel Lecchese, ventenne muore nel lago",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/improvviso-nubifragio-nel-lecchese-ventenne-muore-nel-lago_1142e77e-6882-4bdd-a139-a4a045a15bf8.html",
+     "data": "2026-08-16T21:11:13+00:00"
+    },
     {
      "titolo": "Hamas a Board of Peace, 'costringa Israele ad accettare piano per Gaza'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/hamas-a-board-of-peace-costringa-israele-ad-accettare-piano-per-gaza_72982724-3f20-4c70-9c84-e83bcf691eac.html",
@@ -49,11 +54,6 @@
      "titolo": "Legale Lavitola, 'anche Ranucci aveva chiesto di aumentare la scorta'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/legale-lavitola-anche-ranucci-aveva-chiesto-di-aumentare-la-scorta_b542293a-f0e7-4eff-bf49-81f24723d5c6.html",
      "data": "2026-08-16T10:28:11+00:00"
-    },
-    {
-     "titolo": "Iran, '30.000 dollari a chiunque catturi o uccida un soldato americano'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/iran-30.000-dollari-a-chiunque-catturi-o-uccida-un-soldato-americano_1e4f2f8d-7e30-4818-9520-dcf480a70105.html",
-     "data": "2026-08-16T10:19:18+00:00"
     }
    ]
   },
@@ -116,6 +116,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Improvviso nubifragio nel Lecchese, ventenne muore nel lago",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/improvviso-nubifragio-nel-lecchese-ventenne-muore-nel-lago_da1d0a1d-30a0-4a92-80c7-1acb917571ab.html",
+     "data": "2026-08-16T21:11:15+00:00"
+    },
+    {
      "titolo": "Incendi in Abruzzo, più fronti aperti, allestiti presidi notturni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/incendi-in-abruzzo-piu-fronti-aperti-allestiti-presidi-notturni_93346e90-bdf4-4587-9d3c-07e592dbcbb0.html",
      "data": "2026-08-16T19:59:52+00:00"
@@ -169,11 +174,6 @@
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-08-16T16:48:25+00:00"
-    },
-    {
-     "titolo": "Scivola sul sentiero e cade in un lago in Trentino, morta una donna",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/scivola-sul-sentiero-e-cade-in-un-lago-in-trentino-morta-una-donna_970b31ed-c160-45a1-bfeb-b44a36dd9e72.html",
-     "data": "2026-08-16T16:36:17+00:00"
     }
    ]
   },
@@ -406,6 +406,31 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Scotti, 'con la 4x400 ci giocavamo il medagliere, festa rovinata agli inglesi'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/scotti-con-la-4x400-ci-giocavamo-il-medagliere-festa-rovinata-agli-inglesi_b2a3d517-a7a4-4f21-9b4c-75dd3ea7e2a0.html",
+     "data": "2026-08-16T21:31:02+00:00"
+    },
+    {
+     "titolo": "Coppa Italia: il Verona passa ai rigori, eliminata la Virtus Entella",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/coppa-italia-il-verona-passa-ai-rigori-eliminata-la-virtus-entella_45986dd6-26b8-4d98-8b96-c56e13daf1ea.html",
+     "data": "2026-08-16T21:26:09+00:00"
+    },
+    {
+     "titolo": "Coppa Italia: la Lazio di Gattuso ko all'esordio, 2-0 del Mantova all'Olimpico",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/coppa-italia-la-lazio-di-gattuso-ko-allesordio-2-0-del-mantova-allolimpico_397d9093-f88d-4d30-b4c3-86e49b07bc7c.html",
+     "data": "2026-08-16T21:19:56+00:00"
+    },
+    {
+     "titolo": "Oro della staffetta 4x400 uomini e di Iapichino nel salto in lungo, l'Italia vince il medagliere",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/16/oro-della-staffetta-4x400-uomini-e-di-iapichino-nel-salto-in-lungo-litalia_c9866f9d-ce58-4315-bcce-98ae9a01c293.html",
+     "data": "2026-08-16T21:29:21+00:00"
+    },
+    {
+     "titolo": "Iapichino, 'ho vinto nella terra di mia mamma, quest'oro vale doppio'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/iapichino-ho-vinto-nella-terra-di-mia-mamma-questoro-vale-doppio_6a7a82ad-9e3c-42f2-adf1-7dd4ff1b854f.html",
+     "data": "2026-08-16T21:15:14+00:00"
+    },
+    {
      "titolo": "++ Europei atletica: oro per l'Italia nella 4x400 uomini ++",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/-europei-atletica-oro-per-litalia-nella-4x400-uomini-_506b75dd-818d-4bbc-b78e-429af85c59b9.html",
      "data": "2026-08-16T20:55:42+00:00"
@@ -414,11 +439,6 @@
      "titolo": "Europei atletica: bronzo per l'Italia nella 4x400 donne",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atletica-bronzo-per-litalia-nella-4x400-donne_8415eedc-67fc-487a-8c50-66ccd6f868d3.html",
      "data": "2026-08-16T20:43:24+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Iapichino medaglia d'oro nel salto in lungo",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atletica-iapichino-medaglia-doro-nel-salto-in-lungo_c9866f9d-ce58-4315-bcce-98ae9a01c293.html",
-     "data": "2026-08-16T20:38:51+00:00"
     },
     {
      "titolo": "Stefano Mei lancia la volata ai Mondiali a Roma: 'Lottiamo da n.1'",
@@ -444,26 +464,6 @@
      "titolo": "Count down Serie A: Inter in fuga, in sette inseguono",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/count-down-serie-a-inter-in-fuga-in-sette-inseguono_10c8c148-5119-40bc-a0ef-7f911bc1ddf8.html",
      "data": "2026-08-16T20:33:19+00:00"
-    },
-    {
-     "titolo": "Europei di nuoto: Quadarella domina, l'Italia saluta Parigi da grande",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-di-nuoto-quadarella-domina-litalia-saluta-parigi-da-grande_50bb406b-3051-4bc7-9439-d1187708e7a4.html",
-     "data": "2026-08-16T21:04:22+00:00"
-    },
-    {
-     "titolo": "Europei nuoto: il medagliere finale di Parigi, Italia seconda",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-nuoto-il-medagliere-finale-di-parigi-italia-seconda_5deaa4ba-6678-40ae-a7a8-53451eb2a333.html",
-     "data": "2026-08-16T19:56:17+00:00"
-    },
-    {
-     "titolo": "Cincinnati: Musetti batte Altmaier in due set all'esordio",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/16/cincinnati-musetti-batte-altmaier-in-due-set-allesordio_bf1765a3-8c63-490c-b51c-d80fe03ceff2.html",
-     "data": "2026-08-16T20:08:08+00:00"
-    },
-    {
-     "titolo": "Lo facciamo strano, Como-Liverpool è l'amichevole infinita",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/16/ansa-lo-facciamo-strano-como-liverpool-e-lamichevole-infinita_4c52671f-3c5a-42b1-b4ec-a03f73186f77.html",
-     "data": "2026-08-16T20:27:38+00:00"
     }
    ]
   }
