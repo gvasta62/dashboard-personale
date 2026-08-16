@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-16T04:04:46.841149+00:00",
+ "aggiornato": "2026-08-16T04:55:32.627175+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Oltre 600 droni ucraini lanciati contro Mosca nella notte",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/oltre-600-droni-ucraini-lanciati-contro-mosca-nella-notte_ab70d249-6a0c-4765-bebe-bd4a680edf4a.html",
+     "data": "2026-08-16T04:21:28+00:00"
+    },
     {
      "titolo": "Attacchi russi uccidono una persona in Ucraina, oltre 130 droni lanciati su Mosca",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/attacchi-russi-uccidono-una-persona-in-ucraina-oltre-130-droni-lanciati_89515da7-fba9-4b2c-bc3f-8456ecf83462.html",
@@ -49,11 +54,6 @@
      "titolo": "Il Papa, 'ci sia consolazione in Terra Santa, Ucraina e Russia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/il-papa-ci-sia-consolazione-in-terra-santa-ucraina-e-russia_e22715da-261d-4f28-b8c2-8488ec40dffb.html",
      "data": "2026-08-15T10:27:09+00:00"
-    },
-    {
-     "titolo": "Media, Marocco blocca centinaia di persone dirette a Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/15/media-marocco-blocca-centinaia-di-persone-dirette-a-ceuta_0c3ebc2e-12a7-4db8-bc46-8bf5101388cd.html",
-     "data": "2026-08-15T09:35:46+00:00"
     }
    ]
   },
@@ -276,6 +276,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Oltre 600 droni ucraini lanciati contro Mosca nella notte",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/oltre-600-droni-ucraini-lanciati-contro-mosca-nella-notte_538ed5ae-6c01-4ce8-be5e-fd8799bdb18c.html",
+     "data": "2026-08-16T04:22:00+00:00"
+    },
+    {
      "titolo": "Attacchi russi uccidono una persona in Ucraina, oltre 130 droni lanciati su Mosca",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/attacchi-russi-uccidono-una-persona-in-ucraina-oltre-130-droni-lanciati_915b85a9-3168-4d31-bbee-38bfc441406d.html",
      "data": "2026-08-16T03:48:46+00:00"
@@ -329,11 +334,6 @@
      "titolo": "Sale a 38 morti il bilancio delle vittime nel sisma in Indonesia",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/15/sale-a-38-morti-il-bilancio-delle-vittime-nel-sisma-in-indonesia_0d7d6c1f-2dca-40d4-ae70-be535399a237.html",
      "data": "2026-08-15T09:34:53+00:00"
-    },
-    {
-     "titolo": "Media libanesi, attacco israeliano nel sud del Paese ha ucciso 7 persone",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/15/media-libanesi-attacco-israeliano-nel-sud-del-paese-ha-ucciso-7-persone_629d7a53-1afe-4dc6-afea-655a526cec14.html",
-     "data": "2026-08-15T05:45:50+00:00"
     }
    ]
   },
