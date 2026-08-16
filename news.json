@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-16T09:14:10.719720+00:00",
+ "aggiornato": "2026-08-16T09:47:32.853723+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Europei atletica: argento Riva nella maratona",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/europei-atletica-argento-riva-nella-maratona_120aa9d8-a6d8-4b72-9fcc-77c55df25c26.html",
+     "data": "2026-08-16T09:42:58+00:00"
+    },
+    {
+     "titolo": "Europei atletica: argento Italia nella classifica a squadre",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/europei-atletica-argento-italia-nella-classifica-a-squadre_11eaf71f-9e89-4a1e-9bf2-d71268f2f659.html",
+     "data": "2026-08-16T09:20:33+00:00"
+    },
+    {
+     "titolo": "Conosce un uomo in discoteca a Milano, 'mi ha violentata'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/conosce-un-uomo-in-discoteca-a-milano-mi-ha-violentata_f80425ac-96f3-4421-b7d1-94e2b3c7c878.html",
+     "data": "2026-08-16T09:16:56+00:00"
+    },
     {
      "titolo": "Europei atletica:maratona femminile, oro alla finlandese Vainio,sesta l'azzurra Lonedo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/europei-atleticamaratona-femminile-oro-alla-finlandese-vainiosesta-lazzurra-lonedo_8702d461-3ef4-41a8-8d5e-46f28d3b9b31.html",
@@ -39,27 +54,17 @@
      "titolo": "Sinner festeggia 25 anni,gli auguri della Federtennis 'Italia ti ama ed è pazza di te'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/sinner-festeggia-25-annigli-auguri-della-federtennis-italia-ti-ama-ed-e-pazza-di-te_4f7dd140-88eb-468b-93fe-72a19e8b7d6c.html",
      "data": "2026-08-16T07:20:45+00:00"
-    },
-    {
-     "titolo": "Oltre 600 droni ucraini lanciati contro Mosca nella notte",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/oltre-600-droni-ucraini-lanciati-contro-mosca-nella-notte_ab70d249-6a0c-4765-bebe-bd4a680edf4a.html",
-     "data": "2026-08-16T04:21:28+00:00"
-    },
-    {
-     "titolo": "Attacchi russi uccidono una persona in Ucraina, oltre 130 droni lanciati su Mosca",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/attacchi-russi-uccidono-una-persona-in-ucraina-oltre-130-droni-lanciati_89515da7-fba9-4b2c-bc3f-8456ecf83462.html",
-     "data": "2026-08-16T03:48:44+00:00"
-    },
-    {
-     "titolo": "Giappone: bilancio piogge torrenziali sale a 9 morti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/giappone-bilancio-piogge-torrenziali-sale-a-9-morti_df5e3065-2170-4d79-9932-939a056aecd6.html",
-     "data": "2026-08-16T02:58:20+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Verini visita i carceri di Perugia e Terni, è fallimento del Governo",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/16/verini-visita-i-carceri-di-perugia-e-terni-e-fallimento-del-governo_7980c275-f81d-4079-b732-0d20ef05afd5.html",
+     "data": "2026-08-16T09:24:46+00:00"
+    },
     {
      "titolo": "Ferragosto con la Protezione civile per la presidente Proietti",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/15/ferragosto-con-la-protezione-civile-per-la-presidente-proietti_0313d671-0cf0-44d8-971c-5ebefb0e4ace.html",
@@ -116,6 +121,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "\"Mi ha violentata\", accusato un uomo conosciuto in discoteca a Milano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/conosce-un-uomo-in-discoteca-a-milano-mi-ha-violentata_1cc0167f-95eb-417b-8e27-66241af48089.html",
+     "data": "2026-08-16T09:44:35+00:00"
+    },
+    {
      "titolo": "Dopo settimane di caldo, arrivano i primi temporali",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/dopo-settimane-di-caldo-arrivano-i-primi-temporali_4b75af74-fc23-4f1f-a498-a90254266237.html",
      "data": "2026-08-16T08:58:53+00:00"
@@ -128,7 +138,7 @@
     {
      "titolo": "Donna uccisa nella notte nel cosentino, ricercato il compagno",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/donna-uccisa-nella-notte-nel-cosentino-ricercato-il-compagno_3aa78aae-54f2-4272-98b9-c08ad3e5c9b6.html",
-     "data": "2026-08-16T08:56:38+00:00"
+     "data": "2026-08-16T09:07:41+00:00"
     },
     {
      "titolo": "Peggiora situazione incendio in Carnia, evacuato un abitato",
@@ -136,14 +146,14 @@
      "data": "2026-08-16T08:08:50+00:00"
     },
     {
-     "titolo": "Furto al museo, rubate opere di Antonello da Messina",
+     "titolo": "Furto al museo, rubate opere di Antonello da Messina. Indagini sul mercato nero dell'arte",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/furto-al-museo-rubate-opere-di-antonello-da-messina_d316b5fe-3a2d-489a-8f6a-544d5566e684.html",
-     "data": "2026-08-16T08:15:23+00:00"
+     "data": "2026-08-16T09:40:24+00:00"
     },
     {
      "titolo": "Condannato per pedopornografia, scoperto e arrestato nel Bellunese",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/condannato-per-pedopornografia-scoperto-e-arrestato-nel-bellunese_c03f7838-e695-4696-8f3a-614823c2018e.html",
-     "data": "2026-08-16T06:58:21+00:00"
+     "data": "2026-08-16T09:33:21+00:00"
     },
     {
      "titolo": "Incendio nel Frusinate, vicino al santuario della Madonna della Guardia",
@@ -169,11 +179,6 @@
      "titolo": "Incendio a Como, sfollati rientrano nelle loro abitazioni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/incendio-a-como-sfollati-rientrano-nelle-loro-abitazioni_2c1095d8-5a55-4b56-9745-76cc61336aed.html",
      "data": "2026-08-15T17:57:58+00:00"
-    },
-    {
-     "titolo": "Etna, l'aeroporto di Catania verso la normalità",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/etna-laeroporto-di-catania-verso-la-normalita_d182f31c-80af-4337-9d14-1c63df9c9c07.html",
-     "data": "2026-08-15T16:52:48+00:00"
     }
    ]
   },
@@ -391,6 +396,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei atletica: argento Riva nella maratona",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atletica-argento-riva-nella-maratona_5b5bc4d9-304f-4f98-bc24-6a8fe80b889b.html",
+     "data": "2026-08-16T09:42:54+00:00"
+    },
+    {
+     "titolo": "Europei atletica: argento a Pietro Riva nella maratona",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/16/europei-atletica-argento-a-pietro-riva-nella-maratona_e27d04ba-fb39-4c41-989b-48f7a7a0f449.html",
+     "data": "2026-08-16T09:39:42+00:00"
+    },
+    {
+     "titolo": "Europei atletica: argento Italia nella classifica a squadre",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atletica-argento-italia-nella-classifica-a-squadre_ced2ad20-5c39-47d8-b0b2-dd154defc2be.html",
+     "data": "2026-08-16T09:20:36+00:00"
+    },
+    {
      "titolo": "Europei atletica:maratona femminile, oro alla finlandese Vainio,sesta l'azzurra Lonedo",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atleticamaratona-femminile-oro-alla-finlandese-vainiosesta-lazzurra-lonedo_aef1775a-1abe-44a7-9f41-6caa0de8879b.html",
      "data": "2026-08-16T09:02:15+00:00"
@@ -434,21 +454,6 @@
      "titolo": "Calcio: Torino ok in Coppa Italia, con la Carrarese basta Simeone",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/calcio-torino-ok-in-coppa-italia-con-la-carrarese-basta-simeone_99a73763-8ff2-4c44-b5a9-adba7b2a66c6.html",
      "data": "2026-08-15T21:21:15+00:00"
-    },
-    {
-     "titolo": "Europei atletica: delusione per le staffette azzurre 4x100m",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/15/europei-atletica-delusione-per-le-staffette-azzurre-4x100m_9ec6ad2a-400c-4aa1-9577-66617c3a7cd1.html",
-     "data": "2026-08-15T21:27:59+00:00"
-    },
-    {
-     "titolo": "Europei atletica: Diaz oro nel triplo, bronzo per Dallavalle",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/15/europei-atletica-diaz-oro-nel-triplo-bronzo-per-dallavalle_5f8ac1fa-cc89-4b44-9bb1-b25fabff4882.html",
-     "data": "2026-08-15T22:33:52+00:00"
-    },
-    {
-     "titolo": "Si chiude la pre season della Roma, 2-2 col Borussia Dortmund",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/si-chiude-la-pre-season-della-roma-2-2-col-borussia-dortmund_e2a3acf1-70b5-4b26-90d2-674f83faa4cc.html",
-     "data": "2026-08-15T20:22:24+00:00"
     }
    ]
   }
