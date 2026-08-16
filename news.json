@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-16T13:05:38.246423+00:00",
+ "aggiornato": "2026-08-16T13:49:23.629846+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/farnesina-sono-circa-700-gli-italiani-sullisola-di-flores-in-indonesia_8116bc13-4fd0-4dbe-9367-86b2776846ce.html",
+     "data": "2026-08-16T13:19:09+00:00"
+    },
+    {
+     "titolo": "Axios, amministrazione Trump ha aperto canale segreto con i pasdaran a maggio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/axios-amministrazione-trump-ha-aperto-canale-segreto-con-i-pasdaran-a-maggio_dfd91bf6-0d9b-4b2b-a03f-53514505ba6c.html",
+     "data": "2026-08-16T13:17:33+00:00"
+    },
     {
      "titolo": "Mondiali ginnastica ritmica, Sofia Raffaeli d'argento al cerchio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/mondiali-ginnastica-ritmica-sofia-raffaeli-dargento-al-cerchio_c111179c-b21e-49ee-a11a-e511f02e8d94.html",
@@ -44,22 +54,17 @@
      "titolo": "Zelensky, 'almeno 3 morti e 14 feriti per i raid russi della notte'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/zelensky-almeno-3-morti-e-14-feriti-per-i-raid-russi-della-notte_aaacb4f9-331e-4247-98f1-a01ca2c57daa.html",
      "data": "2026-08-16T10:07:14+00:00"
-    },
-    {
-     "titolo": "++ Donna uccisa nel Cosentino, compagno rintracciato al porto di Bari ++",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/-donna-uccisa-nel-cosentino-compagno-rintracciato-al-porto-di-bari-_275eea5c-67ff-454b-b1c2-19aac25bf18e.html",
-     "data": "2026-08-16T10:02:08+00:00"
-    },
-    {
-     "titolo": "Almeno 48 i morti per il sisma in Indonesia, circa 5mila persone evacuate",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/almeno-48-i-morti-per-il-sisma-in-indonesia-circa-5mila-persone-evacuate_392f15c9-c452-45f0-be4f-d5c11eb3faf0.html",
-     "data": "2026-08-16T10:00:16+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Rottura per l'adduttrice idrica 'Scirca' nel comune di Gubbio",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/16/rottura-per-ladduttrice-idrica-scirca-nel-comune-di-gubbio_111b2d74-c08f-4c6b-9969-99a09ff38fb2.html",
+     "data": "2026-08-16T13:45:04+00:00"
+    },
     {
      "titolo": "Nel 2025 si riduce la perdita degli italiani residenti in Umbria verso l'estero",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/16/nel-2025-si-riduce-la-perdita-degli-italiani-residenti-in-umbria-verso-lestero_d7eedd77-83b6-4d68-b283-e60a6a0c1205.html",
@@ -99,27 +104,22 @@
      "titolo": "Proietti, la salute dei bambini è il pilastro fondamentale su cui costruiamo il futuro",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/14/proietti-la-salute-dei-bambini-e-il-pilastro-fondamentale-su-cui-costruiamo-il-futuro_6f5d69ed-174e-46ab-ab2d-9511d806364c.html",
      "data": "2026-08-14T13:50:19+00:00"
-    },
-    {
-     "titolo": "La Regione Umbria promuove con forza lo screening neonatale esteso",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/14/la-regione-umbria-promuove-con-forza-lo-screening-neonatale-esteso_beaf5a18-651d-4495-8177-99334da604c1.html",
-     "data": "2026-08-14T13:42:34+00:00"
-    },
-    {
-     "titolo": "Più di mille identificati per un rave party non autorizzato in Umbria",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/14/piu-di-mille-identificati-per-un-rave-party-non-autorizzato-in-umbria_75c4a024-9a9c-4797-9ce5-9e52943a71f0.html",
-     "data": "2026-08-14T10:46:53+00:00"
-    },
-    {
-     "titolo": "La E45 osservata speciale dall'Anas per il traffico di ferragosto",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/14/la-e45-osservata-speciale-dallanas-per-il-traffico-di-ferragosto_94143ae4-c45a-4028-bd10-f3561d494d97.html",
-     "data": "2026-08-14T09:52:18+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Weekend di Ferragosto, traffico scorrevole, in settimana 34 milioni di spostamenti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/weekend-di-ferragosto-traffico-scorrevole-in-settimana-34-milioni-di-spostamenti_b4df5003-b847-49f6-b6db-478217e94eb9.html",
+     "data": "2026-08-16T13:36:31+00:00"
+    },
+    {
+     "titolo": "Incendi in Carnia, spegnimento ancora in corso dopo una settimana di fiamme",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/incendi-in-carnia-spegnimento-ancora-in-corso-dopo-una-settimana-di-fiamme_8b4792c1-bd68-4c1a-9254-9ababd2437e8.html",
+     "data": "2026-08-16T13:17:01+00:00"
+    },
     {
      "titolo": "Ritrovato morto escursionista disperso sulle montagne del Centro Cadore",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/ritrovato-morto-escursionista-disperso-sulle-montagne-del-centro-cadore_64820647-cf6e-4322-a0cd-f70039340abf.html",
@@ -148,12 +148,12 @@
     {
      "titolo": "C'è un terzo bambino azzannato da un animale selvatico, il sindaco chiude i parchi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/terzo-bambino-azzannato-da-un-animale-selvatico-sindaco-chiude-i-parchi_dea6afcd-252e-4a61-bc79-45d7770a7026.html",
-     "data": "2026-08-16T11:59:25+00:00"
+     "data": "2026-08-16T13:06:36+00:00"
     },
     {
      "titolo": "Italiani aggrediti a Barcellona, un 21enne è in coma farmacologico",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/italiani-aggrediti-a-barcellona-un-21enne-in-coma-farmacologico_485dcb93-9377-4e68-8525-c67b1595d987.html",
-     "data": "2026-08-16T13:01:20+00:00"
+     "data": "2026-08-16T13:31:03+00:00"
     },
     {
      "titolo": "Legale Lavitola, 'anche Ranucci aveva chiesto di aumentare la scorta'",
@@ -169,22 +169,17 @@
      "titolo": "Maxi rissa in spiaggia la notte di Ferragosto a Mondragone, video virale",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/maxi-rissa-in-spiaggia-la-notte-di-ferragosto-a-mondragone-video-virale_6ad48b3d-f27a-4fdd-9899-11773cb84e43.html",
      "data": "2026-08-16T10:05:13+00:00"
-    },
-    {
-     "titolo": "++ Donna uccisa nel Cosentino, compagno rintracciato al porto di Bari ++",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/-donna-uccisa-nel-cosentino-compagno-rintracciato-al-porto-di-bari-_3696ba90-69cd-452a-9ed4-b528d8f7b8db.html",
-     "data": "2026-08-16T10:02:29+00:00"
-    },
-    {
-     "titolo": "I legali di Valter Lavitola: 'Dopo l'attentato Ranucci avrebbe potuto capire il mandante'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/i-legali-valter-lavitola-anche-ranucci-aveva-chiesto-di-aumentare-la-scorta_eec0a77e-e43b-4420-9f99-1cf6ffd88f13.html",
-     "data": "2026-08-16T12:20:05+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Pm Venezia chiede di archiviare indagine sulla caccia di Trump Jr in Laguna",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/16/pm-venezia-chiede-di-archiviare-indagine-sulla-caccia-di-trump-jr-in-laguna_ba9ecd85-ca2e-47c6-bcd4-d3208c0d495a.html",
+     "data": "2026-08-16T13:11:46+00:00"
+    },
     {
      "titolo": "Il Papa, 'cessino le violenze contro i palestinesi in Cisgiordania'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/16/il-papa-cessino-le-violenze-contro-i-palestinesi-in-cisgiordania_568ab875-7d9b-4882-9483-f8b67221c50e.html",
@@ -271,6 +266,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/16/farnesina-sono-circa-700-gli-italiani-sullisola-di-flores-in-indonesia_2926d338-5684-42da-9c80-4f9642a2e9a4.html",
+     "data": "2026-08-16T13:19:12+00:00"
+    },
+    {
+     "titolo": "Axios, amministrazione Trump ha aperto canale segreto con i pasdaran a maggio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/16/axios-amministrazione-trump-ha-aperto-canale-segreto-con-i-pasdaran-a-maggio_55d7d63f-dc1e-4b6f-a020-e0a16b27eade.html",
+     "data": "2026-08-16T13:17:51+00:00"
+    },
+    {
      "titolo": "Iran, '30.000 dollari a chiunque catturi o uccida un soldato americano'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/16/iran-30.000-dollari-a-chiunque-catturi-o-uccida-un-soldato-americano_bbce41ec-e76e-4c2f-9dc1-0deb54d8abef.html",
      "data": "2026-08-16T10:19:34+00:00"
@@ -319,16 +324,6 @@
      "titolo": "Attacchi russi uccidono una persona in Ucraina, oltre 130 droni lanciati su Mosca",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/attacchi-russi-uccidono-una-persona-in-ucraina-oltre-130-droni-lanciati_915b85a9-3168-4d31-bbee-38bfc441406d.html",
      "data": "2026-08-16T03:48:46+00:00"
-    },
-    {
-     "titolo": "Giappone: bilancio piogge torrenziali sale a 9 morti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/16/giappone-bilancio-piogge-torrenziali-sale-a-9-morti_1f3d5097-8aa1-4d37-bc38-e2a51740872a.html",
-     "data": "2026-08-16T02:58:37+00:00"
-    },
-    {
-     "titolo": "Esplosioni a Kiev dopo l'allarme missili balistici",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/esplosioni-a-kiev-dopo-lallarme-missili-balistici_4a588ee7-629b-4322-adbe-3dfc4721faaa.html",
-     "data": "2026-08-16T00:32:52+00:00"
     }
    ]
   },
@@ -401,6 +396,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Presidenza arbitri, Massini si candida 'riforme e autonomia economica'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/presidenza-arbitri-massini-si-candida-riforme-e-autonomia-economica_f207e807-4d17-4cb0-803b-ccd4fcc64481.html",
+     "data": "2026-08-16T13:29:28+00:00"
+    },
+    {
      "titolo": "Giochi del Mediterraneo: Buonfiglio 'orgogliosi dell'omaggio di Papa Leone'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/giochi-del-mediterraneo-buonfiglio-orgogliosi-dellomaggio-di-papa-leone_db93229d-96e0-4fa6-981c-8ac637548d50.html",
      "data": "2026-08-16T12:11:03+00:00"
@@ -454,11 +454,6 @@
      "titolo": "Sinner festeggia 25 anni, gli auguri della Federtennis: 'L'Italia ti ama ed è pazza di te'",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/16/sinner-festeggia-25-annigli-auguri-della-federtennis-italia-ti-ama-ed-e-pazza-di-te_3fa867f4-686d-43e9-8b16-6c24b377d483.html",
      "data": "2026-08-16T12:55:04+00:00"
-    },
-    {
-     "titolo": "Al Master 1000 di Cincinnati Cobolli al terzo turno, fuori Arnaldi, Darderi e Bellucci",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/16/al-master-1000-di-cincinnati-cobolli-al-terzo-turno-fuori-arnaldi-darderi-e-bellucci_0fe472e0-b1de-4099-8dc1-906e1350c12d.html",
-     "data": "2026-08-16T08:27:21+00:00"
     }
    ]
   }
