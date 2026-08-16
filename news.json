@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-16T16:08:39.252975+00:00",
+ "aggiornato": "2026-08-16T16:46:18.167525+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -111,6 +111,26 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Scivola sul sentiero e cade in un lago in Trentino, morta una donna",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/scivola-sul-sentiero-e-cade-in-un-lago-in-trentino-morta-una-donna_970b31ed-c160-45a1-bfeb-b44a36dd9e72.html",
+     "data": "2026-08-16T16:36:17+00:00"
+    },
+    {
+     "titolo": "Turisti bolognesi bloccati a Flores, poi l'imbarco per Bali",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/turisti-bolognesi-bloccati-a-flores-poi-limbarco-per-bali_b31d09e2-1815-4b4a-9f20-01909b603f3b.html",
+     "data": "2026-08-16T16:31:30+00:00"
+    },
+    {
+     "titolo": "Ore contate per il grande caldo, adesso è allerta temporali",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/ore-contate-per-il-grande-caldo-adesso-e-allerta-temporali_4b75af74-fc23-4f1f-a498-a90254266237.html",
+     "data": "2026-08-16T16:29:48+00:00"
+    },
+    {
+     "titolo": "A fuoco carrellino dei bagagli a Malpensa, incendio subito domato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/a-fuoco-carrellino-dei-bagagli-a-malpensa-incendio-subito-domato_b9ee56ab-c631-46e0-9eb5-591b8a2dfa92.html",
+     "data": "2026-08-16T16:09:08+00:00"
+    },
+    {
      "titolo": "Temporali in arrivo su gran parte della penisola",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/temporali-in-arrivo-su-gran-parte-della-penisola_27854b25-e420-43dd-80eb-a8c6d5587cc2.html",
      "data": "2026-08-16T15:46:09+00:00"
@@ -149,26 +169,6 @@
      "titolo": "Rissa in spiaggia a Rimini, tre giovani in ospedale con ferite da taglio",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/rissa-in-spiaggia-a-rimini-tre-giovani-in-ospedale-con-ferite-da-taglio_327b5be9-6f53-4d40-b8b6-30a95dc7f668.html",
      "data": "2026-08-16T12:54:19+00:00"
-    },
-    {
-     "titolo": "'Avverte' proprietaria di un tumore, Premio Fedeltà del cane a Joy",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/avverte-proprietaria-di-un-tumore-premio-fedelta-del-cane-a-joy_7e23ef61-1769-4877-ad6d-ae48f75c2327.html",
-     "data": "2026-08-16T11:59:58+00:00"
-    },
-    {
-     "titolo": "Fedriga, situazione di allerta, non di emergenza per gli incendi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/fedriga-situazione-di-allerta-non-di-emergenza-per-gli-incendi_96b4efc3-4a1b-42bf-b728-2a0ae1422d6e.html",
-     "data": "2026-08-16T11:58:36+00:00"
-    },
-    {
-     "titolo": "Scossa di terremoto 3.7 in Toscana, la Regione 'nessun danno'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/scossa-di-terremoto-3.7-in-toscana-la-regione-nessun-danno_b1bfaca0-ead5-4eec-be00-73ff7e89da10.html",
-     "data": "2026-08-16T11:48:46+00:00"
-    },
-    {
-     "titolo": "C'è un terzo bambino azzannato da un animale selvatico, il sindaco chiude i parchi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/terzo-bambino-azzannato-da-un-animale-selvatico-sindaco-chiude-i-parchi_dea6afcd-252e-4a61-bc79-45d7770a7026.html",
-     "data": "2026-08-16T13:06:36+00:00"
     }
    ]
   },
@@ -271,6 +271,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Peter Thiel scommette sul giacimento di Vaca Muerta in Argentina",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/peter-thiel-scommette-sul-giacimento-di-vaca-muerta-in-argentina_91464ae0-4696-4fbf-b4a8-f14bcaa3b115.html",
+     "data": "2026-08-16T16:32:14+00:00"
+    },
+    {
      "titolo": "Nuovo attacco dell'Eln contro l'esercito in Colombia, un soldato morto e cinque feriti",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/nuovo-attacco-delleln-contro-lesercito-in-colombia-un-soldato-morto-e-cinque-feriti_2664af42-b222-482e-8160-9437e1d840cf.html",
      "data": "2026-08-16T15:53:14+00:00"
@@ -324,11 +329,6 @@
      "titolo": "Un autobus si è ribaltato in Ungheria, 12 morti e almeno 10 feriti gravi",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/un-autobus-si-e-ribaltato-in-ungheria-12-morti-e-almeno-10-feriti-gravi_f3c8086e-502a-4ca8-b2bd-29300787abab.html",
      "data": "2026-08-16T07:43:46+00:00"
-    },
-    {
-     "titolo": "Katz minaccia nuovi attacchi in Libano, 'colpiremo con tutta la forza'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/16/katz-minaccia-nuovi-attacchi-in-libano-colpiremo-con-tutta-la-forza_7becb18c-d8cf-40b9-bb83-0798de447349.html",
-     "data": "2026-08-16T07:39:56+00:00"
     }
    ]
   },
@@ -401,6 +401,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei nuoto: Pilato medaglia d'argento nei 50 rana",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-nuoto-pilato-medaglia-dargento-nei-50-rana_e70642ed-e2c0-403f-b512-57f8001358bb.html",
+     "data": "2026-08-16T16:41:19+00:00"
+    },
+    {
+     "titolo": "Europei ginnastica artistica: Italia medaglia d'argento nella gara a squadre",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-ginnastica-artistica-italia-medaglia-dargento-nella-gara-a-squadre_cc10c80b-3e03-4a4e-b5c9-f494e68699c9.html",
+     "data": "2026-08-16T16:05:53+00:00"
+    },
+    {
      "titolo": "Calafiori apre le danze, Arsenal batte City 3-0 nel Community Shield",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/calafiori-apre-le-danze-arsenal-batte-city-3-0-nel-community-shield_95baeedd-1dbd-48f2-8833-68ece39010d9.html",
      "data": "2026-08-16T15:57:59+00:00"
@@ -449,16 +459,6 @@
      "titolo": "Europei nuoto:Curtis record porta in finale 4x100 mista,ok anche Quadarella nei 400 sl",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-nuotocurtis-record-porta-in-finale-4x100-mistaok-anche-quadarella-nei_260fdeed-f8fd-42df-b501-5ba41dca47de.html",
      "data": "2026-08-16T10:13:13+00:00"
-    },
-    {
-     "titolo": "Tennis: Berrettini fuori a Cincinnati, avanza Lehecka",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/16/tennis-berrettini-fuori-a-cincinnati-avanza-lehecka_1cf3d5b9-79d5-4663-9240-61749f618024.html",
-     "data": "2026-08-16T10:01:50+00:00"
-    },
-    {
-     "titolo": "Europei atletica: la felicità di Riva 'dal km 40 stavo bene e ho atteso la volata'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atletica-la-felicita-di-riva-dal-km-40-stavo-bene-e-ho-atteso-la-volata_a58672e3-4c3b-455a-a5a6-42b6de8d7b4c.html",
-     "data": "2026-08-16T09:54:51+00:00"
     }
    ]
   }
