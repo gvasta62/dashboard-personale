@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-16T20:43:26.102597+00:00",
+ "aggiornato": "2026-08-16T21:07:28.663439+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -63,7 +63,7 @@
     {
      "titolo": "Ipotesi alta velocità per incidente stradale a ridosso del centro di Terni",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/16/ipotesi-alta-velocita-per-incidente-stradale-a-ridosso-del-centro-di-terni_d0a7dbf9-aee1-4c41-9a9a-c3b425e1c004.html",
-     "data": "2026-08-16T18:51:35+00:00"
+     "data": "2026-08-16T20:55:29+00:00"
     },
     {
      "titolo": "Riparata la rottura sull'adduttrice idrica 'Scirca'",
@@ -276,6 +276,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ft, Trump mira a nuove sanzioni contro giudice brasiliano della condanna a Bolsonaro",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/ft-trump-mira-a-nuove-sanzioni-contro-giudice-brasiliano-della-condanna-a-bolsonaro_d33db08c-764d-4f19-9478-5a5dab0b00a8.html",
+     "data": "2026-08-16T20:38:29+00:00"
+    },
+    {
      "titolo": "Hamas a Board of Peace, 'costringa Israele ad accettare piano per Gaza'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/16/hamas-a-board-of-peace-costringa-israele-ad-accettare-piano-per-gaza_3c0cf0a4-6451-441c-b31b-f56904b540fb.html",
      "data": "2026-08-16T19:56:49+00:00"
@@ -329,11 +334,6 @@
      "titolo": "Almeno 48 i morti per il sisma in Indonesia, circa 5mila persone evacuate",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/16/almeno-48-i-morti-per-il-sisma-in-indonesia-circa-5mila-persone-evacuate_5307ae5b-9e03-4393-99df-df0fe39adecb.html",
      "data": "2026-08-16T10:00:37+00:00"
-    },
-    {
-     "titolo": "Incendio in un parco naturale in Belgio, bruciati 3.000 ettari",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/incendio-in-un-parco-naturale-in-belgio-bruciati-3.000-ettari_3d496822-3682-442c-a391-ccb27f4276bb.html",
-     "data": "2026-08-16T09:59:28+00:00"
     }
    ]
   },
@@ -406,6 +406,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "++ Europei atletica: oro per l'Italia nella 4x400 uomini ++",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/-europei-atletica-oro-per-litalia-nella-4x400-uomini-_506b75dd-818d-4bbc-b78e-429af85c59b9.html",
+     "data": "2026-08-16T20:55:42+00:00"
+    },
+    {
+     "titolo": "Europei atletica: bronzo per l'Italia nella 4x400 donne",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atletica-bronzo-per-litalia-nella-4x400-donne_8415eedc-67fc-487a-8c50-66ccd6f868d3.html",
+     "data": "2026-08-16T20:43:24+00:00"
+    },
+    {
      "titolo": "Europei atletica: Iapichino medaglia d'oro nel salto in lungo",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atletica-iapichino-medaglia-doro-nel-salto-in-lungo_c9866f9d-ce58-4315-bcce-98ae9a01c293.html",
      "data": "2026-08-16T20:38:51+00:00"
@@ -438,7 +448,7 @@
     {
      "titolo": "Europei di nuoto: Quadarella domina, l'Italia saluta Parigi da grande",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-di-nuoto-quadarella-domina-litalia-saluta-parigi-da-grande_50bb406b-3051-4bc7-9439-d1187708e7a4.html",
-     "data": "2026-08-16T20:06:24+00:00"
+     "data": "2026-08-16T21:04:22+00:00"
     },
     {
      "titolo": "Europei nuoto: il medagliere finale di Parigi, Italia seconda",
@@ -454,16 +464,6 @@
      "titolo": "Lo facciamo strano, Como-Liverpool è l'amichevole infinita",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/16/ansa-lo-facciamo-strano-como-liverpool-e-lamichevole-infinita_4c52671f-3c5a-42b1-b4ec-a03f73186f77.html",
      "data": "2026-08-16T20:27:38+00:00"
-    },
-    {
-     "titolo": "La federazione qatariota chiede chiarezza alla Afc dopo la nota su Infantino",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/la-federazione-qatariota-chiede-chiarezza-alla-afc-dopo-la-nota-su-infantino_aa092f87-aff8-4d8c-8206-de72fe48fdaf.html",
-     "data": "2026-08-16T20:08:19+00:00"
-    },
-    {
-     "titolo": "Como sconfitto a Liverpool, 2-0 con reti di Gakpo e Jacquet",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/como-sconfitto-a-liverpool-2-0-con-reti-di-gakpo-e-jacquet_a046a49d-dcee-48c4-aad3-b307f6ec87b0.html",
-     "data": "2026-08-16T19:11:40+00:00"
     }
    ]
   }
