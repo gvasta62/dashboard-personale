@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-16T11:08:40.221989+00:00",
+ "aggiornato": "2026-08-16T11:40:40.401011+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Mondiali ginnastica ritmica, Sofia Raffaeli d'argento al cerchio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/mondiali-ginnastica-ritmica-sofia-raffaeli-dargento-al-cerchio_c111179c-b21e-49ee-a11a-e511f02e8d94.html",
+     "data": "2026-08-16T11:10:17+00:00"
+    },
     {
      "titolo": "Terzo bambino azzannato da un animale selvatico, sindaco chiude i parchi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/terzo-bambino-azzannato-da-un-animale-selvatico-sindaco-chiude-i-parchi_66492fe5-0fd0-4689-9111-1f10947c990c.html",
@@ -49,11 +54,6 @@
      "titolo": "Almeno 48 i morti per il sisma in Indonesia, circa 5mila persone evacuate",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/almeno-48-i-morti-per-il-sisma-in-indonesia-circa-5mila-persone-evacuate_392f15c9-c452-45f0-be4f-d5c11eb3faf0.html",
      "data": "2026-08-16T10:00:16+00:00"
-    },
-    {
-     "titolo": "Incendio in un parco naturale in Belgio, bruciati 3.000 ettari",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/incendio-in-un-parco-naturale-in-belgio-bruciati-3.000-ettari_3e2d3a0b-de8f-40fa-9a8c-6b2ed064aa2c.html",
-     "data": "2026-08-16T09:59:23+00:00"
     }
    ]
   },
@@ -401,6 +401,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Mondiali ginnastica ritmica, Sofia Raffaeli d'argento al cerchio",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/mondiali-ginnastica-ritmica-sofia-raffaeli-dargento-al-cerchio_c915c4a9-7783-487d-ab8a-e41cb254ba0c.html",
+     "data": "2026-08-16T11:27:50+00:00"
+    },
+    {
+     "titolo": "Europei di nuoto: Quadarella e le due 4x100 miste in finale",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/16/europei-di-nuoto-quadarella-e-le-due-4x100-miste-in-finale_50bb406b-3051-4bc7-9439-d1187708e7a4.html",
+     "data": "2026-08-16T11:09:05+00:00"
+    },
+    {
      "titolo": "Europei nuoto:Curtis record porta in finale 4x100 mista,ok anche Quadarella nei 400 sl",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-nuotocurtis-record-porta-in-finale-4x100-mistaok-anche-quadarella-nei_260fdeed-f8fd-42df-b501-5ba41dca47de.html",
      "data": "2026-08-16T10:13:13+00:00"
@@ -421,9 +431,9 @@
      "data": "2026-08-16T09:42:54+00:00"
     },
     {
-     "titolo": "Europei atletica: argento a Pietro Riva nella maratona",
+     "titolo": "Europei di atletica: argento a Pietro Riva nella maratona",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/16/europei-atletica-argento-a-pietro-riva-nella-maratona_e27d04ba-fb39-4c41-989b-48f7a7a0f449.html",
-     "data": "2026-08-16T10:00:32+00:00"
+     "data": "2026-08-16T11:12:20+00:00"
     },
     {
      "titolo": "Europei atletica: argento Italia nella classifica a squadre",
@@ -449,16 +459,6 @@
      "titolo": "Tennis: Cincinnati, esce Darderi battuto da Hijikata",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/tennis-cincinnati-esce-darderi-battuto-da-hijikata_2e338a6b-3446-483a-80be-753b0da7a7c4.html",
      "data": "2026-08-15T22:09:18+00:00"
-    },
-    {
-     "titolo": "Milan: Amorim, \"Leao dovrà lottare per un posto\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/15/milan-amorim-leao-dovra-lottare-per-un-posto_1f63b17a-6c54-4093-a6fc-dbdf2a986c2b.html",
-     "data": "2026-08-15T21:49:15+00:00"
-    },
-    {
-     "titolo": "Tennis: a Cincinnati clamoroso ko di Djokovic, eliminato da Tirante",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/15/tennis-a-cincinnati-clamoroso-ko-di-djokovic-eliminato-da-tirante_7402e3ac-2c6a-4fb1-a4be-7c6aebd19874.html",
-     "data": "2026-08-15T22:12:23+00:00"
     }
    ]
   }
