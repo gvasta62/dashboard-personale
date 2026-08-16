@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-16T17:39:56.463915+00:00",
+ "aggiornato": "2026-08-16T18:09:16.117820+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -111,6 +111,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Pericolo lupo in Puglia, tre bimbi azzannati in pochi giorni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/pericolo-lupo-in-puglia-tre-bimbi-azzannati-in-pochi-giorni_dea6afcd-252e-4a61-bc79-45d7770a7026.html",
+     "data": "2026-08-16T17:58:25+00:00"
+    },
+    {
+     "titolo": "Nuova intensa attività esplosiva dal cratere Voragine dell'Etna",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/nuova-intensa-attivita-esplosiva-dal-cratere-voragine-delletna_2cf5a370-93a8-4f53-b81f-70c791d452bb.html",
+     "data": "2026-08-16T17:54:17+00:00"
+    },
+    {
      "titolo": "Soccorse due cordate di alpinisti sopra Cortina, una colpita da un fulmine",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/soccorse-due-cordate-di-alpinisti-sopra-cortina-una-colpita-da-un-fulmine_0610db56-b556-47af-9c4b-3faed9da9b18.html",
      "data": "2026-08-16T17:30:14+00:00"
@@ -143,7 +153,7 @@
     {
      "titolo": "Turisti bolognesi bloccati a Flores, poi l'imbarco per Bali",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/turisti-bolognesi-bloccati-a-flores-poi-limbarco-per-bali_b31d09e2-1815-4b4a-9f20-01909b603f3b.html",
-     "data": "2026-08-16T17:07:15+00:00"
+     "data": "2026-08-16T17:36:46+00:00"
     },
     {
      "titolo": "Ore contate per il grande caldo, adesso è allerta temporali",
@@ -159,16 +169,6 @@
      "titolo": "Temporali in arrivo su gran parte della penisola",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/temporali-in-arrivo-su-gran-parte-della-penisola_27854b25-e420-43dd-80eb-a8c6d5587cc2.html",
      "data": "2026-08-16T15:46:09+00:00"
-    },
-    {
-     "titolo": "Incendi in Abruzzo, 4 mezzi aerei fermi per avaria",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/incendi-in-abruzzo-4-mezzi-aerei-fermi-per-avaria_0ce363ec-2aba-4693-9550-a01bbc8afd94.html",
-     "data": "2026-08-16T15:44:39+00:00"
-    },
-    {
-     "titolo": "Uomo morto in casa nel reggino, sottoposta a fermo la moglie",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/uomo-morto-in-casa-nel-reggino-sottoposta-a-fermo-la-moglie_5280dc52-c1a6-4359-9bc1-3a32fb8d3857.html",
-     "data": "2026-08-16T14:33:39+00:00"
     }
    ]
   },
@@ -271,6 +271,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Al via la campagna elettorale per le presidenziali in Brasile",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/al-via-la-campagna-elettorale-per-le-presidenziali-in-brasile_773d557d-c45c-4d22-8227-b8c0964aa2ca.html",
+     "data": "2026-08-16T17:59:24+00:00"
+    },
+    {
      "titolo": "Peter Thiel scommette sul giacimento di Vaca Muerta in Argentina",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/peter-thiel-scommette-sul-giacimento-di-vaca-muerta-in-argentina_91464ae0-4696-4fbf-b4a8-f14bcaa3b115.html",
      "data": "2026-08-16T16:32:14+00:00"
@@ -324,11 +329,6 @@
      "titolo": "Mosca, 'abbattuti 822 droni ucraini su tutta la Russia nella notte'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/mosca-abbattuti-822-droni-ucraini-su-tutta-la-russia-nella-notte_97badf87-a6b4-4a09-8884-5c13a91b482c.html",
      "data": "2026-08-16T07:47:14+00:00"
-    },
-    {
-     "titolo": "Un autobus si è ribaltato in Ungheria, 12 morti e almeno 10 feriti gravi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/un-autobus-si-e-ribaltato-in-ungheria-12-morti-e-almeno-10-feriti-gravi_f3c8086e-502a-4ca8-b2bd-29300787abab.html",
-     "data": "2026-08-16T07:43:46+00:00"
     }
    ]
   },
@@ -401,9 +401,29 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Juve, Lucumì è arrivato al J Medical per le visite mediche",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/juve-lucumi-e-arrivato-al-j-medical-per-le-visite-mediche_8dc540be-83e7-41f4-9ea4-95e291a9c00d.html",
+     "data": "2026-08-16T17:50:39+00:00"
+    },
+    {
+     "titolo": "Raffaeli argento ai Mondiali al cerchio. A medaglia le azzurre dell'artistico agli Europei",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/raffaeli-argento-ai-mondiali-al-cerchio.-a-medaglia-le-azzurre-dellartistico-agli-europei_c915c4a9-7783-487d-ab8a-e41cb254ba0c.html",
+     "data": "2026-08-16T17:49:31+00:00"
+    },
+    {
+     "titolo": "Calafiori apre le danze, Arsenal batte City 3-0 nel Community Shield",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/calafiori-apre-le-danze-arsenal-batte-city-3-0-nel-community-shield_95baeedd-1dbd-48f2-8833-68ece39010d9.html",
+     "data": "2026-08-16T17:45:22+00:00"
+    },
+    {
+     "titolo": "Europei nuoto: Quadarella, 'impressionata dalla mia costanza'",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-nuoto-quadarella-impressionata-dalla-mia-costanza_ff5d50dd-6f39-4bc2-9c76-3c31a6b0d59c.html",
+     "data": "2026-08-16T17:46:32+00:00"
+    },
+    {
      "titolo": "Europei di nuoto: Simona Quadarella medaglia d'oro anche nei 400 stile libero",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-di-nuoto-simona-quadarella-medaglia-doro-anche-nei-400-stile_50bb406b-3051-4bc7-9439-d1187708e7a4.html",
-     "data": "2026-08-16T17:34:35+00:00"
+     "data": "2026-08-16T17:57:07+00:00"
     },
     {
      "titolo": "Europei nuoto: Quadarella medaglia d'oro anche nei 400 stile libero",
@@ -413,7 +433,7 @@
     {
      "titolo": "Cristiano Ronaldo, 'probabilmente sarà il mio ultimo anno prima del ritiro'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/cristiano-ronaldo-probabilmente-sara-il-mio-ultimo-anno-prima-del-ritiro_b83b1a44-bd16-4cd5-8a63-d5fab344f190.html",
-     "data": "2026-08-16T17:17:56+00:00"
+     "data": "2026-08-16T17:40:17+00:00"
     },
     {
      "titolo": "Europei nuoto: Ceccon medaglia d'argento nei 100 dorso",
@@ -439,26 +459,6 @@
      "titolo": "Europei ginnastica artistica: Italia medaglia d'argento nella gara a squadre",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-ginnastica-artistica-italia-medaglia-dargento-nella-gara-a-squadre_cc10c80b-3e03-4a4e-b5c9-f494e68699c9.html",
      "data": "2026-08-16T16:05:53+00:00"
-    },
-    {
-     "titolo": "Calafiori apre le danze, Arsenal batte City 3-0 nel Community Shield",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/calafiori-apre-le-danze-arsenal-batte-city-3-0-nel-community-shield_95baeedd-1dbd-48f2-8833-68ece39010d9.html",
-     "data": "2026-08-16T15:57:59+00:00"
-    },
-    {
-     "titolo": "Flag Football: Italia vicecampione del mondo, vincono gli Usa 46-26",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/flag-football-italia-vicecampione-del-mondo-vincono-gli-usa-46-26_758ace2d-6ebd-4080-8659-2be4ae04d1f7.html",
-     "data": "2026-08-16T15:46:11+00:00"
-    },
-    {
-     "titolo": "Giochi Mediterrano: Abodi 'dal Papa messaggio prezioso, auspicio sia la pace'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/giochi-mediterrano-abodi-dal-papa-messaggio-prezioso-auspicio-sia-la-pace_88f6b780-f189-4e29-8158-adc41d2e1397.html",
-     "data": "2026-08-16T15:07:56+00:00"
-    },
-    {
-     "titolo": "Mei, 'stasera saremo soddisfatti del medagliere'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/mei-stasera-saremo-soddisfatti-del-medagliere_6fc3ea1b-05b5-4efe-bb90-b0f335108461.html",
-     "data": "2026-08-16T15:00:14+00:00"
     }
    ]
   }
