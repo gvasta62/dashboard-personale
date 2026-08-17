@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-17T00:26:15.071616+00:00",
+ "aggiornato": "2026-08-17T01:59:04.012024+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Terremoto di magnitudo 5.6 colpisce l'Indonesia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/terremoto-di-magnitudo-5.6-colpisce-lindonesia_a6a0ebac-6855-414e-a0de-ed3455944020.html",
+     "data": "2026-08-17T01:34:02+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,41%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-tokyo-apertura-in-rialzo-041_b2fa9916-20a6-46e6-a460-6c3c78bdf51b.html",
+     "data": "2026-08-17T00:29:03+00:00"
+    },
     {
      "titolo": "Scoperti in Messico sei 'funghi zombi' che infettano formiche e ragni",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/scoperti-in-messico-sei-funghi-zombi-che-infettano-formiche-e-ragni_22d58a8b-0a5e-4645-a0c0-1600ae9e097b.html",
@@ -44,16 +54,6 @@
      "titolo": "Axios, amministrazione Trump ha aperto canale segreto con i pasdaran a maggio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/axios-amministrazione-trump-ha-aperto-canale-segreto-con-i-pasdaran-a-maggio_dfd91bf6-0d9b-4b2b-a03f-53514505ba6c.html",
      "data": "2026-08-16T13:17:33+00:00"
-    },
-    {
-     "titolo": "Mondiali ginnastica ritmica, Sofia Raffaeli d'argento al cerchio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/mondiali-ginnastica-ritmica-sofia-raffaeli-dargento-al-cerchio_c111179c-b21e-49ee-a11a-e511f02e8d94.html",
-     "data": "2026-08-16T11:10:17+00:00"
-    },
-    {
-     "titolo": "Terzo bambino azzannato da un animale selvatico, sindaco chiude i parchi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/terzo-bambino-azzannato-da-un-animale-selvatico-sindaco-chiude-i-parchi_66492fe5-0fd0-4689-9111-1f10947c990c.html",
-     "data": "2026-08-16T10:45:35+00:00"
     }
    ]
   },
@@ -211,70 +211,25 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Il gas si mantiene a cavallo dei 61 euro sulla piazza Ttf di Amsterdam",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/il-gas-si-mantiene-a-cavallo-dei-61-euro-sulla-piazza-ttf-di-amsterdam_dfa37223-05b1-4203-9630-505c739e877b.html",
-     "data": "2026-08-14T16:46:44+00:00"
-    },
-    {
-     "titolo": "Ferrero acquisisce Purely Elizabeth e rafforza la sua presenza negli Usa",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/ferrero-acquisisce-purely-elizabeth-e-rafforza-la-sua-presenza-negli-usa_e0270c41-00eb-4432-84f1-12951260244a.html",
-     "data": "2026-08-14T16:35:59+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in calo (-0,2%), realizzi su Prysmian ed Stm",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-milano-chiude-in-calo-02-realizzi-su-prysmian-ed-stm_69d72c76-5583-4527-85a4-fee5887d547a.html",
-     "data": "2026-08-14T16:31:23+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo sopra i 78 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-sopra-i-78-punti_4fd983be-3a7e-4b59-abac-c4468b66f10c.html",
-     "data": "2026-08-14T16:11:07+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude contrastata, Parigi -0,16%, Francoforte +0,53%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-leuropa-chiude-contrastata-parigi-016-francoforte-053_2fe369b4-00b8-4f0c-bad5-62809ce4653d.html",
-     "data": "2026-08-14T15:56:24+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in ribasso, -0,2%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-milano-chiude-in-ribasso-02_2b20c2f3-d7b8-459d-9e2e-1ca93f0f0a03.html",
-     "data": "2026-08-14T15:39:44+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa poco mossa, listini Usa deboli, Milano invariata",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-europa-poco-mossa-listini-usa-deboli-milano-invariata_994ea9ce-6f8d-405e-a84b-e7e43875eb11.html",
-     "data": "2026-08-14T15:26:44+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa resiste con Wall Street, Milano +0,1%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-leuropa-resiste-con-wall-street-milano-01_2e2ac3e8-2a3a-42b2-aee6-a0a8de522e1b.html",
-     "data": "2026-08-14T14:03:09+00:00"
-    },
-    {
-     "titolo": "Economía: Argentina facilita el acceso a préstamos en dólares para empresas",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/economia-argentina-facilita-el-acceso-a-prestamos-en-dolares-para-empresas_c1cbf814-b172-4138-9806-c0c8bfa9f50b.html",
-     "data": "2026-08-14T13:49:30+00:00"
-    },
-    {
-     "titolo": "Wall Street apre poco mossa e contrastata, Dj a -0,01% e Nasdaq a +0,09%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/wall-street-apre-poco-mossa-e-contrastata-dj-a-001-e-nasdaq-a-009_3c3b6e2e-d0ce-40d2-b876-314e297ac960.html",
-     "data": "2026-08-14T13:47:03+00:00"
-    },
-    {
-     "titolo": "Le scorte di gas superano il 78% in Italia, Germania al 49%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/le-scorte-di-gas-superano-il-78-in-italia-germania-al-49_544084f9-36a6-4e56-b8fa-7a370f3ada3a.html",
-     "data": "2026-08-14T13:37:03+00:00"
-    },
-    {
-     "titolo": "Legacoop, dal mais che non cresce alle cozze che muoiono, clima riscrive l'agricoltura",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/legacoop-dal-mais-che-non-cresce-alle-cozze-che-muoiono_ff316d50-64f4-4638-a938-cef0560a80e0.html",
-     "data": "2026-08-14T13:06:30+00:00"
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,41%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-tokyo-apertura-in-rialzo-041_0a5b2499-aeaa-48c1-af5e-ab527f87ba60.html",
+     "data": "2026-08-17T00:28:59+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Terremoto di magnitudo 5.6 colpisce l'Indonesia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/17/terremoto-di-magnitudo-5.6-colpisce-lindonesia_165059d7-276a-4303-98e7-f88e8c34b4dd.html",
+     "data": "2026-08-17T01:34:15+00:00"
+    },
+    {
+     "titolo": "La presidente del Messico, 'Senza sovranità non c'è benessere'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/17/la-presidente-del-messico-senza-sovranita-non-ce-benessere_94d1b19f-9b63-4f48-a757-3fd3ee144a06.html",
+     "data": "2026-08-17T00:42:16+00:00"
+    },
     {
      "titolo": "Scoperti in Messico sei 'funghi zombi' che infettano formiche e ragni",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/17/scoperti-in-messico-sei-funghi-zombi-che-infettano-formiche-e-ragni_aa420db2-2702-4188-af57-6ca809fd974d.html",
@@ -324,16 +279,6 @@
      "titolo": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/16/farnesina-sono-circa-700-gli-italiani-sullisola-di-flores-in-indonesia_2926d338-5684-42da-9c80-4f9642a2e9a4.html",
      "data": "2026-08-16T13:19:12+00:00"
-    },
-    {
-     "titolo": "Axios, amministrazione Trump ha aperto canale segreto con i pasdaran a maggio",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/16/axios-amministrazione-trump-ha-aperto-canale-segreto-con-i-pasdaran-a-maggio_55d7d63f-dc1e-4b6f-a020-e0a16b27eade.html",
-     "data": "2026-08-16T13:17:51+00:00"
-    },
-    {
-     "titolo": "Iran, '30.000 dollari a chiunque catturi o uccida un soldato americano'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/16/iran-30.000-dollari-a-chiunque-catturi-o-uccida-un-soldato-americano_bbce41ec-e76e-4c2f-9dc1-0deb54d8abef.html",
-     "data": "2026-08-16T10:19:34+00:00"
     }
    ]
   },
