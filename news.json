@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-17T15:45:46.317925+00:00",
+ "aggiornato": "2026-08-17T16:11:11.468455+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 79,5 punti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-795-punti_d9c54c41-7a17-4fda-9085-71d441059e28.html",
+     "data": "2026-08-17T16:04:32+00:00"
+    },
+    {
+     "titolo": "Borsa: Europa debole in chiusura, Parigi -0,66%, Londra -0,28%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-europa-debole-in-chiusura-parigi-066-londra-028_b4ce928a-3906-4a73-b42f-463291b680c3.html",
+     "data": "2026-08-17T16:02:36+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude poco variata, +0,01%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-milano-chiude-poco-variata-001_d4e765ec-c625-4db2-804e-31675467d4bf.html",
+     "data": "2026-08-17T15:46:33+00:00"
+    },
     {
      "titolo": "Borsa: L'Europa rallenta nel finale, stallo su Hormuz, Milano +0,05%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-leuropa-rallenta-nel-finale-stallo-su-hormuz-milano-005_168bb375-9694-4561-9260-05af08776dd4.html",
@@ -39,21 +54,6 @@
      "titolo": "Trump, 'sarebbe meglio se Israele non attaccasse Gaza'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/trump-sarebbe-meglio-se-israele-non-attaccasse-gaza_be2a1dc1-9804-40a1-a1d2-acab72533739.html",
      "data": "2026-08-17T13:27:33+00:00"
-    },
-    {
-     "titolo": "Lavitola dal carcere, 'l'attentato è stata una scelta solo mia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/lavitola-dal-carcere-lattentato-e-stata-una-scelta-solo-mia_08c6b17b-cd03-42d1-b796-319c4174d9ac.html",
-     "data": "2026-08-17T13:15:54+00:00"
-    },
-    {
-     "titolo": "Lavitola dal carcere, pentito per aver inguaiato mio fratello Ranucci",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/lavitola-dal-carcere-pentito-per-aver-inguaiato-mio-fratello-ranucci_8fab60fe-7b8c-4a1e-bb56-e219ddb12ff0.html",
-     "data": "2026-08-17T13:09:30+00:00"
-    },
-    {
-     "titolo": "Palio di Siena, nuovo rinvio per la pioggia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/-palio-di-siena-nuovo-rinvio-per-la-pioggia-_af092405-a568-438b-8bd1-67557a2d40d9.html",
-     "data": "2026-08-17T12:56:35+00:00"
     }
    ]
   },
@@ -91,9 +91,9 @@
      "data": "2026-08-17T14:20:04+00:00"
     },
     {
-     "titolo": "A suor madre Madre Maria Grazia Biscotti il riconoscimento Vinarelli",
+     "titolo": "A suor madre Maria Grazia Biscotti il riconoscimento Vinarelli",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/a-suor-madre-madre-maria-grazia-biscotti-il-riconoscimento-vinarelli_294e765b-2804-427c-8d68-1accaf3cfce0.html",
-     "data": "2026-08-17T09:24:24+00:00"
+     "data": "2026-08-17T15:56:08+00:00"
     },
     {
      "titolo": "Ipotesi alta velocità per incidente stradale a ridosso del centro di Terni",
@@ -211,6 +211,21 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 79,5 punti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-795-punti_a206fb74-acf5-44a9-a853-3cf8a1723b72.html",
+     "data": "2026-08-17T16:04:30+00:00"
+    },
+    {
+     "titolo": "Borsa: Europa debole in chiusura, Parigi -0,66%, Londra -0,28%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-europa-debole-in-chiusura-parigi-066-londra-028_b3c93ef3-68fe-41f0-91a3-57db8e1ea525.html",
+     "data": "2026-08-17T16:02:36+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude poco variata, +0,01%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-milano-chiude-poco-variata-001_f6943566-5ab6-4aa8-971b-d3994806fb09.html",
+     "data": "2026-08-17T15:46:36+00:00"
+    },
+    {
      "titolo": "Borsa: L'Europa rallenta nel finale, stallo su Hormuz, Milano +0,05%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-leuropa-rallenta-nel-finale-stallo-su-hormuz-milano-005_752de362-963f-4c4e-8855-f026e6298053.html",
      "data": "2026-08-17T15:29:29+00:00"
@@ -254,21 +269,6 @@
      "titolo": "Bce, probabile correzione boom Ia, famiglie europee esposte per 440 miliardi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/bce-probabile-correzione-boom-ia-famiglie-europee-esposte-per-440-miliardi_aabc6fb2-1ece-4e26-83a4-b0861a878b87.html",
      "data": "2026-08-17T12:14:30+00:00"
-    },
-    {
-     "titolo": "Vendemmia parte bene, ma serbatoi cantine ancora pieni di giacenze",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/vendemmia-parte-bene-ma-serbatoi-cantine-ancora-pieni-di-giacenze_51710a3f-2fc7-466b-af94-bfbed1bbbba4.html",
-     "data": "2026-08-17T13:24:27+00:00"
-    },
-    {
-     "titolo": "Virgin più vicina al lancio dei treni rivali dell'Eurostar nel 2030",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/virgin-piu-vicina-al-lancio-dei-treni-rivali-delleurostar-nel-2030_a056100c-8909-4c8d-9c7f-bf011f96501f.html",
-     "data": "2026-08-17T12:15:45+00:00"
-    },
-    {
-     "titolo": "Stellantis, a Cassino stop alla produzione fino al 31 agosto",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/stellantis-a-cassino-stop-alla-produzione-fino-al-31-agosto_be6c1210-64e2-4a02-bac0-d62717a36268.html",
-     "data": "2026-08-17T11:39:16+00:00"
     }
    ]
   },
@@ -406,6 +406,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Juve: John Elkann è arrivato allo Stadium",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/juve-john-elkann-e-arrivato-allo-stadium_21bf47d2-f9a4-4302-9fde-00e9f33591bd.html",
+     "data": "2026-08-17T15:59:56+00:00"
+    },
+    {
+     "titolo": "Scelte le 14 azzurre per gli Europei, domani volano in Svezia",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/17/scelte-le-14-azzurre-per-gli-europei-domani-volano-in-svezia_9ec5cdf7-52bc-4c3e-8fa9-31f563a940aa.html",
+     "data": "2026-08-17T15:49:53+00:00"
+    },
+    {
      "titolo": "Juve, Vicario è atterrato all'aeroporto di Torino Caselle",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/juve-vicario-e-atterrato-allaeroporto-di-torino-caselle_0c789a13-d3b2-4ebd-80f9-d98e03204783.html",
      "data": "2026-08-17T15:32:50+00:00"
@@ -454,16 +464,6 @@
      "titolo": "Ginnastica: Facci, \"body shaming indecente su Esposito, fermate gli haters\"",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/ginnastica-facci-body-shaming-indecente-su-esposito-fermate-gli-haters_20e53f85-4bcb-4a45-b638-13513ed25351.html",
      "data": "2026-08-17T13:18:34+00:00"
-    },
-    {
-     "titolo": "Calcio: l'Atalanta saluta Djimsiti, 'grazie di cuore'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/calcio-latalanta-saluta-djimsiti-grazie-di-cuore_ccebe0f2-f9d5-453e-9873-1f5a4c6bedf4.html",
-     "data": "2026-08-17T11:37:23+00:00"
-    },
-    {
-     "titolo": "Calcio: Locatelli, 'Spalletti ha mentalità vincente, perfetto per la Juve'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/calcio-locatelli-spalletti-ha-mentalita-vincente-perfetto-per-la-juve_54eb0dc6-0123-42f8-8b84-1478228215eb.html",
-     "data": "2026-08-17T11:35:05+00:00"
     }
    ]
   }
