@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-17T17:14:41.352521+00:00",
+ "aggiornato": "2026-08-17T17:50:18.955712+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Vento e caldo spingono i roghi, in Abruzzo arriva l'Esercito",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/vento-e-caldo-spingono-i-roghi-in-abruzzo-arriva-lesercito_3007514d-f2ba-4478-b592-22f61bd48e23.html",
+     "data": "2026-08-17T17:40:49+00:00"
+    },
+    {
      "titolo": "Donna uccisa nel Cosentino, forse domani l'udienza di convalida a Bari",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/donna-uccisa-nel-cosentino-forse-domani-ludienza-di-convalida-a-bari_d915176e-13f7-4c2b-bebc-80936849c71c.html",
      "data": "2026-08-17T17:03:33+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Allerta temporali, due turisti uccisi da fulmini in un giorno",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/allerta-temporali-due-turisti-uccisi-da-fulmini-in-un-giorno_fea0b2dc-2e29-4c81-9595-7ac085073a70.html",
      "data": "2026-08-17T14:53:43+00:00"
-    },
-    {
-     "titolo": "Droni con la termocamera per la caccia al lupo nel Barese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/droni-con-la-termocamera-per-la-caccia-al-lupo-nel-barese_0eaf6a80-b96c-4501-a262-18d16fb3b8bb.html",
-     "data": "2026-08-17T13:36:08+00:00"
     }
    ]
   },
@@ -286,6 +286,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump minaccia di bombardare l'Oman, 'non si metta in mezzo su Hormuz'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/trump-minaccia-di-bombardare-loman-non-si-metta-in-mezzo-su-hormuz_d676cade-ae69-4b4d-8884-8806722f1f9e.html",
+     "data": "2026-08-17T17:31:38+00:00"
+    },
+    {
      "titolo": "Media, 'Netanyahu a Kushner, serietà Piano con consegna armi. Nessuno Stato Palestina'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/media-netanyahu-a-kushner-serieta-piano-con-consegna-armi.-nessuno-stato_5fa8e5f2-d330-46d0-a063-49f69818ccd4.html",
      "data": "2026-08-17T14:36:13+00:00"
@@ -339,11 +344,6 @@
      "titolo": "Carlo e William rischiano stangata da 10 milioni per l'adeguamento energetico",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/carlo-e-william-rischiano-stangata-da-10-milioni-per-ladeguamento-energetico_770a1dc9-d560-4896-93ac-00b1d6d09502.html",
      "data": "2026-08-17T10:06:07+00:00"
-    },
-    {
-     "titolo": "Netanyahu indica sindaco New York come nemico di Israele, con Mojtaba, Erdogan e Qassem",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/netanyahu-indica-sindaco-new-york-come-nemico-di-israele-con-mojtaba_273bf006-b0be-4f95-a057-31fd1dce6962.html",
-     "data": "2026-08-17T09:06:00+00:00"
     }
    ]
   },
@@ -416,6 +416,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Cobolli agli ottavi a Cincinnati, battuto Blockx in tre set",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/17/cobolli-agli-ottavi-a-cincinnati-battuto-blockx-in-tre-set_e110d611-43fd-4de2-8ed9-0c4ef684068d.html",
+     "data": "2026-08-17T17:44:46+00:00"
+    },
+    {
+     "titolo": "Cricket: l'Italia avanza nelle qualificazioni ai Mondiali 2027",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/cricket-litalia-avanza-nelle-qualificazioni-ai-mondiali-2027_3eef36d0-75fc-4841-9901-6aa65b767bab.html",
+     "data": "2026-08-17T17:41:48+00:00"
+    },
+    {
+     "titolo": "Juve: tifosi Juve in campo, si chiude dopo un tempo la partitella allo Stadium",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/juve-tifosi-juve-in-campo-si-chiude-dopo-un-tempo-la-partitella-allo-stadium_404b514e-79c4-48ac-b28e-4220987d6a42.html",
+     "data": "2026-08-17T17:30:24+00:00"
+    },
+    {
+     "titolo": "Elkann, 'la Juve ha l'ambizione di vincere, stiamo costruendo'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/elkann-la-juve-ha-lambizione-di-vincere-stiamo-costruendo_4868b67e-5de6-4d05-ad33-329e19c0a057.html",
+     "data": "2026-08-17T17:15:42+00:00"
+    },
+    {
      "titolo": "Bologna: ceduto Dallinga al Colonia",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/bologna-ceduto-dallinga-al-colonia_65abdc07-1e7d-4102-9fe8-ff2e5d19498b.html",
      "data": "2026-08-17T16:50:36+00:00"
@@ -454,26 +474,6 @@
      "titolo": "Lazio già fuori dalla Coppa Italia, Gattuso falsa partenza",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/lazio-gia-fuori-dalla-coppa-italia-gattuso-falsa-partenza_1b28e725-bfc4-416d-a6f2-61d32feb3027.html",
      "data": "2026-08-17T16:25:40+00:00"
-    },
-    {
-     "titolo": "Atletica: Battocletti correrà i 1500 metri al Palio della Quercia",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/atletica-battocletti-correra-i-1500-metri-al-palio-della-quercia_5747d139-6b51-4729-a274-cd30a5c6d507.html",
-     "data": "2026-08-17T15:02:45+00:00"
-    },
-    {
-     "titolo": "Nuoto e atletica: l'Italia che vince, 'investite sui giovani'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/17/nuoto-e-atletica-litalia-che-vince-investite-sui-giovani_b9fcc73b-7c4e-4bec-a106-6353ebc489f1.html",
-     "data": "2026-08-17T16:19:31+00:00"
-    },
-    {
-     "titolo": "Calcio: Milan piomba su Diego Moreira, vicino accordo con Strasburgo",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/calcio-milan-piomba-su-diego-moreira-vicino-accordo-con-strasburgo_fefc51a1-9cf4-41d0-9002-ff60fd6e3016.html",
-     "data": "2026-08-17T14:32:59+00:00"
-    },
-    {
-     "titolo": "Giochi Mediterraneo: operativi i due maxischermi allo stadio 'Iacovone'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/giochi-mediterraneo-operativi-i-due-maxischermi-allo-stadio-iacovone_a7197a5c-e3ed-4e07-bc4b-8bf4498afe05.html",
-     "data": "2026-08-17T14:27:10+00:00"
     }
    ]
   }
