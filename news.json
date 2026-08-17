@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-17T16:11:11.468455+00:00",
+ "aggiornato": "2026-08-17T16:50:47.676551+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Milano chiude invariata (+0,01%), sprint di Stm e Prysmian",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-milano-chiude-invariata-001-sprint-di-stm-e-prysmian_5735b1cc-9b30-4891-b36d-e1a2fc66ce28.html",
+     "data": "2026-08-17T16:38:06+00:00"
+    },
+    {
+     "titolo": "Ferito in strada a Roma, muore in ospedale un 24enne++",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/ferito-in-strada-a-roma-muore-in-ospedale-un-24enne_fd27af3d-ae8b-432f-b397-90de9225174d.html",
+     "data": "2026-08-17T16:20:07+00:00"
+    },
     {
      "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 79,5 punti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-795-punti_d9c54c41-7a17-4fda-9085-71d441059e28.html",
@@ -44,22 +54,22 @@
      "titolo": "Wall Street apre contrastata, Dj a -0,22% e Nadaq a +0,23%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/wall-street-apre-contrastata-dj-a-022-e-nadaq-a-023_40db5f0a-a004-43a3-b8df-ea64688ac599.html",
      "data": "2026-08-17T13:38:15+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano tiene (+0,2%), bene Stm e Prysmian, giù Fincantieri",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-milano-tiene-02-bene-stm-e-prysmian-giu-fincantieri_1ba9f6ad-4bba-41ce-b616-4751f9bbe989.html",
-     "data": "2026-08-17T13:33:40+00:00"
-    },
-    {
-     "titolo": "Trump, 'sarebbe meglio se Israele non attaccasse Gaza'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/trump-sarebbe-meglio-se-israele-non-attaccasse-gaza_be2a1dc1-9804-40a1-a1d2-acab72533739.html",
-     "data": "2026-08-17T13:27:33+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Garante detenuti Umbria, trasformare le carceri in 'comunità di reclusione'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/17/garante-detenuti-umbria-trasformare-le-carceri-in-comunita-di-reclusione_ba60ce05-08d9-4eec-9902-27a25707149a.html",
+     "data": "2026-08-17T16:31:33+00:00"
+    },
+    {
+     "titolo": "Diversi interventi dei vigili del fuoco per il maltempo in provincia di Terni",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/17/diversi-interventi-dei-vigili-del-fuoco-per-il-maltempo-in-provincia-di-terni_63ed364e-3907-4170-b482-1f7ea24efb67.html",
+     "data": "2026-08-17T16:17:30+00:00"
+    },
     {
      "titolo": "Rissa durante una partita di calcio dilettantistico, 4 Daspo",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/rissa-durante-una-partita-di-calcio-dilettantistico-4-daspo_1b4cd7b7-5312-4261-aa63-89e54cbd763a.html",
@@ -83,7 +93,7 @@
     {
      "titolo": "Ulderico Pesce protagonista al Calvi Festival con due spettacoli",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/ulderico-pesce-protagonista-al-calvi-festival-con-due-spettacoli_f5c0e128-1897-4be2-a6db-41f4f848b3a2.html",
-     "data": "2026-08-17T12:32:41+00:00"
+     "data": "2026-08-17T16:16:44+00:00"
     },
     {
      "titolo": "Cura e restauro al centro di 'Scultori a Brufa, la Strada del Vino e dell'Arte'",
@@ -109,22 +119,32 @@
      "titolo": "Fondi per l'Aucc raccolto dalla 16/a edizione di 'Stregati dalla luna'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/16/fondi-per-laucc-raccolto-dalla-16a-edizione-di-stregati-dalla-luna_ce8809c0-d300-46a6-bfaa-8d79db643c98.html",
      "data": "2026-08-16T16:57:59+00:00"
-    },
-    {
-     "titolo": "Scontro tra quattro auto a ridosso del centro di Terni, una fuori strada",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/16/scontro-tra-quattro-auto-a-ridosso-del-centro-di-terni-una-fuori_431eb41e-4500-4bef-b876-5bbe6b1828dc.html",
-     "data": "2026-08-16T18:52:02+00:00"
-    },
-    {
-     "titolo": "Rottura per l'adduttrice idrica 'Scirca' nel comune di Gubbio",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/16/rottura-per-ladduttrice-idrica-scirca-nel-comune-di-gubbio_111b2d74-c08f-4c6b-9969-99a09ff38fb2.html",
-     "data": "2026-08-16T13:45:04+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Scontro frontale tra auto e moto nell'Astigiano, gravissimo un 16enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/scontro-frontale-tra-auto-e-moto-nellastigiano-gravissimo-un-16enne_003a6647-c1b6-47a1-a550-37386f2d9ab8.html",
+     "data": "2026-08-17T16:44:14+00:00"
+    },
+    {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-08-17T16:40:32+00:00"
+    },
+    {
+     "titolo": "Ferito in strada a Roma, muore in ospedale un 24enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ferito-in-strada-a-roma-muore-in-ospedale-un-24enne_a80e752f-d65d-4b8f-b0ce-08bf422e6401.html",
+     "data": "2026-08-17T16:19:47+00:00"
+    },
+    {
+     "titolo": "Ferito in strada a Roma, muore in ospedale un 24enne++",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ferito-in-strada-a-roma-muore-in-ospedale-un-24enne_21a3e902-9282-4f23-a4fd-be62c165b980.html",
+     "data": "2026-08-17T16:20:27+00:00"
+    },
     {
      "titolo": "Esplosione a Colleferro, Crosetto 'risulta causata da un problema interno'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/esplosione-a-colleferro-crosetto-risulta-causata-da-un-problema-interno_3b14bb0a-aae0-41d5-906e-57b6522c691f.html",
@@ -164,26 +184,6 @@
      "titolo": "Lavitola parla da Rebibbia: 'Pentito per aver inguaiato mio fratello Ranucci'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/il-legale-di-lavitola-e-pentito-per-aver-inguaiato-mio-fratello-ranucci_9c7536df-5f02-4bfa-8560-91b200f8cb99.html",
      "data": "2026-08-17T13:25:38+00:00"
-    },
-    {
-     "titolo": "Lavitola dal carcere, pentito per aver inguaiato mio fratello Ranucci",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/lavitola-dal-carcere-pentito-per-aver-inguaiato-mio-fratello-ranucci_781e0fbc-fd7c-4922-976d-ab026494a440.html",
-     "data": "2026-08-17T13:09:38+00:00"
-    },
-    {
-     "titolo": "Ragazza sul sup travolta e ferita da una barca di migranti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ragazza-sul-sup-travolta-e-ferita-da-una-barca-di-migranti_0268d874-29fd-42c8-8ddf-69fc2403eba1.html",
-     "data": "2026-08-17T12:53:07+00:00"
-    },
-    {
-     "titolo": "Nuovo rinvio per la pioggia, slitta ancora il Palio di Siena",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/-palio-di-siena-nuovo-rinvio-per-la-pioggia-_c8ae8e8e-6419-4b16-b95d-9481d6529c0c.html",
-     "data": "2026-08-17T13:03:54+00:00"
-    },
-    {
-     "titolo": "Indagato per tentato omicidio agente che ha sparato a fuggitivo a Prato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/indagato-per-tentato-omicidio-agente-che-ha-sparato-a-fuggitivo-a-prato_98c3464e-9a26-49ac-9b98-e15f4e4da1e6.html",
-     "data": "2026-08-17T12:11:17+00:00"
     }
    ]
   },
@@ -191,25 +191,25 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Fossi (Pd), pdl per il congelamento degli ovociti sul modello toscano",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/17/fossi-pd-pdl-per-il-congelamento-degli-ovociti-sul-modello-toscano_b89cb1a7-7758-45f1-aa87-6772b0d1c8c8.html",
+     "data": "2026-08-17T16:42:13+00:00"
+    },
+    {
      "titolo": "Ministro Piantedosi dona il sangue a Pietrastornina, suo paese d'origine",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/17/ministro-piantedosi-dona-il-sangue-a-pietrastornina-suo-paese-dorigine_d042aeaa-a9d4-4a7c-bdc6-5171c22fcf52.html",
      "data": "2026-08-17T11:49:47+00:00"
-    },
-    {
-     "titolo": "Legge elettorale e Rai, da settembre lo sprint delle Camere",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/16/legge-elettorale-e-rai-da-settembre-lo-sprint-delle-camere_90daf4e6-8acb-4b09-bf63-f18f88a90ff2.html",
-     "data": "2026-08-16T15:10:29+00:00"
-    },
-    {
-     "titolo": "Pm Venezia chiede di archiviare indagine sulla caccia di Trump Jr in Laguna",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/16/pm-venezia-chiede-di-archiviare-indagine-sulla-caccia-di-trump-jr-in-laguna_ba9ecd85-ca2e-47c6-bcd4-d3208c0d495a.html",
-     "data": "2026-08-16T13:11:46+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: Milano chiude invariata (+0,01%), sprint di Stm e Prysmian",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-milano-chiude-invariata-001-sprint-di-stm-e-prysmian_4f016dc7-7f55-4d40-ae71-b56678dbe430.html",
+     "data": "2026-08-17T16:38:25+00:00"
+    },
     {
      "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 79,5 punti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-795-punti_a206fb74-acf5-44a9-a853-3cf8a1723b72.html",
@@ -264,11 +264,6 @@
      "titolo": "Gas, i contratti future sul mese di settembre cedono lo 0,34% a 61,22 euro al MWh",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/gas-i-contratti-future-sul-mese-di-settembre-cedono-lo-034-a-6122-euro_7fb5652f-8498-4ea9-8880-b71f0838307b.html",
      "data": "2026-08-17T12:20:33+00:00"
-    },
-    {
-     "titolo": "Bce, probabile correzione boom Ia, famiglie europee esposte per 440 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/bce-probabile-correzione-boom-ia-famiglie-europee-esposte-per-440-miliardi_aabc6fb2-1ece-4e26-83a4-b0861a878b87.html",
-     "data": "2026-08-17T12:14:30+00:00"
     }
    ]
   },
@@ -406,6 +401,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: per il Napoli si muove il mercato in entrata, domani è il giorno di Favasuli",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/calcio-per-il-napoli-si-muove-il-mercato-in-entrata-domani-e-il-giorno-di-favasuli_ca4026ac-61a9-4ef6-be0c-47ae75c27694.html",
+     "data": "2026-08-17T16:26:43+00:00"
+    },
+    {
+     "titolo": "Inter verso il Monza, Chivu vuole ancora completare il puzzle",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/inter-verso-il-monza-chivu-vuole-ancora-completare-il-puzzle_eed58e30-db45-49d9-bb66-d634ebdf1180.html",
+     "data": "2026-08-17T16:27:39+00:00"
+    },
+    {
      "titolo": "Juve: John Elkann è arrivato allo Stadium",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/juve-john-elkann-e-arrivato-allo-stadium_21bf47d2-f9a4-4302-9fde-00e9f33591bd.html",
      "data": "2026-08-17T15:59:56+00:00"
@@ -426,9 +431,19 @@
      "data": "2026-08-17T15:19:37+00:00"
     },
     {
+     "titolo": "Lazio già fuori dalla Coppa Italia, Gattuso falsa partenza",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/lazio-gia-fuori-dalla-coppa-italia-gattuso-falsa-partenza_1b28e725-bfc4-416d-a6f2-61d32feb3027.html",
+     "data": "2026-08-17T16:25:40+00:00"
+    },
+    {
      "titolo": "Atletica: Battocletti correrà i 1500 metri al Palio della Quercia",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/atletica-battocletti-correra-i-1500-metri-al-palio-della-quercia_5747d139-6b51-4729-a274-cd30a5c6d507.html",
      "data": "2026-08-17T15:02:45+00:00"
+    },
+    {
+     "titolo": "Nuoto e atletica: l'Italia che vince, 'investite sui giovani'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/17/nuoto-e-atletica-litalia-che-vince-investite-sui-giovani_b9fcc73b-7c4e-4bec-a106-6353ebc489f1.html",
+     "data": "2026-08-17T16:19:31+00:00"
     },
     {
      "titolo": "Calcio: Milan piomba su Diego Moreira, vicino accordo con Strasburgo",
@@ -444,26 +459,6 @@
      "titolo": "Sinner, in programma nuovi controlli al J Medical",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/17/sinner-in-programma-nuovi-controlli-al-j-medical_788a4527-283a-4142-b939-387f3f3f604f.html",
      "data": "2026-08-17T13:58:36+00:00"
-    },
-    {
-     "titolo": "Atalanta: Kristensen, ho scelto squadra per il progetto e per Sarri",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/atalanta-kristensen-ho-scelto-squadra-per-il-progetto-e-per-sarri_a1246149-a0db-4f67-9a9b-5b33ff8b5e66.html",
-     "data": "2026-08-17T13:57:32+00:00"
-    },
-    {
-     "titolo": "Ginnastica: Esposito \"body shaming? Se vinco è anche grazie al mio fisico\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/ginnastica-esposito-body-shaming-se-vinco-e-anche-grazie-al-mio-fisico_891cb932-53df-4326-a913-7e8a24cc78c6.html",
-     "data": "2026-08-17T13:53:55+00:00"
-    },
-    {
-     "titolo": "Intercity treno ufficiale della Serie B, accordo Lega-Trenitalia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/intercity-treno-ufficiale-della-serie-b-accordo-lega-trenitalia_2dad32f8-9233-4cea-9ba3-a60c34e88940.html",
-     "data": "2026-08-17T13:24:13+00:00"
-    },
-    {
-     "titolo": "Ginnastica: Facci, \"body shaming indecente su Esposito, fermate gli haters\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/ginnastica-facci-body-shaming-indecente-su-esposito-fermate-gli-haters_20e53f85-4bcb-4a45-b638-13513ed25351.html",
-     "data": "2026-08-17T13:18:34+00:00"
     }
    ]
   }
