@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-17T16:50:47.676551+00:00",
+ "aggiornato": "2026-08-17T17:14:41.352521+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Donna uccisa nel Cosentino, forse domani l'udienza di convalida a Bari",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/donna-uccisa-nel-cosentino-forse-domani-ludienza-di-convalida-a-bari_d915176e-13f7-4c2b-bebc-80936849c71c.html",
+     "data": "2026-08-17T17:03:33+00:00"
+    },
+    {
+     "titolo": "Furto delle tele di Cezanne, Matisse e Renoir, tre fermati rispondono al Gip",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/furto-delle-tele-di-cezanne-matisse-e-renoir-tre-fermati-rispondono-al-gip_35389d7a-13a3-4a31-a2fe-8b40d6df9500.html",
+     "data": "2026-08-17T16:56:06+00:00"
+    },
+    {
      "titolo": "Scontro frontale tra auto e moto nell'Astigiano, gravissimo un 16enne",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/scontro-frontale-tra-auto-e-moto-nellastigiano-gravissimo-un-16enne_003a6647-c1b6-47a1-a550-37386f2d9ab8.html",
      "data": "2026-08-17T16:44:14+00:00"
@@ -134,6 +144,11 @@
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-08-17T16:40:32+00:00"
+    },
+    {
+     "titolo": "Violentata a Milano 'c'è un video del momento dell'abuso'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/violentata-a-milano-ce-un-video-del-momento-dellabuso_991caf36-1b6d-4e2d-ac3d-051b38a011ba.html",
+     "data": "2026-08-17T16:50:59+00:00"
     },
     {
      "titolo": "Ferito in strada a Roma, muore in ospedale un 24enne",
@@ -169,27 +184,27 @@
      "titolo": "Droni con la termocamera per la caccia al lupo nel Barese",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/droni-con-la-termocamera-per-la-caccia-al-lupo-nel-barese_0eaf6a80-b96c-4501-a262-18d16fb3b8bb.html",
      "data": "2026-08-17T13:36:08+00:00"
-    },
-    {
-     "titolo": "Maltempo, in Toscana 21 mila fulmini in 6 ore",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/maltempo-in-toscana-21-mila-fulmini-in-6-ore_850d0e83-8319-4a44-80e5-778a604d9397.html",
-     "data": "2026-08-17T13:28:31+00:00"
-    },
-    {
-     "titolo": "Lavitola dal carcere, 'l'attentato è stata una scelta solo mia'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/lavitola-dal-carcere-lattentato-e-stata-una-scelta-solo-mia_ceb0df5d-9c55-4737-8789-86dd1e22e952.html",
-     "data": "2026-08-17T13:15:56+00:00"
-    },
-    {
-     "titolo": "Lavitola parla da Rebibbia: 'Pentito per aver inguaiato mio fratello Ranucci'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/il-legale-di-lavitola-e-pentito-per-aver-inguaiato-mio-fratello-ranucci_9c7536df-5f02-4bfa-8560-91b200f8cb99.html",
-     "data": "2026-08-17T13:25:38+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Pd e Psoe contro Frederiksen, 'inaccettabile l'asse con Meloni su Ceuta'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/17/pd-e-psoe-contro-frederiksen-inaccettabile-lasse-con-meloni-su-ceuta_71b05907-92e7-4a00-b392-2a71422e40a4.html",
+     "data": "2026-08-17T17:00:50+00:00"
+    },
+    {
+     "titolo": "Calenda, 'il governo riferisca su possibile attacco ibrido russo a Colleferro'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/17/calenda-il-governo-riferisca-su-possibile-attacco-ibrido-russo-a-colleferro_c6b0c8f6-e4fb-41ea-a095-e6a381af036f.html",
+     "data": "2026-08-17T16:50:15+00:00"
+    },
+    {
+     "titolo": "Nella chat del federale della Lega Fontana nel mirino, 'basta polemiche'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/17/nella-chat-del-federale-della-lega-fontana-nel-mirino-basta_5a985324-ae1e-4736-b384-92fe8b47f121.html",
+     "data": "2026-08-17T16:50:35+00:00"
+    },
     {
      "titolo": "Fossi (Pd), pdl per il congelamento degli ovociti sul modello toscano",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/17/fossi-pd-pdl-per-il-congelamento-degli-ovociti-sul-modello-toscano_b89cb1a7-7758-45f1-aa87-6772b0d1c8c8.html",
@@ -401,6 +416,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Bologna: ceduto Dallinga al Colonia",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/bologna-ceduto-dallinga-al-colonia_65abdc07-1e7d-4102-9fe8-ff2e5d19498b.html",
+     "data": "2026-08-17T16:50:36+00:00"
+    },
+    {
      "titolo": "Calcio: per il Napoli si muove il mercato in entrata, domani è il giorno di Favasuli",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/calcio-per-il-napoli-si-muove-il-mercato-in-entrata-domani-e-il-giorno-di-favasuli_ca4026ac-61a9-4ef6-be0c-47ae75c27694.html",
      "data": "2026-08-17T16:26:43+00:00"
@@ -454,11 +474,6 @@
      "titolo": "Giochi Mediterraneo: operativi i due maxischermi allo stadio 'Iacovone'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/giochi-mediterraneo-operativi-i-due-maxischermi-allo-stadio-iacovone_a7197a5c-e3ed-4e07-bc4b-8bf4498afe05.html",
      "data": "2026-08-17T14:27:10+00:00"
-    },
-    {
-     "titolo": "Sinner, in programma nuovi controlli al J Medical",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/17/sinner-in-programma-nuovi-controlli-al-j-medical_788a4527-283a-4142-b939-387f3f3f604f.html",
-     "data": "2026-08-17T13:58:36+00:00"
     }
    ]
   }
