@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-08-17T12:15:09.153762+00:00",
+ "aggiornato": "2026-08-17T13:12:08.097395+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Palio di Siena, nuovo rinvio per la pioggia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/-palio-di-siena-nuovo-rinvio-per-la-pioggia-_af092405-a568-438b-8bd1-67557a2d40d9.html",
+     "data": "2026-08-17T12:56:35+00:00"
+    },
+    {
+     "titolo": "Gas, i contratti future sul mese di settembre cedono lo 0,34% a 61,22 euro al MWh",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/gas-i-contratti-future-sul-mese-di-settembre-cedono-lo-034-a-6122-euro_b64bba01-da17-441e-be11-c942ce4d5104.html",
+     "data": "2026-08-17T12:56:45+00:00"
+    },
+    {
+     "titolo": "Indagato per tentato omicidio agente che ha sparato a fuggitivo a Prato",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/indagato-per-tentato-omicidio-agente-che-ha-sparato-a-fuggitivo-a-prato_f6000995-23ee-448d-b864-3777b400e1b5.html",
+     "data": "2026-08-17T12:11:19+00:00"
+    },
+    {
+     "titolo": "Teheran, 'con l'Oman su Hormuz raggiunto accordo su mappa dei percorsi'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/teheran-con-loman-su-hormuz-raggiunto-accordo-su-mappa-dei-percorsi_e6a37889-dafd-4101-9c81-7e1f28ec4b6d.html",
+     "data": "2026-08-17T12:11:27+00:00"
+    },
+    {
+     "titolo": "Trump, 'bombarderemo l'Oman se si mette in mezzo su Hormuz'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/trump-bombarderemo-loman-se-si-mette-in-mezzo-su-hormuz_b16c1e33-37a5-4cbc-a250-a6b056546327.html",
+     "data": "2026-08-17T12:09:49+00:00"
+    },
     {
      "titolo": "Bce, probabile correzione boom Ia, famiglie europee esposte per 440 miliardi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/bce-probabile-correzione-boom-ia-famiglie-europee-esposte-per-440-miliardi_66f6b43a-af99-42a5-ac2d-669e8f06a63e.html",
@@ -29,37 +54,22 @@
      "titolo": "Difensore Lavitola, non vuole ritrattare ma puntualizzare",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/difensore-lavitola-non-vuole-ritrattare-ma-puntualizzare_2ec8d0a8-65e9-47a9-8b11-885fb2c7efd7.html",
      "data": "2026-08-17T11:19:06+00:00"
-    },
-    {
-     "titolo": "La Commissione Ue adotta la nota sulla flessibilità per sicurezza energetica",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/la-commissione-ue-adotta-la-nota-sulla-flessibilita-per-sicurezza-energetica_3e432bbb-cd5d-43dd-9497-4832e46005e3.html",
-     "data": "2026-08-17T10:55:15+00:00"
-    },
-    {
-     "titolo": "Odissea torna in vetta, scende al secondo posto Spider-man",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/odissea-torna-in-vetta-scende-al-secondo-posto-spider-man_cba1efab-eb0f-4974-851d-2057ed4bc579.html",
-     "data": "2026-08-17T10:11:52+00:00"
-    },
-    {
-     "titolo": "Ipotesi di vendita della quota di Berlino in Commerz a Unicredit",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/ipotesi-di-vendita-della-quota-di-berlino-in-commerz-a-unicredit_0fe68773-a02c-4e43-b5b6-b2b52db7cff0.html",
-     "data": "2026-08-17T10:01:02+00:00"
-    },
-    {
-     "titolo": "Netanyahu indica sindaco New York come nemico di Israele, con Mojtaba, Erdogan e Qassem",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/netanyahu-indica-sindaco-new-york-come-nemico-di-israele-con-mojtaba_57a86140-0c8d-4423-8ef8-84b528375bee.html",
-     "data": "2026-08-17T09:06:03+00:00"
-    },
-    {
-     "titolo": "In Usa i super-ricchi pagano più tasse, dall'1% 38,4% dell'imposta federale su reddito",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/in-usa-i-super-ricchi-pagano-piu-tasse-dall1-384-dellimposta-federale_ecd9b63d-a0a5-4c77-b34e-35620b7353a7.html",
-     "data": "2026-08-17T09:01:21+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Opposizione sui flussi turistici, l'Umbria unica regione in calo",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/17/opposizione-sui-flussi-turistici-lumbria-unica-regione-in-calo_bec63b36-195d-4a69-bd79-b5b479ee0cd7.html",
+     "data": "2026-08-17T12:45:27+00:00"
+    },
+    {
+     "titolo": "Ulderico Pesce protagonista al Calvi Festival con due spettacoli",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/17/ulderico-pesce-protagonista-al-calvi-festival-con-due-spettacoli_f5c0e128-1897-4be2-a6db-41f4f848b3a2.html",
+     "data": "2026-08-17T12:32:41+00:00"
+    },
     {
      "titolo": "Cura e restauro al centro di 'Scultori a Brufa, la Strada del Vino e dell'Arte'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/cura-e-restauro-al-centro-di-scultori-a-brufa-la-strada-del-vino-e-dellarte_98472b0f-a673-495f-aab7-43cd22037fee.html",
@@ -109,16 +119,6 @@
      "titolo": "Ferragosto con la Protezione civile per la presidente Proietti",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/15/ferragosto-con-la-protezione-civile-per-la-presidente-proietti_0313d671-0cf0-44d8-971c-5ebefb0e4ace.html",
      "data": "2026-08-15T17:27:10+00:00"
-    },
-    {
-     "titolo": "A Ferragosto i carabinieri portano brioche e caffè ai volontari di un canile",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/15/a-ferragosto-i-carabinieri-portano-brioche-e-caffe-ai-volontari-di-un-canile_4fff24d2-b2fe-4176-9096-d20231dc137f.html",
-     "data": "2026-08-15T16:44:45+00:00"
-    },
-    {
-     "titolo": "Allerta gialla per il rischio temporali domenica 16 agosto su tutta l'Umbria",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/15/allerta-gialla-per-il-rischio-temporali-domenica-16-agosto-su-tutta-lumbria_b24b331b-ef25-49d6-8675-bc7c0455f2ae.html",
-     "data": "2026-08-15T14:58:24+00:00"
     }
    ]
   },
@@ -126,9 +126,24 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Ragazza sul sup travolta e ferita da una barca di migranti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ragazza-sul-sup-travolta-e-ferita-da-una-barca-di-migranti_0268d874-29fd-42c8-8ddf-69fc2403eba1.html",
+     "data": "2026-08-17T12:53:07+00:00"
+    },
+    {
+     "titolo": "Nuovo rinvio per la pioggia, slitta ancora il Palio di Siena",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/-palio-di-siena-nuovo-rinvio-per-la-pioggia-_c8ae8e8e-6419-4b16-b95d-9481d6529c0c.html",
+     "data": "2026-08-17T13:03:54+00:00"
+    },
+    {
      "titolo": "Indagato per tentato omicidio agente che ha sparato a fuggitivo a Prato",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/indagato-per-tentato-omicidio-agente-che-ha-sparato-a-fuggitivo-a-prato_98c3464e-9a26-49ac-9b98-e15f4e4da1e6.html",
      "data": "2026-08-17T12:11:17+00:00"
+    },
+    {
+     "titolo": "La nave Ocean Viking soccorre 55 migranti in zona sar maltese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/la-nave-ocean-viking-soccorre-55-migranti-in-zona-sar-maltese_ca62f807-2805-40fb-b648-27f2c8917c70.html",
+     "data": "2026-08-17T12:14:04+00:00"
     },
     {
      "titolo": "Crolla balcone, donna in ospedale in gravi condizioni",
@@ -158,7 +173,7 @@
     {
      "titolo": "Una nave di Emergency soccorre un'imbarcazione, 7 migranti morti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/una-nave-di-emergency-soccorre-unimbarcazione-7-migranti-morti-_34e43a4d-1cb9-44cf-8cdc-2c87ae1b1aed.html",
-     "data": "2026-08-17T12:06:52+00:00"
+     "data": "2026-08-17T12:15:40+00:00"
     },
     {
      "titolo": "Difensore Lavitola, non vuole ritrattare ma puntualizzare",
@@ -169,21 +184,6 @@
      "titolo": "Nuovo avvistamento del lupo in Puglia, nel comune di Cellamare",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/nuovo-avvistamento-del-lupo-in-puglia-nel-comune-di-cellamare_26fe6410-4e52-41a8-bd19-d7de9464ba4d.html",
      "data": "2026-08-17T11:06:03+00:00"
-    },
-    {
-     "titolo": "Condizioni stabili per il 21enne aggredito a Barcellona",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/aggredito-a-barcellona-notte-tranquilla-per-nicola-maggiotto_8115f891-a538-41d5-91bb-189b0d557a56.html",
-     "data": "2026-08-17T10:55:33+00:00"
-    },
-    {
-     "titolo": "La fortuna bacia Cava de' Tirreni, vinto premio da 1 milione di euro",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/la-fortuna-bacia-cava-de-tirreni-vinto-premio-da-1-milione-di-euro_9416f644-0e1f-45af-bb25-334e825c716d.html",
-     "data": "2026-08-17T10:51:03+00:00"
-    },
-    {
-     "titolo": "Ucciso da auto nel Pisano, caccia al pirata della strada",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ucciso-da-auto-nel-pisano-caccia-al-pirata-della-strada_a1fd34af-81d1-4f76-81a5-fe8c180a4f08.html",
-     "data": "2026-08-17T10:34:49+00:00"
     }
    ]
   },
@@ -211,9 +211,19 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Uil, in Lombardia un morto sul lavoro ogni 2,4 giorni da gennaio",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/uil-in-lombardia-un-morto-sul-lavoro-ogni-24-giorni-da-gennaio_d95f0ad8-60f4-4ce6-863e-ea5a95ea7e55.html",
+     "data": "2026-08-17T12:37:02+00:00"
+    },
+    {
+     "titolo": "Gas, i contratti future sul mese di settembre cedono lo 0,34% a 61,22 euro al MWh",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/gas-i-contratti-future-sul-mese-di-settembre-cedono-lo-034-a-6122-euro_7fb5652f-8498-4ea9-8880-b71f0838307b.html",
+     "data": "2026-08-17T12:20:33+00:00"
+    },
+    {
      "titolo": "Bce, probabile correzione boom Ia, famiglie europee esposte per 440 miliardi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/bce-probabile-correzione-boom-ia-famiglie-europee-esposte-per-440-miliardi_aabc6fb2-1ece-4e26-83a4-b0861a878b87.html",
-     "data": "2026-08-17T11:59:02+00:00"
+     "data": "2026-08-17T12:14:30+00:00"
     },
     {
      "titolo": "Vendemmia parte bene, ma serbatoi cantine ancora pieni di giacenze",
@@ -223,7 +233,7 @@
     {
      "titolo": "Virgin più vicina al lancio dei treni rivali dell'Eurostar nel 2030",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/virgin-piu-vicina-al-lancio-dei-treni-rivali-delleurostar-nel-2030_a056100c-8909-4c8d-9c7f-bf011f96501f.html",
-     "data": "2026-08-17T11:40:15+00:00"
+     "data": "2026-08-17T12:15:45+00:00"
     },
     {
      "titolo": "Stellantis, a Cassino stop alla produzione fino al 31 agosto",
@@ -259,22 +269,27 @@
      "titolo": "Ipotesi di vendita della quota di Berlino in Commerz a Unicredit",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/ipotesi-di-vendita-della-quota-di-berlino-in-commerz-a-unicredit_5f5cc266-651d-45c2-9d55-6ed76dec74e2.html",
      "data": "2026-08-17T10:04:31+00:00"
-    },
-    {
-     "titolo": "Eurostat, nell'Ue registrazioni di imprese in calo e fallimenti in aumento",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/eurostat-nellue-registrazioni-in-calo-e-fallimenti-in-aumento_3303a564-415c-4ecc-a8ec-108fe9140c4f.html",
-     "data": "2026-08-17T10:05:01+00:00"
-    },
-    {
-     "titolo": "Eni e Sonatrach ampliano la collaborazione per ridurre le emissioni in Algeria",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/eni-e-sonatrach-ampliano-la-collaborazione-per-ridurre-le-emissioni-in-algeria_322b070c-3903-471c-be21-7e88472b443a.html",
-     "data": "2026-08-17T10:02:48+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Elezioni in Brasile, i sondaggi confermano il rallentamento di Lula",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/17/elezioni-in-brasile-i-sondaggi-confermano-il-rallentamento-di-lula_366164f0-3cd9-4eff-af55-f05f84d1051b.html",
+     "data": "2026-08-17T12:18:02+00:00"
+    },
+    {
+     "titolo": "Teheran, 'con l'Oman su Hormuz raggiunto accordo su mappa dei percorsi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/teheran-con-loman-su-hormuz-raggiunto-accordo-su-mappa-dei-percorsi_852a8dec-6e88-4698-9af9-34d405d86bb8.html",
+     "data": "2026-08-17T12:11:31+00:00"
+    },
+    {
+     "titolo": "Trump, 'bombarderemo l'Oman se si mette in mezzo su Hormuz'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/17/trump-bombarderemo-loman-se-si-mette-in-mezzo-su-hormuz_db265f2f-daf8-4cc4-b797-a05dd7c5d04c.html",
+     "data": "2026-08-17T12:10:08+00:00"
+    },
     {
      "titolo": "Media, Houthi lanciano cinque missili verso Bab al-Mandab",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/media-houthi-lanciano-cinque-missili-verso-bab-al-mandab_57995382-a0c7-49df-a26c-c7503094755b.html",
@@ -319,21 +334,6 @@
      "titolo": "L'epidemia di Ebola in Congo è la più letale nella storia del Paese",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/17/lepidemia-di-ebola-in-congo-e-la-piu-letale-nella-storia-del-paese_8138324b-f5d7-4fe1-8df6-5fbe96553aae.html",
      "data": "2026-08-17T08:15:51+00:00"
-    },
-    {
-     "titolo": "Leader Taiwan, nel 2027 spesa per la difesa record a 35,2 miliardi di dollari",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/17/leader-taiwan-nel-2027-spesa-per-la-difesa-record-a-352-miliardi_8fcbef09-1ee6-4157-9eb4-ac6f3d64886f.html",
-     "data": "2026-08-17T07:03:24+00:00"
-    },
-    {
-     "titolo": "Terremoto di magnitudo 5.6 colpisce l'Indonesia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/17/terremoto-di-magnitudo-5.6-colpisce-lindonesia_165059d7-276a-4303-98e7-f88e8c34b4dd.html",
-     "data": "2026-08-17T01:34:15+00:00"
-    },
-    {
-     "titolo": "La presidente del Messico, 'Senza sovranità non c'è benessere'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/17/la-presidente-del-messico-senza-sovranita-non-ce-benessere_94d1b19f-9b63-4f48-a757-3fd3ee144a06.html",
-     "data": "2026-08-17T00:42:16+00:00"
     }
    ]
   },
@@ -418,7 +418,7 @@
     {
      "titolo": "Iapichino: 'Momento d'oro per l'Italia, grata di essere parte della famiglia'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/iapichino-momento-doro-per-litalia-grata-di-essere-parte-della-famiglia_f35136d1-492b-42c5-abea-a779d134cc25.html",
-     "data": "2026-08-17T11:36:52+00:00"
+     "data": "2026-08-17T12:07:02+00:00"
     },
     {
      "titolo": "Vingegaard dopo la frattura alla clavicola, 'stagione finita'",
