@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-17T10:52:41.127657+00:00",
+ "aggiornato": "2026-08-17T11:13:20.875492+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "La Commissione Ue adotta la nota sulla flessibilità per sicurezza energetica",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/la-commissione-ue-adotta-la-nota-sulla-flessibilita-per-sicurezza-energetica_3e432bbb-cd5d-43dd-9497-4832e46005e3.html",
+     "data": "2026-08-17T10:55:15+00:00"
+    },
     {
      "titolo": "Odissea torna in vetta, scende al secondo posto Spider-man",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/odissea-torna-in-vetta-scende-al-secondo-posto-spider-man_cba1efab-eb0f-4974-851d-2057ed4bc579.html",
@@ -49,11 +54,6 @@
      "titolo": "Industria cinese, crescita rallenta al 4,5% a luglio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/industria-cinese-crescita-rallenta-al-45-a-luglio_4f5e67b8-4ab6-491b-a513-eb4d4393184a.html",
      "data": "2026-08-17T07:52:49+00:00"
-    },
-    {
-     "titolo": "Aggredito a Barcellona, notte tranquilla per Nicola Maggiotto",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/aggredito-a-barcellona-notte-tranquilla-per-nicola-maggiotto_87570ca7-9fe9-487d-a56a-29b71df650fd.html",
-     "data": "2026-08-17T07:29:39+00:00"
     }
    ]
   },
@@ -121,6 +121,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Nuovo avvistamento del lupo in Puglia, nel comune di Cellamare",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/nuovo-avvistamento-del-lupo-in-puglia-nel-comune-di-cellamare_26fe6410-4e52-41a8-bd19-d7de9464ba4d.html",
+     "data": "2026-08-17T11:06:03+00:00"
+    },
+    {
+     "titolo": "Condizioni stabili per il 21enne aggredito a Barcellona",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/aggredito-a-barcellona-notte-tranquilla-per-nicola-maggiotto_8115f891-a538-41d5-91bb-189b0d557a56.html",
+     "data": "2026-08-17T10:55:33+00:00"
+    },
+    {
+     "titolo": "La fortuna bacia Cava de' Tirreni, vinto premio da 1 milione di euro",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/la-fortuna-bacia-cava-de-tirreni-vinto-premio-da-1-milione-di-euro_9416f644-0e1f-45af-bb25-334e825c716d.html",
+     "data": "2026-08-17T10:51:03+00:00"
+    },
+    {
      "titolo": "Ucciso da auto nel Pisano, caccia al pirata della strada",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ucciso-da-auto-nel-pisano-caccia-al-pirata-della-strada_a1fd34af-81d1-4f76-81a5-fe8c180a4f08.html",
      "data": "2026-08-17T10:34:49+00:00"
@@ -164,21 +179,6 @@
      "titolo": "Incendi in Abruzzo, Marsilio 'servono mezzi nazionali e linee tagliafuoco'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/incendi-in-abruzzo-marsilio-servono-mezzi-nazionali-e-linee-tagliafuoco_7d950406-3332-4e81-9107-f3359d83fab5.html",
      "data": "2026-08-17T09:46:06+00:00"
-    },
-    {
-     "titolo": "Evade dai domiciliari per cenare con la fidanzata, arrestato 18enne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/evade-dai-domiciliari-per-cenare-con-la-fidanzata-arrestato-18enne_91e686f5-f13c-4a80-9e80-5c0bd1e118d2.html",
-     "data": "2026-08-17T08:21:04+00:00"
-    },
-    {
-     "titolo": "Etna, nuova bocca effusiva nella valle del Bove con colata lavica",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/etna-nuova-bocca-effusiva-nella-valle-del-bove-con-colata_11d4b821-41f5-4d90-9b5c-1b44c4a4bc77.html",
-     "data": "2026-08-17T08:14:41+00:00"
-    },
-    {
-     "titolo": "Attaccante del Cagliari Trepy rischia di annegare, è in terapia intensiva",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/attaccante-del-cagliari-trepy-rischia-di-annegare-e-in-terapia-intensiva_c261a194-e3eb-44e5-9868-cd4093cd7145.html",
-     "data": "2026-08-17T08:12:59+00:00"
     }
    ]
   },
@@ -215,6 +215,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "La Commissione Ue adotta la nota sulla flessibilità per sicurezza energetica",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/la-commissione-ue-adotta-la-nota-sulla-flessibilita-per-sicurezza-energetica_ed9f7174-3d0c-4094-8b31-f8fbe8b74008.html",
+     "data": "2026-08-17T10:56:33+00:00"
+    },
     {
      "titolo": "Ferrari Luce venduta all'asta ad un prezzo record di 40 milioni di dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/ferrari-luce-venduta-allasta-ad-un-prezzo-record-di-40-milioni-di-dollari_1b1fddbd-f500-4748-9993-5b52bb31d99d.html",
@@ -269,11 +274,6 @@
      "titolo": "Vendite al dettaglio in Cina rallentano a luglio, +0,6%, consumi sotto le attese",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/vendite-al-dettaglio-in-cina-rallentano-a-luglio-06-consumi-sotto-le-attese_34270d90-7a5f-4ce3-9191-4d53feaf319e.html",
      "data": "2026-08-17T08:56:55+00:00"
-    },
-    {
-     "titolo": "La crescita dell'industria rallenta in Cina. Male anche le vendite e gli investimenti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/industria-cinese-crescita-rallenta-al-45-a-luglio_baae2881-2563-423d-bcbb-5412d0df2b41.html",
-     "data": "2026-08-17T09:02:41+00:00"
     }
    ]
   },
