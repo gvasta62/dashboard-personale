@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-17T15:12:35.882518+00:00",
+ "aggiornato": "2026-08-17T15:45:46.317925+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: L'Europa rallenta nel finale, stallo su Hormuz, Milano +0,05%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-leuropa-rallenta-nel-finale-stallo-su-hormuz-milano-005_168bb375-9694-4561-9260-05af08776dd4.html",
+     "data": "2026-08-17T15:29:27+00:00"
+    },
     {
      "titolo": "Media, 'Netanyahu a Kushner, serietà Piano con consegna armi. Nessuno Stato Palestina'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/media-netanyahu-a-kushner-serieta-piano-con-consegna-armi.-nessuno-stato_90b00d90-3a87-441a-90c7-e0b0e63e8876.html",
@@ -49,11 +54,6 @@
      "titolo": "Palio di Siena, nuovo rinvio per la pioggia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/-palio-di-siena-nuovo-rinvio-per-la-pioggia-_af092405-a568-438b-8bd1-67557a2d40d9.html",
      "data": "2026-08-17T12:56:35+00:00"
-    },
-    {
-     "titolo": "Gas, i contratti future sul mese di settembre cedono lo 0,34% a 61,22 euro al MWh",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/gas-i-contratti-future-sul-mese-di-settembre-cedono-lo-034-a-6122-euro_b64bba01-da17-441e-be11-c942ce4d5104.html",
-     "data": "2026-08-17T12:56:45+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Esplosione a Colleferro, Crosetto 'risulta causata da un problema interno'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/esplosione-a-colleferro-crosetto-risulta-causata-da-un-problema-interno_3b14bb0a-aae0-41d5-906e-57b6522c691f.html",
+     "data": "2026-08-17T15:41:55+00:00"
+    },
+    {
      "titolo": "Fu sentito come testimone nell'indagine su Chiara Poggi, torna nel Pavese",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/fu-sentito-come-testimone-nellindagine-su-chiara-poggi-torna-nel-pavese_83aaadc8-ea4e-4671-abc0-fd6cb562ee85.html",
      "data": "2026-08-17T14:20:38+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Indagato per tentato omicidio agente che ha sparato a fuggitivo a Prato",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/indagato-per-tentato-omicidio-agente-che-ha-sparato-a-fuggitivo-a-prato_98c3464e-9a26-49ac-9b98-e15f4e4da1e6.html",
      "data": "2026-08-17T12:11:17+00:00"
-    },
-    {
-     "titolo": "La nave Ocean Viking soccorre 55 migranti in zona sar maltese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/la-nave-ocean-viking-soccorre-55-migranti-in-zona-sar-maltese_ca62f807-2805-40fb-b648-27f2c8917c70.html",
-     "data": "2026-08-17T12:14:04+00:00"
     }
    ]
   },
@@ -210,6 +210,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: L'Europa rallenta nel finale, stallo su Hormuz, Milano +0,05%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-leuropa-rallenta-nel-finale-stallo-su-hormuz-milano-005_752de362-963f-4c4e-8855-f026e6298053.html",
+     "data": "2026-08-17T15:29:29+00:00"
+    },
     {
      "titolo": "Borsa: Europa fiacca, listini Usa contrastati, Milano +0,4%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-europa-fiacca-listini-usa-contrastati-milano-04_b08a0dac-b619-44bb-8d89-62fb66ed9778.html",
@@ -264,11 +269,6 @@
      "titolo": "Stellantis, a Cassino stop alla produzione fino al 31 agosto",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/stellantis-a-cassino-stop-alla-produzione-fino-al-31-agosto_be6c1210-64e2-4a02-bac0-d62717a36268.html",
      "data": "2026-08-17T11:39:16+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa debole guarda a Wall Street, Milano +0,4%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-leuropa-debole-guarda-a-wall-street-milano-04_b9ca4030-b809-4e20-b839-23de3155e384.html",
-     "data": "2026-08-17T11:09:51+00:00"
     }
    ]
   },
@@ -406,6 +406,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Juve, Vicario è atterrato all'aeroporto di Torino Caselle",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/juve-vicario-e-atterrato-allaeroporto-di-torino-caselle_0c789a13-d3b2-4ebd-80f9-d98e03204783.html",
+     "data": "2026-08-17T15:32:50+00:00"
+    },
+    {
+     "titolo": "Alcaraz si allena con Rune a Murcia, tentativo in vista Us Open",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/17/alcaraz-si-allena-con-rune-a-murcia-tentativo-in-vista-us-open_0921ae23-9111-4613-b258-15cc0323f96b.html",
+     "data": "2026-08-17T15:19:37+00:00"
+    },
+    {
      "titolo": "Atletica: Battocletti correrà i 1500 metri al Palio della Quercia",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/atletica-battocletti-correra-i-1500-metri-al-palio-della-quercia_5747d139-6b51-4729-a274-cd30a5c6d507.html",
      "data": "2026-08-17T15:02:45+00:00"
@@ -454,16 +464,6 @@
      "titolo": "Calcio: Locatelli, 'Spalletti ha mentalità vincente, perfetto per la Juve'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/calcio-locatelli-spalletti-ha-mentalita-vincente-perfetto-per-la-juve_54eb0dc6-0123-42f8-8b84-1478228215eb.html",
      "data": "2026-08-17T11:35:05+00:00"
-    },
-    {
-     "titolo": "Iapichino: 'Momento d'oro per l'Italia, grata di essere parte della famiglia'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/iapichino-momento-doro-per-litalia-grata-di-essere-parte-della-famiglia_f35136d1-492b-42c5-abea-a779d134cc25.html",
-     "data": "2026-08-17T12:07:02+00:00"
-    },
-    {
-     "titolo": "Vingegaard dopo la frattura alla clavicola, 'stagione finita'",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/17/vingegaard-dopo-la-frattura-alla-clavicola-stagione-finita_57f25b97-91e1-45ae-999d-f383fc5f2787.html",
-     "data": "2026-08-17T10:26:41+00:00"
     }
    ]
   }
