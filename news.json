@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-17T19:47:24.352392+00:00",
+ "aggiornato": "2026-08-17T20:11:47.460758+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Kushner, 'incontro molto cordiale con Hamas, hanno detto le cose giuste'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/kushner-incontro-molto-cordiale-con-hamas-hanno-detto-le-cose-giuste_c046509b-619f-4af2-900b-bd001bddd6df.html",
+     "data": "2026-08-17T19:57:55+00:00"
+    },
     {
      "titolo": "Il petrolio chiude in rialzo del 2,8% a New York su incertezze Usa-Iran",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/il-petrolio-chiude-in-rialzo-del-28-a-new-york-su-incertezze-usa-iran_6d3bdcb5-7a0c-45d6-af60-d88b62bf2381.html",
@@ -49,11 +54,6 @@
      "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 79,5 punti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-795-punti_d9c54c41-7a17-4fda-9085-71d441059e28.html",
      "data": "2026-08-17T16:04:32+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa debole in chiusura, Parigi -0,66%, Londra -0,28%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-europa-debole-in-chiusura-parigi-066-londra-028_b4ce928a-3906-4a73-b42f-463291b680c3.html",
-     "data": "2026-08-17T16:02:36+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Accoltellato nel Modenese, arrestata la moglie dopo due settimane",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/accoltellato-nel-modenese-arrestata-la-moglie-dopo-due-settimane_94750361-b6ad-45c4-b5ba-8b6a912319a9.html",
+     "data": "2026-08-17T19:50:32+00:00"
+    },
+    {
      "titolo": "Incendi in Piemonte, a Mornese un bosco di nuovo in fiamme",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/incendi-in-piemonte-a-mornese-un-bosco-di-nuovo-in-fiamme_2fdd5055-15b8-41b1-bcf0-f936487d44df.html",
      "data": "2026-08-17T19:37:47+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Scontro frontale tra auto e moto nell'Astigiano, gravissimo un 16enne",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/scontro-frontale-tra-auto-e-moto-nellastigiano-gravissimo-un-16enne_003a6647-c1b6-47a1-a550-37386f2d9ab8.html",
      "data": "2026-08-17T16:44:14+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-08-17T16:40:32+00:00"
     }
    ]
   },
@@ -296,6 +296,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Kushner, 'incontro molto cordiale con Hamas, hanno detto le cose giuste'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/kushner-incontro-molto-cordiale-con-hamas-hanno-detto-le-cose-giuste_619074ad-f80a-4a15-916a-3156b653b2b9.html",
+     "data": "2026-08-17T19:58:12+00:00"
+    },
+    {
+     "titolo": "Sheinbaum conferma la morte di due messicani nel terremoto in Colombia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/17/sheinbaum-conferma-la-morte-di-due-messicani-nel-terremoto-in-colombia_7b9ca8c2-11cd-4393-b858-5a95a6d0496b.html",
+     "data": "2026-08-17T19:54:48+00:00"
+    },
+    {
      "titolo": "Trump, 'Xi arriva il 24 settembre, vorrei ospitare 3.000 persone alla Casa Bianca'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/17/trump-xi-arriva-il-24-settembre-vorrei-ospitare-3.000-persone-alla-casa-bianca_75107fea-d6ba-4660-a6d8-723aaeac696c.html",
      "data": "2026-08-17T18:06:36+00:00"
@@ -344,16 +354,6 @@
      "titolo": "Tribunale russo condanna a 11 anni vicepresidente del partito di opposizione",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/tribunale-russo-condanna-a-11-anni-vicepresidente-del-partito-di-opposizione_488eda8c-a080-4f8d-85eb-e7fbe0f5c2b5.html",
      "data": "2026-08-17T13:55:55+00:00"
-    },
-    {
-     "titolo": "Chi sono i 'dublinanti', i numeri e le regole",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/chi-sono-i-dublinanti-i-numeri-e-le-regole-_b68ccf2c-113c-46cd-a869-31354e68dec0.html",
-     "data": "2026-08-17T13:50:24+00:00"
-    },
-    {
-     "titolo": "Trump, 'sarebbe meglio se Israele non attaccasse Gaza'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/trump-sarebbe-meglio-se-israele-non-attaccasse-gaza_6a6e4f8b-09b4-40c2-82fd-8813abb8ce12.html",
-     "data": "2026-08-17T13:27:41+00:00"
     }
    ]
   },
@@ -426,6 +426,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "La Fifa licenzia il direttore operativo Lamour, aveva criticato Infantino",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/la-fifa-licenzia-il-direttore-operativo-lamour-aveva-criticato-infantino_fcc9671f-f449-4248-bf11-50cf8cbc5eca.html",
+     "data": "2026-08-17T20:03:05+00:00"
+    },
+    {
      "titolo": "Rodri a Barcellona per la firma, 'un sogno giocare in blaugrana'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/rodri-a-barcellona-per-la-firma-un-sogno-giocare-in-blaugrana_4b221d35-ae7e-434b-a0fe-5004bf4351b9.html",
      "data": "2026-08-17T19:32:44+00:00"
@@ -479,11 +484,6 @@
      "titolo": "Cricket: l'Italia avanza nelle qualificazioni ai Mondiali 2027",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/cricket-litalia-avanza-nelle-qualificazioni-ai-mondiali-2027_3eef36d0-75fc-4841-9901-6aa65b767bab.html",
      "data": "2026-08-17T17:41:48+00:00"
-    },
-    {
-     "titolo": "E' morto Alex Fiorio, figlio di Cesare e pilota di rally",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/17/e-morto-alex-fiorio-figlio-di-cesare-e-pilota-di-rally_b308591e-da18-4e30-9ffb-fca85c30d7ab.html",
-     "data": "2026-08-17T18:09:07+00:00"
     }
    ]
   }
