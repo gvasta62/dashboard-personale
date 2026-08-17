@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-17T05:55:36.775553+00:00",
+ "aggiornato": "2026-08-17T06:27:31.613027+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il prezzo del gas in rialzo a 62,20 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/il-prezzo-del-gas-in-rialzo-a-6220-euro-al-megawattora_02fbf894-5717-47ba-885f-3812336d568b.html",
+     "data": "2026-08-17T06:20:14+00:00"
+    },
+    {
+     "titolo": "Petrolio in calo, il Wti apre a 81,94 dollari al barile, -0,55%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/petrolio-in-calo-il-wti-apre-a-8194-dollari-al-barile-055_d08c6b54-c61d-49a0-ad2f-4478e45ea4cf.html",
+     "data": "2026-08-17T06:19:42+00:00"
+    },
     {
      "titolo": "Terremoto di magnitudo 5.6 colpisce l'Indonesia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/terremoto-di-magnitudo-5.6-colpisce-lindonesia_a6a0ebac-6855-414e-a0de-ed3455944020.html",
@@ -44,16 +54,6 @@
      "titolo": "Palio di Siena rinviato per la pioggia a domani lunedì 17 luglio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/palio-di-siena-rinviato-per-la-pioggia-a-domani-lunedi-17-luglio_8d6d1894-14d6-4131-9d39-20d159951f78.html",
      "data": "2026-08-16T14:16:14+00:00"
-    },
-    {
-     "titolo": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/farnesina-sono-circa-700-gli-italiani-sullisola-di-flores-in-indonesia_8116bc13-4fd0-4dbe-9367-86b2776846ce.html",
-     "data": "2026-08-16T13:19:09+00:00"
-    },
-    {
-     "titolo": "Axios, amministrazione Trump ha aperto canale segreto con i pasdaran a maggio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/axios-amministrazione-trump-ha-aperto-canale-segreto-con-i-pasdaran-a-maggio_dfd91bf6-0d9b-4b2b-a03f-53514505ba6c.html",
-     "data": "2026-08-16T13:17:33+00:00"
     }
    ]
   },
@@ -116,6 +116,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Il Palio di Siena rinviato per la pioggia a lunedì 17 agosto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/il-palio-di-siena-rinviato-per-la-pioggia-a-lunedi-17-agosto_3fa35f19-2b27-4500-bea9-dc4f8be4d813.html",
+     "data": "2026-08-17T06:23:14+00:00"
+    },
+    {
      "titolo": "Turisti spagnoli bloccati sui monti del Comasco, portati in salvo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/turisti-spagnoli-bloccati-sui-monti-del-comasco-portati-in-salvo_f2cc3f5e-1a96-4b8e-8875-267dd9a287ac.html",
      "data": "2026-08-17T05:28:14+00:00"
@@ -169,11 +174,6 @@
      "titolo": "++ Nuova intensa attività esplosiva dal cratere Voragine dell'Etna ++",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/-nuova-intensa-attivita-esplosiva-dal-cratere-voragine-delletna-_5a8957b9-964a-4f44-9ec0-7371f677a446.html",
      "data": "2026-08-16T17:26:01+00:00"
-    },
-    {
-     "titolo": "Agente spara e ferisce detenuto in fuga, chiuso il pronto soccorso di Prato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/agente-spara-e-ferisce-detenuto-in-fuga-chiuso-il-pronto-soccorso-di-prato_5028ccba-ee37-4e1a-9b8f-e9d711b62f10.html",
-     "data": "2026-08-16T17:01:52+00:00"
     }
    ]
   },
@@ -210,6 +210,21 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Il prezzo del gas in rialzo a 62,20 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/il-prezzo-del-gas-in-rialzo-a-6220-euro-al-megawattora_0bb71911-7e4d-4b1d-a26e-cb9f0db81fa3.html",
+     "data": "2026-08-17T06:20:16+00:00"
+    },
+    {
+     "titolo": "Petrolio in calo, il Wti apre a 81,94 dollari al barile, -0,55%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/petrolio-in-calo-il-wti-apre-a-8194-dollari-al-barile-055_cba0a349-cdf5-469d-aa77-ac3815563d3c.html",
+     "data": "2026-08-17T06:19:45+00:00"
+    },
+    {
+     "titolo": "Euro a 1,1587 dollari, in aumento dello 0,15%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/euro-a-11587-dollari-in-aumento-dello-015_2a399b23-3d9f-401a-912f-fdead68df14f.html",
+     "data": "2026-08-17T06:11:33+00:00"
+    },
     {
      "titolo": "Borsa: Tokyo, apertura in rialzo (+0,41%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-tokyo-apertura-in-rialzo-041_0a5b2499-aeaa-48c1-af5e-ab527f87ba60.html",
