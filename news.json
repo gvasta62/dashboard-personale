@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-17T09:04:43.157189+00:00",
+ "aggiornato": "2026-08-17T10:02:03.321954+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Netanyahu indica sindaco New York come nemico di Israele, con Mojtaba, Erdogan e Qassem",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/netanyahu-indica-sindaco-new-york-come-nemico-di-israele-con-mojtaba_57a86140-0c8d-4423-8ef8-84b528375bee.html",
+     "data": "2026-08-17T09:06:03+00:00"
+    },
+    {
+     "titolo": "In Usa i super-ricchi pagano più tasse, dall'1% 38,4% dell'imposta federale su reddito",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/in-usa-i-super-ricchi-pagano-piu-tasse-dall1-384-dellimposta-federale_ecd9b63d-a0a5-4c77-b34e-35620b7353a7.html",
+     "data": "2026-08-17T09:01:21+00:00"
+    },
     {
      "titolo": "Droni lanciati dall'Iran attaccano ufficio premier Kurdistan in Iraq",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/droni-lanciati-dalliran-attaccano-ufficio-premier-kurdistan-in-iraq_30ce1fae-ac8e-4942-80e5-6f6acc772607.html",
@@ -44,22 +54,17 @@
      "titolo": "Borsa: Milano apre in rialzo dello 0,28%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-milano-apre-in-rialzo-dello-028_5d687152-3c99-4063-bb5b-52ace70e044f.html",
      "data": "2026-08-17T07:19:17+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa apre in moderato rialzo, si guarda al Medio Oriente",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-leuropa-apre-in-moderato-rialzo-si-guarda-al-medio-oriente_16a383d7-840a-40b1-b196-1eec35f5c723.html",
-     "data": "2026-08-17T07:20:11+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund apre in lieve calo a 77 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/lo-spread-tra-btp-e-bund-apre-in-lieve-calo-a-77-punti_d0fa0990-a12b-437d-bdd3-dd464e402b03.html",
-     "data": "2026-08-17T06:52:21+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "A suor madre Madre Maria Grazia Biscotti il riconoscimento Vinarelli",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/17/a-suor-madre-madre-maria-grazia-biscotti-il-riconoscimento-vinarelli_294e765b-2804-427c-8d68-1accaf3cfce0.html",
+     "data": "2026-08-17T09:24:24+00:00"
+    },
     {
      "titolo": "Ipotesi alta velocità per incidente stradale a ridosso del centro di Terni",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/16/ipotesi-alta-velocita-per-incidente-stradale-a-ridosso-del-centro-di-terni_d0a7dbf9-aee1-4c41-9a9a-c3b425e1c004.html",
@@ -116,6 +121,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Tromba d'aria nella notte a Cremona, tetti scoperchiati e blackout",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/tromba-daria-nella-notte-a-cremona-tetti-scoperchiati-e-blackout_2235880d-36bb-42bd-8946-9286ae30a362.html",
+     "data": "2026-08-17T09:49:06+00:00"
+    },
+    {
+     "titolo": "In arrivo secondo Canadair per incendio in Carnia che brucia da 10 giorni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/in-arrivo-secondo-canadair-per-incendio-in-carnia-che-brucia-da-10-giorni_ada7e204-9272-462e-97a0-d290c0821784.html",
+     "data": "2026-08-17T09:48:09+00:00"
+    },
+    {
+     "titolo": "Incendi in Abruzzo, Marsilio 'servono mezzi nazionali e linee tagliafuoco'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/incendi-in-abruzzo-marsilio-servono-mezzi-nazionali-e-linee-tagliafuoco_7d950406-3332-4e81-9107-f3359d83fab5.html",
+     "data": "2026-08-17T09:46:06+00:00"
+    },
+    {
      "titolo": "Evade dai domiciliari per cenare con la fidanzata, arrestato 18enne",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/evade-dai-domiciliari-per-cenare-con-la-fidanzata-arrestato-18enne_91e686f5-f13c-4a80-9e80-5c0bd1e118d2.html",
      "data": "2026-08-17T08:21:04+00:00"
@@ -131,9 +151,9 @@
      "data": "2026-08-17T08:12:59+00:00"
     },
     {
-     "titolo": "Attaccante del Cagliari Yael Trepy rischia di annegare, è in terapia intensiva",
+     "titolo": "Attaccante del Cagliari Yael Trepy rischia di annegare, è in coma farmacologico",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/attaccante-del-cagliari-yael-trepy-rischia-di-annegare-e-in-terapia-intensiva_0591fecf-cb7d-4061-953b-564976c60ecd.html",
-     "data": "2026-08-17T08:32:33+00:00"
+     "data": "2026-08-17T09:46:11+00:00"
     },
     {
      "titolo": "Ultraleggero con due a bordo scomparso nel Cosentino, ricerche in corso",
@@ -148,7 +168,7 @@
     {
      "titolo": "Escursionista colpito da un fulmine sull'Etna, morto in ospedale",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/escursionista-colpito-da-un-fulmine-sulletna-morto-in-ospedale-_fea0b2dc-2e29-4c81-9595-7ac085073a70.html",
-     "data": "2026-08-17T08:58:57+00:00"
+     "data": "2026-08-17T09:46:37+00:00"
     },
     {
      "titolo": "Aggredito a Barcellona, notte tranquilla per Nicola Maggiotto",
@@ -159,21 +179,6 @@
      "titolo": "Cenere vulcanica dall'Etna, limitati i voli in arrivo all'aeroporto Catania",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/etna-limitati-i-voli-in-arrivo-in-aeroporto-catania_361e3853-5123-4d33-9c4f-3ac183993175.html",
      "data": "2026-08-17T08:54:25+00:00"
-    },
-    {
-     "titolo": "Escursionista morto dopo essere stato colpito da un fulmine in Alto Adige",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/escursionista-morto-dopo-essere-stato-colpito-da-un-fulmine-in-alto-adige_4cccdb24-da0b-40fc-b4d2-5c0956f6485f.html",
-     "data": "2026-08-17T07:15:25+00:00"
-    },
-    {
-     "titolo": "Aggredito a Barcellona, notte tranquilla per Nicola Maggiotto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/aggredito-a-barcellona-notte-tranquilla-per-nicola-maggiotto_8115f891-a538-41d5-91bb-189b0d557a56.html",
-     "data": "2026-08-17T06:50:45+00:00"
-    },
-    {
-     "titolo": "Il Palio di Siena rinviato per la pioggia a oggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/il-palio-di-siena-rinviato-per-la-pioggia-a-lunedi-17-agosto_3fa35f19-2b27-4500-bea9-dc4f8be4d813.html",
-     "data": "2026-08-17T07:07:54+00:00"
     }
    ]
   },
@@ -211,9 +216,24 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Eurostat, nell'Ue registrazioni in calo e fallimenti in aumento",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/eurostat-nellue-registrazioni-in-calo-e-fallimenti-in-aumento_3303a564-415c-4ecc-a8ec-108fe9140c4f.html",
+     "data": "2026-08-17T09:26:04+00:00"
+    },
+    {
+     "titolo": "Eni e Sonatrach ampliano la collaborazione per ridurre le emissioni in Algeria",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/eni-e-sonatrach-ampliano-la-collaborazione-per-ridurre-le-emissioni-in-algeria_322b070c-3903-471c-be21-7e88472b443a.html",
+     "data": "2026-08-17T09:23:15+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa fiacca tra Medio Oriente e intelligenza artificiale",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-leuropa-fiacca-tra-medio-oriente-e-intelligenza-artificiale_ca2b87e2-0d4a-47c7-a6bf-82bef9724acf.html",
+     "data": "2026-08-17T09:22:30+00:00"
+    },
+    {
      "titolo": "In Usa i super-ricchi pagano più tasse, dall'1% 38,4% dell'imposta federale su reddito",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/in-usa-i-super-ricchi-pagano-piu-tasse-dall1-384-dellimposta-federale_8cc0b4cd-aae0-4df6-a78e-9d0d01e056aa.html",
-     "data": "2026-08-17T09:03:05+00:00"
+     "data": "2026-08-17T09:04:18+00:00"
     },
     {
      "titolo": "Caldo, la produzione di latte per il Parmigiano giù del 10%",
@@ -254,27 +274,17 @@
      "titolo": "Borsa: Milano apre in rialzo dello 0,28%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-milano-apre-in-rialzo-dello-028_14488f3b-8643-400d-b099-212d3cc093ff.html",
      "data": "2026-08-17T07:19:20+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa apre in moderato rialzo, si guarda al Medio Oriente",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-leuropa-apre-in-moderato-rialzo-si-guarda-al-medio-oriente_37cb27bd-4f20-4b26-9123-b0cf75c5cd61.html",
-     "data": "2026-08-17T07:20:05+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund apre in lieve calo a 77 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/lo-spread-tra-btp-e-bund-apre-in-lieve-calo-a-77-punti_72f0ec06-821e-4da4-a3be-e4d1561b397b.html",
-     "data": "2026-08-17T06:52:23+00:00"
-    },
-    {
-     "titolo": "Borsa: Tokyo, chiusura in leggero aumento (+0,74%)",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-tokyo-chiusura-in-leggero-aumento-074_5680983c-680d-4ddd-8daf-335744448f01.html",
-     "data": "2026-08-17T06:51:14+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Netanyahu indica sindaco New York come nemico di Israele, con Mojtaba, Erdogan e Qassem",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/netanyahu-indica-sindaco-new-york-come-nemico-di-israele-con-mojtaba_273bf006-b0be-4f95-a057-31fd1dce6962.html",
+     "data": "2026-08-17T09:06:00+00:00"
+    },
     {
      "titolo": "Gli studenti di Cambridge ricordano il professor Arday, 'ucciso dal razzismo'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/gli-studenti-di-cambridge-ricordano-il-professor-arday-ucciso-dal-razzismo_b8c2b3cc-50b5-4224-882d-d32287fc2266.html",
@@ -329,11 +339,6 @@
      "titolo": "Ft, Trump mira a nuove sanzioni contro giudice brasiliano della condanna a Bolsonaro",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/ft-trump-mira-a-nuove-sanzioni-contro-giudice-brasiliano-della-condanna-a-bolsonaro_d33db08c-764d-4f19-9478-5a5dab0b00a8.html",
      "data": "2026-08-16T20:38:29+00:00"
-    },
-    {
-     "titolo": "Hamas a Board of Peace, 'costringa Israele ad accettare piano per Gaza'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/16/hamas-a-board-of-peace-costringa-israele-ad-accettare-piano-per-gaza_3c0cf0a4-6451-441c-b31b-f56904b540fb.html",
-     "data": "2026-08-16T19:56:49+00:00"
     }
    ]
   },
@@ -406,6 +411,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Giochi Mediterraneo: Cito, 'qui per onorare la maglia azzurra'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/giochi-mediterraneo-cito-qui-per-onorare-la-maglia-azzurra_8810becf-5ed7-4352-ac47-cf7cfe08319c.html",
+     "data": "2026-08-17T08:58:46+00:00"
+    },
+    {
      "titolo": "Attaccante del Cagliari Trepy rischia di annegare, è in terapia intensiva",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/attaccante-del-cagliari-trepy-rischia-di-annegare-e-in-terapia-intensiva_a09a6564-2417-4c42-9439-f3f7de440bd5.html",
      "data": "2026-08-17T08:12:57+00:00"
@@ -436,9 +446,9 @@
      "data": "2026-08-17T05:33:42+00:00"
     },
     {
-     "titolo": "Europei di nuoto:Chiude il triplete di Quadarella, una grande Italia saluta Parigi",
+     "titolo": "Europei di nuoto: chiude il triplete di Quadarella, una grande Italia saluta Parigi",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/17/europei-di-nuotochiude-il-triplete-di-quadarella-una-grande-italia-saluta-parigi_50bb406b-3051-4bc7-9439-d1187708e7a4.html",
-     "data": "2026-08-17T07:22:10+00:00"
+     "data": "2026-08-17T09:20:11+00:00"
     },
     {
      "titolo": "Coppa Italia: la Lazio subito eliminata, all'Olimpico il Mantova vince 2-0",
@@ -459,11 +469,6 @@
      "titolo": "Coppa Italia: il Verona passa ai rigori, eliminata la Virtus Entella",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/coppa-italia-il-verona-passa-ai-rigori-eliminata-la-virtus-entella_45986dd6-26b8-4d98-8b96-c56e13daf1ea.html",
      "data": "2026-08-16T21:26:09+00:00"
-    },
-    {
-     "titolo": "Iapichino, 'ho vinto nella terra di mia mamma, quest'oro vale doppio'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/iapichino-ho-vinto-nella-terra-di-mia-mamma-questoro-vale-doppio_6a7a82ad-9e3c-42f2-adf1-7dd4ff1b854f.html",
-     "data": "2026-08-16T21:15:14+00:00"
     }
    ]
   }
