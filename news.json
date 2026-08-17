@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-17T19:04:27.728099+00:00",
+ "aggiornato": "2026-08-17T19:47:24.352392+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Incendi in Piemonte, a Mornese un bosco di nuovo in fiamme",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/incendi-in-piemonte-a-mornese-un-bosco-di-nuovo-in-fiamme_2fdd5055-15b8-41b1-bcf0-f936487d44df.html",
+     "data": "2026-08-17T19:37:47+00:00"
+    },
+    {
+     "titolo": "Bortuzzo, 'la mia sedia a rotelle danneggiata durate il trasporto in aereo'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/bortuzzo-la-mia-sedia-a-rotelle-danneggiata-durate-il-trasporto-in-aereo_f61228dd-0d70-495c-85a4-1955d604db69.html",
+     "data": "2026-08-17T19:22:24+00:00"
+    },
+    {
+     "titolo": "Manuel Bortuzzo e la carrozzina rotta: \"Il peggior volo aereo della mia vita\"",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/manuel-bortuzzo-e-la-carrozzina-rotta-il-peggior-volo-aereo-della-mia-vita_e1aa4e09-4a03-4c6d-9255-50efeac9de05.html",
+     "data": "2026-08-17T19:27:17+00:00"
+    },
+    {
      "titolo": "Decapitata la statua della Madonna a Coppito, 'gesto vile'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/decapitata-la-statua-della-madonna-a-coppito-gesto-vile_436045c2-5fa0-4751-918a-f9aa6064433a.html",
      "data": "2026-08-17T18:34:04+00:00"
@@ -169,21 +184,6 @@
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-08-17T16:40:32+00:00"
-    },
-    {
-     "titolo": "Violentata a Milano 'c'è un video del momento dell'abuso'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/violentata-a-milano-ce-un-video-del-momento-dellabuso_991caf36-1b6d-4e2d-ac3d-051b38a011ba.html",
-     "data": "2026-08-17T16:50:59+00:00"
-    },
-    {
-     "titolo": "Ferito in strada a Roma, muore in ospedale un 24enne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ferito-in-strada-a-roma-muore-in-ospedale-un-24enne_a80e752f-d65d-4b8f-b0ce-08bf422e6401.html",
-     "data": "2026-08-17T16:19:47+00:00"
-    },
-    {
-     "titolo": "Ferito in strada a Roma, muore in ospedale un 24enne++",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ferito-in-strada-a-roma-muore-in-ospedale-un-24enne_21a3e902-9282-4f23-a4fd-be62c165b980.html",
-     "data": "2026-08-17T16:20:27+00:00"
     }
    ]
   },
@@ -426,6 +426,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Rodri a Barcellona per la firma, 'un sogno giocare in blaugrana'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/rodri-a-barcellona-per-la-firma-un-sogno-giocare-in-blaugrana_4b221d35-ae7e-434b-a0fe-5004bf4351b9.html",
+     "data": "2026-08-17T19:32:44+00:00"
+    },
+    {
      "titolo": "Iapichino, 'il mio oro mancava all'atletica azzurra, tantissime emozioni'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/iapichino-il-mio-oro-mancava-allatletica-azzurra-tantissime-emozioni_2fe09cff-12bb-4968-add3-b5f408cb0bba.html",
      "data": "2026-08-17T18:55:07+00:00"
@@ -434,6 +439,11 @@
      "titolo": "Coppa Italia: 3-0 al Cesena, il Sassuolo approda ai sedicesimi",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/coppa-italia-3-0-al-cesena-il-sassuolo-approda-ai-sedicesimi_2013e242-b5dc-4428-bdde-7f947cd46e8d.html",
      "data": "2026-08-17T18:38:50+00:00"
+    },
+    {
+     "titolo": "Festa della Juve dura 45', Elkann: 'Costruiamo per tornare a vincere'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/festa-della-juve-dura-45-elkann-costruiamo-per-tornare-a-vincere_8d7f88c7-4f95-413e-a1a8-02e00bfa912e.html",
+     "data": "2026-08-17T19:03:51+00:00"
     },
     {
      "titolo": "Il Milan prende Diego Moreira, Vicario arriva alla Juventus",
@@ -474,16 +484,6 @@
      "titolo": "E' morto Alex Fiorio, figlio di Cesare e pilota di rally",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/17/e-morto-alex-fiorio-figlio-di-cesare-e-pilota-di-rally_b308591e-da18-4e30-9ffb-fca85c30d7ab.html",
      "data": "2026-08-17T18:09:07+00:00"
-    },
-    {
-     "titolo": "Juve: tifosi Juve in campo, si chiude dopo un tempo la partitella allo Stadium",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/juve-tifosi-juve-in-campo-si-chiude-dopo-un-tempo-la-partitella-allo-stadium_404b514e-79c4-48ac-b28e-4220987d6a42.html",
-     "data": "2026-08-17T17:30:24+00:00"
-    },
-    {
-     "titolo": "Elkann, 'la Juve ha l'ambizione di vincere, stiamo costruendo'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/elkann-la-juve-ha-lambizione-di-vincere-stiamo-costruendo_4868b67e-5de6-4d05-ad33-329e19c0a057.html",
-     "data": "2026-08-17T17:15:42+00:00"
     }
    ]
   }
