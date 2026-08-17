@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-16T23:39:45.811076+00:00",
+ "aggiornato": "2026-08-17T00:26:15.071616+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Scoperti in Messico sei 'funghi zombi' che infettano formiche e ragni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/scoperti-in-messico-sei-funghi-zombi-che-infettano-formiche-e-ragni_22d58a8b-0a5e-4645-a0c0-1600ae9e097b.html",
+     "data": "2026-08-16T23:44:12+00:00"
+    },
     {
      "titolo": "Trump annuncia 'significativa riduzione' delle manovre militari con Seul",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/trump-annuncia-significativa-riduzione-delle-manovre-militari-con-seul_7bf1643c-08dd-4b43-ae82-93034f9474cb.html",
@@ -49,11 +54,6 @@
      "titolo": "Terzo bambino azzannato da un animale selvatico, sindaco chiude i parchi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/terzo-bambino-azzannato-da-un-animale-selvatico-sindaco-chiude-i-parchi_66492fe5-0fd0-4689-9111-1f10947c990c.html",
      "data": "2026-08-16T10:45:35+00:00"
-    },
-    {
-     "titolo": "Italiani aggrediti a Barcellona, un 21enne in coma farmacologico",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/16/italiani-aggrediti-a-barcellona-un-21enne-in-coma-farmacologico_2f2b0856-a3dd-4908-ae5b-271947311fd2.html",
-     "data": "2026-08-16T10:45:09+00:00"
     }
    ]
   },
@@ -276,6 +276,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Scoperti in Messico sei 'funghi zombi' che infettano formiche e ragni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/17/scoperti-in-messico-sei-funghi-zombi-che-infettano-formiche-e-ragni_aa420db2-2702-4188-af57-6ca809fd974d.html",
+     "data": "2026-08-16T23:44:16+00:00"
+    },
+    {
      "titolo": "Trump annuncia 'significativa riduzione' delle manovre militari con Seul",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/16/trump-annuncia-significativa-riduzione-delle-manovre-militari-con-seul_5bb54d20-ad36-423f-ba3f-b68757d020fb.html",
      "data": "2026-08-16T21:58:15+00:00"
@@ -329,11 +334,6 @@
      "titolo": "Iran, '30.000 dollari a chiunque catturi o uccida un soldato americano'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/16/iran-30.000-dollari-a-chiunque-catturi-o-uccida-un-soldato-americano_bbce41ec-e76e-4c2f-9dc1-0deb54d8abef.html",
      "data": "2026-08-16T10:19:34+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'almeno 3 morti e 14 feriti per i raid russi della notte'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/zelensky-almeno-3-morti-e-14-feriti-per-i-raid-russi-della-notte_8033dbfa-6801-460f-8984-c5ce79d5ae98.html",
-     "data": "2026-08-16T10:07:14+00:00"
     }
    ]
   },
