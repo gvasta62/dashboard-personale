@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-17T07:29:52.795903+00:00",
+ "aggiornato": "2026-08-17T08:06:49.518301+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Industria cinese, crescita rallenta al 4,5% a luglio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/industria-cinese-crescita-rallenta-al-45-a-luglio_4f5e67b8-4ab6-491b-a513-eb4d4393184a.html",
+     "data": "2026-08-17T07:52:49+00:00"
+    },
+    {
+     "titolo": "Aggredito a Barcellona, notte tranquilla per Nicola Maggiotto",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/aggredito-a-barcellona-notte-tranquilla-per-nicola-maggiotto_87570ca7-9fe9-487d-a56a-29b71df650fd.html",
+     "data": "2026-08-17T07:29:39+00:00"
+    },
     {
      "titolo": "Mimit, ancora rialzi in autostrada, gasolio a 2,170 euro al litro",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/mimit-ancora-rialzi-in-autostrada-gasolio-a-2170-euro-al-litro_24a33065-aa8f-495e-9d83-d2e70d409c0a.html",
@@ -44,16 +54,6 @@
      "titolo": "Petrolio in calo, il Wti apre a 81,94 dollari al barile, -0,55%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/petrolio-in-calo-il-wti-apre-a-8194-dollari-al-barile-055_d08c6b54-c61d-49a0-ad2f-4478e45ea4cf.html",
      "data": "2026-08-17T06:19:42+00:00"
-    },
-    {
-     "titolo": "Terremoto di magnitudo 5.6 colpisce l'Indonesia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/terremoto-di-magnitudo-5.6-colpisce-lindonesia_a6a0ebac-6855-414e-a0de-ed3455944020.html",
-     "data": "2026-08-17T01:34:02+00:00"
-    },
-    {
-     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,41%)",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-tokyo-apertura-in-rialzo-041_b2fa9916-20a6-46e6-a460-6c3c78bdf51b.html",
-     "data": "2026-08-17T00:29:03+00:00"
     }
    ]
   },
@@ -116,9 +116,24 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Etna: limitati i voli in arrivo in aeroporto Catania",
+     "titolo": "Escursionista colpito da un fulmine sull'Etna, morto in ospedale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/escursionista-colpito-da-un-fulmine-sulletna-morto-in-ospedale_1ddf0040-761d-4141-a63e-8e70a2e25c90.html",
+     "data": "2026-08-17T08:04:21+00:00"
+    },
+    {
+     "titolo": "Escursionista colpito da un fulmine sull'Etna, morto in ospedale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/escursionista-colpito-da-un-fulmine-sulletna-morto-in-ospedale-_fea0b2dc-2e29-4c81-9595-7ac085073a70.html",
+     "data": "2026-08-17T08:03:33+00:00"
+    },
+    {
+     "titolo": "Aggredito a Barcellona, notte tranquilla per Nicola Maggiotto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/aggredito-a-barcellona-notte-tranquilla-per-nicola-maggiotto_cd080f7e-7fd8-47ef-86d1-81e1c4ce54b5.html",
+     "data": "2026-08-17T07:29:37+00:00"
+    },
+    {
+     "titolo": "Cenere vulcanica dall'Etna, limitati i voli in arrivo all'aeroporto Catania",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/etna-limitati-i-voli-in-arrivo-in-aeroporto-catania_361e3853-5123-4d33-9c4f-3ac183993175.html",
-     "data": "2026-08-17T07:16:34+00:00"
+     "data": "2026-08-17T07:36:36+00:00"
     },
     {
      "titolo": "Escursionista morto dopo essere stato colpito da un fulmine in Alto Adige",
@@ -138,7 +153,7 @@
     {
      "titolo": "Turisti spagnoli bloccati sui monti del Comasco, portati in salvo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/turisti-spagnoli-bloccati-sui-monti-del-comasco-portati-in-salvo_f2cc3f5e-1a96-4b8e-8875-267dd9a287ac.html",
-     "data": "2026-08-17T05:28:14+00:00"
+     "data": "2026-08-17T08:03:56+00:00"
     },
     {
      "titolo": "Improvviso nubifragio nel Lecchese, ventenne muore nel lago",
@@ -159,21 +174,6 @@
      "titolo": "Ragazza di 18 anni sul sup travolta e ferita da un barchino di migranti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/ragazza-di-18-anni-sul-sup-travolta-e-ferita-da-un-barchino-di-migranti_0268d874-29fd-42c8-8ddf-69fc2403eba1.html",
      "data": "2026-08-16T18:15:21+00:00"
-    },
-    {
-     "titolo": "Pedone investito e ucciso mentre attraversa sulla statale Domiziana",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/pedone-investito-e-ucciso-mentre-attraversa-sulla-statale-domiziana_68f4ce8c-7095-450a-a13e-447cdb2c7733.html",
-     "data": "2026-08-16T18:08:02+00:00"
-    },
-    {
-     "titolo": "Pericolo lupo in Puglia, tre bimbi azzannati in pochi giorni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/pericolo-lupo-in-puglia-tre-bimbi-azzannati-in-pochi-giorni_dea6afcd-252e-4a61-bc79-45d7770a7026.html",
-     "data": "2026-08-16T17:58:53+00:00"
-    },
-    {
-     "titolo": "Nuova intensa attività esplosiva dal cratere Voragine dell'Etna",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/nuova-intensa-attivita-esplosiva-dal-cratere-voragine-delletna_2cf5a370-93a8-4f53-b81f-70c791d452bb.html",
-     "data": "2026-08-16T22:31:40+00:00"
     }
    ]
   },
@@ -210,6 +210,21 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Vendite al dettaglio in Cina rallentano a luglio, +0,6%, consumi sotto le attese",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/vendite-al-dettaglio-in-cina-rallentano-a-luglio-06-consumi-sotto-le-attese_34270d90-7a5f-4ce3-9191-4d53feaf319e.html",
+     "data": "2026-08-17T07:56:45+00:00"
+    },
+    {
+     "titolo": "Industria cinese, crescita rallenta al 4,5% a luglio",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/industria-cinese-crescita-rallenta-al-45-a-luglio_baae2881-2563-423d-bcbb-5412d0df2b41.html",
+     "data": "2026-08-17T07:53:19+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano sale con l'Europa, in luce Stm e Prysmian",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-milano-sale-con-leuropa-in-luce-stm-e-prysmian_a1c3ca03-08c2-4c96-88c4-6ff2750816c1.html",
+     "data": "2026-08-17T07:32:26+00:00"
+    },
     {
      "titolo": "Mimit, ancora rialzi in autostrada, gasolio a 2,170 euro al litro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/mimit-ancora-rialzi-in-autostrada-gasolio-a-2170-euro-al-litro_989266ef-a75a-49a6-92c2-96c288579272.html",
@@ -254,21 +269,6 @@
      "titolo": "Borsa: l'Asia chiude positiva e guarda alla crescita economica globale",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-lasia-chiude-positiva-e-guarda-alla-crescita-economica-globale_32750f03-82ce-484f-9cad-f0e2bc58dd6c.html",
      "data": "2026-08-17T07:03:52+00:00"
-    },
-    {
-     "titolo": "L'oro sale a 4.397,15 dollari all'oncia, +0,47%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/loro-sale-a-4.39715-dollari-alloncia-047_fb6fe2c2-78f8-4ee6-97a6-c0da2100b13b.html",
-     "data": "2026-08-17T06:34:40+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas in rialzo a 62,20 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/il-prezzo-del-gas-in-rialzo-a-6220-euro-al-megawattora_0bb71911-7e4d-4b1d-a26e-cb9f0db81fa3.html",
-     "data": "2026-08-17T06:20:16+00:00"
-    },
-    {
-     "titolo": "Petrolio in calo, il Wti apre a 81,94 dollari al barile, -0,55%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/petrolio-in-calo-il-wti-apre-a-8194-dollari-al-barile-055_4e7617f5-b2fb-4468-b22f-f96de422126b.html",
-     "data": "2026-08-17T06:58:56+00:00"
     }
    ]
   },
@@ -406,6 +406,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Il Lens batte il Psg e conquista la Supercoppa francese",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/il-lens-batte-il-psg-e-conquista-la-supercoppa-francese_862f40d8-b7c0-4223-a815-06acf5daaff9.html",
+     "data": "2026-08-17T07:46:55+00:00"
+    },
+    {
+     "titolo": "Cincinnati, Sonego eliminato al secondo turno da Tiafoe",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/17/cincinnati-sonego-eliminato-al-secondo-turno-da-tiafoe_d6b874c5-2577-4a9f-9fd1-01a5102f4cb7.html",
+     "data": "2026-08-17T07:34:31+00:00"
+    },
+    {
      "titolo": "Juve annuncia Lucumì, acquisto da oltre 20 milioni di euro",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/juve-annuncia-lucumi-acquisto-da-oltre-20-milioni-di-euro_b38941dd-9af9-4a9f-b267-12450b942792.html",
      "data": "2026-08-17T07:25:44+00:00"
@@ -454,16 +464,6 @@
      "titolo": "Europei atletica: bronzo per l'Italia nella 4x400 donne",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atletica-bronzo-per-litalia-nella-4x400-donne_8415eedc-67fc-487a-8c50-66ccd6f868d3.html",
      "data": "2026-08-16T20:43:24+00:00"
-    },
-    {
-     "titolo": "Stefano Mei lancia la volata ai Mondiali a Roma: 'Lottiamo da n.1'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/16/stefano-mei-lancia-la-volata-ai-mondiali-a-roma-lottiamo-da-n.1_63402119-5a06-40fd-9736-989e5b190fef.html",
-     "data": "2026-08-16T20:29:11+00:00"
-    },
-    {
-     "titolo": "Alajbegovic e Mastantuono, la carica dei 19enni",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/16/alajbegovic-e-mastantuono-la-carica-dei-19enni_0c7ddcdb-5369-4319-8f22-124027f8f13e.html",
-     "data": "2026-08-16T20:25:02+00:00"
     }
    ]
   }
