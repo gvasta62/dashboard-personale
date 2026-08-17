@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-17T13:57:36.242137+00:00",
+ "aggiornato": "2026-08-17T14:19:38.134098+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Tribunale russo condanna a 11 anni vicepresidente del partito di opposizione",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/tribunale-russo-condanna-a-11-anni-vicepresidente-del-partito-di-opposizione_9cc59b65-3fe7-43ce-a144-27e7b4a11a76.html",
+     "data": "2026-08-17T13:55:37+00:00"
+    },
     {
      "titolo": "Wall Street apre contrastata, Dj a -0,22% e Nadaq a +0,23%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/wall-street-apre-contrastata-dj-a-022-e-nadaq-a-023_40db5f0a-a004-43a3-b8df-ea64688ac599.html",
@@ -49,17 +54,17 @@
      "titolo": "Teheran, 'con l'Oman su Hormuz raggiunto accordo su mappa dei percorsi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/teheran-con-loman-su-hormuz-raggiunto-accordo-su-mappa-dei-percorsi_e6a37889-dafd-4101-9c81-7e1f28ec4b6d.html",
      "data": "2026-08-17T12:11:27+00:00"
-    },
-    {
-     "titolo": "Trump, 'bombarderemo l'Oman se si mette in mezzo su Hormuz'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/trump-bombarderemo-loman-se-si-mette-in-mezzo-su-hormuz_b16c1e33-37a5-4cbc-a250-a6b056546327.html",
-     "data": "2026-08-17T12:09:49+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Rissa durante una partita di calcio dilettantistico, 4 Daspo",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/17/rissa-durante-una-partita-di-calcio-dilettantistico-4-daspo_1b4cd7b7-5312-4261-aa63-89e54cbd763a.html",
+     "data": "2026-08-17T14:08:37+00:00"
+    },
     {
      "titolo": "Aggressione alla stazione di P. S.Giovanni, i sindacati chiedono interventi immediati",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/aggressione-alla-stazione-di-p.-s.giovanni-i-sindacati-chiedono-interventi-immediati_4aa7f187-3d5e-438b-b5a2-a0c717e70f75.html",
@@ -114,17 +119,17 @@
      "titolo": "Rottura per l'adduttrice idrica 'Scirca' nel comune di Gubbio",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/16/rottura-per-ladduttrice-idrica-scirca-nel-comune-di-gubbio_111b2d74-c08f-4c6b-9969-99a09ff38fb2.html",
      "data": "2026-08-16T13:45:04+00:00"
-    },
-    {
-     "titolo": "Nel 2025 si riduce la perdita degli italiani residenti in Umbria verso l'estero",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/16/nel-2025-si-riduce-la-perdita-degli-italiani-residenti-in-umbria-verso-lestero_d7eedd77-83b6-4d68-b283-e60a6a0c1205.html",
-     "data": "2026-08-16T09:47:31+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Allerta temporali, due turisti uccisi da fulmini in un giorno",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/allerta-temporali-due-turisti-uccisi-da-fulmini-in-un-giorno_fea0b2dc-2e29-4c81-9595-7ac085073a70.html",
+     "data": "2026-08-17T14:07:14+00:00"
+    },
     {
      "titolo": "Droni con la termocamera per la caccia al lupo nel Barese",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/droni-con-la-termocamera-per-la-caccia-al-lupo-nel-barese_0eaf6a80-b96c-4501-a262-18d16fb3b8bb.html",
@@ -179,11 +184,6 @@
      "titolo": "Nave di Emergency soccorre un'imbarcazione, 7 migranti morti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/nave-di-emergency-soccorre-unimbarcazione-7-migranti-morti_cc7c7e13-e179-40bd-aca6-e7cd5437488a.html",
      "data": "2026-08-17T11:44:02+00:00"
-    },
-    {
-     "titolo": "Etna: cenere vulcanica su diversi comuni catanesi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/etna-cenere-vulcanica-su-diversi-comuni-catanesi_ea7e202f-6e16-42df-8323-8c521a5c5148.html",
-     "data": "2026-08-17T11:29:50+00:00"
     }
    ]
   },
@@ -276,6 +276,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Tribunale russo condanna a 11 anni vicepresidente del partito di opposizione",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/tribunale-russo-condanna-a-11-anni-vicepresidente-del-partito-di-opposizione_488eda8c-a080-4f8d-85eb-e7fbe0f5c2b5.html",
+     "data": "2026-08-17T13:55:55+00:00"
+    },
+    {
      "titolo": "Chi sono i 'dublinanti', i numeri e le regole",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/chi-sono-i-dublinanti-i-numeri-e-le-regole-_b68ccf2c-113c-46cd-a869-31354e68dec0.html",
      "data": "2026-08-17T13:50:24+00:00"
@@ -329,11 +334,6 @@
      "titolo": "Gli studenti di Cambridge ricordano il professor Arday, 'ucciso dal razzismo'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/gli-studenti-di-cambridge-ricordano-il-professor-arday-ucciso-dal-razzismo_b8c2b3cc-50b5-4224-882d-d32287fc2266.html",
      "data": "2026-08-17T08:55:59+00:00"
-    },
-    {
-     "titolo": "Droni lanciati dall'Iran attaccano ufficio premier Kurdistan in Iraq",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/droni-lanciati-dalliran-attaccano-ufficio-premier-kurdistan-in-iraq_e11383e4-98b9-40db-9a4d-6725ac9d9bd6.html",
-     "data": "2026-08-17T10:06:52+00:00"
     }
    ]
   },
@@ -406,6 +406,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Sinner, in programma nuovi controlli al J Medical",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/17/sinner-in-programma-nuovi-controlli-al-j-medical_788a4527-283a-4142-b939-387f3f3f604f.html",
+     "data": "2026-08-17T13:58:36+00:00"
+    },
+    {
+     "titolo": "Atalanta: Kristensen, ho scelto squadra per il progetto e per Sarri",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/atalanta-kristensen-ho-scelto-squadra-per-il-progetto-e-per-sarri_a1246149-a0db-4f67-9a9b-5b33ff8b5e66.html",
+     "data": "2026-08-17T13:57:32+00:00"
+    },
+    {
      "titolo": "Ginnastica: Esposito \"body shaming? Se vinco è anche grazie al mio fisico\"",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/ginnastica-esposito-body-shaming-se-vinco-e-anche-grazie-al-mio-fisico_891cb932-53df-4326-a913-7e8a24cc78c6.html",
      "data": "2026-08-17T13:53:55+00:00"
@@ -454,16 +464,6 @@
      "titolo": "Giochi Mediterraneo: Cito, 'qui per onorare la maglia azzurra'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/giochi-mediterraneo-cito-qui-per-onorare-la-maglia-azzurra_8810becf-5ed7-4352-ac47-cf7cfe08319c.html",
      "data": "2026-08-17T08:58:46+00:00"
-    },
-    {
-     "titolo": "Attaccante del Cagliari Trepy rischia di annegare, è in terapia intensiva",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/attaccante-del-cagliari-trepy-rischia-di-annegare-e-in-terapia-intensiva_a09a6564-2417-4c42-9439-f3f7de440bd5.html",
-     "data": "2026-08-17T08:12:57+00:00"
-    },
-    {
-     "titolo": "Juve-Vicario in chiusura, sarà prestito con diritto di riscatto",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/juve-vicario-in-chiusura-sara-prestito-con-diritto-di-riscatto_5cdc95cd-9b00-4ad3-b4e1-3c106ff3f4aa.html",
-     "data": "2026-08-17T08:09:30+00:00"
     }
    ]
   }
