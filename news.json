@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-17T10:02:03.321954+00:00",
+ "aggiornato": "2026-08-17T10:52:41.127657+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Odissea torna in vetta, scende al secondo posto Spider-man",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/odissea-torna-in-vetta-scende-al-secondo-posto-spider-man_cba1efab-eb0f-4974-851d-2057ed4bc579.html",
+     "data": "2026-08-17T10:11:52+00:00"
+    },
+    {
+     "titolo": "Ipotesi di vendita della quota di Berlino in Commerz a Unicredit",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/ipotesi-di-vendita-della-quota-di-berlino-in-commerz-a-unicredit_0fe68773-a02c-4e43-b5b6-b2b52db7cff0.html",
+     "data": "2026-08-17T10:01:02+00:00"
+    },
     {
      "titolo": "Netanyahu indica sindaco New York come nemico di Israele, con Mojtaba, Erdogan e Qassem",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/netanyahu-indica-sindaco-new-york-come-nemico-di-israele-con-mojtaba_57a86140-0c8d-4423-8ef8-84b528375bee.html",
@@ -44,16 +54,6 @@
      "titolo": "Aggredito a Barcellona, notte tranquilla per Nicola Maggiotto",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/aggredito-a-barcellona-notte-tranquilla-per-nicola-maggiotto_87570ca7-9fe9-487d-a56a-29b71df650fd.html",
      "data": "2026-08-17T07:29:39+00:00"
-    },
-    {
-     "titolo": "Mimit, ancora rialzi in autostrada, gasolio a 2,170 euro al litro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/mimit-ancora-rialzi-in-autostrada-gasolio-a-2170-euro-al-litro_24a33065-aa8f-495e-9d83-d2e70d409c0a.html",
-     "data": "2026-08-17T07:27:00+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre in rialzo dello 0,28%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-milano-apre-in-rialzo-dello-028_5d687152-3c99-4063-bb5b-52ace70e044f.html",
-     "data": "2026-08-17T07:19:17+00:00"
     }
    ]
   },
@@ -121,6 +121,36 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Ucciso da auto nel Pisano, caccia al pirata della strada",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ucciso-da-auto-nel-pisano-caccia-al-pirata-della-strada_a1fd34af-81d1-4f76-81a5-fe8c180a4f08.html",
+     "data": "2026-08-17T10:34:49+00:00"
+    },
+    {
+     "titolo": "Ragazza travolta da una barca di migranti nel sud Sardegna, un arresto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ragazza-travolta-da-una-barca-di-migranti-nel-sud-sardegna-un-arresto_166a1c7e-d3aa-431b-93ff-dc3a58af6412.html",
+     "data": "2026-08-17T10:33:04+00:00"
+    },
+    {
+     "titolo": "In arrivo veloci temporali e calo delle temperature su molte regioni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/in-arrivo-veloci-temporali-e-calo-delle-temperature-su-molte-regioni_c178e5cb-54a1-40f8-98b1-827b8fbf3ea0.html",
+     "data": "2026-08-17T10:43:20+00:00"
+    },
+    {
+     "titolo": "Legale di Lavitola a Rebibbia: 'Un mese prima avvisò Ranucci sul rischio di attentati'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/legale-di-lavitola-a-rebibbia-un-mese-prima-avviso-ranucci-sul-rischio-di-attentati_9c7536df-5f02-4bfa-8560-91b200f8cb99.html",
+     "data": "2026-08-17T10:35:18+00:00"
+    },
+    {
+     "titolo": "Incendio in stabilimento farmaceutico nel Fiorentino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/incendio-in-stabilimento-farmaceutico-nel-fiorentino_372212fb-d84f-444e-9853-9c62e9040e59.html",
+     "data": "2026-08-17T10:27:46+00:00"
+    },
+    {
+     "titolo": "Ultraleggero scomparso, ricerche concentrate nell'entroterra cosentino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ultraleggero-scomparso-ricerche-concentrate-nellentroterra-cosentino_3c84f611-7edd-4342-879c-b5fbbc591594.html",
+     "data": "2026-08-17T10:05:49+00:00"
+    },
+    {
      "titolo": "Tromba d'aria nella notte a Cremona, tetti scoperchiati e blackout",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/tromba-daria-nella-notte-a-cremona-tetti-scoperchiati-e-blackout_2235880d-36bb-42bd-8946-9286ae30a362.html",
      "data": "2026-08-17T09:49:06+00:00"
@@ -149,36 +179,6 @@
      "titolo": "Attaccante del Cagliari Trepy rischia di annegare, è in terapia intensiva",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/attaccante-del-cagliari-trepy-rischia-di-annegare-e-in-terapia-intensiva_c261a194-e3eb-44e5-9868-cd4093cd7145.html",
      "data": "2026-08-17T08:12:59+00:00"
-    },
-    {
-     "titolo": "Attaccante del Cagliari Yael Trepy rischia di annegare, è in coma farmacologico",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/attaccante-del-cagliari-yael-trepy-rischia-di-annegare-e-in-terapia-intensiva_0591fecf-cb7d-4061-953b-564976c60ecd.html",
-     "data": "2026-08-17T09:46:11+00:00"
-    },
-    {
-     "titolo": "Ultraleggero con due a bordo scomparso nel Cosentino, ricerche in corso",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ultraleggero-con-due-a-bordo-scomparso-nel-cosentino-ricerche-in-corso_461da819-8c32-4e88-b1f9-bbbb6b7b4191.html",
-     "data": "2026-08-17T08:06:53+00:00"
-    },
-    {
-     "titolo": "Escursionista colpito da un fulmine sull'Etna, morto in ospedale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/escursionista-colpito-da-un-fulmine-sulletna-morto-in-ospedale_1ddf0040-761d-4141-a63e-8e70a2e25c90.html",
-     "data": "2026-08-17T08:07:51+00:00"
-    },
-    {
-     "titolo": "Escursionista colpito da un fulmine sull'Etna, morto in ospedale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/escursionista-colpito-da-un-fulmine-sulletna-morto-in-ospedale-_fea0b2dc-2e29-4c81-9595-7ac085073a70.html",
-     "data": "2026-08-17T09:46:37+00:00"
-    },
-    {
-     "titolo": "Aggredito a Barcellona, notte tranquilla per Nicola Maggiotto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/aggredito-a-barcellona-notte-tranquilla-per-nicola-maggiotto_cd080f7e-7fd8-47ef-86d1-81e1c4ce54b5.html",
-     "data": "2026-08-17T07:29:37+00:00"
-    },
-    {
-     "titolo": "Cenere vulcanica dall'Etna, limitati i voli in arrivo all'aeroporto Catania",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/etna-limitati-i-voli-in-arrivo-in-aeroporto-catania_361e3853-5123-4d33-9c4f-3ac183993175.html",
-     "data": "2026-08-17T08:54:25+00:00"
     }
    ]
   },
@@ -216,14 +216,34 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Eurostat, nell'Ue registrazioni in calo e fallimenti in aumento",
+     "titolo": "Ferrari Luce venduta all'asta ad un prezzo record di 40 milioni di dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/ferrari-luce-venduta-allasta-ad-un-prezzo-record-di-40-milioni-di-dollari_1b1fddbd-f500-4748-9993-5b52bb31d99d.html",
+     "data": "2026-08-17T10:15:37+00:00"
+    },
+    {
+     "titolo": "Codacons, in 30 anni benzina raddoppiata e diesel quasi triplicato",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/codacons-in-30-anni-benzina-raddoppiata-e-diesel-quasi-triplicato_30c90c72-6d08-408c-9428-e6f412224efb.html",
+     "data": "2026-08-17T10:14:59+00:00"
+    },
+    {
+     "titolo": "Ipotesi di vendita della quota di Berlino in Commerz a Unicredit",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/ipotesi-di-vendita-della-quota-di-berlino-in-commerz-a-unicredit_6118cef9-7d12-4bbe-88c1-73dc9163473f.html",
+     "data": "2026-08-17T10:02:00+00:00"
+    },
+    {
+     "titolo": "Ipotesi di vendita della quota di Berlino in Commerz a Unicredit",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/ipotesi-di-vendita-della-quota-di-berlino-in-commerz-a-unicredit_5f5cc266-651d-45c2-9d55-6ed76dec74e2.html",
+     "data": "2026-08-17T10:04:31+00:00"
+    },
+    {
+     "titolo": "Eurostat, nell'Ue registrazioni di imprese in calo e fallimenti in aumento",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/eurostat-nellue-registrazioni-in-calo-e-fallimenti-in-aumento_3303a564-415c-4ecc-a8ec-108fe9140c4f.html",
-     "data": "2026-08-17T09:26:04+00:00"
+     "data": "2026-08-17T10:05:01+00:00"
     },
     {
      "titolo": "Eni e Sonatrach ampliano la collaborazione per ridurre le emissioni in Algeria",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/eni-e-sonatrach-ampliano-la-collaborazione-per-ridurre-le-emissioni-in-algeria_322b070c-3903-471c-be21-7e88472b443a.html",
-     "data": "2026-08-17T09:23:15+00:00"
+     "data": "2026-08-17T10:02:48+00:00"
     },
     {
      "titolo": "Borsa: l'Europa fiacca tra Medio Oriente e intelligenza artificiale",
@@ -254,32 +274,27 @@
      "titolo": "La crescita dell'industria rallenta in Cina. Male anche le vendite e gli investimenti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/industria-cinese-crescita-rallenta-al-45-a-luglio_baae2881-2563-423d-bcbb-5412d0df2b41.html",
      "data": "2026-08-17T09:02:41+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano sale con l'Europa, in luce Stm e Prysmian",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-milano-sale-con-leuropa-in-luce-stm-e-prysmian_a1c3ca03-08c2-4c96-88c4-6ff2750816c1.html",
-     "data": "2026-08-17T08:13:04+00:00"
-    },
-    {
-     "titolo": "Mimit, ancora rialzi in autostrada, gasolio a 2,170 euro al litro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/mimit-ancora-rialzi-in-autostrada-gasolio-a-2170-euro-al-litro_989266ef-a75a-49a6-92c2-96c288579272.html",
-     "data": "2026-08-17T08:12:25+00:00"
-    },
-    {
-     "titolo": "Sandoz firma un accordo con Henlius sui farmaci biosimilari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/sandoz-firma-un-accordo-con-henlius-sui-farmaci-biosimilari_952f659b-f59f-4c65-a1b8-736c50f1d792.html",
-     "data": "2026-08-17T07:20:42+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre in rialzo dello 0,28%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-milano-apre-in-rialzo-dello-028_14488f3b-8643-400d-b099-212d3cc093ff.html",
-     "data": "2026-08-17T07:19:20+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Media, Houthi lanciano cinque missili verso Bab al-Mandab",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/media-houthi-lanciano-cinque-missili-verso-bab-al-mandab_57995382-a0c7-49df-a26c-c7503094755b.html",
+     "data": "2026-08-17T10:11:01+00:00"
+    },
+    {
+     "titolo": "Netanyahu incontra a Gerusalemme Kushner, Mladenov e Tony Blair",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/netanyahu-incontra-a-gerusalemme-kushner-mladenov-e-tony-blair_39346f7f-cef3-408c-bb8f-64d529b5711a.html",
+     "data": "2026-08-17T10:06:03+00:00"
+    },
+    {
+     "titolo": "Carlo e William rischiano stangata da 10 milioni per l'adeguamento energetico",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/carlo-e-william-rischiano-stangata-da-10-milioni-per-ladeguamento-energetico_770a1dc9-d560-4896-93ac-00b1d6d09502.html",
+     "data": "2026-08-17T10:06:07+00:00"
+    },
     {
      "titolo": "Netanyahu indica sindaco New York come nemico di Israele, con Mojtaba, Erdogan e Qassem",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/netanyahu-indica-sindaco-new-york-come-nemico-di-israele-con-mojtaba_273bf006-b0be-4f95-a057-31fd1dce6962.html",
@@ -293,17 +308,17 @@
     {
      "titolo": "Droni lanciati dall'Iran attaccano ufficio premier Kurdistan in Iraq",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/droni-lanciati-dalliran-attaccano-ufficio-premier-kurdistan-in-iraq_e11383e4-98b9-40db-9a4d-6725ac9d9bd6.html",
-     "data": "2026-08-17T08:37:23+00:00"
+     "data": "2026-08-17T10:06:52+00:00"
     },
     {
      "titolo": "Wsj, l'Iran ha usato i due mesi di tregua per preparare guerra più ampia",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/17/wsj-liran-ha-usato-i-due-mesi-di-tregua-per-preparare-guerra-piu_a17e320e-8824-443a-b476-96995e89a687.html",
-     "data": "2026-08-17T08:21:35+00:00"
+     "data": "2026-08-17T10:07:09+00:00"
     },
     {
      "titolo": "Mosca, nuovamente bombardati i porti ucraini di Odessa e Izmail",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/mosca-nuovamente-bombardati-i-porti-ucraini-di-odessa-e-izmail_453050db-d60c-4398-9dd9-2f14db45b8b1.html",
-     "data": "2026-08-17T08:18:37+00:00"
+     "data": "2026-08-17T10:07:21+00:00"
     },
     {
      "titolo": "L'epidemia di Ebola in Congo è la più letale nella storia del Paese",
@@ -324,21 +339,6 @@
      "titolo": "La presidente del Messico, 'Senza sovranità non c'è benessere'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/17/la-presidente-del-messico-senza-sovranita-non-ce-benessere_94d1b19f-9b63-4f48-a757-3fd3ee144a06.html",
      "data": "2026-08-17T00:42:16+00:00"
-    },
-    {
-     "titolo": "Scoperti in Messico sei 'funghi zombi' che infettano formiche e ragni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/17/scoperti-in-messico-sei-funghi-zombi-che-infettano-formiche-e-ragni_aa420db2-2702-4188-af57-6ca809fd974d.html",
-     "data": "2026-08-16T23:44:16+00:00"
-    },
-    {
-     "titolo": "Trump annuncia 'significativa riduzione' delle manovre militari con Seul",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/16/trump-annuncia-significativa-riduzione-delle-manovre-militari-con-seul_5bb54d20-ad36-423f-ba3f-b68757d020fb.html",
-     "data": "2026-08-16T21:58:15+00:00"
-    },
-    {
-     "titolo": "Ft, Trump mira a nuove sanzioni contro giudice brasiliano della condanna a Bolsonaro",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/ft-trump-mira-a-nuove-sanzioni-contro-giudice-brasiliano-della-condanna-a-bolsonaro_d33db08c-764d-4f19-9478-5a5dab0b00a8.html",
-     "data": "2026-08-16T20:38:29+00:00"
     }
    ]
   },
@@ -411,6 +411,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Vingegaard dopo la frattura alla clavicola, 'stagione finita'",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/17/vingegaard-dopo-la-frattura-alla-clavicola-stagione-finita_57f25b97-91e1-45ae-999d-f383fc5f2787.html",
+     "data": "2026-08-17T10:26:41+00:00"
+    },
+    {
+     "titolo": "Tennis, a Cincinnati Sonego eliminato al secondo turno da Tiafoe",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/17/tennis-a-cincinnati-sonego-eliminato-al-secondo-turno-da-tiafoe_d6b874c5-2577-4a9f-9fd1-01a5102f4cb7.html",
+     "data": "2026-08-17T10:12:39+00:00"
+    },
+    {
+     "titolo": "Il City a un passo dal 18enne Bouaddi, valutazione e' 100 milioni",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/il-city-a-un-passo-dal-18enne-bouaddi-valutazione-e-100-milioni_46a544af-a0ce-42e2-90ad-65f6265026b9.html",
+     "data": "2026-08-17T09:54:07+00:00"
+    },
+    {
      "titolo": "Giochi Mediterraneo: Cito, 'qui per onorare la maglia azzurra'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/giochi-mediterraneo-cito-qui-per-onorare-la-maglia-azzurra_8810becf-5ed7-4352-ac47-cf7cfe08319c.html",
      "data": "2026-08-17T08:58:46+00:00"
@@ -429,11 +444,6 @@
      "titolo": "Il Lens batte il Psg e conquista la Supercoppa francese",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/il-lens-batte-il-psg-e-conquista-la-supercoppa-francese_862f40d8-b7c0-4223-a815-06acf5daaff9.html",
      "data": "2026-08-17T07:46:55+00:00"
-    },
-    {
-     "titolo": "Cincinnati, Sonego eliminato al secondo turno da Tiafoe",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/17/cincinnati-sonego-eliminato-al-secondo-turno-da-tiafoe_d6b874c5-2577-4a9f-9fd1-01a5102f4cb7.html",
-     "data": "2026-08-17T07:34:31+00:00"
     },
     {
      "titolo": "Juve annuncia Lucumì, acquisto da oltre 20 milioni di euro",
@@ -459,16 +469,6 @@
      "titolo": "Coppa Italia: Gattuso, 'è una batosta, chiediamo scusa e andiamo avanti'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/coppa-italia-gattuso-e-una-batosta-chiediamo-scusa-e-andiamo-avanti_f24de1e7-f814-4fbc-b932-ecc6be83fce1.html",
      "data": "2026-08-16T21:52:50+00:00"
-    },
-    {
-     "titolo": "Scotti, 'con la 4x400 ci giocavamo il medagliere, festa rovinata agli inglesi'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/scotti-con-la-4x400-ci-giocavamo-il-medagliere-festa-rovinata-agli-inglesi_b2a3d517-a7a4-4f21-9b4c-75dd3ea7e2a0.html",
-     "data": "2026-08-16T21:31:02+00:00"
-    },
-    {
-     "titolo": "Coppa Italia: il Verona passa ai rigori, eliminata la Virtus Entella",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/coppa-italia-il-verona-passa-ai-rigori-eliminata-la-virtus-entella_45986dd6-26b8-4d98-8b96-c56e13daf1ea.html",
-     "data": "2026-08-16T21:26:09+00:00"
     }
    ]
   }
