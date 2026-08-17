@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-17T11:13:20.875492+00:00",
+ "aggiornato": "2026-08-17T11:46:11.856803+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Virgin più vicina al lancio dei treni rivali dell'Eurostar nel 2030",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/virgin-piu-vicina-al-lancio-dei-treni-rivali-delleurostar-nel-2030_d20922f7-612b-4425-a6d0-63f29982bcb8.html",
+     "data": "2026-08-17T11:37:06+00:00"
+    },
+    {
+     "titolo": "Stellantis, a Cassino stop alla produzione fino al 31 agosto",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/stellantis-a-cassino-stop-alla-produzione-fino-al-31-agosto_4ee4b88d-3c68-462c-b108-1ecea2d12b0b.html",
+     "data": "2026-08-17T11:35:11+00:00"
+    },
+    {
+     "titolo": "Difensore Lavitola, non vuole ritrattare ma puntualizzare",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/difensore-lavitola-non-vuole-ritrattare-ma-puntualizzare_2ec8d0a8-65e9-47a9-8b11-885fb2c7efd7.html",
+     "data": "2026-08-17T11:19:06+00:00"
+    },
     {
      "titolo": "La Commissione Ue adotta la nota sulla flessibilità per sicurezza energetica",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/la-commissione-ue-adotta-la-nota-sulla-flessibilita-per-sicurezza-energetica_3e432bbb-cd5d-43dd-9497-4832e46005e3.html",
@@ -39,21 +54,6 @@
      "titolo": "Wsj, l'Iran ha usato i due mesi di tregua per preparare guerra più ampia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/wsj-liran-ha-usato-i-due-mesi-di-tregua-per-preparare-guerra-piu_6b65b23d-5f9b-45d9-a2ba-a71c114a3e57.html",
      "data": "2026-08-17T08:21:35+00:00"
-    },
-    {
-     "titolo": "L'epidemia di Ebola in Congo è la più letale nella storia del Paese",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/lepidemia-di-ebola-in-congo-e-la-piu-letale-nella-storia-del-paese_f76d0104-9c76-4d63-87a9-069b7490ab30.html",
-     "data": "2026-08-17T08:15:37+00:00"
-    },
-    {
-     "titolo": "Attaccante del Cagliari Trepy rischia di annegare, è in terapia intensiva",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/attaccante-del-cagliari-trepy-rischia-di-annegare-e-in-terapia-intensiva_b30c787d-d7a9-41fe-beea-f1be9c6fde19.html",
-     "data": "2026-08-17T08:12:58+00:00"
-    },
-    {
-     "titolo": "Industria cinese, crescita rallenta al 4,5% a luglio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/industria-cinese-crescita-rallenta-al-45-a-luglio_4f5e67b8-4ab6-491b-a513-eb4d4393184a.html",
-     "data": "2026-08-17T07:52:49+00:00"
     }
    ]
   },
@@ -121,6 +121,26 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Etna: cenere vulcanica su diversi comuni catanesi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/etna-cenere-vulcanica-su-diversi-comuni-catanesi_ea7e202f-6e16-42df-8323-8c521a5c5148.html",
+     "data": "2026-08-17T11:29:50+00:00"
+    },
+    {
+     "titolo": "Uccide l'ex compagna poi va a casa e si uccide impiccandosi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/uccide-lex-compagna-poi-va-a-casa-e-si-uccide-impiccandosi_ab92aee8-23e2-49b0-91c9-8eee9e7f44f8.html",
+     "data": "2026-08-17T11:26:52+00:00"
+    },
+    {
+     "titolo": "Una nave di Emergency soccorre un'imbarcazione, 7 migranti morti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/una-nave-di-emergency-soccorre-unimbarcazione-7-migranti-morti-_34e43a4d-1cb9-44cf-8cdc-2c87ae1b1aed.html",
+     "data": "2026-08-17T11:34:52+00:00"
+    },
+    {
+     "titolo": "Difensore Lavitola, non vuole ritrattare ma puntualizzare",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/difensore-lavitola-non-vuole-ritrattare-ma-puntualizzare_25c04592-ff84-47fa-8d47-9583715ad4a6.html",
+     "data": "2026-08-17T11:19:04+00:00"
+    },
+    {
      "titolo": "Nuovo avvistamento del lupo in Puglia, nel comune di Cellamare",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/nuovo-avvistamento-del-lupo-in-puglia-nel-comune-di-cellamare_26fe6410-4e52-41a8-bd19-d7de9464ba4d.html",
      "data": "2026-08-17T11:06:03+00:00"
@@ -151,34 +171,14 @@
      "data": "2026-08-17T10:43:20+00:00"
     },
     {
-     "titolo": "Legale di Lavitola a Rebibbia: 'Un mese prima avvisò Ranucci sul rischio di attentati'",
+     "titolo": "Il legale di Lavitola: 'Un mese prima avvisò Ranucci sul rischio di attentati'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/legale-di-lavitola-a-rebibbia-un-mese-prima-avviso-ranucci-sul-rischio-di-attentati_9c7536df-5f02-4bfa-8560-91b200f8cb99.html",
-     "data": "2026-08-17T10:35:18+00:00"
+     "data": "2026-08-17T11:26:06+00:00"
     },
     {
      "titolo": "Incendio in stabilimento farmaceutico nel Fiorentino",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/incendio-in-stabilimento-farmaceutico-nel-fiorentino_372212fb-d84f-444e-9853-9c62e9040e59.html",
      "data": "2026-08-17T10:27:46+00:00"
-    },
-    {
-     "titolo": "Ultraleggero scomparso, ricerche concentrate nell'entroterra cosentino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ultraleggero-scomparso-ricerche-concentrate-nellentroterra-cosentino_3c84f611-7edd-4342-879c-b5fbbc591594.html",
-     "data": "2026-08-17T10:05:49+00:00"
-    },
-    {
-     "titolo": "Tromba d'aria nella notte a Cremona, tetti scoperchiati e blackout",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/tromba-daria-nella-notte-a-cremona-tetti-scoperchiati-e-blackout_2235880d-36bb-42bd-8946-9286ae30a362.html",
-     "data": "2026-08-17T09:49:06+00:00"
-    },
-    {
-     "titolo": "In arrivo secondo Canadair per incendio in Carnia che brucia da 10 giorni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/in-arrivo-secondo-canadair-per-incendio-in-carnia-che-brucia-da-10-giorni_ada7e204-9272-462e-97a0-d290c0821784.html",
-     "data": "2026-08-17T09:48:09+00:00"
-    },
-    {
-     "titolo": "Incendi in Abruzzo, Marsilio 'servono mezzi nazionali e linee tagliafuoco'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/incendi-in-abruzzo-marsilio-servono-mezzi-nazionali-e-linee-tagliafuoco_7d950406-3332-4e81-9107-f3359d83fab5.html",
-     "data": "2026-08-17T09:46:06+00:00"
     }
    ]
   },
@@ -215,6 +215,26 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Vendemmia parte bene, ma serbatoi cantine ancora pieni di giacenze",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/vendemmia-parte-bene-ma-serbatoi-cantine-ancora-pieni-di-giacenze_51710a3f-2fc7-466b-af94-bfbed1bbbba4.html",
+     "data": "2026-08-17T11:39:13+00:00"
+    },
+    {
+     "titolo": "Virgin più vicina al lancio dei treni rivali dell'Eurostar nel 2030",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/virgin-piu-vicina-al-lancio-dei-treni-rivali-delleurostar-nel-2030_a056100c-8909-4c8d-9c7f-bf011f96501f.html",
+     "data": "2026-08-17T11:40:15+00:00"
+    },
+    {
+     "titolo": "Stellantis, a Cassino stop alla produzione fino al 31 agosto",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/stellantis-a-cassino-stop-alla-produzione-fino-al-31-agosto_be6c1210-64e2-4a02-bac0-d62717a36268.html",
+     "data": "2026-08-17T11:39:16+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa debole guarda a Wall Street, Milano +0,4%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-leuropa-debole-guarda-a-wall-street-milano-04_b9ca4030-b809-4e20-b839-23de3155e384.html",
+     "data": "2026-08-17T11:09:51+00:00"
+    },
     {
      "titolo": "La Commissione Ue adotta la nota sulla flessibilità per sicurezza energetica",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/la-commissione-ue-adotta-la-nota-sulla-flessibilita-per-sicurezza-energetica_ed9f7174-3d0c-4094-8b31-f8fbe8b74008.html",
@@ -254,26 +274,6 @@
      "titolo": "Borsa: l'Europa fiacca tra Medio Oriente e intelligenza artificiale",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-leuropa-fiacca-tra-medio-oriente-e-intelligenza-artificiale_ca2b87e2-0d4a-47c7-a6bf-82bef9724acf.html",
      "data": "2026-08-17T09:22:30+00:00"
-    },
-    {
-     "titolo": "In Usa i super-ricchi pagano più tasse, dall'1% 38,4% dell'imposta federale su reddito",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/in-usa-i-super-ricchi-pagano-piu-tasse-dall1-384-dellimposta-federale_8cc0b4cd-aae0-4df6-a78e-9d0d01e056aa.html",
-     "data": "2026-08-17T09:04:18+00:00"
-    },
-    {
-     "titolo": "Caldo, la produzione di latte per il Parmigiano giù del 10%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/caldo-la-produzione-di-latte-per-il-parmigiano-giu-del-10_2d92dc41-77b3-4d9a-a51a-fff0dd07ab2a.html",
-     "data": "2026-08-17T08:08:37+00:00"
-    },
-    {
-     "titolo": "Cna, in Italia vita lavorativa di appena 33 anni, ai minimi nell'Ue",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/cna-in-italia-vita-lavorativa-di-appena-33-anni-ai-minimi-nellue_4d40c96e-0b60-49d8-a688-a2eaad80042b.html",
-     "data": "2026-08-17T08:59:15+00:00"
-    },
-    {
-     "titolo": "Vendite al dettaglio in Cina rallentano a luglio, +0,6%, consumi sotto le attese",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/vendite-al-dettaglio-in-cina-rallentano-a-luglio-06-consumi-sotto-le-attese_34270d90-7a5f-4ce3-9191-4d53feaf319e.html",
-     "data": "2026-08-17T08:56:55+00:00"
     }
    ]
   },
@@ -411,6 +411,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Iapichino, 'momento d'oro per l'Italia, grata di essere parte della famiglia'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/iapichino-momento-doro-per-litalia-grata-di-essere-parte-della-famiglia_f35136d1-492b-42c5-abea-a779d134cc25.html",
+     "data": "2026-08-17T11:12:51+00:00"
+    },
+    {
      "titolo": "Vingegaard dopo la frattura alla clavicola, 'stagione finita'",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/17/vingegaard-dopo-la-frattura-alla-clavicola-stagione-finita_57f25b97-91e1-45ae-999d-f383fc5f2787.html",
      "data": "2026-08-17T10:26:41+00:00"
@@ -464,11 +469,6 @@
      "titolo": "Coppa Italia: la Lazio subito eliminata, all'Olimpico il Mantova vince 2-0",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/coppa-italia-la-lazio-subito-eliminata-allolimpico-il-mantova-vince-2-0_397d9093-f88d-4d30-b4c3-86e49b07bc7c.html",
      "data": "2026-08-16T22:12:27+00:00"
-    },
-    {
-     "titolo": "Coppa Italia: Gattuso, 'è una batosta, chiediamo scusa e andiamo avanti'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/16/coppa-italia-gattuso-e-una-batosta-chiediamo-scusa-e-andiamo-avanti_f24de1e7-f814-4fbc-b932-ecc6be83fce1.html",
-     "data": "2026-08-16T21:52:50+00:00"
     }
    ]
   }
