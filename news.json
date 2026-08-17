@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-17T18:18:27.745154+00:00",
+ "aggiornato": "2026-08-17T19:04:27.728099+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il petrolio chiude in rialzo del 2,8% a New York su incertezze Usa-Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/il-petrolio-chiude-in-rialzo-del-28-a-new-york-su-incertezze-usa-iran_6d3bdcb5-7a0c-45d6-af60-d88b62bf2381.html",
+     "data": "2026-08-17T18:43:36+00:00"
+    },
+    {
+     "titolo": "Il gas risale sopra quota 62 euro sulla piazza Ttf di Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/il-gas-risale-sopra-quota-62-euro-sulla-piazza-ttf-di-amsterdam_c357933c-d413-4a52-90d7-0c0ee70ccd43.html",
+     "data": "2026-08-17T18:19:55+00:00"
+    },
     {
      "titolo": "Trump, 'Xi arriva il 24 settembre, vorrei ospitare 3.000 persone alla Casa Bianca'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/trump-xi-arriva-il-24-settembre-vorrei-ospitare-3.000-persone-alla-casa-bianca_c42c4f11-c40b-4426-ad6d-5a21c156ef89.html",
@@ -44,16 +54,6 @@
      "titolo": "Borsa: Europa debole in chiusura, Parigi -0,66%, Londra -0,28%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-europa-debole-in-chiusura-parigi-066-londra-028_b4ce928a-3906-4a73-b42f-463291b680c3.html",
      "data": "2026-08-17T16:02:36+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude poco variata, +0,01%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-milano-chiude-poco-variata-001_d4e765ec-c625-4db2-804e-31675467d4bf.html",
-     "data": "2026-08-17T15:46:33+00:00"
-    },
-    {
-     "titolo": "Borsa: L'Europa rallenta nel finale, stallo su Hormuz, Milano +0,05%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-leuropa-rallenta-nel-finale-stallo-su-hormuz-milano-005_168bb375-9694-4561-9260-05af08776dd4.html",
-     "data": "2026-08-17T15:29:27+00:00"
     }
    ]
   },
@@ -126,9 +126,24 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Decapitata la statua della Madonna a Coppito, 'gesto vile'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/decapitata-la-statua-della-madonna-a-coppito-gesto-vile_436045c2-5fa0-4751-918a-f9aa6064433a.html",
+     "data": "2026-08-17T18:34:04+00:00"
+    },
+    {
+     "titolo": "'Un mese prima Lavitola avvisò Ranucci sul rischio attentati'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/un-mese-prima-lavitola-avviso-ranucci-sul-rischio-attentati_9c7536df-5f02-4bfa-8560-91b200f8cb99.html",
+     "data": "2026-08-17T18:26:53+00:00"
+    },
+    {
      "titolo": "La pioggia intensa rallenta l'incendio in Carnia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/la-pioggia-intensa-rallenta-lincendio-in-carnia_7a736502-ba77-41ba-9042-f8096a0a9adf.html",
      "data": "2026-08-17T18:04:53+00:00"
+    },
+    {
+     "titolo": "Il pm Prato indaga l'agente che ha sparato: 'Il fermato non poteva scappare'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/il-pm-prato-indaga-lagente-che-ha-sparato-il-fermato-non-poteva-scappare_dcac72da-f6a0-45c5-adab-4e44b194e6fc.html",
+     "data": "2026-08-17T18:36:17+00:00"
     },
     {
      "titolo": "Vento e caldo spingono i roghi, in Abruzzo arriva l'Esercito",
@@ -169,21 +184,6 @@
      "titolo": "Ferito in strada a Roma, muore in ospedale un 24enne++",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ferito-in-strada-a-roma-muore-in-ospedale-un-24enne_21a3e902-9282-4f23-a4fd-be62c165b980.html",
      "data": "2026-08-17T16:20:27+00:00"
-    },
-    {
-     "titolo": "Una mano russa dietro l'esplosione a Colleferro? Crosetto: \"Non risulta\"",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/esplosione-a-colleferro-crosetto-risulta-causata-da-un-problema-interno_3b14bb0a-aae0-41d5-906e-57b6522c691f.html",
-     "data": "2026-08-17T18:05:17+00:00"
-    },
-    {
-     "titolo": "Fu sentito come testimone nell'indagine su Chiara Poggi, torna nel Pavese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/fu-sentito-come-testimone-nellindagine-su-chiara-poggi-torna-nel-pavese_83aaadc8-ea4e-4671-abc0-fd6cb562ee85.html",
-     "data": "2026-08-17T14:20:38+00:00"
-    },
-    {
-     "titolo": "Dopo cinque anni via la tensostruttura che ha ospitato il processo Morandi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/dopo-cinque-anni-via-la-tensostruttura-che-ha-ospitato-il-processo-morandi_973f5169-36b2-448f-bbf8-0b14d2b51aeb.html",
-     "data": "2026-08-17T14:15:39+00:00"
     }
    ]
   },
@@ -230,6 +230,16 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Il petrolio chiude in rialzo del 2,8% a New York su incertezze Usa-Iran",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/il-petrolio-chiude-in-rialzo-del-28-a-new-york-su-incertezze-usa-iran_77c0187c-a96a-44d1-8421-c806a512c220.html",
+     "data": "2026-08-17T18:44:05+00:00"
+    },
+    {
+     "titolo": "Il gas risale sopra quota 62 euro sulla piazza Ttf di Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/il-gas-risale-sopra-quota-62-euro-sulla-piazza-ttf-di-amsterdam_a727e8f0-c566-4cb4-94fb-440b2d0660ee.html",
+     "data": "2026-08-17T18:20:11+00:00"
+    },
     {
      "titolo": "L'Italia si prepara a chiedere la flessibilità Ue per l'energia",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/litalia-si-prepara-a-chiedere-la-flessibilita-ue-per-lenergia_d127bb9d-a15c-4a1b-845e-910e55639746.html",
@@ -279,16 +289,6 @@
      "titolo": "Borsa: Milano tiene (+0,2%), bene Stm e Prysmian, giù Fincantieri",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-milano-tiene-02-bene-stm-e-prysmian-giu-fincantieri_1800dbd6-73df-4d5f-ac58-fd534cda9435.html",
      "data": "2026-08-17T13:33:42+00:00"
-    },
-    {
-     "titolo": "Consorzio Parmigiano Reggiano, con il caldo la produzione non è a rischio",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/consorzio-parmigiano-reggiano-con-il-caldo-la-produzione-non-e-a-rischio_368b7c42-54e8-4e80-bd4b-52c76238537f.html",
-     "data": "2026-08-17T13:23:09+00:00"
-    },
-    {
-     "titolo": "Uil, in Lombardia un morto sul lavoro ogni 2,4 giorni da gennaio",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/uil-in-lombardia-un-morto-sul-lavoro-ogni-24-giorni-da-gennaio_d95f0ad8-60f4-4ce6-863e-ea5a95ea7e55.html",
-     "data": "2026-08-17T12:37:02+00:00"
     }
    ]
   },
@@ -426,6 +426,31 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Iapichino, 'il mio oro mancava all'atletica azzurra, tantissime emozioni'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/iapichino-il-mio-oro-mancava-allatletica-azzurra-tantissime-emozioni_2fe09cff-12bb-4968-add3-b5f408cb0bba.html",
+     "data": "2026-08-17T18:55:07+00:00"
+    },
+    {
+     "titolo": "Coppa Italia: 3-0 al Cesena, il Sassuolo approda ai sedicesimi",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/coppa-italia-3-0-al-cesena-il-sassuolo-approda-ai-sedicesimi_2013e242-b5dc-4428-bdde-7f947cd46e8d.html",
+     "data": "2026-08-17T18:38:50+00:00"
+    },
+    {
+     "titolo": "Il Milan prende Diego Moreira, Vicario arriva alla Juventus",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/17/il-milan-prende-diego-moreira-vicario-arriva-alla-juventus_f9100bd2-8275-42ee-8342-5bb7df9b7839.html",
+     "data": "2026-08-17T18:56:00+00:00"
+    },
+    {
+     "titolo": "Juve: Spalletti, l'invasione era meglio farla al 90'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/juve-spalletti-linvasione-era-meglio-farla-al-90_7359ea45-0b80-464e-b98a-691bf89bfec4.html",
+     "data": "2026-08-17T18:20:49+00:00"
+    },
+    {
+     "titolo": "Coppa Italia: Empoli ko ai rigori, Pisa ai sedicesimi contro la Fiorentina",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/coppa-italia-empoli-ko-ai-rigori-pisa-ai-sedicesimi-contro-la-fiorentina_b9266c73-853b-4862-962b-a5c91921b2a2.html",
+     "data": "2026-08-17T18:17:04+00:00"
+    },
+    {
      "titolo": "Juve: Spalletti 'operazioni intelligenti, c'è ancora da fare'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/juve-spalletti-operazioni-intelligenti-ce-ancora-da-fare_2591edbd-6ef6-4891-bd17-00136acb87ea.html",
      "data": "2026-08-17T18:12:59+00:00"
@@ -459,31 +484,6 @@
      "titolo": "Elkann, 'la Juve ha l'ambizione di vincere, stiamo costruendo'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/elkann-la-juve-ha-lambizione-di-vincere-stiamo-costruendo_4868b67e-5de6-4d05-ad33-329e19c0a057.html",
      "data": "2026-08-17T17:15:42+00:00"
-    },
-    {
-     "titolo": "Bologna: ceduto Dallinga al Colonia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/bologna-ceduto-dallinga-al-colonia_65abdc07-1e7d-4102-9fe8-ff2e5d19498b.html",
-     "data": "2026-08-17T16:50:36+00:00"
-    },
-    {
-     "titolo": "Calcio: per il Napoli si muove il mercato in entrata, domani è il giorno di Favasuli",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/calcio-per-il-napoli-si-muove-il-mercato-in-entrata-domani-e-il-giorno-di-favasuli_ca4026ac-61a9-4ef6-be0c-47ae75c27694.html",
-     "data": "2026-08-17T16:26:43+00:00"
-    },
-    {
-     "titolo": "Inter verso il Monza, Chivu vuole ancora completare il puzzle",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/inter-verso-il-monza-chivu-vuole-ancora-completare-il-puzzle_eed58e30-db45-49d9-bb66-d634ebdf1180.html",
-     "data": "2026-08-17T16:27:39+00:00"
-    },
-    {
-     "titolo": "Juve: John Elkann è arrivato allo Stadium",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/juve-john-elkann-e-arrivato-allo-stadium_21bf47d2-f9a4-4302-9fde-00e9f33591bd.html",
-     "data": "2026-08-17T15:59:56+00:00"
-    },
-    {
-     "titolo": "Scelte le 14 azzurre per gli Europei, domani volano in Svezia",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/17/scelte-le-14-azzurre-per-gli-europei-domani-volano-in-svezia_9ec5cdf7-52bc-4c3e-8fa9-31f563a940aa.html",
-     "data": "2026-08-17T15:49:53+00:00"
     }
    ]
   }
