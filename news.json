@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-17T11:46:11.856803+00:00",
+ "aggiornato": "2026-08-17T12:15:09.153762+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Bce, probabile correzione boom Ia, famiglie europee esposte per 440 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/bce-probabile-correzione-boom-ia-famiglie-europee-esposte-per-440-miliardi_66f6b43a-af99-42a5-ac2d-669e8f06a63e.html",
+     "data": "2026-08-17T11:59:06+00:00"
+    },
+    {
+     "titolo": "Nave di Emergency soccorre un'imbarcazione, 7 migranti morti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/nave-di-emergency-soccorre-unimbarcazione-7-migranti-morti_4334e600-afb8-4f56-bad7-e70c511a09f0.html",
+     "data": "2026-08-17T11:43:59+00:00"
+    },
     {
      "titolo": "Virgin più vicina al lancio dei treni rivali dell'Eurostar nel 2030",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/virgin-piu-vicina-al-lancio-dei-treni-rivali-delleurostar-nel-2030_d20922f7-612b-4425-a6d0-63f29982bcb8.html",
@@ -44,22 +54,17 @@
      "titolo": "In Usa i super-ricchi pagano più tasse, dall'1% 38,4% dell'imposta federale su reddito",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/in-usa-i-super-ricchi-pagano-piu-tasse-dall1-384-dellimposta-federale_ecd9b63d-a0a5-4c77-b34e-35620b7353a7.html",
      "data": "2026-08-17T09:01:21+00:00"
-    },
-    {
-     "titolo": "Droni lanciati dall'Iran attaccano ufficio premier Kurdistan in Iraq",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/droni-lanciati-dalliran-attaccano-ufficio-premier-kurdistan-in-iraq_30ce1fae-ac8e-4942-80e5-6f6acc772607.html",
-     "data": "2026-08-17T08:36:56+00:00"
-    },
-    {
-     "titolo": "Wsj, l'Iran ha usato i due mesi di tregua per preparare guerra più ampia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/wsj-liran-ha-usato-i-due-mesi-di-tregua-per-preparare-guerra-piu_6b65b23d-5f9b-45d9-a2ba-a71c114a3e57.html",
-     "data": "2026-08-17T08:21:35+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Cura e restauro al centro di 'Scultori a Brufa, la Strada del Vino e dell'Arte'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/17/cura-e-restauro-al-centro-di-scultori-a-brufa-la-strada-del-vino-e-dellarte_98472b0f-a673-495f-aab7-43cd22037fee.html",
+     "data": "2026-08-17T12:04:49+00:00"
+    },
     {
      "titolo": "A suor madre Madre Maria Grazia Biscotti il riconoscimento Vinarelli",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/a-suor-madre-madre-maria-grazia-biscotti-il-riconoscimento-vinarelli_294e765b-2804-427c-8d68-1accaf3cfce0.html",
@@ -121,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Indagato per tentato omicidio agente che ha sparato a fuggitivo a Prato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/indagato-per-tentato-omicidio-agente-che-ha-sparato-a-fuggitivo-a-prato_98c3464e-9a26-49ac-9b98-e15f4e4da1e6.html",
+     "data": "2026-08-17T12:11:17+00:00"
+    },
+    {
+     "titolo": "Crolla balcone, donna in ospedale in gravi condizioni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/crolla-balcone-donna-in-ospedale-in-gravi-condizioni_415131f6-d3e7-4a31-b905-deb37cc1c6c3.html",
+     "data": "2026-08-17T11:55:29+00:00"
+    },
+    {
+     "titolo": "Nave di Emergency soccorre un'imbarcazione, 7 migranti morti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/nave-di-emergency-soccorre-unimbarcazione-7-migranti-morti_cc7c7e13-e179-40bd-aca6-e7cd5437488a.html",
+     "data": "2026-08-17T11:44:02+00:00"
+    },
+    {
      "titolo": "Etna: cenere vulcanica su diversi comuni catanesi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/etna-cenere-vulcanica-su-diversi-comuni-catanesi_ea7e202f-6e16-42df-8323-8c521a5c5148.html",
      "data": "2026-08-17T11:29:50+00:00"
@@ -131,9 +151,14 @@
      "data": "2026-08-17T11:26:52+00:00"
     },
     {
+     "titolo": "Uccide l'ex compagna, va a casa e si impicca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/uccide-lex-compagna-va-a-casa-e-si-impicca_393168f9-93fa-4ec9-ab19-140b49ad6cc5.html",
+     "data": "2026-08-17T12:09:18+00:00"
+    },
+    {
      "titolo": "Una nave di Emergency soccorre un'imbarcazione, 7 migranti morti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/una-nave-di-emergency-soccorre-unimbarcazione-7-migranti-morti-_34e43a4d-1cb9-44cf-8cdc-2c87ae1b1aed.html",
-     "data": "2026-08-17T11:34:52+00:00"
+     "data": "2026-08-17T12:06:52+00:00"
     },
     {
      "titolo": "Difensore Lavitola, non vuole ritrattare ma puntualizzare",
@@ -159,32 +184,17 @@
      "titolo": "Ucciso da auto nel Pisano, caccia al pirata della strada",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ucciso-da-auto-nel-pisano-caccia-al-pirata-della-strada_a1fd34af-81d1-4f76-81a5-fe8c180a4f08.html",
      "data": "2026-08-17T10:34:49+00:00"
-    },
-    {
-     "titolo": "Ragazza travolta da una barca di migranti nel sud Sardegna, un arresto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/ragazza-travolta-da-una-barca-di-migranti-nel-sud-sardegna-un-arresto_166a1c7e-d3aa-431b-93ff-dc3a58af6412.html",
-     "data": "2026-08-17T10:33:04+00:00"
-    },
-    {
-     "titolo": "In arrivo veloci temporali e calo delle temperature su molte regioni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/in-arrivo-veloci-temporali-e-calo-delle-temperature-su-molte-regioni_c178e5cb-54a1-40f8-98b1-827b8fbf3ea0.html",
-     "data": "2026-08-17T10:43:20+00:00"
-    },
-    {
-     "titolo": "Il legale di Lavitola: 'Un mese prima avvisò Ranucci sul rischio di attentati'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/legale-di-lavitola-a-rebibbia-un-mese-prima-avviso-ranucci-sul-rischio-di-attentati_9c7536df-5f02-4bfa-8560-91b200f8cb99.html",
-     "data": "2026-08-17T11:26:06+00:00"
-    },
-    {
-     "titolo": "Incendio in stabilimento farmaceutico nel Fiorentino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/incendio-in-stabilimento-farmaceutico-nel-fiorentino_372212fb-d84f-444e-9853-9c62e9040e59.html",
-     "data": "2026-08-17T10:27:46+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Ministro Piantedosi dona il sangue a Pietrastornina, suo paese d'origine",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/17/ministro-piantedosi-dona-il-sangue-a-pietrastornina-suo-paese-dorigine_d042aeaa-a9d4-4a7c-bdc6-5171c22fcf52.html",
+     "data": "2026-08-17T11:49:47+00:00"
+    },
     {
      "titolo": "Legge elettorale e Rai, da settembre lo sprint delle Camere",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/16/legge-elettorale-e-rai-da-settembre-lo-sprint-delle-camere_90daf4e6-8acb-4b09-bf63-f18f88a90ff2.html",
@@ -194,27 +204,17 @@
      "titolo": "Pm Venezia chiede di archiviare indagine sulla caccia di Trump Jr in Laguna",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/16/pm-venezia-chiede-di-archiviare-indagine-sulla-caccia-di-trump-jr-in-laguna_ba9ecd85-ca2e-47c6-bcd4-d3208c0d495a.html",
      "data": "2026-08-16T13:11:46+00:00"
-    },
-    {
-     "titolo": "Il Papa, 'cessino le violenze contro i palestinesi in Cisgiordania'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/16/il-papa-cessino-le-violenze-contro-i-palestinesi-in-cisgiordania_568ab875-7d9b-4882-9483-f8b67221c50e.html",
-     "data": "2026-08-16T10:17:07+00:00"
-    },
-    {
-     "titolo": "Il Papa, disuguaglianze e barriere sono insopportabili",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/16/il-papa-disuguaglianze-e-barriere-sono-insopportabili_c462c0c9-5e95-40de-a0ed-402a6922b3e3.html",
-     "data": "2026-08-16T10:17:07+00:00"
-    },
-    {
-     "titolo": "A Venezia lanciata la proposta per un referendum comunale sugli affitti brevi",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/16/a-venezia-lanciata-la-proposta-per-un-referendum-comunale-sugli-affitti-brevi_8b7ed51a-5482-4ee2-8d57-89b8c7e55994.html",
-     "data": "2026-08-16T07:46:33+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Bce, probabile correzione boom Ia, famiglie europee esposte per 440 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/bce-probabile-correzione-boom-ia-famiglie-europee-esposte-per-440-miliardi_aabc6fb2-1ece-4e26-83a4-b0861a878b87.html",
+     "data": "2026-08-17T11:59:02+00:00"
+    },
     {
      "titolo": "Vendemmia parte bene, ma serbatoi cantine ancora pieni di giacenze",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/vendemmia-parte-bene-ma-serbatoi-cantine-ancora-pieni-di-giacenze_51710a3f-2fc7-466b-af94-bfbed1bbbba4.html",
@@ -269,11 +269,6 @@
      "titolo": "Eni e Sonatrach ampliano la collaborazione per ridurre le emissioni in Algeria",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/eni-e-sonatrach-ampliano-la-collaborazione-per-ridurre-le-emissioni-in-algeria_322b070c-3903-471c-be21-7e88472b443a.html",
      "data": "2026-08-17T10:02:48+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa fiacca tra Medio Oriente e intelligenza artificiale",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-leuropa-fiacca-tra-medio-oriente-e-intelligenza-artificiale_ca2b87e2-0d4a-47c7-a6bf-82bef9724acf.html",
-     "data": "2026-08-17T09:22:30+00:00"
     }
    ]
   },
@@ -411,9 +406,19 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Iapichino, 'momento d'oro per l'Italia, grata di essere parte della famiglia'",
+     "titolo": "Calcio: l'Atalanta saluta Djimsiti, 'grazie di cuore'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/calcio-latalanta-saluta-djimsiti-grazie-di-cuore_ccebe0f2-f9d5-453e-9873-1f5a4c6bedf4.html",
+     "data": "2026-08-17T11:37:23+00:00"
+    },
+    {
+     "titolo": "Calcio: Locatelli, 'Spalletti ha mentalità vincente, perfetto per la Juve'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/calcio-locatelli-spalletti-ha-mentalita-vincente-perfetto-per-la-juve_54eb0dc6-0123-42f8-8b84-1478228215eb.html",
+     "data": "2026-08-17T11:35:05+00:00"
+    },
+    {
+     "titolo": "Iapichino: 'Momento d'oro per l'Italia, grata di essere parte della famiglia'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/iapichino-momento-doro-per-litalia-grata-di-essere-parte-della-famiglia_f35136d1-492b-42c5-abea-a779d134cc25.html",
-     "data": "2026-08-17T11:12:51+00:00"
+     "data": "2026-08-17T11:36:52+00:00"
     },
     {
      "titolo": "Vingegaard dopo la frattura alla clavicola, 'stagione finita'",
@@ -459,16 +464,6 @@
      "titolo": "Capolavoro Italia: oro di Iapichino e della 4x400, gli azzurri sono campioni d'Europa",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/17/capolavoro-italia-oro-di-iapichino-e-della-4x400-gli-azzurri-sono-campioni_c9866f9d-ce58-4315-bcce-98ae9a01c293.html",
      "data": "2026-08-17T05:33:42+00:00"
-    },
-    {
-     "titolo": "Europei di nuoto: chiude il triplete di Quadarella, una grande Italia saluta Parigi",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/17/europei-di-nuotochiude-il-triplete-di-quadarella-una-grande-italia-saluta-parigi_50bb406b-3051-4bc7-9439-d1187708e7a4.html",
-     "data": "2026-08-17T09:20:11+00:00"
-    },
-    {
-     "titolo": "Coppa Italia: la Lazio subito eliminata, all'Olimpico il Mantova vince 2-0",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/coppa-italia-la-lazio-subito-eliminata-allolimpico-il-mantova-vince-2-0_397d9093-f88d-4d30-b4c3-86e49b07bc7c.html",
-     "data": "2026-08-16T22:12:27+00:00"
     }
    ]
   }
