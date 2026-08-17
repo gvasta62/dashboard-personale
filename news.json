@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-17T14:19:38.134098+00:00",
+ "aggiornato": "2026-08-17T14:50:00.084474+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, 'Netanyahu a Kushner, serietà Piano con consegna armi. Nessuno Stato Palestina'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/media-netanyahu-a-kushner-serieta-piano-con-consegna-armi.-nessuno-stato_90b00d90-3a87-441a-90c7-e0b0e63e8876.html",
+     "data": "2026-08-17T14:35:56+00:00"
+    },
+    {
+     "titolo": "Borsa: Europa fiacca, listini Usa contrastati, Milano +0,4%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-europa-fiacca-listini-usa-contrastati-milano-04_b39751db-6527-484b-bf31-093d3ffc8b4a.html",
+     "data": "2026-08-17T14:33:34+00:00"
+    },
     {
      "titolo": "Tribunale russo condanna a 11 anni vicepresidente del partito di opposizione",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/tribunale-russo-condanna-a-11-anni-vicepresidente-del-partito-di-opposizione_9cc59b65-3fe7-43ce-a144-27e7b4a11a76.html",
@@ -44,16 +54,6 @@
      "titolo": "Gas, i contratti future sul mese di settembre cedono lo 0,34% a 61,22 euro al MWh",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/gas-i-contratti-future-sul-mese-di-settembre-cedono-lo-034-a-6122-euro_b64bba01-da17-441e-be11-c942ce4d5104.html",
      "data": "2026-08-17T12:56:45+00:00"
-    },
-    {
-     "titolo": "Indagato per tentato omicidio agente che ha sparato a fuggitivo a Prato",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/indagato-per-tentato-omicidio-agente-che-ha-sparato-a-fuggitivo-a-prato_f6000995-23ee-448d-b864-3777b400e1b5.html",
-     "data": "2026-08-17T12:11:19+00:00"
-    },
-    {
-     "titolo": "Teheran, 'con l'Oman su Hormuz raggiunto accordo su mappa dei percorsi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/teheran-con-loman-su-hormuz-raggiunto-accordo-su-mappa-dei-percorsi_e6a37889-dafd-4101-9c81-7e1f28ec4b6d.html",
-     "data": "2026-08-17T12:11:27+00:00"
     }
    ]
   },
@@ -63,12 +63,12 @@
     {
      "titolo": "Rissa durante una partita di calcio dilettantistico, 4 Daspo",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/rissa-durante-una-partita-di-calcio-dilettantistico-4-daspo_1b4cd7b7-5312-4261-aa63-89e54cbd763a.html",
-     "data": "2026-08-17T14:08:37+00:00"
+     "data": "2026-08-17T14:19:46+00:00"
     },
     {
      "titolo": "Aggressione alla stazione di P. S.Giovanni, i sindacati chiedono interventi immediati",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/aggressione-alla-stazione-di-p.-s.giovanni-i-sindacati-chiedono-interventi-immediati_4aa7f187-3d5e-438b-b5a2-a0c717e70f75.html",
-     "data": "2026-08-17T13:32:25+00:00"
+     "data": "2026-08-17T14:19:53+00:00"
     },
     {
      "titolo": "Dj Ralf fa ballare Costano, musica e solidarietà sotto le stelle",
@@ -78,7 +78,7 @@
     {
      "titolo": "Opposizione sui flussi turistici, l'Umbria unica regione in calo",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/opposizione-sui-flussi-turistici-lumbria-unica-regione-in-calo_bec63b36-195d-4a69-bd79-b5b479ee0cd7.html",
-     "data": "2026-08-17T12:45:27+00:00"
+     "data": "2026-08-17T14:19:56+00:00"
     },
     {
      "titolo": "Ulderico Pesce protagonista al Calvi Festival con due spettacoli",
@@ -88,7 +88,7 @@
     {
      "titolo": "Cura e restauro al centro di 'Scultori a Brufa, la Strada del Vino e dell'Arte'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/cura-e-restauro-al-centro-di-scultori-a-brufa-la-strada-del-vino-e-dellarte_98472b0f-a673-495f-aab7-43cd22037fee.html",
-     "data": "2026-08-17T12:04:49+00:00"
+     "data": "2026-08-17T14:20:04+00:00"
     },
     {
      "titolo": "A suor madre Madre Maria Grazia Biscotti il riconoscimento Vinarelli",
@@ -125,6 +125,16 @@
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Fu sentito come testimone nell'indagine su Chiara Poggi, torna nel Pavese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/fu-sentito-come-testimone-nellindagine-su-chiara-poggi-torna-nel-pavese_83aaadc8-ea4e-4671-abc0-fd6cb562ee85.html",
+     "data": "2026-08-17T14:20:38+00:00"
+    },
+    {
+     "titolo": "Dopo cinque anni via la tensostruttura che ha ospitato il processo Morandi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/dopo-cinque-anni-via-la-tensostruttura-che-ha-ospitato-il-processo-morandi_973f5169-36b2-448f-bbf8-0b14d2b51aeb.html",
+     "data": "2026-08-17T14:15:39+00:00"
+    },
     {
      "titolo": "Allerta temporali, due turisti uccisi da fulmini in un giorno",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/allerta-temporali-due-turisti-uccisi-da-fulmini-in-un-giorno_fea0b2dc-2e29-4c81-9595-7ac085073a70.html",
@@ -174,16 +184,6 @@
      "titolo": "La nave Ocean Viking soccorre 55 migranti in zona sar maltese",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/la-nave-ocean-viking-soccorre-55-migranti-in-zona-sar-maltese_ca62f807-2805-40fb-b648-27f2c8917c70.html",
      "data": "2026-08-17T12:14:04+00:00"
-    },
-    {
-     "titolo": "Crolla balcone, donna in ospedale in gravi condizioni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/crolla-balcone-donna-in-ospedale-in-gravi-condizioni_415131f6-d3e7-4a31-b905-deb37cc1c6c3.html",
-     "data": "2026-08-17T11:55:29+00:00"
-    },
-    {
-     "titolo": "Nave di Emergency soccorre un'imbarcazione, 7 migranti morti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/nave-di-emergency-soccorre-unimbarcazione-7-migranti-morti_cc7c7e13-e179-40bd-aca6-e7cd5437488a.html",
-     "data": "2026-08-17T11:44:02+00:00"
     }
    ]
   },
@@ -210,6 +210,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: Europa fiacca, listini Usa contrastati, Milano +0,4%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-europa-fiacca-listini-usa-contrastati-milano-04_b08a0dac-b619-44bb-8d89-62fb66ed9778.html",
+     "data": "2026-08-17T14:33:34+00:00"
+    },
     {
      "titolo": "Erion Weee, non abbandonare in casa e per strada piccoli e grandi elettrodomestici",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/erion-weee-non-abbandonare-in-casa-e-per-strada-piccoli-e-grandi-elettrodomestici_7af27123-f232-4800-b001-083ab07d576b.html",
@@ -264,17 +269,17 @@
      "titolo": "Borsa: l'Europa debole guarda a Wall Street, Milano +0,4%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-leuropa-debole-guarda-a-wall-street-milano-04_b9ca4030-b809-4e20-b839-23de3155e384.html",
      "data": "2026-08-17T11:09:51+00:00"
-    },
-    {
-     "titolo": "La Commissione Ue adotta la nota sulla flessibilità per sicurezza energetica",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/la-commissione-ue-adotta-la-nota-sulla-flessibilita-per-sicurezza-energetica_ed9f7174-3d0c-4094-8b31-f8fbe8b74008.html",
-     "data": "2026-08-17T10:56:33+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Media, 'Netanyahu a Kushner, serietà Piano con consegna armi. Nessuno Stato Palestina'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/media-netanyahu-a-kushner-serieta-piano-con-consegna-armi.-nessuno-stato_5fa8e5f2-d330-46d0-a063-49f69818ccd4.html",
+     "data": "2026-08-17T14:36:13+00:00"
+    },
     {
      "titolo": "Tribunale russo condanna a 11 anni vicepresidente del partito di opposizione",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/tribunale-russo-condanna-a-11-anni-vicepresidente-del-partito-di-opposizione_488eda8c-a080-4f8d-85eb-e7fbe0f5c2b5.html",
@@ -329,11 +334,6 @@
      "titolo": "Netanyahu indica sindaco New York come nemico di Israele, con Mojtaba, Erdogan e Qassem",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/netanyahu-indica-sindaco-new-york-come-nemico-di-israele-con-mojtaba_273bf006-b0be-4f95-a057-31fd1dce6962.html",
      "data": "2026-08-17T09:06:00+00:00"
-    },
-    {
-     "titolo": "Gli studenti di Cambridge ricordano il professor Arday, 'ucciso dal razzismo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/gli-studenti-di-cambridge-ricordano-il-professor-arday-ucciso-dal-razzismo_b8c2b3cc-50b5-4224-882d-d32287fc2266.html",
-     "data": "2026-08-17T08:55:59+00:00"
     }
    ]
   },
@@ -406,6 +406,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: Milan piomba su Diego Moreira, vicino accordo con Strasburgo",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/calcio-milan-piomba-su-diego-moreira-vicino-accordo-con-strasburgo_fefc51a1-9cf4-41d0-9002-ff60fd6e3016.html",
+     "data": "2026-08-17T14:32:59+00:00"
+    },
+    {
+     "titolo": "Giochi Mediterraneo: operativi i due maxischermi allo stadio 'Iacovone'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/giochi-mediterraneo-operativi-i-due-maxischermi-allo-stadio-iacovone_a7197a5c-e3ed-4e07-bc4b-8bf4498afe05.html",
+     "data": "2026-08-17T14:27:10+00:00"
+    },
+    {
      "titolo": "Sinner, in programma nuovi controlli al J Medical",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/17/sinner-in-programma-nuovi-controlli-al-j-medical_788a4527-283a-4142-b939-387f3f3f604f.html",
      "data": "2026-08-17T13:58:36+00:00"
@@ -454,16 +464,6 @@
      "titolo": "Tennis, a Cincinnati Sonego eliminato al secondo turno da Tiafoe",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/17/tennis-a-cincinnati-sonego-eliminato-al-secondo-turno-da-tiafoe_d6b874c5-2577-4a9f-9fd1-01a5102f4cb7.html",
      "data": "2026-08-17T10:12:39+00:00"
-    },
-    {
-     "titolo": "Il City a un passo dal 18enne Bouaddi, valutazione e' 100 milioni",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/il-city-a-un-passo-dal-18enne-bouaddi-valutazione-e-100-milioni_46a544af-a0ce-42e2-90ad-65f6265026b9.html",
-     "data": "2026-08-17T09:54:07+00:00"
-    },
-    {
-     "titolo": "Giochi Mediterraneo: Cito, 'qui per onorare la maglia azzurra'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/giochi-mediterraneo-cito-qui-per-onorare-la-maglia-azzurra_8810becf-5ed7-4352-ac47-cf7cfe08319c.html",
-     "data": "2026-08-17T08:58:46+00:00"
     }
    ]
   }
