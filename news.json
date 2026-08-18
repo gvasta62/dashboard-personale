@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-18T05:50:54.388847+00:00",
+ "aggiornato": "2026-08-18T06:19:18.094255+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il prezzo dell'oro in calo a 4.443,00 dollari l'oncia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/il-prezzo-delloro-in-calo-a-4.44300-dollari-loncia_77ee4c81-289a-429c-a0dc-feb9634b6d93.html",
+     "data": "2026-08-18T06:06:15+00:00"
+    },
+    {
+     "titolo": "Petrolio in rialzo, Wti a 85,23 dollari al barile (+0,86%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/petrolio-in-rialzo-wti-a-8523-dollari-al-barile-086_d8fb9e0e-b752-40cf-b263-bd7c1372b76f.html",
+     "data": "2026-08-18T06:06:35+00:00"
+    },
+    {
+     "titolo": "L'euro a 1,1572 dollari, in calo dello 0,07%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/leuro-a-11572-dollari-in-calo-dello-007_744a1847-622d-4020-9af4-4038e689694d.html",
+     "data": "2026-08-18T06:06:52+00:00"
+    },
     {
      "titolo": "Lanciati 620 droni contro Mosca durante la notte",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/lanciati-620-droni-contro-mosca-durante-la-notte_4c4b5023-0f59-4352-ac52-7e01a4e961a4.html",
@@ -39,21 +54,6 @@
      "titolo": "La Corte Suprema russa conferma l'esclusione di Yabloko dalle elezioni",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/la-corte-suprema-russa-conferma-lesclusione-di-yabloko-dalle-elezioni_96d118bd-2865-414d-baef-e828e7fb33fa.html",
      "data": "2026-08-17T17:54:09+00:00"
-    },
-    {
-     "titolo": "Barcellona ricorda le 16 vittime degli attentati jihadisti di 9 anni fa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/barcellona-ricorda-le-16-vittime-degli-attentati-jihadisti-di-9-anni-fa_265b5181-f19e-44e7-983a-1c455a794d93.html",
-     "data": "2026-08-17T17:52:39+00:00"
-    },
-    {
-     "titolo": "Il partito di Farage vuole escludere tutti gli stranieri dai sussidi Gb",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/il-partito-di-farage-vuole-escludere-tutti-gli-stranieri-dai-sussidi-gb_569cb0da-1974-44ba-b427-0fcd9256bf74.html",
-     "data": "2026-08-17T17:49:59+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude invariata (+0,01%), sprint di Stm e Prysmian",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-milano-chiude-invariata-001-sprint-di-stm-e-prysmian_5735b1cc-9b30-4891-b36d-e1a2fc66ce28.html",
-     "data": "2026-08-17T16:38:06+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Turco ricercato per omicidio atterra a Ciampino, arrestato dalla Polizia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/turco-ricercato-per-omicidio-atterra-a-ciampino-arrestato-dalla-polizia_631742fc-21f1-4201-8c11-fb3bf490c20d.html",
+     "data": "2026-08-18T06:16:52+00:00"
+    },
+    {
      "titolo": "Accoltellato nel Modenese, arrestata la moglie dopo due settimane",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/accoltellato-nel-modenese-arrestata-la-moglie-dopo-due-settimane_94750361-b6ad-45c4-b5ba-8b6a912319a9.html",
      "data": "2026-08-17T19:50:32+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Furto delle tele di Cezanne, Matisse e Renoir, tre fermati rispondono al Gip",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/furto-delle-tele-di-cezanne-matisse-e-renoir-tre-fermati-rispondono-al-gip_35389d7a-13a3-4a31-a2fe-8b40d6df9500.html",
      "data": "2026-08-17T16:56:06+00:00"
-    },
-    {
-     "titolo": "Scontro frontale tra auto e moto nell'Astigiano, gravissimo un 16enne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/scontro-frontale-tra-auto-e-moto-nellastigiano-gravissimo-un-16enne_003a6647-c1b6-47a1-a550-37386f2d9ab8.html",
-     "data": "2026-08-17T16:44:14+00:00"
     }
    ]
   },
@@ -231,6 +231,21 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Il prezzo dell'oro in calo a 4.443,00 dollari l'oncia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/il-prezzo-delloro-in-calo-a-4.44300-dollari-loncia_c3c0ecc8-91e6-4364-92e5-bc171ac85b50.html",
+     "data": "2026-08-18T06:06:33+00:00"
+    },
+    {
+     "titolo": "Petrolio in rialzo, Wti a 85,23 dollari al barile (+0,86%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/petrolio-in-rialzo-wti-a-8523-dollari-al-barile-086_be0236d9-fee6-43c5-b0d5-646d414a6761.html",
+     "data": "2026-08-18T06:06:35+00:00"
+    },
+    {
+     "titolo": "L'euro a 1,1572 dollari, in calo dello 0,07%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/leuro-a-11572-dollari-in-calo-dello-007_ade7a647-44a4-4a6a-86ef-baec8a38529a.html",
+     "data": "2026-08-18T06:06:54+00:00"
+    },
+    {
      "titolo": "Borsa: Tokyo, apertura in ribasso (-0,56%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-tokyo-apertura-in-ribasso-056_a46fec45-b06c-4172-86ca-db0aedfa7456.html",
      "data": "2026-08-18T00:21:10+00:00"
@@ -274,21 +289,6 @@
      "titolo": "Borsa: L'Europa rallenta nel finale, stallo su Hormuz, Milano +0,05%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-leuropa-rallenta-nel-finale-stallo-su-hormuz-milano-005_752de362-963f-4c4e-8855-f026e6298053.html",
      "data": "2026-08-17T15:29:29+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa fiacca, listini Usa contrastati, Milano +0,4%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-europa-fiacca-listini-usa-contrastati-milano-04_b08a0dac-b619-44bb-8d89-62fb66ed9778.html",
-     "data": "2026-08-17T14:33:34+00:00"
-    },
-    {
-     "titolo": "Erion Weee, non abbandonare in casa e per strada piccoli e grandi elettrodomestici",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/erion-weee-non-abbandonare-in-casa-e-per-strada-piccoli-e-grandi-elettrodomestici_7af27123-f232-4800-b001-083ab07d576b.html",
-     "data": "2026-08-17T13:48:57+00:00"
-    },
-    {
-     "titolo": "Wall Street apre contrastata, Dj a -0,22% e Nadaq a +0,23%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/wall-street-apre-contrastata-dj-a-022-e-nadaq-a-023_14dc5764-d31d-4320-a7cb-1b3a75b2daad.html",
-     "data": "2026-08-17T13:38:33+00:00"
     }
    ]
   },
