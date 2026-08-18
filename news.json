@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-18T14:57:43.826344+00:00",
+ "aggiornato": "2026-08-18T15:24:17.639506+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: l'Europa peggiora nel finale, pesano i microchip, Milano -0,95%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-leuropa-peggiora-nel-finale-pesano-i-microchip-milano-095_44de9eeb-8d65-47ba-9841-798b4ae4d029.html",
+     "data": "2026-08-18T15:20:03+00:00"
+    },
+    {
+     "titolo": "Attivista della Sumud Flotilla in sciopero della fame in carcere in Tunisia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/attivista-della-sumud-flotilla-in-sciopero-della-fame-in-carcere-in-tunisia_25070f5c-de33-45f5-b1c0-674ce005653d.html",
+     "data": "2026-08-18T15:10:52+00:00"
+    },
+    {
+     "titolo": "Tonfo del 3,5% di Meta a Wall Street con l'avvio del processo a tutela dei minori",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/tonfo-del-35-di-meta-a-wall-street-con-lavvio-del-processo-a-tutela_46e04563-cd94-4a2e-807a-8bace3fe13e7.html",
+     "data": "2026-08-18T15:09:11+00:00"
+    },
     {
      "titolo": "Borsa: l'Europa a due velocità con Wall Street, Milano -0,65%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-leuropa-a-due-velocita-con-wall-street-milano-065_99c7db8b-9d22-48e2-930a-2bce5a6f8dfc.html",
@@ -39,27 +54,17 @@
      "titolo": "Siria, 'raid Israele su aeroporto militare. Usa, 'escalation non necessaria'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/siria-raid-israele-su-aeroporto-militare.-usa-escalation-non-necessaria_d10730ac-b126-4d0f-b2e6-5b4ade97a933.html",
      "data": "2026-08-18T12:07:33+00:00"
-    },
-    {
-     "titolo": "Mosca contro Londra per i droni Gb usati da Kiev, 'pagherà un prezzo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/mosca-contro-londra-per-i-droni-gb-usati-da-kiev-paghera-un-prezzo_54a7eeb6-4c27-479e-9ee6-1c61d91a632a.html",
-     "data": "2026-08-18T12:06:41+00:00"
-    },
-    {
-     "titolo": "Germania, ai massimi dal 2011 il rendimento del bund trentennale sindacato",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/germania-ai-massimi-dal-2011-il-rendimento-del-bund-trentennale-sindacato_430cd769-c6c2-44ee-81cb-d601e8feedeb.html",
-     "data": "2026-08-18T12:01:21+00:00"
-    },
-    {
-     "titolo": "Zaia, 'il femminicidio di Tania Terrin è un fallimento'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/zaia-il-femminicidio-di-tania-terrin-e-un-fallimento_471abffd-95c6-4747-85bb-ce681e860892.html",
-     "data": "2026-08-18T11:56:54+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Proietti, Umbria seconda in Italia per crescita del turismo su base semestrale",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/proietti-umbria-seconda-in-italia-per-crescita-del-turismo-su-base-semestrale_ce982a63-f1c6-473e-9ff6-eeb88bb395c4.html",
+     "data": "2026-08-18T15:10:33+00:00"
+    },
     {
      "titolo": "Torna L'AltroFestival, dal 20 al 27 agosto a Perugia",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/torna-laltrofestival-dal-20-al-27-agosto-a-perugia_051f6c4e-7bf4-4fb1-ab99-e32c96b263ca.html",
@@ -114,11 +119,6 @@
      "titolo": "Scendono le temperature notturne e l'Umbria torna a respirare",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/scendono-le-temperature-notturne-e-lumbria-torna-a-respirare_f09b9126-cca5-40a5-abd0-bf766101e8e1.html",
      "data": "2026-08-18T08:32:38+00:00"
-    },
-    {
-     "titolo": "Sarà intitolato a Corrado Viciani il nuovo campo sportivo di Montecchio",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/sara-intitolato-a-corrado-viciani-il-nuovo-campo-sportivo-di-montecchio_fddbc6bd-2443-4d4b-873d-9ead4ac6da70.html",
-     "data": "2026-08-18T08:05:29+00:00"
     }
    ]
   },
@@ -158,7 +158,7 @@
     {
      "titolo": "Sequestrato a Ischia un resort abusivo mimetizzato tra la vegetazione",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/sequestrato-a-ischia-resort-abusivo-mimetizzato-tra-la-vegetazione_b090cea1-e710-49f4-8018-f1d74c59ba5e.html",
-     "data": "2026-08-18T11:37:27+00:00"
+     "data": "2026-08-18T14:57:42+00:00"
     },
     {
      "titolo": "Temporali dopo il caldo, parla l'esperto: 'Le Alpi fanno da hot spot per i fulmini'",
@@ -246,9 +246,24 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: l'Europa peggiora nel finale, pesano i microchip, Milano -0,95%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-leuropa-peggiora-nel-finale-pesano-i-microchip-milano-095_bdc35fb2-b53a-41e4-a9e7-3f4cfdc8eaf2.html",
+     "data": "2026-08-18T15:20:01+00:00"
+    },
+    {
+     "titolo": "Mai definita la temperatura massima per lo stop al lavoro degli chef in cucina",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/mai-definita-la-temperatura-massima-per-lo-stop-al-lavoro-degli-chef-in-cucina_aeeb0077-7493-4746-913c-205ca61cbcfb.html",
+     "data": "2026-08-18T15:18:05+00:00"
+    },
+    {
+     "titolo": "Tonfo del 3,5% di Meta a Wall Street con l'avvio del processo a tutela dei minori",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/tonfo-del-35-di-meta-a-wall-street-con-lavvio-del-processo-a-tutela_bf2a14ca-2446-404c-bb85-b3095fd6323b.html",
+     "data": "2026-08-18T15:21:54+00:00"
+    },
+    {
      "titolo": "Lane (Bce), l'inflazione è 'molto' superiore' all'obiettivo del 2%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/lane-bce-linflazione-e-molto-superiore-allobiettivo-del-2_3a02ef15-681e-49ed-ab4c-99a759887626.html",
-     "data": "2026-08-18T14:26:18+00:00"
+     "data": "2026-08-18T15:01:37+00:00"
     },
     {
      "titolo": "Borsa: l'Europa a due velocità con Wall Street, Milano -0,65%",
@@ -289,27 +304,17 @@
      "titolo": "Geely, nel semestre utile +46%, punta su Europa ed elettrico",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/geely-nel-semestre-utile-46-punta-su-europa-ed-elettrico_8ca11c0c-e47e-4e39-8121-bb508a5007ad.html",
      "data": "2026-08-18T11:34:10+00:00"
-    },
-    {
-     "titolo": "Sempre più caro-tazzina, il caffè al bar rincarato del +24,2% in 5 anni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/e-caro-tazzina-lespresso-costa-129-euro-il-24-piu-del-2021_6b5a8528-90fe-46ae-aaab-1e363005c40d.html",
-     "data": "2026-08-18T13:55:03+00:00"
-    },
-    {
-     "titolo": "Google, Operazione Blue Skies per evitare le scie di condensazione",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/google-operazione-blue-skies-per-evitare-le-scie-di-condensazione_d611338a-2937-4c0e-af10-c29ff499f0de.html",
-     "data": "2026-08-18T10:36:52+00:00"
-    },
-    {
-     "titolo": "Impennata dei lavori legati all'Ia, ma meno opportunità per le donne",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/impennata-dei-lavori-legati-allia-ma-meno-opportunita-per-le-donne_ab5f48fb-3923-4adb-bea1-0918b7894b15.html",
-     "data": "2026-08-18T09:50:59+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Attivista della Sumud Flotilla in sciopero della fame in carcere in Tunisia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/attivista-della-sumud-flotilla-in-sciopero-della-fame-in-carcere-in-tunisia_4dffc3de-d42a-4d08-8982-e8ec44d9f8c1.html",
+     "data": "2026-08-18T15:11:11+00:00"
+    },
     {
      "titolo": "Terremoto in Colombia, 'per la ricostruzione necessari 9,5 miliardi'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/terremoto-in-colombia-per-la-ricostruzione-necessari-95-miliardi_08888570-09e4-4d4d-ab46-14dfce189cc5.html",
@@ -364,11 +369,6 @@
      "titolo": "Primarie Likud, con scrutinio oltre 90% schede, almeno 5 ministri a rischio rielezione",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/primarie-likud-con-scrutinio-oltre-90-schede-almeno-5-ministri-a-rischio-rielezione_f5103de0-6ba3-42b0-8ece-09669ad8a533.html",
      "data": "2026-08-18T07:20:40+00:00"
-    },
-    {
-     "titolo": "Ukmto, 'nave colpita da proiettile nello stretto di Hormuz, un ferito'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/ukmto-nave-colpita-da-proiettile-nello-stretto-di-hormuz-un-ferito_7102c060-a1bb-4fb3-8fe6-1082663895a3.html",
-     "data": "2026-08-18T07:19:18+00:00"
     }
    ]
   },
@@ -441,6 +441,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Coppa Italia: a settembre i sedicesimi, da Parma-Cremonese al derby toscano",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/coppa-italia-a-settembre-i-sedicesimi-da-parma-cremonese-al-derby-toscano_2fad2c8f-33b7-4342-b525-def3d7ba8f7f.html",
+     "data": "2026-08-18T15:12:21+00:00"
+    },
+    {
      "titolo": "Varenne: proprietario allevamento Eboli 'morte improvvisa, ieri stava bene'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/varenne-proprietario-allevamento-eboli-morte-improvvisa-ieri-stava-bene_77a6307c-0a25-4f3a-9a3a-5e51fed2d728.html",
      "data": "2026-08-18T14:43:58+00:00"
@@ -494,11 +499,6 @@
      "titolo": "Milan: Modric, 'puntiamo a vincere e non solo alla qualificazione Champions'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/milan-modric-puntiamo-a-vincere-e-non-solo-alla-qualificazione-champions_78005c1b-d8cb-49c5-a5c1-480745194f4a.html",
      "data": "2026-08-18T13:32:41+00:00"
-    },
-    {
-     "titolo": "Vela: al via dal golfo di Mondello la Palermo-Montecarlo",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/vela-al-via-dal-golfo-di-mondello-la-palermo-montecarlo_537c2381-adfb-48c0-8a26-1341fd3caee3.html",
-     "data": "2026-08-18T13:04:39+00:00"
     }
    ]
   }
