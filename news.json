@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-18T07:58:58.638483+00:00",
+ "aggiornato": "2026-08-18T08:32:08.811105+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -61,6 +61,16 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Sarà intitolato a Corrado Viciani il nuovo campo sportivo di Montecchio",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/sara-intitolato-a-corrado-viciani-il-nuovo-campo-sportivo-di-montecchio_fddbc6bd-2443-4d4b-873d-9ead4ac6da70.html",
+     "data": "2026-08-18T08:05:29+00:00"
+    },
+    {
+     "titolo": "A 10 anni da sisma per 2 opere pubbliche su 3 non ancora partito il cantiere",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/a-10-anni-da-sisma-per-2-opere-pubbliche-su-3-non-ancora-partito-il-cantiere_00c90c0f-5efc-45b6-8680-343f69fa0580.html",
+     "data": "2026-08-18T08:04:07+00:00"
+    },
+    {
      "titolo": "Denuncia aggressione mentre dorme dal compagno, la arresta un 45enne",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/denuncia-aggressione-mentre-dorme-dal-compagno-la-arresta-un-45enne_d71524b8-c5aa-498d-a44e-77b51462714f.html",
      "data": "2026-08-18T07:49:24+00:00"
@@ -109,22 +119,37 @@
      "titolo": "A suor madre Maria Grazia Biscotti il riconoscimento Vinarelli",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/a-suor-madre-madre-maria-grazia-biscotti-il-riconoscimento-vinarelli_294e765b-2804-427c-8d68-1accaf3cfce0.html",
      "data": "2026-08-17T15:56:08+00:00"
-    },
-    {
-     "titolo": "Ipotesi alta velocità per incidente stradale a ridosso del centro di Terni",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/16/ipotesi-alta-velocita-per-incidente-stradale-a-ridosso-del-centro-di-terni_d0a7dbf9-aee1-4c41-9a9a-c3b425e1c004.html",
-     "data": "2026-08-16T20:55:29+00:00"
-    },
-    {
-     "titolo": "Riparata la rottura sull'adduttrice idrica 'Scirca'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/16/riparata-la-rottura-sulladduttrice-idrica-scirca_e4055a64-eeb7-42af-9b27-a7b8fcf9e61e.html",
-     "data": "2026-08-16T16:59:29+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Furto opere di Antonello da Messina: il museo ha riaperto al pubblico",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/furto-opere-di-antonello-da-messina-il-museo-ha-riaperto-al-pubblico_41c04aac-a5a4-4c3e-a6ba-58293cf622ac.html",
+     "data": "2026-08-18T08:19:37+00:00"
+    },
+    {
+     "titolo": "Locatelli, per bando 'Vita & Opportunità' arrivate 1.100 richieste",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/locatelli-per-bando-vita-opportunita-arrivate-1.100-richieste_c9412370-2a08-4b6f-9a73-85bc051e5529.html",
+     "data": "2026-08-18T08:18:20+00:00"
+    },
+    {
+     "titolo": "Etna: tornano normali le attività di volo all'aeroporto di Catania",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/etna-tornano-normali-le-attivita-di-volo-allaeroporto-di-catania_99b2a639-c2ff-488e-9803-994fe4336fff.html",
+     "data": "2026-08-18T08:16:44+00:00"
+    },
+    {
+     "titolo": "Etna: tornano normali le attività di volo all'aeroporto di Catania",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/etna-tornano-normali-le-attivita-di-volo-allaeroporto-di-catania_2941ebc3-a0e4-400c-bc43-114ce0304931.html",
+     "data": "2026-08-18T08:24:14+00:00"
+    },
+    {
+     "titolo": "A 10 anni dal sisma per due opere pubbliche su tre non è ancora partito il cantiere",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/a-10-anni-da-sisma-per-2-opere-pubbliche-su-3-non-ancora-partito-il-cantiere_7ba078c5-c2e8-4e92-9870-7234dbeb1bde.html",
+     "data": "2026-08-18T08:22:16+00:00"
+    },
     {
      "titolo": "Strage di Vergarolla: sindaco Gorizia, chinarsi di fronte a dolore altrui",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/strage-di-vergarolla-sindaco-gorizia-chinarsi-di-fronte-a-dolore-altrui_75371fe6-9bd7-4d23-a22a-18ea75d87364.html",
@@ -159,31 +184,6 @@
      "titolo": "Accoltellato nel Modenese, arrestata la moglie dopo due settimane",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/accoltellato-nel-modenese-arrestata-la-moglie-dopo-due-settimane_94750361-b6ad-45c4-b5ba-8b6a912319a9.html",
      "data": "2026-08-17T19:50:32+00:00"
-    },
-    {
-     "titolo": "Incendi in Piemonte, a Mornese un bosco di nuovo in fiamme",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/incendi-in-piemonte-a-mornese-un-bosco-di-nuovo-in-fiamme_2fdd5055-15b8-41b1-bcf0-f936487d44df.html",
-     "data": "2026-08-17T19:37:47+00:00"
-    },
-    {
-     "titolo": "Bortuzzo, 'la mia sedia a rotelle danneggiata durate il trasporto in aereo'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/bortuzzo-la-mia-sedia-a-rotelle-danneggiata-durate-il-trasporto-in-aereo_f61228dd-0d70-495c-85a4-1955d604db69.html",
-     "data": "2026-08-17T19:22:24+00:00"
-    },
-    {
-     "titolo": "Manuel Bortuzzo e la carrozzina rotta: \"Il peggior volo aereo della mia vita\"",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/manuel-bortuzzo-e-la-carrozzina-rotta-il-peggior-volo-aereo-della-mia-vita_e1aa4e09-4a03-4c6d-9255-50efeac9de05.html",
-     "data": "2026-08-17T19:27:17+00:00"
-    },
-    {
-     "titolo": "Decapitata la statua della Madonna a Coppito, 'gesto vile'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/decapitata-la-statua-della-madonna-a-coppito-gesto-vile_436045c2-5fa0-4751-918a-f9aa6064433a.html",
-     "data": "2026-08-17T18:34:04+00:00"
-    },
-    {
-     "titolo": "'Un mese prima Lavitola avvisò Ranucci sul rischio attentati'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/un-mese-prima-lavitola-avviso-ranucci-sul-rischio-attentati_9c7536df-5f02-4bfa-8560-91b200f8cb99.html",
-     "data": "2026-08-17T18:26:53+00:00"
     }
    ]
   },
