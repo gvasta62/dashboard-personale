@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-18T21:10:53.460340+00:00",
+ "aggiornato": "2026-08-18T21:42:58.360121+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Emirati, 'sospesi scambi commerciali e transazioni finanziarie con l'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/emirati-sospesi-scambi-commerciali-e-transazioni-finanziarie-con-liran_18144d15-3e28-4a19-aa6a-71305cf97705.html",
+     "data": "2026-08-18T21:28:08+00:00"
+    },
+    {
+     "titolo": "Iran nega di aver lanciato missili contro gli Emirati, 'accuse infondate'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/iran-nega-di-aver-lanciato-missili-contro-gli-emirati-accuse-infondate_728e1532-e604-4796-86e4-97cc60a5e251.html",
+     "data": "2026-08-18T21:25:23+00:00"
+    },
+    {
+     "titolo": "Netanyahu rivendica raid in Siria, 'stavano per autorizzare truppe turche in una base'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/netanyahu-rivendica-raid-in-siria-stavano-per-autorizzare-truppe-turche-in-una_b1b91917-483d-4e8d-97c0-547786851c3c.html",
+     "data": "2026-08-18T21:24:04+00:00"
+    },
     {
      "titolo": "Fedorov chiede elezioni in Ucraina, 'democrazia non sia ostaggio della Russia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/fedorov-chiede-elezioni-in-ucraina-democrazia-non-sia-ostaggio-della-russia_a581ec49-ca33-441c-9e69-924f92f9c12a.html",
@@ -39,21 +54,6 @@
      "titolo": "Zelensky propone Yevhenii Khmara come nuovo ministro della Difesa",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/zelensky-propone-yevhenii-khmara-come-nuovo-ministro-della-difesa_d337494f-2d75-4af5-920a-f2d522b2eea4.html",
      "data": "2026-08-18T17:25:11+00:00"
-    },
-    {
-     "titolo": "Emirati, 'l'Iran ha lanciato due missili balistici, finiti in mare'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/emirati-liran-ha-lanciato-due-missili-balistici-finiti-in-mare_abedab91-f906-49b8-b3a5-0cf55f222bc1.html",
-     "data": "2026-08-18T17:05:23+00:00"
-    },
-    {
-     "titolo": "Federacciai presenta la manifestazione di interesse per gli stabilimenti ex Ilva",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/federacciai-presenta-la-manifestazione-di-interesse-per-gli-stabilimenti-ex-ilva_8c8da8a3-0fae-4a9e-a5d3-d9b461a38706.html",
-     "data": "2026-08-18T17:04:24+00:00"
-    },
-    {
-     "titolo": "Il calciatore del Cagliari Trepy si risveglia dal coma",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/il-calciatore-del-cagliari-trepy-si-risveglia-dal-coma_8e3ee9ba-ec42-4329-8d3a-0a00526e7d2a.html",
-     "data": "2026-08-18T17:01:47+00:00"
     }
    ]
   },
@@ -281,6 +281,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Emirati, 'sospesi scambi commerciali e transazioni finanziarie con l'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/emirati-sospesi-scambi-commerciali-e-transazioni-finanziarie-con-liran_0b703c70-6c2a-4317-bfd9-235e3eee0c4a.html",
+     "data": "2026-08-18T21:28:06+00:00"
+    },
+    {
+     "titolo": "Iran nega di aver lanciato missili contro gli Emirati, 'accuse infondate'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/iran-nega-di-aver-lanciato-missili-contro-gli-emirati-accuse-infondate_3fa3041e-4b7f-46d9-b7cd-7b8c54d0f04b.html",
+     "data": "2026-08-18T21:25:42+00:00"
+    },
+    {
+     "titolo": "Netanyahu rivendica raid in Siria, 'stavano per autorizzare truppe turche in una base'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/netanyahu-rivendica-raid-in-siria-stavano-per-autorizzare-truppe-turche-in-una_765adc77-07aa-4340-b799-cfdd3cc48294.html",
+     "data": "2026-08-18T21:24:22+00:00"
+    },
+    {
      "titolo": "Fedorov chiede elezioni in Ucraina, 'democrazia non sia ostaggio della Russia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/18/fedorov-chiede-elezioni-in-ucraina-democrazia-non-sia-ostaggio-della-russia_8cc63e8e-2719-4f6f-b6c4-593b5ebeba41.html",
      "data": "2026-08-18T19:46:14+00:00"
@@ -324,21 +339,6 @@
      "titolo": "Raid di Israele su un aeroporto militare in Siria, l'ira degli Usa",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/raid-di-israele-su-un-aeroporto-militare-in-siria-lira-degli-usa_3b6e2a5d-5c56-4feb-a5eb-74801e75f24e.html",
      "data": "2026-08-18T16:23:33+00:00"
-    },
-    {
-     "titolo": "Trump posta la mappa di Hormuz, 'nuovo territorio Usa'. Teheran: 'Si illude'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/emirati-liran-ha-lanciato-due-missili-balistici-finiti-in-mare.-trump-posta_1d2647f8-f2df-448f-836e-1c9871b298cc.html",
-     "data": "2026-08-18T19:34:17+00:00"
-    },
-    {
-     "titolo": "Attivista della Sumud Flotilla in sciopero della fame in carcere in Tunisia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/attivista-della-sumud-flotilla-in-sciopero-della-fame-in-carcere-in-tunisia_4dffc3de-d42a-4d08-8982-e8ec44d9f8c1.html",
-     "data": "2026-08-18T15:11:11+00:00"
-    },
-    {
-     "titolo": "Terremoto in Colombia, 'per la ricostruzione necessari 9,5 miliardi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/terremoto-in-colombia-per-la-ricostruzione-necessari-95-miliardi_08888570-09e4-4d4d-ab46-14dfce189cc5.html",
-     "data": "2026-08-18T14:04:01+00:00"
     }
    ]
   },
