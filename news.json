@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-18T18:16:45.375637+00:00",
+ "aggiornato": "2026-08-18T19:03:15.068683+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Palio Siena, vince la contrada del Nicchio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/palio-siena-vince-la-contrada-del-nicchio_1a9420ce-a558-4d86-bae5-b21df28a6c82.html",
+     "data": "2026-08-18T18:56:04+00:00"
+    },
     {
      "titolo": "Anziana uccisa a colpi di pietra, al vaglio la posizione del marito",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/anziana-uccisa-a-colpi-di-pietra-al-vaglio-la-posizione-del-marito_608c3ef8-90d2-418e-8983-2bd9f9528b13.html",
@@ -49,11 +54,6 @@
      "titolo": "Pichetto, per flessibilità energia misure a studio, da pompe calore a ferrovie",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/pichetto-per-flessibilita-energia-misure-a-studio-da-pompe-calore-a-ferrovie_019eb3dd-248d-4bf8-a2ca-228456a91569.html",
      "data": "2026-08-18T16:34:23+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in calo (-1,06%), pesano Stm e Prysmian",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-milano-chiude-in-calo-106-pesano-stm-e-prysmian_3ab14a5c-d297-46f0-87a6-a415c2b3da3f.html",
-     "data": "2026-08-18T16:19:41+00:00"
     }
    ]
   },
@@ -126,9 +126,29 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Palio Siena, vince la contrada del Nicchio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/palio-siena-vince-la-contrada-del-nicchio_30aaaab1-ad09-4ca6-aa67-156db5bf0696.html",
+     "data": "2026-08-18T18:56:23+00:00"
+    },
+    {
+     "titolo": "Ultraleggero scomparso, ricerche ancora senza esito",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/ultraleggero-scomparso-ricerche-ancora-senza-esito_3250bf6a-ffd4-4c36-9db9-03c6645ac5ec.html",
+     "data": "2026-08-18T18:49:07+00:00"
+    },
+    {
+     "titolo": "Sindaco trovato impiccato in municipio, la moglie chiede riapertura indagini",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/sindaco-trovato-impiccato-in-municipio-la-moglie-chiede-riapertura-indagini_c41ca0bc-a5f0-4110-b206-ced252f84805.html",
+     "data": "2026-08-18T18:41:56+00:00"
+    },
+    {
+     "titolo": "Palio di Siena, vince la contrada del Nicchio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/palio-siena-vince-la-contrada-del-nicchio_21b27920-e095-4b33-b6b8-220077484b34.html",
+     "data": "2026-08-18T18:41:27+00:00"
+    },
+    {
      "titolo": "Anziana uccisa a colpi di pietra, al vaglio la posizione del marito",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/anziana-uccisa-a-colpi-di-pietra-al-vaglio-la-posizione-del-marito_8f3dda54-25da-4934-a66e-d6d685035c00.html",
-     "data": "2026-08-18T18:08:25+00:00"
+     "data": "2026-08-18T18:17:49+00:00"
     },
     {
      "titolo": "Precipita in montagna davanti al marito, morta una donna di 65 anni",
@@ -148,7 +168,7 @@
     {
      "titolo": "Donna uccisa a coltellate vicino Roma davanti a uno dei figli: fermato il marito",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/donna-uccisa-a-coltellate-vicino-roma-fermato-il-marito_2fd50acc-3326-4b72-8a05-c99380460419.html",
-     "data": "2026-08-18T17:17:32+00:00"
+     "data": "2026-08-18T18:18:36+00:00"
     },
     {
      "titolo": "Musica sulle barche davanti a isola parco La Maddalena, pioggia di multe",
@@ -164,26 +184,6 @@
      "titolo": "Ragazzo disperso in mare, concluse le operazioni di ricerca subacquea",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/ragazzo-disperso-in-mare-concluse-le-operazioni-di-ricerca-subacquea_42373e43-14c8-4a7f-ba79-4033cfa8b386.html",
      "data": "2026-08-18T16:05:01+00:00"
-    },
-    {
-     "titolo": "L'ex di Tania Terrin denunciato altre tre volte da precedenti compagne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/lex-di-tania-terrin-denunciato-altre-tre-volte-da-precedenti-compagne_cd4d11a1-6d51-4676-836b-d3afa3c43e80.html",
-     "data": "2026-08-18T16:22:34+00:00"
-    },
-    {
-     "titolo": "L'ex di Terrin denunciato altre tre volte, la prima nel 2002",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/lex-di-terrin-denunciato-altre-tre-volte-la-prima-nel-2002_ea8d8d38-050f-4ad1-a365-4985a7862650.html",
-     "data": "2026-08-18T15:45:36+00:00"
-    },
-    {
-     "titolo": "Furto delle tele di Cezanne, Matisse e Renoir, i 5 indagati restano in carcere",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/furto-delle-tele-di-cezanne-matisse-e-renoir-i-5-indagati-restano-in-carcere_c2be48ec-6556-47a8-9a21-e7f9bac4319a.html",
-     "data": "2026-08-18T15:35:14+00:00"
-    },
-    {
-     "titolo": "Minori e social, in Italia norme ferme in Parlamento",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/minori-e-social-in-italia-norme-ferme-in-parlamento_15fede12-d34e-48b5-8d82-7688b4386fd5.html",
-     "data": "2026-08-18T15:29:52+00:00"
     }
    ]
   },
@@ -216,9 +216,9 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Federacciai presenta la manifestazione di interesse per gli stabilimenti ex Ilva",
+     "titolo": "Federacciai presenta la manifestazione di interesse per l'ex Ilva",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/federacciai-presenta-la-manifestazione-di-interesse-per-gli-stabilimenti-ex-ilva_35f7e3ee-5a18-440e-a256-6d7dd54e28da.html",
-     "data": "2026-08-18T17:14:04+00:00"
+     "data": "2026-08-18T18:14:09+00:00"
     },
     {
      "titolo": "Il gas naturale supera i 64 euro sulla piazza Ttf di Amsterdam",
@@ -411,6 +411,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Nazionali: Vieira è il nuovo allenatore del Senegal, suo Paese di nascita",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/nazionali-vieira-e-il-nuovo-allenatore-del-senegal-suo-paese-di-nascita_a069d108-2ce5-4d68-83ed-7791883b9da8.html",
+     "data": "2026-08-18T18:39:26+00:00"
+    },
+    {
      "titolo": "Musetti agli ottavi a Cincinnati, battuto Zheng in due set",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/18/musetti-agli-ottavi-a-cincinnati-battuto-zheng-in-due-set_3da853ec-b99f-4e32-8f13-00d75338242d.html",
      "data": "2026-08-18T18:08:30+00:00"
@@ -464,11 +469,6 @@
      "titolo": "Coppa Italia: a settembre i sedicesimi, da Parma-Cremonese al derby toscano",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/coppa-italia-a-settembre-i-sedicesimi-da-parma-cremonese-al-derby-toscano_2fad2c8f-33b7-4342-b525-def3d7ba8f7f.html",
      "data": "2026-08-18T15:12:21+00:00"
-    },
-    {
-     "titolo": "Varenne: proprietario allevamento Eboli 'morte improvvisa, ieri stava bene'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/varenne-proprietario-allevamento-eboli-morte-improvvisa-ieri-stava-bene_77a6307c-0a25-4f3a-9a3a-5e51fed2d728.html",
-     "data": "2026-08-18T14:43:58+00:00"
     }
    ]
   }
