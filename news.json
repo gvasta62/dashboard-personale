@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-18T10:14:40.436079+00:00",
+ "aggiornato": "2026-08-18T10:52:05.056909+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -61,6 +61,11 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Minorenne sorpreso in una sala scommesse, il locale chiuso per 10 giorni",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/minorenne-sorpreso-in-una-sala-scommesse-il-locale-chiuso-per-10-giorni_7817d43d-b51a-431d-8e2c-fa66c6c90ce7.html",
+     "data": "2026-08-18T10:18:15+00:00"
+    },
+    {
      "titolo": "Senza casa dorme con la madre anziana nella loro attività",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/senza-casa-dorme-con-la-madre-anziana-nella-loro-attivita_36b39fde-ca56-4ff5-b1c5-797030eec7cf.html",
      "data": "2026-08-18T10:07:22+00:00"
@@ -114,11 +119,6 @@
      "titolo": "Opposizione sui flussi turistici, l'Umbria unica regione in calo",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/opposizione-sui-flussi-turistici-lumbria-unica-regione-in-calo_bec63b36-195d-4a69-bd79-b5b479ee0cd7.html",
      "data": "2026-08-17T14:19:56+00:00"
-    },
-    {
-     "titolo": "Ulderico Pesce protagonista al Calvi Festival con due spettacoli",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/17/ulderico-pesce-protagonista-al-calvi-festival-con-due-spettacoli_f5c0e128-1897-4be2-a6db-41f4f848b3a2.html",
-     "data": "2026-08-17T16:16:44+00:00"
     }
    ]
   },
@@ -126,9 +126,19 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Attaccante Cagliari Trepy migliora, ma resta in Terapia intensiva",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/attaccante-cagliari-trepy-migliora-ma-resta-in-terapia-intensiva_75f0e02f-33c7-454f-bd7b-96c0e91bc854.html",
+     "data": "2026-08-18T10:22:52+00:00"
+    },
+    {
      "titolo": "Sequestrato a Ischia resort abusivo mimetizzato tra la vegetazione",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/sequestrato-a-ischia-resort-abusivo-mimetizzato-tra-la-vegetazione_b090cea1-e710-49f4-8018-f1d74c59ba5e.html",
      "data": "2026-08-18T10:06:47+00:00"
+    },
+    {
+     "titolo": "Temporali dopo il caldo, parla l'esperto: 'Le Alpi fanno da hot spot per i fulmini'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/temporali-dopo-il-caldo-parla-lesperto-le-alpi-fanno-da-hot-spot-per_d9e35673-8b00-4df7-885c-a720ae9e3fd0.html",
+     "data": "2026-08-18T10:11:48+00:00"
     },
     {
      "titolo": "Uccide la ex che lo aveva denunciato. La madre: 'Si era costruito un cappio e lo mostrava a mia figlia'",
@@ -174,16 +184,6 @@
      "titolo": "Furto opere di Antonello da Messina: il museo ha riaperto al pubblico",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/furto-opere-di-antonello-da-messina-il-museo-ha-riaperto-al-pubblico_41c04aac-a5a4-4c3e-a6ba-58293cf622ac.html",
      "data": "2026-08-18T08:19:37+00:00"
-    },
-    {
-     "titolo": "Locatelli, per bando 'Vita & Opportunità' arrivate 1.100 richieste",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/locatelli-per-bando-vita-opportunita-arrivate-1.100-richieste_c9412370-2a08-4b6f-9a73-85bc051e5529.html",
-     "data": "2026-08-18T08:18:20+00:00"
-    },
-    {
-     "titolo": "Etna: tornano normali le attività di volo all'aeroporto di Catania",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/etna-tornano-normali-le-attivita-di-volo-allaeroporto-di-catania_99b2a639-c2ff-488e-9803-994fe4336fff.html",
-     "data": "2026-08-18T08:16:44+00:00"
     }
    ]
   },
@@ -246,6 +246,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Google, Operazione Blue Skies per evitare le scie di condensazione",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/google-operazione-blue-skies-per-evitare-le-scie-di-condensazione_d611338a-2937-4c0e-af10-c29ff499f0de.html",
+     "data": "2026-08-18T10:36:52+00:00"
+    },
+    {
      "titolo": "Impennata dei lavori legati all'Ia, ma meno opportunità per le donne",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/impennata-dei-lavori-legati-allia-ma-meno-opportunita-per-le-donne_ab5f48fb-3923-4adb-bea1-0918b7894b15.html",
      "data": "2026-08-18T09:50:59+00:00"
@@ -291,19 +296,14 @@
      "data": "2026-08-18T08:32:25+00:00"
     },
     {
+     "titolo": "SCHEDA - Dalle ristrutturazioni alle colonnine, 22 misure di flessibilità dall'Ue sull'energia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/scheda-dalle-ristrutturazioni-alle-colonnine-22-misure-di-flessibilita-dallue-sullenergia_7190544d-c7ad-4a35-8013-ca686f7f6196.html",
+     "data": "2026-08-18T10:39:51+00:00"
+    },
+    {
      "titolo": "Borsa: Milano (-0,4%) fiacca con l'Europa, deboli Banco Bpm e Generali",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-milano-04-fiacca-con-leuropa-deboli-banco-bpm-e-generali_ba586bf7-b8c9-4cdc-91a6-79f68b44e6d6.html",
      "data": "2026-08-18T07:25:48+00:00"
-    },
-    {
-     "titolo": "Gme, sale l'indice italiano del prezzo del gas",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/gme-sale-lindice-italiano-del-prezzo-del-gas_a7fed4b1-5cd3-4773-8a86-f240f8bc2686.html",
-     "data": "2026-08-18T08:38:41+00:00"
-    },
-    {
-     "titolo": "Ue, con clausola energia sovvenzioni a pompe di calore e centrali nucleari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/ue-con-clausola-energia-sovvenzioni-a-pompe-di-calore-e-centrali-nucleari_1450800c-2755-4a65-9da2-4d20c403a26d.html",
-     "data": "2026-08-18T07:15:27+00:00"
     }
    ]
   },
@@ -441,6 +441,31 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Milan: Diego Moreira è a Milano, subito le visite mediche",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/milan-diego-moreira-e-a-milano-subito-le-visite-mediche_aeb09441-360a-4ee3-bdc1-63ffca393c90.html",
+     "data": "2026-08-18T10:44:41+00:00"
+    },
+    {
+     "titolo": "Vela: al via dal golfo di Mondello la Palermo-Montecarlo",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/vela-al-via-dal-golfo-di-mondello-la-palermo-montecarlo_537c2381-adfb-48c0-8a26-1341fd3caee3.html",
+     "data": "2026-08-18T10:42:10+00:00"
+    },
+    {
+     "titolo": "Roma: è fatta per Mora, l'attaccante atteso nella Capitale",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/roma-e-fatta-per-mora-lattaccante-atteso-nella-capitale_12b352e8-0956-482e-bbfc-35d5327d1615.html",
+     "data": "2026-08-18T10:40:46+00:00"
+    },
+    {
+     "titolo": "Modric, il Milan ha dimostrato quanto tenesse a me",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/modric-il-milan-ha-dimostrato-quanto-tenesse-a-me_595d3475-1fb5-46db-ba0d-287a273aa387.html",
+     "data": "2026-08-18T10:38:18+00:00"
+    },
+    {
+     "titolo": "Coppa Italia: quattro giocatori fermati per un turno",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/coppa-italia-quattro-giocatori-fermati-per-un-turno_7d463ce8-e4cf-4503-960e-7f59ffdcbf01.html",
+     "data": "2026-08-18T10:19:19+00:00"
+    },
+    {
      "titolo": "Cincinnati, Sara Errani agli ottavi nel doppio",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/18/cincinnati-sara-errani-agli-ottavi-nel-doppio_966f2831-3a12-4255-89fe-a96aff22e7a0.html",
      "data": "2026-08-18T09:39:03+00:00"
@@ -474,31 +499,6 @@
      "titolo": "Filippo Galli replica a Maldini, 'non ha seguito il settore giovanile'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/filippo-galli-replica-a-maldini-non-ha-seguito-il-settore-giovanile_291dd7c8-fb05-4360-93bd-4c0754aaa0e9.html",
      "data": "2026-08-17T20:25:43+00:00"
-    },
-    {
-     "titolo": "La Fifa licenzia il direttore operativo Lamour, aveva criticato Infantino",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/la-fifa-licenzia-il-direttore-operativo-lamour-aveva-criticato-infantino_fcc9671f-f449-4248-bf11-50cf8cbc5eca.html",
-     "data": "2026-08-17T20:03:05+00:00"
-    },
-    {
-     "titolo": "Rodri a Barcellona per la firma, 'un sogno giocare in blaugrana'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/rodri-a-barcellona-per-la-firma-un-sogno-giocare-in-blaugrana_4b221d35-ae7e-434b-a0fe-5004bf4351b9.html",
-     "data": "2026-08-17T19:32:44+00:00"
-    },
-    {
-     "titolo": "Iapichino, 'il mio oro mancava all'atletica azzurra, tantissime emozioni'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/17/iapichino-il-mio-oro-mancava-allatletica-azzurra-tantissime-emozioni_2fe09cff-12bb-4968-add3-b5f408cb0bba.html",
-     "data": "2026-08-17T18:55:07+00:00"
-    },
-    {
-     "titolo": "Coppa Italia: 3-0 al Cesena, il Sassuolo approda ai sedicesimi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/coppa-italia-3-0-al-cesena-il-sassuolo-approda-ai-sedicesimi_2013e242-b5dc-4428-bdde-7f947cd46e8d.html",
-     "data": "2026-08-17T18:38:50+00:00"
-    },
-    {
-     "titolo": "Festa della Juve dura 45', Elkann: 'Costruiamo per tornare a vincere'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/festa-della-juve-dura-45-elkann-costruiamo-per-tornare-a-vincere_8d7f88c7-4f95-413e-a1a8-02e00bfa912e.html",
-     "data": "2026-08-17T19:03:51+00:00"
     }
    ]
   }
