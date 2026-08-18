@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-08-18T11:46:22.458460+00:00",
+ "aggiornato": "2026-08-18T12:17:27.362346+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Siria, 'raid Israele su aeroporto militare. Usa, 'escalation non necessaria'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/siria-raid-israele-su-aeroporto-militare.-usa-escalation-non-necessaria_d10730ac-b126-4d0f-b2e6-5b4ade97a933.html",
+     "data": "2026-08-18T12:07:33+00:00"
+    },
+    {
+     "titolo": "Mosca contro Londra per i droni Gb usati da Kiev, 'pagherà un prezzo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/mosca-contro-londra-per-i-droni-gb-usati-da-kiev-paghera-un-prezzo_54a7eeb6-4c27-479e-9ee6-1c61d91a632a.html",
+     "data": "2026-08-18T12:06:41+00:00"
+    },
+    {
+     "titolo": "Germania, ai massimi dal 2011 il rendimento del bund trentennale sindacato",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/germania-ai-massimi-dal-2011-il-rendimento-del-bund-trentennale-sindacato_430cd769-c6c2-44ee-81cb-d601e8feedeb.html",
+     "data": "2026-08-18T12:01:21+00:00"
+    },
+    {
+     "titolo": "Zaia, 'il femminicidio di Tania Terrin è un fallimento'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/zaia-il-femminicidio-di-tania-terrin-e-un-fallimento_471abffd-95c6-4747-85bb-ce681e860892.html",
+     "data": "2026-08-18T11:56:54+00:00"
+    },
+    {
+     "titolo": "Imprenditore precipita dal tetto di un capannone e muore in Umbria",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/imprenditore-precipita-dal-tetto-di-un-capannone-e-muore-in-umbria_201a5af9-f786-4eb6-82fa-b55b82b8ec81.html",
+     "data": "2026-08-18T11:47:53+00:00"
+    },
     {
      "titolo": "E' caro tazzina, espresso in media a 1,29 euro (+24,5% sul 2025)",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/e-caro-tazzina-espresso-in-media-a-129-euro-245-sul-2025_e4b9b214-2324-4220-a66b-29fd71ad21b9.html",
@@ -29,37 +54,27 @@
      "titolo": "Il cinema piange Fulvio Lucisano, protagonista di oltre 70 anni di produzione",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/il-cinema-piange-fulvio-lucisano-protagonista-di-oltre-70-anni-di-produzione_f93ce5f9-597f-407c-8e61-e7c8d7f337d4.html",
      "data": "2026-08-18T08:39:57+00:00"
-    },
-    {
-     "titolo": "Damasco, 'raid aerei su aeroporto militare nel nord-ovest della Siria'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/damasco-raid-aerei-su-aeroporto-militare-nel-nord-ovest-della-siria_2613bed3-e98d-41d9-8bee-e88936a5500c.html",
-     "data": "2026-08-18T07:28:32+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano (-0,4%) fiacca con l'Europa, deboli Banco Bpm e Generali",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-milano-04-fiacca-con-leuropa-deboli-banco-bpm-e-generali_b7f3dc0b-b0bb-4b2c-b750-03fdbdd092df.html",
-     "data": "2026-08-18T07:25:45+00:00"
-    },
-    {
-     "titolo": "Primarie Likud, con scrutinio oltre 90% schede, almeno 5 ministri a rischio rielezione",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/primarie-likud-con-scrutinio-oltre-90-schede-almeno-5-ministri-a-rischio-rielezione_dd6e6dde-2d27-43a8-9f89-4d14ccddab58.html",
-     "data": "2026-08-18T07:20:37+00:00"
-    },
-    {
-     "titolo": "Ukmto, 'nave colpita da proiettile nello stretto di Hormuz, un ferito'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/ukmto-nave-colpita-da-proiettile-nello-stretto-di-hormuz-un-ferito_8c83672c-2563-4c50-b356-8cfafaca2925.html",
-     "data": "2026-08-18T07:19:17+00:00"
-    },
-    {
-     "titolo": "Kiev, 'almeno 10 morti nel raid russo su Kharkiv'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/kiev-almeno-10-morti-nel-raid-russo-su-kharkiv_fe8b6c35-d84f-4218-acdc-d37df019ac54.html",
-     "data": "2026-08-18T07:16:20+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Al via la 50/a edizione della Quintanella di Scafali",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/al-via-la-50a-edizione-della-quintanella-di-scafali_75353994-f6fb-4d4a-a5ac-78adc4fcdb01.html",
+     "data": "2026-08-18T12:08:27+00:00"
+    },
+    {
+     "titolo": "Parte da Narni la tournée dell'Associazione Magazzini Artistici",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/parte-da-narni-la-tournee-dellassociazione-magazzini-artistici_465ac781-12f1-42e4-9f9e-a56f0a69f7f9.html",
+     "data": "2026-08-18T11:50:34+00:00"
+    },
+    {
+     "titolo": "Imprenditore precipita dal tetto di un capannone e muore in Umbria",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/imprenditore-precipita-dal-tetto-di-un-capannone-e-muore-in-umbria_e17ee32f-1f23-4357-9ebe-777ef36e52ee.html",
+     "data": "2026-08-18T11:48:09+00:00"
+    },
     {
      "titolo": "A Tavernelle 30 anni di Sagra della pannocchia con il progetto 'Dal seme alla festa'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/a-tavernelle-30-anni-di-sagra-della-pannocchia-con-il-progetto-dal-seme-alla_fbc78c09-6b68-4e77-8ab3-777a72b11366.html",
@@ -68,7 +83,7 @@
     {
      "titolo": "Confcommercio lancia la campagna 'Trasimeno Autentico per Natura'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/confcommercio-lancia-la-campagna-trasimeno-autentico-per-natura_25838f5a-ed90-4f2b-9028-25142e2665c6.html",
-     "data": "2026-08-18T11:36:22+00:00"
+     "data": "2026-08-18T11:47:58+00:00"
     },
     {
      "titolo": "Minorenne sorpreso in una sala scommesse, il locale chiuso per 10 giorni",
@@ -104,27 +119,17 @@
      "titolo": "Garante detenuti Umbria, trasformare le carceri in 'comunità di reclusione'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/garante-detenuti-umbria-trasformare-le-carceri-in-comunita-di-reclusione_ba60ce05-08d9-4eec-9902-27a25707149a.html",
      "data": "2026-08-17T16:31:33+00:00"
-    },
-    {
-     "titolo": "Diversi interventi dei vigili del fuoco per il maltempo in provincia di Terni",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/17/diversi-interventi-dei-vigili-del-fuoco-per-il-maltempo-in-provincia-di-terni_63ed364e-3907-4170-b482-1f7ea24efb67.html",
-     "data": "2026-08-17T16:17:30+00:00"
-    },
-    {
-     "titolo": "Rissa durante una partita di calcio dilettantistico, 4 Daspo",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/17/rissa-durante-una-partita-di-calcio-dilettantistico-4-daspo_1b4cd7b7-5312-4261-aa63-89e54cbd763a.html",
-     "data": "2026-08-17T14:19:46+00:00"
-    },
-    {
-     "titolo": "Aggressione alla stazione di P. S.Giovanni, i sindacati chiedono interventi immediati",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/17/aggressione-alla-stazione-di-p.-s.giovanni-i-sindacati-chiedono-interventi-immediati_4aa7f187-3d5e-438b-b5a2-a0c717e70f75.html",
-     "data": "2026-08-17T14:19:53+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Imprenditore precipita dal tetto di un capannone e muore in Umbria",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/imprenditore-precipita-dal-tetto-di-un-capannone-e-muore-in-umbria_016db236-f1ab-4aa3-bc13-ad411aac093f.html",
+     "data": "2026-08-18T11:47:57+00:00"
+    },
     {
      "titolo": "Attaccante Cagliari Trepy migliora, ma resta in Terapia intensiva",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/attaccante-cagliari-trepy-migliora-ma-resta-in-terapia-intensiva_75f0e02f-33c7-454f-bd7b-96c0e91bc854.html",
@@ -179,17 +184,17 @@
      "titolo": "Morti in ambulanza, giudizio immediato per Luca Spada",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/morti-in-ambulanza-giudizio-immediato-per-luca-spada_da41d1cf-acb9-4c32-9430-3c4c9be4fc3b.html",
      "data": "2026-08-18T09:16:32+00:00"
-    },
-    {
-     "titolo": "Si è risvegliato dopo 10 giorni lo scout 16enne colpito da un fulmine",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/si-e-risvegliato-dopo-10-giorni-lo-scout-16enne-colpito-da-un-fulmine_f8bd7e55-d3ee-4b1a-99ed-fd6ca6068370.html",
-     "data": "2026-08-18T11:15:32+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Zaia, 'il femminicidio di Tania Terrin è un fallimento'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/18/zaia-il-femminicidio-di-tania-terrin-e-un-fallimento_1273443e-517f-4ae1-accd-cfbeea5423b5.html",
+     "data": "2026-08-18T11:56:48+00:00"
+    },
     {
      "titolo": "Lega: libro di Romeo, 'racconto desiderio rinnovamento della base'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/18/lega-libro-di-romeo-racconto-desiderio-rinnovamento-della-base_3b1aa357-b94f-4e24-9182-20a84f33b187.html",
@@ -234,17 +239,17 @@
      "titolo": "La campagna elettorale in libreria, i programmi dei leader in copertina",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/17/la-campagna-elettorale-in-libreria-i-programmi-dei-leader-in-copertina_6e61ef7f-468f-40b6-a705-68bbe10333df.html",
      "data": "2026-08-17T17:51:53+00:00"
-    },
-    {
-     "titolo": "Ministro Piantedosi dona il sangue a Pietrastornina, suo paese d'origine",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/17/ministro-piantedosi-dona-il-sangue-a-pietrastornina-suo-paese-dorigine_d042aeaa-a9d4-4a7c-bdc6-5171c22fcf52.html",
-     "data": "2026-08-17T11:49:47+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Germania, ai massimi dal 2011 il rendimento del bund trentennale sindacato",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/germania-ai-massimi-dal-2011-il-rendimento-del-bund-trentennale-sindacato_acf091bb-0f5e-4f4a-a728-bebdcfb62477.html",
+     "data": "2026-08-18T12:01:26+00:00"
+    },
     {
      "titolo": "Geely, nel semestre utile +46%, punta su Europa ed elettrico",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/geely-nel-semestre-utile-46-punta-su-europa-ed-elettrico_8ca11c0c-e47e-4e39-8121-bb508a5007ad.html",
@@ -299,17 +304,22 @@
      "titolo": "Confartigianato, '621mila tecnici Ia da assumere, più della metà è introvabile'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/confartigianato-621mila-tecnici-ia-da-assumere-piu-della-meta-e-introvabile_f3586abb-6ce8-4db3-80f8-0132fa1d893c.html",
      "data": "2026-08-18T08:32:25+00:00"
-    },
-    {
-     "titolo": "SCHEDA - Dalle ristrutturazioni alle colonnine, 22 misure di flessibilità dall'Ue sull'energia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/scheda-dalle-ristrutturazioni-alle-colonnine-22-misure-di-flessibilita-dallue-sullenergia_7190544d-c7ad-4a35-8013-ca686f7f6196.html",
-     "data": "2026-08-18T10:39:51+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Siria, 'raid Israele su aeroporto militare. Usa, 'escalation non necessaria'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/siria-raid-israele-su-aeroporto-militare.-usa-escalation-non-necessaria_3300563d-644e-450b-94fc-fd9463827df0.html",
+     "data": "2026-08-18T12:07:33+00:00"
+    },
+    {
+     "titolo": "Mosca contro Londra per i droni Gb usati da Kiev, 'pagherà un prezzo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/18/mosca-contro-londra-per-i-droni-gb-usati-da-kiev-paghera-un-prezzo_711e7fea-8e8a-4038-bfc5-ed47155bee97.html",
+     "data": "2026-08-18T12:06:43+00:00"
+    },
     {
      "titolo": "Damasco, 'raid aerei su aeroporto militare nel nord-ovest della Siria'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/damasco-raid-aerei-su-aeroporto-militare-nel-nord-ovest-della-siria_962b08a2-079b-40d0-9335-236092b715ec.html",
@@ -359,16 +369,6 @@
      "titolo": "Cuba, i blackout fanno decollare il business della vendita di ghiaccio",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/17/cuba-i-blackout-fanno-decollare-il-business-della-vendita-di-ghiaccio_fe82ff70-5d20-4d18-9925-66cbb76f785b.html",
      "data": "2026-08-17T20:47:36+00:00"
-    },
-    {
-     "titolo": "Kushner, 'incontro molto cordiale con Hamas, hanno detto le cose giuste'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/kushner-incontro-molto-cordiale-con-hamas-hanno-detto-le-cose-giuste_619074ad-f80a-4a15-916a-3156b653b2b9.html",
-     "data": "2026-08-17T19:58:12+00:00"
-    },
-    {
-     "titolo": "Sheinbaum conferma la morte di due messicani nel terremoto in Colombia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/17/sheinbaum-conferma-la-morte-di-due-messicani-nel-terremoto-in-colombia_7b9ca8c2-11cd-4393-b858-5a95a6d0496b.html",
-     "data": "2026-08-17T19:54:48+00:00"
     }
    ]
   },
@@ -441,6 +441,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Milan, Diego Moreira è a Linate: subito le visite mediche",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/milan-diego-moreira-e-a-linate-subito-le-visite-mediche_aeb09441-360a-4ee3-bdc1-63ffca393c90.html",
+     "data": "2026-08-18T12:09:06+00:00"
+    },
+    {
+     "titolo": "Morto Varenne, leggenda del trotto",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/morto-varenne-leggenda-del-trotto_ca1d58bb-ed28-4d34-aa0c-abb7bd5fb89d.html",
+     "data": "2026-08-18T12:00:14+00:00"
+    },
+    {
+     "titolo": "E' morto Varenne, leggenda del trotto",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/18/e-morto-varenne-leggenda-del-trotto_afc60a9c-6bb3-4dd0-af76-654f2f714a80.html",
+     "data": "2026-08-18T12:03:11+00:00"
+    },
+    {
      "titolo": "Prevenzione, sport e natura, torna a Ovindoli la Longevity Run",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/prevenzione-sport-e-natura-torna-a-ovindoli-la-longevity-run_9c30efcc-ec91-4f08-b85d-6e38bd70fb32.html",
      "data": "2026-08-18T11:25:36+00:00"
@@ -454,11 +469,6 @@
      "titolo": "Milan: Modric, puntiamo a vincere e non solo alla qualificazione Champions",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/milan-modric-puntiamo-a-vincere-e-non-solo-alla-qualificazione-champions_78005c1b-d8cb-49c5-a5c1-480745194f4a.html",
      "data": "2026-08-18T10:54:57+00:00"
-    },
-    {
-     "titolo": "Milan: Diego Moreira è a Milano, subito le visite mediche",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/milan-diego-moreira-e-a-milano-subito-le-visite-mediche_aeb09441-360a-4ee3-bdc1-63ffca393c90.html",
-     "data": "2026-08-18T10:44:41+00:00"
     },
     {
      "titolo": "Vela: al via dal golfo di Mondello la Palermo-Montecarlo",
@@ -489,16 +499,6 @@
      "titolo": "Dedic dal Benfica al Newcastle per 36 milioni di euro",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/dedic-dal-benfica-al-newcastle-per-36-milioni-di-euro_9852c8a0-0205-40bf-9710-a4c5f62b3256.html",
      "data": "2026-08-18T09:21:17+00:00"
-    },
-    {
-     "titolo": "Nba: la famiglia Buss vende le sue ultime quote dei Lakers",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/17/nba-la-famiglia-buss-vende-le-sue-ultime-quote-dei-lakers_7bb402ec-d886-4e8d-8259-35643cbca9ad.html",
-     "data": "2026-08-17T21:56:29+00:00"
-    },
-    {
-     "titolo": "Coppa Italia: il Palermo vince 2-0 contro il Lecce e passa ai sedicesimi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/coppa-italia-il-palermo-vince-2-0-contro-il-lecce-e-passa-ai-sedicesimi_8f370f84-a403-4cf2-912e-cbf0b757b7b1.html",
-     "data": "2026-08-17T21:32:00+00:00"
     }
    ]
   }
