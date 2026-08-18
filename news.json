@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-18T15:52:41.420129+00:00",
+ "aggiornato": "2026-08-18T16:15:23.795080+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 81,6 punti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-816-punti_3e6d7e00-aafc-4fb4-9270-14342050c936.html",
+     "data": "2026-08-18T16:08:23+00:00"
+    },
+    {
+     "titolo": "Borsa: Europa debole in chiusura, Parigi -0,82%, Francoforte -0,8%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-europa-debole-in-chiusura-parigi-082-francoforte-08_dae5d459-af66-4722-afd6-a1461312df5b.html",
+     "data": "2026-08-18T15:53:22+00:00"
+    },
     {
      "titolo": "L'ex di Terrin denunciato altre tre volte, la prima nel 2002",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/lex-di-terrin-denunciato-altre-tre-volte-la-prima-nel-2002_40cf4be5-1b0b-4f60-9931-2da0285e609b.html",
@@ -44,22 +54,17 @@
      "titolo": "Borsa: Milano debole (-0,4%), prese di beneficio su Stm e Prysmian",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-milano-debole-04-prese-di-beneficio-su-stm-e-prysmian_af004d8e-778e-4c50-9998-52974cad8b67.html",
      "data": "2026-08-18T13:00:03+00:00"
-    },
-    {
-     "titolo": "Svizzera, 'da fine agosto tornano i trasferimenti dei migranti arrivati dall'Italia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/svizzera-da-fine-agosto-tornano-i-trasferimenti-dei-migranti-arrivati-dallitalia_f47a5291-a75b-451d-b7a5-63709e67f02b.html",
-     "data": "2026-08-18T12:52:13+00:00"
-    },
-    {
-     "titolo": "'La ragazza somala riceverà asilo da una Chiesa evangelica in Baviera'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/la-ragazza-somala-ricevera-asilo-da-una-chiesa-evangelica-in-baviera_3beb408e-2c14-4f9b-9f81-9811a86df745.html",
-     "data": "2026-08-18T12:25:56+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Al pronto soccorso di Terni 770 accessi fra il 13 e il 18 agosto",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/al-pronto-soccorso-di-terni-770-accessi-fra-il-13-e-il-18-agosto_6f14c3f6-6bb1-4cab-b5ed-58c68fcf9e0b.html",
+     "data": "2026-08-18T16:06:21+00:00"
+    },
     {
      "titolo": "In Umbria il caffè al bar costa almeno il 20% in più di cinque anni fa",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/in-umbria-il-caffe-al-bar-costa-almeno-il-20-in-piu-di-cinque-anni-fa_a26eafd9-8991-48f8-a5c4-041d372aa336.html",
@@ -114,17 +119,27 @@
      "titolo": "Minorenne sorpreso in una sala scommesse, il locale chiuso per 10 giorni",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/minorenne-sorpreso-in-una-sala-scommesse-il-locale-chiuso-per-10-giorni_7817d43d-b51a-431d-8e2c-fa66c6c90ce7.html",
      "data": "2026-08-18T10:18:15+00:00"
-    },
-    {
-     "titolo": "Senza casa dorme con la madre anziana nella loro attività",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/senza-casa-dorme-con-la-madre-anziana-nella-loro-attivita_36b39fde-ca56-4ff5-b1c5-797030eec7cf.html",
-     "data": "2026-08-18T11:05:27+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Tromba d'aria in Salento, danneggiato il lido per bagnanti con disabilità",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/tromba-daria-in-salento-danneggiato-il-lido-per-bagnanti-con-disabilita_d6b472b3-6778-4c55-b4e7-b179793318fe.html",
+     "data": "2026-08-18T16:07:22+00:00"
+    },
+    {
+     "titolo": "Ragazzo disperso in mare, concluse le operazioni di ricerca subacquea",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/ragazzo-disperso-in-mare-concluse-le-operazioni-di-ricerca-subacquea_42373e43-14c8-4a7f-ba79-4033cfa8b386.html",
+     "data": "2026-08-18T16:05:01+00:00"
+    },
+    {
+     "titolo": "L'ex di Tania Terrin denunciato altre tre volte da precedenti compagne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/lex-di-tania-terrin-denunciato-altre-tre-volte-da-precedenti-compagne_cd4d11a1-6d51-4676-836b-d3afa3c43e80.html",
+     "data": "2026-08-18T15:57:50+00:00"
+    },
     {
      "titolo": "L'ex di Terrin denunciato altre tre volte, la prima nel 2002",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/lex-di-terrin-denunciato-altre-tre-volte-la-prima-nel-2002_ea8d8d38-050f-4ad1-a365-4985a7862650.html",
@@ -141,14 +156,9 @@
      "data": "2026-08-18T15:29:52+00:00"
     },
     {
-     "titolo": "Il furto di opere Antonello da Messina, in arrivo un'azione disciplinare per i custodi",
+     "titolo": "Il furto di opere Antonello da Messina, la banda avrebbe lasciato delle tracce",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/il-furto-di-opere-antonello-da-messina-in-arrivo-unazione-disciplinare-per-i-custodi_7d583cda-08d6-419c-b18f-f8c79dd6b776.html",
-     "data": "2026-08-18T15:24:31+00:00"
-    },
-    {
-     "titolo": "Zaia: \"Il femminicidio di Tania Terrin è un fallimento\"",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/zaia-il-femminicidio-di-tania-terrin-e-un-fallimento_cd4d11a1-6d51-4676-836b-d3afa3c43e80.html",
-     "data": "2026-08-18T14:43:37+00:00"
+     "data": "2026-08-18T15:53:54+00:00"
     },
     {
      "titolo": "Famiglia nel bosco, curiosi a Palmoli per selfie 'grati ma ci serve privacy'",
@@ -174,16 +184,6 @@
      "titolo": "Attaccante Cagliari Trepy migliora, ma resta in Terapia intensiva",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/attaccante-cagliari-trepy-migliora-ma-resta-in-terapia-intensiva_75f0e02f-33c7-454f-bd7b-96c0e91bc854.html",
      "data": "2026-08-18T10:22:52+00:00"
-    },
-    {
-     "titolo": "Sequestrato a Ischia un resort abusivo mimetizzato tra la vegetazione",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/sequestrato-a-ischia-resort-abusivo-mimetizzato-tra-la-vegetazione_b090cea1-e710-49f4-8018-f1d74c59ba5e.html",
-     "data": "2026-08-18T14:57:42+00:00"
-    },
-    {
-     "titolo": "Temporali dopo il caldo, parla l'esperto: 'Le Alpi fanno da hot spot per i fulmini'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/temporali-dopo-il-caldo-parla-lesperto-le-alpi-fanno-da-hot-spot-per_d9e35673-8b00-4df7-885c-a720ae9e3fd0.html",
-     "data": "2026-08-18T10:11:48+00:00"
     }
    ]
   },
@@ -246,6 +246,16 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 81,6 punti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-816-punti_752cc514-4ad1-486b-b581-2cb6b396ad38.html",
+     "data": "2026-08-18T16:08:07+00:00"
+    },
+    {
+     "titolo": "Borsa: Europa debole in chiusura, Parigi -0,82%, Francoforte -0,8%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-europa-debole-in-chiusura-parigi-082-francoforte-08_62c3c475-1555-477e-b844-becaea933816.html",
+     "data": "2026-08-18T15:53:19+00:00"
+    },
+    {
      "titolo": "Borsa: Milano chiude in rosso, -1,06%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-milano-chiude-in-rosso-106_4b1de674-b62e-45dc-be8a-e56da6472f3f.html",
      "data": "2026-08-18T15:41:30+00:00"
@@ -294,16 +304,6 @@
      "titolo": "Il gas si conferma stabile sopra quota 62 euro al Ttf di Amsterdam",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/il-gas-si-conferma-stabile-sopra-quota-62-euro-al-ttf-di-amsterdam_bc297481-57bb-4f3d-b960-102951eb0a44.html",
      "data": "2026-08-18T12:30:54+00:00"
-    },
-    {
-     "titolo": "Aiel e Uncem, 'incentivi anche per le caldaie a legna e pellet'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/aiel-e-uncem-incentivi-anche-per-le-caldaie-a-legna-e-pellet_e96edbbd-940b-4916-afd5-4962034a9729.html",
-     "data": "2026-08-18T12:21:14+00:00"
-    },
-    {
-     "titolo": "Germania, ai massimi dal 2011 il rendimento del bund trentennale sindacato",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/germania-ai-massimi-dal-2011-il-rendimento-del-bund-trentennale-sindacato_acf091bb-0f5e-4f4a-a728-bebdcfb62477.html",
-     "data": "2026-08-18T12:01:26+00:00"
     }
    ]
   },
@@ -441,6 +441,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Presidenza arbitri, si candida Pisacreta 'riforme e credibilità'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/presidenza-arbitri-si-candida-pisacreta-riforme-e-credibilita_41c5e813-63fd-4c66-8552-13fde5dd6c64.html",
+     "data": "2026-08-18T16:05:18+00:00"
+    },
+    {
+     "titolo": "Bando di gara per il nuovo stadio di Cagliari slitta a settembre",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/bando-di-gara-per-il-nuovo-stadio-di-cagliari-slitta-a-settembre_4595dd9b-8f80-461b-9740-5d05e1eb880f.html",
+     "data": "2026-08-18T15:51:25+00:00"
+    },
+    {
      "titolo": "Varenne: Maurizio Ughi 'pigro ma con testa superiore, un mito irripetibile'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/varenne-maurizio-ughi-pigro-ma-con-testa-superiore-un-mito-irripetibile_31113575-4135-4ed1-ba4e-ed66a99916b4.html",
      "data": "2026-08-18T15:34:38+00:00"
@@ -489,16 +499,6 @@
      "titolo": "Milan, Diego Moreira è a Linate: subito le visite mediche",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/milan-diego-moreira-e-a-linate-subito-le-visite-mediche_aeb09441-360a-4ee3-bdc1-63ffca393c90.html",
      "data": "2026-08-18T12:09:06+00:00"
-    },
-    {
-     "titolo": "Morto Varenne, leggenda del trotto",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/morto-varenne-leggenda-del-trotto_ca1d58bb-ed28-4d34-aa0c-abb7bd5fb89d.html",
-     "data": "2026-08-18T12:00:14+00:00"
-    },
-    {
-     "titolo": "È morto Varenne, leggenda del trotto",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/18/e-morto-varenne-leggenda-del-trotto_afc60a9c-6bb3-4dd0-af76-654f2f714a80.html",
-     "data": "2026-08-18T15:38:38+00:00"
     }
    ]
   }
