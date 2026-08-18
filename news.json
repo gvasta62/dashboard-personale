@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-18T10:52:05.056909+00:00",
+ "aggiornato": "2026-08-18T11:12:47.552286+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -68,7 +68,7 @@
     {
      "titolo": "Senza casa dorme con la madre anziana nella loro attività",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/senza-casa-dorme-con-la-madre-anziana-nella-loro-attivita_36b39fde-ca56-4ff5-b1c5-797030eec7cf.html",
-     "data": "2026-08-18T10:07:22+00:00"
+     "data": "2026-08-18T11:05:27+00:00"
     },
     {
      "titolo": "Scendono le temperature notturne e l'Umbria torna a respirare",
@@ -246,6 +246,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "È caro tazzina, l'espresso costa 1,29 euro, il 24% più del 2021",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/e-caro-tazzina-lespresso-costa-129-euro-il-24-piu-del-2021_6b5a8528-90fe-46ae-aaab-1e363005c40d.html",
+     "data": "2026-08-18T10:52:24+00:00"
+    },
+    {
      "titolo": "Google, Operazione Blue Skies per evitare le scie di condensazione",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/google-operazione-blue-skies-per-evitare-le-scie-di-condensazione_d611338a-2937-4c0e-af10-c29ff499f0de.html",
      "data": "2026-08-18T10:36:52+00:00"
@@ -254,11 +259,6 @@
      "titolo": "Impennata dei lavori legati all'Ia, ma meno opportunità per le donne",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/impennata-dei-lavori-legati-allia-ma-meno-opportunita-per-le-donne_ab5f48fb-3923-4adb-bea1-0918b7894b15.html",
      "data": "2026-08-18T09:50:59+00:00"
-    },
-    {
-     "titolo": "E' caro tazzina, l'espresso costa 1,29 euro, il 25% più del 2021",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/e-caro-tazzina-espresso-in-media-a-129-euro-245-sul-2025_6b5a8528-90fe-46ae-aaab-1e363005c40d.html",
-     "data": "2026-08-18T09:55:10+00:00"
     },
     {
      "titolo": "++ In Germania l'indice Zew a agosto balza a 34,2 punti, oltre le stime ++",
@@ -441,6 +441,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Vuelta: anche Roglic al via, proverà a sfidare Pogacar",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/18/vuelta-anche-roglic-al-via-provera-a-sfidare-pogacar_e8ca8da0-131a-464c-87b0-95bea98eff70.html",
+     "data": "2026-08-18T11:06:06+00:00"
+    },
+    {
+     "titolo": "Milan: Modric, puntiamo a vincere e non solo alla qualificazione Champions",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/milan-modric-puntiamo-a-vincere-e-non-solo-alla-qualificazione-champions_78005c1b-d8cb-49c5-a5c1-480745194f4a.html",
+     "data": "2026-08-18T10:54:57+00:00"
+    },
+    {
      "titolo": "Milan: Diego Moreira è a Milano, subito le visite mediche",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/milan-diego-moreira-e-a-milano-subito-le-visite-mediche_aeb09441-360a-4ee3-bdc1-63ffca393c90.html",
      "data": "2026-08-18T10:44:41+00:00"
@@ -489,16 +499,6 @@
      "titolo": "Lamour paga le critiche, via dalla Fifa il direttore operativo",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/lamour-paga-le-critiche-via-dalla-fifa-il-direttore-operativo_2faae313-04af-4695-8e0a-9272825a67ad.html",
      "data": "2026-08-17T21:03:01+00:00"
-    },
-    {
-     "titolo": "Coppa Italia: la Cremonese batte 2-0 la Sampdoria con un gol per tempo",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/coppa-italia-la-cremonese-batte-2-0-la-sampdoria-con-un-gol-per-tempo_b37008b1-27ca-49c4-8a2c-a743f54fd495.html",
-     "data": "2026-08-17T20:49:46+00:00"
-    },
-    {
-     "titolo": "Filippo Galli replica a Maldini, 'non ha seguito il settore giovanile'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/filippo-galli-replica-a-maldini-non-ha-seguito-il-settore-giovanile_291dd7c8-fb05-4360-93bd-4c0754aaa0e9.html",
-     "data": "2026-08-17T20:25:43+00:00"
     }
    ]
   }
