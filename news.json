@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-18T09:18:48.194613+00:00",
+ "aggiornato": "2026-08-18T09:54:40.275781+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "E' caro tazzina, espresso in media a 1,29 euro (+24,5% sul 2025)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/e-caro-tazzina-espresso-in-media-a-129-euro-245-sul-2025_e4b9b214-2324-4220-a66b-29fd71ad21b9.html",
+     "data": "2026-08-18T09:33:51+00:00"
+    },
+    {
+     "titolo": "Lega: libro di Romeo, 'racconto desiderio rinnovamento della base'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/lega-libro-di-romeo-racconto-desiderio-rinnovamento-della-base_9e127bde-be80-4054-9af6-9fc6e95156ee.html",
+     "data": "2026-08-18T09:29:34+00:00"
+    },
+    {
+     "titolo": "++ In Germania l'indice Zew a agosto balza a 34,2 punti, oltre le stime ++",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/in-germania-lindice-zew-a-agosto-balza-a-342-punti-oltre-le-stime_aaa9bb03-7b45-449d-bfd7-59911410efa7.html",
+     "data": "2026-08-18T09:19:43+00:00"
+    },
     {
      "titolo": "Morti in ambulanza, giudizio immediato per Luca Spada",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/morti-in-ambulanza-giudizio-immediato-per-luca-spada_8cbba177-e6d2-4034-b0f6-410a4cdc1afc.html",
@@ -39,21 +54,6 @@
      "titolo": "Kiev, 'almeno 10 morti nel raid russo su Kharkiv'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/kiev-almeno-10-morti-nel-raid-russo-su-kharkiv_fe8b6c35-d84f-4218-acdc-d37df019ac54.html",
      "data": "2026-08-18T07:16:20+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa parte in ordine sparso, Londra +0,1%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-leuropa-parte-in-ordine-sparso-londra-01_acd94acf-9c0e-4e18-898f-9396aa5f5d15.html",
-     "data": "2026-08-18T07:10:01+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre in lieve calo, Ftse Mib -0,18%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-milano-apre-in-lieve-calo-ftse-mib-018_20e44e4a-d181-43f0-a5fd-51952883bbbf.html",
-     "data": "2026-08-18T07:08:14+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Asia debole attende novità da Hormuz, Tokyo -2,5%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-lasia-debole-attende-novita-da-hormuz-tokyo-25_d7e1a6c6-537d-40c6-a9ab-ac4402ca2e65.html",
-     "data": "2026-08-18T07:01:45+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Uccide la ex che lo aveva denunciato. La madre: 'Si era costruito un cappio e lo mostrava a mia figlia'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/uccide-la-ex-che-lo-aveva-denunciato.-la-madre-si-era-costruito-un-cappio-e-lo-mostrava-a-mia_393168f9-93fa-4ec9-ab19-140b49ad6cc5.html",
+     "data": "2026-08-18T09:30:05+00:00"
+    },
+    {
+     "titolo": "Accoltellato a Verona, un uomo grave in terapia intensiva",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/accoltellato-a-verona-un-uomo-grave-in-terapia-intensiva_035301bb-444c-4772-b3ee-2d71dfb67d74.html",
+     "data": "2026-08-18T09:23:43+00:00"
+    },
+    {
      "titolo": "Furto opere Antonello da Messina: teli neri su basi che ospitavano i dipinti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/furto-opere-antonello-da-messina-teli-neri-su-basi-che-ospitavano-i-dipinti_b4d1c333-1423-47cc-a7b2-69ca4cdde48e.html",
      "data": "2026-08-18T09:15:05+00:00"
@@ -174,22 +184,27 @@
      "titolo": "Etna: tornano normali le attività di volo all'aeroporto di Catania",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/etna-tornano-normali-le-attivita-di-volo-allaeroporto-di-catania_2941ebc3-a0e4-400c-bc43-114ce0304931.html",
      "data": "2026-08-18T08:24:14+00:00"
-    },
-    {
-     "titolo": "A 10 anni dal sisma per due opere pubbliche su tre non è ancora partito il cantiere",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/a-10-anni-da-sisma-per-2-opere-pubbliche-su-3-non-ancora-partito-il-cantiere_7ba078c5-c2e8-4e92-9870-7234dbeb1bde.html",
-     "data": "2026-08-18T08:34:46+00:00"
-    },
-    {
-     "titolo": "Strage di Vergarolla: sindaco Gorizia, chinarsi di fronte a dolore altrui",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/strage-di-vergarolla-sindaco-gorizia-chinarsi-di-fronte-a-dolore-altrui_75371fe6-9bd7-4d23-a22a-18ea75d87364.html",
-     "data": "2026-08-18T07:42:13+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Lega: libro di Romeo, 'racconto desiderio rinnovamento della base'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/18/lega-libro-di-romeo-racconto-desiderio-rinnovamento-della-base_3b1aa357-b94f-4e24-9182-20a84f33b187.html",
+     "data": "2026-08-18T09:29:52+00:00"
+    },
+    {
+     "titolo": "Pubblicato il libro di Romeo: 'Racconto il desiderio rinnovamento della base della Lega'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/18/pubblicato-il-libro-di-romeo-racconto-il-desiderio-rinnovamento-della-base-della-lega_b04edd8c-4301-4871-affb-6d2b00903025.html",
+     "data": "2026-08-18T09:34:48+00:00"
+    },
+    {
+     "titolo": "Il messaggio di Meloni: 'Onoriamo la memoria dei morti nella strage di Vergarolla'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/18/il-messaggio-di-meloni-onoriamo-la-memoria-dei-morti-nella-strage-di-vergarolla_ab8e4bfb-4f72-49ff-bcc6-57b5de834f09.html",
+     "data": "2026-08-18T09:37:02+00:00"
+    },
     {
      "titolo": "Pd e Psoe contro Frederiksen, 'inaccettabile l'asse con Meloni su Ceuta'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/17/pd-e-psoe-contro-frederiksen-inaccettabile-lasse-con-meloni-su-ceuta_71b05907-92e7-4a00-b392-2a71422e40a4.html",
@@ -230,6 +245,16 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "E' caro tazzina, espresso in media a 1,29 euro (+24,5% sul 2025)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/e-caro-tazzina-espresso-in-media-a-129-euro-245-sul-2025_6b5a8528-90fe-46ae-aaab-1e363005c40d.html",
+     "data": "2026-08-18T09:33:45+00:00"
+    },
+    {
+     "titolo": "++ In Germania l'indice Zew a agosto balza a 34,2 punti, oltre le stime ++",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/in-germania-lindice-zew-a-agosto-balza-a-342-punti-oltre-le-stime_e960c496-ec0e-4a20-b869-38ac17d8a6e7.html",
+     "data": "2026-08-18T09:19:39+00:00"
+    },
     {
      "titolo": "Borsa: l'Europa debole con l'Hi tech, Milano in calo dello 0,6%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-leuropa-debole-con-lhi-tech-milano-in-calo-dello-06_13ee2cc2-6f8a-4419-9a8e-7505a7462b49.html",
@@ -279,16 +304,6 @@
      "titolo": "Borsa: l'Europa parte in ordine sparso, Londra +0,1%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-leuropa-parte-in-ordine-sparso-londra-01_51339c7c-3483-481c-84c0-1e35a779c4c7.html",
      "data": "2026-08-18T07:10:17+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre in lieve calo, Ftse Mib -0,18%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-milano-apre-in-lieve-calo-ftse-mib-018_7e86ce2e-c6d0-4c4f-a196-4549029241f2.html",
-     "data": "2026-08-18T07:08:12+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Asia debole attende novità da Hormuz, Tokyo -2,5%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-lasia-debole-attende-novita-da-hormuz-tokyo-25_8cebb822-33e8-4cb8-ab71-419af5ffb1a0.html",
-     "data": "2026-08-18T07:01:42+00:00"
     }
    ]
   },
@@ -426,6 +441,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Cincinnati, Sara Errani agli ottavi nel doppio",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/18/cincinnati-sara-errani-agli-ottavi-nel-doppio_966f2831-3a12-4255-89fe-a96aff22e7a0.html",
+     "data": "2026-08-18T09:39:03+00:00"
+    },
+    {
+     "titolo": "Dedic dal Benfica al Newcastle per 36 milioni di euro",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/dedic-dal-benfica-al-newcastle-per-36-milioni-di-euro_9852c8a0-0205-40bf-9710-a4c5f62b3256.html",
+     "data": "2026-08-18T09:21:17+00:00"
+    },
+    {
      "titolo": "Nba: la famiglia Buss vende le sue ultime quote dei Lakers",
      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/17/nba-la-famiglia-buss-vende-le-sue-ultime-quote-dei-lakers_7bb402ec-d886-4e8d-8259-35643cbca9ad.html",
      "data": "2026-08-17T21:56:29+00:00"
@@ -474,16 +499,6 @@
      "titolo": "Festa della Juve dura 45', Elkann: 'Costruiamo per tornare a vincere'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/festa-della-juve-dura-45-elkann-costruiamo-per-tornare-a-vincere_8d7f88c7-4f95-413e-a1a8-02e00bfa912e.html",
      "data": "2026-08-17T19:03:51+00:00"
-    },
-    {
-     "titolo": "Il Milan prende Diego Moreira, Vicario arriva alla Juventus",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/17/il-milan-prende-diego-moreira-vicario-arriva-alla-juventus_f9100bd2-8275-42ee-8342-5bb7df9b7839.html",
-     "data": "2026-08-17T18:56:00+00:00"
-    },
-    {
-     "titolo": "Juve: Spalletti, l'invasione era meglio farla al 90'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/juve-spalletti-linvasione-era-meglio-farla-al-90_7359ea45-0b80-464e-b98a-691bf89bfec4.html",
-     "data": "2026-08-17T18:20:49+00:00"
     }
    ]
   }
