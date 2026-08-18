@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-18T13:14:21.539684+00:00",
+ "aggiornato": "2026-08-18T14:02:07.782825+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Europa contrastata, future Usa in calo, Milano -0,45%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-europa-contrastata-future-usa-in-calo-milano-045_1b850057-d61c-4aad-8e79-7b3149ea5c4f.html",
+     "data": "2026-08-18T13:22:39+00:00"
+    },
     {
      "titolo": "Borsa: Milano debole (-0,4%), prese di beneficio su Stm e Prysmian",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-milano-debole-04-prese-di-beneficio-su-stm-e-prysmian_af004d8e-778e-4c50-9998-52974cad8b67.html",
@@ -49,17 +54,17 @@
      "titolo": "Imprenditore precipita dal tetto di un capannone e muore in Umbria",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/imprenditore-precipita-dal-tetto-di-un-capannone-e-muore-in-umbria_201a5af9-f786-4eb6-82fa-b55b82b8ec81.html",
      "data": "2026-08-18T11:47:53+00:00"
-    },
-    {
-     "titolo": "E' caro tazzina, espresso in media a 1,29 euro (+24,5% sul 2025)",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/e-caro-tazzina-espresso-in-media-a-129-euro-245-sul-2025_e4b9b214-2324-4220-a66b-29fd71ad21b9.html",
-     "data": "2026-08-18T09:33:51+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Torna L'AltroFestival, dal 20 al 27 agosto a Perugia",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/torna-laltrofestival-dal-20-al-27-agosto-a-perugia_051f6c4e-7bf4-4fb1-ab99-e32c96b263ca.html",
+     "data": "2026-08-18T13:19:13+00:00"
+    },
     {
      "titolo": "D'Urso, 'continuerò a svolgere il mio incarico nell'ospedale di Perugia'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/durso-continuero-a-svolgere-il-mio-incarico-nellospedale-di-perugia_a12f9d0e-22df-45cf-9910-ae1af0ce54d3.html",
@@ -114,11 +119,6 @@
      "titolo": "Sarà intitolato a Corrado Viciani il nuovo campo sportivo di Montecchio",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/sara-intitolato-a-corrado-viciani-il-nuovo-campo-sportivo-di-montecchio_fddbc6bd-2443-4d4b-873d-9ead4ac6da70.html",
      "data": "2026-08-18T08:05:29+00:00"
-    },
-    {
-     "titolo": "A 10 anni da sisma per 2 opere pubbliche su 3 non ancora partito il cantiere",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/a-10-anni-da-sisma-per-2-opere-pubbliche-su-3-non-ancora-partito-il-cantiere_00c90c0f-5efc-45b6-8680-343f69fa0580.html",
-     "data": "2026-08-18T08:04:07+00:00"
     }
    ]
   },
@@ -246,6 +246,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Europa contrastata, future Usa in calo, Milano -0,45%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-europa-contrastata-future-usa-in-calo-milano-045_6ea22cfa-4522-42c3-951d-207a35886f3d.html",
+     "data": "2026-08-18T13:22:55+00:00"
+    },
+    {
      "titolo": "Facile.it, 2,9 milioni di italiani hanno subito truffe sulle bollette",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/facile.it-29-milioni-di-italiani-hanno-subito-truffe-sulle-bollette_734699fe-bcfb-4598-96ad-01f99ca31314.html",
      "data": "2026-08-18T13:01:45+00:00"
@@ -276,9 +281,9 @@
      "data": "2026-08-18T11:34:10+00:00"
     },
     {
-     "titolo": "È caro tazzina, l'espresso costa 1,29 euro, il 24% più del 2021",
+     "titolo": "Sempre più caro-tazzina, il caffè al bar rincarato del +24,2% in 5 anni",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/e-caro-tazzina-lespresso-costa-129-euro-il-24-piu-del-2021_6b5a8528-90fe-46ae-aaab-1e363005c40d.html",
-     "data": "2026-08-18T10:52:24+00:00"
+     "data": "2026-08-18T13:55:03+00:00"
     },
     {
      "titolo": "Google, Operazione Blue Skies per evitare le scie di condensazione",
@@ -299,17 +304,17 @@
      "titolo": "Borsa: l'Europa debole con l'Hi tech, Milano in calo dello 0,6%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-leuropa-debole-con-lhi-tech-milano-in-calo-dello-06_13ee2cc2-6f8a-4419-9a8e-7505a7462b49.html",
      "data": "2026-08-18T08:51:02+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gasolio torna a livello pre Dl accise",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/il-prezzo-del-gasolio-torna-a-livello-pre-dl-accise_f16480ad-e974-42d3-8c5c-a84a914fd704.html",
-     "data": "2026-08-18T08:56:39+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Cile, Kast presenta la riforma costituzionale sulla sicurezza",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/cile-kast-presenta-la-riforma-costituzionale-sulla-sicurezza_48a8b4ca-c256-4271-b45b-896434df4875.html",
+     "data": "2026-08-18T13:10:56+00:00"
+    },
     {
      "titolo": "Lula, 'il petrolio del Brasile può rifornire il mondo se Hormuz chiude'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/lula-il-petrolio-del-brasile-puo-rifornire-il-mondo-se-hormuz-chiude_754d6045-0ce5-4757-83ca-23f9f133e2f3.html",
@@ -364,11 +369,6 @@
      "titolo": "Kiev, 'almeno 10 morti nel raid russo su Kharkiv'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/18/kiev-almeno-10-morti-nel-raid-russo-su-kharkiv_a0b9db91-1126-4321-b15b-13a150388f8e.html",
      "data": "2026-08-18T07:16:24+00:00"
-    },
-    {
-     "titolo": "Volo diretto di Aeroméxico collegherà Città del Messico a Milano",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/volo-diretto-di-aeromexico-colleghera-citta-del-messico-a-milano_57ca1437-61be-4e9e-85df-a50906d9e4fb.html",
-     "data": "2026-08-18T03:27:29+00:00"
     }
    ]
   },
@@ -441,6 +441,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: incontro tecnico Aia-club sulle novità regolamentari",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/serie-a-incontro-tecnico-aia-club-sulle-novita-regolamentari_db6a9d54-214a-4160-b9e1-bc4d1e8a1fa4.html",
+     "data": "2026-08-18T13:56:19+00:00"
+    },
+    {
      "titolo": "Cricket: en plein dell'Italia in Tanzania, cinque vittorie di fila",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/cricket-en-plein-dellitalia-in-tanzania-cinque-vittorie-di-fila_6472c3ff-f63a-4d29-8129-47d0dd63ef94.html",
      "data": "2026-08-18T13:00:58+00:00"
@@ -453,7 +458,7 @@
     {
      "titolo": "Figc: Bedin, 'Malagò motiverà le sue scelte, non c'è preoccupazione'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/figc-bedin-malago-motivera-sue-scelte-non-ce-preoccupazione_811b6729-e78a-4e26-bc3e-ba54b970bfe0.html",
-     "data": "2026-08-18T13:02:24+00:00"
+     "data": "2026-08-18T13:14:13+00:00"
     },
     {
      "titolo": "Milan, Diego Moreira è a Linate: subito le visite mediche",
@@ -478,12 +483,12 @@
     {
      "titolo": "Vuelta: anche Roglic al via, proverà a sfidare Pogacar",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/18/vuelta-anche-roglic-al-via-provera-a-sfidare-pogacar_e8ca8da0-131a-464c-87b0-95bea98eff70.html",
-     "data": "2026-08-18T13:03:15+00:00"
+     "data": "2026-08-18T13:40:33+00:00"
     },
     {
      "titolo": "Milan: Modric, 'puntiamo a vincere e non solo alla qualificazione Champions'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/milan-modric-puntiamo-a-vincere-e-non-solo-alla-qualificazione-champions_78005c1b-d8cb-49c5-a5c1-480745194f4a.html",
-     "data": "2026-08-18T12:59:39+00:00"
+     "data": "2026-08-18T13:32:41+00:00"
     },
     {
      "titolo": "Vela: al via dal golfo di Mondello la Palermo-Montecarlo",
@@ -493,12 +498,7 @@
     {
      "titolo": "Roma: è fatta per Mora, l'attaccante atteso nella Capitale",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/roma-e-fatta-per-mora-lattaccante-atteso-nella-capitale_12b352e8-0956-482e-bbfc-35d5327d1615.html",
-     "data": "2026-08-18T13:05:21+00:00"
-    },
-    {
-     "titolo": "Modric, il Milan ha dimostrato quanto tenesse a me",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/modric-il-milan-ha-dimostrato-quanto-tenesse-a-me_595d3475-1fb5-46db-ba0d-287a273aa387.html",
-     "data": "2026-08-18T10:38:18+00:00"
+     "data": "2026-08-18T13:35:57+00:00"
     }
    ]
   }
