@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-18T09:54:40.275781+00:00",
+ "aggiornato": "2026-08-18T10:14:40.436079+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -61,6 +61,11 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Senza casa dorme con la madre anziana nella loro attività",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/senza-casa-dorme-con-la-madre-anziana-nella-loro-attivita_36b39fde-ca56-4ff5-b1c5-797030eec7cf.html",
+     "data": "2026-08-18T10:07:22+00:00"
+    },
+    {
      "titolo": "Scendono le temperature notturne e l'Umbria torna a respirare",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/scendono-le-temperature-notturne-e-lumbria-torna-a-respirare_f09b9126-cca5-40a5-abd0-bf766101e8e1.html",
      "data": "2026-08-18T08:32:38+00:00"
@@ -114,17 +119,17 @@
      "titolo": "Ulderico Pesce protagonista al Calvi Festival con due spettacoli",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/ulderico-pesce-protagonista-al-calvi-festival-con-due-spettacoli_f5c0e128-1897-4be2-a6db-41f4f848b3a2.html",
      "data": "2026-08-17T16:16:44+00:00"
-    },
-    {
-     "titolo": "Cura e restauro al centro di 'Scultori a Brufa, la Strada del Vino e dell'Arte'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/17/cura-e-restauro-al-centro-di-scultori-a-brufa-la-strada-del-vino-e-dellarte_98472b0f-a673-495f-aab7-43cd22037fee.html",
-     "data": "2026-08-17T14:20:04+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Sequestrato a Ischia resort abusivo mimetizzato tra la vegetazione",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/sequestrato-a-ischia-resort-abusivo-mimetizzato-tra-la-vegetazione_b090cea1-e710-49f4-8018-f1d74c59ba5e.html",
+     "data": "2026-08-18T10:06:47+00:00"
+    },
     {
      "titolo": "Uccide la ex che lo aveva denunciato. La madre: 'Si era costruito un cappio e lo mostrava a mia figlia'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/uccide-la-ex-che-lo-aveva-denunciato.-la-madre-si-era-costruito-un-cappio-e-lo-mostrava-a-mia_393168f9-93fa-4ec9-ab19-140b49ad6cc5.html",
@@ -179,11 +184,6 @@
      "titolo": "Etna: tornano normali le attività di volo all'aeroporto di Catania",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/etna-tornano-normali-le-attivita-di-volo-allaeroporto-di-catania_99b2a639-c2ff-488e-9803-994fe4336fff.html",
      "data": "2026-08-18T08:16:44+00:00"
-    },
-    {
-     "titolo": "Etna: tornano normali le attività di volo all'aeroporto di Catania",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/etna-tornano-normali-le-attivita-di-volo-allaeroporto-di-catania_2941ebc3-a0e4-400c-bc43-114ce0304931.html",
-     "data": "2026-08-18T08:24:14+00:00"
     }
    ]
   },
@@ -246,9 +246,14 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "E' caro tazzina, espresso in media a 1,29 euro (+24,5% sul 2025)",
+     "titolo": "Impennata dei lavori legati all'Ia, ma meno opportunità per le donne",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/impennata-dei-lavori-legati-allia-ma-meno-opportunita-per-le-donne_ab5f48fb-3923-4adb-bea1-0918b7894b15.html",
+     "data": "2026-08-18T09:50:59+00:00"
+    },
+    {
+     "titolo": "E' caro tazzina, l'espresso costa 1,29 euro, il 25% più del 2021",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/e-caro-tazzina-espresso-in-media-a-129-euro-245-sul-2025_6b5a8528-90fe-46ae-aaab-1e363005c40d.html",
-     "data": "2026-08-18T09:33:45+00:00"
+     "data": "2026-08-18T09:55:10+00:00"
     },
     {
      "titolo": "++ In Germania l'indice Zew a agosto balza a 34,2 punti, oltre le stime ++",
@@ -299,11 +304,6 @@
      "titolo": "Ue, con clausola energia sovvenzioni a pompe di calore e centrali nucleari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/ue-con-clausola-energia-sovvenzioni-a-pompe-di-calore-e-centrali-nucleari_1450800c-2755-4a65-9da2-4d20c403a26d.html",
      "data": "2026-08-18T07:15:27+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa parte in ordine sparso, Londra +0,1%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-leuropa-parte-in-ordine-sparso-londra-01_51339c7c-3483-481c-84c0-1e35a779c4c7.html",
-     "data": "2026-08-18T07:10:17+00:00"
     }
    ]
   },
@@ -346,9 +346,9 @@
      "data": "2026-08-18T00:23:01+00:00"
     },
     {
-     "titolo": "Colombia, Shakira e Buffett visitano Quibdó dopo il terremoto",
+     "titolo": "Colombia, Shakira visita i quartieri colombiani devastati dal terremoto",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/colombia-shakira-e-buffett-visitano-quibdo-dopo-il-terremoto_e404a620-20b9-4ec4-a98f-9273220841ae.html",
-     "data": "2026-08-18T00:07:43+00:00"
+     "data": "2026-08-18T10:08:30+00:00"
     },
     {
      "titolo": "Venezuela, 100 prigionieri politici scarcerati secondo la Piattaforma Unitaria",
