@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-18T02:44:29.789365+00:00",
+ "aggiornato": "2026-08-18T03:32:35.076601+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Lanciati 620 droni contro Mosca durante la notte",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/lanciati-620-droni-contro-mosca-durante-la-notte_4c4b5023-0f59-4352-ac52-7e01a4e961a4.html",
+     "data": "2026-08-18T03:25:08+00:00"
+    },
     {
      "titolo": "Borsa: Tokyo, apertura in ribasso (-0,56%)",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-tokyo-apertura-in-ribasso-056_70ef186c-68e5-4692-8953-dc02b4a5a7b9.html",
@@ -49,11 +54,6 @@
      "titolo": "Borsa: Milano chiude invariata (+0,01%), sprint di Stm e Prysmian",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/borsa-milano-chiude-invariata-001-sprint-di-stm-e-prysmian_5735b1cc-9b30-4891-b36d-e1a2fc66ce28.html",
      "data": "2026-08-17T16:38:06+00:00"
-    },
-    {
-     "titolo": "Ferito in strada a Roma, muore in ospedale un 24enne++",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/ferito-in-strada-a-roma-muore-in-ospedale-un-24enne_fd27af3d-ae8b-432f-b397-90de9225174d.html",
-     "data": "2026-08-17T16:20:07+00:00"
     }
    ]
   },
@@ -296,6 +296,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Volo diretto di Aeroméxico collegherà Città del Messico a Milano",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/volo-diretto-di-aeromexico-colleghera-citta-del-messico-a-milano_57ca1437-61be-4e9e-85df-a50906d9e4fb.html",
+     "data": "2026-08-18T03:27:29+00:00"
+    },
+    {
+     "titolo": "Lanciati 620 droni contro Mosca durante la notte",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/18/lanciati-620-droni-contro-mosca-durante-la-notte_1b50c987-587c-49c9-98b7-a42dfcdf2abc.html",
+     "data": "2026-08-18T03:25:28+00:00"
+    },
+    {
      "titolo": "Birra al vertice dell'export agroalimentare dal Messico, vola la tequila",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/birra-al-vertice-dellexport-agroalimentare-dal-messico-vola-la-tequila_96ab0028-5ad1-4299-89a4-e8816f0305f4.html",
      "data": "2026-08-18T00:23:01+00:00"
@@ -344,16 +354,6 @@
      "titolo": "La Corte Suprema russa conferma l'esclusione di Yabloko dalle elezioni",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/la-corte-suprema-russa-conferma-lesclusione-di-yabloko-dalle-elezioni_5b2615e6-0433-482d-9e46-00712df79574.html",
      "data": "2026-08-17T17:54:09+00:00"
-    },
-    {
-     "titolo": "Barcellona ricorda le 16 vittime degli attentati jihadisti di 9 anni fa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/barcellona-ricorda-le-16-vittime-degli-attentati-jihadisti-di-9-anni-fa_6ac5fb76-69d0-43c0-9b84-d6f3ded9c075.html",
-     "data": "2026-08-17T17:52:54+00:00"
-    },
-    {
-     "titolo": "Il partito di Farage vuole escludere tutti gli stranieri dai sussidi Gb",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/il-partito-di-farage-vuole-escludere-tutti-gli-stranieri-dai-sussidi-gb_b93c6df4-cf9e-457e-978a-21cfb4f50903.html",
-     "data": "2026-08-17T17:50:01+00:00"
     }
    ]
   },
