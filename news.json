@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-18T08:32:08.811105+00:00",
+ "aggiornato": "2026-08-18T09:18:48.194613+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Morti in ambulanza, giudizio immediato per Luca Spada",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/morti-in-ambulanza-giudizio-immediato-per-luca-spada_8cbba177-e6d2-4034-b0f6-410a4cdc1afc.html",
+     "data": "2026-08-18T08:47:25+00:00"
+    },
+    {
+     "titolo": "Il cinema piange Fulvio Lucisano, protagonista di oltre 70 anni di produzione",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/il-cinema-piange-fulvio-lucisano-protagonista-di-oltre-70-anni-di-produzione_f93ce5f9-597f-407c-8e61-e7c8d7f337d4.html",
+     "data": "2026-08-18T08:39:57+00:00"
+    },
     {
      "titolo": "Damasco, 'raid aerei su aeroporto militare nel nord-ovest della Siria'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/damasco-raid-aerei-su-aeroporto-militare-nel-nord-ovest-della-siria_2613bed3-e98d-41d9-8bee-e88936a5500c.html",
@@ -44,22 +54,17 @@
      "titolo": "Borsa: l'Asia debole attende novità da Hormuz, Tokyo -2,5%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-lasia-debole-attende-novita-da-hormuz-tokyo-25_d7e1a6c6-537d-40c6-a9ab-ac4402ca2e65.html",
      "data": "2026-08-18T07:01:45+00:00"
-    },
-    {
-     "titolo": "Il gas parte in tenuta (+0,8%) a 62,2 euro al Megawattora",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/il-gas-parte-in-tenuta-08-a-622-euro-al-megawattora_98c67ffc-b5a8-4d38-85b9-1270695bd477.html",
-     "data": "2026-08-18T06:48:10+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund apre calmo a 80 punti base",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/lo-spread-tra-btp-e-bund-apre-calmo-a-80-punti-base_d7163539-d42c-4e73-bcd3-2b16d0a68a61.html",
-     "data": "2026-08-18T06:47:40+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Scendono le temperature notturne e l'Umbria torna a respirare",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/scendono-le-temperature-notturne-e-lumbria-torna-a-respirare_f09b9126-cca5-40a5-abd0-bf766101e8e1.html",
+     "data": "2026-08-18T08:32:38+00:00"
+    },
     {
      "titolo": "Sarà intitolato a Corrado Viciani il nuovo campo sportivo di Montecchio",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/sara-intitolato-a-corrado-viciani-il-nuovo-campo-sportivo-di-montecchio_fddbc6bd-2443-4d4b-873d-9ead4ac6da70.html",
@@ -114,17 +119,42 @@
      "titolo": "Cura e restauro al centro di 'Scultori a Brufa, la Strada del Vino e dell'Arte'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/17/cura-e-restauro-al-centro-di-scultori-a-brufa-la-strada-del-vino-e-dellarte_98472b0f-a673-495f-aab7-43cd22037fee.html",
      "data": "2026-08-17T14:20:04+00:00"
-    },
-    {
-     "titolo": "A suor madre Maria Grazia Biscotti il riconoscimento Vinarelli",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/17/a-suor-madre-madre-maria-grazia-biscotti-il-riconoscimento-vinarelli_294e765b-2804-427c-8d68-1accaf3cfce0.html",
-     "data": "2026-08-17T15:56:08+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Furto opere Antonello da Messina: teli neri su basi che ospitavano i dipinti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/furto-opere-antonello-da-messina-teli-neri-su-basi-che-ospitavano-i-dipinti_b4d1c333-1423-47cc-a7b2-69ca4cdde48e.html",
+     "data": "2026-08-18T09:15:05+00:00"
+    },
+    {
+     "titolo": "Paga di 800 euro mensili per 62 ore a settimana, in tre accusati di caporalato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/paga-di-800-euro-mensili-per-62-ore-a-settimana-in-tre-accusati-di-caporalato_f284b8dd-7782-492d-a1b8-9dc497cd2875.html",
+     "data": "2026-08-18T09:07:49+00:00"
+    },
+    {
+     "titolo": "Salgono a sedici i casi di contagio di febbre del Nilo nell'Oristanese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/salgono-a-sedici-i-casi-di-contagio-di-febbre-del-nilo-nelloristanese_746f2da9-2128-43b6-a79c-16b4c4d55602.html",
+     "data": "2026-08-18T09:06:38+00:00"
+    },
+    {
+     "titolo": "Morti in ambulanza, giudizio immediato per Luca Spada",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/morti-in-ambulanza-giudizio-immediato-per-luca-spada_da41d1cf-acb9-4c32-9430-3c4c9be4fc3b.html",
+     "data": "2026-08-18T09:16:32+00:00"
+    },
+    {
+     "titolo": "Si è risvegliato dopo 10 giorni lo scout 16enne colpito da un fulmine",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/si-e-risvegliato-dopo-10-giorni-lo-scout-16enne-colpito-da-un-fulmine_f8bd7e55-d3ee-4b1a-99ed-fd6ca6068370.html",
+     "data": "2026-08-18T08:46:19+00:00"
+    },
+    {
+     "titolo": "Allerta incendi sul monte Morrone in Abruzzo, in azione mezzi aerei",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/allerta-incendi-sul-monte-morrone-in-abruzzo-in-azione-mezzi-aerei_3fc761bb-94d0-4f55-b07a-79157622a3f0.html",
+     "data": "2026-08-18T08:33:03+00:00"
+    },
     {
      "titolo": "Furto opere di Antonello da Messina: il museo ha riaperto al pubblico",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/furto-opere-di-antonello-da-messina-il-museo-ha-riaperto-al-pubblico_41c04aac-a5a4-4c3e-a6ba-58293cf622ac.html",
@@ -148,42 +178,12 @@
     {
      "titolo": "A 10 anni dal sisma per due opere pubbliche su tre non è ancora partito il cantiere",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/a-10-anni-da-sisma-per-2-opere-pubbliche-su-3-non-ancora-partito-il-cantiere_7ba078c5-c2e8-4e92-9870-7234dbeb1bde.html",
-     "data": "2026-08-18T08:22:16+00:00"
+     "data": "2026-08-18T08:34:46+00:00"
     },
     {
      "titolo": "Strage di Vergarolla: sindaco Gorizia, chinarsi di fronte a dolore altrui",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/strage-di-vergarolla-sindaco-gorizia-chinarsi-di-fronte-a-dolore-altrui_75371fe6-9bd7-4d23-a22a-18ea75d87364.html",
      "data": "2026-08-18T07:42:13+00:00"
-    },
-    {
-     "titolo": "Dà fuoco al materasso della cella, detenuto di 19 anni muore intossicato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/da-fuoco-al-materasso-della-cella-detenuto-di-19-anni-muore-intossicato_55d1bae4-d357-4552-94d3-3d49027e80a8.html",
-     "data": "2026-08-18T07:34:17+00:00"
-    },
-    {
-     "titolo": "Ultraleggero scomparso, ricerche proseguono, finora senza esito",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/ultraleggero-scomparso-ricerche-proseguono-finora-senza-esito_333e0e7f-d524-43c2-8115-1c08521aeb15.html",
-     "data": "2026-08-18T07:33:18+00:00"
-    },
-    {
-     "titolo": "Travolto da un'auto a Bologna dopo la maturità, morto a 45 giorni di distanza",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/travolto-da-unauto-a-bologna-dopo-la-maturita-morto-a-45-giorni-di-distanza_7eacd7ee-ebb3-4662-84dc-bcfd80539d85.html",
-     "data": "2026-08-18T07:24:25+00:00"
-    },
-    {
-     "titolo": "Uomo ferito con due colpi di pistola alla schiena a Messina",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/umo-ferito-con-due-colpi-di-pistola-alla-schiena-a-messina_09c4ccb8-eb14-4422-829c-eba5562c6d6b.html",
-     "data": "2026-08-18T07:01:50+00:00"
-    },
-    {
-     "titolo": "Turco ricercato per omicidio atterra a Ciampino, arrestato dalla Polizia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/turco-ricercato-per-omicidio-atterra-a-ciampino-arrestato-dalla-polizia_631742fc-21f1-4201-8c11-fb3bf490c20d.html",
-     "data": "2026-08-18T06:16:52+00:00"
-    },
-    {
-     "titolo": "Accoltellato nel Modenese, arrestata la moglie dopo due settimane",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/accoltellato-nel-modenese-arrestata-la-moglie-dopo-due-settimane_94750361-b6ad-45c4-b5ba-8b6a912319a9.html",
-     "data": "2026-08-17T19:50:32+00:00"
     }
    ]
   },
@@ -231,6 +231,36 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: l'Europa debole con l'Hi tech, Milano in calo dello 0,6%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-leuropa-debole-con-lhi-tech-milano-in-calo-dello-06_13ee2cc2-6f8a-4419-9a8e-7505a7462b49.html",
+     "data": "2026-08-18T08:51:02+00:00"
+    },
+    {
+     "titolo": "Il prezzo del gasolio torna a livello pre Dl accise",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/il-prezzo-del-gasolio-torna-a-livello-pre-dl-accise_f16480ad-e974-42d3-8c5c-a84a914fd704.html",
+     "data": "2026-08-18T08:56:39+00:00"
+    },
+    {
+     "titolo": "Il prezzo del gasolio torna ai livelli precedenti alle misure del governo",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/il-prezzo-del-gasolio-torna-ai-livelli-precedenti-alle-misure-del-governo_23551cbb-a06c-40b8-b6d5-078e2b5b5682.html",
+     "data": "2026-08-18T09:06:36+00:00"
+    },
+    {
+     "titolo": "Il fatturato 2026 di Anthropic oltre i 65 miliardi in vista dell'Ipo",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/il-fatturato-2026-di-anthropic-oltre-i-65-miliardi-in-vista-dellipo_5dc9c293-0c0a-43b8-87b3-8d8ad78a34a8.html",
+     "data": "2026-08-18T08:53:40+00:00"
+    },
+    {
+     "titolo": "Birra al vertice dell'export agroalimentare dal Messico, vola la tequila",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/birra-al-vertice-dellexport-agroalimentare-dal-messico-vola-la-tequila_d3db6774-7b00-4e48-b1af-454da1929e38.html",
+     "data": "2026-08-18T08:35:36+00:00"
+    },
+    {
+     "titolo": "Confartigianato, '621mila tecnici Ia da assumere, più della metà è introvabile'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/confartigianato-621mila-tecnici-ia-da-assumere-piu-della-meta-e-introvabile_f3586abb-6ce8-4db3-80f8-0132fa1d893c.html",
+     "data": "2026-08-18T08:32:25+00:00"
+    },
+    {
      "titolo": "Borsa: Milano (-0,4%) fiacca con l'Europa, deboli Banco Bpm e Generali",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-milano-04-fiacca-con-leuropa-deboli-banco-bpm-e-generali_ba586bf7-b8c9-4cdc-91a6-79f68b44e6d6.html",
      "data": "2026-08-18T07:25:48+00:00"
@@ -238,7 +268,7 @@
     {
      "titolo": "Gme, sale l'indice italiano del prezzo del gas",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/gme-sale-lindice-italiano-del-prezzo-del-gas_a7fed4b1-5cd3-4773-8a86-f240f8bc2686.html",
-     "data": "2026-08-18T07:22:31+00:00"
+     "data": "2026-08-18T08:38:41+00:00"
     },
     {
      "titolo": "Ue, con clausola energia sovvenzioni a pompe di calore e centrali nucleari",
@@ -259,36 +289,6 @@
      "titolo": "Borsa: l'Asia debole attende novità da Hormuz, Tokyo -2,5%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-lasia-debole-attende-novita-da-hormuz-tokyo-25_8cebb822-33e8-4cb8-ab71-419af5ffb1a0.html",
      "data": "2026-08-18T07:01:42+00:00"
-    },
-    {
-     "titolo": "Il gas parte in tenuta (+0,8%) a 62,2 euro al Megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/il-gas-parte-in-tenuta-08-a-622-euro-al-megawattora_3305d334-c991-4b66-af59-0601ea1ccb69.html",
-     "data": "2026-08-18T07:11:45+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund apre calmo a 80 punti base",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/lo-spread-tra-btp-e-bund-apre-calmo-a-80-punti-base_296d19d3-039f-4d09-a07d-f0a08081b7bd.html",
-     "data": "2026-08-18T06:47:38+00:00"
-    },
-    {
-     "titolo": "L'euro a 1,1572 dollari, in calo dello 0,07%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/leuro-a-11572-dollari-in-calo-dello-007_ade7a647-44a4-4a6a-86ef-baec8a38529a.html",
-     "data": "2026-08-18T06:06:54+00:00"
-    },
-    {
-     "titolo": "Il prezzo dell'oro in calo a 4.443,00 dollari l'oncia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/il-prezzo-delloro-in-calo-a-4.44300-dollari-loncia_c3c0ecc8-91e6-4364-92e5-bc171ac85b50.html",
-     "data": "2026-08-18T07:11:59+00:00"
-    },
-    {
-     "titolo": "Petrolio in rialzo, Wti a 85,23 dollari al barile (+0,86%)",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/petrolio-in-rialzo-wti-a-8523-dollari-al-barile-086_be0236d9-fee6-43c5-b0d5-646d414a6761.html",
-     "data": "2026-08-18T07:12:01+00:00"
-    },
-    {
-     "titolo": "Borsa: Tokyo, apertura in ribasso (-0,56%)",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-tokyo-apertura-in-ribasso-056_a46fec45-b06c-4172-86ca-db0aedfa7456.html",
-     "data": "2026-08-18T00:21:10+00:00"
     }
    ]
   },
