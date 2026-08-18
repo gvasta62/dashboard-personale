@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-18T15:24:17.639506+00:00",
+ "aggiornato": "2026-08-18T15:52:41.420129+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "L'ex di Terrin denunciato altre tre volte, la prima nel 2002",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/lex-di-terrin-denunciato-altre-tre-volte-la-prima-nel-2002_40cf4be5-1b0b-4f60-9931-2da0285e609b.html",
+     "data": "2026-08-18T15:45:42+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude in rosso, -1,06%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-milano-chiude-in-rosso-106_a48d2a70-c016-41f3-95e4-10c39a5b75de.html",
+     "data": "2026-08-18T15:41:33+00:00"
+    },
     {
      "titolo": "Borsa: l'Europa peggiora nel finale, pesano i microchip, Milano -0,95%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-leuropa-peggiora-nel-finale-pesano-i-microchip-milano-095_44de9eeb-8d65-47ba-9841-798b4ae4d029.html",
@@ -44,22 +54,17 @@
      "titolo": "'La ragazza somala riceverà asilo da una Chiesa evangelica in Baviera'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/la-ragazza-somala-ricevera-asilo-da-una-chiesa-evangelica-in-baviera_3beb408e-2c14-4f9b-9f81-9811a86df745.html",
      "data": "2026-08-18T12:25:56+00:00"
-    },
-    {
-     "titolo": "Emergency, 'ricevuti 35 bambini feriti da esplosione in scuola a Kabul'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/emergency-ricevuti-35-bambini-feriti-da-esplosione-in-scuola-a-kabul_16555ac9-4a8a-4725-ae2f-9f44e6ec78cf.html",
-     "data": "2026-08-18T12:16:35+00:00"
-    },
-    {
-     "titolo": "Siria, 'raid Israele su aeroporto militare. Usa, 'escalation non necessaria'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/siria-raid-israele-su-aeroporto-militare.-usa-escalation-non-necessaria_d10730ac-b126-4d0f-b2e6-5b4ade97a933.html",
-     "data": "2026-08-18T12:07:33+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "In Umbria il caffè al bar costa almeno il 20% in più di cinque anni fa",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/in-umbria-il-caffe-al-bar-costa-almeno-il-20-in-piu-di-cinque-anni-fa_a26eafd9-8991-48f8-a5c4-041d372aa336.html",
+     "data": "2026-08-18T15:39:24+00:00"
+    },
     {
      "titolo": "Proietti, Umbria seconda in Italia per crescita del turismo su base semestrale",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/proietti-umbria-seconda-in-italia-per-crescita-del-turismo-su-base-semestrale_ce982a63-f1c6-473e-9ff6-eeb88bb395c4.html",
@@ -114,17 +119,32 @@
      "titolo": "Senza casa dorme con la madre anziana nella loro attività",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/senza-casa-dorme-con-la-madre-anziana-nella-loro-attivita_36b39fde-ca56-4ff5-b1c5-797030eec7cf.html",
      "data": "2026-08-18T11:05:27+00:00"
-    },
-    {
-     "titolo": "Scendono le temperature notturne e l'Umbria torna a respirare",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/scendono-le-temperature-notturne-e-lumbria-torna-a-respirare_f09b9126-cca5-40a5-abd0-bf766101e8e1.html",
-     "data": "2026-08-18T08:32:38+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "L'ex di Terrin denunciato altre tre volte, la prima nel 2002",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/lex-di-terrin-denunciato-altre-tre-volte-la-prima-nel-2002_ea8d8d38-050f-4ad1-a365-4985a7862650.html",
+     "data": "2026-08-18T15:45:36+00:00"
+    },
+    {
+     "titolo": "Furto delle tele di Cezanne, Matisse e Renoir, i 5 indagati restano in carcere",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/furto-delle-tele-di-cezanne-matisse-e-renoir-i-5-indagati-restano-in-carcere_c2be48ec-6556-47a8-9a21-e7f9bac4319a.html",
+     "data": "2026-08-18T15:35:14+00:00"
+    },
+    {
+     "titolo": "Minori e social, in Italia norme ferme in Parlamento",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/minori-e-social-in-italia-norme-ferme-in-parlamento_15fede12-d34e-48b5-8d82-7688b4386fd5.html",
+     "data": "2026-08-18T15:29:52+00:00"
+    },
+    {
+     "titolo": "Il furto di opere Antonello da Messina, in arrivo un'azione disciplinare per i custodi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/il-furto-di-opere-antonello-da-messina-in-arrivo-unazione-disciplinare-per-i-custodi_7d583cda-08d6-419c-b18f-f8c79dd6b776.html",
+     "data": "2026-08-18T15:24:31+00:00"
+    },
     {
      "titolo": "Zaia: \"Il femminicidio di Tania Terrin è un fallimento\"",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/zaia-il-femminicidio-di-tania-terrin-e-un-fallimento_cd4d11a1-6d51-4676-836b-d3afa3c43e80.html",
@@ -164,26 +184,6 @@
      "titolo": "Temporali dopo il caldo, parla l'esperto: 'Le Alpi fanno da hot spot per i fulmini'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/temporali-dopo-il-caldo-parla-lesperto-le-alpi-fanno-da-hot-spot-per_d9e35673-8b00-4df7-885c-a720ae9e3fd0.html",
      "data": "2026-08-18T10:11:48+00:00"
-    },
-    {
-     "titolo": "Uccide la ex che lo aveva denunciato. La madre: 'Si era costruito un cappio e lo mostrava a mia figlia'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/uccide-la-ex-che-lo-aveva-denunciato.-la-madre-si-era-costruito-un-cappio-e-lo-mostrava-a-mia_393168f9-93fa-4ec9-ab19-140b49ad6cc5.html",
-     "data": "2026-08-18T09:30:05+00:00"
-    },
-    {
-     "titolo": "Accoltellato a Verona, un uomo grave in terapia intensiva",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/accoltellato-a-verona-un-uomo-grave-in-terapia-intensiva_035301bb-444c-4772-b3ee-2d71dfb67d74.html",
-     "data": "2026-08-18T09:23:43+00:00"
-    },
-    {
-     "titolo": "Furto opere Antonello da Messina: teli neri su basi che ospitavano i dipinti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/furto-opere-antonello-da-messina-teli-neri-su-basi-che-ospitavano-i-dipinti_b4d1c333-1423-47cc-a7b2-69ca4cdde48e.html",
-     "data": "2026-08-18T09:15:05+00:00"
-    },
-    {
-     "titolo": "Paga di 800 euro mensili per 62 ore a settimana, in tre accusati di caporalato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/paga-di-800-euro-mensili-per-62-ore-a-settimana-in-tre-accusati-di-caporalato_f284b8dd-7782-492d-a1b8-9dc497cd2875.html",
-     "data": "2026-08-18T09:07:49+00:00"
     }
    ]
   },
@@ -246,6 +246,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Milano chiude in rosso, -1,06%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-milano-chiude-in-rosso-106_4b1de674-b62e-45dc-be8a-e56da6472f3f.html",
+     "data": "2026-08-18T15:41:30+00:00"
+    },
+    {
      "titolo": "Borsa: l'Europa peggiora nel finale, pesano i microchip, Milano -0,95%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-leuropa-peggiora-nel-finale-pesano-i-microchip-milano-095_bdc35fb2-b53a-41e4-a9e7-3f4cfdc8eaf2.html",
      "data": "2026-08-18T15:20:01+00:00"
@@ -258,7 +263,7 @@
     {
      "titolo": "Tonfo del 3,5% di Meta a Wall Street con l'avvio del processo a tutela dei minori",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/tonfo-del-35-di-meta-a-wall-street-con-lavvio-del-processo-a-tutela_bf2a14ca-2446-404c-bb85-b3095fd6323b.html",
-     "data": "2026-08-18T15:21:54+00:00"
+     "data": "2026-08-18T15:30:53+00:00"
     },
     {
      "titolo": "Lane (Bce), l'inflazione è 'molto' superiore' all'obiettivo del 2%",
@@ -299,11 +304,6 @@
      "titolo": "Germania, ai massimi dal 2011 il rendimento del bund trentennale sindacato",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/germania-ai-massimi-dal-2011-il-rendimento-del-bund-trentennale-sindacato_acf091bb-0f5e-4f4a-a728-bebdcfb62477.html",
      "data": "2026-08-18T12:01:26+00:00"
-    },
-    {
-     "titolo": "Geely, nel semestre utile +46%, punta su Europa ed elettrico",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/geely-nel-semestre-utile-46-punta-su-europa-ed-elettrico_8ca11c0c-e47e-4e39-8121-bb508a5007ad.html",
-     "data": "2026-08-18T11:34:10+00:00"
     }
    ]
   },
@@ -441,6 +441,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Varenne: Maurizio Ughi 'pigro ma con testa superiore, un mito irripetibile'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/varenne-maurizio-ughi-pigro-ma-con-testa-superiore-un-mito-irripetibile_31113575-4135-4ed1-ba4e-ed66a99916b4.html",
+     "data": "2026-08-18T15:34:38+00:00"
+    },
+    {
+     "titolo": "L'Olimpia Milano completa il roster, arriva Mathews",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/18/lolimpia-milano-completa-il-roster-arriva-mathews_a829aa11-0bbd-4c8f-b6a9-0971ab9c6af7.html",
+     "data": "2026-08-18T15:34:20+00:00"
+    },
+    {
+     "titolo": "Varenne: dal Derby all'Amerique, un solo 'Capitano'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/18/varenne-dal-derby-allamerique-un-solo-capitano_9c52b13d-b710-4081-bc6e-3fb396eb50c2.html",
+     "data": "2026-08-18T15:37:38+00:00"
+    },
+    {
      "titolo": "Coppa Italia: a settembre i sedicesimi, da Parma-Cremonese al derby toscano",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/coppa-italia-a-settembre-i-sedicesimi-da-parma-cremonese-al-derby-toscano_2fad2c8f-33b7-4342-b525-def3d7ba8f7f.html",
      "data": "2026-08-18T15:12:21+00:00"
@@ -483,22 +498,7 @@
     {
      "titolo": "È morto Varenne, leggenda del trotto",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/18/e-morto-varenne-leggenda-del-trotto_afc60a9c-6bb3-4dd0-af76-654f2f714a80.html",
-     "data": "2026-08-18T14:49:59+00:00"
-    },
-    {
-     "titolo": "Prevenzione, sport e natura, torna a Ovindoli la Longevity Run",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/prevenzione-sport-e-natura-torna-a-ovindoli-la-longevity-run_9c30efcc-ec91-4f08-b85d-6e38bd70fb32.html",
-     "data": "2026-08-18T11:25:36+00:00"
-    },
-    {
-     "titolo": "Vuelta: anche Roglic al via, proverà a sfidare Pogacar",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/18/vuelta-anche-roglic-al-via-provera-a-sfidare-pogacar_e8ca8da0-131a-464c-87b0-95bea98eff70.html",
-     "data": "2026-08-18T13:40:33+00:00"
-    },
-    {
-     "titolo": "Milan: Modric, 'puntiamo a vincere e non solo alla qualificazione Champions'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/milan-modric-puntiamo-a-vincere-e-non-solo-alla-qualificazione-champions_78005c1b-d8cb-49c5-a5c1-480745194f4a.html",
-     "data": "2026-08-18T13:32:41+00:00"
+     "data": "2026-08-18T15:38:38+00:00"
     }
    ]
   }
