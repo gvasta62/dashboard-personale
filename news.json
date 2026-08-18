@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-18T14:02:07.782825+00:00",
+ "aggiornato": "2026-08-18T14:57:43.826344+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: l'Europa a due velocità con Wall Street, Milano -0,65%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-leuropa-a-due-velocita-con-wall-street-milano-065_99c7db8b-9d22-48e2-930a-2bce5a6f8dfc.html",
+     "data": "2026-08-18T14:18:02+00:00"
+    },
     {
      "titolo": "Borsa: Europa contrastata, future Usa in calo, Milano -0,45%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-europa-contrastata-future-usa-in-calo-milano-045_1b850057-d61c-4aad-8e79-7b3149ea5c4f.html",
@@ -49,11 +54,6 @@
      "titolo": "Zaia, 'il femminicidio di Tania Terrin è un fallimento'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/zaia-il-femminicidio-di-tania-terrin-e-un-fallimento_471abffd-95c6-4747-85bb-ce681e860892.html",
      "data": "2026-08-18T11:56:54+00:00"
-    },
-    {
-     "titolo": "Imprenditore precipita dal tetto di un capannone e muore in Umbria",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/imprenditore-precipita-dal-tetto-di-un-capannone-e-muore-in-umbria_201a5af9-f786-4eb6-82fa-b55b82b8ec81.html",
-     "data": "2026-08-18T11:47:53+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Zaia: \"Il femminicidio di Tania Terrin è un fallimento\"",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/zaia-il-femminicidio-di-tania-terrin-e-un-fallimento_cd4d11a1-6d51-4676-836b-d3afa3c43e80.html",
+     "data": "2026-08-18T14:43:37+00:00"
+    },
+    {
+     "titolo": "Famiglia nel bosco, curiosi a Palmoli per selfie 'grati ma ci serve privacy'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/famiglia-nel-bosco-curiosi-a-palmoli-per-selfie-grati-ma-ci-serve-privacy_55cbf32d-6802-44a4-8c07-114d87c15efe.html",
+     "data": "2026-08-18T14:26:56+00:00"
+    },
+    {
+     "titolo": "Ondata di maltempo in Salento, tromba d'aria e allagamenti a Porto Cesareo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/ondata-di-maltempo-in-salento-tromba-daria-e-allagamenti-a-porto-cesareo_68e08cb9-6cd5-4d1d-9496-74b2ae26d5de.html",
+     "data": "2026-08-18T14:22:14+00:00"
+    },
+    {
      "titolo": "Sotto controllo incendio in Carnia, in netto miglioramento anche PM10",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/sotto-controllo-incendio-in-carnia-in-netto-miglioramento-anche-pm10_7c468728-583d-4fc2-b149-880f82101e50.html",
      "data": "2026-08-18T13:02:38+00:00"
@@ -169,21 +184,6 @@
      "titolo": "Paga di 800 euro mensili per 62 ore a settimana, in tre accusati di caporalato",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/paga-di-800-euro-mensili-per-62-ore-a-settimana-in-tre-accusati-di-caporalato_f284b8dd-7782-492d-a1b8-9dc497cd2875.html",
      "data": "2026-08-18T09:07:49+00:00"
-    },
-    {
-     "titolo": "Salgono a sedici i casi di contagio di febbre del Nilo nell'Oristanese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/salgono-a-sedici-i-casi-di-contagio-di-febbre-del-nilo-nelloristanese_746f2da9-2128-43b6-a79c-16b4c4d55602.html",
-     "data": "2026-08-18T09:06:38+00:00"
-    },
-    {
-     "titolo": "'Picchiato in spiaggia da 30 persone perché sono gay'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/picchiato-in-spiaggia-da-30-persone-perche-sono-gay_a6352a86-07b7-4f77-a1c1-cdb447034241.html",
-     "data": "2026-08-18T12:56:15+00:00"
-    },
-    {
-     "titolo": "Femminicidio è la parola più consultata sul portale Treccani",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/femminicidio-e-la-parola-piu-consultata-sul-portale-treccani_33cef401-81f6-427b-94a1-672f6561f711.html",
-     "data": "2026-08-18T11:33:22+00:00"
     }
    ]
   },
@@ -201,9 +201,9 @@
      "data": "2026-08-18T09:29:52+00:00"
     },
     {
-     "titolo": "Pubblicato il libro di Romeo: 'Racconto il desiderio rinnovamento della base della Lega'",
+     "titolo": "Romeo scuote la Lega: 'La base ci chiede il rinnovamento'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/18/pubblicato-il-libro-di-romeo-racconto-il-desiderio-rinnovamento-della-base-della-lega_b04edd8c-4301-4871-affb-6d2b00903025.html",
-     "data": "2026-08-18T09:34:48+00:00"
+     "data": "2026-08-18T14:35:34+00:00"
     },
     {
      "titolo": "Il messaggio di Meloni: 'Onoriamo la memoria dei morti nella strage di Vergarolla'",
@@ -245,6 +245,16 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Lane (Bce), l'inflazione è 'molto' superiore' all'obiettivo del 2%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/lane-bce-linflazione-e-molto-superiore-allobiettivo-del-2_3a02ef15-681e-49ed-ab4c-99a759887626.html",
+     "data": "2026-08-18T14:26:18+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa a due velocità con Wall Street, Milano -0,65%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-leuropa-a-due-velocita-con-wall-street-milano-065_bc711a69-0a15-46bf-8949-ecc36d40b369.html",
+     "data": "2026-08-18T14:18:05+00:00"
+    },
     {
      "titolo": "Borsa: Europa contrastata, future Usa in calo, Milano -0,45%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-europa-contrastata-future-usa-in-calo-milano-045_6ea22cfa-4522-42c3-951d-207a35886f3d.html",
@@ -294,22 +304,17 @@
      "titolo": "Impennata dei lavori legati all'Ia, ma meno opportunità per le donne",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/impennata-dei-lavori-legati-allia-ma-meno-opportunita-per-le-donne_ab5f48fb-3923-4adb-bea1-0918b7894b15.html",
      "data": "2026-08-18T09:50:59+00:00"
-    },
-    {
-     "titolo": "++ In Germania l'indice Zew a agosto balza a 34,2 punti, oltre le stime ++",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/in-germania-lindice-zew-a-agosto-balza-a-342-punti-oltre-le-stime_e960c496-ec0e-4a20-b869-38ac17d8a6e7.html",
-     "data": "2026-08-18T09:19:39+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa debole con l'Hi tech, Milano in calo dello 0,6%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-leuropa-debole-con-lhi-tech-milano-in-calo-dello-06_13ee2cc2-6f8a-4419-9a8e-7505a7462b49.html",
-     "data": "2026-08-18T08:51:02+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Terremoto in Colombia, 'per la ricostruzione necessari 9,5 miliardi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/terremoto-in-colombia-per-la-ricostruzione-necessari-95-miliardi_08888570-09e4-4d4d-ab46-14dfce189cc5.html",
+     "data": "2026-08-18T14:04:01+00:00"
+    },
     {
      "titolo": "Cile, Kast presenta la riforma costituzionale sulla sicurezza",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/cile-kast-presenta-la-riforma-costituzionale-sulla-sicurezza_48a8b4ca-c256-4271-b45b-896434df4875.html",
@@ -364,11 +369,6 @@
      "titolo": "Ukmto, 'nave colpita da proiettile nello stretto di Hormuz, un ferito'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/ukmto-nave-colpita-da-proiettile-nello-stretto-di-hormuz-un-ferito_7102c060-a1bb-4fb3-8fe6-1082663895a3.html",
      "data": "2026-08-18T07:19:18+00:00"
-    },
-    {
-     "titolo": "Kiev, 'almeno 10 morti nel raid russo su Kharkiv'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/18/kiev-almeno-10-morti-nel-raid-russo-su-kharkiv_a0b9db91-1126-4321-b15b-13a150388f8e.html",
-     "data": "2026-08-18T07:16:24+00:00"
     }
    ]
   },
@@ -441,6 +441,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Varenne: proprietario allevamento Eboli 'morte improvvisa, ieri stava bene'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/varenne-proprietario-allevamento-eboli-morte-improvvisa-ieri-stava-bene_77a6307c-0a25-4f3a-9a3a-5e51fed2d728.html",
+     "data": "2026-08-18T14:43:58+00:00"
+    },
+    {
      "titolo": "Serie A: incontro tecnico Aia-club sulle novità regolamentari",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/serie-a-incontro-tecnico-aia-club-sulle-novita-regolamentari_db6a9d54-214a-4160-b9e1-bc4d1e8a1fa4.html",
      "data": "2026-08-18T13:56:19+00:00"
@@ -473,7 +478,7 @@
     {
      "titolo": "È morto Varenne, leggenda del trotto",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/18/e-morto-varenne-leggenda-del-trotto_afc60a9c-6bb3-4dd0-af76-654f2f714a80.html",
-     "data": "2026-08-18T13:06:09+00:00"
+     "data": "2026-08-18T14:49:59+00:00"
     },
     {
      "titolo": "Prevenzione, sport e natura, torna a Ovindoli la Longevity Run",
@@ -494,11 +499,6 @@
      "titolo": "Vela: al via dal golfo di Mondello la Palermo-Montecarlo",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/vela-al-via-dal-golfo-di-mondello-la-palermo-montecarlo_537c2381-adfb-48c0-8a26-1341fd3caee3.html",
      "data": "2026-08-18T13:04:39+00:00"
-    },
-    {
-     "titolo": "Roma: è fatta per Mora, l'attaccante atteso nella Capitale",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/roma-e-fatta-per-mora-lattaccante-atteso-nella-capitale_12b352e8-0956-482e-bbfc-35d5327d1615.html",
-     "data": "2026-08-18T13:35:57+00:00"
     }
    ]
   }
