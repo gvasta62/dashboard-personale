@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-18T17:48:51.777361+00:00",
+ "aggiornato": "2026-08-18T18:16:45.375637+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Anziana uccisa a colpi di pietra, al vaglio la posizione del marito",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/anziana-uccisa-a-colpi-di-pietra-al-vaglio-la-posizione-del-marito_608c3ef8-90d2-418e-8983-2bd9f9528b13.html",
+     "data": "2026-08-18T18:08:25+00:00"
+    },
+    {
+     "titolo": "Gli Usa impongono sanzioni contro la presidente della Cpi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/gli-usa-impongono-sanzioni-contro-la-presidente-della-cpi_a665d3d2-5e81-43a5-81d1-2c560f6e3bb1.html",
+     "data": "2026-08-18T17:46:34+00:00"
+    },
     {
      "titolo": "Donna uccisa a coltellate a Collefero, il marito in stato di fermo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/donna-uccisa-a-coltellate-a-collefero-il-marito-in-stato-di-fermo_ff8c784b-1081-4dba-8cd5-35aac9ca8cb9.html",
@@ -44,16 +54,6 @@
      "titolo": "Borsa: Milano chiude in calo (-1,06%), pesano Stm e Prysmian",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-milano-chiude-in-calo-106-pesano-stm-e-prysmian_3ab14a5c-d297-46f0-87a6-a415c2b3da3f.html",
      "data": "2026-08-18T16:19:41+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 81,6 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-816-punti_3e6d7e00-aafc-4fb4-9270-14342050c936.html",
-     "data": "2026-08-18T16:08:23+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa debole in chiusura, Parigi -0,82%, Francoforte -0,8%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-europa-debole-in-chiusura-parigi-082-francoforte-08_dae5d459-af66-4722-afd6-a1461312df5b.html",
-     "data": "2026-08-18T15:53:22+00:00"
     }
    ]
   },
@@ -61,9 +61,14 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Uil-Fp, agente penitenziaria ferito al volto nel carcere di Perugia",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/uil-fp-agente-penitenziaria-ferito-al-volto-nel-carcere-di-perugia_23ee47a0-880c-451c-880c-eedadd1390a0.html",
+     "data": "2026-08-18T17:48:25+00:00"
+    },
+    {
      "titolo": "Imprenditore morto sul lavoro, Deruta vuole proclamare il lutto cittadino",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/imprenditore-morto-sul-lavoro-deruta-vuole-proclamare-il-lutto-cittadino_8f0c9d9a-0ee7-4ccb-b469-cb79702efc22.html",
-     "data": "2026-08-18T17:34:40+00:00"
+     "data": "2026-08-18T17:47:26+00:00"
     },
     {
      "titolo": "Al pronto soccorso di Terni 770 accessi fra il 13 e il 18 agosto",
@@ -114,17 +119,17 @@
      "titolo": "A Tavernelle 30 anni di Sagra della pannocchia con il progetto 'Dal seme alla festa'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/a-tavernelle-30-anni-di-sagra-della-pannocchia-con-il-progetto-dal-seme-alla_fbc78c09-6b68-4e77-8ab3-777a72b11366.html",
      "data": "2026-08-18T11:44:10+00:00"
-    },
-    {
-     "titolo": "Confcommercio lancia la campagna 'Trasimeno Autentico per Natura'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/confcommercio-lancia-la-campagna-trasimeno-autentico-per-natura_25838f5a-ed90-4f2b-9028-25142e2665c6.html",
-     "data": "2026-08-18T11:47:58+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Anziana uccisa a colpi di pietra, al vaglio la posizione del marito",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/anziana-uccisa-a-colpi-di-pietra-al-vaglio-la-posizione-del-marito_8f3dda54-25da-4934-a66e-d6d685035c00.html",
+     "data": "2026-08-18T18:08:25+00:00"
+    },
     {
      "titolo": "Precipita in montagna davanti al marito, morta una donna di 65 anni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/precipita-in-montagna-davanti-al-marito-morta-una-donna-di-65-anni_00089cad-b43d-4bdc-8adf-635aaebc3575.html",
@@ -179,11 +184,6 @@
      "titolo": "Minori e social, in Italia norme ferme in Parlamento",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/minori-e-social-in-italia-norme-ferme-in-parlamento_15fede12-d34e-48b5-8d82-7688b4386fd5.html",
      "data": "2026-08-18T15:29:52+00:00"
-    },
-    {
-     "titolo": "Il furto di opere Antonello da Messina, la banda avrebbe lasciato delle tracce",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/il-furto-di-opere-antonello-da-messina-in-arrivo-unazione-disciplinare-per-i-custodi_7d583cda-08d6-419c-b18f-f8c79dd6b776.html",
-     "data": "2026-08-18T16:57:59+00:00"
     }
    ]
   },
@@ -281,6 +281,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Gli Usa impongono sanzioni contro la presidente della Cpi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/18/gli-usa-impongono-sanzioni-contro-la-presidente-della-cpi_c433a9af-8efa-4544-bd86-e1c3d5d5b853.html",
+     "data": "2026-08-18T17:46:39+00:00"
+    },
+    {
+     "titolo": "Shock in Cisgiordania, palestinesi marchiati con il pennarello",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/shock-in-cisgiordania-palestinesi-marchiati-con-il-pennarello_58b817ec-0ae2-4078-9c83-c1afb74fe10d.html",
+     "data": "2026-08-18T17:50:18+00:00"
+    },
+    {
      "titolo": "Lieve aumento nella fiducia delle imprese in Sudafrica",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/18/lieve-aumento-nella-fiducia-delle-imprese-in-sudafrica_12ae3199-535c-4a15-9481-7903599bd09d.html",
      "data": "2026-08-18T17:30:39+00:00"
@@ -316,6 +326,11 @@
      "data": "2026-08-18T14:04:01+00:00"
     },
     {
+     "titolo": "Faduma ora si sente al sicuro, 'ho smesso di fuggire'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/18/faduma-ora-si-sente-al-sicuro-ho-smesso-di-fuggire_b1e6a949-c12f-4f6d-b67a-39ccb8401059.html",
+     "data": "2026-08-18T18:05:22+00:00"
+    },
+    {
      "titolo": "Cile, Kast presenta la riforma costituzionale sulla sicurezza",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/cile-kast-presenta-la-riforma-costituzionale-sulla-sicurezza_48a8b4ca-c256-4271-b45b-896434df4875.html",
      "data": "2026-08-18T13:10:56+00:00"
@@ -324,21 +339,6 @@
      "titolo": "Lula, 'il petrolio del Brasile può rifornire il mondo se Hormuz chiude'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/lula-il-petrolio-del-brasile-puo-rifornire-il-mondo-se-hormuz-chiude_754d6045-0ce5-4757-83ca-23f9f133e2f3.html",
      "data": "2026-08-18T12:53:46+00:00"
-    },
-    {
-     "titolo": "Svizzera, 'da fine agosto tornano i trasferimenti dei migranti arrivati dall'Italia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/18/svizzera-da-fine-agosto-tornano-i-trasferimenti-dei-migranti-arrivati-dallitalia_707b3ef6-ddf5-4ad8-a801-38cb5d7fc388.html",
-     "data": "2026-08-18T12:52:26+00:00"
-    },
-    {
-     "titolo": "Allarme fertilizzanti in Brasile, scorte di materie prime fino a ottobre",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/allarme-fertilizzanti-in-brasile-scorte-di-materie-prime-fino-a-ottobre_82452f36-616b-4f47-86cc-69750e3baca4.html",
-     "data": "2026-08-18T12:35:53+00:00"
-    },
-    {
-     "titolo": "'La ragazza somala riceverà asilo da una Chiesa evangelica in Baviera'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/18/la-ragazza-somala-ricevera-asilo-da-una-chiesa-evangelica-in-baviera_57eff538-12a3-4205-80ad-9765a5b25484.html",
-     "data": "2026-08-18T12:25:58+00:00"
     }
    ]
   },
@@ -411,9 +411,24 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Musetti agli ottavi a Cincinnati, battuto Zheng in due set",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/18/musetti-agli-ottavi-a-cincinnati-battuto-zheng-in-due-set_3da853ec-b99f-4e32-8f13-00d75338242d.html",
+     "data": "2026-08-18T18:08:30+00:00"
+    },
+    {
      "titolo": "Fiorentina: ecco Joao Mario, affronto la sfida con entusiasmo",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/fiorentina-ecco-joao-mario-affronto-la-sfida-con-entusiasmo_dae505b6-81f8-4005-9da0-dbb0dcd1baaf.html",
      "data": "2026-08-18T17:41:48+00:00"
+    },
+    {
+     "titolo": "Varenne leggenda anche come stallone, quanti figli di successo",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/18/varenne-leggenda-anche-come-stallone-quanti-figli-di-successo_61a411a3-be6e-4864-a89b-13d01551fe69.html",
+     "data": "2026-08-18T18:10:14+00:00"
+    },
+    {
+     "titolo": "Il ricordo di Minnucci, 'guidarlo era come volare'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/18/il-ricordo-di-minnucci-guidarlo-era-come-volare_3a35db4e-8113-4efc-928c-adea3175153f.html",
+     "data": "2026-08-18T18:11:22+00:00"
     },
     {
      "titolo": "Yael Trepy esce dal coma, 'nessun deficit neurologico'",
@@ -454,21 +469,6 @@
      "titolo": "Varenne: proprietario allevamento Eboli 'morte improvvisa, ieri stava bene'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/varenne-proprietario-allevamento-eboli-morte-improvvisa-ieri-stava-bene_77a6307c-0a25-4f3a-9a3a-5e51fed2d728.html",
      "data": "2026-08-18T14:43:58+00:00"
-    },
-    {
-     "titolo": "Serie A: incontro tecnico Aia-club sulle novità regolamentari",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/serie-a-incontro-tecnico-aia-club-sulle-novita-regolamentari_db6a9d54-214a-4160-b9e1-bc4d1e8a1fa4.html",
-     "data": "2026-08-18T13:56:19+00:00"
-    },
-    {
-     "titolo": "Cricket: en plein dell'Italia in Tanzania, cinque vittorie di fila",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/cricket-en-plein-dellitalia-in-tanzania-cinque-vittorie-di-fila_6472c3ff-f63a-4d29-8129-47d0dd63ef94.html",
-     "data": "2026-08-18T13:00:58+00:00"
-    },
-    {
-     "titolo": "Varenne: l'ultima gara nel settembre 2002, in Canada",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/18/varenne-lultima-gara-nel-settembre-2002-in-canada_28fd5296-8052-47ad-97c2-df616e32c430.html",
-     "data": "2026-08-18T12:35:53+00:00"
     }
    ]
   }
