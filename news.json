@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-18T16:15:23.795080+00:00",
+ "aggiornato": "2026-08-18T16:53:47.803454+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "I procuratori attaccano Meta, 'ha reso i minori dipendenti e li ha sfruttati'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/i-procuratori-attaccano-meta-ha-reso-i-minori-dipendenti-e-li-ha-sfruttati_770f6027-782b-4eb9-9d04-d0dfee9032c0.html",
+     "data": "2026-08-18T16:39:22+00:00"
+    },
+    {
+     "titolo": "Pichetto, per flessibilità energia misure a studio, da pompe calore a ferrovie",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/pichetto-per-flessibilita-energia-misure-a-studio-da-pompe-calore-a-ferrovie_019eb3dd-248d-4bf8-a2ca-228456a91569.html",
+     "data": "2026-08-18T16:34:23+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude in calo (-1,06%), pesano Stm e Prysmian",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-milano-chiude-in-calo-106-pesano-stm-e-prysmian_3ab14a5c-d297-46f0-87a6-a415c2b3da3f.html",
+     "data": "2026-08-18T16:19:41+00:00"
+    },
     {
      "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 81,6 punti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-816-punti_3e6d7e00-aafc-4fb4-9270-14342050c936.html",
@@ -23,7 +38,7 @@
     {
      "titolo": "Borsa: Milano chiude in rosso, -1,06%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-milano-chiude-in-rosso-106_a48d2a70-c016-41f3-95e4-10c39a5b75de.html",
-     "data": "2026-08-18T15:41:33+00:00"
+     "data": "2026-08-18T16:17:49+00:00"
     },
     {
      "titolo": "Borsa: l'Europa peggiora nel finale, pesano i microchip, Milano -0,95%",
@@ -39,21 +54,6 @@
      "titolo": "Tonfo del 3,5% di Meta a Wall Street con l'avvio del processo a tutela dei minori",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/tonfo-del-35-di-meta-a-wall-street-con-lavvio-del-processo-a-tutela_46e04563-cd94-4a2e-807a-8bace3fe13e7.html",
      "data": "2026-08-18T15:09:11+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa a due velocità con Wall Street, Milano -0,65%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-leuropa-a-due-velocita-con-wall-street-milano-065_99c7db8b-9d22-48e2-930a-2bce5a6f8dfc.html",
-     "data": "2026-08-18T14:18:02+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa contrastata, future Usa in calo, Milano -0,45%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-europa-contrastata-future-usa-in-calo-milano-045_1b850057-d61c-4aad-8e79-7b3149ea5c4f.html",
-     "data": "2026-08-18T13:22:39+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano debole (-0,4%), prese di beneficio su Stm e Prysmian",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-milano-debole-04-prese-di-beneficio-su-stm-e-prysmian_af004d8e-778e-4c50-9998-52974cad8b67.html",
-     "data": "2026-08-18T13:00:03+00:00"
     }
    ]
   },
@@ -68,7 +68,7 @@
     {
      "titolo": "In Umbria il caffè al bar costa almeno il 20% in più di cinque anni fa",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/in-umbria-il-caffe-al-bar-costa-almeno-il-20-in-piu-di-cinque-anni-fa_a26eafd9-8991-48f8-a5c4-041d372aa336.html",
-     "data": "2026-08-18T15:39:24+00:00"
+     "data": "2026-08-18T16:13:41+00:00"
     },
     {
      "titolo": "Proietti, Umbria seconda in Italia per crescita del turismo su base semestrale",
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Donna uccisa a coltellate vicino Roma, fermato un uomo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/donna-uccisa-a-coltellate-vicino-roma-fermato-un-uomo_2fd50acc-3326-4b72-8a05-c99380460419.html",
+     "data": "2026-08-18T16:21:36+00:00"
+    },
+    {
+     "titolo": "Musica sulle barche davanti a isola parco La Maddalena, pioggia di multe",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/musica-sulle-barche-davanti-a-isola-parco-la-maddalena-pioggia-di-multe_b767399e-0dd0-4641-bee2-1a70477dc5dc.html",
+     "data": "2026-08-18T16:13:58+00:00"
+    },
+    {
      "titolo": "Tromba d'aria in Salento, danneggiato il lido per bagnanti con disabilità",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/tromba-daria-in-salento-danneggiato-il-lido-per-bagnanti-con-disabilita_d6b472b3-6778-4c55-b4e7-b179793318fe.html",
      "data": "2026-08-18T16:07:22+00:00"
@@ -138,7 +148,7 @@
     {
      "titolo": "L'ex di Tania Terrin denunciato altre tre volte da precedenti compagne",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/lex-di-tania-terrin-denunciato-altre-tre-volte-da-precedenti-compagne_cd4d11a1-6d51-4676-836b-d3afa3c43e80.html",
-     "data": "2026-08-18T15:57:50+00:00"
+     "data": "2026-08-18T16:22:34+00:00"
     },
     {
      "titolo": "L'ex di Terrin denunciato altre tre volte, la prima nel 2002",
@@ -174,16 +184,6 @@
      "titolo": "Sotto controllo incendio in Carnia, in netto miglioramento anche PM10",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/sotto-controllo-incendio-in-carnia-in-netto-miglioramento-anche-pm10_7c468728-583d-4fc2-b149-880f82101e50.html",
      "data": "2026-08-18T13:02:38+00:00"
-    },
-    {
-     "titolo": "Imprenditore precipita dal tetto di un capannone e muore in Umbria",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/imprenditore-precipita-dal-tetto-di-un-capannone-e-muore-in-umbria_016db236-f1ab-4aa3-bc13-ad411aac093f.html",
-     "data": "2026-08-18T11:47:57+00:00"
-    },
-    {
-     "titolo": "Attaccante Cagliari Trepy migliora, ma resta in Terapia intensiva",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/attaccante-cagliari-trepy-migliora-ma-resta-in-terapia-intensiva_75f0e02f-33c7-454f-bd7b-96c0e91bc854.html",
-     "data": "2026-08-18T10:22:52+00:00"
     }
    ]
   },
@@ -246,6 +246,26 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Il gas naturale supera i 64 euro sulla piazza Ttf di Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/il-gas-naturale-supera-i-64-euro-sulla-piazza-ttf-di-amsterdam_fd2947eb-a365-4939-ab9a-d4d9b1369d0a.html",
+     "data": "2026-08-18T16:46:01+00:00"
+    },
+    {
+     "titolo": "I procuratori attaccano Meta, 'ha reso i minori dipendenti e li ha sfruttati'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/i-procuratori-attaccano-meta-ha-reso-i-minori-dipendenti-e-li-ha-sfruttati_056c83a7-1291-4436-be71-9a5adcb08336.html",
+     "data": "2026-08-18T16:39:22+00:00"
+    },
+    {
+     "titolo": "Pichetto, per flessibilità energia misure a studio, da pompe calore a ferrovie",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/pichetto-per-flessibilita-energia-misure-a-studio-da-pompe-calore-a-ferrovie_bdc67df3-7696-4cb6-8d9a-78ed47dcc09e.html",
+     "data": "2026-08-18T16:34:19+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude in calo (-1,06%), pesano Stm e Prysmian",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-milano-chiude-in-calo-106-pesano-stm-e-prysmian_ca5c67f5-9765-4a08-b680-3a2359b1109e.html",
+     "data": "2026-08-18T16:19:39+00:00"
+    },
+    {
      "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 81,6 punti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-816-punti_752cc514-4ad1-486b-b581-2cb6b396ad38.html",
      "data": "2026-08-18T16:08:07+00:00"
@@ -258,7 +278,7 @@
     {
      "titolo": "Borsa: Milano chiude in rosso, -1,06%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-milano-chiude-in-rosso-106_4b1de674-b62e-45dc-be8a-e56da6472f3f.html",
-     "data": "2026-08-18T15:41:30+00:00"
+     "data": "2026-08-18T16:18:36+00:00"
     },
     {
      "titolo": "Borsa: l'Europa peggiora nel finale, pesano i microchip, Milano -0,95%",
@@ -271,9 +291,9 @@
      "data": "2026-08-18T15:18:05+00:00"
     },
     {
-     "titolo": "Tonfo del 3,5% di Meta a Wall Street con l'avvio del processo a tutela dei minori",
+     "titolo": "I procuratori attaccano Meta, 'ha reso i minori dipendenti e li ha sfruttati'. Tonfo del 3,5% a Wall Street",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/tonfo-del-35-di-meta-a-wall-street-con-lavvio-del-processo-a-tutela_bf2a14ca-2446-404c-bb85-b3095fd6323b.html",
-     "data": "2026-08-18T15:30:53+00:00"
+     "data": "2026-08-18T16:41:54+00:00"
     },
     {
      "titolo": "Lane (Bce), l'inflazione è 'molto' superiore' all'obiettivo del 2%",
@@ -284,32 +304,17 @@
      "titolo": "Borsa: l'Europa a due velocità con Wall Street, Milano -0,65%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-leuropa-a-due-velocita-con-wall-street-milano-065_bc711a69-0a15-46bf-8949-ecc36d40b369.html",
      "data": "2026-08-18T14:18:05+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa contrastata, future Usa in calo, Milano -0,45%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-europa-contrastata-future-usa-in-calo-milano-045_6ea22cfa-4522-42c3-951d-207a35886f3d.html",
-     "data": "2026-08-18T13:22:55+00:00"
-    },
-    {
-     "titolo": "Facile.it, 2,9 milioni di italiani hanno subito truffe sulle bollette",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/facile.it-29-milioni-di-italiani-hanno-subito-truffe-sulle-bollette_734699fe-bcfb-4598-96ad-01f99ca31314.html",
-     "data": "2026-08-18T13:01:45+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano debole (-0,4%), prese di beneficio su Stm e Prysmian",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-milano-debole-04-prese-di-beneficio-su-stm-e-prysmian_f0660da5-97b1-4acd-98b4-0a27c8ff84de.html",
-     "data": "2026-08-18T12:59:40+00:00"
-    },
-    {
-     "titolo": "Il gas si conferma stabile sopra quota 62 euro al Ttf di Amsterdam",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/il-gas-si-conferma-stabile-sopra-quota-62-euro-al-ttf-di-amsterdam_bc297481-57bb-4f3d-b960-102951eb0a44.html",
-     "data": "2026-08-18T12:30:54+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Raid di Israele su un aeroporto militare in Siria, l'ira degli Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/raid-di-israele-su-un-aeroporto-militare-in-siria-lira-degli-usa_3b6e2a5d-5c56-4feb-a5eb-74801e75f24e.html",
+     "data": "2026-08-18T16:23:33+00:00"
+    },
     {
      "titolo": "Attivista della Sumud Flotilla in sciopero della fame in carcere in Tunisia",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/attivista-della-sumud-flotilla-in-sciopero-della-fame-in-carcere-in-tunisia_4dffc3de-d42a-4d08-8982-e8ec44d9f8c1.html",
@@ -364,11 +369,6 @@
      "titolo": "Damasco, 'raid aerei su aeroporto militare nel nord-ovest della Siria'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/damasco-raid-aerei-su-aeroporto-militare-nel-nord-ovest-della-siria_962b08a2-079b-40d0-9335-236092b715ec.html",
      "data": "2026-08-18T07:28:32+00:00"
-    },
-    {
-     "titolo": "Primarie Likud, con scrutinio oltre 90% schede, almeno 5 ministri a rischio rielezione",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/primarie-likud-con-scrutinio-oltre-90-schede-almeno-5-ministri-a-rischio-rielezione_f5103de0-6ba3-42b0-8ece-09669ad8a533.html",
-     "data": "2026-08-18T07:20:40+00:00"
     }
    ]
   },
@@ -443,7 +443,7 @@
     {
      "titolo": "Presidenza arbitri, si candida Pisacreta 'riforme e credibilità'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/presidenza-arbitri-si-candida-pisacreta-riforme-e-credibilita_41c5e813-63fd-4c66-8552-13fde5dd6c64.html",
-     "data": "2026-08-18T16:05:18+00:00"
+     "data": "2026-08-18T16:50:24+00:00"
     },
     {
      "titolo": "Bando di gara per il nuovo stadio di Cagliari slitta a settembre",
