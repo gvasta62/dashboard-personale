@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-18T19:03:15.068683+00:00",
+ "aggiornato": "2026-08-18T19:45:29.997433+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Cpi, 'le sanzioni statunitensi minano lo stato di diritto'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/cpi-le-sanzioni-statunitensi-minano-lo-stato-di-diritto_786ea167-2fe7-438f-bf1a-f27adbf58c1d.html",
+     "data": "2026-08-18T19:08:59+00:00"
+    },
     {
      "titolo": "Palio Siena, vince la contrada del Nicchio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/palio-siena-vince-la-contrada-del-nicchio_1a9420ce-a558-4d86-bae5-b21df28a6c82.html",
@@ -49,17 +54,17 @@
      "titolo": "I procuratori attaccano Meta, 'ha reso i minori dipendenti e li ha sfruttati'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/i-procuratori-attaccano-meta-ha-reso-i-minori-dipendenti-e-li-ha-sfruttati_770f6027-782b-4eb9-9d04-d0dfee9032c0.html",
      "data": "2026-08-18T16:39:22+00:00"
-    },
-    {
-     "titolo": "Pichetto, per flessibilità energia misure a studio, da pompe calore a ferrovie",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/pichetto-per-flessibilita-energia-misure-a-studio-da-pompe-calore-a-ferrovie_019eb3dd-248d-4bf8-a2ca-228456a91569.html",
-     "data": "2026-08-18T16:34:23+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Proietti esprime 'profondo cordoglio per la tragica morte di Aldo Biselli'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/proietti-esprime-profondo-cordoglio-per-la-tragica-morte-di-aldo-biselli_af655a2a-6e4f-4ca3-81e8-41564fa951f6.html",
+     "data": "2026-08-18T19:09:38+00:00"
+    },
     {
      "titolo": "Uil-Fp, agente penitenziaria ferito al volto nel carcere di Perugia",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/uil-fp-agente-penitenziaria-ferito-al-volto-nel-carcere-di-perugia_23ee47a0-880c-451c-880c-eedadd1390a0.html",
@@ -68,7 +73,7 @@
     {
      "titolo": "Imprenditore morto sul lavoro, Deruta vuole proclamare il lutto cittadino",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/imprenditore-morto-sul-lavoro-deruta-vuole-proclamare-il-lutto-cittadino_8f0c9d9a-0ee7-4ccb-b469-cb79702efc22.html",
-     "data": "2026-08-18T17:47:26+00:00"
+     "data": "2026-08-18T19:11:01+00:00"
     },
     {
      "titolo": "Al pronto soccorso di Terni 770 accessi fra il 13 e il 18 agosto",
@@ -114,11 +119,6 @@
      "titolo": "Imprenditore precipita dal tetto di un capannone e muore in Umbria",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/imprenditore-precipita-dal-tetto-di-un-capannone-e-muore-in-umbria_e17ee32f-1f23-4357-9ebe-777ef36e52ee.html",
      "data": "2026-08-18T11:48:09+00:00"
-    },
-    {
-     "titolo": "A Tavernelle 30 anni di Sagra della pannocchia con il progetto 'Dal seme alla festa'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/a-tavernelle-30-anni-di-sagra-della-pannocchia-con-il-progetto-dal-seme-alla_fbc78c09-6b68-4e77-8ab3-777a72b11366.html",
-     "data": "2026-08-18T11:44:10+00:00"
     }
    ]
   },
@@ -141,9 +141,9 @@
      "data": "2026-08-18T18:41:56+00:00"
     },
     {
-     "titolo": "Palio di Siena, vince la contrada del Nicchio",
+     "titolo": "Palio di Siena, Nicchio vince dopo 28 anni e si toglie la cuffia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/palio-siena-vince-la-contrada-del-nicchio_21b27920-e095-4b33-b6b8-220077484b34.html",
-     "data": "2026-08-18T18:41:27+00:00"
+     "data": "2026-08-18T19:36:05+00:00"
     },
     {
      "titolo": "Anziana uccisa a colpi di pietra, al vaglio la posizione del marito",
@@ -281,14 +281,19 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Shock in Cisgiordania, palestinesi marchiati con il pennarello",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/shock-in-cisgiordania-palestinesi-marchiati-con-il-pennarello_58b817ec-0ae2-4078-9c83-c1afb74fe10d.html",
+     "data": "2026-08-18T19:37:26+00:00"
+    },
+    {
+     "titolo": "Cpi, 'le sanzioni statunitensi minano lo stato di diritto'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/18/cpi-le-sanzioni-statunitensi-minano-lo-stato-di-diritto_bff65fd1-0a04-4918-a459-79e8fd2e0f85.html",
+     "data": "2026-08-18T19:09:19+00:00"
+    },
+    {
      "titolo": "Gli Usa impongono sanzioni contro la presidente della Cpi",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/18/gli-usa-impongono-sanzioni-contro-la-presidente-della-cpi_c433a9af-8efa-4544-bd86-e1c3d5d5b853.html",
      "data": "2026-08-18T17:46:39+00:00"
-    },
-    {
-     "titolo": "Shock in Cisgiordania, palestinesi marchiati con il pennarello",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/shock-in-cisgiordania-palestinesi-marchiati-con-il-pennarello_58b817ec-0ae2-4078-9c83-c1afb74fe10d.html",
-     "data": "2026-08-18T17:50:18+00:00"
     },
     {
      "titolo": "Lieve aumento nella fiducia delle imprese in Sudafrica",
@@ -316,6 +321,11 @@
      "data": "2026-08-18T16:23:33+00:00"
     },
     {
+     "titolo": "Trump posta la mappa di Hormuz, 'nuovo territorio Usa'. Teheran: 'Si illude'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/emirati-liran-ha-lanciato-due-missili-balistici-finiti-in-mare.-trump-posta_1d2647f8-f2df-448f-836e-1c9871b298cc.html",
+     "data": "2026-08-18T19:34:17+00:00"
+    },
+    {
      "titolo": "Attivista della Sumud Flotilla in sciopero della fame in carcere in Tunisia",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/attivista-della-sumud-flotilla-in-sciopero-della-fame-in-carcere-in-tunisia_4dffc3de-d42a-4d08-8982-e8ec44d9f8c1.html",
      "data": "2026-08-18T15:11:11+00:00"
@@ -329,16 +339,6 @@
      "titolo": "Faduma ora si sente al sicuro, 'ho smesso di fuggire'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/18/faduma-ora-si-sente-al-sicuro-ho-smesso-di-fuggire_b1e6a949-c12f-4f6d-b67a-39ccb8401059.html",
      "data": "2026-08-18T18:05:22+00:00"
-    },
-    {
-     "titolo": "Cile, Kast presenta la riforma costituzionale sulla sicurezza",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/cile-kast-presenta-la-riforma-costituzionale-sulla-sicurezza_48a8b4ca-c256-4271-b45b-896434df4875.html",
-     "data": "2026-08-18T13:10:56+00:00"
-    },
-    {
-     "titolo": "Lula, 'il petrolio del Brasile può rifornire il mondo se Hormuz chiude'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/lula-il-petrolio-del-brasile-puo-rifornire-il-mondo-se-hormuz-chiude_754d6045-0ce5-4757-83ca-23f9f133e2f3.html",
-     "data": "2026-08-18T12:53:46+00:00"
     }
    ]
   },
@@ -411,6 +411,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Musiala ha un malore in campo per la seconda volta in 3 giorni 'ma sto bene'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/musiala-ha-un-malore-in-campo-per-la-seconda-volta-in-3-giorni-ma-sto-bene_7390fb57-2e45-4fa5-9412-d15e932ccc64.html",
+     "data": "2026-08-18T19:19:16+00:00"
+    },
+    {
      "titolo": "Nazionali: Vieira è il nuovo allenatore del Senegal, suo Paese di nascita",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/nazionali-vieira-e-il-nuovo-allenatore-del-senegal-suo-paese-di-nascita_a069d108-2ce5-4d68-83ed-7791883b9da8.html",
      "data": "2026-08-18T18:39:26+00:00"
@@ -464,11 +469,6 @@
      "titolo": "Varenne: dal Derby all'Amerique, un solo 'Capitano'",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/18/varenne-dal-derby-allamerique-un-solo-capitano_9c52b13d-b710-4081-bc6e-3fb396eb50c2.html",
      "data": "2026-08-18T15:37:38+00:00"
-    },
-    {
-     "titolo": "Coppa Italia: a settembre i sedicesimi, da Parma-Cremonese al derby toscano",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/coppa-italia-a-settembre-i-sedicesimi-da-parma-cremonese-al-derby-toscano_2fad2c8f-33b7-4342-b525-def3d7ba8f7f.html",
-     "data": "2026-08-18T15:12:21+00:00"
     }
    ]
   }
