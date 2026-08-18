@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-18T16:53:47.803454+00:00",
+ "aggiornato": "2026-08-18T17:14:40.750904+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Emirati, 'l'Iran ha lanciato due missili balistici, finiti in mare'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/emirati-liran-ha-lanciato-due-missili-balistici-finiti-in-mare_abedab91-f906-49b8-b3a5-0cf55f222bc1.html",
+     "data": "2026-08-18T17:05:23+00:00"
+    },
+    {
+     "titolo": "Federacciai presenta la manifestazione di interesse per gli stabilimenti ex Ilva",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/federacciai-presenta-la-manifestazione-di-interesse-per-gli-stabilimenti-ex-ilva_8c8da8a3-0fae-4a9e-a5d3-d9b461a38706.html",
+     "data": "2026-08-18T17:04:24+00:00"
+    },
+    {
+     "titolo": "Il calciatore del Cagliari Trepy si risveglia dal coma",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/il-calciatore-del-cagliari-trepy-si-risveglia-dal-coma_8e3ee9ba-ec42-4329-8d3a-0a00526e7d2a.html",
+     "data": "2026-08-18T17:01:47+00:00"
+    },
     {
      "titolo": "I procuratori attaccano Meta, 'ha reso i minori dipendenti e li ha sfruttati'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/i-procuratori-attaccano-meta-ha-reso-i-minori-dipendenti-e-li-ha-sfruttati_770f6027-782b-4eb9-9d04-d0dfee9032c0.html",
@@ -39,21 +54,6 @@
      "titolo": "Borsa: Milano chiude in rosso, -1,06%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-milano-chiude-in-rosso-106_a48d2a70-c016-41f3-95e4-10c39a5b75de.html",
      "data": "2026-08-18T16:17:49+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa peggiora nel finale, pesano i microchip, Milano -0,95%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-leuropa-peggiora-nel-finale-pesano-i-microchip-milano-095_44de9eeb-8d65-47ba-9841-798b4ae4d029.html",
-     "data": "2026-08-18T15:20:03+00:00"
-    },
-    {
-     "titolo": "Attivista della Sumud Flotilla in sciopero della fame in carcere in Tunisia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/attivista-della-sumud-flotilla-in-sciopero-della-fame-in-carcere-in-tunisia_25070f5c-de33-45f5-b1c0-674ce005653d.html",
-     "data": "2026-08-18T15:10:52+00:00"
-    },
-    {
-     "titolo": "Tonfo del 3,5% di Meta a Wall Street con l'avvio del processo a tutela dei minori",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/tonfo-del-35-di-meta-a-wall-street-con-lavvio-del-processo-a-tutela_46e04563-cd94-4a2e-807a-8bace3fe13e7.html",
-     "data": "2026-08-18T15:09:11+00:00"
     }
    ]
   },
@@ -126,9 +126,14 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Donna uccisa a coltellate vicino Roma, fermato un uomo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/donna-uccisa-a-coltellate-vicino-roma-fermato-un-uomo_2fd50acc-3326-4b72-8a05-c99380460419.html",
-     "data": "2026-08-18T16:21:36+00:00"
+     "titolo": "Il calciatore del Cagliari Trepy si risveglia dal coma",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/il-calciatore-del-cagliari-trepy-si-risveglia-dal-coma_7d362338-6d10-4133-90fd-16bb64b333be.html",
+     "data": "2026-08-18T17:01:46+00:00"
+    },
+    {
+     "titolo": "Donna uccisa a coltellate vicino Roma, fermato il marito",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/donna-uccisa-a-coltellate-vicino-roma-fermato-il-marito_2fd50acc-3326-4b72-8a05-c99380460419.html",
+     "data": "2026-08-18T16:56:52+00:00"
     },
     {
      "titolo": "Musica sulle barche davanti a isola parco La Maddalena, pioggia di multe",
@@ -168,7 +173,7 @@
     {
      "titolo": "Il furto di opere Antonello da Messina, la banda avrebbe lasciato delle tracce",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/il-furto-di-opere-antonello-da-messina-in-arrivo-unazione-disciplinare-per-i-custodi_7d583cda-08d6-419c-b18f-f8c79dd6b776.html",
-     "data": "2026-08-18T15:53:54+00:00"
+     "data": "2026-08-18T16:57:59+00:00"
     },
     {
      "titolo": "Famiglia nel bosco, curiosi a Palmoli per selfie 'grati ma ci serve privacy'",
@@ -179,11 +184,6 @@
      "titolo": "Ondata di maltempo in Salento, tromba d'aria e allagamenti a Porto Cesareo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/ondata-di-maltempo-in-salento-tromba-daria-e-allagamenti-a-porto-cesareo_68e08cb9-6cd5-4d1d-9496-74b2ae26d5de.html",
      "data": "2026-08-18T14:22:14+00:00"
-    },
-    {
-     "titolo": "Sotto controllo incendio in Carnia, in netto miglioramento anche PM10",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/sotto-controllo-incendio-in-carnia-in-netto-miglioramento-anche-pm10_7c468728-583d-4fc2-b149-880f82101e50.html",
-     "data": "2026-08-18T13:02:38+00:00"
     }
    ]
   },
@@ -246,6 +246,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Federacciai presenta la manifestazione di interesse per gli stabilimenti ex Ilva",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/federacciai-presenta-la-manifestazione-di-interesse-per-gli-stabilimenti-ex-ilva_35f7e3ee-5a18-440e-a256-6d7dd54e28da.html",
+     "data": "2026-08-18T17:10:26+00:00"
+    },
+    {
      "titolo": "Il gas naturale supera i 64 euro sulla piazza Ttf di Amsterdam",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/il-gas-naturale-supera-i-64-euro-sulla-piazza-ttf-di-amsterdam_fd2947eb-a365-4939-ab9a-d4d9b1369d0a.html",
      "data": "2026-08-18T16:46:01+00:00"
@@ -299,11 +304,6 @@
      "titolo": "Lane (Bce), l'inflazione è 'molto' superiore' all'obiettivo del 2%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/lane-bce-linflazione-e-molto-superiore-allobiettivo-del-2_3a02ef15-681e-49ed-ab4c-99a759887626.html",
      "data": "2026-08-18T15:01:37+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa a due velocità con Wall Street, Milano -0,65%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-leuropa-a-due-velocita-con-wall-street-milano-065_bc711a69-0a15-46bf-8949-ecc36d40b369.html",
-     "data": "2026-08-18T14:18:05+00:00"
     }
    ]
   },
