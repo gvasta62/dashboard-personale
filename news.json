@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-18T06:19:18.094255+00:00",
+ "aggiornato": "2026-08-18T07:11:02.130893+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Milano apre in lieve calo, Ftse Mib -0,18%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-milano-apre-in-lieve-calo-ftse-mib-018_20e44e4a-d181-43f0-a5fd-51952883bbbf.html",
+     "data": "2026-08-18T07:08:14+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Asia debole attende novità da Hormuz, Tokyo -2,5%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/borsa-lasia-debole-attende-novita-da-hormuz-tokyo-25_d7e1a6c6-537d-40c6-a9ab-ac4402ca2e65.html",
+     "data": "2026-08-18T07:01:45+00:00"
+    },
+    {
+     "titolo": "Il gas parte in tenuta (+0,8%) a 62,2 euro al Megawattora",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/il-gas-parte-in-tenuta-08-a-622-euro-al-megawattora_98c67ffc-b5a8-4d38-85b9-1270695bd477.html",
+     "data": "2026-08-18T06:48:10+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund apre calmo a 80 punti base",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/lo-spread-tra-btp-e-bund-apre-calmo-a-80-punti-base_d7163539-d42c-4e73-bcd3-2b16d0a68a61.html",
+     "data": "2026-08-18T06:47:40+00:00"
+    },
     {
      "titolo": "Il prezzo dell'oro in calo a 4.443,00 dollari l'oncia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/il-prezzo-delloro-in-calo-a-4.44300-dollari-loncia_77ee4c81-289a-429c-a0dc-feb9634b6d93.html",
@@ -34,26 +54,6 @@
      "titolo": "Kushner, 'incontro molto cordiale con Hamas, hanno detto le cose giuste'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/kushner-incontro-molto-cordiale-con-hamas-hanno-detto-le-cose-giuste_c046509b-619f-4af2-900b-bd001bddd6df.html",
      "data": "2026-08-17T19:57:55+00:00"
-    },
-    {
-     "titolo": "Il petrolio chiude in rialzo del 2,8% a New York su incertezze Usa-Iran",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/il-petrolio-chiude-in-rialzo-del-28-a-new-york-su-incertezze-usa-iran_6d3bdcb5-7a0c-45d6-af60-d88b62bf2381.html",
-     "data": "2026-08-17T18:43:36+00:00"
-    },
-    {
-     "titolo": "Il gas risale sopra quota 62 euro sulla piazza Ttf di Amsterdam",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/il-gas-risale-sopra-quota-62-euro-sulla-piazza-ttf-di-amsterdam_c357933c-d413-4a52-90d7-0c0ee70ccd43.html",
-     "data": "2026-08-17T18:19:55+00:00"
-    },
-    {
-     "titolo": "Trump, 'Xi arriva il 24 settembre, vorrei ospitare 3.000 persone alla Casa Bianca'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/trump-xi-arriva-il-24-settembre-vorrei-ospitare-3.000-persone-alla-casa-bianca_c42c4f11-c40b-4426-ad6d-5a21c156ef89.html",
-     "data": "2026-08-17T18:06:23+00:00"
-    },
-    {
-     "titolo": "La Corte Suprema russa conferma l'esclusione di Yabloko dalle elezioni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/17/la-corte-suprema-russa-conferma-lesclusione-di-yabloko-dalle-elezioni_96d118bd-2865-414d-baef-e828e7fb33fa.html",
-     "data": "2026-08-17T17:54:09+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Uomo ferito con due colpi di pistola alla schiena a Messina",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/umo-ferito-con-due-colpi-di-pistola-alla-schiena-a-messina_09c4ccb8-eb14-4422-829c-eba5562c6d6b.html",
+     "data": "2026-08-18T07:01:50+00:00"
+    },
+    {
      "titolo": "Turco ricercato per omicidio atterra a Ciampino, arrestato dalla Polizia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/turco-ricercato-per-omicidio-atterra-a-ciampino-arrestato-dalla-polizia_631742fc-21f1-4201-8c11-fb3bf490c20d.html",
      "data": "2026-08-18T06:16:52+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Donna uccisa nel Cosentino, forse domani l'udienza di convalida a Bari",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/donna-uccisa-nel-cosentino-forse-domani-ludienza-di-convalida-a-bari_d915176e-13f7-4c2b-bebc-80936849c71c.html",
      "data": "2026-08-17T17:03:33+00:00"
-    },
-    {
-     "titolo": "Furto delle tele di Cezanne, Matisse e Renoir, tre fermati rispondono al Gip",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/furto-delle-tele-di-cezanne-matisse-e-renoir-tre-fermati-rispondono-al-gip_35389d7a-13a3-4a31-a2fe-8b40d6df9500.html",
-     "data": "2026-08-17T16:56:06+00:00"
     }
    ]
   },
@@ -231,6 +231,21 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: l'Asia debole attende novità da Hormuz, Tokyo -2,5%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-lasia-debole-attende-novita-da-hormuz-tokyo-25_8cebb822-33e8-4cb8-ab71-419af5ffb1a0.html",
+     "data": "2026-08-18T07:01:42+00:00"
+    },
+    {
+     "titolo": "Il gas parte in tenuta (+0,8%) a 62,2 euro al Megawattora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/il-gas-parte-in-tenuta-08-a-622-euro-al-megawattora_3305d334-c991-4b66-af59-0601ea1ccb69.html",
+     "data": "2026-08-18T06:48:12+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund apre calmo a 80 punti base",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/lo-spread-tra-btp-e-bund-apre-calmo-a-80-punti-base_296d19d3-039f-4d09-a07d-f0a08081b7bd.html",
+     "data": "2026-08-18T06:47:38+00:00"
+    },
+    {
      "titolo": "Il prezzo dell'oro in calo a 4.443,00 dollari l'oncia",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/il-prezzo-delloro-in-calo-a-4.44300-dollari-loncia_c3c0ecc8-91e6-4364-92e5-bc171ac85b50.html",
      "data": "2026-08-18T06:06:33+00:00"
@@ -274,21 +289,6 @@
      "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 79,5 punti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-795-punti_a206fb74-acf5-44a9-a853-3cf8a1723b72.html",
      "data": "2026-08-17T16:04:30+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa debole in chiusura, Parigi -0,66%, Londra -0,28%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-europa-debole-in-chiusura-parigi-066-londra-028_b3c93ef3-68fe-41f0-91a3-57db8e1ea525.html",
-     "data": "2026-08-17T16:02:36+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude poco variata, +0,01%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-milano-chiude-poco-variata-001_f6943566-5ab6-4aa8-971b-d3994806fb09.html",
-     "data": "2026-08-17T15:46:36+00:00"
-    },
-    {
-     "titolo": "Borsa: L'Europa rallenta nel finale, stallo su Hormuz, Milano +0,05%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/borsa-leuropa-rallenta-nel-finale-stallo-su-hormuz-milano-005_752de362-963f-4c4e-8855-f026e6298053.html",
-     "data": "2026-08-17T15:29:29+00:00"
     }
    ]
   },
