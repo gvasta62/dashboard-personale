@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-19T07:58:33.600014+00:00",
+ "aggiornato": "2026-08-19T08:31:03.870169+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Filorussi, 3 lavoratori uccisi da un drone ucraino su veicolo nel Lugansk",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/filorussi-3-lavoratori-uccisi-da-un-drone-ucraino-su-veicolo-nel-lugansk_7244085a-9c0c-4b02-bcff-0699c7cd558f.html",
+     "data": "2026-08-19T08:23:00+00:00"
+    },
+    {
+     "titolo": "Lagarde, l'economia europea regge, rimuovere le barriere nazionali a imprese e Borse",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/lagarde-leconomia-europea-regge-rimuovere-le-barriere-nazionali-a-imprese-e-borse_04d0c540-8605-4a23-b928-81a56126fb7b.html",
+     "data": "2026-08-19T08:03:18+00:00"
+    },
     {
      "titolo": "Kiev, 'droni russi colpiscono un bus a Kherson, almeno 4 civili uccisi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/kiev-droni-russi-colpiscono-un-bus-a-kherson-almeno-4-civili-uccisi_4c32d4cd-f455-44c5-8765-8104a36e89df.html",
@@ -44,16 +54,6 @@
      "titolo": "Gme, sale il valore dell'indice italiano del prezzo del gas",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/gme-sale-il-valore-dellindice-italiano-del-prezzo-del-gas_77234f0b-540c-435a-be5b-a452b8e8bc03.html",
      "data": "2026-08-19T06:33:53+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund tedeschi apre in rialzo a 82,9 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/lo-spread-tra-btp-e-bund-tedeschi-apre-in-rialzo-a-829-punti_54d73a24-5d30-441b-b82b-3e8046c943cf.html",
-     "data": "2026-08-19T06:27:44+00:00"
-    },
-    {
-     "titolo": "Il gas si mantiene sopra i 64 euro sulla piazza Ttf di Amsterdam",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/il-gas-si-mantiene-sopra-i-64-euro-sulla-piazza-ttf-di-amsterdam_f7ec1056-f122-42e4-a906-87b1f5768852.html",
-     "data": "2026-08-19T06:22:28+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Individuati ultraleggero scomparso in Calabria e corpi degli occupanti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/individuati-ultraleggero-scomparso-in-calabria-e-corpi-degli-occupanti-_cbb0a726-f14d-4f7d-b8a6-4b26f0ba86e3.html",
+     "data": "2026-08-19T08:19:07+00:00"
+    },
+    {
+     "titolo": "Individuati ultraleggero scomparso in Calabria e corpi degli occupanti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/individuati-ultraleggero-scomparso-in-calabria-e-corpi-degli-occupanti-_43ea9be8-734a-415b-901f-9c75bc955832.html",
+     "data": "2026-08-19T08:18:53+00:00"
+    },
+    {
+     "titolo": "Donna uccisa nel Cosentino, convalidato il fermo del presunto femminicida",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/donna-uccisa-nel-cosentino-convalidato-il-fermo_58b306ac-794e-4ace-8e7f-87b41e8b0f76.html",
+     "data": "2026-08-19T08:26:22+00:00"
+    },
+    {
      "titolo": "Rapina 82enne in metro e la manda in ospedale, fermato dalla Polizia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/rapina-82enne-in-metro-e-la-manda-in-ospedale-fermato-dalla-polizia_b103576e-8554-4ca3-b0b9-b5ee0c40c9d8.html",
      "data": "2026-08-19T07:23:37+00:00"
@@ -136,9 +151,9 @@
      "data": "2026-08-19T06:22:10+00:00"
     },
     {
-     "titolo": "Famiglia assalita sui monti da un branco di cavalli allo stato brado",
+     "titolo": "Una famiglia assalita sui monti da un branco di cavalli bradi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/famiglia-assalita-sui-monti-da-un-branco-di-cavalli-allo-stato-brado_06de9621-babd-4924-b8b7-203ec2c50bb8.html",
-     "data": "2026-08-19T05:35:09+00:00"
+     "data": "2026-08-19T08:19:00+00:00"
     },
     {
      "titolo": "Cento furti ai passeggeri a Malpensa, la Polizia arresta dieci donne",
@@ -169,21 +184,6 @@
      "titolo": "Anziana uccisa a colpi di pietra, al vaglio la posizione del marito",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/anziana-uccisa-a-colpi-di-pietra-al-vaglio-la-posizione-del-marito_8f3dda54-25da-4934-a66e-d6d685035c00.html",
      "data": "2026-08-18T18:17:49+00:00"
-    },
-    {
-     "titolo": "Precipita in montagna davanti al marito, morta una donna di 65 anni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/precipita-in-montagna-davanti-al-marito-morta-una-donna-di-65-anni_00089cad-b43d-4bdc-8adf-635aaebc3575.html",
-     "data": "2026-08-18T17:37:04+00:00"
-    },
-    {
-     "titolo": "Donna uccisa a coltellate a Collefero, il marito in stato di fermo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/donna-uccisa-a-coltellate-a-collefero-il-marito-in-stato-di-fermo_128528b1-0542-4f39-b687-7dd9815dbfd1.html",
-     "data": "2026-08-18T17:24:12+00:00"
-    },
-    {
-     "titolo": "Il calciatore del Cagliari Trepy si risveglia dal coma",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/il-calciatore-del-cagliari-trepy-si-risveglia-dal-coma_7d362338-6d10-4133-90fd-16bb64b333be.html",
-     "data": "2026-08-18T17:01:46+00:00"
     }
    ]
   },
@@ -215,6 +215,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Lagarde, l'economia europea regge, rimuovere le barriere nazionali a imprese e Borse",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/lagarde-leconomia-europea-regge-rimuovere-le-barriere-nazionali-a-imprese-e-borse_0c32349b-f010-4f8c-ac7a-d847fd5a4ad8.html",
+     "data": "2026-08-19T08:03:14+00:00"
+    },
     {
      "titolo": "Borsa: Milano fiacca (-0,07%), sprint di Stellantis, giù Stm",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-milano-fiacca-007-sprint-di-stellantis-giu-stm_0ab24c76-05e0-4e9c-a2ec-3e963fa8b0e5.html",
@@ -269,11 +274,6 @@
      "titolo": "Il prezzo dell'oro scende dello 0,63% a 4.392,60 dollari l'oncia",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/il-prezzo-delloro-scende-dello-063-a-4.39260-dollari-loncia_96de038f-a7c6-4d52-bcab-4606d267a70f.html",
      "data": "2026-08-19T06:06:34+00:00"
-    },
-    {
-     "titolo": "Prezzo del petrolio in rialzo, Wti a 85,59 dollari al barile (+0,77%)",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/prezzo-del-petrolio-in-rialzo-wti-a-8559-dollari-al-barile-077_8f24f4d6-6583-4002-bb11-b7b9aba523dc.html",
-     "data": "2026-08-19T05:59:19+00:00"
     }
    ]
   },
