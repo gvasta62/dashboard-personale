@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-19T06:20:01.907599+00:00",
+ "aggiornato": "2026-08-19T07:11:27.699855+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Asia in rosso, ancora vendite sui microprocessori, Tokyo -3,16%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/borsa-asia-in-rosso-ancora-vendite-sui-microprocessori-tokyo-316_a56363a2-7562-4795-9843-99fefb3579ee.html",
+     "data": "2026-08-19T06:52:27+00:00"
+    },
+    {
+     "titolo": "Gme, sale il valore dell'indice italiano del prezzo del gas",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/gme-sale-il-valore-dellindice-italiano-del-prezzo-del-gas_77234f0b-540c-435a-be5b-a452b8e8bc03.html",
+     "data": "2026-08-19T06:33:53+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund tedeschi apre in rialzo a 82,9 punti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/lo-spread-tra-btp-e-bund-tedeschi-apre-in-rialzo-a-829-punti_54d73a24-5d30-441b-b82b-3e8046c943cf.html",
+     "data": "2026-08-19T06:27:44+00:00"
+    },
+    {
+     "titolo": "Il gas si mantiene sopra i 64 euro sulla piazza Ttf di Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/il-gas-si-mantiene-sopra-i-64-euro-sulla-piazza-ttf-di-amsterdam_f7ec1056-f122-42e4-a906-87b1f5768852.html",
+     "data": "2026-08-19T06:22:28+00:00"
+    },
     {
      "titolo": "Il prezzo dell'oro scende dello 0,63% a 4.392,60 dollari l'oncia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/il-prezzo-delloro-scende-dello-063-a-4.39260-dollari-loncia_1dd9e819-d1f2-426b-b7f2-ae6119b2013c.html",
@@ -34,26 +54,6 @@
      "titolo": "La produttrice cinese di robot Unitree debutta a Shanghai col +629%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/la-produttrice-cinese-di-robot-unitree-debutta-a-shanghai-col-629_a92ac3ce-0a9b-425b-b247-55e33390803c.html",
      "data": "2026-08-19T02:17:03+00:00"
-    },
-    {
-     "titolo": "Shakira a Quibdó, fondi per le scuole colpite dal terremoto in Colombia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/shakira-a-quibdo-fondi-per-le-scuole-colpite-dal-terremoto-in-colombia_d91ed1ec-6e56-42f6-87dd-cb46bf16d2b8.html",
-     "data": "2026-08-19T01:39:08+00:00"
-    },
-    {
-     "titolo": "Terremoto Giappone, dopo tre settimane ancora 3.000 sfollati",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/terremoto-giappone-dopo-tre-settimane-ancora-3.000-sfollati_42bc3be5-4f14-487d-bbdf-5cb9e935a13c.html",
-     "data": "2026-08-19T01:37:47+00:00"
-    },
-    {
-     "titolo": "Wsj, 'Trump punta a vertice con Kim Jong-un durante il viaggio in Asia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/wsj-trump-punta-a-vertice-con-kim-jong-un-durante-il-viaggio-in-asia_7123ab13-9d5a-42a9-8e9f-9e78f2642a66.html",
-     "data": "2026-08-19T00:46:47+00:00"
-    },
-    {
-     "titolo": "Ministero difesa russo, abbattuti 11 droni diretti su Mosca",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/ministero-difesa-russo-abbattuti-11-droni-diretti-su-mosca_5325b8be-8667-46cd-a890-92776b804fda.html",
-     "data": "2026-08-18T23:57:44+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Rapina 82enne in metro e la manda in ospedale, fermato dalla Polizia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/rapina-82enne-in-metro-e-la-manda-in-ospedale-fermato-dalla-polizia_b103576e-8554-4ca3-b0b9-b5ee0c40c9d8.html",
+     "data": "2026-08-19T07:05:30+00:00"
+    },
+    {
+     "titolo": "Bagaglio sospetto alla stazione Termini, dentro c'erano 7,8 chili di droga",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/bagaglio-sospetto-alla-stazione-termini-dentro-cerano-78-chili-di-droga_9605eb3e-31bc-4dc4-a251-80fd1e6872bb.html",
+     "data": "2026-08-19T06:22:10+00:00"
+    },
+    {
      "titolo": "Famiglia assalita sui monti da un branco di cavalli allo stato brado",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/famiglia-assalita-sui-monti-da-un-branco-di-cavalli-allo-stato-brado_06de9621-babd-4924-b8b7-203ec2c50bb8.html",
      "data": "2026-08-19T05:35:09+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Il calciatore del Cagliari Trepy si risveglia dal coma",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/il-calciatore-del-cagliari-trepy-si-risveglia-dal-coma_7d362338-6d10-4133-90fd-16bb64b333be.html",
      "data": "2026-08-18T17:01:46+00:00"
-    },
-    {
-     "titolo": "Donna uccisa a coltellate vicino Roma davanti a uno dei figli: fermato il marito",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/donna-uccisa-a-coltellate-vicino-roma-fermato-il-marito_2fd50acc-3326-4b72-8a05-c99380460419.html",
-     "data": "2026-08-18T18:18:36+00:00"
-    },
-    {
-     "titolo": "Musica sulle barche davanti a isola parco La Maddalena, pioggia di multe",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/musica-sulle-barche-davanti-a-isola-parco-la-maddalena-pioggia-di-multe_b767399e-0dd0-4641-bee2-1a70477dc5dc.html",
-     "data": "2026-08-18T16:13:58+00:00"
     }
    ]
   },
@@ -215,6 +215,26 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: Asia in rosso, ancora vendite sui microprocessori, Tokyo -3,16%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-asia-in-rosso-ancora-vendite-sui-microprocessori-tokyo-316_5d2d80c9-a670-4de6-b930-6a65d4c007d7.html",
+     "data": "2026-08-19T06:52:44+00:00"
+    },
+    {
+     "titolo": "Gme, sale il valore dell'indice italiano del prezzo del gas",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/gme-sale-il-valore-dellindice-italiano-del-prezzo-del-gas_c80e5ecb-53b0-4f81-8366-e25c96d92acb.html",
+     "data": "2026-08-19T06:33:49+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund tedeschi apre in rialzo a 82,9 punti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/lo-spread-tra-btp-e-bund-tedeschi-apre-in-rialzo-a-829-punti_b76a623a-db21-46ff-a401-0338e3777a12.html",
+     "data": "2026-08-19T06:27:27+00:00"
+    },
+    {
+     "titolo": "Il gas si mantiene sopra i 64 euro sulla piazza Ttf di Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/il-gas-si-mantiene-sopra-i-64-euro-sulla-piazza-ttf-di-amsterdam_290aab65-9a82-421b-ba91-30560f97e886.html",
+     "data": "2026-08-19T06:22:25+00:00"
+    },
     {
      "titolo": "Il prezzo dell'oro scende dello 0,63% a 4.392,60 dollari l'oncia",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/il-prezzo-delloro-scende-dello-063-a-4.39260-dollari-loncia_96de038f-a7c6-4d52-bcab-4606d267a70f.html",
@@ -254,26 +274,6 @@
      "titolo": "Borsa: Milano chiude in calo (-1,06%), pesano Stm e Prysmian",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-milano-chiude-in-calo-106-pesano-stm-e-prysmian_ca5c67f5-9765-4a08-b680-3a2359b1109e.html",
      "data": "2026-08-18T16:19:39+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 81,6 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-816-punti_752cc514-4ad1-486b-b581-2cb6b396ad38.html",
-     "data": "2026-08-18T16:08:07+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa debole in chiusura, Parigi -0,82%, Francoforte -0,8%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-europa-debole-in-chiusura-parigi-082-francoforte-08_62c3c475-1555-477e-b844-becaea933816.html",
-     "data": "2026-08-18T15:53:19+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in rosso, -1,06%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-milano-chiude-in-rosso-106_4b1de674-b62e-45dc-be8a-e56da6472f3f.html",
-     "data": "2026-08-18T16:18:36+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa peggiora nel finale, pesano i microchip, Milano -0,95%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-leuropa-peggiora-nel-finale-pesano-i-microchip-milano-095_bdc35fb2-b53a-41e4-a9e7-3f4cfdc8eaf2.html",
-     "data": "2026-08-18T15:20:01+00:00"
     }
    ]
   },
