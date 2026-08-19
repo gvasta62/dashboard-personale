@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-19T19:20:52.411367+00:00",
+ "aggiornato": "2026-08-19T19:45:32.097271+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, 'abbiamo sanzioni draconiane che possiamo imporre all'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/trump-abbiamo-sanzioni-draconiane-che-possiamo-imporre-alliran_b764f9f9-a362-4be5-a7a1-096c98467605.html",
+     "data": "2026-08-19T19:43:15+00:00"
+    },
+    {
+     "titolo": "Tajani sente Wadephul, prosegue il dialogo Italia-Germania sui migranti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/tajani-sente-wadephul-prosegue-il-dialogo-italia-germania-sui-migranti_936cce01-fcab-417f-83e8-ed34a1c874a9.html",
+     "data": "2026-08-19T19:21:51+00:00"
+    },
     {
      "titolo": "Vice capo staff di Zelensky, 'sono indagata ma non sono stata arrestata'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/vice-capo-staff-di-zelensky-sono-indagata-ma-non-sono-stata-arrestata_d57e1707-606c-4e42-9124-161cb71cde81.html",
@@ -44,16 +54,6 @@
      "titolo": "Borsa: Milano chiude in calo, Ftse Mib -0,75%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/borsa-milano-chiude-in-calo-ftse-mib-075_4319baba-d594-4e60-b973-1a7067806b25.html",
      "data": "2026-08-19T15:47:11+00:00"
-    },
-    {
-     "titolo": "Trump insiste, 'incontrerò Kim quest'anno'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/trump-insiste-incontrero-kim-questanno_271c04cd-3c06-4ccb-a217-35fd97345104.html",
-     "data": "2026-08-19T15:42:08+00:00"
-    },
-    {
-     "titolo": "Un italiano tra i morti nello schianto dell'elicottero in Kenya",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/un-italiano-tra-i-morti-nello-schianto-dellelicottero-in-kenya_b2fc571e-db3b-402f-b820-480f9ca6d3ff.html",
-     "data": "2026-08-19T15:21:10+00:00"
     }
    ]
   },
@@ -131,6 +131,11 @@
      "data": "2026-08-19T18:29:18+00:00"
     },
     {
+     "titolo": "Spara alla compagna poi scappa ancora armato, fermato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/spara-alla-compagna-poi-scappa-ancora-armato-e-caccia-alluomo_0767e77c-1522-4daa-ab86-a9ca0e231003.html",
+     "data": "2026-08-19T19:20:05+00:00"
+    },
+    {
      "titolo": "Migranti, il Vaticano conferma rimozione di don Biancalani da parrocchie",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/migranti-il-vaticano-conferma-rimozione-di-don-biancalani-da-parrocchie_6b6511a9-e084-4933-a5db-2900c1b55153.html",
      "data": "2026-08-19T18:04:33+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Il fratello di Vanessa uccisa nel 2023, 'allibito che succeda ancora'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/il-fratello-di-vanessa-uccisa-nel-2023-allibito-che-succeda-ancora_9628222a-081a-4b8b-b379-46bd796bf7a2.html",
      "data": "2026-08-19T16:18:44+00:00"
-    },
-    {
-     "titolo": "Bagnanti in Sardegna aiutano delfino e lo spingono al largo per partorire",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/bagnanti-in-sardegna-aiutano-delfino-e-lo-spingono-al-largo-per-partorire_3aa06ed0-0276-42c4-a0ac-a83637960444.html",
-     "data": "2026-08-19T16:17:12+00:00"
     }
    ]
   },
@@ -291,6 +291,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Tajani sente Wadephul, prosegue il dialogo Italia-Germania sui migranti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/tajani-sente-wadephul-prosegue-il-dialogo-italia-germania-sui-migranti_c593ec8a-a12d-4e76-ab52-808336861965.html",
+     "data": "2026-08-19T19:21:56+00:00"
+    },
+    {
      "titolo": "Ghana Food Movement \"Champions of Change Award 2026\" The World's 50 Best Restaurants",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/19/ghana-food-movement-champions-of-change-award-2026-the-worlds-50-best_10d33057-f69e-4991-9d69-b88a1b41639d.html",
      "data": "2026-08-19T18:22:30+00:00"
@@ -344,11 +349,6 @@
      "titolo": "Un italiano tra i morti nello schianto dell'elicottero in Kenya",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/19/un-italiano-tra-i-morti-nello-schianto-dellelicottero-in-kenya_6e6aab80-13ed-4346-ad86-23f699741460.html",
      "data": "2026-08-19T15:21:12+00:00"
-    },
-    {
-     "titolo": "Almeno 100 morti nel crollo di una miniera d'oro in Repubblica Centrafricana",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/19/almeno-100-morti-nel-crollo-di-una-miniera-doro-in-repubblica-centrafricana_1e430da2-d386-4593-8e62-650e9745e6e7.html",
-     "data": "2026-08-19T14:25:50+00:00"
     }
    ]
   },
@@ -421,6 +421,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Ramos, Moreira e gli assistiti di Mendes: Amorim aspetta altri rinforzi",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/ramos-moreira-e-gli-assistiti-di-mendes-amorim-aspetta-altri-rinforzi_77ace5f1-45a4-4f6d-bfbc-940b5e936c9b.html",
+     "data": "2026-08-19T19:35:19+00:00"
+    },
+    {
      "titolo": "Hapoel Tel Aviv, 'proteste? Il calcio unisce le persone'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/hapoel-tel-aviv-proteste-il-calcio-unisce-le-persone_c9dc4fdb-d042-4f7a-8785-41af6fd6e97e.html",
      "data": "2026-08-19T18:29:51+00:00"
@@ -474,11 +479,6 @@
      "titolo": "Atletica: per Jacobs lesione muscolare alla coscia, cure a Roma",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/19/atletica-per-jacobs-lesione-muscolare-alla-coscia-cure-a-roma_32c60ca7-01c1-45ea-9047-2de2db0c3574.html",
      "data": "2026-08-19T16:10:39+00:00"
-    },
-    {
-     "titolo": "Calcio: Badiashile a Villa Stuart per le visite, poi la firma del contratto col Napoli",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/calcio-badiashile-a-villa-stuart-per-le-visite-poi-la-firma-del-contratto_124d4610-9d35-4670-9b46-9816dee2046a.html",
-     "data": "2026-08-19T16:05:06+00:00"
     }
    ]
   }
