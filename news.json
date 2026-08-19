@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-19T01:57:17.725339+00:00",
+ "aggiornato": "2026-08-19T02:50:35.147287+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump sospende dazi al 50% sul Canada, 'raggiunto un accordo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/trump-sospende-dazi-al-50-sul-canada-raggiunto-un-accordo_ba45c980-edce-450f-bdb2-31093449630a.html",
+     "data": "2026-08-19T02:31:08+00:00"
+    },
+    {
+     "titolo": "La produttrice cinese di robot Unitree debutta a Shanghai col +629%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/la-produttrice-cinese-di-robot-unitree-debutta-a-shanghai-col-629_a92ac3ce-0a9b-425b-b247-55e33390803c.html",
+     "data": "2026-08-19T02:17:03+00:00"
+    },
     {
      "titolo": "Shakira a Quibdó, fondi per le scuole colpite dal terremoto in Colombia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/shakira-a-quibdo-fondi-per-le-scuole-colpite-dal-terremoto-in-colombia_d91ed1ec-6e56-42f6-87dd-cb46bf16d2b8.html",
@@ -44,16 +54,6 @@
      "titolo": "Fedorov chiede elezioni in Ucraina, 'democrazia non sia ostaggio della Russia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/fedorov-chiede-elezioni-in-ucraina-democrazia-non-sia-ostaggio-della-russia_a581ec49-ca33-441c-9e69-924f92f9c12a.html",
      "data": "2026-08-18T19:46:10+00:00"
-    },
-    {
-     "titolo": "Cpi, 'le sanzioni statunitensi minano lo stato di diritto'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/cpi-le-sanzioni-statunitensi-minano-lo-stato-di-diritto_786ea167-2fe7-438f-bf1a-f27adbf58c1d.html",
-     "data": "2026-08-18T19:08:59+00:00"
-    },
-    {
-     "titolo": "Palio Siena, vince la contrada del Nicchio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/palio-siena-vince-la-contrada-del-nicchio_1a9420ce-a558-4d86-bae5-b21df28a6c82.html",
-     "data": "2026-08-18T18:56:04+00:00"
     }
    ]
   },
@@ -281,6 +281,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump sospende dazi al 50% sul Canada, 'raggiunto un accordo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/19/trump-sospende-dazi-al-50-sul-canada-raggiunto-un-accordo_82fc68ac-94cf-4ac4-b536-e1ff552fc369.html",
+     "data": "2026-08-19T02:31:25+00:00"
+    },
+    {
+     "titolo": "La produttrice cinese di robot Unitree debutta a Shanghai col +629%",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/19/la-produttrice-cinese-di-robot-unitree-debutta-a-shanghai-col-629_985063ab-8a44-49b6-a94b-600b908b9625.html",
+     "data": "2026-08-19T02:17:21+00:00"
+    },
+    {
      "titolo": "Shakira a Quibdó, fondi per le scuole colpite dal terremoto in Colombia",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/19/shakira-a-quibdo-fondi-per-le-scuole-colpite-dal-terremoto-in-colombia_4a0e5cd5-8b44-49d2-b188-6c4a49ee2edc.html",
      "data": "2026-08-19T01:39:26+00:00"
@@ -329,16 +339,6 @@
      "titolo": "Netanyahu rivendica raid in Siria, 'stavano per autorizzare truppe turche in una base'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/netanyahu-rivendica-raid-in-siria-stavano-per-autorizzare-truppe-turche-in-una_765adc77-07aa-4340-b799-cfdd3cc48294.html",
      "data": "2026-08-18T21:24:22+00:00"
-    },
-    {
-     "titolo": "Fedorov chiede elezioni in Ucraina, 'democrazia non sia ostaggio della Russia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/18/fedorov-chiede-elezioni-in-ucraina-democrazia-non-sia-ostaggio-della-russia_8cc63e8e-2719-4f6f-b6c4-593b5ebeba41.html",
-     "data": "2026-08-18T19:46:14+00:00"
-    },
-    {
-     "titolo": "Shock in Cisgiordania, palestinesi marchiati con il pennarello",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/shock-in-cisgiordania-palestinesi-marchiati-con-il-pennarello_58b817ec-0ae2-4078-9c83-c1afb74fe10d.html",
-     "data": "2026-08-18T19:37:26+00:00"
     }
    ]
   },
