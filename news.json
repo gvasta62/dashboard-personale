@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-19T20:11:32.367328+00:00",
+ "aggiornato": "2026-08-19T20:49:52.537184+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Agguato a Trieste, feriti a colpi di coltello quattro operai",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/agguato-a-trieste-feriti-a-colpi-di-coltello-quattro-operai_d6b1ac55-16cb-4a33-a31d-6dfb3a42e0d2.html",
+     "data": "2026-08-19T20:22:48+00:00"
+    },
+    {
      "titolo": "Fillea Cgil, un morto sul lavoro in un cantiere autostradale",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/fillea-cgil-un-morto-sul-lavoro-in-un-cantiere-autostradale_165c6c42-8acc-49a2-8028-ad73fdedf932.html",
      "data": "2026-08-19T18:29:18+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Malore a bordo di uno yacht partito da Olbia, muore 72enne svizzero",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/malore-a-bordo-di-uno-yacht-partito-da-olbia-muore-72enne-svizzero_64055b7b-c3cf-463d-be34-e25f8532c46d.html",
      "data": "2026-08-19T16:26:43+00:00"
-    },
-    {
-     "titolo": "Il fratello di Vanessa uccisa nel 2023, 'allibito che succeda ancora'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/il-fratello-di-vanessa-uccisa-nel-2023-allibito-che-succeda-ancora_9628222a-081a-4b8b-b379-46bd796bf7a2.html",
-     "data": "2026-08-19T16:18:44+00:00"
     }
    ]
   },
@@ -291,6 +291,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "La Colombia mira a riprendere l'export di carbone verso Israele",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/19/la-colombia-mira-a-riprendere-lexport-di-carbone-verso-israele_1f9769ff-8f26-441c-9a32-3eaf3c1b8eb6.html",
+     "data": "2026-08-19T20:19:51+00:00"
+    },
+    {
      "titolo": "Trump, 'abbiamo sanzioni draconiane che possiamo imporre all'Iran'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/19/trump-abbiamo-sanzioni-draconiane-che-possiamo-imporre-alliran_a0620de8-6802-40b7-b4a7-de44bcac63f3.html",
      "data": "2026-08-19T19:43:19+00:00"
@@ -344,11 +349,6 @@
      "titolo": "Trump insiste, 'incontrerò Kim quest'anno'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/19/trump-insiste-incontrero-kim-questanno_8668e637-2617-4ca9-ab36-9a2196be0207.html",
      "data": "2026-08-19T15:42:12+00:00"
-    },
-    {
-     "titolo": "Trump insiste, 'incontrerò Kim quest'anno'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/19/trump-insiste-incontrero-kim-questanno_b9d641c5-ee72-4837-9cb5-f2836a207327.html",
-     "data": "2026-08-19T15:42:14+00:00"
     }
    ]
   },
@@ -421,6 +421,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Milan: ufficializzato l'arrivo di Diego Moreira",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/milan-ufficializzato-larrivo-di-diego-moreira_a0ce23bb-468f-4f4e-bb3f-7e2b5aa3b43a.html",
+     "data": "2026-08-19T20:31:34+00:00"
+    },
+    {
      "titolo": "Ramos, Moreira e gli assistiti di Mendes: Amorim aspetta altri rinforzi",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/ramos-moreira-e-gli-assistiti-di-mendes-amorim-aspetta-altri-rinforzi_77ace5f1-45a4-4f6d-bfbc-940b5e936c9b.html",
      "data": "2026-08-19T19:35:19+00:00"
@@ -474,11 +479,6 @@
      "titolo": "Fifa: ungherese Csany ritira sostegno a Infantino dopo il licenziamento di Lamour",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/fifa-ungherese-csany-ritira-sostegno-a-infantino-dopo-il-licenziamento-di-lamour_808c677e-be3c-475e-a339-fe1bbb02884c.html",
      "data": "2026-08-19T16:11:27+00:00"
-    },
-    {
-     "titolo": "Atletica: per Jacobs lesione muscolare alla coscia, cure a Roma",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/19/atletica-per-jacobs-lesione-muscolare-alla-coscia-cure-a-roma_32c60ca7-01c1-45ea-9047-2de2db0c3574.html",
-     "data": "2026-08-19T16:10:39+00:00"
     }
    ]
   }
