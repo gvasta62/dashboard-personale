@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-19T09:19:45.906600+00:00",
+ "aggiornato": "2026-08-19T09:54:31.479183+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -61,9 +61,14 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Bistocchi nomina Carla Casciari nuova Garante per le persone anziane",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/19/bistocchi-nomina-carla-casciari-nuova-garante-per-le-persone-anziane_216c123e-9e11-4185-bebf-d6dda60b36fa.html",
+     "data": "2026-08-19T09:34:02+00:00"
+    },
+    {
      "titolo": "A Gualdo Tadino sarà riqualificata l'area di piazza Mazzini",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/19/a-gualdo-tadino-sara-riqualificata-larea-di-piazza-mazzini_050f09dd-76ab-4477-84f7-da057ceb3fc2.html",
-     "data": "2026-08-19T09:02:53+00:00"
+     "data": "2026-08-19T09:35:33+00:00"
     },
     {
      "titolo": "Norcia si mobilita per il sacerdote del sisma, 'don Davide non si tocca'",
@@ -114,11 +119,6 @@
      "titolo": "Maria Chiara Innocenti nuova direttrice generale della Società della salute pistoiese",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/maria-chiara-innocenti-nuova-direttrice-generale-della-societa-della-salute_86e85348-19f4-4597-8446-e8e32f02dd76.html",
      "data": "2026-08-18T12:19:48+00:00"
-    },
-    {
-     "titolo": "Al via la 50/a edizione della Quintanella di Scafali",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/al-via-la-50a-edizione-della-quintanella-di-scafali_75353994-f6fb-4d4a-a5ac-78adc4fcdb01.html",
-     "data": "2026-08-18T12:08:27+00:00"
     }
    ]
   },
@@ -126,9 +126,34 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Un branco di cavalli bradi aggredisce il loro cane, una famiglia soccorsa in elicottero",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/un-branco-di-cavalli-bradi-aggredisce-il-loro-cane-una-famiglia-soccorsa-in-elicottero_06de9621-babd-4924-b8b7-203ec2c50bb8.html",
+     "data": "2026-08-19T09:33:31+00:00"
+    },
+    {
+     "titolo": "'Ci sono quadri per strada', la telefonata che avverte del furto a Messina",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/ci-sono-quadri-per-strada-la-telefonata-che-avverte-del-furto-a-messina_80535501-ee82-4f1e-a21c-d8b8d2b81853.html",
+     "data": "2026-08-19T09:34:08+00:00"
+    },
+    {
+     "titolo": "Legale di Ranucci, 'ogni decisione della Rai sarebbe inquinata da falsità'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/legale-di-ranucci-ogni-decisione-della-rai-sarebbe-inquinata-da-falsita_a5898486-f8fc-475d-9a98-fb99529d7141.html",
+     "data": "2026-08-19T09:10:28+00:00"
+    },
+    {
+     "titolo": "Il legale di Ranucci: 'Ogni decisione della Rai sarebbe inquinata da falsità. Lo stop al conduttore sarebbe una scelta politica'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/il-legale-di-ranucci-ogni-decisione-della-rai-sarebbe-inquinata-da-falsita_9e5214d4-7af0-4f51-be6e-d173eae0f323.html",
+     "data": "2026-08-19T09:45:36+00:00"
+    },
+    {
      "titolo": "Varenne sarà tumulato nell'allevamento di Eboli",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/varenne-sara-tumulato-nellallevamento-di-eboli-_9aa2a345-89ec-4f32-9e61-085877f59e17.html",
      "data": "2026-08-19T08:59:26+00:00"
+    },
+    {
+     "titolo": "Muore a 28 anni dopo sei giorni da agonia soffocata con fetta di bacon",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/muore-a-28-anni-dopo-sei-giorni-da-agonia-soffocata-con-fetta-di-bacon_06a72304-56d5-4adb-b996-95b480d1b921.html",
+     "data": "2026-08-19T09:23:24+00:00"
     },
     {
      "titolo": "Individuati ultraleggero scomparso in Calabria e corpi degli occupanti",
@@ -143,7 +168,7 @@
     {
      "titolo": "Donna uccisa nel Cosentino, convalidato il fermo del presunto femminicida",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/donna-uccisa-nel-cosentino-convalidato-il-fermo_58b306ac-794e-4ace-8e7f-87b41e8b0f76.html",
-     "data": "2026-08-19T08:31:39+00:00"
+     "data": "2026-08-19T09:12:16+00:00"
     },
     {
      "titolo": "Rapina 82enne in metro e la manda in ospedale, fermato dalla Polizia",
@@ -156,40 +181,20 @@
      "data": "2026-08-19T06:22:10+00:00"
     },
     {
-     "titolo": "Una famiglia assalita sui monti da un branco di cavalli bradi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/famiglia-assalita-sui-monti-da-un-branco-di-cavalli-allo-stato-brado_06de9621-babd-4924-b8b7-203ec2c50bb8.html",
-     "data": "2026-08-19T08:19:00+00:00"
-    },
-    {
      "titolo": "Cento furti ai passeggeri a Malpensa, la Polizia arresta dieci donne",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/cento-furti-ai-passeggeri-a-malpensa-la-polizia-arresta-dieci-donne_850a7415-6d2b-4677-b7bc-0ddf72b3d4ad.html",
-     "data": "2026-08-19T05:33:32+00:00"
-    },
-    {
-     "titolo": "Palio Siena, vince la contrada del Nicchio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/palio-siena-vince-la-contrada-del-nicchio_30aaaab1-ad09-4ca6-aa67-156db5bf0696.html",
-     "data": "2026-08-18T18:56:23+00:00"
-    },
-    {
-     "titolo": "Ultraleggero scomparso, ricerche ancora senza esito",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/ultraleggero-scomparso-ricerche-ancora-senza-esito_3250bf6a-ffd4-4c36-9db9-03c6645ac5ec.html",
-     "data": "2026-08-18T18:49:07+00:00"
-    },
-    {
-     "titolo": "Sindaco trovato impiccato in municipio, la moglie chiede riapertura indagini",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/sindaco-trovato-impiccato-in-municipio-la-moglie-chiede-riapertura-indagini_c41ca0bc-a5f0-4110-b206-ced252f84805.html",
-     "data": "2026-08-18T18:41:56+00:00"
-    },
-    {
-     "titolo": "Palio di Siena, Nicchio vince dopo 28 anni e si toglie la cuffia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/palio-siena-vince-la-contrada-del-nicchio_21b27920-e095-4b33-b6b8-220077484b34.html",
-     "data": "2026-08-19T08:47:21+00:00"
+     "data": "2026-08-19T09:16:27+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Gasparri: 'Singolare lo sforzo di Ranucci di difendere Lavitola'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/19/gasparri-singolare-lo-sforzo-di-ranucci-di-difendere-lavitola_8716b66f-3fcf-4878-9a85-383558a3eefe.html",
+     "data": "2026-08-19T09:35:02+00:00"
+    },
     {
      "titolo": "Il Papa, 'Sviluppare in noi un'autentica coscienza di pace",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/19/il-papa-sviluppare-in-noi-unautentica-coscienza-di-pace_ff28808a-16c7-4914-8af6-27884ffaf75d.html",
@@ -199,21 +204,6 @@
      "titolo": "Zaia, 'il femminicidio di Tania Terrin è un fallimento'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/18/zaia-il-femminicidio-di-tania-terrin-e-un-fallimento_1273443e-517f-4ae1-accd-cfbeea5423b5.html",
      "data": "2026-08-18T11:56:48+00:00"
-    },
-    {
-     "titolo": "Lega: libro di Romeo, 'racconto desiderio rinnovamento della base'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/18/lega-libro-di-romeo-racconto-desiderio-rinnovamento-della-base_3b1aa357-b94f-4e24-9182-20a84f33b187.html",
-     "data": "2026-08-18T09:29:52+00:00"
-    },
-    {
-     "titolo": "Romeo scuote la Lega: 'La base ci chiede il rinnovamento'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/18/pubblicato-il-libro-di-romeo-racconto-il-desiderio-rinnovamento-della-base-della-lega_b04edd8c-4301-4871-affb-6d2b00903025.html",
-     "data": "2026-08-18T17:42:18+00:00"
-    },
-    {
-     "titolo": "Meloni: 'Dopo 80 anni la strage di Vergarolla è un crimine impunito'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/18/il-messaggio-di-meloni-onoriamo-la-memoria-dei-morti-nella-strage-di-vergarolla_ab8e4bfb-4f72-49ff-bcc6-57b5de834f09.html",
-     "data": "2026-08-18T17:34:52+00:00"
     }
    ]
   },
@@ -223,7 +213,7 @@
     {
      "titolo": "Eurostat conferma, inflazione salita al 2,9% nell'Eurozona a luglio",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/eurostat-conferma-inflazione-salita-al-29-nelleurozona-a-luglio_1724538c-76e8-4503-9f77-3385ea8d5392.html",
-     "data": "2026-08-19T09:09:10+00:00"
+     "data": "2026-08-19T09:23:48+00:00"
     },
     {
      "titolo": "Mps piatta in Borsa (-0,15%), indiscrezioni su un Cda domani",
@@ -423,7 +413,7 @@
     {
      "titolo": "Kyrgios positivo alla cocaina e sospeso dall'Itia",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/19/kyrgios-positivo-alla-cocaina-e-sospeso-dallitia_a2a071d1-223b-46fc-9cb4-7feaf870d5aa.html",
-     "data": "2026-08-19T09:13:31+00:00"
+     "data": "2026-08-19T09:36:39+00:00"
     },
     {
      "titolo": "Mondiali MTB: 30 azzurri convocati per l'appuntamento in Trentino",
@@ -438,12 +428,17 @@
     {
      "titolo": "Musiala ha un malore in campo per la seconda volta in 3 giorni 'ma sto bene'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/musiala-ha-un-malore-in-campo-per-la-seconda-volta-in-3-giorni-ma-sto-bene_7390fb57-2e45-4fa5-9412-d15e932ccc64.html",
-     "data": "2026-08-18T19:19:16+00:00"
+     "data": "2026-08-19T09:17:18+00:00"
     },
     {
-     "titolo": "Nazionali: Vieira è il nuovo allenatore del Senegal, suo Paese di nascita",
+     "titolo": "Per Sinner dubbi Us Open, Musetti avanza a Cincinnati",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/18/per-sinner-dubbi-us-open-musetti-avanza-a-cincinnati_169c210f-a332-4baf-b25b-60cab6dc76c5.html",
+     "data": "2026-08-19T09:38:30+00:00"
+    },
+    {
+     "titolo": "Vieira è il nuovo allenatore del Senegal, suo Paese di nascita",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/nazionali-vieira-e-il-nuovo-allenatore-del-senegal-suo-paese-di-nascita_a069d108-2ce5-4d68-83ed-7791883b9da8.html",
-     "data": "2026-08-18T18:39:26+00:00"
+     "data": "2026-08-19T09:39:33+00:00"
     },
     {
      "titolo": "Musetti agli ottavi a Cincinnati, battuto Zheng in due set",
@@ -451,9 +446,14 @@
      "data": "2026-08-18T18:08:30+00:00"
     },
     {
-     "titolo": "Fiorentina: ecco Joao Mario, affronto la sfida con entusiasmo",
+     "titolo": "Mora arriva alla Roma, Ferguson pronto per il Genoa",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/18/mora-arriva-alla-roma-ferguson-pronto-per-il-genoa_b9a65be7-5185-4228-8824-4593b55b7f9f.html",
+     "data": "2026-08-19T09:27:31+00:00"
+    },
+    {
+     "titolo": "Fiorentina: ecco Joao Mario, 'affronto la sfida con entusiasmo'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/fiorentina-ecco-joao-mario-affronto-la-sfida-con-entusiasmo_dae505b6-81f8-4005-9da0-dbb0dcd1baaf.html",
-     "data": "2026-08-18T17:41:48+00:00"
+     "data": "2026-08-19T09:18:29+00:00"
     },
     {
      "titolo": "Varenne leggenda anche come stallone, quanti figli di successo",
@@ -464,16 +464,6 @@
      "titolo": "Il ricordo di Minnucci, 'guidarlo era come volare'",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/18/il-ricordo-di-minnucci-guidarlo-era-come-volare_3a35db4e-8113-4efc-928c-adea3175153f.html",
      "data": "2026-08-18T18:11:22+00:00"
-    },
-    {
-     "titolo": "Yael Trepy esce dal coma, 'nessun deficit neurologico'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/trepy-si-risveglia-dal-coma-dopo-il-principio-di-annegamento_1571f98d-5c47-4694-9281-5c6a2a52121f.html",
-     "data": "2026-08-18T17:38:28+00:00"
-    },
-    {
-     "titolo": "Presidenza arbitri, si candida Pisacreta 'riforme e credibilità'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/presidenza-arbitri-si-candida-pisacreta-riforme-e-credibilita_41c5e813-63fd-4c66-8552-13fde5dd6c64.html",
-     "data": "2026-08-18T16:50:24+00:00"
     }
    ]
   }
