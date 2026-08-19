@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-19T15:25:10.732278+00:00",
+ "aggiornato": "2026-08-19T15:52:21.278508+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump insiste, 'incontrerò Kim quest'anno'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/trump-insiste-incontrero-kim-questanno_271c04cd-3c06-4ccb-a217-35fd97345104.html",
+     "data": "2026-08-19T15:42:08+00:00"
+    },
+    {
+     "titolo": "Un italiano tra i morti nello schianto dell'elicottero in Kenya",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/un-italiano-tra-i-morti-nello-schianto-dellelicottero-in-kenya_b2fc571e-db3b-402f-b820-480f9ca6d3ff.html",
+     "data": "2026-08-19T15:21:10+00:00"
+    },
     {
      "titolo": "Btp trentennale vicino al 5% sulle tensioni per il debito Usa",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/btp-trentennale-vicino-al-5-sulle-tensioni-per-il-debito-usa_c7a4b129-069f-46cd-9c89-c12e12e9d4da.html",
@@ -44,16 +54,6 @@
      "titolo": "Il petrolio in calo a New York, a 84,54 dollari",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/il-petrolio-in-calo-a-new-york-a-8454-dollari_2e8077ba-342e-42bb-b172-72e54fb17338.html",
      "data": "2026-08-19T13:14:46+00:00"
-    },
-    {
-     "titolo": "Vaccino contro il melanoma mostra risultati promettenti, Moderna +102% in Borsa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/vaccino-contro-il-melanoma-mostra-risultati-promettenti-moderna-102-in-borsa_bb21e537-e83f-4023-b2c3-8f44792a9d47.html",
-     "data": "2026-08-19T13:12:54+00:00"
-    },
-    {
-     "titolo": "Amazon potenzia le consegne con i droni e punta a un milione di ordini",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/amazon-potenzia-le-consegne-con-i-droni-e-punta-a-un-milione-di-ordini_436bee48-166d-4b04-b056-ebbdb73dc77e.html",
-     "data": "2026-08-19T13:12:06+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Sbranato da due rottweiler, muore un uomo nelle campagne del Salento",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/sbranato-da-due-rottweiler-muore-un-uomo-nelle-campagne-del-salento_9860ad31-629b-42a7-88c4-decf4560dc08.html",
+     "data": "2026-08-19T15:34:53+00:00"
+    },
+    {
      "titolo": "Muore a 28 anni dopo sei giorni da agonia soffocata con fetta di bacon",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/muore-a-28-anni-dopo-sei-giorni-da-agonia-soffocata-con-fetta-di-bacon_30b339db-35da-4cb2-8215-5b3199fde90b.html",
      "data": "2026-08-19T15:09:48+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Anziana uccisa a colpi di pietra, fermato il marito",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/anziana-uccisa-a-colpi-di-pietra-fermato-il-marito_99364cc7-bb37-4de8-90b3-5066a9ead252.html",
      "data": "2026-08-19T10:55:30+00:00"
-    },
-    {
-     "titolo": "Ranucci querela la magistrata Forleo per il post su Facebook",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/ranucci-querela-la-magistrata-forleo-per-il-post-su-facebook_eb7d355f-9817-432f-9f49-590ba96a6100.html",
-     "data": "2026-08-19T13:06:16+00:00"
     }
    ]
   },
@@ -220,6 +220,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "S&P, con ondate di calore sale mortalità, effetti su risultati assicurazioni",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/sp-con-ondate-di-calore-sale-mortalita-effetti-su-risultati-assicurazioni_3b35f3b6-fe99-4e0c-9597-23ffac994983.html",
+     "data": "2026-08-19T15:41:17+00:00"
+    },
     {
      "titolo": "Btp trentennale vicino al 5% sulle tensioni per il debito Usa",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/btp-trentennale-vicino-al-5-sulle-tensioni-per-il-debito-usa_f25878e2-113b-4b97-8ff2-a5b429e39b8c.html",
@@ -274,17 +279,22 @@
      "titolo": "Electrolux, a Porcia 25 assunzioni a termine, Rsu \"contraddizioni inspiegabili\"",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/electrolux-a-porcia-25-assunzioni-a-termine-rsu-contraddizioni-inspiegabili_a844957f-84c8-400c-a4af-efeafc6495a7.html",
      "data": "2026-08-19T12:21:25+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa migliora, future contrastati, Milano invariata",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-leuropa-migliora-future-contrastati-milano-invariata_4ce5a78f-2aca-4bec-9271-05f80b8c0b3c.html",
-     "data": "2026-08-19T12:10:41+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Trump insiste, 'incontrerò Kim quest'anno'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/19/trump-insiste-incontrero-kim-questanno_8668e637-2617-4ca9-ab36-9a2196be0207.html",
+     "data": "2026-08-19T15:42:12+00:00"
+    },
+    {
+     "titolo": "Trump insiste, 'incontrerò Kim quest'anno'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/19/trump-insiste-incontrero-kim-questanno_b9d641c5-ee72-4837-9cb5-f2836a207327.html",
+     "data": "2026-08-19T15:42:14+00:00"
+    },
     {
      "titolo": "Un italiano tra i morti nello schianto dell'elicottero in Kenya",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/19/un-italiano-tra-i-morti-nello-schianto-dellelicottero-in-kenya_6e6aab80-13ed-4346-ad86-23f699741460.html",
@@ -334,16 +344,6 @@
      "titolo": "Idf chiede un'inchiesta penale sull'uccisione della piccola Hind Rajab a Gaza",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/19/idf-chiede-uninchiesta-penale-sulluccisione-della-piccola-hind-rajab-a-gaza_38c548b6-b2cb-4a63-b45e-a3cd5bc0673f.html",
      "data": "2026-08-19T12:20:06+00:00"
-    },
-    {
-     "titolo": "La regina Camilla rivela, 'è stato difficile tenere segreto il cancro di Carlo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/la-regina-camilla-rivela-e-stato-difficile-tenere-segreto-il-cancro-di-carlo_8b09d6fb-d0ec-4fe8-97f8-f4c504f341a6.html",
-     "data": "2026-08-19T11:06:35+00:00"
-    },
-    {
-     "titolo": "Parlamento ucraino approva la nomina di Yevhenii Khmara come nuovo ministro Difesa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/parlamento-ucraino-approva-la-nomina-di-yevhenii-khmara-come-nuovo-ministro-difesa_1090fe72-585c-4372-8042-41079a22dd24.html",
-     "data": "2026-08-19T11:04:39+00:00"
     }
    ]
   },
@@ -416,9 +416,24 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: prime designazioni degli arbitri, Marinelli per Monza-Inter",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/19/serie-a-prime-designazioni-degli-arbitri-marinelli-per-monza-inter_8d87a493-4cca-453f-947d-0e530e2cfb79.html",
+     "data": "2026-08-19T15:45:29+00:00"
+    },
+    {
+     "titolo": "Tv: boom di ascolti su Sky Sport per Europei atletica e nuoto, 2.7 mln spettatori",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/19/tv-boom-di-ascolti-su-sky-sport-per-europei-atletica-e-nuoto-2.7-mln_7eef8d89-e213-4a74-bf42-1a30e6faff40.html",
+     "data": "2026-08-19T15:26:18+00:00"
+    },
+    {
+     "titolo": "Tennis: Masters 1000 Cincinnati, negli ottavi Cobolli Jodar-Cobolli 3-2 DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/19/tennis-masters-1000-cincinnati-negli-ottavi-cobolli-jodar-cobolli-1-1-diretta_222c6f23-8a3b-4f59-959c-f78f42a2101f.html",
+     "data": "2026-08-19T15:39:22+00:00"
+    },
+    {
      "titolo": "Conference: Ederson, non ci sentiamo favoriti con l'Hapoel",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/conference-ederson-non-ci-sentiamo-favoriti-con-lhapoel_229badcc-31cd-4e5d-8b7a-c890c9ccf008.html",
-     "data": "2026-08-19T14:41:06+00:00"
+     "data": "2026-08-19T15:33:37+00:00"
     },
     {
      "titolo": "La nuova stagione di Serie A su Dazn, novità fantacalcio e show Champions",
@@ -426,14 +441,14 @@
      "data": "2026-08-19T14:28:45+00:00"
     },
     {
-     "titolo": "Ramos, 'mai avuto dubbi sul passaggio al Milan, era la scelta giusta'",
+     "titolo": "Ramos: 'Mai avuto dubbi sul passaggio al Milan, era la scelta giusta'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/ramos-mai-avuto-dubbi-sul-passaggio-al-milan-era-la-scelta-giusta_472b072b-d823-467f-87fc-e2c2bdaa9bf7.html",
-     "data": "2026-08-19T14:24:32+00:00"
+     "data": "2026-08-19T15:35:04+00:00"
     },
     {
-     "titolo": "Atalanta: Sarri soddisfatto del mercato, mi fido di Giuntoli",
+     "titolo": "Atalanta: Sarri soddisfatto del mercato, 'mi fido di Giuntoli'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/atalanta-sarri-soddisfatto-del-mercato-mi-fido-di-giuntoli_138ba939-b5aa-44cb-a27e-b2b42b02dee0.html",
-     "data": "2026-08-19T14:24:52+00:00"
+     "data": "2026-08-19T15:36:09+00:00"
     },
     {
      "titolo": "Sarri, 'l'Hapoel è molto forte, sarà una battaglia'",
@@ -443,7 +458,7 @@
     {
      "titolo": "L'Inter chiude per Jones, oltre 30 milioni al Liverpool",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/linter-chiude-per-jones-oltre-30-milioni-al-liverpool_da6fdfeb-87c7-4ba7-9329-dceb3c4e93b3.html",
-     "data": "2026-08-19T13:38:04+00:00"
+     "data": "2026-08-19T15:38:41+00:00"
     },
     {
      "titolo": "Nick Kyrgios positivo alla cocaina, \"un enorme errore, chiedo scusa a tutti\"",
@@ -459,21 +474,6 @@
      "titolo": "F1: Gp Olanda, Vasseur, 'con la Sprint importante fare bene fin dai primi giri'",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/19/gp-olanda-vasseur-con-la-sprint-importante-fare-bene-fin-dai-primi_45aeede0-4261-4df1-98ba-c287d026ac0c.html",
      "data": "2026-08-19T12:41:14+00:00"
-    },
-    {
-     "titolo": "Olanda: Hadjar infortunato, al suo posto correrà Lawson",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/19/olanda-hadjar-infortunato-al-suo-posto-correra-lawson_fe5ceaab-7e5f-41bc-8128-b8731b2c565e.html",
-     "data": "2026-08-19T12:01:11+00:00"
-    },
-    {
-     "titolo": "Il Monaco rescinde il contratto con Pogba",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/il-monaco-rescinde-il-contratto-con-pogba_15314aaf-3d27-483f-bf2e-ea93548007d9.html",
-     "data": "2026-08-19T10:07:46+00:00"
-    },
-    {
-     "titolo": "Venezia: Lorenzo Montipò dal Verona sarà il vice Stankovic",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/venezia-lorenzo-montipo-dal-verona-sara-il-vice-stankovic_0fac2704-93cd-45ac-b6dd-5dace70efa29.html",
-     "data": "2026-08-19T09:14:34+00:00"
     }
    ]
   }
