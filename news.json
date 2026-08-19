@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-19T04:23:04.558226+00:00",
+ "aggiornato": "2026-08-19T04:57:42.140503+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Droni russi su Zaporizhzhia, un morto e sei feriti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/droni-russi-su-zaporizhzhia-un-morto-e-sei-feriti_00a758bd-e8e9-4db9-8e4d-699d8ca4cb1b.html",
+     "data": "2026-08-19T04:20:53+00:00"
+    },
     {
      "titolo": "Trump sospende dazi al 50% sul Canada, 'raggiunto un accordo'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/trump-sospende-dazi-al-50-sul-canada-raggiunto-un-accordo_ba45c980-edce-450f-bdb2-31093449630a.html",
@@ -49,11 +54,6 @@
      "titolo": "Netanyahu rivendica raid in Siria, 'stavano per autorizzare truppe turche in una base'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/netanyahu-rivendica-raid-in-siria-stavano-per-autorizzare-truppe-turche-in-una_b1b91917-483d-4e8d-97c0-547786851c3c.html",
      "data": "2026-08-18T21:24:04+00:00"
-    },
-    {
-     "titolo": "Fedorov chiede elezioni in Ucraina, 'democrazia non sia ostaggio della Russia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/fedorov-chiede-elezioni-in-ucraina-democrazia-non-sia-ostaggio-della-russia_a581ec49-ca33-441c-9e69-924f92f9c12a.html",
-     "data": "2026-08-18T19:46:10+00:00"
     }
    ]
   },
@@ -281,6 +281,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Droni russi su Zaporizhzhia, un morto e sei feriti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/droni-russi-su-zaporizhzhia-un-morto-e-sei-feriti_9d25d389-c784-49fd-8060-7f7f940a0ef5.html",
+     "data": "2026-08-19T04:20:53+00:00"
+    },
+    {
      "titolo": "Trump sospende dazi al 50% sul Canada, 'raggiunto un accordo'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/19/trump-sospende-dazi-al-50-sul-canada-raggiunto-un-accordo_82fc68ac-94cf-4ac4-b536-e1ff552fc369.html",
      "data": "2026-08-19T02:31:25+00:00"
@@ -334,11 +339,6 @@
      "titolo": "Iran nega di aver lanciato missili contro gli Emirati, 'accuse infondate'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/iran-nega-di-aver-lanciato-missili-contro-gli-emirati-accuse-infondate_3fa3041e-4b7f-46d9-b7cd-7b8c54d0f04b.html",
      "data": "2026-08-18T21:25:42+00:00"
-    },
-    {
-     "titolo": "Netanyahu rivendica raid in Siria, 'stavano per autorizzare truppe turche in una base'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/netanyahu-rivendica-raid-in-siria-stavano-per-autorizzare-truppe-turche-in-una_765adc77-07aa-4340-b799-cfdd3cc48294.html",
-     "data": "2026-08-18T21:24:22+00:00"
     }
    ]
   },
