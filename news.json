@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-19T05:51:56.402299+00:00",
+ "aggiornato": "2026-08-19T06:20:01.907599+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il prezzo dell'oro scende dello 0,63% a 4.392,60 dollari l'oncia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/il-prezzo-delloro-scende-dello-063-a-4.39260-dollari-loncia_1dd9e819-d1f2-426b-b7f2-ae6119b2013c.html",
+     "data": "2026-08-19T06:06:32+00:00"
+    },
+    {
+     "titolo": "Prezzo del petrolio in rialzo, Wti a 85,59 dollari al barile (+0,77%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/prezzo-del-petrolio-in-rialzo-wti-a-8559-dollari-al-barile-077_70c91194-0990-4010-9c37-f20dcb73c1ac.html",
+     "data": "2026-08-19T05:59:16+00:00"
+    },
+    {
+     "titolo": "Euro a 1,1587 dollari, in rialzo dello 0,10%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/euro-a-11587-dollari-in-rialzo-dello-010_398f8ef0-1e1a-48d9-93d9-dd045ec068b5.html",
+     "data": "2026-08-19T05:59:34+00:00"
+    },
     {
      "titolo": "Droni russi su Zaporizhzhia, un morto e sei feriti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/droni-russi-su-zaporizhzhia-un-morto-e-sei-feriti_00a758bd-e8e9-4db9-8e4d-699d8ca4cb1b.html",
@@ -39,21 +54,6 @@
      "titolo": "Ministero difesa russo, abbattuti 11 droni diretti su Mosca",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/ministero-difesa-russo-abbattuti-11-droni-diretti-su-mosca_5325b8be-8667-46cd-a890-92776b804fda.html",
      "data": "2026-08-18T23:57:44+00:00"
-    },
-    {
-     "titolo": "Emirati, 'sospesi scambi commerciali e transazioni finanziarie con l'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/emirati-sospesi-scambi-commerciali-e-transazioni-finanziarie-con-liran_18144d15-3e28-4a19-aa6a-71305cf97705.html",
-     "data": "2026-08-18T21:28:08+00:00"
-    },
-    {
-     "titolo": "Iran nega di aver lanciato missili contro gli Emirati, 'accuse infondate'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/iran-nega-di-aver-lanciato-missili-contro-gli-emirati-accuse-infondate_728e1532-e604-4796-86e4-97cc60a5e251.html",
-     "data": "2026-08-18T21:25:23+00:00"
-    },
-    {
-     "titolo": "Netanyahu rivendica raid in Siria, 'stavano per autorizzare truppe turche in una base'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/netanyahu-rivendica-raid-in-siria-stavano-per-autorizzare-truppe-turche-in-una_b1b91917-483d-4e8d-97c0-547786851c3c.html",
-     "data": "2026-08-18T21:24:04+00:00"
     }
    ]
   },
@@ -216,6 +216,21 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Il prezzo dell'oro scende dello 0,63% a 4.392,60 dollari l'oncia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/il-prezzo-delloro-scende-dello-063-a-4.39260-dollari-loncia_96de038f-a7c6-4d52-bcab-4606d267a70f.html",
+     "data": "2026-08-19T06:06:34+00:00"
+    },
+    {
+     "titolo": "Prezzo del petrolio in rialzo, Wti a 85,59 dollari al barile (+0,77%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/prezzo-del-petrolio-in-rialzo-wti-a-8559-dollari-al-barile-077_8f24f4d6-6583-4002-bb11-b7b9aba523dc.html",
+     "data": "2026-08-19T05:59:19+00:00"
+    },
+    {
+     "titolo": "Euro a 1,1587 dollari, in rialzo dello 0,10%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/euro-a-11587-dollari-in-rialzo-dello-010_6767898e-244a-4d28-b41e-545e1280a6d2.html",
+     "data": "2026-08-19T05:59:36+00:00"
+    },
+    {
      "titolo": "Federacciai presenta la manifestazione di interesse per l'ex Ilva",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/federacciai-presenta-la-manifestazione-di-interesse-per-gli-stabilimenti-ex-ilva_35f7e3ee-5a18-440e-a256-6d7dd54e28da.html",
      "data": "2026-08-18T18:14:09+00:00"
@@ -259,21 +274,6 @@
      "titolo": "Borsa: l'Europa peggiora nel finale, pesano i microchip, Milano -0,95%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-leuropa-peggiora-nel-finale-pesano-i-microchip-milano-095_bdc35fb2-b53a-41e4-a9e7-3f4cfdc8eaf2.html",
      "data": "2026-08-18T15:20:01+00:00"
-    },
-    {
-     "titolo": "Mai definita la temperatura massima per lo stop al lavoro degli chef in cucina",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/mai-definita-la-temperatura-massima-per-lo-stop-al-lavoro-degli-chef-in-cucina_aeeb0077-7493-4746-913c-205ca61cbcfb.html",
-     "data": "2026-08-18T15:18:05+00:00"
-    },
-    {
-     "titolo": "Al via il maxi-processo a Meta, 29 Stati americani contro i social",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/tonfo-del-35-di-meta-a-wall-street-con-lavvio-del-processo-a-tutela_bf2a14ca-2446-404c-bb85-b3095fd6323b.html",
-     "data": "2026-08-18T20:16:04+00:00"
-    },
-    {
-     "titolo": "Lane (Bce), l'inflazione è 'molto' superiore' all'obiettivo del 2%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/lane-bce-linflazione-e-molto-superiore-allobiettivo-del-2_3a02ef15-681e-49ed-ab4c-99a759887626.html",
-     "data": "2026-08-18T15:01:37+00:00"
     }
    ]
   },
