@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-19T11:45:37.732558+00:00",
+ "aggiornato": "2026-08-19T12:17:11.348399+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "La pubblicità sbarca su ChatGPT, da lunedì anche in Europa nella versione gratuita",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/la-pubblicita-sbarca-su-chatgpt-da-lunedi-anche-in-europa-nella-versione-gratuita_2d510f72-8e3b-4517-9e28-d4a7de0a41cb.html",
+     "data": "2026-08-19T11:51:30+00:00"
+    },
     {
      "titolo": "Mps, rinviato al 25 agosto incontro fra Giorgetti e enti locali",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/mps-rinviato-al-25-agosto-incontro-fra-giorgetti-e-enti-locali_f9359351-d356-44ad-9237-68fe845f04b2.html",
@@ -49,11 +54,6 @@
      "titolo": "La manifestazione di interesse per ex Ilva: ipotesi newco, ma forte cautela",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/la-manifestazione-di-interesse-per-ex-ilva-ipotesi-newco-ma-forte-cautela_f1d3fbd2-70c4-4208-9122-f0cf41462ce9.html",
      "data": "2026-08-19T09:50:27+00:00"
-    },
-    {
-     "titolo": "Eurostat conferma, inflazione salita al 2,9% nell'Eurozona a luglio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/eurostat-conferma-inflazione-salita-al-29-nelleurozona-a-luglio_9b2e174f-3994-44b5-8687-3f8df7bee44f.html",
-     "data": "2026-08-19T09:07:27+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Ultraleggero caduto, pm apre inchiesta e fa sopralluogo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/ultraleggero-caduto-pm-apre-inchiesta-e-fa-sopralluogo_84c58710-a3ed-4413-b044-ce5ed4df2aae.html",
+     "data": "2026-08-19T12:02:19+00:00"
+    },
+    {
+     "titolo": "'Finto Carabiniere' truffava in tutta Italia, otto arresti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/finto-carabiniere-truffava-in-tutta-italia-otto-arresti_c57a8662-a6d9-4544-9ab9-b09ba82fee15.html",
+     "data": "2026-08-19T11:39:52+00:00"
+    },
+    {
      "titolo": "Salgono a diciotto i casi di contagio di febbre del Nilo nell'Oristanese",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/salgono-a-diciotto-i-casi-di-contagio-di-febbre-del-nilo-nelloristanese_f9cf5968-9f41-480c-b145-1c1e74961db1.html",
      "data": "2026-08-19T11:24:13+00:00"
@@ -143,7 +153,7 @@
     {
      "titolo": "Aggressione e rapina a delle ragazze, denuncia e 'Daspo Willy' per cinque persone",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/aggressione-e-rapina-a-ragazze-denuncia-e-daspo-willy-per-cinque-persone_2489e2c0-5a88-461d-a262-675f0ce04628.html",
-     "data": "2026-08-19T11:19:25+00:00"
+     "data": "2026-08-19T11:39:12+00:00"
     },
     {
      "titolo": "Anziana uccisa a colpi di pietra, fermato il marito",
@@ -174,16 +184,6 @@
      "titolo": "Un branco di cavalli bradi aggredisce il loro cane, una famiglia soccorsa in elicottero",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/un-branco-di-cavalli-bradi-aggredisce-il-loro-cane-una-famiglia-soccorsa-in-elicottero_06de9621-babd-4924-b8b7-203ec2c50bb8.html",
      "data": "2026-08-19T09:56:16+00:00"
-    },
-    {
-     "titolo": "'Ci sono quadri per strada', la telefonata che avverte del furto a Messina",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/ci-sono-quadri-per-strada-la-telefonata-che-avverte-del-furto-a-messina_80535501-ee82-4f1e-a21c-d8b8d2b81853.html",
-     "data": "2026-08-19T09:34:08+00:00"
-    },
-    {
-     "titolo": "Legale di Ranucci, 'ogni decisione della Rai sarebbe inquinata da falsità'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/legale-di-ranucci-ogni-decisione-della-rai-sarebbe-inquinata-da-falsita_a5898486-f8fc-475d-9a98-fb99529d7141.html",
-     "data": "2026-08-19T09:10:28+00:00"
     }
    ]
   },
@@ -211,9 +211,19 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Mps, rinviato al 25 agosto incontro fra Giorgetti e enti locali",
+     "titolo": "Borsa: l'Europa migliora, future contrastati, Milano invariata",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-leuropa-migliora-future-contrastati-milano-invariata_4ce5a78f-2aca-4bec-9271-05f80b8c0b3c.html",
+     "data": "2026-08-19T12:10:41+00:00"
+    },
+    {
+     "titolo": "La pubblicità sbarca su ChatGPT, da lunedì anche in Europa nella versione gratuita",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/la-pubblicita-sbarca-su-chatgpt-da-lunedi-anche-in-europa-nella-versione-gratuita_8efcd9da-691d-4e20-acc8-77255b97bee7.html",
+     "data": "2026-08-19T11:53:23+00:00"
+    },
+    {
+     "titolo": "Slitta l'incontro fra Giorgetti e enti locali Toscana su Mps. Domani il cda dopo voci su Bpm e Banca Generali",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/mps-rinviato-al-25-agosto-incontro-fra-giorgetti-e-enti-locali_a59a9730-daf9-4077-9d1d-3c7e7e51407d.html",
-     "data": "2026-08-19T11:31:14+00:00"
+     "data": "2026-08-19T11:54:42+00:00"
     },
     {
      "titolo": "Il gas scende sotto i 64 euro sulla piazza Ttf di Amsterdam",
@@ -259,16 +269,6 @@
      "titolo": "Eurostat conferma, inflazione salita al 2,9% nell'Eurozona a luglio",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/eurostat-conferma-inflazione-salita-al-29-nelleurozona-a-luglio_1724538c-76e8-4503-9f77-3385ea8d5392.html",
      "data": "2026-08-19T09:23:48+00:00"
-    },
-    {
-     "titolo": "Mps piatta in Borsa (-0,15%), indiscrezioni su un Cda domani",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/mps-piatta-in-borsa-015-indiscrezioni-su-un-cda-domani_4aa91aaa-4c78-423e-85fc-951b9b361f6f.html",
-     "data": "2026-08-19T09:09:37+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa si muove cauta, future Usa positivi, Milano -0,1%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-leuropa-si-muove-cauta-future-usa-positivi-milano-01_9e156b82-f85d-40dc-a9ad-97c55aee596a.html",
-     "data": "2026-08-19T09:04:25+00:00"
     }
    ]
   },
@@ -406,6 +406,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Olanda: Hadjar infortunato, al suo posto correrà Lawson",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/19/olanda-hadjar-infortunato-al-suo-posto-correra-lawson_fe5ceaab-7e5f-41bc-8128-b8731b2c565e.html",
+     "data": "2026-08-19T12:01:11+00:00"
+    },
+    {
      "titolo": "Il Monaco rescinde il contratto con Pogba",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/il-monaco-rescinde-il-contratto-con-pogba_15314aaf-3d27-483f-bf2e-ea93548007d9.html",
      "data": "2026-08-19T10:07:46+00:00"
@@ -459,11 +464,6 @@
      "titolo": "Fiorentina: ecco Joao Mario, 'affronto la sfida con entusiasmo'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/fiorentina-ecco-joao-mario-affronto-la-sfida-con-entusiasmo_dae505b6-81f8-4005-9da0-dbb0dcd1baaf.html",
      "data": "2026-08-19T09:18:29+00:00"
-    },
-    {
-     "titolo": "Varenne leggenda anche come stallone, quanti figli di successo",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/18/varenne-leggenda-anche-come-stallone-quanti-figli-di-successo_61a411a3-be6e-4864-a89b-13d01551fe69.html",
-     "data": "2026-08-18T18:10:14+00:00"
     }
    ]
   }
