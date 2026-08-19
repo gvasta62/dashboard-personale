@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-18T23:41:57.990339+00:00",
+ "aggiornato": "2026-08-19T00:25:55.668283+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Ministero difesa russo, abbattuti 11 droni diretti su Mosca",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/ministero-difesa-russo-abbattuti-11-droni-diretti-su-mosca_5325b8be-8667-46cd-a890-92776b804fda.html",
+     "data": "2026-08-18T23:57:44+00:00"
+    },
     {
      "titolo": "Emirati, 'sospesi scambi commerciali e transazioni finanziarie con l'Iran'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/emirati-sospesi-scambi-commerciali-e-transazioni-finanziarie-con-liran_18144d15-3e28-4a19-aa6a-71305cf97705.html",
@@ -49,11 +54,6 @@
      "titolo": "Donna uccisa a coltellate a Collefero, il marito in stato di fermo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/donna-uccisa-a-coltellate-a-collefero-il-marito-in-stato-di-fermo_ff8c784b-1081-4dba-8cd5-35aac9ca8cb9.html",
      "data": "2026-08-18T17:24:14+00:00"
-    },
-    {
-     "titolo": "Zelensky propone Yevhenii Khmara come nuovo ministro della Difesa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/zelensky-propone-yevhenii-khmara-come-nuovo-ministro-della-difesa_d337494f-2d75-4af5-920a-f2d522b2eea4.html",
-     "data": "2026-08-18T17:25:11+00:00"
     }
    ]
   },
@@ -281,6 +281,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "A Buenos Aires al via la 40/a Conferenza internazionale contro il narcotraffico",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/19/a-buenos-aires-al-via-la-40a-conferenza-internazionale-contro-il-narcotraffico_42abe817-289e-4128-a6fb-492d9b1f733c.html",
+     "data": "2026-08-19T00:16:59+00:00"
+    },
+    {
+     "titolo": "Noboa incontra Xi Jinping, Cina dona 42,7 milioni di dollari all'Ecuador",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/19/noboa-incontra-xi-jinping-cina-dona-427-milioni-di-dollari-allecuador_d2b35365-f102-4b12-8643-d0b610fac1c9.html",
+     "data": "2026-08-19T00:10:48+00:00"
+    },
+    {
+     "titolo": "Ministero difesa russo, abbattuti 11 droni diretti su Mosca",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/ministero-difesa-russo-abbattuti-11-droni-diretti-su-mosca_2553d69f-725b-40a2-a211-6a4889d57d51.html",
+     "data": "2026-08-18T23:58:02+00:00"
+    },
+    {
      "titolo": "Emirati, 'sospesi scambi commerciali e transazioni finanziarie con l'Iran'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/emirati-sospesi-scambi-commerciali-e-transazioni-finanziarie-con-liran_0b703c70-6c2a-4317-bfd9-235e3eee0c4a.html",
      "data": "2026-08-18T21:28:06+00:00"
@@ -324,21 +339,6 @@
      "titolo": "Zelensky propone Yevhenii Khmara come nuovo ministro della Difesa",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/18/zelensky-propone-yevhenii-khmara-come-nuovo-ministro-della-difesa_7bef7929-108f-417c-8aa2-a1932d315f85.html",
      "data": "2026-08-18T17:25:11+00:00"
-    },
-    {
-     "titolo": "Emirati, 'l'Iran ha lanciato due missili balistici, finiti in mare'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/emirati-liran-ha-lanciato-due-missili-balistici-finiti-in-mare_e6069bda-9363-4a9e-9585-9400764a1821.html",
-     "data": "2026-08-18T17:05:23+00:00"
-    },
-    {
-     "titolo": "Israele verso il voto, le primarie del Likud premiano Bibi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/israele-verso-il-voto-le-primarie-del-likud-premiano-bibi_486bc104-c2e5-4eb0-a56b-bd0d25c5c5c6.html",
-     "data": "2026-08-18T17:05:15+00:00"
-    },
-    {
-     "titolo": "Raid di Israele su un aeroporto militare in Siria, l'ira degli Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/raid-di-israele-su-un-aeroporto-militare-in-siria-lira-degli-usa_3b6e2a5d-5c56-4feb-a5eb-74801e75f24e.html",
-     "data": "2026-08-18T16:23:33+00:00"
     }
    ]
   },
