@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-19T00:25:55.668283+00:00",
+ "aggiornato": "2026-08-19T01:57:17.725339+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Shakira a Quibdó, fondi per le scuole colpite dal terremoto in Colombia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/shakira-a-quibdo-fondi-per-le-scuole-colpite-dal-terremoto-in-colombia_d91ed1ec-6e56-42f6-87dd-cb46bf16d2b8.html",
+     "data": "2026-08-19T01:39:08+00:00"
+    },
+    {
+     "titolo": "Terremoto Giappone, dopo tre settimane ancora 3.000 sfollati",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/terremoto-giappone-dopo-tre-settimane-ancora-3.000-sfollati_42bc3be5-4f14-487d-bbdf-5cb9e935a13c.html",
+     "data": "2026-08-19T01:37:47+00:00"
+    },
+    {
+     "titolo": "Wsj, 'Trump punta a vertice con Kim Jong-un durante il viaggio in Asia'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/wsj-trump-punta-a-vertice-con-kim-jong-un-durante-il-viaggio-in-asia_7123ab13-9d5a-42a9-8e9f-9e78f2642a66.html",
+     "data": "2026-08-19T00:46:47+00:00"
+    },
     {
      "titolo": "Ministero difesa russo, abbattuti 11 droni diretti su Mosca",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/ministero-difesa-russo-abbattuti-11-droni-diretti-su-mosca_5325b8be-8667-46cd-a890-92776b804fda.html",
@@ -39,21 +54,6 @@
      "titolo": "Palio Siena, vince la contrada del Nicchio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/palio-siena-vince-la-contrada-del-nicchio_1a9420ce-a558-4d86-bae5-b21df28a6c82.html",
      "data": "2026-08-18T18:56:04+00:00"
-    },
-    {
-     "titolo": "Anziana uccisa a colpi di pietra, al vaglio la posizione del marito",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/anziana-uccisa-a-colpi-di-pietra-al-vaglio-la-posizione-del-marito_608c3ef8-90d2-418e-8983-2bd9f9528b13.html",
-     "data": "2026-08-18T18:08:25+00:00"
-    },
-    {
-     "titolo": "Gli Usa impongono sanzioni contro la presidente della Cpi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/gli-usa-impongono-sanzioni-contro-la-presidente-della-cpi_a665d3d2-5e81-43a5-81d1-2c560f6e3bb1.html",
-     "data": "2026-08-18T17:46:34+00:00"
-    },
-    {
-     "titolo": "Donna uccisa a coltellate a Collefero, il marito in stato di fermo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/18/donna-uccisa-a-coltellate-a-collefero-il-marito-in-stato-di-fermo_ff8c784b-1081-4dba-8cd5-35aac9ca8cb9.html",
-     "data": "2026-08-18T17:24:14+00:00"
     }
    ]
   },
@@ -281,6 +281,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Shakira a Quibdó, fondi per le scuole colpite dal terremoto in Colombia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/19/shakira-a-quibdo-fondi-per-le-scuole-colpite-dal-terremoto-in-colombia_4a0e5cd5-8b44-49d2-b188-6c4a49ee2edc.html",
+     "data": "2026-08-19T01:39:26+00:00"
+    },
+    {
+     "titolo": "Terremoto Giappone, dopo tre settimane ancora 3.000 sfollati",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/19/terremoto-giappone-dopo-tre-settimane-ancora-3.000-sfollati_e5196316-c7f9-45d0-bf70-82c20a2222d1.html",
+     "data": "2026-08-19T01:37:51+00:00"
+    },
+    {
+     "titolo": "Sheinbaum, 'Mexicana de Aviación andrà in pareggio con 20 aerei'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/19/sheinbaum-mexicana-de-aviacion-andra-in-pareggio-con-20-aerei_828da4da-fce5-4fa8-a326-eb8584014e57.html",
+     "data": "2026-08-19T01:11:22+00:00"
+    },
+    {
+     "titolo": "Wsj, 'Trump punta a vertice con Kim Jong-un durante il viaggio in Asia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/19/wsj-trump-punta-a-vertice-con-kim-jong-un-durante-il-viaggio-in-asia_03e05e16-e7b3-43a7-91bf-9d949153fd0a.html",
+     "data": "2026-08-19T00:47:03+00:00"
+    },
+    {
      "titolo": "A Buenos Aires al via la 40/a Conferenza internazionale contro il narcotraffico",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/19/a-buenos-aires-al-via-la-40a-conferenza-internazionale-contro-il-narcotraffico_42abe817-289e-4128-a6fb-492d9b1f733c.html",
      "data": "2026-08-19T00:16:59+00:00"
@@ -319,26 +339,6 @@
      "titolo": "Shock in Cisgiordania, palestinesi marchiati con il pennarello",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/shock-in-cisgiordania-palestinesi-marchiati-con-il-pennarello_58b817ec-0ae2-4078-9c83-c1afb74fe10d.html",
      "data": "2026-08-18T19:37:26+00:00"
-    },
-    {
-     "titolo": "Cpi, 'le sanzioni statunitensi minano lo stato di diritto'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/18/cpi-le-sanzioni-statunitensi-minano-lo-stato-di-diritto_bff65fd1-0a04-4918-a459-79e8fd2e0f85.html",
-     "data": "2026-08-18T19:09:19+00:00"
-    },
-    {
-     "titolo": "Gli Usa impongono sanzioni contro la presidente della Cpi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/18/gli-usa-impongono-sanzioni-contro-la-presidente-della-cpi_c433a9af-8efa-4544-bd86-e1c3d5d5b853.html",
-     "data": "2026-08-18T17:46:39+00:00"
-    },
-    {
-     "titolo": "Lieve aumento nella fiducia delle imprese in Sudafrica",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/18/lieve-aumento-nella-fiducia-delle-imprese-in-sudafrica_12ae3199-535c-4a15-9481-7903599bd09d.html",
-     "data": "2026-08-18T17:30:39+00:00"
-    },
-    {
-     "titolo": "Zelensky propone Yevhenii Khmara come nuovo ministro della Difesa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/18/zelensky-propone-yevhenii-khmara-come-nuovo-ministro-della-difesa_7bef7929-108f-417c-8aa2-a1932d315f85.html",
-     "data": "2026-08-18T17:25:11+00:00"
     }
    ]
   },
