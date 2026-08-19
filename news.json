@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-19T18:13:55.334121+00:00",
+ "aggiornato": "2026-08-19T18:58:23.740712+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Vice capo staff di Zelensky, 'sono indagata ma non sono stata arrestata'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/vice-capo-staff-di-zelensky-sono-indagata-ma-non-sono-stata-arrestata_d57e1707-606c-4e42-9124-161cb71cde81.html",
+     "data": "2026-08-19T18:21:27+00:00"
+    },
     {
      "titolo": "Vienna rimanda i dublinanti in Italia, già quattro trasferiti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/vienna-rimanda-i-dublinanti-in-italia-gia-quattro-trasferiti_18048f6d-e8bd-4e6e-bb98-14860f8d514e.html",
@@ -49,11 +54,6 @@
      "titolo": "Un italiano tra i morti nello schianto dell'elicottero in Kenya",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/un-italiano-tra-i-morti-nello-schianto-dellelicottero-in-kenya_b2fc571e-db3b-402f-b820-480f9ca6d3ff.html",
      "data": "2026-08-19T15:21:10+00:00"
-    },
-    {
-     "titolo": "Btp trentennale vicino al 5% sulle tensioni per il debito Usa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/btp-trentennale-vicino-al-5-sulle-tensioni-per-il-debito-usa_c7a4b129-069f-46cd-9c89-c12e12e9d4da.html",
-     "data": "2026-08-19T15:12:37+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Fillea Cgil, un morto sul lavoro in un cantiere autostradale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/fillea-cgil-un-morto-sul-lavoro-in-un-cantiere-autostradale_165c6c42-8acc-49a2-8028-ad73fdedf932.html",
+     "data": "2026-08-19T18:29:18+00:00"
+    },
+    {
      "titolo": "Migranti, il Vaticano conferma rimozione di don Biancalani da parrocchie",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/migranti-il-vaticano-conferma-rimozione-di-don-biancalani-da-parrocchie_6b6511a9-e084-4933-a5db-2900c1b55153.html",
      "data": "2026-08-19T18:04:33+00:00"
@@ -136,9 +141,9 @@
      "data": "2026-08-19T18:09:17+00:00"
     },
     {
-     "titolo": "Il Ministero della Giustizia verso l'invio degli ispettori in Procura sul caso Terrin",
+     "titolo": "Verso l'invio degli ispettori del Ministero in Procura sul caso Terrin",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/il-ministero-della-giustizia-verso-linvio-degli-ispettori-in-procura-sul-caso_cd4d11a1-6d51-4676-836b-d3afa3c43e80.html",
-     "data": "2026-08-19T18:09:51+00:00"
+     "data": "2026-08-19T18:31:25+00:00"
     },
     {
      "titolo": "Passi avanti per Trepy, uscita da Terapia intensiva più vicina",
@@ -179,11 +184,6 @@
      "titolo": "Bagnanti in Sardegna aiutano delfino e lo spingono al largo per partorire",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/bagnanti-in-sardegna-aiutano-delfino-e-lo-spingono-al-largo-per-partorire_3aa06ed0-0276-42c4-a0ac-a83637960444.html",
      "data": "2026-08-19T16:17:12+00:00"
-    },
-    {
-     "titolo": "Ultraleggero caduto, il ritrovamento dopo le indicazioni di una donna",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/ultraleggero-caduto-il-ritrovamento-dopo-le-indicazioni-di-una-donna_06922849-0dcb-45a0-8f79-993887790b27.html",
-     "data": "2026-08-19T15:49:55+00:00"
     }
    ]
   },
@@ -225,6 +225,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Il petrolio chiude in rialzo a New York, a 86,16 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/il-petrolio-chiude-in-rialzo-a-new-york-a-8616-dollari_6dcfc93d-a1ed-4866-b6e7-72067befe03f.html",
+     "data": "2026-08-19T18:39:21+00:00"
+    },
     {
      "titolo": "Moderna senza freni in Borsa, titolo vola a +130%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/moderna-senza-freni-in-borsa-titolo-vola-a-130_701de55b-0033-446f-b966-45ff11603849.html",
@@ -279,17 +284,22 @@
      "titolo": "Carlsberg, nel semestre utile +6%, crescono le birre analcoliche +11%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/carlsberg-nel-semestre-utile-6-crescono-le-birre-analcoliche-11_7a2db3e1-c9fc-4a17-b58c-c0efc15bca59.html",
      "data": "2026-08-19T13:18:32+00:00"
-    },
-    {
-     "titolo": "Il petrolio in calo a New York, a 84,54 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/il-petrolio-in-calo-a-new-york-a-8454-dollari_d3071273-2575-4285-b44a-c93e3222fee2.html",
-     "data": "2026-08-19T13:14:51+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Ghana Food Movement \"Champions of Change Award 2026\" The World's 50 Best Restaurants",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/19/ghana-food-movement-champions-of-change-award-2026-the-worlds-50-best_10d33057-f69e-4991-9d69-b88a1b41639d.html",
+     "data": "2026-08-19T18:22:30+00:00"
+    },
+    {
+     "titolo": "Vice capo staff di Zelensky, 'sono indagata ma non sono stata arrestata'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/vice-capo-staff-di-zelensky-sono-indagata-ma-non-sono-stata-arrestata_2593c390-f7d2-4c02-ac97-6000e27a98f2.html",
+     "data": "2026-08-19T18:21:40+00:00"
+    },
     {
      "titolo": "Nuovo scandalo al processo Maradona, a rischio di nuovo la validità",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/19/nuovo-scandalo-al-processo-maradona-a-rischio-di-nuovo-la-validita_2dc2f09e-96c6-4ac9-b134-dcf418e8cd85.html",
@@ -339,16 +349,6 @@
      "titolo": "Almeno 100 morti nel crollo di una miniera d'oro in Repubblica Centrafricana",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/19/almeno-100-morti-nel-crollo-di-una-miniera-doro-in-repubblica-centrafricana_1e430da2-d386-4593-8e62-650e9745e6e7.html",
      "data": "2026-08-19T14:25:50+00:00"
-    },
-    {
-     "titolo": "Sorella di Kim Jong Un, 'all'oscuro di comunicazioni tra mio fratello e Trump'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/19/sorella-di-kim-jong-un-alloscuro-di-comunicazioni-tra-mio-fratello-e-trump_bcce247b-a39a-4864-afb5-fa4e84974b02.html",
-     "data": "2026-08-19T14:03:16+00:00"
-    },
-    {
-     "titolo": "Sorella di Kim Jong Un, 'all'oscuro di comunicazioni tra mio fratello e Trump'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/19/sorella-di-kim-jong-un-alloscuro-di-comunicazioni-tra-mio-fratello-e-trump_61196364-6cb6-4918-8be9-5516eda66f61.html",
-     "data": "2026-08-19T14:03:21+00:00"
     }
    ]
   },
@@ -421,6 +421,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Hapoel Tel Aviv, 'proteste? Il calcio unisce le persone'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/hapoel-tel-aviv-proteste-il-calcio-unisce-le-persone_c9dc4fdb-d042-4f7a-8785-41af6fd6e97e.html",
+     "data": "2026-08-19T18:29:51+00:00"
+    },
+    {
+     "titolo": "Reijnders saluta il City e sbarca in Arabia, giocherà con Retegui",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/reijnders-saluta-il-city-e-sbarca-in-arabia-giochera-con-retegui_02dbef78-0200-4e7e-ac84-f5c3dd2d06dc.html",
+     "data": "2026-08-19T18:28:45+00:00"
+    },
+    {
+     "titolo": "Kane premiato con la Scarpa d'oro, 'è anche meglio della prima'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/kane-premiato-con-la-scarpa-doro-e-anche-meglio-della-prima_7f319d07-6229-42e7-9e2b-295e1a086599.html",
+     "data": "2026-08-19T18:24:20+00:00"
+    },
+    {
      "titolo": "Fiorentina in pressing su Poku, freccia del Leverkusen",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/fiorentina-in-pressing-su-poku-freccia-del-leverkusen_0475939c-9451-4c7e-bea5-924c2713d8f9.html",
      "data": "2026-08-19T18:08:01+00:00"
@@ -428,7 +443,7 @@
     {
      "titolo": "Tennis: Masters 1000 Cincinnati, Cobolli rimonta su Jodar e conquista i quarti",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/19/tennis-masters-1000-cincinnati-cobolli-rimonta-su-jodar-e-conquista-i-quarti_222c6f23-8a3b-4f59-959c-f78f42a2101f.html",
-     "data": "2026-08-19T17:52:09+00:00"
+     "data": "2026-08-19T18:14:10+00:00"
     },
     {
      "titolo": "Masters Cincinnati: Cobolli batte Jodar e accede ai quarti",
@@ -464,21 +479,6 @@
      "titolo": "Calcio: Badiashile a Villa Stuart per le visite, poi la firma del contratto col Napoli",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/calcio-badiashile-a-villa-stuart-per-le-visite-poi-la-firma-del-contratto_124d4610-9d35-4670-9b46-9816dee2046a.html",
      "data": "2026-08-19T16:05:06+00:00"
-    },
-    {
-     "titolo": "Serie A: prime designazioni arbitri, Marinelli per Monza-Inter",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/serie-a-prime-designazioni-arbitri-marinelli-per-monza-inter_708a1eec-93af-41b4-a068-bab8eeac638f.html",
-     "data": "2026-08-19T16:02:36+00:00"
-    },
-    {
-     "titolo": "Per Mourinho nuova vita al Real: 'Io come un bimbo che non ha vinto nulla'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/19/per-mourinho-nuova-vita-al-real-io-come-un-bimbo-che-non-ha-vinto_33c6fd6d-3bd3-41d1-b61e-91b12b0be6bd.html",
-     "data": "2026-08-19T16:02:06+00:00"
-    },
-    {
-     "titolo": "Serie A: prime designazioni degli arbitri, Marinelli per Monza-Inter",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/19/serie-a-prime-designazioni-degli-arbitri-marinelli-per-monza-inter_8d87a493-4cca-453f-947d-0e530e2cfb79.html",
-     "data": "2026-08-19T16:12:53+00:00"
     }
    ]
   }
