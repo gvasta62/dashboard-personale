@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-19T16:15:22.917295+00:00",
+ "aggiornato": "2026-08-19T16:52:21.019429+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, l'ex vice capo dell'ufficio presidenza dell'Ucraina è stata arrestata",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/media-lex-vice-capo-dellufficio-presidenza-dellucraina-e-stata-arrestata_ebf75e6b-9401-4465-bc53-11c31fa98237.html",
+     "data": "2026-08-19T16:43:57+00:00"
+    },
+    {
+     "titolo": "Moderna senza freni in Borsa, titolo vola a +130%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/moderna-senza-freni-in-borsa-titolo-vola-a-130_3d22a7ae-624f-4682-8665-66c713d0d2cf.html",
+     "data": "2026-08-19T16:14:09+00:00"
+    },
+    {
+     "titolo": "In Portogallo è stata promulgata la cosiddetta \"legge del burka\"",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/in-portogallo-e-stata-promulgata-la-cosiddetta-legge-del-burka_3a045ee8-9cfb-4c87-861e-8ca911c7023c.html",
+     "data": "2026-08-19T16:08:00+00:00"
+    },
     {
      "titolo": "Lo spread Btp-Bund si ferma a 79,7 punti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/lo-spread-btp-bund-si-ferma-a-797-punti_acac7f67-2750-4026-940d-66b94c9aadc5.html",
@@ -39,21 +54,6 @@
      "titolo": "Borghi, 'nessuna spaccatura nella Lega, qualcuno fa casino e la stampa ci si butta'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/borghi-nessuna-spaccatura-nella-lega-qualcuno-fa-casino-e-la-stampa-ci-si-butta_27a72ec4-180b-46f1-be93-04c4a0800c5b.html",
      "data": "2026-08-19T15:01:45+00:00"
-    },
-    {
-     "titolo": "Nevi, Fi chiede che del caso Ranucci si occupi il Parlamento alla ripresa dei lavori",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/nevi-fi-chiede-che-del-caso-ranucci-si-occupi-il-parlamento-alla-ripresa_792d8a5a-8d02-408a-a316-8f2746a8fabb.html",
-     "data": "2026-08-19T14:55:14+00:00"
-    },
-    {
-     "titolo": "Conte,Report spina nel fianco di un Governo che vuole TeleMeloni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/contereport-spina-nel-fianco-di-un-governo-che-vuole-telemeloni_4e93ff6c-684e-4e16-a94c-81c9d7386028.html",
-     "data": "2026-08-19T14:49:02+00:00"
-    },
-    {
-     "titolo": "Almeno 100 morti nel crollo di una miniera d'oro in Repubblica Centrafricana",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/almeno-100-morti-nel-crollo-di-una-miniera-doro-in-repubblica-centrafricana_81fda143-95cc-4f28-bbf9-8cdfddc72ee0.html",
-     "data": "2026-08-19T14:25:50+00:00"
     }
    ]
   },
@@ -63,7 +63,7 @@
     {
      "titolo": "Sindaca Orvieto, sulla città una gogna mediatica francamente ingiustificata",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/19/sindaca-orvieto-sulla-citta-una-gogna-mediatica-francamente-ingiustificata_a7d1c7f5-78be-49ec-9e08-0a4e215e33f7.html",
-     "data": "2026-08-19T16:05:58+00:00"
+     "data": "2026-08-19T16:14:31+00:00"
     },
     {
      "titolo": "Al Calvi Festival 2026 arriva Grazia Di Michele",
@@ -126,6 +126,31 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Incendi in Abruzzo, in azione squadre di terra con 4 canadair e 2 elicotteri",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/incendi-in-abruzzo-in-azione-squadre-di-terra-con-4-canadair-e-2-elicotteri_a6eb169d-1887-4ed1-94c2-b1fd67e7a934.html",
+     "data": "2026-08-19T16:35:15+00:00"
+    },
+    {
+     "titolo": "Problemi a un motore, atterraggio d'emergenza a Rimini, nessun ferito",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/problemi-a-un-motore-atterraggio-demergenza-a-rimini-nessun-ferito_0a485698-d63e-4e24-961b-0149cee13ad9.html",
+     "data": "2026-08-19T16:32:56+00:00"
+    },
+    {
+     "titolo": "Malore a bordo di uno yacht partito da Olbia, muore 72enne svizzero",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/malore-a-bordo-di-uno-yacht-partito-da-olbia-muore-72enne-svizzero_64055b7b-c3cf-463d-be34-e25f8532c46d.html",
+     "data": "2026-08-19T16:26:43+00:00"
+    },
+    {
+     "titolo": "Il fratello di Vanessa uccisa nel 2023, 'allibito che succeda ancora'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/il-fratello-di-vanessa-uccisa-nel-2023-allibito-che-succeda-ancora_9628222a-081a-4b8b-b379-46bd796bf7a2.html",
+     "data": "2026-08-19T16:18:44+00:00"
+    },
+    {
+     "titolo": "Bagnanti in Sardegna aiutano delfino e lo spingono al largo per partorire",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/bagnanti-in-sardegna-aiutano-delfino-e-lo-spingono-al-largo-per-partorire_3aa06ed0-0276-42c4-a0ac-a83637960444.html",
+     "data": "2026-08-19T16:17:12+00:00"
+    },
+    {
      "titolo": "Ultraleggero caduto, il ritrovamento dopo le indicazioni di una donna",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/ultraleggero-caduto-il-ritrovamento-dopo-le-indicazioni-di-una-donna_06922849-0dcb-45a0-8f79-993887790b27.html",
      "data": "2026-08-19T15:49:55+00:00"
@@ -159,31 +184,6 @@
      "titolo": "Ultraleggero caduto, pm apre inchiesta e fa sopralluogo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/ultraleggero-caduto-pm-apre-inchiesta-e-fa-sopralluogo_84c58710-a3ed-4413-b044-ce5ed4df2aae.html",
      "data": "2026-08-19T12:02:19+00:00"
-    },
-    {
-     "titolo": "'Finto Carabiniere' truffava in tutta Italia, otto arresti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/finto-carabiniere-truffava-in-tutta-italia-otto-arresti_c57a8662-a6d9-4544-9ab9-b09ba82fee15.html",
-     "data": "2026-08-19T11:39:52+00:00"
-    },
-    {
-     "titolo": "Salgono a diciotto i casi di contagio di febbre del Nilo nell'Oristanese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/salgono-a-diciotto-i-casi-di-contagio-di-febbre-del-nilo-nelloristanese_f9cf5968-9f41-480c-b145-1c1e74961db1.html",
-     "data": "2026-08-19T11:24:13+00:00"
-    },
-    {
-     "titolo": "Turista 75enne muore per un malore in spiaggia in Sardegna",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/turista-75enne-muore-per-un-malore-in-spiaggia-in-sardegna_23bc0d7c-c2e7-4037-b584-e416580e5ca2.html",
-     "data": "2026-08-19T11:21:09+00:00"
-    },
-    {
-     "titolo": "'Ci sono quadri per strada', l'audio della donna che avverte il 112 del furto a Messina",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/ci-sono-quadri-per-strada-la-telefonata-che-avverte-del-furto-a-messina_db46f538-b38d-4d3a-bfc4-d07e15792c6b.html",
-     "data": "2026-08-19T15:02:09+00:00"
-    },
-    {
-     "titolo": "Aggressione e rapina a delle ragazze, denuncia e 'Daspo Willy' per cinque persone",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/aggressione-e-rapina-a-ragazze-denuncia-e-daspo-willy-per-cinque-persone_2489e2c0-5a88-461d-a262-675f0ce04628.html",
-     "data": "2026-08-19T11:39:12+00:00"
     }
    ]
   },
@@ -220,6 +220,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Moderna senza freni in Borsa, titolo vola a +130%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/moderna-senza-freni-in-borsa-titolo-vola-a-130_701de55b-0033-446f-b966-45ff11603849.html",
+     "data": "2026-08-19T16:14:12+00:00"
+    },
     {
      "titolo": "Gas: future in discesa sotto i 64 euro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/gas-future-in-discesa-sotto-i-64-euro_2dbd5568-f3a4-475f-afcd-891b78ad9d08.html",
@@ -274,17 +279,22 @@
      "titolo": "Il petrolio in calo a New York, a 84,54 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/il-petrolio-in-calo-a-new-york-a-8454-dollari_d3071273-2575-4285-b44a-c93e3222fee2.html",
      "data": "2026-08-19T13:14:51+00:00"
-    },
-    {
-     "titolo": "Vaccino contro il melanoma mostra risultati promettenti, Moderna +102% in Borsa",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/vaccino-contro-il-melanoma-mostra-risultati-promettenti-moderna-102-in-borsa_befe7eac-f084-4072-92ab-305c5f8cedba.html",
-     "data": "2026-08-19T15:52:57+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Media, l'ex vice capo dell'ufficio presidenza dell'Ucraina è stata arrestata",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/media-lex-vice-capo-dellufficio-presidenza-dellucraina-e-stata-arrestata_f59fe4ba-0bcf-4a86-9183-387111985fbc.html",
+     "data": "2026-08-19T16:44:11+00:00"
+    },
+    {
+     "titolo": "In Portogallo è stata promulgata la cosiddetta \"legge del burka\"",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/in-portogallo-e-stata-promulgata-la-cosiddetta-legge-del-burka_ac481b94-3ab2-499a-9551-8a9b6d85675c.html",
+     "data": "2026-08-19T16:08:24+00:00"
+    },
     {
      "titolo": "Trump, 'Kim possiede 57 armi nucleari molto potenti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/19/trump-kim-possiede-57-armi-nucleari-molto-potenti_ac0f9ac7-37e0-4aa0-84b8-4e76ccb30101.html",
@@ -334,16 +344,6 @@
      "titolo": "Nato, 'Iran? Pronti ad affrontare qualsiasi minaccia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/nato-iran-pronti-ad-affrontare-qualsiasi-minaccia_5786b50f-44c9-4c9e-b694-a3e59c4aa109.html",
      "data": "2026-08-19T13:34:02+00:00"
-    },
-    {
-     "titolo": "Nato, 'Iran? Pronti ad affrontare qualsiasi minaccia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/19/nato-iran-pronti-ad-affrontare-qualsiasi-minaccia_17ba5fa1-e928-4fdd-bc52-70e718b4a7ef.html",
-     "data": "2026-08-19T13:34:04+00:00"
-    },
-    {
-     "titolo": "Colombia, oltre 8mila produttori di caffè danneggiati dal terremoto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/19/colombia-oltre-8mila-produttori-di-caffe-danneggiati-dal-terremoto_66553f16-6b4e-43cd-bf2a-ef29cdeb8fae.html",
-     "data": "2026-08-19T13:29:10+00:00"
     }
    ]
   },
@@ -416,6 +416,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "La F1 riparte dall'Olanda, Vasseur: 'Fare bene da subito'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/19/la-f1-riparte-dallolanda-vasseur-fare-bene-da-subito_f6ab3a2b-5aee-424f-a5cb-96c0be0949fa.html",
+     "data": "2026-08-19T16:31:49+00:00"
+    },
+    {
+     "titolo": "Serie B: incontro in Lega tra arbitri e società",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/serie-b-incontro-in-lega-tra-arbitri-e-societa_7714b1af-fea1-4a91-9366-f4626bf324a4.html",
+     "data": "2026-08-19T16:19:27+00:00"
+    },
+    {
+     "titolo": "Fifa: ungherese Csany ritira sostegno a Infantino dopo il licenziamento di Lamour",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/fifa-ungherese-csany-ritira-sostegno-a-infantino-dopo-il-licenziamento-di-lamour_808c677e-be3c-475e-a339-fe1bbb02884c.html",
+     "data": "2026-08-19T16:11:27+00:00"
+    },
+    {
+     "titolo": "Atletica: per Jacobs lesione muscolare alla coscia, cure a Roma",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/19/atletica-per-jacobs-lesione-muscolare-alla-coscia-cure-a-roma_32c60ca7-01c1-45ea-9047-2de2db0c3574.html",
+     "data": "2026-08-19T16:10:39+00:00"
+    },
+    {
      "titolo": "Calcio: Badiashile a Villa Stuart per le visite, poi la firma del contratto col Napoli",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/calcio-badiashile-a-villa-stuart-per-le-visite-poi-la-firma-del-contratto_124d4610-9d35-4670-9b46-9816dee2046a.html",
      "data": "2026-08-19T16:05:06+00:00"
@@ -433,7 +453,7 @@
     {
      "titolo": "Serie A: prime designazioni degli arbitri, Marinelli per Monza-Inter",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/19/serie-a-prime-designazioni-degli-arbitri-marinelli-per-monza-inter_8d87a493-4cca-453f-947d-0e530e2cfb79.html",
-     "data": "2026-08-19T15:55:22+00:00"
+     "data": "2026-08-19T16:12:53+00:00"
     },
     {
      "titolo": "Tv: boom di ascolti su Sky Sport per Europei atletica e nuoto, 2.7 mln spettatori",
@@ -441,9 +461,9 @@
      "data": "2026-08-19T15:26:18+00:00"
     },
     {
-     "titolo": "Tennis: Masters 1000 Cincinnati, negli ottavi Cobolli Jodar-Cobolli 6-4 DIRETTA",
+     "titolo": "Tennis: Masters 1000 Cincinnati, negli ottavi Cobolli Jodar-Cobolli 6-4, 5-4 DIRETTA",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/19/tennis-masters-1000-cincinnati-negli-ottavi-cobolli-jodar-cobolli-1-1-diretta_222c6f23-8a3b-4f59-959c-f78f42a2101f.html",
-     "data": "2026-08-19T16:06:08+00:00"
+     "data": "2026-08-19T16:42:04+00:00"
     },
     {
      "titolo": "Conference: Ederson, non ci sentiamo favoriti con l'Hapoel",
@@ -454,26 +474,6 @@
      "titolo": "La nuova stagione di Serie A su Dazn, novità fantacalcio e show Champions",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/la-nuova-stagione-di-serie-a-su-dazn-novita-fantacalcio-e-show-champions_01c794e2-5404-4292-86c6-bfbd7be526d9.html",
      "data": "2026-08-19T14:28:45+00:00"
-    },
-    {
-     "titolo": "Ramos: 'Mai avuto dubbi sul passaggio al Milan, era la scelta giusta'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/ramos-mai-avuto-dubbi-sul-passaggio-al-milan-era-la-scelta-giusta_472b072b-d823-467f-87fc-e2c2bdaa9bf7.html",
-     "data": "2026-08-19T15:35:04+00:00"
-    },
-    {
-     "titolo": "Atalanta: Sarri soddisfatto del mercato, 'mi fido di Giuntoli'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/atalanta-sarri-soddisfatto-del-mercato-mi-fido-di-giuntoli_138ba939-b5aa-44cb-a27e-b2b42b02dee0.html",
-     "data": "2026-08-19T15:36:09+00:00"
-    },
-    {
-     "titolo": "Sarri, 'l'Hapoel è molto forte, sarà una battaglia'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/sarri-lhapoel-e-molto-forte-sara-una-battaglia_dba948d4-7dc6-4cdc-aef1-171965c5645b.html",
-     "data": "2026-08-19T14:16:12+00:00"
-    },
-    {
-     "titolo": "L'Inter chiude per Jones, oltre 30 milioni al Liverpool",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/linter-chiude-per-jones-oltre-30-milioni-al-liverpool_da6fdfeb-87c7-4ba7-9329-dceb3c4e93b3.html",
-     "data": "2026-08-19T15:38:41+00:00"
     }
    ]
   }
