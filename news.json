@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-19T09:54:31.479183+00:00",
+ "aggiornato": "2026-08-19T10:14:36.363877+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Bankitalia, in 12 mesi avanzo corrente a 30,4 miliardi di euro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/bankitalia-in-12-mesi-avanzo-corrente-a-304-miliardi-di-euro_708d752d-8613-483f-9601-532ea54c09f9.html",
+     "data": "2026-08-19T09:54:58+00:00"
+    },
+    {
+     "titolo": "La manifestazione di interesse per ex Ilva: ipotesi newco, ma forte cautela",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/la-manifestazione-di-interesse-per-ex-ilva-ipotesi-newco-ma-forte-cautela_f1d3fbd2-70c4-4208-9122-f0cf41462ce9.html",
+     "data": "2026-08-19T09:50:27+00:00"
+    },
     {
      "titolo": "Eurostat conferma, inflazione salita al 2,9% nell'Eurozona a luglio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/eurostat-conferma-inflazione-salita-al-29-nelleurozona-a-luglio_9b2e174f-3994-44b5-8687-3f8df7bee44f.html",
@@ -44,22 +54,17 @@
      "titolo": "Continua il rialzo del prezzo del gasolio, in autostrada 2,178 euro al litro",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/continua-il-rialzo-del-prezzo-del-gasolio-in-autostrada-2178-euro-al-litro_3618cef9-7dc6-4719-a97a-ba8c3d83f5be.html",
      "data": "2026-08-19T07:31:18+00:00"
-    },
-    {
-     "titolo": "Anticorruzione ucraina, operazione contro gruppo legato a deputati e staff Zelensky",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/anticorruzione-ucraina-operazione-contro-gruppo-legato-a-deputati-e-staff-zelensky_a924dd35-3eb2-4af1-8590-902ccb176863.html",
-     "data": "2026-08-19T07:21:38+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa positiva in apertura, Parigi +0,16%, Londra +0,11%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/borsa-europa-positiva-in-apertura-parigi-016-londra-011_556e22dd-d6e9-4546-aa91-6eb81f331c82.html",
-     "data": "2026-08-19T07:20:54+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "All'ospedale di Branca impiantato un pacemaker su una donna di 101 anni",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/19/allospedale-di-branca-impiantato-un-pacemaker-su-una-donna-di-101-anni_b5ab0478-a468-4741-a51f-ea04e1163145.html",
+     "data": "2026-08-19T09:50:18+00:00"
+    },
     {
      "titolo": "Bistocchi nomina Carla Casciari nuova Garante per le persone anziane",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/19/bistocchi-nomina-carla-casciari-nuova-garante-per-le-persone-anziane_216c123e-9e11-4185-bebf-d6dda60b36fa.html",
@@ -114,11 +119,6 @@
      "titolo": "D'Urso, 'continuerò a svolgere il mio incarico nell'ospedale di Perugia'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/durso-continuero-a-svolgere-il-mio-incarico-nellospedale-di-perugia_a12f9d0e-22df-45cf-9910-ae1af0ce54d3.html",
      "data": "2026-08-18T12:29:00+00:00"
-    },
-    {
-     "titolo": "Maria Chiara Innocenti nuova direttrice generale della Società della salute pistoiese",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/maria-chiara-innocenti-nuova-direttrice-generale-della-societa-della-salute_86e85348-19f4-4597-8446-e8e32f02dd76.html",
-     "data": "2026-08-18T12:19:48+00:00"
     }
    ]
   },
@@ -193,7 +193,7 @@
     {
      "titolo": "Gasparri: 'Singolare lo sforzo di Ranucci di difendere Lavitola'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/19/gasparri-singolare-lo-sforzo-di-ranucci-di-difendere-lavitola_8716b66f-3fcf-4878-9a85-383558a3eefe.html",
-     "data": "2026-08-19T09:35:02+00:00"
+     "data": "2026-08-19T09:51:16+00:00"
     },
     {
      "titolo": "Il Papa, 'Sviluppare in noi un'autentica coscienza di pace",
@@ -210,6 +210,26 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Legacoop, vino patrimonio a rischio tra clima, mercati e consumi che cambiano",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/legacoop-vino-patrimonio-a-rischio-tra-clima-mercati-e-consumi-che-cambiano_cf0c0263-7712-4ed8-9738-d66792cdae53.html",
+     "data": "2026-08-19T09:56:28+00:00"
+    },
+    {
+     "titolo": "Bankitalia, in 12 mesi avanzo corrente a 30,4 miliardi di euro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/bankitalia-in-12-mesi-avanzo-corrente-a-304-miliardi-di-euro_6c844b2c-a7b8-4ee1-a87a-44fe3336e7f4.html",
+     "data": "2026-08-19T10:03:23+00:00"
+    },
+    {
+     "titolo": "La manifestazione di interesse per ex Ilva: ipotesi newco, ma forte cautela",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/la-manifestazione-di-interesse-per-ex-ilva-ipotesi-newco-ma-forte-cautela_88069f3b-c618-4162-9cf4-99ccd504b371.html",
+     "data": "2026-08-19T09:57:35+00:00"
+    },
+    {
+     "titolo": "Le scorte di gas italiane sfiorano l'80%, l'Ue supera il 61%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/le-scorte-di-gas-italiane-sfiorano-l80-lue-supera-il-61_74488cb0-feda-4f56-ad32-22e3e66ec921.html",
+     "data": "2026-08-19T09:49:45+00:00"
+    },
     {
      "titolo": "Eurostat conferma, inflazione salita al 2,9% nell'Eurozona a luglio",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/eurostat-conferma-inflazione-salita-al-29-nelleurozona-a-luglio_1724538c-76e8-4503-9f77-3385ea8d5392.html",
@@ -249,26 +269,6 @@
      "titolo": "Mps apre poco mossa in Piazza Affari dopo ipotesi Ops su Banco Bpm",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/mps-apre-poco-mossa-in-piazza-affari-dopo-ipotesi-ops-su-banco_b00a8249-ee5f-4fab-9231-56e051856aa4.html",
      "data": "2026-08-19T07:47:27+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa positiva in apertura, Parigi +0,16%, Londra +0,11%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-europa-positiva-in-apertura-parigi-016-londra-011_2dd1a98f-a906-4a54-8559-0bd1d34bd930.html",
-     "data": "2026-08-19T07:20:51+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre in rialzo. +0,11%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-milano-apre-in-rialzo.-011_b02cb314-8508-4cd8-8233-8bcaff1f2cbe.html",
-     "data": "2026-08-19T07:30:59+00:00"
-    },
-    {
-     "titolo": "Borsa: Asia in rosso, ancora vendite sui microprocessori, Tokyo -3,16%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-asia-in-rosso-ancora-vendite-sui-microprocessori-tokyo-316_5d2d80c9-a670-4de6-b930-6a65d4c007d7.html",
-     "data": "2026-08-19T06:52:44+00:00"
-    },
-    {
-     "titolo": "Gme, sale il valore dell'indice italiano del prezzo del gas",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/gme-sale-il-valore-dellindice-italiano-del-prezzo-del-gas_c80e5ecb-53b0-4f81-8366-e25c96d92acb.html",
-     "data": "2026-08-19T07:30:28+00:00"
     }
    ]
   },
@@ -406,6 +406,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Il Monaco rescinde il contratto con Pogba",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/il-monaco-rescinde-il-contratto-con-pogba_15314aaf-3d27-483f-bf2e-ea93548007d9.html",
+     "data": "2026-08-19T10:07:46+00:00"
+    },
+    {
      "titolo": "Venezia: Lorenzo Montipò dal Verona sarà il vice Stankovic",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/venezia-lorenzo-montipo-dal-verona-sara-il-vice-stankovic_0fac2704-93cd-45ac-b6dd-5dace70efa29.html",
      "data": "2026-08-19T09:14:34+00:00"
@@ -459,11 +464,6 @@
      "titolo": "Varenne leggenda anche come stallone, quanti figli di successo",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/18/varenne-leggenda-anche-come-stallone-quanti-figli-di-successo_61a411a3-be6e-4864-a89b-13d01551fe69.html",
      "data": "2026-08-18T18:10:14+00:00"
-    },
-    {
-     "titolo": "Il ricordo di Minnucci, 'guidarlo era come volare'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/18/il-ricordo-di-minnucci-guidarlo-era-come-volare_3a35db4e-8113-4efc-928c-adea3175153f.html",
-     "data": "2026-08-18T18:11:22+00:00"
     }
    ]
   }
