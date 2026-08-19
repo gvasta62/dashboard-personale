@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-19T21:45:59.846490+00:00",
+ "aggiornato": "2026-08-19T22:10:55.426449+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, Harry e la moglie Meghan torneranno questo mese a vivere in Gb",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/media-harry-e-la-moglie-meghan-torneranno-questo-mese-a-vivere-in-gb_b00b586b-9dd9-4dca-a65e-836ddff178ff.html",
+     "data": "2026-08-19T21:51:11+00:00"
+    },
     {
      "titolo": "Trump, 'abbiamo sanzioni draconiane che possiamo imporre all'Iran'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/trump-abbiamo-sanzioni-draconiane-che-possiamo-imporre-alliran_b764f9f9-a362-4be5-a7a1-096c98467605.html",
@@ -49,11 +54,6 @@
      "titolo": "Trump, 'Kim possiede 57 armi nucleari molto potenti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/trump-kim-possiede-57-armi-nucleari-molto-potenti_c9b4e394-9bad-4448-a040-7bbbf3358959.html",
      "data": "2026-08-19T15:54:07+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in calo, Ftse Mib -0,75%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/borsa-milano-chiude-in-calo-ftse-mib-075_4319baba-d594-4e60-b973-1a7067806b25.html",
-     "data": "2026-08-19T15:47:11+00:00"
     }
    ]
   },
@@ -291,9 +291,19 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Terremoto in Colombia, i morti salgono a 314",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/terremoto-in-colombia-i-morti-salgono-a-314_b120f870-1ceb-46a5-8966-36621975dd2d.html",
+     "data": "2026-08-19T22:02:06+00:00"
+    },
+    {
+     "titolo": "Media, Harry e la moglie Meghan torneranno questo mese a vivere in Gb",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/media-harry-e-la-moglie-meghan-torneranno-questo-mese-a-vivere-in-gb_0845ae9d-065c-41a2-84fd-997dac53fc7a.html",
+     "data": "2026-08-19T21:51:23+00:00"
+    },
+    {
      "titolo": "'Harry e Meghan torneranno questo mese a vivere nel Regno Unito'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/harry-e-meghan-torneranno-questo-mese-a-vivere-nel-regno-unito_942fcce7-6ecb-4000-9721-3a410a6d57d9.html",
-     "data": "2026-08-19T21:39:33+00:00"
+     "data": "2026-08-19T21:43:24+00:00"
     },
     {
      "titolo": "Conferenza antidroga della Dea, 'Sud America epicentro del traffico di cocaina'",
@@ -339,16 +349,6 @@
      "titolo": "Media, l'ex vice capo dell'ufficio presidenza dell'Ucraina è stata arrestata",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/media-lex-vice-capo-dellufficio-presidenza-dellucraina-e-stata-arrestata_f59fe4ba-0bcf-4a86-9183-387111985fbc.html",
      "data": "2026-08-19T16:44:11+00:00"
-    },
-    {
-     "titolo": "In Portogallo è stata promulgata la cosiddetta \"legge del burka\"",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/in-portogallo-e-stata-promulgata-la-cosiddetta-legge-del-burka_ac481b94-3ab2-499a-9551-8a9b6d85675c.html",
-     "data": "2026-08-19T16:08:24+00:00"
-    },
-    {
-     "titolo": "Trump, 'Kim possiede 57 armi nucleari molto potenti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/19/trump-kim-possiede-57-armi-nucleari-molto-potenti_ac0f9ac7-37e0-4aa0-84b8-4e76ccb30101.html",
-     "data": "2026-08-19T15:54:21+00:00"
     }
    ]
   },
