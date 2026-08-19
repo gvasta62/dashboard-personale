@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-19T10:50:49.825408+00:00",
+ "aggiornato": "2026-08-19T11:12:38.015455+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Aggressione e rapina a ragazze, denuncia e 'Daspo Willy' per cinque persone",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/aggressione-e-rapina-a-ragazze-denuncia-e-daspo-willy-per-cinque-persone_2489e2c0-5a88-461d-a262-675f0ce04628.html",
+     "data": "2026-08-19T10:57:24+00:00"
+    },
+    {
+     "titolo": "Anziana uccisa a colpi di pietra, fermato il marito",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/anziana-uccisa-a-colpi-di-pietra-fermato-il-marito_99364cc7-bb37-4de8-90b3-5066a9ead252.html",
+     "data": "2026-08-19T10:55:30+00:00"
+    },
+    {
+     "titolo": "Ranucci querela la magistrata Forleo per il post su Facebook",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/ranucci-querela-la-magistrata-forleo-per-il-post-su-facebook_eb7d355f-9817-432f-9f49-590ba96a6100.html",
+     "data": "2026-08-19T10:49:04+00:00"
+    },
+    {
      "titolo": "Prostituzione in hotel e luoghi affollati, sfruttavano anche le mogli",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/prostituzione-in-hotel-e-luoghi-affollati-sfruttavano-anche-le-mogli_5d534fd7-0001-4b0f-a4a8-6e0837bb9864.html",
      "data": "2026-08-19T10:08:20+00:00"
@@ -158,7 +173,7 @@
     {
      "titolo": "Il legale di Ranucci: 'Ogni decisione della Rai sarebbe inquinata da falsità. Lo stop al conduttore sarebbe una scelta politica'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/il-legale-di-ranucci-ogni-decisione-della-rai-sarebbe-inquinata-da-falsita_9e5214d4-7af0-4f51-be6e-d173eae0f323.html",
-     "data": "2026-08-19T09:54:18+00:00"
+     "data": "2026-08-19T10:49:36+00:00"
     },
     {
      "titolo": "Varenne sarà tumulato nell'allevamento di Eboli",
@@ -168,22 +183,7 @@
     {
      "titolo": "Muore a 28 anni dopo sei giorni di agonia soffocata con una fetta di bacon",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/muore-a-28-anni-dopo-sei-giorni-da-agonia-soffocata-con-fetta-di-bacon_06a72304-56d5-4adb-b996-95b480d1b921.html",
-     "data": "2026-08-19T10:37:56+00:00"
-    },
-    {
-     "titolo": "Individuati ultraleggero scomparso in Calabria e corpi degli avvocati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/individuati-ultraleggero-scomparso-in-calabria-e-corpi-degli-occupanti-_cbb0a726-f14d-4f7d-b8a6-4b26f0ba86e3.html",
-     "data": "2026-08-19T10:41:11+00:00"
-    },
-    {
-     "titolo": "Individuati ultraleggero scomparso in Calabria e corpi degli occupanti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/individuati-ultraleggero-scomparso-in-calabria-e-corpi-degli-occupanti-_43ea9be8-734a-415b-901f-9c75bc955832.html",
-     "data": "2026-08-19T08:18:53+00:00"
-    },
-    {
-     "titolo": "Donna uccisa nel Cosentino, convalidato il fermo del presunto femminicida",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/donna-uccisa-nel-cosentino-convalidato-il-fermo_58b306ac-794e-4ace-8e7f-87b41e8b0f76.html",
-     "data": "2026-08-19T09:12:16+00:00"
+     "data": "2026-08-19T10:48:06+00:00"
     }
    ]
   },
@@ -211,9 +211,19 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Milano in lieve calo (-0,1%), corre Stellantis, cede Stm",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-milano-in-lieve-calo-01-corre-stellantis-cede-stm_2008262c-967a-48a0-b042-be0ef0e22ef2.html",
+     "data": "2026-08-19T10:55:50+00:00"
+    },
+    {
+     "titolo": "L'Ia e i social cambiano lo shopping, il 28% della Gen Z li usa",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/lia-e-i-social-cambiano-lo-shopping-il-28-della-gen-z-li-usa_a292f1b7-9a9a-4230-b380-d9b861cb3242.html",
+     "data": "2026-08-19T10:54:22+00:00"
+    },
+    {
      "titolo": "Pnrr a più velocità, il Trentino corre, grandi opere rallentanto la Liguria",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/pnrr-a-piu-velocita-il-trentino-corre-grandi-opere-rallentanto-la-liguria_fd61513b-df0e-44cd-b3f9-f025efc29fe6.html",
-     "data": "2026-08-19T10:45:06+00:00"
+     "data": "2026-08-19T10:53:39+00:00"
     },
     {
      "titolo": "Legacoop, vino patrimonio a rischio tra clima, mercati e consumi che cambiano",
@@ -259,16 +269,6 @@
      "titolo": "Borsa: Milano fiacca (-0,07%), sprint di Stellantis, giù Stm",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-milano-fiacca-007-sprint-di-stellantis-giu-stm_0ab24c76-05e0-4e9c-a2ec-3e963fa8b0e5.html",
      "data": "2026-08-19T07:46:48+00:00"
-    },
-    {
-     "titolo": "Inflazione nel Regno Unito sale al 2,9% a luglio, pesa la guerra con l'Iran",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/inflazione-nel-regno-unito-sale-al-29-a-luglio-pesa-la-guerra-con-liran_0601a79d-068f-432b-b596-870eb2db8b41.html",
-     "data": "2026-08-19T07:46:12+00:00"
-    },
-    {
-     "titolo": "Continua il rialzo del prezzo del gasolio, in autostrada 2,178 euro al litro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/continua-il-rialzo-del-prezzo-del-gasolio-in-autostrada-2178-euro-al-litro_28171a52-8bcb-4bc6-84f1-94cc25f289c2.html",
-     "data": "2026-08-19T07:36:06+00:00"
     }
    ]
   },
