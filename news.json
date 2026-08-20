@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-20T13:23:06.867350+00:00",
+ "aggiornato": "2026-08-20T14:05:00.372511+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Esodo estivo, bollino rosso a partire da venerdì sulle strade",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/esodo-estivo-bollino-rosso-a-partire-da-venerdi-sulle-strade_f4ab132f-c1d8-4b89-9917-daa7db5eface.html",
+     "data": "2026-08-20T13:39:17+00:00"
+    },
+    {
+     "titolo": "++ Il petrolio in rialzo a New York a 88,16 dollari, Brent supera 94 dollari ++",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/il-petrolio-in-rialzo-a-new-york-a-8816-dollari-brent-supera-94-dollari_3ac520a7-5b85-47ff-bc32-510e1c4e0b2e.html",
+     "data": "2026-08-20T13:17:10+00:00"
+    },
     {
      "titolo": "Il buyback di Bessent non basta, Treasury bruciano i guadagni",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/il-buyback-di-bessent-non-basta-treasury-bruciano-i-guadagni_61de47fc-bca7-4e89-a3dd-b0bd0841f007.html",
@@ -44,22 +54,22 @@
      "titolo": "Infante, \"a Mediaset per sperimentare, punto sul tempo reale\"",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/infante-a-mediaset-per-sperimentare-punto-sul-tempo-reale_bf62aeed-7564-45e6-94f7-33a74c8b9033.html",
      "data": "2026-08-20T11:16:43+00:00"
-    },
-    {
-     "titolo": "Il Papa, la guerra è un fallimento politico e morale",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/il-papa-la-guerra-e-un-fallimento-politico-e-morale_87945d91-c6ac-4a72-9774-ef64b68c1f88.html",
-     "data": "2026-08-20T11:09:11+00:00"
-    },
-    {
-     "titolo": "Faye Dunaway a Venezia per il premio Kineo alla carriera",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/faye-dunaway-a-venezia-per-il-premio-kineo-alla-carriera_72e183ed-fb26-4930-81b4-92af6e68ade8.html",
-     "data": "2026-08-20T10:42:39+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "In Umbria il nuovo anno scolastico al via lunedì 14 settembre",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/in-umbria-il-nuovo-anno-scolastico-al-via-lunedi-14-settembre_945867b2-6f0c-4811-b0e3-8601bc0aafb3.html",
+     "data": "2026-08-20T13:53:18+00:00"
+    },
+    {
+     "titolo": "Assisi presa d'assalto dai turisti",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/assisi-presa-dassalto-dai-turisti_75a548b1-1f8b-49dc-b772-67163dbaf895.html",
+     "data": "2026-08-20T13:46:29+00:00"
+    },
     {
      "titolo": "Ad Assisi Madonnari dal mondo, opere ispirate a San Francesco",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/ad-assisi-madonnari-dal-mondo-opere-ispirate-a-san-francesco_3e354c6d-1b04-4cd1-8904-14c7bbb12a11.html",
@@ -109,16 +119,6 @@
      "titolo": "All'ospedale di Branca impiantato un pacemaker su una donna di 101 anni",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/19/allospedale-di-branca-impiantato-un-pacemaker-su-una-donna-di-101-anni_b5ab0478-a468-4741-a51f-ea04e1163145.html",
      "data": "2026-08-19T09:50:18+00:00"
-    },
-    {
-     "titolo": "Bistocchi nomina Carla Casciari nuova Garante per le persone anziane",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/19/bistocchi-nomina-carla-casciari-nuova-garante-per-le-persone-anziane_216c123e-9e11-4185-bebf-d6dda60b36fa.html",
-     "data": "2026-08-19T09:34:02+00:00"
-    },
-    {
-     "titolo": "A Gualdo Tadino sarà riqualificata l'area di piazza Mazzini",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/19/a-gualdo-tadino-sara-riqualificata-larea-di-piazza-mazzini_050f09dd-76ab-4477-84f7-da057ceb3fc2.html",
-     "data": "2026-08-19T09:35:33+00:00"
     }
    ]
   },
@@ -126,14 +126,24 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Cnr: 'Le tele rubate a Messina hanno un'impronta scientifica utile per riconoscimento'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/cnr-le-tele-rubate-a-messina-hanno-unimpronta-scientifica-utile-per-riconoscimento_c3b0f32b-b44f-4ff3-9c64-d40123f906e1.html",
+     "data": "2026-08-20T13:50:41+00:00"
+    },
+    {
+     "titolo": "Esodo estivo, bollino rosso a partire da venerdì sulle strade",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/esodo-estivo-bollino-rosso-a-partire-da-venerdi-sulle-strade_5f51d78d-6026-430c-b417-131beefdc0ce.html",
+     "data": "2026-08-20T13:39:13+00:00"
+    },
+    {
      "titolo": "Il caldo non allenta la morsa al Sud, sabato bollini rossi per Bari e Palermo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/il-caldo-non-allenta-la-morsa-al-sud-sabato-bollini-rossi-per-bari_8c1ea78b-b236-4a5d-b89b-ce8d3316b56c.html",
      "data": "2026-08-20T12:58:20+00:00"
     },
     {
-     "titolo": "Allerta arancione per maltempo in Veneto e Liguria, il caldo non allenta la morsa al Sud",
+     "titolo": "Allerta arancione in Veneto, Toscana e Liguria, in tilt la sala comando della stazione di Ventimiglia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/allerta-arancione-per-maltempo-in-veneto-e-liguria-il-caldo-non-allenta-la-morsa_c3619ca5-9061-4188-a414-b72c05338bad.html",
-     "data": "2026-08-20T13:08:42+00:00"
+     "data": "2026-08-20T13:41:34+00:00"
     },
     {
      "titolo": "Arrestato l'uomo che si era lanciato in auto con la moglie nel porto",
@@ -153,7 +163,7 @@
     {
      "titolo": "Morto in cantiere A1, la procura di Prato sequestra l'area",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/morto-in-cantiere-a1-procura-prato-sequestra-larea-del-pilone_b267a5c7-8908-42fc-a47f-9ac7c31e94b6.html",
-     "data": "2026-08-20T11:59:24+00:00"
+     "data": "2026-08-20T13:38:48+00:00"
     },
     {
      "titolo": "Il Papa vede Aoun, Santa Sede sostiene l'intesa per la pace",
@@ -174,22 +184,17 @@
      "titolo": "Sindacato, scongiurata un'evasione dal carcere di Torino",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/sindacato-scongiurata-unevasione-dal-carcere-di-torino_296706aa-bdd0-4ed8-b8e1-cf963d1dede2.html",
      "data": "2026-08-20T11:03:36+00:00"
-    },
-    {
-     "titolo": "Sette migranti morti, intossicati nella stiva dal monossido di carbonio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/sette-migranti-morti-intossicati-nella-stiva-dal-monossido-di-carbonio_7592eeca-6ca7-42e2-8b38-c51b091d66d0.html",
-     "data": "2026-08-20T10:46:23+00:00"
-    },
-    {
-     "titolo": "Violenta una turista che non trova l'ostello, arrestato a Milano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/violenta-una-turista-che-non-trova-lostello-arrestato-a-milano_cc33717d-96f4-492b-b468-04a32adb54ae.html",
-     "data": "2026-08-20T10:39:28+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Consigliere comunale pro-Vannacci elogia la Decima Mas, è polemica a Genova",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/consigliere-comunale-pro-vannacci-elogia-la-decima-mas-e-polemica-a-genova_0577e6fe-3627-4372-b0b4-53fd78814eca.html",
+     "data": "2026-08-20T13:59:38+00:00"
+    },
     {
      "titolo": "'Lega rinnovata o una Pontida di rivolta', striscione sul pratone",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/lega-rinnovata-o-una-pontida-di-rivolta-striscione-sul-pratone_3aa61e6d-03b1-4ea2-b4bc-7432377cafd2.html",
@@ -214,16 +219,6 @@
      "titolo": "Conte,Report spina nel fianco di un Governo che vuole TeleMeloni",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/19/contereport-spina-nel-fianco-di-un-governo-che-vuole-telemeloni_9ce28c1a-9842-4db7-bfc4-61392012daf3.html",
      "data": "2026-08-19T14:49:08+00:00"
-    },
-    {
-     "titolo": "Gasparri: 'Singolare lo sforzo di Ranucci di difendere Lavitola'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/19/gasparri-singolare-lo-sforzo-di-ranucci-di-difendere-lavitola_8716b66f-3fcf-4878-9a85-383558a3eefe.html",
-     "data": "2026-08-19T10:22:12+00:00"
-    },
-    {
-     "titolo": "Il Papa, 'Sviluppare in noi un'autentica coscienza di pace",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/19/il-papa-sviluppare-in-noi-unautentica-coscienza-di-pace_ff28808a-16c7-4914-8af6-27884ffaf75d.html",
-     "data": "2026-08-19T08:56:24+00:00"
     }
    ]
   },
@@ -231,14 +226,24 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "++ Il petrolio in rialzo a New York a 88,16 dollari, Brent supera 94 dollari ++",
+     "titolo": "Borsa: l'Europa debole dopo Wall Street, in rialzo gas e petrolio",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-leuropa-debole-dopo-wall-street-in-rialzo-gas-e-petrolio_5b17fa6d-bedc-4a7f-b1c5-4ffb101bcf39.html",
+     "data": "2026-08-20T13:48:02+00:00"
+    },
+    {
+     "titolo": "Wall Street apre in calo, Dj -0,80%, Nasdaq -0,39%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/wall-street-apre-in-calo-dj-080-nasdaq-039_8d756f16-ea71-45b0-a723-eb3634fc257c.html",
+     "data": "2026-08-20T13:37:47+00:00"
+    },
+    {
+     "titolo": "Il d-day di Trump contro l'Iran scalda il petrolio, a New York Brent supera 94 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-petrolio-in-rialzo-a-new-york-a-8816-dollari-brent-supera-94-dollari_a91ccf43-aad4-4a1d-b3a0-067fa7e57851.html",
-     "data": "2026-08-20T13:17:17+00:00"
+     "data": "2026-08-20T13:21:59+00:00"
     },
     {
      "titolo": "Il buyback di Bessent non basta, Treasury bruciano i guadagni",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-buyback-di-bessent-non-basta-treasury-bruciano-i-guadagni_fb253e83-db47-4bae-8d2c-6efbf4210469.html",
-     "data": "2026-08-20T13:14:10+00:00"
+     "data": "2026-08-20T13:23:00+00:00"
     },
     {
      "titolo": "Il risiko bancario non scalda la Borsa, Mps +0,6%",
@@ -248,7 +253,7 @@
     {
      "titolo": "Unem, a luglio benzina rafforza crescita, +3,1%, record per il jet fuel, +3,6%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/unem-a-luglio-benzina-rafforza-crescita-31-record-per-il-jet-fuel-36_922c7f3d-4d83-429d-8c89-dc081ff5be5f.html",
-     "data": "2026-08-20T13:10:39+00:00"
+     "data": "2026-08-20T13:24:28+00:00"
     },
     {
      "titolo": "Borsa: Milano gira in calo, Ftse Mib -0,07%",
@@ -279,16 +284,6 @@
      "titolo": "Uilm, oltre 50mila metalmeccanici coinvolti nei tavoli di crisi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/uilm-oltre-50mila-metalmeccanici-coinvolti-nei-tavoli-di-crisi_192574a7-8313-4cfe-a43e-97335981c7d8.html",
      "data": "2026-08-20T11:20:37+00:00"
-    },
-    {
-     "titolo": "Poste sbarca nella pet economy, via alle polizze per Fido",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/poste-sbarca-nella-pet-economy-via-alle-polizze-per-fido_bc451a72-a831-446d-9293-c7dda9b3277a.html",
-     "data": "2026-08-20T11:21:31+00:00"
-    },
-    {
-     "titolo": "La benzina schizza sopra 2 euro al litro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/la-benzina-schizza-sopra-2-euro-al-litro_dab2ba0c-b4b4-4324-83dd-43e6c536409f.html",
-     "data": "2026-08-20T09:12:33+00:00"
     }
    ]
   },
@@ -426,6 +421,31 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Sassuolo, difficile il recupero di Berardi contro l'Atalanta",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/sassuolo-difficile-il-recupero-di-berardi-contro-latalanta_aba61006-4abf-4621-a393-2a55c7df0cbd.html",
+     "data": "2026-08-20T13:48:22+00:00"
+    },
+    {
+     "titolo": "Monza: Juric 'Inter di un altro pianeta, noi in emergenza infortuni e mercato'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/monza-juric-inter-di-un-altro-pianeta-noi-in-emergenza-infortuni-e-mercato_48a7be5e-e265-4545-a7b1-bf5e2806ef77.html",
+     "data": "2026-08-20T13:46:24+00:00"
+    },
+    {
+     "titolo": "Aia: Massini presenta la sua squadra, 'progetto aperto a tutte le energie'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/aia-massini-presenta-la-sua-squadra-progetto-aperto-a-tutte-le-energie_fb0a18c7-8954-49e6-afdb-85b641760f8b.html",
+     "data": "2026-08-20T13:47:12+00:00"
+    },
+    {
+     "titolo": "Calcio: Milan; primo allenamento per Diego Moreira, disponibile con il Torino",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/calcio-milan-primo-allenamento-per-diego-moreira-disponibile-con-il-torino_7185264e-d138-4223-b3cf-e89025f48ff6.html",
+     "data": "2026-08-20T13:22:03+00:00"
+    },
+    {
+     "titolo": "Calcio: Udinese, contro il Como l'unico innesto è l'ex Vojvoda",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/calcio-udinese-contro-il-como-lunico-innesto-e-lex-vojvoda_6f672625-6859-41fd-8270-9721aed14f47.html",
+     "data": "2026-08-20T13:15:44+00:00"
+    },
+    {
      "titolo": "Curtis Jones nelle prossime ore a Milano, domani le visite",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/curtis-jones-nelle-prossime-ore-a-milano-domani-le-visite_6df5962f-c085-4f81-a9c6-8b032220b954.html",
      "data": "2026-08-20T13:09:56+00:00"
@@ -459,31 +479,6 @@
      "titolo": "Mourinho: 'I migliori sono al Real, Yamal un campione ma a noi non serve'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/mourinho-i-migliori-sono-al-real-yamal-un-campione-ma-a-noi-non-serve_a1c57f5d-23be-4e3d-9ee5-634a5488f833.html",
      "data": "2026-08-20T11:52:11+00:00"
-    },
-    {
-     "titolo": "Mekies: \"Il rinnovo di Verstappen ci dà fiducia per tornare a vincere\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/20/mekies-il-rinnovo-di-verstappen-ci-da-fiducia-per-tornare-a-vincere_0ef03e64-f77f-4ad5-9fa5-012c82c3e379.html",
-     "data": "2026-08-20T11:07:33+00:00"
-    },
-    {
-     "titolo": "A Trento in campo in amichevole sia le azzurre sia gli azzurri",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/20/a-trento-in-campo-in-amichevole-sia-le-azzurre-sia-gli-azzurri_db8b92f9-9231-4e71-baad-cdf412ab3eab.html",
-     "data": "2026-08-20T09:30:13+00:00"
-    },
-    {
-     "titolo": "La Cittadella del Rugby di Parma intitolata all'ex presidente Fir Dondi",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/20/la-cittadella-del-rugby-di-parma-intitolata-allex-presidente-fir-dondi_70ca24ba-cb46-4efe-b0f9-1f1b30ec9ef5.html",
-     "data": "2026-08-20T07:50:20+00:00"
-    },
-    {
-     "titolo": "Verstappen rinnova con la Red Bull fino al 2030: 'Tutta la carriera qui, è speciale'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/20/verstappen-rinnova-con-la-red-bull-fino-al-2030-tutta-la-carriera-qui_b926fcbe-d411-4b1d-994d-3267f82f49c0.html",
-     "data": "2026-08-20T09:35:12+00:00"
-    },
-    {
-     "titolo": "Tennis: Cobolli rimonta Jodar, è nei quarti a Cincinnati",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/20/tennis-cobolli-rimonta-jodar-e-nei-quarti-a-cincinnati-_222c6f23-8a3b-4f59-959c-f78f42a2101f.html",
-     "data": "2026-08-20T07:15:37+00:00"
     }
    ]
   }
