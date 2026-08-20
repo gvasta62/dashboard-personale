@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-20T12:18:31.081061+00:00",
+ "aggiornato": "2026-08-20T13:23:06.867350+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il buyback di Bessent non basta, Treasury bruciano i guadagni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/il-buyback-di-bessent-non-basta-treasury-bruciano-i-guadagni_61de47fc-bca7-4e89-a3dd-b0bd0841f007.html",
+     "data": "2026-08-20T13:13:27+00:00"
+    },
+    {
+     "titolo": "L''Ecce Homo' di Antonello da Messina da L'Aquila al Meeting di Rimini",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/lecce-homo-di-antonello-da-messina-da-laquila-al-meeting-di-rimini_304c6af5-9468-46eb-b0a0-955c65cd161b.html",
+     "data": "2026-08-20T12:46:58+00:00"
+    },
     {
      "titolo": "Burnham augura 'il meglio' a Harry e Meghan, 'sicurezza è questione privata'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/burnham-augura-il-meglio-a-harry-e-meghan-sicurezza-e-questione-privata_03e3f5ec-5e25-4786-9c12-9922664180e2.html",
@@ -44,22 +54,17 @@
      "titolo": "Faye Dunaway a Venezia per il premio Kineo alla carriera",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/faye-dunaway-a-venezia-per-il-premio-kineo-alla-carriera_72e183ed-fb26-4930-81b4-92af6e68ade8.html",
      "data": "2026-08-20T10:42:39+00:00"
-    },
-    {
-     "titolo": "La benzina schizza sopra 2 euro al litro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/la-benzina-schizza-sopra-2-euro-al-litro_83fd41a4-f587-439e-8e14-1de307c5a7eb.html",
-     "data": "2026-08-20T09:12:35+00:00"
-    },
-    {
-     "titolo": "Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/sale-il-petrolio-brent-sopra-93-dollari-con-guerra-economica-devastante-di-trump_c9d6de8c-4790-4186-b520-3aaf5b387349.html",
-     "data": "2026-08-20T08:51:54+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Ad Assisi Madonnari dal mondo, opere ispirate a San Francesco",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/ad-assisi-madonnari-dal-mondo-opere-ispirate-a-san-francesco_3e354c6d-1b04-4cd1-8904-14c7bbb12a11.html",
+     "data": "2026-08-20T12:20:50+00:00"
+    },
     {
      "titolo": "Cucinelli, San Francesco consiglierebbe di chiamare 'umana' intelligenza artificiale",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/cucinelli-san-francesco-consiglierebbe-di-chiamare-umana-intelligenza-artificiale_a8eb84c7-9b7c-4d80-853f-138573d46c2f.html",
@@ -114,17 +119,27 @@
      "titolo": "A Gualdo Tadino sarà riqualificata l'area di piazza Mazzini",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/19/a-gualdo-tadino-sara-riqualificata-larea-di-piazza-mazzini_050f09dd-76ab-4477-84f7-da057ceb3fc2.html",
      "data": "2026-08-19T09:35:33+00:00"
-    },
-    {
-     "titolo": "Norcia si mobilita per il sacerdote del sisma, 'don Davide non si tocca'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/19/norcia-si-mobilita-per-il-sacerdote-del-sisma-don-davide-non-si-tocca_bb4bb202-7da7-4e24-919a-3b5f9b1f2a7d.html",
-     "data": "2026-08-19T08:45:13+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Il caldo non allenta la morsa al Sud, sabato bollini rossi per Bari e Palermo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/il-caldo-non-allenta-la-morsa-al-sud-sabato-bollini-rossi-per-bari_8c1ea78b-b236-4a5d-b89b-ce8d3316b56c.html",
+     "data": "2026-08-20T12:58:20+00:00"
+    },
+    {
+     "titolo": "Allerta arancione per maltempo in Veneto e Liguria, il caldo non allenta la morsa al Sud",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/allerta-arancione-per-maltempo-in-veneto-e-liguria-il-caldo-non-allenta-la-morsa_c3619ca5-9061-4188-a414-b72c05338bad.html",
+     "data": "2026-08-20T13:08:42+00:00"
+    },
+    {
+     "titolo": "Arrestato l'uomo che si era lanciato in auto con la moglie nel porto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/arrestato-luomo-che-si-era-lanciato-in-auto-con-la-moglie-nel-porto_f4e43c3f-7284-46f8-98c5-91c8aa8cc1b4.html",
+     "data": "2026-08-20T12:40:58+00:00"
+    },
     {
      "titolo": "Morte avvelenate, in questura confronto tra Di Vita e una amica",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/morte-avvelenate-in-questura-confronto-tra-di-vita-e-una-amica_3fb4e56c-5518-4fa5-9153-19d4a09e6fe7.html",
@@ -169,21 +184,6 @@
      "titolo": "Violenta una turista che non trova l'ostello, arrestato a Milano",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/violenta-una-turista-che-non-trova-lostello-arrestato-a-milano_cc33717d-96f4-492b-b468-04a32adb54ae.html",
      "data": "2026-08-20T10:39:28+00:00"
-    },
-    {
-     "titolo": "Incendio sul Morrone, oggi l'attacco decisivo alle fiamme",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/incendio-sul-morrone-oggi-lattacco-decisivo-alle-fiamme_345d6c85-fc35-44dd-9727-85424dc819b2.html",
-     "data": "2026-08-20T10:32:18+00:00"
-    },
-    {
-     "titolo": "Violenza sessuale su due minorenni, arrestato un 18enne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/violenza-sessuale-su-due-minorenni-arrestato-un-18enne_0b46cfc2-7941-4b3e-90e2-a3c0dd14fa4a.html",
-     "data": "2026-08-20T10:22:57+00:00"
-    },
-    {
-     "titolo": "Incidente sul lavoro in un cantiere ad Ancona, fuori pericolo gli operai",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/incidente-sul-lavoro-in-un-cantiere-ad-ancona-fuori-pericolo-gli-operai_9e796579-8316-46d1-8b8c-f60b3b131b03.html",
-     "data": "2026-08-20T10:07:58+00:00"
     }
    ]
   },
@@ -231,6 +231,36 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "++ Il petrolio in rialzo a New York a 88,16 dollari, Brent supera 94 dollari ++",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-petrolio-in-rialzo-a-new-york-a-8816-dollari-brent-supera-94-dollari_a91ccf43-aad4-4a1d-b3a0-067fa7e57851.html",
+     "data": "2026-08-20T13:17:17+00:00"
+    },
+    {
+     "titolo": "Il buyback di Bessent non basta, Treasury bruciano i guadagni",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-buyback-di-bessent-non-basta-treasury-bruciano-i-guadagni_fb253e83-db47-4bae-8d2c-6efbf4210469.html",
+     "data": "2026-08-20T13:14:10+00:00"
+    },
+    {
+     "titolo": "Il risiko bancario non scalda la Borsa, Mps +0,6%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-risiko-bancario-non-scalda-la-borsa-mps-06_2c1b5f01-94ee-42e5-bc22-1444ede534ca.html",
+     "data": "2026-08-20T13:19:27+00:00"
+    },
+    {
+     "titolo": "Unem, a luglio benzina rafforza crescita, +3,1%, record per il jet fuel, +3,6%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/unem-a-luglio-benzina-rafforza-crescita-31-record-per-il-jet-fuel-36_922c7f3d-4d83-429d-8c89-dc081ff5be5f.html",
+     "data": "2026-08-20T13:10:39+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano gira in calo, Ftse Mib -0,07%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-milano-gira-in-calo-ftse-mib-007_efb56395-7c9c-4f95-8276-80ed62950912.html",
+     "data": "2026-08-20T12:25:24+00:00"
+    },
+    {
+     "titolo": "Zecca dello Stato, Palla o Campo? La Serie A ha la sua moneta ufficiale",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/poligrafico-palla-o-campo-la-serie-a-ha-la-sua-moneta-ufficiale_6a696847-de03-4bab-a2de-44c9a292dce7.html",
+     "data": "2026-08-20T12:48:12+00:00"
+    },
+    {
      "titolo": "Future sul gas superano la soglia dei 65 euro al megawattora",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/future-sul-gas-sulla-soglia-dei-65-euro-al-megawattora_fded1360-3c6b-486b-83ee-8afd8ce1f47e.html",
      "data": "2026-08-20T11:48:51+00:00"
@@ -259,42 +289,27 @@
      "titolo": "La benzina schizza sopra 2 euro al litro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/la-benzina-schizza-sopra-2-euro-al-litro_dab2ba0c-b4b4-4324-83dd-43e6c536409f.html",
      "data": "2026-08-20T09:12:33+00:00"
-    },
-    {
-     "titolo": "Borsa, Milano sale con Eni ed energia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-milano-sale-con-eni-ed-energia_f92eda30-6c72-4e87-927c-9aad07ac930c.html",
-     "data": "2026-08-20T09:06:45+00:00"
-    },
-    {
-     "titolo": "Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/sale-il-petrolio-brent-sopra-93-dollari-con-guerra-economica-devastante-di-trump_e403a1a7-97c9-45b3-acb5-ab5bee42c96b.html",
-     "data": "2026-08-20T08:51:49+00:00"
-    },
-    {
-     "titolo": "La benzina schizza sopra i 2 euro al litro",
-     "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/20/la-benzina-schizza-sopra-i-2-euro-al-litro_9943e734-0299-4198-8152-fd3afd82d3b1.html",
-     "data": "2026-08-20T09:32:02+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa debole, guarda al 'D-day economico'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-europa-debole-guarda-al-d-day-economico_9ff97ecb-7b32-4557-b0aa-d61a4c95ed9e.html",
-     "data": "2026-08-20T07:48:11+00:00"
-    },
-    {
-     "titolo": "Il risiko bancario in Borsa, scatta Banca Generali +2,3%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-risiko-bancario-in-borsa-scatta-banca-generali-23_b9bf10a9-57f0-42f2-89bb-5c3e9d8c885d.html",
-     "data": "2026-08-20T07:43:39+00:00"
-    },
-    {
-     "titolo": "In corso il cda di Mps, sul tavolo le offerte per Bpm e Banca Generali",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/iniziato-il-cda-di-mps-sul-tavolo-le-offerte-per-bpm-e-banca-generali_56e45912-721e-4db6-8006-04d4bc02cd39.html",
-     "data": "2026-08-20T10:15:48+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Ucraina: salgono a 16 i morti nei raid aerei russi, Zelensky denuncia l'escalation",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/ucraina-salgono-a-16-i-morti-nei-raid-aerei-russi-zelensky-denuncia-lescalation_687531fd-cf89-4799-81ca-a97f956679a5.html",
+     "data": "2026-08-20T12:57:16+00:00"
+    },
+    {
+     "titolo": "Crollo in miniera d'oro in Centrafrica, missionaria 'dolore e tanta rabbia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/20/crollo-in-miniera-doro-in-centrafrica-missionaria-dolore-e-tanta-rabbia_3f81fbdb-065c-4977-9698-1d3b91cfa5dc.html",
+     "data": "2026-08-20T12:33:30+00:00"
+    },
+    {
+     "titolo": "Argentina, via libera a 6,4 miliardi di investimenti petroliferi a Vaca Muerta",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/argentina-via-libera-a-64-miliardi-di-investimenti-petroliferi-a-vaca-muerta_a24c75e2-7c20-4eab-84dc-86237940346d.html",
+     "data": "2026-08-20T12:26:12+00:00"
+    },
     {
      "titolo": "Melania Trump torna in pubblico con una nuova iniziativa per i giovani",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/20/melania-trump-torna-in-pubblico-con-una-nuova-iniziativa-per-i-giovani_f69a54a0-cb65-4676-9c57-9f051553c164.html",
@@ -339,21 +354,6 @@
      "titolo": "Teheran, 'D-Day Trump sarà un'altra politica fallimentare'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/teheran-d-day-trump-sara-unaltra-politica-fallimentare_3ed20c0f-ac79-4560-bbba-8532e64a943d.html",
      "data": "2026-08-20T07:03:20+00:00"
-    },
-    {
-     "titolo": "Ucraina, raid russo notturno su Kiev, Zelensky: 'Tredici morti e 40 feriti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/massiccio-attacco-russo-su-kiev-12-morti-e-32-feriti_687531fd-cf89-4799-81ca-a97f956679a5.html",
-     "data": "2026-08-20T11:58:01+00:00"
-    },
-    {
-     "titolo": "Almeno 12 morti nel raid russo notturno su Kiev",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/almeno-12-morti-nel-raid-russo-notturno-su-kiev_3fba1283-1b67-4841-be28-b6d5afe620f9.html",
-     "data": "2026-08-20T05:40:05+00:00"
-    },
-    {
-     "titolo": "Il fondatore del colosso immobiliare cinese Evergrande condannato all'ergastolo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/20/fondatore-del-colosso-immobiliare-cinese-evergrande-condannato-allergastolo_946248ab-de07-4197-9517-c16e5f8c9833.html",
-     "data": "2026-08-20T10:09:55+00:00"
     }
    ]
   },
@@ -426,6 +426,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Curtis Jones nelle prossime ore a Milano, domani le visite",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/curtis-jones-nelle-prossime-ore-a-milano-domani-le-visite_6df5962f-c085-4f81-a9c6-8b032220b954.html",
+     "data": "2026-08-20T13:09:56+00:00"
+    },
+    {
+     "titolo": "Calcio: Mastantuono, mi piacerebbe entrare nella storia della Fiorentina",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/calcio-mastantuono-mi-piacerebbe-entrare-nella-storia-della-fiorentina_dca63f6e-2cb1-4448-8bb6-cca2f8d2ca29.html",
+     "data": "2026-08-20T12:49:52+00:00"
+    },
+    {
+     "titolo": "Genoa: De Rossi 'Napoli più forte di noi, serve la partita perfetta'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/genoa-de-rossi-napoli-piu-forte-di-noi-serve-la-partita-perfetta_5184d964-c07b-4573-a901-85a36ba371f1.html",
+     "data": "2026-08-20T12:14:33+00:00"
+    },
+    {
      "titolo": "Calcio: Orsolini nuova bandiera del Bologna, rinnova fino al 2031",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/calcio-orsolini-nuova-bandiera-del-bologna-rinnova-fino-al-2031_fc8ba71a-9c60-4d11-999f-d2e4c86787e9.html",
      "data": "2026-08-20T12:06:40+00:00"
@@ -469,21 +484,6 @@
      "titolo": "Tennis: Cobolli rimonta Jodar, è nei quarti a Cincinnati",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/20/tennis-cobolli-rimonta-jodar-e-nei-quarti-a-cincinnati-_222c6f23-8a3b-4f59-959c-f78f42a2101f.html",
      "data": "2026-08-20T07:15:37+00:00"
-    },
-    {
-     "titolo": "Messi torna a segnare in Mls dopo la morte del padre",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/messi-torna-a-segnare-in-mls-dopo-la-morte-del-padre_e951c97b-5fc9-4261-8d6b-5a24a8b724a5.html",
-     "data": "2026-08-20T09:36:05+00:00"
-    },
-    {
-     "titolo": "Tennis: nuovo flop Sabalenka, a Cincinnati eliminata da una ventenne ceca",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-nuovo-flop-sabalenka-a-cincinnati-eliminata-da-una-ventenne-ceca_cb326787-3842-4cb5-9952-7fa3c40bd9da.html",
-     "data": "2026-08-20T04:17:20+00:00"
-    },
-    {
-     "titolo": "Tennis: Musetti batte Faria e vola ai quarti di Cincinnati",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-musetti-batte-faria-e-vola-ai-quarti-di-cincinnati_e2eb5d0b-41a2-464e-bb09-6a24ad1d4e79.html",
-     "data": "2026-08-20T07:17:53+00:00"
     }
    ]
   }
