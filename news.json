@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-20T10:52:52.750314+00:00",
+ "aggiornato": "2026-08-20T11:14:06.724485+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il Papa, la guerra è un fallimento politico e morale",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/il-papa-la-guerra-e-un-fallimento-politico-e-morale_87945d91-c6ac-4a72-9774-ef64b68c1f88.html",
+     "data": "2026-08-20T11:09:11+00:00"
+    },
     {
      "titolo": "Faye Dunaway a Venezia per il premio Kineo alla carriera",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/faye-dunaway-a-venezia-per-il-premio-kineo-alla-carriera_72e183ed-fb26-4930-81b4-92af6e68ade8.html",
@@ -49,11 +54,6 @@
      "titolo": "Giappone, le esportazioni crescono a livelli record in luglio +23,2%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/giappone-le-esportazioni-crescono-a-livelli-record-in-luglio-232_780eb634-525a-4583-b6be-97883baa6775.html",
      "data": "2026-08-20T01:30:14+00:00"
-    },
-    {
-     "titolo": "Archiviazione per morte operatori umanitari a Gaza, Australia 'indignata'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/archiviazione-per-morte-operatori-umanitari-a-gaza-australia-indignata_72096fda-a0db-4e19-8878-463ab6b55329.html",
-     "data": "2026-08-19T23:30:48+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Il Papa, la guerra è un fallimento politico e morale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/il-papa-la-guerra-e-un-fallimento-politico-e-morale_58fc2d23-9bd0-4b49-a1d8-2670f27c77b1.html",
+     "data": "2026-08-20T11:09:15+00:00"
+    },
+    {
+     "titolo": "Sindacato, scongiurata un'evasione dal carcere di Torino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/sindacato-scongiurata-unevasione-dal-carcere-di-torino_296706aa-bdd0-4ed8-b8e1-cf963d1dede2.html",
+     "data": "2026-08-20T11:03:36+00:00"
+    },
+    {
+     "titolo": "Sette migranti morti, intossicati nella stiva dal monossido di carbonio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/sette-migranti-morti-intossicati-nella-stiva-dal-monossido-di-carbonio_7592eeca-6ca7-42e2-8b38-c51b091d66d0.html",
+     "data": "2026-08-20T10:46:23+00:00"
+    },
+    {
      "titolo": "Violenta una turista che non trova l'ostello, arrestato a Milano",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/violenta-una-turista-che-non-trova-lostello-arrestato-a-milano_cc33717d-96f4-492b-b468-04a32adb54ae.html",
      "data": "2026-08-20T10:39:28+00:00"
@@ -169,21 +184,6 @@
      "titolo": "Fuga sostanze tossiche in cantiere ad Ancona, due operai in codice rosso",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/fuga-sostanze-tossiche-in-cantiere-ad-ancona-due-operai-in-codice-rosso_581dc29f-ff0d-4857-93bf-e491e1c6f6e4.html",
      "data": "2026-08-20T08:51:47+00:00"
-    },
-    {
-     "titolo": "Fuga di sostanze tossiche in un cantiere ad Ancona, fuori pericolo gli operai",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/fuga-sostanze-tossiche-in-cantiere-ad-ancona-due-operai-in-codice-rosso_4ae071c7-c064-46d4-8fdb-3d1619ca3dd3.html",
-     "data": "2026-08-20T10:09:57+00:00"
-    },
-    {
-     "titolo": "Furgone usato come ariete, spaccata in un compro oro a Torino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/furgone-usato-come-ariete-spaccata-in-un-compro-oro-a-torino_1388e7b0-1e3e-4c56-ba07-a38cd85dafa6.html",
-     "data": "2026-08-20T08:44:05+00:00"
-    },
-    {
-     "titolo": "La Life Support di Emergency arrivata al porto di Bari con 48 migranti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/salvati-i-57-migranti-su-una-nave-alla-deriva-sbarcati-a-lampedusa_35fd9384-d02a-4d09-a9de-36a51989ee0f.html",
-     "data": "2026-08-20T10:07:47+00:00"
     }
    ]
   },
@@ -230,6 +230,16 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Uilm, oltre 50mila metalmeccanici coinvolti nei tavoli di crisi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/uilm-oltre-50mila-metalmeccanici-coinvolti-nei-tavoli-di-crisi_192574a7-8313-4cfe-a43e-97335981c7d8.html",
+     "data": "2026-08-20T10:54:22+00:00"
+    },
+    {
+     "titolo": "Poste sbarca nella pet economy, via alle polizze per Fido",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/poste-sbarca-nella-pet-economy-via-alle-polizze-per-fido_bc451a72-a831-446d-9293-c7dda9b3277a.html",
+     "data": "2026-08-20T10:54:40+00:00"
+    },
     {
      "titolo": "La benzina schizza sopra 2 euro al litro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/la-benzina-schizza-sopra-2-euro-al-litro_dab2ba0c-b4b4-4324-83dd-43e6c536409f.html",
@@ -279,16 +289,6 @@
      "titolo": "Gas: future in rialzo a 63,5 euro al megawattora",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/gas-future-in-rialzo-a-635-euro-al-megawattora_041d778a-0ec7-484a-9f63-54286ec74f55.html",
      "data": "2026-08-20T06:46:31+00:00"
-    },
-    {
-     "titolo": "Borsa: Tokyo, chiusura in rialzo (+1,36%)",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-tokyo-chiusura-in-rialzo-136_b810d2a8-6b56-499a-8fdf-802f2553d65d.html",
-     "data": "2026-08-20T06:38:57+00:00"
-    },
-    {
-     "titolo": "Borsa: Asia chiude in rialzo, Europa incerta verso l'avvio",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-asia-chiude-in-rialzo-europa-incerta-verso-lavvio_b590523c-fa7c-476f-b9f5-370c4bc6e485.html",
-     "data": "2026-08-20T06:34:06+00:00"
     }
    ]
   },
@@ -426,6 +426,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Mekies: \"Il rinnovo di Verstappen ci dà fiducia per tornare a vincere\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/20/mekies-il-rinnovo-di-verstappen-ci-da-fiducia-per-tornare-a-vincere_0ef03e64-f77f-4ad5-9fa5-012c82c3e379.html",
+     "data": "2026-08-20T11:07:33+00:00"
+    },
+    {
      "titolo": "A Trento in campo in amichevole sia le azzurre sia gli azzurri",
      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/20/a-trento-in-campo-in-amichevole-sia-le-azzurre-sia-gli-azzurri_db8b92f9-9231-4e71-baad-cdf412ab3eab.html",
      "data": "2026-08-20T09:30:13+00:00"
@@ -479,11 +484,6 @@
      "titolo": "Hapoel Tel Aviv, 'proteste? Il calcio unisce le persone'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/hapoel-tel-aviv-proteste-il-calcio-unisce-le-persone_c9dc4fdb-d042-4f7a-8785-41af6fd6e97e.html",
      "data": "2026-08-19T18:29:51+00:00"
-    },
-    {
-     "titolo": "Reijnders saluta il City e sbarca in Arabia, giocherà con Retegui",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/reijnders-saluta-il-city-e-sbarca-in-arabia-giochera-con-retegui_02dbef78-0200-4e7e-ac84-f5c3dd2d06dc.html",
-     "data": "2026-08-19T18:28:45+00:00"
     }
    ]
   }
