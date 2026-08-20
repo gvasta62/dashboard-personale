@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-20T04:23:18.061719+00:00",
+ "aggiornato": "2026-08-20T04:59:35.832939+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Fondatore del colosso immobiliare cinese Evergrande condannato all'ergastolo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/fondatore-del-colosso-immobiliare-cinese-evergrande-condannato-allergastolo_b3219a43-20df-4825-a30b-2968e680d614.html",
+     "data": "2026-08-20T04:49:33+00:00"
+    },
     {
      "titolo": "Giappone, le esportazioni crescono a livelli record in luglio +23,2%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/giappone-le-esportazioni-crescono-a-livelli-record-in-luglio-232_780eb634-525a-4583-b6be-97883baa6775.html",
@@ -49,11 +54,6 @@
      "titolo": "Vice capo staff di Zelensky, 'sono indagata ma non sono stata arrestata'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/vice-capo-staff-di-zelensky-sono-indagata-ma-non-sono-stata-arrestata_d57e1707-606c-4e42-9124-161cb71cde81.html",
      "data": "2026-08-19T18:21:27+00:00"
-    },
-    {
-     "titolo": "Vienna rimanda i dublinanti in Italia, già quattro trasferiti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/vienna-rimanda-i-dublinanti-in-italia-gia-quattro-trasferiti_18048f6d-e8bd-4e6e-bb98-14860f8d514e.html",
-     "data": "2026-08-19T16:51:31+00:00"
     }
    ]
   },
@@ -291,6 +291,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Fondatore del colosso immobiliare cinese Evergrande condannato all'ergastolo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/20/fondatore-del-colosso-immobiliare-cinese-evergrande-condannato-allergastolo_946248ab-de07-4197-9517-c16e5f8c9833.html",
+     "data": "2026-08-20T04:49:37+00:00"
+    },
+    {
      "titolo": "Messico, in Senato la legge contro la povertà di tempo",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/messico-in-senato-la-legge-contro-la-poverta-di-tempo_1d3cbdb4-456a-417f-b861-6d95ee343d19.html",
      "data": "2026-08-20T04:12:02+00:00"
@@ -344,11 +349,6 @@
      "titolo": "Trump annuncia, 'da oggi guerra economica contro l'Iran'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-annuncia-da-oggi-guerra-economica-contro-liran_829f3bf0-c5dd-4309-9373-f1e75a70517f.html",
      "data": "2026-08-19T23:16:05+00:00"
-    },
-    {
-     "titolo": "Venezuela, rivoluzione tra i comandanti regionali della Guardia nazionale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/venezuela-rivoluzione-tra-i-comandanti-regionali-della-guardia-nazionale_9916f6d2-816b-4e23-96bd-9b1f8f9ac12d.html",
-     "data": "2026-08-19T23:07:35+00:00"
     }
    ]
   },
