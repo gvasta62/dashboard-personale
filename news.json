@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-20T11:48:25.362257+00:00",
+ "aggiornato": "2026-08-20T12:18:31.081061+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Burnham augura 'il meglio' a Harry e Meghan, 'sicurezza è questione privata'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/burnham-augura-il-meglio-a-harry-e-meghan-sicurezza-e-questione-privata_03e3f5ec-5e25-4786-9c12-9922664180e2.html",
+     "data": "2026-08-20T11:47:05+00:00"
+    },
     {
      "titolo": "Il Papa vede Aoun, Santa Sede sostiene l'intesa per la pace",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/il-papa-vede-aoun-santa-sede-sostiene-lintesa-per-la-pace_ed93ba35-4b09-4c6d-bf85-812cf831e219.html",
@@ -49,11 +54,6 @@
      "titolo": "Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/sale-il-petrolio-brent-sopra-93-dollari-con-guerra-economica-devastante-di-trump_c9d6de8c-4790-4186-b520-3aaf5b387349.html",
      "data": "2026-08-20T08:51:54+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa debole, guarda al 'D-day economico'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/borsa-europa-debole-guarda-al-d-day-economico_9acb6df4-279e-45d7-8113-f826758140e4.html",
-     "data": "2026-08-20T07:48:13+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Morte avvelenate, in questura confronto tra Di Vita e una amica",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/morte-avvelenate-in-questura-confronto-tra-di-vita-e-una-amica_3fb4e56c-5518-4fa5-9153-19d4a09e6fe7.html",
+     "data": "2026-08-20T12:10:10+00:00"
+    },
+    {
+     "titolo": "Aggredisce moglie e figlia a martellate, arrestato 55enne in Brianza",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/aggredisce-moglie-e-figlia-a-martellate-arrestato-55enne-in-brianza_8ccd5c8d-38ac-4900-8b4c-f4489ec5620f.html",
+     "data": "2026-08-20T11:53:45+00:00"
+    },
+    {
+     "titolo": "Morto in cantiere A1, la procura di Prato sequestra l'area",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/morto-in-cantiere-a1-procura-prato-sequestra-larea-del-pilone_b267a5c7-8908-42fc-a47f-9ac7c31e94b6.html",
+     "data": "2026-08-20T11:59:24+00:00"
+    },
+    {
      "titolo": "Il Papa vede Aoun, Santa Sede sostiene l'intesa per la pace",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/il-papa-vede-aoun-santa-sede-sostiene-lintesa-per-la-pace_078b9f67-c8e1-4a1c-a060-aa05be40248a.html",
      "data": "2026-08-20T11:41:45+00:00"
@@ -169,21 +184,6 @@
      "titolo": "Incidente sul lavoro in un cantiere ad Ancona, fuori pericolo gli operai",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/incidente-sul-lavoro-in-un-cantiere-ad-ancona-fuori-pericolo-gli-operai_9e796579-8316-46d1-8b8c-f60b3b131b03.html",
      "data": "2026-08-20T10:07:58+00:00"
-    },
-    {
-     "titolo": "Alpinista rimane sospeso alla parete di roccia, salvato nella notte",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/alpinista-rimane-sospeso-alla-parete-di-roccia-salvato-nella-notte_61b8cdc9-35c7-4607-afca-d944590b2fbd.html",
-     "data": "2026-08-20T09:53:38+00:00"
-    },
-    {
-     "titolo": "Era dato per disperso in montagna, ma si trovava in un bivacco",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/era-dato-per-disperso-in-montagna-ma-si-trovava-in-un-bivacco_f6ba2fc9-c5cd-4f16-bab5-b9686ed578ee.html",
-     "data": "2026-08-20T09:26:45+00:00"
-    },
-    {
-     "titolo": "Salgono a 19 i casi di contagio di febbre del Nilo nell'Oristanese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/salgono-a-19-i-casi-di-contagio-di-febbre-del-nilo-nelloristanese_6f1db862-0bc8-4afd-9c80-41d9cf8b594b.html",
-     "data": "2026-08-20T09:26:02+00:00"
     }
    ]
   },
@@ -231,9 +231,9 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Future sul gas sulla soglia dei 65 euro al megawattora",
+     "titolo": "Future sul gas superano la soglia dei 65 euro al megawattora",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/future-sul-gas-sulla-soglia-dei-65-euro-al-megawattora_fded1360-3c6b-486b-83ee-8afd8ce1f47e.html",
-     "data": "2026-08-20T11:46:57+00:00"
+     "data": "2026-08-20T11:48:51+00:00"
     },
     {
      "titolo": "Borsa: Europa in calo, Stoxx 600 verso record negativo. Milano +0,18%",
@@ -296,14 +296,44 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Melania Trump torna in pubblico con una nuova iniziativa per i giovani",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/20/melania-trump-torna-in-pubblico-con-una-nuova-iniziativa-per-i-giovani_f69a54a0-cb65-4676-9c57-9f051553c164.html",
+     "data": "2026-08-20T12:00:35+00:00"
+    },
+    {
+     "titolo": "La Groenlandia orientale invasa dalle balene giganti alla ricerca di cibo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/la-groenlandia-orientale-invasa-dalle-balene-giganti-alla-ricerca-di-cibo_38e93b56-04ea-4c5e-891a-f5380c1ba722.html",
+     "data": "2026-08-20T11:59:12+00:00"
+    },
+    {
+     "titolo": "Governo Spagna conta circa 2.500 migranti minori presenti a Ceuta",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/governo-spagna-conta-circa-2.500-migranti-minori-presenti-a-ceuta_a5e12ea0-0eac-4cfc-912a-ce3223bc46c0.html",
+     "data": "2026-08-20T11:54:04+00:00"
+    },
+    {
+     "titolo": "Idf evacua avamposto in Cisgiordania, scontri con i coloni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/idf-evacua-avamposto-in-cisgiordania-scontri-con-i-coloni_dab800c6-721b-4168-92de-4f58d57c7a90.html",
+     "data": "2026-08-20T11:52:47+00:00"
+    },
+    {
+     "titolo": "Esercito Usa, 'se rimani arruolato avrai un permesso per giocare a Gta VI'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/20/esercito-usa-se-rimani-arruolato-avrai-un-permesso-per-giocare-a-gta-vi_4a4841a2-202c-4af9-9dab-0e080553cf4e.html",
+     "data": "2026-08-20T11:52:55+00:00"
+    },
+    {
+     "titolo": "Burnham augura 'il meglio' a Harry e Meghan, 'sicurezza è questione privata'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/burnham-augura-il-meglio-a-harry-e-meghan-sicurezza-e-questione-privata_e318f23e-d8b2-4c99-8492-705b17f24d72.html",
+     "data": "2026-08-20T11:53:00+00:00"
+    },
+    {
      "titolo": "Ben-Gvir mostra in un video il cantiere della forca per i palestinesi",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/ben-gvir-mostra-in-un-video-il-cantiere-della-forca-per-i-palestinesi_c4f80813-1872-4dd4-a1a3-3ac1c4d245f3.html",
-     "data": "2026-08-20T11:42:05+00:00"
+     "data": "2026-08-20T11:53:07+00:00"
     },
     {
      "titolo": "Caccia rumeno distrugge drone marino vicino a struttura estrazione gas",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/caccia-rumeno-distrugge-drone-marino-vicino-a-struttura-estrazione-gas_c06ee674-0c8f-49ac-a950-74e6fa9796cc.html",
-     "data": "2026-08-20T11:37:22+00:00"
+     "data": "2026-08-20T11:53:14+00:00"
     },
     {
      "titolo": "Teheran, 'D-Day Trump sarà un'altra politica fallimentare'",
@@ -313,7 +343,7 @@
     {
      "titolo": "Ucraina, raid russo notturno su Kiev, Zelensky: 'Tredici morti e 40 feriti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/massiccio-attacco-russo-su-kiev-12-morti-e-32-feriti_687531fd-cf89-4799-81ca-a97f956679a5.html",
-     "data": "2026-08-20T10:38:21+00:00"
+     "data": "2026-08-20T11:58:01+00:00"
     },
     {
      "titolo": "Almeno 12 morti nel raid russo notturno su Kiev",
@@ -324,36 +354,6 @@
      "titolo": "Il fondatore del colosso immobiliare cinese Evergrande condannato all'ergastolo",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/20/fondatore-del-colosso-immobiliare-cinese-evergrande-condannato-allergastolo_946248ab-de07-4197-9517-c16e5f8c9833.html",
      "data": "2026-08-20T10:09:55+00:00"
-    },
-    {
-     "titolo": "Messico, in Senato la legge contro la povertà di tempo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/messico-in-senato-la-legge-contro-la-poverta-di-tempo_1d3cbdb4-456a-417f-b861-6d95ee343d19.html",
-     "data": "2026-08-20T04:12:02+00:00"
-    },
-    {
-     "titolo": "Messico, arrestato testimone del sequestro di 'El Mayo' Zambada",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/messico-arrestato-testimone-del-sequestro-di-el-mayo-zambada_8a3bc650-399e-45c6-9a53-9cdef158ddb4.html",
-     "data": "2026-08-20T01:56:09+00:00"
-    },
-    {
-     "titolo": "Canale di Panama, allo studio la riduzione dei transiti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/canale-di-panama-allo-studio-la-riduzione-dei-transiti_7611e96c-53b2-42ea-8943-3d24279adb9b.html",
-     "data": "2026-08-20T01:32:55+00:00"
-    },
-    {
-     "titolo": "Giappone, le esportazioni crescono a livelli record in luglio +23,2%",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/20/giappone-le-esportazioni-crescono-a-livelli-record-in-luglio-232_0a5e3fb5-ae79-4a39-836c-2cb18d3f8c33.html",
-     "data": "2026-08-20T01:30:16+00:00"
-    },
-    {
-     "titolo": "Stretta dell'Osa sul Nicaragua di Ortega",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/stretta-dellosa-sul-nicaragua-di-ortega_fc421d18-5bab-4431-a251-ad6c464e9e69.html",
-     "data": "2026-08-20T01:08:16+00:00"
-    },
-    {
-     "titolo": "Brasile, il presidente Lula riceve al Planalto l'avvocato del figlio Lulinha",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/brasile-il-presidente-lula-riceve-al-planalto-lavvocato-del-figlio-lulinha_5130111c-e009-42d4-8d31-80413454dff2.html",
-     "data": "2026-08-20T01:05:55+00:00"
     }
    ]
   },
@@ -426,9 +426,24 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Mourinho 'i migliori sono al Real, Yamal un campione ma a noi non serve'",
+     "titolo": "Calcio: Orsolini nuova bandiera del Bologna, rinnova fino al 2031",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/calcio-orsolini-nuova-bandiera-del-bologna-rinnova-fino-al-2031_fc8ba71a-9c60-4d11-999f-d2e4c86787e9.html",
+     "data": "2026-08-20T12:06:40+00:00"
+    },
+    {
+     "titolo": "Petagna passa dal Monza al Pisa a titolo definitivo",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/petagna-passa-dal-monza-al-pisa-a-titolo-definitivo_9cae10c7-fad6-4328-9d9e-96583049cdef.html",
+     "data": "2026-08-20T11:51:03+00:00"
+    },
+    {
+     "titolo": "Salta l'affare Bamba Dieng alla Lazio, non ha superato le visite mediche",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/salta-laffare-bamba-dieng-alla-lazio-non-ha-superato-le-visite-mediche_ec460856-2776-48bb-9a95-ef9d88a82864.html",
+     "data": "2026-08-20T11:49:52+00:00"
+    },
+    {
+     "titolo": "Mourinho: 'I migliori sono al Real, Yamal un campione ma a noi non serve'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/mourinho-i-migliori-sono-al-real-yamal-un-campione-ma-a-noi-non-serve_a1c57f5d-23be-4e3d-9ee5-634a5488f833.html",
-     "data": "2026-08-20T11:21:35+00:00"
+     "data": "2026-08-20T11:52:11+00:00"
     },
     {
      "titolo": "Mekies: \"Il rinnovo di Verstappen ci dà fiducia per tornare a vincere\"",
@@ -469,21 +484,6 @@
      "titolo": "Tennis: Musetti batte Faria e vola ai quarti di Cincinnati",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-musetti-batte-faria-e-vola-ai-quarti-di-cincinnati_e2eb5d0b-41a2-464e-bb09-6a24ad1d4e79.html",
      "data": "2026-08-20T07:17:53+00:00"
-    },
-    {
-     "titolo": "Tennis: Zverev eliminato a Cincinnati, sconfitto da Paul",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-zverev-eliminato-a-cincinnati-sconfitto-da-paul_ad430c61-0d2d-4508-9229-c36619026e0c.html",
-     "data": "2026-08-19T22:25:49+00:00"
-    },
-    {
-     "titolo": "Milan: ufficializzato l'arrivo di Diego Moreira",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/milan-ufficializzato-larrivo-di-diego-moreira_a0ce23bb-468f-4f4e-bb3f-7e2b5aa3b43a.html",
-     "data": "2026-08-19T20:31:34+00:00"
-    },
-    {
-     "titolo": "Ramos, Moreira e gli assistiti di Mendes: Amorim aspetta altri rinforzi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/ramos-moreira-e-gli-assistiti-di-mendes-amorim-aspetta-altri-rinforzi_77ace5f1-45a4-4f6d-bfbc-940b5e936c9b.html",
-     "data": "2026-08-19T19:35:19+00:00"
     }
    ]
   }
