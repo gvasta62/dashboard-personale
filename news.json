@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-20T19:07:10.946908+00:00",
+ "aggiornato": "2026-08-20T19:51:05.407709+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Terremoto di magnitudo 6,7 in Perù",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/terremoto-di-magnitudo-67-in-peru_4e66f1e9-a2e3-4e27-866d-b670e846c46a.html",
+     "data": "2026-08-20T19:06:04+00:00"
+    },
     {
      "titolo": "Mps proporrà un dividendo straordinario da 4 miliardi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/mps-proporra-un-dividendo-straordinario-da-4-miliardi_16010c56-4807-4f9c-8bb1-187b563ea318.html",
@@ -49,11 +54,6 @@
      "titolo": "Mattarella, impegno nazionale per occupazione e salute a Taranto",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/mattarella-impegno-nazionale-per-occupazione-e-salute-a-taranto_d934f3d4-4ae7-4deb-b18d-ed1b33c5bc69.html",
      "data": "2026-08-20T16:47:59+00:00"
-    },
-    {
-     "titolo": "Conte, capolavoro di Meloni, i rimpatri funzionano ma contro di noi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/conte-capolavoro-di-meloni-i-rimpatri-funzionano-ma-contro-di-noi_bf680099-4765-4bcf-be55-b221c0a8c19b.html",
-     "data": "2026-08-20T16:40:33+00:00"
     }
    ]
   },
@@ -163,7 +163,12 @@
     {
      "titolo": "Giuseppe che vive nel paese che non c'è più, 'io resto'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/giuseppe-che-vive-nel-paese-che-non-ce-piu-io-resto_c4517c15-0f40-4ab0-8727-39bba4462f45.html",
-     "data": "2026-08-20T18:59:11+00:00"
+     "data": "2026-08-20T19:08:41+00:00"
+    },
+    {
+     "titolo": "Il parco della memoria nella frazione cancellata dal sisma",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/il-parco-della-memoria-nella-frazione-cancellata-dal-sisma_8ad7671b-5c62-4670-9031-8813242b6d46.html",
+     "data": "2026-08-20T19:07:45+00:00"
     },
     {
      "titolo": "Pietro è il figlio del terremoto'. Simbolo della rinascita, ha 8 anni",
@@ -178,12 +183,7 @@
     {
      "titolo": "La lenta rinascita di Amatrice",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/la-lenta-rinascita-di-amatrice_9bc7a765-29f1-4d9e-9de3-afb3561e459d.html",
-     "data": "2026-08-20T18:58:48+00:00"
-    },
-    {
-     "titolo": "Bimba morta a 4 anni per sospetta difterite a Palermo, non era vaccinata",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/bimba-di-4-anni-muore-per-sospetta-difterite-a-palermo_88e2de87-751a-4c96-bd7c-517ffd0ff4ff.html",
-     "data": "2026-08-20T17:54:31+00:00"
+     "data": "2026-08-20T19:35:57+00:00"
     }
    ]
   },
@@ -198,7 +198,7 @@
     {
      "titolo": "La fronda del Nord: 'La Lega così non va, soluzione prima di Pontida'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/la-fronda-del-nord-la-lega-cosi-non-va-soluzione-prima-di-pontida_16f364ac-ed3e-480b-b172-f1efa95e2fa3.html",
-     "data": "2026-08-20T19:04:59+00:00"
+     "data": "2026-08-20T19:30:48+00:00"
     },
     {
      "titolo": "Aoun cerca sponde italiane su Unifil e forza alternativa",
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Terremoto di magnitudo 6,7 in Perù",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/terremoto-di-magnitudo-67-in-peru_a4e635d6-4e08-47e0-bba1-2b446236acc1.html",
+     "data": "2026-08-20T19:06:15+00:00"
+    },
+    {
+     "titolo": "Terremoto di magnitudo 6.7 in Perù",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/terremoto-di-magnitudo-6.7-in-peru_9ea1c7d2-cf64-47e0-acc1-87fc9fc4af7c.html",
+     "data": "2026-08-20T19:32:07+00:00"
+    },
+    {
      "titolo": "Il pm sullo scandalo delle cartelle cliniche al processo Maradona, 'tesa una trappola'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/il-pm-sullo-scandalo-delle-cartelle-cliniche-al-processo-maradona-tesa-una-trappola_1a1f799b-11ac-4b4c-9211-4b80dece66f6.html",
      "data": "2026-08-20T19:02:33+00:00"
@@ -333,7 +343,7 @@
     {
      "titolo": "Si allarga il caso dublinanti, anche Finlandia e Svezia li rimandano in Italia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/anche-la-svezia-trasferisce-i-migranti-in-italia-spagna-e-francia-no_f3081cbe-5518-4036-8bb9-84bc7317e174.html",
-     "data": "2026-08-20T18:41:19+00:00"
+     "data": "2026-08-20T19:12:52+00:00"
     },
     {
      "titolo": "Fonti Parigi all'ANSA, 'Francia per il momento non rimanderà i migranti in Italia'",
@@ -369,16 +379,6 @@
      "titolo": "Francia, Germania, Italia e Gb a Israele, 'stop a insediamenti in Cisgiordania'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/francia-germania-italia-e-gb-a-israele-stop-a-insediamenti-in-cisgiordania_c4417c78-34e9-4090-92cf-937460cdb0bb.html",
      "data": "2026-08-20T17:59:42+00:00"
-    },
-    {
-     "titolo": "Milei collega l'aborto alla diminuzione delle nascite e alle difficoltà della ripresa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/milei-collega-laborto-alla-diminuzione-delle-nascite-e-alle-difficolta-della_5cde59c6-2906-41b2-93ab-9f579f014c6b.html",
-     "data": "2026-08-20T16:57:44+00:00"
-    },
-    {
-     "titolo": "Alta tensione tra Turchia e Israele dopo il raid in Siria",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/alta-tensione-tra-turchia-e-israele-dopo-il-raid-in-siria_149c8c89-c30c-4022-b631-c337c1cf3913.html",
-     "data": "2026-08-20T16:50:22+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Dal Mondiale alla Serie C, Ronaldinho a Ravenna 'per lo spettacolo e per un gol'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/20/dal-mondiale-alla-serie-c-ronaldinho-a-ravenna-per-lo-spettacolo-e-per-un-gol_1062806e-4d6f-40fc-8f42-abcc21c6fa7a.html",
+     "data": "2026-08-20T19:15:07+00:00"
+    },
+    {
      "titolo": "Ronaldinho a 46 anni riparte dal Ravenna, porterò entusiasmo e spettacolo",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/ronaldinho-a-46-anni-riparte-dal-ravenna-portero-entusiasmo-e-spettacolo_8948747e-ce96-4e2a-917c-3919c0c50e79.html",
      "data": "2026-08-20T18:09:55+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Calcio: Cagliari, Trepy in ospedale e Pisacane pensa a Borrelli e Maldini",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/calcio-cagliari-trepy-in-ospedale-e-pisacane-pensa-a-borrelli-e-maldini_82a8231a-e87f-4564-9da3-25f2c15b24c4.html",
      "data": "2026-08-20T16:05:05+00:00"
-    },
-    {
-     "titolo": "Calcio: Moreira 'scioccato da chiamata Milan, momento giusto per arrivarci'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/calcio-moreira-scioccato-da-chiamata-milan-momento-giusto-per-arrivarci_8924108f-57ca-477b-ad3f-009a8f78d0cf.html",
-     "data": "2026-08-20T15:36:13+00:00"
     }
    ]
   }
