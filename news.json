@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-08-20T15:00:17.515311+00:00",
+ "aggiornato": "2026-08-20T15:54:15.951392+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Milano chiude in poco mossa (+0,09%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/borsa-milano-chiude-in-poco-mossa-009_008fd5b7-19ec-49b0-9b15-50ca072919b5.html",
+     "data": "2026-08-20T15:45:06+00:00"
+    },
+    {
+     "titolo": "Corte suprema annulla decisione governo Netanyahu di chiudere Army radio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/corte-suprema-annulla-decisione-governo-netanyahu-di-chiudere-army-radio_d7589f9f-7dd7-41ee-a7ae-dd54b37cb9f3.html",
+     "data": "2026-08-20T15:34:01+00:00"
+    },
+    {
+     "titolo": "Bessent, buyback Treasury potrebbe essere maggiore dei 4 miliardi annunciati",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/bessent-buyback-treasury-potrebbe-essere-maggiore-dei-4-miliardi-annunciati_b45f1c98-af8f-4fed-891d-f072f8465f84.html",
+     "data": "2026-08-20T15:31:09+00:00"
+    },
+    {
+     "titolo": "Imbarcazione si capovolge in Nigeria, 40 bambini morti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/imbarcazione-si-capovolge-in-nigeria-40-bambini-morti_2ac0b43e-2bc3-4c9d-82f0-6a494bd99a43.html",
+     "data": "2026-08-20T15:04:21+00:00"
+    },
+    {
+     "titolo": "Fossi (Pd), interesse per le parole di Meloni, ma aspettiamo i fatti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/fossi-pd-interesse-per-le-parole-di-meloni-ma-aspettiamo-i-fatti_94008626-5e9a-49a6-9dc3-bceb37734e0b.html",
+     "data": "2026-08-20T15:03:27+00:00"
+    },
     {
      "titolo": "Il cda di Mps approva le offerte di scambio per Bpm e Banca Generali",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/il-cda-di-mps-approva-le-offerte-di-scambio-per-bpm-e-banca-generali_618a8c24-e584-4253-a778-d85c787632a3.html",
@@ -29,31 +54,6 @@
      "titolo": "++ Il petrolio in rialzo a New York a 88,16 dollari, Brent supera 94 dollari ++",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/il-petrolio-in-rialzo-a-new-york-a-8816-dollari-brent-supera-94-dollari_3ac520a7-5b85-47ff-bc32-510e1c4e0b2e.html",
      "data": "2026-08-20T13:17:10+00:00"
-    },
-    {
-     "titolo": "Il buyback di Bessent non basta, Treasury bruciano i guadagni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/il-buyback-di-bessent-non-basta-treasury-bruciano-i-guadagni_61de47fc-bca7-4e89-a3dd-b0bd0841f007.html",
-     "data": "2026-08-20T13:13:27+00:00"
-    },
-    {
-     "titolo": "L''Ecce Homo' di Antonello da Messina da L'Aquila al Meeting di Rimini",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/lecce-homo-di-antonello-da-messina-da-laquila-al-meeting-di-rimini_304c6af5-9468-46eb-b0a0-955c65cd161b.html",
-     "data": "2026-08-20T12:46:58+00:00"
-    },
-    {
-     "titolo": "Burnham augura 'il meglio' a Harry e Meghan, 'sicurezza è questione privata'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/burnham-augura-il-meglio-a-harry-e-meghan-sicurezza-e-questione-privata_03e3f5ec-5e25-4786-9c12-9922664180e2.html",
-     "data": "2026-08-20T11:47:05+00:00"
-    },
-    {
-     "titolo": "Il Papa vede Aoun, Santa Sede sostiene l'intesa per la pace",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/il-papa-vede-aoun-santa-sede-sostiene-lintesa-per-la-pace_ed93ba35-4b09-4c6d-bf85-812cf831e219.html",
-     "data": "2026-08-20T11:41:40+00:00"
-    },
-    {
-     "titolo": "Ben-Gvir mostra in un video il cantiere della forca per i palestinesi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/ben-gvir-mostra-in-un-video-il-cantiere-della-forca-per-i-palestinesi_c7216835-b185-4dea-a6c3-5cc1866624a6.html",
-     "data": "2026-08-20T11:42:06+00:00"
     }
    ]
   },
@@ -63,7 +63,7 @@
     {
      "titolo": "L'Umbria attesa da un venerdì di maltempo con piaggia e temporali",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/lumbria-attesa-da-un-venerdi-di-maltempo-con-piaggia-e-temporali_33a18a0b-ed0b-4614-b69d-38e86516dcf3.html",
-     "data": "2026-08-20T14:34:41+00:00"
+     "data": "2026-08-20T15:41:31+00:00"
     },
     {
      "titolo": "Anche un movente ipotizzato da AI nel libro-analisi sul caso Garlasco",
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Flash mob ProPal in aeroporto a Cagliari contro i voli da Israele",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/flash-mob-propal-in-aeroporto-a-cagliari-contro-i-voli-da-israele_4232c665-f978-4b44-87b1-22782071a66d.html",
+     "data": "2026-08-20T15:45:45+00:00"
+    },
+    {
      "titolo": "Bimba di 4 anni muore per sospetta difterite a Palermo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/bimba-di-4-anni-muore-per-sospetta-difterite-a-palermo_88e2de87-751a-4c96-bd7c-517ffd0ff4ff.html",
      "data": "2026-08-20T14:49:17+00:00"
@@ -179,17 +184,22 @@
      "titolo": "Il Papa vede Aoun, Santa Sede sostiene l'intesa per la pace",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/il-papa-vede-aoun-santa-sede-sostiene-lintesa-per-la-pace_078b9f67-c8e1-4a1c-a060-aa05be40248a.html",
      "data": "2026-08-20T11:41:45+00:00"
-    },
-    {
-     "titolo": "Presidio ProPal all'aeroporto di Verona contro i voli da Israele",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/presidio-propal-allaeroporto-di-verona-contro-i-voli-da-israele_6f7df23d-3233-47ac-9cb9-d529f5913bb2.html",
-     "data": "2026-08-20T11:22:56+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Al Meeting di Rimini Roseline Hamel e Nassera Kermiche, 'sorelle di dolore'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/al-meeting-di-rimini-roseline-hamel-e-nassera-kermiche-sorelle-di-dolore_db6595e2-1261-4b9b-9be3-85e5c1185712.html",
+     "data": "2026-08-20T15:39:04+00:00"
+    },
+    {
+     "titolo": "Fossi (Pd), interesse per le parole di Meloni, ma aspettiamo i fatti",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/fossi-pd-interesse-per-le-parole-di-meloni-ma-aspettiamo-i-fatti_41ac8c19-8855-4469-85a2-a190f9a5e5a1.html",
+     "data": "2026-08-20T15:03:24+00:00"
+    },
     {
      "titolo": "Consigliere comunale pro-Vannacci elogia la Decima Mas, è polemica a Genova",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/consigliere-comunale-pro-vannacci-elogia-la-decima-mas-e-polemica-a-genova_0577e6fe-3627-4372-b0b4-53fd78814eca.html",
@@ -204,21 +214,6 @@
      "titolo": "Torna il Meeting di Cl, la grande attesa per il Papa",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/19/torna-il-meeting-di-cl-la-grande-attesa-per-il-papa_dbbe36ed-c086-4842-9931-6736a6567083.html",
      "data": "2026-08-19T17:05:22+00:00"
-    },
-    {
-     "titolo": "Borghi, 'nessuna spaccatura nella Lega, qualcuno fa casino e la stampa ci si butta'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/19/borghi-nessuna-spaccatura-nella-lega-qualcuno-fa-casino-e-la-stampa-ci-si-butta_1209d6f7-673d-4eeb-8e3a-d438a43f4d4a.html",
-     "data": "2026-08-19T15:01:45+00:00"
-    },
-    {
-     "titolo": "Nevi, Fi chiede che del caso Ranucci si occupi il Parlamento alla ripresa dei lavori",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/19/nevi-fi-chiede-che-del-caso-ranucci-si-occupi-il-parlamento-alla-ripresa_a10e27bf-d609-4afc-83d6-a9ca144cbe28.html",
-     "data": "2026-08-19T14:55:09+00:00"
-    },
-    {
-     "titolo": "Conte,Report spina nel fianco di un Governo che vuole TeleMeloni",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/19/contereport-spina-nel-fianco-di-un-governo-che-vuole-telemeloni_9ce28c1a-9842-4db7-bfc4-61392012daf3.html",
-     "data": "2026-08-19T14:49:08+00:00"
     }
    ]
   },
@@ -226,9 +221,34 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Il piano di Mps prevede il pagamento di un dividendo straordinario",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-piano-di-mps-prevede-il-pagamento-di-un-dividendo-straordinario_5fe64a98-2b0b-4fd5-8232-579c3bf5a7d6.html",
+     "data": "2026-08-20T15:42:15+00:00"
+    },
+    {
+     "titolo": "Bessent, buyback Treasury potrebbe essere maggiore dei 4 miliardi annunciati",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/bessent-buyback-treasury-potrebbe-essere-maggiore-dei-4-miliardi-annunciati_6bddaad5-e56b-4d17-ab31-dcbc0c24acbf.html",
+     "data": "2026-08-20T15:35:24+00:00"
+    },
+    {
+     "titolo": "Lollobrigida, 'in atto criminalizzazione del vino ma non è un veleno'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/lollobrigida-in-atto-criminalizzazione-del-vino-ma-non-e-un-veleno_303d140d-8412-48c5-baa7-3d5e23c6fe99.html",
+     "data": "2026-08-20T15:26:48+00:00"
+    },
+    {
+     "titolo": "Pichetto, falso che sul clima questo governo non abbia fatto nulla",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/pichetto-falso-che-sul-clima-questo-governo-non-abbia-fatto_c136aa6a-f85a-4eca-a2c0-0bad0eae0b30.html",
+     "data": "2026-08-20T15:12:56+00:00"
+    },
+    {
+     "titolo": "In Borsa scattano Banca Generali e Banco Bpm con la decisione di Mps",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/in-borsa-scattano-banca-generali-e-banco-bpm-con-la-decisione-di-mps_f9248fcd-1a50-49ea-bb5f-76c62ca64dc3.html",
+     "data": "2026-08-20T14:56:18+00:00"
+    },
+    {
      "titolo": "Il cda di Mps approva le offerte di scambio per Bpm e Banca Generali",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-cda-di-mps-approva-le-offerte-di-scambio-per-bpm-e-banca-generali_b70831b3-e799-4c17-a2b3-68a841cce972.html",
-     "data": "2026-08-20T14:54:15+00:00"
+     "data": "2026-08-20T15:42:18+00:00"
     },
     {
      "titolo": "Borsa: l'Europa debole dopo Wall Street, in rialzo gas e petrolio",
@@ -259,37 +279,32 @@
      "titolo": "Unem, a luglio benzina rafforza crescita, +3,1%, record per il jet fuel, +3,6%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/unem-a-luglio-benzina-rafforza-crescita-31-record-per-il-jet-fuel-36_922c7f3d-4d83-429d-8c89-dc081ff5be5f.html",
      "data": "2026-08-20T13:24:28+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano gira in calo, Ftse Mib -0,07%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-milano-gira-in-calo-ftse-mib-007_efb56395-7c9c-4f95-8276-80ed62950912.html",
-     "data": "2026-08-20T12:25:24+00:00"
-    },
-    {
-     "titolo": "Zecca dello Stato, Palla o Campo? La Serie A ha la sua moneta ufficiale",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/poligrafico-palla-o-campo-la-serie-a-ha-la-sua-moneta-ufficiale_6a696847-de03-4bab-a2de-44c9a292dce7.html",
-     "data": "2026-08-20T12:48:12+00:00"
-    },
-    {
-     "titolo": "Future sul gas superano la soglia dei 65 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/future-sul-gas-sulla-soglia-dei-65-euro-al-megawattora_fded1360-3c6b-486b-83ee-8afd8ce1f47e.html",
-     "data": "2026-08-20T11:48:51+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa in calo, Stoxx 600 verso record negativo. Milano +0,18%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-europa-in-calo-stoxx-600-verso-record-negativo_c902da28-e7ae-4193-9ab7-8b0a0bdf2b6f.html",
-     "data": "2026-08-20T11:31:08+00:00"
-    },
-    {
-     "titolo": "Ue, 'nessun rischio immediato su forniture di gas, stock al 62%'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/ue-nessun-rischio-immediato-su-forniture-di-gas-stock-al-62_f1caa094-e90b-459f-8e36-de8ad540fd1f.html",
-     "data": "2026-08-20T11:31:59+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Anche la Svezia trasferisce i migranti in Italia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/anche-la-svezia-trasferisce-i-migranti-in-italia_9144d879-8aea-419d-91f9-6514f349ac84.html",
+     "data": "2026-08-20T15:50:25+00:00"
+    },
+    {
+     "titolo": "Nuovo accordo del Venezuela con gli Usa su esplorazione e produzione di petrolio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/nuovo-accordo-del-venezuela-con-gli-usa-su-esplorazione-e-produzione-di-petrolio_044e3d01-a25f-404b-8573-16065c709e73.html",
+     "data": "2026-08-20T15:35:30+00:00"
+    },
+    {
+     "titolo": "Corte suprema annulla decisione governo Netanyahu di chiudere Army radio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/corte-suprema-annulla-decisione-governo-netanyahu-di-chiudere-army-radio_58b970a5-25c4-47f4-aa9a-4e7c11690383.html",
+     "data": "2026-08-20T15:34:21+00:00"
+    },
+    {
+     "titolo": "Imbarcazione si capovolge in Nigeria, 40 bambini morti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/20/imbarcazione-si-capovolge-in-nigeria-40-bambini-morti_cee45515-dce7-4e47-9a24-7bcbf1b97332.html",
+     "data": "2026-08-20T15:04:43+00:00"
+    },
     {
      "titolo": "Houthi attaccano aeroporto saudita e un impianto Aramco a Najran",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/houthi-attaccano-aeroporto-saudita-e-un-impianto-aramco-a-najran_b58f1078-4d3d-4865-95a9-3de65b2a9a51.html",
@@ -329,26 +344,6 @@
      "titolo": "La Groenlandia orientale invasa dalle balene giganti alla ricerca di cibo",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/la-groenlandia-orientale-invasa-dalle-balene-giganti-alla-ricerca-di-cibo_38e93b56-04ea-4c5e-891a-f5380c1ba722.html",
      "data": "2026-08-20T11:59:12+00:00"
-    },
-    {
-     "titolo": "Governo Spagna conta circa 2.500 migranti minori presenti a Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/governo-spagna-conta-circa-2.500-migranti-minori-presenti-a-ceuta_a5e12ea0-0eac-4cfc-912a-ce3223bc46c0.html",
-     "data": "2026-08-20T11:54:04+00:00"
-    },
-    {
-     "titolo": "Idf evacua avamposto in Cisgiordania, scontri con i coloni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/idf-evacua-avamposto-in-cisgiordania-scontri-con-i-coloni_dab800c6-721b-4168-92de-4f58d57c7a90.html",
-     "data": "2026-08-20T11:52:47+00:00"
-    },
-    {
-     "titolo": "Esercito Usa, 'se rimani arruolato avrai un permesso per giocare a Gta VI'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/20/esercito-usa-se-rimani-arruolato-avrai-un-permesso-per-giocare-a-gta-vi_4a4841a2-202c-4af9-9dab-0e080553cf4e.html",
-     "data": "2026-08-20T11:52:55+00:00"
-    },
-    {
-     "titolo": "Burnham augura 'il meglio' a Harry e Meghan, 'sicurezza è questione privata'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/burnham-augura-il-meglio-a-harry-e-meghan-sicurezza-e-questione-privata_e318f23e-d8b2-4c99-8492-705b17f24d72.html",
-     "data": "2026-08-20T11:53:00+00:00"
     }
    ]
   },
@@ -421,6 +416,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: Moreira 'scioccato da chiamata Milan, momento giusto per arrivarci'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/calcio-moreira-scioccato-da-chiamata-milan-momento-giusto-per-arrivarci_8924108f-57ca-477b-ad3f-009a8f78d0cf.html",
+     "data": "2026-08-20T15:36:13+00:00"
+    },
+    {
+     "titolo": "Napoli: visite mediche ok, Badiashile si è unito al gruppo di Allegri",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/napoli-visite-mediche-ok-badiashile-si-e-unito-al-gruppo-di-allegri_80825c53-42a3-4cd5-b304-f604decbed09.html",
+     "data": "2026-08-20T15:22:33+00:00"
+    },
+    {
+     "titolo": "Basket: al via la Roma di Doncic 'vogliamo giocarcela con tutti'",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/20/basket-al-via-la-roma-di-doncic-vogliamo-giocarcela-con-tutti_d6976beb-7aec-418f-bae5-0ccb4c4de500.html",
+     "data": "2026-08-20T15:19:45+00:00"
+    },
+    {
      "titolo": "L'Inter aspetta Jones, Spence lavora a parte",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/linter-aspetta-jones-spence-lavora-a-parte_3f957cf1-3f75-46f4-acbe-f3e8e0896837.html",
      "data": "2026-08-20T14:41:40+00:00"
@@ -464,21 +474,6 @@
      "titolo": "Curtis Jones nelle prossime ore a Milano, domani le visite",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/curtis-jones-nelle-prossime-ore-a-milano-domani-le-visite_6df5962f-c085-4f81-a9c6-8b032220b954.html",
      "data": "2026-08-20T13:09:56+00:00"
-    },
-    {
-     "titolo": "Calcio: Mastantuono, mi piacerebbe entrare nella storia della Fiorentina",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/calcio-mastantuono-mi-piacerebbe-entrare-nella-storia-della-fiorentina_dca63f6e-2cb1-4448-8bb6-cca2f8d2ca29.html",
-     "data": "2026-08-20T12:49:52+00:00"
-    },
-    {
-     "titolo": "Genoa: De Rossi 'Napoli più forte di noi, serve la partita perfetta'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/genoa-de-rossi-napoli-piu-forte-di-noi-serve-la-partita-perfetta_5184d964-c07b-4573-a901-85a36ba371f1.html",
-     "data": "2026-08-20T12:14:33+00:00"
-    },
-    {
-     "titolo": "Calcio: Orsolini nuova bandiera del Bologna, rinnova fino al 2031",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/calcio-orsolini-nuova-bandiera-del-bologna-rinnova-fino-al-2031_fc8ba71a-9c60-4d11-999f-d2e4c86787e9.html",
-     "data": "2026-08-20T12:06:40+00:00"
     }
    ]
   }
