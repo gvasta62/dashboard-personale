@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-20T21:14:55.075855+00:00",
+ "aggiornato": "2026-08-20T21:49:23.231110+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Zelensky sanziona a 5 cittadini e 4 organizzazioni russi legati a 'Masha e Orso'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/zelensky-sanziona-a-5-cittadini-e-4-organizzazioni-russi-legati-a-masha-e-orso_8387498e-4e62-446e-b7c5-0f15ec076ad5.html",
+     "data": "2026-08-20T21:43:56+00:00"
+    },
     {
      "titolo": "Melania Trump torna in pubblico alla Casa Bianca con 'Fostering the Future'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/melania-trump-torna-in-pubblico-alla-casa-bianca-con-fostering-the_e49f3602-2dd5-46cf-9c61-739e997473f4.html",
@@ -49,11 +54,6 @@
      "titolo": "Salvini, rispettare storia e autonomia di Mps, fieri del suo rilancio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/salvini-rispettare-storia-e-autonomia-di-mps-fieri-del-suo-rilancio_9fc1ea98-c073-4c0c-902e-0f985814e6df.html",
      "data": "2026-08-20T16:51:16+00:00"
-    },
-    {
-     "titolo": "Romeo, la Lega così non va, prima di Pontida serve soluzione",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/romeo-la-lega-cosi-non-va-prima-di-pontida-serve-soluzione_c83cca2a-36bb-44ac-a6cd-1a52e19d3821.html",
-     "data": "2026-08-20T16:48:29+00:00"
     }
    ]
   },
@@ -321,6 +321,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Zelensky sanziona a 5 cittadini e 4 organizzazioni russi legati a 'Masha e Orso'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/zelensky-sanziona-a-5-cittadini-e-4-organizzazioni-russi-legati-a-masha-e-orso_6a0f65e0-4d40-408b-925f-30f00ea8dbe2.html",
+     "data": "2026-08-20T21:43:58+00:00"
+    },
+    {
+     "titolo": "Messico, sequestrate a Mexicali 4 milioni di dosi di fentanyl",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/messico-sequestrate-a-mexicali-4-milioni-di-dosi-di-fentanyl_7bb4dcc9-36d7-4697-9827-461ac9c35c0f.html",
+     "data": "2026-08-20T21:33:49+00:00"
+    },
+    {
+     "titolo": "Venezuela, l'aeroporto di Maiquetía riapre ai voli commerciali il 24 agosto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/venezuela-laeroporto-di-maiquetia-riapre-ai-voli-commerciali-il-24-agosto_355813ae-55ef-436c-89e2-f7827fc60b7f.html",
+     "data": "2026-08-20T21:29:24+00:00"
+    },
+    {
+     "titolo": "Colombia, De La Espriella presenta i nuovi vertici delle Forze armate",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/colombia-de-la-espriella-presenta-i-nuovi-vertici-delle-forze-armate_c2704a4f-3dc1-4012-8691-7dab13fc718a.html",
+     "data": "2026-08-20T21:25:34+00:00"
+    },
+    {
+     "titolo": "Ecuador, Usa sanzionano 15 persone e bloccano 10 imbarcazioni per narcotraffico",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/ecuador-usa-sanzionano-15-persone-e-bloccano-10-imbarcazioni-per-narcotraffico_217bd27b-b94d-42c7-97a2-39e822fb10dc.html",
+     "data": "2026-08-20T21:15:09+00:00"
+    },
+    {
      "titolo": "Melania Trump torna in pubblico alla Casa Bianca con 'Fostering the Future'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/20/melania-trump-torna-in-pubblico-alla-casa-bianca-con-fostering-the_d22acea7-441d-499c-80cc-2f0bac670735.html",
      "data": "2026-08-20T20:19:52+00:00"
@@ -354,31 +379,6 @@
      "titolo": "Fonti Parigi all'ANSA, 'Francia per il momento non rimanderà i migranti in Italia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/fonti-parigi-allansa-francia-per-il-momento-non-rimandera-i-migranti-in-italia_9270176e-45b9-48b2-b212-2e579c4c0dee.html",
      "data": "2026-08-20T17:59:17+00:00"
-    },
-    {
-     "titolo": "Il presidente del Libano Joseph Aoun in visita a Cascia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/il-presidente-del-libano-joseph-aoun-in-visita-a-cascia_9dc2e37c-0f9a-493a-bde5-ac3d51d701cb.html",
-     "data": "2026-08-20T17:34:24+00:00"
-    },
-    {
-     "titolo": "Dalla flotta ombra alle banche, i Paesi vicini all'Iran nel mirino Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/dalla-flotta-ombra-alle-banche-i-paesi-vicini-alliran-nel-mirino_e35a16dd-40bb-4c20-b884-18786284bfb1.html",
-     "data": "2026-08-20T17:35:37+00:00"
-    },
-    {
-     "titolo": "Trump dichiara la guerra economica all'Iran, 'sarà un D-Day'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-dichiara-la-guerra-economica-alliran-sara-un-d-day_b326cf4f-c42a-4e3a-82e9-962954422924.html",
-     "data": "2026-08-20T18:26:06+00:00"
-    },
-    {
-     "titolo": "Libia, dialogo 4+4 a Tunisi, siglata bozza di accordo finale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/libia-dialogo-44-a-tunisi-siglata-bozza-di-accordo-finale_62648b25-6251-439a-9028-b10a0fcf8bd8.html",
-     "data": "2026-08-20T17:02:58+00:00"
-    },
-    {
-     "titolo": "Francia, Germania, Italia e Gb a Israele, 'stop a insediamenti in Cisgiordania'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/francia-germania-italia-e-gb-a-israele-stop-a-insediamenti-in-cisgiordania_0d2f11ac-e62f-4a87-a7f5-816763b89a16.html",
-     "data": "2026-08-20T17:02:19+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Conference: Sarri, prestazione positiva, ma pensiamo ancora troppo",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/conference-sarri-prestazione-positiva-ma-pensiamo-ancora-troppo_bbf0b226-f9ba-45c7-ac67-e50455a70b1e.html",
+     "data": "2026-08-20T21:29:26+00:00"
+    },
+    {
      "titolo": "Conference League: Atalanta in rodaggio, 0-0 con l'Hapoel Tel Aviv",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/conference-league-atalanta-in-rodaggio-0-0-con-lhapoel-tel-aviv_690cbe5f-953d-4a2d-84c8-ae8c4569a366.html",
      "data": "2026-08-20T20:49:53+00:00"
@@ -504,11 +509,6 @@
      "titolo": "F1: Vasseur 'ora il presente, vedremo se saremo in lotta per il titolo'",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/20/f1-vasseur-ora-il-presente-vedremo-se-saremo-in-lotta-per-il-titolo_61738018-0f69-4db3-9524-e76e11dec6ac.html",
      "data": "2026-08-20T16:29:21+00:00"
-    },
-    {
-     "titolo": "Frosinone: Stirpe 'nessun caso Alvini, ora serve la sintesi tra la base e i nuovi'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/frosinone-stirpe-nessun-caso-alvini-ora-serve-la-sintesi-tra-la-base_94f35633-3792-4a12-a00d-5ca486dae236.html",
-     "data": "2026-08-20T16:21:23+00:00"
     }
    ]
   }
