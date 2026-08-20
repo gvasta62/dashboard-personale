@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-20T16:57:00.698145+00:00",
+ "aggiornato": "2026-08-20T17:20:23.904997+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Khrzhanovsky difende Dau, 'sul mio film distorsioni sostanziali'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/khrzhanovsky-difende-dau-sul-mio-film-distorsioni-sostanziali_0dbb11a3-619f-4020-8c7b-6191063bb735.html",
+     "data": "2026-08-20T17:09:01+00:00"
+    },
+    {
+     "titolo": "Francia, Germania, Italia e Gb a Israele, 'stop a insediamenti in Cisgiordania'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/francia-germania-italia-e-gb-a-israele-stop-a-insediamenti-in-cisgiordania_b9ba4fe0-7cd4-44a2-ad27-44356a9d1bb1.html",
+     "data": "2026-08-20T17:01:59+00:00"
+    },
     {
      "titolo": "Romeo: 'La Lega così non va, prima di Pontida serve una soluzione'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/romeo-la-lega-cosi-non-va-prima-di-pontida-serve-una-soluzione_cb81db41-5a64-41fa-b7ae-b944b134ca1c.html",
@@ -44,16 +54,6 @@
      "titolo": "Schlein, sospendere Schengen boomerang clamoroso per Meloni",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/schlein-sospendere-schengen-boomerang-clamoroso-per-meloni_30f88979-a853-4920-8333-a0930bbd96c3.html",
      "data": "2026-08-20T16:17:08+00:00"
-    },
-    {
-     "titolo": "Fossi (Pd), interesse per le parole di Meloni su Mps, ma aspettiamo i fatti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/fossi-pd-interesse-per-le-parole-di-meloni-su-mps-ma-aspettiamo-i-fatti_9ca83046-5334-4980-8d15-b2b707bbf901.html",
-     "data": "2026-08-20T16:15:03+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude in rialzo a 81 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-81-punti_5cbf2070-5004-43ca-9efb-bae36472213a.html",
-     "data": "2026-08-20T16:09:03+00:00"
     }
    ]
   },
@@ -146,6 +146,11 @@
      "data": "2026-08-20T15:45:45+00:00"
     },
     {
+     "titolo": "Giuseppe che vive nel paese che non c'è più, 'io resto'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/giuseppe-che-vive-nel-paese-che-non-ce-piu-io-resto_c4517c15-0f40-4ab0-8727-39bba4462f45.html",
+     "data": "2026-08-20T17:03:51+00:00"
+    },
+    {
      "titolo": "Pietro è il figlio del terremoto'. Simbolo della rinascita, ha 8 anni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/pietro-e-il-figlio-del-terremoto.-simbolo-della-rinascita-ha-8-anni_75405d17-2928-4d86-b6f5-8fadbb495624.html",
      "data": "2026-08-20T16:26:59+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Esodo estivo, bollino rosso a partire da venerdì sulle strade",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/esodo-estivo-bollino-rosso-a-partire-da-venerdi-sulle-strade_5f51d78d-6026-430c-b417-131beefdc0ce.html",
      "data": "2026-08-20T13:39:13+00:00"
-    },
-    {
-     "titolo": "Cnr: 'Dallo studio del sisma di Amatrice conoscenze e strumenti'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/cnr-dallo-studio-del-sisma-di-amatrice-conoscenze-e-strumenti_26313d6b-f900-4023-9a21-b33c585e6354.html",
-     "data": "2026-08-20T16:27:02+00:00"
     }
    ]
   },
@@ -256,14 +256,34 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Mattarella e Meloni in campo per Taranto. Premier, a settembre tavoli ex Ilva",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/mattarella-e-meloni-in-campo-per-taranto.-premier-a-settembre-tavoli-ex-ilva_5ca48d3a-adac-4231-8156-3614faff2a72.html",
+     "data": "2026-08-20T16:53:15+00:00"
+    },
+    {
      "titolo": "Meloni, a settembre tavolo ex Ilva e per lo sviluppo di Taranto",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/meloni-a-settembre-tavolo-ex-ilva-e-per-lo-sviluppo-di-taranto_a2f27429-e230-40de-b54c-3ab65a15d357.html",
      "data": "2026-08-20T16:41:08+00:00"
     },
     {
+     "titolo": "Da Messina a Lovaglio, i protagonisti del risiko bancario",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/da-messina-a-lovaglio-i-protagonisti-del-risiko-bancario_676ab9d0-dc0f-4c41-9ae7-06b605c34b02.html",
+     "data": "2026-08-20T16:56:49+00:00"
+    },
+    {
      "titolo": "Il prezzo del gas sale a 65,85 euro al megawattora",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-prezzo-del-gas-sale-a-6585-euro-al-megawattora_a03f22f6-b4f8-42be-8d7d-a21a4ec35ba8.html",
      "data": "2026-08-20T16:27:06+00:00"
+    },
+    {
+     "titolo": "Banco Bpm, 1.400 sportelli e 3,6 milioni di clienti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/banco-bpm-1.400-sportelli-e-36-milioni-di-clienti_aa91cfbf-6f6b-4be5-a4d0-86a26fdac052.html",
+     "data": "2026-08-20T17:02:02+00:00"
+    },
+    {
+     "titolo": "Banca Generali, tra consulenza e gestione del patrimonio",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/banca-generali-tra-consulenza-e-gestione-del-patrimonio_e8387fc0-6daf-4dd8-8af9-210f7fb6751e.html",
+     "data": "2026-08-20T17:00:09+00:00"
     },
     {
      "titolo": "Borsa: Milano chiude poco mossa, lente sul risiko bancario",
@@ -294,32 +314,32 @@
      "titolo": "Il piano di Mps prevede il pagamento di un dividendo straordinario",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-piano-di-mps-prevede-il-pagamento-di-un-dividendo-straordinario_5fe64a98-2b0b-4fd5-8232-579c3bf5a7d6.html",
      "data": "2026-08-20T15:42:15+00:00"
-    },
-    {
-     "titolo": "Bessent, buyback Treasury potrebbe essere maggiore dei 4 miliardi annunciati",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/bessent-buyback-treasury-potrebbe-essere-maggiore-dei-4-miliardi-annunciati_6bddaad5-e56b-4d17-ab31-dcbc0c24acbf.html",
-     "data": "2026-08-20T15:35:24+00:00"
-    },
-    {
-     "titolo": "Lollobrigida, 'in atto criminalizzazione del vino ma non è un veleno'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/lollobrigida-in-atto-criminalizzazione-del-vino-ma-non-e-un-veleno_303d140d-8412-48c5-baa7-3d5e23c6fe99.html",
-     "data": "2026-08-20T15:26:48+00:00"
-    },
-    {
-     "titolo": "Pichetto, falso che sul clima questo governo non abbia fatto nulla",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/pichetto-falso-che-sul-clima-questo-governo-non-abbia-fatto_c136aa6a-f85a-4eca-a2c0-0bad0eae0b30.html",
-     "data": "2026-08-20T15:12:56+00:00"
-    },
-    {
-     "titolo": "In Borsa scattano Banca Generali e Banco Bpm con la decisione di Mps",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/in-borsa-scattano-banca-generali-e-banco-bpm-con-la-decisione-di-mps_f9248fcd-1a50-49ea-bb5f-76c62ca64dc3.html",
-     "data": "2026-08-20T14:56:18+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Libia, dialogo 4+4 a Tunisi, siglata bozza di accordo finale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/libia-dialogo-44-a-tunisi-siglata-bozza-di-accordo-finale_62648b25-6251-439a-9028-b10a0fcf8bd8.html",
+     "data": "2026-08-20T17:02:58+00:00"
+    },
+    {
+     "titolo": "Francia, Germania, Italia e Gb a Israele, 'stop a insediamenti in Cisgiordania'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/francia-germania-italia-e-gb-a-israele-stop-a-insediamenti-in-cisgiordania_c4417c78-34e9-4090-92cf-937460cdb0bb.html",
+     "data": "2026-08-20T17:02:17+00:00"
+    },
+    {
+     "titolo": "Francia, Germania, Italia e Gb a Israele, 'stop a insediamenti in Cisgiordania'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/francia-germania-italia-e-gb-a-israele-stop-a-insediamenti-in-cisgiordania_0d2f11ac-e62f-4a87-a7f5-816763b89a16.html",
+     "data": "2026-08-20T17:02:19+00:00"
+    },
+    {
+     "titolo": "Milei collega l'aborto alla diminuzione delle nascite e alle difficoltà della ripresa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/milei-collega-laborto-alla-diminuzione-delle-nascite-e-alle-difficolta-della_5cde59c6-2906-41b2-93ab-9f579f014c6b.html",
+     "data": "2026-08-20T16:57:44+00:00"
+    },
     {
      "titolo": "Alta tensione tra Turchia e Israele dopo il raid in Siria",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/alta-tensione-tra-turchia-e-israele-dopo-il-raid-in-siria_149c8c89-c30c-4022-b631-c337c1cf3913.html",
@@ -359,26 +379,6 @@
      "titolo": "Usa, portaerei Washington è arrivata in Medio Oriente per sostituire la Lincoln",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/20/usa-portaerei-washington-e-arrivata-in-medio-oriente-per-sostituire-la-lincoln_948870a1-d932-404e-a637-87846ea23ba0.html",
      "data": "2026-08-20T14:38:51+00:00"
-    },
-    {
-     "titolo": "La Finlandia il quarto Paese a rimandare in Italia i migranti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/la-finlandia-il-quarto-paese-a-rimandare-in-italia-i-migranti_8a613f17-738d-4771-9b6a-86a607a4570e.html",
-     "data": "2026-08-20T14:12:08+00:00"
-    },
-    {
-     "titolo": "Ucraina: salgono a 16 i morti nei raid aerei russi, Zelensky denuncia l'escalation",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/ucraina-salgono-a-16-i-morti-nei-raid-aerei-russi-zelensky-denuncia-lescalation_687531fd-cf89-4799-81ca-a97f956679a5.html",
-     "data": "2026-08-20T12:57:16+00:00"
-    },
-    {
-     "titolo": "Crollo in miniera d'oro in Centrafrica, missionaria 'dolore e tanta rabbia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/20/crollo-in-miniera-doro-in-centrafrica-missionaria-dolore-e-tanta-rabbia_3f81fbdb-065c-4977-9698-1d3b91cfa5dc.html",
-     "data": "2026-08-20T12:33:30+00:00"
-    },
-    {
-     "titolo": "Argentina, via libera a 6,4 miliardi di investimenti petroliferi a Vaca Muerta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/argentina-via-libera-a-64-miliardi-di-investimenti-petroliferi-a-vaca-muerta_a24c75e2-7c20-4eab-84dc-86237940346d.html",
-     "data": "2026-08-20T12:26:12+00:00"
     }
    ]
   },
