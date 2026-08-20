@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-20T18:18:27.130788+00:00",
+ "aggiornato": "2026-08-20T19:07:10.946908+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -63,12 +63,12 @@
     {
      "titolo": "Il presidente del Libano Joseph Aoun in visita a Cascia",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/il-presidente-del-libano-joseph-aoun-in-visita-a-cascia_06ab5c2e-a56f-4000-b254-7efb5e950a2b.html",
-     "data": "2026-08-20T17:34:24+00:00"
+     "data": "2026-08-20T18:43:19+00:00"
     },
     {
      "titolo": "Da lunedì 24 agosto tornano i treni tra Ponte San Giovanni e Fontivegge",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/da-lunedi-24-agosto-tornano-i-treni-tra-ponte-san-giovanni-e-fontivegge_080bdf0b-9aef-48fb-aa72-c325deff0e5f.html",
-     "data": "2026-08-20T16:05:25+00:00"
+     "data": "2026-08-20T18:44:59+00:00"
     },
     {
      "titolo": "L'Umbria attesa da un venerdì di maltempo con piaggia e temporali",
@@ -136,6 +136,11 @@
      "data": "2026-08-20T17:51:43+00:00"
     },
     {
+     "titolo": "Riparte la Flottilla, questa volta contro il piano di Kushner",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/riparte-la-flottilla-questa-volta-contro-il-piano-di-kushner_a5ca77f8-5cfc-4b74-809f-85d8b44406e6.html",
+     "data": "2026-08-20T18:24:07+00:00"
+    },
+    {
      "titolo": "Nord della Lombardia sferzato dal maltempo, frane e allagamenti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/nord-della-lombardia-sferzato-dal-maltempo-frane-e-allagamenti_8fe5ee35-318e-4de4-8b9d-cfdaf4f6a6b5.html",
      "data": "2026-08-20T16:53:41+00:00"
@@ -158,7 +163,7 @@
     {
      "titolo": "Giuseppe che vive nel paese che non c'è più, 'io resto'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/giuseppe-che-vive-nel-paese-che-non-ce-piu-io-resto_c4517c15-0f40-4ab0-8727-39bba4462f45.html",
-     "data": "2026-08-20T17:03:51+00:00"
+     "data": "2026-08-20T18:59:11+00:00"
     },
     {
      "titolo": "Pietro è il figlio del terremoto'. Simbolo della rinascita, ha 8 anni",
@@ -173,23 +178,33 @@
     {
      "titolo": "La lenta rinascita di Amatrice",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/la-lenta-rinascita-di-amatrice_9bc7a765-29f1-4d9e-9de3-afb3561e459d.html",
-     "data": "2026-08-20T18:03:07+00:00"
+     "data": "2026-08-20T18:58:48+00:00"
     },
     {
      "titolo": "Bimba morta a 4 anni per sospetta difterite a Palermo, non era vaccinata",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/bimba-di-4-anni-muore-per-sospetta-difterite-a-palermo_88e2de87-751a-4c96-bd7c-517ffd0ff4ff.html",
      "data": "2026-08-20T17:54:31+00:00"
-    },
-    {
-     "titolo": "Ex bulla si riscatta, dalla baby gang al volontariato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/ex-bulla-si-riscatta-dalla-baby-gang-al-volontariato_341b06a9-e28a-4126-bc53-c653c0729d65.html",
-     "data": "2026-08-20T16:35:29+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "La vita oltre le sbarre, al Meeting le storie di riscatto",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/la-vita-oltre-le-sbarre-al-meeting-le-storie-di-riscatto_a420c780-9431-4639-9897-0e219d954fdc.html",
+     "data": "2026-08-20T19:00:11+00:00"
+    },
+    {
+     "titolo": "La fronda del Nord: 'La Lega così non va, soluzione prima di Pontida'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/la-fronda-del-nord-la-lega-cosi-non-va-soluzione-prima-di-pontida_16f364ac-ed3e-480b-b172-f1efa95e2fa3.html",
+     "data": "2026-08-20T19:04:59+00:00"
+    },
+    {
+     "titolo": "Aoun cerca sponde italiane su Unifil e forza alternativa",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/aoun-cerca-sponde-italiane-su-unifil-e-forza-alternativa_b75454ac-7cf8-45f8-aabf-83313321d820.html",
+     "data": "2026-08-20T18:55:21+00:00"
+    },
     {
      "titolo": "Ranucci e le accuse di molestie, centrodestra all'attacco",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/ranucci-e-le-accuse-di-molestie-centrodestra-allattacco_939e406b-50ab-4722-a50c-ca4b9657c9f1.html",
@@ -234,21 +249,6 @@
      "titolo": "Meloni, a settembre tavolo ex Ilva e per lo sviluppo di Taranto",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/meloni-a-settembre-tavolo-ex-ilva-e-per-lo-sviluppo-di-taranto_a705038a-34ad-4f39-b4ef-21392f07ac22.html",
      "data": "2026-08-20T16:40:48+00:00"
-    },
-    {
-     "titolo": "Schlein, sospendere Schengen boomerang clamoroso per Meloni",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/schlein-sospendere-schengen-boomerang-clamoroso-per-meloni_cff46e93-2426-48be-a607-43a965137347.html",
-     "data": "2026-08-20T16:17:08+00:00"
-    },
-    {
-     "titolo": "Fossi (Pd), interesse per le parole di Meloni su Mps, ma aspettiamo i fatti",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/fossi-pd-interesse-per-le-parole-di-meloni-su-mps-ma-aspettiamo-i-fatti_2e43ab94-feac-42ea-adca-51723c7bc4c8.html",
-     "data": "2026-08-20T16:15:06+00:00"
-    },
-    {
-     "titolo": "Al Meeting di Rimini Roseline Hamel e Nassera Kermiche, 'sorelle di dolore'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/al-meeting-di-rimini-roseline-hamel-e-nassera-kermiche-sorelle-di-dolore_db6595e2-1261-4b9b-9be3-85e5c1185712.html",
-     "data": "2026-08-20T15:39:04+00:00"
     }
    ]
   },
@@ -256,9 +256,14 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Il petrolio chiude in rialzo a New York a 87,83 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-petrolio-chiude-in-rialzo-a-new-york-a-8783-dollari_ffd1b2cf-caec-4fce-959d-ad23ce15f533.html",
+     "data": "2026-08-20T18:37:27+00:00"
+    },
+    {
      "titolo": "Mps proporrà un dividendo straordinario da 4 miliardi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/mps-proporra-un-dividendo-straordinario-da-4-miliardi_01eb3fae-e8bc-4173-b920-139acfa16083.html",
-     "data": "2026-08-20T18:07:38+00:00"
+     "data": "2026-08-20T18:30:37+00:00"
     },
     {
      "titolo": "Mattarella e Meloni in campo per Taranto. Premier, a settembre tavoli ex Ilva",
@@ -309,11 +314,6 @@
      "titolo": "Mps chiude in Borsa a -0,3% con il via libera alle mosse difensive",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/mps-chiude-in-borsa-a-03-con-il-via-libera-alle-mosse-difensive_a340522d-9b81-4164-a5ef-379151e4c156.html",
      "data": "2026-08-20T15:54:54+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in poco mossa (+0,09%)",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-milano-chiude-in-poco-mossa-009_ffd948e3-eb7f-469a-bcf5-fdf211a48a5f.html",
-     "data": "2026-08-20T15:45:03+00:00"
     }
    ]
   },
@@ -321,14 +321,19 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Il pm sullo scandalo delle cartelle cliniche al processo Maradona, 'tesa una trappola'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/il-pm-sullo-scandalo-delle-cartelle-cliniche-al-processo-maradona-tesa-una-trappola_1a1f799b-11ac-4b4c-9211-4b80dece66f6.html",
+     "data": "2026-08-20T19:02:33+00:00"
+    },
+    {
      "titolo": "Fonti Madrid all'ANSA, no alle espulsioni dei dublinanti",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/fonti-madrid-allansa-no-alle-espulsioni-dei-dublinanti_2586aad1-4a2c-423f-916d-b560121f99c9.html",
      "data": "2026-08-20T17:59:11+00:00"
     },
     {
-     "titolo": "Anche la Svezia trasferisce i migranti in Italia, Spagna e Francia no",
+     "titolo": "Si allarga il caso dublinanti, anche Finlandia e Svezia li rimandano in Italia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/anche-la-svezia-trasferisce-i-migranti-in-italia-spagna-e-francia-no_f3081cbe-5518-4036-8bb9-84bc7317e174.html",
-     "data": "2026-08-20T18:01:37+00:00"
+     "data": "2026-08-20T18:41:19+00:00"
     },
     {
      "titolo": "Fonti Parigi all'ANSA, 'Francia per il momento non rimanderà i migranti in Italia'",
@@ -344,6 +349,11 @@
      "titolo": "Dalla flotta ombra alle banche, i Paesi vicini all'Iran nel mirino Usa",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/dalla-flotta-ombra-alle-banche-i-paesi-vicini-alliran-nel-mirino_e35a16dd-40bb-4c20-b884-18786284bfb1.html",
      "data": "2026-08-20T17:35:37+00:00"
+    },
+    {
+     "titolo": "Trump dichiara la guerra economica all'Iran, 'sarà un D-Day'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-dichiara-la-guerra-economica-alliran-sara-un-d-day_b326cf4f-c42a-4e3a-82e9-962954422924.html",
+     "data": "2026-08-20T18:26:06+00:00"
     },
     {
      "titolo": "Libia, dialogo 4+4 a Tunisi, siglata bozza di accordo finale",
@@ -369,16 +379,6 @@
      "titolo": "Alta tensione tra Turchia e Israele dopo il raid in Siria",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/alta-tensione-tra-turchia-e-israele-dopo-il-raid-in-siria_149c8c89-c30c-4022-b631-c337c1cf3913.html",
      "data": "2026-08-20T16:50:22+00:00"
-    },
-    {
-     "titolo": "Anche la Svezia trasferisce i migranti in Italia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/anche-la-svezia-trasferisce-i-migranti-in-italia_9144d879-8aea-419d-91f9-6514f349ac84.html",
-     "data": "2026-08-20T16:05:07+00:00"
-    },
-    {
-     "titolo": "Nuovo accordo del Venezuela con gli Usa su esplorazione e produzione di petrolio",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/nuovo-accordo-del-venezuela-con-gli-usa-su-esplorazione-e-produzione-di-petrolio_044e3d01-a25f-404b-8573-16065c709e73.html",
-     "data": "2026-08-20T15:35:30+00:00"
     }
    ]
   },
@@ -461,6 +461,11 @@
      "data": "2026-08-20T17:36:06+00:00"
     },
     {
+     "titolo": "l'Italia comincia dalla Croazia, Velasco: 'La prima è delicata'",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/20/litalia-comincia-dalla-croazia-velasco-la-prima-e-delicata_1cfbea9e-25c7-4ae3-be47-86fde2793a15.html",
+     "data": "2026-08-20T18:32:47+00:00"
+    },
+    {
      "titolo": "Tennis: Alcaraz gioca agli Us Open 'sono tornato'",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-alcaraz-gioca-agli-us-open-sono-tornato_2d0e8280-dc0f-4a71-b113-feefdbcb491e.html",
      "data": "2026-08-20T17:24:13+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Calcio: Moreira 'scioccato da chiamata Milan, momento giusto per arrivarci'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/calcio-moreira-scioccato-da-chiamata-milan-momento-giusto-per-arrivarci_8924108f-57ca-477b-ad3f-009a8f78d0cf.html",
      "data": "2026-08-20T15:36:13+00:00"
-    },
-    {
-     "titolo": "Napoli: visite mediche ok, Badiashile si è unito al gruppo di Allegri",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/napoli-visite-mediche-ok-badiashile-si-e-unito-al-gruppo-di-allegri_80825c53-42a3-4cd5-b304-f604decbed09.html",
-     "data": "2026-08-20T15:22:33+00:00"
     }
    ]
   }
