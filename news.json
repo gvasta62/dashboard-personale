@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-20T07:13:00.597030+00:00",
+ "aggiornato": "2026-08-20T08:01:32.900560+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Europa debole, guarda al 'D-day economico'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/borsa-europa-debole-guarda-al-d-day-economico_9acb6df4-279e-45d7-8113-f826758140e4.html",
+     "data": "2026-08-20T07:48:13+00:00"
+    },
     {
      "titolo": "Borsa: Milano apre in cauto rialzo, Ftse Mib +0,1%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/borsa-milano-apre-in-cauto-rialzo-ftse-mib-01_871b9ce7-7621-4fe7-965c-19f93d80f445.html",
@@ -49,11 +54,6 @@
      "titolo": "Sindaco Kiev, 'colpito ospedale pediatrico in raid russo sulla capitale'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/sindaco-kiev-colpito-ospedale-pediatrico-in-raid-russo-sulla-capitale_602e4fa5-30ed-4264-a564-9b83f0bfc56b.html",
      "data": "2026-08-19T22:11:02+00:00"
-    },
-    {
-     "titolo": "Media, Harry e la moglie Meghan torneranno questo mese a vivere in Gb",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/media-harry-e-la-moglie-meghan-torneranno-questo-mese-a-vivere-in-gb_b00b586b-9dd9-4dca-a65e-836ddff178ff.html",
-     "data": "2026-08-19T21:51:11+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Auto guidata da un 17enne contro una cabina elettrica, a bordo due 15enni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/auto-guidata-da-un-17enne-contro-una-cabina-elettrica-a-bordo-due-15enni_60823e2e-f429-465f-babd-a48ccc8a7d75.html",
+     "data": "2026-08-20T07:22:39+00:00"
+    },
+    {
+     "titolo": "Picchia e rompe un braccio alla compagna, arrestato nel Comasco",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/picchia-e-rompe-un-braccio-alla-compagna-arrestato-nel-comasco_a4fba884-ef48-4076-b12f-3a9908ab3c02.html",
+     "data": "2026-08-20T07:17:57+00:00"
+    },
+    {
      "titolo": "Agguato a Trieste, feriti a colpi di coltello quattro operai",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/agguato-a-trieste-feriti-a-colpi-di-coltello-quattro-operai_d6b1ac55-16cb-4a33-a31d-6dfb3a42e0d2.html",
      "data": "2026-08-19T20:22:48+00:00"
@@ -148,7 +158,7 @@
     {
      "titolo": "Il fratello di Vanessa, 'allibito da Terrin uccisa come mia sorella'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/il-fratello-di-vanessa-allibito-da-terrin-uccisa-come-mia-sorella_2a66973e-1e8e-430a-a25c-fd5524894ef5.html",
-     "data": "2026-08-19T18:09:17+00:00"
+     "data": "2026-08-20T07:27:51+00:00"
     },
     {
      "titolo": "Verso l'invio degli ispettori del Ministero in Procura sul caso Terrin",
@@ -174,16 +184,6 @@
      "titolo": "Incendi in Abruzzo, in azione squadre di terra con 4 canadair e 2 elicotteri",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/incendi-in-abruzzo-in-azione-squadre-di-terra-con-4-canadair-e-2-elicotteri_a6eb169d-1887-4ed1-94c2-b1fd67e7a934.html",
      "data": "2026-08-19T16:35:15+00:00"
-    },
-    {
-     "titolo": "Problemi a un motore, atterraggio d'emergenza a Rimini, nessun ferito",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/problemi-a-un-motore-atterraggio-demergenza-a-rimini-nessun-ferito_0a485698-d63e-4e24-961b-0149cee13ad9.html",
-     "data": "2026-08-19T16:32:56+00:00"
-    },
-    {
-     "titolo": "Malore a bordo di uno yacht partito da Olbia, muore 72enne svizzero",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/malore-a-bordo-di-uno-yacht-partito-da-olbia-muore-72enne-svizzero_64055b7b-c3cf-463d-be34-e25f8532c46d.html",
-     "data": "2026-08-19T16:26:43+00:00"
     }
    ]
   },
@@ -225,6 +225,16 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: Europa debole, guarda al 'D-day economico'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-europa-debole-guarda-al-d-day-economico_9ff97ecb-7b32-4557-b0aa-d61a4c95ed9e.html",
+     "data": "2026-08-20T07:48:11+00:00"
+    },
+    {
+     "titolo": "Il risiko bancario in Borsa, scatta Banca Generali +2,3%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-risiko-bancario-in-borsa-scatta-banca-generali-23_b9bf10a9-57f0-42f2-89bb-5c3e9d8c885d.html",
+     "data": "2026-08-20T07:43:39+00:00"
+    },
     {
      "titolo": "Borsa: Milano apre in cauto rialzo, Ftse Mib +0,1%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-milano-apre-in-cauto-rialzo-ftse-mib-01_00dd6485-9c7c-45f2-8a4c-a629610fadcc.html",
@@ -274,16 +284,6 @@
      "titolo": "Moderna senza freni in Borsa, titolo vola a +130%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/moderna-senza-freni-in-borsa-titolo-vola-a-130_701de55b-0033-446f-b966-45ff11603849.html",
      "data": "2026-08-19T16:14:12+00:00"
-    },
-    {
-     "titolo": "Gas: future in discesa sotto i 64 euro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/gas-future-in-discesa-sotto-i-64-euro_2dbd5568-f3a4-475f-afcd-891b78ad9d08.html",
-     "data": "2026-08-19T15:59:30+00:00"
-    },
-    {
-     "titolo": "Lo spread Btp-Bund si ferma a 79,7 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/lo-spread-btp-bund-si-ferma-a-797-punti_c13dfae7-b085-4c1e-bb8e-0d9efa3ae72d.html",
-     "data": "2026-08-19T15:56:07+00:00"
     }
    ]
   },
@@ -296,9 +296,9 @@
      "data": "2026-08-20T07:03:20+00:00"
     },
     {
-     "titolo": "Massiccio attacco russo su Kiev, 12 morti e 32 feriti",
+     "titolo": "Ucraina, raid russo notturno su Kiev, Zelensky: 'Tredici morti e 40 feriti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/massiccio-attacco-russo-su-kiev-12-morti-e-32-feriti_687531fd-cf89-4799-81ca-a97f956679a5.html",
-     "data": "2026-08-20T06:14:03+00:00"
+     "data": "2026-08-20T07:55:40+00:00"
     },
     {
      "titolo": "Almeno 12 morti nel raid russo notturno su Kiev",
@@ -421,6 +421,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "La Cittadella del Rugby di Parma intitolata all'ex presidente Fir Dondi",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/20/la-cittadella-del-rugby-di-parma-intitolata-allex-presidente-fir-dondi_70ca24ba-cb46-4efe-b0f9-1f1b30ec9ef5.html",
+     "data": "2026-08-20T07:50:20+00:00"
+    },
+    {
+     "titolo": "Verstappen rinnova con la Red Bull fino al 2030, 'tutta la carriera qui, speciale'",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/20/verstappen-rinnova-con-la-red-bull-fino-al-2030-tutta-la-carriera-qui_b926fcbe-d411-4b1d-994d-3267f82f49c0.html",
+     "data": "2026-08-20T07:32:49+00:00"
+    },
+    {
+     "titolo": "Tennis: Cobolli rimonta Jodar, è nei quarti a Cincinnati",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/20/tennis-cobolli-rimonta-jodar-e-nei-quarti-a-cincinnati-_222c6f23-8a3b-4f59-959c-f78f42a2101f.html",
+     "data": "2026-08-20T07:15:37+00:00"
+    },
+    {
+     "titolo": "Messi torna a segnare in Mls dopo la morte del padre",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/messi-torna-a-segnare-in-mls-dopo-la-morte-del-padre_e951c97b-5fc9-4261-8d6b-5a24a8b724a5.html",
+     "data": "2026-08-20T07:14:41+00:00"
+    },
+    {
      "titolo": "Tennis: nuovo flop Sabalenka, a Cincinnati eliminata da una ventenne ceca",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-nuovo-flop-sabalenka-a-cincinnati-eliminata-da-una-ventenne-ceca_cb326787-3842-4cb5-9952-7fa3c40bd9da.html",
      "data": "2026-08-20T04:17:20+00:00"
@@ -428,7 +448,7 @@
     {
      "titolo": "Tennis: Musetti batte Faria e vola ai quarti di Cincinnati",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-musetti-batte-faria-e-vola-ai-quarti-di-cincinnati_e2eb5d0b-41a2-464e-bb09-6a24ad1d4e79.html",
-     "data": "2026-08-20T06:58:10+00:00"
+     "data": "2026-08-20T07:17:53+00:00"
     },
     {
      "titolo": "Tennis: Zverev eliminato a Cincinnati, sconfitto da Paul",
@@ -459,26 +479,6 @@
      "titolo": "Kane premiato con la Scarpa d'oro, 'è anche meglio della prima'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/kane-premiato-con-la-scarpa-doro-e-anche-meglio-della-prima_7f319d07-6229-42e7-9e2b-295e1a086599.html",
      "data": "2026-08-19T18:24:20+00:00"
-    },
-    {
-     "titolo": "Fiorentina in pressing su Poku, freccia del Leverkusen",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/fiorentina-in-pressing-su-poku-freccia-del-leverkusen_0475939c-9451-4c7e-bea5-924c2713d8f9.html",
-     "data": "2026-08-19T18:08:01+00:00"
-    },
-    {
-     "titolo": "Tennis: Masters 1000 Cincinnati, Cobolli rimonta su Jodar e conquista i quarti",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/19/tennis-masters-1000-cincinnati-cobolli-rimonta-su-jodar-e-conquista-i-quarti_222c6f23-8a3b-4f59-959c-f78f42a2101f.html",
-     "data": "2026-08-19T18:14:10+00:00"
-    },
-    {
-     "titolo": "Masters Cincinnati: Cobolli batte Jodar e accede ai quarti",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/19/masters-cincinnati-cobolli-batte-jodar-e-accede-ai-quarti_2bb05717-452f-4a44-ac9f-cf0874fbeece.html",
-     "data": "2026-08-19T17:46:40+00:00"
-    },
-    {
-     "titolo": "Lazio: lo svincolato Dieng a un passo, atteso a Roma",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/lazio-lo-svincolato-dieng-a-un-passo-atteso-a-roma_ed013d3e-8200-4d96-8f91-b0d19039c5e9.html",
-     "data": "2026-08-19T17:11:39+00:00"
     }
    ]
   }
