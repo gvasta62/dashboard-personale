@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-20T05:54:59.450988+00:00",
+ "aggiornato": "2026-08-20T06:21:10.548469+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -226,6 +226,16 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Aumenta il prezzo del petrolio, Wti a 86 dollari al barile (0,20%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/aumenta-il-prezzo-del-petrolio-wti-a-86-dollari-al-barile-020_08f81b6b-2642-4c49-9da2-38a0d419eac1.html",
+     "data": "2026-08-20T06:18:39+00:00"
+    },
+    {
+     "titolo": "Euro invariato sul dollaro, scambiato a 1,1677",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/euro-invariato-sul-dollaro-scambiato-a-11677_2d1de036-d0f3-479d-b813-8db7f4f4ae8f.html",
+     "data": "2026-08-20T06:12:22+00:00"
+    },
+    {
      "titolo": "Il petrolio chiude in rialzo a New York, a 86,16 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/il-petrolio-chiude-in-rialzo-a-new-york-a-8616-dollari_6dcfc93d-a1ed-4866-b6e7-72067befe03f.html",
      "data": "2026-08-19T18:39:21+00:00"
@@ -274,22 +284,17 @@
      "titolo": "Borsa: Europa tentenna, Parigi sale dello 0,2%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-europa-tentenna-parigi-sale-dello-02_e59707a9-b062-457e-8399-5af4b3d56ee6.html",
      "data": "2026-08-19T14:04:10+00:00"
-    },
-    {
-     "titolo": "Lidl, Guinness dei primati per il trapano Parkside che fa muovere il London Eye",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/lidl-guinness-dei-primati-per-il-trapano-parkside-che-fa-muovere-il-london_cc7e2b03-413f-4709-9925-839497ab481c.html",
-     "data": "2026-08-19T13:53:11+00:00"
-    },
-    {
-     "titolo": "Carlsberg, nel semestre utile +6%, crescono le birre analcoliche +11%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/carlsberg-nel-semestre-utile-6-crescono-le-birre-analcoliche-11_7a2db3e1-c9fc-4a17-b58c-c0efc15bca59.html",
-     "data": "2026-08-19T13:18:32+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Massiccio attacco russo su Kiev, 12 morti e 32 feriti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/massiccio-attacco-russo-su-kiev-12-morti-e-32-feriti_687531fd-cf89-4799-81ca-a97f956679a5.html",
+     "data": "2026-08-20T06:14:03+00:00"
+    },
     {
      "titolo": "Almeno 12 morti nel raid russo notturno su Kiev",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/almeno-12-morti-nel-raid-russo-notturno-su-kiev_3fba1283-1b67-4841-be28-b6d5afe620f9.html",
@@ -343,11 +348,6 @@
     {
      "titolo": "Archiviazione per morte operatori umanitari a Gaza, Australia 'indignata'",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/20/archiviazione-per-morte-operatori-umanitari-a-gaza-australia-indignata_1773a203-b115-4987-865d-2daebd9187ec.html",
-     "data": "2026-08-19T23:31:08+00:00"
-    },
-    {
-     "titolo": "Archiviazione per morte operatori umanitari a Gaza, Australia 'indignata'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/archiviazione-per-morte-operatori-umanitari-a-gaza-australia-indignata_edfe478b-f56c-4c53-a2cc-c2f43d35f0f7.html",
      "data": "2026-08-19T23:31:08+00:00"
     }
    ]
