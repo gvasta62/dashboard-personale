@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-20T00:26:00.999687+00:00",
+ "aggiornato": "2026-08-20T01:56:41.219915+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Giappone, le esportazioni crescono a livelli record in luglio +23,2%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/giappone-le-esportazioni-crescono-a-livelli-record-in-luglio-232_780eb634-525a-4583-b6be-97883baa6775.html",
+     "data": "2026-08-20T01:30:14+00:00"
+    },
     {
      "titolo": "Archiviazione per morte operatori umanitari a Gaza, Australia 'indignata'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/archiviazione-per-morte-operatori-umanitari-a-gaza-australia-indignata_72096fda-a0db-4e19-8878-463ab6b55329.html",
@@ -49,11 +54,6 @@
      "titolo": "Vienna rimanda i dublinanti in Italia, già quattro trasferiti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/vienna-rimanda-i-dublinanti-in-italia-gia-quattro-trasferiti_18048f6d-e8bd-4e6e-bb98-14860f8d514e.html",
      "data": "2026-08-19T16:51:31+00:00"
-    },
-    {
-     "titolo": "Media, l'ex vice capo dell'ufficio presidenza dell'Ucraina è stata arrestata",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/media-lex-vice-capo-dellufficio-presidenza-dellucraina-e-stata-arrestata_ebf75e6b-9401-4465-bc53-11c31fa98237.html",
-     "data": "2026-08-19T16:43:57+00:00"
     }
    ]
   },
@@ -291,6 +291,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Canale di Panama, allo studio la riduzione dei transiti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/canale-di-panama-allo-studio-la-riduzione-dei-transiti_7611e96c-53b2-42ea-8943-3d24279adb9b.html",
+     "data": "2026-08-20T01:32:55+00:00"
+    },
+    {
+     "titolo": "Giappone, le esportazioni crescono a livelli record in luglio +23,2%",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/20/giappone-le-esportazioni-crescono-a-livelli-record-in-luglio-232_0a5e3fb5-ae79-4a39-836c-2cb18d3f8c33.html",
+     "data": "2026-08-20T01:30:16+00:00"
+    },
+    {
+     "titolo": "Stretta dell'Osa sul Nicaragua di Ortega",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/stretta-dellosa-sul-nicaragua-di-ortega_fc421d18-5bab-4431-a251-ad6c464e9e69.html",
+     "data": "2026-08-20T01:08:16+00:00"
+    },
+    {
+     "titolo": "Brasile, il presidente Lula riceve al Planalto l'avvocato del figlio Lulinha",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/brasile-il-presidente-lula-riceve-al-planalto-lavvocato-del-figlio-lulinha_5130111c-e009-42d4-8d31-80413454dff2.html",
+     "data": "2026-08-20T01:05:55+00:00"
+    },
+    {
      "titolo": "Trump, 'guerra economica contro l'Iran'. E minaccia chi aiuta Teheran",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/20/trump-guerra-economica-contro-liran.-e-minaccia-chi-aiuta-teheran_6105900f-6283-4e90-9804-10bb1dea2ea7.html",
      "data": "2026-08-19T23:48:46+00:00"
@@ -329,26 +349,6 @@
      "titolo": "Italia protagonista alla Febratex con un padiglione dedicato al tessile",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/italia-protagonista-alla-febratex-con-un-padiglione-dedicato-al-tessile_22ddf903-4ac8-4101-9658-5b571029cfcd.html",
      "data": "2026-08-19T22:49:39+00:00"
-    },
-    {
-     "titolo": "In Perù le piogge di El Niño interrompono l'accesso a Machu Picchu",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/in-peru-le-piogge-di-el-nino-interrompono-laccesso-a-machu-picchu_748e5941-0b93-433d-8b3f-c34956e2201f.html",
-     "data": "2026-08-19T22:13:51+00:00"
-    },
-    {
-     "titolo": "Sindaco Kiev, 'colpito ospedale pediatrico in raid russo sulla capitale'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/sindaco-kiev-colpito-ospedale-pediatrico-in-raid-russo-sulla-capitale_cbeddcfa-9973-4236-9d0d-f6ede633be81.html",
-     "data": "2026-08-19T22:11:19+00:00"
-    },
-    {
-     "titolo": "Terremoto in Colombia, i morti salgono a 314",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/terremoto-in-colombia-i-morti-salgono-a-314_b120f870-1ceb-46a5-8966-36621975dd2d.html",
-     "data": "2026-08-19T22:02:06+00:00"
-    },
-    {
-     "titolo": "Media, Harry e la moglie Meghan torneranno questo mese a vivere in Gb",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/media-harry-e-la-moglie-meghan-torneranno-questo-mese-a-vivere-in-gb_0845ae9d-065c-41a2-84fd-997dac53fc7a.html",
-     "data": "2026-08-19T21:51:23+00:00"
     }
    ]
   },
