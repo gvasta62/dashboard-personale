@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-20T09:01:39.550992+00:00",
+ "aggiornato": "2026-08-20T09:55:49.403396+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "La benzina schizza sopra 2 euro al litro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/la-benzina-schizza-sopra-2-euro-al-litro_83fd41a4-f587-439e-8e14-1de307c5a7eb.html",
+     "data": "2026-08-20T09:12:35+00:00"
+    },
     {
      "titolo": "Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/sale-il-petrolio-brent-sopra-93-dollari-con-guerra-economica-devastante-di-trump_c9d6de8c-4790-4186-b520-3aaf5b387349.html",
@@ -49,17 +54,17 @@
      "titolo": "Trump annuncia, 'da oggi guerra economica contro l'Iran'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/trump-annuncia-da-oggi-guerra-economica-contro-liran_592846fd-a8fd-4538-bd48-a9700c19434f.html",
      "data": "2026-08-19T23:15:47+00:00"
-    },
-    {
-     "titolo": "Hegseth insulta le persone trans, 'al Pentagono non li addestriamo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/hegseth-insulta-le-persone-trans-al-pentagono-non-li-addestriamo_b1f8e032-0f74-491f-bb39-581cedd4058c.html",
-     "data": "2026-08-19T22:55:10+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "In Umbria la benzina supera di un centesimo la soglia di due euro al litro",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/in-umbria-la-benzina-supera-di-un-centesimo-la-soglia-di-due-euro-al-litro_daf56488-491e-4fe9-92a2-ebfa1f8eb90f.html",
+     "data": "2026-08-20T09:21:53+00:00"
+    },
     {
      "titolo": "Arcudi, follia ipotesi coprire il Trasimeno con pannelli fotovoltaici",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/arcudi-follia-ipotesi-coprire-il-trasimeno-con-pannelli-fotovoltaici_46d5a2c1-6f07-4780-a98d-b386337bace8.html",
@@ -114,11 +119,6 @@
      "titolo": "Uil-Fp, agente penitenziaria ferito al volto nel carcere di Perugia",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/uil-fp-agente-penitenziaria-ferito-al-volto-nel-carcere-di-perugia_23ee47a0-880c-451c-880c-eedadd1390a0.html",
      "data": "2026-08-18T17:48:25+00:00"
-    },
-    {
-     "titolo": "Imprenditore morto sul lavoro, Deruta vuole proclamare il lutto cittadino",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/imprenditore-morto-sul-lavoro-deruta-vuole-proclamare-il-lutto-cittadino_8f0c9d9a-0ee7-4ccb-b469-cb79702efc22.html",
-     "data": "2026-08-19T13:08:59+00:00"
     }
    ]
   },
@@ -126,14 +126,29 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Era dato per disperso in montagna, ma si trovava in un bivacco",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/era-dato-per-disperso-in-montagna-ma-si-trovava-in-un-bivacco_f6ba2fc9-c5cd-4f16-bab5-b9686ed578ee.html",
+     "data": "2026-08-20T09:26:45+00:00"
+    },
+    {
+     "titolo": "Salgono a 19 i casi di contagio di febbre del Nilo nell'Oristanese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/salgono-a-19-i-casi-di-contagio-di-febbre-del-nilo-nelloristanese_6f1db862-0bc8-4afd-9c80-41d9cf8b594b.html",
+     "data": "2026-08-20T09:26:02+00:00"
+    },
+    {
+     "titolo": "Auto si ribalta in A4 tra Portogruaro e Latisana, tre giovani feriti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/auto-si-ribalta-in-a4-tra-portogruaro-e-latisana-tre-giovani-feriti_cf3d813b-035e-41cc-b742-888ebdcc94ef.html",
+     "data": "2026-08-20T09:15:50+00:00"
+    },
+    {
      "titolo": "Fuga sostanze tossiche in cantiere ad Ancona, due operai in codice rosso",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/fuga-sostanze-tossiche-in-cantiere-ad-ancona-due-operai-in-codice-rosso_581dc29f-ff0d-4857-93bf-e491e1c6f6e4.html",
      "data": "2026-08-20T08:51:47+00:00"
     },
     {
-     "titolo": "Fuga sostanze tossiche in cantiere ad Ancona, due operai in codice rosso",
+     "titolo": "Fuga di sostanze tossiche in un cantiere ad Ancona, due operai in codice rosso",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/fuga-sostanze-tossiche-in-cantiere-ad-ancona-due-operai-in-codice-rosso_4ae071c7-c064-46d4-8fdb-3d1619ca3dd3.html",
-     "data": "2026-08-20T08:53:35+00:00"
+     "data": "2026-08-20T09:25:32+00:00"
     },
     {
      "titolo": "Furgone usato come ariete, spaccata in un compro oro a Torino",
@@ -141,9 +156,9 @@
      "data": "2026-08-20T08:44:05+00:00"
     },
     {
-     "titolo": "La Life Support di Emergency arrivata al porto di Bari con 48 migranti Salvati i 57 migranti su una nave alla deriva, sbarcati a Lampedusa",
+     "titolo": "La Life Support di Emergency arrivata al porto di Bari con 48 migranti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/salvati-i-57-migranti-su-una-nave-alla-deriva-sbarcati-a-lampedusa_35fd9384-d02a-4d09-a9de-36a51989ee0f.html",
-     "data": "2026-08-20T08:58:54+00:00"
+     "data": "2026-08-20T09:04:19+00:00"
     },
     {
      "titolo": "Nel Salernitano ragazzo accoltellato durante una rissa, è grave",
@@ -169,21 +184,6 @@
      "titolo": "Tania Terrin contattò una ex di Keber: 'Mi disse che l'aveva quasi uccisa'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/tania-terrin-contatto-una-ex-di-keber-mi-disse-che-laveva-quasi-uccisa_6ae23899-4eb6-4d27-bc19-6e76936e2d29.html",
      "data": "2026-08-20T08:18:01+00:00"
-    },
-    {
-     "titolo": "'Ndrangheta, estradato in Italia l'ex latitante Domenico Paviglianiti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/ndrangheta-estradato-in-italia-lex-latitante-domenico-paviglianiti_8410fbae-a17f-4b44-9b73-5dbc2e06c192.html",
-     "data": "2026-08-20T08:04:48+00:00"
-    },
-    {
-     "titolo": "Il furto delle opere di Antonello da Messina, trasferiti i 4 custodi del museo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/furto-opere-di-antonello-da-messina-trasferiti-i-4-custodi-del-museo_c3b0f32b-b44f-4ff3-9c64-d40123f906e1.html",
-     "data": "2026-08-20T08:28:07+00:00"
-    },
-    {
-     "titolo": "Auto guidata da un 17enne contro una cabina elettrica, a bordo due 15enni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/auto-guidata-da-un-17enne-contro-una-cabina-elettrica-a-bordo-due-15enni_60823e2e-f429-465f-babd-a48ccc8a7d75.html",
-     "data": "2026-08-20T07:22:39+00:00"
     }
    ]
   },
@@ -231,9 +231,24 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "La benzina schizza sopra 2 euro al litro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/la-benzina-schizza-sopra-2-euro-al-litro_dab2ba0c-b4b4-4324-83dd-43e6c536409f.html",
+     "data": "2026-08-20T09:12:33+00:00"
+    },
+    {
+     "titolo": "Borsa, Milano sale con Eni ed energia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-milano-sale-con-eni-ed-energia_f92eda30-6c72-4e87-927c-9aad07ac930c.html",
+     "data": "2026-08-20T09:06:45+00:00"
+    },
+    {
      "titolo": "Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/sale-il-petrolio-brent-sopra-93-dollari-con-guerra-economica-devastante-di-trump_e403a1a7-97c9-45b3-acb5-ab5bee42c96b.html",
      "data": "2026-08-20T08:51:49+00:00"
+    },
+    {
+     "titolo": "La benzina schizza sopra i 2 euro al litro",
+     "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/20/la-benzina-schizza-sopra-i-2-euro-al-litro_9943e734-0299-4198-8152-fd3afd82d3b1.html",
+     "data": "2026-08-20T09:32:02+00:00"
     },
     {
      "titolo": "Borsa: Europa debole, guarda al 'D-day economico'",
@@ -248,7 +263,7 @@
     {
      "titolo": "Iniziato il cda di Mps, sul tavolo le offerte per Bpm e Banca Generali",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/iniziato-il-cda-di-mps-sul-tavolo-le-offerte-per-bpm-e-banca-generali_56e45912-721e-4db6-8006-04d4bc02cd39.html",
-     "data": "2026-08-20T08:35:47+00:00"
+     "data": "2026-08-20T09:27:43+00:00"
     },
     {
      "titolo": "Borsa: Milano apre in cauto rialzo, Ftse Mib +0,1%",
@@ -274,21 +289,6 @@
      "titolo": "Borsa: Asia chiude in rialzo, Europa incerta verso l'avvio",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-asia-chiude-in-rialzo-europa-incerta-verso-lavvio_b590523c-fa7c-476f-b9f5-370c4bc6e485.html",
      "data": "2026-08-20T06:34:06+00:00"
-    },
-    {
-     "titolo": "L'oro in calo a 4.488,79 dollari l'oncia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/loro-in-calo-a-4.48879-dollari-loncia_e231c72b-beaf-44c0-a33f-5d530d72a5e6.html",
-     "data": "2026-08-20T06:22:58+00:00"
-    },
-    {
-     "titolo": "Aumenta il prezzo del petrolio, Wti a 86 dollari al barile (0,20%)",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/aumenta-il-prezzo-del-petrolio-wti-a-86-dollari-al-barile-020_08f81b6b-2642-4c49-9da2-38a0d419eac1.html",
-     "data": "2026-08-20T06:18:39+00:00"
-    },
-    {
-     "titolo": "Euro invariato sul dollaro, scambiato a 1,1677",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/euro-invariato-sul-dollaro-scambiato-a-11677_2d1de036-d0f3-479d-b813-8db7f4f4ae8f.html",
-     "data": "2026-08-20T06:12:22+00:00"
     }
    ]
   },
@@ -303,7 +303,7 @@
     {
      "titolo": "Ucraina, raid russo notturno su Kiev, Zelensky: 'Tredici morti e 40 feriti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/massiccio-attacco-russo-su-kiev-12-morti-e-32-feriti_687531fd-cf89-4799-81ca-a97f956679a5.html",
-     "data": "2026-08-20T08:11:38+00:00"
+     "data": "2026-08-20T09:01:33+00:00"
     },
     {
      "titolo": "Almeno 12 morti nel raid russo notturno su Kiev",
@@ -426,14 +426,19 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "A Trento in campo in amichevole sia le azzurre sia gli azzurri",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/20/a-trento-in-campo-in-amichevole-sia-le-azzurre-sia-gli-azzurri_db8b92f9-9231-4e71-baad-cdf412ab3eab.html",
+     "data": "2026-08-20T09:30:13+00:00"
+    },
+    {
      "titolo": "La Cittadella del Rugby di Parma intitolata all'ex presidente Fir Dondi",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/20/la-cittadella-del-rugby-di-parma-intitolata-allex-presidente-fir-dondi_70ca24ba-cb46-4efe-b0f9-1f1b30ec9ef5.html",
      "data": "2026-08-20T07:50:20+00:00"
     },
     {
-     "titolo": "Verstappen rinnova con la Red Bull fino al 2030, 'tutta la carriera qui, speciale'",
+     "titolo": "Verstappen rinnova con la Red Bull fino al 2030: 'Tutta la carriera qui, è speciale'",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/20/verstappen-rinnova-con-la-red-bull-fino-al-2030-tutta-la-carriera-qui_b926fcbe-d411-4b1d-994d-3267f82f49c0.html",
-     "data": "2026-08-20T07:32:49+00:00"
+     "data": "2026-08-20T09:35:12+00:00"
     },
     {
      "titolo": "Tennis: Cobolli rimonta Jodar, è nei quarti a Cincinnati",
@@ -443,7 +448,7 @@
     {
      "titolo": "Messi torna a segnare in Mls dopo la morte del padre",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/messi-torna-a-segnare-in-mls-dopo-la-morte-del-padre_e951c97b-5fc9-4261-8d6b-5a24a8b724a5.html",
-     "data": "2026-08-20T07:14:41+00:00"
+     "data": "2026-08-20T09:36:05+00:00"
     },
     {
      "titolo": "Tennis: nuovo flop Sabalenka, a Cincinnati eliminata da una ventenne ceca",
@@ -479,11 +484,6 @@
      "titolo": "Reijnders saluta il City e sbarca in Arabia, giocherà con Retegui",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/reijnders-saluta-il-city-e-sbarca-in-arabia-giochera-con-retegui_02dbef78-0200-4e7e-ac84-f5c3dd2d06dc.html",
      "data": "2026-08-19T18:28:45+00:00"
-    },
-    {
-     "titolo": "Kane premiato con la Scarpa d'oro, 'è anche meglio della prima'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/kane-premiato-con-la-scarpa-doro-e-anche-meglio-della-prima_7f319d07-6229-42e7-9e2b-295e1a086599.html",
-     "data": "2026-08-19T18:24:20+00:00"
     }
    ]
   }
