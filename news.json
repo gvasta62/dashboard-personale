@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-20T10:17:43.283866+00:00",
+ "aggiornato": "2026-08-20T10:52:52.750314+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Faye Dunaway a Venezia per il premio Kineo alla carriera",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/faye-dunaway-a-venezia-per-il-premio-kineo-alla-carriera_72e183ed-fb26-4930-81b4-92af6e68ade8.html",
+     "data": "2026-08-20T10:42:39+00:00"
+    },
     {
      "titolo": "La benzina schizza sopra 2 euro al litro",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/la-benzina-schizza-sopra-2-euro-al-litro_83fd41a4-f587-439e-8e14-1de307c5a7eb.html",
@@ -49,17 +54,22 @@
      "titolo": "Archiviazione per morte operatori umanitari a Gaza, Australia 'indignata'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/archiviazione-per-morte-operatori-umanitari-a-gaza-australia-indignata_72096fda-a0db-4e19-8878-463ab6b55329.html",
      "data": "2026-08-19T23:30:48+00:00"
-    },
-    {
-     "titolo": "Trump annuncia, 'da oggi guerra economica contro l'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/trump-annuncia-da-oggi-guerra-economica-contro-liran_592846fd-a8fd-4538-bd48-a9700c19434f.html",
-     "data": "2026-08-19T23:15:47+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Cucinelli, San Francesco consiglierebbe di chiamare 'umana' intelligenza artificiale",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/cucinelli-san-francesco-consiglierebbe-di-chiamare-umana-intelligenza-artificiale_a8eb84c7-9b7c-4d80-853f-138573d46c2f.html",
+     "data": "2026-08-20T10:45:19+00:00"
+    },
+    {
+     "titolo": "Segnalazione su Fb di rifiuti abbandonati, individuato il presunto responsabile",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/segnalazione-su-fb-di-rifiuti-abbandonati-individuato-il-presunto-responsabile_87221b82-ace7-4e15-b794-1354a3f4a06f.html",
+     "data": "2026-08-20T10:43:44+00:00"
+    },
     {
      "titolo": "In Umbria la benzina supera di un centesimo la soglia di due euro al litro",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/in-umbria-la-benzina-supera-di-un-centesimo-la-soglia-di-due-euro-al-litro_daf56488-491e-4fe9-92a2-ebfa1f8eb90f.html",
@@ -109,22 +119,27 @@
      "titolo": "Norcia si mobilita per il sacerdote del sisma, 'don Davide non si tocca'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/19/norcia-si-mobilita-per-il-sacerdote-del-sisma-don-davide-non-si-tocca_bb4bb202-7da7-4e24-919a-3b5f9b1f2a7d.html",
      "data": "2026-08-19T08:45:13+00:00"
-    },
-    {
-     "titolo": "Proietti esprime 'profondo cordoglio per la tragica morte di Aldo Biselli'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/proietti-esprime-profondo-cordoglio-per-la-tragica-morte-di-aldo-biselli_af655a2a-6e4f-4ca3-81e8-41564fa951f6.html",
-     "data": "2026-08-18T19:09:38+00:00"
-    },
-    {
-     "titolo": "Uil-Fp, agente penitenziaria ferito al volto nel carcere di Perugia",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/uil-fp-agente-penitenziaria-ferito-al-volto-nel-carcere-di-perugia_23ee47a0-880c-451c-880c-eedadd1390a0.html",
-     "data": "2026-08-18T17:48:25+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Violenta una turista che non trova l'ostello, arrestato a Milano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/violenta-una-turista-che-non-trova-lostello-arrestato-a-milano_cc33717d-96f4-492b-b468-04a32adb54ae.html",
+     "data": "2026-08-20T10:39:28+00:00"
+    },
+    {
+     "titolo": "Incendio sul Morrone, oggi l'attacco decisivo alle fiamme",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/incendio-sul-morrone-oggi-lattacco-decisivo-alle-fiamme_345d6c85-fc35-44dd-9727-85424dc819b2.html",
+     "data": "2026-08-20T10:32:18+00:00"
+    },
+    {
+     "titolo": "Violenza sessuale su due minorenni, arrestato un 18enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/violenza-sessuale-su-due-minorenni-arrestato-un-18enne_0b46cfc2-7941-4b3e-90e2-a3c0dd14fa4a.html",
+     "data": "2026-08-20T10:22:57+00:00"
+    },
     {
      "titolo": "Incidente sul lavoro in un cantiere ad Ancona, fuori pericolo gli operai",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/incidente-sul-lavoro-in-un-cantiere-ad-ancona-fuori-pericolo-gli-operai_9e796579-8316-46d1-8b8c-f60b3b131b03.html",
@@ -169,21 +184,6 @@
      "titolo": "La Life Support di Emergency arrivata al porto di Bari con 48 migranti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/salvati-i-57-migranti-su-una-nave-alla-deriva-sbarcati-a-lampedusa_35fd9384-d02a-4d09-a9de-36a51989ee0f.html",
      "data": "2026-08-20T10:07:47+00:00"
-    },
-    {
-     "titolo": "Nel Salernitano ragazzo accoltellato durante una rissa, è grave",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/nel-salernitano-ragazzo-accoltellato-durante-una-rissa-e-grave_c788988d-3bc7-4eaf-9b25-3c48f8e0f701.html",
-     "data": "2026-08-20T08:34:18+00:00"
-    },
-    {
-     "titolo": "La Life Support di Emergency arrivata al porto di Bari con 48 migranti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/la-life-support-di-emergency-arrivata-al-porto-di-bari-con-48-migranti_8a4bb515-5fbc-4a4e-8542-9160322adcae.html",
-     "data": "2026-08-20T08:33:34+00:00"
-    },
-    {
-     "titolo": "Al via le operazioni di recupero dell'ultraleggero caduto nel Cosentino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/al-via-le-operazioni-di-recupero-dellultraleggero-caduto-nel-cosentino_5e0a4e20-e4ba-4475-852a-d4c0a303e994.html",
-     "data": "2026-08-20T08:37:18+00:00"
     }
    ]
   },
@@ -261,9 +261,9 @@
      "data": "2026-08-20T07:43:39+00:00"
     },
     {
-     "titolo": "Iniziato il cda di Mps, sul tavolo le offerte per Bpm e Banca Generali",
+     "titolo": "In corso il cda di Mps, sul tavolo le offerte per Bpm e Banca Generali",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/iniziato-il-cda-di-mps-sul-tavolo-le-offerte-per-bpm-e-banca-generali_56e45912-721e-4db6-8006-04d4bc02cd39.html",
-     "data": "2026-08-20T09:27:43+00:00"
+     "data": "2026-08-20T10:15:48+00:00"
     },
     {
      "titolo": "Borsa: Milano apre in cauto rialzo, Ftse Mib +0,1%",
@@ -303,7 +303,7 @@
     {
      "titolo": "Ucraina, raid russo notturno su Kiev, Zelensky: 'Tredici morti e 40 feriti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/massiccio-attacco-russo-su-kiev-12-morti-e-32-feriti_687531fd-cf89-4799-81ca-a97f956679a5.html",
-     "data": "2026-08-20T10:02:31+00:00"
+     "data": "2026-08-20T10:38:21+00:00"
     },
     {
      "titolo": "Almeno 12 morti nel raid russo notturno su Kiev",
