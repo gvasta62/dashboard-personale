@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-20T08:01:32.900560+00:00",
+ "aggiornato": "2026-08-20T09:01:39.550992+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/sale-il-petrolio-brent-sopra-93-dollari-con-guerra-economica-devastante-di-trump_c9d6de8c-4790-4186-b520-3aaf5b387349.html",
+     "data": "2026-08-20T08:51:54+00:00"
+    },
     {
      "titolo": "Borsa: Europa debole, guarda al 'D-day economico'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/borsa-europa-debole-guarda-al-d-day-economico_9acb6df4-279e-45d7-8113-f826758140e4.html",
@@ -49,17 +54,17 @@
      "titolo": "Hegseth insulta le persone trans, 'al Pentagono non li addestriamo'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/hegseth-insulta-le-persone-trans-al-pentagono-non-li-addestriamo_b1f8e032-0f74-491f-bb39-581cedd4058c.html",
      "data": "2026-08-19T22:55:10+00:00"
-    },
-    {
-     "titolo": "Sindaco Kiev, 'colpito ospedale pediatrico in raid russo sulla capitale'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/sindaco-kiev-colpito-ospedale-pediatrico-in-raid-russo-sulla-capitale_602e4fa5-30ed-4264-a564-9b83f0bfc56b.html",
-     "data": "2026-08-19T22:11:02+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Arcudi, follia ipotesi coprire il Trasimeno con pannelli fotovoltaici",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/arcudi-follia-ipotesi-coprire-il-trasimeno-con-pannelli-fotovoltaici_46d5a2c1-6f07-4780-a98d-b386337bace8.html",
+     "data": "2026-08-20T08:56:25+00:00"
+    },
     {
      "titolo": "Sindaca Orvieto, sulla città una gogna mediatica francamente ingiustificata",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/19/sindaca-orvieto-sulla-citta-una-gogna-mediatica-francamente-ingiustificata_a7d1c7f5-78be-49ec-9e08-0a4e215e33f7.html",
@@ -114,11 +119,6 @@
      "titolo": "Imprenditore morto sul lavoro, Deruta vuole proclamare il lutto cittadino",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/18/imprenditore-morto-sul-lavoro-deruta-vuole-proclamare-il-lutto-cittadino_8f0c9d9a-0ee7-4ccb-b469-cb79702efc22.html",
      "data": "2026-08-19T13:08:59+00:00"
-    },
-    {
-     "titolo": "Al pronto soccorso di Terni 770 accessi fra il 13 e il 18 agosto",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/18/al-pronto-soccorso-di-terni-770-accessi-fra-il-13-e-il-18-agosto_6f14c3f6-6bb1-4cab-b5ed-58c68fcf9e0b.html",
-     "data": "2026-08-18T16:06:21+00:00"
     }
    ]
   },
@@ -126,70 +126,75 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Fuga sostanze tossiche in cantiere ad Ancona, due operai in codice rosso",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/fuga-sostanze-tossiche-in-cantiere-ad-ancona-due-operai-in-codice-rosso_581dc29f-ff0d-4857-93bf-e491e1c6f6e4.html",
+     "data": "2026-08-20T08:51:47+00:00"
+    },
+    {
+     "titolo": "Fuga sostanze tossiche in cantiere ad Ancona, due operai in codice rosso",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/fuga-sostanze-tossiche-in-cantiere-ad-ancona-due-operai-in-codice-rosso_4ae071c7-c064-46d4-8fdb-3d1619ca3dd3.html",
+     "data": "2026-08-20T08:53:35+00:00"
+    },
+    {
+     "titolo": "Furgone usato come ariete, spaccata in un compro oro a Torino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/furgone-usato-come-ariete-spaccata-in-un-compro-oro-a-torino_1388e7b0-1e3e-4c56-ba07-a38cd85dafa6.html",
+     "data": "2026-08-20T08:44:05+00:00"
+    },
+    {
+     "titolo": "La Life Support di Emergency arrivata al porto di Bari con 48 migranti Salvati i 57 migranti su una nave alla deriva, sbarcati a Lampedusa",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/salvati-i-57-migranti-su-una-nave-alla-deriva-sbarcati-a-lampedusa_35fd9384-d02a-4d09-a9de-36a51989ee0f.html",
+     "data": "2026-08-20T08:58:54+00:00"
+    },
+    {
+     "titolo": "Nel Salernitano ragazzo accoltellato durante una rissa, è grave",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/nel-salernitano-ragazzo-accoltellato-durante-una-rissa-e-grave_c788988d-3bc7-4eaf-9b25-3c48f8e0f701.html",
+     "data": "2026-08-20T08:34:18+00:00"
+    },
+    {
+     "titolo": "La Life Support di Emergency arrivata al porto di Bari con 48 migranti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/la-life-support-di-emergency-arrivata-al-porto-di-bari-con-48-migranti_8a4bb515-5fbc-4a4e-8542-9160322adcae.html",
+     "data": "2026-08-20T08:33:34+00:00"
+    },
+    {
+     "titolo": "Al via le operazioni di recupero dell'ultraleggero caduto nel Cosentino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/al-via-le-operazioni-di-recupero-dellultraleggero-caduto-nel-cosentino_5e0a4e20-e4ba-4475-852a-d4c0a303e994.html",
+     "data": "2026-08-20T08:37:18+00:00"
+    },
+    {
+     "titolo": "Consigliere comunale pro-Vannacci elogia Decima Mas, è polemica a Genova",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/consigliere-comunale-pro-vannacci-elogia-decima-mas-e-polemica-a-genova_953f9e2b-950e-4724-a16e-7ca6566998d8.html",
+     "data": "2026-08-20T08:29:12+00:00"
+    },
+    {
+     "titolo": "Tania Terrin contattò una ex di Keber: 'Mi disse che l'aveva quasi uccisa'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/tania-terrin-contatto-una-ex-di-keber-mi-disse-che-laveva-quasi-uccisa_6ae23899-4eb6-4d27-bc19-6e76936e2d29.html",
+     "data": "2026-08-20T08:18:01+00:00"
+    },
+    {
+     "titolo": "'Ndrangheta, estradato in Italia l'ex latitante Domenico Paviglianiti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/ndrangheta-estradato-in-italia-lex-latitante-domenico-paviglianiti_8410fbae-a17f-4b44-9b73-5dbc2e06c192.html",
+     "data": "2026-08-20T08:04:48+00:00"
+    },
+    {
+     "titolo": "Il furto delle opere di Antonello da Messina, trasferiti i 4 custodi del museo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/furto-opere-di-antonello-da-messina-trasferiti-i-4-custodi-del-museo_c3b0f32b-b44f-4ff3-9c64-d40123f906e1.html",
+     "data": "2026-08-20T08:28:07+00:00"
+    },
+    {
      "titolo": "Auto guidata da un 17enne contro una cabina elettrica, a bordo due 15enni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/auto-guidata-da-un-17enne-contro-una-cabina-elettrica-a-bordo-due-15enni_60823e2e-f429-465f-babd-a48ccc8a7d75.html",
      "data": "2026-08-20T07:22:39+00:00"
-    },
-    {
-     "titolo": "Picchia e rompe un braccio alla compagna, arrestato nel Comasco",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/picchia-e-rompe-un-braccio-alla-compagna-arrestato-nel-comasco_a4fba884-ef48-4076-b12f-3a9908ab3c02.html",
-     "data": "2026-08-20T07:17:57+00:00"
-    },
-    {
-     "titolo": "Agguato a Trieste, feriti a colpi di coltello quattro operai",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/agguato-a-trieste-feriti-a-colpi-di-coltello-quattro-operai_d6b1ac55-16cb-4a33-a31d-6dfb3a42e0d2.html",
-     "data": "2026-08-19T20:22:48+00:00"
-    },
-    {
-     "titolo": "Fillea Cgil, un morto sul lavoro in un cantiere autostradale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/fillea-cgil-un-morto-sul-lavoro-in-un-cantiere-autostradale_165c6c42-8acc-49a2-8028-ad73fdedf932.html",
-     "data": "2026-08-19T18:29:18+00:00"
-    },
-    {
-     "titolo": "Spara alla compagna poi scappa ancora armato, fermato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/spara-alla-compagna-poi-scappa-ancora-armato-e-caccia-alluomo_0767e77c-1522-4daa-ab86-a9ca0e231003.html",
-     "data": "2026-08-19T19:20:05+00:00"
-    },
-    {
-     "titolo": "Migranti, il Vaticano conferma rimozione di don Biancalani da parrocchie",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/migranti-il-vaticano-conferma-rimozione-di-don-biancalani-da-parrocchie_6b6511a9-e084-4933-a5db-2900c1b55153.html",
-     "data": "2026-08-19T18:04:33+00:00"
-    },
-    {
-     "titolo": "Il fratello di Vanessa, 'allibito da Terrin uccisa come mia sorella'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/il-fratello-di-vanessa-allibito-da-terrin-uccisa-come-mia-sorella_2a66973e-1e8e-430a-a25c-fd5524894ef5.html",
-     "data": "2026-08-20T07:27:51+00:00"
-    },
-    {
-     "titolo": "Verso l'invio degli ispettori del Ministero in Procura sul caso Terrin",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/il-ministero-della-giustizia-verso-linvio-degli-ispettori-in-procura-sul-caso_cd4d11a1-6d51-4676-836b-d3afa3c43e80.html",
-     "data": "2026-08-19T18:31:25+00:00"
-    },
-    {
-     "titolo": "Passi avanti per Trepy, uscita da Terapia intensiva più vicina",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/passi-avanti-per-trepy-uscita-da-terapia-intensiva-piu-vicina_4ea4f75e-2d2b-4c1e-93a0-d7164d6f217e.html",
-     "data": "2026-08-19T17:53:25+00:00"
-    },
-    {
-     "titolo": "Si getta in auto con la moglie nel porto, salvati dai passanti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/si-getta-in-auto-con-la-moglie-nel-porto-salvati-dai-passanti_ac04d8d0-5f93-4cfa-971a-2cc3a28f9c0a.html",
-     "data": "2026-08-19T18:02:24+00:00"
-    },
-    {
-     "titolo": "Record di ingressi nel lido dove maschi e femmine sono divisi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/record-di-ingressi-nel-lido-dove-maschi-e-femmine-sono-divisi_6fa1a412-338e-459c-8f57-2c901a19727c.html",
-     "data": "2026-08-19T17:26:14+00:00"
-    },
-    {
-     "titolo": "Incendi in Abruzzo, in azione squadre di terra con 4 canadair e 2 elicotteri",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/incendi-in-abruzzo-in-azione-squadre-di-terra-con-4-canadair-e-2-elicotteri_a6eb169d-1887-4ed1-94c2-b1fd67e7a934.html",
-     "data": "2026-08-19T16:35:15+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "'Lega rinnovata o una Pontida di rivolta', striscione sul pratone",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/lega-rinnovata-o-una-pontida-di-rivolta-striscione-sul-pratone_3aa61e6d-03b1-4ea2-b4bc-7432377cafd2.html",
+     "data": "2026-08-20T07:59:52+00:00"
+    },
     {
      "titolo": "Torna il Meeting di Cl, la grande attesa per il Papa",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/19/torna-il-meeting-di-cl-la-grande-attesa-per-il-papa_dbbe36ed-c086-4842-9931-6736a6567083.html",
@@ -226,6 +231,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/sale-il-petrolio-brent-sopra-93-dollari-con-guerra-economica-devastante-di-trump_e403a1a7-97c9-45b3-acb5-ab5bee42c96b.html",
+     "data": "2026-08-20T08:51:49+00:00"
+    },
+    {
      "titolo": "Borsa: Europa debole, guarda al 'D-day economico'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-europa-debole-guarda-al-d-day-economico_9ff97ecb-7b32-4557-b0aa-d61a4c95ed9e.html",
      "data": "2026-08-20T07:48:11+00:00"
@@ -234,6 +244,11 @@
      "titolo": "Il risiko bancario in Borsa, scatta Banca Generali +2,3%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-risiko-bancario-in-borsa-scatta-banca-generali-23_b9bf10a9-57f0-42f2-89bb-5c3e9d8c885d.html",
      "data": "2026-08-20T07:43:39+00:00"
+    },
+    {
+     "titolo": "Iniziato il cda di Mps, sul tavolo le offerte per Bpm e Banca Generali",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/iniziato-il-cda-di-mps-sul-tavolo-le-offerte-per-bpm-e-banca-generali_56e45912-721e-4db6-8006-04d4bc02cd39.html",
+     "data": "2026-08-20T08:35:47+00:00"
     },
     {
      "titolo": "Borsa: Milano apre in cauto rialzo, Ftse Mib +0,1%",
@@ -274,16 +289,6 @@
      "titolo": "Euro invariato sul dollaro, scambiato a 1,1677",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/euro-invariato-sul-dollaro-scambiato-a-11677_2d1de036-d0f3-479d-b813-8db7f4f4ae8f.html",
      "data": "2026-08-20T06:12:22+00:00"
-    },
-    {
-     "titolo": "Il petrolio chiude in rialzo a New York, a 86,16 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/il-petrolio-chiude-in-rialzo-a-new-york-a-8616-dollari_6dcfc93d-a1ed-4866-b6e7-72067befe03f.html",
-     "data": "2026-08-19T18:39:21+00:00"
-    },
-    {
-     "titolo": "Moderna senza freni in Borsa, titolo vola a +130%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/moderna-senza-freni-in-borsa-titolo-vola-a-130_701de55b-0033-446f-b966-45ff11603849.html",
-     "data": "2026-08-19T16:14:12+00:00"
     }
    ]
   },
@@ -298,7 +303,7 @@
     {
      "titolo": "Ucraina, raid russo notturno su Kiev, Zelensky: 'Tredici morti e 40 feriti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/massiccio-attacco-russo-su-kiev-12-morti-e-32-feriti_687531fd-cf89-4799-81ca-a97f956679a5.html",
-     "data": "2026-08-20T07:55:40+00:00"
+     "data": "2026-08-20T08:11:38+00:00"
     },
     {
      "titolo": "Almeno 12 morti nel raid russo notturno su Kiev",
