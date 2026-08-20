@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-20T06:21:10.548469+00:00",
+ "aggiornato": "2026-08-20T07:13:00.597030+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Milano apre in cauto rialzo, Ftse Mib +0,1%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/borsa-milano-apre-in-cauto-rialzo-ftse-mib-01_871b9ce7-7621-4fe7-965c-19f93d80f445.html",
+     "data": "2026-08-20T07:09:43+00:00"
+    },
+    {
+     "titolo": "Teheran, 'D-Day Trump sarà un'altra politica fallimentare'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/teheran-d-day-trump-sara-unaltra-politica-fallimentare_cae36e79-0236-4409-a03d-e2af96571616.html",
+     "data": "2026-08-20T07:03:20+00:00"
+    },
     {
      "titolo": "Almeno 12 morti nel raid russo notturno su Kiev",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/almeno-12-morti-nel-raid-russo-notturno-su-kiev_2e86e3a5-c7a2-4c22-9b66-8ba7253a478a.html",
@@ -44,16 +54,6 @@
      "titolo": "Media, Harry e la moglie Meghan torneranno questo mese a vivere in Gb",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/media-harry-e-la-moglie-meghan-torneranno-questo-mese-a-vivere-in-gb_b00b586b-9dd9-4dca-a65e-836ddff178ff.html",
      "data": "2026-08-19T21:51:11+00:00"
-    },
-    {
-     "titolo": "Trump, 'abbiamo sanzioni draconiane che possiamo imporre all'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/trump-abbiamo-sanzioni-draconiane-che-possiamo-imporre-alliran_b764f9f9-a362-4be5-a7a1-096c98467605.html",
-     "data": "2026-08-19T19:43:15+00:00"
-    },
-    {
-     "titolo": "Tajani sente Wadephul, prosegue il dialogo Italia-Germania sui migranti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/19/tajani-sente-wadephul-prosegue-il-dialogo-italia-germania-sui-migranti_936cce01-fcab-417f-83e8-ed34a1c874a9.html",
-     "data": "2026-08-19T19:21:51+00:00"
     }
    ]
   },
@@ -226,6 +226,36 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Milano apre in cauto rialzo, Ftse Mib +0,1%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-milano-apre-in-cauto-rialzo-ftse-mib-01_00dd6485-9c7c-45f2-8a4c-a629610fadcc.html",
+     "data": "2026-08-20T07:09:45+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund a 79,8 punti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/lo-spread-tra-btp-e-bund-a-798-punti_c9991cce-8e3e-40a7-8f92-823ebf06e5cb.html",
+     "data": "2026-08-20T06:50:45+00:00"
+    },
+    {
+     "titolo": "Gas: future in rialzo a 63,5 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/gas-future-in-rialzo-a-635-euro-al-megawattora_041d778a-0ec7-484a-9f63-54286ec74f55.html",
+     "data": "2026-08-20T06:46:31+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, chiusura in rialzo (+1,36%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-tokyo-chiusura-in-rialzo-136_b810d2a8-6b56-499a-8fdf-802f2553d65d.html",
+     "data": "2026-08-20T06:38:57+00:00"
+    },
+    {
+     "titolo": "Borsa: Asia chiude in rialzo, Europa incerta verso l'avvio",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-asia-chiude-in-rialzo-europa-incerta-verso-lavvio_b590523c-fa7c-476f-b9f5-370c4bc6e485.html",
+     "data": "2026-08-20T06:34:06+00:00"
+    },
+    {
+     "titolo": "L'oro in calo a 4.488,79 dollari l'oncia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/loro-in-calo-a-4.48879-dollari-loncia_e231c72b-beaf-44c0-a33f-5d530d72a5e6.html",
+     "data": "2026-08-20T06:22:58+00:00"
+    },
+    {
      "titolo": "Aumenta il prezzo del petrolio, Wti a 86 dollari al barile (0,20%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/aumenta-il-prezzo-del-petrolio-wti-a-86-dollari-al-barile-020_08f81b6b-2642-4c49-9da2-38a0d419eac1.html",
      "data": "2026-08-20T06:18:39+00:00"
@@ -254,42 +284,17 @@
      "titolo": "Lo spread Btp-Bund si ferma a 79,7 punti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/lo-spread-btp-bund-si-ferma-a-797-punti_c13dfae7-b085-4c1e-bb8e-0d9efa3ae72d.html",
      "data": "2026-08-19T15:56:07+00:00"
-    },
-    {
-     "titolo": "Borsa: in Europa vince la volatilità, indici poco variati",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-in-europa-vince-la-volatilita-indici-poco-variati_8374fd9f-5b96-4138-96ec-035bbdff808f.html",
-     "data": "2026-08-19T15:53:31+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in calo, Ftse Mib -0,75%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-milano-chiude-in-calo-ftse-mib-075_05bc77c0-0aa1-42d2-a568-d056003787c9.html",
-     "data": "2026-08-19T15:47:14+00:00"
-    },
-    {
-     "titolo": "S&P, con ondate di calore sale mortalità, effetti su risultati assicurazioni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/sp-con-ondate-di-calore-sale-mortalita-effetti-su-risultati-assicurazioni_3b35f3b6-fe99-4e0c-9597-23ffac994983.html",
-     "data": "2026-08-19T15:41:17+00:00"
-    },
-    {
-     "titolo": "Btp trentennale vicino al 5% sulle tensioni per il debito Usa",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/btp-trentennale-vicino-al-5-sulle-tensioni-per-il-debito-usa_f25878e2-113b-4b97-8ff2-a5b429e39b8c.html",
-     "data": "2026-08-19T15:11:57+00:00"
-    },
-    {
-     "titolo": "Stellantis rimbalza in Borsa +6%, atteso accordo commerciale Usa-Canada",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/stellantis-rimbalza-in-borsa-6-atteso-accordo-commerciale-usa-canada_fd516440-67e5-4cb2-83ca-1bffeabf3cfb.html",
-     "data": "2026-08-19T15:52:22+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa tentenna, Parigi sale dello 0,2%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-europa-tentenna-parigi-sale-dello-02_e59707a9-b062-457e-8399-5af4b3d56ee6.html",
-     "data": "2026-08-19T14:04:10+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Teheran, 'D-Day Trump sarà un'altra politica fallimentare'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/teheran-d-day-trump-sara-unaltra-politica-fallimentare_3ed20c0f-ac79-4560-bbba-8532e64a943d.html",
+     "data": "2026-08-20T07:03:20+00:00"
+    },
     {
      "titolo": "Massiccio attacco russo su Kiev, 12 morti e 32 feriti",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/massiccio-attacco-russo-su-kiev-12-morti-e-32-feriti_687531fd-cf89-4799-81ca-a97f956679a5.html",
@@ -344,11 +349,6 @@
      "titolo": "Trump, 'guerra economica contro l'Iran'. E minaccia chi aiuta Teheran",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-guerra-economica-contro-liran.-e-minaccia-chi-aiuta-teheran_284a3955-551f-4d86-ad24-cc95595b0482.html",
      "data": "2026-08-19T23:48:48+00:00"
-    },
-    {
-     "titolo": "Archiviazione per morte operatori umanitari a Gaza, Australia 'indignata'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/20/archiviazione-per-morte-operatori-umanitari-a-gaza-australia-indignata_1773a203-b115-4987-865d-2daebd9187ec.html",
-     "data": "2026-08-19T23:31:08+00:00"
     }
    ]
   },
@@ -428,7 +428,7 @@
     {
      "titolo": "Tennis: Musetti batte Faria e vola ai quarti di Cincinnati",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-musetti-batte-faria-e-vola-ai-quarti-di-cincinnati_e2eb5d0b-41a2-464e-bb09-6a24ad1d4e79.html",
-     "data": "2026-08-20T02:37:30+00:00"
+     "data": "2026-08-20T06:58:10+00:00"
     },
     {
      "titolo": "Tennis: Zverev eliminato a Cincinnati, sconfitto da Paul",
