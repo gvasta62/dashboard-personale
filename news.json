@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-20T23:45:42.778640+00:00",
+ "aggiornato": "2026-08-21T00:28:43.069736+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump e il suo ex avvocato personale riuniti dopo anni di scontri",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/trump-e-il-suo-ex-avvocato-personale-riuniti-dopo-anni-di-scontri_896a7e33-82ef-484e-a46c-cf06d51fdb40.html",
+     "data": "2026-08-21T00:21:17+00:00"
+    },
+    {
+     "titolo": "Giappone, inflazione accelera in luglio all'1,8%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/giappone-inflazione-accelera-in-luglio-all18_c7729717-ba23-4528-829b-e4d5e8f0e950.html",
+     "data": "2026-08-21T00:17:52+00:00"
+    },
     {
      "titolo": "Panama, meno navi nel Canale da settembre per la siccità",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/panama-meno-navi-nel-canale-da-settembre-per-la-siccita_5ae54289-d9e8-47b8-8022-6abc491fd6a0.html",
@@ -44,16 +54,6 @@
      "titolo": "Fonti Parigi all'ANSA, 'Francia per il momento non rimanderà i migranti in Italia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/fonti-parigi-allansa-francia-per-il-momento-non-rimandera-i-migranti-in-italia_b6c8d57a-1978-402b-a9ff-df955c015e14.html",
      "data": "2026-08-20T17:41:01+00:00"
-    },
-    {
-     "titolo": "Khrzhanovsky difende Dau, 'sul mio film distorsioni sostanziali'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/khrzhanovsky-difende-dau-sul-mio-film-distorsioni-sostanziali_0dbb11a3-619f-4020-8c7b-6191063bb735.html",
-     "data": "2026-08-20T17:09:01+00:00"
-    },
-    {
-     "titolo": "Francia, Germania, Italia e Gb a Israele, 'stop a insediamenti in Cisgiordania'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/francia-germania-italia-e-gb-a-israele-stop-a-insediamenti-in-cisgiordania_b9ba4fe0-7cd4-44a2-ad27-44356a9d1bb1.html",
-     "data": "2026-08-20T17:01:59+00:00"
     }
    ]
   },
@@ -321,6 +321,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump e il suo ex avvocato personale riuniti dopo anni di scontri",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/21/trump-e-il-suo-ex-avvocato-personale-riuniti-dopo-anni-di-scontri_efa83086-bc14-428a-b4b6-f56b69d72f6b.html",
+     "data": "2026-08-21T00:21:20+00:00"
+    },
+    {
+     "titolo": "Giappone, inflazione accelera in luglio all'1,8%",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/21/giappone-inflazione-accelera-in-luglio-all18_5e5ccfe6-9245-40ba-9307-f30094474441.html",
+     "data": "2026-08-21T00:18:11+00:00"
+    },
+    {
+     "titolo": "Cuba chiede a Mosca sostegno per entrare a pieno titolo nei Brics",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/cuba-chiede-a-mosca-sostegno-per-entrare-a-pieno-titolo-nei-brics_a27d924e-6101-4ddf-8196-5ea9bebe004f.html",
+     "data": "2026-08-21T00:06:10+00:00"
+    },
+    {
+     "titolo": "Argentina oltre le attese, attività economica cresce del 2,7% a giugno",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/argentina-oltre-le-attese-attivita-economica-cresce-del-27-a-giugno_e2275296-4b70-483a-99ee-8a1b9e9c099b.html",
+     "data": "2026-08-20T23:51:24+00:00"
+    },
+    {
      "titolo": "Mezzaluna rossa, 'esercito Israele impedisce soccorso ai feriti dai coloni'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/21/mezzaluna-rossa-esercito-israele-impedisce-soccorso-ai-feriti-dai-coloni_c71f8377-b2fc-40b8-b413-bd64878ae947.html",
      "data": "2026-08-20T22:57:11+00:00"
@@ -359,26 +379,6 @@
      "titolo": "Melania Trump torna in pubblico alla Casa Bianca con 'Fostering the Future'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/20/melania-trump-torna-in-pubblico-alla-casa-bianca-con-fostering-the_d22acea7-441d-499c-80cc-2f0bac670735.html",
      "data": "2026-08-20T20:19:52+00:00"
-    },
-    {
-     "titolo": "Terremoto di magnitudo 6,7 in Perù",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/terremoto-di-magnitudo-67-in-peru_a4e635d6-4e08-47e0-bba1-2b446236acc1.html",
-     "data": "2026-08-20T19:06:15+00:00"
-    },
-    {
-     "titolo": "Terremoto di magnitudo 6.7 in Perù",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/terremoto-di-magnitudo-6.7-in-peru_9ea1c7d2-cf64-47e0-acc1-87fc9fc4af7c.html",
-     "data": "2026-08-20T19:32:07+00:00"
-    },
-    {
-     "titolo": "Il pm sullo scandalo delle cartelle cliniche al processo Maradona, 'tesa una trappola'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/il-pm-sullo-scandalo-delle-cartelle-cliniche-al-processo-maradona-tesa-una-trappola_1a1f799b-11ac-4b4c-9211-4b80dece66f6.html",
-     "data": "2026-08-20T19:02:33+00:00"
-    },
-    {
-     "titolo": "Fonti Madrid all'ANSA, no alle espulsioni dei dublinanti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/fonti-madrid-allansa-no-alle-espulsioni-dei-dublinanti_2586aad1-4a2c-423f-916d-b560121f99c9.html",
-     "data": "2026-08-20T17:59:11+00:00"
     }
    ]
   },
