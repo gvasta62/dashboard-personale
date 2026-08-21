@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-21T00:28:43.069736+00:00",
+ "aggiornato": "2026-08-21T02:06:34.666816+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Terremoto in Colombia, le vittime accertate sono 319",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/terremoto-in-colombia-le-vittime-accertate-sono-319_f992fd24-d6ef-45cd-9879-1c1bd901eb24.html",
+     "data": "2026-08-21T01:32:33+00:00"
+    },
     {
      "titolo": "Trump e il suo ex avvocato personale riuniti dopo anni di scontri",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/trump-e-il-suo-ex-avvocato-personale-riuniti-dopo-anni-di-scontri_896a7e33-82ef-484e-a46c-cf06d51fdb40.html",
@@ -49,11 +54,6 @@
      "titolo": "Fonti Madrid all'ANSA, no alle espulsioni dei dublinanti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/fonti-madrid-allansa-no-alle-espulsioni-dei-dublinanti_a1444180-db39-4cc2-8c1c-df9ee485785c.html",
      "data": "2026-08-20T17:49:56+00:00"
-    },
-    {
-     "titolo": "Fonti Parigi all'ANSA, 'Francia per il momento non rimanderà i migranti in Italia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/fonti-parigi-allansa-francia-per-il-momento-non-rimandera-i-migranti-in-italia_b6c8d57a-1978-402b-a9ff-df955c015e14.html",
-     "data": "2026-08-20T17:41:01+00:00"
     }
    ]
   },
@@ -321,6 +321,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Cuba replica a Washington, 'difenderemo Patria e socialismo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/cuba-replica-a-washington-difenderemo-patria-e-socialismo_725937fe-2339-4a0a-9ef1-9a92f60d70af.html",
+     "data": "2026-08-21T01:42:49+00:00"
+    },
+    {
+     "titolo": "Terremoto in Colombia, le vittime accertate sono 319",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/terremoto-in-colombia-le-vittime-accertate-sono-319_092ae4d2-0e33-4cb0-a902-992646180c98.html",
+     "data": "2026-08-21T01:32:36+00:00"
+    },
+    {
+     "titolo": "America Latina, la Cepal stima una crescita del 2,2% nel 2026",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/america-latina-la-cepal-stima-una-crescita-del-22-nel-2026_1bfb20f6-13dc-4c96-a7f2-d4e08409b0fd.html",
+     "data": "2026-08-21T01:27:09+00:00"
+    },
+    {
+     "titolo": "Messico, scontro con gli Usa sui dazi antidumping per le fragole",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/messico-scontro-con-gli-usa-sui-dazi-antidumping-per-le-fragole_e94c84f5-093c-4c90-a87d-e2358ff12255.html",
+     "data": "2026-08-21T01:04:16+00:00"
+    },
+    {
      "titolo": "Trump e il suo ex avvocato personale riuniti dopo anni di scontri",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/21/trump-e-il-suo-ex-avvocato-personale-riuniti-dopo-anni-di-scontri_efa83086-bc14-428a-b4b6-f56b69d72f6b.html",
      "data": "2026-08-21T00:21:20+00:00"
@@ -359,26 +379,6 @@
      "titolo": "Messico, sequestrate a Mexicali 4 milioni di dosi di fentanyl",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/messico-sequestrate-a-mexicali-4-milioni-di-dosi-di-fentanyl_7bb4dcc9-36d7-4697-9827-461ac9c35c0f.html",
      "data": "2026-08-20T21:33:49+00:00"
-    },
-    {
-     "titolo": "Venezuela, l'aeroporto di Maiquetía riapre ai voli commerciali il 24 agosto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/venezuela-laeroporto-di-maiquetia-riapre-ai-voli-commerciali-il-24-agosto_355813ae-55ef-436c-89e2-f7827fc60b7f.html",
-     "data": "2026-08-20T21:29:24+00:00"
-    },
-    {
-     "titolo": "Colombia, De La Espriella presenta i nuovi vertici delle Forze armate",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/colombia-de-la-espriella-presenta-i-nuovi-vertici-delle-forze-armate_c2704a4f-3dc1-4012-8691-7dab13fc718a.html",
-     "data": "2026-08-20T21:25:34+00:00"
-    },
-    {
-     "titolo": "Ecuador, Usa sanzionano 15 persone e bloccano 10 imbarcazioni per narcotraffico",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/ecuador-usa-sanzionano-15-persone-e-bloccano-10-imbarcazioni-per-narcotraffico_217bd27b-b94d-42c7-97a2-39e822fb10dc.html",
-     "data": "2026-08-20T21:15:09+00:00"
-    },
-    {
-     "titolo": "Melania Trump torna in pubblico alla Casa Bianca con 'Fostering the Future'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/20/melania-trump-torna-in-pubblico-alla-casa-bianca-con-fostering-the_d22acea7-441d-499c-80cc-2f0bac670735.html",
-     "data": "2026-08-20T20:19:52+00:00"
     }
    ]
   },
