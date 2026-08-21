@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-21T19:03:26.605337+00:00",
+ "aggiornato": "2026-08-21T19:43:39.745663+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Un morto nell'attacco alla scuola in Svezia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/un-morto-nellattacco-alla-scuola-in-svezia_16c8b32b-be60-4af1-8f62-bf20fa231ba3.html",
+     "data": "2026-08-21T19:19:46+00:00"
+    },
+    {
+     "titolo": "L'Argentina conferma l'acquisto agli Usa di 235 blindati per l'esercito",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/largentina-conferma-lacquisto-agli-usa-di-235-blindati-per-lesercito_81104ca7-c200-47ad-a915-eeeb76829a44.html",
+     "data": "2026-08-21T19:08:39+00:00"
+    },
     {
      "titolo": "Corte Suprema, Trump può per ora continuare i lavori alla sala da ballo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/corte-suprema-trump-puo-per-ora-continuare-i-lavori-alla-sala_f1d0d049-0011-4e8d-8e67-da607e091ace.html",
@@ -44,16 +54,6 @@
      "titolo": "Borsa: l'Europa conclude in leggero rialzo, Londra +0,6%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-leuropa-conclude-in-leggero-rialzo-londra-06_fdacb7c3-2aa3-4465-8e90-3a1390d6efdf.html",
      "data": "2026-08-21T15:48:38+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'ignobile attacco russo su centro commerciale di Kryvyi Rih, 5 morti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/zelensky-ignobile-attacco-russo-su-centro-commerciale-di-kryvyi-rih-5-morti_5b3847d9-f9f3-4688-8973-a07f5c31ce31.html",
-     "data": "2026-08-21T15:45:39+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude piatta, Ftse Mib invariato",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-milano-chiude-piatta-ftse-mib-invariato_7996c2ac-aeab-4198-805c-3a5953f5e5a5.html",
-     "data": "2026-08-21T15:39:41+00:00"
     }
    ]
   },
@@ -128,7 +128,7 @@
     {
      "titolo": "Nubifragi, tornado e fulmini: il maltempo sferza il Centro-Nord",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/nubifragi-tornado-e-fulmini-il-maltempo-sferza-il-centro-nord_a64c18e3-dd44-4259-a721-17acb1bc8870.html",
-     "data": "2026-08-21T18:20:10+00:00"
+     "data": "2026-08-21T19:39:18+00:00"
     },
     {
      "titolo": "Turisti aggrediti da un lupo a Gallipoli, ferite mamma e figlia",
@@ -198,7 +198,7 @@
     {
      "titolo": "Piantedosi all'ANSA: 'Sui dublinanti polemiche sterili, solo 3 in Italia'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/piantedosi-allansa-sui-dublinanti-polemiche-sterili-solo-3-in-italia_bb6db8d5-c7d7-4dbb-840f-96b181f5a6df.html",
-     "data": "2026-08-21T18:27:02+00:00"
+     "data": "2026-08-21T19:08:24+00:00"
     },
     {
      "titolo": "La Lombardia chiede lo stato di emergenza per il maltempo",
@@ -244,11 +244,6 @@
      "titolo": "Mattarella: 'Trovare l'energia contro l'odio al diverso e allo straniero'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/mattarella-viviamo-tempi-di-guerre-scellerate-lumanita-aiuti-a-rifiutare-lodio_12196c88-7f6f-4d89-8235-fa9abfa1e7f0.html",
      "data": "2026-08-21T18:03:39+00:00"
-    },
-    {
-     "titolo": "La vita oltre le sbarre, al Meeting le storie di riscatto",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/la-vita-oltre-le-sbarre-al-meeting-le-storie-di-riscatto_a420c780-9431-4639-9897-0e219d954fdc.html",
-     "data": "2026-08-20T19:00:11+00:00"
     }
    ]
   },
@@ -321,6 +316,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Un morto nell'attacco alla scuola in Svezia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/un-morto-nellattacco-alla-scuola-in-svezia_2cb1b1b2-fc56-4f34-a0d3-08401e8bd84f.html",
+     "data": "2026-08-21T19:20:04+00:00"
+    },
+    {
+     "titolo": "L'Argentina conferma l'acquisto agli Usa di 235 blindati per l'esercito",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/largentina-conferma-lacquisto-agli-usa-di-235-blindati-per-lesercito_f46460ac-e4de-46e0-97ee-2674a9053b6f.html",
+     "data": "2026-08-21T19:09:04+00:00"
+    },
+    {
      "titolo": "Corte Suprema, Trump può per ora continuare i lavori alla sala da ballo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/21/corte-suprema-trump-puo-per-ora-continuare-i-lavori-alla-sala_e4c2f2b6-5490-49d7-b641-fc6d41aa774d.html",
      "data": "2026-08-21T18:22:32+00:00"
@@ -369,16 +374,6 @@
      "titolo": "Zelensky, 'ignobile attacco russo su centro commerciale di Kryvyi Rih, 5 morti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/zelensky-ignobile-attacco-russo-su-centro-commerciale-di-kryvyi-rih-5-morti_4b9ac74f-341d-4a3c-9994-8f2d75911277.html",
      "data": "2026-08-21T15:45:59+00:00"
-    },
-    {
-     "titolo": "Netanyahu, 'Erdogan dittatore antisemita, non ci faremo intimidire'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/21/netanyahu-erdogan-dittatore-antisemita-non-ci-faremo-intimidire_7ae9b843-01b0-47a7-bd40-e433ab6f2550.html",
-     "data": "2026-08-21T14:59:51+00:00"
-    },
-    {
-     "titolo": "Diaz-Canel, 'usciremo vittoriosi dal blocco imposto dagli Usa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/diaz-canel-usciremo-vittoriosi-dal-blocco-imposto-dagli-usa_ca706e45-b62f-468c-88b3-dd9b70757ffa.html",
-     "data": "2026-08-21T14:43:41+00:00"
     }
    ]
   },
@@ -461,6 +456,11 @@
      "data": "2026-08-21T18:45:31+00:00"
     },
     {
+     "titolo": "Calciomercato: Di Gregorio vicino al Bournemouth, la Lazio stringe su Pinamonti",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/calciomercato-di-gregorio-vicino-al-bournemouth-la-lazio-stringe-su-pinamonti_0631523e-65d4-48c6-b53c-a5029013c811.html",
+     "data": "2026-08-21T18:59:15+00:00"
+    },
+    {
      "titolo": "Calcio: Runjaic, obiettivi devono essere ambiziosi, ma serve un passo alla volta",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/calcio-runjaic-obiettivi-devono-essere-ambiziosi-ma-serve-un-passo-alla-volta_67dff24f-70be-4baf-9036-acea51fc5206.html",
      "data": "2026-08-21T18:10:36+00:00"
@@ -496,19 +496,14 @@
      "data": "2026-08-21T17:02:02+00:00"
     },
     {
+     "titolo": ">ANSA-BOX/Da Cobolli a Musetti, l'altra Italia che sogna a New York",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/21/ansa-boxda-cobolli-a-musetti-laltra-italia-che-sogna-a-new-york_5a87c906-be23-4152-a70a-17f02cbeed64.html",
+     "data": "2026-08-21T18:59:24+00:00"
+    },
+    {
      "titolo": "Atletica: Tamberi in pedana in Polonia, prima gara dopo l'oro europeo",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/21/atletica-tamberi-in-pedana-in-polonia-prima-gara-dopo-loro-europeo_0fd71372-762f-45c8-bb49-b735dee9874a.html",
      "data": "2026-08-21T15:37:27+00:00"
-    },
-    {
-     "titolo": "Zandvoort, Russell conquista la pole della Sprint in Olanda",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/21/zandvoort-russell-conquista-la-pole-della-sprint-in-olanda_d2717829-74e8-4635-8c2b-b79b04e8e5e9.html",
-     "data": "2026-08-21T15:32:21+00:00"
-    },
-    {
-     "titolo": "Maxi squalifica per Paredes, 10 giornate dopo la rissa della finale Mondiale",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/maxi-squalifica-per-paredes-10-giornate-dopo-la-rissa-della-finale-mondiale_b8c74c6e-a7e3-4e51-be37-820ea62b5d2b.html",
-     "data": "2026-08-21T14:46:54+00:00"
     }
    ]
   }
