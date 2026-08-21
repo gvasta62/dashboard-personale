@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-21T04:07:17.204187+00:00",
+ "aggiornato": "2026-08-21T05:00:01.812126+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Aereo charter con otto persone a bordo precipita in Alaska",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/aereo-charter-con-otto-persone-a-bordo-precipita-in-alaska_9126e4f3-7b5c-46d0-a615-1c727beb1447.html",
+     "data": "2026-08-21T04:49:54+00:00"
+    },
+    {
+     "titolo": "Droni russi su villaggio vicino a Kharkiv, due morti e due feriti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/droni-russi-su-villaggio-vicino-a-kharkiv-due-morti-e-due-feriti_4c95177c-f4c2-46f2-b1f4-6857f999c4b2.html",
+     "data": "2026-08-21T04:33:46+00:00"
+    },
     {
      "titolo": "Terremoto in Colombia, le vittime accertate sono 319",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/terremoto-in-colombia-le-vittime-accertate-sono-319_f992fd24-d6ef-45cd-9879-1c1bd901eb24.html",
@@ -44,16 +54,6 @@
      "titolo": "Terremoto di magnitudo 6,7 in Perù",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/terremoto-di-magnitudo-67-in-peru_4e66f1e9-a2e3-4e27-866d-b670e846c46a.html",
      "data": "2026-08-20T19:06:04+00:00"
-    },
-    {
-     "titolo": "Mps proporrà un dividendo straordinario da 4 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/mps-proporra-un-dividendo-straordinario-da-4-miliardi_16010c56-4807-4f9c-8bb1-187b563ea318.html",
-     "data": "2026-08-20T18:07:55+00:00"
-    },
-    {
-     "titolo": "Fonti Madrid all'ANSA, no alle espulsioni dei dublinanti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/fonti-madrid-allansa-no-alle-espulsioni-dei-dublinanti_a1444180-db39-4cc2-8c1c-df9ee485785c.html",
-     "data": "2026-08-20T17:49:56+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Aereo charter con otto persone a bordo precipita in Alaska",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/21/aereo-charter-con-otto-persone-a-bordo-precipita-in-alaska_03c280fd-4fd5-47af-b7b8-7b81fa7fa80f.html",
+     "data": "2026-08-21T04:50:23+00:00"
+    },
+    {
+     "titolo": "Droni russi su villaggio vicino a Kharkiv, due morti e due feriti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/droni-russi-su-villaggio-vicino-a-kharkiv-due-morti-e-due-feriti_152ffd16-fe97-4287-9c4b-eaca7ba203d6.html",
+     "data": "2026-08-21T04:34:05+00:00"
+    },
+    {
      "titolo": "Alleanza Aeroméxico-Delta salvata da un tribunale Usa",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/alleanza-aeromexico-delta-salvata-da-un-tribunale-usa_e23ab070-42c0-4120-8944-5eb395e0eb9d.html",
      "data": "2026-08-21T03:11:14+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Argentina oltre le attese, attività economica cresce del 2,7% a giugno",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/argentina-oltre-le-attese-attivita-economica-cresce-del-27-a-giugno_e2275296-4b70-483a-99ee-8a1b9e9c099b.html",
      "data": "2026-08-20T23:51:24+00:00"
-    },
-    {
-     "titolo": "Mezzaluna rossa, 'esercito Israele impedisce soccorso ai feriti dai coloni'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/21/mezzaluna-rossa-esercito-israele-impedisce-soccorso-ai-feriti-dai-coloni_c71f8377-b2fc-40b8-b413-bd64878ae947.html",
-     "data": "2026-08-20T22:57:11+00:00"
-    },
-    {
-     "titolo": "Panama, meno navi nel Canale da settembre per la siccità causata da El Niño",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/panama-meno-navi-nel-canale-da-settembre-per-la-siccita-causata-da-el-nino_26cc44fe-a74d-491b-a5fb-1cfa40b5abbc.html",
-     "data": "2026-08-20T22:34:10+00:00"
     }
    ]
   },
