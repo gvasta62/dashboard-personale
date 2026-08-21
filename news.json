@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-21T18:17:36.240553+00:00",
+ "aggiornato": "2026-08-21T19:03:26.605337+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Corte Suprema, Trump può per ora continuare i lavori alla sala da ballo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/corte-suprema-trump-puo-per-ora-continuare-i-lavori-alla-sala_f1d0d049-0011-4e8d-8e67-da607e091ace.html",
+     "data": "2026-08-21T18:22:17+00:00"
+    },
     {
      "titolo": "Kiev, 'salgono a 14 i morti nel raid a Kryvyi Rih, 4 uccisi a Mykolaiv'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/kiev-salgono-a-14-i-morti-nel-raid-a-kryvyi-rih-4-uccisi-a-mykolaiv_c3340416-d77f-4084-9726-a931fa2efa4e.html",
@@ -49,11 +54,6 @@
      "titolo": "Borsa: Milano chiude piatta, Ftse Mib invariato",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-milano-chiude-piatta-ftse-mib-invariato_7996c2ac-aeab-4198-805c-3a5953f5e5a5.html",
      "data": "2026-08-21T15:39:41+00:00"
-    },
-    {
-     "titolo": "Meloni parteciperà lunedì in collegamento alla riunione dei Volenterosi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/meloni-partecipera-lunedi-in-collegamento-alla-riunione-dei-volenterosi_ad72ba83-5978-432c-8b3e-1487ca4ebdb4.html",
-     "data": "2026-08-21T15:40:00+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Nubifragi, tornado e fulmini: il maltempo sferza il Centro-Nord",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/nubifragi-tornado-e-fulmini-il-maltempo-sferza-il-centro-nord_a64c18e3-dd44-4259-a721-17acb1bc8870.html",
+     "data": "2026-08-21T18:20:10+00:00"
+    },
+    {
      "titolo": "Turisti aggrediti da un lupo a Gallipoli, ferite mamma e figlia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/turisti-aggrediti-da-un-lupo-a-gallipoli-ferite-mamma-e-figlia_2cabd8b1-3cac-4cf9-8bfd-d432c9c63cf1.html",
      "data": "2026-08-21T17:49:45+00:00"
@@ -133,7 +138,7 @@
     {
      "titolo": "L'autopsia conferma, Tania Terrin è stata strangolata",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/lautopsia-conferma-tania-terrin-e-stata-strangolata_add6eedc-5b39-48b3-9141-7f28d71ded33.html",
-     "data": "2026-08-21T17:14:29+00:00"
+     "data": "2026-08-21T18:45:55+00:00"
     },
     {
      "titolo": "Famiglia nel bosco, Cantelmi 'grande affetto da gente per Catherine e Nathan'",
@@ -179,11 +184,6 @@
      "titolo": "Migranti sbarcano fra i turisti a Lampedusa, 68 portati in hotspot",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/migranti-sbarcano-fra-i-turisti-a-lampedusa-68-portati-in-hotspot_2a96ca46-a974-4c01-abcf-f47fa969a439.html",
      "data": "2026-08-21T15:54:19+00:00"
-    },
-    {
-     "titolo": "Spento l'incendio sui monti del Friuli",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/spento-lincendio-sui-monti-del-friuli_5dad8aea-fd55-4a33-82e0-04675b817c08.html",
-     "data": "2026-08-21T15:41:31+00:00"
     }
    ]
   },
@@ -191,9 +191,14 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "80mila richieste di presa in carico di dublinanti respinte in 3 anni",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/80mila-richieste-di-presa-in-carico-di-dublinanti-respinte-in-3-anni_ab4b01a9-0d39-4c98-8739-7718a3fe48ae.html",
+     "data": "2026-08-21T18:26:28+00:00"
+    },
+    {
      "titolo": "Piantedosi all'ANSA: 'Sui dublinanti polemiche sterili, solo 3 in Italia'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/piantedosi-allansa-sui-dublinanti-polemiche-sterili-solo-3-in-italia_bb6db8d5-c7d7-4dbb-840f-96b181f5a6df.html",
-     "data": "2026-08-21T17:35:37+00:00"
+     "data": "2026-08-21T18:27:02+00:00"
     },
     {
      "titolo": "La Lombardia chiede lo stato di emergenza per il maltempo",
@@ -244,11 +249,6 @@
      "titolo": "La vita oltre le sbarre, al Meeting le storie di riscatto",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/la-vita-oltre-le-sbarre-al-meeting-le-storie-di-riscatto_a420c780-9431-4639-9897-0e219d954fdc.html",
      "data": "2026-08-20T19:00:11+00:00"
-    },
-    {
-     "titolo": "La fronda del Nord: 'La Lega così non va, soluzione prima di Pontida'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/la-fronda-del-nord-la-lega-cosi-non-va-soluzione-prima-di-pontida_16f364ac-ed3e-480b-b172-f1efa95e2fa3.html",
-     "data": "2026-08-20T19:30:48+00:00"
     }
    ]
   },
@@ -321,6 +321,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Corte Suprema, Trump può per ora continuare i lavori alla sala da ballo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/21/corte-suprema-trump-puo-per-ora-continuare-i-lavori-alla-sala_e4c2f2b6-5490-49d7-b641-fc6d41aa774d.html",
+     "data": "2026-08-21T18:22:32+00:00"
+    },
+    {
      "titolo": "Il governatore di Sinaloa riprende le sue funzioni nonostante le accuse degli Usa",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/il-governatore-di-sinaloa-riprende-le-sue-funzioni-nonostante-le-accuse-degli-usa_deae79d6-9a42-47b7-b590-d97fd0c3c66b.html",
      "data": "2026-08-21T18:01:34+00:00"
@@ -374,11 +379,6 @@
      "titolo": "Diaz-Canel, 'usciremo vittoriosi dal blocco imposto dagli Usa'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/diaz-canel-usciremo-vittoriosi-dal-blocco-imposto-dagli-usa_ca706e45-b62f-468c-88b3-dd9b70757ffa.html",
      "data": "2026-08-21T14:43:41+00:00"
-    },
-    {
-     "titolo": "Brasile, stanziati 830 milioni di euro per un supercomputer nazionale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/brasile-stanziati-830-milioni-di-euro-per-un-supercomputer-nazionale_4cc19d8a-cf6e-4fed-a757-dc039d30ee30.html",
-     "data": "2026-08-21T14:39:05+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "È ufficiale, Curtis Jones è un nuovo giocatore dell'Inter",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/e-ufficiale-curtis-jones-e-un-nuovo-giocatore-dellinter_666b4e76-6768-4af7-a99e-19eac7052d6d.html",
+     "data": "2026-08-21T18:46:57+00:00"
+    },
+    {
+     "titolo": "È ufficiale, Curtis Jones è un nuovo giocatore dell'Inter",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/e-ufficiale-curtis-jones-e-un-nuovo-giocatore-dellinter_e8ee2d9c-cece-44b4-84fb-4dd1cf0191e0.html",
+     "data": "2026-08-21T18:45:31+00:00"
+    },
+    {
      "titolo": "Calcio: Runjaic, obiettivi devono essere ambiziosi, ma serve un passo alla volta",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/calcio-runjaic-obiettivi-devono-essere-ambiziosi-ma-serve-un-passo-alla-volta_67dff24f-70be-4baf-9036-acea51fc5206.html",
      "data": "2026-08-21T18:10:36+00:00"
@@ -499,16 +509,6 @@
      "titolo": "Maxi squalifica per Paredes, 10 giornate dopo la rissa della finale Mondiale",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/maxi-squalifica-per-paredes-10-giornate-dopo-la-rissa-della-finale-mondiale_b8c74c6e-a7e3-4e51-be37-820ea62b5d2b.html",
      "data": "2026-08-21T14:46:54+00:00"
-    },
-    {
-     "titolo": "Lazio: Josip Sutalo arrivato a Roma",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/lazio-josip-sutalo-arrivato-a-roma_bdd1bab2-ae25-4a35-9240-d4eaf59db885.html",
-     "data": "2026-08-21T14:18:46+00:00"
-    },
-    {
-     "titolo": "Sinner salta gli Us Open: 'Sono deluso, ma ho bisogno di tempo'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/21/sinner-rinuncia-agli-us-open_67bbadec-06f1-4e64-8968-c1d3cdcd2728.html",
-     "data": "2026-08-21T15:44:05+00:00"
     }
    ]
   }
