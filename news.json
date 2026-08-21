@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-21T15:28:47.220715+00:00",
+ "aggiornato": "2026-08-21T15:58:09.279893+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: l'Europa conclude in leggero rialzo, Londra +0,6%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-leuropa-conclude-in-leggero-rialzo-londra-06_fdacb7c3-2aa3-4465-8e90-3a1390d6efdf.html",
+     "data": "2026-08-21T15:48:38+00:00"
+    },
+    {
+     "titolo": "Zelensky, 'ignobile attacco russo su centro commerciale di Kryvyi Rih, 5 morti'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/zelensky-ignobile-attacco-russo-su-centro-commerciale-di-kryvyi-rih-5-morti_5b3847d9-f9f3-4688-8973-a07f5c31ce31.html",
+     "data": "2026-08-21T15:45:39+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude piatta, Ftse Mib invariato",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-milano-chiude-piatta-ftse-mib-invariato_7996c2ac-aeab-4198-805c-3a5953f5e5a5.html",
+     "data": "2026-08-21T15:39:41+00:00"
+    },
+    {
+     "titolo": "Meloni parteciperà lunedì in collegamento alla riunione dei Volenterosi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/meloni-partecipera-lunedi-in-collegamento-alla-riunione-dei-volenterosi_ad72ba83-5978-432c-8b3e-1487ca4ebdb4.html",
+     "data": "2026-08-21T15:40:00+00:00"
+    },
     {
      "titolo": "Per Uber multa da 825 milioni dal garante per la privacy in Olanda",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/per-uber-multa-da-825-milioni-dal-garante-per-la-privacy-in-olanda_ef7f1b87-ebfa-4d09-bc75-26703c9dacc9.html",
@@ -34,32 +54,17 @@
      "titolo": "Svizzera, grave incendio a Thusis, disperse cinque persone",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/svizzera-grave-incendio-a-thusis-disperse-cinque-persone_72790fa2-0b82-4cc8-b80b-91c8646b23e6.html",
      "data": "2026-08-21T14:30:44+00:00"
-    },
-    {
-     "titolo": "Media, manoscritti di Gandhi venduti all'asta a 1,4 milioni di euro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/media-manoscritti-di-gandhi-venduti-allasta-a-14-milioni-di-euro_14fe9f79-5797-4d60-aad9-fbb9d8ad4ad9.html",
-     "data": "2026-08-21T14:29:04+00:00"
-    },
-    {
-     "titolo": "Scocchia (illycaffè), il prezzo della tazzina sotto la corsa della materia prima",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/scocchia-illycaffe-il-prezzo-della-tazzina-sotto-la-corsa-della-materia-prima_fe76e0b7-9a10-4175-b5a2-bbc372307c72.html",
-     "data": "2026-08-21T14:01:01+00:00"
-    },
-    {
-     "titolo": "Budapest, 'non accetteremo migranti inviati da altri Paesi Ue'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/budapest-non-accetteremo-migranti-inviati-da-altri-paesi-ue_d33af064-4f08-4932-965f-bb8eb5b08a19.html",
-     "data": "2026-08-21T13:48:27+00:00"
-    },
-    {
-     "titolo": "Attacco con una spada in una scuola in Svezia, diversi feriti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/attacco-con-una-spada-in-una-scuola-in-svezia-diversi-feriti_26af27db-cf27-4988-80aa-b7bbdeedebda.html",
-     "data": "2026-08-21T13:34:47+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Bandecchi chiede 'blocco sine die del rilascio della cittadinanza italiana'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/21/bandecchi-chiede-blocco-sine-die-del-rilascio-della-cittadinanza-italiana_5c7cce59-a9fb-4e9e-b683-ceff71effa32.html",
+     "data": "2026-08-21T15:46:57+00:00"
+    },
     {
      "titolo": "Il sindaco di Assisi accoglie una delegazione proveniente dal Libano",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/21/il-sindaco-di-assisi-accoglie-una-delegazione-proveniente-dal-libano_24315b88-22f8-474c-b0a1-6c64d1051ca4.html",
@@ -114,17 +119,22 @@
      "titolo": "In Umbria il nuovo anno scolastico al via lunedì 14 settembre",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/in-umbria-il-nuovo-anno-scolastico-al-via-lunedi-14-settembre_945867b2-6f0c-4811-b0e3-8601bc0aafb3.html",
      "data": "2026-08-20T14:20:55+00:00"
-    },
-    {
-     "titolo": "Assisi presa d'assalto dai turisti",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/assisi-presa-dassalto-dai-turisti_75a548b1-1f8b-49dc-b772-67163dbaf895.html",
-     "data": "2026-08-20T13:46:29+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Migranti sbarcano fra i turisti a Lampedusa, 68 portati in hotspot",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/migranti-sbarcano-fra-i-turisti-a-lampedusa-68-portati-in-hotspot_2a96ca46-a974-4c01-abcf-f47fa969a439.html",
+     "data": "2026-08-21T15:54:19+00:00"
+    },
+    {
+     "titolo": "Spento l'incendio sui monti del Friuli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/spento-lincendio-sui-monti-del-friuli_5dad8aea-fd55-4a33-82e0-04675b817c08.html",
+     "data": "2026-08-21T15:41:31+00:00"
+    },
     {
      "titolo": "Maltempo, decine di stabilimenti balneari danneggiati in Versilia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-decine-di-stabilimenti-balneari-danneggiati-in-versilia_4428ae45-e4b2-4684-8e9a-a64551030377.html",
@@ -173,23 +183,23 @@
     {
      "titolo": "La madre della bimba morta a Palermo per sospetta difterite attacca i medici: 'Incompetenti'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/la-madre-della-bimba-morta-a-palermo-per-sospetta-difterite-attacca-i-medici_dff22e46-609a-4001-bccf-b32389579e80.html",
-     "data": "2026-08-21T15:01:33+00:00"
-    },
-    {
-     "titolo": "Cnr, trovata rete da pesca fantasma di 4 tonnellate a Termini Imerese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/cnr-trovata-rete-da-pesca-fantasma-di-4-tonnellate-a-termini-imerese_9768aa70-c0aa-4d58-a961-8fb325bd8602.html",
-     "data": "2026-08-21T13:09:44+00:00"
-    },
-    {
-     "titolo": "Campi Flegrei, 19 chiese danneggiate e dichiarate inagibili",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/campi-flegrei-19-chiese-danneggiate-e-dichiarate-inagibili_85dcc73b-4017-49a6-b2b2-a0fc9000989b.html",
-     "data": "2026-08-21T13:04:47+00:00"
+     "data": "2026-08-21T15:31:22+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "La Lombardia chiede lo stato di emergenza per il maltempo",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/la-lombardia-chiede-lo-stato-di-emergenza-per-il-maltempo_072eb085-4716-4252-a995-172a941f1ff8.html",
+     "data": "2026-08-21T15:51:41+00:00"
+    },
+    {
+     "titolo": "Meloni parteciperà lunedì in collegamento alla riunione dei Volenterosi",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/meloni-partecipera-lunedi-in-collegamento-alla-riunione-dei-volenterosi_f600c48b-aafa-4c00-8972-269878fc393b.html",
+     "data": "2026-08-21T15:40:02+00:00"
+    },
     {
      "titolo": "Conte, 'toccai con mano eccessi del woke, definire le vere priorità dei progressisti'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/conte-toccai-con-mano-eccessi-del-woke-definire-le-vere-priorita_f2e98677-8513-42c0-8b17-4a0a4d8ddcee.html",
@@ -239,22 +249,22 @@
      "titolo": "Aoun cerca sponde italiane su Unifil e forza alternativa",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/aoun-cerca-sponde-italiane-su-unifil-e-forza-alternativa_b75454ac-7cf8-45f8-aabf-83313321d820.html",
      "data": "2026-08-20T18:55:21+00:00"
-    },
-    {
-     "titolo": "Ranucci e le accuse di molestie, centrodestra all'attacco",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/ranucci-e-le-accuse-di-molestie-centrodestra-allattacco_939e406b-50ab-4722-a50c-ca4b9657c9f1.html",
-     "data": "2026-08-20T18:08:18+00:00"
-    },
-    {
-     "titolo": "A.Fontana e Romeo contestati alla Versiliana, 'Salvini non si tocca'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/a.fontana-e-romeo-contestati-alla-versiliana-salvini-non-si-tocca_0aaad5af-40ba-4539-8f34-7736e0c91eb1.html",
-     "data": "2026-08-20T17:14:18+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: l'Europa conclude in leggero rialzo, Londra +0,6%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-leuropa-conclude-in-leggero-rialzo-londra-06_2a507394-323b-4c49-a5fe-9f6db42fd82a.html",
+     "data": "2026-08-21T15:49:11+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude piatta, Ftse Mib invariato",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-milano-chiude-piatta-ftse-mib-invariato_ca0aec8e-a25e-4906-ac44-466927833aab.html",
+     "data": "2026-08-21T15:39:39+00:00"
+    },
     {
      "titolo": "Per Uber multa da 825 milioni dal garante per la privacy in Olanda",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/per-uber-multa-da-825-milioni-dal-garante-per-la-privacy-in-olanda_cb20f970-c799-4701-9008-f3bbf28fadd3.html",
@@ -304,22 +314,17 @@
      "titolo": "Borsa: Europa in cerca di spunti, Milano +0,25%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-europa-in-cerca-di-spunti-milano-025_847652f9-2384-4986-8787-c9a4a588e993.html",
      "data": "2026-08-21T11:42:24+00:00"
-    },
-    {
-     "titolo": "Brevetto per pagare in criptovalute biglietto di bus e sosta",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/brevetto-per-pagare-in-criptovalute-biglietto-di-bus-e-sosta_32b732e0-6938-40f8-86d2-d5742b4acb5b.html",
-     "data": "2026-08-21T11:41:51+00:00"
-    },
-    {
-     "titolo": "Volano le entrate fiscali spagnole (+10,4%), Italia distaccata a +2,1%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/volano-le-entrate-fiscali-spagnole-104-italia-distaccata-a-21_7a119542-7355-45da-b57d-3404c90c2db8.html",
-     "data": "2026-08-21T12:23:44+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Zelensky, 'ignobile attacco russo su centro commerciale di Kryvyi Rih, 5 morti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/zelensky-ignobile-attacco-russo-su-centro-commerciale-di-kryvyi-rih-5-morti_4b9ac74f-341d-4a3c-9994-8f2d75911277.html",
+     "data": "2026-08-21T15:45:59+00:00"
+    },
     {
      "titolo": "Netanyahu, 'Erdogan dittatore antisemita, non ci faremo intimidire'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/21/netanyahu-erdogan-dittatore-antisemita-non-ci-faremo-intimidire_7ae9b843-01b0-47a7-bd40-e433ab6f2550.html",
@@ -374,11 +379,6 @@
      "titolo": "Attacco con una spada in una scuola in Svezia, diversi feriti",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/attacco-con-una-spada-in-una-scuola-in-svezia-diversi-feriti_329827b3-40d1-4611-8196-47774ab564db.html",
      "data": "2026-08-21T13:34:54+00:00"
-    },
-    {
-     "titolo": "'Il mio custode e protettore', le lettere di Natalie Harp a Trump",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/21/il-mio-custode-e-protettore-le-lettere-di-natalie-harp-a-trump_01532692-06eb-4aec-b94f-d4183edab7a8.html",
-     "data": "2026-08-21T13:26:54+00:00"
     }
    ]
   },
@@ -451,6 +451,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Atletica: Tamberi in pedana in Polonia, prima gara dopo l'oro europeo",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/21/atletica-tamberi-in-pedana-in-polonia-prima-gara-dopo-loro-europeo_0fd71372-762f-45c8-bb49-b735dee9874a.html",
+     "data": "2026-08-21T15:37:27+00:00"
+    },
+    {
+     "titolo": "Zandvoort, Russell conquista la pole della Sprint in Olanda",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/21/zandvoort-russell-conquista-la-pole-della-sprint-in-olanda_d2717829-74e8-4635-8c2b-b79b04e8e5e9.html",
+     "data": "2026-08-21T15:32:21+00:00"
+    },
+    {
+     "titolo": "Europei di pallavolo: esordio ok delle azzurre, 3-0 alla Croazia",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/21/europei-pallavolo-esordio-ok-delle-azzurre-3-0-alla-croazia_7b72013d-a5e3-4376-a097-28e121fa25ee.html",
+     "data": "2026-08-21T15:29:40+00:00"
+    },
+    {
      "titolo": "Maxi squalifica per Paredes, 10 giornate dopo la rissa della finale Mondiale",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/maxi-squalifica-per-paredes-10-giornate-dopo-la-rissa-della-finale-mondiale_b8c74c6e-a7e3-4e51-be37-820ea62b5d2b.html",
      "data": "2026-08-21T14:46:54+00:00"
@@ -461,9 +476,9 @@
      "data": "2026-08-21T14:18:46+00:00"
     },
     {
-     "titolo": "Sinner rinuncia agli Us Open per il problema al ginocchio",
+     "titolo": "Sinner salta gli Us Open: 'Sono deluso, ma ho bisogno di tempo'",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/21/sinner-rinuncia-agli-us-open_67bbadec-06f1-4e64-8968-c1d3cdcd2728.html",
-     "data": "2026-08-21T14:50:05+00:00"
+     "data": "2026-08-21T15:44:05+00:00"
     },
     {
      "titolo": "Sinner rinuncia agli Us Open",
@@ -494,21 +509,6 @@
      "titolo": "Allegri 'Genoa squadra tecnica e agonistica, servirà una partita seria'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/allegri-genoa-squadra-tecnica-e-agonistica-servira-una-partita-seria_2b8b98ac-bbe1-47e8-af15-6f4aea2ae3ce.html",
      "data": "2026-08-21T13:02:14+00:00"
-    },
-    {
-     "titolo": "Chivu, 'Lautaro? Ce lo teniamo stretto'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/chivu-lautaro-ce-lo-teniamo-stretto_a6b81f8a-3fa0-4e2a-853a-0523b44a7bee.html",
-     "data": "2026-08-21T12:54:17+00:00"
-    },
-    {
-     "titolo": "Napoli: Allegri, 'Inter favorita ma 8 squadre lotteranno per le posizioni di vertice'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/napoli-allegri-inter-favorita-ma-8-squadre-lotteranno-per-le-posizioni-di-vertice_96d1c2ee-6125-4b67-8036-d5d738cc8f19.html",
-     "data": "2026-08-21T12:42:15+00:00"
-    },
-    {
-     "titolo": "Atletica show con il mondiale 'Ultimate', l'inno è di Duplantis",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/21/atletica-show-con-il-mondiale-ultimate-linno-e-di-duplantis_2b4c0ab3-127d-4935-8e7b-8eef69336d59.html",
-     "data": "2026-08-21T12:26:44+00:00"
     }
    ]
   }
