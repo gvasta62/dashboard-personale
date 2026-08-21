@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-21T16:57:17.318273+00:00",
+ "aggiornato": "2026-08-21T17:20:44.965354+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "L'Argentina preme sul Mercosur per accelerare l'apertura a nuovi mercati",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/largentina-preme-sul-mercosur-per-accelerare-lapertura-a-nuovi-mercati_8d4ceac8-6e16-4ce3-b4ec-2f9ca841463d.html",
+     "data": "2026-08-21T17:11:15+00:00"
+    },
     {
      "titolo": "Il gas in rialzo (+1,6%) a 66,4 euro al Megawattora",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/il-gas-in-rialzo-16-a-664-euro-al-megawattora_0777a5f1-262d-48bf-a0f0-250c7dbad313.html",
@@ -49,11 +54,6 @@
      "titolo": "Per Uber multa da 825 milioni dal garante per la privacy in Olanda",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/per-uber-multa-da-825-milioni-dal-garante-per-la-privacy-in-olanda_ef7f1b87-ebfa-4d09-bc75-26703c9dacc9.html",
      "data": "2026-08-21T15:09:30+00:00"
-    },
-    {
-     "titolo": "Netanyahu, 'Erdogan dittatore antisemita, non ci faremo intimidire'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/netanyahu-erdogan-dittatore-antisemita-non-ci-faremo-intimidire_2e378ebb-8bbb-40e3-8d12-b155d9477f95.html",
-     "data": "2026-08-21T14:54:16+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Maltempo, salvate tre persone da una frana in Lunigiana",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-salvate-tre-persone-da-una-frana-in-lunigiana_7593cadf-7d01-4314-a90c-775d1d7d2d27.html",
+     "data": "2026-08-21T17:04:32+00:00"
+    },
+    {
+     "titolo": "Incendio di bosco in Molise, evacuate case a S. Giacomo degli Schiavoni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/incendio-di-bosco-in-molise-evacuate-case-a-s.-giacomo-degli-schiavoni_6b542fe6-861d-43a9-9bec-8a7e163a85e6.html",
+     "data": "2026-08-21T16:57:11+00:00"
+    },
+    {
      "titolo": "Furto da 800 mila euro a Roma in casa di una storica dell'arte",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/furto-da-800-mila-euro-a-roma-in-casa-di-una-storica-dellarte_70794f21-b0d1-44cd-90f8-2776b77b358b.html",
      "data": "2026-08-21T16:42:02+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Cade da una scala, morto a Milano il medico Maurizio Bonati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/cade-da-una-scala-morto-a-milano-il-medico-maurizio-bonati_ceeeddba-441f-4dc9-a2bf-e8c597880bd0.html",
      "data": "2026-08-21T14:50:30+00:00"
-    },
-    {
-     "titolo": "Fermato il presunto autore del tentato omicidio di Milano Marittima",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/fermato-il-presunto-autore-del-tentato-omicidio-di-milano-marittima_9eccf17c-9bad-4776-a44d-b201670f4a6c.html",
-     "data": "2026-08-21T14:53:28+00:00"
-    },
-    {
-     "titolo": "Fulmine buca il campanile di una chiesa ottocentesca vicino a Genova",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/fulmine-buca-il-campanile-di-una-chiesa-ottocentesca-vicino-a-genova_7f9aea7b-39fa-41e3-bddd-7b5cb510c7e3.html",
-     "data": "2026-08-21T14:19:24+00:00"
     }
    ]
   },
@@ -321,6 +321,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "L'Argentina preme sul Mercosur per accelerare l'apertura a nuovi mercati",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/largentina-preme-sul-mercosur-per-accelerare-lapertura-a-nuovi-mercati_7e07c20a-f3cd-4bfd-bb20-c94cb11be18a.html",
+     "data": "2026-08-21T17:11:15+00:00"
+    },
+    {
      "titolo": "Cristo Redentore di Rio e Machu Picchu uniti in uno storico gemellaggio",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/cristo-redentore-di-rio-e-machu-picchu-uniti-in-uno-storico-gemellaggio_9295f468-609f-4fdf-9883-a56cce814153.html",
      "data": "2026-08-21T16:46:16+00:00"
@@ -374,11 +379,6 @@
      "titolo": "Ft, 'Kiev cerca l'ok di Musk per equipaggiare i suoi droni con Starlink'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/ft-kiev-cerca-lok-di-musk-per-equipaggiare-i-suoi-droni-con-starlink_61e8c56b-ddeb-4cf4-945d-6d628de83571.html",
      "data": "2026-08-21T15:00:01+00:00"
-    },
-    {
-     "titolo": "Lunedì Costa a Kiev, prenderà parte alla riunione dei Volenterosi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/lunedi-costa-a-kiev-prendera-parte-alla-riunione-dei-volenterosi_205fdaf3-bf5d-42a9-ac63-94c1e4909dd6.html",
-     "data": "2026-08-21T14:32:13+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Pisacane sprona il Cagliari, 'con il Parma si inizia a fare sul serio'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/pisacane-sprona-il-cagliari-con-il-parma-si-inizia-a-fare-sul-serio_58df6f8e-19b8-4801-ab62-59f2811ffd52.html",
+     "data": "2026-08-21T17:08:58+00:00"
+    },
+    {
+     "titolo": "F1: a Russell la pole della Sprint, Leclerc terzo in Olanda",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/21/f1-a-russell-la-pole-della-sprint-leclerc-terzo-in-olanda_b8410f54-e36b-45fd-9411-53b19181fc6c.html",
+     "data": "2026-08-21T17:02:02+00:00"
+    },
+    {
      "titolo": "Atletica: Tamberi in pedana in Polonia, prima gara dopo l'oro europeo",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/21/atletica-tamberi-in-pedana-in-polonia-prima-gara-dopo-loro-europeo_0fd71372-762f-45c8-bb49-b735dee9874a.html",
      "data": "2026-08-21T15:37:27+00:00"
@@ -499,16 +509,6 @@
      "titolo": "Chivu 'felice per Jones, con lui Inter più competitiva'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/chivu-felice-per-jones-con-lui-inter-piu-competitiva_bdd32cdd-d676-4048-8fa0-2245f7df650e.html",
      "data": "2026-08-21T13:10:43+00:00"
-    },
-    {
-     "titolo": "Inter: Chivu 'ripartiamo da zero sapendo di essere quelli da battere'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/inter-chivu-ripartiamo-da-zero-sapendo-di-essere-quelli-da-battere_15d3a3a4-cd2e-4f95-96a7-03d04db62b92.html",
-     "data": "2026-08-21T13:08:22+00:00"
-    },
-    {
-     "titolo": "Allegri 'Genoa squadra tecnica e agonistica, servirà una partita seria'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/allegri-genoa-squadra-tecnica-e-agonistica-servira-una-partita-seria_2b8b98ac-bbe1-47e8-af15-6f4aea2ae3ce.html",
-     "data": "2026-08-21T13:02:14+00:00"
     }
    ]
   }
