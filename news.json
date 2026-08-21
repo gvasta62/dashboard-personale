@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-21T14:58:55.813859+00:00",
+ "aggiornato": "2026-08-21T15:28:47.220715+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Per Uber multa da 825 milioni dal garante per la privacy in Olanda",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/per-uber-multa-da-825-milioni-dal-garante-per-la-privacy-in-olanda_ef7f1b87-ebfa-4d09-bc75-26703c9dacc9.html",
+     "data": "2026-08-21T15:09:30+00:00"
+    },
     {
      "titolo": "Netanyahu, 'Erdogan dittatore antisemita, non ci faremo intimidire'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/netanyahu-erdogan-dittatore-antisemita-non-ci-faremo-intimidire_2e378ebb-8bbb-40e3-8d12-b155d9477f95.html",
@@ -49,11 +54,6 @@
      "titolo": "Attacco con una spada in una scuola in Svezia, diversi feriti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/attacco-con-una-spada-in-una-scuola-in-svezia-diversi-feriti_26af27db-cf27-4988-80aa-b7bbdeedebda.html",
      "data": "2026-08-21T13:34:47+00:00"
-    },
-    {
-     "titolo": "++ Harry e gli altri vip devono pagare 11 milioni per causa persa contro il Mail ++",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/harry-e-gli-altri-vip-devono-pagare-11-milioni-per-causa-persa_a977bb99-aacd-4a18-b32a-974239f55fed.html",
-     "data": "2026-08-21T13:21:41+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Maltempo, decine di stabilimenti balneari danneggiati in Versilia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-decine-di-stabilimenti-balneari-danneggiati-in-versilia_4428ae45-e4b2-4684-8e9a-a64551030377.html",
+     "data": "2026-08-21T15:18:26+00:00"
+    },
+    {
      "titolo": "Muore a 21 anni in Croazia durante una vacanza, era su una moto d'acqua",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/muore-a-21-anni-in-croazia-durante-una-vacanza-era-su-una-moto-dacqua_02071290-e253-4cea-9621-6f389585e974.html",
      "data": "2026-08-21T14:51:05+00:00"
@@ -168,7 +173,7 @@
     {
      "titolo": "La madre della bimba morta a Palermo per sospetta difterite attacca i medici: 'Incompetenti'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/la-madre-della-bimba-morta-a-palermo-per-sospetta-difterite-attacca-i-medici_dff22e46-609a-4001-bccf-b32389579e80.html",
-     "data": "2026-08-21T13:14:20+00:00"
+     "data": "2026-08-21T15:01:33+00:00"
     },
     {
      "titolo": "Cnr, trovata rete da pesca fantasma di 4 tonnellate a Termini Imerese",
@@ -179,11 +184,6 @@
      "titolo": "Campi Flegrei, 19 chiese danneggiate e dichiarate inagibili",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/campi-flegrei-19-chiese-danneggiate-e-dichiarate-inagibili_85dcc73b-4017-49a6-b2b2-a0fc9000989b.html",
      "data": "2026-08-21T13:04:47+00:00"
-    },
-    {
-     "titolo": "Accoltella una donna durante un incontro in un residence a Torino, arrestato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/accoltella-una-donna-durante-un-incontro-in-un-residence-a-torino-arrestato_b67a1645-b80f-4728-b79d-c2c80b221db6.html",
-     "data": "2026-08-21T13:03:01+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Per Uber multa da 825 milioni dal garante per la privacy in Olanda",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/per-uber-multa-da-825-milioni-dal-garante-per-la-privacy-in-olanda_cb20f970-c799-4701-9008-f3bbf28fadd3.html",
+     "data": "2026-08-21T15:09:26+00:00"
+    },
+    {
      "titolo": "Scocchia (illycaffè), il prezzo della tazzina sotto la corsa della materia prima",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/scocchia-illycaffe-il-prezzo-della-tazzina-sotto-la-corsa-della-materia-prima_25d71253-0208-4992-a891-fcfed66a2ece.html",
      "data": "2026-08-21T14:01:05+00:00"
@@ -309,11 +314,6 @@
      "titolo": "Volano le entrate fiscali spagnole (+10,4%), Italia distaccata a +2,1%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/volano-le-entrate-fiscali-spagnole-104-italia-distaccata-a-21_7a119542-7355-45da-b57d-3404c90c2db8.html",
      "data": "2026-08-21T12:23:44+00:00"
-    },
-    {
-     "titolo": "Meno parenti più innovazione, l'agricoltura non è più familiare",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/meno-parenti-piu-innovazione-lagricoltura-non-e-piu-familiare_4897f069-546f-4dd0-94aa-9793ff98e314.html",
-     "data": "2026-08-21T12:25:45+00:00"
     }
    ]
   },
@@ -323,7 +323,7 @@
     {
      "titolo": "Netanyahu, 'Erdogan dittatore antisemita, non ci faremo intimidire'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/21/netanyahu-erdogan-dittatore-antisemita-non-ci-faremo-intimidire_7ae9b843-01b0-47a7-bd40-e433ab6f2550.html",
-     "data": "2026-08-21T14:54:16+00:00"
+     "data": "2026-08-21T14:59:51+00:00"
     },
     {
      "titolo": "Diaz-Canel, 'usciremo vittoriosi dal blocco imposto dagli Usa'",
@@ -337,13 +337,13 @@
     },
     {
      "titolo": "Ft, 'Kiev cerca l'ok di Musk per equipaggiare i suoi droni con Starlink'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/ft-kiev-cerca-lok-di-musk-per-equipaggiare-i-suoi-droni-con-starlink_61e8c56b-ddeb-4cf4-945d-6d628de83571.html",
-     "data": "2026-08-21T14:37:17+00:00"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/21/ft-kiev-cerca-lok-di-musk-per-equipaggiare-i-suoi-droni-con-starlink_86e0c1d0-3f8e-4bb0-9fbe-26e0743e6c2d.html",
+     "data": "2026-08-21T14:37:18+00:00"
     },
     {
      "titolo": "Ft, 'Kiev cerca l'ok di Musk per equipaggiare i suoi droni con Starlink'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/21/ft-kiev-cerca-lok-di-musk-per-equipaggiare-i-suoi-droni-con-starlink_86e0c1d0-3f8e-4bb0-9fbe-26e0743e6c2d.html",
-     "data": "2026-08-21T14:37:18+00:00"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/ft-kiev-cerca-lok-di-musk-per-equipaggiare-i-suoi-droni-con-starlink_61e8c56b-ddeb-4cf4-945d-6d628de83571.html",
+     "data": "2026-08-21T15:00:01+00:00"
     },
     {
      "titolo": "Lunedì Costa a Kiev, prenderà parte alla riunione dei Volenterosi",
