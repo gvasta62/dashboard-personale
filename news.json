@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-21T16:25:18.453445+00:00",
+ "aggiornato": "2026-08-21T16:57:17.318273+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il gas in rialzo (+1,6%) a 66,4 euro al Megawattora",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/il-gas-in-rialzo-16-a-664-euro-al-megawattora_0777a5f1-262d-48bf-a0f0-250c7dbad313.html",
+     "data": "2026-08-21T16:31:09+00:00"
+    },
+    {
+     "titolo": "++ Donna morta in casa, arrestato il figlio ++",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/-donna-morta-in-casa-arrestato-il-figlio-_841f3de5-429f-4e5e-8dc5-9c0762170607.html",
+     "data": "2026-08-21T16:20:55+00:00"
+    },
     {
      "titolo": "Geolier con Tutto è possibile risale in vetta alla hit parade",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/geolier-con-tutto-e-possibile-risale-in-vetta-alla-hit-parade_fd56ec68-2db9-4666-9308-88f2859778c9.html",
@@ -44,16 +54,6 @@
      "titolo": "Netanyahu, 'Erdogan dittatore antisemita, non ci faremo intimidire'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/netanyahu-erdogan-dittatore-antisemita-non-ci-faremo-intimidire_2e378ebb-8bbb-40e3-8d12-b155d9477f95.html",
      "data": "2026-08-21T14:54:16+00:00"
-    },
-    {
-     "titolo": "Brasile, stanziati 830 milioni di euro per un supercomputer nazionale",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/brasile-stanziati-830-milioni-di-euro-per-un-supercomputer-nazionale_a2d6bb56-f263-48e4-bbd4-3d49b2cd7dad.html",
-     "data": "2026-08-21T14:39:02+00:00"
-    },
-    {
-     "titolo": "Ft, 'Kiev cerca l'ok di Musk per equipaggiare i suoi droni con Starlink'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/ft-kiev-cerca-lok-di-musk-per-equipaggiare-i-suoi-droni-con-starlink_275acc8e-f714-43d4-a9e5-f3c1eb63a27b.html",
-     "data": "2026-08-21T14:37:15+00:00"
     }
    ]
   },
@@ -126,9 +126,29 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Furto da 800 mila euro a Roma in casa di una storica dell'arte",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/furto-da-800-mila-euro-a-roma-in-casa-di-una-storica-dellarte_70794f21-b0d1-44cd-90f8-2776b77b358b.html",
+     "data": "2026-08-21T16:42:02+00:00"
+    },
+    {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-08-21T16:38:06+00:00"
+    },
+    {
+     "titolo": "Donna morta in casa, arrestato il figlio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/donna-morta-in-casa-arrestato-il-figlio-_73eb661c-25e5-4004-92cf-e6c917797c1e.html",
+     "data": "2026-08-21T16:42:27+00:00"
+    },
+    {
      "titolo": "Vento sferza Firenze, turista colpita da una tegola",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/vento-sferza-firenze-turista-colpita-da-una-tegola_2e851a39-58ef-4695-a2a5-c01a2d6daded.html",
      "data": "2026-08-21T16:20:25+00:00"
+    },
+    {
+     "titolo": "++ Donna morta in casa, arrestato il figlio ++",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/-donna-morta-in-casa-arrestato-il-figlio-_15914d97-2e09-4714-ae7f-f71a605075e4.html",
+     "data": "2026-08-21T16:20:51+00:00"
     },
     {
      "titolo": "Migranti sbarcano fra i turisti a Lampedusa, 68 portati in hotspot",
@@ -164,26 +184,6 @@
      "titolo": "Fulmine buca il campanile di una chiesa ottocentesca vicino a Genova",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/fulmine-buca-il-campanile-di-una-chiesa-ottocentesca-vicino-a-genova_7f9aea7b-39fa-41e3-bddd-7b5cb510c7e3.html",
      "data": "2026-08-21T14:19:24+00:00"
-    },
-    {
-     "titolo": "Maxi rissa in spiaggia a Mondragone a Ferragosto, scattano i provvedimenti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maxi-rissa-in-spiaggia-a-mondragone-a-ferragosto-scattano-i-provvedimenti_9ae5ae3c-e001-4bf6-994e-700610b48d83.html",
-     "data": "2026-08-21T14:00:09+00:00"
-    },
-    {
-     "titolo": "Incendi Abruzzo, sul monte Morrone fiamme ridotte anche grazie ai droni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/incendi-abruzzo-sul-monte-morrone-fiamme-ridotte-anche-grazie-ai-droni_8e7ad960-7448-4efb-84c4-10bfa261047b.html",
-     "data": "2026-08-21T13:41:51+00:00"
-    },
-    {
-     "titolo": "Uccisa dall'ex, oggi l'autopsia di Tania Terrin",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/uccisa-dallex-oggi-lautopsia-di-tania-terrin_add6eedc-5b39-48b3-9141-7f28d71ded33.html",
-     "data": "2026-08-21T14:02:35+00:00"
-    },
-    {
-     "titolo": "Aggressione antisemita a Roma, picchiato un ricercatore della Sapienza",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/aggressione-antisemita-a-roma-picchiato-un-ricercatore-della-sapienza_5968aaac-e2be-4b9a-8044-ad673f2eddd4.html",
-     "data": "2026-08-21T13:15:52+00:00"
     }
    ]
   },
@@ -256,6 +256,16 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Milano sulla parità con le banche deboli, recupera Stellantis (+4%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-milano-sulla-parita-con-le-banche-deboli-recupera-stellantis-4_c37e4adc-6bae-4c22-ab86-ae422a4b1504.html",
+     "data": "2026-08-21T16:51:15+00:00"
+    },
+    {
+     "titolo": "Il gas in rialzo (+1,6%) a 66,4 euro al Megawattora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/il-gas-in-rialzo-16-a-664-euro-al-megawattora_d29bff05-d84f-4352-b2ea-ad7dbba74240.html",
+     "data": "2026-08-21T16:31:11+00:00"
+    },
+    {
      "titolo": "Lo spread tra Btp e Bund chiude in leggero rialzo a 82 punti base",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/lo-spread-tra-btp-e-bund-chiude-in-leggero-rialzo-a-82-punti-base_cdc574ce-7916-42b2-9fb4-7d1176aa4e44.html",
      "data": "2026-08-21T16:04:58+00:00"
@@ -296,30 +306,40 @@
      "data": "2026-08-21T13:40:11+00:00"
     },
     {
-     "titolo": "Intesa Sanpaolo valuta esposto alla Consob su Mps",
+     "titolo": "Intesa Sanpaolo valuta un esposto alla Consob su Mps",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/intesa-sanpaolo-valuta-esposto-alla-consob-su-mps_14b84922-cb20-4ca7-b3cd-06f3c121a703.html",
-     "data": "2026-08-21T13:16:52+00:00"
+     "data": "2026-08-21T16:43:43+00:00"
     },
     {
      "titolo": "Ex Ilva, si amplia l'interesse per la cordata. Eusider: 'Strategico il rilancio'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/ex-ilva-si-amplia-linteresse-per-la-cordata.-eusider-strategico-il-rilancio_0d57e5bc-3521-490c-9fc7-955c77ccb227.html",
      "data": "2026-08-21T13:24:58+00:00"
-    },
-    {
-     "titolo": "Quasi 4mila 'pacchi orfani' recuperati da Gls con Fondazione Rava",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/quasi-4mila-pacchi-orfani-recuperati-da-gls-con-fondazione-rava_61c38441-3062-466b-b574-1e1b0cd560a9.html",
-     "data": "2026-08-21T12:30:19+00:00"
-    },
-    {
-     "titolo": "L'oro sale ancora, il prezzo spot vola a 4.600 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/loro-sale-ancora-il-prezzo-spot-vola-a-4.600-dollari_925f7028-e1f3-423c-a159-919a24c94a1f.html",
-     "data": "2026-08-21T12:21:22+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Cristo Redentore di Rio e Machu Picchu uniti in uno storico gemellaggio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/cristo-redentore-di-rio-e-machu-picchu-uniti-in-uno-storico-gemellaggio_9295f468-609f-4fdf-9883-a56cce814153.html",
+     "data": "2026-08-21T16:46:16+00:00"
+    },
+    {
+     "titolo": "L'Olanda si unisce al fronte del Nord, dublinanti in Italia. Meloni: 'Nessun boomerang, il Patto tutela il Paese'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/lolanda-si-unisce-al-fronte-del-nord-dublinanti-in-italia.-meloni-nessun-boomerang_62a47941-97c9-4c45-8b38-94176f4ab80b.html",
+     "data": "2026-08-21T16:40:02+00:00"
+    },
+    {
+     "titolo": "Lula chiama Trump e propone di rilanciare i negoziati sui dazi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/lula-chiama-trump-e-propone-di-rilanciare-i-negoziati-sui-dazi_91b66add-074a-4e32-b27a-9afe4fab700e.html",
+     "data": "2026-08-21T16:33:32+00:00"
+    },
+    {
+     "titolo": "Rimosso il ministro delle Finanze della Bolivia dopo l'impeachment del Parlamento",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/rimosso-il-ministro-delle-finanze-della-bolivia-dopo-limpeachment-del-parlamento_49a4b9d8-b523-4df2-b628-7cf5b30c3402.html",
+     "data": "2026-08-21T16:25:28+00:00"
+    },
     {
      "titolo": "Dopo il terremoto la Colombia nella morsa del fuoco, maxi incendio a Tolima",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/dopo-il-terremoto-la-colombia-nella-morsa-del-fuoco-maxi-incendio-a-tolima_591fc493-afca-4080-83a7-6535aebaff8c.html",
@@ -359,26 +379,6 @@
      "titolo": "Lunedì Costa a Kiev, prenderà parte alla riunione dei Volenterosi",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/lunedi-costa-a-kiev-prendera-parte-alla-riunione-dei-volenterosi_205fdaf3-bf5d-42a9-ac63-94c1e4909dd6.html",
      "data": "2026-08-21T14:32:13+00:00"
-    },
-    {
-     "titolo": "Svizzera, grave incendio a Thusis, disperse cinque persone",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/svizzera-grave-incendio-a-thusis-disperse-cinque-persone_f640aa75-91c7-4c21-878a-5b272f6237c3.html",
-     "data": "2026-08-21T14:30:49+00:00"
-    },
-    {
-     "titolo": "Media, manoscritti di Gandhi venduti all'asta a 1,4 milioni di euro",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/21/media-manoscritti-di-gandhi-venduti-allasta-a-14-milioni-di-euro_afd8af59-18be-4e27-9ab0-a1a711f614d8.html",
-     "data": "2026-08-21T14:29:21+00:00"
-    },
-    {
-     "titolo": "In Spagna cartelloni pro Bukele a Oviedo, scontro fra Vox e i socialisti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/in-spagna-cartelloni-pro-bukele-a-oviedo-scontro-fra-vox-e-i-socialisti_402a633a-e5e1-40e0-a9ac-30d98243fa02.html",
-     "data": "2026-08-21T13:54:12+00:00"
-    },
-    {
-     "titolo": "Budapest, 'non accetteremo migranti inviati da altri Paesi Ue'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/budapest-non-accetteremo-migranti-inviati-da-altri-paesi-ue_ebbeea23-97b7-46f2-bfd9-9bddd509e7dc.html",
-     "data": "2026-08-21T13:48:23+00:00"
     }
    ]
   },
