@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-21T17:20:44.965354+00:00",
+ "aggiornato": "2026-08-21T17:51:36.933980+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Kiev, 'salgono a 14 i morti nel raid a Kryvyi Rih, 4 uccisi a Mykolaiv'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/kiev-salgono-a-14-i-morti-nel-raid-a-kryvyi-rih-4-uccisi-a-mykolaiv_c3340416-d77f-4084-9726-a931fa2efa4e.html",
+     "data": "2026-08-21T17:40:25+00:00"
+    },
     {
      "titolo": "L'Argentina preme sul Mercosur per accelerare l'apertura a nuovi mercati",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/largentina-preme-sul-mercosur-per-accelerare-lapertura-a-nuovi-mercati_8d4ceac8-6e16-4ce3-b4ec-2f9ca841463d.html",
@@ -49,11 +54,6 @@
      "titolo": "Meloni parteciperà lunedì in collegamento alla riunione dei Volenterosi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/meloni-partecipera-lunedi-in-collegamento-alla-riunione-dei-volenterosi_ad72ba83-5978-432c-8b3e-1487ca4ebdb4.html",
      "data": "2026-08-21T15:40:00+00:00"
-    },
-    {
-     "titolo": "Per Uber multa da 825 milioni dal garante per la privacy in Olanda",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/per-uber-multa-da-825-milioni-dal-garante-per-la-privacy-in-olanda_ef7f1b87-ebfa-4d09-bc75-26703c9dacc9.html",
-     "data": "2026-08-21T15:09:30+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "L'autopsia conferma, Tania Terrin è stata strangolata",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/lautopsia-conferma-tania-terrin-e-stata-strangolata_add6eedc-5b39-48b3-9141-7f28d71ded33.html",
+     "data": "2026-08-21T17:14:29+00:00"
+    },
+    {
+     "titolo": "Famiglia nel bosco, Cantelmi 'grande affetto da gente per Catherine e Nathan'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/famiglia-nel-bosco-cantelmi-grande-affetto-da-gente-per-catherine-e-nathan_2ee3a99d-bb73-4494-a4ee-9e33b0cb380c.html",
+     "data": "2026-08-21T17:14:00+00:00"
+    },
+    {
      "titolo": "Maltempo, salvate tre persone da una frana in Lunigiana",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-salvate-tre-persone-da-una-frana-in-lunigiana_7593cadf-7d01-4314-a90c-775d1d7d2d27.html",
      "data": "2026-08-21T17:04:32+00:00"
@@ -174,22 +184,17 @@
      "titolo": "Maltempo, decine di stabilimenti balneari danneggiati in Versilia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-decine-di-stabilimenti-balneari-danneggiati-in-versilia_4428ae45-e4b2-4684-8e9a-a64551030377.html",
      "data": "2026-08-21T15:18:26+00:00"
-    },
-    {
-     "titolo": "Muore a 21 anni in Croazia durante una vacanza, era su una moto d'acqua",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/muore-a-21-anni-in-croazia-durante-una-vacanza-era-su-una-moto-dacqua_02071290-e253-4cea-9621-6f389585e974.html",
-     "data": "2026-08-21T14:51:05+00:00"
-    },
-    {
-     "titolo": "Cade da una scala, morto a Milano il medico Maurizio Bonati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/cade-da-una-scala-morto-a-milano-il-medico-maurizio-bonati_ceeeddba-441f-4dc9-a2bf-e8c597880bd0.html",
-     "data": "2026-08-21T14:50:30+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Piantedosi all'ANSA: 'Sui dublinanti polemiche sterili, solo 3 in Italia'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/piantedosi-allansa-sui-dublinanti-polemiche-sterili-solo-3-in-italia_bb6db8d5-c7d7-4dbb-840f-96b181f5a6df.html",
+     "data": "2026-08-21T17:35:37+00:00"
+    },
     {
      "titolo": "La Lombardia chiede lo stato di emergenza per il maltempo",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/la-lombardia-chiede-lo-stato-di-emergenza-per-il-maltempo_072eb085-4716-4252-a995-172a941f1ff8.html",
@@ -244,11 +249,6 @@
      "titolo": "La fronda del Nord: 'La Lega così non va, soluzione prima di Pontida'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/la-fronda-del-nord-la-lega-cosi-non-va-soluzione-prima-di-pontida_16f364ac-ed3e-480b-b172-f1efa95e2fa3.html",
      "data": "2026-08-20T19:30:48+00:00"
-    },
-    {
-     "titolo": "Aoun cerca sponde italiane su Unifil e forza alternativa",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/aoun-cerca-sponde-italiane-su-unifil-e-forza-alternativa_b75454ac-7cf8-45f8-aabf-83313321d820.html",
-     "data": "2026-08-20T18:55:21+00:00"
     }
    ]
   },
@@ -321,6 +321,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Kiev, 'salgono a 14 i morti nel raid a Kryvyi Rih, 4 uccisi a Mykolaiv'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/kiev-salgono-a-14-i-morti-nel-raid-a-kryvyi-rih-4-uccisi-a-mykolaiv_0378afcd-e83d-4b90-995f-95e79acfc227.html",
+     "data": "2026-08-21T17:40:42+00:00"
+    },
+    {
      "titolo": "L'Argentina preme sul Mercosur per accelerare l'apertura a nuovi mercati",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/largentina-preme-sul-mercosur-per-accelerare-lapertura-a-nuovi-mercati_7e07c20a-f3cd-4bfd-bb20-c94cb11be18a.html",
      "data": "2026-08-21T17:11:15+00:00"
@@ -374,11 +379,6 @@
      "titolo": "Ft, 'Kiev cerca l'ok di Musk per equipaggiare i suoi droni con Starlink'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/21/ft-kiev-cerca-lok-di-musk-per-equipaggiare-i-suoi-droni-con-starlink_86e0c1d0-3f8e-4bb0-9fbe-26e0743e6c2d.html",
      "data": "2026-08-21T14:37:18+00:00"
-    },
-    {
-     "titolo": "Ft, 'Kiev cerca l'ok di Musk per equipaggiare i suoi droni con Starlink'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/ft-kiev-cerca-lok-di-musk-per-equipaggiare-i-suoi-droni-con-starlink_61e8c56b-ddeb-4cf4-945d-6d628de83571.html",
-     "data": "2026-08-21T15:00:01+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Pallanuoto: parte la stagione di Trieste con allenatore Guillermo Molina",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/21/pallanuoto-parte-la-stagione-di-trieste-con-allenatore-guillermo-molina_861762ed-b5c3-4673-ac44-ec885a634cc4.html",
+     "data": "2026-08-21T17:14:07+00:00"
+    },
+    {
      "titolo": "Pisacane sprona il Cagliari, 'con il Parma si inizia a fare sul serio'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/pisacane-sprona-il-cagliari-con-il-parma-si-inizia-a-fare-sul-serio_58df6f8e-19b8-4801-ab62-59f2811ffd52.html",
      "data": "2026-08-21T17:08:58+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Riparte la serie B su Dazn, Vicenza-Catanzaro in chiaro",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/riparte-la-serie-b-su-dazn-vicenza-catanzaro-in-chiaro_4d2e3f7d-77ed-41af-95fb-887d70696b27.html",
      "data": "2026-08-21T13:24:40+00:00"
-    },
-    {
-     "titolo": "Chivu 'felice per Jones, con lui Inter più competitiva'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/chivu-felice-per-jones-con-lui-inter-piu-competitiva_bdd32cdd-d676-4048-8fa0-2245f7df650e.html",
-     "data": "2026-08-21T13:10:43+00:00"
     }
    ]
   }
