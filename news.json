@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-08-21T06:21:01.661072+00:00",
+ "aggiornato": "2026-08-21T07:13:40.012473+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Milano apre in rialzo dello 0,2%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-milano-apre-in-rialzo-dello-02_0723ee3e-a7d3-4112-a56b-f73caeb2d9ba.html",
+     "data": "2026-08-21T07:06:33+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Asia chiude in ordine sparso tra il Medio Oriente e il debito Usa",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-lasia-chiude-in-ordine-sparso-tra-il-medio-oriente-e-il-debito-usa_fc45ca06-3d75-47fa-8a3b-f5541eb84a70.html",
+     "data": "2026-08-21T07:07:06+00:00"
+    },
+    {
+     "titolo": "Petrolio in ribasso dello 0,48%, Wti a 86,41 dollari al barile",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/petrolio-in-ribasso-dello-048-wti-a-8641-dollari-al-barile_0202972a-1447-4f1a-9dfa-5361d907a1ab.html",
+     "data": "2026-08-21T06:34:33+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund apre stabile a 81 punti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/lo-spread-tra-btp-e-bund-apre-stabile-a-81-punti_0e6616ff-cc37-412a-8047-476793e0f4b6.html",
+     "data": "2026-08-21T06:34:16+00:00"
+    },
+    {
+     "titolo": "Donna morta in casa vicino Potenza, ha grave trauma al volto",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/donna-morta-in-casa-vicino-potenza-ha-grave-trauma-al-volto_31307987-2b1f-451b-968b-50f862bb4d8f.html",
+     "data": "2026-08-21T06:28:36+00:00"
+    },
     {
      "titolo": "Il prezzo del gas in calo a 64,81 euro al megawattora",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/il-prezzo-del-gas-in-calo-a-6481-euro-al-megawattora_aa450562-3426-441a-a6ba-1af3be25dfe6.html",
@@ -29,31 +54,6 @@
      "titolo": "Trump e il suo ex avvocato personale riuniti dopo anni di scontri",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/trump-e-il-suo-ex-avvocato-personale-riuniti-dopo-anni-di-scontri_896a7e33-82ef-484e-a46c-cf06d51fdb40.html",
      "data": "2026-08-21T00:21:17+00:00"
-    },
-    {
-     "titolo": "Giappone, inflazione accelera in luglio all'1,8%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/giappone-inflazione-accelera-in-luglio-all18_c7729717-ba23-4528-829b-e4d5e8f0e950.html",
-     "data": "2026-08-21T00:17:52+00:00"
-    },
-    {
-     "titolo": "Panama, meno navi nel Canale da settembre per la siccità",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/panama-meno-navi-nel-canale-da-settembre-per-la-siccita_5ae54289-d9e8-47b8-8022-6abc491fd6a0.html",
-     "data": "2026-08-20T23:08:29+00:00"
-    },
-    {
-     "titolo": "Mezzaluna rossa, 'esercito Israele impedisce soccorso ai feriti dai coloni'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/mezzaluna-rossa-esercito-israele-impedisce-soccorso-ai-feriti-dai-coloni_12a76a02-9406-4d62-9566-9338749fec95.html",
-     "data": "2026-08-20T22:56:53+00:00"
-    },
-    {
-     "titolo": "Zelensky sanziona a 5 cittadini e 4 organizzazioni russi legati a 'Masha e Orso'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/zelensky-sanziona-a-5-cittadini-e-4-organizzazioni-russi-legati-a-masha-e-orso_8387498e-4e62-446e-b7c5-0f15ec076ad5.html",
-     "data": "2026-08-20T21:43:56+00:00"
-    },
-    {
-     "titolo": "Melania Trump torna in pubblico alla Casa Bianca con 'Fostering the Future'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/melania-trump-torna-in-pubblico-alla-casa-bianca-con-fostering-the_e49f3602-2dd5-46cf-9c61-739e997473f4.html",
-     "data": "2026-08-20T20:19:28+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Donna morta in casa vicino Potenza, ha un grave trauma al volto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/donna-morta-in-casa-vicino-potenza-ha-grave-trauma-al-volto_73eb661c-25e5-4004-92cf-e6c917797c1e.html",
+     "data": "2026-08-21T06:54:32+00:00"
+    },
+    {
      "titolo": "Risolto dopo 35 anni il mistero della scomparsa dell'altoatesino Angerer",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/risolto-dopo-35-anni-il-mistero-della-scomparsa-dellaltoatesino-angerer_33a14fbf-c948-40d5-a039-4bdac874dde7.html",
      "data": "2026-08-21T05:35:42+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Il parco della memoria nella frazione cancellata dal sisma",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/il-parco-della-memoria-nella-frazione-cancellata-dal-sisma_8ad7671b-5c62-4670-9031-8813242b6d46.html",
      "data": "2026-08-20T19:07:45+00:00"
-    },
-    {
-     "titolo": "Pietro è il figlio del terremoto'. Simbolo della rinascita, ha 8 anni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/pietro-e-il-figlio-del-terremoto.-simbolo-della-rinascita-ha-8-anni_75405d17-2928-4d86-b6f5-8fadbb495624.html",
-     "data": "2026-08-20T17:58:15+00:00"
     }
    ]
   },
@@ -256,6 +256,31 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Milano apre in rialzo dello 0,2%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-milano-apre-in-rialzo-dello-02_c53fdd51-e1b7-4453-a1f5-b936991e3f27.html",
+     "data": "2026-08-21T07:06:31+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Asia chiude in ordine sparso tra il Medio Oriente e il debito Usa",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-lasia-chiude-in-ordine-sparso-tra-il-medio-oriente-e-il-debito-usa_2c4a8130-a877-46bb-b773-788ccd223e6f.html",
+     "data": "2026-08-21T07:06:48+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, chiusura in ribasso (-0,30%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-tokyo-chiusura-in-ribasso-030_7ea9dc10-5aee-4622-a394-7117f6fb59c9.html",
+     "data": "2026-08-21T06:49:29+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund apre stabile a 81 punti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/lo-spread-tra-btp-e-bund-apre-stabile-a-81-punti_eab878a0-2ee4-4b0f-9ad0-f07065b365cf.html",
+     "data": "2026-08-21T06:34:19+00:00"
+    },
+    {
+     "titolo": "Oro a 4.552,41 dollari l'oncia, in aumento dello 0,79%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/oro-a-4.55241-dollari-loncia-in-aumento-dello-079_6ff2adbe-3f37-4cab-9686-c1e1daf764d3.html",
+     "data": "2026-08-21T06:29:41+00:00"
+    },
+    {
      "titolo": "Il prezzo del gas in calo a 64,81 euro al megawattora",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/il-prezzo-del-gas-in-calo-a-6481-euro-al-megawattora_2e576960-da61-450b-ab18-c540f0dbca54.html",
      "data": "2026-08-21T06:17:11+00:00"
@@ -289,31 +314,6 @@
      "titolo": "Mps proporrà un dividendo straordinario da 4 miliardi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/mps-proporra-un-dividendo-straordinario-da-4-miliardi_01eb3fae-e8bc-4173-b920-139acfa16083.html",
      "data": "2026-08-20T18:30:37+00:00"
-    },
-    {
-     "titolo": "Mattarella e Meloni in campo per Taranto. Premier, a settembre tavoli ex Ilva",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/mattarella-e-meloni-in-campo-per-taranto.-premier-a-settembre-tavoli-ex-ilva_5ca48d3a-adac-4231-8156-3614faff2a72.html",
-     "data": "2026-08-20T17:19:39+00:00"
-    },
-    {
-     "titolo": "Meloni, a settembre tavolo ex Ilva e per lo sviluppo di Taranto",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/meloni-a-settembre-tavolo-ex-ilva-e-per-lo-sviluppo-di-taranto_a2f27429-e230-40de-b54c-3ab65a15d357.html",
-     "data": "2026-08-20T16:41:08+00:00"
-    },
-    {
-     "titolo": "Da Messina a Lovaglio, i protagonisti del risiko bancario",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/da-messina-a-lovaglio-i-protagonisti-del-risiko-bancario_676ab9d0-dc0f-4c41-9ae7-06b605c34b02.html",
-     "data": "2026-08-20T16:56:49+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas sale a 65,85 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-prezzo-del-gas-sale-a-6585-euro-al-megawattora_a03f22f6-b4f8-42be-8d7d-a21a4ec35ba8.html",
-     "data": "2026-08-20T16:27:06+00:00"
-    },
-    {
-     "titolo": "Banco Bpm, 1.400 sportelli e 3,6 milioni di clienti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/banco-bpm-1.400-sportelli-e-36-milioni-di-clienti_aa91cfbf-6f6b-4be5-a4d0-86a26fdac052.html",
-     "data": "2026-08-20T17:02:02+00:00"
     }
    ]
   },
