@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-21T09:04:10.159474+00:00",
+ "aggiornato": "2026-08-21T09:56:46.328172+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Olanda, 'rimanderemo in Italia i migranti arrivati dopo il 12 di giugno'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/olanda-rimanderemo-in-italia-i-migranti-arrivati-dopo-il-12-di-giugno_c4bdf489-45d0-4be3-9b14-f4d02b975b76.html",
+     "data": "2026-08-21T09:43:35+00:00"
+    },
+    {
+     "titolo": "S, verso forte crescita del Pil eurozona in terzo trimestre",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/s-verso-forte-crescita-del-pil-eurozona-in-terzo-trimestre_6f286225-c685-43ee-928d-1dc3476f0194.html",
+     "data": "2026-08-21T09:13:25+00:00"
+    },
     {
      "titolo": "Borsa: Europa in rimbalzo, Francoforte +0,3%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-europa-in-rimbalzo-francoforte-03_fb620e54-599b-4aea-9ab5-629a63831ea8.html",
@@ -44,22 +54,17 @@
      "titolo": "Nuovi rincari carburanti, benzina a 2,005 euro al litro, top da 3 anni",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/nuovi-rincari-carburanti-benzina-a-2005-euro-al-litro-top-da-3-anni_c486e909-f114-4f1e-a7ce-915ff3dd1c03.html",
      "data": "2026-08-21T07:40:51+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa apre in poco mossa con lo sguardo rivolto al Medio Oriente",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-leuropa-apre-in-poco-mossa-con-lo-sguardo-rivolto-al-medio-oriente_c5ac5947-32ea-4684-97ff-f2addd60b2b2.html",
-     "data": "2026-08-21T07:25:05+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre in rialzo dello 0,2%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-milano-apre-in-rialzo-dello-02_0723ee3e-a7d3-4112-a56b-f73caeb2d9ba.html",
-     "data": "2026-08-21T07:06:33+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Eseguita all'ospedale di Perugia la prima terapia genica per l'emofilia B in Umbria",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/21/eseguita-allospedale-di-perugia-la-prima-terapia-genica-per-lemofilia-b-in-umbria_9ba83c0f-b523-4ebf-8b34-16f9793bfe44.html",
+     "data": "2026-08-21T09:48:19+00:00"
+    },
     {
      "titolo": "Il presidente del Libano Joseph Aoun in visita a Cascia",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/il-presidente-del-libano-joseph-aoun-in-visita-a-cascia_06ab5c2e-a56f-4000-b254-7efb5e950a2b.html",
@@ -114,11 +119,6 @@
      "titolo": "Segnalazione su Fb di rifiuti abbandonati, individuato il presunto responsabile",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/segnalazione-su-fb-di-rifiuti-abbandonati-individuato-il-presunto-responsabile_87221b82-ace7-4e15-b794-1354a3f4a06f.html",
      "data": "2026-08-20T10:43:44+00:00"
-    },
-    {
-     "titolo": "In Umbria la benzina supera di un centesimo la soglia di due euro al litro",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/in-umbria-la-benzina-supera-di-un-centesimo-la-soglia-di-due-euro-al-litro_daf56488-491e-4fe9-92a2-ebfa1f8eb90f.html",
-     "data": "2026-08-20T09:21:53+00:00"
     }
    ]
   },
@@ -126,9 +126,24 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Maltempo, nella Bergamasca sei paesi isolati, 350 evacuati",
+     "titolo": "Rientro dalle vacanze, attesi oltre 24 milioni di spostamenti sulla rete Anas",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/rientro-dalle-vacanze-attesi-oltre-24-milioni-di-spostamenti-sulla-rete-anas_23fb76cc-f436-4ed2-88d1-8a1da6943751.html",
+     "data": "2026-08-21T09:26:16+00:00"
+    },
+    {
+     "titolo": "Salgono a venti i casi di contagio di febbre del Nilo nell'Oristanese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/salgono-a-venti-i-casi-di-contagio-di-febbre-del-nilo-nelloristanese_822270a6-9a18-471d-8ebf-fe443ca91fe6.html",
+     "data": "2026-08-21T09:12:13+00:00"
+    },
+    {
+     "titolo": "Fuga in mare col barchino, scafista inseguito e arrestato nel sud Sardegna",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/fuga-in-mare-col-barchino-scafista-inseguito-e-arrestato-nel-sud-sardegna_5f873e5f-7426-463f-a2f6-a9f8b63743e8.html",
+     "data": "2026-08-21T09:11:37+00:00"
+    },
+    {
+     "titolo": "Maltempo al nord: nella Bergamasca sei paesi isolati, 350 evacuati. Tromba d'aria a Rapallo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-nella-bergamasca-sei-paesi-isolati-350-evacuati_0e504f8b-b843-4532-983f-a2ca978e46d2.html",
-     "data": "2026-08-21T09:01:05+00:00"
+     "data": "2026-08-21T09:51:14+00:00"
     },
     {
      "titolo": "Ondata di maltempo in Fvg, 135 richieste di intervento",
@@ -169,21 +184,6 @@
      "titolo": "Nord della Lombardia sferzato dal maltempo, frane e allagamenti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/nord-della-lombardia-sferzato-dal-maltempo-frane-e-allagamenti_8fe5ee35-318e-4de4-8b9d-cfdaf4f6a6b5.html",
      "data": "2026-08-20T16:53:41+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-08-20T16:42:32+00:00"
-    },
-    {
-     "titolo": "L'ex bulla si riscatta, da baby gang al volontariato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/lex-bulla-si-riscatta-da-baby-gang-al-volontariato_c5ae10ff-70dd-4b53-960c-5091d08ed54a.html",
-     "data": "2026-08-20T15:55:35+00:00"
-    },
-    {
-     "titolo": "Flash mob ProPal in aeroporto a Cagliari contro i voli da Israele",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/flash-mob-propal-in-aeroporto-a-cagliari-contro-i-voli-da-israele_4232c665-f978-4b44-87b1-22782071a66d.html",
-     "data": "2026-08-20T15:45:45+00:00"
     }
    ]
   },
@@ -191,9 +191,14 @@
    "nome": "Politica",
    "voci": [
     {
-     "titolo": "Mattarella, viviamo tempi di guerre scellerate, l'umanità aiuti a rifiutare l'odio",
+     "titolo": "Scholz (Meeting), i migranti vanno accolti in modo umano",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/scholz-meeting-i-migranti-vanno-accolti-in-modo-umano_83dc8e9a-981b-4271-950f-6f528589f996.html",
+     "data": "2026-08-21T09:31:22+00:00"
+    },
+    {
+     "titolo": "Mattarella: 'Viviamo tempi di guerre scellerate, l'umanità aiuti a rifiutare l'odio'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/mattarella-viviamo-tempi-di-guerre-scellerate-lumanita-aiuti-a-rifiutare-lodio_12196c88-7f6f-4d89-8235-fa9abfa1e7f0.html",
-     "data": "2026-08-21T08:29:25+00:00"
+     "data": "2026-08-21T09:21:48+00:00"
     },
     {
      "titolo": "La vita oltre le sbarre, al Meeting le storie di riscatto",
@@ -244,17 +249,27 @@
      "titolo": "Mattarella: \"Impegno nazionale per Taranto\". Meloni: \"A settembre tavolo sull'ex Ilva\"",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/mattarella-impegno-nazionale-per-occupazione-e-salute-a-taranto_40a69925-c9ca-4b0f-b092-bd053be8c446.html",
      "data": "2026-08-20T17:16:19+00:00"
-    },
-    {
-     "titolo": "Conte, capolavoro di Meloni, i rimpatri funzionano ma contro di noi",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/conte-capolavoro-di-meloni-i-rimpatri-funzionano-ma-contro-di-noi_7cc533b6-b4e2-4414-86f6-1ccc180abcb7.html",
-     "data": "2026-08-20T16:40:33+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "S&P, verso forte crescita del Pil eurozona in terzo trimestre",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/s-verso-forte-crescita-del-pil-eurozona-in-terzo-trimestre_4146b667-a33d-4443-98b6-f3c2a163c9d8.html",
+     "data": "2026-08-21T09:28:26+00:00"
+    },
+    {
+     "titolo": "Unc, governo non faccia come Ponzio Pilato sulla benzina",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/unc-governo-non-faccia-come-ponzio-pilato-sulla-benzina_fe1baef6-cace-42ca-a7b5-3e0896c7c71b.html",
+     "data": "2026-08-21T09:06:42+00:00"
+    },
+    {
+     "titolo": "Con debito Usa da record le valute dei Paesi emergenti ai massimi storici",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/con-debito-usa-da-record-le-valute-dei-paesi-emergenti-ai-massimi-storici_5f735472-1019-466d-bb13-cb23f1768d62.html",
+     "data": "2026-08-21T09:29:40+00:00"
+    },
     {
      "titolo": "Borsa: Europa in rimbalzo, Francoforte +0,3%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-europa-in-rimbalzo-francoforte-03_af5ab5e6-87f3-44e5-8f98-a5d5c8afac51.html",
@@ -263,12 +278,12 @@
     {
      "titolo": "Migliora l'industria europea, in Germania Pmi manifattura top dal 2022",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/migliora-lindustria-europea-in-germania-pmi-manifattura-top-dal-2022_e0e7c361-3661-4900-bcc7-dc610f44be42.html",
-     "data": "2026-08-21T08:40:28+00:00"
+     "data": "2026-08-21T09:28:38+00:00"
     },
     {
      "titolo": "Cna, tessuto produttivo italiano diffuso, traina il Centro-Nord",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/cna-tessuto-produttivo-italiano-diffuso-traina-il-centro-nord_b8e2af54-134d-44a4-b67d-00d48996bee1.html",
-     "data": "2026-08-21T08:36:02+00:00"
+     "data": "2026-08-21T09:30:10+00:00"
     },
     {
      "titolo": "Gme, ancora in rialzo l'indice italiano del prezzo del gas",
@@ -278,7 +293,7 @@
     {
      "titolo": "Bce, a luglio si attenua l'inflazione percepita dalle famiglie europee",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/bce-a-luglio-si-attenua-linflazione-percepita-dalle-famiglie-europee_46b4ae48-11bd-4c03-8685-cc2479c6dfe2.html",
-     "data": "2026-08-21T08:28:08+00:00"
+     "data": "2026-08-21T09:28:57+00:00"
     },
     {
      "titolo": "Borsa: Milano in rialzo guarda al risiko, Mps +0,9%",
@@ -299,27 +314,17 @@
      "titolo": "Sale la spesa per i consumi culturali, 108 euro al mese in media a famiglia",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/sale-la-spesa-per-i-consumi-culturali-108-euro-al-mese-in-media-a-famiglia_8a8ed3dc-07cd-4b4c-bfe1-a1172dd535e5.html",
      "data": "2026-08-21T07:44:55+00:00"
-    },
-    {
-     "titolo": "Nuovi rincari carburanti, benzina a 2,005 euro al litro, top da 3 anni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/nuovi-rincari-carburanti-benzina-a-2005-euro-al-litro-top-da-3-anni_aa144c6c-4185-4c39-9e08-d0c0da61e080.html",
-     "data": "2026-08-21T07:58:23+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa apre in poco mossa con lo sguardo rivolto al Medio Oriente",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-leuropa-apre-in-poco-mossa-con-lo-sguardo-rivolto-al-medio-oriente_1a589a01-f892-456c-86f2-1c0ba20734c8.html",
-     "data": "2026-08-21T07:25:41+00:00"
-    },
-    {
-     "titolo": "Mps in Borsa +0,4%, la doppia offerta non scalda Piazza Affari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/mps-in-borsa-04-la-doppia-offerta-non-scalda-piazza-affari_b3363d14-b54a-44a5-ae0a-8448645a7fc8.html",
-     "data": "2026-08-21T07:13:43+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Olanda, 'rimanderemo in Italia i migranti arrivati dopo il 12 di giugno'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/olanda-rimanderemo-in-italia-i-migranti-arrivati-dopo-il-12-di-giugno_62a47941-97c9-4c45-8b38-94176f4ab80b.html",
+     "data": "2026-08-21T09:43:35+00:00"
+    },
     {
      "titolo": "Aereo charter con otto persone a bordo precipita in Alaska",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/21/aereo-charter-con-otto-persone-a-bordo-precipita-in-alaska_03c280fd-4fd5-47af-b7b8-7b81fa7fa80f.html",
@@ -374,11 +379,6 @@
      "titolo": "Cuba chiede a Mosca sostegno per entrare a pieno titolo nei Brics",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/cuba-chiede-a-mosca-sostegno-per-entrare-a-pieno-titolo-nei-brics_a27d924e-6101-4ddf-8196-5ea9bebe004f.html",
      "data": "2026-08-21T00:06:10+00:00"
-    },
-    {
-     "titolo": "Argentina oltre le attese, attività economica cresce del 2,7% a giugno",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/argentina-oltre-le-attese-attivita-economica-cresce-del-27-a-giugno_e2275296-4b70-483a-99ee-8a1b9e9c099b.html",
-     "data": "2026-08-20T23:51:24+00:00"
     }
    ]
   },
@@ -451,9 +451,19 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Cincinnati Open: Rybakina si infortuna, Swiatek in semifinale",
+     "titolo": "Ussi: calcio giovanile, basta SOS serve \"giocare\" assieme",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/ussi-calcio-giovanile-basta-sos-serve-giocare-assieme_1af75b6d-aa93-47dd-be9d-6c889546629c.html",
+     "data": "2026-08-21T09:50:50+00:00"
+    },
+    {
+     "titolo": "Per Mourinho Mbappé, Vinicius e Bellingham non sono 'incompatibili'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/per-mourinho-mbappe-vinicius-e-bellingham-non-sono-incompatibili_ad382d03-b6e3-4a0c-bfbf-e7fc8621b9f7.html",
+     "data": "2026-08-21T09:24:13+00:00"
+    },
+    {
+     "titolo": "Tennis: Rybakina si infortuna, Swiatek in semifinale a Cincinnati",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/21/cincinnati-open-rybakina-si-infortuna-swiatek-in-semifinale_676ffad9-9aa6-4ea1-a969-be1bd491e33e.html",
-     "data": "2026-08-21T07:38:46+00:00"
+     "data": "2026-08-21T09:25:13+00:00"
     },
     {
      "titolo": "Cincinnati Open, Fils sfida Cobolli in semifinale",
@@ -499,16 +509,6 @@
      "titolo": "Eurovolley: l'Italia comincia dalla Croazia, Velasco 'la prima è delicata'",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/20/eurovolley-litalia-comincia-dalla-croazia-velasco-la-prima-e-delicata_2ae2ade7-cf9e-4737-a506-0513b83d0567.html",
      "data": "2026-08-20T17:36:06+00:00"
-    },
-    {
-     "titolo": "l'Italia comincia dalla Croazia, Velasco: 'La prima è delicata'",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/20/litalia-comincia-dalla-croazia-velasco-la-prima-e-delicata_1cfbea9e-25c7-4ae3-be47-86fde2793a15.html",
-     "data": "2026-08-20T18:32:47+00:00"
-    },
-    {
-     "titolo": "Tennis: Alcaraz gioca agli Us Open 'sono tornato'",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-alcaraz-gioca-agli-us-open-sono-tornato_2d0e8280-dc0f-4a71-b113-feefdbcb491e.html",
-     "data": "2026-08-20T17:24:13+00:00"
     }
    ]
   }
