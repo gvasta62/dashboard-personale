@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-21T08:02:22.863411+00:00",
+ "aggiornato": "2026-08-21T09:04:10.159474+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Europa in rimbalzo, Francoforte +0,3%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-europa-in-rimbalzo-francoforte-03_fb620e54-599b-4aea-9ab5-629a63831ea8.html",
+     "data": "2026-08-21T08:43:23+00:00"
+    },
+    {
+     "titolo": "Migliora l'industria europea, in Germania Pmi manifattura top dal 2022",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/migliora-lindustria-europea-in-germania-pmi-manifattura-top-dal-2022_bc1926d7-e6d0-4f8c-8ad4-f06df5ad1d22.html",
+     "data": "2026-08-21T08:40:33+00:00"
+    },
+    {
+     "titolo": "Mattarella, viviamo tempi di guerre scellerate, l'umanità aiuti a rifiutare l'odio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/mattarella-viviamo-tempi-di-guerre-scellerate-lumanita-aiuti-a-rifiutare-lodio_39ebe10c-b2dc-4eca-bcc3-363206f24adb.html",
+     "data": "2026-08-21T08:29:25+00:00"
+    },
+    {
+     "titolo": "Bce, a luglio si attenua l'inflazione percepita dalle famiglie europee",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/bce-a-luglio-si-attenua-linflazione-percepita-dalle-famiglie-europee_85bfebc2-687a-4cb8-8c37-ae62662f00bb.html",
+     "data": "2026-08-21T08:28:10+00:00"
+    },
     {
      "titolo": "Deficit di bilancio a sorpresa in Gb, a luglio per 1,8 miliardi di sterline",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/deficit-di-bilancio-a-sorpresa-in-gb-a-luglio-per-18-miliardi-di-sterline_9a7b2068-031e-4776-8f06-04f6c504917a.html",
@@ -34,26 +54,6 @@
      "titolo": "Borsa: Milano apre in rialzo dello 0,2%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-milano-apre-in-rialzo-dello-02_0723ee3e-a7d3-4112-a56b-f73caeb2d9ba.html",
      "data": "2026-08-21T07:06:33+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Asia chiude in ordine sparso tra il Medio Oriente e il debito Usa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-lasia-chiude-in-ordine-sparso-tra-il-medio-oriente-e-il-debito-usa_fc45ca06-3d75-47fa-8a3b-f5541eb84a70.html",
-     "data": "2026-08-21T07:07:06+00:00"
-    },
-    {
-     "titolo": "Petrolio in ribasso dello 0,48%, Wti a 86,41 dollari al barile",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/petrolio-in-ribasso-dello-048-wti-a-8641-dollari-al-barile_0202972a-1447-4f1a-9dfa-5361d907a1ab.html",
-     "data": "2026-08-21T06:34:33+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund apre stabile a 81 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/lo-spread-tra-btp-e-bund-apre-stabile-a-81-punti_0e6616ff-cc37-412a-8047-476793e0f4b6.html",
-     "data": "2026-08-21T06:34:16+00:00"
-    },
-    {
-     "titolo": "Donna morta in casa vicino Potenza, ha grave trauma al volto",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/donna-morta-in-casa-vicino-potenza-ha-grave-trauma-al-volto_31307987-2b1f-451b-968b-50f862bb4d8f.html",
-     "data": "2026-08-21T06:28:36+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Maltempo, nella Bergamasca sei paesi isolati, 350 evacuati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-nella-bergamasca-sei-paesi-isolati-350-evacuati_0e504f8b-b843-4532-983f-a2ca978e46d2.html",
+     "data": "2026-08-21T09:01:05+00:00"
+    },
+    {
+     "titolo": "Ondata di maltempo in Fvg, 135 richieste di intervento",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/ondata-di-maltempo-in-fvg-135-richieste-di-intervento_26a9807a-4585-4ef6-af01-907033516c66.html",
+     "data": "2026-08-21T08:26:14+00:00"
+    },
+    {
      "titolo": "Donna morta in casa vicino Potenza, ha un grave trauma al volto",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/donna-morta-in-casa-vicino-potenza-ha-grave-trauma-al-volto_73eb661c-25e5-4004-92cf-e6c917797c1e.html",
      "data": "2026-08-21T06:54:32+00:00"
@@ -174,22 +184,17 @@
      "titolo": "Flash mob ProPal in aeroporto a Cagliari contro i voli da Israele",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/flash-mob-propal-in-aeroporto-a-cagliari-contro-i-voli-da-israele_4232c665-f978-4b44-87b1-22782071a66d.html",
      "data": "2026-08-20T15:45:45+00:00"
-    },
-    {
-     "titolo": "Giuseppe che vive nel paese che non c'è più, 'io resto'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/giuseppe-che-vive-nel-paese-che-non-ce-piu-io-resto_c4517c15-0f40-4ab0-8727-39bba4462f45.html",
-     "data": "2026-08-20T19:08:41+00:00"
-    },
-    {
-     "titolo": "Il parco della memoria nella frazione cancellata dal sisma",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/il-parco-della-memoria-nella-frazione-cancellata-dal-sisma_8ad7671b-5c62-4670-9031-8813242b6d46.html",
-     "data": "2026-08-20T19:07:45+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Mattarella, viviamo tempi di guerre scellerate, l'umanità aiuti a rifiutare l'odio",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/mattarella-viviamo-tempi-di-guerre-scellerate-lumanita-aiuti-a-rifiutare-lodio_12196c88-7f6f-4d89-8235-fa9abfa1e7f0.html",
+     "data": "2026-08-21T08:29:25+00:00"
+    },
     {
      "titolo": "La vita oltre le sbarre, al Meeting le storie di riscatto",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/la-vita-oltre-le-sbarre-al-meeting-le-storie-di-riscatto_a420c780-9431-4639-9897-0e219d954fdc.html",
@@ -244,17 +249,37 @@
      "titolo": "Conte, capolavoro di Meloni, i rimpatri funzionano ma contro di noi",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/conte-capolavoro-di-meloni-i-rimpatri-funzionano-ma-contro-di-noi_7cc533b6-b4e2-4414-86f6-1ccc180abcb7.html",
      "data": "2026-08-20T16:40:33+00:00"
-    },
-    {
-     "titolo": "Meloni, a settembre tavolo ex Ilva e per lo sviluppo di Taranto",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/meloni-a-settembre-tavolo-ex-ilva-e-per-lo-sviluppo-di-taranto_a705038a-34ad-4f39-b4ef-21392f07ac22.html",
-     "data": "2026-08-20T16:40:48+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: Europa in rimbalzo, Francoforte +0,3%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-europa-in-rimbalzo-francoforte-03_af5ab5e6-87f3-44e5-8f98-a5d5c8afac51.html",
+     "data": "2026-08-21T08:43:23+00:00"
+    },
+    {
+     "titolo": "Migliora l'industria europea, in Germania Pmi manifattura top dal 2022",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/migliora-lindustria-europea-in-germania-pmi-manifattura-top-dal-2022_e0e7c361-3661-4900-bcc7-dc610f44be42.html",
+     "data": "2026-08-21T08:40:28+00:00"
+    },
+    {
+     "titolo": "Cna, tessuto produttivo italiano diffuso, traina il Centro-Nord",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/cna-tessuto-produttivo-italiano-diffuso-traina-il-centro-nord_b8e2af54-134d-44a4-b67d-00d48996bee1.html",
+     "data": "2026-08-21T08:36:02+00:00"
+    },
+    {
+     "titolo": "Gme, ancora in rialzo l'indice italiano del prezzo del gas",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/gme-ancora-in-rialzo-lindice-italiano-del-prezzo-del-gas_1aa2057b-5e43-4f39-887f-719199c6ccb0.html",
+     "data": "2026-08-21T08:29:07+00:00"
+    },
+    {
+     "titolo": "Bce, a luglio si attenua l'inflazione percepita dalle famiglie europee",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/bce-a-luglio-si-attenua-linflazione-percepita-dalle-famiglie-europee_46b4ae48-11bd-4c03-8685-cc2479c6dfe2.html",
+     "data": "2026-08-21T08:28:08+00:00"
+    },
     {
      "titolo": "Borsa: Milano in rialzo guarda al risiko, Mps +0,9%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-milano-in-rialzo-guarda-al-risiko-mps-09_7b526622-a751-4b9e-b6c8-4930dca14ee8.html",
@@ -289,31 +314,6 @@
      "titolo": "Mps in Borsa +0,4%, la doppia offerta non scalda Piazza Affari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/mps-in-borsa-04-la-doppia-offerta-non-scalda-piazza-affari_b3363d14-b54a-44a5-ae0a-8448645a7fc8.html",
      "data": "2026-08-21T07:13:43+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre in rialzo dello 0,2%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-milano-apre-in-rialzo-dello-02_c53fdd51-e1b7-4453-a1f5-b936991e3f27.html",
-     "data": "2026-08-21T07:06:31+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Asia chiude in ordine sparso tra il Medio Oriente e il debito Usa",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-lasia-chiude-in-ordine-sparso-tra-il-medio-oriente-e-il-debito-usa_2c4a8130-a877-46bb-b773-788ccd223e6f.html",
-     "data": "2026-08-21T07:06:48+00:00"
-    },
-    {
-     "titolo": "Borsa: Tokyo, chiusura in ribasso (-0,30%)",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-tokyo-chiusura-in-ribasso-030_7ea9dc10-5aee-4622-a394-7117f6fb59c9.html",
-     "data": "2026-08-21T06:49:29+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund apre stabile a 81 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/lo-spread-tra-btp-e-bund-apre-stabile-a-81-punti_eab878a0-2ee4-4b0f-9ad0-f07065b365cf.html",
-     "data": "2026-08-21T06:34:19+00:00"
-    },
-    {
-     "titolo": "Oro a 4.552,41 dollari l'oncia, in aumento dello 0,79%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/oro-a-4.55241-dollari-loncia-in-aumento-dello-079_6ff2adbe-3f37-4cab-9686-c1e1daf764d3.html",
-     "data": "2026-08-21T06:29:41+00:00"
     }
    ]
   },
