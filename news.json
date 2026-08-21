@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-21T05:31:48.229281+00:00",
+ "aggiornato": "2026-08-21T06:21:01.661072+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il prezzo del gas in calo a 64,81 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/il-prezzo-del-gas-in-calo-a-6481-euro-al-megawattora_aa450562-3426-441a-a6ba-1af3be25dfe6.html",
+     "data": "2026-08-21T06:17:08+00:00"
+    },
     {
      "titolo": "Aereo charter con otto persone a bordo precipita in Alaska",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/aereo-charter-con-otto-persone-a-bordo-precipita-in-alaska_9126e4f3-7b5c-46d0-a615-1c727beb1447.html",
@@ -49,11 +54,6 @@
      "titolo": "Melania Trump torna in pubblico alla Casa Bianca con 'Fostering the Future'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/melania-trump-torna-in-pubblico-alla-casa-bianca-con-fostering-the_e49f3602-2dd5-46cf-9c61-739e997473f4.html",
      "data": "2026-08-20T20:19:28+00:00"
-    },
-    {
-     "titolo": "Terremoto di magnitudo 6,7 in Perù",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/20/terremoto-di-magnitudo-67-in-peru_4e66f1e9-a2e3-4e27-866d-b670e846c46a.html",
-     "data": "2026-08-20T19:06:04+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Risolto dopo 35 anni il mistero della scomparsa dell'altoatesino Angerer",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/risolto-dopo-35-anni-il-mistero-della-scomparsa-dellaltoatesino-angerer_33a14fbf-c948-40d5-a039-4bdac874dde7.html",
+     "data": "2026-08-21T05:35:42+00:00"
+    },
+    {
      "titolo": "'Rumore per Tania', in trecento ricordano il caso della 39enne uccisa da ex",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/rumore-per-tania-in-trecento-ricordano-il-caso-della-39enne-uccisa-da-ex_1fd7c4bf-5a44-41f7-bf77-f7de68ce939c.html",
      "data": "2026-08-20T19:51:43+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Pietro è il figlio del terremoto'. Simbolo della rinascita, ha 8 anni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/pietro-e-il-figlio-del-terremoto.-simbolo-della-rinascita-ha-8-anni_75405d17-2928-4d86-b6f5-8fadbb495624.html",
      "data": "2026-08-20T17:58:15+00:00"
-    },
-    {
-     "titolo": "Castelli: 'Conclusi 15mila cantieri , 9mila ancora in corso'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/castelli-conclusi-15mila-cantieri-9mila-ancora-in-corso_9e2ab93b-cac2-435c-8e2c-e0c4ced87fe4.html",
-     "data": "2026-08-20T18:05:02+00:00"
     }
    ]
   },
@@ -256,6 +256,31 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Il prezzo del gas in calo a 64,81 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/il-prezzo-del-gas-in-calo-a-6481-euro-al-megawattora_2e576960-da61-450b-ab18-c540f0dbca54.html",
+     "data": "2026-08-21T06:17:11+00:00"
+    },
+    {
+     "titolo": "Petrolio in ribasso dello 0,48%, Wti a 86,41 dollari al barile",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/petrolio-in-ribasso-dello-048-wti-a-8641-dollari-al-barile_86a8d735-4e29-49d6-9ff5-287014fe340c.html",
+     "data": "2026-08-21T06:16:35+00:00"
+    },
+    {
+     "titolo": "Euro a 1,1699 dollari, in rialzo dello 0,18%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/euro-a-11699-dollari-in-rialzo-dello-018_ee7e0132-b27a-40bb-a2dc-eb4ad1fa1f01.html",
+     "data": "2026-08-21T06:06:44+00:00"
+    },
+    {
+     "titolo": "Il piano di Lovaglio per cercare di resistere all'opas di Intesa",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/il-piano-di-lovaglio-per-cercare-di-resistere-allopas-di-intesa_56e45912-721e-4db6-8006-04d4bc02cd39.html",
+     "data": "2026-08-21T05:33:36+00:00"
+    },
+    {
+     "titolo": "Mps lancia offerte su Banco Bpm e Banca Generali per complessivi 34 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/mps-lancia-offerte-su-banco-bpm-e-banca-generali-per-complessivi-34-miliardi_6f0c3e06-ba20-4c73-823a-1da7810dc1be.html",
+     "data": "2026-08-21T05:30:24+00:00"
+    },
+    {
      "titolo": "Il petrolio chiude in rialzo a New York a 87,83 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-petrolio-chiude-in-rialzo-a-new-york-a-8783-dollari_ffd1b2cf-caec-4fce-959d-ad23ce15f533.html",
      "data": "2026-08-20T18:37:27+00:00"
@@ -289,31 +314,6 @@
      "titolo": "Banco Bpm, 1.400 sportelli e 3,6 milioni di clienti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/banco-bpm-1.400-sportelli-e-36-milioni-di-clienti_aa91cfbf-6f6b-4be5-a4d0-86a26fdac052.html",
      "data": "2026-08-20T17:02:02+00:00"
-    },
-    {
-     "titolo": "Banca Generali, tra consulenza e gestione del patrimonio",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/banca-generali-tra-consulenza-e-gestione-del-patrimonio_e8387fc0-6daf-4dd8-8af9-210f7fb6751e.html",
-     "data": "2026-08-20T17:00:09+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude poco mossa, lente sul risiko bancario",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-milano-chiude-poco-mossa-lente-sul-risiko-bancario_650f03d1-275b-4cd4-adfa-f127e7130c37.html",
-     "data": "2026-08-20T16:10:46+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude in rialzo a 81 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-81-punti_1fac850a-a593-4498-a138-0e35d4533840.html",
-     "data": "2026-08-20T16:09:00+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude debole e guarda al Medio Oriente",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-leuropa-chiude-debole-e-guarda-al-medio-oriente_24ce0bf3-226d-45fc-86a7-e32ba582152e.html",
-     "data": "2026-08-20T15:55:24+00:00"
-    },
-    {
-     "titolo": "Mps chiude in Borsa a -0,3% con il via libera alle mosse difensive",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/mps-chiude-in-borsa-a-03-con-il-via-libera-alle-mosse-difensive_a340522d-9b81-4164-a5ef-379151e4c156.html",
-     "data": "2026-08-20T15:54:54+00:00"
     }
    ]
   },
