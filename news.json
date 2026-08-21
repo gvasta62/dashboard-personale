@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-21T10:53:26.008267+00:00",
+ "aggiornato": "2026-08-21T11:13:41.611076+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Lega, 'mega-gruppi lontani dai cittadini, vendita Mps imposta dalle norme Ue'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/lega-mega-gruppi-lontani-dai-cittadini-vendita-mps-imposta-dalle_36401e94-5970-4271-9b68-7e34a426df01.html",
+     "data": "2026-08-21T11:01:21+00:00"
+    },
+    {
+     "titolo": "Stop alle 'targhe polacche', scatta l'obbligo dell'Rc Auto italiana",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/stop-alle-targhe-polacche-scatta-lobbligo-dellrc-auto-italiana_513e5560-6cc4-4ca7-b0a3-8c700d388a86.html",
+     "data": "2026-08-21T10:47:22+00:00"
+    },
     {
      "titolo": "Meloni a Schlein, 'nessun boomerang, nuovo Patto Ue sui migranti tutela l'Italia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/meloni-a-schlein-nessun-boomerang-nuovo-patto-ue-sui-migranti-tutela-litalia_5e3ba9ac-2b30-41b1-a0b5-594fdac30445.html",
@@ -44,16 +54,6 @@
      "titolo": "Mattarella, viviamo tempi di guerre scellerate, l'umanità aiuti a rifiutare l'odio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/mattarella-viviamo-tempi-di-guerre-scellerate-lumanita-aiuti-a-rifiutare-lodio_39ebe10c-b2dc-4eca-bcc3-363206f24adb.html",
      "data": "2026-08-21T08:29:25+00:00"
-    },
-    {
-     "titolo": "Bce, a luglio si attenua l'inflazione percepita dalle famiglie europee",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/bce-a-luglio-si-attenua-linflazione-percepita-dalle-famiglie-europee_85bfebc2-687a-4cb8-8c37-ae62662f00bb.html",
-     "data": "2026-08-21T08:28:10+00:00"
-    },
-    {
-     "titolo": "Deficit di bilancio a sorpresa in Gb, a luglio per 1,8 miliardi di sterline",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/deficit-di-bilancio-a-sorpresa-in-gb-a-luglio-per-18-miliardi-di-sterline_9a7b2068-031e-4776-8f06-04f6c504917a.html",
-     "data": "2026-08-21T07:50:25+00:00"
     }
    ]
   },
@@ -63,7 +63,7 @@
     {
      "titolo": "Il sindaco di Assisi accoglie una delegazione proveniente dal Libano",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/21/il-sindaco-di-assisi-accoglie-una-delegazione-proveniente-dal-libano_24315b88-22f8-474c-b0a1-6c64d1051ca4.html",
-     "data": "2026-08-21T10:46:46+00:00"
+     "data": "2026-08-21T10:47:48+00:00"
     },
     {
      "titolo": "Maltempo, Perugia nel giro di poche ore dal caldo all'aspetto autunnale",
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Stop alle 'targhe polacche', scatta l'obbligo dell'Rc Auto italiana",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/stop-alle-targhe-polacche-scatta-lobbligo-dellrc-auto-italiana_647c1f43-fef4-489b-932c-2a235a61ec48.html",
+     "data": "2026-08-21T10:47:24+00:00"
+    },
+    {
      "titolo": "Allarme di Legambiente, la Marmolada arretra e le Dolomiti venete soffrono",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/allarme-di-legambiente-la-marmolada-arretra-e-le-dolomiti-venete-soffrono_3c98b68e-3a2f-47fa-a4a0-eedca238bf99.html",
      "data": "2026-08-21T10:40:40+00:00"
@@ -138,7 +143,7 @@
     {
      "titolo": "Femminicidio nel Cosentino, due avvocati rinunciano alla difesa",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/femminicidio-nel-cosentino-due-avvocati-rinunciano-alla-difesa_da4ca524-01c9-4545-8834-541319768f9e.html",
-     "data": "2026-08-21T10:24:49+00:00"
+     "data": "2026-08-21T10:51:33+00:00"
     },
     {
      "titolo": "Muore a 21 anni in Croazia durante una vacanza, era su una moto d'acqua",
@@ -168,7 +173,7 @@
     {
      "titolo": "Maltempo al nord: nella Bergamasca sei paesi isolati, 350 evacuati. Tromba d'aria a Rapallo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-nella-bergamasca-sei-paesi-isolati-350-evacuati_0e504f8b-b843-4532-983f-a2ca978e46d2.html",
-     "data": "2026-08-21T10:35:47+00:00"
+     "data": "2026-08-21T11:04:39+00:00"
     },
     {
      "titolo": "Ondata di maltempo in Fvg, 135 richieste di intervento",
@@ -179,17 +184,17 @@
      "titolo": "Donna morta in casa, interrogato il figlio",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/donna-morta-in-casa-vicino-potenza-ha-grave-trauma-al-volto_73eb661c-25e5-4004-92cf-e6c917797c1e.html",
      "data": "2026-08-21T10:11:43+00:00"
-    },
-    {
-     "titolo": "Risolto dopo 35 anni il mistero della scomparsa dell'altoatesino Angerer",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/risolto-dopo-35-anni-il-mistero-della-scomparsa-dellaltoatesino-angerer_33a14fbf-c948-40d5-a039-4bdac874dde7.html",
-     "data": "2026-08-21T05:35:42+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Lega, 'mega-gruppi lontani dai cittadini, vendita Mps imposta dalle norme Ue'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/lega-mega-gruppi-lontani-dai-cittadini-vendita-mps-imposta-dalle_2f30758d-7f81-4ae0-9d6e-b577d9f94a36.html",
+     "data": "2026-08-21T11:01:21+00:00"
+    },
     {
      "titolo": "Meloni a Schlein, 'nessun boomerang, nuovo Patto Ue sui migranti tutela l'Italia'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/meloni-a-schlein-nessun-boomerang-nuovo-patto-ue-sui-migranti-tutela-litalia_41657eb9-229a-4da8-a23b-1b210c3b4fda.html",
@@ -198,7 +203,7 @@
     {
      "titolo": "Meloni al Nyt: 'Credevo con Trump sarebbe stato più facile date le convergenze'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/meloni-al-nyt-credevo-con-trump-sarebbe-stato-piu-facile-date_e8a985f1-b1d3-467b-9d4f-44471c877b2d.html",
-     "data": "2026-08-21T10:36:28+00:00"
+     "data": "2026-08-21T10:51:38+00:00"
     },
     {
      "titolo": "Scholz (Meeting), i migranti vanno accolti in modo umano",
@@ -244,17 +249,17 @@
      "titolo": "Salvini, rispettare storia e autonomia di Mps, fieri del suo rilancio",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/salvini-rispettare-storia-e-autonomia-di-mps-fieri-del-suo-rilancio_62626c18-ab56-47b8-b622-2148d9872c5d.html",
      "data": "2026-08-20T16:51:10+00:00"
-    },
-    {
-     "titolo": "Mps: Gasparri (FI), giusto il radicamento territoriale, ma fu causa anche di scandali",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/20/mps-gasparri-fi-giusto-il-radicamento-territoriale-ma-fu-causa-anche-di-scandali_b3e96562-a642-432e-96b2-57522303622f.html",
-     "data": "2026-08-20T16:49:01+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Meno parenti più innovazione, l'agricoltura non è più familiare",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/meno-parenti-piu-innovazione-lagricoltura-non-e-piu-familiare_4897f069-546f-4dd0-94aa-9793ff98e314.html",
+     "data": "2026-08-21T10:52:32+00:00"
+    },
     {
      "titolo": "Messico, scontro con gli Usa sui dazi antidumping per le fragole",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/messico-scontro-con-gli-usa-sui-dazi-antidumping-per-le-fragole_ef590b93-a3bc-46d3-8f15-54764611f730.html",
@@ -309,17 +314,17 @@
      "titolo": "Borsa: Milano in rialzo guarda al risiko, Mps +0,9%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-milano-in-rialzo-guarda-al-risiko-mps-09_7b526622-a751-4b9e-b6c8-4930dca14ee8.html",
      "data": "2026-08-21T07:52:48+00:00"
-    },
-    {
-     "titolo": "Deficit di bilancio a sorpresa in Gb, a luglio per 1,8 miliardi di sterline",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/deficit-di-bilancio-a-sorpresa-in-gb-a-luglio-per-18-miliardi-di-sterline_274f6dc9-849f-413b-aa1c-941a0459f843.html",
-     "data": "2026-08-21T08:00:33+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Compie 117 anni Ethel Caterham, la persona più anziana del mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/compie-117-anni-ethel-caterham-la-persona-piu-anziana-del-mondo_6966a9c5-91e4-4716-89ff-4d8184544193.html",
+     "data": "2026-08-21T10:57:24+00:00"
+    },
     {
      "titolo": "Gli attori del mondo Marvel invocano liberazione del leader palestinese Barghouti",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/21/gli-attori-del-mondo-marvel-invocano-liberazione-del-leader-palestinese_9fad709d-1b9f-4143-b22e-e7bb8a8c7298.html",
@@ -328,7 +333,7 @@
     {
      "titolo": "L'Olanda: 'Rimanderemo in Italia i migranti arrivati dopo il 12 di giugno'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/olanda-rimanderemo-in-italia-i-migranti-arrivati-dopo-il-12-di-giugno_62a47941-97c9-4c45-8b38-94176f4ab80b.html",
-     "data": "2026-08-21T10:35:05+00:00"
+     "data": "2026-08-21T10:52:54+00:00"
     },
     {
      "titolo": "Aereo charter con otto persone a bordo precipita in Alaska",
@@ -374,11 +379,6 @@
      "titolo": "Trump e il suo ex avvocato personale riuniti dopo anni di scontri",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/21/trump-e-il-suo-ex-avvocato-personale-riuniti-dopo-anni-di-scontri_efa83086-bc14-428a-b4b6-f56b69d72f6b.html",
      "data": "2026-08-21T00:21:20+00:00"
-    },
-    {
-     "titolo": "Giappone, inflazione accelera in luglio all'1,8%",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/21/giappone-inflazione-accelera-in-luglio-all18_5e5ccfe6-9245-40ba-9307-f30094474441.html",
-     "data": "2026-08-21T00:18:11+00:00"
     }
    ]
   },
