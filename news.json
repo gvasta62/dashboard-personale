@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-21T19:43:39.745663+00:00",
+ "aggiornato": "2026-08-21T20:10:10.141406+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,9 +126,14 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "'Dopo Brandizzo misure di sicurezza invariate', Rfi ancora sotto indagine",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/dopo-brandizzo-misure-di-sicurezza-invariate-rfi-ancora-sotto-indagine_8aca684a-b9bc-48c1-aa54-a7922a2ad9b4.html",
+     "data": "2026-08-21T19:42:35+00:00"
+    },
+    {
      "titolo": "Nubifragi, tornado e fulmini: il maltempo sferza il Centro-Nord",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/nubifragi-tornado-e-fulmini-il-maltempo-sferza-il-centro-nord_a64c18e3-dd44-4259-a721-17acb1bc8870.html",
-     "data": "2026-08-21T19:39:18+00:00"
+     "data": "2026-08-21T19:52:04+00:00"
     },
     {
      "titolo": "Turisti aggrediti da un lupo a Gallipoli, ferite mamma e figlia",
@@ -179,11 +184,6 @@
      "titolo": "++ Donna morta in casa, arrestato il figlio ++",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/-donna-morta-in-casa-arrestato-il-figlio-_15914d97-2e09-4714-ae7f-f71a605075e4.html",
      "data": "2026-08-21T16:20:51+00:00"
-    },
-    {
-     "titolo": "Migranti sbarcano fra i turisti a Lampedusa, 68 portati in hotspot",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/migranti-sbarcano-fra-i-turisti-a-lampedusa-68-portati-in-hotspot_2a96ca46-a974-4c01-abcf-f47fa969a439.html",
-     "data": "2026-08-21T15:54:19+00:00"
     }
    ]
   },
@@ -446,6 +446,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Da Cobolli a Musetti, l'altra Italia che sogna a New York",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/21/da-cobolli-a-musetti-laltra-italia-che-sogna-a-new-york_5a87c906-be23-4152-a70a-17f02cbeed64.html",
+     "data": "2026-08-21T20:08:28+00:00"
+    },
+    {
+     "titolo": "Alaphilippe si ritira a 34 anni, ha vinto due Mondiali",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/21/alaphilippe-si-ritira-a-34-anni-ha-vinto-due-mondiali_de15db00-d5e1-4352-b134-4f918b242706.html",
+     "data": "2026-08-21T19:58:55+00:00"
+    },
+    {
      "titolo": "È ufficiale, Curtis Jones è un nuovo giocatore dell'Inter",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/e-ufficiale-curtis-jones-e-un-nuovo-giocatore-dellinter_666b4e76-6768-4af7-a99e-19eac7052d6d.html",
      "data": "2026-08-21T18:46:57+00:00"
@@ -494,16 +504,6 @@
      "titolo": "F1: a Russell la pole della Sprint, Leclerc terzo in Olanda",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/21/f1-a-russell-la-pole-della-sprint-leclerc-terzo-in-olanda_b8410f54-e36b-45fd-9411-53b19181fc6c.html",
      "data": "2026-08-21T17:02:02+00:00"
-    },
-    {
-     "titolo": ">ANSA-BOX/Da Cobolli a Musetti, l'altra Italia che sogna a New York",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/21/ansa-boxda-cobolli-a-musetti-laltra-italia-che-sogna-a-new-york_5a87c906-be23-4152-a70a-17f02cbeed64.html",
-     "data": "2026-08-21T18:59:24+00:00"
-    },
-    {
-     "titolo": "Atletica: Tamberi in pedana in Polonia, prima gara dopo l'oro europeo",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/21/atletica-tamberi-in-pedana-in-polonia-prima-gara-dopo-loro-europeo_0fd71372-762f-45c8-bb49-b735dee9874a.html",
-     "data": "2026-08-21T15:37:27+00:00"
     }
    ]
   }
