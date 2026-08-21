@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-21T20:45:12.043463+00:00",
+ "aggiornato": "2026-08-21T21:11:06.246251+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Wsj, 'tensioni con Hegseth, lascia entro fine anno il segretario dell'esercito Usa'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/wsj-tensioni-con-hegseth-lascia-entro-fine-anno-il-segretario-dellesercito_c1d75c11-d9e2-4e6c-8d85-7e45f0b5a212.html",
+     "data": "2026-08-21T21:01:20+00:00"
+    },
     {
      "titolo": "Un morto nell'attacco alla scuola in Svezia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/un-morto-nellattacco-alla-scuola-in-svezia_16c8b32b-be60-4af1-8f62-bf20fa231ba3.html",
@@ -49,11 +54,6 @@
      "titolo": "Lo spread tra Btp e Bund chiude in leggero rialzo a 82 punti base",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/lo-spread-tra-btp-e-bund-chiude-in-leggero-rialzo-a-82-punti-base_1ef3ab34-507d-44f5-bb27-b9380b71a5fb.html",
      "data": "2026-08-21T16:05:13+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa conclude in leggero rialzo, Londra +0,6%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-leuropa-conclude-in-leggero-rialzo-londra-06_fdacb7c3-2aa3-4465-8e90-3a1390d6efdf.html",
-     "data": "2026-08-21T15:48:38+00:00"
     }
    ]
   },
@@ -316,6 +316,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Wsj, 'tensioni con Hegseth, lascia entro fine anno il segretario dell'esercito Usa'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/21/wsj-tensioni-con-hegseth-lascia-entro-fine-anno-il-segretario-dellesercito_32c0fd6c-432e-40ed-b77c-f3c06ae08aad.html",
+     "data": "2026-08-21T21:01:23+00:00"
+    },
+    {
      "titolo": "Un morto nell'attacco alla scuola in Svezia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/un-morto-nellattacco-alla-scuola-in-svezia_2cb1b1b2-fc56-4f34-a0d3-08401e8bd84f.html",
      "data": "2026-08-21T19:20:04+00:00"
@@ -369,11 +374,6 @@
      "titolo": "Dopo il terremoto la Colombia nella morsa del fuoco, maxi incendio a Tolima",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/dopo-il-terremoto-la-colombia-nella-morsa-del-fuoco-maxi-incendio-a-tolima_591fc493-afca-4080-83a7-6535aebaff8c.html",
      "data": "2026-08-21T16:04:53+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'ignobile attacco russo su centro commerciale di Kryvyi Rih, 5 morti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/zelensky-ignobile-attacco-russo-su-centro-commerciale-di-kryvyi-rih-5-morti_4b9ac74f-341d-4a3c-9994-8f2d75911277.html",
-     "data": "2026-08-21T15:45:59+00:00"
     }
    ]
   },
@@ -446,6 +446,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Atletica: Diaz terzo nel triplo di Losanna, si qualifica a finale Diamond League",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/21/atletica-diaz-terzo-nel-triplo-di-losanna-si-qualifica-a-finale-diamond-league_0da6a440-e137-48d7-8ac5-e4565c437ef0.html",
+     "data": "2026-08-21T21:03:18+00:00"
+    },
+    {
      "titolo": "Da Cobolli a Musetti, l'altra Italia che sogna a New York",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/21/da-cobolli-a-musetti-laltra-italia-che-sogna-a-new-york_5a87c906-be23-4152-a70a-17f02cbeed64.html",
      "data": "2026-08-21T20:08:28+00:00"
@@ -499,11 +504,6 @@
      "titolo": "Pisacane sprona il Cagliari, 'con il Parma si inizia a fare sul serio'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/pisacane-sprona-il-cagliari-con-il-parma-si-inizia-a-fare-sul-serio_58df6f8e-19b8-4801-ab62-59f2811ffd52.html",
      "data": "2026-08-21T17:08:58+00:00"
-    },
-    {
-     "titolo": "F1: a Russell la pole della Sprint, Leclerc terzo in Olanda",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/21/f1-a-russell-la-pole-della-sprint-leclerc-terzo-in-olanda_b8410f54-e36b-45fd-9411-53b19181fc6c.html",
-     "data": "2026-08-21T17:02:02+00:00"
     }
    ]
   }
