@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-08-21T07:13:40.012473+00:00",
+ "aggiornato": "2026-08-21T08:02:22.863411+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Deficit di bilancio a sorpresa in Gb, a luglio per 1,8 miliardi di sterline",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/deficit-di-bilancio-a-sorpresa-in-gb-a-luglio-per-18-miliardi-di-sterline_9a7b2068-031e-4776-8f06-04f6c504917a.html",
+     "data": "2026-08-21T07:50:25+00:00"
+    },
+    {
+     "titolo": "Lovaglio, gruppo da 80 miliardi, tra le prime 10 banche europee'. 4miliardi a soci Mps",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/lovaglio-gruppo-da-80-miliardi-tra-le-prime-10-banche-europee.-4miliardi-a-soci-mps_33039f89-40bc-4cd7-96f2-ff2381f91cb1.html",
+     "data": "2026-08-21T07:49:08+00:00"
+    },
+    {
+     "titolo": "Sale la spesa per i consumi culturali, 108 euro al mese in media a famiglia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/sale-la-spesa-per-i-consumi-culturali-108-euro-al-mese-in-media-a-famiglia_22bfc2c4-c587-469f-bbd4-978571aa4735.html",
+     "data": "2026-08-21T07:44:55+00:00"
+    },
+    {
+     "titolo": "Nuovi rincari carburanti, benzina a 2,005 euro al litro, top da 3 anni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/nuovi-rincari-carburanti-benzina-a-2005-euro-al-litro-top-da-3-anni_c486e909-f114-4f1e-a7ce-915ff3dd1c03.html",
+     "data": "2026-08-21T07:40:51+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa apre in poco mossa con lo sguardo rivolto al Medio Oriente",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-leuropa-apre-in-poco-mossa-con-lo-sguardo-rivolto-al-medio-oriente_c5ac5947-32ea-4684-97ff-f2addd60b2b2.html",
+     "data": "2026-08-21T07:25:05+00:00"
+    },
     {
      "titolo": "Borsa: Milano apre in rialzo dello 0,2%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/borsa-milano-apre-in-rialzo-dello-02_0723ee3e-a7d3-4112-a56b-f73caeb2d9ba.html",
@@ -29,31 +54,6 @@
      "titolo": "Donna morta in casa vicino Potenza, ha grave trauma al volto",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/donna-morta-in-casa-vicino-potenza-ha-grave-trauma-al-volto_31307987-2b1f-451b-968b-50f862bb4d8f.html",
      "data": "2026-08-21T06:28:36+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas in calo a 64,81 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/il-prezzo-del-gas-in-calo-a-6481-euro-al-megawattora_aa450562-3426-441a-a6ba-1af3be25dfe6.html",
-     "data": "2026-08-21T06:17:08+00:00"
-    },
-    {
-     "titolo": "Aereo charter con otto persone a bordo precipita in Alaska",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/aereo-charter-con-otto-persone-a-bordo-precipita-in-alaska_9126e4f3-7b5c-46d0-a615-1c727beb1447.html",
-     "data": "2026-08-21T04:49:54+00:00"
-    },
-    {
-     "titolo": "Droni russi su villaggio vicino a Kharkiv, due morti e due feriti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/droni-russi-su-villaggio-vicino-a-kharkiv-due-morti-e-due-feriti_4c95177c-f4c2-46f2-b1f4-6857f999c4b2.html",
-     "data": "2026-08-21T04:33:46+00:00"
-    },
-    {
-     "titolo": "Terremoto in Colombia, le vittime accertate sono 319",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/terremoto-in-colombia-le-vittime-accertate-sono-319_f992fd24-d6ef-45cd-9879-1c1bd901eb24.html",
-     "data": "2026-08-21T01:32:33+00:00"
-    },
-    {
-     "titolo": "Trump e il suo ex avvocato personale riuniti dopo anni di scontri",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/trump-e-il-suo-ex-avvocato-personale-riuniti-dopo-anni-di-scontri_896a7e33-82ef-484e-a46c-cf06d51fdb40.html",
-     "data": "2026-08-21T00:21:17+00:00"
     }
    ]
   },
@@ -256,6 +256,41 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Milano in rialzo guarda al risiko, Mps +0,9%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-milano-in-rialzo-guarda-al-risiko-mps-09_7b526622-a751-4b9e-b6c8-4930dca14ee8.html",
+     "data": "2026-08-21T07:52:48+00:00"
+    },
+    {
+     "titolo": "Deficit di bilancio a sorpresa in Gb, a luglio per 1,8 miliardi di sterline",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/deficit-di-bilancio-a-sorpresa-in-gb-a-luglio-per-18-miliardi-di-sterline_274f6dc9-849f-413b-aa1c-941a0459f843.html",
+     "data": "2026-08-21T08:00:33+00:00"
+    },
+    {
+     "titolo": "Lovaglio, gruppo da 80 miliardi, tra le prime 10 banche europee'. 4miliardi a soci Mps",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/lovaglio-gruppo-da-80-miliardi-tra-le-prime-10-banche-europee.-4miliardi-a-soci-mps_206129bd-5814-431b-be33-425fa26a0806.html",
+     "data": "2026-08-21T07:54:05+00:00"
+    },
+    {
+     "titolo": "Sale la spesa per i consumi culturali, 108 euro al mese in media a famiglia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/sale-la-spesa-per-i-consumi-culturali-108-euro-al-mese-in-media-a-famiglia_8a8ed3dc-07cd-4b4c-bfe1-a1172dd535e5.html",
+     "data": "2026-08-21T07:44:55+00:00"
+    },
+    {
+     "titolo": "Nuovi rincari carburanti, benzina a 2,005 euro al litro, top da 3 anni",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/nuovi-rincari-carburanti-benzina-a-2005-euro-al-litro-top-da-3-anni_aa144c6c-4185-4c39-9e08-d0c0da61e080.html",
+     "data": "2026-08-21T07:58:23+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa apre in poco mossa con lo sguardo rivolto al Medio Oriente",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-leuropa-apre-in-poco-mossa-con-lo-sguardo-rivolto-al-medio-oriente_1a589a01-f892-456c-86f2-1c0ba20734c8.html",
+     "data": "2026-08-21T07:25:41+00:00"
+    },
+    {
+     "titolo": "Mps in Borsa +0,4%, la doppia offerta non scalda Piazza Affari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/mps-in-borsa-04-la-doppia-offerta-non-scalda-piazza-affari_b3363d14-b54a-44a5-ae0a-8448645a7fc8.html",
+     "data": "2026-08-21T07:13:43+00:00"
+    },
+    {
      "titolo": "Borsa: Milano apre in rialzo dello 0,2%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-milano-apre-in-rialzo-dello-02_c53fdd51-e1b7-4453-a1f5-b936991e3f27.html",
      "data": "2026-08-21T07:06:31+00:00"
@@ -279,41 +314,6 @@
      "titolo": "Oro a 4.552,41 dollari l'oncia, in aumento dello 0,79%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/oro-a-4.55241-dollari-loncia-in-aumento-dello-079_6ff2adbe-3f37-4cab-9686-c1e1daf764d3.html",
      "data": "2026-08-21T06:29:41+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas in calo a 64,81 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/il-prezzo-del-gas-in-calo-a-6481-euro-al-megawattora_2e576960-da61-450b-ab18-c540f0dbca54.html",
-     "data": "2026-08-21T06:17:11+00:00"
-    },
-    {
-     "titolo": "Petrolio in ribasso dello 0,48%, Wti a 86,41 dollari al barile",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/petrolio-in-ribasso-dello-048-wti-a-8641-dollari-al-barile_86a8d735-4e29-49d6-9ff5-287014fe340c.html",
-     "data": "2026-08-21T06:16:35+00:00"
-    },
-    {
-     "titolo": "Euro a 1,1699 dollari, in rialzo dello 0,18%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/euro-a-11699-dollari-in-rialzo-dello-018_ee7e0132-b27a-40bb-a2dc-eb4ad1fa1f01.html",
-     "data": "2026-08-21T06:06:44+00:00"
-    },
-    {
-     "titolo": "Il piano di Lovaglio per cercare di resistere all'opas di Intesa",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/il-piano-di-lovaglio-per-cercare-di-resistere-allopas-di-intesa_56e45912-721e-4db6-8006-04d4bc02cd39.html",
-     "data": "2026-08-21T05:33:36+00:00"
-    },
-    {
-     "titolo": "Mps lancia offerte su Banco Bpm e Banca Generali per complessivi 34 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/mps-lancia-offerte-su-banco-bpm-e-banca-generali-per-complessivi-34-miliardi_6f0c3e06-ba20-4c73-823a-1da7810dc1be.html",
-     "data": "2026-08-21T05:30:24+00:00"
-    },
-    {
-     "titolo": "Il petrolio chiude in rialzo a New York a 87,83 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-petrolio-chiude-in-rialzo-a-new-york-a-8783-dollari_ffd1b2cf-caec-4fce-959d-ad23ce15f533.html",
-     "data": "2026-08-20T18:37:27+00:00"
-    },
-    {
-     "titolo": "Mps proporrà un dividendo straordinario da 4 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/mps-proporra-un-dividendo-straordinario-da-4-miliardi_01eb3fae-e8bc-4173-b920-139acfa16083.html",
-     "data": "2026-08-20T18:30:37+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Cincinnati Open: Rybakina si infortuna, Swiatek in semifinale",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/21/cincinnati-open-rybakina-si-infortuna-swiatek-in-semifinale_676ffad9-9aa6-4ea1-a969-be1bd491e33e.html",
+     "data": "2026-08-21T07:38:46+00:00"
+    },
+    {
+     "titolo": "Cincinnati Open, Fils sfida Cobolli in semifinale",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/21/cincinnati-open-fils-sfida-cobolli-in-semifinale_ba0427c8-a74c-4ad2-83fe-21543dfbd625.html",
+     "data": "2026-08-21T07:15:56+00:00"
+    },
+    {
      "titolo": "Tennis: Cobolli rimonta Paul ed è in semifinale a Cincinnati",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/cincinnati-open-cobolli-rimonta-paul-ed-e-in-semifinale_4a87eb2c-5f05-43ef-b6ac-05931ebfaff6.html",
      "data": "2026-08-21T05:11:14+00:00"
@@ -499,16 +509,6 @@
      "titolo": "Tennis: Alcaraz gioca agli Us Open 'sono tornato'",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-alcaraz-gioca-agli-us-open-sono-tornato_2d0e8280-dc0f-4a71-b113-feefdbcb491e.html",
      "data": "2026-08-20T17:24:13+00:00"
-    },
-    {
-     "titolo": "Alcaraz torna dopo 138 giorni, 'giocherò gli Us Open'",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-alcaraz-torno-agli-us-open_a17f2fe1-6edb-4631-b51e-01b0d97b1aee.html",
-     "data": "2026-08-20T17:58:52+00:00"
-    },
-    {
-     "titolo": "Calcio: infinito Miura, a 59 anni segna una doppietta",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/20/calcio-infinito-miura-a-59-anni-segna-una-doppietta_6949ed3e-9c7b-477d-858a-36bb0500592f.html",
-     "data": "2026-08-20T16:42:07+00:00"
     }
    ]
   }
