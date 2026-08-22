@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-08-22T15:07:37.735408+00:00",
+ "aggiornato": "2026-08-22T15:41:33.020538+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Carney, non possiamo accettare quello che gli Usa ci hanno offerto",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/carney-non-possiamo-accettare-quello-che-gli-usa-ci-hanno-offerto_3f544c69-4517-4ad7-b40f-20016918b4d3.html",
+     "data": "2026-08-22T15:25:40+00:00"
+    },
+    {
+     "titolo": "Katz, 'Erdogan colto con le mani nel barattolo dei biscotti in Siria'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/katz-erdogan-colto-con-le-mani-nel-barattolo-dei-biscotti-in-siria_36e9d99c-00eb-4e8d-9157-8cce4feb0484.html",
+     "data": "2026-08-22T15:20:05+00:00"
+    },
+    {
+     "titolo": "Putin, 'dobbiamo ampliare il nostro sistema di difesa aerea'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/putin-dobbiamo-ampliare-il-nostro-sistema-di-difesa-aerea_12ddbda7-7ffe-477a-bd3a-fdbe702de261.html",
+     "data": "2026-08-22T15:15:44+00:00"
+    },
+    {
+     "titolo": "Putin riconosce 'danni all'economia' dai raid Kiev 'ma per loro nessun vantaggio'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/putin-riconosce-danni-alleconomia-dai-raid-kiev-ma-per-loro-nessun_8d72b429-c9fc-4223-8aab-938a92e0bfa5.html",
+     "data": "2026-08-22T15:12:48+00:00"
+    },
+    {
+     "titolo": "Un padre giapponese abbandona il figlio di 7 anni per ore per scalare il Monte Fuji",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/un-padre-giapponese-abbandona-il-figlio-di-7-anni-per-ore-per-scalare-il-monte_f80eedb9-3882-4959-80dd-ac2e087899e4.html",
+     "data": "2026-08-22T15:09:42+00:00"
+    },
     {
      "titolo": "Il Papa a Cl, smascheriamo i rapporti di potere ingiusti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/il-papa-a-cl-smascheriamo-i-rapporti-di-potere-ingiusti_6a411972-0311-415c-b05e-0591f64a1833.html",
@@ -29,31 +54,6 @@
      "titolo": "Terremoto in Colombia, il bilancio delle vittime sale a 329",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/terremoto-in-colombia-il-bilancio-delle-vittime-sale-a-329_df98d8b6-7acb-4b43-a552-a906d3dbe793.html",
      "data": "2026-08-22T14:01:04+00:00"
-    },
-    {
-     "titolo": "Il fratello di Natalie Harp un 'gringo sadinista' che sostiene Maduro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/il-fratello-di-natalie-harp-un-gringo-sadinista-che-sostiene-maduro_bbffeaff-7ae6-408f-87b5-f15b61b1d249.html",
-     "data": "2026-08-22T13:59:00+00:00"
-    },
-    {
-     "titolo": "Conte, spero che i fischi a Meloni le facciano prendere contatto con la realtà",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/conte-spero-che-i-fischi-a-meloni-le-facciano-prendere-contatto-con-la-realta_03a50b1f-d366-4bca-894c-8cc7bae20e96.html",
-     "data": "2026-08-22T13:59:58+00:00"
-    },
-    {
-     "titolo": "Mattarella, Costituzione animata da costante dialogo per la pace",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/mattarella-costituzione-animata-da-costante-dialogo-per-la-pace_da8d1736-46ad-4dc7-b420-3fe9de2f9669.html",
-     "data": "2026-08-22T13:58:43+00:00"
-    },
-    {
-     "titolo": "Giudice Usa annulla il divieto di Trump per i visti ai migranti di 75 Paesi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/giudice-usa-annulla-il-divieto-di-trump-per-i-visti-ai-migranti-di-75-paesi_8aa33056-12d7-4bab-ad95-33e1f716a58e.html",
-     "data": "2026-08-22T12:58:11+00:00"
-    },
-    {
-     "titolo": "Macron, 'orrore per raid russi in Ucraina, manderemo nuovi missili intercettori'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/macron-orrore-per-raid-russi-in-ucraina-manderemo-nuovi-missili-intercettori_2eca4ded-6535-4acf-beba-e0de30fe2a4b.html",
-     "data": "2026-08-22T12:45:59+00:00"
     }
    ]
   },
@@ -73,7 +73,7 @@
     {
      "titolo": "Umbria, nei comuni della cultura redditi più alti dell'8,9%",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/umbria-nei-comuni-della-cultura-redditi-piu-alti-dell89_203b367b-7611-42a8-86ff-6263b100519a.html",
-     "data": "2026-08-22T13:28:38+00:00"
+     "data": "2026-08-22T15:31:59+00:00"
     },
     {
      "titolo": "Esplosione a Perugia, la sindaca, 'la situazione è sotto controllo'",
@@ -125,6 +125,11 @@
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Due giovani morti in uno stand al Palio di Allumiere, ipotesi esalazioni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/due-giovani-morti-in-uno-stand-al-palio-di-allumiere-ipotesi-esalazioni_f14dc1fc-1a69-439b-b6d0-eccc5fafbb5a.html",
+     "data": "2026-08-22T15:37:46+00:00"
+    },
     {
      "titolo": "West Nile, anziano di 85 anni muore a Pavia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/west-nile-anziano-di-85-anni-muore-a-pavia_eb5b19ad-ff2f-4fd0-b9ab-db11047998b6.html",
@@ -179,11 +184,6 @@
      "titolo": "Locazione turistica abusiva a Bari vecchia, water nel box doccia e umidità",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/locazione-turistica-abusiva-a-bari-vecchia-water-nel-box-doccia-e-umidita_acd105e7-f4bd-4d90-8bfd-6937a7e84d15.html",
      "data": "2026-08-22T11:13:51+00:00"
-    },
-    {
-     "titolo": "Anziano ferito a coltellate nel Vibonese, tagliato per rimuovere 'animale'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/anziano-ferito-a-coltellate-nel-vibonese-tagliato-per-rimuovere-animale_4c0a74ca-a301-45d3-9278-2b99664f6445.html",
-     "data": "2026-08-22T11:04:08+00:00"
     }
    ]
   },
@@ -256,9 +256,9 @@
      "data": "2026-08-22T11:42:04+00:00"
     },
     {
-     "titolo": "Sulla app pubblica o delle banche per l'euro digitale è scontro Bce-istituti",
+     "titolo": "Sulla app pubblica o delle banche per l'euro digitale è confronto Bce-istituti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/sulla-app-pubblica-o-delle-banche-per-leuro-digitale-e-scontro-bce_52153907-fecf-4aff-a1b6-df1c838331c8.html",
-     "data": "2026-08-22T11:28:40+00:00"
+     "data": "2026-08-22T15:21:59+00:00"
     },
     {
      "titolo": "Fava, 'nuovo modello Inps intercetta fabbisogno dei cittadini per il loro futuro'",
@@ -306,6 +306,46 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Carney, non possiamo accettare quello che gli Usa ci hanno offerto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/carney-non-possiamo-accettare-quello-che-gli-usa-ci-hanno-offerto_0d6aea7d-de0e-4049-afc3-cee49402c7d1.html",
+     "data": "2026-08-22T15:27:18+00:00"
+    },
+    {
+     "titolo": "Katz, 'Erdogan colto con le mani nel barattolo dei biscotti in Siria'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/katz-erdogan-colto-con-le-mani-nel-barattolo-dei-biscotti-in-siria_83b9b5fa-7544-4a1e-a7e4-6015da62eb66.html",
+     "data": "2026-08-22T15:20:20+00:00"
+    },
+    {
+     "titolo": "Katz, 'Erdogan colto con le mani nel barattolo dei biscotti in Siria'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/katz-erdogan-colto-con-le-mani-nel-barattolo-dei-biscotti-in-siria_305d0be7-2fef-4472-9903-96a23ffc9a22.html",
+     "data": "2026-08-22T15:20:37+00:00"
+    },
+    {
+     "titolo": "Katz, 'Erdogan colto con le mani nel barattolo dei biscotti in Siria'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/22/katz-erdogan-colto-con-le-mani-nel-barattolo-dei-biscotti-in-siria_e4d9ceba-7291-4978-b09f-f521f84a14e7.html",
+     "data": "2026-08-22T15:20:44+00:00"
+    },
+    {
+     "titolo": "Putin, 'dobbiamo ampliare il nostro sistema di difesa aerea'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/putin-dobbiamo-ampliare-il-nostro-sistema-di-difesa-aerea_c92c3d6b-389a-4a64-8d96-af30a6139edf.html",
+     "data": "2026-08-22T15:16:17+00:00"
+    },
+    {
+     "titolo": "Brasile, ripartono i negoziati sui dazi Usa dopo la telefonata Lula-Trump",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/22/brasile-ripartono-i-negoziati-sui-dazi-usa-dopo-la-telefonata-lula-trump_52a082f7-db41-4889-93a7-ee74e8096edd.html",
+     "data": "2026-08-22T15:11:59+00:00"
+    },
+    {
+     "titolo": "Putin riconosce 'danni all'economia' dai raid Kiev 'ma per loro nessun vantaggio'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/putin-riconosce-danni-alleconomia-dai-raid-kiev-ma-per-loro-nessun_21916499-ddbe-47dc-9528-903865136372.html",
+     "data": "2026-08-22T15:16:22+00:00"
+    },
+    {
+     "titolo": "Un padre giapponese abbandona il figlio di 7 anni per ore per scalare il Monte Fuji",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/22/un-padre-giapponese-abbandona-il-figlio-di-7-anni-per-ore-per-scalare-il-monte_d5682762-5c7c-48c3-a8da-0fc35488bb64.html",
+     "data": "2026-08-22T15:12:32+00:00"
+    },
+    {
      "titolo": "Venezuela, nuova legge per accelerare la ricostruzione post-sisma",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/22/venezuela-nuova-legge-per-accelerare-la-ricostruzione-post-sisma_e5e555a1-d7c3-4251-958d-6d70b47fa227.html",
      "data": "2026-08-22T14:27:56+00:00"
@@ -318,52 +358,12 @@
     {
      "titolo": "Due italiani condannati per vandalismo a Malta ma pena sospesa, potranno rimpatriare",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/due-italiani-condannati-per-vandalismo-a-malta-ma-pena-sospesa-potranno-rimpatriare_35c5f80b-8456-44d8-a787-7f7db9db9af4.html",
-     "data": "2026-08-22T14:06:40+00:00"
+     "data": "2026-08-22T15:13:00+00:00"
     },
     {
      "titolo": "Zelensky, 'continuano le ricerche sotto le macerie di Kryvyi Rih, 16 i morti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/zelensky-continuano-le-ricerche-sotto-le-macerie-di-kryvyi-rih-16-i-morti_4876083c-72b5-475c-837a-20646b91cf26.html",
-     "data": "2026-08-22T14:03:32+00:00"
-    },
-    {
-     "titolo": "Terremoto in Colombia, il bilancio delle vittime sale a 329",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/22/terremoto-in-colombia-il-bilancio-delle-vittime-sale-a-329_4320a1b9-2b96-4930-a993-6a0dd1ca4b9c.html",
-     "data": "2026-08-22T14:01:05+00:00"
-    },
-    {
-     "titolo": "Il fratello di Natalie Harp un 'gringo sadinista' che sostiene Maduro",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/il-fratello-di-natalie-harp-un-gringo-sadinista-che-sostiene-maduro_e7c93c3d-87eb-4a0a-829a-3b2bb0dc5dc8.html",
-     "data": "2026-08-22T13:59:19+00:00"
-    },
-    {
-     "titolo": "Trump, sala da ballo magnifica, ai contribuenti non costa un centesimo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/trump-sala-da-ballo-magnifica-ai-contribuenti-non-costa-un-centesimo_7cf7bf93-7cf2-4e55-9c6b-1a7576f65362.html",
-     "data": "2026-08-22T13:43:12+00:00"
-    },
-    {
-     "titolo": "Giudice Usa annulla il divieto di Trump per i visti ai migranti di 75 Paesi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/giudice-usa-annulla-il-divieto-di-trump-per-i-visti-ai-migranti-di-75-paesi_c01c9232-daa8-424a-922f-48477e0df84f.html",
-     "data": "2026-08-22T12:58:29+00:00"
-    },
-    {
-     "titolo": "Macron, 'orrore per raid russi in Ucraina, manderemo nuovi missili intercettori'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/macron-orrore-per-raid-russi-in-ucraina-manderemo-nuovi-missili-intercettori_420d93f1-dac8-497a-979d-6104005622ae.html",
-     "data": "2026-08-22T12:46:12+00:00"
-    },
-    {
-     "titolo": "Il primo gran premio di Indycar a Washington, per Trump giro d'onore",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/il-primo-gran-premio-di-indycar-a-washington-per-trump-giro-donore_524922b6-439b-43a1-b1aa-32bb6439ed50.html",
-     "data": "2026-08-22T12:03:01+00:00"
-    },
-    {
-     "titolo": "Media, Giappone inerte contro le sanzioni Usa alla Cpi, \"un fallimento diplomatico\"",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/22/media-giappone-inerte-contro-le-sanzioni-usa-alla-cpi-un-fallimento-diplomatico_58890a8b-3f8a-4a5b-b789-c26c9ff541fc.html",
-     "data": "2026-08-22T10:02:47+00:00"
-    },
-    {
-     "titolo": "Media, 'Usa pronti a versare 725 milioni di dollari all'Onu'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/media-usa-pronti-a-versare-725-milioni-di-dollari-allonu_bb1b14cf-7212-467d-be04-2ebc31fd0396.html",
-     "data": "2026-08-22T09:43:05+00:00"
+     "data": "2026-08-22T15:13:09+00:00"
     }
    ]
   },
@@ -436,6 +436,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Infantino sbarca in Rep. Dominicana, Montagliani 'riconsideri la sua presenza'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/infantino-sbarca-in-rep.-dominicana-montagliani-riconsideri-la-sua-presenza_f9d05957-5f26-402e-89a4-32bfc071f729.html",
+     "data": "2026-08-22T15:21:18+00:00"
+    },
+    {
+     "titolo": "F1: Norris in pole in Olanda, terzo tempo per Antonelli. Russell vince la Sprint",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/22/f1-norris-in-pole-in-olanda-terzo-tempo-per-antonelli.-russell-vince-la-sprint_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
+     "data": "2026-08-22T15:16:15+00:00"
+    },
+    {
+     "titolo": "Gp Olanda: Antonelli 'peccato per un piccolo errore, potevo fare la pole'",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/22/gp-olanda-antonelli-peccato-per-un-piccolo-errore-potevo-fare-la-pole_ff034696-9a16-45c7-9547-d050cc46585e.html",
+     "data": "2026-08-22T15:13:41+00:00"
+    },
+    {
      "titolo": "Gp Olanda: Norris in pole in Olanda, terzo tempo per Antonelli",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/22/gp-olanda-norris-in-pole-in-olanda-terzo-tempo-per-antonelli_39cddfc7-294f-4e05-91b1-b2c7601c6c7b.html",
      "data": "2026-08-22T15:03:11+00:00"
@@ -479,21 +494,6 @@
      "titolo": "De Laurentiis ad Allegri: 'Divertiti e fai divertire, fai volare il pallone'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/napoli-de-laurentiis-ad-allegri-divertiti-e-fai-divertire-fai-volare-il-pallone_a5367d16-2ddd-41a6-9847-144ac8b1afe1.html",
      "data": "2026-08-22T14:09:26+00:00"
-    },
-    {
-     "titolo": "Roma: Gasperini, 'rosa competitiva ma ancora incompleta'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/gasperini-obiettivi-la-roma-riparte-da-zero-e-da-forti-motivazioni_9dfe7282-57aa-4006-99bb-3bc8eeb6a6c7.html",
-     "data": "2026-08-22T14:53:23+00:00"
-    },
-    {
-     "titolo": "Gasperini: \"Roma numericamente incompleta, ma rosa più competitiva\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/gasperini-roma-numericamente-incompleta-ma-rosa-piu-competitiva_118ebac2-f250-4998-ad7e-9cdb29c18f1e.html",
-     "data": "2026-08-22T12:08:22+00:00"
-    },
-    {
-     "titolo": "Milan: Amorim, Leao domani non ci sarà",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/milan-amorim-leao-domani-non-ci-sara_82b17eb7-e0db-49e5-acfa-236de7fbb1e0.html",
-     "data": "2026-08-22T12:08:54+00:00"
     }
    ]
   }
