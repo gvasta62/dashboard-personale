@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-22T17:09:36.285632+00:00",
+ "aggiornato": "2026-08-22T17:41:41.014717+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "L'offerta di Mps sul tavolo del cda del Banco Bpm, cruciale il Credit Agricole",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/lofferta-di-mps-sul-tavolo-del-cda-del-banco-bpm-cruciale_1607e49f-75fb-4f7e-95ae-627af1ee9c56.html",
+     "data": "2026-08-22T17:09:40+00:00"
+    },
     {
      "titolo": "Putin promette rappresaglia per gli attacchi ucraini ai magazzini e-commerce",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/putin-promette-rappresaglia-per-gli-attacchi-ucraini-ai-magazzini-e-commerce_b258366f-7293-4989-aaaa-0c2f8220e1ed.html",
@@ -49,11 +54,6 @@
      "titolo": "Due italiani condannati per vandalismo a Malta ma pena sospesa, potranno rimpatriare",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/due-italiani-condannati-per-vandalismo-a-malta-ma-pena-sospesa-potranno-rimpatriare_ac1a2de4-5949-454d-b41f-9dcef93a9500.html",
      "data": "2026-08-22T14:06:40+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'continuano le ricerche sotto le macerie di Kryvyi Rih, 16 i morti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/zelensky-continuano-le-ricerche-sotto-le-macerie-di-kryvyi-rih-16-i-morti_e9db24ed-e10a-40c3-a3d0-62544f990fa2.html",
-     "data": "2026-08-22T14:03:46+00:00"
     }
    ]
   },
@@ -183,7 +183,7 @@
     {
      "titolo": "Esplosione in una casa del Brindisino, grave un anziano e 4 bimbi intossicati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-casa-del-brindisino-grave-un-anziano-e-4-bimbi-intossicati_a08e5c34-078e-4dbb-96f2-0ea14393007c.html",
-     "data": "2026-08-22T15:01:10+00:00"
+     "data": "2026-08-22T17:37:10+00:00"
     }
    ]
   },
@@ -191,9 +191,9 @@
    "nome": "Politica",
    "voci": [
     {
-     "titolo": "Salvini: 'La Germania non ha diritto di mandarci indietro un solo immigrato'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/salvini-la-germania-non-ha-diritto-di-mandarci-indietro-un-solo-immigrato_92f757b9-c1d8-45a1-8ccb-85024ab1cfab.html",
-     "data": "2026-08-22T16:52:30+00:00"
+     "titolo": "Anche l'Irlanda rispedisce i dublinanti, a ottobre il report Ue",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/anche-lirlanda-rispedisce-i-dublinanti-a-ottobre-il-report-ue_92f757b9-c1d8-45a1-8ccb-85024ab1cfab.html",
+     "data": "2026-08-22T17:33:21+00:00"
     },
     {
      "titolo": "Il Papa a Cl, smascheriamo i rapporti di potere ingiusti",
@@ -224,17 +224,17 @@
      "titolo": "80mila richieste di presa in carico di dublinanti respinte in 3 anni",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/80mila-richieste-di-presa-in-carico-di-dublinanti-respinte-in-3-anni_ab4b01a9-0d39-4c98-8739-7718a3fe48ae.html",
      "data": "2026-08-21T18:26:28+00:00"
-    },
-    {
-     "titolo": "Piantedosi all'ANSA: 'Sui dublinanti polemiche sterili, solo 3 in Italia'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/piantedosi-allansa-sui-dublinanti-polemiche-sterili-solo-3-in-italia_bb6db8d5-c7d7-4dbb-840f-96b181f5a6df.html",
-     "data": "2026-08-21T19:08:24+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "L'offerta di Mps sul tavolo del cda del Banco Bpm, cruciale il Credit Agricole",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/lofferta-di-mps-sul-tavolo-del-cda-del-banco-bpm-cruciale_d331439e-51c4-4edf-ad96-a10ee605baaf.html",
+     "data": "2026-08-22T17:11:22+00:00"
+    },
     {
      "titolo": "Fava, per la pensione dei giovani 'salvadanaio' all'Inps con un chip dello Stato",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/fava-per-la-pensione-dei-giovani-salvadanaio-allinps-con-un-chip-dello_65c5215a-9df1-4af4-a30a-7441da484802.html",
@@ -289,11 +289,6 @@
      "titolo": "Salvini, 'nel nuovo Codice della strada nessuna Pec obbligatoria'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/salvini-nel-nuovo-codice-della-strada-nessuna-pec-obbligatoria_17f1d89f-d5b5-4f88-a6ac-bd6ed3353e70.html",
      "data": "2026-08-22T08:53:54+00:00"
-    },
-    {
-     "titolo": "Codacons, 'controesodo può costare fino a 270 euro a famiglia'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/codacons-controesodo-puo-costare-fino-a-270-euro-a-famiglia_7084760e-0a1c-4d55-a8ce-89c66722260b.html",
-     "data": "2026-08-22T07:39:25+00:00"
     }
    ]
   },
@@ -431,6 +426,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Tennis, nasce il Valle d'Aosta Ladies Open 125",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/22/tennis-nasce-il-valle-daosta-ladies-open-125_eb9066eb-c551-4582-8829-ecfaf74077e9.html",
+     "data": "2026-08-22T17:29:54+00:00"
+    },
+    {
+     "titolo": "Calcio: Fiorentina verso l'esordio a Roma, fiducia per il recupero di Atta",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/calcio-fiorentina-verso-lesordio-a-roma-fiducia-per-il-recupero-di-atta_365cc1b8-4a4c-46dc-868c-02745f9c5dbe.html",
+     "data": "2026-08-22T17:28:48+00:00"
+    },
+    {
+     "titolo": "Le azzurre si preparano ai Mondiali, Cina battuta 81-57",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/22/le-azzurre-si-preparano-ai-mondiali-cina-battuta-81-57_a35ad692-fd27-4262-8475-c76f0bf75e6d.html",
+     "data": "2026-08-22T17:26:55+00:00"
+    },
+    {
+     "titolo": "Marotta blinda Lautaro, l'Atalanta scatenata chiude Elmas e punta su Rowe",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/22/marotta-blinda-lautaro-latalanta-scatenata-chiude-elmas-e-punta-su-rowe_cad8c4d9-9ba9-4649-bbad-35349cf30813.html",
+     "data": "2026-08-22T17:35:27+00:00"
+    },
+    {
      "titolo": "Serie A: in campo Inter-Monza 1-1 DIRETTA E FOTO",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-in-campo-inter-monza-1-1-diretta-e-foto_8e610d77-1d92-4242-a048-6c4e4635ef21.html",
      "data": "2026-08-22T17:03:57+00:00"
@@ -453,7 +468,7 @@
     {
      "titolo": "Serie A: Udinese-Como 1-0 DIRETTA E FOTO",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-udinese-como-diretta-e-foto_e0200b45-09c0-43b2-8afd-5342489d62e0.html",
-     "data": "2026-08-22T17:06:37+00:00"
+     "data": "2026-08-22T17:22:43+00:00"
     },
     {
      "titolo": "Tamberi vince in Diamond League a Katowice, salta 2.31",
@@ -469,26 +484,6 @@
      "titolo": "F1: in Olanda Norris in Pole e Antonelli parte terzo",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/22/f1-norris-in-pole-in-olanda-terzo-tempo-per-antonelli.-russell-vince-la-sprint_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
      "data": "2026-08-22T16:31:41+00:00"
-    },
-    {
-     "titolo": "Gp Olanda: Antonelli 'peccato per un piccolo errore, potevo fare la pole'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/22/gp-olanda-antonelli-peccato-per-un-piccolo-errore-potevo-fare-la-pole_ff034696-9a16-45c7-9547-d050cc46585e.html",
-     "data": "2026-08-22T15:13:41+00:00"
-    },
-    {
-     "titolo": "Gp Olanda: Norris in pole in Olanda, terzo tempo per Antonelli",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/22/gp-olanda-norris-in-pole-in-olanda-terzo-tempo-per-antonelli_39cddfc7-294f-4e05-91b1-b2c7601c6c7b.html",
-     "data": "2026-08-22T15:03:11+00:00"
-    },
-    {
-     "titolo": "Us Open: Serena Williams e Alcaraz assieme nel doppio misto",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/22/us-open-serena-williams-e-alcaraz-assieme-nel-doppio-misto_e3786e1a-3d2e-4ef8-b860-adf16937a380.html",
-     "data": "2026-08-22T14:48:05+00:00"
-    },
-    {
-     "titolo": "Calcio: la Juve riparte da Frosinone, 'sensazioni positive, mercato ok'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/22/calcio-la-juve-riparte-da-frosinone-sensazioni-positive-mercato-ok_8f56f47e-5f3a-4fd2-ab79-a6aee45a84d8.html",
-     "data": "2026-08-22T14:54:44+00:00"
     }
    ]
   }
