@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-22T18:53:40.175674+00:00",
+ "aggiornato": "2026-08-22T19:12:53.079442+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -131,6 +131,11 @@
      "data": "2026-08-22T18:44:01+00:00"
     },
     {
+     "titolo": "Scontro sui Cpr, 'anche nelle regioni che non li vogliono'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/scontro-sui-cpr-anche-nelle-regioni-che-non-li-vogliono_619bd087-eb8c-4b97-9b11-0ef97d480147.html",
+     "data": "2026-08-22T19:06:35+00:00"
+    },
+    {
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-08-22T16:36:49+00:00"
@@ -179,17 +184,17 @@
      "titolo": "Il Papa arriva al Meeting di Rimini, bagno di folla e cori da stadio",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/il-papa-arriva-al-meeting-di-rimini-bagno-di-folla-e-cori-da-stadio_88c8ca76-5704-46e6-96fa-6133c561f350.html",
      "data": "2026-08-22T14:16:12+00:00"
-    },
-    {
-     "titolo": "A Verona nasce Luna, ottavo parto cesareo per la mamma",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/a-verona-nasce-luna-ottavo-parto-cesareo-per-la-mamma_fad9f666-710c-4a4f-976b-da7a91aae867.html",
-     "data": "2026-08-22T13:14:44+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Salvini: 'Pronto a condividere le mie responsabilità ma meno chiacchiere'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/salvini-pronto-a-condividere-le-mie-responsabilita-ma-meno-chiacchiere_fe7b405b-7731-4e1c-8332-61ca77182016.html",
+     "data": "2026-08-22T18:56:10+00:00"
+    },
     {
      "titolo": "Il woke manda in tilt la sinistra, Conte sfida Schlein e la destra attacca",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/il-woke-manda-in-tilt-la-sinistra-conte-sfida-schlein-e-la-destra-attacca_11a059d4-c6d4-49e8-80b2-884585f7d0bb.html",
@@ -431,9 +436,19 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Serie A: Udinese-Como termina 1-1 CRONACA E FOTO",
+     "titolo": "Serie A: in campo Parma - Cagliari 0-0 DIRETTA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-in-campo-parma-cagliari-0-0-diretta-e-foto_1f2f7f48-af0c-4b8e-b59f-dbfcb7a782c1.html",
+     "data": "2026-08-22T18:51:20+00:00"
+    },
+    {
+     "titolo": "Serie A: in campo Genoa - Napoli 0-0 DIRETTA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-in-campo-genoa-napoli-0-0-diretta-e-foto_f45e48ce-0f2e-4781-9d71-03ec534f4e75.html",
+     "data": "2026-08-22T18:50:46+00:00"
+    },
+    {
+     "titolo": "Il Como sbatte contro l'Udinese e la traversa, 1-1 alla prima",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-udinese-como-termina-1-1-cronaca-e-foto_e0200b45-09c0-43b2-8afd-5342489d62e0.html",
-     "data": "2026-08-22T18:33:01+00:00"
+     "data": "2026-08-22T19:05:46+00:00"
     },
     {
      "titolo": "Serie A: l'Inter travolge 4-1 il Monza, 1-1 tra Udinese e Como",
@@ -443,12 +458,12 @@
     {
      "titolo": "Serie A: Inter batte Monza 4-1 nella prima di campionato LE&nbsp;FOTO",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-inter-batte-monza-4-1-nella-prima-di-campionato-lenbspfoto_8e610d77-1d92-4242-a048-6c4e4635ef21.html",
-     "data": "2026-08-22T18:30:57+00:00"
+     "data": "2026-08-22T19:02:42+00:00"
     },
     {
-     "titolo": "Tennis: Cincinnati, semifinale Cobolli-Fils 3-4 DIRETTA",
+     "titolo": "Tennis: Cincinnati, semifinale Cobolli-Fils 3-6, 2-3 DIRETTA",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/22/tennis-cincinnati-semifinale-cobolli-fils-1-1-diretta_5e3ac670-c830-472e-8221-90c056bcb409.html",
-     "data": "2026-08-22T18:44:44+00:00"
+     "data": "2026-08-22T19:08:03+00:00"
     },
     {
      "titolo": "Atalanta: Kristensen e Scalvini out, turnover in difesa",
@@ -479,16 +494,6 @@
      "titolo": "Giochi Mediterraneo: prime medaglie azzurre arrivano dal nuoto, due argenti",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/22/giochi-mediterraneo-prime-medaglie-azzurre-arrivano-dal-nuoto-due-argenti_d9769221-a542-4ad4-a544-86b91671c881.html",
      "data": "2026-08-22T17:42:17+00:00"
-    },
-    {
-     "titolo": "La Maxima Roma ingaggia Carey Jr, centro ex Wizards",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/22/la-maxima-roma-ingaggia-carey-jr-centro-ex-wizards_18214ae6-5692-47ef-8ec0-0ee4846bb2b9.html",
-     "data": "2026-08-22T17:38:31+00:00"
-    },
-    {
-     "titolo": "Tennis, nasce il Valle d'Aosta Ladies Open 125",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/22/tennis-nasce-il-valle-daosta-ladies-open-125_eb9066eb-c551-4582-8829-ecfaf74077e9.html",
-     "data": "2026-08-22T17:29:54+00:00"
     }
    ]
   }
