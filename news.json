@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-22T15:41:33.020538+00:00",
+ "aggiornato": "2026-08-22T16:08:07.674740+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Putin promette rappresaglia per gli attacchi ucraini ai magazzini e-commerce",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/putin-promette-rappresaglia-per-gli-attacchi-ucraini-ai-magazzini-e-commerce_b258366f-7293-4989-aaaa-0c2f8220e1ed.html",
+     "data": "2026-08-22T15:45:06+00:00"
+    },
     {
      "titolo": "Carney, non possiamo accettare quello che gli Usa ci hanno offerto",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/carney-non-possiamo-accettare-quello-che-gli-usa-ci-hanno-offerto_3f544c69-4517-4ad7-b40f-20016918b4d3.html",
@@ -49,17 +54,17 @@
      "titolo": "Zelensky, 'continuano le ricerche sotto le macerie di Kryvyi Rih, 16 i morti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/zelensky-continuano-le-ricerche-sotto-le-macerie-di-kryvyi-rih-16-i-morti_e9db24ed-e10a-40c3-a3d0-62544f990fa2.html",
      "data": "2026-08-22T14:03:46+00:00"
-    },
-    {
-     "titolo": "Terremoto in Colombia, il bilancio delle vittime sale a 329",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/terremoto-in-colombia-il-bilancio-delle-vittime-sale-a-329_df98d8b6-7acb-4b43-a552-a906d3dbe793.html",
-     "data": "2026-08-22T14:01:04+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Esplosione a Perugia, dimesso l'uomo ferito",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/esplosione-a-perugia-dimesso-luomo-ferito_1bbcf203-5f0d-4e91-8623-aaa939f782ce.html",
+     "data": "2026-08-22T15:39:14+00:00"
+    },
     {
      "titolo": "Esplosione a Perugia, Prisco segue con apprensione la situazione",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/esplosione-a-perugia-prisco-segue-con-apprensione-la-situazione_c27f46d7-2e4b-4ab7-95be-6629c036b3b4.html",
@@ -114,11 +119,6 @@
      "titolo": "Bandecchi chiede 'blocco sine die del rilascio della cittadinanza italiana'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/21/bandecchi-chiede-blocco-sine-die-del-rilascio-della-cittadinanza-italiana_5c7cce59-a9fb-4e9e-b683-ceff71effa32.html",
      "data": "2026-08-21T15:46:57+00:00"
-    },
-    {
-     "titolo": "Il sindaco di Assisi accoglie una delegazione proveniente dal Libano",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/21/il-sindaco-di-assisi-accoglie-una-delegazione-proveniente-dal-libano_24315b88-22f8-474c-b0a1-6c64d1051ca4.html",
-     "data": "2026-08-21T10:47:48+00:00"
     }
    ]
   },
@@ -126,9 +126,19 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Giani: 'I Cpr sono luoghi di detenzione impropria, no in Toscana'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/giani-i-cpr-sono-luoghi-di-detenzione-impropria-no-in-toscana_60c62639-b449-4713-8be1-2867d986e010.html",
+     "data": "2026-08-22T15:46:18+00:00"
+    },
+    {
+     "titolo": "Perseguita e rapina gli anziani genitori, 52enne arrestata",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/perseguita-e-rapina-gli-anziani-genitori-52enne-arrestata-_fb0a2342-6a1a-4d71-8ddd-b273515cfb3a.html",
+     "data": "2026-08-22T15:57:12+00:00"
+    },
+    {
      "titolo": "Due giovani morti in uno stand al Palio di Allumiere, ipotesi esalazioni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/due-giovani-morti-in-uno-stand-al-palio-di-allumiere-ipotesi-esalazioni_f14dc1fc-1a69-439b-b6d0-eccc5fafbb5a.html",
-     "data": "2026-08-22T15:37:46+00:00"
+     "data": "2026-08-22T15:48:05+00:00"
     },
     {
      "titolo": "West Nile, anziano di 85 anni muore a Pavia",
@@ -174,16 +184,6 @@
      "titolo": "Riesame Milano dispone domiciliari per due degli agenti arrestati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/riesame-milano-dispone-domiciliari-per-due-degli-agenti-arrestati_1613273e-8367-4f92-9349-70c6bdd5baec.html",
      "data": "2026-08-22T11:16:34+00:00"
-    },
-    {
-     "titolo": "Evacuate con elicottero 29 persone bloccate in due rifugi nel Bergamasco",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/evacuate-con-elicottero-29-persone-bloccate-in-due-rifugi-nel-bergamasco_ac1aa5d2-7ab9-4097-bda5-80cc75eac42a.html",
-     "data": "2026-08-22T11:16:36+00:00"
-    },
-    {
-     "titolo": "Locazione turistica abusiva a Bari vecchia, water nel box doccia e umidità",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/locazione-turistica-abusiva-a-bari-vecchia-water-nel-box-doccia-e-umidita_acd105e7-f4bd-4d90-8bfd-6937a7e84d15.html",
-     "data": "2026-08-22T11:13:51+00:00"
     }
    ]
   },
@@ -276,9 +276,9 @@
      "data": "2026-08-22T14:35:08+00:00"
     },
     {
-     "titolo": "È caro conto-corrente in Italia, la spesa è salita del 23% in 10 anni",
+     "titolo": "Il costo dei conti correnti è salito del 23% in 10 anni",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/e-caro-conto-corrente-la-spesa-e-salita-del-23-in-10-anni_3af4547a-b3f4-45eb-9109-63f870658de2.html",
-     "data": "2026-08-22T13:38:30+00:00"
+     "data": "2026-08-22T15:56:03+00:00"
     },
     {
      "titolo": "Birraturismo per 13 milioni di italiani, domani arriva 'Luppoleti aperti'",
@@ -306,6 +306,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Putin promette rappresaglia per gli attacchi ucraini ai magazzini e-commerce",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/putin-promette-rappresaglia-per-gli-attacchi-ucraini-ai-magazzini-e-commerce_67f7a72a-5b8a-41c8-bb0e-8f8adcf78736.html",
+     "data": "2026-08-22T15:45:06+00:00"
+    },
+    {
      "titolo": "Carney, non possiamo accettare quello che gli Usa ci hanno offerto",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/carney-non-possiamo-accettare-quello-che-gli-usa-ci-hanno-offerto_0d6aea7d-de0e-4049-afc3-cee49402c7d1.html",
      "data": "2026-08-22T15:27:18+00:00"
@@ -313,17 +318,17 @@
     {
      "titolo": "Katz, 'Erdogan colto con le mani nel barattolo dei biscotti in Siria'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/katz-erdogan-colto-con-le-mani-nel-barattolo-dei-biscotti-in-siria_83b9b5fa-7544-4a1e-a7e4-6015da62eb66.html",
-     "data": "2026-08-22T15:20:20+00:00"
+     "data": "2026-08-22T15:48:44+00:00"
     },
     {
      "titolo": "Katz, 'Erdogan colto con le mani nel barattolo dei biscotti in Siria'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/katz-erdogan-colto-con-le-mani-nel-barattolo-dei-biscotti-in-siria_305d0be7-2fef-4472-9903-96a23ffc9a22.html",
-     "data": "2026-08-22T15:20:37+00:00"
+     "data": "2026-08-22T15:48:46+00:00"
     },
     {
      "titolo": "Katz, 'Erdogan colto con le mani nel barattolo dei biscotti in Siria'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/22/katz-erdogan-colto-con-le-mani-nel-barattolo-dei-biscotti-in-siria_e4d9ceba-7291-4978-b09f-f521f84a14e7.html",
-     "data": "2026-08-22T15:20:44+00:00"
+     "data": "2026-08-22T15:48:48+00:00"
     },
     {
      "titolo": "Putin, 'dobbiamo ampliare il nostro sistema di difesa aerea'",
@@ -359,11 +364,6 @@
      "titolo": "Due italiani condannati per vandalismo a Malta ma pena sospesa, potranno rimpatriare",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/due-italiani-condannati-per-vandalismo-a-malta-ma-pena-sospesa-potranno-rimpatriare_35c5f80b-8456-44d8-a787-7f7db9db9af4.html",
      "data": "2026-08-22T15:13:00+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'continuano le ricerche sotto le macerie di Kryvyi Rih, 16 i morti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/zelensky-continuano-le-ricerche-sotto-le-macerie-di-kryvyi-rih-16-i-morti_4876083c-72b5-475c-837a-20646b91cf26.html",
-     "data": "2026-08-22T15:13:09+00:00"
     }
    ]
   },
@@ -436,6 +436,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Tamberi vince in Diamond League a Katowice, salta 2.31",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/22/tamberi-vince-in-diamond-league-a-katowice-salta-2.31_27e724d8-7f75-43c0-932a-c002b4656052.html",
+     "data": "2026-08-22T16:02:24+00:00"
+    },
+    {
      "titolo": "Infantino sbarca in Rep. Dominicana, Montagliani 'riconsideri la sua presenza'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/infantino-sbarca-in-rep.-dominicana-montagliani-riconsideri-la-sua-presenza_f9d05957-5f26-402e-89a4-32bfc071f729.html",
      "data": "2026-08-22T15:21:18+00:00"
@@ -489,11 +494,6 @@
      "titolo": "Milan: la prima di Amorim, 'abbiamo bisogno di vincerle tutte'",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/22/milan-la-prima-di-amorim-abbiamo-bisogno-di-vincerle-tutte_1d30134c-2a85-4b38-b282-806d347212e0.html",
      "data": "2026-08-22T13:52:19+00:00"
-    },
-    {
-     "titolo": "De Laurentiis ad Allegri: 'Divertiti e fai divertire, fai volare il pallone'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/napoli-de-laurentiis-ad-allegri-divertiti-e-fai-divertire-fai-volare-il-pallone_a5367d16-2ddd-41a6-9847-144ac8b1afe1.html",
-     "data": "2026-08-22T14:09:26+00:00"
     }
    ]
   }
