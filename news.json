@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-22T14:43:13.639607+00:00",
+ "aggiornato": "2026-08-22T15:07:37.735408+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "West Nile, anziano di 85 anni muore a Pavia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/west-nile-anziano-di-85-anni-muore-a-pavia_eb5b19ad-ff2f-4fd0-b9ab-db11047998b6.html",
+     "data": "2026-08-22T14:42:21+00:00"
+    },
+    {
      "titolo": "Due assalti al bancomat nel veronese, banditi fanno esplodere sportelli",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/due-assalti-al-bancomat-nel-veronese-banditi-fanno-esplodere-sportelli_6e2fa291-8b6b-4e99-a8fa-65454d1bf150.html",
      "data": "2026-08-22T14:25:53+00:00"
@@ -148,7 +153,7 @@
     {
      "titolo": "Esplosione in una casa del Brindisino, grave un anziano e 4 bimbi intossicati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-casa-del-brindisino-grave-un-anziano-e-4-bimbi-intossicati_a08e5c34-078e-4dbb-96f2-0ea14393007c.html",
-     "data": "2026-08-22T13:11:57+00:00"
+     "data": "2026-08-22T15:01:10+00:00"
     },
     {
      "titolo": "Fabio Savi scrive ai familiari delle vittime: 'Provo rimorso per quello che ho fatto'",
@@ -179,11 +184,6 @@
      "titolo": "Anziano ferito a coltellate nel Vibonese, tagliato per rimuovere 'animale'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/anziano-ferito-a-coltellate-nel-vibonese-tagliato-per-rimuovere-animale_4c0a74ca-a301-45d3-9278-2b99664f6445.html",
      "data": "2026-08-22T11:04:08+00:00"
-    },
-    {
-     "titolo": "Ragazza di 17 anni denuncia: 'Sono stata violentata da un animatore in Cilento'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/ragazza-di-17-anni-denuncia-sono-stata-violentata-da-un-animatore-in-cilento_7b375022-f5cc-4239-8e83-a96c6ee6b3f3.html",
-     "data": "2026-08-22T10:54:15+00:00"
     }
    ]
   },
@@ -436,14 +436,24 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Us Open: Serena Williams e Alcaraz assieme nel doppio misto",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/22/us-open-serena-williams-e-alcaraz-assieme-nel-doppio-misto_e3786e1a-3d2e-4ef8-b860-adf16937a380.html",
-     "data": "2026-08-22T14:39:09+00:00"
+     "titolo": "Gp Olanda: Norris in pole in Olanda, terzo tempo per Antonelli",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/22/gp-olanda-norris-in-pole-in-olanda-terzo-tempo-per-antonelli_39cddfc7-294f-4e05-91b1-b2c7601c6c7b.html",
+     "data": "2026-08-22T15:03:11+00:00"
     },
     {
-     "titolo": "Europei pallavolo: altra vittoria per le azzurre, 3-0 al Montenegro",
+     "titolo": "Us Open: Serena Williams e Alcaraz assieme nel doppio misto",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/22/us-open-serena-williams-e-alcaraz-assieme-nel-doppio-misto_e3786e1a-3d2e-4ef8-b860-adf16937a380.html",
+     "data": "2026-08-22T14:48:05+00:00"
+    },
+    {
+     "titolo": "Calcio: la Juve riparte da Frosinone, 'sensazioni positive, mercato ok'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/22/calcio-la-juve-riparte-da-frosinone-sensazioni-positive-mercato-ok_8f56f47e-5f3a-4fd2-ab79-a6aee45a84d8.html",
+     "data": "2026-08-22T14:54:44+00:00"
+    },
+    {
+     "titolo": "Pallavolo: altra vittoria per le azzurre, 3-0 al Montenegro",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/22/europei-pallavolo-altra-vittoria-per-le-azzurre-3-0-al-montenegro_dcc9bfab-29ae-4cb6-b7b4-7b92ea4620ba.html",
-     "data": "2026-08-22T14:24:40+00:00"
+     "data": "2026-08-22T14:50:56+00:00"
     },
     {
      "titolo": "Juve: Spalletti, 'Vicario e Kolo titolari a Frosinone'",
@@ -471,9 +481,9 @@
      "data": "2026-08-22T14:09:26+00:00"
     },
     {
-     "titolo": "Gasperini: 'Obiettivi? La Roma riparte da zero e da forti motivazioni'",
+     "titolo": "Roma: Gasperini, 'rosa competitiva ma ancora incompleta'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/gasperini-obiettivi-la-roma-riparte-da-zero-e-da-forti-motivazioni_9dfe7282-57aa-4006-99bb-3bc8eeb6a6c7.html",
-     "data": "2026-08-22T12:36:52+00:00"
+     "data": "2026-08-22T14:53:23+00:00"
     },
     {
      "titolo": "Gasperini: \"Roma numericamente incompleta, ma rosa più competitiva\"",
@@ -484,16 +494,6 @@
      "titolo": "Milan: Amorim, Leao domani non ci sarà",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/milan-amorim-leao-domani-non-ci-sara_82b17eb7-e0db-49e5-acfa-236de7fbb1e0.html",
      "data": "2026-08-22T12:08:54+00:00"
-    },
-    {
-     "titolo": "Amorim, non so quanto ci vorrà ma vogliamo vincere scudetto",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/amorim-non-so-quanto-ci-vorra-ma-vogliamo-vincere-scudetto_73b3c941-293a-4d50-a85c-001a8d9cf584.html",
-     "data": "2026-08-22T12:02:08+00:00"
-    },
-    {
-     "titolo": "Presidenza arbitri, Pacifici si candida: 'serve una visione per il futuro'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/presidenza-arbitri-pacifici-si-candida-serve-visione-per-il-futuro_576ec59e-b39e-4411-bb7b-f6c853a0a80a.html",
-     "data": "2026-08-22T14:13:20+00:00"
     }
    ]
   }
