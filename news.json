@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-22T14:08:12.542206+00:00",
+ "aggiornato": "2026-08-22T14:43:13.639607+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il Papa a Cl, smascheriamo i rapporti di potere ingiusti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/il-papa-a-cl-smascheriamo-i-rapporti-di-potere-ingiusti_6a411972-0311-415c-b05e-0591f64a1833.html",
+     "data": "2026-08-22T14:23:15+00:00"
+    },
+    {
+     "titolo": "Rammarico Belgrado per mancata scarcerazione di Mladic, malato terminale",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/rammarico-belgrado-per-mancata-scarcerazione-di-mladic-malato-terminale_4c148cb8-af25-4104-89d4-eda6110cb212.html",
+     "data": "2026-08-22T14:11:10+00:00"
+    },
     {
      "titolo": "Due italiani condannati per vandalismo a Malta ma pena sospesa, potranno rimpatriare",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/due-italiani-condannati-per-vandalismo-a-malta-ma-pena-sospesa-potranno-rimpatriare_ac1a2de4-5949-454d-b41f-9dcef93a9500.html",
@@ -44,16 +54,6 @@
      "titolo": "Macron, 'orrore per raid russi in Ucraina, manderemo nuovi missili intercettori'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/macron-orrore-per-raid-russi-in-ucraina-manderemo-nuovi-missili-intercettori_2eca4ded-6535-4acf-beba-e0de30fe2a4b.html",
      "data": "2026-08-22T12:45:59+00:00"
-    },
-    {
-     "titolo": "Fava, per la pensione dei giovani 'salvadanaio' all'Inps con un chip dello Stato",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/fava-per-la-pensione-dei-giovani-salvadanaio-allinps-con-un-chip-dello_4c89c51b-879d-48dc-a1dc-5b58e5b27c2b.html",
-     "data": "2026-08-22T12:17:40+00:00"
-    },
-    {
-     "titolo": "Robot cinese corre i 100 metri in 9\"32, battuto il record di Bolt",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/robot-cinese-corre-i-100-metri-in-932-battuto-il-record-di-bolt_d92487d2-8a33-4c1f-99aa-7f05f2db2839.html",
-     "data": "2026-08-22T11:36:43+00:00"
     }
    ]
   },
@@ -126,9 +126,19 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Due assalti al bancomat nel veronese, banditi fanno esplodere sportelli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/due-assalti-al-bancomat-nel-veronese-banditi-fanno-esplodere-sportelli_6e2fa291-8b6b-4e99-a8fa-65454d1bf150.html",
+     "data": "2026-08-22T14:25:53+00:00"
+    },
+    {
+     "titolo": "Ranucci: 'Falsità su mio fratello Daniele e sul suo ruolo nell'archivio dell'Antimafia'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/ranucci-falsita-su-mio-fratello-daniele-e-sul-suo-ruolo-nellarchivio-dellantimafia_6f5426b5-ffaf-4a20-a912-060e115b0f1c.html",
+     "data": "2026-08-22T14:12:32+00:00"
+    },
+    {
      "titolo": "Il Papa arriva al Meeting di Rimini, bagno di folla e cori da stadio",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/il-papa-arriva-al-meeting-di-rimini-bagno-di-folla-e-cori-da-stadio_88c8ca76-5704-46e6-96fa-6133c561f350.html",
-     "data": "2026-08-22T13:47:47+00:00"
+     "data": "2026-08-22T14:16:12+00:00"
     },
     {
      "titolo": "A Verona nasce Luna, ottavo parto cesareo per la mamma",
@@ -174,22 +184,17 @@
      "titolo": "Ragazza di 17 anni denuncia: 'Sono stata violentata da un animatore in Cilento'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/ragazza-di-17-anni-denuncia-sono-stata-violentata-da-un-animatore-in-cilento_7b375022-f5cc-4239-8e83-a96c6ee6b3f3.html",
      "data": "2026-08-22T10:54:15+00:00"
-    },
-    {
-     "titolo": "Travolto e ucciso davanti a moglie e figli, arrestato 49enne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/travolto-e-ucciso-davanti-a-moglie-e-figli-arrestato-49enne_d362573b-0df8-49a0-8e07-1c84e8151e1f.html",
-     "data": "2026-08-22T10:42:49+00:00"
-    },
-    {
-     "titolo": "Terremoto: Anac, 'controllato un terzo degli interventi per 2,17 miliardi'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/terremoto-anac-controllato-un-terzo-degli-interventi-per-217-miliardi_14ad3a4f-b636-45c2-8b56-5d6282eacb31.html",
-     "data": "2026-08-22T11:49:41+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Il Papa a Cl, smascheriamo i rapporti di potere ingiusti",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/il-papa-a-cl-smascheriamo-i-rapporti-di-potere-ingiusti_0059b4dd-bee2-4efd-b3a4-c63aefbfd1e3.html",
+     "data": "2026-08-22T14:23:17+00:00"
+    },
     {
      "titolo": "Conte, spero che i fischi a Meloni le facciano prendere contatto con la realtà",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/conte-spero-che-i-fischi-a-meloni-le-facciano-prendere-contatto-con-la-realta_580687f3-ef73-4eb8-a3ad-4197d0864895.html",
@@ -238,12 +243,12 @@
     {
      "titolo": "Fava, per la pensione dei giovani 'salvadanaio' all'Inps con un chip dello Stato",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/fava-per-la-pensione-dei-giovani-salvadanaio-allinps-con-un-chip-dello_65c5215a-9df1-4af4-a30a-7441da484802.html",
-     "data": "2026-08-22T12:17:38+00:00"
+     "data": "2026-08-22T14:34:37+00:00"
     },
     {
      "titolo": "Open Fiber al Meeting di Rimini, 'i nostri visori mostrano la casa del futuro'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/open-fiber-al-meeting-di-rimini-i-nostri-visori-mostrano-la-casa-del-futuro_84827616-f23f-4004-9c80-1c3057d97463.html",
-     "data": "2026-08-22T12:11:00+00:00"
+     "data": "2026-08-22T14:29:12+00:00"
     },
     {
      "titolo": "Fava, 'nel futuro per il welfare puntare sul lavoro, senza non c'è previdenza'",
@@ -268,7 +273,7 @@
     {
      "titolo": "Calderone, 'vogliamo confermare gli incentivi del 2026 sul lavoro nella manovra'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/calderone-vogliamo-confermare-gli-incentivi-del-2026-sul-lavoro-nella_b431c1b3-affc-454d-bac3-828bfd8a0898.html",
-     "data": "2026-08-22T09:26:26+00:00"
+     "data": "2026-08-22T14:35:08+00:00"
     },
     {
      "titolo": "È caro conto-corrente in Italia, la spesa è salita del 23% in 10 anni",
@@ -300,6 +305,16 @@
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Venezuela, nuova legge per accelerare la ricostruzione post-sisma",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/22/venezuela-nuova-legge-per-accelerare-la-ricostruzione-post-sisma_e5e555a1-d7c3-4251-958d-6d70b47fa227.html",
+     "data": "2026-08-22T14:27:56+00:00"
+    },
+    {
+     "titolo": "Rammarico Belgrado per mancata scarcerazione di Mladic, malato terminale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/rammarico-belgrado-per-mancata-scarcerazione-di-mladic-malato-terminale_72e79320-f112-4805-b737-2b2324cf246e.html",
+     "data": "2026-08-22T14:11:10+00:00"
+    },
     {
      "titolo": "Due italiani condannati per vandalismo a Malta ma pena sospesa, potranno rimpatriare",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/due-italiani-condannati-per-vandalismo-a-malta-ma-pena-sospesa-potranno-rimpatriare_35c5f80b-8456-44d8-a787-7f7db9db9af4.html",
@@ -349,16 +364,6 @@
      "titolo": "Media, 'Usa pronti a versare 725 milioni di dollari all'Onu'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/media-usa-pronti-a-versare-725-milioni-di-dollari-allonu_bb1b14cf-7212-467d-be04-2ebc31fd0396.html",
      "data": "2026-08-22T09:43:05+00:00"
-    },
-    {
-     "titolo": "Droni Kiev su hub Ozon in Russia, 500 dipendenti evacuati",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/droni-kiev-su-hub-ozon-in-russia-500-dipendenti-evacuati_d25372ee-92a2-4b35-8014-e38b5b645e81.html",
-     "data": "2026-08-22T08:24:23+00:00"
-    },
-    {
-     "titolo": "Tunisia, 'affondata barca diretta verso Italia, almeno 13 dispersi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/22/tunisia-affondata-barca-diretta-verso-italia-almeno-13-dispersi_164d00a8-0e19-4d8e-827e-75ff3c20eb28.html",
-     "data": "2026-08-22T08:16:52+00:00"
     }
    ]
   },
@@ -431,6 +436,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Us Open: Serena Williams e Alcaraz assieme nel doppio misto",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/22/us-open-serena-williams-e-alcaraz-assieme-nel-doppio-misto_e3786e1a-3d2e-4ef8-b860-adf16937a380.html",
+     "data": "2026-08-22T14:39:09+00:00"
+    },
+    {
+     "titolo": "Europei pallavolo: altra vittoria per le azzurre, 3-0 al Montenegro",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/22/europei-pallavolo-altra-vittoria-per-le-azzurre-3-0-al-montenegro_dcc9bfab-29ae-4cb6-b7b4-7b92ea4620ba.html",
+     "data": "2026-08-22T14:24:40+00:00"
+    },
+    {
+     "titolo": "Juve: Spalletti, 'Vicario e Kolo titolari a Frosinone'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/juve-spalletti-vicario-e-kolo-titolari-a-frosinone_6ff6f0a8-2024-4c5c-885a-d472446a722e.html",
+     "data": "2026-08-22T14:13:05+00:00"
+    },
+    {
      "titolo": "Juve: Spalletti 'fatto un buon mercato ma c'è ancora da lavorare'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/juve-spalletti-fatto-un-buon-mercato-ma-ce-ancora-da-lavorare_9fd4f1e1-8368-4348-805b-7da45d9312d7.html",
      "data": "2026-08-22T14:02:45+00:00"
@@ -448,7 +468,7 @@
     {
      "titolo": "De Laurentiis ad Allegri: 'Divertiti e fai divertire, fai volare il pallone'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/napoli-de-laurentiis-ad-allegri-divertiti-e-fai-divertire-fai-volare-il-pallone_a5367d16-2ddd-41a6-9847-144ac8b1afe1.html",
-     "data": "2026-08-22T13:53:29+00:00"
+     "data": "2026-08-22T14:09:26+00:00"
     },
     {
      "titolo": "Gasperini: 'Obiettivi? La Roma riparte da zero e da forti motivazioni'",
@@ -471,24 +491,9 @@
      "data": "2026-08-22T12:02:08+00:00"
     },
     {
-     "titolo": "Presidenza arbitri, Pacifici si candida, 'serve una visione per il futuro'",
+     "titolo": "Presidenza arbitri, Pacifici si candida: 'serve una visione per il futuro'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/presidenza-arbitri-pacifici-si-candida-serve-visione-per-il-futuro_576ec59e-b39e-4411-bb7b-f6c853a0a80a.html",
-     "data": "2026-08-22T12:40:30+00:00"
-    },
-    {
-     "titolo": "GP Olanda, Russell vince la Sprint",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/22/gp-olanda-russell-vince-la-sprint_f99f9207-72a0-40c4-adb3-aba4f3a7d091.html",
-     "data": "2026-08-22T10:41:05+00:00"
-    },
-    {
-     "titolo": "F1: Gp Olanda, Russell vince la Sprint",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/22/f1-gp-olanda-russell-vince-la-sprint-_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
-     "data": "2026-08-22T10:39:17+00:00"
-    },
-    {
-     "titolo": "Bolt si iscrive ad una squadra amatoriale di Manchester",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/bolt-si-iscrive-ad-una-squadra-amatoriale-di-manchester_9980432b-72e8-42d1-b11f-f07745c8cda7.html",
-     "data": "2026-08-22T12:38:16+00:00"
+     "data": "2026-08-22T14:13:20+00:00"
     }
    ]
   }
