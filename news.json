@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-22T20:07:45.458957+00:00",
+ "aggiornato": "2026-08-22T20:44:35.354199+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Iran, 'i Paesi che aderiscano alle sanzioni Usa saranno ritenuti nemici'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/iran-i-paesi-che-aderiscano-alle-sanzioni-usa-saranno-ritenuti-nemici_e3fc2365-5243-4b3e-8ca2-dea0e5647705.html",
+     "data": "2026-08-22T20:14:17+00:00"
+    },
     {
      "titolo": "Sei paesi Ue chiedono tassa su extraprofitti compagnie petrolifere, anche l'Italia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/sei-paesi-ue-chiedono-tassa-su-extraprofitti-compagnie-petrolifere-anche-litalia_19935ede-e715-4432-8561-90de00e522c3.html",
@@ -49,17 +54,17 @@
      "titolo": "Il Papa a Cl, smascheriamo i rapporti di potere ingiusti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/il-papa-a-cl-smascheriamo-i-rapporti-di-potere-ingiusti_6a411972-0311-415c-b05e-0591f64a1833.html",
      "data": "2026-08-22T14:23:15+00:00"
-    },
-    {
-     "titolo": "Rammarico Belgrado per mancata scarcerazione di Mladic, malato terminale",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/rammarico-belgrado-per-mancata-scarcerazione-di-mladic-malato-terminale_4c148cb8-af25-4104-89d4-eda6110cb212.html",
-     "data": "2026-08-22T14:11:10+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Incidente sulla statale Valnerina in Umbria, morto un motociclista",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/incidente-sulla-statale-valnerina-in-umbria-morto-un-motociclista_92be80b9-d747-4297-89e1-13e620fc8dfe.html",
+     "data": "2026-08-22T20:12:45+00:00"
+    },
     {
      "titolo": "Melasecche, follia deturpare il Trasimeno con pannelli galleggianti",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/melasecche-follia-deturpare-il-trasimeno-con-pannelli-galleggianti_84652b58-44de-4981-8e0a-2ea9ced1f2d0.html",
@@ -114,11 +119,6 @@
      "titolo": "Esplosione a Perugia, una ferita trovata in giardino",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/esplosione-a-perugia-una-ferita-trovata-in-giardino_9a3372e6-426d-4352-afeb-2686f668b5ae.html",
      "data": "2026-08-22T10:07:47+00:00"
-    },
-    {
-     "titolo": "Esplosione in una palazzina a Perugia, sono due i feriti, sarebbero gravi",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/esplosione-in-una-palazzina-a-perugia-sono-due-i-feriti-sarebbero-gravi_491eca31-7135-4557-a0c8-91ecd98ddf1b.html",
-     "data": "2026-08-22T09:47:52+00:00"
     }
    ]
   },
@@ -153,7 +153,7 @@
     {
      "titolo": "Cantante scomparsa nel Rodigino, accertamenti irripetibili su reperti della casa",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/cantante-scomparsa-nel-rodigino-accertamenti-irripetibili-su-reperti-della-casa_b480b51c-105f-4876-97e7-ad41ec7a1540.html",
-     "data": "2026-08-22T16:04:16+00:00"
+     "data": "2026-08-22T20:13:14+00:00"
     },
     {
      "titolo": "Perseguita e rapina gli anziani genitori, 52enne arrestata",
@@ -163,7 +163,7 @@
     {
      "titolo": "Muoiono per esalazioni da monossido, una vittima aveva 15 anni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/due-giovani-morti-in-uno-stand-al-palio-di-allumiere-ipotesi-esalazioni_f14dc1fc-1a69-439b-b6d0-eccc5fafbb5a.html",
-     "data": "2026-08-22T18:37:54+00:00"
+     "data": "2026-08-22T20:20:39+00:00"
     },
     {
      "titolo": "West Nile, anziano di 85 anni muore a Pavia",
@@ -306,6 +306,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Iran, 'i Paesi che aderiscano alle sanzioni Usa saranno ritenuti nemici'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/22/iran-i-paesi-che-aderiscano-alle-sanzioni-usa-saranno-ritenuti-nemici_758d918e-cec3-44ea-8489-6c3b011b1359.html",
+     "data": "2026-08-22T20:14:19+00:00"
+    },
+    {
      "titolo": "Putin promette rappresaglia per gli attacchi ucraini ai magazzini e-commerce",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/putin-promette-rappresaglia-per-gli-attacchi-ucraini-ai-magazzini-e-commerce_67f7a72a-5b8a-41c8-bb0e-8f8adcf78736.html",
      "data": "2026-08-22T15:45:06+00:00"
@@ -359,11 +364,6 @@
      "titolo": "Rammarico Belgrado per mancata scarcerazione di Mladic, malato terminale",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/rammarico-belgrado-per-mancata-scarcerazione-di-mladic-malato-terminale_72e79320-f112-4805-b737-2b2324cf246e.html",
      "data": "2026-08-22T14:11:10+00:00"
-    },
-    {
-     "titolo": "Due italiani condannati per vandalismo a Malta ma pena sospesa, potranno rimpatriare",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/due-italiani-condannati-per-vandalismo-a-malta-ma-pena-sospesa-potranno-rimpatriare_35c5f80b-8456-44d8-a787-7f7db9db9af4.html",
-     "data": "2026-08-22T15:13:00+00:00"
     }
    ]
   },
@@ -436,6 +436,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: in campo Genoa - Napoli 0-2 DIRETTA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-in-campo-genoa-napoli-0-2-diretta-e-foto_f45e48ce-0f2e-4781-9d71-03ec534f4e75.html",
+     "data": "2026-08-22T20:33:10+00:00"
+    },
+    {
+     "titolo": "Serie A: in campo Parma - Cagliari 0-1 DIRETTA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-in-campo-parma-cagliari-0-1-diretta-e-foto_1f2f7f48-af0c-4b8e-b59f-dbfcb7a782c1.html",
+     "data": "2026-08-22T20:26:52+00:00"
+    },
+    {
+     "titolo": "F1: in Olanda Lando Norris in pole e Kimi Antonelli parte terzo",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/22/f1-in-olanda-lando-norris-in-pole-e-kimi-antonelli-parte-terzo_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
+     "data": "2026-08-22T20:11:46+00:00"
+    },
+    {
      "titolo": "Buonfiglio, 'il nuoto ha onorato la manifestazione'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/22/buonfiglio-il-nuoto-ha-onorato-la-manifestazione_17b40cc0-0699-4aa1-9683-f67e73ed347f.html",
      "data": "2026-08-22T19:57:49+00:00"
@@ -449,11 +464,6 @@
      "titolo": "Runjaic, 'soddisfatto per come abbiamo affrontato un avversario di valore'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/runjaic-soddisfatto-per-come-abbiamo-affrontato-un-avversario-di-valore_f70026e9-1f7b-4f5a-ba11-697c1860ae4f.html",
      "data": "2026-08-22T19:38:35+00:00"
-    },
-    {
-     "titolo": "Serie A: in campo Genoa - Napoli 0-0 DIRETTA e FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-in-campo-genoa-napoli-0-0-diretta-e-foto_f45e48ce-0f2e-4781-9d71-03ec534f4e75.html",
-     "data": "2026-08-22T20:05:17+00:00"
     },
     {
      "titolo": "Tennis: Cincinnati, Cobolli cede in due set, Fils in finale",
@@ -481,19 +491,9 @@
      "data": "2026-08-22T19:16:32+00:00"
     },
     {
-     "titolo": "Serie A: in campo Parma - Cagliari 0-0 DIRETTA e FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-in-campo-parma-cagliari-0-0-diretta-e-foto_1f2f7f48-af0c-4b8e-b59f-dbfcb7a782c1.html",
-     "data": "2026-08-22T19:35:38+00:00"
-    },
-    {
      "titolo": "Il Como sbatte contro l'Udinese e la traversa, 1-1 alla prima",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-udinese-como-termina-1-1-cronaca-e-foto_e0200b45-09c0-43b2-8afd-5342489d62e0.html",
      "data": "2026-08-22T19:05:46+00:00"
-    },
-    {
-     "titolo": "Serie A: l'Inter travolge 4-1 il Monza, 1-1 tra Udinese e Como",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-linter-travolge-4-1-il-monza-1-1-tra-udinese-e-como_13d07822-5010-4795-a784-038f8eb65064.html",
-     "data": "2026-08-22T18:34:30+00:00"
     }
    ]
   }
