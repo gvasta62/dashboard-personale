@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-22T11:41:15.687603+00:00",
+ "aggiornato": "2026-08-22T12:11:49.897113+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Robot cinese corre i 100 metri in 9\"32, battuto il record di Bolt",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/robot-cinese-corre-i-100-metri-in-932-battuto-il-record-di-bolt_d92487d2-8a33-4c1f-99aa-7f05f2db2839.html",
+     "data": "2026-08-22T11:36:43+00:00"
+    },
     {
      "titolo": "Fava, 'nel futuro per il welfare puntare sul lavoro, senza non c'è previdenza'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/fava-nel-futuro-per-il-welfare-puntare-sul-lavoro-senza-non_d00fd195-1075-4609-b860-1fe50ce0f9ff.html",
@@ -49,11 +54,6 @@
      "titolo": "Abi, si rafforza l'uso canali digitali banche, app +5,7%, bonifici istantanei +130%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/abi-si-rafforza-luso-canali-digitali-banche-app-57-bonifici-istantanei-130_8e99a5cf-cdd0-42f1-a0b8-0b094c13017a.html",
      "data": "2026-08-22T08:48:44+00:00"
-    },
-    {
-     "titolo": "Salvini, 'nel nuovo Codice della strada nessuna Pec obbligatoria'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/salvini-nel-nuovo-codice-della-strada-nessuna-pec-obbligatoria_6bce81ce-b27c-4308-b740-64c7f679e4c3.html",
-     "data": "2026-08-22T08:47:32+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Fabio Savi scrive ai familiari delle vittime: 'Siamo indignati dalla lettera. Si rivolge a noi solo per ottenere benefici'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/fabio-savi-scrive-ai-familiari-delle-vittime-provo-rimorso-per-quello_cf1f98ad-15bd-443f-bd92-6b4db5cd5146.html",
+     "data": "2026-08-22T12:01:35+00:00"
+    },
+    {
      "titolo": "Travolto e ucciso davanti a moglie e figli nel Mantovano, arrestato 49enne",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/travolto-e-ucciso-davanti-a-moglie-e-figli-nel-mantovano-arrestato-49enne_cecc7ee2-4e4c-4234-aa13-d516e09318e4.html",
      "data": "2026-08-22T11:20:08+00:00"
@@ -161,6 +166,11 @@
      "data": "2026-08-22T10:42:49+00:00"
     },
     {
+     "titolo": "Terremoto: Anac, 'controllato un terzo degli interventi per 2,17 miliardi'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/terremoto-anac-controllato-un-terzo-degli-interventi-per-217-miliardi_14ad3a4f-b636-45c2-8b56-5d6282eacb31.html",
+     "data": "2026-08-22T11:49:41+00:00"
+    },
+    {
      "titolo": "Esperto, sanzioni contro Iran non risolvono, Hormuz è l'unico risultato",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esperto-sanzioni-contro-iran-non-risolvono-hormuz-e-lunico-risultato_10f95a64-b7bc-441b-b203-276ceba38c7e.html",
      "data": "2026-08-22T10:20:51+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Corte conti Fvg, no ad aumenti stipendi pubblici per dubbi su costi e gap",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/corte-conti-fvg-no-ad-aumenti-stipendi-pubblici-per-dubbi-su-costi-e-gap_a3dea6a9-4641-4457-b0e1-67d3431b7139.html",
      "data": "2026-08-22T10:08:04+00:00"
-    },
-    {
-     "titolo": "Temperature sotto la media al Nord, ancora afa al Centro-Sud",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/temperature-sotto-la-media-al-nord-ancora-afa-al-centro-sud_5f05d1b5-450b-415a-87a5-394f6df518f2.html",
-     "data": "2026-08-22T10:03:51+00:00"
-    },
-    {
-     "titolo": "Legambiente, in Abruzzo bruciati 2.532 ettari in due mesi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/legambiente-in-abruzzo-bruciati-2.532-ettari-in-due-mesi_d0d9a4d6-e2ee-4951-946f-1ca1d6cac730.html",
-     "data": "2026-08-22T09:56:58+00:00"
     }
    ]
   },
@@ -253,7 +253,7 @@
     {
      "titolo": "Fava, 'nel futuro per il welfare puntare sul lavoro, senza non c'è previdenza'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/fava-nel-futuro-per-il-welfare-puntare-sul-lavoro-senza-non_6704bda7-5294-4cc5-8b4c-f5dd0845272a.html",
-     "data": "2026-08-22T11:29:31+00:00"
+     "data": "2026-08-22T11:42:04+00:00"
     },
     {
      "titolo": "Sulla app pubblica o delle banche per l'euro digitale è scontro Bce-istituti",
@@ -316,6 +316,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Il primo gran premio di Indycar a Washington, per Trump giro d'onore",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/il-primo-gran-premio-di-indycar-a-washington-per-trump-giro-donore_524922b6-439b-43a1-b1aa-32bb6439ed50.html",
+     "data": "2026-08-22T12:03:01+00:00"
+    },
+    {
      "titolo": "Media, Giappone inerte contro le sanzioni Usa alla Cpi, \"un fallimento diplomatico\"",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/22/media-giappone-inerte-contro-le-sanzioni-usa-alla-cpi-un-fallimento-diplomatico_58890a8b-3f8a-4a5b-b789-c26c9ff541fc.html",
      "data": "2026-08-22T10:02:47+00:00"
@@ -369,11 +374,6 @@
      "titolo": "Il Paraguay insiste per una ripartizione equa delle quote Mercosur-Ue",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/22/il-paraguay-insiste-per-una-ripartizione-equa-delle-quote-mercosur-ue_dd9094bf-90d3-4d8c-acc4-85d367a36fa8.html",
      "data": "2026-08-22T00:15:51+00:00"
-    },
-    {
-     "titolo": "Venezuela, Jorge Rodríguez nega incarico di Steve Hanke da parte del Parlamento",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/22/venezuela-jorge-rodriguez-nega-incarico-di-steve-hanke-da-parte-del-parlamento_309be5e9-48b6-47c1-9609-f9f978aee78a.html",
-     "data": "2026-08-21T23:40:17+00:00"
     }
    ]
   },
@@ -446,6 +446,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Gasperini: \"Roma numericamente incompleta, ma rosa più competitiva\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/gasperini-roma-numericamente-incompleta-ma-rosa-piu-competitiva_118ebac2-f250-4998-ad7e-9cdb29c18f1e.html",
+     "data": "2026-08-22T12:08:22+00:00"
+    },
+    {
+     "titolo": "Milan: Amorim, Leao domani non ci sarà",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/milan-amorim-leao-domani-non-ci-sara_82b17eb7-e0db-49e5-acfa-236de7fbb1e0.html",
+     "data": "2026-08-22T12:08:54+00:00"
+    },
+    {
+     "titolo": "Amorim, non so quanto ci vorrà ma vogliamo vincere scudetto",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/amorim-non-so-quanto-ci-vorra-ma-vogliamo-vincere-scudetto_73b3c941-293a-4d50-a85c-001a8d9cf584.html",
+     "data": "2026-08-22T12:02:08+00:00"
+    },
+    {
+     "titolo": "Presidenza arbitri, Pacifici si candida \"serve visione per il futuro\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/presidenza-arbitri-pacifici-si-candida-serve-visione-per-il-futuro_576ec59e-b39e-4411-bb7b-f6c853a0a80a.html",
+     "data": "2026-08-22T11:52:00+00:00"
+    },
+    {
      "titolo": "GP Olanda, Russell vince la Sprint",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/22/gp-olanda-russell-vince-la-sprint_f99f9207-72a0-40c4-adb3-aba4f3a7d091.html",
      "data": "2026-08-22T10:41:05+00:00"
@@ -484,26 +504,6 @@
      "titolo": "Da Cobolli a Musetti, l'altra Italia che sogna a New York",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/21/da-cobolli-a-musetti-laltra-italia-che-sogna-a-new-york_5a87c906-be23-4152-a70a-17f02cbeed64.html",
      "data": "2026-08-21T20:08:28+00:00"
-    },
-    {
-     "titolo": "Alaphilippe si ritira a 34 anni, ha vinto due Mondiali",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/21/alaphilippe-si-ritira-a-34-anni-ha-vinto-due-mondiali_de15db00-d5e1-4352-b134-4f918b242706.html",
-     "data": "2026-08-21T19:58:55+00:00"
-    },
-    {
-     "titolo": "È ufficiale, Curtis Jones è un nuovo giocatore dell'Inter",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/e-ufficiale-curtis-jones-e-un-nuovo-giocatore-dellinter_666b4e76-6768-4af7-a99e-19eac7052d6d.html",
-     "data": "2026-08-21T20:29:47+00:00"
-    },
-    {
-     "titolo": "È ufficiale, Curtis Jones è un nuovo giocatore dell'Inter",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/e-ufficiale-curtis-jones-e-un-nuovo-giocatore-dellinter_e8ee2d9c-cece-44b4-84fb-4dd1cf0191e0.html",
-     "data": "2026-08-21T18:45:31+00:00"
-    },
-    {
-     "titolo": "Calciomercato: Di Gregorio vicino al Bournemouth, la Lazio stringe su Pinamonti",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/calciomercato-di-gregorio-vicino-al-bournemouth-la-lazio-stringe-su-pinamonti_0631523e-65d4-48c6-b53c-a5029013c811.html",
-     "data": "2026-08-21T18:59:15+00:00"
     }
    ]
   }
