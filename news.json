@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-22T07:05:40.240680+00:00",
+ "aggiornato": "2026-08-22T07:50:34.065051+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Non si arresta la corsa dei carburanti, gasolio a 2,200 euro al litro in autostrada",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/non-si-arresta-la-corsa-dei-carburanti-gasolio-a-2200-euro-al-litro-in-autostrada_c9b8c166-7f88-4ff5-beee-baf9920ff45e.html",
+     "data": "2026-08-22T07:22:40+00:00"
+    },
     {
      "titolo": "Niente accordo Usa-Canada, scattano dazi reciproci del 50%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/niente-accordo-usa-canada-scattano-dazi-reciproci-del-50_a4959dd4-3139-432c-af8d-ad15ddf114d3.html",
@@ -49,11 +54,6 @@
      "titolo": "Il gas in rialzo (+1,6%) a 66,4 euro al Megawattora",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/il-gas-in-rialzo-16-a-664-euro-al-megawattora_0777a5f1-262d-48bf-a0f0-250c7dbad313.html",
      "data": "2026-08-21T16:31:09+00:00"
-    },
-    {
-     "titolo": "++ Donna morta in casa, arrestato il figlio ++",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/-donna-morta-in-casa-arrestato-il-figlio-_841f3de5-429f-4e5e-8dc5-9c0762170607.html",
-     "data": "2026-08-21T16:20:55+00:00"
     }
    ]
   },
@@ -256,6 +256,21 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Codacons, 'controesodo può costare fino a 270 euro a famiglia'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/codacons-controesodo-puo-costare-fino-a-270-euro-a-famiglia_7084760e-0a1c-4d55-a8ce-89c66722260b.html",
+     "data": "2026-08-22T07:39:25+00:00"
+    },
+    {
+     "titolo": "Non si arresta la corsa dei carburanti, gasolio a 2,200 euro al litro in autostrada",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/non-si-arresta-la-corsa-dei-carburanti-gasolio-a-2200-euro-al-litro-in-autostrada_ff20488d-b1c5-404a-9db2-949675cc8857.html",
+     "data": "2026-08-22T07:22:42+00:00"
+    },
+    {
+     "titolo": "Non si arresta la corsa dei carburanti, il gasolio vola a 2,200 euro al litro in autostrada",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/non-si-arresta-la-corsa-dei-carburanti-il-gasolio-vola-a-2200-euro-al-litro_cdc06ad4-f758-41ef-83fe-8aa24b76fe3d.html",
+     "data": "2026-08-22T07:31:52+00:00"
+    },
+    {
      "titolo": "Niente accordo Usa-Canada, scattano dazi reciproci del 50%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/niente-accordo-usa-canada-scattano-dazi-reciproci-del-50_7ed464f4-28a5-4a05-9d74-283c19205a18.html",
      "data": "2026-08-22T04:32:20+00:00"
@@ -299,21 +314,6 @@
      "titolo": "Borsa: Milano tiene con l'Europa dopo l'avvio di Wall Street, giù Mps e Mediobanca",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-milano-tiene-con-leuropa-dopo-lavvio-di-wall-street-giu_14157643-eca6-4fc3-abba-7cc8515425d9.html",
      "data": "2026-08-21T13:55:02+00:00"
-    },
-    {
-     "titolo": "Scocchia (illycaffè), su sostenibilità Europa abbia più realismo industriale",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/scocchia-illycaffe-su-sostenibilita-europa-abbia-piu-realismo-industriale_503c77cd-57e7-4ceb-ae5e-f58b2490e6e3.html",
-     "data": "2026-08-21T13:45:50+00:00"
-    },
-    {
-     "titolo": "Anghileri, 'per ex Ilva serve tempestività. Eusider pronta a far parte della cordata'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/anghileri-per-ex-ilva-serve-tempestivita.-eusider-pronta-a-far-parte-della_ee612fcf-c933-4811-94cd-59339831cf35.html",
-     "data": "2026-08-21T13:40:11+00:00"
-    },
-    {
-     "titolo": "Intesa Sanpaolo valuta un esposto alla Consob su Mps",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/intesa-sanpaolo-valuta-esposto-alla-consob-su-mps_14b84922-cb20-4ca7-b3cd-06f3c121a703.html",
-     "data": "2026-08-21T16:43:43+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Tennis: Gauff batte Kostyuk e va in semifinale a Cincinnati",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/22/cincinnati-open-gauff-batte-kostyuk-e-va-in-semifinale_35e38e20-6caf-4511-a766-a5ca0be42628.html",
+     "data": "2026-08-22T07:45:17+00:00"
+    },
+    {
+     "titolo": "Tennis: Cincinnati, Nakashima e Tiafoe in semifinale a casa loro",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/22/cincinnati-open-nakashima-e-tiafoe-in-semifinale-a-casa-loro_05ccd1f2-bb4f-4bd8-9007-640ce5f0b98c.html",
+     "data": "2026-08-22T07:46:13+00:00"
+    },
+    {
      "titolo": "Si ferma ai quarti di finale l'avventura di Lorenzo Musetti ko contro Tiafoe",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/22/tennis-cincinnati-musetti-ko-nei-quarti-contro-tiafoe_a363c4d3-475e-4ff9-b11f-2f093ab77e31.html",
      "data": "2026-08-22T05:14:15+00:00"
@@ -496,19 +506,9 @@
      "data": "2026-08-21T18:05:58+00:00"
     },
     {
-     "titolo": "Italia esordio ok, Velasco alle azzurre 'errori non vi distraggano'",
+     "titolo": "Esordio ok per l'Italia., Velasco alle azzurre: 'Gli errori non vi distraggano'",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/21/italia-esordio-ok-velasco-alle-azzurre-errori-non-vi-distraggano_7b72013d-a5e3-4376-a097-28e121fa25ee.html",
-     "data": "2026-08-21T17:54:52+00:00"
-    },
-    {
-     "titolo": "Genoa, in chiusura l'arrivo dell'attaccante Osmajic dal Preston",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/genoa-in-chiusura-larrivo-dellattaccante-osmajic-dal-preston_f918f627-bb35-42ed-b25e-fbaebe8605ed.html",
-     "data": "2026-08-21T17:49:41+00:00"
-    },
-    {
-     "titolo": "Pallanuoto: parte la stagione di Trieste con allenatore Guillermo Molina",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/21/pallanuoto-parte-la-stagione-di-trieste-con-allenatore-guillermo-molina_861762ed-b5c3-4673-ac44-ec885a634cc4.html",
-     "data": "2026-08-21T17:14:07+00:00"
+     "data": "2026-08-22T07:47:24+00:00"
     }
    ]
   }
