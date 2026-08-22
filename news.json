@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-22T08:52:39.787957+00:00",
+ "aggiornato": "2026-08-22T09:14:11.254587+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il Papa, mondo ferito, aumenta la chiusura e la paura dell'altro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/il-papa-mondo-ferito-aumenta-la-chiusura-e-la-paura-dellaltro_755a3b58-2afb-4ad0-8576-b6a74c0a1e4d.html",
+     "data": "2026-08-22T09:07:14+00:00"
+    },
+    {
+     "titolo": "E' caro conto-corrente, la spesa è salita del 23% in 10 anni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/e-caro-conto-corrente-la-spesa-e-salita-del-23-in-10-anni_f50c4b10-e5f7-4607-b71d-4e0ee3739620.html",
+     "data": "2026-08-22T09:02:28+00:00"
+    },
+    {
+     "titolo": "Esplosione in una palazzina a Perugia, sono due i feriti, sarebbero gravi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/esplosione-in-una-palazzina-a-perugia-sono-due-i-feriti-sarebbero-gravi_ac2b3156-37f2-4de3-850e-9768260caa1b.html",
+     "data": "2026-08-22T08:55:06+00:00"
+    },
     {
      "titolo": "Abi, si rafforza l'uso canali digitali banche, app +5,7%, bonifici istantanei +130%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/abi-si-rafforza-luso-canali-digitali-banche-app-57-bonifici-istantanei-130_8e99a5cf-cdd0-42f1-a0b8-0b094c13017a.html",
@@ -39,27 +54,17 @@
      "titolo": "L'Iran concede il passaggio a Hormuz alle petroliere irachene",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/liran-concede-il-passaggio-a-hormuz-alle-petroliere-irachene_bc8d7d21-8d6d-4715-aca7-b43c8752a696.html",
      "data": "2026-08-22T07:48:40+00:00"
-    },
-    {
-     "titolo": "Non si arresta la corsa dei carburanti, gasolio a 2,200 euro al litro in autostrada",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/non-si-arresta-la-corsa-dei-carburanti-gasolio-a-2200-euro-al-litro-in-autostrada_c9b8c166-7f88-4ff5-beee-baf9920ff45e.html",
-     "data": "2026-08-22T07:22:40+00:00"
-    },
-    {
-     "titolo": "Niente accordo Usa-Canada, scattano dazi reciproci del 50%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/niente-accordo-usa-canada-scattano-dazi-reciproci-del-50_a4959dd4-3139-432c-af8d-ad15ddf114d3.html",
-     "data": "2026-08-22T06:01:32+00:00"
-    },
-    {
-     "titolo": "Tennis: Cincinnati, Musetti ko nei quarti contro Tiafoe",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/tennis-cincinnati-musetti-ko-nei-quarti-contro-tiafoe_a7cbf17b-c51f-4159-8658-4be9d3d41929.html",
-     "data": "2026-08-22T01:56:56+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Esplosione in una palazzina a Perugia, sono due i feriti, sarebbero gravi",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/esplosione-in-una-palazzina-a-perugia-sono-due-i-feriti-sarebbero-gravi_491eca31-7135-4557-a0c8-91ecd98ddf1b.html",
+     "data": "2026-08-22T08:55:07+00:00"
+    },
     {
      "titolo": "Esplosione in una palazzina a Perugia, ci sono persone coinvolte",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/il-tetto-dellimmobile-sarebbe-crollato_3670a611-b9f5-4f7b-ac53-298bc88e4ca1.html",
@@ -114,11 +119,6 @@
      "titolo": "Trasporto pubblico e studenti, incontro promosso dalla Provincia di Perugia",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/trasporto-pubblico-e-studenti-incontro-promosso-dalla-provincia-di-perugia_978cb172-1a6e-4ce0-80dc-fb026689e6a0.html",
      "data": "2026-08-20T14:18:02+00:00"
-    },
-    {
-     "titolo": "La Festa dell'Unità a Terni dal 28 agosto al 6 settembre",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/la-festa-dellunita-a-terni-dal-28-agosto-al-6-settembre_32cef980-79be-483b-a395-bfba77af5c7e.html",
-     "data": "2026-08-20T14:19:16+00:00"
     }
    ]
   },
@@ -126,14 +126,19 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Bimba morta a Palermo, il cuginetto ricoverato è positivo alla difterite",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-cuginetto-ricoverato-positivo-alla-difterite_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html",
-     "data": "2026-08-22T08:38:44+00:00"
+     "titolo": "Esplosione in una palazzina a Perugia, sono due i feriti, sarebbero gravi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-palazzina-a-perugia-sono-due-i-feriti-sarebbero-gravi_3ad0ef98-7a06-49f7-a47c-a748858090d6.html",
+     "data": "2026-08-22T08:55:06+00:00"
     },
     {
-     "titolo": "Esplosione in una palazzina a Perugia, ci sono persone coinvolte",
+     "titolo": "Bimba morta a Palermo, il cuginetto ricoverato è positivo alla difterite",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-cuginetto-ricoverato-positivo-alla-difterite_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html",
+     "data": "2026-08-22T09:05:19+00:00"
+    },
+    {
+     "titolo": "Esplosione in una palazzina a Perugia, due feriti gravi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-palazzina-a-perugia-ci-sono-persone-coinvolte_744dd77d-34a4-4855-9f91-aedee0b5f198.html",
-     "data": "2026-08-22T08:40:56+00:00"
+     "data": "2026-08-22T09:02:00+00:00"
     },
     {
      "titolo": "Il Papa, no ai progetti politici schiavi degli idoli e del potere",
@@ -179,17 +184,17 @@
      "titolo": "Maltempo, salvate tre persone da una frana in Lunigiana",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-salvate-tre-persone-da-una-frana-in-lunigiana_7593cadf-7d01-4314-a90c-775d1d7d2d27.html",
      "data": "2026-08-21T17:04:32+00:00"
-    },
-    {
-     "titolo": "Incendio di bosco in Molise, evacuate case a S. Giacomo degli Schiavoni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/incendio-di-bosco-in-molise-evacuate-case-a-s.-giacomo-degli-schiavoni_6b542fe6-861d-43a9-9bec-8a7e163a85e6.html",
-     "data": "2026-08-21T16:57:11+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Il Papa, mondo ferito, aumenta la chiusura e la paura dell'altro",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/il-papa-mondo-ferito-aumenta-la-chiusura-e-la-paura-dellaltro_a0a3af60-ac0a-43d3-bba4-aa5faf69ee0c.html",
+     "data": "2026-08-22T09:07:30+00:00"
+    },
     {
      "titolo": "Meloni: 'Capisco il dissenso a Taranto, per l'ex Ilva faremo tutto il possibile'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/meloni-capisco-il-dissenso-a-taranto-per-lex-ilva-faremo-tutto-il-possibile_ee0572ac-02d7-4608-8474-17612673e312.html",
@@ -244,11 +249,6 @@
      "titolo": "Scholz (Meeting), i migranti vanno accolti in modo umano",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/scholz-meeting-i-migranti-vanno-accolti-in-modo-umano_83dc8e9a-981b-4271-950f-6f528589f996.html",
      "data": "2026-08-21T09:31:22+00:00"
-    },
-    {
-     "titolo": "Mattarella: 'Trovare l'energia contro l'odio al diverso e allo straniero'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/mattarella-viviamo-tempi-di-guerre-scellerate-lumanita-aiuti-a-rifiutare-lodio_12196c88-7f6f-4d89-8235-fa9abfa1e7f0.html",
-     "data": "2026-08-21T18:03:39+00:00"
     }
    ]
   },
@@ -256,9 +256,24 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "E' caro conto-corrente, la spesa è salita del 23% in 10 anni",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/e-caro-conto-corrente-la-spesa-e-salita-del-23-in-10-anni_3af4547a-b3f4-45eb-9109-63f870658de2.html",
+     "data": "2026-08-22T09:02:26+00:00"
+    },
+    {
+     "titolo": "Birraturismo per 13 milioni di italiani, domani arriva 'Luppoleti aperti'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/birraturismo-per-13-milioni-di-italiani-domani-arriva-luppoleti-aperti_8e696c1c-6531-4f21-b871-9183dc4b08e6.html",
+     "data": "2026-08-22T08:57:49+00:00"
+    },
+    {
+     "titolo": "Abi, si rafforza l'uso dei canali digitali delle banche, app +5,7%, bonifici istantanei +130%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/abi-si-rafforza-luso-canali-digitali-banche-app-57-bonifici-istantanei-130_da2b9e1b-e87f-47ff-aa4a-c46414854416.html",
+     "data": "2026-08-22T08:54:35+00:00"
+    },
+    {
      "titolo": "Salvini, 'nel nuovo Codice della strada nessuna Pec obbligatoria'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/salvini-nel-nuovo-codice-della-strada-nessuna-pec-obbligatoria_17f1d89f-d5b5-4f88-a6ac-bd6ed3353e70.html",
-     "data": "2026-08-22T08:47:32+00:00"
+     "data": "2026-08-22T08:53:54+00:00"
     },
     {
      "titolo": "Codacons, 'controesodo può costare fino a 270 euro a famiglia'",
@@ -299,21 +314,6 @@
      "titolo": "Borsa: l'Europa conclude in leggero rialzo, Londra +0,6%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-leuropa-conclude-in-leggero-rialzo-londra-06_2a507394-323b-4c49-a5fe-9f6db42fd82a.html",
      "data": "2026-08-21T15:49:11+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude piatta, Ftse Mib invariato",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-milano-chiude-piatta-ftse-mib-invariato_ca0aec8e-a25e-4906-ac44-466927833aab.html",
-     "data": "2026-08-21T15:39:39+00:00"
-    },
-    {
-     "titolo": "Per Uber multa da 825 milioni dal garante per la privacy in Olanda",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/per-uber-multa-da-825-milioni-dal-garante-per-la-privacy-in-olanda_cb20f970-c799-4701-9008-f3bbf28fadd3.html",
-     "data": "2026-08-21T15:09:26+00:00"
-    },
-    {
-     "titolo": "Scocchia (illycaffè), il prezzo della tazzina sotto la corsa della materia prima",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/scocchia-illycaffe-il-prezzo-della-tazzina-sotto-la-corsa-della-materia-prima_25d71253-0208-4992-a891-fcfed66a2ece.html",
-     "data": "2026-08-21T14:01:05+00:00"
     }
    ]
   },
