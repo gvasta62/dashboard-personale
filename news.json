@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-22T07:50:34.065051+00:00",
+ "aggiornato": "2026-08-22T08:13:57.683299+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "L'Iran concede il passaggio a Hormuz alle petroliere irachene",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/liran-concede-il-passaggio-a-hormuz-alle-petroliere-irachene_bc8d7d21-8d6d-4715-aca7-b43c8752a696.html",
+     "data": "2026-08-22T07:48:40+00:00"
+    },
     {
      "titolo": "Non si arresta la corsa dei carburanti, gasolio a 2,200 euro al litro in autostrada",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/non-si-arresta-la-corsa-dei-carburanti-gasolio-a-2200-euro-al-litro-in-autostrada_c9b8c166-7f88-4ff5-beee-baf9920ff45e.html",
@@ -49,17 +54,17 @@
      "titolo": "L'Argentina preme sul Mercosur per accelerare l'apertura a nuovi mercati",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/largentina-preme-sul-mercosur-per-accelerare-lapertura-a-nuovi-mercati_8d4ceac8-6e16-4ce3-b4ec-2f9ca841463d.html",
      "data": "2026-08-21T17:11:15+00:00"
-    },
-    {
-     "titolo": "Il gas in rialzo (+1,6%) a 66,4 euro al Megawattora",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/il-gas-in-rialzo-16-a-664-euro-al-megawattora_0777a5f1-262d-48bf-a0f0-250c7dbad313.html",
-     "data": "2026-08-21T16:31:09+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Esplosione in una palazzina a Perugia, ci sono persone coinvolte",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/il-tetto-dellimmobile-sarebbe-crollato_3670a611-b9f5-4f7b-ac53-298bc88e4ca1.html",
+     "data": "2026-08-22T08:06:41+00:00"
+    },
     {
      "titolo": "Bandecchi chiede 'blocco sine die del rilascio della cittadinanza italiana'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/21/bandecchi-chiede-blocco-sine-die-del-rilascio-della-cittadinanza-italiana_5c7cce59-a9fb-4e9e-b683-ceff71effa32.html",
@@ -114,17 +119,17 @@
      "titolo": "La Festa dell'Unità a Terni dal 28 agosto al 6 settembre",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/la-festa-dellunita-a-terni-dal-28-agosto-al-6-settembre_32cef980-79be-483b-a395-bfba77af5c7e.html",
      "data": "2026-08-20T14:19:16+00:00"
-    },
-    {
-     "titolo": "In Umbria il nuovo anno scolastico al via lunedì 14 settembre",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/in-umbria-il-nuovo-anno-scolastico-al-via-lunedi-14-settembre_945867b2-6f0c-4811-b0e3-8601bc0aafb3.html",
-     "data": "2026-08-20T14:20:55+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Parroco muore a 47 anni mentre celebra messa, choc in Molise",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/parroco-muore-a-47-anni-mentre-celebra-messa-choc-in-molise_7335f69f-eaa7-41d1-b66e-59d88ecb2ae5.html",
+     "data": "2026-08-22T08:10:55+00:00"
+    },
     {
      "titolo": "Autocarro tamponato si ribalta, un morto in A4 in Friuli",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/autocarro-tamponato-si-ribalta-un-morto-in-a4-in-friuli_25e0fc1a-efb8-454d-8abf-bf665a7064f7.html",
@@ -179,11 +184,6 @@
      "titolo": "Donna morta in casa, arrestato il figlio",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/donna-morta-in-casa-arrestato-il-figlio-_73eb661c-25e5-4004-92cf-e6c917797c1e.html",
      "data": "2026-08-21T16:42:27+00:00"
-    },
-    {
-     "titolo": "Vento sferza Firenze, turista colpita da una tegola",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/vento-sferza-firenze-turista-colpita-da-una-tegola_2e851a39-58ef-4695-a2a5-c01a2d6daded.html",
-     "data": "2026-08-21T16:20:25+00:00"
     }
    ]
   },
@@ -321,6 +321,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "L'Iran concede il passaggio a Hormuz alle petroliere irachene",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/22/liran-concede-il-passaggio-a-hormuz-alle-petroliere-irachene_b9030838-12ec-494a-ba2e-8abd6246993c.html",
+     "data": "2026-08-22T07:48:58+00:00"
+    },
+    {
      "titolo": "Niente accordo Usa-Canada, scattano dazi reciproci del 50%",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/niente-accordo-usa-canada-scattano-dazi-reciproci-del-50_6bd5c3d3-36ae-4b27-9ac3-ed1ae2a20909.html",
      "data": "2026-08-22T04:32:23+00:00"
@@ -374,11 +379,6 @@
      "titolo": "Un morto nell'attacco alla scuola in Svezia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/un-morto-nellattacco-alla-scuola-in-svezia_2cb1b1b2-fc56-4f34-a0d3-08401e8bd84f.html",
      "data": "2026-08-21T19:20:04+00:00"
-    },
-    {
-     "titolo": "L'Argentina conferma l'acquisto agli Usa di 235 blindati per l'esercito",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/largentina-conferma-lacquisto-agli-usa-di-235-blindati-per-lesercito_f46460ac-e4de-46e0-97ee-2674a9053b6f.html",
-     "data": "2026-08-21T19:09:04+00:00"
     }
    ]
   },
