@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-22T10:09:31.599266+00:00",
+ "aggiornato": "2026-08-22T10:44:55.851852+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -61,9 +61,14 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Esplosione in una palazzina a Perugia, otto residenti evacuati",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/esplosione-in-una-palazzina-a-perugia-otto-residenti-evacuati_703b83e0-f359-47ad-b32c-6980b6806436.html",
+     "data": "2026-08-22T10:07:43+00:00"
+    },
+    {
      "titolo": "Esplosione a Perugia, una ferita trovata in giardino",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/esplosione-a-perugia-una-ferita-trovata-in-giardino_9a3372e6-426d-4352-afeb-2686f668b5ae.html",
-     "data": "2026-08-22T09:48:10+00:00"
+     "data": "2026-08-22T10:07:47+00:00"
     },
     {
      "titolo": "Esplosione in una palazzina a Perugia, sono due i feriti, sarebbero gravi",
@@ -73,7 +78,7 @@
     {
      "titolo": "Esplosione in una palazzina a Perugia, ci sono persone coinvolte",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/il-tetto-dellimmobile-sarebbe-crollato_3670a611-b9f5-4f7b-ac53-298bc88e4ca1.html",
-     "data": "2026-08-22T09:50:24+00:00"
+     "data": "2026-08-22T10:01:30+00:00"
     },
     {
      "titolo": "Bandecchi chiede 'blocco sine die del rilascio della cittadinanza italiana'",
@@ -114,17 +119,32 @@
      "titolo": "L'Umbria attesa da un venerdì di maltempo con piaggia e temporali",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/lumbria-attesa-da-un-venerdi-di-maltempo-con-piaggia-e-temporali_33a18a0b-ed0b-4614-b69d-38e86516dcf3.html",
      "data": "2026-08-20T15:41:31+00:00"
-    },
-    {
-     "titolo": "Anche un movente ipotizzato da AI nel libro-analisi sul caso Garlasco",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/anche-un-movente-ipotizzato-da-ai-nel-libro-analisi-sul-caso-garlasco_ce0ed926-4f4d-413b-b715-0f7d55e142fa.html",
-     "data": "2026-08-20T14:20:28+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Esperto, sanzioni contro Iran non risolvono, Hormuz è l'unico risultato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esperto-sanzioni-contro-iran-non-risolvono-hormuz-e-lunico-risultato_10f95a64-b7bc-441b-b203-276ceba38c7e.html",
+     "data": "2026-08-22T10:20:51+00:00"
+    },
+    {
+     "titolo": "Bimba morta a Palermo, indagati i genitori",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-indagati-i-genitori_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html",
+     "data": "2026-08-22T10:14:31+00:00"
+    },
+    {
+     "titolo": "Corte conti Fvg, no ad aumenti stipendi pubblici per dubbi su costi e gap",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/corte-conti-fvg-no-ad-aumenti-stipendi-pubblici-per-dubbi-su-costi-e-gap_a3dea6a9-4641-4457-b0e1-67d3431b7139.html",
+     "data": "2026-08-22T10:08:04+00:00"
+    },
+    {
+     "titolo": "Temperature sotto la media al Nord, ancora afa al Centro-Sud",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/temperature-sotto-la-media-al-nord-ancora-afa-al-centro-sud_5f05d1b5-450b-415a-87a5-394f6df518f2.html",
+     "data": "2026-08-22T10:03:51+00:00"
+    },
     {
      "titolo": "Legambiente, in Abruzzo bruciati 2.532 ettari in due mesi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/legambiente-in-abruzzo-bruciati-2.532-ettari-in-due-mesi_d0d9a4d6-e2ee-4951-946f-1ca1d6cac730.html",
@@ -151,11 +171,6 @@
      "data": "2026-08-22T08:55:06+00:00"
     },
     {
-     "titolo": "Bimba morta a Palermo, il cuginetto ricoverato è positivo alla difterite",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-cuginetto-ricoverato-positivo-alla-difterite_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html",
-     "data": "2026-08-22T09:05:19+00:00"
-    },
-    {
      "titolo": "Esplosione in una palazzina a Perugia, due feriti gravi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-palazzina-a-perugia-ci-sono-persone-coinvolte_744dd77d-34a4-4855-9f91-aedee0b5f198.html",
      "data": "2026-08-22T09:53:58+00:00"
@@ -169,21 +184,6 @@
      "titolo": "Parroco muore a 47 anni mentre celebra messa, choc in Molise",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/parroco-muore-a-47-anni-mentre-celebra-messa-choc-in-molise_7335f69f-eaa7-41d1-b66e-59d88ecb2ae5.html",
      "data": "2026-08-22T08:10:55+00:00"
-    },
-    {
-     "titolo": "Autocarro tamponato si ribalta, un morto in A4 in Friuli",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/autocarro-tamponato-si-ribalta-un-morto-in-a4-in-friuli_25e0fc1a-efb8-454d-8abf-bf665a7064f7.html",
-     "data": "2026-08-22T06:44:55+00:00"
-    },
-    {
-     "titolo": "'Dopo Brandizzo misure di sicurezza invariate', Rfi ancora sotto indagine",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/dopo-brandizzo-misure-di-sicurezza-invariate-rfi-ancora-sotto-indagine_8aca684a-b9bc-48c1-aa54-a7922a2ad9b4.html",
-     "data": "2026-08-21T20:15:17+00:00"
-    },
-    {
-     "titolo": "Nubifragi, tornado e fulmini: il maltempo sferza il Centro-Nord",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/nubifragi-tornado-e-fulmini-il-maltempo-sferza-il-centro-nord_a64c18e3-dd44-4259-a721-17acb1bc8870.html",
-     "data": "2026-08-21T22:06:58+00:00"
     }
    ]
   },
@@ -446,6 +446,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "F1: Gp Olanda, Russell vince la Sprint",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/22/f1-gp-olanda-russell-vince-la-sprint-_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
+     "data": "2026-08-22T10:39:17+00:00"
+    },
+    {
+     "titolo": "Bolt si iscrive ad una squadra amatoriale di Manchester",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/bolt-si-iscrive-ad-una-squadra-amatoriale-di-manchester_9980432b-72e8-42d1-b11f-f07745c8cda7.html",
+     "data": "2026-08-22T10:14:50+00:00"
+    },
+    {
      "titolo": "Tennis: Gauff batte Kostyuk e va in semifinale a Cincinnati",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/22/cincinnati-open-gauff-batte-kostyuk-e-va-in-semifinale_35e38e20-6caf-4511-a766-a5ca0be42628.html",
      "data": "2026-08-22T09:24:02+00:00"
@@ -494,16 +504,6 @@
      "titolo": "Calcio: Runjaic, obiettivi devono essere ambiziosi, ma serve un passo alla volta",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/calcio-runjaic-obiettivi-devono-essere-ambiziosi-ma-serve-un-passo-alla-volta_67dff24f-70be-4baf-9036-acea51fc5206.html",
      "data": "2026-08-21T18:10:36+00:00"
-    },
-    {
-     "titolo": "Europei ginnastica artistica: Targhetta oro nel cavallo con maniglie",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/21/europei-ginnastica-artistica-targhetta-oro-nel-cavallo-con-maniglie_0bfc5cc3-8f2a-447b-8267-46988c890bcb.html",
-     "data": "2026-08-21T18:05:58+00:00"
-    },
-    {
-     "titolo": "Esordio ok per l'Italia., Velasco alle azzurre: 'Gli errori non vi distraggano'",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/21/italia-esordio-ok-velasco-alle-azzurre-errori-non-vi-distraggano_7b72013d-a5e3-4376-a097-28e121fa25ee.html",
-     "data": "2026-08-22T07:47:24+00:00"
     }
    ]
   }
