@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-22T04:18:59.144599+00:00",
+ "aggiornato": "2026-08-22T04:55:26.193687+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Niente accordo Usa-Canada, scattano dazi reciproci del 50%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/niente-accordo-usa-canada-scattano-dazi-reciproci-del-50_a4959dd4-3139-432c-af8d-ad15ddf114d3.html",
+     "data": "2026-08-22T04:32:23+00:00"
+    },
     {
      "titolo": "Tennis: Cincinnati, Musetti ko nei quarti contro Tiafoe",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/tennis-cincinnati-musetti-ko-nei-quarti-contro-tiafoe_a7cbf17b-c51f-4159-8658-4be9d3d41929.html",
@@ -49,11 +54,6 @@
      "titolo": "++ Donna morta in casa, arrestato il figlio ++",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/-donna-morta-in-casa-arrestato-il-figlio-_841f3de5-429f-4e5e-8dc5-9c0762170607.html",
      "data": "2026-08-21T16:20:55+00:00"
-    },
-    {
-     "titolo": "Geolier con Tutto è possibile risale in vetta alla hit parade",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/21/geolier-con-tutto-e-possibile-risale-in-vetta-alla-hit-parade_fd56ec68-2db9-4666-9308-88f2859778c9.html",
-     "data": "2026-08-21T16:17:03+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Niente accordo Usa-Canada, scattano dazi reciproci del 50%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/niente-accordo-usa-canada-scattano-dazi-reciproci-del-50_7ed464f4-28a5-4a05-9d74-283c19205a18.html",
+     "data": "2026-08-22T04:32:20+00:00"
+    },
+    {
      "titolo": "Borsa: Milano sulla parità con le banche deboli, recupera Stellantis (+4%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-milano-sulla-parita-con-le-banche-deboli-recupera-stellantis-4_c37e4adc-6bae-4c22-ab86-ae422a4b1504.html",
      "data": "2026-08-21T16:51:15+00:00"
@@ -309,17 +314,17 @@
      "titolo": "Intesa Sanpaolo valuta un esposto alla Consob su Mps",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/intesa-sanpaolo-valuta-esposto-alla-consob-su-mps_14b84922-cb20-4ca7-b3cd-06f3c121a703.html",
      "data": "2026-08-21T16:43:43+00:00"
-    },
-    {
-     "titolo": "Ex Ilva, si amplia l'interesse per la cordata. Eusider: 'Strategico il rilancio'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/ex-ilva-si-amplia-linteresse-per-la-cordata.-eusider-strategico-il-rilancio_0d57e5bc-3521-490c-9fc7-955c77ccb227.html",
-     "data": "2026-08-21T13:24:58+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Niente accordo Usa-Canada, scattano dazi reciproci del 50%",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/niente-accordo-usa-canada-scattano-dazi-reciproci-del-50_6bd5c3d3-36ae-4b27-9ac3-ed1ae2a20909.html",
+     "data": "2026-08-22T04:32:23+00:00"
+    },
     {
      "titolo": "Perù: Fujimori, 'mancano poche ore' alla riapertura della Panamericana",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/22/peru-fujimori-mancano-poche-ore-alla-riapertura-della-panamericana_389be144-d3fc-4bbc-b49d-d097d3d49643.html",
@@ -374,11 +379,6 @@
      "titolo": "L'Argentina conferma l'acquisto agli Usa di 235 blindati per l'esercito",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/largentina-conferma-lacquisto-agli-usa-di-235-blindati-per-lesercito_f46460ac-e4de-46e0-97ee-2674a9053b6f.html",
      "data": "2026-08-21T19:09:04+00:00"
-    },
-    {
-     "titolo": "Corte Suprema, Trump può per ora continuare i lavori alla sala da ballo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/21/corte-suprema-trump-puo-per-ora-continuare-i-lavori-alla-sala_e4c2f2b6-5490-49d7-b641-fc6d41aa774d.html",
-     "data": "2026-08-21T18:22:32+00:00"
     }
    ]
   },
