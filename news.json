@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-22T11:08:56.836669+00:00",
+ "aggiornato": "2026-08-22T11:41:15.687603+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Fava, 'nel futuro per il welfare puntare sul lavoro, senza non c'è previdenza'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/fava-nel-futuro-per-il-welfare-puntare-sul-lavoro-senza-non_d00fd195-1075-4609-b860-1fe50ce0f9ff.html",
+     "data": "2026-08-22T11:29:33+00:00"
+    },
+    {
+     "titolo": "Sulla app pubblica o delle banche per l'euro digitale è scontro Bce-istituti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/sulla-app-pubblica-o-delle-banche-per-leuro-digitale-e-scontro-bce_cef1e1f5-8f35-4dca-ab08-fff7fe80c2e4.html",
+     "data": "2026-08-22T11:28:42+00:00"
+    },
     {
      "titolo": "Bimba morta a Palermo, indagati i genitori",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/bimba-morta-a-palermo-indagati-i-genitori_38b3b118-d989-41c1-9a21-aaef61afa8af.html",
@@ -44,16 +54,6 @@
      "titolo": "Salvini, 'nel nuovo Codice della strada nessuna Pec obbligatoria'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/salvini-nel-nuovo-codice-della-strada-nessuna-pec-obbligatoria_6bce81ce-b27c-4308-b740-64c7f679e4c3.html",
      "data": "2026-08-22T08:47:32+00:00"
-    },
-    {
-     "titolo": "Bimba morta a Palermo, cuginetto ricoverato positivo alla difterite",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/bimba-morta-a-palermo-cuginetto-ricoverato-positivo-alla-difterite_793a73f8-91b0-4ea0-a2df-9e61b1938a80.html",
-     "data": "2026-08-22T08:33:59+00:00"
-    },
-    {
-     "titolo": "Droni Kiev su hub Ozon in Russia, 500 dipendenti evacuati",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/droni-kiev-su-hub-ozon-in-russia-500-dipendenti-evacuati_832c4d91-19da-415d-bb0a-14cf9f8e585d.html",
-     "data": "2026-08-22T08:24:10+00:00"
     }
    ]
   },
@@ -61,9 +61,19 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Esplosione a Perugia, in corso gli accertamenti sulle cause",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/esplosione-a-perugia-in-corso-gli-accertamenti-sulle-cause_d7669383-25eb-4a22-83a7-221832426f01.html",
+     "data": "2026-08-22T11:19:36+00:00"
+    },
+    {
+     "titolo": "Esplosione a Perugia, preoccupano le condizioni della donna ferita",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/esplosione-a-perugia-preoccupano-le-condizioni-della-donna-ferita_913db839-451d-4030-8cf8-817d14f2623f.html",
+     "data": "2026-08-22T11:19:42+00:00"
+    },
+    {
      "titolo": "Esplosione in una palazzina a Perugia, otto residenti evacuati",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/esplosione-in-una-palazzina-a-perugia-otto-residenti-evacuati_703b83e0-f359-47ad-b32c-6980b6806436.html",
-     "data": "2026-08-22T10:07:43+00:00"
+     "data": "2026-08-22T11:20:03+00:00"
     },
     {
      "titolo": "Esplosione a Perugia, una ferita trovata in giardino",
@@ -109,22 +119,32 @@
      "titolo": "Il presidente del Libano Joseph Aoun in visita a Cascia",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/il-presidente-del-libano-joseph-aoun-in-visita-a-cascia_06ab5c2e-a56f-4000-b254-7efb5e950a2b.html",
      "data": "2026-08-20T18:43:19+00:00"
-    },
-    {
-     "titolo": "Da lunedì 24 agosto tornano i treni tra Ponte San Giovanni e Fontivegge",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/da-lunedi-24-agosto-tornano-i-treni-tra-ponte-san-giovanni-e-fontivegge_080bdf0b-9aef-48fb-aa72-c325deff0e5f.html",
-     "data": "2026-08-20T18:44:59+00:00"
-    },
-    {
-     "titolo": "L'Umbria attesa da un venerdì di maltempo con piaggia e temporali",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/lumbria-attesa-da-un-venerdi-di-maltempo-con-piaggia-e-temporali_33a18a0b-ed0b-4614-b69d-38e86516dcf3.html",
-     "data": "2026-08-20T15:41:31+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Travolto e ucciso davanti a moglie e figli nel Mantovano, arrestato 49enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/travolto-e-ucciso-davanti-a-moglie-e-figli-nel-mantovano-arrestato-49enne_cecc7ee2-4e4c-4234-aa13-d516e09318e4.html",
+     "data": "2026-08-22T11:20:08+00:00"
+    },
+    {
+     "titolo": "Riesame Milano dispone domiciliari per due degli agenti arrestati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/riesame-milano-dispone-domiciliari-per-due-degli-agenti-arrestati_1613273e-8367-4f92-9349-70c6bdd5baec.html",
+     "data": "2026-08-22T11:16:34+00:00"
+    },
+    {
+     "titolo": "Evacuate con elicottero 29 persone bloccate in due rifugi nel Bergamasco",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/evacuate-con-elicottero-29-persone-bloccate-in-due-rifugi-nel-bergamasco_ac1aa5d2-7ab9-4097-bda5-80cc75eac42a.html",
+     "data": "2026-08-22T11:16:36+00:00"
+    },
+    {
+     "titolo": "Locazione turistica abusiva a Bari vecchia, water nel box doccia e umidità",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/locazione-turistica-abusiva-a-bari-vecchia-water-nel-box-doccia-e-umidita_acd105e7-f4bd-4d90-8bfd-6937a7e84d15.html",
+     "data": "2026-08-22T11:13:51+00:00"
+    },
     {
      "titolo": "Anziano ferito a coltellate nel Vibonese, tagliato per rimuovere 'animale'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/anziano-ferito-a-coltellate-nel-vibonese-tagliato-per-rimuovere-animale_4c0a74ca-a301-45d3-9278-2b99664f6445.html",
@@ -164,26 +184,6 @@
      "titolo": "Legambiente, in Abruzzo bruciati 2.532 ettari in due mesi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/legambiente-in-abruzzo-bruciati-2.532-ettari-in-due-mesi_d0d9a4d6-e2ee-4951-946f-1ca1d6cac730.html",
      "data": "2026-08-22T09:56:58+00:00"
-    },
-    {
-     "titolo": "Bimba morta a Palermo, indagati i genitori",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-indagati-i-genitori_56d1400b-4fa8-4c28-bdae-23f53c7aa7e8.html",
-     "data": "2026-08-22T09:54:15+00:00"
-    },
-    {
-     "titolo": "Esplosione a Perugia, una ferita trovata in giardino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-a-perugia-una-ferita-trovata-in-giardino_13845c06-3c2e-4566-b955-c59af58215d7.html",
-     "data": "2026-08-22T09:48:05+00:00"
-    },
-    {
-     "titolo": "Tenta di violentare una 14enne, la ragazza si salva con il 'signal for help'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/tenta-di-violentare-una-14enne-la-ragazza-si-salva-con-il-signal-for-help_e3b6270b-ca11-4162-ac25-711f1d903e9f.html",
-     "data": "2026-08-22T10:51:19+00:00"
-    },
-    {
-     "titolo": "Esplosione in una palazzina a Perugia, sono due i feriti, sarebbero gravi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-palazzina-a-perugia-sono-due-i-feriti-sarebbero-gravi_3ad0ef98-7a06-49f7-a47c-a748858090d6.html",
-     "data": "2026-08-22T08:55:06+00:00"
     }
    ]
   },
@@ -251,6 +251,16 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Fava, 'nel futuro per il welfare puntare sul lavoro, senza non c'è previdenza'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/fava-nel-futuro-per-il-welfare-puntare-sul-lavoro-senza-non_6704bda7-5294-4cc5-8b4c-f5dd0845272a.html",
+     "data": "2026-08-22T11:29:31+00:00"
+    },
+    {
+     "titolo": "Sulla app pubblica o delle banche per l'euro digitale è scontro Bce-istituti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/sulla-app-pubblica-o-delle-banche-per-leuro-digitale-e-scontro-bce_52153907-fecf-4aff-a1b6-df1c838331c8.html",
+     "data": "2026-08-22T11:28:40+00:00"
+    },
+    {
      "titolo": "Fava, 'nuovo modello Inps intercetta fabbisogno dei cittadini per il loro futuro'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/fava-nuovo-modello-inps-intercetta-fabbisogno-dei-cittadini-per-il-loro_87e6c737-4708-40dc-ae5c-f9895e1b40d0.html",
      "data": "2026-08-22T10:40:18+00:00"
@@ -299,16 +309,6 @@
      "titolo": "Non si arresta la corsa, il gasolio vola a 2,200 euro in autostrada. Consumatori, è stangata sul controesodo",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/non-si-arresta-la-corsa-dei-carburanti-il-gasolio-vola-a-2200-euro-al-litro_cdc06ad4-f758-41ef-83fe-8aa24b76fe3d.html",
      "data": "2026-08-22T09:18:42+00:00"
-    },
-    {
-     "titolo": "Niente accordo Usa-Canada, scattano dazi reciproci del 50%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/niente-accordo-usa-canada-scattano-dazi-reciproci-del-50_7ed464f4-28a5-4a05-9d74-283c19205a18.html",
-     "data": "2026-08-22T04:32:20+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano sulla parità con le banche deboli, recupera Stellantis (+4%)",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-milano-sulla-parita-con-le-banche-deboli-recupera-stellantis-4_c37e4adc-6bae-4c22-ab86-ae422a4b1504.html",
-     "data": "2026-08-21T16:51:15+00:00"
     }
    ]
   },
