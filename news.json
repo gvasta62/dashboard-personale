@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-22T09:47:07.757920+00:00",
+ "aggiornato": "2026-08-22T10:09:31.599266+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Bimba morta a Palermo, indagati i genitori",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/bimba-morta-a-palermo-indagati-i-genitori_38b3b118-d989-41c1-9a21-aaef61afa8af.html",
+     "data": "2026-08-22T09:54:16+00:00"
+    },
     {
      "titolo": "Media, 'Usa pronti a versare 725 milioni di dollari all'Onu'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/media-usa-pronti-a-versare-725-milioni-di-dollari-allonu_fbfab7e7-d9be-4b0d-af2b-5b81bfddba9a.html",
@@ -49,11 +54,6 @@
      "titolo": "Droni Kiev su hub Ozon in Russia, 500 dipendenti evacuati",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/droni-kiev-su-hub-ozon-in-russia-500-dipendenti-evacuati_832c4d91-19da-415d-bb0a-14cf9f8e585d.html",
      "data": "2026-08-22T08:24:10+00:00"
-    },
-    {
-     "titolo": "Tunisia, 'affondata barca diretta verso Italia, almeno 13 dispersi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/tunisia-affondata-barca-diretta-verso-italia-almeno-13-dispersi_03d7f38a-cd8f-4b95-98c5-f8be363097b1.html",
-     "data": "2026-08-22T08:16:49+00:00"
     }
    ]
   },
@@ -61,14 +61,19 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Esplosione a Perugia, una ferita trovata in giardino",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/esplosione-a-perugia-una-ferita-trovata-in-giardino_9a3372e6-426d-4352-afeb-2686f668b5ae.html",
+     "data": "2026-08-22T09:48:10+00:00"
+    },
+    {
      "titolo": "Esplosione in una palazzina a Perugia, sono due i feriti, sarebbero gravi",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/esplosione-in-una-palazzina-a-perugia-sono-due-i-feriti-sarebbero-gravi_491eca31-7135-4557-a0c8-91ecd98ddf1b.html",
-     "data": "2026-08-22T08:55:07+00:00"
+     "data": "2026-08-22T09:47:52+00:00"
     },
     {
      "titolo": "Esplosione in una palazzina a Perugia, ci sono persone coinvolte",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/il-tetto-dellimmobile-sarebbe-crollato_3670a611-b9f5-4f7b-ac53-298bc88e4ca1.html",
-     "data": "2026-08-22T08:06:41+00:00"
+     "data": "2026-08-22T09:50:24+00:00"
     },
     {
      "titolo": "Bandecchi chiede 'blocco sine die del rilascio della cittadinanza italiana'",
@@ -114,17 +119,32 @@
      "titolo": "Anche un movente ipotizzato da AI nel libro-analisi sul caso Garlasco",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/20/anche-un-movente-ipotizzato-da-ai-nel-libro-analisi-sul-caso-garlasco_ce0ed926-4f4d-413b-b715-0f7d55e142fa.html",
      "data": "2026-08-20T14:20:28+00:00"
-    },
-    {
-     "titolo": "Trasporto pubblico e studenti, incontro promosso dalla Provincia di Perugia",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/20/trasporto-pubblico-e-studenti-incontro-promosso-dalla-provincia-di-perugia_978cb172-1a6e-4ce0-80dc-fb026689e6a0.html",
-     "data": "2026-08-20T14:18:02+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Legambiente, in Abruzzo bruciati 2.532 ettari in due mesi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/legambiente-in-abruzzo-bruciati-2.532-ettari-in-due-mesi_d0d9a4d6-e2ee-4951-946f-1ca1d6cac730.html",
+     "data": "2026-08-22T09:56:58+00:00"
+    },
+    {
+     "titolo": "Bimba morta a Palermo, indagati i genitori",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-indagati-i-genitori_56d1400b-4fa8-4c28-bdae-23f53c7aa7e8.html",
+     "data": "2026-08-22T09:54:15+00:00"
+    },
+    {
+     "titolo": "Esplosione a Perugia, una ferita trovata in giardino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-a-perugia-una-ferita-trovata-in-giardino_13845c06-3c2e-4566-b955-c59af58215d7.html",
+     "data": "2026-08-22T09:48:05+00:00"
+    },
+    {
+     "titolo": "Tenta di violentare una 14enne, la ragazza si salva con il 'signal for help'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/tenta-di-violentare-una-14enne-la-ragazza-si-salva-con-il-signal-for-help_e3b6270b-ca11-4162-ac25-711f1d903e9f.html",
+     "data": "2026-08-22T09:50:07+00:00"
+    },
     {
      "titolo": "Esplosione in una palazzina a Perugia, sono due i feriti, sarebbero gravi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-palazzina-a-perugia-sono-due-i-feriti-sarebbero-gravi_3ad0ef98-7a06-49f7-a47c-a748858090d6.html",
@@ -138,7 +158,7 @@
     {
      "titolo": "Esplosione in una palazzina a Perugia, due feriti gravi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-palazzina-a-perugia-ci-sono-persone-coinvolte_744dd77d-34a4-4855-9f91-aedee0b5f198.html",
-     "data": "2026-08-22T09:02:00+00:00"
+     "data": "2026-08-22T09:53:58+00:00"
     },
     {
      "titolo": "Il Papa, no ai progetti politici schiavi degli idoli e del potere",
@@ -164,26 +184,6 @@
      "titolo": "Nubifragi, tornado e fulmini: il maltempo sferza il Centro-Nord",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/nubifragi-tornado-e-fulmini-il-maltempo-sferza-il-centro-nord_a64c18e3-dd44-4259-a721-17acb1bc8870.html",
      "data": "2026-08-21T22:06:58+00:00"
-    },
-    {
-     "titolo": "Turisti aggrediti da un lupo a Gallipoli, ferite mamma e figlia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/turisti-aggrediti-da-un-lupo-a-gallipoli-ferite-mamma-e-figlia_2cabd8b1-3cac-4cf9-8bfd-d432c9c63cf1.html",
-     "data": "2026-08-21T17:49:45+00:00"
-    },
-    {
-     "titolo": "L'autopsia conferma, Tania Terrin è stata strangolata",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/lautopsia-conferma-tania-terrin-e-stata-strangolata_add6eedc-5b39-48b3-9141-7f28d71ded33.html",
-     "data": "2026-08-21T18:45:55+00:00"
-    },
-    {
-     "titolo": "Famiglia nel bosco, Cantelmi 'grande affetto da gente per Catherine e Nathan'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/famiglia-nel-bosco-cantelmi-grande-affetto-da-gente-per-catherine-e-nathan_2ee3a99d-bb73-4494-a4ee-9e33b0cb380c.html",
-     "data": "2026-08-21T20:15:27+00:00"
-    },
-    {
-     "titolo": "Maltempo, salvate tre persone da una frana in Lunigiana",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-salvate-tre-persone-da-una-frana-in-lunigiana_7593cadf-7d01-4314-a90c-775d1d7d2d27.html",
-     "data": "2026-08-21T17:04:32+00:00"
     }
    ]
   },
@@ -261,9 +261,9 @@
      "data": "2026-08-22T09:26:26+00:00"
     },
     {
-     "titolo": "E' caro conto-corrente, la spesa è salita del 23% in 10 anni",
+     "titolo": "È caro conto-corrente in Italia, la spesa è salita del 23% in 10 anni",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/e-caro-conto-corrente-la-spesa-e-salita-del-23-in-10-anni_3af4547a-b3f4-45eb-9109-63f870658de2.html",
-     "data": "2026-08-22T09:13:09+00:00"
+     "data": "2026-08-22T10:00:42+00:00"
     },
     {
      "titolo": "Birraturismo per 13 milioni di italiani, domani arriva 'Luppoleti aperti'",
@@ -315,6 +315,11 @@
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Media, Giappone inerte contro le sanzioni Usa alla Cpi, \"un fallimento diplomatico\"",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/22/media-giappone-inerte-contro-le-sanzioni-usa-alla-cpi-un-fallimento-diplomatico_58890a8b-3f8a-4a5b-b789-c26c9ff541fc.html",
+     "data": "2026-08-22T10:02:47+00:00"
+    },
     {
      "titolo": "Media, 'Usa pronti a versare 725 milioni di dollari all'Onu'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/media-usa-pronti-a-versare-725-milioni-di-dollari-allonu_bb1b14cf-7212-467d-be04-2ebc31fd0396.html",
@@ -369,11 +374,6 @@
      "titolo": "Venezuela, Jorge Rodríguez nega incarico di Steve Hanke da parte del Parlamento",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/22/venezuela-jorge-rodriguez-nega-incarico-di-steve-hanke-da-parte-del-parlamento_309be5e9-48b6-47c1-9609-f9f978aee78a.html",
      "data": "2026-08-21T23:40:17+00:00"
-    },
-    {
-     "titolo": "Brasile, i fratelli Batista acquistano il 100% del gruppo della Avibras",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/22/brasile-i-fratelli-batista-acquistano-il-100-del-gruppo-della-avibras_f739f65e-e381-432b-aa1b-3acd085877f1.html",
-     "data": "2026-08-21T23:34:37+00:00"
     }
    ]
   },
