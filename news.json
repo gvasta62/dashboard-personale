@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-22T16:08:07.674740+00:00",
+ "aggiornato": "2026-08-22T16:45:34.208361+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,9 +126,24 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-08-22T16:36:49+00:00"
+    },
+    {
+     "titolo": "Torna in carcere il leader di Askatasuna Giorgio Rossetto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/torna-in-carcere-il-leader-di-askatasuna-giorgio-rossetto_a737ed7e-6f1e-4d72-a656-d417ab540ce1.html",
+     "data": "2026-08-22T16:07:56+00:00"
+    },
+    {
      "titolo": "Giani: 'I Cpr sono luoghi di detenzione impropria, no in Toscana'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/giani-i-cpr-sono-luoghi-di-detenzione-impropria-no-in-toscana_60c62639-b449-4713-8be1-2867d986e010.html",
      "data": "2026-08-22T15:46:18+00:00"
+    },
+    {
+     "titolo": "Cantante scomparsa nel Rodigino, accertamenti irripetibili su reperti della casa",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/cantante-scomparsa-nel-rodigino-accertamenti-irripetibili-su-reperti-della-casa_b480b51c-105f-4876-97e7-ad41ec7a1540.html",
+     "data": "2026-08-22T16:04:16+00:00"
     },
     {
      "titolo": "Perseguita e rapina gli anziani genitori, 52enne arrestata",
@@ -136,9 +151,9 @@
      "data": "2026-08-22T15:57:12+00:00"
     },
     {
-     "titolo": "Due giovani morti in uno stand al Palio di Allumiere, ipotesi esalazioni",
+     "titolo": "Due morti in uno stand al Palio di Allumiere, 15enne ucciso dal monossido",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/due-giovani-morti-in-uno-stand-al-palio-di-allumiere-ipotesi-esalazioni_f14dc1fc-1a69-439b-b6d0-eccc5fafbb5a.html",
-     "data": "2026-08-22T15:48:05+00:00"
+     "data": "2026-08-22T16:25:00+00:00"
     },
     {
      "titolo": "West Nile, anziano di 85 anni muore a Pavia",
@@ -169,21 +184,6 @@
      "titolo": "Esplosione in una casa del Brindisino, grave un anziano e 4 bimbi intossicati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-casa-del-brindisino-grave-un-anziano-e-4-bimbi-intossicati_a08e5c34-078e-4dbb-96f2-0ea14393007c.html",
      "data": "2026-08-22T15:01:10+00:00"
-    },
-    {
-     "titolo": "Fabio Savi scrive ai familiari delle vittime: 'Provo rimorso per quello che ho fatto'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/fabio-savi-scrive-ai-familiari-delle-vittime-provo-rimorso-per-quello_cf1f98ad-15bd-443f-bd92-6b4db5cd5146.html",
-     "data": "2026-08-22T12:16:24+00:00"
-    },
-    {
-     "titolo": "Travolto e ucciso davanti a moglie e figli nel Mantovano, arrestato 49enne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/travolto-e-ucciso-davanti-a-moglie-e-figli-nel-mantovano-arrestato-49enne_cecc7ee2-4e4c-4234-aa13-d516e09318e4.html",
-     "data": "2026-08-22T11:20:08+00:00"
-    },
-    {
-     "titolo": "Riesame Milano dispone domiciliari per due degli agenti arrestati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/riesame-milano-dispone-domiciliari-per-due-degli-agenti-arrestati_1613273e-8367-4f92-9349-70c6bdd5baec.html",
-     "data": "2026-08-22T11:16:34+00:00"
     }
    ]
   },
@@ -436,6 +436,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Marotta, 'Inter non rinuncia a Lautaro, non se ne deve nemmeno parlare'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/marotta-inter-non-rinuncia-a-lautaro-non-se-ne-deve-nemmeno-parlare_03a6683c-5f04-4092-b553-19286d6809bb.html",
+     "data": "2026-08-22T16:30:10+00:00"
+    },
+    {
+     "titolo": "Calcio: è ufficiale, Badiashile dal Chelsea al Napoli",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/calcio-e-ufficiale-badiashile-dal-chelsea-al-napoli_f475ccb1-d44c-4d13-8a4a-07d2c1fb9adc.html",
+     "data": "2026-08-22T16:26:03+00:00"
+    },
+    {
+     "titolo": "Serie A: Udinese-Como 0-0 DIRETTA E FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-udinese-como-diretta-e-foto_e0200b45-09c0-43b2-8afd-5342489d62e0.html",
+     "data": "2026-08-22T16:39:17+00:00"
+    },
+    {
      "titolo": "Tamberi vince in Diamond League a Katowice, salta 2.31",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/22/tamberi-vince-in-diamond-league-a-katowice-salta-2.31_27e724d8-7f75-43c0-932a-c002b4656052.html",
      "data": "2026-08-22T16:02:24+00:00"
@@ -446,9 +461,9 @@
      "data": "2026-08-22T15:21:18+00:00"
     },
     {
-     "titolo": "F1: Norris in pole in Olanda, terzo tempo per Antonelli. Russell vince la Sprint",
+     "titolo": "F1: in Olanda Norris in Pole e Antonelli parte terzo",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/22/f1-norris-in-pole-in-olanda-terzo-tempo-per-antonelli.-russell-vince-la-sprint_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
-     "data": "2026-08-22T15:16:15+00:00"
+     "data": "2026-08-22T16:31:41+00:00"
     },
     {
      "titolo": "Gp Olanda: Antonelli 'peccato per un piccolo errore, potevo fare la pole'",
@@ -471,29 +486,14 @@
      "data": "2026-08-22T14:54:44+00:00"
     },
     {
-     "titolo": "Pallavolo: altra vittoria per le azzurre, 3-0 al Montenegro",
+     "titolo": "Pallavolo: l'Italia vince 3-0 anche col Montenegro, Velasco fa turn over",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/22/europei-pallavolo-altra-vittoria-per-le-azzurre-3-0-al-montenegro_dcc9bfab-29ae-4cb6-b7b4-7b92ea4620ba.html",
-     "data": "2026-08-22T14:50:56+00:00"
+     "data": "2026-08-22T16:22:50+00:00"
     },
     {
      "titolo": "Juve: Spalletti, 'Vicario e Kolo titolari a Frosinone'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/juve-spalletti-vicario-e-kolo-titolari-a-frosinone_6ff6f0a8-2024-4c5c-885a-d472446a722e.html",
      "data": "2026-08-22T14:13:05+00:00"
-    },
-    {
-     "titolo": "Juve: Spalletti 'fatto un buon mercato ma c'è ancora da lavorare'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/juve-spalletti-fatto-un-buon-mercato-ma-ce-ancora-da-lavorare_9fd4f1e1-8368-4348-805b-7da45d9312d7.html",
-     "data": "2026-08-22T14:02:45+00:00"
-    },
-    {
-     "titolo": "Juve: Spalletti, 'buone sensazioni, vogliamo fare bene'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/juve-spalletti-buone-sensazioni-vogliamo-fare-bene_9f77de35-52d7-49f3-a4bb-cf4904e0892f.html",
-     "data": "2026-08-22T13:56:32+00:00"
-    },
-    {
-     "titolo": "Milan: la prima di Amorim, 'abbiamo bisogno di vincerle tutte'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/22/milan-la-prima-di-amorim-abbiamo-bisogno-di-vincerle-tutte_1d30134c-2a85-4b38-b282-806d347212e0.html",
-     "data": "2026-08-22T13:52:19+00:00"
     }
    ]
   }
