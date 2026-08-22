@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-22T09:14:11.254587+00:00",
+ "aggiornato": "2026-08-22T09:47:07.757920+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, 'Usa pronti a versare 725 milioni di dollari all'Onu'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/media-usa-pronti-a-versare-725-milioni-di-dollari-allonu_fbfab7e7-d9be-4b0d-af2b-5b81bfddba9a.html",
+     "data": "2026-08-22T09:42:46+00:00"
+    },
+    {
+     "titolo": "È morta Rosellina Archinto, pioniera dell'editoria per ragazzi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/e-morta-rosellina-archinto-pioniera-delleditoria-per-ragazzi_a93a8e10-f481-4e08-a1b1-59846f671023.html",
+     "data": "2026-08-22T09:28:03+00:00"
+    },
     {
      "titolo": "Il Papa, mondo ferito, aumenta la chiusura e la paura dell'altro",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/il-papa-mondo-ferito-aumenta-la-chiusura-e-la-paura-dellaltro_755a3b58-2afb-4ad0-8576-b6a74c0a1e4d.html",
@@ -44,16 +54,6 @@
      "titolo": "Tunisia, 'affondata barca diretta verso Italia, almeno 13 dispersi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/tunisia-affondata-barca-diretta-verso-italia-almeno-13-dispersi_03d7f38a-cd8f-4b95-98c5-f8be363097b1.html",
      "data": "2026-08-22T08:16:49+00:00"
-    },
-    {
-     "titolo": "Il Papa, no ai progetti politici schiavi degli idoli e del potere",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/il-papa-no-ai-progetti-politici-schiavi-degli-idoli-e-del-potere_bab86f50-5f1a-453e-a928-af49a0fc2fc8.html",
-     "data": "2026-08-22T08:15:41+00:00"
-    },
-    {
-     "titolo": "L'Iran concede il passaggio a Hormuz alle petroliere irachene",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/liran-concede-il-passaggio-a-hormuz-alle-petroliere-irachene_bc8d7d21-8d6d-4715-aca7-b43c8752a696.html",
-     "data": "2026-08-22T07:48:40+00:00"
     }
    ]
   },
@@ -243,12 +243,7 @@
     {
      "titolo": "Meloni al Nyt: 'Pensavo fosse più facile parlare con Trump'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/meloni-al-nyt-credevo-con-trump-sarebbe-stato-piu-facile-date_e8a985f1-b1d3-467b-9d4f-44471c877b2d.html",
-     "data": "2026-08-21T18:02:10+00:00"
-    },
-    {
-     "titolo": "Scholz (Meeting), i migranti vanno accolti in modo umano",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/21/scholz-meeting-i-migranti-vanno-accolti-in-modo-umano_83dc8e9a-981b-4271-950f-6f528589f996.html",
-     "data": "2026-08-21T09:31:22+00:00"
+     "data": "2026-08-22T09:40:55+00:00"
     }
    ]
   },
@@ -256,9 +251,19 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Calderone, 'soddisfatti dell'occupazione, adesso dare continuità'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/calderone-soddisfatti-delloccupazione-adesso-dare-continuita_5b2200da-ea30-4f96-a34d-0b69d792eb0d.html",
+     "data": "2026-08-22T09:30:31+00:00"
+    },
+    {
+     "titolo": "Calderone, 'vogliamo confermare gli incentivi del 2026 sul lavoro nella manovra'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/calderone-vogliamo-confermare-gli-incentivi-del-2026-sul-lavoro-nella_b431c1b3-affc-454d-bac3-828bfd8a0898.html",
+     "data": "2026-08-22T09:26:26+00:00"
+    },
+    {
      "titolo": "E' caro conto-corrente, la spesa è salita del 23% in 10 anni",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/e-caro-conto-corrente-la-spesa-e-salita-del-23-in-10-anni_3af4547a-b3f4-45eb-9109-63f870658de2.html",
-     "data": "2026-08-22T09:02:26+00:00"
+     "data": "2026-08-22T09:13:09+00:00"
     },
     {
      "titolo": "Birraturismo per 13 milioni di italiani, domani arriva 'Luppoleti aperti'",
@@ -286,9 +291,9 @@
      "data": "2026-08-22T07:22:42+00:00"
     },
     {
-     "titolo": "Non si arresta la corsa dei carburanti, il gasolio vola a 2,200 euro al litro in autostrada",
+     "titolo": "Non si arresta la corsa, il gasolio vola a 2,200 euro in autostrada. Consumatori, è stangata sul controesodo",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/non-si-arresta-la-corsa-dei-carburanti-il-gasolio-vola-a-2200-euro-al-litro_cdc06ad4-f758-41ef-83fe-8aa24b76fe3d.html",
-     "data": "2026-08-22T07:31:52+00:00"
+     "data": "2026-08-22T09:18:42+00:00"
     },
     {
      "titolo": "Niente accordo Usa-Canada, scattano dazi reciproci del 50%",
@@ -304,22 +309,17 @@
      "titolo": "Il gas in rialzo (+1,6%) a 66,4 euro al Megawattora",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/il-gas-in-rialzo-16-a-664-euro-al-megawattora_d29bff05-d84f-4352-b2ea-ad7dbba74240.html",
      "data": "2026-08-21T16:31:11+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude in leggero rialzo a 82 punti base",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/lo-spread-tra-btp-e-bund-chiude-in-leggero-rialzo-a-82-punti-base_cdc574ce-7916-42b2-9fb4-7d1176aa4e44.html",
-     "data": "2026-08-21T16:04:58+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa conclude in leggero rialzo, Londra +0,6%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-leuropa-conclude-in-leggero-rialzo-londra-06_2a507394-323b-4c49-a5fe-9f6db42fd82a.html",
-     "data": "2026-08-21T15:49:11+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Media, 'Usa pronti a versare 725 milioni di dollari all'Onu'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/media-usa-pronti-a-versare-725-milioni-di-dollari-allonu_bb1b14cf-7212-467d-be04-2ebc31fd0396.html",
+     "data": "2026-08-22T09:43:05+00:00"
+    },
     {
      "titolo": "Droni Kiev su hub Ozon in Russia, 500 dipendenti evacuati",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/droni-kiev-su-hub-ozon-in-russia-500-dipendenti-evacuati_d25372ee-92a2-4b35-8014-e38b5b645e81.html",
@@ -374,11 +374,6 @@
      "titolo": "Brasile, i fratelli Batista acquistano il 100% del gruppo della Avibras",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/22/brasile-i-fratelli-batista-acquistano-il-100-del-gruppo-della-avibras_f739f65e-e381-432b-aa1b-3acd085877f1.html",
      "data": "2026-08-21T23:34:37+00:00"
-    },
-    {
-     "titolo": "Sondaggio, Lula al 47% contro il 43% di Flávio Bolsonaro al ballottaggio in Brasile",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/sondaggio-lula-al-47-contro-il-43-di-flavio-bolsonaro-al-ballottaggio-in-brasile_5036d9e2-7e8a-4671-8388-56b7714f7847.html",
-     "data": "2026-08-21T21:59:18+00:00"
     }
    ]
   },
@@ -453,7 +448,7 @@
     {
      "titolo": "Tennis: Gauff batte Kostyuk e va in semifinale a Cincinnati",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/22/cincinnati-open-gauff-batte-kostyuk-e-va-in-semifinale_35e38e20-6caf-4511-a766-a5ca0be42628.html",
-     "data": "2026-08-22T07:45:17+00:00"
+     "data": "2026-08-22T09:24:02+00:00"
     },
     {
      "titolo": "Tennis: Cincinnati, Nakashima e Tiafoe in semifinale a casa loro",
