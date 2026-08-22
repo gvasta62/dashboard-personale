@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-22T17:41:41.014717+00:00",
+ "aggiornato": "2026-08-22T18:09:37.417669+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Sei paesi Ue chiedono tassa su extraprofitti compagnie petrolifere, anche l'Italia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/sei-paesi-ue-chiedono-tassa-su-extraprofitti-compagnie-petrolifere-anche-litalia_19935ede-e715-4432-8561-90de00e522c3.html",
+     "data": "2026-08-22T18:01:57+00:00"
+    },
     {
      "titolo": "L'offerta di Mps sul tavolo del cda del Banco Bpm, cruciale il Credit Agricole",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/lofferta-di-mps-sul-tavolo-del-cda-del-banco-bpm-cruciale_1607e49f-75fb-4f7e-95ae-627af1ee9c56.html",
@@ -49,17 +54,22 @@
      "titolo": "Rammarico Belgrado per mancata scarcerazione di Mladic, malato terminale",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/rammarico-belgrado-per-mancata-scarcerazione-di-mladic-malato-terminale_4c148cb8-af25-4104-89d4-eda6110cb212.html",
      "data": "2026-08-22T14:11:10+00:00"
-    },
-    {
-     "titolo": "Due italiani condannati per vandalismo a Malta ma pena sospesa, potranno rimpatriare",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/due-italiani-condannati-per-vandalismo-a-malta-ma-pena-sospesa-potranno-rimpatriare_ac1a2de4-5949-454d-b41f-9dcef93a9500.html",
-     "data": "2026-08-22T14:06:40+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Melasecche, follia deturpare il Trasimeno con pannelli galleggianti",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/melasecche-follia-deturpare-il-trasimeno-con-pannelli-galleggianti_84652b58-44de-4981-8e0a-2ea9ced1f2d0.html",
+     "data": "2026-08-22T17:56:23+00:00"
+    },
+    {
+     "titolo": "Usl Umbria 1, a San Giustino nessuna chiusura della continuità assistenziale",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/usl-umbria-1-a-san-giustino-nessuna-chiusura-della-continuita-assistenziale_0eb39484-0823-4274-bb02-cb93d8970f70.html",
+     "data": "2026-08-22T17:55:04+00:00"
+    },
     {
      "titolo": "Esplosione a Perugia, dimesso l'uomo ferito",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/esplosione-a-perugia-dimesso-luomo-ferito_1bbcf203-5f0d-4e91-8623-aaa939f782ce.html",
@@ -109,16 +119,6 @@
      "titolo": "Esplosione in una palazzina a Perugia, sono due i feriti, sarebbero gravi",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/esplosione-in-una-palazzina-a-perugia-sono-due-i-feriti-sarebbero-gravi_491eca31-7135-4557-a0c8-91ecd98ddf1b.html",
      "data": "2026-08-22T09:47:52+00:00"
-    },
-    {
-     "titolo": "Esplosione in una palazzina a Perugia, ci sono persone coinvolte",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/il-tetto-dellimmobile-sarebbe-crollato_3670a611-b9f5-4f7b-ac53-298bc88e4ca1.html",
-     "data": "2026-08-22T13:26:57+00:00"
-    },
-    {
-     "titolo": "Bandecchi chiede 'blocco sine die del rilascio della cittadinanza italiana'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/21/bandecchi-chiede-blocco-sine-die-del-rilascio-della-cittadinanza-italiana_5c7cce59-a9fb-4e9e-b683-ceff71effa32.html",
-     "data": "2026-08-21T15:46:57+00:00"
     }
    ]
   },
@@ -153,7 +153,7 @@
     {
      "titolo": "Due morti in uno stand al Palio di Allumiere, 15enne ucciso dal monossido",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/due-giovani-morti-in-uno-stand-al-palio-di-allumiere-ipotesi-esalazioni_f14dc1fc-1a69-439b-b6d0-eccc5fafbb5a.html",
-     "data": "2026-08-22T16:25:00+00:00"
+     "data": "2026-08-22T17:55:49+00:00"
     },
     {
      "titolo": "West Nile, anziano di 85 anni muore a Pavia",
@@ -183,13 +183,18 @@
     {
      "titolo": "Esplosione in una casa del Brindisino, grave un anziano e 4 bimbi intossicati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-casa-del-brindisino-grave-un-anziano-e-4-bimbi-intossicati_a08e5c34-078e-4dbb-96f2-0ea14393007c.html",
-     "data": "2026-08-22T17:37:10+00:00"
+     "data": "2026-08-22T17:45:20+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "A San Marino, il pranzo con le agostiniane, la messa in spiaggia",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/a-san-marino-il-pranzo-con-le-agostiniane-la-messa-in-spiaggia_ad209005-0334-470e-b21b-db4262eaba7f.html",
+     "data": "2026-08-22T17:39:53+00:00"
+    },
     {
      "titolo": "Anche l'Irlanda rispedisce i dublinanti, a ottobre il report Ue",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/anche-lirlanda-rispedisce-i-dublinanti-a-ottobre-il-report-ue_92f757b9-c1d8-45a1-8ccb-85024ab1cfab.html",
@@ -230,6 +235,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Sei paesi Ue chiedono tassa su extraprofitti compagnie petrolifere, anche l'Italia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/sei-paesi-ue-chiedono-tassa-su-extraprofitti-compagnie-petrolifere-anche-litalia_a10d0422-ce65-485d-b139-da5300b4b04e.html",
+     "data": "2026-08-22T18:01:53+00:00"
+    },
     {
      "titolo": "L'offerta di Mps sul tavolo del cda del Banco Bpm, cruciale il Credit Agricole",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/lofferta-di-mps-sul-tavolo-del-cda-del-banco-bpm-cruciale_d331439e-51c4-4edf-ad96-a10ee605baaf.html",
@@ -284,11 +294,6 @@
      "titolo": "Abi, si rafforza l'uso dei canali digitali delle banche, app +5,7%, bonifici istantanei +130%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/abi-si-rafforza-luso-canali-digitali-banche-app-57-bonifici-istantanei-130_da2b9e1b-e87f-47ff-aa4a-c46414854416.html",
      "data": "2026-08-22T08:54:35+00:00"
-    },
-    {
-     "titolo": "Salvini, 'nel nuovo Codice della strada nessuna Pec obbligatoria'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/salvini-nel-nuovo-codice-della-strada-nessuna-pec-obbligatoria_17f1d89f-d5b5-4f88-a6ac-bd6ed3353e70.html",
-     "data": "2026-08-22T08:53:54+00:00"
     }
    ]
   },
@@ -426,6 +431,36 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: in campo Inter-Monza 4-1 DIRETTA E FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-in-campo-inter-monza-4-1-diretta-e-foto_8e610d77-1d92-4242-a048-6c4e4635ef21.html",
+     "data": "2026-08-22T17:58:29+00:00"
+    },
+    {
+     "titolo": "Serie A: Udinese-Como 1-1 DIRETTA E FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-udinese-como-1-1-diretta-e-foto_e0200b45-09c0-43b2-8afd-5342489d62e0.html",
+     "data": "2026-08-22T17:51:39+00:00"
+    },
+    {
+     "titolo": "Giochi del Mediterraneo: secondo oro azzurro con Mancini nei 100 rana uomini",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/22/giochi-del-mediterraneo-secondo-oro-azzurro-con-mancini-nei-100_2d704802-2ea0-4e13-800d-f1175cc0212d.html",
+     "data": "2026-08-22T18:00:10+00:00"
+    },
+    {
+     "titolo": "Giochi Mediterraneo: prime medaglie azzurre arrivano dal nuoto, due argenti",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/22/giochi-mediterraneo-prime-medaglie-azzurre-arrivano-dal-nuoto-due-argenti_8ce2191a-70f3-421a-9d1e-543a8cfd3a39.html",
+     "data": "2026-08-22T17:42:13+00:00"
+    },
+    {
+     "titolo": "Giochi Mediterraneo: prime medaglie azzurre arrivano dal nuoto, due argenti",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/22/giochi-mediterraneo-prime-medaglie-azzurre-arrivano-dal-nuoto-due-argenti_d9769221-a542-4ad4-a544-86b91671c881.html",
+     "data": "2026-08-22T17:42:17+00:00"
+    },
+    {
+     "titolo": "La Maxima Roma ingaggia Carey Jr, centro ex Wizards",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/22/la-maxima-roma-ingaggia-carey-jr-centro-ex-wizards_18214ae6-5692-47ef-8ec0-0ee4846bb2b9.html",
+     "data": "2026-08-22T17:38:31+00:00"
+    },
+    {
      "titolo": "Tennis, nasce il Valle d'Aosta Ladies Open 125",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/22/tennis-nasce-il-valle-daosta-ladies-open-125_eb9066eb-c551-4582-8829-ecfaf74077e9.html",
      "data": "2026-08-22T17:29:54+00:00"
@@ -446,11 +481,6 @@
      "data": "2026-08-22T17:35:27+00:00"
     },
     {
-     "titolo": "Serie A: in campo Inter-Monza 1-1 DIRETTA E FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-in-campo-inter-monza-1-1-diretta-e-foto_8e610d77-1d92-4242-a048-6c4e4635ef21.html",
-     "data": "2026-08-22T17:03:57+00:00"
-    },
-    {
      "titolo": "Il Capitano in musica, 'Totti' per pianoforti al Chigiana International Festival",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/il-capitano-in-musica-totti-per-pianoforti-al-chigiana-international-festival_27d1e552-677c-442c-9b32-c6abdd8d8c45.html",
      "data": "2026-08-22T17:01:32+00:00"
@@ -459,31 +489,6 @@
      "titolo": "Marotta, 'Inter non rinuncia a Lautaro, non se ne deve nemmeno parlare'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/marotta-inter-non-rinuncia-a-lautaro-non-se-ne-deve-nemmeno-parlare_03a6683c-5f04-4092-b553-19286d6809bb.html",
      "data": "2026-08-22T16:30:10+00:00"
-    },
-    {
-     "titolo": "Calcio: è ufficiale, Badiashile dal Chelsea al Napoli",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/calcio-e-ufficiale-badiashile-dal-chelsea-al-napoli_f475ccb1-d44c-4d13-8a4a-07d2c1fb9adc.html",
-     "data": "2026-08-22T16:26:03+00:00"
-    },
-    {
-     "titolo": "Serie A: Udinese-Como 1-0 DIRETTA E FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-udinese-como-diretta-e-foto_e0200b45-09c0-43b2-8afd-5342489d62e0.html",
-     "data": "2026-08-22T17:22:43+00:00"
-    },
-    {
-     "titolo": "Tamberi vince in Diamond League a Katowice, salta 2.31",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/22/tamberi-vince-in-diamond-league-a-katowice-salta-2.31_27e724d8-7f75-43c0-932a-c002b4656052.html",
-     "data": "2026-08-22T16:02:24+00:00"
-    },
-    {
-     "titolo": "Infantino sbarca in Rep. Dominicana, Montagliani 'riconsideri la sua presenza'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/infantino-sbarca-in-rep.-dominicana-montagliani-riconsideri-la-sua-presenza_f9d05957-5f26-402e-89a4-32bfc071f729.html",
-     "data": "2026-08-22T15:21:18+00:00"
-    },
-    {
-     "titolo": "F1: in Olanda Norris in Pole e Antonelli parte terzo",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/22/f1-norris-in-pole-in-olanda-terzo-tempo-per-antonelli.-russell-vince-la-sprint_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
-     "data": "2026-08-22T16:31:41+00:00"
     }
    ]
   }
