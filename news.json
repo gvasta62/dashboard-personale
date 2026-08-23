@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-23T08:53:29.704204+00:00",
+ "aggiornato": "2026-08-23T09:14:31.572101+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Ex ministro Fedorov, 'Zelensky ha domande a cui rispondere su corruzione governo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/ex-ministro-fedorov-zelensky-ha-domande-a-cui-rispondere-su-corruzione-governo_82fa2cf9-aa16-4546-ac27-676d4e8ea449.html",
+     "data": "2026-08-23T09:00:53+00:00"
+    },
+    {
+     "titolo": "Zelensky, 'elezioni adesso? Uno tsunami, spaccherebbero il Paese'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/zelensky-elezioni-adesso-uno-tsunami-spaccherebbero-il-paese_7338c474-e7ef-44b4-af31-75b80267fe3d.html",
+     "data": "2026-08-23T08:53:04+00:00"
+    },
     {
      "titolo": "Trovato morto il bracciante scomparso a Foggia, ipotesi omicidio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/trovato-morto-il-bracciante-scomparso-a-foggia-ipotesi-omicidio_237f70cc-268a-44aa-b38e-385a7e436328.html",
@@ -44,16 +54,6 @@
      "titolo": "Katz, 'Erdogan colto con le mani nel barattolo dei biscotti in Siria'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/katz-erdogan-colto-con-le-mani-nel-barattolo-dei-biscotti-in-siria_36e9d99c-00eb-4e8d-9157-8cce4feb0484.html",
      "data": "2026-08-22T15:20:05+00:00"
-    },
-    {
-     "titolo": "Putin, 'dobbiamo ampliare il nostro sistema di difesa aerea'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/putin-dobbiamo-ampliare-il-nostro-sistema-di-difesa-aerea_12ddbda7-7ffe-477a-bd3a-fdbe702de261.html",
-     "data": "2026-08-22T15:15:44+00:00"
-    },
-    {
-     "titolo": "Putin riconosce 'danni all'economia' dai raid Kiev 'ma per loro nessun vantaggio'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/putin-riconosce-danni-alleconomia-dai-raid-kiev-ma-per-loro-nessun_8d72b429-c9fc-4223-8aab-938a92e0bfa5.html",
-     "data": "2026-08-22T15:12:48+00:00"
     }
    ]
   },
@@ -151,11 +151,6 @@
      "data": "2026-08-22T18:44:01+00:00"
     },
     {
-     "titolo": "Scontro sui Cpr, 'anche nelle regioni che non li vogliono'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/scontro-sui-cpr-anche-nelle-regioni-che-non-li-vogliono_619bd087-eb8c-4b97-9b11-0ef97d480147.html",
-     "data": "2026-08-22T19:06:35+00:00"
-    },
-    {
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-08-22T16:36:49+00:00"
@@ -184,6 +179,11 @@
      "titolo": "Muoiono per esalazioni da monossido, una vittima aveva 15 anni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/due-giovani-morti-in-uno-stand-al-palio-di-allumiere-ipotesi-esalazioni_f14dc1fc-1a69-439b-b6d0-eccc5fafbb5a.html",
      "data": "2026-08-22T20:20:39+00:00"
+    },
+    {
+     "titolo": "West Nile, anziano di 85 anni muore a Pavia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/west-nile-anziano-di-85-anni-muore-a-pavia_eb5b19ad-ff2f-4fd0-b9ab-db11047998b6.html",
+     "data": "2026-08-22T14:42:21+00:00"
     }
    ]
   },
@@ -213,7 +213,7 @@
     {
      "titolo": "Anche l'Irlanda rispedisce i dublinanti, a ottobre il report Ue",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/anche-lirlanda-rispedisce-i-dublinanti-a-ottobre-il-report-ue_92f757b9-c1d8-45a1-8ccb-85024ab1cfab.html",
-     "data": "2026-08-22T19:09:27+00:00"
+     "data": "2026-08-23T09:06:38+00:00"
     },
     {
      "titolo": "Il Papa a Cl, smascheriamo i rapporti di potere ingiusti",
@@ -229,11 +229,6 @@
      "titolo": "Mattarella, Costituzione animata da costante dialogo per la pace",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/mattarella-costituzione-animata-da-costante-dialogo-per-la-pace_83f9e752-76e7-4ad2-9f00-6d5f44e6bc13.html",
      "data": "2026-08-22T13:58:40+00:00"
-    },
-    {
-     "titolo": "Il Papa, mondo ferito, aumenta la chiusura e la paura dell'altro",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/il-papa-mondo-ferito-aumenta-la-chiusura-e-la-paura-dellaltro_a0a3af60-ac0a-43d3-bba4-aa5faf69ee0c.html",
-     "data": "2026-08-22T09:07:30+00:00"
     }
    ]
   },
@@ -306,6 +301,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ex ministro Fedorov, 'Zelensky ha domande a cui rispondere su corruzione governo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/23/ex-ministro-fedorov-zelensky-ha-domande-a-cui-rispondere-su-corruzione-governo_cc146e11-97a4-480a-b9d5-c7f1e5ce0c06.html",
+     "data": "2026-08-23T09:01:15+00:00"
+    },
+    {
+     "titolo": "Zelensky, 'elezioni adesso? Uno tsunami, spaccherebbero il Paese'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/23/zelensky-elezioni-adesso-uno-tsunami-spaccherebbero-il-paese_ee150e26-ed47-44a7-a1c5-cb7a94b87b8a.html",
+     "data": "2026-08-23T08:53:04+00:00"
+    },
+    {
      "titolo": "Nelle basi egiziane esercitazione militare congiunta con l'aviazione cinese",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/23/nelle-basi-egiziane-esercitazione-militare-congiunta-con-laviazione-cinese_271d43c0-4ec5-4097-9a48-1ec0ef2fc280.html",
      "data": "2026-08-23T07:50:39+00:00"
@@ -354,16 +359,6 @@
      "titolo": "Brasile, ripartono i negoziati sui dazi Usa dopo la telefonata Lula-Trump",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/22/brasile-ripartono-i-negoziati-sui-dazi-usa-dopo-la-telefonata-lula-trump_52a082f7-db41-4889-93a7-ee74e8096edd.html",
      "data": "2026-08-22T15:11:59+00:00"
-    },
-    {
-     "titolo": "Putin riconosce 'danni all'economia' dai raid Kiev 'ma per loro nessun vantaggio'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/putin-riconosce-danni-alleconomia-dai-raid-kiev-ma-per-loro-nessun_21916499-ddbe-47dc-9528-903865136372.html",
-     "data": "2026-08-22T15:16:22+00:00"
-    },
-    {
-     "titolo": "Un padre giapponese abbandona il figlio di 7 anni per ore per scalare il Monte Fuji",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/22/un-padre-giapponese-abbandona-il-figlio-di-7-anni-per-ore-per-scalare-il-monte_d5682762-5c7c-48c3-a8da-0fc35488bb64.html",
-     "data": "2026-08-22T15:12:32+00:00"
     }
    ]
   },
@@ -436,6 +431,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Fci, rinviata a primavera l'assemblea straordinaria per lo statuto",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/23/fci-rinviata-a-primavera-lassemblea-straordinaria-per-lo-statuto_0ee177fa-9ddd-488d-86da-5aa57c05c189.html",
+     "data": "2026-08-23T09:09:33+00:00"
+    },
+    {
+     "titolo": "Liga: falli, simulazioni e proteste, Vinicius è subito nel mirino",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/liga-falli-simulazioni-e-proteste-vinicius-e-subito-nel-mirino_f5ca294f-f541-4727-a261-ac99bfb323e4.html",
+     "data": "2026-08-23T08:59:41+00:00"
+    },
+    {
      "titolo": "Tiafoe in finale a Cincinnati, affronterà Fils",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/23/tiafoe-in-finale-a-cincinnati-affrontera-fils_822b2812-867e-4c0d-9bcf-9a612762ad9b.html",
      "data": "2026-08-23T07:58:51+00:00"
@@ -484,16 +489,6 @@
      "titolo": "Fabregas, 'grande partita anche grazie alle nuove regole'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/fabregas-grande-partita-anche-grazie-alle-nuove-regole_4c10c80f-9f82-40d8-934d-0bcc006e1bcb.html",
      "data": "2026-08-22T19:43:14+00:00"
-    },
-    {
-     "titolo": "Runjaic, 'soddisfatto per come abbiamo affrontato un avversario di valore'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/runjaic-soddisfatto-per-come-abbiamo-affrontato-un-avversario-di-valore_f70026e9-1f7b-4f5a-ba11-697c1860ae4f.html",
-     "data": "2026-08-22T19:38:35+00:00"
-    },
-    {
-     "titolo": "Tennis: Cincinnati, Cobolli cede in due set, Fils in finale",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/22/tennis-cincinnati-cobolli-cede-in-due-set-fils-in-finale_5e3ac670-c830-472e-8221-90c056bcb409.html",
-     "data": "2026-08-22T19:33:13+00:00"
     }
    ]
   }
