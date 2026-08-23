@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-23T12:12:02.285184+00:00",
+ "aggiornato": "2026-08-23T13:07:08.200697+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -63,7 +63,7 @@
     {
      "titolo": "Giovane assistito dalla polizia locale torna dalla famiglia in India",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/23/giovane-assistito-dalla-polizia-locale-torna-dalla-famiglia-in-india_5e78f237-ebd2-41d6-96f8-8a912e062c79.html",
-     "data": "2026-08-23T12:07:43+00:00"
+     "data": "2026-08-23T12:11:12+00:00"
     },
     {
      "titolo": "Esplosione a Perugia, ospitati in hotel gli inquilini evacuati",
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "La sfida dei fratelli ad Arquata: 'Abbiamo scelto di restare e investire'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/la-sfida-dei-fratelli-ad-arquata-abbiamo-scelto-di-restare-e-investire_2441ef1d-466f-482b-988d-e702401baf31.html",
+     "data": "2026-08-23T12:57:49+00:00"
+    },
+    {
+     "titolo": "Bimba morta a Palermo, il direttore prevenzione Asp: 'Stiamo un'indagine epidemiologica per risalire al paziente zero'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/bimba-morta-a-palermo-il-direttore-prevenzione-asp-stiamo-unindagine-epidemiologica-per_8fbc0c12-c983-4f5c-965d-25c6e90ff601.html",
+     "data": "2026-08-23T12:01:40+00:00"
+    },
+    {
      "titolo": "Difende la madre e il compagno lo accoltella, 15enne in ospedale",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/difende-la-madre-e-il-compagno-lo-accoltella-15enne-in-ospedale_fda1a530-673a-4dc5-a386-e3644e1ba749.html",
      "data": "2026-08-23T11:28:33+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Uomo trovato morto vicino stazione centrale di Lamezia Terme",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/uomo-trovato-morto-vicino-stazione-centrale-di-lamezia-terme_7c0a14b9-43e6-482d-a7cc-4f6a519bae2e.html",
      "data": "2026-08-23T09:56:57+00:00"
-    },
-    {
-     "titolo": "Riapre gli occhi il 21enne ricoverato a Barcellona: 'Ha stretto la mano alla mamma'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/riapre-gli-occhi-il-21enne-ricoverato-a-barcellona_4cf5a2d6-9ebb-456d-825b-f6e953faab7f.html",
-     "data": "2026-08-23T09:29:39+00:00"
-    },
-    {
-     "titolo": "Domenica di sole, poi rapida perturbazione in avvio di settimana",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/domenica-di-sole-poi-rapida-perturbazione-in-avvio-di-settimana_0b758d3c-fa23-4c9f-9dde-02a3bae57c64.html",
-     "data": "2026-08-23T07:13:25+00:00"
     }
    ]
   },
@@ -191,14 +191,29 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Caso Ranucci, settimana decisiva per la sostituzione alla guida di Report",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/caso-ranucci-settimana-decisiva-per-la-sostituzione-alla-guida-di-report_aca18c66-6ab5-4db2-92fc-bf019130f2e9.html",
+     "data": "2026-08-23T12:59:09+00:00"
+    },
+    {
+     "titolo": "Zuppi: 'Quanto avviene in Cisgiordania è inaccettabile'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/zuppi-quanto-avviene-in-cisgiordania-e-inaccettabile_06887482-004e-4456-a48b-c23f3f7c7b46.html",
+     "data": "2026-08-23T12:39:49+00:00"
+    },
+    {
+     "titolo": "Schlein: 'Il governo tassi subito gli extraprofitti delle società energetiche'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/schlein-il-governo-tassi-subito-gli-extraprofitti-delle-societa-energetiche-_02997150-01eb-4f01-a0d1-d3e09dddaaa2.html",
+     "data": "2026-08-23T12:21:43+00:00"
+    },
+    {
      "titolo": "Piantedosi: '45giorni di fermo e 7.500 euro di multa per la Sea Watch 5'. L'ong: 'Non collaboriamo con i criminali, il governo può dire lo stesso?'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/migranti-piantedosi-sea-watch-5-ha-violato-norme-stop-di-45-giorni_8571281d-be31-49fa-aafd-7f38479c2042.html",
-     "data": "2026-08-23T11:36:27+00:00"
+     "data": "2026-08-23T12:27:53+00:00"
     },
     {
      "titolo": "Meloni domani pomeriggio ad Amatrice per i 10 anni dal sisma",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/meloni-lunedi-pomeriggio-ad-amatrice-per-i-10-anni-dal-sisma_9c7be740-c92d-4316-8f29-41a6b1eb7391.html",
-     "data": "2026-08-23T12:03:04+00:00"
+     "data": "2026-08-23T12:43:24+00:00"
     },
     {
      "titolo": "Durigon: 'In manovra contiamo di ridurre l'Irpef per i redditi fino a 60mila euro'",
@@ -218,7 +233,7 @@
     {
      "titolo": "Il woke manda in tilt la sinistra, Conte sfida Schlein e la destra attacca",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/il-woke-manda-in-tilt-la-sinistra-conte-sfida-schlein-e-la-destra-attacca_11a059d4-c6d4-49e8-80b2-884585f7d0bb.html",
-     "data": "2026-08-23T09:25:06+00:00"
+     "data": "2026-08-23T12:07:47+00:00"
     },
     {
      "titolo": "A San Marino, il pranzo con le agostiniane, la messa in spiaggia",
@@ -234,22 +249,17 @@
      "titolo": "Il Papa a Cl, smascheriamo i rapporti di potere ingiusti",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/il-papa-a-cl-smascheriamo-i-rapporti-di-potere-ingiusti_0059b4dd-bee2-4efd-b3a4-c63aefbfd1e3.html",
      "data": "2026-08-22T14:23:17+00:00"
-    },
-    {
-     "titolo": "Conte, spero che i fischi a Meloni le facciano prendere contatto con la realtà",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/conte-spero-che-i-fischi-a-meloni-le-facciano-prendere-contatto-con-la-realta_580687f3-ef73-4eb8-a3ad-4197d0864895.html",
-     "data": "2026-08-22T13:59:58+00:00"
-    },
-    {
-     "titolo": "Mattarella, Costituzione animata da costante dialogo per la pace",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/mattarella-costituzione-animata-da-costante-dialogo-per-la-pace_83f9e752-76e7-4ad2-9f00-6d5f44e6bc13.html",
-     "data": "2026-08-22T13:58:40+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Inps al Meeting di Rimini, 'Tre milioni di giovani utilizzano i servizi digitali'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/23/inps-al-meeting-di-rimini-tre-milioni-di-giovani-utilizzano-i-servizi-digitali_dce7fb3d-5211-4c59-b9a0-3451a91e1345.html",
+     "data": "2026-08-23T12:37:26+00:00"
+    },
     {
      "titolo": "Countdown per la stangata delle accise. Spunta una tassa Ue sui profitti dei petrolieri",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/countdown-per-la-stangata-delle-accise.-spunta-una-tassa-ue-sui-profitti_cdc06ad4-f758-41ef-83fe-8aa24b76fe3d.html",
@@ -264,57 +274,22 @@
      "titolo": "L'offerta di Mps sul tavolo del cda del Banco Bpm, cruciale il Credit Agricole",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/lofferta-di-mps-sul-tavolo-del-cda-del-banco-bpm-cruciale_d331439e-51c4-4edf-ad96-a10ee605baaf.html",
      "data": "2026-08-22T17:11:22+00:00"
-    },
-    {
-     "titolo": "Fava, per la pensione dei giovani 'salvadanaio' all'Inps con un chip dello Stato",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/fava-per-la-pensione-dei-giovani-salvadanaio-allinps-con-un-chip-dello_65c5215a-9df1-4af4-a30a-7441da484802.html",
-     "data": "2026-08-22T14:34:37+00:00"
-    },
-    {
-     "titolo": "Open Fiber al Meeting di Rimini, 'i nostri visori mostrano la casa del futuro'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/open-fiber-al-meeting-di-rimini-i-nostri-visori-mostrano-la-casa-del-futuro_84827616-f23f-4004-9c80-1c3057d97463.html",
-     "data": "2026-08-22T14:29:12+00:00"
-    },
-    {
-     "titolo": "Fava, 'nel futuro per il welfare puntare sul lavoro, senza non c'è previdenza'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/fava-nel-futuro-per-il-welfare-puntare-sul-lavoro-senza-non_6704bda7-5294-4cc5-8b4c-f5dd0845272a.html",
-     "data": "2026-08-22T11:42:04+00:00"
-    },
-    {
-     "titolo": "Sulla app pubblica o delle banche per l'euro digitale è confronto Bce-istituti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/sulla-app-pubblica-o-delle-banche-per-leuro-digitale-e-scontro-bce_52153907-fecf-4aff-a1b6-df1c838331c8.html",
-     "data": "2026-08-22T15:21:59+00:00"
-    },
-    {
-     "titolo": "Fava, 'nuovo modello Inps intercetta fabbisogno dei cittadini per il loro futuro'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/fava-nuovo-modello-inps-intercetta-fabbisogno-dei-cittadini-per-il-loro_87e6c737-4708-40dc-ae5c-f9895e1b40d0.html",
-     "data": "2026-08-22T10:40:18+00:00"
-    },
-    {
-     "titolo": "Calderone, 'soddisfatti dell'occupazione, adesso dare continuità'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/calderone-soddisfatti-delloccupazione-adesso-dare-continuita_5b2200da-ea30-4f96-a34d-0b69d792eb0d.html",
-     "data": "2026-08-22T09:30:31+00:00"
-    },
-    {
-     "titolo": "Calderone, 'vogliamo confermare gli incentivi del 2026 sul lavoro nella manovra'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/calderone-vogliamo-confermare-gli-incentivi-del-2026-sul-lavoro-nella_b431c1b3-affc-454d-bac3-828bfd8a0898.html",
-     "data": "2026-08-22T14:35:08+00:00"
-    },
-    {
-     "titolo": "Il costo dei conti correnti è salito del 23% in 10 anni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/e-caro-conto-corrente-la-spesa-e-salita-del-23-in-10-anni_3af4547a-b3f4-45eb-9109-63f870658de2.html",
-     "data": "2026-08-22T20:37:13+00:00"
-    },
-    {
-     "titolo": "Birraturismo per 13 milioni di italiani, domani arriva 'Luppoleti aperti'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/birraturismo-per-13-milioni-di-italiani-domani-arriva-luppoleti-aperti_8e696c1c-6531-4f21-b871-9183dc4b08e6.html",
-     "data": "2026-08-22T08:57:49+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Brasile, con El Nino i prezzi degli alimenti potrebbero aumentare del 20%",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/23/brasile-con-el-nino-i-prezzi-degli-alimenti-potrebbero-aumentare-del-20_eb4b1f83-0725-492d-849c-01a57da9e69e.html",
+     "data": "2026-08-23T12:42:25+00:00"
+    },
+    {
+     "titolo": "Colombia, accordo con le banche per mutui all'8% ai terremotati",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/23/colombia-accordo-con-le-banche-per-mutui-all8-ai-terremotati_3b2b3050-8ef6-4e8f-918d-b898f657f165.html",
+     "data": "2026-08-23T12:09:05+00:00"
+    },
     {
      "titolo": "Zelensky, 'con gli Usa piano pace con tregua, zona franca e ritiro truppe'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/23/zelensky-con-gli-usa-piano-pace-con-tregua-zona-franca_0cc64393-cbad-4835-b248-d5a48f2ba0ab.html",
@@ -364,16 +339,6 @@
      "titolo": "Carney, non possiamo accettare quello che gli Usa ci hanno offerto",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/carney-non-possiamo-accettare-quello-che-gli-usa-ci-hanno-offerto_0d6aea7d-de0e-4049-afc3-cee49402c7d1.html",
      "data": "2026-08-22T15:27:18+00:00"
-    },
-    {
-     "titolo": "Katz, 'Erdogan colto con le mani nel barattolo dei biscotti in Siria'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/katz-erdogan-colto-con-le-mani-nel-barattolo-dei-biscotti-in-siria_83b9b5fa-7544-4a1e-a7e4-6015da62eb66.html",
-     "data": "2026-08-22T15:48:44+00:00"
-    },
-    {
-     "titolo": "Katz, 'Erdogan colto con le mani nel barattolo dei biscotti in Siria'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/katz-erdogan-colto-con-le-mani-nel-barattolo-dei-biscotti-in-siria_305d0be7-2fef-4472-9903-96a23ffc9a22.html",
-     "data": "2026-08-22T15:48:46+00:00"
     }
    ]
   },
@@ -446,6 +411,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Kane eletto miglior giocatore di Germania 2026",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/kane-eletto-miglior-giocatore-di-germania-2026_b7a31eb0-b9bd-4af1-a52c-805a7b25695e.html",
+     "data": "2026-08-23T12:50:18+00:00"
+    },
+    {
      "titolo": "Atalanta: recupero lampo di Scalvini, convocato per Atalanta-Sassuolo",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/atalanta-recupero-lampo-di-scalvini-convocato-per-atalanta-sassuolo_7143e24b-8fb3-4cad-9ce6-0281a8340534.html",
      "data": "2026-08-23T11:59:27+00:00"
@@ -453,7 +423,7 @@
     {
      "titolo": "Milan: Nkunku verso il Lipsia in prestito",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/milan-nkunku-verso-il-lipsia-in-prestito_688dda50-9b21-49fb-ad7a-2a7d76116ee0.html",
-     "data": "2026-08-23T10:53:50+00:00"
+     "data": "2026-08-23T12:49:57+00:00"
     },
     {
      "titolo": "Giochi Mediterraneo: altro oro dalla canoa per l'Italia con Veglianti, è il 5/o",
@@ -473,12 +443,12 @@
     {
      "titolo": "Liga: falli, simulazioni e proteste, Vinicius è subito nel mirino",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/liga-falli-simulazioni-e-proteste-vinicius-e-subito-nel-mirino_f5ca294f-f541-4727-a261-ac99bfb323e4.html",
-     "data": "2026-08-23T08:59:41+00:00"
+     "data": "2026-08-23T12:51:43+00:00"
     },
     {
-     "titolo": "Tiafoe in finale a Cincinnati, affronterà Fils",
+     "titolo": "Tennis: Tiafoe in finale a Cincinnati, affronterà Fils",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/23/tiafoe-in-finale-a-cincinnati-affrontera-fils_822b2812-867e-4c0d-9bcf-9a612762ad9b.html",
-     "data": "2026-08-23T07:58:51+00:00"
+     "data": "2026-08-23T12:52:48+00:00"
     },
     {
      "titolo": "Si riparte dai campioni, l'Inter travolge il Monza. Il Napoli batte il Genoa 0-2, ma è polemica",
@@ -499,11 +469,6 @@
      "titolo": "Romano alla prima in A affonda il Parma, il Cagliari espugna il Tardini",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/romano-alla-prima-in-a-affonda-il-parma-il-cagliari-espugna-il-tardini_1f2f7f48-af0c-4b8e-b59f-dbfcb7a782c1.html",
      "data": "2026-08-22T21:17:06+00:00"
-    },
-    {
-     "titolo": "Esordio vincente per Allegri, ma che fatica col Genoa",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/esordio-vincente-per-allegri-ma-che-fatica-col-genoa_f45e48ce-0f2e-4781-9d71-03ec534f4e75.html",
-     "data": "2026-08-22T21:14:20+00:00"
     }
    ]
   }
