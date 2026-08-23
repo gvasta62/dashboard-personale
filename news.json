@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-23T13:49:56.014580+00:00",
+ "aggiornato": "2026-08-23T14:10:36.292063+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Strage di Brandizzo, l'ad di Ferrovie dello Stato tra i 12 indagati nella nuova inchiesta",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/strage-di-brandizzo-lad-di-ferrovie-dello-stato-tra-i-12-indagati-nella-nuova_69439f4b-172b-42cf-b6f2-884daeb2933f.html",
+     "data": "2026-08-23T13:59:14+00:00"
+    },
+    {
      "titolo": "Ritorno a scuola, fino a 1300 euro a studente tra corredo e libri",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/ritorno-a-scuola-fino-a-1300-euro-a-studente-tra-corredo-e-libri_eb45d5bf-f48f-49af-94d5-61a1daa361dc.html",
      "data": "2026-08-23T13:42:53+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Strappati i libri di vetta nei bivacchi delle Dolomiti bellunesi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/strappati-i-libri-di-vetta-nei-bivacchi-delle-dolomiti-bellunesi_cfc16fdf-5f3a-433a-89cb-59391b42a74c.html",
      "data": "2026-08-23T09:56:38+00:00"
-    },
-    {
-     "titolo": "La famiglia Terrin chiede accesso a fascicoli su violenze ad altre donne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/la-famiglia-terrin-chiede-accesso-a-fascicoli-su-violenze-ad-altre-donne_40caa6ee-a7e6-4370-8f40-61804dfa5396.html",
-     "data": "2026-08-23T13:29:29+00:00"
     }
    ]
   },
@@ -281,6 +281,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Giappone, cresce il turismo su misura per dormire bene",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/23/giappone-cresce-il-turismo-su-misura-per-dormire-bene_940c3c14-d003-4d7d-995c-197e28c78690.html",
+     "data": "2026-08-23T13:55:37+00:00"
+    },
+    {
+     "titolo": "Wafa, '14enne ucciso da colpi dell'Idf durante un raid a Nablus'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/23/wafa-14enne-ucciso-da-colpi-dellidf-durante-un-raid-a-nablus_0bd945ab-3f3d-414b-8f87-5e8b904ee5db.html",
+     "data": "2026-08-23T13:48:47+00:00"
+    },
+    {
+     "titolo": "Trump, 'il Canada vuole i vantaggi di uno Stato senza esserlo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/23/trump-il-canada-vuole-i-vantaggi-di-uno-stato-senza-esserlo_9f5d4ad8-af47-4d6a-a2b2-8442fd5603d7.html",
+     "data": "2026-08-23T13:48:52+00:00"
+    },
+    {
      "titolo": "Egitto prepara 'Settimana dell'acqua' per fronteggiare la crisi",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/23/egitto-prepara-settimana-dellacqua-per-fronteggiare-la-crisi_26936e90-a2dc-4b2a-ab58-726f872a7bd8.html",
      "data": "2026-08-23T13:10:11+00:00"
@@ -324,21 +339,6 @@
      "titolo": "Nelle basi egiziane esercitazione militare congiunta con l'aviazione cinese",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/23/nelle-basi-egiziane-esercitazione-militare-congiunta-con-laviazione-cinese_271d43c0-4ec5-4097-9a48-1ec0ef2fc280.html",
      "data": "2026-08-23T07:50:39+00:00"
-    },
-    {
-     "titolo": "Pezeshkian, 'i nemici volevano il collasso dell'Iran ma non ci arrenderemo mai'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/23/pezeshkian-i-nemici-volevano-il-collasso-delliran-ma-non-ci-arrenderemo-mai_7a4fb611-7b8e-4122-baee-c8c27aa9cef7.html",
-     "data": "2026-08-23T13:40:17+00:00"
-    },
-    {
-     "titolo": "Iran, 'i Paesi che aderiscano alle sanzioni Usa saranno ritenuti nemici'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/22/iran-i-paesi-che-aderiscano-alle-sanzioni-usa-saranno-ritenuti-nemici_758d918e-cec3-44ea-8489-6c3b011b1359.html",
-     "data": "2026-08-23T13:40:45+00:00"
-    },
-    {
-     "titolo": "Putin promette rappresaglia per gli attacchi ucraini ai magazzini e-commerce",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/putin-promette-rappresaglia-per-gli-attacchi-ucraini-ai-magazzini-e-commerce_67f7a72a-5b8a-41c8-bb0e-8f8adcf78736.html",
-     "data": "2026-08-22T15:45:06+00:00"
     }
    ]
   },
