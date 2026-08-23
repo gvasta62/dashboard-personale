@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-23T14:10:36.292063+00:00",
+ "aggiornato": "2026-08-23T14:44:57.148408+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Wafa, un bambino di 4 anni ucciso in un raid israeliano a Gaza",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/wafa-un-bambino-di-4-anni-ucciso-in-un-raid-israeliano-a-gaza_fda5ffab-63ce-463e-a3c1-417505796219.html",
+     "data": "2026-08-23T14:19:33+00:00"
+    },
     {
      "titolo": "Wafa, '14enne ucciso da colpi dell'Idf durante un raid a Nablus'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/wafa-14enne-ucciso-da-colpi-dellidf-durante-un-raid-a-nablus_61816b2f-8c88-4567-9c09-9b807c9a0421.html",
@@ -49,17 +54,17 @@
      "titolo": "Ex ministro Fedorov, 'Zelensky ha domande a cui rispondere su corruzione governo'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/ex-ministro-fedorov-zelensky-ha-domande-a-cui-rispondere-su-corruzione-governo_82fa2cf9-aa16-4546-ac27-676d4e8ea449.html",
      "data": "2026-08-23T09:00:53+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'elezioni adesso? Uno tsunami, spaccherebbero il Paese'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/zelensky-elezioni-adesso-uno-tsunami-spaccherebbero-il-paese_7338c474-e7ef-44b4-af31-75b80267fe3d.html",
-     "data": "2026-08-23T08:53:04+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Castelli, 'facciamo nostro l'invito del Papa'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/23/castelli-facciamo-nostro-linvito-del-papa_8b770ef6-14ce-40b5-883b-6f6d3dd372a4.html",
+     "data": "2026-08-23T14:33:03+00:00"
+    },
     {
      "titolo": "Giovane assistito dalla polizia locale torna dalla famiglia in India",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/23/giovane-assistito-dalla-polizia-locale-torna-dalla-famiglia-in-india_5e78f237-ebd2-41d6-96f8-8a912e062c79.html",
@@ -78,7 +83,7 @@
     {
      "titolo": "Il Papa a dieci anni dal terremoto, 'sostenere la ricostruzione'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/23/il-papa-a-dieci-anni-dal-terremoto-sostenere-la-ricostruzione_a8a72071-6c0a-426c-9567-bbac59939c70.html",
-     "data": "2026-08-23T10:28:57+00:00"
+     "data": "2026-08-23T14:33:35+00:00"
     },
     {
      "titolo": "Al Santa Maria interventi nei tempi previsti in cinque aree oncologiche",
@@ -114,17 +119,27 @@
      "titolo": "Mencaroni, la cultura risorsa economica quando riesce a generare impresa",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/mencaroni-la-cultura-risorsa-economica-quando-riesce-a-generare-impresa_6e846dea-f0cc-4aea-88cf-aef2ba96e21c.html",
      "data": "2026-08-22T13:26:08+00:00"
-    },
-    {
-     "titolo": "Umbria, nei comuni della cultura redditi più alti dell'8,9%",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/umbria-nei-comuni-della-cultura-redditi-piu-alti-dell89_203b367b-7611-42a8-86ff-6263b100519a.html",
-     "data": "2026-08-22T15:31:59+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Auto contro platano, gravissime due sorelline",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/auto-contro-platano-gravissime-due-sorelline_9ebc49a5-be8e-4d19-8aba-8e8a9693e760.html",
+     "data": "2026-08-23T14:26:44+00:00"
+    },
+    {
+     "titolo": "Esuli giuliano-dalmati, noi testimoni di tutti i totalitarismi del '900",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/esuli-giuliano-dalmati-noi-testimoni-di-tutti-i-totalitarismi-del-900_66d0c64c-fc10-413b-95b0-d3c6c36b8793.html",
+     "data": "2026-08-23T14:19:48+00:00"
+    },
+    {
+     "titolo": "A Bolzano un ramo si stacca da un albero e travolge tre persone",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/a-bolzano-un-ramo-si-stacca-da-un-albero-e-travolge-tre-persone_3705d606-c7dc-409b-889e-20167b257f42.html",
+     "data": "2026-08-23T14:12:30+00:00"
+    },
     {
      "titolo": "Strage di Brandizzo, l'ad di Ferrovie dello Stato tra i 12 indagati nella nuova inchiesta",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/strage-di-brandizzo-lad-di-ferrovie-dello-stato-tra-i-12-indagati-nella-nuova_69439f4b-172b-42cf-b6f2-884daeb2933f.html",
@@ -169,21 +184,6 @@
      "titolo": "Zuppi, 'quanto avviene in Cisgiordania è inaccettabile'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/zuppi-quanto-avviene-in-cisgiordania-e-inaccettabile_1af1376d-cc3d-48b4-9f83-54666dfbd1a7.html",
      "data": "2026-08-23T11:13:52+00:00"
-    },
-    {
-     "titolo": "Migranti: Piantedosi, 'Sea Watch 5 ha violato norme, stop di 45 giorni'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/migranti-piantedosi-sea-watch-5-ha-violato-norme-stop-di-45-giorni_d0f02b14-4ab6-42df-bb95-4e86ff0168a0.html",
-     "data": "2026-08-23T11:08:04+00:00"
-    },
-    {
-     "titolo": "Droga e pistola in casa, arrestato a Milano il rapper Tony Boy",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/droga-e-pistola-in-casa-arrestato-a-milano-il-rapper-tony-boy_287abc51-dbb3-4c61-a217-3ed10182c293.html",
-     "data": "2026-08-23T10:15:48+00:00"
-    },
-    {
-     "titolo": "Strappati i libri di vetta nei bivacchi delle Dolomiti bellunesi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/strappati-i-libri-di-vetta-nei-bivacchi-delle-dolomiti-bellunesi_cfc16fdf-5f3a-433a-89cb-59391b42a74c.html",
-     "data": "2026-08-23T09:56:38+00:00"
     }
    ]
   },
@@ -198,7 +198,7 @@
     {
      "titolo": "Zuppi: 'Quanto avviene in Cisgiordania è inaccettabile'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/zuppi-quanto-avviene-in-cisgiordania-e-inaccettabile_06887482-004e-4456-a48b-c23f3f7c7b46.html",
-     "data": "2026-08-23T12:39:49+00:00"
+     "data": "2026-08-23T14:15:07+00:00"
     },
     {
      "titolo": "Schlein: 'Il governo tassi subito gli extraprofitti delle società energetiche'",
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Al Meeting di Rimini Inps punta sui giovani, Fava '3 milioni di under 34 sul portale'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/23/al-meeting-di-rimini-inps-punta-sui-giovani-fava-3-milioni-di-under-34-sul_731fca62-4d65-463c-9ba0-4bbe0d602b53.html",
+     "data": "2026-08-23T14:35:37+00:00"
+    },
+    {
      "titolo": "Inps al Meeting di Rimini, 'Tre milioni di giovani utilizzano i servizi digitali'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/23/inps-al-meeting-di-rimini-tre-milioni-di-giovani-utilizzano-i-servizi-digitali_dce7fb3d-5211-4c59-b9a0-3451a91e1345.html",
      "data": "2026-08-23T12:37:26+00:00"
@@ -280,6 +285,11 @@
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Wafa, un bambino di 4 anni ucciso in un raid israeliano a Gaza",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/23/wafa-un-bambino-di-4-anni-ucciso-in-un-raid-israeliano-a-gaza_139b2811-7131-4ffb-8042-9a966d04c245.html",
+     "data": "2026-08-23T14:19:33+00:00"
+    },
     {
      "titolo": "Giappone, cresce il turismo su misura per dormire bene",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/23/giappone-cresce-il-turismo-su-misura-per-dormire-bene_940c3c14-d003-4d7d-995c-197e28c78690.html",
@@ -334,11 +344,6 @@
      "titolo": "Zelensky, 'elezioni adesso? Uno tsunami, spaccherebbero il Paese'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/23/zelensky-elezioni-adesso-uno-tsunami-spaccherebbero-il-paese_ee150e26-ed47-44a7-a1c5-cb7a94b87b8a.html",
      "data": "2026-08-23T08:53:04+00:00"
-    },
-    {
-     "titolo": "Nelle basi egiziane esercitazione militare congiunta con l'aviazione cinese",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/23/nelle-basi-egiziane-esercitazione-militare-congiunta-con-laviazione-cinese_271d43c0-4ec5-4097-9a48-1ec0ef2fc280.html",
-     "data": "2026-08-23T07:50:39+00:00"
     }
    ]
   },
@@ -411,6 +416,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Atletica: Diamond League, Fabbri vince nel peso a Chorzow",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/23/atletica-diamond-league-fabbri-vince-nel-peso-a-chorzow_415d4b5a-45d6-401f-85aa-d67c568a64e6.html",
+     "data": "2026-08-23T14:42:08+00:00"
+    },
+    {
+     "titolo": "Addio a Mattarelli, il decano dei campioni olimpici",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/23/addio-a-mattarelli-il-decano-dei-campioni-olimpici_6d701b35-08fe-4408-8264-a3a080ad07f8.html",
+     "data": "2026-08-23T14:39:54+00:00"
+    },
+    {
+     "titolo": "Fiorentina: Grosso, 'siamo pronti per questa difficile sfida, anche Kean'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/calcio-fiorentina-grosso-siamo-pronti-per-questa-difficile-sfida-anche_42f309ed-f415-415a-a72e-5434bf37ae1d.html",
+     "data": "2026-08-23T14:41:20+00:00"
+    },
+    {
+     "titolo": "Bologna: Tedesco, 'finalmente si comincia, Lazio squadra forte'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/calcio-tedesco-bologna-finalmente-si-comincia-lazio-squadra-forte_a0024ddb-2a0c-42af-a3fc-59d0e9400f8d.html",
+     "data": "2026-08-23T14:42:14+00:00"
+    },
+    {
      "titolo": "F1: incidente a Verstappen, bandiera rossa nel GP d'Olanda",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/23/f1-incidente-a-verstappen-bandiera-rossa-nel-gp-dolanda-2_e6fd208e-2350-4371-95db-7c54ecb2eb75.html",
      "data": "2026-08-23T13:20:55+00:00"
@@ -449,26 +474,6 @@
      "titolo": "Liga: falli, simulazioni e proteste, Vinicius è subito nel mirino",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/liga-falli-simulazioni-e-proteste-vinicius-e-subito-nel-mirino_f5ca294f-f541-4727-a261-ac99bfb323e4.html",
      "data": "2026-08-23T12:51:43+00:00"
-    },
-    {
-     "titolo": "Tennis: Tiafoe in finale a Cincinnati, affronterà Fils",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/23/tiafoe-in-finale-a-cincinnati-affrontera-fils_822b2812-867e-4c0d-9bcf-9a612762ad9b.html",
-     "data": "2026-08-23T12:52:48+00:00"
-    },
-    {
-     "titolo": "Si riparte dai campioni, l'Inter travolge il Monza. Il Napoli batte il Genoa 0-2, ma è polemica",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/si-riparte-dai-campioni-linter-travolge-il-monza.-il-napoli-batte-il-genoa-0-2-ma-e-polemica_b4e7a2e2-e530-443c-8eb8-2c6b59954b6c.html",
-     "data": "2026-08-22T22:32:06+00:00"
-    },
-    {
-     "titolo": "Mourinho vince al ritorno sulla panchina del Real, battuto 1-2 l'Espanyol",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/mourinho-vince-al-ritorno-sulla-panchina-del-real-battuto-1-2-lespanyol_a17ec4ce-7289-4e1c-a48f-1bc2362901a0.html",
-     "data": "2026-08-22T21:35:19+00:00"
-    },
-    {
-     "titolo": "Al Bayern Monaco la Supercoppa tedesca, Borussia sconfitto 2-1",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/al-bayern-monaco-la-supercoppa-tedesca-borussia-sconfitto-2-1_0a33f4f5-5876-4c39-befb-7f446e22db56.html",
-     "data": "2026-08-22T21:35:38+00:00"
     }
    ]
   }
