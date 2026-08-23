@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-23T23:08:42.484835+00:00",
+ "aggiornato": "2026-08-23T23:40:59.776485+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il premier britannico Burnham sarà oggi in visita a Kiev",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/il-premier-britannico-burnham-sara-oggi-in-visita-a-kiev_5484cde4-97f7-44a3-9832-20a7c3e36be4.html",
+     "data": "2026-08-23T23:32:40+00:00"
+    },
+    {
+     "titolo": "Bessent: 'Arriva il D-day economico per l'Iran, chi sta con Teheran è paria'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/bessent-arriva-il-d-day-economico-per-liran-chi-sta-con-teheran_84e75d69-7a1a-4ed2-946e-5479ea889285.html",
+     "data": "2026-08-23T23:21:09+00:00"
+    },
     {
      "titolo": "Occhiuto (FI), il mio governo non ha nulla da spartire con chi sceglie Vannacci",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/occhiuto-fi-il-mio-governo-non-ha-nulla-da-spartire-con-chi-sceglie-vannacci_5332db08-3855-4173-aa28-d786d97cf323.html",
@@ -44,16 +54,6 @@
      "titolo": "Wp, 'medici preoccupati dal peso di Trump, sulla soglia dell'obesità'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/wp-medici-preoccupati-dal-peso-di-trump-sulla-soglia-dellobesita_6251cbd8-2e71-4340-86c6-5eb824c41035.html",
      "data": "2026-08-23T16:13:03+00:00"
-    },
-    {
-     "titolo": "Schlein, 'il governo tassi subito gli extraprofitti delle società energetiche'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/schlein-il-governo-tassi-subito-gli-extraprofitti-delle-societa-energetiche_29881b94-6038-4343-90eb-266075f08b3d.html",
-     "data": "2026-08-23T16:13:06+00:00"
-    },
-    {
-     "titolo": "Il Jack Daniel's in crisi, è lite fra gli eredi del whisky",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/il-jack-daniels-in-crisi-e-lite-fra-gli-eredi-del-whisky_8775dce1-1d21-4acb-921b-0b5f20dba857.html",
-     "data": "2026-08-23T16:11:05+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Bessent: 'Arriva il D-day economico per l'Iran, chi sta con Teheran è paria'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/bessent-arriva-il-d-day-economico-per-liran-chi-sta-con-teheran_31252e3a-7998-42cb-80a9-002034bb377e.html",
+     "data": "2026-08-23T23:21:13+00:00"
+    },
+    {
      "titolo": "Al Meeting di Rimini Inps punta sui giovani, Fava '3 milioni di under 34 sul portale'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/23/al-meeting-di-rimini-inps-punta-sui-giovani-fava-3-milioni-di-under-34-sul_731fca62-4d65-463c-9ba0-4bbe0d602b53.html",
      "data": "2026-08-23T14:35:37+00:00"
@@ -264,27 +269,27 @@
      "titolo": "Inps al Meeting di Rimini, 'Tre milioni di giovani utilizzano i servizi digitali'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/23/inps-al-meeting-di-rimini-tre-milioni-di-giovani-utilizzano-i-servizi-digitali_dce7fb3d-5211-4c59-b9a0-3451a91e1345.html",
      "data": "2026-08-23T12:37:26+00:00"
-    },
-    {
-     "titolo": "Countdown per la stangata delle accise. Spunta una tassa Ue sui profitti dei petrolieri",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/countdown-per-la-stangata-delle-accise.-spunta-una-tassa-ue-sui-profitti_cdc06ad4-f758-41ef-83fe-8aa24b76fe3d.html",
-     "data": "2026-08-22T19:28:41+00:00"
-    },
-    {
-     "titolo": "Sei paesi Ue chiedono tassa su extraprofitti compagnie petrolifere, anche l'Italia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/sei-paesi-ue-chiedono-tassa-su-extraprofitti-compagnie-petrolifere-anche-litalia_a10d0422-ce65-485d-b139-da5300b4b04e.html",
-     "data": "2026-08-22T18:01:53+00:00"
-    },
-    {
-     "titolo": "L'offerta di Mps sul tavolo del cda del Banco Bpm, cruciale il Credit Agricole",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/lofferta-di-mps-sul-tavolo-del-cda-del-banco-bpm-cruciale_d331439e-51c4-4edf-ad96-a10ee605baaf.html",
-     "data": "2026-08-22T17:11:22+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Il premier britannico Burnham sarà oggi in visita a Kiev",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/24/il-premier-britannico-burnham-sara-oggi-in-visita-a-kiev_69fe8e52-4173-47fe-ae4b-e184c1963223.html",
+     "data": "2026-08-23T23:32:59+00:00"
+    },
+    {
+     "titolo": "Bessent: 'Arriva il D-day economico per l'Iran, chi sta con Teheran è paria'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/24/bessent-arriva-il-d-day-economico-per-liran-chi-sta-con-teheran_8e6fa6ec-5941-4224-9b79-1022b94d923c.html",
+     "data": "2026-08-23T23:21:26+00:00"
+    },
+    {
+     "titolo": "Bessent: 'Arriva il D-day economico per l'Iran, chi sta con Teheran è paria'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/24/bessent-arriva-il-d-day-economico-per-liran-chi-sta-con-teheran_df1a66cc-172c-400f-9b2f-cb3efa64ac8b.html",
+     "data": "2026-08-23T23:21:28+00:00"
+    },
     {
      "titolo": "Spegne gli incendi vestito da Superman, 17enne indonesiano star del web",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/23/spegne-gli-incendi-vestito-da-superman-17enne-indonesiano-star-del-web_adef8dd9-83ea-45f2-b41f-5f804fe14d08.html",
@@ -329,21 +334,6 @@
      "titolo": "Giappone, cresce il turismo su misura per dormire bene",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/23/giappone-cresce-il-turismo-su-misura-per-dormire-bene_940c3c14-d003-4d7d-995c-197e28c78690.html",
      "data": "2026-08-23T13:55:37+00:00"
-    },
-    {
-     "titolo": "Wafa, '14enne ucciso da colpi dell'Idf durante un raid a Nablus'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/23/wafa-14enne-ucciso-da-colpi-dellidf-durante-un-raid-a-nablus_0bd945ab-3f3d-414b-8f87-5e8b904ee5db.html",
-     "data": "2026-08-23T13:48:47+00:00"
-    },
-    {
-     "titolo": "Trump, 'il Canada vuole i vantaggi di uno Stato senza esserlo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/23/trump-il-canada-vuole-i-vantaggi-di-uno-stato-senza-esserlo_9f5d4ad8-af47-4d6a-a2b2-8442fd5603d7.html",
-     "data": "2026-08-23T13:48:52+00:00"
-    },
-    {
-     "titolo": "Egitto prepara 'Settimana dell'acqua' per fronteggiare la crisi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/23/egitto-prepara-settimana-dellacqua-per-fronteggiare-la-crisi_26936e90-a2dc-4b2a-ab58-726f872a7bd8.html",
-     "data": "2026-08-23T13:10:11+00:00"
     }
    ]
   },
