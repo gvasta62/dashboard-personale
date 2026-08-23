@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-23T13:07:08.200697+00:00",
+ "aggiornato": "2026-08-23T13:49:56.014580+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Wafa, '14enne ucciso da colpi dell'Idf durante un raid a Nablus'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/wafa-14enne-ucciso-da-colpi-dellidf-durante-un-raid-a-nablus_61816b2f-8c88-4567-9c09-9b807c9a0421.html",
+     "data": "2026-08-23T13:46:25+00:00"
+    },
+    {
+     "titolo": "Trump, 'il Canada vuole i vantaggi di uno Stato senza esserlo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/trump-il-canada-vuole-i-vantaggi-di-uno-stato-senza-esserlo_dd2c8e67-165c-4487-919a-0bbe32b0a974.html",
+     "data": "2026-08-23T13:45:06+00:00"
+    },
     {
      "titolo": "Difende la madre e il compagno lo accoltella, 15enne in ospedale",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/difende-la-madre-e-il-compagno-lo-accoltella-15enne-in-ospedale_fe6ea53b-731c-4971-a3be-8f8af56c49fb.html",
@@ -44,16 +54,6 @@
      "titolo": "Zelensky, 'elezioni adesso? Uno tsunami, spaccherebbero il Paese'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/zelensky-elezioni-adesso-uno-tsunami-spaccherebbero-il-paese_7338c474-e7ef-44b4-af31-75b80267fe3d.html",
      "data": "2026-08-23T08:53:04+00:00"
-    },
-    {
-     "titolo": "Trovato morto il bracciante scomparso a Foggia, ipotesi omicidio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/trovato-morto-il-bracciante-scomparso-a-foggia-ipotesi-omicidio_237f70cc-268a-44aa-b38e-385a7e436328.html",
-     "data": "2026-08-23T07:03:40+00:00"
-    },
-    {
-     "titolo": "Pezeshkian, 'i nemici volevano il collasso dell'Iran ma non ci arrenderemo mai'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/pezeshkian-i-nemici-volevano-il-collasso-delliran-ma-non-ci-arrenderemo-mai_fba7a136-c422-4f82-aa86-378b9e720a28.html",
-     "data": "2026-08-23T06:28:08+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Ritorno a scuola, fino a 1300 euro a studente tra corredo e libri",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/ritorno-a-scuola-fino-a-1300-euro-a-studente-tra-corredo-e-libri_eb45d5bf-f48f-49af-94d5-61a1daa361dc.html",
+     "data": "2026-08-23T13:42:53+00:00"
+    },
+    {
      "titolo": "La sfida dei fratelli ad Arquata: 'Abbiamo scelto di restare e investire'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/la-sfida-dei-fratelli-ad-arquata-abbiamo-scelto-di-restare-e-investire_2441ef1d-466f-482b-988d-e702401baf31.html",
      "data": "2026-08-23T12:57:49+00:00"
@@ -139,6 +144,11 @@
      "titolo": "Difende la madre e il compagno lo accoltella, 15enne in ospedale",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/difende-la-madre-e-il-compagno-lo-accoltella-15enne-in-ospedale_fda1a530-673a-4dc5-a386-e3644e1ba749.html",
      "data": "2026-08-23T11:28:33+00:00"
+    },
+    {
+     "titolo": "Trovato morto sull'Appennino Parmense l'uomo scomparso e cercato da ore",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/trovato-morto-sullappennino-parmense-luomo-scomparso-e-cercato-da-ore_530ce656-39a1-439a-92a0-5d7ee528ac73.html",
+     "data": "2026-08-23T13:32:43+00:00"
     },
     {
      "titolo": "Difende la madre e il compagno lo accoltella, 15enne in ospedale",
@@ -173,17 +183,7 @@
     {
      "titolo": "La famiglia Terrin chiede accesso a fascicoli su violenze ad altre donne",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/la-famiglia-terrin-chiede-accesso-a-fascicoli-su-violenze-ad-altre-donne_40caa6ee-a7e6-4370-8f40-61804dfa5396.html",
-     "data": "2026-08-23T09:49:24+00:00"
-    },
-    {
-     "titolo": "Picchiarono minorenne e ripresero con lo smartphone, denunciati 5 coetanei",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/picchiarono-minorenne-e-ripresero-con-lo-smartphone-denunciati-5-coetanei_c44884c0-1683-426c-8fe4-1bca526e2867.html",
-     "data": "2026-08-23T09:35:18+00:00"
-    },
-    {
-     "titolo": "Uomo trovato morto vicino stazione centrale di Lamezia Terme",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/uomo-trovato-morto-vicino-stazione-centrale-di-lamezia-terme_7c0a14b9-43e6-482d-a7cc-4f6a519bae2e.html",
-     "data": "2026-08-23T09:56:57+00:00"
+     "data": "2026-08-23T13:29:29+00:00"
     }
    ]
   },
@@ -281,9 +281,14 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Egitto prepara 'Settimana dell'acqua' per fronteggiare la crisi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/23/egitto-prepara-settimana-dellacqua-per-fronteggiare-la-crisi_26936e90-a2dc-4b2a-ab58-726f872a7bd8.html",
+     "data": "2026-08-23T13:10:11+00:00"
+    },
+    {
      "titolo": "Brasile, con El Nino i prezzi degli alimenti potrebbero aumentare del 20%",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/23/brasile-con-el-nino-i-prezzi-degli-alimenti-potrebbero-aumentare-del-20_eb4b1f83-0725-492d-849c-01a57da9e69e.html",
-     "data": "2026-08-23T12:42:25+00:00"
+     "data": "2026-08-23T13:37:43+00:00"
     },
     {
      "titolo": "Colombia, accordo con le banche per mutui all'8% ai terremotati",
@@ -308,7 +313,7 @@
     {
      "titolo": "Ex ministro Fedorov, 'Zelensky ha domande a cui rispondere su corruzione governo'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/23/ex-ministro-fedorov-zelensky-ha-domande-a-cui-rispondere-su-corruzione-governo_cc146e11-97a4-480a-b9d5-c7f1e5ce0c06.html",
-     "data": "2026-08-23T09:01:15+00:00"
+     "data": "2026-08-23T13:39:05+00:00"
     },
     {
      "titolo": "Zelensky, 'elezioni adesso? Uno tsunami, spaccherebbero il Paese'",
@@ -323,22 +328,17 @@
     {
      "titolo": "Pezeshkian, 'i nemici volevano il collasso dell'Iran ma non ci arrenderemo mai'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/23/pezeshkian-i-nemici-volevano-il-collasso-delliran-ma-non-ci-arrenderemo-mai_7a4fb611-7b8e-4122-baee-c8c27aa9cef7.html",
-     "data": "2026-08-23T06:28:12+00:00"
+     "data": "2026-08-23T13:40:17+00:00"
     },
     {
      "titolo": "Iran, 'i Paesi che aderiscano alle sanzioni Usa saranno ritenuti nemici'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/22/iran-i-paesi-che-aderiscano-alle-sanzioni-usa-saranno-ritenuti-nemici_758d918e-cec3-44ea-8489-6c3b011b1359.html",
-     "data": "2026-08-22T20:14:19+00:00"
+     "data": "2026-08-23T13:40:45+00:00"
     },
     {
      "titolo": "Putin promette rappresaglia per gli attacchi ucraini ai magazzini e-commerce",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/putin-promette-rappresaglia-per-gli-attacchi-ucraini-ai-magazzini-e-commerce_67f7a72a-5b8a-41c8-bb0e-8f8adcf78736.html",
      "data": "2026-08-22T15:45:06+00:00"
-    },
-    {
-     "titolo": "Carney, non possiamo accettare quello che gli Usa ci hanno offerto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/22/carney-non-possiamo-accettare-quello-che-gli-usa-ci-hanno-offerto_0d6aea7d-de0e-4049-afc3-cee49402c7d1.html",
-     "data": "2026-08-22T15:27:18+00:00"
     }
    ]
   },
@@ -411,6 +411,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "F1: incidente a Verstappen, bandiera rossa nel GP d'Olanda",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/23/f1-incidente-a-verstappen-bandiera-rossa-nel-gp-dolanda-2_e6fd208e-2350-4371-95db-7c54ecb2eb75.html",
+     "data": "2026-08-23T13:20:55+00:00"
+    },
+    {
      "titolo": "Kane eletto miglior giocatore di Germania 2026",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/kane-eletto-miglior-giocatore-di-germania-2026_b7a31eb0-b9bd-4af1-a52c-805a7b25695e.html",
      "data": "2026-08-23T12:50:18+00:00"
@@ -464,11 +469,6 @@
      "titolo": "Al Bayern Monaco la Supercoppa tedesca, Borussia sconfitto 2-1",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/al-bayern-monaco-la-supercoppa-tedesca-borussia-sconfitto-2-1_0a33f4f5-5876-4c39-befb-7f446e22db56.html",
      "data": "2026-08-22T21:35:38+00:00"
-    },
-    {
-     "titolo": "Romano alla prima in A affonda il Parma, il Cagliari espugna il Tardini",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/romano-alla-prima-in-a-affonda-il-parma-il-cagliari-espugna-il-tardini_1f2f7f48-af0c-4b8e-b59f-dbfcb7a782c1.html",
-     "data": "2026-08-22T21:17:06+00:00"
     }
    ]
   }
