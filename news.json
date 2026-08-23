@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-23T21:08:39.000803+00:00",
+ "aggiornato": "2026-08-23T21:41:03.835954+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -128,7 +128,7 @@
     {
      "titolo": "Crans-Montana, Jacques Moretti arrestato per violenze sulla moglie Jessica",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/crans-montana-jacques-moretti-arrestato-per-violenze-sulla-moglie-jessica_2731a2d3-3a22-45f5-85a2-e98985a23e90.html",
-     "data": "2026-08-23T20:00:46+00:00"
+     "data": "2026-08-23T21:30:24+00:00"
     },
     {
      "titolo": "Jessica e Jacques, amore e guai giudiziari della coppia di imprenditori",
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Piantedosi ferma la Sea Watch, multa e stop di 45 giorni",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/piantedosi-ferma-la-sea-watch-multa-e-stop-di-45-giorni_8571281d-be31-49fa-aafd-7f38479c2042.html",
+     "data": "2026-08-23T21:29:54+00:00"
+    },
+    {
      "titolo": "Occhiuto (FI), il mio governo non ha nulla da spartire con chi sceglie Vannacci",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/occhiuto-fi-il-mio-governo-non-ha-nulla-da-spartire-con-chi-sceglie-vannacci_07491658-95cf-465c-bd9f-39e49a4d2bdb.html",
      "data": "2026-08-23T18:51:17+00:00"
@@ -239,11 +244,6 @@
      "titolo": "Schlein: 'Il governo tassi subito gli extraprofitti delle società energetiche'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/schlein-il-governo-tassi-subito-gli-extraprofitti-delle-societa-energetiche-_02997150-01eb-4f01-a0d1-d3e09dddaaa2.html",
      "data": "2026-08-23T12:21:43+00:00"
-    },
-    {
-     "titolo": "La Sea Watch ferma per 45 giorni, è scontro con il governo",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/migranti-piantedosi-sea-watch-5-ha-violato-norme-stop-di-45-giorni_8571281d-be31-49fa-aafd-7f38479c2042.html",
-     "data": "2026-08-23T19:54:35+00:00"
     },
     {
      "titolo": "Meloni ad Amatrice, 'acceleriamo per la rinascita dell'Appennino centrale'",
@@ -416,6 +416,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Manita del Barcellona in Liga, l'Atletico fa 2-2 col Villareal",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/manita-del-barcellona-in-liga-latletico-fa-2-2-col-villareal_cb316106-cc4c-4a28-9e33-57c39a227ae1.html",
+     "data": "2026-08-23T21:36:40+00:00"
+    },
+    {
+     "titolo": "Serie A: Abate, 'primo tempo passivo, rammarico per non averla riaperta prima'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-abate-primo-tempo-passivo-rammarico-per-non-averla-riaperta_4480304d-d583-4b19-a549-b2fc39e43910.html",
+     "data": "2026-08-23T21:31:02+00:00"
+    },
+    {
+     "titolo": "Serie A: Amorim, 'bella vittoria, Cissè sembrava il nostro più esperto di tutti'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-amorim-bella-vittoria-cisse-sembrava-il-nostro-piu-esperto-di-tutti_91b05c16-d53b-44c0-ab41-eabde211ad1d.html",
+     "data": "2026-08-23T21:27:55+00:00"
+    },
+    {
+     "titolo": "Serie A: buona la prima per Juventus e Milan, un segnale all'Inter",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-buona-la-prima-per-juventus-e-milan-un-segnale-allinter_53de3a79-988b-4a5e-be27-32ed672697c4.html",
+     "data": "2026-08-23T21:18:30+00:00"
+    },
+    {
      "titolo": "Serie A: l'Atalanta di Sarri soffre, ma il Sassuolo le regala la vittoria",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-latalanta-di-sarri-soffre-ma-il-sassuolo-le-regala-la-vittoria_ee013189-73b0-4bbd-b836-cd560716a3af.html",
      "data": "2026-08-23T21:03:24+00:00"
@@ -454,26 +474,6 @@
      "titolo": "Serie A: i tifosi del Milan ricordano Baresi al minuto 6",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-i-tifosi-del-milan-ricordano-baresi-al-minuto-6_d068677d-1a97-4e7c-90b9-8dc50960bb50.html",
      "data": "2026-08-23T18:58:34+00:00"
-    },
-    {
-     "titolo": "Bremer-gol, la Juve parte con una vittoria a Frosinone",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/bremer-gol-la-juve-parte-con-una-vittoria-a-frosinone_82076c68-f325-4128-a040-7b8706ba168a.html",
-     "data": "2026-08-23T18:51:21+00:00"
-    },
-    {
-     "titolo": "Calcio: Lecce corsaro in laguna, ritorno in A amaro per il Venezia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/calcio-lecce-corsaro-in-laguna-ritorno-in-a-amaro-per-il-venezia_a1a442b0-1437-45c9-8153-eb215daf2d2b.html",
-     "data": "2026-08-23T18:47:26+00:00"
-    },
-    {
-     "titolo": "Serie A: un gol di Bremer basta alla Juventus, Frosinone ko",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-un-gol-di-bremer-basta-alla-juventus-frosinone-ko_461779a4-7441-431b-8b69-c1f064e3fa1e.html",
-     "data": "2026-08-23T18:33:58+00:00"
-    },
-    {
-     "titolo": "Serie A: Gorter e Tiago Gabriel, il Lecce espugna Venezia 2-0",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-gorter-e-tiago-gabriel-il-lecce-espugna-venezia-2-0_bc470f7c-a5a2-4a65-b23f-b166eaebefb8.html",
-     "data": "2026-08-23T18:29:20+00:00"
     }
    ]
   }
