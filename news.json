@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-23T15:42:27.585835+00:00",
+ "aggiornato": "2026-08-23T16:09:27.906853+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Futuro nazionale candida l'ex deputato Fi Giannetta a suppletive di Reggio Calabria",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/futuro-nazionale-candida-lex-deputato-fi-giannetta-a-suppletive-di-reggio-calabria_4053b31d-3c13-43a5-9c3b-c0436ef62ac9.html",
+     "data": "2026-08-23T16:06:22+00:00"
+    },
     {
      "titolo": "Zelensky, 'la Russia mobiliterà 300mila persone dopo le elezioni'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/zelensky-la-russia-mobilitera-300mila-persone-dopo-le-elezioni_df061463-56dc-45d9-9205-073e77d10a8b.html",
@@ -49,11 +54,6 @@
      "titolo": "Zelensky, 'con gli Usa piano pace con tregua, zona franca e ritiro truppe'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/zelensky-con-gli-usa-piano-pace-con-tregua-zona-franca_ed5bc15c-701f-40c7-8b64-226d0c34da36.html",
      "data": "2026-08-23T11:06:41+00:00"
-    },
-    {
-     "titolo": "Droga e pistola in casa, arrestato a Milano il rapper Tony Boy",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/droga-e-pistola-in-casa-arrestato-a-milano-il-rapper-tony-boy_aec56faf-e1aa-46a2-a55f-189434563092.html",
-     "data": "2026-08-23T10:14:17+00:00"
     }
    ]
   },
@@ -126,6 +126,26 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Incendio in un appartamento Aler a Vigevano, muore un uomo di 60 anni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/incendio-in-un-appartamento-aler-a-vigevano-muore-un-uomo-di-60-anni_a994e257-7681-483b-8709-f9da04518875.html",
+     "data": "2026-08-23T15:56:36+00:00"
+    },
+    {
+     "titolo": "Clochard picchiato e ucciso in piazza a Caserta, video shock sui social",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/clochard-picchiato-e-ucciso-in-piazza-a-caserta-video-shock-sui-social_5bba7e8f-2a24-45f9-998e-c528017a78fd.html",
+     "data": "2026-08-23T15:51:31+00:00"
+    },
+    {
+     "titolo": "Controesodo, oltre 21 milioni di transiti sulla rete Anas nel weekend",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/controesodo-oltre-21-milioni-di-transiti-sulla-rete-anas-nel-weekend_7b3063ac-d671-4057-8d43-757cbec60745.html",
+     "data": "2026-08-23T15:40:18+00:00"
+    },
+    {
+     "titolo": "Muore in Croazia durante una vacanza, l'autopsia ha stabilito che il decesso è avvenuto per annegamento",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/muore-in-croazia-durante-una-vacanza-lautopsia-ha-stabilito-che-il-decesso-e-avvenuto_7e469849-23e3-41f2-9102-19bed4a7c09a.html",
+     "data": "2026-08-23T15:39:25+00:00"
+    },
+    {
      "titolo": "Auto contro platano, gravissime due sorelline",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/auto-contro-platano-gravissime-due-sorelline_9ebc49a5-be8e-4d19-8aba-8e8a9693e760.html",
      "data": "2026-08-23T14:26:44+00:00"
@@ -164,32 +184,17 @@
      "titolo": "Difende la madre e il compagno lo accoltella, 15enne in ospedale",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/difende-la-madre-e-il-compagno-lo-accoltella-15enne-in-ospedale_fda1a530-673a-4dc5-a386-e3644e1ba749.html",
      "data": "2026-08-23T11:28:33+00:00"
-    },
-    {
-     "titolo": "Trovato morto sull'Appennino Parmense l'uomo scomparso e cercato da ore",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/trovato-morto-sullappennino-parmense-luomo-scomparso-e-cercato-da-ore_530ce656-39a1-439a-92a0-5d7ee528ac73.html",
-     "data": "2026-08-23T13:32:43+00:00"
-    },
-    {
-     "titolo": "Difende la madre e il compagno lo accoltella, 15enne in ospedale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/difende-la-madre-e-il-compagno-lo-accoltella-15enne-in-ospedale_6a57f12e-c90c-4cb4-8795-ecd55cbd9030.html",
-     "data": "2026-08-23T11:21:23+00:00"
-    },
-    {
-     "titolo": "Il sindaco Amatrice: 'La vera ricostruzione è iniziata da tre anni'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/il-sindaco-amatrice-la-vera-ricostruzione-e-iniziata-da-tre-anni_9f898d57-2355-4d6c-8f21-7a68f21f3a67.html",
-     "data": "2026-08-23T11:19:26+00:00"
-    },
-    {
-     "titolo": "Zuppi, 'quanto avviene in Cisgiordania è inaccettabile'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/zuppi-quanto-avviene-in-cisgiordania-e-inaccettabile_1af1376d-cc3d-48b4-9f83-54666dfbd1a7.html",
-     "data": "2026-08-23T11:13:52+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Futuro nazionale candida l'ex deputato Fi Giannetta a suppletive di Reggio Calabria",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/futuro-nazionale-candida-lex-deputato-fi-giannetta-a-suppletive-di-reggio-calabria_b6abd005-b3cd-4f14-9fcf-41d1800f4485.html",
+     "data": "2026-08-23T16:06:22+00:00"
+    },
     {
      "titolo": "Futuro nazionale candida l'ex deputato Fi Giannetta alle suppletive di Reggio Calabria",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/futuro-nazionale-candida-lex-deputato-fi-giannetta-alle-suppletive-di-reggio-calabria_dc4dabbb-aea3-447a-b6bb-6599526a60da.html",
@@ -244,11 +249,6 @@
      "titolo": "A San Marino, il pranzo con le agostiniane, la messa in spiaggia",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/a-san-marino-il-pranzo-con-le-agostiniane-la-messa-in-spiaggia_ad209005-0334-470e-b21b-db4262eaba7f.html",
      "data": "2026-08-22T17:39:53+00:00"
-    },
-    {
-     "titolo": "Anche l'Irlanda rispedisce i dublinanti, a ottobre il report Ue",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/anche-lirlanda-rispedisce-i-dublinanti-a-ottobre-il-report-ue_92f757b9-c1d8-45a1-8ccb-85024ab1cfab.html",
-     "data": "2026-08-23T09:06:38+00:00"
     }
    ]
   },
@@ -416,6 +416,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Vuelta: Brennan vince la seconda tappa, Pogacar resta leader",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/23/vuelta-brennan-vince-la-seconda-tappa-pogacar-resta-leader_f52575f2-8e96-462a-aa3c-d2da031348ea.html",
+     "data": "2026-08-23T15:46:24+00:00"
+    },
+    {
      "titolo": "Atletica: record mondiale di mezza maratona dell'etiope Kejelcha, scende sotto i 57'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/23/atletica-record-mondiale-di-mezza-maratona-delletiope-kejelcha-scende-sotto-i-57_a0d81df8-37e1-44f2-a524-5405ddb93386.html",
      "data": "2026-08-23T15:32:51+00:00"
@@ -456,9 +461,9 @@
      "data": "2026-08-23T14:39:54+00:00"
     },
     {
-     "titolo": "Fiorentina: Grosso, 'siamo pronti per questa difficile sfida, anche Kean'",
+     "titolo": "Fiorentina al debutto, Grosso, 'siamo tutti pronti, anche Moise Kean'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/calcio-fiorentina-grosso-siamo-pronti-per-questa-difficile-sfida-anche_42f309ed-f415-415a-a72e-5434bf37ae1d.html",
-     "data": "2026-08-23T15:22:52+00:00"
+     "data": "2026-08-23T15:59:35+00:00"
     },
     {
      "titolo": "Bologna: Tedesco, 'finalmente si comincia, senza Lucumi qualcosa ci manca'",
@@ -469,11 +474,6 @@
      "titolo": "F1: incidente a Verstappen, bandiera rossa nel GP d'Olanda",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/23/f1-incidente-a-verstappen-bandiera-rossa-nel-gp-dolanda-2_e6fd208e-2350-4371-95db-7c54ecb2eb75.html",
      "data": "2026-08-23T13:20:55+00:00"
-    },
-    {
-     "titolo": "Kane eletto miglior giocatore di Germania 2026",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/kane-eletto-miglior-giocatore-di-germania-2026_b7a31eb0-b9bd-4af1-a52c-805a7b25695e.html",
-     "data": "2026-08-23T12:50:18+00:00"
     }
    ]
   }
