@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-23T17:09:37.910964+00:00",
+ "aggiornato": "2026-08-23T17:40:32.612783+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Box office Usa, Spider Man e l'horror Insidious portano in vetta la Sony",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/box-office-usa-spider-man-e-lhorror-insidious-portano-in-vetta-la-sony_2cca2436-867c-44b0-ac1a-2a31228369b4.html",
+     "data": "2026-08-23T17:15:39+00:00"
+    },
     {
      "titolo": "Bonelli, sequestrare la Sea Watch è un crimine contro l'umanità",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/bonelli-sequestrare-la-sea-watch-e-un-crimine-contro-lumanita_8ab8def7-f3b3-4b6e-a5ac-796e740959b0.html",
@@ -49,11 +54,6 @@
      "titolo": "In 50.000 a manifestazione per il clima a Stoccolma, anche Greta Thunberg",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/in-50.000-a-manifestazione-per-il-clima-a-stoccolma-anche-greta-thunberg_53a0eb11-6b42-41d6-b78e-21463f7af88c.html",
      "data": "2026-08-23T14:44:30+00:00"
-    },
-    {
-     "titolo": "Wafa, un bambino di 4 anni ucciso in un raid israeliano a Gaza",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/wafa-un-bambino-di-4-anni-ucciso-in-un-raid-israeliano-a-gaza_fda5ffab-63ce-463e-a3c1-417505796219.html",
-     "data": "2026-08-23T14:19:33+00:00"
     }
    ]
   },
@@ -228,7 +228,7 @@
     {
      "titolo": "La Sea Watch ferma per 45 giorni, è scontro con il governo",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/migranti-piantedosi-sea-watch-5-ha-violato-norme-stop-di-45-giorni_8571281d-be31-49fa-aafd-7f38479c2042.html",
-     "data": "2026-08-23T17:07:10+00:00"
+     "data": "2026-08-23T17:30:51+00:00"
     },
     {
      "titolo": "Meloni domani pomeriggio ad Amatrice per i 10 anni dal sisma",
@@ -288,7 +288,7 @@
     {
      "titolo": "Spegne gli incendi vestito da Superman, 17enne indonesiano star del web",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/23/spegne-gli-incendi-vestito-da-superman-17enne-indonesiano-star-del-web_adef8dd9-83ea-45f2-b41f-5f804fe14d08.html",
-     "data": "2026-08-23T16:43:00+00:00"
+     "data": "2026-08-23T17:08:57+00:00"
     },
     {
      "titolo": "Naufragio al largo di Zarzis in Tunisia, 11 cadaveri recuperati, tre dispersi",
@@ -416,19 +416,44 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei: 3-0 alla Svezia e terza vittoria su tre per l'Italia",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/23/europei-3-0-alla-svezia-e-terza-vittoria-su-tre-per-litalia_a844ebe8-bde8-40d5-96da-66c24247e073.html",
+     "data": "2026-08-23T17:30:17+00:00"
+    },
+    {
+     "titolo": "Calcio: 'Duri i banchi', uno striscione accoglie il ritorno del Venezia in A",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/calcio-duri-i-banchi-uno-striscione-accoglie-il-ritorno-del-venezia-in-a_77549259-cf23-4381-ba30-1091ca18ab77.html",
+     "data": "2026-08-23T17:22:41+00:00"
+    },
+    {
+     "titolo": "Calcio: omaggio Verona a Bagnoli, ultimo saluto prima del debutto in B",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/calcio-omaggio-verona-a-bagnoli-ultimo-saluto-prima-del-debutto-in-b_6935e0c0-15e7-4e6f-8c83-000098bc255c.html",
+     "data": "2026-08-23T17:18:41+00:00"
+    },
+    {
+     "titolo": "L'Italia chiude i Mondiali juniores su pista con 8 ori e 16 medaglie",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/23/litalia-chiude-i-mondiali-juniores-su-pista-con-8-ori-e-16-medaglie_8e91a8d3-d68d-493e-944c-33558903df50.html",
+     "data": "2026-08-23T17:05:36+00:00"
+    },
+    {
      "titolo": "Serie A: Frosinone-Juventus 0-1 DIRETTA E FOTO",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-frosinone-juventus-0-1-diretta-e-foto_82076c68-f325-4128-a040-7b8706ba168a.html",
-     "data": "2026-08-23T16:56:30+00:00"
+     "data": "2026-08-23T17:08:13+00:00"
     },
     {
      "titolo": "Serie A: Venezia-Lecce 0-0 DIRETTA E FOTO",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-venezia-lecce-0-0-diretta-e-foto_ad80a23d-acc3-4caa-bc8b-b544654bc430.html",
-     "data": "2026-08-23T16:52:19+00:00"
+     "data": "2026-08-23T17:09:17+00:00"
+    },
+    {
+     "titolo": "Ciclismo: Brennan vince la seconda tappa della Vuelta, Pogacar resta leader",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/23/ciclismo-brennan-vince-la-seconda-tappa-della-vuelta-pogacar-resta-leader_7ff1c09c-eb94-475e-ba34-df66d47574c9.html",
+     "data": "2026-08-23T17:02:52+00:00"
     },
     {
      "titolo": "Tennis: Alcaraz a New York, già si allena a Flushing Meadows",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/23/tennis-alcaraz-a-new-york-gia-si-allena-a-flushing-meadows_68724483-4cbc-4739-99f2-b3766d136953.html",
-     "data": "2026-08-23T17:01:26+00:00"
+     "data": "2026-08-23T17:22:55+00:00"
     },
     {
      "titolo": "Il Lille batte l'Angers, esordio vincente per Davide Ancelotti",
@@ -449,31 +474,6 @@
      "titolo": "Atletica: record mondiale di mezza maratona dell'etiope Kejelcha, scende sotto i 57'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/23/atletica-record-mondiale-di-mezza-maratona-delletiope-kejelcha-scende-sotto-i-57_a0d81df8-37e1-44f2-a524-5405ddb93386.html",
      "data": "2026-08-23T15:32:51+00:00"
-    },
-    {
-     "titolo": "Fiorentina al completo contro la Roma, ci sono anche Kean e Dodo",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/fiorentina-al-completo-contro-la-roma-ci-sono-anche-kean-e-dodo_d7a4a736-5f40-4123-a7cd-4e2a9ec2d359.html",
-     "data": "2026-08-23T15:21:53+00:00"
-    },
-    {
-     "titolo": "Norris vince il GP d'Olanda davanti ad Antonelli e Russell",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/23/norris-vince-il-gp-dolanda-davanti-ad-antonelli-e-russell_5343869f-ba62-48da-85c0-e8e1ec30bc80.html",
-     "data": "2026-08-23T15:19:51+00:00"
-    },
-    {
-     "titolo": "F1: Norris trionfa in Olanda, Antonelli secondo allunga nel mondiale",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/23/f1-lando-norris-vince-in-olanda-davanti-ad-antonelli-e-russell_024893f3-014e-43a9-84cb-e69e3ff23d5a.html",
-     "data": "2026-08-23T17:00:21+00:00"
-    },
-    {
-     "titolo": "Atletica: Diamond League, Battocletti vince nei 5000 a Chorzow",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/23/atletica-diamond-league-battocletti-vince-nei-5000-a-chorzow_d0c78de0-0944-4f8d-bdad-7507f5256f75.html",
-     "data": "2026-08-23T15:34:40+00:00"
-    },
-    {
-     "titolo": "Il City rimonta il Bournemouth, Maresca sorride alla prima in Premier",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/il-city-rimonta-il-bournemouth-maresca-sorride-alla-prima-in-premier_086710b6-f510-40db-bcf3-cd04b70e2dbb.html",
-     "data": "2026-08-23T15:36:18+00:00"
     }
    ]
   }
