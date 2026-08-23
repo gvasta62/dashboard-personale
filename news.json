@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-23T16:47:21.698654+00:00",
+ "aggiornato": "2026-08-23T17:09:37.910964+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Zuppi: 'Sui migranti c'è una stupida e volgare polarizzazione'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/zuppi-sui-migranti-ce-una-stupida-e-volgare-polarizzazione_06887482-004e-4456-a48b-c23f3f7c7b46.html",
+     "data": "2026-08-23T17:06:18+00:00"
+    },
+    {
      "titolo": "Bonelli, sequestrare la Sea Watch è un crimine contro l'umanità",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/bonelli-sequestrare-la-sea-watch-e-un-crimine-contro-lumanita_afe3b0a1-aaff-4677-874a-d316c9d957e8.html",
      "data": "2026-08-23T16:30:49+00:00"
@@ -216,19 +221,14 @@
      "data": "2026-08-23T12:59:09+00:00"
     },
     {
-     "titolo": "Zuppi: 'Quanto avviene in Cisgiordania è inaccettabile'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/zuppi-quanto-avviene-in-cisgiordania-e-inaccettabile_06887482-004e-4456-a48b-c23f3f7c7b46.html",
-     "data": "2026-08-23T14:15:07+00:00"
-    },
-    {
      "titolo": "Schlein: 'Il governo tassi subito gli extraprofitti delle società energetiche'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/schlein-il-governo-tassi-subito-gli-extraprofitti-delle-societa-energetiche-_02997150-01eb-4f01-a0d1-d3e09dddaaa2.html",
      "data": "2026-08-23T12:21:43+00:00"
     },
     {
-     "titolo": "Piantedosi: '45giorni di fermo e 7.500 euro di multa per la Sea Watch 5'. L'ong: 'Non collaboriamo con i criminali, il governo può dire lo stesso?'",
+     "titolo": "La Sea Watch ferma per 45 giorni, è scontro con il governo",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/migranti-piantedosi-sea-watch-5-ha-violato-norme-stop-di-45-giorni_8571281d-be31-49fa-aafd-7f38479c2042.html",
-     "data": "2026-08-23T12:27:53+00:00"
+     "data": "2026-08-23T17:07:10+00:00"
     },
     {
      "titolo": "Meloni domani pomeriggio ad Amatrice per i 10 anni dal sisma",
@@ -288,7 +288,7 @@
     {
      "titolo": "Spegne gli incendi vestito da Superman, 17enne indonesiano star del web",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/23/spegne-gli-incendi-vestito-da-superman-17enne-indonesiano-star-del-web_adef8dd9-83ea-45f2-b41f-5f804fe14d08.html",
-     "data": "2026-08-23T16:41:35+00:00"
+     "data": "2026-08-23T16:43:00+00:00"
     },
     {
      "titolo": "Naufragio al largo di Zarzis in Tunisia, 11 cadaveri recuperati, tre dispersi",
@@ -416,19 +416,19 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Tennis: Alcaraz a New York, gia' si allena a Flushing Meadows",
+     "titolo": "Serie A: Frosinone-Juventus 0-1 DIRETTA E FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-frosinone-juventus-0-1-diretta-e-foto_82076c68-f325-4128-a040-7b8706ba168a.html",
+     "data": "2026-08-23T16:56:30+00:00"
+    },
+    {
+     "titolo": "Serie A: Venezia-Lecce 0-0 DIRETTA E FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-venezia-lecce-0-0-diretta-e-foto_ad80a23d-acc3-4caa-bc8b-b544654bc430.html",
+     "data": "2026-08-23T16:52:19+00:00"
+    },
+    {
+     "titolo": "Tennis: Alcaraz a New York, già si allena a Flushing Meadows",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/23/tennis-alcaraz-a-new-york-gia-si-allena-a-flushing-meadows_68724483-4cbc-4739-99f2-b3766d136953.html",
-     "data": "2026-08-23T16:42:26+00:00"
-    },
-    {
-     "titolo": "Serie A: Venezia-Lecce DIRETTA E FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-venezia-lecce-diretta-e-foto_ad80a23d-acc3-4caa-bc8b-b544654bc430.html",
-     "data": "2026-08-23T16:38:46+00:00"
-    },
-    {
-     "titolo": "Serie A: Frosinone-Juventus 0-0 DIRETTA E FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-frosinone-juventus-0-0-diretta-e-foto_82076c68-f325-4128-a040-7b8706ba168a.html",
-     "data": "2026-08-23T16:35:55+00:00"
+     "data": "2026-08-23T17:01:26+00:00"
     },
     {
      "titolo": "Il Lille batte l'Angers, esordio vincente per Davide Ancelotti",
@@ -461,9 +461,9 @@
      "data": "2026-08-23T15:19:51+00:00"
     },
     {
-     "titolo": "F1: Lando Norris vince in Olanda davanti ad Antonelli e Russell",
+     "titolo": "F1: Norris trionfa in Olanda, Antonelli secondo allunga nel mondiale",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/23/f1-lando-norris-vince-in-olanda-davanti-ad-antonelli-e-russell_024893f3-014e-43a9-84cb-e69e3ff23d5a.html",
-     "data": "2026-08-23T15:26:44+00:00"
+     "data": "2026-08-23T17:00:21+00:00"
     },
     {
      "titolo": "Atletica: Diamond League, Battocletti vince nei 5000 a Chorzow",
