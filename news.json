@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-23T14:44:57.148408+00:00",
+ "aggiornato": "2026-08-23T15:08:47.358753+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "In 50.000 a manifestazione per il clima a Stoccolma, anche Greta Thunberg",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/in-50.000-a-manifestazione-per-il-clima-a-stoccolma-anche-greta-thunberg_53a0eb11-6b42-41d6-b78e-21463f7af88c.html",
+     "data": "2026-08-23T14:44:30+00:00"
+    },
     {
      "titolo": "Wafa, un bambino di 4 anni ucciso in un raid israeliano a Gaza",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/wafa-un-bambino-di-4-anni-ucciso-in-un-raid-israeliano-a-gaza_fda5ffab-63ce-463e-a3c1-417505796219.html",
@@ -49,11 +54,6 @@
      "titolo": "Tutto pronto a Washington per il Grand Prix Indycar",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/tutto-pronto-a-washington-per-il-grand-prix-indycar_d5e8dc4b-b88a-4ef4-b1cd-729bad9ae1b5.html",
      "data": "2026-08-23T10:04:22+00:00"
-    },
-    {
-     "titolo": "Ex ministro Fedorov, 'Zelensky ha domande a cui rispondere su corruzione governo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/ex-ministro-fedorov-zelensky-ha-domande-a-cui-rispondere-su-corruzione-governo_82fa2cf9-aa16-4546-ac27-676d4e8ea449.html",
-     "data": "2026-08-23T09:00:53+00:00"
     }
    ]
   },
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Futuro nazionale candida l'ex deputato Fi Giannetta alle suppletive di Reggio Calabria",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/futuro-nazionale-candida-lex-deputato-fi-giannetta-alle-suppletive-di-reggio-calabria_dc4dabbb-aea3-447a-b6bb-6599526a60da.html",
+     "data": "2026-08-23T15:04:27+00:00"
+    },
+    {
      "titolo": "Caso Ranucci, settimana decisiva per la sostituzione alla guida di Report",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/caso-ranucci-settimana-decisiva-per-la-sostituzione-alla-guida-di-report_aca18c66-6ab5-4db2-92fc-bf019130f2e9.html",
      "data": "2026-08-23T12:59:09+00:00"
@@ -244,11 +249,6 @@
      "titolo": "Anche l'Irlanda rispedisce i dublinanti, a ottobre il report Ue",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/anche-lirlanda-rispedisce-i-dublinanti-a-ottobre-il-report-ue_92f757b9-c1d8-45a1-8ccb-85024ab1cfab.html",
      "data": "2026-08-23T09:06:38+00:00"
-    },
-    {
-     "titolo": "Il Papa a Cl, smascheriamo i rapporti di potere ingiusti",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/22/il-papa-a-cl-smascheriamo-i-rapporti-di-potere-ingiusti_0059b4dd-bee2-4efd-b3a4-c63aefbfd1e3.html",
-     "data": "2026-08-22T14:23:17+00:00"
     }
    ]
   },
@@ -285,6 +285,11 @@
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "In 50.000 a manifestazione per il clima a Stoccolma, anche Greta Thunberg",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/23/in-50.000-a-manifestazione-per-il-clima-a-stoccolma-anche-greta-thunberg_44dbfc31-cdea-4e11-95f4-394727ac0f46.html",
+     "data": "2026-08-23T14:44:51+00:00"
+    },
     {
      "titolo": "Wafa, un bambino di 4 anni ucciso in un raid israeliano a Gaza",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/23/wafa-un-bambino-di-4-anni-ucciso-in-un-raid-israeliano-a-gaza_139b2811-7131-4ffb-8042-9a966d04c245.html",
@@ -339,11 +344,6 @@
      "titolo": "Ex ministro Fedorov, 'Zelensky ha domande a cui rispondere su corruzione governo'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/23/ex-ministro-fedorov-zelensky-ha-domande-a-cui-rispondere-su-corruzione-governo_cc146e11-97a4-480a-b9d5-c7f1e5ce0c06.html",
      "data": "2026-08-23T13:39:05+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'elezioni adesso? Uno tsunami, spaccherebbero il Paese'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/23/zelensky-elezioni-adesso-uno-tsunami-spaccherebbero-il-paese_ee150e26-ed47-44a7-a1c5-cb7a94b87b8a.html",
-     "data": "2026-08-23T08:53:04+00:00"
     }
    ]
   },
