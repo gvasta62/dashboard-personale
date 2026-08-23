@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-23T10:51:20.114972+00:00",
+ "aggiornato": "2026-08-23T11:09:30.785438+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Zelensky, 'con gli Usa piano pace con tregua, zona franca e ritiro truppe'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/zelensky-con-gli-usa-piano-pace-con-tregua-zona-franca_ed5bc15c-701f-40c7-8b64-226d0c34da36.html",
+     "data": "2026-08-23T11:06:41+00:00"
+    },
     {
      "titolo": "Droga e pistola in casa, arrestato a Milano il rapper Tony Boy",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/droga-e-pistola-in-casa-arrestato-a-milano-il-rapper-tony-boy_aec56faf-e1aa-46a2-a55f-189434563092.html",
@@ -49,11 +54,6 @@
      "titolo": "L'offerta di Mps sul tavolo del cda del Banco Bpm, cruciale il Credit Agricole",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/lofferta-di-mps-sul-tavolo-del-cda-del-banco-bpm-cruciale_1607e49f-75fb-4f7e-95ae-627af1ee9c56.html",
      "data": "2026-08-22T17:09:40+00:00"
-    },
-    {
-     "titolo": "Putin promette rappresaglia per gli attacchi ucraini ai magazzini e-commerce",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/putin-promette-rappresaglia-per-gli-attacchi-ucraini-ai-magazzini-e-commerce_b258366f-7293-4989-aaaa-0c2f8220e1ed.html",
-     "data": "2026-08-22T15:45:06+00:00"
     }
    ]
   },
@@ -168,7 +168,7 @@
     {
      "titolo": "Trovato morto il bracciante scomparso a Foggia, l'ipotesi è omicidio",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/trovato-morto-il-bracciante-scomparso-a-foggia-ipotesi-omicidio_34d9c44f-c820-4ab2-bc44-b2f2fca864ff.html",
-     "data": "2026-08-23T10:28:05+00:00"
+     "data": "2026-08-23T10:58:22+00:00"
     },
     {
      "titolo": "Giochi Mediterraneo: Foti 'tre ori azzurri nel nuoto, una grande emozione'",
@@ -441,6 +441,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Milan: Nkunku verso il Lipsia in prestito",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/milan-nkunku-verso-il-lipsia-in-prestito_688dda50-9b21-49fb-ad7a-2a7d76116ee0.html",
+     "data": "2026-08-23T10:53:50+00:00"
+    },
+    {
      "titolo": "Giochi Mediterraneo: altro oro dalla canoa per l'Italia con Veglianti, è il 5/o",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/23/giochi-mediterraneo-altro-oro-dalla-canoa-per-litalia-con-veglianti_904bfc52-90bc-4596-b345-baba6aa0e6e1.html",
      "data": "2026-08-23T10:11:34+00:00"
@@ -494,11 +499,6 @@
      "titolo": "Serie A: il Napoli supera 0-2 il Genoa, il Cagliari vince a Parma 0-1",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-il-napoli-supera-0-2-il-genoa-il-cagliari-vince-a-parma-0-1_93fa86d2-06ba-4364-88ae-e178694cdf2e.html",
      "data": "2026-08-22T20:47:41+00:00"
-    },
-    {
-     "titolo": "F1: in Olanda Lando Norris in pole e Kimi Antonelli parte terzo",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/22/f1-in-olanda-lando-norris-in-pole-e-kimi-antonelli-parte-terzo_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
-     "data": "2026-08-22T20:11:46+00:00"
     }
    ]
   }
