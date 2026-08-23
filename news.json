@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-23T06:17:46.099441+00:00",
+ "aggiornato": "2026-08-23T07:07:32.255125+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trovato morto il bracciante scomparso a Foggia, ipotesi omicidio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/trovato-morto-il-bracciante-scomparso-a-foggia-ipotesi-omicidio_237f70cc-268a-44aa-b38e-385a7e436328.html",
+     "data": "2026-08-23T07:03:40+00:00"
+    },
+    {
+     "titolo": "Pezeshkian, 'i nemici volevano il collasso dell'Iran ma non ci arrenderemo mai'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/pezeshkian-i-nemici-volevano-il-collasso-delliran-ma-non-ci-arrenderemo-mai_fba7a136-c422-4f82-aa86-378b9e720a28.html",
+     "data": "2026-08-23T06:28:08+00:00"
+    },
     {
      "titolo": "Iran, 'i Paesi che aderiscano alle sanzioni Usa saranno ritenuti nemici'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/iran-i-paesi-che-aderiscano-alle-sanzioni-usa-saranno-ritenuti-nemici_e3fc2365-5243-4b3e-8ca2-dea0e5647705.html",
@@ -44,16 +54,6 @@
      "titolo": "Putin riconosce 'danni all'economia' dai raid Kiev 'ma per loro nessun vantaggio'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/putin-riconosce-danni-alleconomia-dai-raid-kiev-ma-per-loro-nessun_8d72b429-c9fc-4223-8aab-938a92e0bfa5.html",
      "data": "2026-08-22T15:12:48+00:00"
-    },
-    {
-     "titolo": "Un padre giapponese abbandona il figlio di 7 anni per ore per scalare il Monte Fuji",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/un-padre-giapponese-abbandona-il-figlio-di-7-anni-per-ore-per-scalare-il-monte_f80eedb9-3882-4959-80dd-ac2e087899e4.html",
-     "data": "2026-08-22T15:09:42+00:00"
-    },
-    {
-     "titolo": "Il Papa a Cl, smascheriamo i rapporti di potere ingiusti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/22/il-papa-a-cl-smascheriamo-i-rapporti-di-potere-ingiusti_6a411972-0311-415c-b05e-0591f64a1833.html",
-     "data": "2026-08-22T14:23:15+00:00"
     }
    ]
   },
@@ -63,7 +63,7 @@
     {
      "titolo": "Incidente sulla statale Valnerina in Umbria, morto un motociclista",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/incidente-sulla-statale-valnerina-in-umbria-morto-un-motociclista_92be80b9-d747-4297-89e1-13e620fc8dfe.html",
-     "data": "2026-08-22T20:12:45+00:00"
+     "data": "2026-08-23T06:46:27+00:00"
     },
     {
      "titolo": "Melasecche, follia deturpare il Trasimeno con pannelli galleggianti",
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Trovato morto il bracciante scomparso a Foggia, ipotesi omicidio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/trovato-morto-il-bracciante-scomparso-a-foggia-ipotesi-omicidio_bf4f2b04-6343-4b05-a700-2fcb0177bf14.html",
+     "data": "2026-08-23T07:03:56+00:00"
+    },
+    {
      "titolo": "Giochi Mediterraneo: Foti 'tre ori azzurri nel nuoto, una grande emozione'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/giochi-mediterraneo-foti-tre-ori-azzurri-nel-nuoto-una-grande_ac7f70d4-bea0-4a88-a0a8-3c9e0e667571.html",
      "data": "2026-08-22T18:44:01+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Ranucci: 'Falsità su mio fratello Daniele e sul suo ruolo nell'archivio dell'Antimafia'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/ranucci-falsita-su-mio-fratello-daniele-e-sul-suo-ruolo-nellarchivio-dellantimafia_6f5426b5-ffaf-4a20-a912-060e115b0f1c.html",
      "data": "2026-08-22T14:12:32+00:00"
-    },
-    {
-     "titolo": "Il Papa arriva al Meeting di Rimini, bagno di folla e cori da stadio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/il-papa-arriva-al-meeting-di-rimini-bagno-di-folla-e-cori-da-stadio_88c8ca76-5704-46e6-96fa-6133c561f350.html",
-     "data": "2026-08-22T14:16:12+00:00"
     }
    ]
   },
@@ -306,6 +306,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Pezeshkian, 'i nemici volevano il collasso dell'Iran ma non ci arrenderemo mai'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/23/pezeshkian-i-nemici-volevano-il-collasso-delliran-ma-non-ci-arrenderemo-mai_7a4fb611-7b8e-4122-baee-c8c27aa9cef7.html",
+     "data": "2026-08-23T06:28:12+00:00"
+    },
+    {
      "titolo": "Iran, 'i Paesi che aderiscano alle sanzioni Usa saranno ritenuti nemici'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/22/iran-i-paesi-che-aderiscano-alle-sanzioni-usa-saranno-ritenuti-nemici_758d918e-cec3-44ea-8489-6c3b011b1359.html",
      "data": "2026-08-22T20:14:19+00:00"
@@ -359,11 +364,6 @@
      "titolo": "Venezuela, nuova legge per accelerare la ricostruzione post-sisma",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/22/venezuela-nuova-legge-per-accelerare-la-ricostruzione-post-sisma_e5e555a1-d7c3-4251-958d-6d70b47fa227.html",
      "data": "2026-08-22T14:27:56+00:00"
-    },
-    {
-     "titolo": "Rammarico Belgrado per mancata scarcerazione di Mladic, malato terminale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/rammarico-belgrado-per-mancata-scarcerazione-di-mladic-malato-terminale_72e79320-f112-4805-b737-2b2324cf246e.html",
-     "data": "2026-08-22T14:11:10+00:00"
     }
    ]
   },
