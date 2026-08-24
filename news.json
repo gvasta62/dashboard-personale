@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-24T15:06:10.027806+00:00",
+ "aggiornato": "2026-08-24T16:00:41.817470+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: l'Europa chiude in ordine sparso, si guarda allo scontro Usa-Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/borsa-leuropa-chiude-in-ordine-sparso-si-guarda-allo-scontro-usa-iran_e62b6111-b998-4577-9f40-72c5976d3907.html",
+     "data": "2026-08-24T15:51:08+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude in calo dello 0,24%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/borsa-milano-chiude-in-calo-dello-024_d36fa1c1-ecc3-4ce8-8828-7887b58e2b6d.html",
+     "data": "2026-08-24T15:49:45+00:00"
+    },
+    {
+     "titolo": "Clochard pestato a morte, l'aggressione per un debito di 50 euro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/clochard-pestato-a-morte-laggressione-per-un-debito-di-50-euro_e18733dc-fa73-4c36-b484-c75d66605eb6.html",
+     "data": "2026-08-24T15:04:30+00:00"
+    },
     {
      "titolo": "Schlein,basta soluzioni-tampone, governo accolga nostra proposta di tassare extraprofitti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/schleinbasta-soluzioni-tampone-governo-accolga-nostra-proposta-di-tassare-extraprofitti_72462a6b-68c0-465c-925a-73b0904f1e8a.html",
@@ -39,27 +54,17 @@
      "titolo": "Meloni ai Volenterosi, al fianco dei partner per un percorso negoziale",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/meloni-ai-volenterosi-al-fianco-dei-partner-per-un-percorso-negoziale_60828263-6191-4e83-a43e-b6107a031e6e.html",
      "data": "2026-08-24T13:24:59+00:00"
-    },
-    {
-     "titolo": "Trump, l'Iran sta completamente collassando",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/trump-liran-sta-completamente-collassando_343fd077-f409-4584-ae8d-01eb51af933d.html",
-     "data": "2026-08-24T12:53:24+00:00"
-    },
-    {
-     "titolo": "Caso Ranucci, il 7 settembre udienza del Riesame per Lavitola",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/caso-ranucci-il-7-settembre-udienza-del-riesame-per-lavitola_916ab214-d31a-46bf-93f0-1054995b7d3d.html",
-     "data": "2026-08-24T12:04:52+00:00"
-    },
-    {
-     "titolo": "Card. Zuppi a 10 anni dal sisma, 'ora non promesse ma lavoro'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/card.-zuppi-a-10-anni-dal-sisma-ora-non-promesse-ma-lavoro_9960b0f8-f82a-46e7-afaa-22501562a2a9.html",
-     "data": "2026-08-24T11:05:47+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Allerta gialla martedì 25 in Umbria per rischio temporali",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/24/allerta-gialla-martedi-25-in-umbria-per-rischio-temporali_d6a3b82d-12a5-48f6-a802-dd5011c91694.html",
+     "data": "2026-08-24T15:48:02+00:00"
+    },
     {
      "titolo": "Tesei (Lega), sulla ricostruzione post sisma grande lavoro dell'Umbria",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/24/tesei-lega-sulla-ricostruzione-post-sisma-grande-lavoro-dellumbria_da040c9d-88c2-4b81-a54b-2c8faae96346.html",
@@ -114,11 +119,6 @@
      "titolo": "Mattarella, ricostruzione è impegno complesso, serve ultimarla velocemente",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/24/mattarella-ricostruzione-e-impegno-complesso-serve-ultimarla-velocemente_50068533-5e8d-4f9f-babb-bbf82a37475f.html",
      "data": "2026-08-24T08:28:54+00:00"
-    },
-    {
-     "titolo": "Morto l'attore e doppiatore Virginio Gazzolo, l'addio del Festival di Todi",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/23/morto-lattore-e-doppiatore-virginio-gazzolo-laddio-del-festival-di-todi_5f774b24-a150-477d-a9dd-e0a956f7d03c.html",
-     "data": "2026-08-23T20:33:39+00:00"
     }
    ]
   },
@@ -126,9 +126,19 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Bracciante ucciso, amico 'era una persona onesta, sarà sepolto in Pakistan'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/bracciante-ucciso-amico-era-una-persona-onesta-sara-sepolto-in-pakistan_65ddfcce-5e38-49d4-90ce-59e872cb23bb.html",
+     "data": "2026-08-24T15:42:47+00:00"
+    },
+    {
      "titolo": "Clochard pestato a morte, l'aggressione per un debito di 50 euro",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/clochard-pestato-a-morte-laggressione-per-un-debito-di-50-euro_bbc02730-3a9e-4f8d-9453-0e07c6930281.html",
      "data": "2026-08-24T15:04:22+00:00"
+    },
+    {
+     "titolo": "Aereo caduto in Perù, sabato i funerali delle sette vittime italiane",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/aereo-caduto-in-peru-sabato-i-funerali-delle-sette-vittime-italiane_30cebc3b-e825-4fba-b866-9aa70ec5b482.html",
+     "data": "2026-08-24T15:05:10+00:00"
     },
     {
      "titolo": "Cade da un ponteggio e i colleghi mentono su quanto accaduto, indagati otto operai",
@@ -174,16 +184,6 @@
      "titolo": "A Bolzano già 32 notti tropicali, superato il record del 2015",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/a-bolzano-gia-32-notti-tropicali-superato-il-record-del-2015_155db49e-d87a-4e18-aae4-11ffe4cf19ac.html",
      "data": "2026-08-24T13:08:41+00:00"
-    },
-    {
-     "titolo": "Condizionatori, oltre 9 edifici scolastici su 10 ne sono privi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/condizionatori-oltre-9-edifici-scolastici-su-10-ne-sono-privi_4ede4532-857a-44a3-824c-562573c51abb.html",
-     "data": "2026-08-24T13:06:56+00:00"
-    },
-    {
-     "titolo": "Giudice: 'Togliere i fiori dalla teca di Mussolini e Petacci non è reato'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/giudice-togliere-i-fiori-dalla-teca-di-mussolini-e-petacci-non-e-reato_d397c81d-9fe5-4620-a18b-61cc13cd21ec.html",
-     "data": "2026-08-24T13:03:35+00:00"
     }
    ]
   },
@@ -208,7 +208,7 @@
     {
      "titolo": "Dieci anni dal sisma nel Centro Italia,  Mattarella: 'La ricostruzione è un impegno complesso, serve ultimarla velocemente'. Meloni ad Amatrice",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/24/dieci-anni-dal-sisma-di-amatrice-mattarella-sia-monito-per-la-prevenzione_861ad054-17c8-4d17-baf8-cd7380410b08.html",
-     "data": "2026-08-24T14:44:05+00:00"
+     "data": "2026-08-24T15:48:34+00:00"
     },
     {
      "titolo": "Piantedosi ferma la Sea Watch, multa e stop di 45 giorni",
@@ -256,6 +256,21 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: l'Europa chiude in ordine sparso, si guarda allo scontro Usa-Iran",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/borsa-leuropa-chiude-in-ordine-sparso-si-guarda-allo-scontro-usa-iran_93924a74-0ff2-4492-8f9d-a04a22224ee4.html",
+     "data": "2026-08-24T15:51:05+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano chiude in calo dello 0,24%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/borsa-milano-chiude-in-calo-dello-024_b62edb5d-ffa3-4d33-987a-638e4e85f9f8.html",
+     "data": "2026-08-24T15:49:49+00:00"
+    },
+    {
+     "titolo": "Fincantieri, nessun ruolo Ntg in trattative per vendita fregate al Portogallo",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/fincantieri-nessun-ruolo-ntg-in-trattative-per-vendita-fregate-al-portogallo_192b9b83-82ff-4963-990e-2c844d94dd9e.html",
+     "data": "2026-08-24T15:24:30+00:00"
+    },
+    {
      "titolo": "Borsa: l'Europa debole dopo Wall Street, Milano -0,3%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/borsa-leuropa-debole-dopo-wall-street-milano-03_3032cfb3-729b-4461-b35d-8610e40bae8a.html",
      "data": "2026-08-24T13:56:56+00:00"
@@ -278,7 +293,7 @@
     {
      "titolo": "Nuovo record per il gasolio. Pichetto: 'Per ora nessun Cdm sulle accise'",
      "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/24/la-benzina-sullautostrada-della-cisa-sfiora-i-250-euro.-il-codacons-nuovo-record_4d3342ae-c0fb-4e46-afe1-adb774c6c3e5.html",
-     "data": "2026-08-24T13:47:40+00:00"
+     "data": "2026-08-24T15:39:58+00:00"
     },
     {
      "titolo": "Lieve accelerazione crescita Ocse secondo trimestre +0,5%, Italia +0,2%",
@@ -299,27 +314,17 @@
      "titolo": "Confartigianato, stop a 850mila finti artigiani",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/confartigianato-stop-a-850mila-finti-artigiani_2fbccfa9-fd2f-4c83-8189-2a231c8b168b.html",
      "data": "2026-08-24T11:05:46+00:00"
-    },
-    {
-     "titolo": "Facile.it, ad agosto spenderemo 1 miliardo in più di carburante rispetto al 2025",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/facile.it-ad-agosto-spenderemo-1-miliardo-in-piu-di-carburante-rispetto-al-2025_d3a51ebe-13a5-4f62-baa2-fb15d0c1e723.html",
-     "data": "2026-08-24T10:39:53+00:00"
-    },
-    {
-     "titolo": "La benzina sull'autostrada della Cisa sfiora i 2,50 euro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/la-benzina-sullautostrada-della-cisa-sfiora-i-250-euro_fd6ec86b-6b07-40f6-9779-46a647ab98a3.html",
-     "data": "2026-08-24T10:40:22+00:00"
-    },
-    {
-     "titolo": "Produzione industriale Ue è tornata a crescere nel 2025, prima volta dal 2022",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/produzione-industriale-ue-e-tornata-a-crescere-nel-2025-prima-volta-dal-2022_b1232976-f173-451f-b9ea-96508acc5eeb.html",
-     "data": "2026-08-24T11:04:08+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Misteriosi gruppi entrano ed escono dai tombini la notte, indagini a New York",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/24/misteriosi-gruppi-entrano-ed-escono-dai-tombini-la-notte-indagini-a-new-york_8423b158-2dee-4870-a5fb-f1c0941f494a.html",
+     "data": "2026-08-24T14:55:55+00:00"
+    },
     {
      "titolo": "Conventi e casa condivisa con anziani, i giovani contro il caro affitti a New York",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/24/conventi-e-casa-condivisa-con-anziani-i-giovani-contro-il-caro-affitti-a-new_535f8037-d684-4d0f-b622-1632e6ffdf7c.html",
@@ -374,11 +379,6 @@
      "titolo": "Trump, l'Iran sta completamente collassando",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/24/trump-liran-sta-completamente-collassando_52d7344c-9f21-45bf-9c2b-06276e1e2076.html",
      "data": "2026-08-24T12:53:32+00:00"
-    },
-    {
-     "titolo": "Operativo dal rientro a scuola il divieto di cellulari in classe nei licei francesi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/24/operativo-dal-rientro-a-scuola-il-divieto-di-cellulari-in-classe-nei-licei-francesi_73c21ccd-14fc-4662-a361-b7c877f3dea0.html",
-     "data": "2026-08-24T11:26:53+00:00"
     }
    ]
   },
@@ -451,14 +451,39 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: Grabara verso la Juve, sarà il vice Vicario",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/serie-a-grabara-verso-la-juve-sara-il-vice-vicario_fb782251-1105-4b0f-88bb-53b75e7d3384.html",
+     "data": "2026-08-24T15:44:25+00:00"
+    },
+    {
+     "titolo": "Vuelta: forte grandinata sulla corsa, cancellata la terza tappa",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/24/vuelta-forte-grandinata-sulla-corsa-cancellata-la-terza-tappa_74d9a13c-1766-4d1f-9c95-f1622e82997b.html",
+     "data": "2026-08-24T15:39:57+00:00"
+    },
+    {
+     "titolo": "La Serie B annuncia, Chery nuovo automotive partner ufficiale",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/la-serie-b-annuncia-chery-nuovo-automotive-partner-ufficiale_ea90be4f-d44e-465a-a277-ab970bfa5a9a.html",
+     "data": "2026-08-24T14:59:38+00:00"
+    },
+    {
+     "titolo": "Il ritorno di Alcaraz, allo Us Open in coppia con Serena: 'Mi siete mancati'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/24/il-ritorno-di-alcaraz-allo-us-open-in-coppia-con-serena-mi-siete-mancati_92266720-9c70-4336-ad10-6403a7b9c468.html",
+     "data": "2026-08-24T15:18:23+00:00"
+    },
+    {
      "titolo": "Juve: tegola Yildiz, problema a un piede, si teme lungo stop",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/juve-tegola-yildiz-problema-a-un-piede-si-teme-lungo-stop_afc84a3a-e93c-47ea-b2cd-bef911a1d9be.html",
-     "data": "2026-08-24T14:50:57+00:00"
+     "data": "2026-08-24T15:19:18+00:00"
     },
     {
      "titolo": "Un flop l'asta per il pallone della 'Mano de Dios', venduto a 'soli' 3,3 milioni di dollari",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/24/un-flop-lasta-per-il-pallone-della-mano-de-dios-venduto-a-soli-33-milioni_398d1f24-365d-4737-9480-ba6d282c2d44.html",
      "data": "2026-08-24T14:45:34+00:00"
+    },
+    {
+     "titolo": "Calcio: Cisse talento puro, sguardo sul futuro non solo per il Milan",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/24/calcio-cisse-talento-puro-sguardo-sul-futuro-non-solo-per_9a1d6efc-a3b2-42d0-b9ad-8ecf8a244ee2.html",
+     "data": "2026-08-24T15:21:57+00:00"
     },
     {
      "titolo": "Atletica: anche Tamberi all'Ultimate Championship, arriva l'invito speciale",
@@ -484,31 +509,6 @@
      "titolo": "Calcio: la Lazio recupera Isaksen e Romagnoli per il Bologna, out Sutalo",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/calcio-la-lazio-recupera-isaksen-e-romagnoli-per-il-bologna-out-sutalo_2d2a8b95-9ec7-496d-81eb-e3da251da6e6.html",
      "data": "2026-08-24T10:24:05+00:00"
-    },
-    {
-     "titolo": "Infantino: 'Bisogna ridurre il divario tra grandi potenze e resto del mondo'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/infantino-bisogna-ridurre-il-divario-tra-grandi-potenze-e-resto-del-mondo_034019a6-4349-4383-8151-7549e0a8515d.html",
-     "data": "2026-08-24T13:41:05+00:00"
-    },
-    {
-     "titolo": "Klay Thompson è un nuovo giocatore dei Miami Heat",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/24/klay-thompson-e-un-nuovo-giocatore-dei-miami-heat_b55811f6-b4ed-4363-9abb-3a125d864da4.html",
-     "data": "2026-08-24T09:14:51+00:00"
-    },
-    {
-     "titolo": "Simonelli, 'Serie A voleva Conte in nazionale, ma tifiamo per Mancini'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/simonelli-serie-a-voleva-conte-in-nazionale-ma-tifiamo-per-mancini_09f41cbe-cad8-4dba-a255-44891b569ad2.html",
-     "data": "2026-08-24T07:49:45+00:00"
-    },
-    {
-     "titolo": "Di Gregorio saluta la Juve, è partito per Bournemouth",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/di-gregorio-saluta-la-juve-e-partito-per-bournemouth_13ea32dd-230d-4f2b-980d-bfd5725eb73e.html",
-     "data": "2026-08-24T13:41:53+00:00"
-    },
-    {
-     "titolo": "Simonelli sulle polemiche arbitrali, 'fiducia in Orsato e Messina'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/simonelli-sulle-polemiche-arbitrali-fiducia-in-orsato-e-messina_f71b3508-7e1b-444f-8150-aac0e6fd9834.html",
-     "data": "2026-08-24T07:24:28+00:00"
     }
    ]
   }
