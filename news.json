@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-24T22:12:00.712376+00:00",
+ "aggiornato": "2026-08-24T22:48:49.766044+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "'Trump pronto a revocare 200mila visti a stranieri che hanno chiesto asilo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/trump-pronto-a-revocare-200mila-visti-a-stranieri-che-hanno-chiesto-asilo_131790ae-f773-4f2d-8405-040e423132f7.html",
+     "data": "2026-08-24T22:46:16+00:00"
+    },
     {
      "titolo": "F1:Olanda;scuse Hamilton per team radio'non mia miglior versione,orgoglioso Ferrari'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/f1olandascuse-hamilton-per-team-radionon-mia-miglior-versioneorgoglioso-ferrari_fd809dd3-f5b2-45fa-a116-85a0ce797bd9.html",
@@ -49,11 +54,6 @@
      "titolo": "Allerta aerea a Kiev, Costa e Stubb evacuati in un rifugio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/allerta-aerea-a-kiev-costa-e-stubb-evacuati-in-un-rifugio_24203e10-1ca6-470b-b496-4e816edc6845.html",
      "data": "2026-08-24T18:37:43+00:00"
-    },
-    {
-     "titolo": "Nuove sanzioni Usa all'Iran su oro, tech, aviazione e trasporto marittimo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/nuove-sanzioni-usa-alliran-su-oro-tech-aviazione-e-trasporto-marittimo_053ebddb-8b95-4375-9144-cdd4b5a1f272.html",
-     "data": "2026-08-24T17:52:05+00:00"
     }
    ]
   },
@@ -306,6 +306,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Messico, investimenti esteri diretti record a 34,968 miliardi nel primo semestre",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/messico-investimenti-esteri-diretti-record-a-34968-miliardi-nel-primo-semestre_3c4153b4-7d04-48b5-a3f7-21a568686fb7.html",
+     "data": "2026-08-24T22:41:33+00:00"
+    },
+    {
+     "titolo": "Brasile, la petrolchimica Braskem esce da Ibovespa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/brasile-la-petrolchimica-braskem-esce-da-ibovespa_5eae60a9-d4d7-4667-8794-13c547679e32.html",
+     "data": "2026-08-24T22:18:57+00:00"
+    },
+    {
      "titolo": "Corte Suprema autorizza Trump a limitare il voto per posta",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/24/corte-suprema-autorizza-trump-a-limitare-il-voto-per-posta_5b560a84-a25d-4741-8fbe-1fae79e1ac42.html",
      "data": "2026-08-24T21:12:05+00:00"
@@ -354,16 +364,6 @@
      "titolo": "Usa riapre i fondi al Sudafrica, cruciali per ricerca globale su Hiv e Tbc",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/24/usa-riapre-i-fondi-al-sudafrica-cruciali-per-ricerca-globale-su-hiv-e-tbc_ad95ad38-0292-4ea8-b8f4-df6280457432.html",
      "data": "2026-08-24T17:39:45+00:00"
-    },
-    {
-     "titolo": "Summit della sinistra latinoamericana avverte su ingerenza regionale Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/24/summit-della-sinistra-latinoamericana-avverte-su-ingerenza-regionale-usa_1274bcb5-cd1f-4e36-bd97-6ab353e1a8d0.html",
-     "data": "2026-08-24T17:34:16+00:00"
-    },
-    {
-     "titolo": "Sheinbaum, 'imprudente il ritorno del governatore di Sinaloa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/24/sheinbaum-imprudente-il-ritorno-del-governatore-di-sinaloa_c8f67709-db20-47a3-a3c5-d7c7daa5069f.html",
-     "data": "2026-08-24T16:33:07+00:00"
     }
    ]
   },
