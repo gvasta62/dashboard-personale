@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-24T11:22:37.237390+00:00",
+ "aggiornato": "2026-08-24T11:49:26.817317+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -61,6 +61,16 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "La ricostruzione a dieci anni dal sisma. La Regione, 'svolto un grande lavoro'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/24/la-ricostruzione-a-dieci-anni-dal-sisma.-la-regione-svolto-un-grande-lavoro_58d4c473-bc4a-442c-839a-2be22325cf8b.html",
+     "data": "2026-08-24T11:44:15+00:00"
+    },
+    {
+     "titolo": "Tra ambiente e vita comunitaria, il ricordo del sisma nel Parco dei Sibillini",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/24/tra-ambiente-e-vita-comunitaria-il-ricordo-del-sisma-nel-parco-dei_70355929-56fb-42c9-a07b-c54c2c1a5181.html",
+     "data": "2026-08-24T11:30:22+00:00"
+    },
+    {
      "titolo": "Numerose galline ovaiole abbandonate in un fosso a Castel Ritaldi, una denuncia",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/24/numerose-galline-ovaiole-abbandonate-in-un-fosso-a-castel-ritaldi-una-denuncia_22597fde-5688-48e5-970f-c5e7bc7e1f67.html",
      "data": "2026-08-24T10:25:33+00:00"
@@ -109,22 +119,17 @@
      "titolo": "Il Papa a dieci anni dal terremoto, 'sostenere la ricostruzione'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/23/il-papa-a-dieci-anni-dal-terremoto-sostenere-la-ricostruzione_a8a72071-6c0a-426c-9567-bbac59939c70.html",
      "data": "2026-08-23T14:33:35+00:00"
-    },
-    {
-     "titolo": "Al Santa Maria interventi nei tempi previsti in cinque aree oncologiche",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/23/al-santa-maria-interventi-nei-tempi-previsti-in-cinque-aree-oncologiche_a600a596-e44b-4421-993c-5dbc8d791321.html",
-     "data": "2026-08-23T10:27:49+00:00"
-    },
-    {
-     "titolo": "Incidente sulla statale Valnerina in Umbria, morto un motociclista",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/incidente-sulla-statale-valnerina-in-umbria-morto-un-motociclista_92be80b9-d747-4297-89e1-13e620fc8dfe.html",
-     "data": "2026-08-23T06:46:27+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Il 27enne di Frascati Riccardo Sparacciari è 'Il più bello d'Italia' 2026",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/il-27enne-di-frascati-riccardo-sparacciari-e-il-piu-bello-ditalia-2026_8ebd8baf-15f2-47b5-8015-e1aef4a138db.html",
+     "data": "2026-08-24T11:24:22+00:00"
+    },
     {
      "titolo": "'Villaggi preistorici sommersi nelle acque dell'Adriatico'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/villaggi-preistorici-sommersi-nelle-acque-delladriatico_726b3433-0f04-42cc-a7b9-83478943e76a.html",
@@ -179,11 +184,6 @@
      "titolo": "Il ricordo del sisma ad Acquasanta, il sindaco: 'Dal dolore è nata la nostra forza'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/il-ricordo-del-sisma-ad-acquasanta-il-sindaco-dal-dolore-e-nata-la-nostra-forza_af8362d3-8626-4e7e-9cc3-19a714834800.html",
      "data": "2026-08-24T08:49:12+00:00"
-    },
-    {
-     "titolo": "Esplosione in una palazzina, crolla il tetto, due ustionati gravi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/esplosione-in-una-palazzina-crolla-il-tetto-due-ustionati-gravi_6deb6870-ab9f-479b-b8d1-f8f88d6a8108.html",
-     "data": "2026-08-24T08:08:29+00:00"
     }
    ]
   },
@@ -321,6 +321,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Operativo dal rientro a scuola il divieto di cellulari in classe nei licei francesi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/24/operativo-dal-rientro-a-scuola-il-divieto-di-cellulari-in-classe-nei-licei-francesi_73c21ccd-14fc-4662-a361-b7c877f3dea0.html",
+     "data": "2026-08-24T11:26:53+00:00"
+    },
+    {
      "titolo": "Portavoce Merz, non vedo alcuno scontro fra Berlino e Roma sui migranti",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/24/portavoce-merz-non-vedo-alcuno-scontro-fra-berlino-e-roma-sui_487fe718-14d1-4535-a2ba-b25ef4678e24.html",
      "data": "2026-08-24T11:08:26+00:00"
@@ -374,11 +379,6 @@
      "titolo": "Città del Messico, l'italiana Leitner costruisce la Linea 4 del Cablebús",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/24/citta-del-messico-litaliana-leitner-costruisce-la-linea-4-del-cablebus_11a257a7-0e8f-4868-994a-33bda9948071.html",
      "data": "2026-08-24T00:11:05+00:00"
-    },
-    {
-     "titolo": "Il premier britannico Burnham sarà oggi in visita a Kiev",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/24/il-premier-britannico-burnham-sara-oggi-in-visita-a-kiev_69fe8e52-4173-47fe-ae4b-e184c1963223.html",
-     "data": "2026-08-23T23:32:59+00:00"
     }
    ]
   },
