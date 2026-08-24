@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-24T20:53:55.042285+00:00",
+ "aggiornato": "2026-08-24T21:16:12.564226+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Corte Suprema autorizza Trump a limitare il voto per posta",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/corte-suprema-autorizza-trump-a-limitare-il-voto-per-posta_9c0e7e86-5c13-470b-bf1e-9662a8deb2a7.html",
+     "data": "2026-08-24T21:12:07+00:00"
+    },
+    {
+     "titolo": "Dybala 'Spero Malen faccia i gol che servano per portarci in alto'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/dybala-spero-malen-faccia-i-gol-che-servano-per-portarci-in-alto_947053d8-dfef-413b-b6ee-acd1e2d2a0e8.html",
+     "data": "2026-08-24T21:02:49+00:00"
+    },
     {
      "titolo": "De la Espriella ordina operazioni contro l'immigrazione irregolare in Colombia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/de-la-espriella-ordina-operazioni-contro-limmigrazione-irregolare-in-colombia_99bea806-50de-439f-b4eb-bf2ce932224e.html",
@@ -44,16 +54,6 @@
      "titolo": "Il prezzo del gas sale a 68,90 euro al megawattora",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/il-prezzo-del-gas-sale-a-6890-euro-al-megawattora_1dec37a9-1603-4f3c-a27b-9229b34cef1d.html",
      "data": "2026-08-24T16:49:43+00:00"
-    },
-    {
-     "titolo": "Macron, a ottobre e novembre esercitazione dei Volenterosi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/macron-a-ottobre-e-novembre-esercitazione-dei-volenterosi_75453a07-0820-4807-bb22-12f77cb03ef7.html",
-     "data": "2026-08-24T16:32:34+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude stabile a 82 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/lo-spread-tra-btp-e-bund-chiude-stabile-a-82-punti_e7f0f041-7525-4d2e-af0c-2d4afda49b2d.html",
-     "data": "2026-08-24T16:13:14+00:00"
     }
    ]
   },
@@ -306,6 +306,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Corte Suprema autorizza Trump a limitare il voto per posta",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/24/corte-suprema-autorizza-trump-a-limitare-il-voto-per-posta_5b560a84-a25d-4741-8fbe-1fae79e1ac42.html",
+     "data": "2026-08-24T21:12:05+00:00"
+    },
+    {
+     "titolo": "De la Espriella ordina operazioni contro l'immigrazione irregolare in Colombia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/24/de-la-espriella-ordina-operazioni-contro-limmigrazione-irregolare-in-colombia_1db522e4-d81f-4844-9f5a-e5d96ed48144.html",
+     "data": "2026-08-24T20:47:51+00:00"
+    },
+    {
      "titolo": "Il Pakistan lancia sua politica nazionale per la filiera olivicola",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/24/il-pakistan-lancia-sua-politica-nazionale-per-la-filiera-olivicola_436b1ff6-2c1f-436b-b68e-c69b447c371b.html",
      "data": "2026-08-24T20:47:19+00:00"
@@ -354,16 +364,6 @@
      "titolo": "Sheinbaum, 'imprudente il ritorno del governatore di Sinaloa'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/24/sheinbaum-imprudente-il-ritorno-del-governatore-di-sinaloa_c8f67709-db20-47a3-a3c5-d7c7daa5069f.html",
      "data": "2026-08-24T16:33:07+00:00"
-    },
-    {
-     "titolo": "Macron, a ottobre e novembre esercitazione dei Volenterosi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/24/macron-a-ottobre-e-novembre-esercitazione-dei-volenterosi_577ca669-b12f-43a7-8fbb-42e36632c233.html",
-     "data": "2026-08-24T16:33:02+00:00"
-    },
-    {
-     "titolo": "Il Messico cresce nel secondo trimestre nonostante le tensioni commerciali con gli Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/24/il-messico-cresce-nel-secondo-trimestre-nonostante-le-tensioni-commerciali-con-gli_92e1d447-7bcc-4540-8a30-b1cead673073.html",
-     "data": "2026-08-24T15:57:24+00:00"
     }
    ]
   },
@@ -436,9 +436,14 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Serie A: la Roma travolge la Fiorentina 4-0 CRONACA e FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/serie-a-la-roma-travolge-la-fiorentina-4-0-cronaca-e-foto_d59ddfa2-4f77-43c5-b361-7b7f9074ea28.html",
-     "data": "2026-08-24T20:40:03+00:00"
+     "titolo": "Dybala 'Spero Malen faccia i gol che servano per portarci in alto'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/dybala-spero-malen-faccia-i-gol-che-servano-per-portarci-in-alto_278e573d-3e4f-4ae7-9f67-07f16ca43ed9.html",
+     "data": "2026-08-24T21:02:46+00:00"
+    },
+    {
+     "titolo": "Roma-Fiorentina 4-0, tripletta di Malen. La Lazio passa a Bologna, Frattesi show",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/roma-fiorentina-4-0-tripletta-di-malen.-la-lazio-passa-a-bologna-frattesi-show_d59ddfa2-4f77-43c5-b361-7b7f9074ea28.html",
+     "data": "2026-08-24T20:56:41+00:00"
     },
     {
      "titolo": "Tripletta di Malen, la Roma fa poker con la Fiorentina",
@@ -489,11 +494,6 @@
      "titolo": "Ciclismo: il messicano Del Toro trionfa al Giro di Germania",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/24/ciclismo-il-messicano-del-toro-trionfa-al-giro-di-germania_4e2856a8-c8de-4922-9395-a240c26a0b5c.html",
      "data": "2026-08-24T17:40:18+00:00"
-    },
-    {
-     "titolo": "Scontri tra tifosi in un derby, un morto e quattro feriti in Brasile",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/scontri-tra-tifosi-in-un-derby-un-morto-e-quattro-feriti-in-brasile_d6dd73b2-5793-41c9-ad96-a5a4eee1c680.html",
-     "data": "2026-08-24T17:38:19+00:00"
     }
    ]
   }
