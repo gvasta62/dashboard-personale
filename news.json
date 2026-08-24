@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-24T21:16:12.564226+00:00",
+ "aggiornato": "2026-08-24T21:49:38.673957+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Roma è fatta per Oosterwolde, domani l'arrivo nella Capitale",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/roma-e-fatta-per-oosterwolde-domani-larrivo-nella-capitale_c6beca5d-13a2-4c72-965e-821bea95d7e6.html",
+     "data": "2026-08-24T21:43:38+00:00"
+    },
+    {
+     "titolo": "Gasperini 'Dybala non ha muscoli di seta, è chiave per puntare in alto'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/gasperini-dybala-non-ha-muscoli-di-seta-e-chiave-per-puntare-in-alto_dc79ced9-bd5b-4b46-9568-e6f72d5d392f.html",
+     "data": "2026-08-24T21:21:05+00:00"
+    },
     {
      "titolo": "Corte Suprema autorizza Trump a limitare il voto per posta",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/corte-suprema-autorizza-trump-a-limitare-il-voto-per-posta_9c0e7e86-5c13-470b-bf1e-9662a8deb2a7.html",
@@ -44,16 +54,6 @@
      "titolo": "Amlat: Izquierda latinoamericana advierte por injerencia de EEUU",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/amlat-izquierda-latinoamericana-advierte-por-injerencia-de-eeuu_f693da7f-355c-41ae-b29a-724dec4ca459.html",
      "data": "2026-08-24T17:43:03+00:00"
-    },
-    {
-     "titolo": "Summit della sinistra latinoamericana avverte su ingerenza regionale Usa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/summit-della-sinistra-latinoamericana-avverte-su-ingerenza-regionale-usa_f3f8a1a2-1ce0-4117-96de-6e87f278d756.html",
-     "data": "2026-08-24T17:34:16+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas sale a 68,90 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/il-prezzo-del-gas-sale-a-6890-euro-al-megawattora_1dec37a9-1603-4f3c-a27b-9229b34cef1d.html",
-     "data": "2026-08-24T16:49:43+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Incendio nel Bresciano, fiamme nei capannoni delle barche di lusso",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/incendio-nel-bresciano-fiamme-nei-capannoni-delle-barche-di-lusso_56383cdd-e9fa-4dce-8243-49f0109206f2.html",
+     "data": "2026-08-24T21:24:00+00:00"
+    },
+    {
      "titolo": "Incendio nel carcere minorile Malaspina a Palermo, 9 intossicati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/incendio-nel-carcere-minorile-malaspina-a-palermo-9-intossicati_3978a951-7468-4823-ae0b-2d5696d5e8d0.html",
      "data": "2026-08-24T20:30:38+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Crans, le incognite sull'inchiesta dopo l'arresto di Jacques",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/crans-le-incognite-sullinchiesta-dopo-larresto-di-jacques_f4690af3-e6d6-43d6-8b2b-de8dfd3e9cf0.html",
      "data": "2026-08-24T20:30:15+00:00"
-    },
-    {
-     "titolo": "Clochard pestato a morte per 50 euro, nessuno lo ha aiutato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/clochard-pestato-a-morte-per-50-euro-nessuno-lo-ha-aiutato_5bba7e8f-2a24-45f9-998e-c528017a78fd.html",
-     "data": "2026-08-24T16:59:06+00:00"
     }
    ]
   },
@@ -436,6 +436,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Roma è fatta per Oosterwolde, domani l'arrivo nella Capitale",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/roma-e-fatta-per-oosterwolde-domani-larrivo-nella-capitale_4f368b89-82da-44d5-a3ae-33a8d4a94e25.html",
+     "data": "2026-08-24T21:43:56+00:00"
+    },
+    {
+     "titolo": "Gasperini 'Dybala non ha muscoli di seta, è chiave per puntare in alto'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/gasperini-dybala-non-ha-muscoli-di-seta-e-chiave-per-puntare-in-alto_99638837-a079-4bab-9be8-2aff23cea44e.html",
+     "data": "2026-08-24T21:21:22+00:00"
+    },
+    {
      "titolo": "Dybala 'Spero Malen faccia i gol che servano per portarci in alto'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/dybala-spero-malen-faccia-i-gol-che-servano-per-portarci-in-alto_278e573d-3e4f-4ae7-9f67-07f16ca43ed9.html",
      "data": "2026-08-24T21:02:46+00:00"
@@ -484,16 +494,6 @@
      "titolo": "Calcio: riparte il processo di Biscardi e tocca la 41/a edizione",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/calcio-riparte-il-processo-di-biscardi-e-tocca-la-41a-edizione_6a2739d3-8752-471f-a7c1-91f8a7706217.html",
      "data": "2026-08-24T18:13:55+00:00"
-    },
-    {
-     "titolo": "Esordio con la Roma per Mora, titolare con Dybala e Malen",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/esordio-con-la-roma-per-mora-titolare-con-dybala-e-malen_574eab51-9ec7-4143-995e-5491ae8213a8.html",
-     "data": "2026-08-24T17:54:08+00:00"
-    },
-    {
-     "titolo": "Ciclismo: il messicano Del Toro trionfa al Giro di Germania",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/24/ciclismo-il-messicano-del-toro-trionfa-al-giro-di-germania_4e2856a8-c8de-4922-9395-a240c26a0b5c.html",
-     "data": "2026-08-24T17:40:18+00:00"
     }
    ]
   }
