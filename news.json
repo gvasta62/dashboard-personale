@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-24T19:07:07.294034+00:00",
+ "aggiornato": "2026-08-24T19:50:10.310429+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Díaz-Canel, 'dialogo con gli Usa in una fase di stallo, nessuna agenda definita'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/diaz-canel-dialogo-con-gli-usa-in-una-fase-di-stallo-nessuna_db4e6e3c-5424-42c1-8e74-2242bddabf68.html",
+     "data": "2026-08-24T19:45:19+00:00"
+    },
     {
      "titolo": "Allerta aerea a Kiev, Costa e Stubb evacuati in un rifugio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/allerta-aerea-a-kiev-costa-e-stubb-evacuati-in-un-rifugio_24203e10-1ca6-470b-b496-4e816edc6845.html",
@@ -49,11 +54,6 @@
      "titolo": "Borsa: Milano chiude in calo dello 0,24%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/borsa-milano-chiude-in-calo-dello-024_d36fa1c1-ecc3-4ce8-8828-7887b58e2b6d.html",
      "data": "2026-08-24T15:49:45+00:00"
-    },
-    {
-     "titolo": "Clochard pestato a morte, l'aggressione per un debito di 50 euro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/clochard-pestato-a-morte-laggressione-per-un-debito-di-50-euro_e18733dc-fa73-4c36-b484-c75d66605eb6.html",
-     "data": "2026-08-24T15:04:30+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Strage Viareggio, rubato il gilet di una vittima da Casina dei ricordi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/strage-viareggio-rubato-il-gilet-di-una-vittima-da-casina-dei-ricordi_0c8f04f5-6acc-4dc8-a8fa-c65e336e227f.html",
+     "data": "2026-08-24T19:19:44+00:00"
+    },
+    {
      "titolo": "La 'benzina del sindaco' contro i rincari, il pieno quasi a prezzo di costo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/la-benzina-del-sindaco-contro-i-rincari-il-pieno-quasi-a-prezzo-di-costo_56c33ffe-d578-4f05-99c9-cb7727c9448b.html",
      "data": "2026-08-24T18:38:45+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Appello familiari dello scomparso nel crollo sul Trigno, 'basta attese'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/appello-familiari-dello-scomparso-nel-crollo-sul-trigno-basta-attese_6fabeb01-34e7-42ea-a4e5-f00be470c28c.html",
      "data": "2026-08-24T16:50:48+00:00"
-    },
-    {
-     "titolo": "Dai selfie coi cervi alle file sui monti, l'estate del turismo cafone",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/dai-selfie-coi-cervi-alle-file-sui-monti-lestate-del_688364b8-c3d5-41a4-a481-45cff7e3f2d4.html",
-     "data": "2026-08-24T16:44:21+00:00"
     }
    ]
   },
@@ -311,6 +311,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Díaz-Canel, 'dialogo con gli Usa in una fase di stallo, nessuna agenda definita'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/24/diaz-canel-dialogo-con-gli-usa-in-una-fase-di-stallo-nessuna_7233de36-57d5-4c8b-b068-88f8a1c3b50b.html",
+     "data": "2026-08-24T19:45:22+00:00"
+    },
+    {
      "titolo": "Allerta aerea a Kiev, Costa e Stubb evacuati in un rifugio",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/24/allerta-aerea-a-kiev-costa-e-stubb-evacuati-in-un-rifugio_7aed7c73-91f2-4d23-b235-b9a62c3b23d7.html",
      "data": "2026-08-24T18:37:57+00:00"
@@ -364,11 +369,6 @@
      "titolo": "Misteriosi gruppi entrano ed escono dai tombini la notte, indagini a New York",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/24/misteriosi-gruppi-entrano-ed-escono-dai-tombini-la-notte-indagini-a-new-york_8423b158-2dee-4870-a5fb-f1c0941f494a.html",
      "data": "2026-08-24T14:55:55+00:00"
-    },
-    {
-     "titolo": "Conventi e casa condivisa con anziani, i giovani contro il caro affitti a New York",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/24/conventi-e-casa-condivisa-con-anziani-i-giovani-contro-il-caro-affitti-a-new_535f8037-d684-4d0f-b622-1632e6ffdf7c.html",
-     "data": "2026-08-24T14:44:25+00:00"
     }
    ]
   },
@@ -441,6 +441,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Arianna Caruso passa al Real Madrid, cifra record per un'azzurra",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/arianna-caruso-passa-al-real-madrid-cifra-record-per-unazzurra_4f470c67-b129-4b7e-897e-4acc44dc7a85.html",
+     "data": "2026-08-24T19:23:08+00:00"
+    },
+    {
+     "titolo": "Serie A: Roma-Fiorentina 1-0 DIRETTA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/serie-a-roma-fiorentina-1-0-diretta-e-foto_d59ddfa2-4f77-43c5-b361-7b7f9074ea28.html",
+     "data": "2026-08-24T19:30:13+00:00"
+    },
+    {
      "titolo": "Frattesi show al Dall'Ara, la Lazio passa a Bologna",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/frattesi-show-al-dallara-la-lazio-passa-a-bologna_054e277f-1554-4081-845c-609f72440360.html",
      "data": "2026-08-24T18:50:30+00:00"
@@ -449,11 +459,6 @@
      "titolo": "Malagò: \"Bianchedi? Serenità e disponibilità per evitare ogni problema\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/malago-bianchedi-serenita-e-disponibilita-per-evitare-ogni-problema_813f48b7-4ef1-47ea-b90b-f20cc086af49.html",
      "data": "2026-08-24T18:47:33+00:00"
-    },
-    {
-     "titolo": "Serie A: Roma-Fiorentina 0-0 DIRETTA e FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/serie-a-roma-fiorentina-0-0-diretta-e-foto_d59ddfa2-4f77-43c5-b361-7b7f9074ea28.html",
-     "data": "2026-08-24T18:51:46+00:00"
     },
     {
      "titolo": "Serie A: gol di Frattesi all'esordio, la Lazio espugna Bologna",
@@ -494,11 +499,6 @@
      "titolo": "Serie A: Grabara verso la Juve, sarà il vice Vicario",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/serie-a-grabara-verso-la-juve-sara-il-vice-vicario_fb782251-1105-4b0f-88bb-53b75e7d3384.html",
      "data": "2026-08-24T17:35:01+00:00"
-    },
-    {
-     "titolo": "Calcio: Perin a un passo dal Palermo, si attende l'ufficialità",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/calcio-perin-a-un-passo-dal-palermo-si-attende-lufficialita_d2d63331-86e3-4f18-bd1f-5e050035fc59.html",
-     "data": "2026-08-24T17:34:02+00:00"
     }
    ]
   }
