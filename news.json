@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-24T10:24:29.984158+00:00",
+ "aggiornato": "2026-08-24T10:58:35.324881+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Costa, 'la lotta di Kiev è la nostra, dall'Ue sostegno incondizionato'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/costa-la-lotta-di-kiev-e-la-nostra-dallue-sostegno-incondizionato_1be20d62-b40e-491e-8fbf-b9fb32d7a179.html",
+     "data": "2026-08-24T10:50:17+00:00"
+    },
+    {
+     "titolo": "Glucksmann candidato all'Eliseo, 'per risollevare la Francia'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/glucksmann-candidato-alleliseo-per-risollevare-la-francia_db58d011-f7a0-4c5e-9f2d-f74135fd0a9f.html",
+     "data": "2026-08-24T10:47:28+00:00"
+    },
+    {
+     "titolo": "Lieve accelerazione crescita Ocse secondo trimestre +0,5%, Italia +0,3%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/lieve-accelerazione-crescita-ocse-secondo-trimestre-05-italia-03_97ba5e39-4335-4d96-9a35-b11e9ea8571e.html",
+     "data": "2026-08-24T10:28:34+00:00"
+    },
+    {
+     "titolo": "Borsa: Europa oscilla, Milano +0,13%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/borsa-europa-oscilla-milano-013_aa73371e-51f3-4331-9194-89175b10b46a.html",
+     "data": "2026-08-24T10:18:37+00:00"
+    },
     {
      "titolo": "Quasi 3 milioni di Tesla richiamate in Cina per le maniglie di emergenza",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/quasi-3-milioni-di-tesla-richiamate-in-cina-per-le-maniglie-di-emergenza_592acf68-ea41-4d0d-a402-d08e8b315512.html",
@@ -34,32 +54,17 @@
      "titolo": "Facile.it, ad agosto spenderemo 1 miliardo in più di carburante rispetto al 2025",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/facile.it-ad-agosto-spenderemo-1-miliardo-in-piu-di-carburante-rispetto-al-2025_eafc3615-80d8-4392-87e1-3fdc52ca2e91.html",
      "data": "2026-08-24T09:34:36+00:00"
-    },
-    {
-     "titolo": "La benzina sull'autostrada della Cisa sfiora i 2,50 euro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/la-benzina-sullautostrada-della-cisa-sfiora-i-250-euro_d5dd328e-f00f-436b-bf59-3384c51c2cbc.html",
-     "data": "2026-08-24T09:22:54+00:00"
-    },
-    {
-     "titolo": "Produzione industriale Ue è tornata a crescere nel 2025, prima volta dal 2022",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/produzione-industriale-ue-e-tornata-a-crescere-nel-2025-prima-volta-dal-2022_dbe3df7c-2d08-4464-86ff-2d549a665c21.html",
-     "data": "2026-08-24T09:15:23+00:00"
-    },
-    {
-     "titolo": "A Venezia si aggiunge in concorso Naza, documentario sulla guerra in Palestina",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/a-venezia-si-aggiunge-in-concorso-naza-documentario-sulla-guerra-in-palestina_c4f4ea36-d1c3-42ea-8aa5-39ed03b6f767.html",
-     "data": "2026-08-24T09:13:23+00:00"
-    },
-    {
-     "titolo": "Weidmann (Commerzbank), 'voglio parlare con Orcel'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/weidmann-commerzbank-voglio-parlare-con-orcel_a8ad62a7-5cfd-4bc3-8852-aad95fe31f7f.html",
-     "data": "2026-08-24T08:23:54+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Numerose galline ovaiole abbandonate in un fosso a Castel Ritaldi, una denuncia",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/24/numerose-galline-ovaiole-abbandonate-in-un-fosso-a-castel-ritaldi-una-denuncia_22597fde-5688-48e5-970f-c5e7bc7e1f67.html",
+     "data": "2026-08-24T10:25:33+00:00"
+    },
     {
      "titolo": "Giambartolomei, autorizzazioni sociosanitarie bloccate da quasi due anni",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/24/giambartolomei-autorizzazioni-sociosanitarie-bloccate-da-quasi-due-anni_4fbfe3f3-29ba-408d-8d08-ee339ec7f881.html",
@@ -114,17 +119,22 @@
      "titolo": "Incidente sulla statale Valnerina in Umbria, morto un motociclista",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/22/incidente-sulla-statale-valnerina-in-umbria-morto-un-motociclista_92be80b9-d747-4297-89e1-13e620fc8dfe.html",
      "data": "2026-08-23T06:46:27+00:00"
-    },
-    {
-     "titolo": "Melasecche, follia deturpare il Trasimeno con pannelli galleggianti",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/22/melasecche-follia-deturpare-il-trasimeno-con-pannelli-galleggianti_84652b58-44de-4981-8e0a-2ea9ced1f2d0.html",
-     "data": "2026-08-22T17:56:23+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Precipitano in un dirupo di 15 metri, un morto ed un ferito lieve",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/precipitano-in-un-dirupo-di-15-metri-un-morto-ed-un-ferito-lieve_336899b3-3993-4f8b-a0d6-50e2fc985ba2.html",
+     "data": "2026-08-24T10:50:38+00:00"
+    },
+    {
+     "titolo": "Il trapper Tony Boy sarà interrogato domani dal gip di Milano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/il-trapper-tony-boy-sara-interrogato-domani-dal-gip-di-milano_afd52745-8664-4b9a-b053-b1ffb03579c0.html",
+     "data": "2026-08-24T10:43:22+00:00"
+    },
     {
      "titolo": "Cervi 'braccati' da turisti, Scanno prepara ordinanza anti-maleducati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/cervi-braccati-da-turisti-scanno-prepara-ordinanza-anti-maleducati_b5daee14-21f0-4239-987b-65cdcfbc38e6.html",
@@ -148,7 +158,7 @@
     {
      "titolo": "Zuppi celebra la messa ad Arquata del Tronto a 10 anni dal sisma: 'Ora non promesse ma lavoro'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/zuppi-a-10-anni-dal-sisma-ora-non-promesse-ma-lavoro_b95bdc03-601a-4c36-9484-7fd7af51462f.html",
-     "data": "2026-08-24T09:47:02+00:00"
+     "data": "2026-08-24T10:38:58+00:00"
     },
     {
      "titolo": "Edilizia scolastica, 114,4 milioni per il contrasto al rischio sismico",
@@ -174,16 +184,6 @@
      "titolo": "Amatrice ricorda con il silenzio e una fiaccolata le vittime del terremoto",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/amatrice-ricorda-con-il-silenzio-e-una-fiaccolata-le-vittime-del-terremoto_d68f353a-42a0-429f-9993-ce9b8a12806a.html",
      "data": "2026-08-24T01:43:59+00:00"
-    },
-    {
-     "titolo": "Amatrice ricorda con il silenzio e una fiaccolata le vittime del terremoto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/amatrice-ricorda-con-il-silenzio-e-una-fiaccolata-le-vittime-del-terremoto_83147766-c223-463a-8432-75c6060f5ff0.html",
-     "data": "2026-08-24T07:26:10+00:00"
-    },
-    {
-     "titolo": "Crans-Montana, Jacques Moretti arrestato per violenze sulla moglie Jessica",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/crans-montana-jacques-moretti-arrestato-per-violenze-sulla-moglie-jessica_2731a2d3-3a22-45f5-85a2-e98985a23e90.html",
-     "data": "2026-08-23T21:30:24+00:00"
     }
    ]
   },
@@ -198,7 +198,7 @@
     {
      "titolo": "Dieci anni dal sisma nel Centro Italia, Mattarella: 'La ricostruzione è un impegno complesso, serve ultimarla velocemente'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/24/dieci-anni-dal-sisma-di-amatrice-mattarella-sia-monito-per-la-prevenzione_861ad054-17c8-4d17-baf8-cd7380410b08.html",
-     "data": "2026-08-24T09:42:16+00:00"
+     "data": "2026-08-24T10:32:10+00:00"
     },
     {
      "titolo": "Piantedosi ferma la Sea Watch, multa e stop di 45 giorni",
@@ -256,29 +256,39 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Lieve accelerazione crescita Ocse secondo trimestre +0,5%, Italia +0,2%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/lieve-accelerazione-crescita-ocse-secondo-trimestre-05-italia-03_1fa7ffe3-207b-4a29-9674-0e4fe6aa5aac.html",
+     "data": "2026-08-24T10:38:27+00:00"
+    },
+    {
+     "titolo": "Borsa: Europa oscilla, Milano +0,13%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/borsa-europa-oscilla-milano-013_f755c03c-bb69-4cef-be97-b1ea2182001f.html",
+     "data": "2026-08-24T10:18:40+00:00"
+    },
+    {
      "titolo": "Quasi 3 milioni di Tesla richiamate in Cina per le maniglie di emergenza",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/quasi-3-milioni-di-tesla-richiamate-in-cina-per-le-maniglie-di-emergenza_33190c4c-a1d9-40f4-9c43-cec5ad9eb087.html",
-     "data": "2026-08-24T10:14:45+00:00"
+     "data": "2026-08-24T10:37:12+00:00"
     },
     {
      "titolo": "Confartigianato, stop a 850mila finti artigiani",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/confartigianato-stop-a-850mila-finti-artigiani_2fbccfa9-fd2f-4c83-8189-2a231c8b168b.html",
-     "data": "2026-08-24T10:04:29+00:00"
+     "data": "2026-08-24T10:37:19+00:00"
     },
     {
      "titolo": "Facile.it, ad agosto spenderemo 1 miliardo in più di carburante rispetto al 2025",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/facile.it-ad-agosto-spenderemo-1-miliardo-in-piu-di-carburante-rispetto-al-2025_d3a51ebe-13a5-4f62-baa2-fb15d0c1e723.html",
-     "data": "2026-08-24T09:34:55+00:00"
+     "data": "2026-08-24T10:39:53+00:00"
     },
     {
      "titolo": "La benzina sull'autostrada della Cisa sfiora i 2,50 euro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/la-benzina-sullautostrada-della-cisa-sfiora-i-250-euro_fd6ec86b-6b07-40f6-9779-46a647ab98a3.html",
-     "data": "2026-08-24T09:23:18+00:00"
+     "data": "2026-08-24T10:40:22+00:00"
     },
     {
      "titolo": "Produzione industriale Ue è tornata a crescere nel 2025, prima volta dal 2022",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/produzione-industriale-ue-e-tornata-a-crescere-nel-2025-prima-volta-dal-2022_b1232976-f173-451f-b9ea-96508acc5eeb.html",
-     "data": "2026-08-24T09:15:25+00:00"
+     "data": "2026-08-24T10:37:43+00:00"
     },
     {
      "titolo": "Weidmann (Commerzbank), 'voglio parlare con Orcel'",
@@ -304,16 +314,6 @@
      "titolo": "Cipollone (Bce), 'non ci sono segnali di possibile stagflazione'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/cipollone-bce-non-ci-sono-segnali-di-possibile-stagflazione_d0b16fb1-b72e-446b-a81f-0a2a5d9155d4.html",
      "data": "2026-08-24T08:41:19+00:00"
-    },
-    {
-     "titolo": "Mps apre in cauto rialzo in Borsa con i bancari, sale Bpm, debole Banca Generali",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/mps-apre-in-cauto-rialzo-in-borsa-con-i-bancari-sale-bpm-debole_675067e8-6c4f-4cb2-be97-2fd5d2cd315c.html",
-     "data": "2026-08-24T08:45:12+00:00"
-    },
-    {
-     "titolo": "Borsa: avvio in sordina degli scambi in Europa",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/borsa-avvio-in-sordina-degli-scambi-in-europa_bf164ac4-60bd-4338-9f08-fa1bc62f024f.html",
-     "data": "2026-08-24T07:17:38+00:00"
     }
    ]
   },
@@ -321,14 +321,24 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Costa, 'la lotta di Kiev è la nostra, dall'Ue sostegno incondizionato'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/24/costa-la-lotta-di-kiev-e-la-nostra-dallue-sostegno-incondizionato_68760dac-c24e-4ad1-a259-3d8de2f7edb8.html",
+     "data": "2026-08-24T10:50:17+00:00"
+    },
+    {
+     "titolo": "Glucksmann candidato all'Eliseo, 'per risollevare la Francia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/24/glucksmann-candidato-alleliseo-per-risollevare-la-francia_87c53254-6ade-4c25-a69b-0040e64aa035.html",
+     "data": "2026-08-24T10:47:42+00:00"
+    },
+    {
      "titolo": "Zelensky, 'gli ucraini non soggiaceranno mai agli stivali dello zar'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/24/zelensky-gli-ucraini-non-soggiaceranno-mai-agli-stivali-dello-zar_b6b214cc-636f-41bd-b7b7-acdbbcdf040a.html",
-     "data": "2026-08-24T10:15:04+00:00"
+     "data": "2026-08-24T10:40:18+00:00"
     },
     {
      "titolo": "Burnham a Kiev, 'determinati a darvi l'aiuto militare che vi serve'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/24/burnham-a-kiev-determinati-a-darvi-laiuto-militare-che-vi-serve_6ce46bc4-7226-4d6f-8859-ecd5fce6f199.html",
-     "data": "2026-08-24T10:13:32+00:00"
+     "data": "2026-08-24T10:40:40+00:00"
     },
     {
      "titolo": "I leader Ue a Kiev. Zelensky, 'piano con gli Usa per la pace'",
@@ -369,16 +379,6 @@
      "titolo": "Bessent: 'Arriva il D-day economico per l'Iran, chi sta con Teheran è paria'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/24/bessent-arriva-il-d-day-economico-per-liran-chi-sta-con-teheran_df1a66cc-172c-400f-9b2f-cb3efa64ac8b.html",
      "data": "2026-08-23T23:21:28+00:00"
-    },
-    {
-     "titolo": "Spegne gli incendi vestito da Superman, 17enne indonesiano star del web",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/23/spegne-gli-incendi-vestito-da-superman-17enne-indonesiano-star-del-web_adef8dd9-83ea-45f2-b41f-5f804fe14d08.html",
-     "data": "2026-08-23T17:08:57+00:00"
-    },
-    {
-     "titolo": "Naufragio al largo di Zarzis in Tunisia, 11 cadaveri recuperati, tre dispersi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/23/naufragio-al-largo-di-zarzis-in-tunisia-11-cadaveri-recuperati-tre-dispersi_a5dbf252-59c6-46b6-bc66-aa2b3eb64009.html",
-     "data": "2026-08-23T16:24:46+00:00"
     }
    ]
   },
@@ -451,6 +451,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Si ferma Rensch, Gasperini non lo convoca per Roma-Fiorentina",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/si-ferma-rensch-gasperini-non-lo-convoca-per-roma-fiorentina_21c3b696-1c1f-4255-b8bb-bdabd4fde934.html",
+     "data": "2026-08-24T10:35:07+00:00"
+    },
+    {
+     "titolo": "Calcio: la Lazio recupera Isaksen e Romagnoli per il Bologna, out Sutalo",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/calcio-la-lazio-recupera-isaksen-e-romagnoli-per-il-bologna-out-sutalo_2d2a8b95-9ec7-496d-81eb-e3da251da6e6.html",
+     "data": "2026-08-24T10:24:05+00:00"
+    },
+    {
+     "titolo": "Infantino, 'bisogna ridurre il divario tra grandi potenze e resto del mondo'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/infantino-bisogna-ridurre-il-divario-tra-grandi-potenze-e-resto-del-mondo_034019a6-4349-4383-8151-7549e0a8515d.html",
+     "data": "2026-08-24T10:16:52+00:00"
+    },
+    {
      "titolo": "Klay Thompson è un nuovo giocatore dei Miami Heat",
      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/24/klay-thompson-e-un-nuovo-giocatore-dei-miami-heat_b55811f6-b4ed-4363-9abb-3a125d864da4.html",
      "data": "2026-08-24T09:14:51+00:00"
@@ -494,21 +509,6 @@
      "titolo": "Serie A: Sarri, 'prestazione di sofferenza, troppo passivi in difesa'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-sarri-prestazione-di-sofferenza-troppo-passivi-in-difesa_ca285415-9ade-43f2-bc06-75467a08772b.html",
      "data": "2026-08-23T21:40:07+00:00"
-    },
-    {
-     "titolo": "Manita del Barcellona in Liga, l'Atletico fa 2-2 col Villareal",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/manita-del-barcellona-in-liga-latletico-fa-2-2-col-villareal_cb316106-cc4c-4a28-9e33-57c39a227ae1.html",
-     "data": "2026-08-23T21:36:40+00:00"
-    },
-    {
-     "titolo": "Serie A: Abate, 'primo tempo passivo, rammarico per non averla riaperta prima'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-abate-primo-tempo-passivo-rammarico-per-non-averla-riaperta_4480304d-d583-4b19-a549-b2fc39e43910.html",
-     "data": "2026-08-23T21:31:02+00:00"
-    },
-    {
-     "titolo": "Serie A: Amorim, 'bella vittoria, Cissè sembrava il nostro più esperto di tutti'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-amorim-bella-vittoria-cisse-sembrava-il-nostro-piu-esperto-di-tutti_91b05c16-d53b-44c0-ab41-eabde211ad1d.html",
-     "data": "2026-08-23T21:27:55+00:00"
     }
    ]
   }
