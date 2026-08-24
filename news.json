@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-24T11:49:26.817317+00:00",
+ "aggiornato": "2026-08-24T12:19:18.133245+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Caso Ranucci, il 7 settembre udienza del Riesame per Lavitola",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/caso-ranucci-il-7-settembre-udienza-del-riesame-per-lavitola_916ab214-d31a-46bf-93f0-1054995b7d3d.html",
+     "data": "2026-08-24T12:04:52+00:00"
+    },
     {
      "titolo": "Card. Zuppi a 10 anni dal sisma, 'ora non promesse ma lavoro'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/card.-zuppi-a-10-anni-dal-sisma-ora-non-promesse-ma-lavoro_9960b0f8-f82a-46e7-afaa-22501562a2a9.html",
@@ -49,17 +54,17 @@
      "titolo": "Quasi 3 milioni di Tesla richiamate in Cina per le maniglie di emergenza",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/quasi-3-milioni-di-tesla-richiamate-in-cina-per-le-maniglie-di-emergenza_592acf68-ea41-4d0d-a402-d08e8b315512.html",
      "data": "2026-08-24T10:14:40+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'gli ucraini non soggiaceranno mai agli stivali dello zar'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/zelensky-gli-ucraini-non-soggiaceranno-mai-agli-stivali-dello-zar_b5fdecbb-61cc-4437-810f-286775645d94.html",
-     "data": "2026-08-24T10:15:06+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Perugia celebra la Giornata dell'indipendenza dell'Ucraina",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/24/perugia-celebra-la-giornata-dellindipendenza-dellucraina_8328da74-44c9-483f-a799-823d0a47dbb3.html",
+     "data": "2026-08-24T12:06:40+00:00"
+    },
     {
      "titolo": "La ricostruzione a dieci anni dal sisma. La Regione, 'svolto un grande lavoro'",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/24/la-ricostruzione-a-dieci-anni-dal-sisma.-la-regione-svolto-un-grande-lavoro_58d4c473-bc4a-442c-839a-2be22325cf8b.html",
@@ -114,17 +119,27 @@
      "titolo": "Usl Umbria 1, Brancaleoni alla guida del distretto del Trasimeno",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/23/usl-umbria-1-brancaleoni-alla-guida-del-distretto-del-trasimeno_6af8b08b-d779-4715-8a3e-63638e075b5d.html",
      "data": "2026-08-23T10:48:14+00:00"
-    },
-    {
-     "titolo": "Il Papa a dieci anni dal terremoto, 'sostenere la ricostruzione'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/23/il-papa-a-dieci-anni-dal-terremoto-sostenere-la-ricostruzione_a8a72071-6c0a-426c-9567-bbac59939c70.html",
-     "data": "2026-08-23T14:33:35+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Caso Ranucci, il 7 settembre udienza del Riesame per Lavitola",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/caso-ranucci-il-7-settembre-udienza-del-riesame-per-lavitola_0d905bd9-dd45-4daa-92ba-0d73177ae9ca.html",
+     "data": "2026-08-24T12:04:52+00:00"
+    },
+    {
+     "titolo": "Caso Ranucci, il 7 settembre l'udienza del Riesame per Lavitola",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/caso-ranucci-il-7-settembre-ludienza-del-riesame-per-lavitola_16eba8bd-021d-40b9-b3e4-ad3b78ecbb1e.html",
+     "data": "2026-08-24T12:03:47+00:00"
+    },
+    {
+     "titolo": "Cartelloni in un comune veneto, 'i bambini giocano, rallentate'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/cartelloni-in-un-comune-veneto-i-bambini-giocano-rallentate_ff93dfe8-0168-4247-88fe-e63be3cf028d.html",
+     "data": "2026-08-24T11:52:10+00:00"
+    },
     {
      "titolo": "Il 27enne di Frascati Riccardo Sparacciari è 'Il più bello d'Italia' 2026",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/il-27enne-di-frascati-riccardo-sparacciari-e-il-piu-bello-ditalia-2026_8ebd8baf-15f2-47b5-8015-e1aef4a138db.html",
@@ -151,9 +166,14 @@
      "data": "2026-08-24T10:43:22+00:00"
     },
     {
+     "titolo": "Donna stacca a morsi un dito alla vicina di casa, arrestata dai carabinieri",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/donna-stacca-a-morsi-un-dito-alla-vicina-di-casa-arrestata-dai-carabinieri_b0af9db1-0ed5-40dc-9669-4f7806204d32.html",
+     "data": "2026-08-24T12:02:58+00:00"
+    },
+    {
      "titolo": "Cervi 'braccati' da turisti, Scanno prepara ordinanza anti-maleducati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/cervi-braccati-da-turisti-scanno-prepara-ordinanza-anti-maleducati_b5daee14-21f0-4239-987b-65cdcfbc38e6.html",
-     "data": "2026-08-24T09:53:46+00:00"
+     "data": "2026-08-24T12:10:18+00:00"
     },
     {
      "titolo": "Detenuto morto a Pordenone, domani l'autopsia per stabilire le cause",
@@ -164,26 +184,6 @@
      "titolo": "Italia permane divisa in due con caldo al Sud e temporali al Nord",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/italia-permane-divisa-in-due-con-caldo-al-sud-e-temporali-al-nord_2c1044e6-64bf-4ba4-b0b1-77f14524ca4f.html",
      "data": "2026-08-24T09:36:59+00:00"
-    },
-    {
-     "titolo": "Si avvicinava troppo alla ex, scoperto grazie a braccialetto elettronico",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/si-avvicinava-troppo-alla-ex-scoperto-grazie-a-braccialetto-elettronico_db887f1d-7e95-4c0a-b93d-65fb93e8d04a.html",
-     "data": "2026-08-24T09:34:58+00:00"
-    },
-    {
-     "titolo": "Zuppi celebra la messa ad Arquata del Tronto a 10 anni dal sisma: 'Ora non promesse ma lavoro'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/zuppi-a-10-anni-dal-sisma-ora-non-promesse-ma-lavoro_b95bdc03-601a-4c36-9484-7fd7af51462f.html",
-     "data": "2026-08-24T10:38:58+00:00"
-    },
-    {
-     "titolo": "Edilizia scolastica, 114,4 milioni per il contrasto al rischio sismico",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/edilizia-scolastica-1144-milioni-per-il-contrasto-al-rischio-sismico_342237e3-6ea8-4c0f-97db-69869b4d0d36.html",
-     "data": "2026-08-24T08:40:56+00:00"
-    },
-    {
-     "titolo": "Il ricordo del sisma ad Acquasanta, il sindaco: 'Dal dolore è nata la nostra forza'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/il-ricordo-del-sisma-ad-acquasanta-il-sindaco-dal-dolore-e-nata-la-nostra-forza_af8362d3-8626-4e7e-9cc3-19a714834800.html",
-     "data": "2026-08-24T08:49:12+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Giani 'diremo a Giorgetti che Stato non venda quota Mps'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/giani-diremo-a-giorgetti-che-stato-non-venda-quota-mps_1625525e-4c38-4497-8d84-a344459f69c3.html",
+     "data": "2026-08-24T12:07:55+00:00"
+    },
+    {
      "titolo": "Il rial iraniano crolla al minimo storico contro il dollaro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/valuta-iran-crolla-al-minimo-storico-contro-il-dollaro_2834c77f-da33-41b2-8e23-fe89c1248c12.html",
      "data": "2026-08-24T11:09:18+00:00"
@@ -309,11 +314,6 @@
      "titolo": "Borsa: Europa ferma in attesa dei dettagli sul D-day economico",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/borsa-europa-ferma-in-attesa-dei-dettagli-sul-d-day-economico_a9a664ec-2b1a-441d-a51d-1a021b6f1e2e.html",
      "data": "2026-08-24T08:05:20+00:00"
-    },
-    {
-     "titolo": "Codacons, in autostrada il gasolio supera il record storico del 2022",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/codacons-in-autostrada-il-gasolio-supera-il-record-storico-del-2022_f91eb6de-37ea-4004-bb4c-720684f20829.html",
-     "data": "2026-08-24T07:53:22+00:00"
     }
    ]
   },
