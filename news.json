@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-24T20:14:45.015335+00:00",
+ "aggiornato": "2026-08-24T20:53:55.042285+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "De la Espriella ordina operazioni contro l'immigrazione irregolare in Colombia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/de-la-espriella-ordina-operazioni-contro-limmigrazione-irregolare-in-colombia_99bea806-50de-439f-b4eb-bf2ce932224e.html",
+     "data": "2026-08-24T20:47:33+00:00"
+    },
+    {
+     "titolo": "Tripletta di Malen, la Roma fa poker con la Fiorentina",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/tripletta-di-malen-la-roma-fa-poker-con-la-fiorentina_24f47d57-f32f-41a1-93c8-33d5778ab942.html",
+     "data": "2026-08-24T20:41:37+00:00"
+    },
     {
      "titolo": "Díaz-Canel, 'dialogo con gli Usa in una fase di stallo, nessuna agenda definita'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/diaz-canel-dialogo-con-gli-usa-in-una-fase-di-stallo-nessuna_db4e6e3c-5424-42c1-8e74-2242bddabf68.html",
@@ -44,16 +54,6 @@
      "titolo": "Lo spread tra Btp e Bund chiude stabile a 82 punti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/lo-spread-tra-btp-e-bund-chiude-stabile-a-82-punti_e7f0f041-7525-4d2e-af0c-2d4afda49b2d.html",
      "data": "2026-08-24T16:13:14+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude in ordine sparso, si guarda allo scontro Usa-Iran",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/borsa-leuropa-chiude-in-ordine-sparso-si-guarda-allo-scontro-usa-iran_e62b6111-b998-4577-9f40-72c5976d3907.html",
-     "data": "2026-08-24T15:51:08+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in calo dello 0,24%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/borsa-milano-chiude-in-calo-dello-024_d36fa1c1-ecc3-4ce8-8828-7887b58e2b6d.html",
-     "data": "2026-08-24T15:49:45+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Incendio nel carcere minorile Malaspina a Palermo, 9 intossicati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/incendio-nel-carcere-minorile-malaspina-a-palermo-9-intossicati_3978a951-7468-4823-ae0b-2d5696d5e8d0.html",
+     "data": "2026-08-24T20:30:38+00:00"
+    },
+    {
+     "titolo": "Atteso l'interrogatorio di Tony Boy dopo l'arresto in diretta social",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/atteso-linterrogatorio-di-tony-boy-dopo-larresto-in-diretta-social-_afd52745-8664-4b9a-b053-b1ffb03579c0.html",
+     "data": "2026-08-24T20:29:29+00:00"
+    },
+    {
      "titolo": "Strage Viareggio, rubato il gilet di una vittima da Casina dei ricordi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/strage-viareggio-rubato-il-gilet-di-una-vittima-da-casina-dei-ricordi_0c8f04f5-6acc-4dc8-a8fa-c65e336e227f.html",
      "data": "2026-08-24T19:19:44+00:00"
@@ -168,22 +178,12 @@
     {
      "titolo": "Crans, le incognite sull'inchiesta dopo l'arresto di Jacques",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/crans-le-incognite-sullinchiesta-dopo-larresto-di-jacques_f4690af3-e6d6-43d6-8b2b-de8dfd3e9cf0.html",
-     "data": "2026-08-24T17:49:52+00:00"
+     "data": "2026-08-24T20:30:15+00:00"
     },
     {
      "titolo": "Clochard pestato a morte per 50 euro, nessuno lo ha aiutato",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/clochard-pestato-a-morte-per-50-euro-nessuno-lo-ha-aiutato_5bba7e8f-2a24-45f9-998e-c528017a78fd.html",
      "data": "2026-08-24T16:59:06+00:00"
-    },
-    {
-     "titolo": "Si tolse le calze per darle a bimbo migrante, 'gesti ordinari'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/si-tolse-le-calze-per-darle-a-bimbo-migrante-gesti-ordinari_f6682653-15ad-441a-aea6-77608d8b0ba8.html",
-     "data": "2026-08-24T18:02:40+00:00"
-    },
-    {
-     "titolo": "Appello familiari dello scomparso nel crollo sul Trigno, 'basta attese'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/appello-familiari-dello-scomparso-nel-crollo-sul-trigno-basta-attese_6fabeb01-34e7-42ea-a4e5-f00be470c28c.html",
-     "data": "2026-08-24T16:50:48+00:00"
     }
    ]
   },
@@ -199,6 +199,11 @@
      "titolo": "Generatori e mezzi antiaerei, nuovi aiuti dell'Italia a Kiev",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/24/generatori-e-mezzi-antiaerei-nuovi-aiuti-dellitalia-a-kiev_4cab9e95-3453-436d-a85d-bedb005dea1b.html",
      "data": "2026-08-24T18:29:49+00:00"
+    },
+    {
+     "titolo": "Da Gaza a Taybeh, 'troppe ingiustizie, non voltiamo lo sguardo'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/24/da-gaza-a-taybeh-troppe-ingiustizie-non-voltiamo-lo-sguardo_03c1a984-3755-4927-b799-9d90feccc910.html",
+     "data": "2026-08-24T20:23:58+00:00"
     },
     {
      "titolo": "Ecco l'Italia di Vannacci: 'Educazione militare, più figli e meno woke'",
@@ -229,16 +234,6 @@
      "titolo": "Piantedosi ferma la Sea Watch, multa e stop di 45 giorni",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/piantedosi-ferma-la-sea-watch-multa-e-stop-di-45-giorni_8571281d-be31-49fa-aafd-7f38479c2042.html",
      "data": "2026-08-23T21:29:54+00:00"
-    },
-    {
-     "titolo": "Occhiuto (FI), il mio governo non ha nulla da spartire con chi sceglie Vannacci",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/occhiuto-fi-il-mio-governo-non-ha-nulla-da-spartire-con-chi-sceglie-vannacci_07491658-95cf-465c-bd9f-39e49a4d2bdb.html",
-     "data": "2026-08-23T18:51:17+00:00"
-    },
-    {
-     "titolo": "Giorgetti firma decreto sulle accise mobili, sconto sul gasolio fino al 26 agosto",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/giorgetti-firma-decreto-sulle-accise-mobili-sconto-sul-gasolio-fino_b7fd0590-2191-4dc8-b278-1abc5c250119.html",
-     "data": "2026-08-23T18:50:56+00:00"
     }
    ]
   },
@@ -311,6 +306,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Il Pakistan lancia sua politica nazionale per la filiera olivicola",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/24/il-pakistan-lancia-sua-politica-nazionale-per-la-filiera-olivicola_436b1ff6-2c1f-436b-b68e-c69b447c371b.html",
+     "data": "2026-08-24T20:47:19+00:00"
+    },
+    {
      "titolo": "Díaz-Canel, 'dialogo con gli Usa in una fase di stallo, nessuna agenda definita'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/24/diaz-canel-dialogo-con-gli-usa-in-una-fase-di-stallo-nessuna_7233de36-57d5-4c8b-b068-88f8a1c3b50b.html",
      "data": "2026-08-24T19:45:22+00:00"
@@ -364,11 +364,6 @@
      "titolo": "Il Messico cresce nel secondo trimestre nonostante le tensioni commerciali con gli Usa",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/24/il-messico-cresce-nel-secondo-trimestre-nonostante-le-tensioni-commerciali-con-gli_92e1d447-7bcc-4540-8a30-b1cead673073.html",
      "data": "2026-08-24T15:57:24+00:00"
-    },
-    {
-     "titolo": "Misteriosi gruppi entrano ed escono dai tombini la notte, indagini a New York",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/24/misteriosi-gruppi-entrano-ed-escono-dai-tombini-la-notte-indagini-a-new-york_8423b158-2dee-4870-a5fb-f1c0941f494a.html",
-     "data": "2026-08-24T14:55:55+00:00"
     }
    ]
   },
@@ -441,14 +436,19 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Serie A: Roma-Fiorentina 3-0 DIRETTA e FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/serie-a-roma-fiorentina-3-0-diretta-e-foto_d59ddfa2-4f77-43c5-b361-7b7f9074ea28.html",
-     "data": "2026-08-24T20:09:45+00:00"
+     "titolo": "Serie A: la Roma travolge la Fiorentina 4-0 CRONACA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/serie-a-la-roma-travolge-la-fiorentina-4-0-cronaca-e-foto_d59ddfa2-4f77-43c5-b361-7b7f9074ea28.html",
+     "data": "2026-08-24T20:40:03+00:00"
+    },
+    {
+     "titolo": "Tripletta di Malen, la Roma fa poker con la Fiorentina",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/tripletta-di-malen-la-roma-fa-poker-con-la-fiorentina_a4166974-d264-47f4-a968-43ec6298b68c.html",
+     "data": "2026-08-24T20:41:37+00:00"
     },
     {
      "titolo": "Arianna Caruso passa al Real Madrid, cifra record per un'azzurra",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/arianna-caruso-passa-al-real-madrid-cifra-record-per-unazzurra_4f470c67-b129-4b7e-897e-4acc44dc7a85.html",
-     "data": "2026-08-24T19:23:08+00:00"
+     "data": "2026-08-24T20:16:33+00:00"
     },
     {
      "titolo": "Frattesi show al Dall'Ara, la Lazio passa a Bologna",
@@ -494,11 +494,6 @@
      "titolo": "Scontri tra tifosi in un derby, un morto e quattro feriti in Brasile",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/scontri-tra-tifosi-in-un-derby-un-morto-e-quattro-feriti-in-brasile_d6dd73b2-5793-41c9-ad96-a5a4eee1c680.html",
      "data": "2026-08-24T17:38:19+00:00"
-    },
-    {
-     "titolo": "Serie A: Grabara verso la Juve, sarà il vice Vicario",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/serie-a-grabara-verso-la-juve-sara-il-vice-vicario_fb782251-1105-4b0f-88bb-53b75e7d3384.html",
-     "data": "2026-08-24T17:35:01+00:00"
     }
    ]
   }
