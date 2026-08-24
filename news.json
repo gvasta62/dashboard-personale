@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-23T23:40:59.776485+00:00",
+ "aggiornato": "2026-08-24T00:26:58.175984+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura poco variata (+0,12%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/borsa-tokyo-apertura-poco-variata-012_cea59fcc-9124-4cc0-9fbf-2c26048cca5b.html",
+     "data": "2026-08-24T00:24:09+00:00"
+    },
+    {
+     "titolo": "Tennis: Winston-Salem, Bellucci al secondo turno contro Darderi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/tennis-winston-salem-bellucci-al-secondo-turno-contro-darderi_118fc786-10fa-4f8a-8e1a-e874cec08ca5.html",
+     "data": "2026-08-23T23:41:25+00:00"
+    },
     {
      "titolo": "Il premier britannico Burnham sarà oggi in visita a Kiev",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/il-premier-britannico-burnham-sara-oggi-in-visita-a-kiev_5484cde4-97f7-44a3-9832-20a7c3e36be4.html",
@@ -44,16 +54,6 @@
      "titolo": "Naufragio al largo di Zarzis in Tunisia, 11 cadaveri recuperati, tre dispersi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/naufragio-al-largo-di-zarzis-in-tunisia-11-cadaveri-recuperati-tre-dispersi_0c5ef9b9-631e-4e37-83b7-0151e00cdc73.html",
      "data": "2026-08-23T16:24:31+00:00"
-    },
-    {
-     "titolo": "Sondaggio palestinese rileva calo consensi Hamas, 79% vuole dimissioni Abu Mazen",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/sondaggio-palestinese-rileva-calo-consensi-hamas-79-vuole-dimissioni-abu-mazen_efafc9ca-ffdb-46ee-88f2-24e12653644f.html",
-     "data": "2026-08-23T16:16:48+00:00"
-    },
-    {
-     "titolo": "Wp, 'medici preoccupati dal peso di Trump, sulla soglia dell'obesità'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/wp-medici-preoccupati-dal-peso-di-trump-sulla-soglia-dellobesita_6251cbd8-2e71-4340-86c6-5eb824c41035.html",
-     "data": "2026-08-23T16:13:03+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura poco variata (+0,12%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/borsa-tokyo-apertura-poco-variata-012_f7e00861-a361-4888-bb70-c8c7182e53c5.html",
+     "data": "2026-08-24T00:24:05+00:00"
+    },
+    {
      "titolo": "Bessent: 'Arriva il D-day economico per l'Iran, chi sta con Teheran è paria'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/bessent-arriva-il-d-day-economico-per-liran-chi-sta-con-teheran_31252e3a-7998-42cb-80a9-002034bb377e.html",
      "data": "2026-08-23T23:21:13+00:00"
@@ -275,6 +280,16 @@
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Panama, l'aeroporto di Tocumen pronto per i voli diretti dal Giappone",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/24/panama-laeroporto-di-tocumen-pronto-per-i-voli-diretti-dal-giappone_44e44dc6-0193-4ac9-a0ca-d18d001b3f3b.html",
+     "data": "2026-08-24T00:13:09+00:00"
+    },
+    {
+     "titolo": "Città del Messico, l'italiana Leitner costruisce la Linea 4 del Cablebús",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/24/citta-del-messico-litaliana-leitner-costruisce-la-linea-4-del-cablebus_11a257a7-0e8f-4868-994a-33bda9948071.html",
+     "data": "2026-08-24T00:11:05+00:00"
+    },
     {
      "titolo": "Il premier britannico Burnham sarà oggi in visita a Kiev",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/24/il-premier-britannico-burnham-sara-oggi-in-visita-a-kiev_69fe8e52-4173-47fe-ae4b-e184c1963223.html",
@@ -324,16 +339,6 @@
      "titolo": "In 50.000 a manifestazione per il clima a Stoccolma, anche Greta Thunberg",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/23/in-50.000-a-manifestazione-per-il-clima-a-stoccolma-anche-greta-thunberg_44dbfc31-cdea-4e11-95f4-394727ac0f46.html",
      "data": "2026-08-23T14:44:51+00:00"
-    },
-    {
-     "titolo": "Wafa, un bambino di 4 anni ucciso in un raid israeliano a Gaza",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/23/wafa-un-bambino-di-4-anni-ucciso-in-un-raid-israeliano-a-gaza_139b2811-7131-4ffb-8042-9a966d04c245.html",
-     "data": "2026-08-23T14:19:33+00:00"
-    },
-    {
-     "titolo": "Giappone, cresce il turismo su misura per dormire bene",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/23/giappone-cresce-il-turismo-su-misura-per-dormire-bene_940c3c14-d003-4d7d-995c-197e28c78690.html",
-     "data": "2026-08-23T13:55:37+00:00"
     }
    ]
   },
@@ -406,6 +411,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Tennis: Winston-Salem, Bellucci al secondo turno contro Darderi",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/24/tennis-winston-salem-bellucci-al-secondo-turno-contro-darderi_f2ced6ce-314b-4da5-8037-a1fb9e7ae49f.html",
+     "data": "2026-08-23T23:41:41+00:00"
+    },
+    {
      "titolo": "Gattuso prova la ripartenza, la sua Lazio a Bologna",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/24/gattuso-prova-la-ripartenza-la-sua-lazio-a-bologna_e0065ee4-5c2c-416b-afad-eca111de636d.html",
      "data": "2026-08-23T22:31:14+00:00"
@@ -459,11 +469,6 @@
      "titolo": "Una doppietta di Ferran Torres evita al Psg la sconfitta all'esordio in Ligue1",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/una-doppietta-di-ferran-torres-evita-al-psg-la-sconfitta-allesordio-in-ligue1_64896a28-c3f0-41da-9874-856974f02370.html",
      "data": "2026-08-23T20:54:17+00:00"
-    },
-    {
-     "titolo": "Serie A: Raspadori e Krstovic, l'Atalanta batte 2-1 il Sassuolo alla prima di Sarri",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-raspadori-e-krstovic-latalanta-batte-2-1-il-sassuolo-alla-prima-di-sarri_54779351-9d7f-4949-89d8-087191ade156.html",
-     "data": "2026-08-23T20:38:54+00:00"
     }
    ]
   }
