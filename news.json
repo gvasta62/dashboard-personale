@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-24T21:49:38.673957+00:00",
+ "aggiornato": "2026-08-24T22:12:00.712376+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "F1:Olanda;scuse Hamilton per team radio'non mia miglior versione,orgoglioso Ferrari'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/f1olandascuse-hamilton-per-team-radionon-mia-miglior-versioneorgoglioso-ferrari_fd809dd3-f5b2-45fa-a116-85a0ce797bd9.html",
+     "data": "2026-08-24T21:54:09+00:00"
+    },
     {
      "titolo": "Roma è fatta per Oosterwolde, domani l'arrivo nella Capitale",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/roma-e-fatta-per-oosterwolde-domani-larrivo-nella-capitale_c6beca5d-13a2-4c72-965e-821bea95d7e6.html",
@@ -49,11 +54,6 @@
      "titolo": "Nuove sanzioni Usa all'Iran su oro, tech, aviazione e trasporto marittimo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/nuove-sanzioni-usa-alliran-su-oro-tech-aviazione-e-trasporto-marittimo_053ebddb-8b95-4375-9144-cdd4b5a1f272.html",
      "data": "2026-08-24T17:52:05+00:00"
-    },
-    {
-     "titolo": "Amlat: Izquierda latinoamericana advierte por injerencia de EEUU",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/amlat-izquierda-latinoamericana-advierte-por-injerencia-de-eeuu_f693da7f-355c-41ae-b29a-724dec4ca459.html",
-     "data": "2026-08-24T17:43:03+00:00"
     }
    ]
   },
@@ -138,7 +138,7 @@
     {
      "titolo": "Atteso l'interrogatorio di Tony Boy dopo l'arresto in diretta social",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/atteso-linterrogatorio-di-tony-boy-dopo-larresto-in-diretta-social-_afd52745-8664-4b9a-b053-b1ffb03579c0.html",
-     "data": "2026-08-24T20:29:29+00:00"
+     "data": "2026-08-24T22:05:35+00:00"
     },
     {
      "titolo": "Strage Viareggio, rubato il gilet di una vittima da Casina dei ricordi",
@@ -436,6 +436,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "F1:Olanda;scuse Hamilton per team radio'non mia miglior versione,orgoglioso Ferrari'",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/24/f1olandascuse-hamilton-per-team-radionon-mia-miglior-versioneorgoglioso-ferrari_5e567e22-f078-444c-aeaf-58777585dbf2.html",
+     "data": "2026-08-24T21:54:14+00:00"
+    },
+    {
      "titolo": "Roma è fatta per Oosterwolde, domani l'arrivo nella Capitale",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/roma-e-fatta-per-oosterwolde-domani-larrivo-nella-capitale_4f368b89-82da-44d5-a3ae-33a8d4a94e25.html",
      "data": "2026-08-24T21:43:56+00:00"
@@ -488,12 +493,7 @@
     {
      "titolo": "Calciomercato: Di Gregorio va al Bornemouth, il Como accelera per Kean",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/calciomercato-di-gregorio-va-al-bornemouth-il-como-accelera-per-kean_13ea32dd-230d-4f2b-980d-bfd5725eb73e.html",
-     "data": "2026-08-24T18:15:03+00:00"
-    },
-    {
-     "titolo": "Calcio: riparte il processo di Biscardi e tocca la 41/a edizione",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/calcio-riparte-il-processo-di-biscardi-e-tocca-la-41a-edizione_6a2739d3-8752-471f-a7c1-91f8a7706217.html",
-     "data": "2026-08-24T18:13:55+00:00"
+     "data": "2026-08-24T21:55:46+00:00"
     }
    ]
   }
