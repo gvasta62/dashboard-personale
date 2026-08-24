@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-24T00:26:58.175984+00:00",
+ "aggiornato": "2026-08-24T02:04:40.671697+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Amatrice ricorda con il silenzio e una fiaccolata le vittime del terremoto",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/amatrice-ricorda-con-il-silenzio-e-una-fiaccolata-le-vittime-del-terremoto_5ecbe942-38bf-48e0-807d-89d8272de3db.html",
+     "data": "2026-08-24T01:44:03+00:00"
+    },
+    {
+     "titolo": "Detriti di droni ucraini su un asilo della città russa di Krasnodar, morti 2 bambini",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/detriti-di-droni-ucraini-su-un-asilo-della-citta-russa-di-krasnodar-morti-2-bambini_bd0344a6-6c51-410e-ac89-f6e3a4932067.html",
+     "data": "2026-08-24T01:16:08+00:00"
+    },
+    {
+     "titolo": "Shein si quoterà in Borsa dal 1 settembre",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/shein-si-quotera-in-borsa-dal-1-settembre_7e06960e-3167-434a-9691-5d1b0d2c63f5.html",
+     "data": "2026-08-24T00:44:00+00:00"
+    },
     {
      "titolo": "Borsa: Tokyo, apertura poco variata (+0,12%)",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/borsa-tokyo-apertura-poco-variata-012_cea59fcc-9124-4cc0-9fbf-2c26048cca5b.html",
@@ -39,21 +54,6 @@
      "titolo": "Crans-Montana, Jacques Moretti arrestato per violenze sulla moglie Jessica",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/crans-montana-jacques-moretti-arrestato-per-violenze-sulla-moglie-jessica_7589b5fc-eb03-4eaf-8ca1-f59dcc28f7f0.html",
      "data": "2026-08-23T18:24:20+00:00"
-    },
-    {
-     "titolo": "Box office Usa, Spider Man e l'horror Insidious portano in vetta la Sony",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/box-office-usa-spider-man-e-lhorror-insidious-portano-in-vetta-la-sony_2cca2436-867c-44b0-ac1a-2a31228369b4.html",
-     "data": "2026-08-23T17:15:39+00:00"
-    },
-    {
-     "titolo": "Bonelli, sequestrare la Sea Watch è un crimine contro l'umanità",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/bonelli-sequestrare-la-sea-watch-e-un-crimine-contro-lumanita_8ab8def7-f3b3-4b6e-a5ac-796e740959b0.html",
-     "data": "2026-08-23T16:30:52+00:00"
-    },
-    {
-     "titolo": "Naufragio al largo di Zarzis in Tunisia, 11 cadaveri recuperati, tre dispersi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/23/naufragio-al-largo-di-zarzis-in-tunisia-11-cadaveri-recuperati-tre-dispersi_0c5ef9b9-631e-4e37-83b7-0151e00cdc73.html",
-     "data": "2026-08-23T16:24:31+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Amatrice ricorda con il silenzio e una fiaccolata le vittime del terremoto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/amatrice-ricorda-con-il-silenzio-e-una-fiaccolata-le-vittime-del-terremoto_d68f353a-42a0-429f-9993-ce9b8a12806a.html",
+     "data": "2026-08-24T01:43:59+00:00"
+    },
+    {
+     "titolo": "Amatrice ricorda con il silenzio e una fiaccolata le vittime del terremoto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/amatrice-ricorda-con-il-silenzio-e-una-fiaccolata-le-vittime-del-terremoto_83147766-c223-463a-8432-75c6060f5ff0.html",
+     "data": "2026-08-24T01:50:30+00:00"
+    },
+    {
      "titolo": "Crans-Montana, Jacques Moretti arrestato per violenze sulla moglie Jessica",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/crans-montana-jacques-moretti-arrestato-per-violenze-sulla-moglie-jessica_2731a2d3-3a22-45f5-85a2-e98985a23e90.html",
      "data": "2026-08-23T21:30:24+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Muore in Croazia durante una vacanza, l'autopsia ha stabilito che il decesso è avvenuto per annegamento",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/muore-in-croazia-durante-una-vacanza-lautopsia-ha-stabilito-che-il-decesso-e-avvenuto_7e469849-23e3-41f2-9102-19bed4a7c09a.html",
      "data": "2026-08-23T15:39:25+00:00"
-    },
-    {
-     "titolo": "Si schianta l'auto condotta dal papà, muore una 11enne, grave la sorella",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/auto-contro-platano-gravissime-due-sorelline_9ebc49a5-be8e-4d19-8aba-8e8a9693e760.html",
-     "data": "2026-08-23T20:03:12+00:00"
-    },
-    {
-     "titolo": "Esuli giuliano-dalmati, noi testimoni di tutti i totalitarismi del '900",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/esuli-giuliano-dalmati-noi-testimoni-di-tutti-i-totalitarismi-del-900_66d0c64c-fc10-413b-95b0-d3c6c36b8793.html",
-     "data": "2026-08-23T14:19:48+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Shein si quoterà in Borsa dal 1 settembre",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/shein-si-quotera-in-borsa-dal-1-settembre_48353556-71e7-4103-a5ce-b26377268e23.html",
+     "data": "2026-08-24T00:44:16+00:00"
+    },
+    {
      "titolo": "Borsa: Tokyo, apertura poco variata (+0,12%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/borsa-tokyo-apertura-poco-variata-012_f7e00861-a361-4888-bb70-c8c7182e53c5.html",
      "data": "2026-08-24T00:24:05+00:00"
@@ -280,6 +285,11 @@
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Detriti di droni ucraini su un asilo della città russa di Krasnodar, morti 2 bambini",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/24/detriti-di-droni-ucraini-su-un-asilo-della-citta-russa-di-krasnodar-morti-2-bambini_082643d9-ed8f-41b8-90bd-29f217006daf.html",
+     "data": "2026-08-24T01:16:24+00:00"
+    },
     {
      "titolo": "Panama, l'aeroporto di Tocumen pronto per i voli diretti dal Giappone",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/24/panama-laeroporto-di-tocumen-pronto-per-i-voli-diretti-dal-giappone_44e44dc6-0193-4ac9-a0ca-d18d001b3f3b.html",
@@ -306,6 +316,11 @@
      "data": "2026-08-23T23:21:28+00:00"
     },
     {
+     "titolo": "Oggi la riunione dei Volenterosi, Zelensky chiede 300 patriot",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/23/il-piano-di-pace-per-lucraina-zelensky-chiede-300-patriot_3348ff89-05a7-4431-b22f-1a911fe3f468.html",
+     "data": "2026-08-24T01:46:22+00:00"
+    },
+    {
      "titolo": "Spegne gli incendi vestito da Superman, 17enne indonesiano star del web",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/23/spegne-gli-incendi-vestito-da-superman-17enne-indonesiano-star-del-web_adef8dd9-83ea-45f2-b41f-5f804fe14d08.html",
      "data": "2026-08-23T17:08:57+00:00"
@@ -329,16 +344,6 @@
      "titolo": "Il Jack Daniel's in crisi, è lite fra gli eredi del whisky",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/23/il-jack-daniels-in-crisi-e-lite-fra-gli-eredi-del-whisky_8cddff68-9fcf-468a-8a4b-252a6bb705bd.html",
      "data": "2026-08-23T16:11:24+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'la Russia mobiliterà 300mila persone dopo le elezioni'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/23/zelensky-la-russia-mobilitera-300mila-persone-dopo-le-elezioni_a4f09c67-5416-4fc7-aebb-aeb274291249.html",
-     "data": "2026-08-23T15:09:17+00:00"
-    },
-    {
-     "titolo": "In 50.000 a manifestazione per il clima a Stoccolma, anche Greta Thunberg",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/23/in-50.000-a-manifestazione-per-il-clima-a-stoccolma-anche-greta-thunberg_44dbfc31-cdea-4e11-95f4-394727ac0f46.html",
-     "data": "2026-08-23T14:44:51+00:00"
     }
    ]
   },
