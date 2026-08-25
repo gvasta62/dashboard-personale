@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-25T06:21:18.166744+00:00",
+ "aggiornato": "2026-08-25T07:14:50.419844+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: l'Europa parte in lieve aumento, Londra +0,2%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/borsa-leuropa-parte-in-lieve-aumento-londra-02_e2194ab5-3df8-4de7-9285-78bbaa47ed9d.html",
+     "data": "2026-08-25T07:07:16+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano apre in rialzo, Ftse Mib +0,54%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/borsa-milano-apre-in-rialzo-ftse-mib-054_b95f7156-fd58-4982-b5a0-0be0a9964d02.html",
+     "data": "2026-08-25T07:03:54+00:00"
+    },
+    {
+     "titolo": "Il gas parte calmo a 68 euro al Megawattora",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/il-gas-parte-calmo-a-68-euro-al-megawattora_217b6022-13be-4ec1-a307-6e7989a6b1b8.html",
+     "data": "2026-08-25T06:57:12+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund apre stabile a 82 punti base",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/lo-spread-tra-btp-e-bund-apre-stabile-a-82-punti-base_9e485619-db02-4bff-a9e2-33c530138461.html",
+     "data": "2026-08-25T06:44:56+00:00"
+    },
     {
      "titolo": "Attacco alla raffineria russa di Krasnodar, due morti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/attacco-alla-raffineria-russa-di-krasnodar-due-morti_a0c4769e-d667-4a68-adb0-c7ccece92cbd.html",
@@ -34,26 +54,6 @@
      "titolo": "Il Nevada fa causa a Trump per il piano sul fiume Colorado",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/il-nevada-fa-causa-a-trump-per-il-piano-sul-fiume-colorado_172d3cc4-bd3d-4628-bf21-bae0fce9fe73.html",
      "data": "2026-08-25T00:02:16+00:00"
-    },
-    {
-     "titolo": "'Trump pronto a revocare 200mila visti a stranieri che hanno chiesto asilo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/trump-pronto-a-revocare-200mila-visti-a-stranieri-che-hanno-chiesto-asilo_131790ae-f773-4f2d-8405-040e423132f7.html",
-     "data": "2026-08-24T22:46:16+00:00"
-    },
-    {
-     "titolo": "F1:Olanda;scuse Hamilton per team radio'non mia miglior versione,orgoglioso Ferrari'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/f1olandascuse-hamilton-per-team-radionon-mia-miglior-versioneorgoglioso-ferrari_fd809dd3-f5b2-45fa-a116-85a0ce797bd9.html",
-     "data": "2026-08-24T21:54:09+00:00"
-    },
-    {
-     "titolo": "Roma è fatta per Oosterwolde, domani l'arrivo nella Capitale",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/roma-e-fatta-per-oosterwolde-domani-larrivo-nella-capitale_c6beca5d-13a2-4c72-965e-821bea95d7e6.html",
-     "data": "2026-08-24T21:43:38+00:00"
-    },
-    {
-     "titolo": "Gasperini 'Dybala non ha muscoli di seta, è chiave per puntare in alto'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/gasperini-dybala-non-ha-muscoli-di-seta-e-chiave-per-puntare-in-alto_dc79ced9-bd5b-4b46-9568-e6f72d5d392f.html",
-     "data": "2026-08-24T21:21:05+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Galleria di Base del Brennero, completato il primo tunnel di linea",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/galleria-di-base-del-brennero-completato-il-primo-tunnel-di-linea_e9ed064f-ce5f-42de-851b-8e527e442d30.html",
+     "data": "2026-08-25T07:06:25+00:00"
+    },
+    {
+     "titolo": "Lavitola al Riesame il 7 settembre, attesa per le decisioni Rai su Ranucci",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/lavitola-al-riesame-il-7-settembre-attesa-per-le-decisioni-rai-su-ranucci_16eba8bd-021d-40b9-b3e4-ad3b78ecbb1e.html",
+     "data": "2026-08-25T06:26:50+00:00"
+    },
+    {
      "titolo": "Incendio in uno scantinato a Bologna, soccorsi anche due bambini",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/incendio-in-uno-scantinato-a-bologna-soccorsi-anche-due-bambini_080bb17d-aa74-4af7-b197-62598c3ce3eb.html",
      "data": "2026-08-25T04:20:45+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Generatori e mezzi antiaerei, nuovi aiuti dell'Italia a Kiev",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/generatori-e-mezzi-antiaerei-nuovi-aiuti-dellitalia-a-kiev_d56f0d6e-ec78-4ba3-befa-afd5d6ff155f.html",
      "data": "2026-08-24T18:34:14+00:00"
-    },
-    {
-     "titolo": "Ad Amatrice la contro-messa di protesta, 'no alle passerelle'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/ad-amatrice-la-contro-messa-di-protesta-no-alle-passerelle_12e044bf-039b-458b-bf51-afab5587c6f2.html",
-     "data": "2026-08-24T18:07:24+00:00"
-    },
-    {
-     "titolo": "Bimba morta a Palermo, Iss 'positivo alla difterite il campione'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/bimba-morta-a-palermo-iss-positivo-alla-difterite-il-campione_22ede14f-0511-4389-a139-d148b90bd4be.html",
-     "data": "2026-08-24T17:41:11+00:00"
     }
    ]
   },
@@ -236,6 +236,41 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Salvini, cantieri a rischio fermo, 20 miliardi di scostamento per la manovra",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/salvini-cantieri-a-rischio-fermo-20-miliardi-di-scostamento-per-la-manovra_4513ed6d-f8bd-4705-b5af-a03d07d230e7.html",
+     "data": "2026-08-25T07:10:38+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Europa parte in lieve aumento, Londra +0,2%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/borsa-leuropa-parte-in-lieve-aumento-londra-02_228109cb-fcf7-4c20-bf77-1d0e4a97f4ee.html",
+     "data": "2026-08-25T07:07:14+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano apre in rialzo, Ftse Mib +0,54%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/borsa-milano-apre-in-rialzo-ftse-mib-054_af74ec72-6730-4513-99b6-d3f246f4f285.html",
+     "data": "2026-08-25T07:03:57+00:00"
+    },
+    {
+     "titolo": "Il gas parte calmo a 68 euro al Megawattora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/il-gas-parte-calmo-a-68-euro-al-megawattora_f01f553d-5dcd-4ce2-a45d-082b8e6e2f67.html",
+     "data": "2026-08-25T06:57:13+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund apre stabile a 82 punti base",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/lo-spread-tra-btp-e-bund-apre-stabile-a-82-punti-base_68a68c2f-154a-4788-a2c3-0c2050e8b145.html",
+     "data": "2026-08-25T06:44:54+00:00"
+    },
+    {
+     "titolo": "Leonardo Maria Del Vecchio lascia tutti gli incarichi in EssilorLuxottica",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/leonardo-maria-del-vecchio-lascia-tutti-gli-incarichi-in-essilorluxottica_7c8c8c0a-37f4-4789-9ce7-3d8491002bec.html",
+     "data": "2026-08-25T06:21:08+00:00"
+    },
+    {
+     "titolo": "Leonardo Maria Del Vecchio lascia tutti gli incarichi in EssilorLuxottica",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/leonardo-maria-del-vecchio-lascia-tutti-gli-incarichi-in-essilorluxottica_599d4f8b-643b-41f5-840d-6d39dd690a32.html",
+     "data": "2026-08-25T06:22:59+00:00"
+    },
+    {
      "titolo": "Prezzo oro poco mosso, Spot scambiato a 4.644 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/prezzo-oro-poco-mosso-spot-scambiato-a-4.644-dollari_37ded187-c4c4-4700-84c3-66c71076465f.html",
      "data": "2026-08-25T06:16:27+00:00"
@@ -259,41 +294,6 @@
      "titolo": "Una tecnologia italiana alimenterà una missione Nasa per lo studio del clima",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/una-tecnologia-italiana-alimentera-una-missione-nasa-per-lo-studio-del_a4accd64-bd4c-4d05-af69-3d90f4ed2827.html",
      "data": "2026-08-24T17:36:48+00:00"
-    },
-    {
-     "titolo": "Porsche cede a Tata Consultancy Services la società di consulenza Mhp",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/porsche-cede-a-tata-consultancy-services-la-societa-di-consulenza-mhp_7b8b4578-3c5c-4cf6-a626-7f287c614057.html",
-     "data": "2026-08-24T17:23:07+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas sale a 68,90 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/il-prezzo-del-gas-sale-a-6890-euro-al-megawattora_1fd472a9-0135-41e7-872d-04f125d23f5c.html",
-     "data": "2026-08-24T16:50:04+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude debole, lente sul risiko bancario",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/borsa-milano-chiude-debole-lente-sul-risiko-bancario_674b542c-a6f5-49c8-89dd-a9b2a20fb0f0.html",
-     "data": "2026-08-24T16:14:48+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude stabile a 82 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/lo-spread-tra-btp-e-bund-chiude-stabile-a-82-punti_9fc2782f-1b5c-4c04-9aad-e42c444d5ac0.html",
-     "data": "2026-08-24T16:13:16+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude in ordine sparso, si guarda allo scontro Usa-Iran",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/borsa-leuropa-chiude-in-ordine-sparso-si-guarda-allo-scontro-usa-iran_93924a74-0ff2-4492-8f9d-a04a22224ee4.html",
-     "data": "2026-08-24T15:51:05+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in calo dello 0,24%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/borsa-milano-chiude-in-calo-dello-024_b62edb5d-ffa3-4d33-987a-638e4e85f9f8.html",
-     "data": "2026-08-24T15:49:49+00:00"
-    },
-    {
-     "titolo": "Fincantieri, nessun ruolo Ntg in trattative per vendita fregate al Portogallo",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/fincantieri-nessun-ruolo-ntg-in-trattative-per-vendita-fregate-al-portogallo_192b9b83-82ff-4963-990e-2c844d94dd9e.html",
-     "data": "2026-08-24T15:24:30+00:00"
     }
    ]
   },
