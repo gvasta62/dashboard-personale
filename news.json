@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-25T05:53:16.333329+00:00",
+ "aggiornato": "2026-08-25T06:21:18.166744+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -228,18 +228,28 @@
     {
      "titolo": "Ricostruzione, monito di Mattarella. Meloni ad Amatrice dai parenti delle vittime",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/24/dieci-anni-dal-sisma-di-amatrice-mattarella-sia-monito-per-la-prevenzione_861ad054-17c8-4d17-baf8-cd7380410b08.html",
-     "data": "2026-08-24T18:08:19+00:00"
-    },
-    {
-     "titolo": "Piantedosi ferma la Sea Watch, multa e stop di 45 giorni",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/23/piantedosi-ferma-la-sea-watch-multa-e-stop-di-45-giorni_8571281d-be31-49fa-aafd-7f38479c2042.html",
-     "data": "2026-08-23T21:29:54+00:00"
+     "data": "2026-08-25T06:17:44+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Prezzo oro poco mosso, Spot scambiato a 4.644 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/prezzo-oro-poco-mosso-spot-scambiato-a-4.644-dollari_37ded187-c4c4-4700-84c3-66c71076465f.html",
+     "data": "2026-08-25T06:16:27+00:00"
+    },
+    {
+     "titolo": "Prezzo petrolio in lieve calo, Wti scambiato a 84,67 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/prezzo-petrolio-in-lieve-calo-wti-scambiato-a-8467-dollari_4677dc80-0a0b-44ca-902e-158541f3bccd.html",
+     "data": "2026-08-25T06:06:34+00:00"
+    },
+    {
+     "titolo": "Euro poco mosso, scambiato a 1,1654 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/euro-poco-mosso-scambiato-a-11654-dollari_2c7e62fc-02f8-45aa-9664-8f591c341ca9.html",
+     "data": "2026-08-25T06:01:33+00:00"
+    },
     {
      "titolo": "Borsa: Tokyo, apertura in calo (-0,62%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/borsa-tokyo-apertura-in-calo-062_ac761e5d-7d66-4a40-a1bb-169e2b078b29.html",
@@ -284,21 +294,6 @@
      "titolo": "Fincantieri, nessun ruolo Ntg in trattative per vendita fregate al Portogallo",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/fincantieri-nessun-ruolo-ntg-in-trattative-per-vendita-fregate-al-portogallo_192b9b83-82ff-4963-990e-2c844d94dd9e.html",
      "data": "2026-08-24T15:24:30+00:00"
-    },
-    {
-     "titolo": "Dalle 8 major del petrolio 7,5 miliardi di extraprofitti nei 6 mesi in Ue",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/dalle-8-major-del-petrolio-75-miliardi-di-extraprofitti-nei-6-mesi-in-ue_de07cbd5-ced2-4d39-afed-7b1ab990dcae.html",
-     "data": "2026-08-24T18:20:16+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa debole dopo Wall Street, Milano -0,3%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/borsa-leuropa-debole-dopo-wall-street-milano-03_3032cfb3-729b-4461-b35d-8610e40bae8a.html",
-     "data": "2026-08-24T13:56:56+00:00"
-    },
-    {
-     "titolo": "Pichetto, entro metà settembre la proposta per la flessibilità Ue",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/pichetto-entro-meta-settembre-la-proposta-per-la-flessibilita-ue_93f3339c-65a7-4880-ae38-bae5f21f9394.html",
-     "data": "2026-08-24T13:31:31+00:00"
     }
    ]
   },
