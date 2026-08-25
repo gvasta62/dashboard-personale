@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-24T23:41:49.910254+00:00",
+ "aggiornato": "2026-08-25T00:26:37.641772+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,62%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/borsa-tokyo-apertura-in-calo-062_8de0e9f2-bb98-4d1f-899b-a9a8e6913900.html",
+     "data": "2026-08-25T00:13:36+00:00"
+    },
+    {
+     "titolo": "Il Nevada fa causa a Trump per il piano sul fiume Colorado",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/il-nevada-fa-causa-a-trump-per-il-piano-sul-fiume-colorado_172d3cc4-bd3d-4628-bf21-bae0fce9fe73.html",
+     "data": "2026-08-25T00:02:16+00:00"
+    },
     {
      "titolo": "'Trump pronto a revocare 200mila visti a stranieri che hanno chiesto asilo'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/trump-pronto-a-revocare-200mila-visti-a-stranieri-che-hanno-chiesto-asilo_131790ae-f773-4f2d-8405-040e423132f7.html",
@@ -44,16 +54,6 @@
      "titolo": "Tripletta di Malen, la Roma fa poker con la Fiorentina",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/tripletta-di-malen-la-roma-fa-poker-con-la-fiorentina_24f47d57-f32f-41a1-93c8-33d5778ab942.html",
      "data": "2026-08-24T20:41:37+00:00"
-    },
-    {
-     "titolo": "Díaz-Canel, 'dialogo con gli Usa in una fase di stallo, nessuna agenda definita'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/diaz-canel-dialogo-con-gli-usa-in-una-fase-di-stallo-nessuna_db4e6e3c-5424-42c1-8e74-2242bddabf68.html",
-     "data": "2026-08-24T19:45:19+00:00"
-    },
-    {
-     "titolo": "Allerta aerea a Kiev, Costa e Stubb evacuati in un rifugio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/allerta-aerea-a-kiev-costa-e-stubb-evacuati-in-un-rifugio_24203e10-1ca6-470b-b496-4e816edc6845.html",
-     "data": "2026-08-24T18:37:43+00:00"
     }
    ]
   },
@@ -241,6 +241,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,62%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/borsa-tokyo-apertura-in-calo-062_ac761e5d-7d66-4a40-a1bb-169e2b078b29.html",
+     "data": "2026-08-25T00:13:39+00:00"
+    },
+    {
      "titolo": "Una tecnologia italiana alimenterà una missione Nasa per lo studio del clima",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/una-tecnologia-italiana-alimentera-una-missione-nasa-per-lo-studio-del_a4accd64-bd4c-4d05-af69-3d90f4ed2827.html",
      "data": "2026-08-24T17:36:48+00:00"
@@ -294,17 +299,22 @@
      "titolo": "Pichetto, entro metà settembre la proposta per la flessibilità Ue",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/pichetto-entro-meta-settembre-la-proposta-per-la-flessibilita-ue_93f3339c-65a7-4880-ae38-bae5f21f9394.html",
      "data": "2026-08-24T13:31:31+00:00"
-    },
-    {
-     "titolo": "Giani 'diremo a Giorgetti che Stato non venda quota Mps'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/giani-diremo-a-giorgetti-che-stato-non-venda-quota-mps_1625525e-4c38-4497-8d84-a344459f69c3.html",
-     "data": "2026-08-24T12:07:55+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Brasile, scoperta rete di ricettazione grazie a un collier regalato a Neymar",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/brasile-scoperta-rete-di-ricettazione-grazie-a-un-collier-regalato-a-neymar_99160351-b247-47e9-9f6b-7edc205df407.html",
+     "data": "2026-08-24T23:50:04+00:00"
+    },
+    {
+     "titolo": "Messico, trovati i resti di un consulente dell'ex governatore di Sinaloa Rocha Moya",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/messico-trovati-i-resti-di-un-consulente-dellex-governatore-di-sinaloa-rocha-moya_85b1c8a2-2860-4454-8f0a-1bf2303d6973.html",
+     "data": "2026-08-24T23:34:34+00:00"
+    },
     {
      "titolo": "Perù, Fujimori conferma l'incontro con l'imprenditore argentino Valenzuela",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/peru-fujimori-conferma-lincontro-con-limprenditore-argentino-valenzuela_4cac9eb5-6f49-4ec8-881e-b36cc1ff6f52.html",
@@ -354,16 +364,6 @@
      "titolo": "Nuove sanzioni Usa all'Iran su oro, tech, aviazione e trasporto marittimo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/24/nuove-sanzioni-usa-alliran-su-oro-tech-aviazione-e-trasporto-marittimo_39ffaf63-ae21-450e-a47f-45f1cad5d095.html",
      "data": "2026-08-24T17:52:20+00:00"
-    },
-    {
-     "titolo": "Nuove sanzioni Usa all'Iran su oro, tech, aviazione e trasporto marittimo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/24/nuove-sanzioni-usa-alliran-su-oro-tech-aviazione-e-trasporto-marittimo_b0d3434e-f46b-407b-834d-d97b655970d7.html",
-     "data": "2026-08-24T17:52:22+00:00"
-    },
-    {
-     "titolo": "Nuove sanzioni Usa all'Iran su oro, tech, aviazione e trasporto marittimo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/24/nuove-sanzioni-usa-alliran-su-oro-tech-aviazione-e-trasporto-marittimo_78377d5f-84eb-4fb7-a1b1-88060b6cf33e.html",
-     "data": "2026-08-24T17:52:22+00:00"
     }
    ]
   },
