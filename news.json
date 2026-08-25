@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-25T19:05:31.326174+00:00",
+ "aggiornato": "2026-08-25T19:50:34.929127+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Perde il controllo, cade e muore con il parapendio, l'incidente in Alto Adige",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/perde-il-controllo-cade-e-muore-con-il-parapendio-lincidente-in-alto-adige_455aaeb8-3108-4658-8160-be7f82aa046f.html",
+     "data": "2026-08-25T19:10:49+00:00"
+    },
+    {
      "titolo": "Morte avvelenate, in casa sequestrati dal pane al cestino dell'immondizia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/morte-avvelenate-in-casa-sequestrati-dal-pane-al-cestino-dellimmondizia_add1f704-c875-449f-a68f-b82edf23032a.html",
      "data": "2026-08-25T18:52:15+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Aggredisce donna con l'acido su commissione, arrestato a Venezia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/aggredisce-donna-con-lacido-su-commissione-arrestato-a-venezia_e51aca99-1416-48d4-9343-d16148e33b8e.html",
      "data": "2026-08-25T15:02:11+00:00"
-    },
-    {
-     "titolo": "Rapina violenta a turista nel centro di Firenze, due arrestati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/rapina-violenta-a-turista-nel-centro-di-firenze-due-arrestati_645708f2-4b13-4916-8cf5-dc46973564f4.html",
-     "data": "2026-08-25T14:14:55+00:00"
     }
    ]
   },
@@ -213,7 +213,7 @@
     {
      "titolo": "La Rai cerca l'exit strategy per Ranucci, l'ipotesi del ritorno a una testata",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/riunione-in-rai-sul-caso-ranucci-la-decisione-attesa-nei-prossimi-giorni_ac4d4dfa-073b-484e-95d3-da62a2e48e18.html",
-     "data": "2026-08-25T18:39:59+00:00"
+     "data": "2026-08-25T19:16:15+00:00"
     },
     {
      "titolo": "Salvini, penso proroga accise per alcuni giorni, fino a settembre",
@@ -243,7 +243,7 @@
     {
      "titolo": "Salvini: 'Nessun passo di lato'. Con Fontana solo una foto al meeting",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/il-paese-che-si-muove-lincontro-al-meeting-di-rimini-con-salvini_540f01dd-1fb0-48ce-85bd-7508f2cf250a.html",
-     "data": "2026-08-25T19:01:15+00:00"
+     "data": "2026-08-25T19:35:09+00:00"
     }
    ]
   },
@@ -446,6 +446,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Cobolli e Bencic ai quarti nel doppio misto",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/25/cobolli-e-bencic-ai-quarti-nel-doppio-misto_a0f27fc0-9d66-4ef0-ba44-26260eb3bb40.html",
+     "data": "2026-08-25T19:30:06+00:00"
+    },
+    {
      "titolo": "Juve: ufficiale Grabara, arriva in prestito per 500mila euro",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/juve-ufficiale-grabara-arriva-in-prestito-per-500mila-euro_c861e61f-b8df-481e-b536-342d77d59dda.html",
      "data": "2026-08-25T18:44:44+00:00"
@@ -499,11 +504,6 @@
      "titolo": "Rafa Leao aspetta l'offerta giusta, 'Dio guida tutto'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/rafa-leao-aspetta-lofferta-giusta-dio-guida-tutto_90bb7720-78e3-4975-b4ea-9579b57536df.html",
      "data": "2026-08-25T16:22:34+00:00"
-    },
-    {
-     "titolo": "Us Open: rivolta dei fan per caro biglietti, Mamdani in campo per i newyorchesi",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/25/us-open-rivolta-dei-fan-per-caro-biglietti-mamdani-in-campo-per_139a03dc-7d94-46bc-b424-6ee864393b42.html",
-     "data": "2026-08-25T16:22:55+00:00"
     }
    ]
   }
