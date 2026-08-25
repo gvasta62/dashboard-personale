@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-25T07:14:50.419844+00:00",
+ "aggiornato": "2026-08-25T08:03:46.603656+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Pechino, 'sanzioni Usa a Iran sono illegali, tuteleremo i nostri interessi'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/pechino-sanzioni-usa-a-iran-sono-illegali-tuteleremo-i-nostri-interessi_8365554f-e524-49df-b7b3-022aa2832f6c.html",
+     "data": "2026-08-25T07:53:19+00:00"
+    },
+    {
+     "titolo": "Taglia Usa da 10 milioni di dollari su capo e vertici Pasdaran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/taglia-usa-da-10-milioni-di-dollari-su-capo-e-vertici-pasdaran_e8c9aae3-e236-4614-aaa1-6e14f6fe159f.html",
+     "data": "2026-08-25T07:38:02+00:00"
+    },
     {
      "titolo": "Borsa: l'Europa parte in lieve aumento, Londra +0,2%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/borsa-leuropa-parte-in-lieve-aumento-londra-02_e2194ab5-3df8-4de7-9285-78bbaa47ed9d.html",
@@ -44,16 +54,6 @@
      "titolo": "Venezuela, a due mesi dal terremoto sale a 6.509 il bilancio delle vittime",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/venezuela-a-due-mesi-dal-terremoto-sale-a-6.509-il-bilancio-delle-vittime_0746517c-605a-45f3-b1bf-cfd7b654712b.html",
      "data": "2026-08-25T01:06:39+00:00"
-    },
-    {
-     "titolo": "Borsa: Tokyo, apertura in calo (-0,62%)",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/borsa-tokyo-apertura-in-calo-062_8de0e9f2-bb98-4d1f-899b-a9a8e6913900.html",
-     "data": "2026-08-25T00:13:36+00:00"
-    },
-    {
-     "titolo": "Il Nevada fa causa a Trump per il piano sul fiume Colorado",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/il-nevada-fa-causa-a-trump-per-il-piano-sul-fiume-colorado_172d3cc4-bd3d-4628-bf21-bae0fce9fe73.html",
-     "data": "2026-08-25T00:02:16+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Pubblica sui social le foto di armi ed esplosivi, arrestato nel Rodigino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/pubblica-sui-social-le-foto-di-armi-ed-esplosivi-arrestato-nel-rodigino_d3698d22-3aad-4f52-8849-2a6bb17a0ad5.html",
+     "data": "2026-08-25T07:58:41+00:00"
+    },
+    {
+     "titolo": "Furto al Museo di Messina, un custode indagato per false dichiarazioni ai pm",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/furto-al-museo-di-messina-un-custode-indagato-per-false-dichiarazioni-ai-pm_29cc0539-03c3-42b2-bf38-e7aa039e2bdf.html",
+     "data": "2026-08-25T07:38:39+00:00"
+    },
+    {
      "titolo": "Galleria di Base del Brennero, completato il primo tunnel di linea",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/galleria-di-base-del-brennero-completato-il-primo-tunnel-di-linea_e9ed064f-ce5f-42de-851b-8e527e442d30.html",
      "data": "2026-08-25T07:06:25+00:00"
@@ -174,22 +184,22 @@
      "titolo": "Morto in scontro nel porto di Vibo, padre 'vogliamo giustizia'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/morto-in-scontro-nel-porto-di-vibo-padre-vogliamo-giustizia_ab9bf67a-92a2-41af-8841-8f29d6bfdafb.html",
      "data": "2026-08-24T17:59:48+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-08-24T17:57:27+00:00"
-    },
-    {
-     "titolo": "Generatori e mezzi antiaerei, nuovi aiuti dell'Italia a Kiev",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/generatori-e-mezzi-antiaerei-nuovi-aiuti-dellitalia-a-kiev_d56f0d6e-ec78-4ba3-befa-afd5d6ff155f.html",
-     "data": "2026-08-24T18:34:14+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Salvini: 'Cantieri a rischio fermo, 20 miliardi di scostamento per la manovra'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/salvini-cantieri-a-rischio-fermo-20-miliardi-di-scostamento-per-la-manovra_1c604a4e-4993-476a-a3aa-4f964c835208.html",
+     "data": "2026-08-25T07:51:30+00:00"
+    },
+    {
+     "titolo": "'Il Paese che si muove', l'incontro al Meeting di Rimini con Salvini",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/il-paese-che-si-muove-lincontro-al-meeting-di-rimini-con-salvini_540f01dd-1fb0-48ce-85bd-7508f2cf250a.html",
+     "data": "2026-08-25T07:21:31+00:00"
+    },
     {
      "titolo": "Bruxelles gela l'Italia sugli extraprofitti, 'tocca ai governi'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/24/bruxelles-gela-litalia-sugli-extraprofitti-tocca-ai-governi_bb234d6e-445d-46d7-ac40-aabd10547f04.html",
@@ -224,11 +234,6 @@
      "titolo": "Mattarella, ricostruzione dopo terremoto è impegno complesso, ultimarla velocemente",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/24/mattarella-ricostruzione-dopo-terremoto-e-impegno-complesso-ultimarla-velocemente_38f5661a-1b2d-433b-8093-c10a7bfc4974.html",
      "data": "2026-08-24T08:00:49+00:00"
-    },
-    {
-     "titolo": "Ricostruzione, monito di Mattarella. Meloni ad Amatrice dai parenti delle vittime",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/24/dieci-anni-dal-sisma-di-amatrice-mattarella-sia-monito-per-la-prevenzione_861ad054-17c8-4d17-baf8-cd7380410b08.html",
-     "data": "2026-08-25T06:17:44+00:00"
     }
    ]
   },
@@ -301,6 +306,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Pechino, 'sanzioni Usa a Iran sono illegali, tuteleremo i nostri interessi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/25/pechino-sanzioni-usa-a-iran-sono-illegali-tuteleremo-i-nostri-interessi_7da5134f-d6c1-4fc1-ac4b-36faec60f064.html",
+     "data": "2026-08-25T07:53:50+00:00"
+    },
+    {
+     "titolo": "Taglia Usa da 10 milioni di dollari su capo e vertici Pasdaran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/25/taglia-usa-da-10-milioni-di-dollari-su-capo-e-vertici-pasdaran_72190e39-7350-4885-ad5e-c7a53b3fc689.html",
+     "data": "2026-08-25T07:38:20+00:00"
+    },
+    {
      "titolo": "Attacco alla raffineria russa di Krasnodar, due morti",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/25/attacco-alla-raffineria-russa-di-krasnodar-due-morti_d27a5462-c33d-47ad-974f-6fc15d02c5bb.html",
      "data": "2026-08-25T05:01:16+00:00"
@@ -349,16 +364,6 @@
      "titolo": "'Trump pronto a revocare 200mila visti a stranieri che hanno chiesto asilo'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/25/trump-pronto-a-revocare-200mila-visti-a-stranieri-che-hanno-chiesto-asilo_af8b2bc5-787b-4391-bbca-2a3c09542cb3.html",
      "data": "2026-08-24T22:46:32+00:00"
-    },
-    {
-     "titolo": "Messico, investimenti esteri diretti record a 34,968 miliardi nel primo semestre",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/messico-investimenti-esteri-diretti-record-a-34968-miliardi-nel-primo-semestre_3c4153b4-7d04-48b5-a3f7-21a568686fb7.html",
-     "data": "2026-08-24T22:41:33+00:00"
-    },
-    {
-     "titolo": "Brasile, la petrolchimica Braskem esce da Ibovespa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/brasile-la-petrolchimica-braskem-esce-da-ibovespa_5eae60a9-d4d7-4667-8794-13c547679e32.html",
-     "data": "2026-08-24T22:18:57+00:00"
     }
    ]
   },
@@ -431,6 +436,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "US Open, Serena Williams e Alcaraz nel doppio misto",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/25/us-open-serena-williams-e-alcaraz-nel-doppio-misto_931773c7-ae2b-42aa-a000-bdf45dadcf1d.html",
+     "data": "2026-08-25T07:17:27+00:00"
+    },
+    {
      "titolo": "F1:Olanda;scuse Hamilton per team radio'non mia miglior versione,orgoglioso Ferrari'",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/24/f1olandascuse-hamilton-per-team-radionon-mia-miglior-versioneorgoglioso-ferrari_5e567e22-f078-444c-aeaf-58777585dbf2.html",
      "data": "2026-08-24T21:54:14+00:00"
@@ -484,11 +494,6 @@
      "titolo": "Cincinnati, l'americana Gauff batte la connazionale Pegula e vince il titolo",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/24/cincinnati-lamericana-gauff-batte-la-connazionale-pegula-e-vince-il-titolo_0661515f-64a5-4582-9f0d-09f668d8530b.html",
      "data": "2026-08-24T18:17:18+00:00"
-    },
-    {
-     "titolo": "Calciomercato: Di Gregorio va al Bornemouth, il Como accelera per Kean",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/calciomercato-di-gregorio-va-al-bornemouth-il-como-accelera-per-kean_13ea32dd-230d-4f2b-980d-bfd5725eb73e.html",
-     "data": "2026-08-24T21:55:46+00:00"
     }
    ]
   }
