@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-25T20:13:14.821601+00:00",
+ "aggiornato": "2026-08-25T20:51:22.414869+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Esplode una bombola di gas in B&B, feriti padre, madre e figlio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/esplode-una-bombola-di-gas-in-bb-feriti-padre-madre-e-figlio_f707d10f-d882-45e2-911d-6fec06074cdd.html",
+     "data": "2026-08-25T20:24:53+00:00"
+    },
+    {
      "titolo": "Perde il controllo, cade e muore con il parapendio, l'incidente in Alto Adige",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/perde-il-controllo-cade-e-muore-con-il-parapendio-lincidente-in-alto-adige_455aaeb8-3108-4658-8160-be7f82aa046f.html",
      "data": "2026-08-25T19:10:49+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Detenuto morto in carcere, letale inalazione di fumi da combustione",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/detenuto-morto-in-carcere-letale-inalazione-di-fumi-da-combustione_2eaf87d9-63bb-4bbd-963e-9e30a123ce57.html",
      "data": "2026-08-25T15:01:23+00:00"
-    },
-    {
-     "titolo": "Aggredisce donna con l'acido su commissione, arrestato a Venezia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/aggredisce-donna-con-lacido-su-commissione-arrestato-a-venezia_e51aca99-1416-48d4-9343-d16148e33b8e.html",
-     "data": "2026-08-25T15:02:11+00:00"
     }
    ]
   },
@@ -446,6 +446,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Atp Winston-Salem, Darderi vince il derby azzurro contro Bellucci",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/25/atp-winston-salem-darderi-vince-il-derby-azzurro-contro-bellucci_63ce80bc-576e-4b92-a3a0-e2a4cfdbc249.html",
+     "data": "2026-08-25T20:41:26+00:00"
+    },
+    {
      "titolo": "Errani e Vavassori fuori agli ottavi nel doppio misto",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/25/errani-e-vavassori-fuori-agli-ottavi-nel-doppio-misto_ebcf984a-8648-4156-aa28-c4c30ee143a3.html",
      "data": "2026-08-25T19:52:47+00:00"
@@ -499,11 +504,6 @@
      "titolo": "Giochi del Mediterraneo: nuoto, Franceschi oro nei 200 misti donne",
      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/25/giochi-del-mediterraneo-nuoto-franceschi-oro-nei-200-misti-donne_0fdcec80-43be-403b-a05f-19b52c669e9b.html",
      "data": "2026-08-25T16:17:19+00:00"
-    },
-    {
-     "titolo": "Juve cantiere aperto, Spalletti attende ultimi rinforzi",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/25/juve-cantiere-aperto-spalletti-attende-ultimi-rinforzi_e4c41ed6-a91f-4c53-862f-fdfbd29e9949.html",
-     "data": "2026-08-25T16:25:45+00:00"
     }
    ]
   }
