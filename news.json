@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-25T17:01:41.251744+00:00",
+ "aggiornato": "2026-08-25T17:51:01.420895+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Israele espelle rappresentanti olandesi da base Board of Peace a Kiryat Gat",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/israele-espelle-rappresentanti-olandesi-da-base-board-of-peace-a-kiryat-gat_259d8710-a5dd-4785-ad5b-be323c5cb348.html",
+     "data": "2026-08-25T17:15:04+00:00"
+    },
+    {
+     "titolo": "In gara per l'ex Ilva anche la ceca Ce Industries",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/in-gara-per-lex-ilva-anche-la-ceca-ce-industries_a8a00157-dc00-42ce-82a5-bc5b6ebb4f94.html",
+     "data": "2026-08-25T17:04:36+00:00"
+    },
     {
      "titolo": "Future sul gas ancora in calo a 65,9 euro al megawattora",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/future-sul-gas-ancora-in-calo-a-659-euro-al-megawattora_ef01a239-15d9-4f18-bc8c-e10288554687.html",
@@ -44,16 +54,6 @@
      "titolo": "Valditara, studio italiano sia obbligatorio per genitori studenti stranieri",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/valditara-studio-italiano-sia-obbligatorio-per-genitori-studenti-stranieri_d3290aaa-8fb2-4c98-a2c5-efab39f790fa.html",
      "data": "2026-08-25T15:08:49+00:00"
-    },
-    {
-     "titolo": "Trump, tutte le mine a Hormuz rimosse o fatte brillare",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/trump-tutte-le-mine-a-hormuz-rimosse-o-fatte-brillare_bf14c95c-4674-48da-b63b-38abd5b78c80.html",
-     "data": "2026-08-25T14:41:45+00:00"
-    },
-    {
-     "titolo": "Giani, da Giorgetti rassicurazioni che governo non venderà quota Mps",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/giani-da-giorgetti-rassicurazioni-che-governo-non-vendera-quota-mps_c15ebedf-8075-4163-a648-034feda3fd5b.html",
-     "data": "2026-08-25T14:36:26+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-08-25T17:05:58+00:00"
+    },
+    {
      "titolo": "Scontro tra un furgone e un camion sull'autostrada A/4, un morto",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/scontro-tra-un-furgone-e-un-camion-sullautostrada-a4-un-morto_76df4562-39e8-4c66-9583-1c1ec945ab2b.html",
      "data": "2026-08-25T16:54:06+00:00"
@@ -179,17 +184,22 @@
      "titolo": "Bimba morta a Palermo, sono 17 i contatti sottoposti a profilassi antibiotica",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/bimba-morta-a-palermo-sono-17-i-contatti-sottoposti-a-profilassi-antibiotica_14bc6476-e54b-424a-b21f-35294402b900.html",
      "data": "2026-08-25T13:40:23+00:00"
-    },
-    {
-     "titolo": "Arriva la pioggia, incendio sul Morrone verso lo spegnimento definitivo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/arriva-la-pioggia-incendio-sul-morrone-verso-lo-spegnimento-definitivo_2295d3c8-fe8a-4bdd-852c-74ff16c62894.html",
-     "data": "2026-08-25T12:59:45+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Via Rai Scuola, arriva l'identità italiana. L''ira delle opposizioni",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/via-rai-scuola-arriva-lidentita-italiana.-lira-delle-opposizioni_9d6511ab-818a-4dcc-9589-d78dca91ca9a.html",
+     "data": "2026-08-25T17:47:49+00:00"
+    },
+    {
+     "titolo": "'Incontro suprematista a Casapound', insorge l'opposizione",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/incontro-suprematista-a-casapound-insorge-lopposizione_6549d4b5-2739-4e02-ac4f-f7240e99da54.html",
+     "data": "2026-08-25T17:44:51+00:00"
+    },
     {
      "titolo": "Il vescovo di Kharkiv: 'La missione vaticana a Mosca non porterà risultati'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/il-vescovo-di-kharkiv-la-missione-vaticana-a-mosca-non-portera-risultati_4122e466-ac44-4785-a15f-37cdea822071.html",
@@ -233,28 +243,23 @@
     {
      "titolo": "Salvini: 'Il Ponte sullo Stretto unica opera pubblica non ancora partita ma già indagata'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/il-paese-che-si-muove-lincontro-al-meeting-di-rimini-con-salvini_540f01dd-1fb0-48ce-85bd-7508f2cf250a.html",
-     "data": "2026-08-25T16:41:47+00:00"
+     "data": "2026-08-25T17:23:03+00:00"
     },
     {
      "titolo": "Bruxelles gela l'Italia sugli extraprofitti, 'tocca ai governi'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/24/bruxelles-gela-litalia-sugli-extraprofitti-tocca-ai-governi_bb234d6e-445d-46d7-ac40-aabd10547f04.html",
      "data": "2026-08-24T18:13:44+00:00"
-    },
-    {
-     "titolo": "Generatori e mezzi antiaerei, nuovi aiuti dell'Italia a Kiev",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/24/generatori-e-mezzi-antiaerei-nuovi-aiuti-dellitalia-a-kiev_4cab9e95-3453-436d-a85d-bedb005dea1b.html",
-     "data": "2026-08-24T18:29:49+00:00"
-    },
-    {
-     "titolo": "Da Gaza a Taybeh, 'troppe ingiustizie, non voltiamo lo sguardo'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/24/da-gaza-a-taybeh-troppe-ingiustizie-non-voltiamo-lo-sguardo_03c1a984-3755-4927-b799-9d90feccc910.html",
-     "data": "2026-08-24T20:23:58+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "In gara per l'ex Ilva anche la ceca Ce Industries",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/in-gara-per-lex-ilva-anche-la-ceca-ce-industries_011d8f7f-f082-46d8-9830-1ae0b880c1eb.html",
+     "data": "2026-08-25T17:21:25+00:00"
+    },
     {
      "titolo": "Borsa: seduta volatile in Europa, Milano in equilibrio con le banche",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/borsa-seduta-volatile-in-europa-milano-in-equilibrio-con-le-banche_b8f68756-0134-4391-97f3-ae2f222d856f.html",
@@ -309,17 +314,22 @@
      "titolo": "Descalzi incontra al-Sisi, colloqui sugli impegni di Eni in Egitto",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/descalzi-incontra-al-sisi-colloqui-sugli-impegni-di-eni-in-egitto_22fbf3fb-ecce-45b5-8924-9adc83493759.html",
      "data": "2026-08-25T14:13:04+00:00"
-    },
-    {
-     "titolo": "Morto Michele Brero, il patron delle Acque minerali Pian della Mussa",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/morto-michele-brero-il-patron-delle-acque-minerali-pian-della-mussa_c543475b-0552-41d4-ba49-8e80818ff680.html",
-     "data": "2026-08-25T14:06:06+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Israele espelle rappresentanti olandesi da base Board of Peace a Kiryat Gat",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/25/israele-espelle-rappresentanti-olandesi-da-base-board-of-peace-a-kiryat-gat_c9d48974-bec6-4b99-a383-43c432c8e004.html",
+     "data": "2026-08-25T17:15:20+00:00"
+    },
+    {
+     "titolo": "L'Unicef denuncia: in Afghanistan un milione di bambini soffre di grave malnutrizione",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/25/lunicef-denuncia-in-afghanistan-un-milione-di-bambini-soffre-di-grave-malnutrizione_994c4825-5dbb-4226-93c5-4edf85edca77.html",
+     "data": "2026-08-25T17:01:38+00:00"
+    },
     {
      "titolo": "Processo Maradona, l'assicurazione medica riconosce lo scambio delle cartelle cliniche",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/processo-maradona-lassicurazione-medica-riconosce-lo-scambio-delle-cartelle-cliniche_9803b89a-8874-4c28-a5e0-c998da7d9c81.html",
@@ -369,16 +379,6 @@
      "titolo": "Trump, tutte le mine a Hormuz rimosse o fatte brillare",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/25/trump-tutte-le-mine-a-hormuz-rimosse-o-fatte-brillare_147f2189-e7f8-4d7e-944d-f52d7c3922d2.html",
      "data": "2026-08-25T14:41:52+00:00"
-    },
-    {
-     "titolo": "La California è pronta a denunciare la Casa Bianca sulle restrizioni al voto per posta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/25/la-california-e-pronta-a-denunciare-la-casa-bianca-sulle-restrizioni-al-voto-per-posta_741db446-bfb8-4902-9ce4-eb7925c704fc.html",
-     "data": "2026-08-25T14:32:56+00:00"
-    },
-    {
-     "titolo": "Cbs, il capo della Cia a Mosca per alcuni incontri",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/25/cbs-il-capo-della-cia-a-mosca-per-alcuni-incontri_ecd384cc-4257-4d7c-95e4-439e57531d75.html",
-     "data": "2026-08-25T14:26:27+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Eurovolley, le azzurre di Velasco fanno 4 su 4",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/25/eurovolley-le-azzurre-di-velasco-fanno-4-su-4_6fdc0341-5932-4466-80d0-49f4e7b09262.html",
+     "data": "2026-08-25T17:29:13+00:00"
+    },
+    {
+     "titolo": "Djokovic e Sabalenka subito fuori dal doppio misto",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/25/djokovic-e-sabalenka-subito-fuori-dal-doppio-misto_a2500c5a-86c9-4729-9edd-2067b269e5f0.html",
+     "data": "2026-08-25T17:00:01+00:00"
+    },
+    {
      "titolo": "Xavi è il nuovo ct dell'Olanda, 'mi sento all'università del calcio'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/xavi-e-il-nuovo-ct-dellolanda-mi-sento-alluniversita-del-calcio_c149c4f3-551c-454d-bc15-7a2d97b11fe1.html",
      "data": "2026-08-25T16:53:49+00:00"
@@ -499,16 +509,6 @@
      "titolo": "Calcio: Allegri, 'felice se al termine della stagione avessimo vinto qualcosa'",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/08/25/calcio-allegri-felice-se-al-termine-della-stagione-avessimo-vinto-qualcosa_6538d2d9-5cda-453d-b5af-3af7c6cd0395.html",
      "data": "2026-08-25T16:00:21+00:00"
-    },
-    {
-     "titolo": "Calcio: Lazio subito nel segno di Frattesi, un gol anche per l'azzurro",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/25/calcio-lazio-subito-nel-segno-di-frattesi-un-gol-anche-per-lazzurro_1d0f585a-620c-40a2-b7ab-90ea5e7e4c80.html",
-     "data": "2026-08-25T15:59:44+00:00"
-    },
-    {
-     "titolo": "Ilic saluta il Toro e si trasferisce al Lecce",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/ilic-saluta-il-toro-e-si-trasferisce-al-lecce_feb7f4e7-635e-4358-a4e6-5b5edfd35421.html",
-     "data": "2026-08-25T15:04:59+00:00"
     }
    ]
   }
