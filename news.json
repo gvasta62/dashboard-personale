@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-25T16:04:45.508542+00:00",
+ "aggiornato": "2026-08-25T17:01:41.251744+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -61,6 +61,11 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Torna dal 28 al 30 agosto l'appuntamento con 'Giallo Trasimeno'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/25/torna-dal-28-al-30-agosto-lappuntamento-con-giallo-trasimeno_0f15609a-1ee5-4f5d-bf31-11265dec7eb9.html",
+     "data": "2026-08-25T16:03:11+00:00"
+    },
+    {
      "titolo": "Aggredisce personale sanitario con grosso coltello, bloccata dalla polizia",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/25/aggredisce-personale-sanitario-con-grosso-coltello-bloccata-dalla-polizia_b0dc813d-831a-4c21-8792-f0c54c6b1402.html",
      "data": "2026-08-25T15:12:06+00:00"
@@ -114,17 +119,27 @@
      "titolo": "Un caso di West Nile a Pozzuolo Umbro, al via le misure straordinarie di prevenzione",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/24/un-caso-di-west-nile-a-pozzuolo-umbro-al-via-le-misure-straordinarie-di-prevenzione_c271e561-26e7-4eac-9ab6-b6f4f9aef052.html",
      "data": "2026-08-24T18:09:54+00:00"
-    },
-    {
-     "titolo": "Auto: culmina con il sigillo di Faggioli lo show del 61° Trofeo Fagioli",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/24/auto-culmina-con-il-sigillo-di-faggioli-lo-show-del-61-trofeo-fagioli_736b9246-1ff0-4e3d-ba7d-b5f1983503ab.html",
-     "data": "2026-08-24T17:36:11+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Scontro tra un furgone e un camion sull'autostrada A/4, un morto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/scontro-tra-un-furgone-e-un-camion-sullautostrada-a4-un-morto_76df4562-39e8-4c66-9583-1c1ec945ab2b.html",
+     "data": "2026-08-25T16:54:06+00:00"
+    },
+    {
+     "titolo": "Ragazza scomparsa nel Torinese trovata morta nel greto di un torrente",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/ragazza-scomparsa-nel-torinese-trovata-morta-nel-greto-di-un-torrente_aa663267-0e68-408d-8f06-6820d4cc5237.html",
+     "data": "2026-08-25T16:06:43+00:00"
+    },
+    {
+     "titolo": "Casi di tubercolosi all'Istituto di Medicina legale di Statale a Milano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/casi-di-tubercolosi-allistituto-di-medicina-legale-di-statale-a-milano_ffa0fe8b-d700-4392-9922-956e0bd1ef06.html",
+     "data": "2026-08-25T16:03:35+00:00"
+    },
     {
      "titolo": "Aereo caduto in Perù, lutto cittadino sabato a Seregno",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/aereo-caduto-in-peru-lutto-cittadino-sabato-a-seregno_03c8e473-4dbc-47b8-a167-4c863e1ababe.html",
@@ -169,21 +184,6 @@
      "titolo": "Arriva la pioggia, incendio sul Morrone verso lo spegnimento definitivo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/arriva-la-pioggia-incendio-sul-morrone-verso-lo-spegnimento-definitivo_2295d3c8-fe8a-4bdd-852c-74ff16c62894.html",
      "data": "2026-08-25T12:59:45+00:00"
-    },
-    {
-     "titolo": "Dodici bambini accusano malesseri dopo giornata al mare",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/dodici-bambini-accusano-malesseri-dopo-giornata-al-mare_c073ac00-b212-482b-adc7-6f526d9380db.html",
-     "data": "2026-08-25T13:10:54+00:00"
-    },
-    {
-     "titolo": "Leonardo Bove dopo Crans-Montana: 'Ho visto sfuggire la mia vita, non voglio più perderla'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/crans-montana-genitori-di-leonardo-bove-labbiamo-trovato-allultimo-test_f45314a2-0832-41d8-859e-c5ed8f95f4b3.html",
-     "data": "2026-08-25T16:00:05+00:00"
-    },
-    {
-     "titolo": "Leonardo Bove dopo Crans, 'ho visto sfuggire mia vita, non voglio più perderla",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/leonardo-bove-dopo-crans-ho-visto-sfuggire-mia-vita-non-voglio_d7ad661c-a9de-40c2-b3b0-362e86c4a23f.html",
-     "data": "2026-08-25T12:07:00+00:00"
     }
    ]
   },
@@ -191,9 +191,14 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Il vescovo di Kharkiv: 'La missione vaticana a Mosca non porterà risultati'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/il-vescovo-di-kharkiv-la-missione-vaticana-a-mosca-non-portera-risultati_4122e466-ac44-4785-a15f-37cdea822071.html",
+     "data": "2026-08-25T16:08:12+00:00"
+    },
+    {
      "titolo": "Riunione in Rai sul caso Ranucci, la decisione attesa nei prossimi giorni",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/riunione-in-rai-sul-caso-ranucci-la-decisione-attesa-nei-prossimi-giorni_ac4d4dfa-073b-484e-95d3-da62a2e48e18.html",
-     "data": "2026-08-25T15:39:01+00:00"
+     "data": "2026-08-25T16:43:19+00:00"
     },
     {
      "titolo": "Salvini, penso proroga accise per alcuni giorni, fino a settembre",
@@ -203,7 +208,7 @@
     {
      "titolo": "Carburanti al galoppo, domani alle 18 il Consiglio dei ministri: verso la proroga dello sconto sulle accise",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/domani-il-consiglio-dei-ministri-verso-la-proroga-delle-misure-sui-carburanti_fb725722-357f-4d7f-b1c6-fa89004ea853.html",
-     "data": "2026-08-25T13:56:26+00:00"
+     "data": "2026-08-25T16:16:04+00:00"
     },
     {
      "titolo": "Carburanti, riunione con Meloni alla vigilia della scadenza del taglio delle accise",
@@ -228,7 +233,7 @@
     {
      "titolo": "Salvini: 'Il Ponte sullo Stretto unica opera pubblica non ancora partita ma già indagata'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/il-paese-che-si-muove-lincontro-al-meeting-di-rimini-con-salvini_540f01dd-1fb0-48ce-85bd-7508f2cf250a.html",
-     "data": "2026-08-25T15:49:40+00:00"
+     "data": "2026-08-25T16:41:47+00:00"
     },
     {
      "titolo": "Bruxelles gela l'Italia sugli extraprofitti, 'tocca ai governi'",
@@ -244,17 +249,22 @@
      "titolo": "Da Gaza a Taybeh, 'troppe ingiustizie, non voltiamo lo sguardo'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/24/da-gaza-a-taybeh-troppe-ingiustizie-non-voltiamo-lo-sguardo_03c1a984-3755-4927-b799-9d90feccc910.html",
      "data": "2026-08-24T20:23:58+00:00"
-    },
-    {
-     "titolo": "Ecco l'Italia di Vannacci: 'Educazione militare, più figli e meno woke'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/24/ecco-litalia-di-vannacci-educazione-militare-piu-figli-e-meno-woke_b6d1e044-6f75-481e-ab01-a577080a9cbc.html",
-     "data": "2026-08-24T16:54:30+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: seduta volatile in Europa, Milano in equilibrio con le banche",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/borsa-seduta-volatile-in-europa-milano-in-equilibrio-con-le-banche_b8f68756-0134-4391-97f3-ae2f222d856f.html",
+     "data": "2026-08-25T16:20:24+00:00"
+    },
+    {
+     "titolo": "Borsa: seduta volatile in Europa, Milano in equilibrio con le banche",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/borsa-seduta-volatile-in-europa-milano-in-equilibrio-con-le-banche_36a5919c-ada3-442c-9b57-bbd1f83740e7.html",
+     "data": "2026-08-25T16:20:26+00:00"
+    },
     {
      "titolo": "Future sul gas ancora in calo a 65,9 euro al megawattora",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/future-sul-gas-ancora-in-calo-a-659-euro-al-megawattora_efe55465-8420-4f38-b527-2bdb4bba12ba.html",
@@ -304,22 +314,22 @@
      "titolo": "Morto Michele Brero, il patron delle Acque minerali Pian della Mussa",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/morto-michele-brero-il-patron-delle-acque-minerali-pian-della-mussa_c543475b-0552-41d4-ba49-8e80818ff680.html",
      "data": "2026-08-25T14:06:06+00:00"
-    },
-    {
-     "titolo": "Presidenza irlandese, sugli extraprofitti ci sarà un confronto Ue",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/presidenza-irlandese-sugli-extraprofitti-ci-sara-un-confronto-ue_39838f2c-0dad-4367-beb0-bb5bfc5a08a6.html",
-     "data": "2026-08-25T14:09:53+00:00"
-    },
-    {
-     "titolo": "Wall Street apre in rialzo, Dj +0,20%, Nasdaq +0,71%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/wall-street-apre-in-rialzo-dj-020-nasdaq-071_73805865-cda5-4a76-9722-26dd3b3143e8.html",
-     "data": "2026-08-25T13:37:53+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Processo Maradona, l'assicurazione medica riconosce lo scambio delle cartelle cliniche",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/processo-maradona-lassicurazione-medica-riconosce-lo-scambio-delle-cartelle-cliniche_9803b89a-8874-4c28-a5e0-c998da7d9c81.html",
+     "data": "2026-08-25T16:41:23+00:00"
+    },
+    {
+     "titolo": "Rientra la polemica tra Argentina e Cile sulla sovranità dello Stretto di Magellano",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/rientra-la-polemica-tra-argentina-e-cile-sulla-sovranita-dello-stretto-di-magellano_6e08c6c3-95f7-4fe2-a351-1a14c0f9928c.html",
+     "data": "2026-08-25T16:17:55+00:00"
+    },
     {
      "titolo": "Un giocatore di football americano su 4 morto in Usa per conseguenze da trauma cranico",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/25/un-giocatore-di-football-americano-su-4-morto-in-usa-per-conseguenze-da-trauma-cranico_ab6bcddd-46c9-4b85-a63b-5c7d66aa8367.html",
@@ -369,16 +379,6 @@
      "titolo": "Cbs, il capo della Cia a Mosca per alcuni incontri",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/25/cbs-il-capo-della-cia-a-mosca-per-alcuni-incontri_ecd384cc-4257-4d7c-95e4-439e57531d75.html",
      "data": "2026-08-25T14:26:27+00:00"
-    },
-    {
-     "titolo": "Cbs, il capo della Cia a Mosca per alcuni incontri",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/25/cbs-il-capo-della-cia-a-mosca-per-alcuni-incontri_f3b6743e-a807-4043-bf56-a43e01458a2a.html",
-     "data": "2026-08-25T14:26:47+00:00"
-    },
-    {
-     "titolo": "Un turista francese è morto per il caldo nella Death Valley",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/25/un-turista-francese-e-morto-per-il-caldo-nella-death-valley_58850d28-c044-4c7e-90a5-32e81d5f4bd5.html",
-     "data": "2026-08-25T14:09:25+00:00"
     }
    ]
   },
@@ -451,6 +451,36 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Xavi è il nuovo ct dell'Olanda, 'mi sento all'università del calcio'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/xavi-e-il-nuovo-ct-dellolanda-mi-sento-alluniversita-del-calcio_c149c4f3-551c-454d-bc15-7a2d97b11fe1.html",
+     "data": "2026-08-25T16:53:49+00:00"
+    },
+    {
+     "titolo": "Calcio: Udinese; lesione muscolare per Zaniolo, starà fermo per 3-4 settimane",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/calcio-udinese-lesione-muscolare-per-zaniolo-stara-fermo-per-3-4-settimane_fef9622f-fcbe-43a8-afd8-c67cee19ac52.html",
+     "data": "2026-08-25T16:43:24+00:00"
+    },
+    {
+     "titolo": "Giochi del Mediterraneo: nuoto, Franceschi oro nei 200 misti donne",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/25/giochi-del-mediterraneo-nuoto-franceschi-oro-nei-200-misti-donne_0fdcec80-43be-403b-a05f-19b52c669e9b.html",
+     "data": "2026-08-25T16:17:19+00:00"
+    },
+    {
+     "titolo": "Juve cantiere aperto, Spalletti attende ultimi rinforzi",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/25/juve-cantiere-aperto-spalletti-attende-ultimi-rinforzi_e4c41ed6-a91f-4c53-862f-fdfbd29e9949.html",
+     "data": "2026-08-25T16:25:45+00:00"
+    },
+    {
+     "titolo": "Rafa Leao aspetta l'offerta giusta, 'Dio guida tutto'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/rafa-leao-aspetta-lofferta-giusta-dio-guida-tutto_90bb7720-78e3-4975-b4ea-9579b57536df.html",
+     "data": "2026-08-25T16:22:34+00:00"
+    },
+    {
+     "titolo": "Us Open: rivolta dei fan per caro biglietti, Mamdani in campo per i newyorchesi",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/25/us-open-rivolta-dei-fan-per-caro-biglietti-mamdani-in-campo-per_139a03dc-7d94-46bc-b424-6ee864393b42.html",
+     "data": "2026-08-25T16:22:55+00:00"
+    },
+    {
      "titolo": "Nuova impresa Pogacar, trionfa dopo fuga di 50 km nella 4/a tappa ad Andorra",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/25/nuova-impresa-pogacar-trionfa-dopo-fuga-di-50-km-nella-4a-tappa-ad-andorra_372d812d-dae2-468c-b3ca-c979f7ab93db.html",
      "data": "2026-08-25T15:57:03+00:00"
@@ -479,36 +509,6 @@
      "titolo": "Ilic saluta il Toro e si trasferisce al Lecce",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/ilic-saluta-il-toro-e-si-trasferisce-al-lecce_feb7f4e7-635e-4358-a4e6-5b5edfd35421.html",
      "data": "2026-08-25T15:04:59+00:00"
-    },
-    {
-     "titolo": "Federica Brignone operata a Milano, 'Qualche settimana per ripartire'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/25/federica-brignone-operata-a-milano-qualche-settimana-per-ripartire_004912a1-d338-4001-beb7-2690813d9c08.html",
-     "data": "2026-08-25T14:28:27+00:00"
-    },
-    {
-     "titolo": "All'asta la maglietta numero 23 indossata da Michael Jordan durante 'The Last Dance'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/25/allasta-la-maglietta-numero-23-indossata-da-michael-jordan-durante-the-last-dance_53759815-8b7e-4e71-8b4f-15780a4cdce8.html",
-     "data": "2026-08-25T15:36:26+00:00"
-    },
-    {
-     "titolo": "Atalanta: Elmas 'sono in un top club, possiamo fare benissimo'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/atalanta-elmas-sono-in-un-top-club-possiamo-fare-benissimo_2fe48675-f3b6-4d80-b3cb-581d43c7c02d.html",
-     "data": "2026-08-25T14:06:56+00:00"
-    },
-    {
-     "titolo": "La Lazio chiude per Pinamonti, affare fatto con il Sassuolo",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/la-lazio-chiude-per-pinamonti-affare-fatto-con-il-sassuolo_5441c1b8-eea3-4eda-9fea-0e17d3990847.html",
-     "data": "2026-08-25T13:28:04+00:00"
-    },
-    {
-     "titolo": "Savinho dal City al Tottenham per 100 milioni di euro",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/savinho-dal-city-al-tottenham-per-100-milioni-di-euro_5146a587-563a-4cfe-8892-1a3dae79cc71.html",
-     "data": "2026-08-25T13:31:20+00:00"
-    },
-    {
-     "titolo": "Arrampicata: le mura del borgo come una falesia, nelle Marche un festival per 'uomini ragno'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/25/arrampicata-le-mura-del-borgo-come-una-falesia-nelle-marche-un-festival_3c4ce32d-42fb-49c8-a947-a57d886b4338.html",
-     "data": "2026-08-25T15:06:06+00:00"
     }
    ]
   }
