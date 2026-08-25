@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-25T08:03:46.603656+00:00",
+ "aggiornato": "2026-08-25T09:04:11.391308+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Nasce Think Tank europeo con Draghi per rilanciare la competitività Ue",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/nasce-think-tank-europeo-con-draghi-per-rilanciare-la-competitivita-ue_bcf2ea8e-12b3-48ef-b582-34a65faf5135.html",
+     "data": "2026-08-25T09:00:30+00:00"
+    },
+    {
+     "titolo": "Deputato di estrema destra israeliano distrugge monumento palestinese vicino Nablus",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/deputato-di-estrema-destra-israeliano-distrugge-monumento-palestinese-vicino-nablus_c7f5939a-1797-4237-90f1-aa4afc357196.html",
+     "data": "2026-08-25T08:53:53+00:00"
+    },
+    {
+     "titolo": "Supreme diesel al servito oltre 3,1 euro al litro sulla A22",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/supreme-diesel-al-servito-oltre-31-euro-al-litro-sulla-a22_5428a33c-2e20-4523-9ee6-b46c735bd56e.html",
+     "data": "2026-08-25T08:32:17+00:00"
+    },
     {
      "titolo": "Pechino, 'sanzioni Usa a Iran sono illegali, tuteleremo i nostri interessi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/pechino-sanzioni-usa-a-iran-sono-illegali-tuteleremo-i-nostri-interessi_8365554f-e524-49df-b7b3-022aa2832f6c.html",
@@ -39,21 +54,6 @@
      "titolo": "Attacco alla raffineria russa di Krasnodar, due morti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/attacco-alla-raffineria-russa-di-krasnodar-due-morti_a0c4769e-d667-4a68-adb0-c7ccece92cbd.html",
      "data": "2026-08-25T05:01:13+00:00"
-    },
-    {
-     "titolo": "Attacchi russi nella notte, colpite quattro città ucraine",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/attacchi-russi-nella-notte-colpite-quattro-citta-ucraine_ee270e0a-47d2-491e-8ccc-16dc6d5101c6.html",
-     "data": "2026-08-25T04:13:38+00:00"
-    },
-    {
-     "titolo": "Incendio in uno scantinato a Bologna, soccorsi anche due bambini",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/incendio-in-uno-scantinato-a-bologna-soccorsi-anche-due-bambini_11cc71cf-cb74-4f13-b655-1cdb3b922e8d.html",
-     "data": "2026-08-25T04:02:22+00:00"
-    },
-    {
-     "titolo": "Venezuela, a due mesi dal terremoto sale a 6.509 il bilancio delle vittime",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/venezuela-a-due-mesi-dal-terremoto-sale-a-6.509-il-bilancio-delle-vittime_0746517c-605a-45f3-b1bf-cfd7b654712b.html",
-     "data": "2026-08-25T01:06:39+00:00"
     }
    ]
   },
@@ -126,14 +126,54 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Il trapper Tony Boy al gip, 'tenevo quella pistola per difendermi'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/il-trapper-tony-boy-al-gip-tenevo-quella-pistola-per-difendermi_a5ab8c6f-7782-46c6-9516-964b765bc00b.html",
+     "data": "2026-08-25T08:51:58+00:00"
+    },
+    {
+     "titolo": "Alpinismo, domani riaprono i rifugi francesi del Monte Bianco",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/alpinismo-domani-riaprono-i-rifugi-francesi-del-monte-bianco_54c9d89d-26d0-40a7-9ead-d07c88c3cb06.html",
+     "data": "2026-08-25T08:45:43+00:00"
+    },
+    {
+     "titolo": "A 17 anni fugge a controllo polizia e si schianta contro un palo, è grave",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/a-17-anni-fugge-a-controllo-polizia-e-si-schianta-contro-un-palo-e-grave_492b8a83-0c89-4acb-b629-f30043de631b.html",
+     "data": "2026-08-25T08:55:47+00:00"
+    },
+    {
+     "titolo": "Volo rinviato per maltempo, da ieri turisti italiani bloccati a Biarritz",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/volo-rinviato-per-maltempo-da-ieri-turisti-italiani-bloccati-a-biarritz_8757a7da-0f28-44be-bac0-21abd23d9bef.html",
+     "data": "2026-08-25T08:30:15+00:00"
+    },
+    {
+     "titolo": "Auto contro platano, procura dispone autopsia su corpo bimba",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/auto-contro-platano-procura-dispone-autopsia-su-corpo-bimba_4445f833-b9bd-4528-95f6-fc9e4e61c37d.html",
+     "data": "2026-08-25T08:24:39+00:00"
+    },
+    {
+     "titolo": "Trombe d'aria e tetti danneggiati nel Varesotto, a Malpensa voli cancellati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/trombe-daria-e-tetti-danneggiati-nel-varesotto-a-malpensa-voli-cancellati_83ceca19-63aa-433e-9ba9-e8fae758ea32.html",
+     "data": "2026-08-25T08:12:48+00:00"
+    },
+    {
+     "titolo": "Sindaco Trieste, basta con la sceneggiata dei controlli ai confini",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/sindaco-trieste-basta-con-la-sceneggiata-dei-controlli-ai-confini_f0c8a369-4356-48c1-b5fe-28e6a3a3d477.html",
+     "data": "2026-08-25T08:02:11+00:00"
+    },
+    {
      "titolo": "Pubblica sui social le foto di armi ed esplosivi, arrestato nel Rodigino",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/pubblica-sui-social-le-foto-di-armi-ed-esplosivi-arrestato-nel-rodigino_d3698d22-3aad-4f52-8849-2a6bb17a0ad5.html",
      "data": "2026-08-25T07:58:41+00:00"
     },
     {
+     "titolo": "Il trapper Tony Boy interrogato nel carcere di San Vittore: 'Ho quella pistola per difendermi. Non ho mai spacciato, ho una conclamata dipendenza'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/il-trapper-tony-boy-interrogato-nel-carcere-milanese-di-san-vittore_5eb75cb3-3828-4074-b0a6-8b9c4c1aad78.html",
+     "data": "2026-08-25T09:01:49+00:00"
+    },
+    {
      "titolo": "Furto al Museo di Messina, un custode indagato per false dichiarazioni ai pm",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/furto-al-museo-di-messina-un-custode-indagato-per-false-dichiarazioni-ai-pm_29cc0539-03c3-42b2-bf38-e7aa039e2bdf.html",
-     "data": "2026-08-25T07:38:39+00:00"
+     "data": "2026-08-25T08:07:22+00:00"
     },
     {
      "titolo": "Galleria di Base del Brennero, completato il primo tunnel di linea",
@@ -144,46 +184,6 @@
      "titolo": "Lavitola al Riesame il 7 settembre, attesa per le decisioni Rai su Ranucci",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/lavitola-al-riesame-il-7-settembre-attesa-per-le-decisioni-rai-su-ranucci_16eba8bd-021d-40b9-b3e4-ad3b78ecbb1e.html",
      "data": "2026-08-25T06:26:50+00:00"
-    },
-    {
-     "titolo": "Incendio in uno scantinato a Bologna, soccorsi anche due bambini",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/incendio-in-uno-scantinato-a-bologna-soccorsi-anche-due-bambini_080bb17d-aa74-4af7-b197-62598c3ce3eb.html",
-     "data": "2026-08-25T04:20:45+00:00"
-    },
-    {
-     "titolo": "Incendio nel Bresciano, fiamme nei capannoni delle barche di lusso",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/incendio-nel-bresciano-fiamme-nei-capannoni-delle-barche-di-lusso_56383cdd-e9fa-4dce-8243-49f0109206f2.html",
-     "data": "2026-08-24T21:24:00+00:00"
-    },
-    {
-     "titolo": "Incendio nel carcere minorile Malaspina a Palermo, 9 intossicati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/incendio-nel-carcere-minorile-malaspina-a-palermo-9-intossicati_3978a951-7468-4823-ae0b-2d5696d5e8d0.html",
-     "data": "2026-08-24T20:30:38+00:00"
-    },
-    {
-     "titolo": "Atteso l'interrogatorio di Tony Boy dopo l'arresto in diretta social",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/atteso-linterrogatorio-di-tony-boy-dopo-larresto-in-diretta-social-_afd52745-8664-4b9a-b053-b1ffb03579c0.html",
-     "data": "2026-08-24T22:05:35+00:00"
-    },
-    {
-     "titolo": "Strage Viareggio, rubato il gilet di una vittima da Casina dei ricordi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/strage-viareggio-rubato-il-gilet-di-una-vittima-da-casina-dei-ricordi_0c8f04f5-6acc-4dc8-a8fa-c65e336e227f.html",
-     "data": "2026-08-24T19:19:44+00:00"
-    },
-    {
-     "titolo": "La 'benzina del sindaco' contro i rincari, il pieno quasi a prezzo di costo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/la-benzina-del-sindaco-contro-i-rincari-il-pieno-quasi-a-prezzo-di-costo_56c33ffe-d578-4f05-99c9-cb7727c9448b.html",
-     "data": "2026-08-24T18:38:45+00:00"
-    },
-    {
-     "titolo": "Precipita elicottero nella Bergamasca, i due occupanti feriti riescono a uscire",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/precipita-elicottero-nella-bergamasca-i-due-occupanti-feriti-riescono-a-uscire_eac63ad1-ffe4-4810-a6c3-44510250f323.html",
-     "data": "2026-08-24T18:12:35+00:00"
-    },
-    {
-     "titolo": "Morto in scontro nel porto di Vibo, padre 'vogliamo giustizia'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/morto-in-scontro-nel-porto-di-vibo-padre-vogliamo-giustizia_ab9bf67a-92a2-41af-8841-8f29d6bfdafb.html",
-     "data": "2026-08-24T17:59:48+00:00"
     }
    ]
   },
@@ -241,6 +241,31 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Nasce Think Tank europeo con Draghi per rilanciare la competitività Ue",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/nasce-think-tank-europeo-con-draghi-per-rilanciare-la-competitivita-ue_cd3e45f9-1439-45f4-9884-6d300a32bc24.html",
+     "data": "2026-08-25T09:01:02+00:00"
+    },
+    {
+     "titolo": "Supreme diesel al servito oltre 3,1 euro al litro sulla A22",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/supreme-diesel-al-servito-oltre-31-euro-al-litro-sulla-a22_31b298ee-1d0c-4984-a61d-bf09856b150d.html",
+     "data": "2026-08-25T08:52:55+00:00"
+    },
+    {
+     "titolo": "In vendita a Venezia un'isola privata con fortino napoleonico",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/in-vendita-a-venezia-unisola-privata-con-fortino-napoleonico_9154e7f5-737e-4767-bb17-a59e49dc4ff5.html",
+     "data": "2026-08-25T08:32:09+00:00"
+    },
+    {
+     "titolo": "Nuovi rialzi per i carburanti, su strade la verde a 2,015 euro a litro, gasolio 2,136",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/nuovi-rialzi-per-i-carburanti-su-strade-la-verde-a-2015-euro-a-litro-gasolio_40c28c24-35b5-4585-aa97-ec6a37fd9622.html",
+     "data": "2026-08-25T08:37:29+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano tiene (+0,4%) con l'Europa: bene Prysmian, giù Ferrari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/borsa-milano-tiene-04-con-leuropa-bene-prysmian-giu-ferrari_3571d35a-7f5a-4ed9-9c48-18e45815d5a5.html",
+     "data": "2026-08-25T08:32:24+00:00"
+    },
+    {
      "titolo": "Salvini, cantieri a rischio fermo, 20 miliardi di scostamento per la manovra",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/salvini-cantieri-a-rischio-fermo-20-miliardi-di-scostamento-per-la-manovra_4513ed6d-f8bd-4705-b5af-a03d07d230e7.html",
      "data": "2026-08-25T07:10:38+00:00"
@@ -274,31 +299,6 @@
      "titolo": "Leonardo Maria Del Vecchio lascia tutti gli incarichi in EssilorLuxottica",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/leonardo-maria-del-vecchio-lascia-tutti-gli-incarichi-in-essilorluxottica_599d4f8b-643b-41f5-840d-6d39dd690a32.html",
      "data": "2026-08-25T06:22:59+00:00"
-    },
-    {
-     "titolo": "Prezzo oro poco mosso, Spot scambiato a 4.644 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/prezzo-oro-poco-mosso-spot-scambiato-a-4.644-dollari_37ded187-c4c4-4700-84c3-66c71076465f.html",
-     "data": "2026-08-25T06:16:27+00:00"
-    },
-    {
-     "titolo": "Prezzo petrolio in lieve calo, Wti scambiato a 84,67 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/prezzo-petrolio-in-lieve-calo-wti-scambiato-a-8467-dollari_4677dc80-0a0b-44ca-902e-158541f3bccd.html",
-     "data": "2026-08-25T06:06:34+00:00"
-    },
-    {
-     "titolo": "Euro poco mosso, scambiato a 1,1654 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/euro-poco-mosso-scambiato-a-11654-dollari_2c7e62fc-02f8-45aa-9664-8f591c341ca9.html",
-     "data": "2026-08-25T06:01:33+00:00"
-    },
-    {
-     "titolo": "Borsa: Tokyo, apertura in calo (-0,62%)",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/borsa-tokyo-apertura-in-calo-062_ac761e5d-7d66-4a40-a1bb-169e2b078b29.html",
-     "data": "2026-08-25T00:13:39+00:00"
-    },
-    {
-     "titolo": "Una tecnologia italiana alimenterà una missione Nasa per lo studio del clima",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/una-tecnologia-italiana-alimentera-una-missione-nasa-per-lo-studio-del_a4accd64-bd4c-4d05-af69-3d90f4ed2827.html",
-     "data": "2026-08-24T17:36:48+00:00"
     }
    ]
   },
@@ -306,14 +306,19 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Deputato di estrema destra israeliano distrugge monumento palestinese vicino Nablus",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/25/deputato-di-estrema-destra-israeliano-distrugge-monumento-palestinese-vicino-nablus_fd0999bf-71c7-45b8-97ad-c3cea6c121eb.html",
+     "data": "2026-08-25T08:54:12+00:00"
+    },
+    {
      "titolo": "Pechino, 'sanzioni Usa a Iran sono illegali, tuteleremo i nostri interessi'",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/25/pechino-sanzioni-usa-a-iran-sono-illegali-tuteleremo-i-nostri-interessi_7da5134f-d6c1-4fc1-ac4b-36faec60f064.html",
      "data": "2026-08-25T07:53:50+00:00"
     },
     {
-     "titolo": "Taglia Usa da 10 milioni di dollari su capo e vertici Pasdaran",
+     "titolo": "Taglia Usa da 10 milioni di dollari sui vertici militari dei Pasdaran",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/25/taglia-usa-da-10-milioni-di-dollari-su-capo-e-vertici-pasdaran_72190e39-7350-4885-ad5e-c7a53b3fc689.html",
-     "data": "2026-08-25T07:38:20+00:00"
+     "data": "2026-08-25T08:08:20+00:00"
     },
     {
      "titolo": "Attacco alla raffineria russa di Krasnodar, due morti",
@@ -359,11 +364,6 @@
      "titolo": "Perù, Fujimori conferma l'incontro con l'imprenditore argentino Valenzuela",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/peru-fujimori-conferma-lincontro-con-limprenditore-argentino-valenzuela_4cac9eb5-6f49-4ec8-881e-b36cc1ff6f52.html",
      "data": "2026-08-24T23:22:35+00:00"
-    },
-    {
-     "titolo": "'Trump pronto a revocare 200mila visti a stranieri che hanno chiesto asilo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/25/trump-pronto-a-revocare-200mila-visti-a-stranieri-che-hanno-chiesto-asilo_af8b2bc5-787b-4391-bbca-2a3c09542cb3.html",
-     "data": "2026-08-24T22:46:32+00:00"
     }
    ]
   },
