@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-25T03:36:34.767973+00:00",
+ "aggiornato": "2026-08-25T04:25:29.437634+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Attacchi russi nella notte, colpite quattro città ucraine",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/attacchi-russi-nella-notte-colpite-quattro-citta-ucraine_ee270e0a-47d2-491e-8ccc-16dc6d5101c6.html",
+     "data": "2026-08-25T04:13:38+00:00"
+    },
+    {
+     "titolo": "Incendio in uno scantinato a Bologna, soccorsi anche due bambini",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/incendio-in-uno-scantinato-a-bologna-soccorsi-anche-due-bambini_11cc71cf-cb74-4f13-b655-1cdb3b922e8d.html",
+     "data": "2026-08-25T04:02:22+00:00"
+    },
     {
      "titolo": "Venezuela, a due mesi dal terremoto sale a 6.509 il bilancio delle vittime",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/venezuela-a-due-mesi-dal-terremoto-sale-a-6.509-il-bilancio-delle-vittime_0746517c-605a-45f3-b1bf-cfd7b654712b.html",
@@ -44,16 +54,6 @@
      "titolo": "Corte Suprema autorizza Trump a limitare il voto per posta",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/corte-suprema-autorizza-trump-a-limitare-il-voto-per-posta_9c0e7e86-5c13-470b-bf1e-9662a8deb2a7.html",
      "data": "2026-08-24T21:12:07+00:00"
-    },
-    {
-     "titolo": "Dybala 'Spero Malen faccia i gol che servano per portarci in alto'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/dybala-spero-malen-faccia-i-gol-che-servano-per-portarci-in-alto_947053d8-dfef-413b-b6ee-acd1e2d2a0e8.html",
-     "data": "2026-08-24T21:02:49+00:00"
-    },
-    {
-     "titolo": "De la Espriella ordina operazioni contro l'immigrazione irregolare in Colombia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/24/de-la-espriella-ordina-operazioni-contro-limmigrazione-irregolare-in-colombia_99bea806-50de-439f-b4eb-bf2ce932224e.html",
-     "data": "2026-08-24T20:47:33+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Incendio in uno scantinato a Bologna, soccorsi anche due bambini",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/incendio-in-uno-scantinato-a-bologna-soccorsi-anche-due-bambini_080bb17d-aa74-4af7-b197-62598c3ce3eb.html",
+     "data": "2026-08-25T04:20:45+00:00"
+    },
+    {
      "titolo": "Incendio nel Bresciano, fiamme nei capannoni delle barche di lusso",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/incendio-nel-bresciano-fiamme-nei-capannoni-delle-barche-di-lusso_56383cdd-e9fa-4dce-8243-49f0109206f2.html",
      "data": "2026-08-24T21:24:00+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Bimba morta a Palermo, Iss 'positivo alla difterite il campione'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/bimba-morta-a-palermo-iss-positivo-alla-difterite-il-campione_22ede14f-0511-4389-a139-d148b90bd4be.html",
      "data": "2026-08-24T17:41:11+00:00"
-    },
-    {
-     "titolo": "Crans, le incognite sull'inchiesta dopo l'arresto di Jacques",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/crans-le-incognite-sullinchiesta-dopo-larresto-di-jacques_f4690af3-e6d6-43d6-8b2b-de8dfd3e9cf0.html",
-     "data": "2026-08-24T20:30:15+00:00"
     }
    ]
   },
@@ -306,6 +306,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Attacchi russi nella notte, colpite quattro città ucraine",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/25/attacchi-russi-nella-notte-colpite-quattro-citta-ucraine_bc3bb7bf-a284-43f5-a697-986d91ffa4b9.html",
+     "data": "2026-08-25T04:13:40+00:00"
+    },
+    {
      "titolo": "Alla ricerca delle navi di Colombo, l'Unesco indaga nei Caraibi",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/alla-ricerca-delle-navi-di-colombo-lunesco-indaga-nei-caraibi_ad68fee3-790e-4128-b559-5318380d7bc4.html",
      "data": "2026-08-25T01:51:15+00:00"
@@ -359,11 +364,6 @@
      "titolo": "Corte Suprema autorizza Trump a limitare il voto per posta",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/24/corte-suprema-autorizza-trump-a-limitare-il-voto-per-posta_5b560a84-a25d-4741-8fbe-1fae79e1ac42.html",
      "data": "2026-08-24T21:12:05+00:00"
-    },
-    {
-     "titolo": "De la Espriella ordina operazioni contro l'immigrazione irregolare in Colombia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/24/de-la-espriella-ordina-operazioni-contro-limmigrazione-irregolare-in-colombia_1db522e4-d81f-4844-9f5a-e5d96ed48144.html",
-     "data": "2026-08-24T20:47:51+00:00"
     }
    ]
   },
