@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-25T09:57:02.067034+00:00",
+ "aggiornato": "2026-08-25T10:22:23.529572+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Estremismo online e radicalizzazione, cinque minori denunciati ad Arezzo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/estremismo-online-e-radicalizzazione-cinque-minori-denunciati-ad-arezzo_a0fd3d23-42f7-442a-ab76-77af8e146cfe.html",
+     "data": "2026-08-25T09:56:07+00:00"
+    },
     {
      "titolo": "Borsa: Europa in rialzo mentre il petrolio frena",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/borsa-europa-in-rialzo-mentre-il-petrolio-frena_6392bad6-d837-4efb-8058-ee19c4f1d524.html",
@@ -49,17 +54,17 @@
      "titolo": "Supreme diesel al servito oltre 3,1 euro al litro sulla A22",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/supreme-diesel-al-servito-oltre-31-euro-al-litro-sulla-a22_5428a33c-2e20-4523-9ee6-b46c735bd56e.html",
      "data": "2026-08-25T08:32:17+00:00"
-    },
-    {
-     "titolo": "Pechino, 'sanzioni Usa a Iran sono illegali, tuteleremo i nostri interessi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/pechino-sanzioni-usa-a-iran-sono-illegali-tuteleremo-i-nostri-interessi_8365554f-e524-49df-b7b3-022aa2832f6c.html",
-     "data": "2026-08-25T07:53:19+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Dal Comune di Orvieto 'ferma contrarietà' a ampliamento discarica le Crete",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/25/dal-comune-di-orvieto-ferma-contrarieta-a-ampliamento-discarica-le-crete_de6fcadd-9bf6-47bb-b98b-2f42f6a33881.html",
+     "data": "2026-08-25T10:04:52+00:00"
+    },
     {
      "titolo": "Gemelli umbri compiono 18 anni e subito diventano donatori di sangue",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/25/gemelli-umbri-compiono-18-anni-e-subito-diventano-donatori-di-sangue_f617336e-69e5-4b1b-bc14-e0bb31a940de.html",
@@ -114,17 +119,32 @@
      "titolo": "Al via la 59/a edizione del Festival delle Nazioni",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/24/al-via-la-59a-edizione-del-festival-delle-nazioni_689eed28-2b96-4157-8cdd-033beb2b5c22.html",
      "data": "2026-08-24T12:49:18+00:00"
-    },
-    {
-     "titolo": "Perugia celebra la Giornata dell'indipendenza dell'Ucraina",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/24/perugia-celebra-la-giornata-dellindipendenza-dellucraina_8328da74-44c9-483f-a799-823d0a47dbb3.html",
-     "data": "2026-08-24T12:59:38+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Casamicciola, rinasce la piazza Maio simbolo del sisma del 2017",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/casamicciola-rinasce-la-piazza-maio-simbolo-del-sisma-del-2017_59a947f6-35b4-433a-bdb8-a184a002af6e.html",
+     "data": "2026-08-25T10:06:13+00:00"
+    },
+    {
+     "titolo": "Assessore Sicilia, 'non si vede un'emergenza epidemiologica di difterite'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/assessore-sicilia-non-si-vede-unemergenza-epidemiologica-di-difterite_503619ce-18df-407a-b59a-9f61e91fe52e.html",
+     "data": "2026-08-25T10:06:53+00:00"
+    },
+    {
+     "titolo": "Salgono a 24 i casi di contagio di febbre del Nilo nell'Oristanese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/salgono-a-24-i-casi-di-contagio-di-febbre-del-nilo-nelloristanese_5232d0dd-0ca9-421d-a8dc-e7711a13a19a.html",
+     "data": "2026-08-25T10:06:09+00:00"
+    },
+    {
+     "titolo": "Estremismo online e radicalizzazione, cinque minori denunciati ad Arezzo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/estremismo-online-e-radicalizzazione-cinque-minori-denunciati-ad-arezzo_08598719-f7e3-4a07-8e80-231e383cef45.html",
+     "data": "2026-08-25T09:56:02+00:00"
+    },
     {
      "titolo": "La difesa degli agenti arrestati: 'Abbiamo dimostrato che non c'è stato peculato'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/la-difesa-degli-agenti-arrestati-abbiamo-dimostrato-che-non-ce-stato-peculato_f6469d26-5aff-4690-9d97-dec0e9f74dbc.html",
@@ -164,26 +184,6 @@
      "titolo": "Alpinismo, domani riaprono i rifugi francesi del Monte Bianco",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/alpinismo-domani-riaprono-i-rifugi-francesi-del-monte-bianco_54c9d89d-26d0-40a7-9ead-d07c88c3cb06.html",
      "data": "2026-08-25T08:45:43+00:00"
-    },
-    {
-     "titolo": "A 17 anni fugge a controllo polizia e si schianta contro un palo, è grave",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/a-17-anni-fugge-a-controllo-polizia-e-si-schianta-contro-un-palo-e-grave_492b8a83-0c89-4acb-b629-f30043de631b.html",
-     "data": "2026-08-25T08:55:47+00:00"
-    },
-    {
-     "titolo": "Volo rinviato per maltempo, da ieri turisti italiani bloccati a Biarritz",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/volo-rinviato-per-maltempo-da-ieri-turisti-italiani-bloccati-a-biarritz_8757a7da-0f28-44be-bac0-21abd23d9bef.html",
-     "data": "2026-08-25T08:30:15+00:00"
-    },
-    {
-     "titolo": "Auto contro platano, procura dispone autopsia su corpo bimba",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/auto-contro-platano-procura-dispone-autopsia-su-corpo-bimba_4445f833-b9bd-4528-95f6-fc9e4e61c37d.html",
-     "data": "2026-08-25T08:24:39+00:00"
-    },
-    {
-     "titolo": "Trombe d'aria e tetti danneggiati nel Varesotto, a Malpensa voli cancellati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/trombe-daria-e-tetti-danneggiati-nel-varesotto-a-malpensa-voli-cancellati_83ceca19-63aa-433e-9ba9-e8fae758ea32.html",
-     "data": "2026-08-25T08:12:48+00:00"
     }
    ]
   },
@@ -246,6 +246,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Il Parco Internazionale di Scultura di Villa Fürstenberg a Mestre apre a nuovi percorsi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/il-parco-internazionale-di-scultura-di-villa-fuerstenberg-a-mestre-apre-a-nuovi-percorsi_c8033188-a263-45df-9626-6e28515cdc8f.html",
+     "data": "2026-08-25T10:03:09+00:00"
+    },
+    {
      "titolo": "Borsa: Europa in rialzo mentre il petrolio frena",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/borsa-europa-in-rialzo-mentre-il-petrolio-frena_3d11242d-c924-4b73-8d40-5eb09aa2500c.html",
      "data": "2026-08-25T09:43:43+00:00"
@@ -299,11 +304,6 @@
      "titolo": "Borsa: Milano tiene (+0,4%) con l'Europa: bene Prysmian, giù Ferrari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/borsa-milano-tiene-04-con-leuropa-bene-prysmian-giu-ferrari_3571d35a-7f5a-4ed9-9c48-18e45815d5a5.html",
      "data": "2026-08-25T08:32:24+00:00"
-    },
-    {
-     "titolo": "Salvini, cantieri a rischio fermo, 20 miliardi di scostamento per la manovra",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/salvini-cantieri-a-rischio-fermo-20-miliardi-di-scostamento-per-la-manovra_4513ed6d-f8bd-4705-b5af-a03d07d230e7.html",
-     "data": "2026-08-25T07:10:38+00:00"
     }
    ]
   },
@@ -441,6 +441,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: Roma; Oosterwolde arrivato a Ciampino",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/calcio-roma-oosterwolde-arrivato-a-ciampino_4cec8005-f854-467d-b3f5-d30a9ef3f3c4.html",
+     "data": "2026-08-25T10:04:30+00:00"
+    },
+    {
+     "titolo": "Federer agli US Open 7 anni dopo per \"ringraziare\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/25/federer-agli-us-open-7-anni-dopo-per-ringraziare_b204abe4-499c-4553-aa48-00b27f6fb7ce.html",
+     "data": "2026-08-25T10:02:50+00:00"
+    },
+    {
+     "titolo": "Federica Brignone si opera nel pomeriggio: \"Ho ancora dolore\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/25/federica-brignone-si-opera-nel-pomeriggio-ho-ancora-dolore_004912a1-d338-4001-beb7-2690813d9c08.html",
+     "data": "2026-08-25T09:56:19+00:00"
+    },
+    {
      "titolo": "Sinner torna al J Medical, altri controlli per l'azzurro",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/25/sinner-torna-al-j-medical-altri-controlli-per-lazzurro_7843f64b-926f-47c4-9ce6-f9707eeac035.html",
      "data": "2026-08-25T09:17:10+00:00"
@@ -484,21 +499,6 @@
      "titolo": "Tripletta di Malen, la Roma fa poker con la Fiorentina",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/tripletta-di-malen-la-roma-fa-poker-con-la-fiorentina_a4166974-d264-47f4-a968-43ec6298b68c.html",
      "data": "2026-08-24T20:41:37+00:00"
-    },
-    {
-     "titolo": "Arianna Caruso passa al Real Madrid, cifra record per un'azzurra",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/arianna-caruso-passa-al-real-madrid-cifra-record-per-unazzurra_4f470c67-b129-4b7e-897e-4acc44dc7a85.html",
-     "data": "2026-08-24T20:16:33+00:00"
-    },
-    {
-     "titolo": "Frattesi show al Dall'Ara, la Lazio passa a Bologna",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/frattesi-show-al-dallara-la-lazio-passa-a-bologna_054e277f-1554-4081-845c-609f72440360.html",
-     "data": "2026-08-24T18:50:30+00:00"
-    },
-    {
-     "titolo": "Malagò: \"Bianchedi? Serenità e disponibilità per evitare ogni problema\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/malago-bianchedi-serenita-e-disponibilita-per-evitare-ogni-problema_813f48b7-4ef1-47ea-b90b-f20cc086af49.html",
-     "data": "2026-08-24T18:47:33+00:00"
     }
    ]
   }
