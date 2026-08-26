@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-26T10:56:35.112261+00:00",
+ "aggiornato": "2026-08-26T11:20:09.483182+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -61,6 +61,11 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "A Maria Concetta Mattei il Premio alla memoria dell'avvocato Picuti",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/26/a-maria-concetta-mattei-il-premio-alla-memoria-dellavvocato-picuti_01e5acf4-2dd1-40be-80bf-aaf5dae8246c.html",
+     "data": "2026-08-26T11:04:43+00:00"
+    },
+    {
      "titolo": "Arcudi, sulla Medioetruria un anno e mezzo di stallo inaccettabile",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/26/arcudi-sulla-medioetruria-un-anno-e-mezzo-di-stallo-inaccettabile_b76c3846-a24b-4d7c-a28d-6f4243a62391.html",
      "data": "2026-08-26T10:42:38+00:00"
@@ -114,17 +119,22 @@
      "titolo": "Patto Avanti, Umbria si conferma terra di diritti attuati e non promessi",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/25/patto-avanti-umbria-si-conferma-terra-di-diritti-attuati-e-non-promessi_d59c540c-fbc9-461e-ba7f-8eb5f402f1d5.html",
      "data": "2026-08-25T14:36:17+00:00"
-    },
-    {
-     "titolo": "Nubifragio su Orvieto con allagamenti, alberi caduti e disagi alla viabilità",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/25/nubifragio-su-orvieto-con-allagamenti-alberi-caduti-e-disagi-alla-viabilita_4c9c8233-9977-44a4-ae75-34cddf387806.html",
-     "data": "2026-08-25T13:47:26+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Differenza Donna, 'programma Vannacci una mostruosità, ribelliamoci'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/differenza-donna-programma-vannacci-una-mostruosita-ribelliamoci_a6014ccb-35ad-463e-a876-0d0eab315a76.html",
+     "data": "2026-08-26T11:11:19+00:00"
+    },
+    {
+     "titolo": "In Lombardia il primo suicidio assistito gestito dal servizio sanitario",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/in-lombardia-primo-suicidio-assistito-gestito-dal-servizio-sanitario_c4f63e80-9255-4f5e-b8bf-e6391e0e622d.html",
+     "data": "2026-08-26T11:02:09+00:00"
+    },
     {
      "titolo": "Morto il boss Domenico Papalia, scarcerato a luglio dopo 49 anni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/morto-il-boss-domenico-papalia-scarcerato-a-luglio-dopo-49-anni_4b990766-2a26-4fd1-bc8c-9276eeae4e89.html",
@@ -143,7 +153,7 @@
     {
      "titolo": "Torna l'anticiclone, valori termici fino a 8/10°C oltre le medie",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/torna-lanticiclone-valori-termici-fino-a-810c-oltre-le-medie_070e181f-a4ed-4b0e-acf0-d834e99aecda.html",
-     "data": "2026-08-26T10:31:01+00:00"
+     "data": "2026-08-26T10:59:08+00:00"
     },
     {
      "titolo": "Donna impiccata nel catanese, si attende esito autopsia",
@@ -174,16 +184,6 @@
      "titolo": "Esplode una bombola di gas in B&B, feriti padre, madre e figlio",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/esplode-una-bombola-di-gas-in-bb-feriti-padre-madre-e-figlio_f707d10f-d882-45e2-911d-6fec06074cdd.html",
      "data": "2026-08-25T20:24:53+00:00"
-    },
-    {
-     "titolo": "Perde il controllo, cade e muore con il parapendio, l'incidente in Alto Adige",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/perde-il-controllo-cade-e-muore-con-il-parapendio-lincidente-in-alto-adige_455aaeb8-3108-4658-8160-be7f82aa046f.html",
-     "data": "2026-08-25T19:10:49+00:00"
-    },
-    {
-     "titolo": "Morte avvelenate, in casa sequestrati dal pane al cestino dell'immondizia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/morte-avvelenate-in-casa-sequestrati-dal-pane-al-cestino-dellimmondizia_add1f704-c875-449f-a68f-b82edf23032a.html",
-     "data": "2026-08-25T18:52:15+00:00"
     }
    ]
   },
@@ -226,25 +226,30 @@
      "data": "2026-08-26T10:07:48+00:00"
     },
     {
-     "titolo": "Meeting di Rimini, l'incontro 'Europa. Custodire le radici, accelerare il futuro' con Roberta Metsola",
+     "titolo": "Meeting di Rimini, l'incontro 'La speranza da ri-costruire nella terra dei cedri' con Tajani",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/meeting-di-rimini-lincontro-la-speranza-da-ri-costruire-nella-terra-dei-cedri-con_2f295390-7e19-4f82-9d76-354ad384ca32.html",
+     "data": "2026-08-26T11:04:24+00:00"
+    },
+    {
+     "titolo": "Meeting di Rimini, Mestola: 'Nell'approccio Ue all'immigrazione le persone vengano prima di tutto'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/meeting-di-rimini-lincontro-europa.-custodire-le-radici-accelerare-il-futuro-con-roberta_4e551229-632a-468e-9d09-d2373cd25971.html",
-     "data": "2026-08-26T07:39:28+00:00"
+     "data": "2026-08-26T10:57:56+00:00"
     },
     {
      "titolo": "Salvini, penso proroga accise per alcuni giorni, fino a settembre",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/salvini-penso-proroga-accise-per-alcuni-giorni-fino-a-settembre_fda8bd58-8e11-4874-a51f-c0dc9b4840f0.html",
      "data": "2026-08-25T12:08:47+00:00"
-    },
-    {
-     "titolo": "Carburanti, riunione con Meloni alla vigilia della scadenza del taglio delle accise",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/carburanti-riunione-con-meloni-alla-vigilia-della-scadenza-del-taglio_9c012d91-9495-4fed-823d-8ac60f8750a5.html",
-     "data": "2026-08-25T10:28:33+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Revolut lancia la sua prima stablecoin ancorata all'euro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/revolut-lancia-la-sua-prima-stablecoin-ancorata-alleuro_4dfeb590-ecb1-4a3b-9c16-f1c84db7e64a.html",
+     "data": "2026-08-26T10:47:34+00:00"
+    },
     {
      "titolo": "Domani cda Generali per un primo esame dell'offerta Mps",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/domani-cda-generali-per-un-primo-esame-dellofferta-mps_7917b5bf-baab-4285-a987-61d0ee5be215.html",
@@ -299,11 +304,6 @@
      "titolo": "Inps, nei primi sei mesi 2026 erogati a famiglie 9,9 miliardi per assegno unico",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/inps-nei-primi-sei-mesi-2026-erogati-a-famiglie-99-miliardi-per_1bb7d3b6-7805-4a16-9f8a-3e12824a57f6.html",
      "data": "2026-08-26T09:10:22+00:00"
-    },
-    {
-     "titolo": "Borsa: Banche caute in Piazza Affari, il risiko non muove il mercato",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-banche-caute-in-piazza-affari-il-risiko-non-muove-il-mercato_b78a75d4-29c0-444e-9243-ce7e6995afb7.html",
-     "data": "2026-08-26T07:53:12+00:00"
     }
    ]
   },
@@ -441,6 +441,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Aspettando Alcaraz re Federer accende gli Us Open: 'Fantastico tornare a New York'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/26/aspettando-alcaraz-re-federer-accende-gli-us-open-fantastico-tornare-a-new-york_0dc39c10-0c77-4c4b-8409-591040633929.html",
+     "data": "2026-08-26T11:02:50+00:00"
+    },
+    {
      "titolo": "Cagliari, Esposito in prestito al Sassuolo e Prati al Racing Santander",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/cagliari-esposito-in-prestito-al-sassuolo-e-prati-al-racing-santander_68b6120f-92b0-4fe7-8fcc-59d286c0c03f.html",
      "data": "2026-08-26T09:43:56+00:00"
@@ -494,11 +499,6 @@
      "titolo": "Cobolli e Bencic ai quarti nel doppio misto",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/25/cobolli-e-bencic-ai-quarti-nel-doppio-misto_a0f27fc0-9d66-4ef0-ba44-26260eb3bb40.html",
      "data": "2026-08-25T19:30:06+00:00"
-    },
-    {
-     "titolo": "F1: Antonelli festeggia all'Aquafan di Riccione il 20esimo compleanno",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/25/f1-antonelli-festeggia-allaquafan-di-riccione-il-20esimo-compleanno_de55b733-452e-4b81-b755-f8e2811f3fd3.html",
-     "data": "2026-08-26T09:26:03+00:00"
     }
    ]
   }
