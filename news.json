@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-26T03:29:26.871713+00:00",
+ "aggiornato": "2026-08-26T04:09:37.720918+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Robot umanoide cinese corre i 100 metri in 8,86 secondi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/robot-umanoide-cinese-corre-i-100-metri-in-886-secondi_bb53d9f6-4b72-4c43-8358-a13d7f1aa6e9.html",
+     "data": "2026-08-26T04:05:54+00:00"
+    },
     {
      "titolo": "Raid ucraini in Russia, due morti e un ferito",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/raid-ucraini-in-russia-due-morti-e-un-ferito_d9cb474b-a378-4e96-b692-559aef0e59de.html",
@@ -49,11 +54,6 @@
      "titolo": "Israele espelle rappresentanti olandesi da base Board of Peace a Kiryat Gat",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/israele-espelle-rappresentanti-olandesi-da-base-board-of-peace-a-kiryat-gat_259d8710-a5dd-4785-ad5b-be323c5cb348.html",
      "data": "2026-08-25T17:15:04+00:00"
-    },
-    {
-     "titolo": "In gara per l'ex Ilva anche la ceca Ce Industries",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/in-gara-per-lex-ilva-anche-la-ceca-ce-industries_a8a00157-dc00-42ce-82a5-bc5b6ebb4f94.html",
-     "data": "2026-08-25T17:04:36+00:00"
     }
    ]
   },
@@ -251,6 +251,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Giappone, satelliti Jaxa per prevendita dei cavoli e stabilizzazione dei prezzi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/giappone-satelliti-jaxa-per-prevendita-dei-cavoli-e-stabilizzazione-dei-prezzi_d5c62fcb-c3ee-4a35-8bda-58ea847517d2.html",
+     "data": "2026-08-26T03:45:46+00:00"
+    },
+    {
      "titolo": "Borsa: Tokyo, apertura in calo (-0,52%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-tokyo-apertura-in-calo-052_d9120ad5-a9c8-4d16-9af0-d323673f8025.html",
      "data": "2026-08-26T00:19:50+00:00"
@@ -304,17 +309,17 @@
      "titolo": "Bpm, 'Mps propone operazione diversa, acquisizione senza premio'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/bpm-mps-propone-operazione-diversa-acquisizione-senza-premio_5234158a-01c9-4667-9fd5-691fc5a598a1.html",
      "data": "2026-08-25T15:48:47+00:00"
-    },
-    {
-     "titolo": "Fonti Mef, quota Mps congelata, nessuna interferenza con operazioni in corso",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/fonti-mef-quota-mps-congelata-nessuna-interferenza-con-operazioni-in-corso_2d88646b-7a1b-4aa9-8648-11c072d5c106.html",
-     "data": "2026-08-25T15:39:41+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Messico, il partito di governo Morena indaga l'ex governatore Rocha",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/messico-il-partito-di-governo-morena-indaga-lex-governatore-rocha_f8af22f0-69d3-445a-9866-03666a4dfa40.html",
+     "data": "2026-08-26T03:30:44+00:00"
+    },
     {
      "titolo": "Raid ucraini in Russia, due morti e un ferito",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/26/raid-ucraini-in-russia-due-morti-e-un-ferito_863faad6-3be9-4436-91bb-e4805aac8b65.html",
@@ -369,11 +374,6 @@
      "titolo": "Colombia, salgono a 331 i morti e a 31.613 le case distrutte dal sisma del 10 agosto",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/colombia-salgono-a-331-i-morti-e-a-31.613-le-case-distrutte-dal-sisma-del_98ef9c8b-7b34-4b01-9f48-f3d042dcfa87.html",
      "data": "2026-08-25T21:08:24+00:00"
-    },
-    {
-     "titolo": "Il comandante delle forze curde in Siria annuncia lo scioglimento",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/25/il-comandante-delle-forze-curde-in-siria-annuncia-lo-scioglimento_33d157bb-8c4d-4016-96d4-a39e5db707fb.html",
-     "data": "2026-08-25T18:52:47+00:00"
     }
    ]
   },
