@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-08-26T15:56:22.170389+00:00",
+ "aggiornato": "2026-08-26T16:41:22.324632+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Lo spread Btp-Bund a 82,2 punti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/lo-spread-btp-bund-a-822-punti_4ef4517b-8726-44d4-a4b3-46a29409aaf3.html",
+     "data": "2026-08-26T16:13:59+00:00"
+    },
+    {
+     "titolo": "Media, 'Putin prepara escalation, ritiene trattative per pace a punto morto'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/media-putin-prepara-escalation-ritiene-trattative-per-pace-a-punto-morto_767352f1-d901-4ba8-a777-231475619c83.html",
+     "data": "2026-08-26T16:11:55+00:00"
+    },
+    {
+     "titolo": "Future sul gas in altalena, torna sopra i 66 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/future-sul-gas-in-altalena-torna-sopra-i-66-euro-al-megawattora_3fc84f54-aea7-4a97-a867-93b205534842.html",
+     "data": "2026-08-26T16:08:46+00:00"
+    },
+    {
+     "titolo": "Borsa: Europa frena sul finale, azzerati i guadagni aspettando Jackson Hole",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-europa-frena-sul-finale-azzerati-i-guadagni-aspettando-jackson-hole_9bfd6b63-5e94-4872-a0c4-8c4a2be68708.html",
+     "data": "2026-08-26T16:02:21+00:00"
+    },
     {
      "titolo": "Borsa: Milano chiude in rialzo, Ftse Mib +0,31%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-milano-chiude-in-rialzo-ftse-mib-031_67a9c8d0-e098-47c1-87ec-646c40e4f360.html",
@@ -34,26 +54,6 @@
      "titolo": "Suicidio assistito in Lombardia, Bertolaso 'evitare strumentalizzazioni'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/suicidio-assistito-in-lombardia-bertolaso-evitare-strumentalizzazioni_0da54c26-5e98-4796-90f5-3675ea3984aa.html",
      "data": "2026-08-26T14:36:01+00:00"
-    },
-    {
-     "titolo": "Filorussi, drone ucraino su bus nel Lugansk, 9 morti e 6 feriti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/filorussi-drone-ucraino-su-bus-nel-lugansk-9-morti-e-6-feriti_3523fd14-499b-48f8-897c-c1aa89e9d375.html",
-     "data": "2026-08-26T14:33:29+00:00"
-    },
-    {
-     "titolo": "Sale a 95 morti il bilancio dell'alluvione in Nepal",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/sale-a-95-morti-il-bilancio-dellalluvione-in-nepal_0360076b-ae5b-4e37-9ed2-77f6841d6648.html",
-     "data": "2026-08-26T14:03:38+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa prosegue in rialzo, Wall Street è incerta",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-leuropa-prosegue-in-rialzo-wall-street-e-incerta_aca169de-106a-46b0-9b01-c517542296f9.html",
-     "data": "2026-08-26T14:01:25+00:00"
-    },
-    {
-     "titolo": "Tajani, due italiani coinvolti dalla frana in Nepal in buone condizioni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/tajani-due-italiani-coinvolti-dalla-frana-in-nepal-in-buone-condizioni_5461693b-1df3-4dd1-9361-719a563e661d.html",
-     "data": "2026-08-26T13:51:43+00:00"
     }
    ]
   },
@@ -61,9 +61,14 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Bandecchi, il Ddl regionale sui rifiuti mette le mani nelle tasche dei cittadini",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/26/bandecchi-il-ddl-regionale-sui-rifiuti-mette-le-mani-nelle-tasche-dei_e5ea67d8-4b6d-43eb-b0d8-bd2a04a09e26.html",
+     "data": "2026-08-26T16:19:23+00:00"
+    },
+    {
      "titolo": "L'Umbria si accinge ad affrontare una nuova ondata di caldo",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/26/lumbria-si-accinge-ad-affrontare-una-nuova-ondata-di-caldo_8e30373a-a4df-46d7-9fcc-45e76ade7640.html",
-     "data": "2026-08-26T15:43:31+00:00"
+     "data": "2026-08-26T15:57:52+00:00"
     },
     {
      "titolo": "Torna a casa e trova il pavimento del soggiorno crollato in un rifugio antiaereo",
@@ -114,17 +119,22 @@
      "titolo": "Garante detenuti chiede un Tavolo per attuare la legge sulla detenzione domiciliare",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/26/garante-detenuti-chiede-un-tavolo-per-attuare-la-legge-sulla-detenzione-domiciliare_d3aa821e-1c8b-49de-a0f9-cd81a5849294.html",
      "data": "2026-08-26T11:30:58+00:00"
-    },
-    {
-     "titolo": "A Maria Concetta Mattei il Premio alla memoria dell'avvocato Picuti",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/26/a-maria-concetta-mattei-il-premio-alla-memoria-dellavvocato-picuti_01e5acf4-2dd1-40be-80bf-aaf5dae8246c.html",
-     "data": "2026-08-26T11:53:48+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Pizzaballa, 'la Cisgiordania è diventata una terra di nessuno'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/pizzaballa-la-cisgiordania-e-diventata-una-terra-di-nessuno_8e1caa40-f0a3-4228-b859-7834a9fb5465.html",
+     "data": "2026-08-26T16:35:19+00:00"
+    },
+    {
+     "titolo": "Devastante alluvione tra Tibet e Nepal",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/devastante-alluvione-tra-tibet-e-nepal_edc81069-5ebe-432b-913b-6d02f996be69.html",
+     "data": "2026-08-26T16:27:58+00:00"
+    },
     {
      "titolo": "Il pr arrestato per stupro risponde al gip di Milano, 'nessuna violenza'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/il-pr-arrestato-per-stupro-risponde-al-gip-di-milano-nessuna-violenza_c4d12b0b-e0ec-4a97-b5f2-cac7d116ef7b.html",
@@ -144,6 +154,11 @@
      "titolo": "Ragazzi di Crans-Montana pronti a raccontare nelle scuole incubo del Constellation",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/ragazzi-di-crans-montana-pronti-a-raccontare-nelle-scuole-incubo-del-constellation_f2d72438-96dc-41f0-8412-a9d2ebddb586.html",
      "data": "2026-08-26T15:00:43+00:00"
+    },
+    {
+     "titolo": "La testimonianza di un italiano bloccato in Nepal: 'Isolati 10 ore per l'esondazione'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/la-testimonianza-di-un-italiano-bloccato-in-nepal-isolati-10-ore-per-lesondazione_84302ea5-0be0-4a70-afbd-66303b5d1a99.html",
+     "data": "2026-08-26T16:02:54+00:00"
     },
     {
      "titolo": "Nel Pavese tentato furto di preziosi in casa di un conte, due arrestati",
@@ -169,21 +184,6 @@
      "titolo": "Arrestato a Tarragona Toma Taulant, il 'mago delle evasioni'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/arrestato-a-tarragona-toma-taulant-il-mago-delle-evasioni_faaad83c-136e-4bdd-9e8d-dbdcf62fb1de.html",
      "data": "2026-08-26T15:16:48+00:00"
-    },
-    {
-     "titolo": "Alpinista 83enne ritrova l'attrezzatura persa sul ghiacciaio nel 1963",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/alpinista-83enne-ritrova-lattrezzatura-persa-sul-ghiacciaio-nel-1963_d8cfd22f-f8d8-4b58-a02d-031816f82a74.html",
-     "data": "2026-08-26T14:03:22+00:00"
-    },
-    {
-     "titolo": "Sos pavoni a Ravenna, il Comune punta su adozioni e un nuovo bosco",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/sos-pavoni-a-ravenna-il-comune-punta-su-adozioni-e-un-nuovo-bosco_5f44bd9a-a9b7-4fd1-9857-6bf7996e6686.html",
-     "data": "2026-08-26T13:53:00+00:00"
-    },
-    {
-     "titolo": "Travolto dal torrente nel Biellese, proseguono le ricerche",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/travolto-dal-torrente-nel-biellese-proseguono-le-ricerche_4fe94aba-ff04-4870-abbf-7ff4e9009bf2.html",
-     "data": "2026-08-26T13:29:49+00:00"
     }
    ]
   },
@@ -241,6 +241,31 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Approvato il decreto carburanti, taglio delle accise fino al 5 settembre",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/approvato-il-decreto-carburanti-taglio-delle-accise-fino-al-5-settembre_175d5d3a-cfee-4f2c-9b49-daf2c2dfc20f.html",
+     "data": "2026-08-26T16:31:17+00:00"
+    },
+    {
+     "titolo": "Lo spread Btp-Bund a 82,2 punti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/lo-spread-btp-bund-a-822-punti_e5f1ea2a-3b18-4fc8-a371-9edc5378161e.html",
+     "data": "2026-08-26T16:13:57+00:00"
+    },
+    {
+     "titolo": "Future sul gas in altalena, torna sopra i 66 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/future-sul-gas-in-altalena-torna-sopra-i-66-euro-al-megawattora_bd25eb52-e421-42c0-a5fe-c582a97e7786.html",
+     "data": "2026-08-26T16:08:48+00:00"
+    },
+    {
+     "titolo": "Borsa: Europa frena sul finale, azzerati i guadagni aspettando Jackson Hole",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-europa-frena-sul-finale-azzerati-i-guadagni-aspettando-jackson-hole_af3b620d-cee4-4f52-8f82-a899a6a5906d.html",
+     "data": "2026-08-26T16:02:28+00:00"
+    },
+    {
+     "titolo": "Scorte di gas Ue sotto la media, da Hormuz il 20% del gnl globale",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/scorte-di-gas-ue-sotto-la-media-da-hormuz-il-20-del-gnl-globale_fb02a81d-a3fa-4efe-9e62-893f59e8a73f.html",
+     "data": "2026-08-26T15:56:03+00:00"
+    },
+    {
      "titolo": "Borsa: Milano chiude in rialzo, Ftse Mib +0,31%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-milano-chiude-in-rialzo-ftse-mib-031_7c00ad8d-b968-4b53-b686-e2c1dcbebc64.html",
      "data": "2026-08-26T15:49:10+00:00"
@@ -274,37 +299,22 @@
      "titolo": "Wall Street apre debole dopo l'inflazione, Dj -0,09%, Nasdaq -0,17%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/wall-street-apre-debole-dopo-linflazione-dj-009-nasdaq-017_da26d399-e64e-4cda-9b0d-01a3cdca1ce4.html",
      "data": "2026-08-26T13:35:51+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa cauta dopo il dato sull'inflazione Usa",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-europa-cauta-dopo-il-dato-sullinflazione-usa_80e08f75-47c6-42b5-8beb-59901f26f689.html",
-     "data": "2026-08-26T13:34:17+00:00"
-    },
-    {
-     "titolo": "Meta paga 16,7 miliardi nell'accordo con stati Usa per la dipendenza dai social",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/meta-paga-167-miliardi-nellaccordo-con-stati-usa-per-la-dipendenza_0aebc484-f90f-4e3c-9525-220d6a4be4b3.html",
-     "data": "2026-08-26T13:38:05+00:00"
-    },
-    {
-     "titolo": "Il petrolio è in calo a New York a 80,55 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/il-petrolio-e-in-calo-a-new-york-a-8055-dollari_6e02eaa4-2c50-4bd8-8d29-e7585a6d7d64.html",
-     "data": "2026-08-26T13:13:16+00:00"
-    },
-    {
-     "titolo": "L'economia Usa cresce dell'1,5% nel secondo trimestre",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/leconomia-usa-cresce-dell15-nel-secondo-trimestre_863cfff6-0937-4982-bf3a-15fe23a7c864.html",
-     "data": "2026-08-26T12:45:11+00:00"
-    },
-    {
-     "titolo": "L'inflazione in Usa a luglio al 3,7%, sopra le attese",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/linflazione-in-usa-a-luglio-al-37-sopra-le-attese_2c1c9eb0-182b-4111-aabc-b6c573d326e5.html",
-     "data": "2026-08-26T12:46:05+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Cile, 'nessun accordo dazi con Usa che non siano vantaggiosi per le aziende locali'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/cile-nessun-accordo-dazi-con-usa-che-non-siano-vantaggiosi_a1722890-2713-4bae-9d9a-c5ba2f95508e.html",
+     "data": "2026-08-26T16:14:05+00:00"
+    },
+    {
+     "titolo": "Media, 'Putin prepara escalation, ritiene trattative per pace a punto morto'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/26/media-putin-prepara-escalation-ritiene-trattative-per-pace-a-punto-morto_a24a3467-ab86-4f06-b41d-7d998c4384f7.html",
+     "data": "2026-08-26T16:12:14+00:00"
+    },
     {
      "titolo": "Due i decessi per malaria all'aeroporto di Francoforte",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/26/due-i-decessi-per-malaria-allaeroporto-di-francoforte_20399bbe-7ed8-4556-b2c2-4ed6d42f25c9.html",
@@ -354,16 +364,6 @@
      "titolo": "'Meta paga 16,7 miliardi nell'accordo con stati Usa per la dipendenza dai social'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/26/meta-paga-167-miliardi-nellaccordo-con-stati-usa-per-la-dipendenza_b709d760-6da9-4d4f-a0ce-9db8aa85186d.html",
      "data": "2026-08-26T13:39:40+00:00"
-    },
-    {
-     "titolo": "Trump, 'Dolly Parton non era una politica, le piacevo molto'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/26/trump-dolly-parton-non-era-una-politica-le-piacevo-molto_de66916e-c78f-4756-b92a-909528def690.html",
-     "data": "2026-08-26T13:40:02+00:00"
-    },
-    {
-     "titolo": "Media, 'valanga di ghiaccio potrebbe aver provocato l'esondazione del fiume in Nepal'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/media-valanga-di-ghiaccio-potrebbe-aver-provocato-lesondazione-del-fiume-in-nepal_d2362dad-98ff-4380-b0c5-d344c8feb3a6.html",
-     "data": "2026-08-26T13:41:27+00:00"
     }
    ]
   },
@@ -436,6 +436,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Vuelta: seconda vittoria di tappa per Brennan, terzo posto per Albanese",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/26/vuelta-seconda-vittoria-di-tappa-per-brennan-terzo-posto-per-albanese_66e32d6d-479e-45ac-b20e-f193bc141e4d.html",
+     "data": "2026-08-26T16:30:24+00:00"
+    },
+    {
+     "titolo": "Da Lautaro a Dimarco e Nico Paz, tutto pronto per Gran Galà del Calcio",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/da-lautaro-a-dimarco-e-nico-paz-tutto-pronto-per-gran-gala-del_7a7b3ea9-85ed-4d46-b975-54602480626b.html",
+     "data": "2026-08-26T16:17:53+00:00"
+    },
+    {
+     "titolo": "Eurovolley: Italia batte 3-1 la Francia e chiude girone a punteggio pieno",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/26/eurovolley-italia-batte-3-1-la-francia-e-chiude-girone-a-punteggio-pieno_9c678cab-f48f-40ac-8593-e47d4f59ceab.html",
+     "data": "2026-08-26T16:11:30+00:00"
+    },
+    {
      "titolo": "Giochi del Mediterraneo: oro Italia nel badminton con Caponio",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/26/giochi-del-mediterraneo-oro-italia-nel-badminton-con-caponio_4a7defb4-c725-4d9d-9c06-2bb7885e743b.html",
      "data": "2026-08-26T15:10:10+00:00"
@@ -479,21 +494,6 @@
      "titolo": "Fifa: la Figc ritira il sostegno a Infantino",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/fifa-la-figc-ritira-il-sostegno-a-infantino_a4831356-e2f9-4d23-9d50-196755d5763f.html",
      "data": "2026-08-26T12:36:20+00:00"
-    },
-    {
-     "titolo": "Fifa, la Figc ritira il sostegno a Infantino",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/fifa-la-figc-ritira-il-sostegno-a-infantino_274473dc-f256-4c4e-bf4d-0bbd06402dda.html",
-     "data": "2026-08-26T14:04:37+00:00"
-    },
-    {
-     "titolo": "Fifa: Uefa pronta a ritirare il suo boicottaggio",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/fifa-uefa-pronta-a-ritirare-il-suo-boicottaggio_db1d9121-f2cc-4618-a6b2-faa53a85b6dd.html",
-     "data": "2026-08-26T12:14:30+00:00"
-    },
-    {
-     "titolo": "Calcio: Fabbri arbitra Cagliari-Inter, Napoli-Como a Pairetto",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/calcio-fabbri-arbitra-cagliari-inter-napoli-como-a-pairetto_791389df-26c6-47e5-b105-cd3825d230d2.html",
-     "data": "2026-08-26T12:01:27+00:00"
     }
    ]
   }
