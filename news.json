@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-26T04:09:37.720918+00:00",
+ "aggiornato": "2026-08-26T05:01:10.359544+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Incendio in un reparto di ginecologia, 14 neonati morti a Islamabad",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/incendio-in-un-reparto-di-ginecologia-14-neonati-morti-a-islamabad_838161f7-1afa-4a4e-8a4f-1b92e334157d.html",
+     "data": "2026-08-26T04:43:27+00:00"
+    },
     {
      "titolo": "Robot umanoide cinese corre i 100 metri in 8,86 secondi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/robot-umanoide-cinese-corre-i-100-metri-in-886-secondi_bb53d9f6-4b72-4c43-8358-a13d7f1aa6e9.html",
@@ -49,11 +54,6 @@
      "titolo": "Addio a Dolly Parton, la regina del country aveva 80 anni",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/addio-a-dolly-parton-la-regina-del-country-aveva-80-anni_2eb4fe3f-6243-40d8-8544-94da1169ec40.html",
      "data": "2026-08-25T18:19:07+00:00"
-    },
-    {
-     "titolo": "Israele espelle rappresentanti olandesi da base Board of Peace a Kiryat Gat",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/israele-espelle-rappresentanti-olandesi-da-base-board-of-peace-a-kiryat-gat_259d8710-a5dd-4785-ad5b-be323c5cb348.html",
-     "data": "2026-08-25T17:15:04+00:00"
     }
    ]
   },
@@ -316,6 +316,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Incendio in un reparto di ginecologia, 14 neonati morti a Islamabad",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/incendio-in-un-reparto-di-ginecologia-14-neonati-morti-a-islamabad_30e501d9-0894-4ac2-b205-02412a01c11e.html",
+     "data": "2026-08-26T04:44:01+00:00"
+    },
+    {
+     "titolo": "Robot umanoide cinese corre i 100 metri in 8,86 secondi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/robot-umanoide-cinese-corre-i-100-metri-in-886-secondi_e611aa7d-12e4-4dd7-bd69-7e3740456617.html",
+     "data": "2026-08-26T04:06:11+00:00"
+    },
+    {
+     "titolo": "Colombia, via libera della Corte alla legge sulle pensioni promossa da Petro",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/colombia-via-libera-della-corte-alla-legge-sulle-pensioni-promossa_5035479f-f993-4285-b78e-98a449409c28.html",
+     "data": "2026-08-26T04:02:03+00:00"
+    },
+    {
      "titolo": "Messico, il partito di governo Morena indaga l'ex governatore Rocha",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/messico-il-partito-di-governo-morena-indaga-lex-governatore-rocha_f8af22f0-69d3-445a-9866-03666a4dfa40.html",
      "data": "2026-08-26T03:30:44+00:00"
@@ -359,21 +374,6 @@
      "titolo": "Colombia, 16 incendi boschivi attivi in cinque dipartimenti",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/colombia-16-incendi-boschivi-attivi-in-cinque-dipartimenti_cf3a6aae-bbe8-4168-843d-be4ca4b96b8d.html",
      "data": "2026-08-26T00:38:27+00:00"
-    },
-    {
-     "titolo": "Brasile, il tribunale di Rio conferma il nuovo fallimento di Oi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/brasile-il-tribunale-di-rio-conferma-il-nuovo-fallimento-di-oi_639448a9-1d6d-4dc4-918d-fc5392a80037.html",
-     "data": "2026-08-25T23:01:46+00:00"
-    },
-    {
-     "titolo": "Messico, Graciela Domínguez Nava nuova governatrice ad interim di Sinaloa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/messico-graciela-dominguez-nava-nuova-governatrice-ad-interim-di-sinaloa_efb32d42-dc53-4cf1-8e2f-7f9f2bae23e6.html",
-     "data": "2026-08-25T21:17:58+00:00"
-    },
-    {
-     "titolo": "Colombia, salgono a 331 i morti e a 31.613 le case distrutte dal sisma del 10 agosto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/colombia-salgono-a-331-i-morti-e-a-31.613-le-case-distrutte-dal-sisma-del_98ef9c8b-7b34-4b01-9f48-f3d042dcfa87.html",
-     "data": "2026-08-25T21:08:24+00:00"
     }
    ]
   },
