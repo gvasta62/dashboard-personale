@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-08-26T16:41:22.324632+00:00",
+ "aggiornato": "2026-08-26T18:31:30.216416+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Tre incendi vicino alle abitazioni, evacuate famiglie nel Tarantino",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/tre-incendi-vicino-alle-abitazioni-evacuate-famiglie-nel-tarantino_45ce8b6f-718a-4c1f-9ca9-0c854f9b03f8.html",
+     "data": "2026-08-26T18:07:29+00:00"
+    },
+    {
+     "titolo": "Polizia Nepal, 'recuperati 157 corpi dalle zone colpite dall'alluvione'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/polizia-nepal-recuperati-157-corpi-dalle-zone-colpite-dallalluvione_fb597286-a6d9-4afe-9a36-3737a2f2aa04.html",
+     "data": "2026-08-26T17:47:52+00:00"
+    },
+    {
+     "titolo": "Nel dl accise acconto fiscale sui dividendi anticipati dei grandi gruppi energetici",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/nel-dl-accise-acconto-fiscale-sui-dividendi-anticipati-dei-grandi-gruppi_da1fd019-6faa-467c-ac09-a0cbaa260da5.html",
+     "data": "2026-08-26T17:33:33+00:00"
+    },
+    {
+     "titolo": "Taglio delle accise prorogato fino al 5 settembre",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/taglio-delle-accise-prorogato-fino-al-5-settembre_8ab1ce47-024b-4033-b3b5-fe84e229c2f1.html",
+     "data": "2026-08-26T16:45:47+00:00"
+    },
+    {
+     "titolo": "Pizzaballa, 'la Cisgiordania è diventata una terra di nessuno'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/pizzaballa-la-cisgiordania-e-diventata-una-terra-di-nessuno_221e6635-cf62-4bcd-93b9-a6277e3268ca.html",
+     "data": "2026-08-26T16:35:26+00:00"
+    },
     {
      "titolo": "Lo spread Btp-Bund a 82,2 punti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/lo-spread-btp-bund-a-822-punti_4ef4517b-8726-44d4-a4b3-46a29409aaf3.html",
@@ -29,31 +54,6 @@
      "titolo": "Borsa: Milano chiude in rialzo, Ftse Mib +0,31%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-milano-chiude-in-rialzo-ftse-mib-031_67a9c8d0-e098-47c1-87ec-646c40e4f360.html",
      "data": "2026-08-26T15:49:13+00:00"
-    },
-    {
-     "titolo": "Due i decessi per malaria all'aeroporto di Francoforte",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/due-i-decessi-per-malaria-allaeroporto-di-francoforte_e844e161-8682-405b-8170-5e7db7959e52.html",
-     "data": "2026-08-26T15:28:01+00:00"
-    },
-    {
-     "titolo": "Media cinesi, tre morti e 265 dispersi per la frana in Tibet",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/media-cinesi-tre-morti-e-265-dispersi-per-la-frana-in-tibet_c27d8f20-75c8-4ac8-ad83-bbee05e4fdd6.html",
-     "data": "2026-08-26T14:56:48+00:00"
-    },
-    {
-     "titolo": "Ce Industries, ancora nessuna offerta per ex Ilva e nessuna decisione presa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/ce-industries-ancora-nessuna-offerta-per-ex-ilva-e-nessuna-decisione-presa_4c14864d-b76b-4775-ad5a-ea09373e34ea.html",
-     "data": "2026-08-26T14:50:08+00:00"
-    },
-    {
-     "titolo": "Eros Ramazzotti operato alle corde vocali, \"sto bene, ma devo riposare. Stop al tour\"",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/eros-ramazzotti-operato-alle-corde-vocali-sto-bene-ma-devo-riposare._4d77dec1-4404-4972-abaa-c6a28a0087f7.html",
-     "data": "2026-08-26T14:39:09+00:00"
-    },
-    {
-     "titolo": "Suicidio assistito in Lombardia, Bertolaso 'evitare strumentalizzazioni'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/suicidio-assistito-in-lombardia-bertolaso-evitare-strumentalizzazioni_0da54c26-5e98-4796-90f5-3675ea3984aa.html",
-     "data": "2026-08-26T14:36:01+00:00"
     }
    ]
   },
@@ -126,6 +126,31 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-08-26T18:11:25+00:00"
+    },
+    {
+     "titolo": "Tre incendi vicino alle abitazioni, evacuate famiglie nel Tarantino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/tre-incendi-vicino-alle-abitazioni-evacuate-famiglie-nel-tarantino_4d72bc8b-f660-481d-acaa-ecd4971f8605.html",
+     "data": "2026-08-26T18:07:45+00:00"
+    },
+    {
+     "titolo": "Un piccolo elicottero urta i cavi e precipita, due morti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/un-piccolo-elicottero-urta-i-cavi-e-precipita-due-morti_b1e52a7d-f439-46d0-8198-5d50533a0140.html",
+     "data": "2026-08-26T17:20:27+00:00"
+    },
+    {
+     "titolo": "Gip, 'per trapper Tony Boy domiciliari a casa dei genitori, contesto sicuro'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/gip-per-trapper-tony-boy-domiciliari-a-casa-dei-genitori-contesto_77e4f9b9-4458-455f-ac5d-a2d014d885e8.html",
+     "data": "2026-08-26T17:13:28+00:00"
+    },
+    {
+     "titolo": "Si stacca un masso, muore escursionista sulla Croda Alta in Alto Adige",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/si-stacca-un-masso-muore-escursionista-sulla-croda-alta-in-alto-adige_e3f06cce-22c4-4041-86dd-78fe1a781f2b.html",
+     "data": "2026-08-26T17:11:16+00:00"
+    },
+    {
      "titolo": "Pizzaballa, 'la Cisgiordania è diventata una terra di nessuno'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/pizzaballa-la-cisgiordania-e-diventata-una-terra-di-nessuno_8e1caa40-f0a3-4228-b859-7834a9fb5465.html",
      "data": "2026-08-26T16:35:19+00:00"
@@ -158,38 +183,38 @@
     {
      "titolo": "La testimonianza di un italiano bloccato in Nepal: 'Isolati 10 ore per l'esondazione'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/la-testimonianza-di-un-italiano-bloccato-in-nepal-isolati-10-ore-per-lesondazione_84302ea5-0be0-4a70-afbd-66303b5d1a99.html",
-     "data": "2026-08-26T16:02:54+00:00"
-    },
-    {
-     "titolo": "Nel Pavese tentato furto di preziosi in casa di un conte, due arrestati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/nel-pavese-tentato-furto-di-preziosi-in-casa-di-un-conte-due-arrestati_f37fff8e-e412-4355-b245-e5f90b4906d7.html",
-     "data": "2026-08-26T14:44:18+00:00"
-    },
-    {
-     "titolo": "Positivo ad alcol e droga travolge e uccide giovane in bici, arrestato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/positivo-ad-alcol-e-droga-travolge-e-uccide-giovane-in-bici-arrestato_b7299f58-cd77-4707-aa90-c2d67da54072.html",
-     "data": "2026-08-26T14:43:22+00:00"
-    },
-    {
-     "titolo": "Suicidio assistito in Lombardia, Bertolaso 'evitare strumentalizzazioni'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/suicidio-assistito-in-lombardia-bertolaso-evitare-strumentalizzazioni_7b2bfae0-030e-4af8-96ed-58205fd8dd63.html",
-     "data": "2026-08-26T14:36:08+00:00"
-    },
-    {
-     "titolo": "Schengen: sindaco Trieste, parlerò con Piantedosi a Settembre",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/schengen-sindaco-trieste-parlero-con-piantedosi-a-settembre_6aa913bd-a855-42f7-9347-6402bd08f76c.html",
-     "data": "2026-08-26T14:34:19+00:00"
-    },
-    {
-     "titolo": "Arrestato a Tarragona Toma Taulant, il 'mago delle evasioni'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/arrestato-a-tarragona-toma-taulant-il-mago-delle-evasioni_faaad83c-136e-4bdd-9e8d-dbdcf62fb1de.html",
-     "data": "2026-08-26T15:16:48+00:00"
+     "data": "2026-08-26T16:46:55+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Caos primarie nel Pd, Schlein tiene il punto ma i big frenano",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/26/caos-primarie-nel-pd-schlein-tiene-il-punto-ma-i-big-frenano_7ba4b030-cc77-49c5-a812-fded96a1a41a.html",
+     "data": "2026-08-26T18:09:08+00:00"
+    },
+    {
+     "titolo": "Scontro sulle armi a Kiev. Le opposizioni: 'Il governo chiarisca'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/26/scontro-sulle-armi-a-kiev.-le-opposizioni-il-governo-chiarisca_7b44b350-d562-46ee-9292-70c19839ccf7.html",
+     "data": "2026-08-26T18:11:25+00:00"
+    },
+    {
+     "titolo": "Il centrodestra accelera sulle città, a settembre i candidati",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/26/il-centrodestra-accelera-sulle-citta-a-settembre-i-candidati_aba9528d-26c2-4a77-b7df-3b64c60f7689.html",
+     "data": "2026-08-26T18:14:24+00:00"
+    },
+    {
+     "titolo": "Ranucci non arretra, il faro di Bruxelles sulla vicenda",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/26/ranucci-non-arretra-il-faro-di-bruxelles-sulla-vicenda_0ed05eb0-6712-4e8c-9b62-a92a3a59307c.html",
+     "data": "2026-08-26T18:18:19+00:00"
+    },
+    {
+     "titolo": "Meeting Rimini: edizione record con la visita del Papa, 900mila presenze",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/26/meeting-rimini-edizione-record-con-la-visita-del-papa-900mila-presenze_17a3b921-e4fc-4f51-b126-2de307499e42.html",
+     "data": "2026-08-26T16:50:34+00:00"
+    },
     {
      "titolo": "In Consiglio Veneto pdl sul fine vita prima degli schemi sull'autonomia",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/26/in-consiglio-veneto-pdl-sul-fine-vita-prima-degli-schemi-sullautonomia_6fe9cf3e-0b04-432c-ba71-91062baaf73a.html",
@@ -214,26 +239,6 @@
      "titolo": "Taglio delle accise verso la proroga, 'poi aiuti ai redditi bassi'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/taglio-delle-accise-verso-la-proroga-poi-aiuti-ai-redditi-bassi_fb725722-357f-4d7f-b1c6-fa89004ea853.html",
      "data": "2026-08-26T09:03:05+00:00"
-    },
-    {
-     "titolo": "Via Rai Scuola, arriva l'identità italiana. L'ira delle opposizioni",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/via-rai-scuola-arriva-lidentita-italiana.-lira-delle-opposizioni_9d6511ab-818a-4dcc-9589-d78dca91ca9a.html",
-     "data": "2026-08-25T17:51:46+00:00"
-    },
-    {
-     "titolo": "'Incontro suprematista a Casapound', insorge l'opposizione",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/incontro-suprematista-a-casapound-insorge-lopposizione_6549d4b5-2739-4e02-ac4f-f7240e99da54.html",
-     "data": "2026-08-25T17:44:51+00:00"
-    },
-    {
-     "titolo": "Il vescovo di Kharkiv: 'La missione vaticana a Mosca non porterà risultati'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/il-vescovo-di-kharkiv-la-missione-vaticana-a-mosca-non-portera-risultati_4122e466-ac44-4785-a15f-37cdea822071.html",
-     "data": "2026-08-25T16:08:12+00:00"
-    },
-    {
-     "titolo": "La Rai cerca l'exit strategy per Ranucci, l'ipotesi del ritorno a una testata",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/riunione-in-rai-sul-caso-ranucci-la-decisione-attesa-nei-prossimi-giorni_ac4d4dfa-073b-484e-95d3-da62a2e48e18.html",
-     "data": "2026-08-26T09:13:36+00:00"
     }
    ]
   },
@@ -241,9 +246,24 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Approvato il decreto carburanti, taglio delle accise fino al 5 settembre",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/approvato-il-decreto-carburanti-taglio-delle-accise-fino-al-5-settembre_175d5d3a-cfee-4f2c-9b49-daf2c2dfc20f.html",
-     "data": "2026-08-26T16:31:17+00:00"
+     "titolo": "Nel dl accise acconto fiscale sui dividendi anticipati dei grandi gruppi energetici",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/nel-dl-accise-acconto-fiscale-sui-dividendi-anticipati-dei-grandi-gruppi_157167bc-e86d-4030-8cd4-5f60bddbae3a.html",
+     "data": "2026-08-26T17:36:11+00:00"
+    },
+    {
+     "titolo": "Approvato il decreto carburanti, taglio delle accise fino al 5 settembre. Poi 'sostegni selettivi sulla base del reddito'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/approvato-il-decreto-carburanti-taglio-delle-accise-fino-al-5-settembre.-poi-sostegni_175d5d3a-cfee-4f2c-9b49-daf2c2dfc20f.html",
+     "data": "2026-08-26T18:26:54+00:00"
+    },
+    {
+     "titolo": "Borsa: incertezza sui listini, a Milano sugli scudi Unicredit",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-incertezza-sui-listini-a-milano-sugli-scudi-unicredit_d35e0fe2-cee0-402a-a391-2b7526c31143.html",
+     "data": "2026-08-26T16:50:48+00:00"
+    },
+    {
+     "titolo": "Taglio delle accise prorogato fino al 5 settembre",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/taglio-delle-accise-prorogato-fino-al-5-settembre_e3aeedee-c38a-4580-b712-934d16313967.html",
+     "data": "2026-08-26T17:16:44+00:00"
     },
     {
      "titolo": "Lo spread Btp-Bund a 82,2 punti",
@@ -284,27 +304,37 @@
      "titolo": "Ce Industries, ancora nessuna offerta per ex Ilva e nessuna decisione presa",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/ce-industries-ancora-nessuna-offerta-per-ex-ilva-e-nessuna-decisione-presa_793bb59c-ca66-444a-b0d8-542d5de0a83a.html",
      "data": "2026-08-26T14:57:04+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa prosegue in rialzo, Wall Street è incerta",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-leuropa-prosegue-in-rialzo-wall-street-e-incerta_a94155e7-cde3-46ab-a544-c43494662f8f.html",
-     "data": "2026-08-26T14:01:28+00:00"
-    },
-    {
-     "titolo": "Tagli al management in Volkswagen, 'via un quarto dei posti'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/tagli-al-management-in-volkswagen-via-un-quarto-dei-posti_b2d6beef-3d7c-4143-9d02-61ae50c26509.html",
-     "data": "2026-08-26T13:52:33+00:00"
-    },
-    {
-     "titolo": "Wall Street apre debole dopo l'inflazione, Dj -0,09%, Nasdaq -0,17%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/wall-street-apre-debole-dopo-linflazione-dj-009-nasdaq-017_da26d399-e64e-4cda-9b0d-01a3cdca1ce4.html",
-     "data": "2026-08-26T13:35:51+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Nuove pressioni su Eswatini dalla Cina che dice ai propri cittadini di andare via",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/26/nuove-pressioni-su-eswatini-dalla-cina-che-dice-ai-propri-cittadini-di-andare_438f08a5-0ca1-497c-9a2c-b8ba4e410f52.html",
+     "data": "2026-08-26T18:04:49+00:00"
+    },
+    {
+     "titolo": "Polizia Nepal, 'recuperati 157 corpi dalle zone colpite dall'alluvione'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/polizia-nepal-recuperati-157-corpi-dalle-zone-colpite-dallalluvione_429d18d5-b0b9-4062-bf3f-f0037a3e0c76.html",
+     "data": "2026-08-26T17:47:55+00:00"
+    },
+    {
+     "titolo": "Incendio in un ospedale di Islamabad, strage di neonati",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/incendio-in-un-ospedale-di-islamabad-strage-di-neonati_bc2e76c4-e6da-4522-a3f9-8bccc87bf4b9.html",
+     "data": "2026-08-26T17:41:05+00:00"
+    },
+    {
+     "titolo": "Governo Milei annuncia un piano da 1,13 miliardi di euro su crediti ipotecari",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/governo-milei-annuncia-un-piano-da-113-miliardi-di-euro-su-crediti-ipotecari_14136bb7-ee27-4adb-9673-4a25770c4035.html",
+     "data": "2026-08-26T17:25:26+00:00"
+    },
+    {
+     "titolo": "La Siria si normalizza, le milizie curde nell'esercito",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/26/la-siria-si-normalizza-le-milizie-curde-nellesercito_e8e18904-72dc-4c24-8592-8fbe71157d2b.html",
+     "data": "2026-08-26T17:01:05+00:00"
+    },
     {
      "titolo": "Cile, 'nessun accordo dazi con Usa che non siano vantaggiosi per le aziende locali'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/cile-nessun-accordo-dazi-con-usa-che-non-siano-vantaggiosi_a1722890-2713-4bae-9d9a-c5ba2f95508e.html",
@@ -336,34 +366,9 @@
      "data": "2026-08-26T14:33:32+00:00"
     },
     {
-     "titolo": "Harry e Meghan tornano nel Regno Unito, atterrati a Birmingham su un jet privato",
+     "titolo": "Harry e Meghan tornati in Inghilterra, inizia una nuova vita",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/26/harry-e-meghan-tornano-nel-regno-unito-atterrati-a-birmingham-su-un-jet-privato_5e8d6db5-2192-477e-81b5-b18ddfb7e5c3.html",
-     "data": "2026-08-26T14:15:29+00:00"
-    },
-    {
-     "titolo": "Sale a 95 morti il bilancio dell'alluvione in Nepal",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/sale-a-95-morti-il-bilancio-dellalluvione-in-nepal_5838d1f3-10e5-4b59-96b9-83c5bea36652.html",
-     "data": "2026-08-26T14:04:26+00:00"
-    },
-    {
-     "titolo": "Tajani, due italiani coinvolti dalla frana in Nepal in buone condizioni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/tajani-due-italiani-coinvolti-dalla-frana-in-nepal-in-buone-condizioni_abfa1d86-fa84-4aed-a02a-f317c55bd454.html",
-     "data": "2026-08-26T13:52:08+00:00"
-    },
-    {
-     "titolo": "Carney sarà a Strasburgo per il discorso sullo Stato dell'Unione",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/26/carney-sara-a-strasburgo-per-il-discorso-sullo-stato-dellunione_6ac7b079-2dec-41d4-9343-e360fce15f5c.html",
-     "data": "2026-08-26T13:37:55+00:00"
-    },
-    {
-     "titolo": "Trump, 'il capo della Cia in Russia? visita di semi-routine'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/26/trump-il-capo-della-cia-in-russia-visita-di-semi-routine_811dc919-a6e2-453b-99bf-201cf9dcab30.html",
-     "data": "2026-08-26T13:39:35+00:00"
-    },
-    {
-     "titolo": "'Meta paga 16,7 miliardi nell'accordo con stati Usa per la dipendenza dai social'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/26/meta-paga-167-miliardi-nellaccordo-con-stati-usa-per-la-dipendenza_b709d760-6da9-4d4f-a0ce-9db8aa85186d.html",
-     "data": "2026-08-26T13:39:40+00:00"
+     "data": "2026-08-26T17:19:11+00:00"
     }
    ]
   },
@@ -436,6 +441,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "L'Italia di Velasco batte anche la Francia e fa 5 su 5 agli Europei",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/26/litalia-di-velasco-batte-anche-la-francia-e-fa-5-su-5-agli-europei_08933799-6c66-4163-8af3-36ba36fe82c6.html",
+     "data": "2026-08-26T18:25:39+00:00"
+    },
+    {
+     "titolo": "Juve: Grabara, penso non ci sia un club migliore",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/juve-grabara-penso-non-ci-sia-un-club-migliore_642f5b40-67da-4416-b109-d1d247fe87f6.html",
+     "data": "2026-08-26T17:36:15+00:00"
+    },
+    {
      "titolo": "Vuelta: seconda vittoria di tappa per Brennan, terzo posto per Albanese",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/26/vuelta-seconda-vittoria-di-tappa-per-brennan-terzo-posto-per-albanese_66e32d6d-479e-45ac-b20e-f193bc141e4d.html",
      "data": "2026-08-26T16:30:24+00:00"
@@ -484,16 +499,6 @@
      "titolo": "Conference: Atalanta senza Kristensen e Ahanor contro l'Hapeol",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/conference-atalanta-senza-kristensen-e-ahanor-contro-lhapeol_3a11a743-914f-4c21-bb50-1efa95df370f.html",
      "data": "2026-08-26T12:47:34+00:00"
-    },
-    {
-     "titolo": "Conference, l'Atalanta senza Kristensen e Ahanor contro l'Hapeol",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/conference-latalanta-senza-kristensen-e-ahanor-contro-lhapeol_0a7d914c-696a-4b58-b6d4-8abf55e51830.html",
-     "data": "2026-08-26T13:06:52+00:00"
-    },
-    {
-     "titolo": "Fifa: la Figc ritira il sostegno a Infantino",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/fifa-la-figc-ritira-il-sostegno-a-infantino_a4831356-e2f9-4d23-9d50-196755d5763f.html",
-     "data": "2026-08-26T12:36:20+00:00"
     }
    ]
   }
