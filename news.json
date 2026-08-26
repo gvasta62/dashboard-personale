@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-26T18:31:30.216416+00:00",
+ "aggiornato": "2026-08-26T21:20:32.235916+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "I ricavi di Nvidia sopra le attese, 'Ia è al suo punto di svolta'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/i-ricavi-di-nvidia-sopra-le-attese-ia-e-al-suo-punto-di-svolta_d670bfd8-bfbe-4cd8-810e-aaa698b0ef03.html",
+     "data": "2026-08-26T20:41:22+00:00"
+    },
     {
      "titolo": "Tre incendi vicino alle abitazioni, evacuate famiglie nel Tarantino",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/tre-incendi-vicino-alle-abitazioni-evacuate-famiglie-nel-tarantino_45ce8b6f-718a-4c1f-9ca9-0c854f9b03f8.html",
@@ -49,11 +54,6 @@
      "titolo": "Borsa: Europa frena sul finale, azzerati i guadagni aspettando Jackson Hole",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-europa-frena-sul-finale-azzerati-i-guadagni-aspettando-jackson-hole_9bfd6b63-5e94-4872-a0c4-8c4a2be68708.html",
      "data": "2026-08-26T16:02:21+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in rialzo, Ftse Mib +0,31%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-milano-chiude-in-rialzo-ftse-mib-031_67a9c8d0-e098-47c1-87ec-646c40e4f360.html",
-     "data": "2026-08-26T15:49:13+00:00"
     }
    ]
   },
@@ -138,7 +138,7 @@
     {
      "titolo": "Un piccolo elicottero urta i cavi e precipita, due morti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/un-piccolo-elicottero-urta-i-cavi-e-precipita-due-morti_b1e52a7d-f439-46d0-8198-5d50533a0140.html",
-     "data": "2026-08-26T17:20:27+00:00"
+     "data": "2026-08-26T19:21:28+00:00"
     },
     {
      "titolo": "Gip, 'per trapper Tony Boy domiciliari a casa dei genitori, contesto sicuro'",
@@ -246,14 +246,19 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Decreto carburanti, taglio delle accise sul gasolio fino al 5 settembre. Poi 'sostegni selettivi sulla base del reddito'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/decreto-carburanti-taglio-delle-accise-sul-gasolio-fino-al-5-settembre.-poi_175d5d3a-cfee-4f2c-9b49-daf2c2dfc20f.html",
+     "data": "2026-08-26T18:56:49+00:00"
+    },
+    {
+     "titolo": "Ex Ilva, il governo assicura continuità operativa degli impianti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/ex-ilva-il-governo-assicura-continuita-operativa-degli-impianti_8dbd77aa-8789-4b7b-bbd5-25ad66f8da40.html",
+     "data": "2026-08-26T18:56:18+00:00"
+    },
+    {
      "titolo": "Nel dl accise acconto fiscale sui dividendi anticipati dei grandi gruppi energetici",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/nel-dl-accise-acconto-fiscale-sui-dividendi-anticipati-dei-grandi-gruppi_157167bc-e86d-4030-8cd4-5f60bddbae3a.html",
      "data": "2026-08-26T17:36:11+00:00"
-    },
-    {
-     "titolo": "Approvato il decreto carburanti, taglio delle accise fino al 5 settembre. Poi 'sostegni selettivi sulla base del reddito'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/approvato-il-decreto-carburanti-taglio-delle-accise-fino-al-5-settembre.-poi-sostegni_175d5d3a-cfee-4f2c-9b49-daf2c2dfc20f.html",
-     "data": "2026-08-26T18:26:54+00:00"
     },
     {
      "titolo": "Borsa: incertezza sui listini, a Milano sugli scudi Unicredit",
@@ -299,17 +304,17 @@
      "titolo": "Dolce&Gabbana, indebitamento a 677,6 milioni ma dalle banche ossigeno fino al 2028",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/dolcegabbana-indebitamento-a-6776-milioni-ma-dalle-banche-ossigeno-fino-al-2028_01f7b7de-2fe8-4d8e-9c9b-8caf9c53877c.html",
      "data": "2026-08-26T14:57:58+00:00"
-    },
-    {
-     "titolo": "Ce Industries, ancora nessuna offerta per ex Ilva e nessuna decisione presa",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/ce-industries-ancora-nessuna-offerta-per-ex-ilva-e-nessuna-decisione-presa_793bb59c-ca66-444a-b0d8-542d5de0a83a.html",
-     "data": "2026-08-26T14:57:04+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "I ricavi di Nvidia sopra le attese, 'Ia è al suo punto di svolta'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/26/i-ricavi-di-nvidia-sopra-le-attese-ia-e-al-suo-punto-di-svolta_0470ab69-a70c-48aa-a24e-8edf81d9152c.html",
+     "data": "2026-08-26T20:41:22+00:00"
+    },
     {
      "titolo": "Nuove pressioni su Eswatini dalla Cina che dice ai propri cittadini di andare via",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/26/nuove-pressioni-su-eswatini-dalla-cina-che-dice-ai-propri-cittadini-di-andare_438f08a5-0ca1-497c-9a2c-b8ba4e410f52.html",
@@ -364,11 +369,6 @@
      "titolo": "Filorussi, drone ucraino su bus nel Lugansk, 9 morti e 6 feriti",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/26/filorussi-drone-ucraino-su-bus-nel-lugansk-9-morti-e-6-feriti_0f692811-abd7-4028-8683-21b617cbfdfc.html",
      "data": "2026-08-26T14:33:32+00:00"
-    },
-    {
-     "titolo": "Harry e Meghan tornati in Inghilterra, inizia una nuova vita",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/26/harry-e-meghan-tornano-nel-regno-unito-atterrati-a-birmingham-su-un-jet-privato_5e8d6db5-2192-477e-81b5-b18ddfb7e5c3.html",
-     "data": "2026-08-26T17:19:11+00:00"
     }
    ]
   },
@@ -441,6 +441,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Italia-Germania 64-66, il primo set ha un parziale da record",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/26/italia-germania-64-66-il-primo-set-ha-un-parziale-da-record_3654ea87-4e63-4636-a6a2-514cd04b6702.html",
+     "data": "2026-08-26T20:56:42+00:00"
+    },
+    {
+     "titolo": "Intesa Milan-Galatasaray, cessione Leao più vicina",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/intesa-milan-galatasaray-cessione-leao-piu-vicina_722c29c1-d24a-47ac-a94f-fb2fa025237c.html",
+     "data": "2026-08-26T20:21:35+00:00"
+    },
+    {
+     "titolo": "Us Open: wild card per Wawrinka e per le sorelle Williams",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/26/us-open-wild-card-per-wawrinka-e-per-le-sorelle-williams_6d96bee7-6d5b-4b02-9e7f-ea80768e285a.html",
+     "data": "2026-08-26T19:34:32+00:00"
+    },
+    {
+     "titolo": "Mondiali Mtb: Italia oro nel Team relay",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/26/mondiali-mtb-italia-oro-nel-team-relay_82252474-bcb9-46b4-94d2-4e8f9b8f145d.html",
+     "data": "2026-08-26T18:47:07+00:00"
+    },
+    {
      "titolo": "L'Italia di Velasco batte anche la Francia e fa 5 su 5 agli Europei",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/26/litalia-di-velasco-batte-anche-la-francia-e-fa-5-su-5-agli-europei_08933799-6c66-4163-8af3-36ba36fe82c6.html",
      "data": "2026-08-26T18:25:39+00:00"
@@ -479,26 +499,6 @@
      "titolo": "Sindaco di Imola, 'un Gp qui? Sempre pronti a rispondere presente'",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/26/sindaco-di-imola-un-gp-qui-sempre-pronti-a-rispondere-presente_aff50d10-e934-4c4c-9b58-8518973f5a0f.html",
      "data": "2026-08-26T14:20:23+00:00"
-    },
-    {
-     "titolo": "Calcio: veleno Cristiano Ronaldo, sostituito si arrabbia ma l'Al Nassr rimonta",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/calcio-veleno-cristiano-ronaldo-sostituito-si-arrabbia-ma-lal-nassr-rimonta_6a886fb3-4d17-41a2-bf41-7b3076bf23a1.html",
-     "data": "2026-08-26T13:53:48+00:00"
-    },
-    {
-     "titolo": "Fifa: Cannavaro e vecchie glorie a sostegno di Infantino, 'in 10 anni un gran lavoro'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/fifa-cannavaro-e-vecchie-glorie-a-sostegno-di-infantino-in-10-anni-un-gran-lavoro_900da0ce-bf6a-4ce3-b1c9-895980639387.html",
-     "data": "2026-08-26T13:40:58+00:00"
-    },
-    {
-     "titolo": "Riecco la 'miniera d'oro' Champions, Psg a caccia del tris",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/riecco-la-miniera-doro-champions-psg-a-caccia-del-tris_69849545-2ff8-4358-baab-9ce26d5fb5fa.html",
-     "data": "2026-08-26T13:09:43+00:00"
-    },
-    {
-     "titolo": "Conference: Atalanta senza Kristensen e Ahanor contro l'Hapeol",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/conference-atalanta-senza-kristensen-e-ahanor-contro-lhapeol_3a11a743-914f-4c21-bb50-1efa95df370f.html",
-     "data": "2026-08-26T12:47:34+00:00"
     }
    ]
   }
