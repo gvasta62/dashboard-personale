@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-26T09:07:21.649578+00:00",
+ "aggiornato": "2026-08-26T10:02:18.690018+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Bce, raddoppia l'uso dell'Ia ma la metà dei dipendenti è frenata",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/bce-raddoppia-luso-dellia-ma-la-meta-dei-dipendenti-e-frenata_877fed1f-b06a-44ba-8efc-19da95535a90.html",
+     "data": "2026-08-26T09:43:20+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano migliora (+0,25%), volumi record per A2a, cede Eni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-milano-migliora-025-volumi-record-per-a2a-cede-eni_54ade9df-9f26-4e4b-98ae-f95daebd7198.html",
+     "data": "2026-08-26T09:27:17+00:00"
+    },
+    {
+     "titolo": "Chernobyl: Inside the Meltdown, viaggio nel disastro nucleare 40 anni dopo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/chernobyl-inside-the-meltdown-viaggio-nel-disastro-nucleare-40-anni-dopo_7b61e399-298f-4a9a-822e-2a0be6fafa32.html",
+     "data": "2026-08-26T09:08:53+00:00"
+    },
     {
      "titolo": "Pm Milano, 'i rider di Glovo ancora sottopagati, vanno assunti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/pm-milano-i-rider-di-glovo-ancora-sottopagati-vanno-assunti_58935cdb-e53f-4890-b920-779669892ba6.html",
@@ -39,27 +54,27 @@
      "titolo": "Borsa: Milano si conferma positiva (+0,15%), corre A2a, frena Eni",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-milano-si-conferma-positiva-015-corre-a2a-frena-eni_7bee80e6-3566-420a-bf4f-0e138c16e31a.html",
      "data": "2026-08-26T07:29:11+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa apre contrastata, Parigi +0,35%, Londra -0,1%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-leuropa-apre-contrastata-parigi-035-londra-01_edd04c64-6002-4360-a2fa-696303c63121.html",
-     "data": "2026-08-26T07:12:54+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre in rialzo, +0,2%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-milano-apre-in-rialzo-02_0ae85e99-0d03-422b-aed7-7d687adb5938.html",
-     "data": "2026-08-26T07:11:46+00:00"
-    },
-    {
-     "titolo": "Pizzaballa, momento molto duro, arginare la deriva estremista",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/pizzaballa-momento-molto-duro-arginare-la-deriva-estremista_b64f91ab-cee9-46b7-91c8-a7ae6039c315.html",
-     "data": "2026-08-26T07:05:57+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Lavori 24 ore su 24, con oltre 100 tra operai e tecnici, su Perugia-Bettolle",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/26/lavori-24-ore-su-24-con-oltre-100-tra-operai-e-tecnici-su-perugia-bettolle_415d8941-c212-402a-84c5-f7031e9edfe6.html",
+     "data": "2026-08-26T09:40:16+00:00"
+    },
+    {
+     "titolo": "A Narni due appuntamenti per gli 800 anni dalla morte di Francesco",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/26/a-narni-due-appuntamenti-per-gli-800-anni-dalla-morte-di-francesco_a78f6f36-549a-4b10-8363-109ec4a5333f.html",
+     "data": "2026-08-26T09:21:08+00:00"
+    },
+    {
+     "titolo": "I Magazzini artistici portano in scena 'L'uomo dal fiore in bocca'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/26/i-magazzini-artistici-portano-in-scena-luomo-dal-fiore-in-bocca_3c3419bf-a8ce-4089-99b9-d43d92d257e7.html",
+     "data": "2026-08-26T09:07:01+00:00"
+    },
     {
      "titolo": "Da sabato 29 agosto la galleria Pallotta tornerà completamente fruibile",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/26/da-sabato-29-agosto-la-galleria-pallotta-tornera-completamente-fruibile_ffe202f2-9fbc-4816-a5ed-80e547ef8952.html",
@@ -104,21 +119,6 @@
      "titolo": "Grave operaio schiacciato da cabina escavatore che stava riparando",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/25/grave-operaio-schiacciato-da-cabina-escavatore-che-stava-riparando_9185fe04-5f38-432b-ab38-019213a4f9ab.html",
      "data": "2026-08-25T13:24:22+00:00"
-    },
-    {
-     "titolo": "La nebbia dopo la pioggia sul centro di Perugia creano scenario autunnale",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/25/la-nebbia-dopo-la-pioggia-sul-centro-di-perugia-creano-scenario-autunnale_2174c9b0-3654-4c46-943d-0f3e027895e1.html",
-     "data": "2026-08-25T13:25:28+00:00"
-    },
-    {
-     "titolo": "Crescono ricoveri per il caldo ma iper afflusso ancora con l'influenza",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/25/crescono-ricoveri-per-il-caldo-ma-iper-afflusso-ancora-con-linfluenza_caab9257-05fa-4913-b67d-c31b31b73bbe.html",
-     "data": "2026-08-25T10:25:21+00:00"
-    },
-    {
-     "titolo": "Dal Comune di Orvieto 'ferma contrarietà' a ampliamento discarica le Crete",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/25/dal-comune-di-orvieto-ferma-contrarieta-a-ampliamento-discarica-le-crete_de6fcadd-9bf6-47bb-b98b-2f42f6a33881.html",
-     "data": "2026-08-25T10:04:52+00:00"
     }
    ]
   },
@@ -126,14 +126,39 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Torna l'anticiclone, valori termici fino a 8/10°C oltre le medie",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/torna-lanticiclone-valori-termici-fino-a-810c-oltre-le-medie_636c0bed-2047-46b4-bc36-a0b3bbf2dea0.html",
+     "data": "2026-08-26T09:20:48+00:00"
+    },
+    {
+     "titolo": "Torna l'anticiclone, valori termici fino a 8/10°C oltre le medie",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/torna-lanticiclone-valori-termici-fino-a-810c-oltre-le-medie_070e181f-a4ed-4b0e-acf0-d834e99aecda.html",
+     "data": "2026-08-26T09:56:35+00:00"
+    },
+    {
+     "titolo": "Donna impiccata nel catanese, si attende esito autopsia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/donna-impiccata-nel-catanese-si-attende-esito-autopsia_5cdd5b4d-65f6-4b03-9eb8-7d22a1d667b0.html",
+     "data": "2026-08-26T09:35:52+00:00"
+    },
+    {
+     "titolo": "Pm di Milano: 'I rider di Glovo sono ancora sottopagati, vanno assunti'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/pm-di-milano-i-rider-di-glovo-sono-ancora-sottopagati-vanno-assunti_cf877c3c-f775-4f87-a29a-460165bbb91c.html",
+     "data": "2026-08-26T09:51:37+00:00"
+    },
+    {
      "titolo": "Esplosione in un B&B, tre feriti sono in prognosi riservata",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/esplosione-in-un-bb-tre-feriti-sono-in-prognosi-riservata_a45ab006-a665-4bbd-b762-ca79d61ad8e5.html",
      "data": "2026-08-26T08:16:46+00:00"
     },
     {
-     "titolo": "Incidente con il parapendio in Alto Adige, la vittima è un atleta francese",
+     "titolo": "Muore lanciandosi con il parapendio in Alto Adige, la vittima è un atleta francese",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/incidente-con-il-parapendio-in-alto-adige-la-vittima-e-un-atleta-francese_13d7186b-3698-4f51-a179-ab1e713bffc1.html",
-     "data": "2026-08-26T07:37:05+00:00"
+     "data": "2026-08-26T09:18:46+00:00"
+    },
+    {
+     "titolo": "Scontro tra auto e moto ad Ameglia, morto un diciasettenne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/scontro-tra-auto-e-moto-ad-ameglia-morto-un-diciasettenne_c5f01e31-fc48-478d-a231-e259dc88a829.html",
+     "data": "2026-08-26T09:13:01+00:00"
     },
     {
      "titolo": "Esplode una bombola di gas in B&B, feriti padre, madre e figlio",
@@ -159,31 +184,6 @@
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-08-25T17:05:58+00:00"
-    },
-    {
-     "titolo": "Scontro tra un furgone e un camion sull'autostrada A/4, un morto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/scontro-tra-un-furgone-e-un-camion-sullautostrada-a4-un-morto_76df4562-39e8-4c66-9583-1c1ec945ab2b.html",
-     "data": "2026-08-25T16:54:06+00:00"
-    },
-    {
-     "titolo": "Ragazza scomparsa nel Torinese trovata morta nel greto di un torrente",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/ragazza-scomparsa-nel-torinese-trovata-morta-nel-greto-di-un-torrente_aa663267-0e68-408d-8f06-6820d4cc5237.html",
-     "data": "2026-08-25T16:06:43+00:00"
-    },
-    {
-     "titolo": "Casi di tubercolosi all'Istituto di Medicina legale di Statale a Milano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/casi-di-tubercolosi-allistituto-di-medicina-legale-di-statale-a-milano_ffa0fe8b-d700-4392-9922-956e0bd1ef06.html",
-     "data": "2026-08-25T16:03:35+00:00"
-    },
-    {
-     "titolo": "Aereo caduto in Perù, lutto cittadino sabato a Seregno",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/aereo-caduto-in-peru-lutto-cittadino-sabato-a-seregno_03c8e473-4dbc-47b8-a167-4c863e1ababe.html",
-     "data": "2026-08-25T15:40:44+00:00"
-    },
-    {
-     "titolo": "Valditara, 'consenso informato è libertà, basta lavaggi del cervello'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/valditara-consenso-informato-e-liberta-basta-lavaggi-del-cervello_12b5505a-5760-47eb-a3d3-d68b94f2e96c.html",
-     "data": "2026-08-25T15:08:25+00:00"
     }
    ]
   },
@@ -218,7 +218,7 @@
     {
      "titolo": "La Rai cerca l'exit strategy per Ranucci, l'ipotesi del ritorno a una testata",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/riunione-in-rai-sul-caso-ranucci-la-decisione-attesa-nei-prossimi-giorni_ac4d4dfa-073b-484e-95d3-da62a2e48e18.html",
-     "data": "2026-08-26T09:04:13+00:00"
+     "data": "2026-08-26T09:13:36+00:00"
     },
     {
      "titolo": "Tajani: 'Nessuno strappo con gli Usa, il legame prescinde dai singoli presidenti'",
@@ -239,17 +239,37 @@
      "titolo": "Carburanti, riunione con Meloni alla vigilia della scadenza del taglio delle accise",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/carburanti-riunione-con-meloni-alla-vigilia-della-scadenza-del-taglio_9c012d91-9495-4fed-823d-8ac60f8750a5.html",
      "data": "2026-08-25T10:28:33+00:00"
-    },
-    {
-     "titolo": "Nasce il Think Tank europeo con Draghi per rilanciare la competitività Ue",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/nasce-il-think-tank-europeo-con-draghi-per-rilanciare-la-competitivita-ue_cf3885ba-90cd-4990-aee3-64f1c85c4cf5.html",
-     "data": "2026-08-25T14:06:44+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Mediterraneo resiliente alle crisi geopolitiche, traffici commerciali +5%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/mediterraneo-resiliente-alle-crisi-geopolitiche-traffici-commerciali-5_525e34c1-8f65-4e0f-b56f-5042feb21735.html",
+     "data": "2026-08-26T09:50:40+00:00"
+    },
+    {
+     "titolo": "Bce, raddoppia l'uso dell'Ia ma la metà dei dipendenti è frenata",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/bce-raddoppia-luso-dellia-ma-la-meta-dei-dipendenti-e-frenata_e55bb193-41a2-4b86-b7e6-909391fbbb17.html",
+     "data": "2026-08-26T09:43:14+00:00"
+    },
+    {
+     "titolo": "Borsa: Milano migliora (+0,25%), volumi record per A2a, cede Eni",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-milano-migliora-025-volumi-record-per-a2a-cede-eni_2048fe86-2328-4dc3-9870-c8b62731cda2.html",
+     "data": "2026-08-26T09:27:11+00:00"
+    },
+    {
+     "titolo": "Hormuz vale il 20% del Gnl e il 3% dell'offerta globale di gas",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/hormuz-vale-il-20-del-gnl-e-il-3-dellofferta-globale-di-gas_97a5af6e-4d04-400e-8581-0e5a999ab7d6.html",
+     "data": "2026-08-26T09:10:37+00:00"
+    },
+    {
+     "titolo": "Pm Milano, 'i rider di Glovo ancora sottopagati, vanno assunti'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/pm-milano-i-rider-di-glovo-ancora-sottopagati-vanno-assunti_15eedcb8-88a2-4514-a2dd-982b4aef552c.html",
+     "data": "2026-08-26T09:09:46+00:00"
+    },
     {
      "titolo": "Confesercenti, su vacanze italiani aggravio 1,8 miliardi da caro carburanti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/confesercenti-su-vacanze-italiani-aggravio-18-miliardi-da-caro-carburanti_627ade55-d4bf-465d-967b-f4264f24e58f.html",
@@ -263,12 +283,12 @@
     {
      "titolo": "Schnabel, serve rialzo tassi Bce, inflazione sopra il 2% a lungo",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/schnabel-serve-rialzo-tassi-bce-inflazione-sopra-il-2-a-lungo_ce8d1197-2239-483d-bbe6-cc8bf579b068.html",
-     "data": "2026-08-26T08:58:29+00:00"
+     "data": "2026-08-26T09:05:09+00:00"
     },
     {
      "titolo": "Inps, nei primi sei mesi 2026 erogati a famiglie 9,9 miliardi per assegno unico",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/inps-nei-primi-sei-mesi-2026-erogati-a-famiglie-99-miliardi-per_1bb7d3b6-7805-4a16-9f8a-3e12824a57f6.html",
-     "data": "2026-08-26T08:58:55+00:00"
+     "data": "2026-08-26T09:10:22+00:00"
     },
     {
      "titolo": "Borsa: Banche caute in Piazza Affari, il risiko non muove il mercato",
@@ -276,39 +296,14 @@
      "data": "2026-08-26T07:53:12+00:00"
     },
     {
-     "titolo": "Prezzi dei carburanti ancora in rialzo, alle 18 Cdm per la proroga del taglio accise",
+     "titolo": "Prezzi dei carburanti ancora in rialzo, alle 18 il Cdm per la proroga del taglio alle accise",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/mimit-prezzi-carburanti-in-rialzo-benzina-self-a-2017-euro_175d5d3a-cfee-4f2c-9b49-daf2c2dfc20f.html",
-     "data": "2026-08-26T08:55:21+00:00"
+     "data": "2026-08-26T09:04:19+00:00"
     },
     {
      "titolo": "Confcom, da bollette a trasporti spese obbligate mangiano 42% dei consumi familiari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/confcom-da-bollette-a-trasporti-spese-obbligate-mangiano-42-dei-consumi-familiari_d1259c0a-8c63-4ee9-a66c-56e9bddd3911.html",
-     "data": "2026-08-26T07:37:27+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano si conferma positiva (+0,15%), corre A2a, frena Eni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-milano-si-conferma-positiva-015-corre-a2a-frena-eni_a044c9b3-4da4-48fd-9854-d7fb6f9a2891.html",
-     "data": "2026-08-26T07:37:32+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa apre contrastata, Parigi +0,35%, Londra -0,1%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-leuropa-apre-contrastata-parigi-035-londra-01_3768d249-70d8-4782-af3c-5deeb123c12b.html",
-     "data": "2026-08-26T07:12:50+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano apre in rialzo, +0,2%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-milano-apre-in-rialzo-02_ef34e0b1-4f40-40c0-b0af-1710413826cf.html",
-     "data": "2026-08-26T07:11:48+00:00"
-    },
-    {
-     "titolo": "Borsa: rimbalzo in Asia, future positivi solo in Europa, Tokyo +0,62%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-rimbalzo-in-asia-future-positivi-solo-in-europa-tokyo-062_f9ae2a53-7dfb-4992-9917-c76280c65563.html",
-     "data": "2026-08-26T06:51:00+00:00"
-    },
-    {
-     "titolo": "Il gas scende sotto i 63 euro sulla piazza Ttf di Amsterdam",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/il-gas-scende-sotto-i-63-euro-sulla-piazza-ttf-di-amsterdam_6cc1cc05-054e-43d3-ba7a-9bc9db43a24d.html",
-     "data": "2026-08-26T06:38:39+00:00"
+     "data": "2026-08-26T09:06:02+00:00"
     }
    ]
   },
@@ -323,12 +318,12 @@
     {
      "titolo": "Nuovo attacco ucraino a un sito di Wildberries in Russia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/26/nuovo-attacco-ucraino-a-un-sito-di-wildberries-in-russia_225d09c4-ac59-4471-b9d6-2ecf16e3584e.html",
-     "data": "2026-08-26T07:20:53+00:00"
+     "data": "2026-08-26T09:12:44+00:00"
     },
     {
      "titolo": "Pakistan: incendio in un reparto di ginecologia, 14 neonati morti a Islamabad",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/incendio-in-un-reparto-di-ginecologia-14-neonati-morti-a-islamabad_30e501d9-0894-4ac2-b205-02412a01c11e.html",
-     "data": "2026-08-26T06:57:59+00:00"
+     "data": "2026-08-26T09:16:35+00:00"
     },
     {
      "titolo": "Robot umanoide cinese corre i 100 metri in 8,86 secondi",
@@ -446,9 +441,19 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Cagliari, Esposito in prestito al Sassuolo e Prati al Racing Santander",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/cagliari-esposito-in-prestito-al-sassuolo-e-prati-al-racing-santander_68b6120f-92b0-4fe7-8fcc-59d286c0c03f.html",
+     "data": "2026-08-26T09:43:56+00:00"
+    },
+    {
+     "titolo": "Dopo i Giochi, Cortina torna capitale del wellness",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/26/dopo-i-giochi-cortina-torna-capitale-del-wellness_3280f5c1-23e6-452c-a454-5ca9b9256ea1.html",
+     "data": "2026-08-26T09:10:50+00:00"
+    },
+    {
      "titolo": "Calcio: ufficiale il passaggio di Perin dalla Juve al Palermo",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/calcio-ufficiale-il-passaggio-di-perin-dalla-juve-al-palermo_86d4df4b-7511-42c9-b514-0af0bc46125c.html",
-     "data": "2026-08-26T08:13:59+00:00"
+     "data": "2026-08-26T09:23:00+00:00"
     },
     {
      "titolo": "Vela: Giancarlo Poma e Clara Castelli vincono il Trofeo intitolato a Gianni Poma",
@@ -468,7 +473,7 @@
     {
      "titolo": "Champions: Sabah, Bodo e Lask si qualificano alla fase campionato",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/champions-sabah-bodo-e-lask-si-qualificano-alla-fase-campionato_88b9f265-6ebf-4cfb-8ec9-52b8531083a0.html",
-     "data": "2026-08-25T21:50:59+00:00"
+     "data": "2026-08-26T09:23:47+00:00"
     },
     {
      "titolo": "Buona la prima per Alcaraz, vittoria al rientro in coppia con Williams",
@@ -478,7 +483,7 @@
     {
      "titolo": "Atp Winston-Salem, Darderi vince il derby azzurro contro Bellucci",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/25/atp-winston-salem-darderi-vince-il-derby-azzurro-contro-bellucci_63ce80bc-576e-4b92-a3a0-e2a4cfdbc249.html",
-     "data": "2026-08-25T20:41:26+00:00"
+     "data": "2026-08-26T09:24:28+00:00"
     },
     {
      "titolo": "Errani e Vavassori fuori agli ottavi nel doppio misto",
@@ -491,19 +496,9 @@
      "data": "2026-08-25T19:30:06+00:00"
     },
     {
-     "titolo": "Juve: ufficiale Grabara, arriva in prestito per 500mila euro",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/juve-ufficiale-grabara-arriva-in-prestito-per-500mila-euro_c861e61f-b8df-481e-b536-342d77d59dda.html",
-     "data": "2026-08-25T18:44:44+00:00"
-    },
-    {
-     "titolo": "Leao apre all'Aston Villa, il Como rilancia per Kean",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/25/leao-apre-allaston-villa-il-como-rilancia-per-kean_a1f41a45-a16a-4cbb-af26-49bf109380b5.html",
-     "data": "2026-08-25T18:18:07+00:00"
-    },
-    {
-     "titolo": "'Verstappen contro cento' sui kart, sfida inedita a Silverstone",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/25/verstappen-contro-cento-sui-kart-sfida-inedita-a-silverstone_35e786a6-1611-4ecd-a0c0-d7101fc6d892.html",
-     "data": "2026-08-25T18:02:25+00:00"
+     "titolo": "F1: Antonelli festeggia all'Aquafan di Riccione il 20esimo compleanno",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/25/f1-antonelli-festeggia-allaquafan-di-riccione-il-20esimo-compleanno_de55b733-452e-4b81-b755-f8e2811f3fd3.html",
+     "data": "2026-08-26T09:26:03+00:00"
     }
    ]
   }
