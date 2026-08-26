@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-25T23:44:21.489437+00:00",
+ "aggiornato": "2026-08-26T00:27:53.625760+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "'Dolly Parton morta dopo una breve battaglia contro il cancro'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/dolly-parton-morta-dopo-una-breve-battaglia-contro-il-cancro_3ad31ea0-405f-432f-8365-7880cfaede78.html",
+     "data": "2026-08-26T00:21:55+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,52%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-tokyo-apertura-in-calo-052_d9079253-e873-43eb-ad80-c94ff28e9703.html",
+     "data": "2026-08-26T00:19:54+00:00"
+    },
     {
      "titolo": "Il comandante delle forze curde in Siria annuncia lo scioglimento",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/il-comandante-delle-forze-curde-in-siria-annuncia-lo-scioglimento_cd802a2c-2990-474f-80a1-b5ff13229f13.html",
@@ -44,16 +54,6 @@
      "titolo": "Borsa: Europa chiude contrastata, Parigi -0,16%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/borsa-europa-chiude-contrastata-parigi-016_364780bf-345d-45a9-9ffe-b0ff2393e5c0.html",
      "data": "2026-08-25T15:52:09+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in rialzo, Ftse Mib +0,34%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/borsa-milano-chiude-in-rialzo-ftse-mib-034_96da1667-5388-455c-8a27-8efa710d574d.html",
-     "data": "2026-08-25T15:49:07+00:00"
-    },
-    {
-     "titolo": "Bpm, 'Mps propone operazione diversa, acquisizione senza premio'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/bpm-mps-propone-operazione-diversa-acquisizione-senza-premio_186760e2-8731-40da-9b11-35377b8733ae.html",
-     "data": "2026-08-25T15:48:44+00:00"
     }
    ]
   },
@@ -251,6 +251,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,52%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-tokyo-apertura-in-calo-052_d9120ad5-a9c8-4d16-9af0-d323673f8025.html",
+     "data": "2026-08-26T00:19:50+00:00"
+    },
+    {
      "titolo": "Il petrolio chiude in calo a New York a 82,17 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/il-petrolio-chiude-in-calo-a-new-york-a-8217-dollari_e6b70e30-2aa9-4b6e-8ff5-b718dd009175.html",
      "data": "2026-08-25T18:35:42+00:00"
@@ -304,11 +309,6 @@
      "titolo": "Fonti Mef, quota Mps congelata, nessuna interferenza con operazioni in corso",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/fonti-mef-quota-mps-congelata-nessuna-interferenza-con-operazioni-in-corso_2d88646b-7a1b-4aa9-8648-11c072d5c106.html",
      "data": "2026-08-25T15:39:41+00:00"
-    },
-    {
-     "titolo": "Giani, da Giorgetti rassicurazioni che governo non venderà quota Mps",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/giani-da-giorgetti-rassicurazioni-che-governo-non-vendera-quota-mps_fb5265b0-c1fe-45e9-bd60-869bbbbbfb0f.html",
-     "data": "2026-08-25T14:59:11+00:00"
     }
    ]
   },
