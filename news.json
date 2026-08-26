@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-26T06:23:27.287752+00:00",
+ "aggiornato": "2026-08-26T07:14:41.269021+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Pizzaballa, momento molto duro, arginare la deriva estremista",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/pizzaballa-momento-molto-duro-arginare-la-deriva-estremista_b64f91ab-cee9-46b7-91c8-a7ae6039c315.html",
+     "data": "2026-08-26T07:05:57+00:00"
+    },
+    {
+     "titolo": "Borsa: rimbalzo in Asia, future positivi solo in Europa, Tokyo +0,62%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-rimbalzo-in-asia-future-positivi-solo-in-europa-tokyo-062_e5d65efe-b576-4554-9f86-8968fe58e8d6.html",
+     "data": "2026-08-26T06:50:56+00:00"
+    },
+    {
+     "titolo": "Il gas in ulteriore calo sotto 64 euro sulla piazza Ttf di Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/il-gas-in-ulteriore-calo-sotto-64-euro-sulla-piazza-ttf-di-amsterdam_4cf4452d-da28-4235-b211-4775092c3d1c.html",
+     "data": "2026-08-26T06:31:11+00:00"
+    },
     {
      "titolo": "Incendio in un reparto di ginecologia, 14 neonati morti a Islamabad",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/incendio-in-un-reparto-di-ginecologia-14-neonati-morti-a-islamabad_838161f7-1afa-4a4e-8a4f-1b92e334157d.html",
@@ -39,21 +54,6 @@
      "titolo": "Borsa: Tokyo, apertura in calo (-0,52%)",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-tokyo-apertura-in-calo-052_d9079253-e873-43eb-ad80-c94ff28e9703.html",
      "data": "2026-08-26T00:19:54+00:00"
-    },
-    {
-     "titolo": "Il comandante delle forze curde in Siria annuncia lo scioglimento",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/il-comandante-delle-forze-curde-in-siria-annuncia-lo-scioglimento_cd802a2c-2990-474f-80a1-b5ff13229f13.html",
-     "data": "2026-08-25T18:52:45+00:00"
-    },
-    {
-     "titolo": "Il petrolio chiude in calo a New York a 82,17 dollari",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/il-petrolio-chiude-in-calo-a-new-york-a-8217-dollari_7ae53cbc-7f2a-4b98-90e9-520ac104644e.html",
-     "data": "2026-08-25T18:35:45+00:00"
-    },
-    {
-     "titolo": "Addio a Dolly Parton, la regina del country aveva 80 anni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/addio-a-dolly-parton-la-regina-del-country-aveva-80-anni_2eb4fe3f-6243-40d8-8544-94da1169ec40.html",
-     "data": "2026-08-25T18:19:07+00:00"
     }
    ]
   },
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Pizzaballa, momento molto duro, arginare la deriva estremista",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/26/pizzaballa-momento-molto-duro-arginare-la-deriva-estremista_de33807e-b032-4a8a-b2d4-6a2a23a7b623.html",
+     "data": "2026-08-26T07:06:04+00:00"
+    },
+    {
      "titolo": "Taglio delle accise verso la proroga, 'poi aiuti ai redditi bassi'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/taglio-delle-accise-verso-la-proroga-poi-aiuti-ai-redditi-bassi_fb725722-357f-4d7f-b1c6-fa89004ea853.html",
      "data": "2026-08-26T00:33:23+00:00"
@@ -251,6 +256,26 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: rimbalzo in Asia, future positivi solo in Europa, Tokyo +0,62%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-rimbalzo-in-asia-future-positivi-solo-in-europa-tokyo-062_f9ae2a53-7dfb-4992-9917-c76280c65563.html",
+     "data": "2026-08-26T06:51:00+00:00"
+    },
+    {
+     "titolo": "Il gas scende sotto i 63 euro sulla piazza Ttf di Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/il-gas-scende-sotto-i-63-euro-sulla-piazza-ttf-di-amsterdam_6cc1cc05-054e-43d3-ba7a-9bc9db43a24d.html",
+     "data": "2026-08-26T06:38:39+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund tedeschi apre in calo a 80,1 punti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/lo-spread-tra-btp-e-bund-tedeschi-apre-in-calo-a-801-punti_059a2144-2bce-4093-bb67-2941e23d9b8e.html",
+     "data": "2026-08-26T06:32:28+00:00"
+    },
+    {
+     "titolo": "Il gas in ulteriore calo sotto 64 euro sulla piazza Ttf di Amsterdam",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/il-gas-in-ulteriore-calo-sotto-64-euro-sulla-piazza-ttf-di-amsterdam_2d55f952-c95f-4f6c-9de3-02bcfa0811c3.html",
+     "data": "2026-08-26T06:31:08+00:00"
+    },
+    {
      "titolo": "Euro poco mosso, scambiato a 1,1664 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/euro-poco-mosso-scambiato-a-11664-dollari_ba5ef684-8dcf-42be-8f27-071fadba6b55.html",
      "data": "2026-08-26T06:11:23+00:00"
@@ -289,26 +314,6 @@
      "titolo": "In gara per l'ex Ilva anche la ceca Ce Industries",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/in-gara-per-lex-ilva-anche-la-ceca-ce-industries_011d8f7f-f082-46d8-9830-1ae0b880c1eb.html",
      "data": "2026-08-25T17:21:25+00:00"
-    },
-    {
-     "titolo": "Borsa: seduta volatile in Europa, Milano in equilibrio con le banche",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/borsa-seduta-volatile-in-europa-milano-in-equilibrio-con-le-banche_b8f68756-0134-4391-97f3-ae2f222d856f.html",
-     "data": "2026-08-25T16:20:24+00:00"
-    },
-    {
-     "titolo": "Borsa: seduta volatile in Europa, Milano in equilibrio con le banche",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/borsa-seduta-volatile-in-europa-milano-in-equilibrio-con-le-banche_36a5919c-ada3-442c-9b57-bbd1f83740e7.html",
-     "data": "2026-08-25T16:20:26+00:00"
-    },
-    {
-     "titolo": "Future sul gas ancora in calo a 65,9 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/future-sul-gas-ancora-in-calo-a-659-euro-al-megawattora_efe55465-8420-4f38-b527-2bdb4bba12ba.html",
-     "data": "2026-08-25T15:55:09+00:00"
-    },
-    {
-     "titolo": "Lo spread Btp-Bund a 80,4 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/lo-spread-btp-bund-a-804-punti_8a5d794e-db94-4545-906b-855550f60104.html",
-     "data": "2026-08-25T15:54:52+00:00"
     }
    ]
   },
@@ -318,12 +323,12 @@
     {
      "titolo": "Nuovo attacco ucraino a un sito di Wildberries in Russia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/26/nuovo-attacco-ucraino-a-un-sito-di-wildberries-in-russia_225d09c4-ac59-4471-b9d6-2ecf16e3584e.html",
-     "data": "2026-08-26T05:17:58+00:00"
+     "data": "2026-08-26T06:38:26+00:00"
     },
     {
-     "titolo": "Incendio in un reparto di ginecologia, 14 neonati morti a Islamabad",
+     "titolo": "Pakistan: incendio in un reparto di ginecologia, 14 neonati morti a Islamabad",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/incendio-in-un-reparto-di-ginecologia-14-neonati-morti-a-islamabad_30e501d9-0894-4ac2-b205-02412a01c11e.html",
-     "data": "2026-08-26T05:21:09+00:00"
+     "data": "2026-08-26T06:57:59+00:00"
     },
     {
      "titolo": "Robot umanoide cinese corre i 100 metri in 8,86 secondi",
@@ -448,7 +453,7 @@
     {
      "titolo": "Cobolli e Bencic eliminano Alcaraz e Williams nel doppio misto",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/26/cobolli-e-bencic-eliminano-alcaraz-e-williams-nel-doppio-misto_7a149058-993d-48fd-b55a-2024ea5bc815.html",
-     "data": "2026-08-25T22:07:58+00:00"
+     "data": "2026-08-26T06:36:32+00:00"
     },
     {
      "titolo": "Champions: Sabah, Bodo e Lask si qualificano alla fase campionato",
