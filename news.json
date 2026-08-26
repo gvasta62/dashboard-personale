@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-08-26T05:01:10.359544+00:00",
+ "aggiornato": "2026-08-26T05:55:18.539659+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -316,9 +316,14 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Nuovo attacco ucraino a un sito di Wildberries in Russia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/26/nuovo-attacco-ucraino-a-un-sito-di-wildberries-in-russia_225d09c4-ac59-4471-b9d6-2ecf16e3584e.html",
+     "data": "2026-08-26T05:17:58+00:00"
+    },
+    {
      "titolo": "Incendio in un reparto di ginecologia, 14 neonati morti a Islamabad",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/incendio-in-un-reparto-di-ginecologia-14-neonati-morti-a-islamabad_30e501d9-0894-4ac2-b205-02412a01c11e.html",
-     "data": "2026-08-26T04:44:01+00:00"
+     "data": "2026-08-26T05:21:09+00:00"
     },
     {
      "titolo": "Robot umanoide cinese corre i 100 metri in 8,86 secondi",
@@ -369,11 +374,6 @@
      "titolo": "Cuba, Havanatur apre ai pagamenti in dollari per i residenti",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/cuba-havanatur-apre-ai-pagamenti-in-dollari-per-i-residenti_bff0f880-a0f9-4967-9e98-c5ced092d9b6.html",
      "data": "2026-08-26T00:50:13+00:00"
-    },
-    {
-     "titolo": "Colombia, 16 incendi boschivi attivi in cinque dipartimenti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/colombia-16-incendi-boschivi-attivi-in-cinque-dipartimenti_cf3a6aae-bbe8-4168-843d-be4ca4b96b8d.html",
-     "data": "2026-08-26T00:38:27+00:00"
     }
    ]
   },
