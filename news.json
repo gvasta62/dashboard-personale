@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-26T00:27:53.625760+00:00",
+ "aggiornato": "2026-08-26T02:07:21.413746+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "'Meta e stati Usa valutano patteggiamento sulle accuse di dipendenza dei social'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/meta-e-stati-usa-valutano-patteggiamento-sulle-accuse-di-dipendenza-dei-social_8494c1d7-76ff-4e66-beb1-525781fb2643.html",
+     "data": "2026-08-26T01:48:21+00:00"
+    },
+    {
+     "titolo": "A Darline Graham le primarie in South Carolina, vittoria per Trump",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/a-darline-graham-le-primarie-in-south-carolina-vittoria-per-trump_b8c97f61-9062-4391-b229-49ad7d4bbf7a.html",
+     "data": "2026-08-26T01:15:22+00:00"
+    },
     {
      "titolo": "'Dolly Parton morta dopo una breve battaglia contro il cancro'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/dolly-parton-morta-dopo-una-breve-battaglia-contro-il-cancro_3ad31ea0-405f-432f-8365-7880cfaede78.html",
@@ -44,16 +54,6 @@
      "titolo": "Future sul gas ancora in calo a 65,9 euro al megawattora",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/future-sul-gas-ancora-in-calo-a-659-euro-al-megawattora_ef01a239-15d9-4f18-bc8c-e10288554687.html",
      "data": "2026-08-25T15:55:09+00:00"
-    },
-    {
-     "titolo": "Lo spread Btp-Bund a 80,4 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/lo-spread-btp-bund-a-804-punti_19294045-c30d-4311-be0b-7243d85188d9.html",
-     "data": "2026-08-25T15:55:07+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa chiude contrastata, Parigi -0,16%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/25/borsa-europa-chiude-contrastata-parigi-016_364780bf-345d-45a9-9ffe-b0ff2393e5c0.html",
-     "data": "2026-08-25T15:52:09+00:00"
     }
    ]
   },
@@ -193,7 +193,7 @@
     {
      "titolo": "Taglio delle accise verso la proroga, 'poi aiuti ai redditi bassi'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/taglio-delle-accise-verso-la-proroga-poi-aiuti-ai-redditi-bassi_fb725722-357f-4d7f-b1c6-fa89004ea853.html",
-     "data": "2026-08-25T18:29:58+00:00"
+     "data": "2026-08-26T00:33:23+00:00"
     },
     {
      "titolo": "Via Rai Scuola, arriva l'identità italiana. L'ira delle opposizioni",
@@ -316,6 +316,41 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "El Salvador, El Niño frena l'idroelettrico e spinge le termiche",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/el-salvador-el-nino-frena-lidroelettrico-e-spinge-le-termiche_2e35bf87-6c52-43ac-840f-6d3f5a03dc6e.html",
+     "data": "2026-08-26T01:49:26+00:00"
+    },
+    {
+     "titolo": "Nicaragua, via libera alla riforma contro le leggi straniere",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/nicaragua-via-libera-alla-riforma-contro-le-leggi-straniere_dcceed89-2ec0-452f-aa49-905adf18008f.html",
+     "data": "2026-08-26T01:27:08+00:00"
+    },
+    {
+     "titolo": "Onu, Sheinbaum difende la candidatura di Michelle Bachelet",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/onu-sheinbaum-difende-la-candidatura-di-michelle-bachelet_1e6ac24d-abee-4511-9022-144d9c79e560.html",
+     "data": "2026-08-26T01:22:59+00:00"
+    },
+    {
+     "titolo": "A Darline Graham le primarie in South Carolina, vittoria per Trump",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/26/a-darline-graham-le-primarie-in-south-carolina-vittoria-per-trump_e7d4ced6-20ca-4367-ab7e-c4087c8c5a09.html",
+     "data": "2026-08-26T01:15:35+00:00"
+    },
+    {
+     "titolo": "Brasile: il Pt si arrende ai social, nasce il 'Lulaverso'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/brasile-il-pt-si-arrende-ai-social-nasce-il-lulaverso_17968f33-d056-440c-afec-3b4fb1b39a0b.html",
+     "data": "2026-08-26T01:12:15+00:00"
+    },
+    {
+     "titolo": "Cuba, Havanatur apre ai pagamenti in dollari per i residenti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/cuba-havanatur-apre-ai-pagamenti-in-dollari-per-i-residenti_bff0f880-a0f9-4967-9e98-c5ced092d9b6.html",
+     "data": "2026-08-26T00:50:13+00:00"
+    },
+    {
+     "titolo": "Colombia, 16 incendi boschivi attivi in cinque dipartimenti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/colombia-16-incendi-boschivi-attivi-in-cinque-dipartimenti_cf3a6aae-bbe8-4168-843d-be4ca4b96b8d.html",
+     "data": "2026-08-26T00:38:27+00:00"
+    },
+    {
      "titolo": "Brasile, il tribunale di Rio conferma il nuovo fallimento di Oi",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/brasile-il-tribunale-di-rio-conferma-il-nuovo-fallimento-di-oi_639448a9-1d6d-4dc4-918d-fc5392a80037.html",
      "data": "2026-08-25T23:01:46+00:00"
@@ -339,41 +374,6 @@
      "titolo": "Israele espelle rappresentanti olandesi da base Board of Peace a Kiryat Gat",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/25/israele-espelle-rappresentanti-olandesi-da-base-board-of-peace-a-kiryat-gat_c9d48974-bec6-4b99-a383-43c432c8e004.html",
      "data": "2026-08-25T17:15:20+00:00"
-    },
-    {
-     "titolo": "L'Unicef denuncia: in Afghanistan un milione di bambini soffre di grave malnutrizione",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/25/lunicef-denuncia-in-afghanistan-un-milione-di-bambini-soffre-di-grave-malnutrizione_994c4825-5dbb-4226-93c5-4edf85edca77.html",
-     "data": "2026-08-25T17:01:38+00:00"
-    },
-    {
-     "titolo": "Processo Maradona, l'assicurazione medica riconosce lo scambio delle cartelle cliniche",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/processo-maradona-lassicurazione-medica-riconosce-lo-scambio-delle-cartelle-cliniche_9803b89a-8874-4c28-a5e0-c998da7d9c81.html",
-     "data": "2026-08-25T16:41:23+00:00"
-    },
-    {
-     "titolo": "Rientra la polemica tra Argentina e Cile sulla sovranità dello Stretto di Magellano",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/rientra-la-polemica-tra-argentina-e-cile-sulla-sovranita-dello-stretto-di-magellano_6e08c6c3-95f7-4fe2-a351-1a14c0f9928c.html",
-     "data": "2026-08-25T16:17:55+00:00"
-    },
-    {
-     "titolo": "Un giocatore di football americano su 4 morto in Usa per conseguenze da trauma cranico",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/25/un-giocatore-di-football-americano-su-4-morto-in-usa-per-conseguenze-da-trauma-cranico_ab6bcddd-46c9-4b85-a63b-5c7d66aa8367.html",
-     "data": "2026-08-25T15:55:32+00:00"
-    },
-    {
-     "titolo": "La sudafricana Gold Fields restituisce altri 500 milioni di dollari agli azionisti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/25/la-sudafricana-gold-fields-restituisce-altri-500-milioni-di-dollari-agli-azionisti_8294135a-bf74-4182-94e5-c94da7a81991.html",
-     "data": "2026-08-25T15:55:32+00:00"
-    },
-    {
-     "titolo": "'Immagine razzista', Target ritira dal mercato un costume di Halloween per bambini",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/25/immagine-razzista-target-ritira-dal-mercato-un-costume-di-halloween-per-bambini_ac1bf8b4-76b1-4cbe-a311-9d80778e3d39.html",
-     "data": "2026-08-25T15:51:51+00:00"
-    },
-    {
-     "titolo": "Il Canada risponde a Trump, dazi dal 15 al 50% sui prodotti Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/25/il-canada-risponde-a-trump-dazi-dal-15-al-50-sui-prodotti-usa_82885f51-f2b3-44a3-a0b7-6b982bd75921.html",
-     "data": "2026-08-25T15:15:04+00:00"
     }
    ]
   },
