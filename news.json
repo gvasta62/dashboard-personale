@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-26T10:02:18.690018+00:00",
+ "aggiornato": "2026-08-26T10:56:35.112261+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Domani cda Generali per un primo esame dell'offerta Mps",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/domani-cda-generali-per-un-primo-esame-dellofferta-mps_9d7d5911-0f95-4c0f-9760-0d67d7f5cac6.html",
+     "data": "2026-08-26T10:23:36+00:00"
+    },
     {
      "titolo": "Bce, raddoppia l'uso dell'Ia ma la metà dei dipendenti è frenata",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/bce-raddoppia-luso-dellia-ma-la-meta-dei-dipendenti-e-frenata_877fed1f-b06a-44ba-8efc-19da95535a90.html",
@@ -49,11 +54,6 @@
      "titolo": "Confcom, da bollette a trasporti spese obbligate mangiano 42% dei consumi familiari",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/confcom-da-bollette-a-trasporti-spese-obbligate-mangiano-42-dei-consumi-familiari_afe14b3f-ed48-40b9-999d-9aa36d8797f6.html",
      "data": "2026-08-26T07:36:06+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano si conferma positiva (+0,15%), corre A2a, frena Eni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-milano-si-conferma-positiva-015-corre-a2a-frena-eni_7bee80e6-3566-420a-bf4f-0e138c16e31a.html",
-     "data": "2026-08-26T07:29:11+00:00"
     }
    ]
   },
@@ -61,9 +61,14 @@
    "nome": "Umbria",
    "voci": [
     {
+     "titolo": "Arcudi, sulla Medioetruria un anno e mezzo di stallo inaccettabile",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/26/arcudi-sulla-medioetruria-un-anno-e-mezzo-di-stallo-inaccettabile_b76c3846-a24b-4d7c-a28d-6f4243a62391.html",
+     "data": "2026-08-26T10:42:38+00:00"
+    },
+    {
      "titolo": "Lavori 24 ore su 24, con oltre 100 tra operai e tecnici, su Perugia-Bettolle",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/26/lavori-24-ore-su-24-con-oltre-100-tra-operai-e-tecnici-su-perugia-bettolle_415d8941-c212-402a-84c5-f7031e9edfe6.html",
-     "data": "2026-08-26T09:40:16+00:00"
+     "data": "2026-08-26T10:05:54+00:00"
     },
     {
      "titolo": "A Narni due appuntamenti per gli 800 anni dalla morte di Francesco",
@@ -114,17 +119,22 @@
      "titolo": "Nubifragio su Orvieto con allagamenti, alberi caduti e disagi alla viabilità",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/25/nubifragio-su-orvieto-con-allagamenti-alberi-caduti-e-disagi-alla-viabilita_4c9c8233-9977-44a4-ae75-34cddf387806.html",
      "data": "2026-08-25T13:47:26+00:00"
-    },
-    {
-     "titolo": "Grave operaio schiacciato da cabina escavatore che stava riparando",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/25/grave-operaio-schiacciato-da-cabina-escavatore-che-stava-riparando_9185fe04-5f38-432b-ab38-019213a4f9ab.html",
-     "data": "2026-08-25T13:24:22+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Morto il boss Domenico Papalia, scarcerato a luglio dopo 49 anni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/morto-il-boss-domenico-papalia-scarcerato-a-luglio-dopo-49-anni_4b990766-2a26-4fd1-bc8c-9276eeae4e89.html",
+     "data": "2026-08-26T10:13:02+00:00"
+    },
+    {
+     "titolo": "Colpito da bottiglia alla testa, domani l'accertamento della morte",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/colpito-da-bottiglia-alla-testa-domani-laccertamento-della-morte_9fd25895-9ed5-4caa-9d4d-52953f0daf05.html",
+     "data": "2026-08-26T10:04:14+00:00"
+    },
     {
      "titolo": "Torna l'anticiclone, valori termici fino a 8/10°C oltre le medie",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/torna-lanticiclone-valori-termici-fino-a-810c-oltre-le-medie_636c0bed-2047-46b4-bc36-a0b3bbf2dea0.html",
@@ -133,7 +143,7 @@
     {
      "titolo": "Torna l'anticiclone, valori termici fino a 8/10°C oltre le medie",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/torna-lanticiclone-valori-termici-fino-a-810c-oltre-le-medie_070e181f-a4ed-4b0e-acf0-d834e99aecda.html",
-     "data": "2026-08-26T09:56:35+00:00"
+     "data": "2026-08-26T10:31:01+00:00"
     },
     {
      "titolo": "Donna impiccata nel catanese, si attende esito autopsia",
@@ -174,16 +184,6 @@
      "titolo": "Morte avvelenate, in casa sequestrati dal pane al cestino dell'immondizia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/morte-avvelenate-in-casa-sequestrati-dal-pane-al-cestino-dellimmondizia_add1f704-c875-449f-a68f-b82edf23032a.html",
      "data": "2026-08-25T18:52:15+00:00"
-    },
-    {
-     "titolo": "Clochard ucciso per 50 euro, il vescovo celebra i funerali in cattedrale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/clochard-ucciso-per-50-euro-il-vescovo-celebra-i-funerali-in-cattedrale_f01e23cc-35da-40cf-95ea-b2a56c9c2732.html",
-     "data": "2026-08-25T18:37:49+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-08-25T17:05:58+00:00"
     }
    ]
   },
@@ -221,9 +221,9 @@
      "data": "2026-08-26T09:13:36+00:00"
     },
     {
-     "titolo": "Tajani: 'Nessuno strappo con gli Usa, il legame prescinde dai singoli presidenti'",
+     "titolo": "Tajani: 'Nessuno strappo con gli Usa. Contrarissimo alle tasse sugli extraprofitti, sa di Unione sovietica'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/25/tajani-nessuno-strappo-con-gli-usa-il-legame-prescinde-dai-singoli_045c6738-7c7e-4c0b-b101-7182eff52f55.html",
-     "data": "2026-08-26T07:39:55+00:00"
+     "data": "2026-08-26T10:07:48+00:00"
     },
     {
      "titolo": "Meeting di Rimini, l'incontro 'Europa. Custodire le radici, accelerare il futuro' con Roberta Metsola",
@@ -246,6 +246,16 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Domani cda Generali per un primo esame dell'offerta Mps",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/domani-cda-generali-per-un-primo-esame-dellofferta-mps_7917b5bf-baab-4285-a987-61d0ee5be215.html",
+     "data": "2026-08-26T10:23:39+00:00"
+    },
+    {
+     "titolo": "Scorte di gas verso l'82% in Italia, Ue al 63%, Germania al 51%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/scorte-di-gas-verso-l82-in-italia-ue-al-63-germania-al-51_5bcc5c41-cc42-4262-bd18-d2ae9b0f1763.html",
+     "data": "2026-08-26T10:14:35+00:00"
+    },
+    {
      "titolo": "Mediterraneo resiliente alle crisi geopolitiche, traffici commerciali +5%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/mediterraneo-resiliente-alle-crisi-geopolitiche-traffici-commerciali-5_525e34c1-8f65-4e0f-b56f-5042feb21735.html",
      "data": "2026-08-26T09:50:40+00:00"
@@ -253,7 +263,7 @@
     {
      "titolo": "Bce, raddoppia l'uso dell'Ia ma la metà dei dipendenti è frenata",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/bce-raddoppia-luso-dellia-ma-la-meta-dei-dipendenti-e-frenata_e55bb193-41a2-4b86-b7e6-909391fbbb17.html",
-     "data": "2026-08-26T09:43:14+00:00"
+     "data": "2026-08-26T10:13:02+00:00"
     },
     {
      "titolo": "Borsa: Milano migliora (+0,25%), volumi record per A2a, cede Eni",
@@ -294,16 +304,6 @@
      "titolo": "Borsa: Banche caute in Piazza Affari, il risiko non muove il mercato",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-banche-caute-in-piazza-affari-il-risiko-non-muove-il-mercato_b78a75d4-29c0-444e-9243-ce7e6995afb7.html",
      "data": "2026-08-26T07:53:12+00:00"
-    },
-    {
-     "titolo": "Prezzi dei carburanti ancora in rialzo, alle 18 il Cdm per la proroga del taglio alle accise",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/mimit-prezzi-carburanti-in-rialzo-benzina-self-a-2017-euro_175d5d3a-cfee-4f2c-9b49-daf2c2dfc20f.html",
-     "data": "2026-08-26T09:04:19+00:00"
-    },
-    {
-     "titolo": "Confcom, da bollette a trasporti spese obbligate mangiano 42% dei consumi familiari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/confcom-da-bollette-a-trasporti-spese-obbligate-mangiano-42-dei-consumi-familiari_d1259c0a-8c63-4ee9-a66c-56e9bddd3911.html",
-     "data": "2026-08-26T09:06:02+00:00"
     }
    ]
   },
@@ -453,7 +453,7 @@
     {
      "titolo": "Calcio: ufficiale il passaggio di Perin dalla Juve al Palermo",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/calcio-ufficiale-il-passaggio-di-perin-dalla-juve-al-palermo_86d4df4b-7511-42c9-b514-0af0bc46125c.html",
-     "data": "2026-08-26T09:23:00+00:00"
+     "data": "2026-08-26T10:15:01+00:00"
     },
     {
      "titolo": "Vela: Giancarlo Poma e Clara Castelli vincono il Trofeo intitolato a Gianni Poma",
@@ -483,7 +483,7 @@
     {
      "titolo": "Atp Winston-Salem, Darderi vince il derby azzurro contro Bellucci",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/25/atp-winston-salem-darderi-vince-il-derby-azzurro-contro-bellucci_63ce80bc-576e-4b92-a3a0-e2a4cfdbc249.html",
-     "data": "2026-08-26T09:24:28+00:00"
+     "data": "2026-08-26T10:17:51+00:00"
     },
     {
      "titolo": "Errani e Vavassori fuori agli ottavi nel doppio misto",
