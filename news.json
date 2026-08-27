@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-26T21:20:32.235916+00:00",
+ "aggiornato": "2026-08-27T00:53:30.876775+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Usa stanziano 500.000 dollari in aiuti per il Nepal",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/27/usa-stanziano-500.000-dollari-in-aiuti-per-il-nepal_4fea90f6-3fbe-4442-a75d-6a23e7dc227d.html",
+     "data": "2026-08-27T00:33:53+00:00"
+    },
+    {
+     "titolo": "Wsj, capo della Cia ha avvertito Putin di non attaccare i Paesi Nato",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/27/wsj-capo-della-cia-ha-avvertito-putin-di-non-attaccare-i-paesi-nato_95f9756f-9011-437e-997d-4499296f68d8.html",
+     "data": "2026-08-26T22:36:08+00:00"
+    },
     {
      "titolo": "I ricavi di Nvidia sopra le attese, 'Ia è al suo punto di svolta'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/i-ricavi-di-nvidia-sopra-le-attese-ia-e-al-suo-punto-di-svolta_d670bfd8-bfbe-4cd8-810e-aaa698b0ef03.html",
@@ -44,16 +54,6 @@
      "titolo": "Media, 'Putin prepara escalation, ritiene trattative per pace a punto morto'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/media-putin-prepara-escalation-ritiene-trattative-per-pace-a-punto-morto_767352f1-d901-4ba8-a777-231475619c83.html",
      "data": "2026-08-26T16:11:55+00:00"
-    },
-    {
-     "titolo": "Future sul gas in altalena, torna sopra i 66 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/future-sul-gas-in-altalena-torna-sopra-i-66-euro-al-megawattora_3fc84f54-aea7-4a97-a867-93b205534842.html",
-     "data": "2026-08-26T16:08:46+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa frena sul finale, azzerati i guadagni aspettando Jackson Hole",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/26/borsa-europa-frena-sul-finale-azzerati-i-guadagni-aspettando-jackson-hole_9bfd6b63-5e94-4872-a0c4-8c4a2be68708.html",
-     "data": "2026-08-26T16:02:21+00:00"
     }
    ]
   },
@@ -246,6 +246,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Non si ferma il boom dell'Ia, Nvidia fa il pieno di ricavi e utile",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/non-si-ferma-il-boom-dellia-nvidia-fa-il-pieno-di-ricavi-e-utile_7711a3d1-1710-4794-a6b2-fcef035c6ab8.html",
+     "data": "2026-08-26T21:18:11+00:00"
+    },
+    {
      "titolo": "Decreto carburanti, taglio delle accise sul gasolio fino al 5 settembre. Poi 'sostegni selettivi sulla base del reddito'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/decreto-carburanti-taglio-delle-accise-sul-gasolio-fino-al-5-settembre.-poi_175d5d3a-cfee-4f2c-9b49-daf2c2dfc20f.html",
      "data": "2026-08-26T18:56:49+00:00"
@@ -299,17 +304,52 @@
      "titolo": "Dolce&Gabbana, indebitamento a 677,6 milioni ma dalle banche ossigeno fino al 2028 (2)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/dolcegabbana-indebitamento-a-6776-milioni-ma-dalle-banche-ossigeno-fino-al-2028-2_1c75e6f4-d641-4a01-9bd0-7f559c18f2cf.html",
      "data": "2026-08-26T14:58:29+00:00"
-    },
-    {
-     "titolo": "Dolce&Gabbana, indebitamento a 677,6 milioni ma dalle banche ossigeno fino al 2028",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/dolcegabbana-indebitamento-a-6776-milioni-ma-dalle-banche-ossigeno-fino-al-2028_01f7b7de-2fe8-4d8e-9c9b-8caf9c53877c.html",
-     "data": "2026-08-26T14:57:58+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Cile, ok a maxi-progetto di ammoniaca verde di Hnh Energy da 11 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/27/cile-ok-a-maxi-progetto-di-ammoniaca-verde-di-hnh-energy-da-11-miliardi_c0a33f88-148c-4890-bd98-22d72ffff022.html",
+     "data": "2026-08-27T00:36:33+00:00"
+    },
+    {
+     "titolo": "Usa stanziano 500.000 dollari in aiuti per il Nepal",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/27/usa-stanziano-500.000-dollari-in-aiuti-per-il-nepal_dd9406c3-5aa7-4d7d-ac41-e1a6f88ed841.html",
+     "data": "2026-08-27T00:34:12+00:00"
+    },
+    {
+     "titolo": "Usa stanziano 500.000 dollari in aiuti per il Nepal",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/27/usa-stanziano-500.000-dollari-in-aiuti-per-il-nepal_8f939032-5b64-425b-9e4e-47558dc20f33.html",
+     "data": "2026-08-27T00:34:12+00:00"
+    },
+    {
+     "titolo": "Venezuela, Rodríguez riceve il nuovo coordinatore ad interim dell'Onu",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/27/venezuela-rodriguez-riceve-il-nuovo-coordinatore-ad-interim-dellonu_bc0a3732-36be-4880-a2ab-1d72c5426f3b.html",
+     "data": "2026-08-27T00:04:43+00:00"
+    },
+    {
+     "titolo": "Sheinbaum conferma, 'ci sono agenti della Cia in Messico'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/27/sheinbaum-conferma-ci-sono-agenti-della-cia-in-messico_a3d73da7-74af-48d6-9ae3-7065112d313b.html",
+     "data": "2026-08-26T23:35:38+00:00"
+    },
+    {
+     "titolo": "Il pilota-influencer, 'ho una malattia rara ma non ho paura di morire'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/27/il-pilota-influencer-ho-una-malattia-rara-ma-non-ho-paura-di-morire_6b373b17-e99f-4208-8df2-3adb340fd7dd.html",
+     "data": "2026-08-26T23:35:08+00:00"
+    },
+    {
+     "titolo": "Wsj, capo della Cia ha avvertito Putin di non attaccare i Paesi Nato",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/27/wsj-capo-della-cia-ha-avvertito-putin-di-non-attaccare-i-paesi-nato_8fe05bff-1ecf-477e-89cc-8786af7d8b77.html",
+     "data": "2026-08-26T22:36:21+00:00"
+    },
+    {
+     "titolo": "Il Mozambico protagonista al Meeting di Rimini con un documentario della Farnesina",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/26/il-mozambico-protagonista-al-meeting-di-rimini-con-un-documentario-della-farnesina_372cd163-96ab-4e73-bde8-091a43cb77e8.html",
+     "data": "2026-08-26T21:29:25+00:00"
+    },
     {
      "titolo": "I ricavi di Nvidia sopra le attese, 'Ia è al suo punto di svolta'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/26/i-ricavi-di-nvidia-sopra-le-attese-ia-e-al-suo-punto-di-svolta_0470ab69-a70c-48aa-a24e-8edf81d9152c.html",
@@ -329,46 +369,6 @@
      "titolo": "Incendio in un ospedale di Islamabad, strage di neonati",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/incendio-in-un-ospedale-di-islamabad-strage-di-neonati_bc2e76c4-e6da-4522-a3f9-8bccc87bf4b9.html",
      "data": "2026-08-26T17:41:05+00:00"
-    },
-    {
-     "titolo": "Governo Milei annuncia un piano da 1,13 miliardi di euro su crediti ipotecari",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/governo-milei-annuncia-un-piano-da-113-miliardi-di-euro-su-crediti-ipotecari_14136bb7-ee27-4adb-9673-4a25770c4035.html",
-     "data": "2026-08-26T17:25:26+00:00"
-    },
-    {
-     "titolo": "La Siria si normalizza, le milizie curde nell'esercito",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/26/la-siria-si-normalizza-le-milizie-curde-nellesercito_e8e18904-72dc-4c24-8592-8fbe71157d2b.html",
-     "data": "2026-08-26T17:01:05+00:00"
-    },
-    {
-     "titolo": "Cile, 'nessun accordo dazi con Usa che non siano vantaggiosi per le aziende locali'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/cile-nessun-accordo-dazi-con-usa-che-non-siano-vantaggiosi_a1722890-2713-4bae-9d9a-c5ba2f95508e.html",
-     "data": "2026-08-26T16:14:05+00:00"
-    },
-    {
-     "titolo": "Media, 'Putin prepara escalation, ritiene trattative per pace a punto morto'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/26/media-putin-prepara-escalation-ritiene-trattative-per-pace-a-punto-morto_a24a3467-ab86-4f06-b41d-7d998c4384f7.html",
-     "data": "2026-08-26T16:12:14+00:00"
-    },
-    {
-     "titolo": "Due i decessi per malaria all'aeroporto di Francoforte",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/26/due-i-decessi-per-malaria-allaeroporto-di-francoforte_20399bbe-7ed8-4556-b2c2-4ed6d42f25c9.html",
-     "data": "2026-08-26T15:28:17+00:00"
-    },
-    {
-     "titolo": "I supermercati 'pubblici' non piacciono ai piccoli commercianti di Ny, causa a Mamdani",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/26/i-supermercati-pubblici-non-piacciono-ai-piccoli-commercianti-di-ny-causa-a-mamdani_32189cdb-4ce4-4e03-aaff-8d82086d3870.html",
-     "data": "2026-08-26T15:17:53+00:00"
-    },
-    {
-     "titolo": "Media cinesi, tre morti e 265 dispersi per la frana in Tibet",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/media-cinesi-tre-morti-e-265-dispersi-per-la-frana-in-tibet_bbc2c156-c2dc-4e29-9696-8a19bffaf0d8.html",
-     "data": "2026-08-26T14:57:03+00:00"
-    },
-    {
-     "titolo": "Filorussi, drone ucraino su bus nel Lugansk, 9 morti e 6 feriti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/26/filorussi-drone-ucraino-su-bus-nel-lugansk-9-morti-e-6-feriti_0f692811-abd7-4028-8683-21b617cbfdfc.html",
-     "data": "2026-08-26T14:33:32+00:00"
     }
    ]
   },
@@ -441,6 +441,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Champions: completo il quadro delle 36 squadre per la fase campionato",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/champions-completo-il-quadro-delle-36-squadre-per-la-fase-campionato_ae16f51c-10cd-4d0e-94e4-79bdd6c92b66.html",
+     "data": "2026-08-26T21:37:36+00:00"
+    },
+    {
+     "titolo": "Una tripletta di Mbappé trascina il Real Madrid",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/26/una-tripletta-di-mbappe-trascina-il-real-madrid_cf843df4-2c2e-4064-8684-c805e4a1210c.html",
+     "data": "2026-08-26T21:25:06+00:00"
+    },
+    {
+     "titolo": "Us Open: Stefanini avanza nelle qualificazioni, Bronzetti e Grant out",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/26/us-open-stefanini-avanza-nelle-qualificazioni-bronzetti-e-grant-out_575477dd-0dee-40e4-b147-36fcd1e57e62.html",
+     "data": "2026-08-26T21:22:27+00:00"
+    },
+    {
      "titolo": "Italia-Germania 64-66, il primo set ha un parziale da record",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/26/italia-germania-64-66-il-primo-set-ha-un-parziale-da-record_3654ea87-4e63-4636-a6a2-514cd04b6702.html",
      "data": "2026-08-26T20:56:42+00:00"
@@ -484,21 +499,6 @@
      "titolo": "Eurovolley: Italia batte 3-1 la Francia e chiude girone a punteggio pieno",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/26/eurovolley-italia-batte-3-1-la-francia-e-chiude-girone-a-punteggio-pieno_9c678cab-f48f-40ac-8593-e47d4f59ceab.html",
      "data": "2026-08-26T16:11:30+00:00"
-    },
-    {
-     "titolo": "Giochi del Mediterraneo: oro Italia nel badminton con Caponio",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/26/giochi-del-mediterraneo-oro-italia-nel-badminton-con-caponio_4a7defb4-c725-4d9d-9c06-2bb7885e743b.html",
-     "data": "2026-08-26T15:10:10+00:00"
-    },
-    {
-     "titolo": "Ciclismo: Finn vince il Tour de l'Avenir, 53 anni dopo Baronchelli",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/26/ciclismo-finn-vince-il-tour-de-lavenir-53-anni-dopo-baronchelli_15f81f6a-e3b2-4269-bcce-cabeebe215f8.html",
-     "data": "2026-08-26T14:57:08+00:00"
-    },
-    {
-     "titolo": "Sindaco di Imola, 'un Gp qui? Sempre pronti a rispondere presente'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/26/sindaco-di-imola-un-gp-qui-sempre-pronti-a-rispondere-presente_aff50d10-e934-4c4c-9b58-8518973f5a0f.html",
-     "data": "2026-08-26T14:20:23+00:00"
     }
    ]
   }
