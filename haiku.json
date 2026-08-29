@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-08-28T15:47:05.966273+00:00",
- "data": "2026-08-28",
- "testo": "Cielo di piombo\nsul fondo del pozzo antico\ngalla una foglia",
- "nota": "Nella corte silenziosa, sull'acqua ferma del pozzo, una foglia caduta.",
+ "aggiornato": "2026-08-29T10:34:50.484107+00:00",
+ "data": "2026-08-29",
+ "testo": "Cielo velato\ntra i girasoli chini\nronza un calabrone",
+ "nota": "Nel campo appassito le teste dei girasoli piegate, un calabrone che vola basso.",
  "archivio": [
+  {
+   "data": "2026-08-29",
+   "testo": "Cielo velato\ntra i girasoli chini\nronza un calabrone",
+   "nota": "Nel campo appassito le teste dei girasoli piegate, un calabrone che vola basso."
+  },
   {
    "data": "2026-08-28",
    "testo": "Cielo di piombo\nsul fondo del pozzo antico\ngalla una foglia",
