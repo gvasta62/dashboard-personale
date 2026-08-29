@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-29T17:14:42.551697+00:00",
+ "aggiornato": "2026-08-29T19:49:11.688283+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "'Barron Trump vive da recluso dopo le minacce dell'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/29/barron-trump-vive-da-recluso-dopo-le-minacce-delliran_432bc552-931a-4c9e-8d1a-3cb85ca8ad8c.html",
+     "data": "2026-08-29T18:31:52+00:00"
+    },
+    {
+     "titolo": "Guerra commerciale tra Usa e Canada, è corsa all'acquisto di carta igienica",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/29/guerra-commerciale-tra-usa-e-canada-e-corsa-allacquisto-di-carta-igienica_1e11a083-a2a2-4873-ac4b-b9dc6d9cb539.html",
+     "data": "2026-08-29T18:14:23+00:00"
+    },
     {
      "titolo": "Di Battista ha ripreso conoscenza, è in trasferimento a L'Avana",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/29/di-battista-ha-ripreso-conoscenza-e-in-trasferimento-a-lavana_a5d6fb12-70e0-4413-80e4-a015b81f4267.html",
@@ -44,16 +54,6 @@
      "titolo": "P.Chigi, Meloni segue con attenzione la situazione del maltempo a Cremona",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/29/p.chigi-meloni-segue-con-attenzione-la-situazione-del-maltempo-a-cremona_536d4c47-23a9-41b8-94da-9f4a2bb0b38d.html",
      "data": "2026-08-29T13:25:51+00:00"
-    },
-    {
-     "titolo": "MotoGp: Aragon, Marc Marquez vince la gara sprint, terza l'Aprilia di Bezzecchi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/29/motogp-aragon-marc-marquez-vince-la-gara-sprint-terza-laprilia-di-bezzecchi_c080afcb-62a9-4d70-b1b6-3adf282e0942.html",
-     "data": "2026-08-29T13:24:19+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'deposito colpito conteneva munizioni, droni ed esplosivi esercito'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/29/zelensky-deposito-colpito-conteneva-munizioni-droni-ed-esplosivi-esercito_ca888224-0f0c-4371-9970-c2e4f96adb21.html",
-     "data": "2026-08-29T13:17:54+00:00"
     }
    ]
   },
@@ -126,19 +126,44 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Nepal",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/nepal_e045f671-18f5-471a-bf8a-449a965683e3.html",
-     "data": "2026-08-29T16:22:34+00:00"
+     "titolo": "L'ultimo saluto a Tania Terrin: 'Responsabile è la politica'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/lultimo-saluto-a-tania-terrin-responsabile-e-la-politica_9814a051-f220-4ca3-bac0-504af01b2f73.html",
+     "data": "2026-08-29T18:25:36+00:00"
     },
     {
-     "titolo": "Tra i dispersi in Nepal, l'italiano Luca Barachini e la moglie Patrizia Marziale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/tra-i-dispersi-in-nepal-litaliano-luca-barachini-e-la-moglie-patrizia-marziale_71d8618d-7be1-4926-ae83-c12ca6d9c93a.html",
-     "data": "2026-08-29T15:57:32+00:00"
+     "titolo": "Cremona in ginocchio per il maltempo, Mattarella telefona al sindaco",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/cremona-in-ginocchio-per-il-maltempo-matterella-telefona-al-sindaco_3555cb29-4091-4045-be28-97246b751cc4.html",
+     "data": "2026-08-29T19:02:44+00:00"
+    },
+    {
+     "titolo": "Luca Barachini e Patrizia Marziale dispersi nel viaggio dei loro sogni in Nepal",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/luca-barachini-e-patrizia-marziale-dispersi-nel-viaggio-dei-loro-sogni_71d8618d-7be1-4926-ae83-c12ca6d9c93a.html",
+     "data": "2026-08-29T19:05:33+00:00"
+    },
+    {
+     "titolo": "++ Donna uccisa a coltellate in Friuli, fermato il compagno ++",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/-donna-uccisa-a-coltellate-in-friuli-fermato-il-compagno-_2c0c01b9-1f55-443f-8f23-cd858127a7e5.html",
+     "data": "2026-08-29T18:14:24+00:00"
+    },
+    {
+     "titolo": "Chiusa la Porta Santa della 732/ma Perdonanza all'Aquila",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/chiusa-la-porta-santa-della-732ma-perdonanza-allaquila_d3192153-6a5a-46c7-ba23-c7243ef218a0.html",
+     "data": "2026-08-29T18:04:24+00:00"
+    },
+    {
+     "titolo": "In Abruzzo l'addio all'alpinista morto a novembre sulle vette del Nepal",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/in-abruzzo-laddio-allalpinista-morto-a-novembre-sulle-vette-del-nepal_c93f920a-c13d-444f-bb11-7d369e969dcd.html",
+     "data": "2026-08-29T19:24:24+00:00"
     },
     {
      "titolo": "Rientrati in Italia i due turisti bresciani: 'Ora pensiamo a chi è in Nepal'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/rientrati-in-italia-i-due-turisti-bresciani-ora-pensiamo-a-chi-e-in-nepal_47acc0c6-3924-4302-ac4c-efec7dd48849.html",
-     "data": "2026-08-29T15:55:30+00:00"
+     "data": "2026-08-29T19:05:25+00:00"
+    },
+    {
+     "titolo": "Nepal",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/nepal_e045f671-18f5-471a-bf8a-449a965683e3.html",
+     "data": "2026-08-29T16:22:34+00:00"
     },
     {
      "titolo": "Strage di Brandizzo, Comune e 'Sicurezza e Lavoro' si costituiranno parte civile",
@@ -151,11 +176,6 @@
      "data": "2026-08-29T15:35:21+00:00"
     },
     {
-     "titolo": "I funerali di Tania Terrin, il parroco nell'omelia: 'La prima responsabile è la politica'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/una-bara-bianca-per-tania-terrin-il-feretro-accolto-dalla-madre_9814a051-f220-4ca3-bac0-504af01b2f73.html",
-     "data": "2026-08-29T14:59:34+00:00"
-    },
-    {
      "titolo": "Oggi i funerali di Tania Terrin, lutto regionale in Veneto",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/oggi-i-funerali-di-tania-terrin-lutto-regionale-in-veneto_0b0ebaad-7ea8-433a-996f-3896e56a2b6d.html",
      "data": "2026-08-29T13:38:05+00:00"
@@ -164,26 +184,6 @@
      "titolo": "Alpini e militari Usa abbelliscono i portici di Monte Berico a Vicenza",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/alpini-e-militari-usa-abbelliscono-i-portici-di-monte-berico-a-vicenza_6742546c-32d6-411e-9594-d3b110a56835.html",
      "data": "2026-08-29T13:28:15+00:00"
-    },
-    {
-     "titolo": "Maltempo, la Lombardia chiede lo stato di emergenza anche per Cremona",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/maltempo-la-lombardia-chiede-lo-stato-di-emergenza-anche-per-cremona_a7d13f4a-e76c-4b84-aa29-9afaa68439c3.html",
-     "data": "2026-08-29T13:20:38+00:00"
-    },
-    {
-     "titolo": "Coldiretti Veneto, nel Veronese danni per decine di milioni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/coldiretti-veneto-nel-veronese-danni-per-decine-di-milioni_b31148b5-459a-4380-9503-166d48cf7d07.html",
-     "data": "2026-08-29T12:23:58+00:00"
-    },
-    {
-     "titolo": "Corpo carbonizzato di una donna in casa, fermata la figlia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/corpo-carbonizzato-di-una-donna-in-casa-fermata-la-figlia-_274da364-d986-415d-9fd1-84829acbdcc4.html",
-     "data": "2026-08-29T12:16:14+00:00"
-    },
-    {
-     "titolo": "Il cane sporca, arrivano le pattuglie zoofile contro i padroni maleducati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/il-cane-sporca-arrivano-le-pattuglie-zoofile-contro-i-padroni-maleducati_93f80526-4875-4c9a-9066-4d3ce84985b9.html",
-     "data": "2026-08-29T11:56:35+00:00"
     }
    ]
   },
@@ -191,9 +191,24 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Vannacci chiude la prima estate da leader, 'gli altri sono nervosi'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/vannacci-chiude-la-prima-estate-da-leader-gli-altri-sono-nervosi_35600bb4-6e1c-4758-9f73-0cce76363f69.html",
+     "data": "2026-08-29T19:11:31+00:00"
+    },
+    {
+     "titolo": "La maggioranza studia le modifiche alla legge elettorale, rispunta il ballottaggio",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/la-maggioranza-studia-le-modifiche-alla-legge-elettorale-rispunta-il-ballottaggio_f496eb85-0a13-4f2f-9a24-a003316a7cd6.html",
+     "data": "2026-08-29T19:14:31+00:00"
+    },
+    {
+     "titolo": "'Ceuta ancora in crisi', Roma valuta un nuovo stop a Schengen",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/ceuta-ancora-in-crisi-roma-valuta-un-nuovo-stop-a-schengen_1d9a3301-7808-49c8-9691-e19878f4181d.html",
+     "data": "2026-08-29T19:16:46+00:00"
+    },
+    {
      "titolo": "Alessandro Di Battista ricoverato a Cuba dopo un malore, è grave. Ha ripreso conoscenza, è in trasferimento a L'Avana",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/alessandro-di-battista-ricoverato-a-cuba-dopo-un-malore-e-grave.-ha-ripreso-conoscenza-e-in-trasferimento_97ec2496-cf44-4da9-83da-8df05bbe6eaf.html",
-     "data": "2026-08-29T17:09:53+00:00"
+     "data": "2026-08-29T19:25:11+00:00"
     },
     {
      "titolo": "Di Battista ha ripreso conoscenza, è in trasferimento a L'Avana",
@@ -211,9 +226,9 @@
      "data": "2026-08-29T15:47:32+00:00"
     },
     {
-     "titolo": "Polemica politica sull'addio di Ranucci a Report, l'Unirai attacca: 'Gravi le sue parole'",
+     "titolo": "Ranucci via da Report, ma il caso è ancora aperto: la polemica è politica",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/polemica-politica-sulladdio-di-ranucci-a-report-lunirai-attacca-gravi-le-sue-parole_f359eb83-612c-4ea1-b186-08af925563b6.html",
-     "data": "2026-08-29T14:21:50+00:00"
+     "data": "2026-08-29T18:58:17+00:00"
     },
     {
      "titolo": "P.Chigi, Meloni segue con attenzione la situazione del maltempo a Cremona",
@@ -234,21 +249,6 @@
      "titolo": "Fonti, Di Battista ricoverato in gravi condizioni a L'Avana",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/fonti-di-battista-ricoverato-in-gravi-condizioni-a-lavana_5aa99a97-5487-433d-afe5-55898395fddb.html",
      "data": "2026-08-29T11:19:12+00:00"
-    },
-    {
-     "titolo": "Stefani dichiara lo stato di emergenza regionale in Veneto",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/stefani-dichiara-lo-stato-di-emergenza-regionale-in-veneto_9cb83ed7-9ba9-4c7f-a337-b3b267a9a2aa.html",
-     "data": "2026-08-29T11:06:38+00:00"
-    },
-    {
-     "titolo": "M5s, 'Di Battista ricoverato a Cuba, grande apprensione'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/m5s-di-battista-ricoverato-a-cuba-grande-apprensione_8cae58f4-4f4e-4acc-b777-da570cf26675.html",
-     "data": "2026-08-29T10:58:23+00:00"
-    },
-    {
-     "titolo": "Il ritorno di Schlein in piazza: 'Dibattito sulle primarie inutile e dannoso'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/28/il-ritorno-di-schlein-in-piazza-dibattito-sulle-primarie-inutile-e-dannoso_138d9647-5ce1-4354-ab45-6725a1709f7c.html",
-     "data": "2026-08-28T18:50:51+00:00"
     }
    ]
   },
@@ -321,6 +321,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Dopo la morte, Dolly Parton è diventata l'artista più ascoltata in streaming",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/29/dopo-la-morte-dolly-parton-e-diventata-lartista-piu-ascoltata-in-streaming_262fc1bc-cb6b-434a-a33c-8bf5f719e629.html",
+     "data": "2026-08-29T19:42:49+00:00"
+    },
+    {
+     "titolo": "'Barron Trump vive da recluso dopo le minacce dell'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/29/barron-trump-vive-da-recluso-dopo-le-minacce-delliran_b2a7bb66-b849-4867-8158-9965d82fcda9.html",
+     "data": "2026-08-29T18:31:50+00:00"
+    },
+    {
+     "titolo": "Guerra commerciale tra Usa e Canada, è corsa all'acquisto di carta igienica",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/29/guerra-commerciale-tra-usa-e-canada-e-corsa-allacquisto-di-carta-igienica_e2b14814-fa81-47ee-9a40-d556289a9f4f.html",
+     "data": "2026-08-29T18:14:25+00:00"
+    },
+    {
+     "titolo": "Pillole di ecstasy con la faccia di Trump, istituto olandese lancia allarme",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/29/pillole-di-ecstasy-con-la-faccia-di-trump-istituto-olandese-lancia-allarme_9e542bd1-4bd2-4be3-87f9-ad4f537ce9d9.html",
+     "data": "2026-08-29T16:59:17+00:00"
+    },
+    {
      "titolo": "Ghiacciai, la tragedia in Nepal riaccende le proteste in Argentina",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/29/ghiacciai-la-tragedia-in-nepal-riaccende-le-proteste-in-argentina_4fb4e9b9-3865-41e7-834e-1c5568dc6b69.html",
      "data": "2026-08-29T16:31:49+00:00"
@@ -359,26 +379,6 @@
      "titolo": "Tra i dispersi in Nepal gli italiani Luca Barachini e la moglie Patrizia Marziale",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/29/tra-i-dispersi-in-nepal-gli-italiani-luca-barachini-e-la-moglie-patrizia-marziale_cee44c47-4861-478b-b505-1efb3bf82139.html",
      "data": "2026-08-29T13:45:24+00:00"
-    },
-    {
-     "titolo": "Tra i dispersi in Nepal gli italiani Luca Barachini e la moglie Patrizia Marziale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/29/tra-i-dispersi-in-nepal-gli-italiani-luca-barachini-e-la-moglie-patrizia-marziale_9fbd1099-bf6f-4da6-aace-3e63617733a9.html",
-     "data": "2026-08-29T13:45:26+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'deposito colpito conteneva munizioni, droni ed esplosivi esercito'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/29/zelensky-deposito-colpito-conteneva-munizioni-droni-ed-esplosivi-esercito_b5c0ce30-2734-4636-ae20-740a29026fa4.html",
-     "data": "2026-08-29T13:17:38+00:00"
-    },
-    {
-     "titolo": "Belgio, 'su uso asset russi nostra posizione non cambia, i rischi restano'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/29/belgio-su-uso-asset-russi-nostra-posizione-non-cambia-i-rischi-restano_2e4caec2-1be8-4e68-8817-d23a59ee1055.html",
-     "data": "2026-08-29T13:15:25+00:00"
-    },
-    {
-     "titolo": "Governatore, salgono a 37 i morti nel raid russo su un deposito vicino a Kiev",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/29/governatore-salgono-a-37-i-morti-nel-raid-russo-su-un-deposito-vicino-a-kiev_c74ee3e2-9af5-48b6-a80b-941473cb75f5.html",
-     "data": "2026-08-29T13:12:00+00:00"
     }
    ]
   },
@@ -451,64 +451,64 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Vuelta: Pogacar dolorante a spalla e gomito, un sasso possibile causa della caduta",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/29/vuelta-pogacar-dolorante-a-spalla-e-gomito-un-sasso-possibile-causa-della-caduta_69e8ea49-1c80-4476-b5c4-10d38c46ad4d.html",
-     "data": "2026-08-29T16:31:00+00:00"
+     "titolo": "Pogacar cade e si ritira, la Vuelta perde il suo padrone",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/29/pogacar-cade-e-si-ritira-la-vuelta-perde-il-suo-padrone_03f89bbc-14cd-4f41-9cf3-a6b45b40ca48.html",
+     "data": "2026-08-29T19:33:20+00:00"
     },
     {
-     "titolo": "Abodi 'la Nazionale è in fase di transizione, dalla Figc aspettiamo piano di riforme\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/abodi-la-nazionale-e-in-fase-di-transizione-dalla-figc-aspettiamo-piano-di-riforme_057e1faa-6c5e-4903-8584-aa728daaa277.html",
-     "data": "2026-08-29T16:28:37+00:00"
+     "titolo": "Sassuolo: Aquilani, 'Berardi è un campione, merita il ritorno in azzurro'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/sassuolo-aquilani-berardi-e-un-campione-merita-il-ritorno-in-azzurro_8197f8f6-a02f-44f0-b726-abf306e4ac38.html",
+     "data": "2026-08-29T19:28:26+00:00"
     },
     {
-     "titolo": "Atalanta, ufficiale il ritorno di Franck Kessié dopo 9 anni",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/atalanta-ufficiale-il-ritorno-di-franck-kessie-dopo-9-anni_060eabf9-c427-4d24-ab32-2145215c301a.html",
-     "data": "2026-08-29T16:18:47+00:00"
+     "titolo": "Frattura a clavicola e cervicale per Pogacar, lo sloveno si opera",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/29/frattura-a-clavicola-e-cervicale-per-pogacar-lo-sloveno-si-opera_8f71c865-70fb-45db-916e-48848e99152a.html",
+     "data": "2026-08-29T19:28:29+00:00"
     },
     {
-     "titolo": "Vuelta: Coquard vince l'ottava tappa, Mas nuovo leader senza Pogacar",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/29/vuelta-coquard-vince-lottava-tappa-mas-nuovo-leader-senza-pogacar_39bb9217-1f6f-4910-93f2-1cc5c342026b.html",
-     "data": "2026-08-29T16:07:27+00:00"
+     "titolo": "Monza ancora sconfitto, l'Udinese passa 3-2 in Brianza",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/monza-ancora-sconfitto-ludinese-passa-3-2-in-brianza_c262b5f2-fa8f-4663-b61e-7a1e4f92498a.html",
+     "data": "2026-08-29T19:15:45+00:00"
     },
     {
-     "titolo": "Roma, arrivato a Ciampino il nuovo difensore Balerdi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/roma-arrivato-a-ciampino-il-nuovo-difensore-balerdi_a81de45a-10e5-4700-b891-af55befdf109.html",
-     "data": "2026-08-29T16:06:53+00:00"
+     "titolo": "Volpato e Berardi trascinano il Sassuolo, cade ancora il Torino",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/volpato-e-berardi-trascinano-il-sassuolo-cade-ancora-il-torino_9acad654-7c18-43b4-96c3-83c6262fffd0.html",
+     "data": "2026-08-29T19:14:45+00:00"
     },
     {
-     "titolo": "Mondiali Canoa: Di Liberto oro a Poznan nel K1 200",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/29/mondiali-canoa-di-liberto-oro-a-poznan-nel-k1-200_67c16908-20bb-4b3a-b95a-2ec7e72df28c.html",
-     "data": "2026-08-29T15:47:18+00:00"
+     "titolo": "Serie A: il Toro annuncia Perri, arriva in prestito con diritto",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/serie-a-il-toro-annuncia-perri-arriva-in-prestito-con-diritto_14d79a6d-12b7-456e-8fa6-18a4a3e5bc26.html",
+     "data": "2026-08-29T19:07:21+00:00"
     },
     {
-     "titolo": "Caduta per Pogacar, si ritira dalla Vuelta. Mondiale a rischio",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/29/caduta-per-pogacar-si-ritira-dalla-vuelta_03f89bbc-14cd-4f41-9cf3-a6b45b40ca48.html",
-     "data": "2026-08-29T16:34:23+00:00"
+     "titolo": "Champions: l'Inter apre al Bernabeu, il Napoli riceve l'Arsenal, la Roma va in Turchia",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/champions-linter-apre-al-bernabeu-il-napoli-riceve-larsenal-la-roma-va-in-turchia_7a60008a-4e8b-4281-a6cb-25064df874a7.html",
+     "data": "2026-08-29T19:05:33+00:00"
     },
     {
-     "titolo": "Colapinto prolunga il contratto con l'Alpine",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/29/colapinto-prolunga-il-contratto-con-lalpine_cb2c143a-45b2-4233-ae3f-b606127bf6d2.html",
-     "data": "2026-08-29T14:56:00+00:00"
-    },
-    {
-     "titolo": "La Lazio ospita il Genoa in un Olimpico vuoto. Rovella: 'Ma siamo uniti'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/08/29/la-lazio-ospita-il-genoa-in-un-olimpico-vuoto.-rovella-ma-siamo-uniti_06f426ad-2b05-4f7c-978b-e03e31ecbd53.html",
-     "data": "2026-08-29T14:37:15+00:00"
-    },
-    {
-     "titolo": "Il Milan ragiona sul mercato, vertice con Cardinale",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/il-milan-ragiona-sul-mercato-vertice-con-cardinale_7890c0cf-88bc-4dec-9f22-0551142ed81f.html",
-     "data": "2026-08-29T14:35:16+00:00"
-    },
-    {
-     "titolo": "Atletica: Fiasconaro incontra a sorpresa Pernici prima del Grand Prix Brescia",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/29/atletica-fiasconaro-incontra-a-sorpresa-pernici-prima-del-grand-prix-brescia_fcd493c1-b2a6-4871-91d8-020b53d9a9bf.html",
-     "data": "2026-08-29T13:58:38+00:00"
+     "titolo": "La Fiorentina travolta in casa 3-0 dal Frosinone nel giorno del centenario",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/fiorentina-frosinone-0-3-e-tracollo-viola-nel-giorno-del-centenario_b69a0e5a-7095-4887-8a95-81de733963a3.html",
+     "data": "2026-08-29T19:23:29+00:00"
     },
     {
      "titolo": "Premier: il Liverpool pareggia di nuovo, debutto opaco per Iraola ad Anfield",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/premier-il-liverpool-pareggia-di-nuovo-debutto-opaco-per-iraola-ad-anfield_b474188a-f820-4ac8-8805-0569328c07c7.html",
-     "data": "2026-08-29T13:57:15+00:00"
+     "data": "2026-08-29T18:55:44+00:00"
+    },
+    {
+     "titolo": "Allegri: 'Gara difficile perché il Como è la nuova realtà del calcio'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/allegri-gara-difficile-perche-il-como-e-la-nuova-realta-del-calcio_28ef19ff-7bc3-4959-b633-cc781ff4c7da.html",
+     "data": "2026-08-29T18:51:03+00:00"
+    },
+    {
+     "titolo": "Serie A: in campo Juventus-Parma 0-0 DIRETTA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/serie-a-in-campo-juventus-parma-0-0-diretta-e-foto_aea865f4-79ba-4e5b-9f3b-7e5e3984e411.html",
+     "data": "2026-08-29T19:22:33+00:00"
+    },
+    {
+     "titolo": "Serie A: tonfo Fiorentina col Frosinone, tre punti per Sassuolo e Udinese",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/serie-a-tonfo-fiorentina-col-frosinone-tre-punti-per-sassuolo-e-udinese_3280c2ad-f216-4fa1-8d10-a4818d1b0c10.html",
+     "data": "2026-08-29T18:34:59+00:00"
     }
    ]
   }
