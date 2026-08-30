@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-29T22:02:43.726984+00:00",
+ "aggiornato": "2026-08-30T00:27:17.872501+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Referendum Islanda sui negoziati Ue, è testa a testa tra 'sì' e 'no'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/referendum-islanda-sui-negoziati-ue-e-testa-a-testa-tra-si-e-no_25632faf-5c3c-467b-b912-9a4fc3871c4c.html",
+     "data": "2026-08-30T00:00:24+00:00"
+    },
+    {
+     "titolo": "Islanda al voto sui negoziati Ue, chiusi i seggi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/islanda-al-voto-sui-negoziati-ue-chiusi-i-seggi_ee24c4d6-aeff-42a3-9a4e-6376c6edb8c5.html",
+     "data": "2026-08-29T23:07:40+00:00"
+    },
     {
      "titolo": "Ranucci contesta formalmente la rimozione da Report, 'è illegittima'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/29/ranucci-contesta-formalmente-la-rimozione-da-report-e-illegittima_bb5e1a6c-d460-4376-9880-a8bba92fee42.html",
@@ -44,16 +54,6 @@
      "titolo": "Putin, a scuola spiegare la guerra in Ucraina utilizzando la catena alimentare",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/29/putin-a-scuola-spiegare-la-guerra-in-ucraina-utilizzando-la-catena-alimentare_c0e98ae5-7de5-4dd1-9665-76371cd37484.html",
      "data": "2026-08-29T15:44:20+00:00"
-    },
-    {
-     "titolo": "Cnn, oltre 3000 i dispersi nelle inondazioni in Nepal",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/29/cnn-oltre-3000-i-dispersi-nelle-inondazioni-in-nepal_c614c0e0-1836-422e-88dd-7fa6e4550ce4.html",
-     "data": "2026-08-29T15:00:11+00:00"
-    },
-    {
-     "titolo": "Morto a Modena Franco Fontana, maestro della fotografia e del colore",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/29/morto-a-modena-franco-fontana-maestro-della-fotografia-e-del-colore_65d6d40b-3f28-4259-b57a-4c641c14e0f6.html",
-     "data": "2026-08-29T14:23:22+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "La violenta esplosione in una palazzina a Cassino, morto uno dei feriti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/la-violenta-esplosione-in-una-palazzina-a-cassino-morto-uno-dei-feriti_312e2651-45ad-4f8f-85d5-6892bc41af06.html",
+     "data": "2026-08-29T22:20:18+00:00"
+    },
+    {
+     "titolo": "Rivolta in carcere a Siracusa, agenti si lanciano dal tetto per sfuggire alle pietre",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/rivolta-in-carcere-a-siracusa-agenti-si-lanciano-dal-tetto-per-sfuggire-alle_59f33796-97f6-4121-a8ac-84d484f3b8f5.html",
+     "data": "2026-08-29T22:19:56+00:00"
+    },
+    {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-08-29T22:16:28+00:00"
+    },
+    {
      "titolo": "Ranucci contesta formalmente la rimozione da Report, 'è illegittima'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/ranucci-contesta-formalmente-la-rimozione-da-report-e-illegittima_da014448-5c66-4b58-845d-35cdcea97548.html",
      "data": "2026-08-29T21:10:05+00:00"
@@ -134,11 +149,6 @@
      "titolo": "Donna uccisa a coltellate in Friuli, fermato il compagno",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/donna-uccisa-a-coltellate-in-friuli-fermato-il-compagno_8a91db96-5fbe-4e91-acd1-07f362c53aef.html",
      "data": "2026-08-29T20:34:13+00:00"
-    },
-    {
-     "titolo": "Rivolta in carcere Siracusa, agenti si lanciano dal tetto per sfuggire a pietre",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/rivolta-in-carcere-siracusa-agenti-si-lanciano-dal-tetto-per-sfuggire-a-pietre_59f33796-97f6-4121-a8ac-84d484f3b8f5.html",
-     "data": "2026-08-29T20:38:44+00:00"
     },
     {
      "titolo": "Garlasco, la Procura di Pavia dispone altre due consulenze su Andrea Sempio",
@@ -174,16 +184,6 @@
      "titolo": "In Abruzzo l'addio all'alpinista morto a novembre sulle vette del Nepal",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/in-abruzzo-laddio-allalpinista-morto-a-novembre-sulle-vette-del-nepal_c93f920a-c13d-444f-bb11-7d369e969dcd.html",
      "data": "2026-08-29T19:24:24+00:00"
-    },
-    {
-     "titolo": "Rientrati in Italia i due turisti bresciani: 'Ora pensiamo a chi è in Nepal'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/rientrati-in-italia-i-due-turisti-bresciani-ora-pensiamo-a-chi-e-in-nepal_47acc0c6-3924-4302-ac4c-efec7dd48849.html",
-     "data": "2026-08-29T20:44:03+00:00"
-    },
-    {
-     "titolo": "Nepal",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/nepal_e045f671-18f5-471a-bf8a-449a965683e3.html",
-     "data": "2026-08-29T16:22:34+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Referendum Islanda sui negoziati Ue, è testa a testa tra 'sì' e 'no'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/referendum-islanda-sui-negoziati-ue-e-testa-a-testa-tra-si-e-no_bcd8852b-4b55-469f-b3b9-f17fadf1c1a7.html",
+     "data": "2026-08-30T00:00:43+00:00"
+    },
+    {
+     "titolo": "Islanda al voto sui negoziati Ue, chiusi i seggi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/islanda-al-voto-sui-negoziati-ue-chiusi-i-seggi_a98c4c86-ccd5-4c2a-98ea-7c8a46bc3511.html",
+     "data": "2026-08-29T23:07:44+00:00"
+    },
+    {
      "titolo": "Usa abbattono droni dei narcos, la conferma arriva dal Messico",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/29/usa-abbattono-droni-dei-narcos-la-conferma-arriva-dal-messico_d8301c9e-4442-42d0-ac11-69dcea8c2da6.html",
      "data": "2026-08-29T21:41:09+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Stato di emergenza in Perù, Fujimori chiede poteri contro il crimine",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/29/stato-di-emergenza-in-peru-fujimori-chiede-poteri-contro-il-crimine_0815da26-0294-4383-9521-b2ce389cae9d.html",
      "data": "2026-08-29T16:14:32+00:00"
-    },
-    {
-     "titolo": "Mamdani contro il bonus per assistenti scolastici, scontro con il sindacato di Ny",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/29/mamdani-contro-il-bonus-per-assistenti-scolastici-scontro-con-il-sindacato-di-ny_766bdd76-5216-4d33-9984-f0091e3ad289.html",
-     "data": "2026-08-29T15:45:58+00:00"
-    },
-    {
-     "titolo": "Putin, a scuola spiegare la guerra in Ucraina utilizzando la catena alimentare",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/29/putin-a-scuola-spiegare-la-guerra-in-ucraina-utilizzando-la-catena-alimentare_9ec19cad-8bd9-4a7e-bf66-3eaf08645cbf.html",
-     "data": "2026-08-29T15:44:20+00:00"
     }
    ]
   },
@@ -451,6 +451,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Commisso, 'Fiorentina deve far sognare Firenze'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/commisso-fiorentina-deve-far-sognare-firenze_4a5eef48-b460-4833-a40c-6a3d73d8c62d.html",
+     "data": "2026-08-29T22:16:59+00:00"
+    },
+    {
+     "titolo": "Cuesta 'passi avanti non bastano, dobbiamo migliorare ancora'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/cuesta-passi-avanti-non-bastano-dobbiamo-migliorare-ancora_d0a346e9-60bb-46c5-89ed-f17372d45de6.html",
+     "data": "2026-08-29T22:06:49+00:00"
+    },
+    {
+     "titolo": "Spalletti, 'senza Thuram serve qualcuno a centrocampo'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/spalletti-senza-thuram-serve-qualcuno-a-centrocampo_4285e75d-1d26-47ea-9af6-42abecaff00c.html",
+     "data": "2026-08-29T22:03:02+00:00"
+    },
+    {
      "titolo": "Kessié, 'contento di essere tornato, all'Atalanta è iniziato tutto'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/kessie-contento-di-essere-tornato-allatalanta-e-iniziato-tutto_9949c452-c765-4dd2-92f6-23f2d6f5d252.html",
      "data": "2026-08-29T21:18:47+00:00"
@@ -494,21 +509,6 @@
      "titolo": "Sassuolo: Aquilani, 'Berardi è un campione, merita il ritorno in azzurro'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/sassuolo-aquilani-berardi-e-un-campione-merita-il-ritorno-in-azzurro_8197f8f6-a02f-44f0-b726-abf306e4ac38.html",
      "data": "2026-08-29T19:28:26+00:00"
-    },
-    {
-     "titolo": "Frattura a clavicola e cervicale per Pogacar, lo sloveno si opera",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/29/frattura-a-clavicola-e-cervicale-per-pogacar-lo-sloveno-si-opera_8f71c865-70fb-45db-916e-48848e99152a.html",
-     "data": "2026-08-29T19:28:29+00:00"
-    },
-    {
-     "titolo": "Monza ancora sconfitto, l'Udinese passa 3-2 in Brianza",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/monza-ancora-sconfitto-ludinese-passa-3-2-in-brianza_c262b5f2-fa8f-4663-b61e-7a1e4f92498a.html",
-     "data": "2026-08-29T19:15:45+00:00"
-    },
-    {
-     "titolo": "Volpato e Berardi trascinano il Sassuolo, cade ancora il Torino",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/volpato-e-berardi-trascinano-il-sassuolo-cade-ancora-il-torino_9acad654-7c18-43b4-96c3-83c6262fffd0.html",
-     "data": "2026-08-29T19:14:45+00:00"
     }
    ]
   }
