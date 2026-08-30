@@ -1,65 +1,75 @@
 {
- "aggiornato": "2026-08-30T05:35:47.147460+00:00",
+ "aggiornato": "2026-08-30T10:45:33.515638+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
+     "titolo": "Giappone, cacciatorpediniere rientra con i Tomahawk Usa a bordo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/giappone-cacciatorpediniere-rientra-con-i-tomahawk-usa-a-bordo_a4049869-68fa-40f8-aefa-345c30d87725.html",
+     "data": "2026-08-30T09:45:06+00:00"
+    },
+    {
+     "titolo": "Referendum Islanda, il 52,8% dice no ai negoziati con l'Ue",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/referendum-islanda-il-528-dice-no-ai-negoziati-con-lue_a86dfc35-6e71-4be4-8479-d0750cc1f821.html",
+     "data": "2026-08-30T09:38:27+00:00"
+    },
+    {
+     "titolo": "Trovato morto in un parcheggio, uomo ucciso a colpi di pistola",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/trovato-morto-in-un-parcheggio-uomo-ucciso-a-colpi-di-pistola_f0e4e316-f724-4075-ac85-f4418119241b.html",
+     "data": "2026-08-30T08:27:41+00:00"
+    },
+    {
+     "titolo": "++ Monossido carbonio in baita di pastori, un morto e cinque intossicati ++",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/monossido-carbonio-in-baita-di-pastori-un-morto-e-cinque-intossicati_a2d9fee9-fc3c-4aed-aa82-ce4ca8a4859c.html",
+     "data": "2026-08-30T07:49:13+00:00"
+    },
+    {
+     "titolo": "Nepal, il bilancio dei morti sale a 734, i dispersi sono 2.498",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/nepal-il-bilancio-dei-morti-sale-a-734-i-dispersi-sono-2.498_5a13065f-7dfe-4f4f-b1cb-ec27488f9b2d.html",
+     "data": "2026-08-30T07:19:35+00:00"
+    },
+    {
+     "titolo": "Nuova frana in Tibet, soccorritori trasferiti in zona sicura",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/nuova-frana-in-tibet-soccorritori-trasferiti-in-zona-sicura_175acc31-0f87-4a79-9f0d-f2a3da730db5.html",
+     "data": "2026-08-30T07:16:31+00:00"
+    },
+    {
+     "titolo": "Khamenei agli Stati islamici, riconoscete il vero nemico e contrastate il suo piano",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/khamenei-agli-stati-islamici-riconoscete-il-vero-nemico-e-contrastate-il-suo-piano_4dd1ad8f-ee62-4541-96b8-3696b232e9c6.html",
+     "data": "2026-08-30T07:13:34+00:00"
+    },
+    {
+     "titolo": "Sparatoria durante un rave in Svizzera, 'un morto e 5 feriti'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/sparatoria-durante-un-rave-in-svizzera-un-morto-e-5-feriti_215906af-67f8-4252-aea3-10d9690d7e67.html",
+     "data": "2026-08-30T07:09:07+00:00"
+    },
+    {
+     "titolo": "Referendum sull'Ue in Islanda, 'no' in vantaggio mentre lo spoglio volge al termine",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/referendum-sullue-in-islanda-no-in-vantaggio-mentre-lo-spoglio-volge-al-termine_010eabcf-bc81-44ec-a0f4-00c8b240ccc0.html",
+     "data": "2026-08-30T07:08:32+00:00"
+    },
+    {
      "titolo": "Axios, 'Sony e Warner Music fanno causa ad Anthropic'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/axios-sony-e-warner-music-fanno-causa-ad-anthropic_3dfd1487-a06f-4ffe-9dc6-4b519ff48423.html",
      "data": "2026-08-30T04:59:26+00:00"
-    },
-    {
-     "titolo": "Referendum in Islanda: testa a testa, ma ora è in vantaggio il 'no'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/referendum-in-islanda-testa-a-testa-ma-ora-e-in-vantaggio-il-no_79bfbd2d-4a3c-4cf6-a08d-7e00d144eaf2.html",
-     "data": "2026-08-30T04:37:36+00:00"
-    },
-    {
-     "titolo": "Nepal, il bilancio sale a 734 morti e 2.498 dispersi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/nepal-il-bilancio-sale-a-734-morti-e-2.498-dispersi_be4b7115-4657-41f7-900a-8a0dde4aada8.html",
-     "data": "2026-08-30T04:29:21+00:00"
-    },
-    {
-     "titolo": "Attacco ucraino nella notte, colpite una raffineria e una base aerea russe",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/attacco-ucraino-nella-notte-colpite-una-raffineria-e-una-base-aerea_0675bd1f-d8fe-44ad-93ef-dce56383c857.html",
-     "data": "2026-08-30T03:24:57+00:00"
-    },
-    {
-     "titolo": "Tibet-Nepal, il bilancio in Cina sale a 16 morti e 546 dispersi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/tibet-nepal-il-bilancio-in-cina-sale-a-16-morti-e-546-dispersi_41c62751-c8f7-4251-a0d0-0b6f7a2731a1.html",
-     "data": "2026-08-30T01:30:01+00:00"
-    },
-    {
-     "titolo": "'Capo della Cia ha proposto a Mosca incontro Trump-Putin-Zelensky'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/capo-della-cia-ha-proposto-a-mosca-incontro-trump-putin-zelensky_6ebd9b81-4d7b-4f55-b8f2-c236305a3d59.html",
-     "data": "2026-08-30T01:26:41+00:00"
-    },
-    {
-     "titolo": "Referendum Islanda sui negoziati Ue, è testa a testa tra 'sì' e 'no'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/referendum-islanda-sui-negoziati-ue-e-testa-a-testa-tra-si-e-no_25632faf-5c3c-467b-b912-9a4fc3871c4c.html",
-     "data": "2026-08-30T00:00:24+00:00"
-    },
-    {
-     "titolo": "Islanda al voto sui negoziati Ue, chiusi i seggi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/islanda-al-voto-sui-negoziati-ue-chiusi-i-seggi_ee24c4d6-aeff-42a3-9a4e-6376c6edb8c5.html",
-     "data": "2026-08-29T23:07:40+00:00"
-    },
-    {
-     "titolo": "Ranucci contesta formalmente la rimozione da Report, 'è illegittima'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/29/ranucci-contesta-formalmente-la-rimozione-da-report-e-illegittima_bb5e1a6c-d460-4376-9880-a8bba92fee42.html",
-     "data": "2026-08-29T21:10:02+00:00"
-    },
-    {
-     "titolo": "Di Battista in ospedale lucido risponde alle domande dei medici",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/29/di-battista-in-ospedale-lucido-risponde-alle-domande-dei-medici_47f624ec-6b07-47b2-8f1a-25dc797eb949.html",
-     "data": "2026-08-29T20:23:05+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Tardani a Proietti, quale modello di gestione dei rifiuti vuole costruire la Regione?",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/30/tardani-a-proietti-quale-modello-di-gestione-dei-rifiuti-vuole-costruire-la-regione_d27f6ba7-9460-4b49-b833-13023a4c11ca.html",
+     "data": "2026-08-30T09:45:57+00:00"
+    },
+    {
+     "titolo": "Settembre alle porte ma il caldo non molla le notti dell'Umbria",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/30/settembre-alle-porte-ma-il-caldo-non-molla-le-notti-dellumbria_dd0c522d-3b23-4c3a-9d56-caa822994e90.html",
+     "data": "2026-08-30T09:11:58+00:00"
+    },
     {
      "titolo": "Affetto trasversale per Alessandro Di Battista dalla politica dell'Umbria",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/29/affetto-trasversale-per-alessandro-di-battista-dalla-politica-dellumbria_5419c558-b938-4635-af06-b3acda70d263.html",
@@ -109,16 +119,6 @@
      "titolo": "Bandecchi al M5s, confronto pubblico in tv, portate anche l'assessore regionale",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/28/bandecchi-al-m5s-confronto-pubblico-in-tv-portate-anche-lassessore-regionale_c2b28ef2-db0f-4094-97d2-4566b4e38171.html",
      "data": "2026-08-28T17:49:54+00:00"
-    },
-    {
-     "titolo": "Dal 7 settembre lavori Anas sulla Flaminia tra Gualdo Tadino e Nocera Umbra",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/28/dal-7-settembre-lavori-anas-sulla-flaminia-tra-gualdo-tadino-e-nocera_111aaca3-b815-4b81-9423-dd8980d427c8.html",
-     "data": "2026-08-28T16:12:32+00:00"
-    },
-    {
-     "titolo": "Bambino cade dal balcone di casa, ricoverato in ospedale ma non è grave",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/28/bambino-cade-dal-balcone-di-casa-ricoverato-in-ospedale-ma-non-e-grave_a8f16c40-40de-432d-afa5-a5313e2bee4e.html",
-     "data": "2026-08-28T16:15:52+00:00"
     }
    ]
   },
@@ -126,64 +126,64 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "La violenta esplosione in una palazzina a Cassino, morto uno dei feriti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/la-violenta-esplosione-in-una-palazzina-a-cassino-morto-uno-dei-feriti_312e2651-45ad-4f8f-85d5-6892bc41af06.html",
-     "data": "2026-08-29T22:20:18+00:00"
+     "titolo": "Muore annegato nel Viterbese Silvano Loia, il compagno dell'attrice Francesca Neri",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/affogato-nel-viterbese-silvano-loia-il-compagno-dellattrice-francesca-neri-_19b49e91-c6df-4460-b422-af2c6a022946.html",
+     "data": "2026-08-30T10:20:53+00:00"
     },
     {
-     "titolo": "Rivolta in carcere a Siracusa, agenti si lanciano dal tetto per sfuggire alle pietre",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/rivolta-in-carcere-a-siracusa-agenti-si-lanciano-dal-tetto-per-sfuggire-alle_59f33796-97f6-4121-a8ac-84d484f3b8f5.html",
-     "data": "2026-08-29T22:19:56+00:00"
+     "titolo": "Notte di fuoco in provincia di Palermo, allerta incendi anche oggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/notte-di-fuoco-in-provincia-di-palermo-allerta-incendi-anche-oggi_fce96dd7-1daf-4c89-b095-14b3bd6a658c.html",
+     "data": "2026-08-30T09:33:04+00:00"
     },
     {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-08-29T22:16:28+00:00"
+     "titolo": "Cremona lavora senza sosta per far fronte ai danni del maltempo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/cremona-lavora-senza-sosta-per-far-fronte-ai-danni-del-maltempo_36edb9c4-d008-4b77-bb18-39f88eec2b0d.html",
+     "data": "2026-08-30T10:43:04+00:00"
     },
     {
-     "titolo": "Ranucci contesta formalmente la rimozione da Report, 'è illegittima'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/ranucci-contesta-formalmente-la-rimozione-da-report-e-illegittima_da014448-5c66-4b58-845d-35cdcea97548.html",
-     "data": "2026-08-29T21:10:05+00:00"
+     "titolo": "Trovato morto in un parcheggio, uomo ucciso a colpi di pistola",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/trovato-morto-in-un-parcheggio-uomo-ucciso-a-colpi-di-pistola_b223ed23-cf0a-4c53-a761-905760f07f46.html",
+     "data": "2026-08-30T08:27:25+00:00"
     },
     {
-     "titolo": "Donna uccisa a coltellate in Friuli, fermato il compagno",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/donna-uccisa-a-coltellate-in-friuli-fermato-il-compagno_8a91db96-5fbe-4e91-acd1-07f362c53aef.html",
-     "data": "2026-08-29T20:34:13+00:00"
+     "titolo": "Cremona devastata dal maltempo, Mattarella telefona al sindaco",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/cremona-devastata-dal-maltempo-mattarella-telefona-al-sindaco_3555cb29-4091-4045-be28-97246b751cc4.html",
+     "data": "2026-08-30T08:12:00+00:00"
     },
     {
-     "titolo": "Garlasco, la Procura di Pavia dispone altre due consulenze su Andrea Sempio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/garlasco-la-procura-di-pavia-dispone-altre-due-consulenze-su-andrea-sempio_7f6e132e-5dbc-4154-93b5-6d9931d3ff91.html",
-     "data": "2026-08-29T20:40:46+00:00"
+     "titolo": "Bimba di 5 mesi rapita da una casa famiglia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/bimba-di-5-mesi-rapita-da-casa-famiglia-nel-casertano_91c76926-abba-4b9b-907e-a7de91e627b5.html",
+     "data": "2026-08-30T09:19:11+00:00"
     },
     {
-     "titolo": "L'ultimo saluto a Tania Terrin: 'Responsabile è la politica'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/lultimo-saluto-a-tania-terrin-responsabile-e-la-politica_9814a051-f220-4ca3-bac0-504af01b2f73.html",
-     "data": "2026-08-29T18:25:36+00:00"
+     "titolo": "Precipita da un balcone, muore ragazzo di 16 anni nel savonese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/precipita-da-un-balcone-muore-ragazzo-di-16-anni-nel-savonese_1925c6fe-7167-4cc5-ad48-e7d75f5a0567.html",
+     "data": "2026-08-30T08:02:35+00:00"
     },
     {
-     "titolo": "Cremona in ginocchio per il maltempo, Mattarella telefona al sindaco",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/cremona-in-ginocchio-per-il-maltempo-matterella-telefona-al-sindaco_3555cb29-4091-4045-be28-97246b751cc4.html",
-     "data": "2026-08-29T19:02:44+00:00"
+     "titolo": "Ancora incendi nell'area di Taormina, si riattiva il rogo nel bosco di Alberona nel Foggiano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/ancora-incendi-nellarea-di-taormina-abitazioni-minacciate_a95c7dba-0368-4f41-89d6-73880b93193d.html",
+     "data": "2026-08-30T09:28:38+00:00"
     },
     {
-     "titolo": "Luca Barachini e Patrizia Marziale dispersi nel viaggio dei loro sogni in Nepal",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/luca-barachini-e-patrizia-marziale-dispersi-nel-viaggio-dei-loro-sogni_71d8618d-7be1-4926-ae83-c12ca6d9c93a.html",
-     "data": "2026-08-29T19:05:33+00:00"
+     "titolo": "Trovato morto in un parcheggio, uomo ucciso a colpi di pistola",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/trovato-morto-in-un-parcheggio-uomo-ucciso-a-colpi-di-pistola_c62637ed-fc47-401f-889d-4a3c9539eea2.html",
+     "data": "2026-08-30T09:52:43+00:00"
     },
     {
-     "titolo": "++ Donna uccisa a coltellate in Friuli, fermato il compagno ++",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/-donna-uccisa-a-coltellate-in-friuli-fermato-il-compagno-_2c0c01b9-1f55-443f-8f23-cd858127a7e5.html",
-     "data": "2026-08-29T18:14:24+00:00"
+     "titolo": "++ Monossido carbonio in baita di pastori, un morto e cinque intossicati ++",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/monossido-carbonio-in-baita-di-pastori-un-morto-e-cinque-intossicati_db330f1d-c230-44f6-be3f-5f618037edee.html",
+     "data": "2026-08-30T07:49:15+00:00"
     },
     {
-     "titolo": "Chiusa la Porta Santa della 732/ma Perdonanza all'Aquila",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/chiusa-la-porta-santa-della-732ma-perdonanza-allaquila_d3192153-6a5a-46c7-ba23-c7243ef218a0.html",
-     "data": "2026-08-29T18:04:24+00:00"
+     "titolo": "Un morto e cinque intossicati in una baita, la vittima è un volontario di Milano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/un-morto-e-cinque-intossicati-in-una-baita-per-il-monossido-di-carbonio_23f08a36-b736-4d3d-88d2-7c490bb9a8ff.html",
+     "data": "2026-08-30T09:32:17+00:00"
     },
     {
-     "titolo": "In Abruzzo l'addio all'alpinista morto a novembre sulle vette del Nepal",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/in-abruzzo-laddio-allalpinista-morto-a-novembre-sulle-vette-del-nepal_c93f920a-c13d-444f-bb11-7d369e969dcd.html",
-     "data": "2026-08-29T19:24:24+00:00"
+     "titolo": "Impatta con l'auto contro muro, giovane muore nel Beneventano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/impatta-con-lauto-contro-muro-giovane-muore-nel-beneventano_0cc6054d-5fb2-4883-a81b-39872fe3e2ce.html",
+     "data": "2026-08-30T07:18:39+00:00"
     }
    ]
   },
@@ -191,14 +191,19 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Alessandro Di Battista ricoverato a Cuba, il messaggio sui social: \"Ce la metterò tutta per tornare presto\"",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/30/alessandro-di-battista-ricoverato-a-cuba-il-messaggio-sui-social-ce-la-mettero-tutta-per_f010ae59-c324-40bb-a41d-89abef927aa2.html",
+     "data": "2026-08-30T10:32:33+00:00"
+    },
+    {
      "titolo": "Ranucci contesta formalmente la rimozione da Report, 'è illegittima'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/ranucci-contesta-formalmente-la-rimozione-da-report-e-illegittima_f359eb83-612c-4ea1-b186-08af925563b6.html",
-     "data": "2026-08-29T20:53:20+00:00"
+     "data": "2026-08-30T09:02:05+00:00"
     },
     {
      "titolo": "Di Battista in ospedale lucido risponde alle domande dei medici",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/di-battista-in-ospedale-lucido-risponde-alle-domande-dei-medici_97ec2496-cf44-4da9-83da-8df05bbe6eaf.html",
-     "data": "2026-08-29T21:07:34+00:00"
+     "data": "2026-08-30T08:03:54+00:00"
     },
     {
      "titolo": "Vannacci chiude la prima estate da leader, 'gli altri sono nervosi'",
@@ -244,11 +249,6 @@
      "titolo": "Tajani, 'Di Battista in ospedale a L'Avana, sono in contatto con l'ambasciata'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/tajani-di-battista-in-ospedale-a-lavana-sono-in-contatto-con-lambasciata_1e103b0c-779e-4645-851c-b3868d603ac6.html",
      "data": "2026-08-29T11:21:03+00:00"
-    },
-    {
-     "titolo": "Fonti, Di Battista ricoverato in gravi condizioni a L'Avana",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/fonti-di-battista-ricoverato-in-gravi-condizioni-a-lavana_5aa99a97-5487-433d-afe5-55898395fddb.html",
-     "data": "2026-08-29T11:19:12+00:00"
     }
    ]
   },
@@ -321,6 +321,51 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Giappone, cacciatorpediniere rientra con i Tomahawk Usa a bordo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/30/giappone-cacciatorpediniere-rientra-con-i-tomahawk-usa-a-bordo_cefd8ac3-f3e0-4ce6-95d6-bae0f7fc3b91.html",
+     "data": "2026-08-30T09:45:10+00:00"
+    },
+    {
+     "titolo": "Referendum Islanda, il 52,8% dice no ai negoziati con l'Ue",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/referendum-islanda-il-528-dice-no-ai-negoziati-con-lue_f75a5ea5-c4b9-4063-acf8-5c4c73fbfcdd.html",
+     "data": "2026-08-30T09:38:44+00:00"
+    },
+    {
+     "titolo": "Mosca, pronti a sferrare massicci attacchi contro settori energitici ucraini",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/mosca-pronti-a-sferrare-massicci-attacchi-contro-settori-energitici-ucraini_9e4df8fd-3e41-4cef-a6bd-791e81ccfb84.html",
+     "data": "2026-08-30T08:22:56+00:00"
+    },
+    {
+     "titolo": "Mosca continua gli attacchi su Kiev, terza notte consecutiva di raid con droni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/mosca-continua-gli-attacchi-su-kiev-terza-notte-consecutiva-di-raid-con_32918562-3f4f-4066-bce2-919282d52b46.html",
+     "data": "2026-08-30T07:23:02+00:00"
+    },
+    {
+     "titolo": "Nepal, il bilancio dei morti sale a 734, i dispersi sono 2.498",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/30/nepal-il-bilancio-dei-morti-sale-a-734-i-dispersi-sono-2.498_db601bf8-adce-43dd-bc91-c3ab6fe7d0cd.html",
+     "data": "2026-08-30T07:19:35+00:00"
+    },
+    {
+     "titolo": "Nuova frana in Tibet, soccorritori trasferiti in zona sicura",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/30/nuova-frana-in-tibet-soccorritori-trasferiti-in-zona-sicura_9d058ffd-572a-4d2b-8f41-fa8407f1d033.html",
+     "data": "2026-08-30T07:16:33+00:00"
+    },
+    {
+     "titolo": "Khamenei agli Stati islamici, riconoscete il vero nemico e contrastate il suo piano",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/30/khamenei-agli-stati-islamici-riconoscete-il-vero-nemico-e-contrastate-il-suo-piano_b2f7cfac-4f43-4915-a51d-0193f2673434.html",
+     "data": "2026-08-30T07:13:39+00:00"
+    },
+    {
+     "titolo": "Sparatoria durante un rave in Svizzera, 'un morto e 5 feriti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/sparatoria-durante-un-rave-in-svizzera-un-morto-e-5-feriti_62443a5c-110a-4fec-9823-b4f522fce968.html",
+     "data": "2026-08-30T07:09:10+00:00"
+    },
+    {
+     "titolo": "Referendum sull'Ue in Islanda, 'no' in vantaggio mentre lo spoglio volge al termine",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/referendum-sullue-in-islanda-no-in-vantaggio-mentre-lo-spoglio-volge-al-termine_e3924e14-5d60-469f-9a72-92f3e46f0194.html",
+     "data": "2026-08-30T07:08:35+00:00"
+    },
+    {
      "titolo": "Referendum in Islanda: testa a testa, ma ora è in vantaggio il 'no'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/referendum-in-islanda-testa-a-testa-ma-ora-e-in-vantaggio-il-no_9097421e-b1da-4a94-83d2-cc710d4ff9c7.html",
      "data": "2026-08-30T04:37:36+00:00"
@@ -334,51 +379,6 @@
      "titolo": "Attacco ucraino nella notte, colpite una raffineria e una base aerea russe",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/attacco-ucraino-nella-notte-colpite-una-raffineria-e-una-base-aerea_81f242a9-11ba-4219-b0ea-0caa93807cc7.html",
      "data": "2026-08-30T03:24:57+00:00"
-    },
-    {
-     "titolo": "Tibet-Nepal, il bilancio in Cina sale a 16 morti e 546 dispersi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/30/tibet-nepal-il-bilancio-in-cina-sale-a-16-morti-e-546-dispersi_3cc134ab-d677-4afc-8f90-6aa8b084675f.html",
-     "data": "2026-08-30T01:30:01+00:00"
-    },
-    {
-     "titolo": "'Capo della Cia ha proposto a Mosca incontro Trump-Putin-Zelensky'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/capo-della-cia-ha-proposto-a-mosca-incontro-trump-putin-zelensky_0eda7750-c8ed-4b45-9d87-2a79fcc1a99c.html",
-     "data": "2026-08-30T01:26:56+00:00"
-    },
-    {
-     "titolo": "Referendum Islanda sui negoziati Ue, è testa a testa tra 'sì' e 'no'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/referendum-islanda-sui-negoziati-ue-e-testa-a-testa-tra-si-e-no_bcd8852b-4b55-469f-b3b9-f17fadf1c1a7.html",
-     "data": "2026-08-30T00:00:43+00:00"
-    },
-    {
-     "titolo": "Islanda al voto sui negoziati Ue, chiusi i seggi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/islanda-al-voto-sui-negoziati-ue-chiusi-i-seggi_a98c4c86-ccd5-4c2a-98ea-7c8a46bc3511.html",
-     "data": "2026-08-29T23:07:44+00:00"
-    },
-    {
-     "titolo": "Usa abbattono droni dei narcos, la conferma arriva dal Messico",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/29/usa-abbattono-droni-dei-narcos-la-conferma-arriva-dal-messico_d8301c9e-4442-42d0-ac11-69dcea8c2da6.html",
-     "data": "2026-08-29T21:41:09+00:00"
-    },
-    {
-     "titolo": "Di Battista in ospedale lucido risponde alle domande dei medici",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/29/di-battista-in-ospedale-lucido-risponde-alle-domande-dei-medici_8d8aa8f5-d816-4a13-bbfb-86863fdc07cb.html",
-     "data": "2026-08-29T20:23:03+00:00"
-    },
-    {
-     "titolo": "Di Battista in ospedale lucido risponde alle domande dei medici",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/29/di-battista-in-ospedale-lucido-risponde-alle-domande-dei-medici_403e6763-7ec1-4fad-afd6-eb6881781123.html",
-     "data": "2026-08-29T20:23:05+00:00"
-    },
-    {
-     "titolo": "Niger, il regime riconquista base militare dai ribelli con l'aiuto della Russia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/29/niger-il-regime-riconquista-base-militare-dai-ribelli-con-laiuto-della_60e0063d-6b43-4a10-ad53-02b8af66d54e.html",
-     "data": "2026-08-29T20:13:39+00:00"
-    },
-    {
-     "titolo": "Dopo la morte, Dolly Parton è diventata l'artista più ascoltata in streaming",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/29/dopo-la-morte-dolly-parton-e-diventata-lartista-piu-ascoltata-in-streaming_262fc1bc-cb6b-434a-a33c-8bf5f719e629.html",
-     "data": "2026-08-29T19:42:49+00:00"
     }
    ]
   },
@@ -451,6 +451,46 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Roma: ufficiale Balerdi, in prestito dal Marsiglia",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/roma-ufficiale-balerdi-in-prestito-dal-marsiglia_647c395e-0161-4fe1-9dab-bb0e3ebb3bc6.html",
+     "data": "2026-08-30T10:28:34+00:00"
+    },
+    {
+     "titolo": "Fiorentina: l'ex granata Njie in città per visite e firme",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/fiorentina-lex-granata-njie-in-citta-per-visite-e-firme_a931e2f6-099e-4fb9-9ba5-056d2c4f02a0.html",
+     "data": "2026-08-30T10:16:59+00:00"
+    },
+    {
+     "titolo": "Premier: il Chelsea ingaggia il portiere dell'Argentina Martinez",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/premier-il-chelsea-ingaggia-il-portiere-dellargentina-martinez_05f24f05-c78b-4430-b2f5-f05834399f39.html",
+     "data": "2026-08-30T10:09:58+00:00"
+    },
+    {
+     "titolo": "Juve: esami per Cambiaso dopo l'infortunio con il Parma",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/juve-esami-per-cambiaso-dopo-linfortunio-con-il-parma_5fa74479-973f-436f-a929-d4fb3d1a5f4a.html",
+     "data": "2026-08-30T08:53:18+00:00"
+    },
+    {
+     "titolo": "Roma: De Roon torna da Gasperini",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/roma-de-roon-torna-da-gasperini_e8798891-fde5-4c90-a5fd-e20677d22177.html",
+     "data": "2026-08-30T08:39:50+00:00"
+    },
+    {
+     "titolo": "Vuelta: Pogacar pubblica la foto dall'ospedale, cerotti, smorfia e 'Stayin' alive'",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/30/vuelta-pogacar-pubblica-foto-dallospedale-cerotti-smorfia-e-stayin-alive_0995c506-39a8-4ee7-a8e3-1bcc3e45c21a.html",
+     "data": "2026-08-30T08:53:31+00:00"
+    },
+    {
+     "titolo": "Mls: Messi fa 4 gol, l'Inter Miami torna alla vittoria",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/mls-messi-fa-4-gol-linter-miami-torna-alla-vittoria_d222b907-203e-4640-8b30-538bd53f68de.html",
+     "data": "2026-08-30T08:55:45+00:00"
+    },
+    {
+     "titolo": "Federer entra nella Hall of Fame: 'Il tennis per me è stato tutto'",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/30/federer-entra-nella-hall-of-fame-il-tennis-per-me-e-stato-tutto_c4cf6799-2364-45fb-9512-5506a3889c19.html",
+     "data": "2026-08-30T08:55:01+00:00"
+    },
+    {
      "titolo": "Commisso, 'Fiorentina deve far sognare Firenze'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/commisso-fiorentina-deve-far-sognare-firenze_4a5eef48-b460-4833-a40c-6a3d73d8c62d.html",
      "data": "2026-08-29T22:16:59+00:00"
@@ -469,46 +509,6 @@
      "titolo": "Kessié, 'contento di essere tornato, all'Atalanta è iniziato tutto'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/kessie-contento-di-essere-tornato-allatalanta-e-iniziato-tutto_9949c452-c765-4dd2-92f6-23f2d6f5d252.html",
      "data": "2026-08-29T21:18:47+00:00"
-    },
-    {
-     "titolo": "De Zerbi, 'la mentalità non si compra sul mercato'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/de-zerbi-la-mentalita-non-si-compra-sul-mercato_25b346c8-0945-45a2-9d9f-20c27241f4dc.html",
-     "data": "2026-08-29T21:14:39+00:00"
-    },
-    {
-     "titolo": "La Juventus batte il Parma, fa due su due ed è in vetta col Milan",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/la-juventus-batte-il-parma-fa-due-su-due-ed-e-in-vetta-col-milan_aea865f4-79ba-4e5b-9f3b-7e5e3984e411.html",
-     "data": "2026-08-29T21:02:14+00:00"
-    },
-    {
-     "titolo": "Serie A: buona la prima in casa per la Juve, decidono Gonzalez e Koopmeiners",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/serie-a-buona-la-prima-in-casa-per-la-juve-decidono-gonzalez-e-koopmeiners_aec50cb9-d34e-4990-b2e3-cea48fa8deed.html",
-     "data": "2026-08-29T20:46:30+00:00"
-    },
-    {
-     "titolo": "Striscione a Zingonia chiede permanenza di De Roon, 'se sono voci meglio'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/striscione-a-zingonia-chiede-permanenza-di-de-roon-se-sono-voci-meglio_344f9d21-6e16-49c9-b931-ad7b35be44be.html",
-     "data": "2026-08-29T20:03:46+00:00"
-    },
-    {
-     "titolo": "Serie A: Grosso, 'abbiamo un problema, dobbiamo metterci un discussione'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/serie-a-grosso-abbiamo-un-problema-dobbiamo-metterci-un-discussione_2365514c-fdc7-464a-98e2-481aa564b0e5.html",
-     "data": "2026-08-29T20:00:46+00:00"
-    },
-    {
-     "titolo": "Alvini, 'vittoria meritata, ma il risultato è troppo pesante'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/alvini-vittoria-meritata-ma-il-risultato-e-troppo-pesante_de48d7d6-a279-45de-a23e-5e6b7474eeae.html",
-     "data": "2026-08-29T19:58:59+00:00"
-    },
-    {
-     "titolo": "Pogacar cade e si ritira, la Vuelta perde il suo padrone",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/29/pogacar-cade-e-si-ritira-la-vuelta-perde-il-suo-padrone_03f89bbc-14cd-4f41-9cf3-a6b45b40ca48.html",
-     "data": "2026-08-29T19:33:20+00:00"
-    },
-    {
-     "titolo": "Sassuolo: Aquilani, 'Berardi è un campione, merita il ritorno in azzurro'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/29/sassuolo-aquilani-berardi-e-un-campione-merita-il-ritorno-in-azzurro_8197f8f6-a02f-44f0-b726-abf306e4ac38.html",
-     "data": "2026-08-29T19:28:26+00:00"
     }
    ]
   }
