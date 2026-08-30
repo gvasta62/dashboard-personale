@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-08-30T18:39:48.150734+00:00",
+ "aggiornato": "2026-08-30T21:40:21.762302+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media Iran, 'due morti per il raid su Larak'. Pasdaran, 'puniremo l'aggressore'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/media-iran-due-morti-per-il-raid-su-larak.-pasdaran-puniremo-laggressore_5e166b30-3110-40bf-9930-1b69c39b3b17.html",
+     "data": "2026-08-30T20:18:02+00:00"
+    },
+    {
+     "titolo": "Axios, gli Usa hanno attaccato lanciatori iraniani sull'isola di Larak",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/axios-gli-usa-hanno-attaccato-lanciatori-iraniani-sullisola-di-larak_0e9790bf-d038-4bc4-9718-2e6357dda91f.html",
+     "data": "2026-08-30T19:40:02+00:00"
+    },
     {
      "titolo": "La Russa, Meloni sarebbe splendida presidente della Repubblica ma non questa volta",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/la-russa-meloni-sarebbe-splendida-presidente-della-repubblica-ma-non-questa-volta_57e26a21-04a4-4790-ba6b-77ba9bb93d72.html",
@@ -44,16 +54,6 @@
      "titolo": "Meloni, cordoglio per Maria Spinelli, due italiani feriti in Svizzera",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/meloni-cordoglio-per-maria-spinelli-due-italiani-feriti-in-svizzera_c3c4d6be-4854-48bb-a2a1-c7dbe90c243f.html",
      "data": "2026-08-30T15:19:27+00:00"
-    },
-    {
-     "titolo": "Fa evacuare studenti prima dell'inondazione, preside nepalese salva 900 alunni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/fa-evacuare-studenti-prima-dellinondazione-preside-nepalese-salva-900-alunni_ecf112df-c44e-4d24-85f0-061d2cc21012.html",
-     "data": "2026-08-30T14:42:23+00:00"
-    },
-    {
-     "titolo": "Sparatoria in Svizzera, la vittima è Maria Spinelli",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/sparatoria-in-svizzera-la-vittima-e-maria-spinelli_85f251ac-a6ca-46bb-8212-ec0b207c4841.html",
-     "data": "2026-08-30T14:35:43+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Omicidio nel Napoletano, uomo ucciso a colpi d'arma da fuoco",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/omicidio-nel-napoletano-uomo-ucciso-a-colpi-darma-da-fuoco_cc907a4a-14f3-4d4a-9850-7f6bf06db43d.html",
+     "data": "2026-08-30T20:03:43+00:00"
+    },
+    {
+     "titolo": "Donna uccisa a coltellate in Friuli, il marito non risponde agli inquirenti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/donna-uccisa-a-coltellate-in-friuli-il-marito-non-risponde-agli-inquirenti_65531b4b-2b2f-4dee-b642-f957d13cabbe.html",
+     "data": "2026-08-30T19:20:57+00:00"
+    },
+    {
      "titolo": "Cremona prova a rialzarsi, prosegue la conta dei danni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/cremona-prova-a-rialzarsi-prosegue-la-conta-dei-danni_36edb9c4-d008-4b77-bb18-39f88eec2b0d.html",
      "data": "2026-08-30T18:14:19+00:00"
@@ -173,17 +183,7 @@
     {
      "titolo": "Un morto e cinque intossicati dal monossido in una baita, la vittima è un volontario",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/un-morto-e-cinque-intossicati-dal-monossido-in-una-baita-la-vittima-e-un-volontario_23f08a36-b736-4d3d-88d2-7c490bb9a8ff.html",
-     "data": "2026-08-30T16:46:58+00:00"
-    },
-    {
-     "titolo": "Cade per 30 metri, escursionista muore sulla Cima Marzola sopra Trento",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/cade-per-30-metri-escursionista-muore-sulla-cima-marzola-sopra-trento_1a09407e-9643-4ede-ba4a-138488424f16.html",
-     "data": "2026-08-30T16:39:22+00:00"
-    },
-    {
-     "titolo": "Incendio nel Nuorese e intervento di un Canadair, già avviate le bonifiche",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/incendio-nel-nuorese-e-intervento-di-un-canadair-gia-avviate-le-bonifiche_7a9156a2-0851-4fdc-8bee-d437a7d2de80.html",
-     "data": "2026-08-30T16:22:45+00:00"
+     "data": "2026-08-30T18:47:18+00:00"
     }
    ]
   },
@@ -191,9 +191,24 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Meloni e il record di longevità: 'Manca solo l'invasione delle cavallette...'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/30/meloni-e-il-record-di-longevita-manca-solo-linvasione-delle-cavallette..._9c56b76f-c1be-461e-b806-f8f6ac051d1e.html",
+     "data": "2026-08-30T21:38:47+00:00"
+    },
+    {
+     "titolo": "Dall'Aula alla piazza, il centrosinistra prepara battaglia sulla legge elettorale",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/30/dallaula-alla-piazza-il-centrosinistra-prepara-battaglia-sulla-legge-elettorale_37d18f32-d0ab-4cc7-9597-25b4c76b0a8b.html",
+     "data": "2026-08-30T19:57:34+00:00"
+    },
+    {
      "titolo": "La Russa, Meloni sarebbe splendida presidente della Repubblica ma non questa volta",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/30/la-russa-meloni-sarebbe-splendida-presidente-della-repubblica-ma-non-questa-volta_a24ffb91-cea5-4575-997b-0d0e696dcecc.html",
      "data": "2026-08-30T18:25:54+00:00"
+    },
+    {
+     "titolo": "Settimana di confronto su Report. Ranucci: 'Mi difendo da solo'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/30/settimana-di-confronto-su-report.-ranucci-mi-difendo-da-solo_7fec83ce-e240-4b98-93b5-b772fce9b9d4.html",
+     "data": "2026-08-30T21:38:09+00:00"
     },
     {
      "titolo": "Alessandro Di Battista ricoverato è ancora grave, medici del Gemelli verso Cuba",
@@ -224,26 +239,6 @@
      "titolo": "Le incognite dell'ultimo anno, e la premier pensa al bis",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/30/le-incognite-dellultimo-anno-e-la-premier-pensa-al-bis_a99d3a65-23ea-447b-971f-11fbdba6830f.html",
      "data": "2026-08-30T13:02:12+00:00"
-    },
-    {
-     "titolo": "Meloni e il record di longevità, 'manca solo l'invasione delle cavallette...'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/30/meloni-e-il-record-di-longevita-manca-solo-linvasione-delle-cavallette..._9c56b76f-c1be-461e-b806-f8f6ac051d1e.html",
-     "data": "2026-08-30T13:00:14+00:00"
-    },
-    {
-     "titolo": "Ranucci contesta formalmente la rimozione da Report, 'è illegittima'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/ranucci-contesta-formalmente-la-rimozione-da-report-e-illegittima_f359eb83-612c-4ea1-b186-08af925563b6.html",
-     "data": "2026-08-30T09:02:05+00:00"
-    },
-    {
-     "titolo": "Vannacci chiude la prima estate da leader, 'gli altri sono nervosi'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/vannacci-chiude-la-prima-estate-da-leader-gli-altri-sono-nervosi_35600bb4-6e1c-4758-9f73-0cce76363f69.html",
-     "data": "2026-08-29T19:11:31+00:00"
-    },
-    {
-     "titolo": "La maggioranza studia le modifiche alla legge elettorale, rispunta il ballottaggio",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/29/la-maggioranza-studia-le-modifiche-alla-legge-elettorale-rispunta-il-ballottaggio_f496eb85-0a13-4f2f-9a24-a003316a7cd6.html",
-     "data": "2026-08-29T19:14:31+00:00"
     }
    ]
   },
@@ -316,6 +311,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Media Iran, 'due morti per il raid su Larak'. Pasdaran, 'puniremo l'aggressore'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/30/media-iran-due-morti-per-il-raid-su-larak.-pasdaran-puniremo-laggressore_c500fd87-3442-4474-a69e-99643f2f3cb7.html",
+     "data": "2026-08-30T20:18:02+00:00"
+    },
+    {
+     "titolo": "Il collier milionario rubato a Vienna, il museo nella bufera",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/30/il-collier-milionario-rubato-a-vienna-il-museo-nella-bufera_5d1f5436-c797-4b7f-bde3-4b267e3736da.html",
+     "data": "2026-08-30T19:48:13+00:00"
+    },
+    {
+     "titolo": "Axios, gli Usa hanno attaccato lanciatori iraniani sull'isola di Larak",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/30/axios-gli-usa-hanno-attaccato-lanciatori-iraniani-sullisola-di-larak_1fc566b9-e4de-4448-b03f-4254eab04421.html",
+     "data": "2026-08-30T19:40:20+00:00"
+    },
+    {
      "titolo": "Media, arrestati comandante ed equipaggio del traghetto affondato a Cipro Nord",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/media-arrestati-comandante-ed-equipaggio-del-traghetto-affondato-a-cipro-nord_6cd4ce36-aa78-4e08-a1d0-8b7f16a1ad48.html",
      "data": "2026-08-30T17:17:00+00:00"
@@ -359,21 +369,6 @@
      "titolo": "America Latina, casi di dengue in calo del 60%",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/30/america-latina-casi-di-dengue-in-calo-del-60_1275e7cd-b3e2-4117-b2c2-6c3b9d4442ce.html",
      "data": "2026-08-30T14:32:06+00:00"
-    },
-    {
-     "titolo": "Traghetto affondato, '7 morti, 23 dispersi e 237 salvati'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/traghetto-affondato-7-morti-23-dispersi-e-237-salvati_7da41933-052f-4f9b-b5e9-0b67754afb69.html",
-     "data": "2026-08-30T14:03:44+00:00"
-    },
-    {
-     "titolo": "Premier Islanda, 'soddisfatta per partecipazione a referendum, rispettare l'esito'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/premier-islanda-soddisfatta-per-partecipazione-a-referendum-rispettare-lesito_6cd0781d-15d7-4244-9a96-ac4744e981ff.html",
-     "data": "2026-08-30T13:58:57+00:00"
-    },
-    {
-     "titolo": "Mons. Gallagher, per risolvere guerra in Ucraina non isolare Mosca",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/mons.-gallagher-per-risolvere-guerra-in-ucraina-non-isolare-mosca_6e73db3f-fbb7-40f8-bb64-6921d162fdc4.html",
-     "data": "2026-08-30T13:11:00+00:00"
     }
    ]
   },
@@ -446,64 +441,64 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Il Como espugna lo stadio Maradona, Napoli battuto 2-1 CRONACA e FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/il-como-espugna-lo-stadio-maradona-napoli-battuto-2-1-cronaca-e-foto_09c4d94d-55dd-4c9e-b355-ef254835db8c.html",
-     "data": "2026-08-30T18:35:55+00:00"
+     "titolo": "Colpo del Como che  vince al Maradona, Napoli battuto 2-1 CRONACA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/colpo-del-como-che-vince-al-maradona-napoli-battuto-2-1-cronaca-e-foto_09c4d94d-55dd-4c9e-b355-ef254835db8c.html",
+     "data": "2026-08-30T21:35:58+00:00"
     },
     {
-     "titolo": "Serie A: il Como espugna il Maradona, Baturina e Douvikas stendono il Napoli",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/serie-a-il-como-espugna-il-maradona-baturina-e-douvikas-stendono-il-napoli_974dab73-e8bf-4a47-aac7-1899eabb551f.html",
-     "data": "2026-08-30T18:33:12+00:00"
+     "titolo": "Frattesi fa volare la Lazio, il Genoa battuto 1-0 all'OlimpicoCRONACA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/frattesi-fa-volare-la-lazio-il-genoa-battuto-1-0-allolimpicocronaca-e-foto_4446927f-0552-4ab6-a702-2aeafac55ce7.html",
+     "data": "2026-08-30T21:32:02+00:00"
     },
     {
-     "titolo": "Giochi del Mediterraneo: Inzoli d'oro nel salto in lungo",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/30/giochi-del-mediterraneo-inzoli-doro-nel-salto-in-lungo_3dcb6b10-896b-4877-92e6-4bdeeee8b2f0.html",
-     "data": "2026-08-30T18:24:24+00:00"
+     "titolo": "A Cagliari l'Inter vince 1-0. Decide una rete di Calhanoglu al 9' CRONACA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/a-cagliari-linter-vince-1-0.-decide-una-rete-di-calhanoglu-al-9-cronaca-e-foto_6eae30e2-232d-4b2f-a3ea-e82f30241ec1.html",
+     "data": "2026-08-30T21:28:04+00:00"
     },
     {
-     "titolo": "Vuelta: Mas trionfa in maglia rossa sull'Alto de Aitana, battuto Onley",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/30/vuelta-mas-trionfa-in-maglia-rossa-sullalto-de-aitana-battuto-onley_a2ef45fc-1b6f-42ba-bd4c-8ba387b8611d.html",
-     "data": "2026-08-30T18:19:45+00:00"
+     "titolo": "Serie A: Chivu, 'bravi a creare, ma dovevamo essere più concreti'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/serie-a-chivu-bravi-a-creare-ma-dovevamo-essere-piu-concreti_928c6450-4d13-4bcc-8e40-4437714f87f1.html",
+     "data": "2026-08-30T21:28:15+00:00"
     },
     {
-     "titolo": "Kessié: 'Sono contento di essere tornato, all'Atalanta è iniziato tutto'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/kessie-sono-contento-di-essere-tornato-allatalanta-e-iniziato-tutto_9949c452-c765-4dd2-92f6-23f2d6f5d252.html",
-     "data": "2026-08-30T18:18:34+00:00"
+     "titolo": "Platini contro Infantino 'deve andarsene, non ha rispettato le regole'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/platini-contro-infantino-deve-andarsene-non-ha-rispettato-le-regole_17a103a7-91ae-4388-b8ee-36cf3edd05ca.html",
+     "data": "2026-08-30T21:21:16+00:00"
     },
     {
-     "titolo": "Serie A: Gimenez lascia il Milan e va in prestito al Porto",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/serie-a-gimenez-lascia-il-milan-e-va-in-prestito-al-porto_c3ecafe9-9510-4500-b9d0-aae7c45f2629.html",
-     "data": "2026-08-30T18:14:55+00:00"
+     "titolo": "Il Como espunga il Maradona, Inter Milan Juve e Lazio in testa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/il-como-espunga-il-maradona-inter-milan-juve-e-lazio-in-testa_68dcb63b-4c9d-401d-a01a-8e952754cac2.html",
+     "data": "2026-08-30T21:19:29+00:00"
     },
     {
-     "titolo": "Eurovolley: azzurre alla prova Bulgaria, obiettivo i quarti",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/30/eurovolley-azzurre-alla-prova-bulgaria-obiettivo-i-quarti_75e3c66b-4310-48e3-be33-cfbf0822b058.html",
-     "data": "2026-08-30T18:12:17+00:00"
+     "titolo": "Us Open: Stefanini batte Yastremska, derby con Paolini al secondo turno",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/30/us-open-stefanini-batte-yastremska-derby-con-paolini-al-secondo-turno_f9e5de84-0aff-46ad-8ad2-064c0942a06b.html",
+     "data": "2026-08-30T21:21:00+00:00"
     },
     {
-     "titolo": "Calciomercato: la Juventus stringe per Sarr, l'Atalanta insiste per Rowe",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/calciomercato-la-juventus-stringe-per-sarr-latalanta-insiste-per-rowe-_bde6dd3e-6a9b-456a-aff5-4ec2921469ef.html",
-     "data": "2026-08-30T18:00:50+00:00"
+     "titolo": "Serie A: ufficiale De Roon alla Roma, domani raggiungerà la squadra a Lecce",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/serie-a-ufficiale-de-roon-alla-roma-domani-raggiungera-la-squadra-a-lecce_f67a8f78-2ab9-4256-917c-4caa9dd217e7.html",
+     "data": "2026-08-30T20:49:39+00:00"
     },
     {
-     "titolo": "Atletica: Battocletti vince e fa il record italiano anche nei 1500 metri",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/30/atletica-battocletti-vince-e-fa-il-record-italiano-anche-nei-1500-metri_371c5224-58e1-4b64-b0f3-53f20b9c6072.html",
-     "data": "2026-08-30T18:22:06+00:00"
+     "titolo": "L'Atalanta saluta De Roon ringraziandolo per \"lo straordinario contributo\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/latalanta-saluta-de-roon-ringraziandolo-per-lo-straordinario-contributo_5abbee9e-e628-4e50-8717-8802d6b930a0.html",
+     "data": "2026-08-30T20:47:52+00:00"
     },
     {
-     "titolo": "Premier: United a valanga sull'Ipswich, il Chelsea batte il Brighton 4-3",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/premier-united-a-valanga-sullipswich-il-chelsea-batte-il-brighton-4-3_deb5ab91-9eac-4356-95fc-944de0fa3983.html",
-     "data": "2026-08-30T18:21:08+00:00"
+     "titolo": "Serie A: ancora Frattesi a segno, la Lazio batte di misura il Genoa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/serie-a-ancora-frattesi-a-segno-la-lazio-batte-di-misura-il-genoa_05f2e1f6-7d68-4695-bb98-4b9f99763c9e.html",
+     "data": "2026-08-30T20:46:34+00:00"
     },
     {
-     "titolo": "Us Open al via: senza Sinner caccia al favorito, Paolini ok",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/30/us-open-al-via-senza-sinner-caccia-al-favorito-paolini-ok_3a226ec9-ee6d-4ecb-b2d7-982b435d1fba.html",
-     "data": "2026-08-30T18:17:08+00:00"
+     "titolo": "Serie A: basta un gol di Calhanoglu, l'Inter di Chivu passa a Cagliari",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/serie-a-basta-un-gol-di-calhanoglu-linter-di-chivu-passa-a-cagliari_d190c5a2-2f47-4e8f-a486-e0497ad4122b.html",
+     "data": "2026-08-30T20:40:38+00:00"
     },
     {
-     "titolo": "L'ex Toro Schuurs torna con gol dopo 1043 giorni, 'percorso incredibile'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/lex-toro-schuurs-torna-con-gol-dopo-1043-giorni-percorso_0f860bf6-f829-4ad3-bd2b-e21ce23732a7.html",
-     "data": "2026-08-30T17:36:50+00:00"
+     "titolo": "Allegri 'dispiace il ko alla prima in casa, serve essere più decisi'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/allegri-dispiace-il-ko-alla-prima-in-casa-serve-essere-piu-decisi_5b8d6584-f0e7-498d-80f8-5d7a7143e122.html",
+     "data": "2026-08-30T19:31:40+00:00"
     }
    ]
   }
