@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-08-30T21:40:21.762302+00:00",
+ "aggiornato": "2026-08-30T23:57:10.510712+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media Iran, 'missili contro obiettivi Usa in Giordania",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/media-iran-missili-contro-obiettivi-usa-in-giordania_f302b44a-4269-4b75-9162-3cf000efc23c.html",
+     "data": "2026-08-30T22:29:01+00:00"
+    },
     {
      "titolo": "Media Iran, 'due morti per il raid su Larak'. Pasdaran, 'puniremo l'aggressore'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/media-iran-due-morti-per-il-raid-su-larak.-pasdaran-puniremo-laggressore_5e166b30-3110-40bf-9930-1b69c39b3b17.html",
@@ -49,11 +54,6 @@
      "titolo": "Tajani sente Di Battista, 'è combattivo, abbiamo parlato di Cuba'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/tajani-sente-di-battista-e-combattivo-abbiamo-parlato-di-cuba_02288a21-7c62-4c54-affc-8492ec4e8b2a.html",
      "data": "2026-08-30T15:26:53+00:00"
-    },
-    {
-     "titolo": "Meloni, cordoglio per Maria Spinelli, due italiani feriti in Svizzera",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/30/meloni-cordoglio-per-maria-spinelli-due-italiani-feriti-in-svizzera_c3c4d6be-4854-48bb-a2a1-c7dbe90c243f.html",
-     "data": "2026-08-30T15:19:27+00:00"
     }
    ]
   },
@@ -311,6 +311,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Media Iran, 'missili contro obiettivi Usa in Giordania",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/31/media-iran-missili-contro-obiettivi-usa-in-giordania_ca9a92dd-ed19-4c8e-a82a-96e74178f1dd.html",
+     "data": "2026-08-30T22:29:05+00:00"
+    },
+    {
      "titolo": "Media Iran, 'due morti per il raid su Larak'. Pasdaran, 'puniremo l'aggressore'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/30/media-iran-due-morti-per-il-raid-su-larak.-pasdaran-puniremo-laggressore_c500fd87-3442-4474-a69e-99643f2f3cb7.html",
      "data": "2026-08-30T20:18:02+00:00"
@@ -364,11 +369,6 @@
      "titolo": "Farnesina, bimbo in coma in Egitto potrebbe tornare nei prossimi giorni",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/30/farnesina-bimbo-in-coma-in-egitto-potrebbe-tornare-nei-prossimi-giorni_01d2adf4-2063-4309-ae90-74a7291e17b0.html",
      "data": "2026-08-30T14:32:00+00:00"
-    },
-    {
-     "titolo": "America Latina, casi di dengue in calo del 60%",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/30/america-latina-casi-di-dengue-in-calo-del-60_1275e7cd-b3e2-4117-b2c2-6c3b9d4442ce.html",
-     "data": "2026-08-30T14:32:06+00:00"
     }
    ]
   },
@@ -441,9 +441,29 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: Pisacane, 'bravi noi a reagire, ma l'Inter ha sicuramente meritato'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/serie-a-pisacane-bravi-noi-a-reagire-ma-linter-ha-sicuramente-meritato_d81bfade-57c2-4830-811e-7d370cdc78a9.html",
+     "data": "2026-08-30T21:49:14+00:00"
+    },
+    {
+     "titolo": "Serie A: Gattuso, 'complimenti ai ragazzi, Tavares sarebbe da Real Madrid'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/serie-a-gattuso-complimenti-ai-ragazzi-tavares-sarebbe-da-real-madrid_b9b2ee80-c109-4f46-be9b-f9a9d897c589.html",
+     "data": "2026-08-30T21:46:11+00:00"
+    },
+    {
+     "titolo": "Serie A: De Rossi, 'il gol ci ha tolto certezze, ci manca verticalità'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/serie-a-de-rossi-il-gol-ci-ha-tolto-certezze-ci-manca-verticalita_9ff55b07-db35-48d9-9741-849fa8c943b0.html",
+     "data": "2026-08-30T21:39:17+00:00"
+    },
+    {
      "titolo": "Colpo del Como che  vince al Maradona, Napoli battuto 2-1 CRONACA e FOTO",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/colpo-del-como-che-vince-al-maradona-napoli-battuto-2-1-cronaca-e-foto_09c4d94d-55dd-4c9e-b355-ef254835db8c.html",
      "data": "2026-08-30T21:35:58+00:00"
+    },
+    {
+     "titolo": "Azzurri verso gli Europei, 3-1 nel test con il Brasile",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/30/azzurri-verso-gli-europei-3-1-nel-test-con-il-brasile_2b8b8a5e-dd10-49cc-a867-7e16720bdf2f.html",
+     "data": "2026-08-30T21:36:42+00:00"
     },
     {
      "titolo": "Frattesi fa volare la Lazio, il Genoa battuto 1-0 all'OlimpicoCRONACA e FOTO",
@@ -468,7 +488,7 @@
     {
      "titolo": "Il Como espunga il Maradona, Inter Milan Juve e Lazio in testa",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/il-como-espunga-il-maradona-inter-milan-juve-e-lazio-in-testa_68dcb63b-4c9d-401d-a01a-8e952754cac2.html",
-     "data": "2026-08-30T21:19:29+00:00"
+     "data": "2026-08-30T21:48:21+00:00"
     },
     {
      "titolo": "Us Open: Stefanini batte Yastremska, derby con Paolini al secondo turno",
@@ -479,26 +499,6 @@
      "titolo": "Serie A: ufficiale De Roon alla Roma, domani raggiungerà la squadra a Lecce",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/serie-a-ufficiale-de-roon-alla-roma-domani-raggiungera-la-squadra-a-lecce_f67a8f78-2ab9-4256-917c-4caa9dd217e7.html",
      "data": "2026-08-30T20:49:39+00:00"
-    },
-    {
-     "titolo": "L'Atalanta saluta De Roon ringraziandolo per \"lo straordinario contributo\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/latalanta-saluta-de-roon-ringraziandolo-per-lo-straordinario-contributo_5abbee9e-e628-4e50-8717-8802d6b930a0.html",
-     "data": "2026-08-30T20:47:52+00:00"
-    },
-    {
-     "titolo": "Serie A: ancora Frattesi a segno, la Lazio batte di misura il Genoa",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/serie-a-ancora-frattesi-a-segno-la-lazio-batte-di-misura-il-genoa_05f2e1f6-7d68-4695-bb98-4b9f99763c9e.html",
-     "data": "2026-08-30T20:46:34+00:00"
-    },
-    {
-     "titolo": "Serie A: basta un gol di Calhanoglu, l'Inter di Chivu passa a Cagliari",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/serie-a-basta-un-gol-di-calhanoglu-linter-di-chivu-passa-a-cagliari_d190c5a2-2f47-4e8f-a486-e0497ad4122b.html",
-     "data": "2026-08-30T20:40:38+00:00"
-    },
-    {
-     "titolo": "Allegri 'dispiace il ko alla prima in casa, serve essere più decisi'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/30/allegri-dispiace-il-ko-alla-prima-in-casa-serve-essere-piu-decisi_5b8d6584-f0e7-498d-80f8-5d7a7143e122.html",
-     "data": "2026-08-30T19:31:40+00:00"
     }
    ]
   }
