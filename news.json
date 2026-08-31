@@ -1,10 +1,45 @@
 {
- "aggiornato": "2026-08-31T16:30:48.700542+00:00",
+ "aggiornato": "2026-08-31T21:40:17.341994+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Corte Suprema, lavori alla sala da ballo possono continuare. Vittoria per Trump",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/corte-suprema-lavori-alla-sala-da-ballo-possono-continuare.-vittoria-per_89d16758-445e-4b15-a3ad-52c1b2d7b1ff.html",
+     "data": "2026-08-31T20:24:42+00:00"
+    },
+    {
+     "titolo": "Trump, Russia al G20 finanziario? Ci piace andare d'accordo con tutti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/trump-russia-al-g20-finanziario-ci-piace-andare-daccordo-con-tutti_b5f18ee5-737a-416c-b9b0-078895898aa9.html",
+     "data": "2026-08-31T20:14:11+00:00"
+    },
+    {
+     "titolo": "'Trump valuta attacchi limitati nello Stretto di Hormuz'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/trump-valuta-attacchi-limitati-nello-stretto-di-hormuz_ebd033e0-27a1-477f-af28-8f5d35e57910.html",
+     "data": "2026-08-31T18:17:32+00:00"
+    },
+    {
+     "titolo": "Tajani, 'Forza Italia cresce ed è sempre più radicata sul territorio'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/tajani-forza-italia-cresce-ed-e-sempre-piu-radicata-sul-territorio_6e4062fb-f757-49b1-8c48-3dff82996e4b.html",
+     "data": "2026-08-31T17:56:08+00:00"
+    },
+    {
+     "titolo": "Sondaggio, Vannacci sale al 7,5% e scavalca Forza Italia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/sondaggio-vannacci-sale-al-75-e-scavalca-forza-italia_975553f3-2e29-455c-8676-c2cfa5627b8e.html",
+     "data": "2026-08-31T17:53:42+00:00"
+    },
+    {
+     "titolo": "Il prezzo del gas si conferma oltre i 70 euro con tensioni Usa-Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/il-prezzo-del-gas-si-conferma-oltre-i-70-euro-con-tensioni-usa-iran_a76c446f-731f-49ff-b740-9aa953d66f5a.html",
+     "data": "2026-08-31T17:31:40+00:00"
+    },
+    {
+     "titolo": "Gip respinge richiesta domiciliari per esecutori attentato a Ranucci",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/gip-respinge-richiesta-domiciliari-per-esecutori-attentato-a-ranucci_d4591deb-7790-433a-8b71-6882755697ab.html",
+     "data": "2026-08-31T16:25:55+00:00"
+    },
     {
      "titolo": "Lo spread tra Btp e Bund chiude in rialzo e sfiora 83 punti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/lo-spread-tra-btp-e-bund-chiude-in-rialzo-e-sfiora-83-punti_8853e9e1-2a69-45ac-8df7-d26337759560.html",
@@ -19,47 +54,17 @@
      "titolo": "Borsa: l'Europa chiude negativa con ripresa scontri Usa-Iran",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/borsa-leuropa-chiude-negativa-con-ripresa-scontri-usa-iran_25fa3ef1-6c10-441e-9c14-e5e9e1829a4b.html",
      "data": "2026-08-31T15:55:54+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude a -0,01%, il petrolio spinge Tenaris, Saipem, Eni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/borsa-milano-chiude-a-001-il-petrolio-spinge-tenaris-saipem-eni_78f41b48-b306-4559-a308-b3dd3755006c.html",
-     "data": "2026-08-31T15:46:18+00:00"
-    },
-    {
-     "titolo": "La Fed infiamma gli spread Ue, Btp e Oat francesi sotto pressione",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/la-fed-infiamma-gli-spread-ue-btp-e-oat-francesi-sotto-pressione_c0547c98-c97d-42be-bbbe-23cf8c6dcf8b.html",
-     "data": "2026-08-31T15:18:59+00:00"
-    },
-    {
-     "titolo": "Il carnevale di Notting Hill compie 60 anni, 'clima tranquillo e festoso'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/il-carnevale-di-notting-hill-compie-60-anni-clima-tranquillo-e-festoso_ed42c36b-ef93-43f0-acca-7ba213a29136.html",
-     "data": "2026-08-31T15:13:13+00:00"
-    },
-    {
-     "titolo": "Cremlino, 'nessun ruolo nella crisi dei migranti a Ceuta'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/cremlino-nessun-ruolo-nella-crisi-dei-migranti-a-ceuta_57d0be6d-df96-44df-b5c6-96940856efb1.html",
-     "data": "2026-08-31T14:26:00+00:00"
-    },
-    {
-     "titolo": "'Torture su 12 ragazzi in istituto minorile',agenti interdetti da servizio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/torture-su-12-ragazzi-in-istituto-minorileagenti-interdetti-da-servizio_b323bf5b-c68b-4fd0-9e0f-9da2c4ddc932.html",
-     "data": "2026-08-31T14:08:25+00:00"
-    },
-    {
-     "titolo": "Bessent, 'economia iraniana non deve collassare, deve solo rinsavire'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/bessent-economia-iraniana-non-deve-collassare-deve-solo-rinsavire_fed83ce8-29e8-4fe4-8297-f531698302f0.html",
-     "data": "2026-08-31T13:57:28+00:00"
-    },
-    {
-     "titolo": "Wall Street apre in calo, Dj -0,56%, Nasdaq -0,14%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/wall-street-apre-in-calo-dj-056-nasdaq-014_c14ac8fd-efde-4b09-936d-4257d20c4385.html",
-     "data": "2026-08-31T13:36:12+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Istat, per l'Umbria nei prossimi anni meno popolazione e più anziana",
+     "link": "https://www.ansa.it/umbria/notizie/2026/08/31/istat-per-lumbria-nei-prossimi-anni-meno-popolazione-e-piu-anziana_29b8e4da-9fff-490d-8e28-b26cc6356d83.html",
+     "data": "2026-08-31T18:36:58+00:00"
+    },
     {
      "titolo": "Patto Avanti, discarica Le Crete ampliata dalla Tesei",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/31/patto-avanti-discarica-le-crete-ampliata-dalla-tesei_e2a276bd-0ef2-49c0-8d17-e71dccad3afa.html",
@@ -114,11 +119,6 @@
      "titolo": "L'Umbria crea un percorso Codice rosa per le donne vittime di violenza",
      "link": "https://www.ansa.it/umbria/notizie/2026/08/31/lumbria-crea-un-percorso-codice-rosa-per-le-donne-vittime-di-violenza_c620a809-0d85-434c-9c56-95efd9f43e1b.html",
      "data": "2026-08-31T13:51:35+00:00"
-    },
-    {
-     "titolo": "Al via a settembre il nuovo corso per volontari Aucc",
-     "link": "https://www.ansa.it/umbria/notizie/2026/08/31/al-via-a-settembre-il-nuovo-corso-per-volontari-aucc_6a45dae9-924b-437d-b49b-0a8e24cc41ee.html",
-     "data": "2026-08-31T10:34:39+00:00"
     }
    ]
   },
@@ -126,64 +126,64 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Gip respinge richiesta domiciliari per esecutori attentato a Ranucci",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/gip-respinge-richiesta-domiciliari-per-esecutori-attentato-a-ranucci_745cbed4-e628-4d9f-b131-909f70071035.html",
-     "data": "2026-08-31T16:25:47+00:00"
+     "titolo": "Muro contro muro tra Roma e Madrid, Schengen resta bloccato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/muro-contro-muro-tra-roma-e-madrid-schengen-resta-bloccato_bf0f73fd-6df0-4787-83ca-bc09b91ef828.html",
+     "data": "2026-08-31T21:36:53+00:00"
     },
     {
-     "titolo": "Consegnata una petizione per impedire il raduno naziskin in Trentino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/consegnata-una-petizione-per-impedire-il-raduno-naziskin-in-trentino_d83346aa-c98a-4fdf-ace4-81914f009631.html",
-     "data": "2026-08-31T16:14:06+00:00"
+     "titolo": "Punto da una vespa, sindacalista 38enne muore in valle Varaita",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/punto-da-una-vespa-sindacalista-38enne-muore-in-valle-varaita_909b6cdc-518a-4db4-a801-917e0acb0f6f.html",
+     "data": "2026-08-31T19:15:23+00:00"
     },
     {
-     "titolo": "'Uccise moglie e suocera', il 19 novembre la Cassazione per Amato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/uccise-moglie-e-suocera-il-19-novembre-la-cassazione-per-amato_be3188c1-d686-4fab-8bcf-237fe9f6a99d.html",
-     "data": "2026-08-31T16:13:07+00:00"
+     "titolo": "Grandinata su Bressanone e la valle Isarco",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/grandinata-su-bressanone-e-la-valle-isarco_5a321df0-4025-4310-b6b8-245cc79b85b8.html",
+     "data": "2026-08-31T19:04:52+00:00"
     },
     {
-     "titolo": "Ritrovato morto il 22enne escursionista disperso nel Gruppo del Fumante",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/ritrovato-morto-il-22enne-escursionista-disperso-nel-gruppo-del-fumante_f6f3ca18-7a01-4062-bf0a-9b84d4168488.html",
-     "data": "2026-08-31T16:11:35+00:00"
+     "titolo": "Domani al via il nuovo anno scolastico",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/domani-al-via-il-nuovo-anno-scolastico_33b10d07-3985-49f4-a412-b5b72f051a15.html",
+     "data": "2026-08-31T18:35:06+00:00"
     },
     {
-     "titolo": "Blengino (Radicali), carcere Marassi sovraffollato e sottorganico",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/blengino-radicali-carcere-marassi-sovraffollato-e-sottorganico_0dd26483-c2a2-4408-8e9d-29103f5dbe3e.html",
-     "data": "2026-08-31T16:10:59+00:00"
+     "titolo": "Ex assessore di Voghera condannato per omicidio, 'non fu legittima difesa'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/ex-assessore-di-voghera-condannato-per-omicidio-non-fu-legittima-difesa_3fe3608d-9db6-423d-b6ba-c4a67cd29e95.html",
+     "data": "2026-08-31T18:25:55+00:00"
     },
     {
-     "titolo": "Pedone travolto e ucciso da un mezzo pesante a Milano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/pedone-travolto-e-ucciso-da-un-mezzo-pesante-a-milano_16b44c01-759d-4993-bcaa-c9447a8e99a2.html",
-     "data": "2026-08-31T16:01:30+00:00"
+     "titolo": "Verbania, il caldo cambia l'aspetto dei giardini botanici di Villa Taranto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/verbania-il-caldo-cambia-laspetto-dei-giardini-botanici-di-villa-taranto_d5641c76-4bdc-4698-8ef6-eea81244fafb.html",
+     "data": "2026-08-31T18:15:30+00:00"
     },
     {
-     "titolo": "Pedone travolto e ucciso da un mezzo pesante a Milano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/pedone-travolto-e-ucciso-da-un-mezzo-pesante-a-milano_d2f719a7-c6b7-4958-b98f-aafe06ad8da4.html",
-     "data": "2026-08-31T15:53:09+00:00"
+     "titolo": "Malore in campo, muore allenatore delle giovanili del Giulianova Calcio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/malore-in-campo-muore-allenatore-delle-giovanili-del-giulianova-calcio_57632efa-d942-4b8d-8522-947c85b2ccbe.html",
+     "data": "2026-08-31T17:51:43+00:00"
     },
     {
-     "titolo": "Incastrato in un mezzo agricolo, muore 41enne nel Ferrarese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/incastrato-in-un-mezzo-agricolo-muore-41enne-nel-ferrarese_f1ab8c51-ade5-472a-9ef7-9807ae6f9cf2.html",
-     "data": "2026-08-31T14:55:59+00:00"
+     "titolo": "Perde borsello con 600 euro al cimitero, addetto del Comune glielo restituisce",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/perde-borsello-con-600-euro-al-cimitero-addetto-del-comune-glielo_bfb20ab8-6e72-4fb2-85c9-1baf63531783.html",
+     "data": "2026-08-31T17:45:16+00:00"
     },
     {
-     "titolo": "'Sono bravo nel taekwondo' e colpisce un collega, licenziato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/sono-bravo-nel-taekwondo-e-colpisce-un-collega-licenziato_59024d85-776f-4e05-b22b-2fab3b3b9c59.html",
-     "data": "2026-08-31T14:29:49+00:00"
+     "titolo": "In bici sulla rotta balcanica 'per documentare il dramma dei migranti'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/in-bici-sulla-rotta-balcanica-per-documentare-il-dramma-dei-migranti_6f3e2659-50a2-4009-8569-ad182871d24d.html",
+     "data": "2026-08-31T17:24:09+00:00"
     },
     {
-     "titolo": "L'Italia si spopola, nel 2080 oltre 13 milioni di residenti in meno",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/nel-2080-oltre-13-milioni-di-residenti-in-meno-in-italia_ed953163-8e25-4a22-ad2c-46fcd4057e5d.html",
-     "data": "2026-08-31T16:19:40+00:00"
+     "titolo": "Chiese profanate e ostie rubate, tre casi nel fine settimana",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/chiese-profanate-e-ostie-rubate-tre-casi-nel-fine-settimana_6121fcf3-99f8-46b5-b175-09fc2dfe53cc.html",
+     "data": "2026-08-31T17:14:16+00:00"
     },
     {
-     "titolo": "'All'estero per realizzarsi', gli amici ricordano la ragazza uccisa al rave",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/allestero-per-realizzarsi-gli-amici-ricordano-la-ragazza-uccisa-al-rave_50d38ca4-f9f1-4b27-91d1-83e8392d38ff.html",
-     "data": "2026-08-31T14:08:29+00:00"
+     "titolo": "Tappa a Trieste per la carovana per la pace Peace Walk to Jerusalem",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/tappa-a-trieste-per-la-carovana-per-la-pace-peace-walk-to-jerusalem_70247442-852e-4d1d-b59c-bb91ad65d905.html",
+     "data": "2026-08-31T16:50:15+00:00"
     },
     {
-     "titolo": "'Torture su 12 ragazzi in istituto minorile',agenti interdetti da servizio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/torture-su-12-ragazzi-in-istituto-minorileagenti-interdetti-da-servizio_6fe10d49-ec91-4713-8efc-73d637280d81.html",
-     "data": "2026-08-31T14:08:42+00:00"
+     "titolo": "Riccardi (Fvg), nessun ruolo su concerto Bocelli, denuncio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/riccardi-fvg-nessun-ruolo-su-concerto-bocelli-denuncio_4f55a00a-4c7e-4877-a791-b7eb490e6578.html",
+     "data": "2026-08-31T16:39:40+00:00"
     }
    ]
   },
@@ -191,14 +191,34 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "La redazione di Report pronta allo sciopero, si cerca una mediazione",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/31/la-redazione-di-report-pronta-allo-sciopero-si-cerca-una-mediazione_204d28d8-f272-416e-bf53-ebf71cbd7c9e.html",
+     "data": "2026-08-31T19:29:56+00:00"
+    },
+    {
+     "titolo": "Rebus ballottaggio, dal centrodestra verranno presentati più emendamenti",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/31/rebus-ballottaggio-dal-centrodestra-verranno-presentati-piu-emendamenti_05a6f9be-e7cd-46d8-bf56-f444b803669b.html",
+     "data": "2026-08-31T19:26:28+00:00"
+    },
+    {
+     "titolo": "Tajani, 'Forza Italia cresce ed è sempre più radicata sul territorio'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/31/tajani-forza-italia-cresce-ed-e-sempre-piu-radicata-sul-territorio_3a06d25f-7698-4965-b884-a5dc24c1a1a4.html",
+     "data": "2026-08-31T17:56:02+00:00"
+    },
+    {
+     "titolo": "Sondaggio, Vannacci sale al 7,5% e scavalca Forza Italia",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/31/sondaggio-vannacci-sale-al-75-e-scavalca-forza-italia_9599efae-1d96-46e4-959d-e4e0b4e69b11.html",
+     "data": "2026-08-31T17:53:20+00:00"
+    },
+    {
+     "titolo": "Giorgetti rassicura sul debito, il pressing dei partiti sulla manovra",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/31/giorgetti-rassicura-sul-debito-il-pressing-dei-partiti-sulla-manovra_c47e60b7-a4cd-4da7-9014-fe35591818a5.html",
+     "data": "2026-08-31T19:45:23+00:00"
+    },
+    {
      "titolo": "Vannacci al centrodestra: \"Il ballottaggio mossa della paura, ma non eravamo irrilevanti?\"",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/31/vannacci-ballottaggio-mossa-della-paura-ma-non-eravamo-irrilevanti_57a5a016-41f7-4969-b56a-8ec00901f8f2.html",
      "data": "2026-08-31T14:13:50+00:00"
-    },
-    {
-     "titolo": "L'assemblea dei giornalisti di Report: 'Stato di agitazione, pronti allo sciopero'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/31/lassemblea-dei-giornalisti-di-report-stato-di-agitazione-pronti-allo-sciopero_204d28d8-f272-416e-bf53-ebf71cbd7c9e.html",
-     "data": "2026-08-31T14:31:40+00:00"
     },
     {
      "titolo": "L'Italia proroga la sospensione di Schengen con la Spagna per 15 giorni",
@@ -211,14 +231,14 @@
      "data": "2026-08-31T09:17:00+00:00"
     },
     {
-     "titolo": "Dario Franceschini: \"Convivo con il Parkinson, è stata una botta tremenda\"",
+     "titolo": "Dario Franceschini schock: \"Convivo con il Parkinson, è stata una botta tremenda\"",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/31/dario-franceschini-convivo-con-il-parkinson-e-stata-una-botta-tremenda_35b3837a-34ec-4555-acf3-8401e6ede204.html",
-     "data": "2026-08-31T11:58:52+00:00"
+     "data": "2026-08-31T17:48:30+00:00"
     },
     {
-     "titolo": "Arrivati a Cuba la compagna di Alessandro Di Battista e i medici del Gemelli",
+     "titolo": "Alessandro Di Battista ricoverato a Cuba: ore di attesa, adesso resta all'Avana",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/31/arrivati-allavana-la-compagna-di-di-battista-e-i-medici-del-gemelli_88a95efc-5ce7-4071-8fac-212ad2b2ed5b.html",
-     "data": "2026-08-31T12:21:20+00:00"
+     "data": "2026-08-31T17:53:50+00:00"
     },
     {
      "titolo": "Di Battista: 'Ce la metto tutta per tornare presto'. La telefonata con Tajani",
@@ -229,32 +249,27 @@
      "titolo": "Meloni e il record di longevità: 'Manca solo l'invasione delle cavallette...'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/30/meloni-e-il-record-di-longevita-manca-solo-linvasione-delle-cavallette..._9c56b76f-c1be-461e-b806-f8f6ac051d1e.html",
      "data": "2026-08-30T21:38:47+00:00"
-    },
-    {
-     "titolo": "Dall'Aula alla piazza, il centrosinistra prepara battaglia sulla legge elettorale",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/30/dallaula-alla-piazza-il-centrosinistra-prepara-battaglia-sulla-legge-elettorale_37d18f32-d0ab-4cc7-9597-25b4c76b0a8b.html",
-     "data": "2026-08-30T19:57:34+00:00"
-    },
-    {
-     "titolo": "La Russa, Meloni sarebbe splendida presidente della Repubblica ma non questa volta",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/30/la-russa-meloni-sarebbe-splendida-presidente-della-repubblica-ma-non-questa-volta_a24ffb91-cea5-4575-997b-0d0e696dcecc.html",
-     "data": "2026-08-30T18:25:54+00:00"
-    },
-    {
-     "titolo": "Settimana di confronto su Report. Ranucci: 'Mi difendo da solo'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/30/settimana-di-confronto-su-report.-ranucci-mi-difendo-da-solo_7fec83ce-e240-4b98-93b5-b772fce9b9d4.html",
-     "data": "2026-08-30T21:38:09+00:00"
-    },
-    {
-     "titolo": "La Russa, mai chiesto sostituzione Ranucci, che Dio ce lo conservi",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/08/30/la-russa-mai-chiesto-sostituzione-ranucci-che-dio-ce-lo-conservi_cc710327-666c-4ca4-84a2-3ac42f98d541.html",
-     "data": "2026-08-30T17:33:43+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Il petrolio chiude in rialzo a New York a 85,76 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/il-petrolio-chiude-in-rialzo-a-new-york-a-8576-dollari_1469e05f-a64b-4708-93e5-8f331e114c6c.html",
+     "data": "2026-08-31T18:41:27+00:00"
+    },
+    {
+     "titolo": "Il prezzo del gas si conferma oltre i 70 euro con tensioni Usa-Iran",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/il-prezzo-del-gas-si-conferma-oltre-i-70-euro-con-tensioni-usa-iran_72001a9a-1540-41a7-b8bb-bc39fac8d148.html",
+     "data": "2026-08-31T17:31:43+00:00"
+    },
+    {
+     "titolo": "Settembre caldo per il risiko, lente sulla sfida Intesa-Mps",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/settembre-caldo-per-il-risiko-lente-sulla-sfida-intesa-mps_0b31da9f-6fe0-4c2b-8902-6e8668422a6d.html",
+     "data": "2026-08-31T20:06:03+00:00"
+    },
     {
      "titolo": "Lo spread tra Btp e Bund chiude in rialzo e sfiora 83 punti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/lo-spread-tra-btp-e-bund-chiude-in-rialzo-e-sfiora-83-punti_af3842b6-a957-41ba-9554-6c81bfbc68db.html",
@@ -266,9 +281,9 @@
      "data": "2026-08-31T15:55:57+00:00"
     },
     {
-     "titolo": "Borsa: Milano chiude a -0,01%, il petrolio spinge Tenaris, Saipem, Eni",
+     "titolo": "Borsa: Milano chiude piatta, il petrolio spinge Tenaris, Saipem, Eni",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/borsa-milano-chiude-a-001-il-petrolio-spinge-tenaris-saipem-eni_b655e711-9c03-4cd0-8a92-25ec06fca623.html",
-     "data": "2026-08-31T15:46:16+00:00"
+     "data": "2026-08-31T16:29:30+00:00"
     },
     {
      "titolo": "La Fed infiamma gli spread Ue, Btp e Oat francesi sotto pressione",
@@ -278,7 +293,7 @@
     {
      "titolo": "Shein, domani Ipo da 1,5 miliardi di euro, gruppo vale 22,6 miliardi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/shein-domani-ipo-da-15-miliardi-di-euro-gruppo-vale-226-miliardi_1e829553-9fea-45b6-95c0-edd0a9e0e45a.html",
-     "data": "2026-08-31T14:57:42+00:00"
+     "data": "2026-08-31T16:29:49+00:00"
     },
     {
      "titolo": "Lega, per la manovra proporremo bonus contro il caro-energia e flat tax giovani",
@@ -299,27 +314,47 @@
      "titolo": "Oggi l'ultimo giorno di Cook alla guida di Apple, si apre l'era Ternus",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/oggi-lultimo-giorno-di-cook-alla-guida-di-apple-si-apre-lera-ternus_6207664c-087c-4428-a582-3c844e59d7fd.html",
      "data": "2026-08-31T13:24:33+00:00"
-    },
-    {
-     "titolo": "Al via ad Asheville i lavori del G20 Finanze, focus su sanzioni a Iran",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/al-via-ad-asheville-i-lavori-del-g20-finanze-focus-su-sanzioni-a-iran_7e66c07e-e273-4f5a-93d8-ceff11b43401.html",
-     "data": "2026-08-31T13:18:40+00:00"
-    },
-    {
-     "titolo": "FI, per manovra puntiamo a flat tax incrementale e cashback sanitario",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/fi-per-manovra-puntiamo-a-flat-tax-incrementale-e-cashback-sanitario_c0e90d1d-8697-4b20-9706-772bafd14cbc.html",
-     "data": "2026-08-31T12:59:28+00:00"
-    },
-    {
-     "titolo": "Arnaud Belloni nuovo ceo di Fiat, Abarth e Lancia e Cmo Stellantis per l'Europa",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/arnaud-belloni-nuovo-ceo-di-fiat-abarth-e-lancia-e-cmo-stellantis-per_cb646a2b-d316-4b86-a1a7-391ac33d78df.html",
-     "data": "2026-08-31T15:21:24+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Tartaglia Polcini, 'Italia-Brasile esempio di cooperazione antimafia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/31/tartaglia-polcini-italia-brasile-esempio-di-cooperazione-antimafia_4d4a09d9-845a-41dd-a1fc-eacad65c4f26.html",
+     "data": "2026-08-31T21:04:57+00:00"
+    },
+    {
+     "titolo": "Corte Suprema, lavori alla sala da ballo possono continuare. Vittoria per Trump",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/31/corte-suprema-lavori-alla-sala-da-ballo-possono-continuare.-vittoria-per_d9b4f76f-fae1-40f3-8e7b-b051348a45b1.html",
+     "data": "2026-08-31T20:25:00+00:00"
+    },
+    {
+     "titolo": "Trump, Russia al G20 finanziario? Ci piace andare d'accordo con tutti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/31/trump-russia-al-g20-finanziario-ci-piace-andare-daccordo-con-tutti_9c27bc7c-0d53-4e18-83a8-de9fbd6c553a.html",
+     "data": "2026-08-31T20:14:11+00:00"
+    },
+    {
+     "titolo": "Scontri fra migranti a Ceuta, la polizia spara in aria per disperdere la ressa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/31/scontri-fra-migranti-a-ceuta-la-polizia-spara-in-aria-per-disperdere-la-ressa_b00f6aa2-8cdb-445d-affa-516cba79e741.html",
+     "data": "2026-08-31T18:48:01+00:00"
+    },
+    {
+     "titolo": "Elezioni in Brasile, sospesa la campagna del candidato di destra Renan Santos",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/31/elezioni-in-brasile-sospesa-la-campagna-del-candidato-di-destra-renan-santos_6fe4fb28-243b-4364-8383-eb4d6486fd38.html",
+     "data": "2026-08-31T18:25:37+00:00"
+    },
+    {
+     "titolo": "'Trump valuta attacchi limitati nello Stretto di Hormuz'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/31/trump-valuta-attacchi-limitati-nello-stretto-di-hormuz_967b4148-7fa5-48b2-bd7c-71840b6d6f7e.html",
+     "data": "2026-08-31T18:17:50+00:00"
+    },
+    {
+     "titolo": "Il Fondo monetario promuove il Paraguay, confermata stima di crescita al 4,4% nel 2026",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/31/il-fondo-monetario-promuove-il-paraguay-confermata-stima-di-crescita-al-44-nel-2026_7d6c3d62-d719-459c-8451-ad679ecf86a9.html",
+     "data": "2026-08-31T17:39:31+00:00"
+    },
     {
      "titolo": "Inondazioni nel Grand Canyon, sale a due il numero dei morti",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/31/inondazioni-nel-grand-canyon-sale-a-due-il-numero-dei-morti_8264d753-4b8c-4342-b68a-ad59767e6808.html",
@@ -344,41 +379,6 @@
      "titolo": "L'Egitto allo Sco di Bishkek in attesa di ricevere Xi",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/31/legitto-allo-sco-di-bishkek-in-attesa-di-ricevere-xi_8a803475-6cb4-4c16-b807-b1db9691eb93.html",
      "data": "2026-08-31T14:12:19+00:00"
-    },
-    {
-     "titolo": "Bessent, 'economia iraniana non deve collassare, deve solo rinsavire'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/31/bessent-economia-iraniana-non-deve-collassare-deve-solo-rinsavire_08d6e02f-7076-4b69-8dc0-78afcdc9e464.html",
-     "data": "2026-08-31T14:21:07+00:00"
-    },
-    {
-     "titolo": "Brasile, la siccità minaccia la navigazione sul Rio delle Amazzoni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/31/brasile-la-siccita-minaccia-la-navigazione-sul-rio-delle-amazzoni_c1d3c07a-b6e3-412e-8177-611cbf3704fe.html",
-     "data": "2026-08-31T13:35:58+00:00"
-    },
-    {
-     "titolo": "Trump, risponderemo all'attacco dell'Iran, li colpiremo duramente",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/31/trump-risponderemo-allattacco-delliran-li-colpiremo-duramente_569c7e57-21c0-4f59-a0eb-270ca4b369ce.html",
-     "data": "2026-08-31T13:24:41+00:00"
-    },
-    {
-     "titolo": "Elezioni in Brasile, Lula ancora avanti ma il vantaggio su Bolsonaro si riduce",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/31/elezioni-in-brasile-lula-ancora-avanti-ma-il-vantaggio-su-bolsonaro-si-riduce_48f98278-2d4f-49bc-a9e7-b1a2655366c1.html",
-     "data": "2026-08-31T12:33:05+00:00"
-    },
-    {
-     "titolo": "Scontri fra migranti a Ceuta, polizia spara in aria per disperdere la ressa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/31/scontri-fra-migranti-a-ceuta-polizia-spara-in-aria-per-disperdere-la-ressa_18518736-7863-4253-9898-10a3db16717a.html",
-     "data": "2026-08-31T11:21:12+00:00"
-    },
-    {
-     "titolo": "Uccisa al rave, arrestato svizzero di 43 anni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/31/uccisa-al-rave-arrestato-svizzero-di-43-anni_30224984-9ffb-43f3-8c89-0aebd473b6d6.html",
-     "data": "2026-08-31T11:13:17+00:00"
-    },
-    {
-     "titolo": "Madrid proroga i controlli sugli arrivi dall'Italia per due settimane",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/31/madrid-proroga-i-controlli-sugli-arrivi-dallitalia-per-due-settimane_fcf788c7-b62d-4e73-9861-34091732c9cb.html",
-     "data": "2026-08-31T11:15:06+00:00"
     }
    ]
   },
@@ -451,64 +451,64 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Serie A: Lecce-Roma 0-0 DIRETTA e FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/serie-a-lecce-roma-0-0-diretta-e-foto_42b4a8f6-586c-478b-948b-b20f8994f1b0.html",
-     "data": "2026-08-31T16:18:21+00:00"
+     "titolo": "Liga: doppiette di Yamal e di Raphinha, il Barcellona batte Rayo Vallecano 5-2",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/liga-doppiette-di-yamal-e-di-raphinha-il-barcellona-batte-rayo-vallecano-5-2_f73bd417-284c-4f43-9417-cf1312d22dd4.html",
+     "data": "2026-08-31T21:33:06+00:00"
     },
     {
-     "titolo": "Lionel Messi annuncia il suo ritiro dalla nazionale: 'Non ho più nulla da dare'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/lionel-messi-annuncia-il-suo-ritiro-dalla-nazionale-non-ho-piu-nulla_cb445748-e735-4eb4-bab3-3d92b2040aed.html",
-     "data": "2026-08-31T16:09:17+00:00"
+     "titolo": "La Roma strapazza il Lecce 4-0,  Malen implacabile CRONACA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/la-roma-strapazza-il-lecce-4-0-malen-implacabile-cronaca-e-foto_42b4a8f6-586c-478b-948b-b20f8994f1b0.html",
+     "data": "2026-08-31T21:26:47+00:00"
     },
     {
-     "titolo": "Il Cagliari punta su Sugawara per sostituire Zappa sulla fascia destra",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/il-cagliari-punta-su-sugawara-per-sostituire-zappa-sulla-fascia-destra_66f743fd-693c-4d4b-b370-99a1e4d7c9f9.html",
-     "data": "2026-08-31T15:22:06+00:00"
+     "titolo": "Un lampo di Samardzic al 96' premia una brutta Atalanta su un buon Bologna",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/un-lampo-di-samardzic-al-96-premia-una-brutta-atalanta-su-un-buon-bologna_d5812b44-863c-46e1-8b1d-53a898922257.html",
+     "data": "2026-08-31T21:19:22+00:00"
     },
     {
-     "titolo": "Eurovolley: 3-0 alla Bulgaria, le azzurre si qualificano ai quarti",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/31/eurovolley-3-0-alla-bulgaria-le-azzurre-si-qualificano-ai-quarti_aef1f7b0-dc3a-492f-827d-e2686d72e40f.html",
-     "data": "2026-08-31T15:20:20+00:00"
+     "titolo": "Assist di Calafiori e gol di Saka, l'Arsenal batte l'Aston Villa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/assist-di-calafiori-e-gol-di-saka-larsenal-batte-laston-villa_43676ca8-4e55-4dda-98de-bd2cabb72882.html",
+     "data": "2026-08-31T21:15:11+00:00"
     },
     {
-     "titolo": "Juventus: c'è lesione per Ekhator, torna tra due mesi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/juventus-ce-lesione-per-ekhator-torna-tra-due-mesi_1e750cfd-c9a6-4976-adce-d608e1ec2958.html",
-     "data": "2026-08-31T15:06:17+00:00"
+     "titolo": "Eurovolley: sarà la Svezia l'avversaria delle azzurre ai quarti",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/08/31/eurovolley-sara-la-svezia-lavversaria-delle-azzurre-ai-quarti_02e5e45c-edc7-45d3-ac7f-94a8aff34784.html",
+     "data": "2026-08-31T20:58:47+00:00"
     },
     {
-     "titolo": "Calcio: Juve; Yildiz si è operato al piede ad Augsburg, out tre mesi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/calcio-juve-yildiz-si-e-operato-al-piede-ad-augsburg-out-tre-mesi_d85f8b95-78c8-4751-815b-cf928a02f129.html",
-     "data": "2026-08-31T15:04:33+00:00"
+     "titolo": "Us Open: Arnaldi eliminato, vince Duckworth in quattro set",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/31/us-open-arnaldi-eliminato-vince-duckworth-in-quattro-set_0d7fbb9c-ef27-4fd1-89a4-57b06980cd8f.html",
+     "data": "2026-08-31T20:49:46+00:00"
     },
     {
-     "titolo": "Atalanta: è fatta col Bologna per Rowe, prestiti con obbligo di riscatto",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/atalanta-e-fatta-col-bologna-per-rowe-prestiti-con-obbligo-di-riscatto_813a92e7-00ea-4c64-a397-78b5ca0b70f2.html",
-     "data": "2026-08-31T15:00:43+00:00"
+     "titolo": "Serie A: Samardzic all'ultimo sorprende Skorupski, l'Atalanta beffa il Bologna 1-0",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/serie-a-samardzic-allultimo-sorprende-skorupski-latalanta-beffa-il-bologna-1-0_f78e6334-d5fb-4c4e-ac45-9d93fdc00246.html",
+     "data": "2026-08-31T20:42:27+00:00"
     },
     {
-     "titolo": "F1: Milei annuncia che l'Argentina mira a organizzare un gran premio",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/31/f1-milei-annuncia-che-largentina-mira-a-organizzare-un-gran-premio_cf4a3b4d-7954-4ecd-9ca2-35721a2aad81.html",
-     "data": "2026-08-31T14:49:29+00:00"
+     "titolo": "Us Open: ritorno con vittoria per Alcaraz, lo spagnolo è in forma Slam",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/31/us-open-ritorno-con-vittoria-per-alcaraz-lo-spagnolo-e-in-forma-slam_5a79f697-cd9a-42cc-a23f-d16ed41950c0.html",
+     "data": "2026-08-31T20:25:42+00:00"
     },
     {
-     "titolo": "Virale la lite tra De Rossi e un giornalista, vista 220 mila volte su X",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/virale-la-lite-tra-de-rossi-e-un-giornalista-vista-220-mila-volte-su-x_8e04bee4-89d4-426a-9c2f-daff8a15d70d.html",
-     "data": "2026-08-31T13:54:53+00:00"
+     "titolo": "Altro ko per l'Italbasket verso i Mondiali, la Serbia di Jokic vince a Pesaro",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/31/altro-ko-per-litalbasket-verso-i-mondiali-la-serbia-di-jokic-vince-a-pesaro_8822292c-cfc0-4460-b99e-053e1ab30473.html",
+     "data": "2026-08-31T20:23:11+00:00"
     },
     {
-     "titolo": "Atletica: Crippa è tra i 10 azzurri per mondiali di corsa su strada",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/31/atletica-crippa-e-tra-i-10-azzurri-per-mondiali-di-corsa-su-strada_1e971db3-a72f-4e92-825e-fd865990e406.html",
-     "data": "2026-08-31T13:55:43+00:00"
+     "titolo": "La Serbia batte l'Italia, nuovo stop nelle qualificazioni mondiali",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/31/la-serbia-batte-litalia-nuovo-stop-nelle-qualificazioni-mondiali_dee79073-4ec4-4b22-8206-a73830394b0b.html",
+     "data": "2026-08-31T19:50:24+00:00"
     },
     {
-     "titolo": "Scelte le 12 azzurre per i Mondiali, domani la partenza per Berlino",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/31/scelte-le-12-azzurre-per-i-mondiali-domani-la-partenza-per-berlino_5d63cd7d-1fb0-4329-891f-43d40adc8481.html",
-     "data": "2026-08-31T13:53:27+00:00"
+     "titolo": "Juve: arriva Sarr, visite mediche al J Medical",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/juve-arriva-sarr-visite-mediche-al-j-medical_def7cf7b-3a93-44ac-b903-665054697250.html",
+     "data": "2026-08-31T19:44:09+00:00"
     },
     {
-     "titolo": "Ufficiale Barcola al Liverpool per oltre 120 milioni di euro",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/ufficiale-barcola-al-liverpool-per-oltre-120-milioni-di-euro_f0295a35-07a2-49fe-92cf-c9b5ee630196.html",
-     "data": "2026-08-31T13:17:38+00:00"
+     "titolo": "Serie A: Hutchinson arriva al Milan in prestito dal Nottingham Forest",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/serie-a-hutchinson-arriva-al-milan-in-prestito-dal-nottingham-forest_8851c20d-b14c-4761-9b47-6c199292b154.html",
+     "data": "2026-08-31T19:34:38+00:00"
     }
    ]
   }
