@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-08-31T10:15:25.750622+00:00",
- "data": "2026-08-31",
- "testo": "Sole già basso\nsul portone di quercia\ngraffio di gatto",
- "nota": "Nel tardo pomeriggio sereno un gatto affila le unghie su un vecchio portone.",
+ "aggiornato": "2026-09-01T09:00:21.091890+00:00",
+ "data": "2026-09-01",
+ "testo": "Grigia mattina\nsul muro dell'orto scioglie\nla vite un pampino",
+ "nota": "Sul muro dell'orto una foglia di vite già si arrossa nel cielo coperto.",
  "archivio": [
+  {
+   "data": "2026-09-01",
+   "testo": "Grigia mattina\nsul muro dell'orto scioglie\nla vite un pampino",
+   "nota": "Sul muro dell'orto una foglia di vite già si arrossa nel cielo coperto."
+  },
   {
    "data": "2026-08-31",
    "testo": "Sole già basso\nsul portone di quercia\ngraffio di gatto",
