@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-08-31T21:40:17.341994+00:00",
+ "aggiornato": "2026-09-01T00:49:30.036321+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,81%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/01/borsa-tokyo-apertura-in-calo-081_e92cd5aa-518b-4567-9583-01f51ca8c024.html",
+     "data": "2026-09-01T00:35:02+00:00"
+    },
+    {
+     "titolo": "Us Open: Berrettini e Darderi al secondo turno, Cocciaretto eliminata",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/01/us-open-berrettini-e-darderi-al-secondo-turno-cocciaretto-eliminata_3037b3e7-f702-469d-b7f9-abd4a767ab6e.html",
+     "data": "2026-08-31T23:57:30+00:00"
+    },
+    {
+     "titolo": "Il segretario dell'esercito Usa si è dimesso dopo mesi di tensioni con Hegseth",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/01/il-segretario-dellesercito-usa-si-e-dimesso-dopo-mesi-di-tensioni-con-hegseth_546da9f7-bac5-4183-b61a-99b566a0f3a4.html",
+     "data": "2026-08-31T22:02:52+00:00"
+    },
     {
      "titolo": "Corte Suprema, lavori alla sala da ballo possono continuare. Vittoria per Trump",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/corte-suprema-lavori-alla-sala-da-ballo-possono-continuare.-vittoria-per_89d16758-445e-4b15-a3ad-52c1b2d7b1ff.html",
@@ -39,21 +54,6 @@
      "titolo": "Gip respinge richiesta domiciliari per esecutori attentato a Ranucci",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/gip-respinge-richiesta-domiciliari-per-esecutori-attentato-a-ranucci_d4591deb-7790-433a-8b71-6882755697ab.html",
      "data": "2026-08-31T16:25:55+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude in rialzo e sfiora 83 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/lo-spread-tra-btp-e-bund-chiude-in-rialzo-e-sfiora-83-punti_8853e9e1-2a69-45ac-8df7-d26337759560.html",
-     "data": "2026-08-31T16:13:27+00:00"
-    },
-    {
-     "titolo": "Inondazioni nel Grand Canyon, sale a due il numero dei morti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/inondazioni-nel-grand-canyon-sale-a-due-il-numero-dei-morti_97d18e83-c503-4aa1-9e15-b4366e8e489c.html",
-     "data": "2026-08-31T15:56:21+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude negativa con ripresa scontri Usa-Iran",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/08/31/borsa-leuropa-chiude-negativa-con-ripresa-scontri-usa-iran_25fa3ef1-6c10-441e-9c14-e5e9e1829a4b.html",
-     "data": "2026-08-31T15:55:54+00:00"
     }
    ]
   },
@@ -173,7 +173,7 @@
     {
      "titolo": "Chiese profanate e ostie rubate, tre casi nel fine settimana",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/chiese-profanate-e-ostie-rubate-tre-casi-nel-fine-settimana_6121fcf3-99f8-46b5-b175-09fc2dfe53cc.html",
-     "data": "2026-08-31T17:14:16+00:00"
+     "data": "2026-08-31T22:03:21+00:00"
     },
     {
      "titolo": "Tappa a Trieste per la carovana per la pace Peace Walk to Jerusalem",
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,81%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/01/borsa-tokyo-apertura-in-calo-081_921d68e7-612c-406b-8af9-c42006f6ec96.html",
+     "data": "2026-09-01T00:35:19+00:00"
+    },
+    {
      "titolo": "Il petrolio chiude in rialzo a New York a 85,76 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/il-petrolio-chiude-in-rialzo-a-new-york-a-8576-dollari_1469e05f-a64b-4708-93e5-8f331e114c6c.html",
      "data": "2026-08-31T18:41:27+00:00"
@@ -309,17 +314,37 @@
      "titolo": "Wall Street apre in calo, Dj -0,56%, Nasdaq -0,14%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/wall-street-apre-in-calo-dj-056-nasdaq-014_f336bc77-6894-4324-b40b-cb323b4efc24.html",
      "data": "2026-08-31T13:36:17+00:00"
-    },
-    {
-     "titolo": "Oggi l'ultimo giorno di Cook alla guida di Apple, si apre l'era Ternus",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/oggi-lultimo-giorno-di-cook-alla-guida-di-apple-si-apre-lera-ternus_6207664c-087c-4428-a582-3c844e59d7fd.html",
-     "data": "2026-08-31T13:24:33+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Brasile: Toffoli dà 24 ore a Santos, candidatura presidenziale a rischio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/01/brasile-toffoli-da-24-ore-a-santos-candidatura-presidenziale-a-rischio_9a73ab8e-713e-4647-b039-3e437793f1e9.html",
+     "data": "2026-08-31T23:52:26+00:00"
+    },
+    {
+     "titolo": "Il segretario dell'esercito Usa si è dimesso dopo mesi di tensioni con Hegseth",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/01/il-segretario-dellesercito-usa-si-e-dimesso-dopo-mesi-di-tensioni-con-hegseth_c575ce72-1a34-49c5-a1e7-c3590b277a3a.html",
+     "data": "2026-08-31T22:02:52+00:00"
+    },
+    {
+     "titolo": "Messico, otto giornalisti uccisi nel 2026, quasi uno al mese",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/31/messico-otto-giornalisti-uccisi-nel-2026-quasi-uno-al-mese_113a38f0-96dc-4ba4-89ec-4c2f0ba7c7b3.html",
+     "data": "2026-08-31T21:51:35+00:00"
+    },
+    {
+     "titolo": "Farc dissidenti rivendicano il sequestro di soldato della Legione straniera francese",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/31/farc-dissidenti-rivendicano-il-sequestro-di-soldato-della-legione-straniera-francese_f0c34d41-10bd-4338-9e68-87d62b9f2552.html",
+     "data": "2026-08-31T21:49:16+00:00"
+    },
+    {
+     "titolo": "Studio, 'in Colombia la cocaina vale 16,5 miliardi di dollari, più del petrolio'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/31/studio-in-colombia-la-cocaina-vale-165-miliardi-di-dollari-piu-del-petrolio_134c8e0d-4ecc-4197-bd1c-84a2410e2bc1.html",
+     "data": "2026-08-31T21:48:12+00:00"
+    },
     {
      "titolo": "Tartaglia Polcini, 'Italia-Brasile esempio di cooperazione antimafia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/31/tartaglia-polcini-italia-brasile-esempio-di-cooperazione-antimafia_4d4a09d9-845a-41dd-a1fc-eacad65c4f26.html",
@@ -354,31 +379,6 @@
      "titolo": "Il Fondo monetario promuove il Paraguay, confermata stima di crescita al 4,4% nel 2026",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/31/il-fondo-monetario-promuove-il-paraguay-confermata-stima-di-crescita-al-44-nel-2026_7d6c3d62-d719-459c-8451-ad679ecf86a9.html",
      "data": "2026-08-31T17:39:31+00:00"
-    },
-    {
-     "titolo": "Inondazioni nel Grand Canyon, sale a due il numero dei morti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/31/inondazioni-nel-grand-canyon-sale-a-due-il-numero-dei-morti_8264d753-4b8c-4342-b68a-ad59767e6808.html",
-     "data": "2026-08-31T15:56:24+00:00"
-    },
-    {
-     "titolo": "Il carnevale di Notting Hill compie 60 anni, 'clima tranquillo e festoso'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/31/il-carnevale-di-notting-hill-compie-60-anni-clima-tranquillo-e-festoso_0d39cae0-d3b3-43ba-b5af-4db4dfc34952.html",
-     "data": "2026-08-31T15:13:35+00:00"
-    },
-    {
-     "titolo": "F1: Milei annuncia che l'Argentina mira a organizzare un gran premio",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/31/f1-milei-annuncia-che-largentina-mira-a-organizzare-un-gran-premio_91efddd4-fc71-4e58-9d61-76647c3d185c.html",
-     "data": "2026-08-31T14:49:12+00:00"
-    },
-    {
-     "titolo": "Cremlino, 'nessun ruolo nella crisi dei migranti a Ceuta'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/31/cremlino-nessun-ruolo-nella-crisi-dei-migranti-a-ceuta_6fa77d5c-b156-45dd-8a0b-d7f0b9a1aa0f.html",
-     "data": "2026-08-31T14:26:05+00:00"
-    },
-    {
-     "titolo": "L'Egitto allo Sco di Bishkek in attesa di ricevere Xi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/31/legitto-allo-sco-di-bishkek-in-attesa-di-ricevere-xi_8a803475-6cb4-4c16-b807-b1db9691eb93.html",
-     "data": "2026-08-31T14:12:19+00:00"
     }
    ]
   },
@@ -451,6 +451,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Us Open: Berrettini e Darderi al secondo turno, Cocciaretto eliminata",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/01/us-open-berrettini-e-darderi-al-secondo-turno-cocciaretto-eliminata_0a80afe8-5c4a-40df-9770-9af947f9702f.html",
+     "data": "2026-08-31T23:57:48+00:00"
+    },
+    {
+     "titolo": "Serie A: Tedesco, 'difficile digerire una sconfitta del genere e zero punti'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/01/serie-a-tedesco-difficile-digerire-una-sconfitta-del-genere-e-zero-punti_e021c3f4-d962-4429-8568-9f5331a933a0.html",
+     "data": "2026-08-31T22:05:56+00:00"
+    },
+    {
+     "titolo": "Contro la Serbia di Jokic un altro ko degli azzurri verso i Mondiali",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/31/contro-la-serbia-di-jokic-un-altro-ko-degli-azzurri-verso-i-mondiali_8822292c-cfc0-4460-b99e-053e1ab30473.html",
+     "data": "2026-08-31T21:58:31+00:00"
+    },
+    {
+     "titolo": "Serie A: Sarri, 'stanchi alla quarta partita in undici giorni, ma sono 3 punti'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/serie-a-sarri-stanchi-alla-quarta-partita-in-undici-giorni-ma-sono-3-punti_edb048c2-441b-45e9-aeb8-3de7f9dac1d4.html",
+     "data": "2026-08-31T21:59:47+00:00"
+    },
+    {
      "titolo": "Liga: doppiette di Yamal e di Raphinha, il Barcellona batte Rayo Vallecano 5-2",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/liga-doppiette-di-yamal-e-di-raphinha-il-barcellona-batte-rayo-vallecano-5-2_f73bd417-284c-4f43-9417-cf1312d22dd4.html",
      "data": "2026-08-31T21:33:06+00:00"
@@ -489,26 +509,6 @@
      "titolo": "Us Open: ritorno con vittoria per Alcaraz, lo spagnolo è in forma Slam",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/31/us-open-ritorno-con-vittoria-per-alcaraz-lo-spagnolo-e-in-forma-slam_5a79f697-cd9a-42cc-a23f-d16ed41950c0.html",
      "data": "2026-08-31T20:25:42+00:00"
-    },
-    {
-     "titolo": "Altro ko per l'Italbasket verso i Mondiali, la Serbia di Jokic vince a Pesaro",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/31/altro-ko-per-litalbasket-verso-i-mondiali-la-serbia-di-jokic-vince-a-pesaro_8822292c-cfc0-4460-b99e-053e1ab30473.html",
-     "data": "2026-08-31T20:23:11+00:00"
-    },
-    {
-     "titolo": "La Serbia batte l'Italia, nuovo stop nelle qualificazioni mondiali",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/08/31/la-serbia-batte-litalia-nuovo-stop-nelle-qualificazioni-mondiali_dee79073-4ec4-4b22-8206-a73830394b0b.html",
-     "data": "2026-08-31T19:50:24+00:00"
-    },
-    {
-     "titolo": "Juve: arriva Sarr, visite mediche al J Medical",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/juve-arriva-sarr-visite-mediche-al-j-medical_def7cf7b-3a93-44ac-b903-665054697250.html",
-     "data": "2026-08-31T19:44:09+00:00"
-    },
-    {
-     "titolo": "Serie A: Hutchinson arriva al Milan in prestito dal Nottingham Forest",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/serie-a-hutchinson-arriva-al-milan-in-prestito-dal-nottingham-forest_8851c20d-b14c-4761-9b47-6c199292b154.html",
-     "data": "2026-08-31T19:34:38+00:00"
     }
    ]
   }
