@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-02T01:09:23.036734+00:00",
+ "aggiornato": "2026-09-02T05:58:01.014195+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Accoltella l'ex moglie e fugge con il figlio, preso dopo 7 ore di ricerche",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/accoltella-lex-moglie-e-fugge-con-il-figlio-preso-dopo-7-ore-di-ricerche_e12f0834-aba9-4fcf-abe6-8048556ace29.html",
+     "data": "2026-09-02T05:36:24+00:00"
+    },
+    {
+     "titolo": "Nicaragua, il Parlamento approva la riforma di Ortega che esclude opposizione dal voto",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/nicaragua-il-parlamento-approva-la-riforma-di-ortega-che-esclude-opposizione-dal-voto_6dc3fcb9-9dbd-4478-8226-e153eaafd7fb.html",
+     "data": "2026-09-02T01:37:02+00:00"
+    },
     {
      "titolo": "Borsa: Tokyo, apertura in calo (-1,62%)",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/borsa-tokyo-apertura-in-calo-162_1a97b5d9-6d1f-4e74-b92d-43199aafb7e3.html",
@@ -44,16 +54,6 @@
      "titolo": "Putin, 'minacce di Zelensky ai voli civili sono terrorismo di Stato'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/01/putin-minacce-di-zelensky-ai-voli-civili-sono-terrorismo-di-stato_39fbfd67-6dba-441e-b905-7dda7039fa39.html",
      "data": "2026-09-01T20:41:01+00:00"
-    },
-    {
-     "titolo": "Putin, 'la Germania ci accusa per ragioni di politica interna'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/01/putin-la-germania-ci-accusa-per-ragioni-di-politica-interna_708c6983-9aca-4c25-8667-d7fc3d3ea954.html",
-     "data": "2026-09-01T20:33:02+00:00"
-    },
-    {
-     "titolo": "Tv Iran, 'due morti e diversi feriti ad un matrimonio per un raid Usa'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/01/tv-iran-due-morti-e-diversi-feriti-ad-un-matrimonio-per-un-raid-usa_7b555455-8a53-403a-9c88-fd7eb55e308c.html",
-     "data": "2026-09-01T19:50:52+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Accoltella l'ex moglie e fugge con il figlio, preso dopo 7 ore di ricerche",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/accoltella-lex-moglie-e-fugge-con-il-figlio-preso-dopo-7-ore-di-ricerche_57713863-db08-4380-b9d4-7d610bf54554.html",
+     "data": "2026-09-02T05:36:22+00:00"
+    },
+    {
+     "titolo": "Accoltella l'ex moglie e fugge con il figlio, preso dopo 7 ore di ricerche",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/accoltella-lex-moglie-e-fugge-con-il-figlio-preso-dopo-7-ore-di-ricerche_eae1051e-d754-45e9-a3bd-38d5dcbefc34.html",
+     "data": "2026-09-02T05:34:22+00:00"
+    },
+    {
      "titolo": "Vasta frana sul Monviso, si cerca un escursionista",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/vasta-frana-sul-monviso-si-cerca-un-escursionista_de6323c2-e483-4db4-b7bc-c64c72e81186.html",
      "data": "2026-09-01T22:07:07+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Tragedia alle cascate della Brusia, morto in acqua un 35enne",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/tragedia-alle-cascate-della-brusia-morto-in-acqua-un-35enne_6355d175-358b-4c77-a03b-acb622f38061.html",
      "data": "2026-09-01T18:18:03+00:00"
-    },
-    {
-     "titolo": "Domani il Veneto vota per il fine vita, Zaia 'legge di civiltà'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/domani-il-veneto-vota-per-il-fine-vita-zaia-legge-di-civilta_640f52fa-1aeb-49dc-af86-f83d447083c4.html",
-     "data": "2026-09-01T18:14:31+00:00"
-    },
-    {
-     "titolo": "Abusa di una 13enne, rilasciato dopo aver manifestato 'dispiacere'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/abusa-di-una-13enne-rilasciato-dopo-aver-manifestato-dispiacere_5e7d5326-eced-42be-b13f-c88265a8a0b7.html",
-     "data": "2026-09-01T17:55:22+00:00"
     }
    ]
   },
@@ -218,7 +218,7 @@
     {
      "titolo": "Nuovo fronte per Salvini, gli ex rispolverano la Lega Nord",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/01/nuovo-fronte-per-salvini-gli-ex-rispolverano-la-lega-nord-_646c3eeb-8590-471a-8d33-f1b7fb613384.html",
-     "data": "2026-09-01T17:47:57+00:00"
+     "data": "2026-09-02T05:31:13+00:00"
     },
     {
      "titolo": "Il Veneto vota per il fine vita, Zaia: 'Legge di civiltà'",
@@ -321,6 +321,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Nicaragua, il Parlamento approva la riforma di Ortega che esclude opposizione dal voto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/02/nicaragua-il-parlamento-approva-la-riforma-di-ortega-che-esclude-opposizione-dal-voto_990aff35-6c63-4511-b608-edf8a6182679.html",
+     "data": "2026-09-02T01:37:08+00:00"
+    },
+    {
+     "titolo": "Messico, Sheinbaum promette rigore fiscale nel bilancio 2027",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/02/messico-sheinbaum-promette-rigore-fiscale-nel-bilancio-2027_92b57f16-44b6-4e01-b210-1e191c8cc499.html",
+     "data": "2026-09-02T01:28:53+00:00"
+    },
+    {
+     "titolo": "Brasile, il procuratore generale chiede di annullare l'indagine su Vorcaro-Moraes",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/02/brasile-il-procuratore-generale-chiede-di-annullare-lindagine-su-vorcaro-moraes_52ff8f6f-4f84-4e06-8e2e-597ae472e800.html",
+     "data": "2026-09-02T01:14:00+00:00"
+    },
+    {
      "titolo": "Di Battista: 'Mi sento meglio, parto da Cuba questo venerdì'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/02/di-battista-mi-sento-meglio-parto-da-cuba-questo-venerdi_90a1c775-4ac3-497f-94c7-a41a943e173c.html",
      "data": "2026-09-01T23:05:52+00:00"
@@ -364,21 +379,6 @@
      "titolo": "Pasdaran, 'uccisi numerosi membri delle forze Usa in un raid in Giordania'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/01/pasdaran-uccisi-numerosi-membri-delle-forze-usa-in-un-raid-in-giordania_2fbafa12-5cd4-4b96-b61b-1e066a1f28f8.html",
      "data": "2026-09-01T21:06:21+00:00"
-    },
-    {
-     "titolo": "Putin, 'minacce di Zelensky ai voli civili sono terrorismo di Stato'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/01/putin-minacce-di-zelensky-ai-voli-civili-sono-terrorismo-di-stato_d9238580-5135-4a11-987b-99d1951d6632.html",
-     "data": "2026-09-01T20:41:18+00:00"
-    },
-    {
-     "titolo": "Venezuela, il Parlamento di Caracas approva accordo energetico con gli Stati Uniti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/01/venezuela-il-parlamento-di-caracas-approva-accordo-energetico-con-gli-stati-uniti_0972b6ac-9071-43bc-b142-89cfdafaae52.html",
-     "data": "2026-09-01T20:39:55+00:00"
-    },
-    {
-     "titolo": "Putin, 'la Germania ci accusa per ragioni di politica interna'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/01/putin-la-germania-ci-accusa-per-ragioni-di-politica-interna_85f5ba4e-37b9-4695-8e02-cb4be92555c7.html",
-     "data": "2026-09-01T20:33:22+00:00"
     }
    ]
   },
