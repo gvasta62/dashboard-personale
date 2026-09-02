@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-09-02T18:09:22.061914+00:00",
+ "aggiornato": "2026-09-02T21:09:11.063283+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "007 Danimarca, la Russia pianifica sabotaggi alle nostre industrie",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/007-danimarca-la-russia-pianifica-sabotaggi-alle-nostre-industrie_0f195a45-dc34-49d5-9e15-006b51c42f75.html",
+     "data": "2026-09-02T20:15:14+00:00"
+    },
+    {
+     "titolo": "Giulia Presutti a Corsini, 'faccio un passo indietro'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/giulia-presutti-a-corsini-faccio-un-passo-indietro_728f6883-c7bd-40af-b9dc-c6aad54e4a3c.html",
+     "data": "2026-09-02T19:48:34+00:00"
+    },
+    {
+     "titolo": "Salis, 'basta perdere tempo sulle primarie, sono la sindaca di Genova'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/salis-basta-perdere-tempo-sulle-primarie-sono-la-sindaca-di-genova_b1b76f52-d531-4795-acce-56478fad489a.html",
+     "data": "2026-09-02T19:13:22+00:00"
+    },
+    {
+     "titolo": "Fed, 'attività economica Usa aumentata in termini moderati da inizio luglio'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/fed-attivita-economica-usa-aumentata-in-termini-moderati-da-inizio-luglio_bcbd3527-e445-43fe-872d-a65d5ef6f558.html",
+     "data": "2026-09-02T18:44:01+00:00"
+    },
+    {
+     "titolo": "Trump, 'contento che Harry e Meghan si siano trasferiti, non ero un fan'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/trump-contento-che-harry-e-meghan-si-siano-trasferiti-non-ero-un-fan_09279fa2-7a96-4125-bbf1-ae72d9bf7857.html",
+     "data": "2026-09-02T18:30:29+00:00"
+    },
     {
      "titolo": "George Clooney, 'nessuno ride o piange in lingue diverse'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/george-clooney-nessuno-ride-o-piange-in-lingue-diverse_8bf9662f-4ea1-4e16-9f84-87b4bc72be51.html",
@@ -29,31 +54,6 @@
      "titolo": "Restituiti alla Fondazione Magnani Rocca i tre capolavori rubati a marzo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/restituiti-alla-fondazione-magnani-rocca-i-tre-capolavori-rubati-a-marzo_8f87ee6f-adc4-4b03-a333-80c7a9d4f315.html",
      "data": "2026-09-02T16:44:22+00:00"
-    },
-    {
-     "titolo": "Fonti, 'bielorusso sospettato per Lipsia non è passato in Italia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/fonti-bielorusso-sospettato-per-lipsia-non-e-passato-in-italia_d6dcc425-4ce9-4568-bd22-c5feafd5e6fe.html",
-     "data": "2026-09-02T16:26:46+00:00"
-    },
-    {
-     "titolo": "Lo spread Btp-Bund chiude a 83,3 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/lo-spread-btp-bund-chiude-a-833-punti_20b58488-cbbb-4e00-82c2-cb7197f03606.html",
-     "data": "2026-09-02T16:09:01+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa chiude in calo, tengono banche e sanità",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/borsa-europa-chiude-in-calo-tengono-banche-e-sanita_2a3e1875-e78d-4d1b-b554-badc888d5c0a.html",
-     "data": "2026-09-02T15:59:22+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in calo, Ftse Mib -0,24%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/borsa-milano-chiude-in-calo-ftse-mib-024_f35a406d-a49b-4180-90e6-57b7eff6c1f0.html",
-     "data": "2026-09-02T15:51:11+00:00"
-    },
-    {
-     "titolo": "Trump, 'Hormuz sotto controllo Usa, lo ribattezziamo Stretto di Trump?'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/trump-hormuz-sotto-controllo-usa-lo-ribattezziamo-stretto-di-trump_578b146a-7d88-41d8-b26f-08085fee0674.html",
-     "data": "2026-09-02T15:34:08+00:00"
     }
    ]
   },
@@ -126,14 +126,44 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Il Veneto approva il fine vita, è la prima regione di centrodestra",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/il-veneto-approva-il-fine-vita-e-la-prima-regione-di-centrodestra_ca518124-8cde-4d24-a158-c7fc1a0b6f95.html",
-     "data": "2026-09-02T18:04:00+00:00"
+     "titolo": "Tromba d'aria a Policoro: il sindaco 'un disastro, danni per milioni di euro'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/tromba-daria-a-policoro-il-sindaco-un-disastro-danni-per-milioni-di-euro_1629cb91-94a9-4648-8a29-78f4eee19bc1.html",
+     "data": "2026-09-02T19:58:01+00:00"
     },
     {
-     "titolo": "Urbanistica Milano, sequestrati 12,5 milioni per truffa su Sismabonus",
+     "titolo": "La famiglia della ragazza uccisa al rave: 'Circostanze non ancora chiarite'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/la-famiglia-della-ragazza-uccisa-al-rave-circostanze-non-ancora-chiarite_162f9e99-9a3c-4b72-82f2-524aac5ccaac.html",
+     "data": "2026-09-02T19:33:28+00:00"
+    },
+    {
+     "titolo": "Si schianta con la Porsche a Miami, muore un abruzzese di 32 anni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/si-schianta-con-la-porsche-a-miami-muore-un-abruzzese-di-32-anni_0295b6c6-4a6e-449a-be38-4ac6541c915c.html",
+     "data": "2026-09-02T19:28:47+00:00"
+    },
+    {
+     "titolo": "Ex vincitore del Grande Fratello indagato per violenza sessuale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/ex-vincitore-del-grande-fratello-indagato-per-violenza-sessuale_6a1d546d-fc35-49a5-a03a-4fbbb447d938.html",
+     "data": "2026-09-02T19:31:13+00:00"
+    },
+    {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-09-02T18:57:40+00:00"
+    },
+    {
+     "titolo": "L'Anm attacca Nordio: 'L'invio degli ispettori non è un atto ortodosso'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/lanm-attacca-nordio-linvio-degli-ispettori-non-e-un-atto-ortodosso_5e7d5326-eced-42be-b13f-c88265a8a0b7.html",
+     "data": "2026-09-02T18:12:14+00:00"
+    },
+    {
+     "titolo": "Il Veneto approva il fine vita, è la prima regione di centrodestra",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/il-veneto-approva-il-fine-vita-e-la-prima-regione-di-centrodestra_ca518124-8cde-4d24-a158-c7fc1a0b6f95.html",
+     "data": "2026-09-02T18:13:06+00:00"
+    },
+    {
+     "titolo": "Urbanistica Milano, sequestrati 12,5 milioni per truffa al  Sismabonus",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/urbanistica-milano-sequestrati-125-milioni-per-truffa-su-sismabonus_acd746fd-6d00-4c25-b0ee-86a09a4c9092.html",
-     "data": "2026-09-02T16:35:11+00:00"
+     "data": "2026-09-02T19:36:49+00:00"
     },
     {
      "titolo": ">>>ANSA/Svelato come l'Intelligenza artificiale impari dai dati",
@@ -143,7 +173,7 @@
     {
      "titolo": "Litiga su Whatsapp, giovane accoltellato da 16enne a Treviso",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/litiga-su-whatsapp-giovane-accoltellato-da-16enne-a-treviso_59deb37e-2235-4223-9f6e-b06054b9d38f.html",
-     "data": "2026-09-02T15:24:20+00:00"
+     "data": "2026-09-02T19:36:09+00:00"
     },
     {
      "titolo": "Raduno naziskin, si mobilitano i docenti dell'Università di Trento",
@@ -151,45 +181,30 @@
      "data": "2026-09-02T14:55:13+00:00"
     },
     {
-     "titolo": "La famiglia della ragazza uccisa al rave, 'circostanze non ancora chiarite'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/la-famiglia-della-ragazza-uccisa-al-rave-circostanze-non-ancora-chiarite_162f9e99-9a3c-4b72-82f2-524aac5ccaac.html",
-     "data": "2026-09-02T14:51:29+00:00"
-    },
-    {
      "titolo": "Consigliere comunale Sestri Levante, 'femminicidio emergenza che non esiste'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/consigliere-comunale-sestri-levante-femminicidio-emergenza-che-non-esiste_766dec43-c901-4f06-9125-ca1220d80d29.html",
      "data": "2026-09-02T14:27:37+00:00"
-    },
-    {
-     "titolo": "Strage di famiglia a Roma, domani le autopsie",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/strage-di-famiglia-a-roma-domani-le-autopsie_01b12d22-5024-4f3b-9ba1-52aca2a6dd81.html",
-     "data": "2026-09-02T14:14:53+00:00"
-    },
-    {
-     "titolo": "Incidente sul lavoro, un operaio di 30 anni muore nel Palermitano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/-incidente-sul-lavoro-morto-operaio-di-30-anni-nel-palermitano-_2d786b7c-fadf-4f5e-bf8c-b92d63ecd2d8.html",
-     "data": "2026-09-02T14:17:18+00:00"
-    },
-    {
-     "titolo": "Legale Ranucci, 'la Rai non vuole fornire le ragioni della sua rimozione'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/legale-ranucci-la-rai-non-vuole-fornire-le-ragioni-della-sua-rimozione_ff6960f3-e7d8-41de-a162-9754c3131016.html",
-     "data": "2026-09-02T13:39:19+00:00"
-    },
-    {
-     "titolo": "18enne uccisa da treno, sospesa circolazione ferroviaria tra Milano e Tradate",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/18enne-uccisa-da-treno-sospesa-circolazione-ferroviaria-tra-milano-e-tradate_61ffb928-a9af-4cd8-9b4d-e619d4093aea.html",
-     "data": "2026-09-02T13:31:46+00:00"
-    },
-    {
-     "titolo": "Tentato femminicidio a Roma, la vittima aveva già subito violenze dall'uomo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/tentato-femminicidio-a-roma-la-vittima-aveva-gia-subito-violenze-dalluomo_4a6b444c-6dd0-4bb3-a014-f367b8f45d13.html",
-     "data": "2026-09-02T13:39:24+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Salis: 'Basta perdere tempo sulle primarie, sono la sindaca di Genova'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/02/salis-basta-perdere-tempo-sulle-primarie-sono-la-sindaca-di-genova_bc201aa5-f27f-4716-a168-8d9af5b28902.html",
+     "data": "2026-09-02T20:45:26+00:00"
+    },
+    {
+     "titolo": "Si riapre il dialogo sul futuro di Report, Presutti si sfila",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/02/report-giulia-presutti-faccio-un-passo-indietro-rinuncio-alla-conduzione_2d069cda-7b90-4b41-b725-b2f3c00a7fc3.html",
+     "data": "2026-09-02T20:15:00+00:00"
+    },
+    {
+     "titolo": "Giulia Presutti a Corsini, 'faccio un passo indietro'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/02/giulia-presutti-a-corsini-faccio-un-passo-indietro_ba98be89-cb52-42fb-b29a-fc6d3e7ab094.html",
+     "data": "2026-09-02T19:48:35+00:00"
+    },
     {
      "titolo": "Calabresi spariglia le carte nel centrosinistra, il Pd prende tempo",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/02/calabresi-spariglia-le-carte-nel-centrosinistra-il-pd-prende-tempo_059e27b6-5d36-4b5d-b87a-70c56e3bff1c.html",
@@ -221,40 +236,40 @@
      "data": "2026-09-02T10:24:16+00:00"
     },
     {
-     "titolo": "Prove di dialogo sul futuro di Report, si cerca un compromesso",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/02/ranucci-servizio-fake-di-presutti-se-confermato-sarebbe-gravissimo_2d069cda-7b90-4b41-b725-b2f3c00a7fc3.html",
-     "data": "2026-09-02T17:56:50+00:00"
-    },
-    {
      "titolo": "Renzi in autogrill e la chiamata dell'ex 007 a Ranucci",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/02/il-giornale-un-ex-007-dietro-lo-scoop-di-report-su-renzi-in-autogrill_d9ab68f8-dcb1-4591-9c2a-dd1d2c829a30.html",
-     "data": "2026-09-02T17:49:57+00:00"
+     "data": "2026-09-02T19:59:52+00:00"
     },
     {
      "titolo": "Di Battista: 'Mi sento meglio, parto da Cuba questo venerdì'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/02/di-battista-mi-sento-meglio-parto-da-cuba-questo-venerdi_523d6f03-14e5-430d-bfec-eca59ef1ed5b.html",
-     "data": "2026-09-01T23:40:22+00:00"
+     "data": "2026-09-02T18:27:14+00:00"
     },
     {
      "titolo": "Di Battista: 'Mi sento meglio, parto da Cuba questo venerdì'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/02/di-battista-mi-sento-meglio-parto-da-cuba-questo-venerdi_30cf33ab-87a4-4368-b412-19a761643a02.html",
      "data": "2026-09-01T23:05:52+00:00"
-    },
-    {
-     "titolo": "Schlein frena Conte: 'Basta parlare di primarie'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/01/schlein-frena-conte-basta-parlare-di-primarie_038dde9e-0a0c-4b31-ae55-a7ad9dff4ef9.html",
-     "data": "2026-09-02T13:52:44+00:00"
-    },
-    {
-     "titolo": "Legge elettorale: dubbi di FI e Lega, perde quota l'ipotesi del ballottaggio",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/01/legge-elettorale-dubbi-di-fi-e-lega-perde-quota-lipotesi-del-ballottaggio_1b442245-4db8-4516-9c7b-0b566817df2d.html",
-     "data": "2026-09-01T19:02:44+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Ferrovie, sciopero dei treni del 7 e 8 settembre",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/ferrovie-sciopero-dei-treni-del-7-e-8-settembre_a5e94309-0027-4169-9d15-6c1dd21425fb.html",
+     "data": "2026-09-02T19:14:04+00:00"
+    },
+    {
+     "titolo": "Il petrolio in rialzo a New York, sale a 91,27 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/il-petrolio-in-rialzo-a-new-york-sale-a-9127-dollari_c5627a3a-eca3-43b0-a0cc-ce8a6f2f3af0.html",
+     "data": "2026-09-02T18:57:43+00:00"
+    },
+    {
+     "titolo": "Fed, 'attività economica Usa aumentata in termini moderati da inizio luglio'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/fed-attivita-economica-usa-aumentata-in-termini-moderati-da-inizio-luglio_e0399f77-b1c9-403a-8241-779fb9892cbc.html",
+     "data": "2026-09-02T18:43:58+00:00"
+    },
     {
      "titolo": "Vannacci entra nel club di Cernobbio e Calenda in polemica diserta",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/vannacci-entra-nel-club-di-cernobbio-e-calenda-in-polemica-diserta_88e419c7-03f8-4247-bb2b-be0aa61aa270.html",
@@ -299,27 +314,42 @@
      "titolo": "Mapei cresce in Polonia",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/mapei-cresce-in-polonia_affa3fa0-84f6-4a16-bbc2-dc0628d08193.html",
      "data": "2026-09-02T14:50:15+00:00"
-    },
-    {
-     "titolo": "Legami stringe accordo con Warner Bros, lancia collezione Harry Potter",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/legami-stringe-accordo-con-warner-bros-lancia-collezione-harry-potter_7972f8b9-e3bd-4aa3-98b7-832bf0fb22f4.html",
-     "data": "2026-09-02T14:28:33+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa contiene le perdite, Milano -0,3%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/borsa-europa-contiene-le-perdite-milano-03_e62566b7-0c25-413f-8fcf-4ed54b28a230.html",
-     "data": "2026-09-02T14:21:20+00:00"
-    },
-    {
-     "titolo": "Uber taglia 3.300 posti, il 10% della sua forza lavoro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/uber-taglia-3.300-posti-il-10-della-sua-forza-lavoro_a598101a-cd71-4848-8d2a-2b91d5377f67.html",
-     "data": "2026-09-02T14:20:17+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Delcy Rodriguez, 'elezioni in Venezuela quando saremo pronti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/02/delcy-rodriguez-elezioni-in-venezuela-quando-saremo-pronti_4137fea8-5dca-463e-b1c7-b5b71ca4e71a.html",
+     "data": "2026-09-02T20:16:28+00:00"
+    },
+    {
+     "titolo": "007 Danimarca, la Russia pianifica sabotaggi alle nostre industrie",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/02/007-danimarca-la-russia-pianifica-sabotaggi-alle-nostre-industrie_69795d41-a241-4ace-8d04-cbda482aa992.html",
+     "data": "2026-09-02T20:15:14+00:00"
+    },
+    {
+     "titolo": "Trump, 'contento che Harry e Meghan si siano trasferiti, non ero un fan'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/02/trump-contento-che-harry-e-meghan-si-siano-trasferiti-non-ero-un-fan_0e0b3001-cb63-47e9-b0a4-518156ee955f.html",
+     "data": "2026-09-02T18:30:56+00:00"
+    },
+    {
+     "titolo": "Cuba autorizza la creazione di imprese private con oltre 100 dipendenti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/02/cuba-autorizza-la-creazione-di-imprese-private-con-oltre-100-dipendenti_5b3d8427-48ee-4991-8a8e-66e47eecedb8.html",
+     "data": "2026-09-02T18:20:22+00:00"
+    },
+    {
+     "titolo": "Argentina e Uruguay siglano un accordo di 'cieli aperti' sul trasporto aereo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/02/argentina-e-uruguay-siglano-un-accordo-di-cieli-aperti-sul-trasporto-aereo_b69beafa-d6b7-4944-bc96-b609db766a7d.html",
+     "data": "2026-09-02T18:19:57+00:00"
+    },
+    {
+     "titolo": "Malta: assolto il presunto mandante dell'omicidio di Daphne Caruana Galizia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/02/malta-assolto-il-presunto-mandante-dellomicidio-di-daphne-caruana-galizia-_4c652135-473a-4a26-a243-45ea3111101f.html",
+     "data": "2026-09-02T19:23:55+00:00"
+    },
     {
      "titolo": "Malta, assolto presunto mandante dell'omicidio di Daphne Caruana Galizia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/02/malta-assolto-presunto-mandante-dellomicidio-di-daphne-caruana-galizia_02e30d29-1cdc-490f-856e-ec9aa27f3cca.html",
@@ -349,36 +379,6 @@
      "titolo": "Vietato nelle scuole pubbliche di New York l'uso dell'IA generativa",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/02/vietato-nelle-scuole-pubbliche-di-new-york-luso-dellia-generativa_eefc7cd9-65e3-4f79-9061-845049d10e84.html",
      "data": "2026-09-02T15:24:36+00:00"
-    },
-    {
-     "titolo": "I sondaggi confermano il testa a testa tra Lula e Bolsonaro",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/02/i-sondaggi-confermano-il-testa-a-testa-tra-lula-e-bolsonaro_8d08cb58-3d2b-428e-9cd9-d28a7cba4894.html",
-     "data": "2026-09-02T15:17:40+00:00"
-    },
-    {
-     "titolo": "Kallas, 'necessario limitare i visti turistici per i russi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/02/kallas-necessario-limitare-i-visti-turistici-per-i-russi_d75c1515-4b13-471b-8063-5335c1082267.html",
-     "data": "2026-09-02T15:21:34+00:00"
-    },
-    {
-     "titolo": "New York obbliga i parrucchieri a lavorare con tutti i tipi di capelli",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/02/new-york-obbliga-i-parrucchieri-a-lavorare-con-tutti-i-tipi-di-capelli_d40784a6-2e8a-478e-bf18-ce55da186ce7.html",
-     "data": "2026-09-02T15:24:40+00:00"
-    },
-    {
-     "titolo": "Guatemala e Belize, l'Osa rafforza il dialogo nella Zona di Adiacenza",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/02/guatemala-e-belize-losa-rafforza-il-dialogo-nella-zona-di-adiacenza_2dd1ed38-70df-49a3-8ac3-7ba176b1323c.html",
-     "data": "2026-09-02T14:28:54+00:00"
-    },
-    {
-     "titolo": "Save the Children, in Nepal cresce il disagio psicologico tra i bambini sopravvissuti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/02/save-the-children-in-nepal-cresce-il-disagio-psicologico-tra-i-bambini-sopravvissuti_7cc125b3-e94b-437b-9b62-368a38727a73.html",
-     "data": "2026-09-02T14:23:11+00:00"
-    },
-    {
-     "titolo": "Tajani, 'faremo accertamenti sul visto al sospettato di Lipsia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/02/tajani-faremo-accertamenti-sul-visto-al-sospettato-di-lipsia_ef9252c6-068e-4436-a2c8-cc56a802d001.html",
-     "data": "2026-09-02T14:18:43+00:00"
     }
    ]
   },
@@ -451,64 +451,64 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Us Open: Caso scommesse, Flushing Meadows si trasforma in Las Vegas",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/02/us-open-caso-scommesse-flushing-meadows-si-trasforma-in-las-vegas_9c1c82f7-a67c-4776-9951-fbef181f4d6f.html",
-     "data": "2026-09-02T18:04:51+00:00"
+     "titolo": "Lautaro 'finale Mondiali? Rispetto le scelte del ct, mi ero preparato bene'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/lautaro-finale-mondiali-rispetto-le-scelte-del-ct-mi-ero-preparato-bene_13303a74-dc12-4617-9225-0de3b43ba9ef.html",
+     "data": "2026-09-02T21:04:45+00:00"
     },
     {
-     "titolo": "Coppa Italia: Udinese agli ottavi, vittoria di misura con il Venezia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/coppa-italia-udinese-agli-ottavi-vittoria-di-misura-con-il-venezia_1f3545a2-ff35-4c79-b19a-2b45705c32be.html",
-     "data": "2026-09-02T18:03:12+00:00"
+     "titolo": "Europei di volley: l'Italia soffre con la Svezia, ma è in semifinale",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/02/europei-di-volley-litalia-soffre-con-la-svezia-ma-e-in-semifinale_954b07fe-7ae3-4c56-841a-b3ad4f404adf.html",
+     "data": "2026-09-02T20:40:31+00:00"
     },
     {
-     "titolo": "Us Open: Paolini al terzo turno, battuta Stefanini nel derby azzurro",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/02/us-open-paolini-al-terzo-turno-battuta-stefanini-nel-derby-azzurro_81222492-b64b-4b0f-9694-575d0f269c80.html",
-     "data": "2026-09-02T17:42:57+00:00"
+     "titolo": "Fiorentina All Stars-Legends, festa e campioni in campo per i 100 anni viola",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/fiorentina-all-stars-legends-festa-e-campioni-in-campo-per-i-100-anni_89f3ebbb-e72f-45d7-8be6-2a911add80a1.html",
+     "data": "2026-09-02T20:19:02+00:00"
     },
     {
-     "titolo": "Woltemade si presenta: 'La Juve è il club più grande in Italia, non vedo l'ora'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/woltemade-si-presenta-la-juve-e-il-club-piu-grande-in-italia-non-vedo-lora_3404267f-48e4-41c9-8dc8-82892b5e6edc.html",
-     "data": "2026-09-02T17:38:46+00:00"
+     "titolo": "Orsato 'stiamo cercando di amalgamarci, squadra arbitri giovane'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/orsato-stiamo-cercando-di-amalgamarci-squadra-arbitri-giovane_6d201fec-fa8e-4e84-8248-3a963c24aae9.html",
+     "data": "2026-09-02T20:04:59+00:00"
     },
     {
-     "titolo": "Buonfiglio, Bianchedi? Parere Anac a tutela di tutti e per evitare errori a cascata",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/buonfiglio-bianchedi-parere-anac-a-tutela-di-tutti-e-per-evitare-errori-a-cascata_488f4388-f3bd-4ebc-b4ea-11be6b4ac71b.html",
-     "data": "2026-09-02T17:34:23+00:00"
+     "titolo": "Lautaro, voci sul Barcellona vere ma io voglio restare all'Inter",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/lautaro-voci-sul-barcellona-vere-ma-io-voglio-restare-allinter_ff5e4b04-27e0-40b1-a5ba-10aa72dc2c63.html",
+     "data": "2026-09-02T20:01:11+00:00"
     },
     {
-     "titolo": "L'agente di Kessiè: 'Ha aspettato, dalla Juventus è mancata convinzione'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/lagente-di-kessie-ha-aspettato-dalla-juventus-e-mancata-convinzione_4af28547-3988-4817-9f86-db56d13a582c.html",
-     "data": "2026-09-02T17:40:25+00:00"
+     "titolo": "Como: Fabregas, 'possiamo competere su tutti i fronti'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/como-fabregas-possiamo-competere-su-tutti-i-fronti_d6ba229f-43df-4666-bcb1-4ce6610ef76f.html",
+     "data": "2026-09-02T19:36:55+00:00"
     },
     {
-     "titolo": "Hamilton: 'Abbiamo l'auto per lottare a Monza, l'anno scorso no'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/02/hamilton-abbiamo-lauto-per-lottare-a-monza-lanno-scorso-no_0eb0c50c-48b5-48a0-acc2-d8d8578b6e3c.html",
-     "data": "2026-09-02T17:32:36+00:00"
+     "titolo": "Europa League: la Juve lascia fuori dalla lista Thuram e Zhegrova",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/europa-league-la-juve-lascia-fuori-dalla-lista-thuram-e-zhegrova_edbc2e48-bc60-42f3-b240-d5c8b535e390.html",
+     "data": "2026-09-02T19:35:14+00:00"
     },
     {
-     "titolo": "Tempi duri per Allegri, dopo Como l'Inter e poi la Champions",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/02/tempi-duri-per-allegri-dopo-como-linter-e-poi-la-champions_b08cecff-3cb9-435b-99bb-1a28cc614e42.html",
-     "data": "2026-09-02T17:40:51+00:00"
+     "titolo": "Eurovolley: Velasco \"Partita complicata, all'inizio c'era poca lucidità\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/02/eurovolley-velasco-partita-complicata-allinizio-cera-poca-lucidita_625d1f72-b966-4023-9632-438590964cbb.html",
+     "data": "2026-09-02T19:35:32+00:00"
     },
     {
-     "titolo": "Serie A: Sozza arbitra Inter-Napoli, a Mariani Juventus-Milan",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/serie-a-sozza-arbitra-inter-napoli-a-mariani-juventus-milan_a30dd7d6-ab11-4eae-a113-626078b275f3.html",
-     "data": "2026-09-02T17:22:14+00:00"
+     "titolo": "Carnevali, Europa League obiettivo prioritario della Juve",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/carnevali-europa-league-obiettivo-prioritario-della-juve_f9a766b4-ef5f-4896-a675-53972c812480.html",
+     "data": "2026-09-02T19:29:06+00:00"
     },
     {
-     "titolo": "Coppa Italia: Pisacane, col Verona sarà partita vera e intensa",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/coppa-italia-pisacane-col-verona-sara-partita-vera-e-intensa_f2d31358-23ff-412c-aef6-a40b055a6c34.html",
-     "data": "2026-09-02T16:49:09+00:00"
+     "titolo": "Inter: Dimarco 'rinnovo? Non ne abbiamo parlato, speravo accadesse'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/inter-dimarco-rinnovo-non-ne-abbiamo-parlato-speravo-accadesse_51936efa-c7bd-4d36-aa44-d869ff90a287.html",
+     "data": "2026-09-02T19:27:05+00:00"
     },
     {
-     "titolo": "Red Bull: Hadjar rinuncia anche a Monza, al suo posto Lawson",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/02/red-bull-hadjar-rinuncia-anche-a-monza-al-suo-posto-lawson_5a210f65-a859-4c92-84ef-ce8c535f1275.html",
-     "data": "2026-09-02T16:47:05+00:00"
+     "titolo": "Eurovolley: Egonu \"bello giocare, soffrire e vincere\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/02/eurovolley-egonu-bello-giocare-soffrire-e-vincere_d182dc1d-1ef6-4fc6-9c38-e2b0d398df89.html",
+     "data": "2026-09-02T19:21:53+00:00"
     },
     {
-     "titolo": "Champions: speciale distintivo sulla maglia per i calciatori esordienti",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/champions-speciale-distintivo-sulla-maglia-per-i-calciatori-esordienti_5d04e290-9bc2-4c14-9fd9-21970bf3332d.html",
-     "data": "2026-09-02T16:34:23+00:00"
+     "titolo": "Eurovolley: 3-1 alla Svezia, le azzurre sono in semifinale",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/02/eurovolley-3-1-alla-svezia-le-azzurre-sono-in-semifinale_2d5ab3f7-6d59-47b2-861d-0311ebaf9925.html",
+     "data": "2026-09-02T19:14:02+00:00"
     }
    ]
   }
