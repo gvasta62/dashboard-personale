@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-09-01T09:00:21.091890+00:00",
- "data": "2026-09-01",
- "testo": "Grigia mattina\nsul muro dell'orto scioglie\nla vite un pampino",
- "nota": "Sul muro dell'orto una foglia di vite già si arrossa nel cielo coperto.",
+ "aggiornato": "2026-09-02T08:13:50.885003+00:00",
+ "data": "2026-09-02",
+ "testo": "Cielo coperto\nsul banco del mercato\nmele annerite",
+ "nota": "Al mercato di settembre le prime mele di stagione, ammaccate sotto il grigio.",
  "archivio": [
+  {
+   "data": "2026-09-02",
+   "testo": "Cielo coperto\nsul banco del mercato\nmele annerite",
+   "nota": "Al mercato di settembre le prime mele di stagione, ammaccate sotto il grigio."
+  },
   {
    "data": "2026-09-01",
    "testo": "Grigia mattina\nsul muro dell'orto scioglie\nla vite un pampino",
