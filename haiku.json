@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-09-02T08:13:50.885003+00:00",
- "data": "2026-09-02",
- "testo": "Cielo coperto\nsul banco del mercato\nmele annerite",
- "nota": "Al mercato di settembre le prime mele di stagione, ammaccate sotto il grigio.",
+ "aggiornato": "2026-09-03T08:23:17.609020+00:00",
+ "data": "2026-09-03",
+ "testo": "Sole tra le nubi\nsul fusto della quercia\nsale una formica",
+ "nota": "Una formica risale la corteccia mentre il sole filtra tra le nuvole.",
  "archivio": [
+  {
+   "data": "2026-09-03",
+   "testo": "Sole tra le nubi\nsul fusto della quercia\nsale una formica",
+   "nota": "Una formica risale la corteccia mentre il sole filtra tra le nuvole."
+  },
   {
    "data": "2026-09-02",
    "testo": "Cielo coperto\nsul banco del mercato\nmele annerite",
