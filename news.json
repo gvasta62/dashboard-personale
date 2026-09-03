@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-09-03T18:08:38.064637+00:00",
+ "aggiornato": "2026-09-03T21:09:01.136030+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Via libera Consob all'opa di Tata Motors su Iveco",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/via-libera-consob-allopa-di-tata-motors-su-iveco_096aff91-4496-46d3-82cb-67e074c31f17.html",
+     "data": "2026-09-03T20:17:42+00:00"
+    },
+    {
+     "titolo": "Mps, via libera della Bce all'incorporazione di Mediobanca",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/mps-via-libera-della-bce-allincorporazione-di-mediobanca_19ae4959-368b-4a25-8602-4906c1fd7f80.html",
+     "data": "2026-09-03T20:13:48+00:00"
+    },
+    {
+     "titolo": "Fonti Lega, vigilare su Putin, Zelensky e Soros ma italiani votano con propria testa",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/fonti-lega-vigilare-su-putin-zelensky-e-soros-ma-italiani-votano-con-propria_65097929-a789-46c8-8c3a-ef0d0a7a80a6.html",
+     "data": "2026-09-03T18:42:24+00:00"
+    },
+    {
+     "titolo": "L.elettorale: terminati i lavori al Senato, si riprende domani alle 9 con i pareri",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/l.elettorale-terminati-i-lavori-al-senato-si-riprende-domani-alle-9-con-i-pareri_0ae38e3f-39a3-4ee9-823f-ca5cc9b1dc5d.html",
+     "data": "2026-09-03T18:34:06+00:00"
+    },
+    {
+     "titolo": "L.elettorale: terminati i lavori al Senato, si riprende domani alle 9 con i pareri",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/l.elettorale-terminati-i-lavori-al-senato-si-riprende-domani-alle-9-con-i-pareri_adbf6218-4af7-447f-9786-30bb75346604.html",
+     "data": "2026-09-03T18:29:19+00:00"
+    },
     {
      "titolo": "Rai, Claudia Di Pasquale co-conduttrice di Report con Daniele Piervincenzi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/rai-claudia-di-pasquale-co-conduttrice-di-report-con-daniele-piervincenzi_0137c378-93a4-4108-9e72-160bb09c1eb9.html",
@@ -29,31 +54,6 @@
      "titolo": "Media, 17enne marocchino muore in un centro di accoglienza a Ceuta",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/media-17enne-marocchino-muore-in-un-centro-di-accoglienza-a-ceuta_d6c0de33-589b-4744-882f-f19a9fe0cfd5.html",
      "data": "2026-09-03T16:02:56+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude positiva , Francoforte +0,63%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/borsa-leuropa-chiude-positiva-francoforte-063_a8227e90-6482-4071-91d3-a0b071fbc7bb.html",
-     "data": "2026-09-03T15:51:54+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude a +0,88% con Lottomatica, Stellatis, Tim",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/borsa-milano-chiude-a-088-con-lottomatica-stellatis-tim_c0dbcee3-5fad-4059-a5c2-8c932f04163a.html",
-     "data": "2026-09-03T15:41:56+00:00"
-    },
-    {
-     "titolo": "Indagine sui militari che hanno aderito al partito di Vannacci",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/indagine-sui-militari-che-hanno-aderito-al-partito-di-vannacci_9dd9ee47-4538-4841-9ffc-25095b6d8005.html",
-     "data": "2026-09-03T15:14:28+00:00"
-    },
-    {
-     "titolo": "Via libera in commissione al Senato all'emendamento di maggioranza sulle preferenze",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/via-libera-in-commissione-al-senato-allemendamento-di-maggioranza-sulle-preferenze_8947a505-a96f-406a-bc1c-e652fc7110d1.html",
-     "data": "2026-09-03T14:49:17+00:00"
-    },
-    {
-     "titolo": "Nepal, 'almeno 1.259 le persone morte nell'inondazione, 5.083 i dispersi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/nepal-almeno-1.259-le-persone-morte-nellinondazione-5.083-i-dispersi_67903178-b9ae-45e5-98de-97d7dca6e856.html",
-     "data": "2026-09-03T14:33:56+00:00"
     }
    ]
   },
@@ -126,9 +126,19 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Uccide la ex lanciandola da un viadotto, le ha teso un agguato",
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/03/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-09-03T18:45:24+00:00"
+    },
+    {
+     "titolo": "A Roma gara di droni organizzata dalla Difesa, con piloti civili e militari",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/03/a-roma-gara-di-droni-organizzata-dalla-difesa-con-piloti-civili-e-militari_95772ac1-1aaf-4f81-83ac-5b609224a817.html",
+     "data": "2026-09-03T18:13:17+00:00"
+    },
+    {
+     "titolo": "Lancia la ex dal viadotto dopo averla sequestrata e chiusa nel bagagliaio",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/03/uccide-la-ex-lanciandola-da-un-viadotto-le-ha-teso-un-agguato_f1452487-af5d-4f86-9912-7d63e49339da.html",
-     "data": "2026-09-03T18:00:26+00:00"
+     "data": "2026-09-03T19:21:21+00:00"
     },
     {
      "titolo": "Chiuse indagini su Cinturrino, verso processo per omicidio premeditato",
@@ -174,16 +184,6 @@
      "titolo": "Caso Ranucci, sotto esame mail ed intervista su business africani di Lavitola",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/03/caso-ranucci-sotto-esame-mail-ed-intervista-su-business-africani-di-lavitola_8146690e-6384-49ab-ab26-194a9a48f128.html",
      "data": "2026-09-03T14:06:12+00:00"
-    },
-    {
-     "titolo": "Violenze nel minimarket di Torino, insulti e minacce alla gip",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/03/violenze-nel-minimarket-di-torino-indagini-per-identificare-altra-vittima-_29023ba5-edbf-4d86-af07-a564f83a2a9e.html",
-     "data": "2026-09-03T15:05:17+00:00"
-    },
-    {
-     "titolo": "Istat, un italiano su tre fa giochi in cui si scommette",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/03/istat-un-italiano-su-tre-fa-giochi-in-cui-si-scommette_a8f59b9a-d8ef-4153-8126-e65811ce7fd6.html",
-     "data": "2026-09-03T12:44:58+00:00"
     }
    ]
   },
@@ -191,9 +191,44 @@
    "nome": "Politica",
    "voci": [
     {
-     "titolo": "Claudia Di Pasquale co-conduttrice di Report con Daniele Piervincenzi",
+     "titolo": "Conte: 'Ok al progetto ma il Pd non chieda che il suo segretario rappresenti tutti'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/conte-ok-al-progetto-ma-il-pd-non-chieda-che-il-suo-segretario-rappresenti-tutti_5bcd5c08-4985-42ff-a1a3-d99b8dbb446b.html",
+     "data": "2026-09-03T21:04:12+00:00"
+    },
+    {
+     "titolo": "Le interferenze russe agitano il governo, il Pd all'attacco sui visti",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/le-interferenze-russe-agitano-il-governo-il-pd-allattacco-sui-visti_84b43030-bae5-4848-b06e-9bbb1eda3adf.html",
+     "data": "2026-09-03T19:07:01+00:00"
+    },
+    {
+     "titolo": "Fonti Lega, vigilare su Putin, Zelensky e Soros ma italiani votano con propria testa",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/fonti-lega-vigilare-su-putin-zelensky-e-soros-ma-italiani-votano-con-propria_dc6ee7dc-ffd3-404a-82b6-1cde7bcb842f.html",
+     "data": "2026-09-03T18:42:24+00:00"
+    },
+    {
+     "titolo": "L.elettorale: terminati i lavori al Senato, si riprende domani alle 9 con i pareri",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/l.elettorale-terminati-i-lavori-al-senato-si-riprende-domani-alle-9-con-i-pareri_f3e55a85-905e-43a6-8a97-8a868ddb2987.html",
+     "data": "2026-09-03T18:34:06+00:00"
+    },
+    {
+     "titolo": "L.elettorale: terminati i lavori al Senato, si riprende domani alle 9 con i pareri",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/l.elettorale-terminati-i-lavori-al-senato-si-riprende-domani-alle-9-con-i-pareri_0a1afdc6-abd1-4eda-abca-1347f6110612.html",
+     "data": "2026-09-03T18:29:22+00:00"
+    },
+    {
+     "titolo": "Sala alla festa del Pd: 'Calabresi ha anticipato ma per le primarie è presto'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/sala-alla-festa-del-pd-calabresi-ha-anticipato-ma-per-le-primarie-e-presto_68588e3a-e11e-498c-88e0-8c952b1c9f2c.html",
+     "data": "2026-09-03T19:02:42+00:00"
+    },
+    {
+     "titolo": "Renzi: 'Centrosinistra scelga giorno per le primarie, sono ineliminabili'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/renzi-centrosinistra-scelga-giorno-per-le-primarie-sono-ineliminabili_d37d477c-42eb-4855-aa93-e055c753ca41.html",
+     "data": "2026-09-03T19:02:53+00:00"
+    },
+    {
+     "titolo": "Claudia Di Pasquale conduttrice di Report, esulta la redazione",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/claudia-di-pasquale-co-conduttrice-di-report-con-daniele-piervincenzi_8cea21c2-f039-4aa7-b9d0-74fb8f683c22.html",
-     "data": "2026-09-03T17:39:37+00:00"
+     "data": "2026-09-03T18:19:02+00:00"
     },
     {
      "titolo": "Chi è Claudia Di Pasquale, dal 2011 nella squadra di Report",
@@ -201,60 +236,45 @@
      "data": "2026-09-03T17:01:08+00:00"
     },
     {
-     "titolo": "Via libera in commissione al Senato all'emendamento di maggioranza sulle preferenze",
+     "titolo": "Il centrodestra Veneto si ricompatta sull'autonomia, ok a preintese",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/il-centrodestra-veneto-si-ricompatta-sullautonomia-ok-a-preintese_9d02a4a1-2ccc-4a1a-a8bb-ddbdabdd5407.html",
+     "data": "2026-09-03T19:04:33+00:00"
+    },
+    {
+     "titolo": "La maggioranza si ricompatta sulle preferenze, primo ok al Senato",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/via-libera-in-commissione-al-senato-allemendamento-di-maggioranza-sulle-preferenze_181d6f31-5bb5-4dd5-85cf-507a9b93e7d7.html",
-     "data": "2026-09-03T15:04:44+00:00"
+     "data": "2026-09-03T18:53:30+00:00"
     },
     {
      "titolo": "Indagine sui militari che hanno aderito al partito di Vannacci",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/indagine-sui-militari-che-hanno-aderito-al-partito-di-vannacci_e42ad605-d75f-41a5-874a-dce5e8efc580.html",
      "data": "2026-09-03T16:02:30+00:00"
-    },
-    {
-     "titolo": "Garante Privacy, illecita diffusione conversazioni private Bova, multato Corona",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/garante-privacy-illecita-diffusione-conversazioni-private-bova-multato-corona_c9df3f16-efef-45c4-923f-a384a09c629e.html",
-     "data": "2026-09-03T14:38:51+00:00"
-    },
-    {
-     "titolo": "Su autonomia centrodestra si ricompatta in Veneto, passa mozione su preintese",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/su-autonomia-centrodestra-si-ricompatta-in-veneto-passa-mozione-su-preintese_88dfde50-8b3d-453b-b8a9-6d231f0cd980.html",
-     "data": "2026-09-03T14:27:18+00:00"
-    },
-    {
-     "titolo": "Fine vita, dalla Consulta otto decisioni in otto anni",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/fine-vita-dalla-consulta-otto-decisioni-in-otto-anni_9e327cce-da91-4206-8190-802e636674fd.html",
-     "data": "2026-09-03T14:32:16+00:00"
-    },
-    {
-     "titolo": "Salvo Sottile insultato dagli inviati di Report nel cortile della sede Rai di Via Teulada",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/salvo-sottile-insultato-dagli-inviati-di-report-nel-cortile-della-sede_3b559d43-4167-497b-b363-5ff932e5b3df.html",
-     "data": "2026-09-03T13:18:05+00:00"
-    },
-    {
-     "titolo": "Il governo Meloni eguaglia il Berlusconi II, domani il record di longevità e la festa",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/il-governo-meloni-eguaglia-il-berlusconi-ii-domani-il-record-di-longevita-e-la-festa_70bfd96c-a438-41fc-ba4b-3108938afbc8.html",
-     "data": "2026-09-03T15:07:31+00:00"
-    },
-    {
-     "titolo": "È morto Fabio Mussi, ministro del governo Prodi e dirigente di Sinistra italiana Avs",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/e-morto-fabio-mussi-ministro-del-governo-prodi-e-dirigente-di-sinistra-italiana_dfb7c40e-1f66-45ef-8dd5-5c2da59bca1c.html",
-     "data": "2026-09-03T09:56:12+00:00"
-    },
-    {
-     "titolo": "Crosetto: 'La Russia da mesi sta provocando e testando'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/crosetto-la-russia-da-mesi-sta-provocando-e-testando_d41665d9-aed0-4bd6-9260-a7dfb2dc3eae.html",
-     "data": "2026-09-03T11:27:49+00:00"
-    },
-    {
-     "titolo": "I figli di Dalla Chiesa 'ci ha insegnato il rispetto delle istituzioni'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/i-figli-di-dalla-chiesa-ci-ha-insegnato-il-rispetto-delle-istituzioni_6695828b-7786-4768-9017-6c55db6643f4.html",
-     "data": "2026-09-03T09:04:28+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Via libera Consob all'opa di Tata Motors su Iveco",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/via-libera-consob-allopa-di-tata-motors-su-iveco_8de53948-ac99-46e5-adfe-f94642dab274.html",
+     "data": "2026-09-03T20:17:39+00:00"
+    },
+    {
+     "titolo": "Mps, via libera della Bce all'incorporazione di Mediobanca",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/mps-via-libera-della-bce-allincorporazione-di-mediobanca_1824ae78-bd41-4e7b-9bd1-a57264ceea67.html",
+     "data": "2026-09-03T20:13:51+00:00"
+    },
+    {
+     "titolo": "Il petrolio chiude in leggero rialzo a New York, a 91,13 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/il-petrolio-chiude-in-leggero-rialzo-a-new-york-a-9113-dollari_0ce0f4c0-3c8b-4f20-90db-ef9b764126ff.html",
+     "data": "2026-09-03T18:41:26+00:00"
+    },
+    {
+     "titolo": "Vertenza Electrolux, discussione fiume al tavolo Mimit, si riprende domani",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/vertenza-electrolux-discussione-fiume-al-tavolo-mimit-si-riprende-domani_4146a273-0dea-46f0-acac-78dbe3927f31.html",
+     "data": "2026-09-03T18:32:21+00:00"
+    },
     {
      "titolo": "Il prezzo del gas è in calo a 71,25 euro al megawattora",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/il-prezzo-del-gas-e-in-calo-a-7125-euro-al-megawattora_347c7a67-c44b-476a-9aee-388ec448408d.html",
@@ -294,26 +314,6 @@
      "titolo": "Revolut, primo sì a licenza bancaria negli Usa, previsto lancio nel 2027",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/revolut-primo-si-a-licenza-bancaria-negli-usa-previsto-lancio-nel-2027_767cd8f8-2580-4af5-91ce-d5d0d0e3b627.html",
      "data": "2026-09-03T15:06:57+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa conferma il rialzo, calano i rendimenti dei titoli Stato",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/borsa-leuropa-conferma-il-rialzo-calano-i-rendimenti-dei-titoli-stato_c8c262b1-a885-45d1-9e30-959167e08d0d.html",
-     "data": "2026-09-03T14:21:14+00:00"
-    },
-    {
-     "titolo": "Carburanti, si studia proroga taglio 17 cent su gasolio per 4-5 giorni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/carburanti-si-studia-proroga-taglio-17-cent-su-gasolio-per-4-5-giorni_4b1684b2-1266-4d14-88af-79fd5452b171.html",
-     "data": "2026-09-03T13:44:16+00:00"
-    },
-    {
-     "titolo": "Wall Street apre positiva, Dj a +0,56% e Nasdaq a +0,45%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/wall-street-apre-positiva-dj-a-056-e-nasdaq-a-045_05456977-f695-483f-a1d4-950334f63e0f.html",
-     "data": "2026-09-03T13:42:33+00:00"
-    },
-    {
-     "titolo": "Media, Vw intende ritirare il marchio Seat dal mercato",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/media-vw-intende-ritirare-il-marchio-seat-dal-mercato_224173f9-7147-4ca5-8ab1-dd1b468f9a2b.html",
-     "data": "2026-09-03T13:37:35+00:00"
     }
    ]
   },
@@ -451,64 +451,64 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Us Open: Bellucci travolto da Fritz al secondo turno",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/03/us-open-bellucci-travolto-da-fritz-al-secondo-turno_13622c1f-34f9-43b6-a52f-d4c0e8ee1a4f.html",
+     "data": "2026-09-03T19:56:41+00:00"
+    },
+    {
+     "titolo": "Calcio: Sky, serata-show per lanciare la stagione delle coppe europee",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/03/calcio-sky-serata-show-per-lanciare-la-stagione-delle-coppe-europee_c12beb45-35f2-44be-9bd2-8ca9a26c502b.html",
+     "data": "2026-09-03T19:37:50+00:00"
+    },
+    {
+     "titolo": "Tennis: al Tc Parioli cena gala per campionati italiani U.15,dedicati a Mattia Maselli",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/03/tennis-al-tc-parioli-cena-gala-per-campionati-italiani-u.15dedicati-a-mattia-maselli_da9d3c7d-75e9-43f4-973c-c9ae626d5fc8.html",
+     "data": "2026-09-03T19:14:21+00:00"
+    },
+    {
+     "titolo": "Us Open: Darderi va al terzo turno, batte Svrcina in quattro set. Fuori Bellucci",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/03/us-open-darderi-va-al-terzo-turno-batte-svrcina-in-quattro-set_0250c83d-affa-40b0-ab42-4ecbd2ce5128.html",
+     "data": "2026-09-03T20:06:06+00:00"
+    },
+    {
+     "titolo": "F1: Hamilton sfila su una Ferrari restaurata: 'La macchina dei miei sogni'",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/03/f1-hamilton-sfila-su-una-ferrari-restaurata-la-macchina-dei-miei-sogni_7a6823fe-e0ae-4b0c-ad36-d1b11e83f36f.html",
+     "data": "2026-09-03T18:44:22+00:00"
+    },
+    {
+     "titolo": "F1: Gasly, 'quest'anno la macchina va più forte, ora anche pezzi nuovi'",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/03/f1-gasly-questanno-la-macchina-va-piu-forte-ora-anche-pezzi-nuovi_b00c30f7-9e84-4e9e-b8f3-ebdbf648f5cc.html",
+     "data": "2026-09-03T18:23:43+00:00"
+    },
+    {
+     "titolo": "Martinelli lascia l'Arsenal, quadriennale con l'Al-Hilal",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/03/martinelli-lascia-larsenal-quadriennale-con-lal-hilal_a97d1d6c-021a-4aee-b789-f2dc076ab7a9.html",
+     "data": "2026-09-03T18:23:26+00:00"
+    },
+    {
+     "titolo": "F1: Briatore, 'in Formula 1 il pilota conta solo per il 20%'",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/03/f1-briatore-in-formula-1-il-pilota-conta-solo-per-il-20_d0ceb17f-29a8-48a1-9830-80fefe999f97.html",
+     "data": "2026-09-03T18:19:08+00:00"
+    },
+    {
+     "titolo": "Serie A: l'Atalanta recupera Kristensen, nuovi acquisti convocati per Roma",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/03/serie-a-latalanta-recupera-kristensen-nuovi-acquisti-convocati-per-roma_b86b66bc-f291-4923-a368-47953ed59ad9.html",
+     "data": "2026-09-03T18:17:17+00:00"
+    },
+    {
+     "titolo": "Us Open: avanzano Swiatek e Osaka, Keys la spunta in rimonta",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/03/us-open-avanzano-swiatek-e-osaka-keys-la-spunta-in-rimonta_1e302524-2857-4b2b-9ede-fe0d841fdeac.html",
+     "data": "2026-09-03T18:21:54+00:00"
+    },
+    {
+     "titolo": "Coppa Italia: il Palermo ne fa 5 al Mantova e accede agli ottavi",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/03/coppa-italia-il-palermo-ne-fa-5-al-mantova-e-accede-agli-ottavi_ab58045e-f6d8-4574-a44e-4b1af4f6abf5.html",
+     "data": "2026-09-03T18:22:32+00:00"
+    },
+    {
      "titolo": "Serie A: Catherine Commisso nominata vicepresidente della Fiorentina",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/03/serie-a-catherine-commisso-nominata-vicepresidente-della-fiorentina_cb2e344e-f86a-4919-866b-d22609402c48.html",
      "data": "2026-09-03T17:58:29+00:00"
-    },
-    {
-     "titolo": "Serie A: per El Sharaawy primo allenamento col Genoa, può essere convocato",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/03/serie-a-per-el-sharaawy-primo-allenamento-col-genoa-puo-essere-convocato_531a2800-96b3-4456-811e-ba189d875702.html",
-     "data": "2026-09-03T17:42:43+00:00"
-    },
-    {
-     "titolo": "Eurovolley: Fahr, 'la Svezia ci è servita, cariche per la semifinale'",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/03/eurovolley-fahr-la-svezia-ci-e-servita-cariche-per-la-semifinale_a0fbedb9-3b6a-4cba-8dc3-8a3ba02ebf7b.html",
-     "data": "2026-09-03T17:35:24+00:00"
-    },
-    {
-     "titolo": "Mondiali basket: l'ambasciatore a Berlino incontra le azzurre, 'da domani colleghe'",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/03/mondiali-basket-lambasciatore-a-berlino-incontra-le-azzurre-da-domani-colleghe_db4d7b7b-c00a-47f3-b117-3bcc4dad5542.html",
-     "data": "2026-09-03T17:10:40+00:00"
-    },
-    {
-     "titolo": "Canoa: De Gennaro nuovo show a Parigi, oro nel K1 in coppa del mondo",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/03/canoa-de-gennaro-nuovo-show-a-parigi-oro-nel-k1-in-coppa-del-mondo_bea9e7f9-79cf-454a-a400-2233f7c3ba3d.html",
-     "data": "2026-09-03T16:30:22+00:00"
-    },
-    {
-     "titolo": "Us Open: feste e moda, Sabalenka perde le staffe a una domanda 'pensate e poi parlate'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/03/us-open-feste-e-moda-sabalenka-perde-le-staffe-a-una-domanda-pensate-e-poi_dc22bef4-ea7a-432f-b5fa-2c0ae0a77bdb.html",
-     "data": "2026-09-03T16:22:33+00:00"
-    },
-    {
-     "titolo": "Equitazione: salto a ostacoli, Bucci in top ten nel Longines World Rankings",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/03/equitazione-salto-a-ostacoli-bucci-in-top-ten-nel-longines-world-rankings_a5885606-649f-4de6-90cf-a678d9fdc43d.html",
-     "data": "2026-09-03T15:58:50+00:00"
-    },
-    {
-     "titolo": "Eurovolley: è la Polonia l'avversaria delle azzurre in semifinale",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/03/eurovolley-e-la-polonia-lavversaria-delle-azzurre-in-semifinale_0ce4927f-c31c-494d-bb65-fce25c401703.html",
-     "data": "2026-09-03T15:56:40+00:00"
-    },
-    {
-     "titolo": "Vuelta: Omrzel vince la 12/a tappa, Mas allunga sugli altri big",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/03/vuelta-omrzel-vince-la-12a-tappa-mas-allunga-sugli-altri-big_ab81f0e5-c990-4cff-bfcd-3852126419e9.html",
-     "data": "2026-09-03T16:20:51+00:00"
-    },
-    {
-     "titolo": "Auto: velocità salita, la 11^ Monte Erice Storica scalda i motori con primato iscritti",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/03/auto-velocita-salita-la-11-monte-erice-storica-scalda-i-motori-con-primato_3c407053-f4c2-4c8d-8dd6-0fbee77bcfaf.html",
-     "data": "2026-09-03T15:54:04+00:00"
-    },
-    {
-     "titolo": "A Milano parte il conto alla rovescia per la finale di Euro Volley 2026",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/03/a-milano-parte-il-conto-alla-rovescia-per-la-finale-di-euro-volley-2026_0ad09ca6-611b-435f-a81a-aa796ab2b045.html",
-     "data": "2026-09-03T15:46:58+00:00"
-    },
-    {
-     "titolo": "Atletica: la Night Run Monzino illumina CityLife nel segno della prevenzione",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/03/atletica-la-night-run-monzino-illumina-citylife-nel-segno-della-prevenzione_005eef62-1589-4513-9fc2-a13044a3181e.html",
-     "data": "2026-09-03T15:44:47+00:00"
     }
    ]
   }
