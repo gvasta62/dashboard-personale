@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-02T23:23:46.230968+00:00",
+ "aggiornato": "2026-09-03T01:14:14.699750+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,54%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/borsa-tokyo-apertura-in-rialzo-054_7462f470-6fd7-4f64-b29c-14a6bb342c9a.html",
+     "data": "2026-09-03T00:20:24+00:00"
+    },
     {
      "titolo": "Vannacci, 'Meloni al Quirinale? Perché no, sarebbe un ottimo capo dello Stato'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/vannacci-meloni-al-quirinale-perche-no-sarebbe-un-ottimo-capo-dello-stato_98ffcb18-0531-4119-a45b-e4d82d8ec836.html",
@@ -49,11 +54,6 @@
      "titolo": "Muti, 'far risuonare Verdi a Sant'Agata perché quella casa non resti in silenzio'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/muti-far-risuonare-verdi-a-santagata-perche-quella-casa-non-resti_2deeebe5-eb42-4121-b767-93204046e797.html",
      "data": "2026-09-02T17:18:54+00:00"
-    },
-    {
-     "titolo": "Eni, accordo in Venezuela, sarà operatore del giacimento giant Junin-5",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/eni-accordo-in-venezuela-sara-operatore-del-giacimento-giant-junin-5_f0e9541c-46fa-4637-942e-7d73496c54b0.html",
-     "data": "2026-09-02T17:06:19+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,54%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/borsa-tokyo-apertura-in-rialzo-054_670e2d9a-0a3b-4b45-84e1-6ea1847e93a8.html",
+     "data": "2026-09-03T00:20:26+00:00"
+    },
+    {
      "titolo": "Ferrovie, sciopero dei treni del 7 e 8 settembre",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/ferrovie-sciopero-dei-treni-del-7-e-8-settembre_a5e94309-0027-4169-9d15-6c1dd21425fb.html",
      "data": "2026-09-02T19:14:04+00:00"
@@ -309,11 +314,6 @@
      "titolo": "Borsa: Milano chiude in calo, Ftse Mib -0,24%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/borsa-milano-chiude-in-calo-ftse-mib-024_12d1da0b-6acc-4bc6-92ac-b3e4d5be3ab6.html",
      "data": "2026-09-02T15:51:14+00:00"
-    },
-    {
-     "titolo": "Mapei cresce in Polonia",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/mapei-cresce-in-polonia_affa3fa0-84f6-4a16-bbc2-dc0628d08193.html",
-     "data": "2026-09-02T14:50:15+00:00"
     }
    ]
   },
