@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-03T01:14:14.699750+00:00",
+ "aggiornato": "2026-09-03T05:56:31.521472+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "'Hegseth estende il dispiegamento delle truppe Usa in Medio Oriente fino al 2027'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/hegseth-estende-il-dispiegamento-delle-truppe-usa-in-medio-oriente-fino-al-2027_c0dd6b16-2b94-45c0-83f6-3a910a617972.html",
+     "data": "2026-09-03T04:55:15+00:00"
+    },
+    {
+     "titolo": "Us Open, Berrettini eliminato al secondo turno dall'argentino Navone",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/us-open-berrettini-eliminato-al-secondo-turno-dallargentino-navone_987d796f-25d2-4ca9-861d-09babd58d78e.html",
+     "data": "2026-09-03T02:39:14+00:00"
+    },
     {
      "titolo": "Borsa: Tokyo, apertura in rialzo (+0,54%)",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/borsa-tokyo-apertura-in-rialzo-054_7462f470-6fd7-4f64-b29c-14a6bb342c9a.html",
@@ -44,16 +54,6 @@
      "titolo": "George Clooney, 'nessuno ride o piange in lingue diverse'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/george-clooney-nessuno-ride-o-piange-in-lingue-diverse_8bf9662f-4ea1-4e16-9f84-87b4bc72be51.html",
      "data": "2026-09-02T18:00:03+00:00"
-    },
-    {
-     "titolo": "Malta, assolto presunto mandante dell'omicidio di Daphne Caruana Galizia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/malta-assolto-presunto-mandante-dellomicidio-di-daphne-caruana-galizia_93da241d-d88c-4601-88c6-5774cb6ac848.html",
-     "data": "2026-09-02T17:53:01+00:00"
-    },
-    {
-     "titolo": "Muti, 'far risuonare Verdi a Sant'Agata perché quella casa non resti in silenzio'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/02/muti-far-risuonare-verdi-a-santagata-perche-quella-casa-non-resti_2deeebe5-eb42-4121-b767-93204046e797.html",
-     "data": "2026-09-02T17:18:54+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "'Hegseth estende il dispiegamento delle truppe Usa in Medio Oriente fino al 2027'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/03/hegseth-estende-il-dispiegamento-delle-truppe-usa-in-medio-oriente-fino-al-2027_87106117-11b6-4c71-8529-f71a261ca02e.html",
+     "data": "2026-09-03T04:55:33+00:00"
+    },
+    {
+     "titolo": "Vendite record di auto in Messico nei primi otto mesi del 2026",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/03/vendite-record-di-auto-in-messico-nei-primi-otto-mesi-del-2026_d75199f0-46a4-4f72-aefb-54ce05b4b033.html",
+     "data": "2026-09-03T01:36:00+00:00"
+    },
+    {
      "titolo": "Uruguay, spostato impianto di idrogeno verde per allentare le tensioni con l'Argentina",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/03/uruguay-spostato-impianto-di-idrogeno-verde-per-allentare-le-tensioni-con-largentina_21a238b3-014c-40b9-a6f1-3a1652773be8.html",
      "data": "2026-09-02T22:29:13+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Malta: assolto il presunto mandante dell'omicidio di Daphne Caruana Galizia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/02/malta-assolto-il-presunto-mandante-dellomicidio-di-daphne-caruana-galizia-_4c652135-473a-4a26-a243-45ea3111101f.html",
      "data": "2026-09-02T19:23:55+00:00"
-    },
-    {
-     "titolo": "Malta, assolto presunto mandante dell'omicidio di Daphne Caruana Galizia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/02/malta-assolto-presunto-mandante-dellomicidio-di-daphne-caruana-galizia_02e30d29-1cdc-490f-856e-ec9aa27f3cca.html",
-     "data": "2026-09-02T17:53:14+00:00"
-    },
-    {
-     "titolo": "Sudafrica scagiona l'ambasciatore in India sul caso Gupta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/02/sudafrica-scagiona-lambasciatore-in-india-sul-caso-gupta_b12ed485-238a-447a-a691-cf6403a49be8.html",
-     "data": "2026-09-02T16:35:40+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Us Open, Berrettini eliminato al secondo turno dall'argentino Navone",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/03/us-open-berrettini-eliminato-al-secondo-turno-dallargentino-navone_74a93f82-aaf2-4c58-9278-920c06e88ef3.html",
+     "data": "2026-09-03T05:51:26+00:00"
+    },
+    {
      "titolo": "Maltempo sugli Us Open, ritardi e i prezzi dei biglietti crollano",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/02/maltempo-sugli-us-open-ritardi-e-i-prezzi-dei-biglietti-crollano_1dc330d1-af1b-4a3d-81e4-c191be551675.html",
      "data": "2026-09-02T22:31:03+00:00"
@@ -463,7 +468,7 @@
     {
      "titolo": "Europei di volley: l'Italia soffre con la Svezia, ma è in semifinale",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/02/europei-di-volley-litalia-soffre-con-la-svezia-ma-e-in-semifinale_954b07fe-7ae3-4c56-841a-b3ad4f404adf.html",
-     "data": "2026-09-02T20:40:31+00:00"
+     "data": "2026-09-03T05:52:01+00:00"
     },
     {
      "titolo": "Fiorentina All Stars-Legends, festa e campioni in campo per i 100 anni viola",
@@ -504,11 +509,6 @@
      "titolo": "Carnevali, Europa League obiettivo prioritario della Juve",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/carnevali-europa-league-obiettivo-prioritario-della-juve_f9a766b4-ef5f-4896-a675-53972c812480.html",
      "data": "2026-09-02T22:31:25+00:00"
-    },
-    {
-     "titolo": "Inter: Dimarco 'rinnovo? Non ne abbiamo parlato, speravo accadesse'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/02/inter-dimarco-rinnovo-non-ne-abbiamo-parlato-speravo-accadesse_51936efa-c7bd-4d36-aa44-d869ff90a287.html",
-     "data": "2026-09-02T19:27:05+00:00"
     }
    ]
   }
