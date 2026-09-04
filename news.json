@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-09-04T18:29:56.213438+00:00",
+ "aggiornato": "2026-09-04T20:55:28.167780+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Serie A: Genoa-Como 1-4",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/04/serie-a-genoa-como-1-4_80b9c9af-757d-4bbe-b893-2143fd756b33.html",
+     "data": "2026-09-04T20:41:25+00:00"
+    },
+    {
+     "titolo": "Trump, 'per Xi cena di stato, abbiamo un buon rapporto commerciale con la Cina'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/04/trump-per-xi-cena-di-stato-abbiamo-un-buon-rapporto-commerciale-con-la-cina_dee7804b-4cc5-46f1-adf2-350e1438c9bf.html",
+     "data": "2026-09-04T19:21:12+00:00"
+    },
+    {
+     "titolo": "Trump, 'parlo con Putin, non intende attaccare i territori della Nato'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/04/trump-parlo-con-putin-non-intende-attaccare-i-territori-della-nato_f217bd9a-a7be-40c5-94e2-e43320cab1aa.html",
+     "data": "2026-09-04T18:58:38+00:00"
+    },
     {
      "titolo": "'Trump sta lavorando ad un piano per il dopo-guerra in Medio Oriente'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/04/trump-sta-lavorando-ad-un-piano-per-il-dopo-guerra-in-medio-oriente_7a3f28fb-d2c8-4a0e-b9fb-937819924325.html",
@@ -39,21 +54,6 @@
      "titolo": "Bartiromo smentisce, 'non sono stata licenziata'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/04/bartiromo-smentisce-non-sono-stata-licenziata_0bf375a3-af74-4090-ae08-a124705f1cf8.html",
      "data": "2026-09-04T17:08:26+00:00"
-    },
-    {
-     "titolo": "Due ex impiegate di Julio Iglesias presentano nuova denuncia per aggressione sessuale",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/04/due-ex-impiegate-di-julio-iglesias-presentano-nuova-denuncia-per-aggressione-sessuale_1de8c672-f269-4a94-b13f-c22a7daa86ac.html",
-     "data": "2026-09-04T17:08:35+00:00"
-    },
-    {
-     "titolo": "Media, 'due morti in un attacco di droni israeliani nel sud del Libano'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/04/media-due-morti-in-un-attacco-di-droni-israeliani-nel-sud-del-libano_b43aced0-41bf-4da5-a406-242d20377b52.html",
-     "data": "2026-09-04T17:06:17+00:00"
-    },
-    {
-     "titolo": "Autorità Trasporti, multa da 1,75 milioni a Rfi per il caos treni per 'il chiodo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/04/autorita-trasporti-multa-da-175-milioni-a-rfi-per-il-caos-treni-per_3db21af4-e67a-496b-ab01-8f87a5b24d33.html",
-     "data": "2026-09-04T16:59:35+00:00"
     }
    ]
   },
@@ -126,19 +126,54 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Ucciso in un agguato a Udine, si cerca l'ex compagno della vittima",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/ucciso-in-un-agguato-a-udine-si-cerca-lex-compagno-della-vittima_d4d01284-0f34-4ed6-b48c-a1ac3ba3fa24.html",
+     "data": "2026-09-04T20:50:02+00:00"
+    },
+    {
+     "titolo": "Chiazza di gasolio nel Naviglio Grande, galleggianti per contenere lo sversamento",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/chiazza-di-gasolio-nel-naviglio-grande-galleggianti-per-contenere-lo-sversamento_9de76e10-3850-416d-9163-aa4392ff5a2b.html",
+     "data": "2026-09-04T20:03:05+00:00"
+    },
+    {
+     "titolo": "Porto di Bari off limits, contro-manifestazione polemica ma pacifica",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/porto-di-bari-off-limits-contro-manifestazione-polemica-ma-pacifica-_3d5b6ec8-52cf-4d5f-a3e0-a191cbf99eb1.html",
+     "data": "2026-09-04T19:25:03+00:00"
+    },
+    {
+     "titolo": "Younes è in Italia: 'Averlo qui è come aver vinto la Champions'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/younes-e-in-italia-averlo-qui-e-come-aver-vinto-la-champions_fabc4ba6-1767-4843-8d92-2a561a3252f7.html",
+     "data": "2026-09-04T18:53:43+00:00"
+    },
+    {
+     "titolo": "Si tuffa in un laghetto per la pesca e muore annegato in Polesine",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/si-tuffa-in-un-laghetto-per-la-pesca-e-muore-annegato-in-polesine_a7179b58-9e8a-43d8-942d-e6ec5c5c3416.html",
+     "data": "2026-09-04T18:31:44+00:00"
+    },
+    {
+     "titolo": "Il femminicidio di Lorena: 'Aveva paura ma non voleva denunciarlo'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/il-femminicidio-di-lorena-la-madre-aveva-paura-di-lui_42a061ec-c92c-4861-8e36-aa8e1be40ff1.html",
+     "data": "2026-09-04T19:07:15+00:00"
+    },
+    {
      "titolo": "Preparavano ordigni per assalti a bancomat, 2 morti ad Andria",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/preparavano-ordigni-per-assalti-a-bancomat-2-morti-ad-andria_9421b68e-08c5-48ef-b43d-a8bf5fc78b5c.html",
-     "data": "2026-09-04T18:09:55+00:00"
+     "data": "2026-09-04T19:47:47+00:00"
     },
     {
      "titolo": "Nel Trevigiano una donna contagiata da dengue dopo il rientro dallo Sri Lanka",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/nel-trevigiano-una-donna-contagiata-da-dengue-dopo-il-rientro-dallo-sri_92ac00c4-3b94-4238-b531-103d67e510ee.html",
-     "data": "2026-09-04T18:05:25+00:00"
+     "data": "2026-09-04T18:35:15+00:00"
     },
     {
      "titolo": "Al via l'ultimo controesodo, da mercoledì giù le temperature",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/al-via-lultimo-controesodo-da-mercoledi-giu-le-temperature_5139f363-b585-41b1-8e0c-1659bbd732bf.html",
      "data": "2026-09-04T17:21:35+00:00"
+    },
+    {
+     "titolo": "La strage di Finale Ligure, sequestrati i biglietti nella casa",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/la-strage-di-finale-ligure-sequestrati-i-biglietti-nella-casa_5b992255-f8ce-4a48-81b8-c2e3eb56a0b4.html",
+     "data": "2026-09-04T19:51:43+00:00"
     },
     {
      "titolo": "Sempio declina l'invito: 'Non incontrerò il consulente psichiatrico dei pm'",
@@ -149,47 +184,22 @@
      "titolo": "Abusi su 13enne, presidio associazione anti-pedofilia davanti a tribunale Torino",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/abusi-su-13enne-presidio-associazione-anti-pedofilia-davanti-a-tribunale-torino_82f44dcf-1a8e-4d1d-9d5a-2c2924709427.html",
      "data": "2026-09-04T16:56:36+00:00"
-    },
-    {
-     "titolo": "Gravi ma stabili le condizioni del bimbo in coma dopo incidente a Sharm",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/gravi-ma-stabili-le-condizioni-del-bimbo-in-coma-dopo-incidente-a-sharm_52ad1664-5c3b-477a-a34b-1688eea1930d.html",
-     "data": "2026-09-04T16:42:21+00:00"
-    },
-    {
-     "titolo": "Madre di un detenuto si incatena davanti a Tribunale sorveglianza di Roma",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/madre-di-un-detenuto-si-incatena-davanti-a-tribunale-sorveglianza-di-roma_7ec92b18-16f3-4ae9-a6a3-68850636d9eb.html",
-     "data": "2026-09-04T18:05:43+00:00"
-    },
-    {
-     "titolo": "Puntava al record sul Cervino, dispersa la skyrunner canadese",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/puntava-al-record-sul-cervino-dispersa-la-skyrunner-canadese_d1e70ce7-bb82-4b08-882e-e06e53adc7f6.html",
-     "data": "2026-09-04T16:22:13+00:00"
-    },
-    {
-     "titolo": "Gip in sentenza di patteggiamento, 'prove granitiche sul sistema Equalize'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/gip-in-sentenza-di-patteggiamento-prove-granitiche-sul-sistema-equalize_9ec60856-01ac-40b4-9fa1-f68271b0a8ad.html",
-     "data": "2026-09-04T18:05:56+00:00"
-    },
-    {
-     "titolo": "Al via la festa al porto di Bari per il governo più longevo, c'è anche la contro-manifestazione",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/al-via-la-festa-al-porto-di-bari-per-il-governo-piu-longevo-sostenitori-in-arrivo_3d5b6ec8-52cf-4d5f-a3e0-a191cbf99eb1.html",
-     "data": "2026-09-04T18:24:04+00:00"
-    },
-    {
-     "titolo": "Accoltella i genitori e la sorella, fermato 30enne per tentato omicidio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/accoltella-i-genitori-e-la-sorella-fermato-30enne-per-tentato-omicidio_55c1640f-a504-489c-b1bf-53cada808a57.html",
-     "data": "2026-09-04T18:19:47+00:00"
-    },
-    {
-     "titolo": "Picchiato a morte a Cervia, minorenne indagato al Gip 'non l'ho colpito'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/picchiato-a-morte-a-cervia-minorenne-indagato-al-gip-non-lho-colpito_714df60b-b9d1-4faf-a9eb-32669593b631.html",
-     "data": "2026-09-04T14:59:50+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Salvini: 'Trovato l'accordo su una legge elettorale fatta bene'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/04/salvini-trovato-laccordo-su-una-legge-elettorale-fatta-bene_30732d8d-2f3f-4909-ab55-3db6af2b6a65.html",
+     "data": "2026-09-04T20:03:14+00:00"
+    },
+    {
+     "titolo": "Opposizioni compatte contro il governo: 'La premier festeggia e gli italiani pagano'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/04/opposizioni-compatte-contro-il-governo-la-premier-festeggia-e-gli-italiani-pagano_4bae3dec-508d-49b7-9eb2-6703de7f25c2.html",
+     "data": "2026-09-04T19:30:24+00:00"
+    },
     {
      "titolo": "Meloni, certi giorni sembrava di nuotare nella colla ma non ho mollato",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/04/meloni-certi-giorni-sembrava-di-nuotare-nella-colla-ma-non-ho-mollato_2292d0e0-2c73-4976-95e2-68cb74ad4cb5.html",
@@ -211,9 +221,9 @@
      "data": "2026-09-04T17:26:55+00:00"
     },
     {
-     "titolo": "Meloni: 'Abbiamo più consenso del primo giorno, ne siamo fieri'",
+     "titolo": "Meloni festeggia a Bari il record e lancia la sfida: 'Non ho mollato e non mollerò'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/04/meloni-abbiamo-piu-consenso-del-primo-giorno-ne-siamo-fieri-_d771cf5d-2adc-4689-a8ca-d3189bc9d359.html",
-     "data": "2026-09-04T18:17:37+00:00"
+     "data": "2026-09-04T19:58:45+00:00"
     },
     {
      "titolo": "Schlein, mentre Meloni festeggia a Bari, a Taranto partono i licenziamenti",
@@ -239,16 +249,6 @@
      "titolo": "Manifesti di Futuro Nazionale a Bari su sicurezza e remigrazione nel giorno della festa di FdI",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/04/manifesti-di-futuro-nazionale-a-bari-su-sicurezza-e-remigrazione-nel-giorno-della-festa_8cd97821-0b7c-48ab-bef4-b8b51439da1a.html",
      "data": "2026-09-04T11:31:58+00:00"
-    },
-    {
-     "titolo": "Il taglio delle accise sul diesel prorogato al 10 settembre",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/04/pronto-il-nuovo-decreto-il-taglio-delle-accise-diesel-sara-prorogato-al-10-settembre_23890cd9-945d-4dc7-832d-6802e5c5e194.html",
-     "data": "2026-09-04T15:20:16+00:00"
-    },
-    {
-     "titolo": "Vannacci, \"me ne frego\" delle accuse e \"all'alba vincerò\"",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/04/vannacci-me-ne-frego-delle-accuse-e-allalba-vincero_c5d0565a-8fc9-481b-804d-beaef9742eee.html",
-     "data": "2026-09-04T10:50:20+00:00"
     }
    ]
   },
@@ -321,6 +321,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ultimatum dell'Argentina a 180 aziende petrolifere alle Falkland-Malvinas",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/ultimatum-dellargentina-a-180-aziende-petrolifere-alle-falkland-malvinas_485d333d-c031-4185-bb77-bd22da47b333.html",
+     "data": "2026-09-04T20:37:45+00:00"
+    },
+    {
+     "titolo": "Brasile, fondatore del Banco Master, 'agenti minacciarono di gettarmi dall'elicottero'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/brasile-fondatore-del-banco-master-agenti-minacciarono-di-gettarmi-dallelicottero_326479fe-d526-42f3-af79-38987602760e.html",
+     "data": "2026-09-04T20:01:25+00:00"
+    },
+    {
+     "titolo": "Al via a Buenos Aires una nuova edizione della Settimana del Cinema Italiano",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/al-via-a-buenos-aires-una-nuova-edizione-della-settimana-del-cinema_a44d5aa2-8646-4870-87cf-c79be5ec132a.html",
+     "data": "2026-09-04T19:25:08+00:00"
+    },
+    {
+     "titolo": "Trump, 'per Xi cena di stato, abbiamo un buon rapporto commerciale con la Cina'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/04/trump-per-xi-cena-di-stato-abbiamo-un-buon-rapporto-commerciale-con-la-cina_3a127dee-e048-4f40-a6b9-2987bbb3203f.html",
+     "data": "2026-09-04T19:21:15+00:00"
+    },
+    {
+     "titolo": "Trump, 'parlo con Putin, non intende attaccare i territori della Nato'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/04/trump-parlo-con-putin-non-intende-attaccare-i-territori-della-nato_8b0fe439-307c-4c17-b3f7-1c8afa33a0ff.html",
+     "data": "2026-09-04T18:58:38+00:00"
+    },
+    {
      "titolo": "'Trump sta lavorando ad un piano per il dopo-guerra in Medio Oriente'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/04/trump-sta-lavorando-ad-un-piano-per-il-dopo-guerra-in-medio-oriente_696a6863-8afb-492f-958e-a71aefa602bf.html",
      "data": "2026-09-04T18:05:50+00:00"
@@ -354,31 +379,6 @@
      "titolo": "Due ex impiegate di Julio Iglesias presentano nuova denuncia per aggressione sessuale",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/04/due-ex-impiegate-di-julio-iglesias-presentano-nuova-denuncia-per-aggressione-sessuale_f9d9e0b9-df98-42e1-a6d5-3277d9344823.html",
      "data": "2026-09-04T17:08:52+00:00"
-    },
-    {
-     "titolo": "Due ex impiegate di Julio Iglesias presentano nuova denuncia per aggressione sessuale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/due-ex-impiegate-di-julio-iglesias-presentano-nuova-denuncia-per-aggressione-sessuale_cf567ddd-38b3-4775-a375-8a9c0cda64af.html",
-     "data": "2026-09-04T17:08:55+00:00"
-    },
-    {
-     "titolo": "Media, 'due morti in un attacco di droni israeliani nel sud del Libano'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/04/media-due-morti-in-un-attacco-di-droni-israeliani-nel-sud-del-libano_85fdbe4c-de35-406d-89ee-f41efa7d2850.html",
-     "data": "2026-09-04T17:06:44+00:00"
-    },
-    {
-     "titolo": "Gli annunci di Milei sulla questione Malvinas spiazzano l'opposizione in Argentina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/gli-annunci-di-milei-sulla-questione-malvinas-spiazzano-lopposizione-in-argentina_d25a5ac2-d5cf-40b9-acb4-f8139dac23e6.html",
-     "data": "2026-09-04T17:02:49+00:00"
-    },
-    {
-     "titolo": "Caso Master, Lula 'nessuno può utilizzare la carica a proprio beneficio'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/caso-master-lula-nessuno-puo-utilizzare-la-carica-a-proprio-beneficio_ac664a31-f0c3-4419-b24f-b83ee939c63b.html",
-     "data": "2026-09-04T16:57:15+00:00"
-    },
-    {
-     "titolo": "Zelensky a Mosca, 'cessino i raid durante le visite di Witkoff e Kushner'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/04/zelensky-a-mosca-cessino-i-raid-durante-le-visite-di-witkoff-e-kushner_9dbe9c72-e47b-4f00-8ca1-083e46cc3ed5.html",
-     "data": "2026-09-04T16:40:30+00:00"
     }
    ]
   },
@@ -451,9 +451,49 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "La Ferrari competitiva a Monza, solo Russell precede Leclerc nelle libere",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/04/la-ferrari-competitiva-a-monza-solo-russell-precede-leclerc-nelle-libere_c92fb338-8bec-4f35-a5f0-abc984fdb59f.html",
-     "data": "2026-09-04T17:53:24+00:00"
+     "titolo": "Crisi Genoa, a Marassi il Como stravince 4-1. Doppietta di Diao CRONACA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/04/crisi-genoa-a-marassi-il-como-stravince-4-1.-doppietta-di-diao-cronaca-e-foto_e2438f13-e0c0-4a89-807e-fbe2c2887964.html",
+     "data": "2026-09-04T20:42:26+00:00"
+    },
+    {
+     "titolo": "Serie A: Genoa-Como 1-4",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/04/serie-a-genoa-como-1-4_8ab2c447-b8ff-464b-95e6-7040c6eae677.html",
+     "data": "2026-09-04T20:41:25+00:00"
+    },
+    {
+     "titolo": "Eurovolley: azzurre verso semifinale, Velasco: \"Con la Polonia subito aggressive\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/04/eurovolley-azzurre-verso-semifinale-velasco-con-la-polonia-subito-aggressive_7766b71c-3bfb-456f-a46f-18d2a21d295b.html",
+     "data": "2026-09-04T20:39:54+00:00"
+    },
+    {
+     "titolo": "Atletica: Diamond League; Tamberi terzo nell'alto a Bruxelles",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/04/atletica-diamond-league-tamberi-terzo-nellalto-a-bruxelles_2c15f8ef-7481-4921-a0ef-5331f48eca34.html",
+     "data": "2026-09-04T20:40:21+00:00"
+    },
+    {
+     "titolo": "Mondiali basket: Capobianco \"contento per la vittoria, ce la teniamo stretta\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/04/mondiali-basket-capobianco-contento-per-la-vittoria-ce-la-teniamo-stretta_16b46ccf-f787-41bb-b2d1-e78f809ed457.html",
+     "data": "2026-09-04T20:17:00+00:00"
+    },
+    {
+     "titolo": "Mondiali basket: Italia-Repubblica Ceca 63-54, buon esordio delle azzurre",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/04/mondiali-basket-italia-repubblica-ceca-63-54-buon-esordio-delle-azzurre_d7f69514-79b0-4b7f-a829-9e63463d6d53.html",
+     "data": "2026-09-04T20:34:25+00:00"
+    },
+    {
+     "titolo": "F1: il nuovo motore spinge la Ferrari a Monza, sfida per la pole con Russell",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/04/f1-il-nuovo-motore-spinge-la-ferrari-a-monza-sfida-per-la-pole-con-russell_c92fb338-8bec-4f35-a5f0-abc984fdb59f.html",
+     "data": "2026-09-04T19:45:14+00:00"
+    },
+    {
+     "titolo": "Ligue: Luis Enrique al Paris Saint Germain fino al 2030",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/04/ligue-luis-enrique-al-paris-saint-germain-fino-al-2030_97a91a5e-7040-4891-85c0-bddf39457996.html",
+     "data": "2026-09-04T20:34:31+00:00"
+    },
+    {
+     "titolo": "Us Open: odore di marijuana, Sabalenka interrompe una battuta",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/04/us-open-odore-di-marijuana-sabalenka-interrompe-una-battuta_2fbd7fa2-a3b6-4105-9d97-bd6392fd1fbe.html",
+     "data": "2026-09-04T20:34:36+00:00"
     },
     {
      "titolo": "Fiorentina a caccia di riscatto contro il Torino. Grosso, \"Una bella opportunità\"",
@@ -469,46 +509,6 @@
      "titolo": "Us Open: Paolini, \"una giornata difficile ma sono tornata a competere\"",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/04/us-open-paolini-una-giornata-difficile-ma-sono-tornata-a-competere_05c92009-1c32-4f64-8188-a3cced9ebcde.html",
      "data": "2026-09-04T17:38:35+00:00"
-    },
-    {
-     "titolo": "Hamilton 'un po' alti e bassi ma la power unit va nella giusta direzione'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/04/hamilton-un-po-alti-e-bassi-ma-la-power-unit-va-nella-giusta-direzione_bd5a3385-55a5-4bb2-8140-cb2b3111e039.html",
-     "data": "2026-09-04T17:36:08+00:00"
-    },
-    {
-     "titolo": "A Monza il cuore batte Ferrari, ma è già Antonelli-mania",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/04/a-monza-il-cuore-batte-ferrari-ma-e-gia-antonelli-mania_4992a00a-075c-47fd-ae05-4809eee17743.html",
-     "data": "2026-09-04T17:50:51+00:00"
-    },
-    {
-     "titolo": "Us Open: Paolini eliminata, Cirstea passa in due set",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/04/us-open-paolini-eliminata-cirstea-passa-in-due-set_a7140007-f616-421d-83b5-9d90fef2f30b.html",
-     "data": "2026-09-04T17:50:14+00:00"
-    },
-    {
-     "titolo": "Inter: Sneijder 'ero certo che Chivu sarebbe stato grande allenatore'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/04/inter-sneijder-ero-certo-che-chivu-sarebbe-stato-grande-allenatore_66b5dd68-f231-47b8-8524-9f7e93b2254e.html",
-     "data": "2026-09-04T16:43:07+00:00"
-    },
-    {
-     "titolo": "Vuelta: Van Aert vince la 13/a tappa, il leader Mas controlla",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/04/vuelta-van-aert-vince-la-13a-tappa-il-leader-mas-controlla_6f8ef716-581e-4942-a7a0-3bba5c0dc568.html",
-     "data": "2026-09-04T17:06:30+00:00"
-    },
-    {
-     "titolo": "Montezemolo, emozionante la Ferrari a Monza con i colori di Schumacher",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/04/montezemolo-emozionante-la-ferrari-a-monza-con-i-colori-di-schumacher_10996f76-d60b-4e70-bde7-4286492ce735.html",
-     "data": "2026-09-04T14:45:08+00:00"
-    },
-    {
-     "titolo": "Serie A: Roma-Atalanta in campo sabato alle 20.45 DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/04/serie-a-roma-atalanta-in-campo-sabato-alle-20.45-diretta_13875323-af86-4332-ab96-7e6238be8afa.html",
-     "data": "2026-09-04T14:41:37+00:00"
-    },
-    {
-     "titolo": "Serie A: Fiorentina-Torino in campo sabato alle 15 DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/04/serie-a-fiorentina-torino-in-campo-sabato-alle-15-diretta_85b34cec-9152-45b2-9211-9e9719e12a2c.html",
-     "data": "2026-09-04T14:35:04+00:00"
     }
    ]
   }
