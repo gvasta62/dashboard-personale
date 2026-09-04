@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-03T23:21:10.037043+00:00",
+ "aggiornato": "2026-09-04T01:05:24.028366+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,31%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/04/borsa-tokyo-apertura-in-rialzo-031_890eb536-edf8-4913-a805-c1b1b4570f8c.html",
+     "data": "2026-09-04T00:28:29+00:00"
+    },
     {
      "titolo": "Via libera Consob all'opa di Tata Motors su Iveco",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/via-libera-consob-allopa-di-tata-motors-su-iveco_096aff91-4496-46d3-82cb-67e074c31f17.html",
@@ -49,11 +54,6 @@
      "titolo": "Lo spread tra Btp e Bund chiude in calo a 81,6 punti base",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/lo-spread-tra-btp-e-bund-chiude-in-calo-a-816-punti-base_b2640906-f74b-42c5-ae19-4fd14b923b99.html",
      "data": "2026-09-03T16:03:41+00:00"
-    },
-    {
-     "titolo": "Media, 17enne marocchino muore in un centro di accoglienza a Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/03/media-17enne-marocchino-muore-in-un-centro-di-accoglienza-a-ceuta_d6c0de33-589b-4744-882f-f19a9fe0cfd5.html",
-     "data": "2026-09-03T16:02:56+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,31%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/04/borsa-tokyo-apertura-in-rialzo-031_3ef0d0eb-f3eb-43e3-a9f2-32b0aa3a8f58.html",
+     "data": "2026-09-04T00:28:49+00:00"
+    },
+    {
      "titolo": "Via libera Consob all'opa di Tata Motors su Iveco",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/via-libera-consob-allopa-di-tata-motors-su-iveco_8de53948-ac99-46e5-adfe-f94642dab274.html",
      "data": "2026-09-03T20:17:39+00:00"
@@ -309,17 +314,22 @@
      "titolo": "Borsa: Milano chiude a +0,88% con Lottomatica, Stellatis, Tim",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/borsa-milano-chiude-a-088-con-lottomatica-stellatis-tim_5d5ea9ac-5607-41b7-8521-609ad33e18b9.html",
      "data": "2026-09-03T15:41:59+00:00"
-    },
-    {
-     "titolo": "Revolut, primo sì a licenza bancaria negli Usa, previsto lancio nel 2027",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/revolut-primo-si-a-licenza-bancaria-negli-usa-previsto-lancio-nel-2027_767cd8f8-2580-4af5-91ce-d5d0d0e3b627.html",
-     "data": "2026-09-03T15:06:57+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Brasile: Lula, 'Banco Master il più grande furto della storia del Paese'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/brasile-lula-banco-master-il-piu-grande-furto-della-storia-del_4025bf25-c8c1-4164-9756-d9a0b6b4f1a5.html",
+     "data": "2026-09-04T00:52:14+00:00"
+    },
+    {
+     "titolo": "Brasile, Moraes accusa Mendonça di reati e chiede a Fachin provvedimenti contro di lui",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/brasile-moraes-accusa-mendonca-di-reati-e-chiede-a-fachin-provvedimenti-contro-di-lui_eab988b9-b4b7-4eb8-af61-762a8054bfcc.html",
+     "data": "2026-09-04T00:21:36+00:00"
+    },
     {
      "titolo": "Brasile, il governo minaccia ritorsioni contro il blocco Ue alla carne",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/brasile-il-governo-minaccia-ritorsioni-contro-il-blocco-ue-alla-carne_040d2ed0-6ea2-42ae-a754-1c3bef51858b.html",
@@ -369,16 +379,6 @@
      "titolo": "Ben-Gvir presenta piano per 'incoraggiamento dell'emigrazione da Gaza'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/03/ben-gvir-presenta-piano-per-incoraggiamento-dellemigrazione-da-gaza_0ca89764-d69b-400e-9a11-a6d66b61e26a.html",
      "data": "2026-09-03T18:00:42+00:00"
-    },
-    {
-     "titolo": "Maria Bartiromo lascia Fox dopo oltre 12 anni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/03/maria-bartiromo-lascia-fox-dopo-oltre-12-anni_a62e8fa9-2ce6-4e24-aa94-08767097dfa4.html",
-     "data": "2026-09-03T17:58:36+00:00"
-    },
-    {
-     "titolo": "Colombia, rimossi vincoli all'attività mineraria e petrolifera in dieci distretti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/03/colombia-rimossi-vincoli-allattivita-mineraria-e-petrolifera-in-dieci-distretti_f8a2dc83-3925-4289-a1d4-b8f39866557f.html",
-     "data": "2026-09-03T17:54:08+00:00"
     }
    ]
   },
