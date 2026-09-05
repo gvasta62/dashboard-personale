@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-05T00:25:56.774041+00:00",
+ "aggiornato": "2026-09-05T04:42:07.416998+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Le sorelle Williams escono di scena agli Us Open dopo un super tiebreak",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/le-sorelle-williams-escono-di-scena-agli-us-open-dopo-un-super-tiebreak_e994b292-0557-439b-a52b-cd8f063e26e5.html",
+     "data": "2026-09-05T02:57:26+00:00"
+    },
+    {
+     "titolo": "Uruguay, nuova emergenza sanitaria per l'influenza aviaria",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/uruguay-nuova-emergenza-sanitaria-per-linfluenza-aviaria_0fe6fdfb-ec67-4e16-be14-6371ad7c459a.html",
+     "data": "2026-09-05T01:01:07+00:00"
+    },
     {
      "titolo": "Serie A: Genoa-Como 1-4",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/04/serie-a-genoa-como-1-4_80b9c9af-757d-4bbe-b893-2143fd756b33.html",
@@ -44,16 +54,6 @@
      "titolo": "Multa da 1,75 milioni a Rfi per il caos treni a Termini dovuto al 'chiodo'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/04/multa-da-175-milioni-a-rfi-per-il-caos-treni-a-termini-dovuto-al-chiodo_86503dd7-aff0-4f08-9fa0-60d3218fbd42.html",
      "data": "2026-09-04T17:17:01+00:00"
-    },
-    {
-     "titolo": "Trump, 'i dem preferiscono vederci perdere in Iran che vedermi vincere'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/04/trump-i-dem-preferiscono-vederci-perdere-in-iran-che-vedermi-vincere_7b75724a-470f-4ef1-b778-3778f7041ef7.html",
-     "data": "2026-09-04T17:11:14+00:00"
-    },
-    {
-     "titolo": "Bartiromo smentisce, 'non sono stata licenziata'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/04/bartiromo-smentisce-non-sono-stata-licenziata_0bf375a3-af74-4090-ae08-a124705f1cf8.html",
-     "data": "2026-09-04T17:08:26+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Al via a Buenos Aires la 12ª edizione della Settimana del Cinema Italiano",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/05/al-via-a-buenos-aires-la-12-edizione-della-settimana-del-cinema-italiano_ae41f593-44eb-440a-8585-8e334fdbc5ff.html",
+     "data": "2026-09-05T03:23:57+00:00"
+    },
+    {
+     "titolo": "Uruguay, nuova emergenza sanitaria per l'influenza aviaria",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/05/uruguay-nuova-emergenza-sanitaria-per-linfluenza-aviaria_7094d627-4fec-4bad-8a9b-f8df60a7127b.html",
+     "data": "2026-09-05T01:01:07+00:00"
+    },
+    {
      "titolo": "Paz, 'in Bolivia ci sono narcoterrorismo e narcotrafficanti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/05/paz-in-bolivia-ci-sono-narcoterrorismo-e-narcotrafficanti_0d3183cd-83da-440a-9eb8-2b9b16a58761.html",
      "data": "2026-09-04T23:07:32+00:00"
@@ -369,16 +379,6 @@
      "titolo": "'Trump sta lavorando ad un piano per il dopo-guerra in Medio Oriente'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/04/trump-sta-lavorando-ad-un-piano-per-il-dopo-guerra-in-medio-oriente_696a6863-8afb-492f-958e-a71aefa602bf.html",
      "data": "2026-09-04T18:05:50+00:00"
-    },
-    {
-     "titolo": "'Trump sta lavorando ad un piano per il dopo-guerra in Medio Oriente'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/04/trump-sta-lavorando-ad-un-piano-per-il-dopo-guerra-in-medio-oriente_1f41fe75-3939-42f4-9bff-b89a4717e2af.html",
-     "data": "2026-09-04T18:05:54+00:00"
-    },
-    {
-     "titolo": "Rallenta l'inflazione in Venezuela, ad agosto +8,9% su mese",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/rallenta-linflazione-in-venezuela-ad-agosto-89-su-mese_518187d2-ead4-44d9-86b9-9cadd079025b.html",
-     "data": "2026-09-04T17:51:11+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Le sorelle Williams escono di scena agli Us Open dopo un super tiebreak",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/05/le-sorelle-williams-escono-di-scena-agli-us-open-dopo-un-super-tiebreak_c9846f54-b2e8-49b2-9935-e3e8442dab7f.html",
+     "data": "2026-09-05T02:57:22+00:00"
+    },
+    {
      "titolo": "È un Como da sogno, 4-1 al Genoa e capolista per una notte",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/e-un-como-da-sogno-4-1-al-genoa-e-capolista-per-una-notte_e2438f13-e0c0-4a89-807e-fbe2c2887964.html",
      "data": "2026-09-04T22:23:05+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Mondiali basket: Italia-Repubblica Ceca 63-54, buon esordio delle azzurre",
      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/04/mondiali-basket-italia-repubblica-ceca-63-54-buon-esordio-delle-azzurre_d7f69514-79b0-4b7f-a829-9e63463d6d53.html",
      "data": "2026-09-04T20:34:25+00:00"
-    },
-    {
-     "titolo": "F1: il nuovo motore spinge la Ferrari a Monza, sfida per la pole con Russell",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/04/f1-il-nuovo-motore-spinge-la-ferrari-a-monza-sfida-per-la-pole-con-russell_c92fb338-8bec-4f35-a5f0-abc984fdb59f.html",
-     "data": "2026-09-04T19:45:14+00:00"
     }
    ]
   }
