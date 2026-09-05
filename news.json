@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-05T17:24:46.002213+00:00",
+ "aggiornato": "2026-09-05T19:09:10.693231+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Putin, 'non abbiamo accettato una tregua più ampia di tre giorni'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/putin-non-abbiamo-accettato-una-tregua-piu-ampia-di-tre-giorni_189e4c34-9af4-4917-b600-2f25556605d8.html",
+     "data": "2026-09-05T18:57:28+00:00"
+    },
+    {
+     "titolo": "A Belgrado il Pride celebra 25 anni, e ritorna alle origini",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/a-belgrado-il-pride-celebra-25-anni-e-ritorna-alle-origini_51af5e50-040d-4a8e-ad74-15fe0b95de40.html",
+     "data": "2026-09-05T18:23:00+00:00"
+    },
     {
      "titolo": "Al via l'incontro di Putin con Witkoff e Kushner, 'la discussione non è semplice'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/al-via-lincontro-di-putin-con-witkoff-e-kushner-la-discussione-non-e-semplice_92cd70bc-1a50-4f0a-8b11-f6346e1aca6e.html",
@@ -44,22 +54,17 @@
      "titolo": "Famiglia nel bosco, video genitori, 'decisione ci spezza il cuore'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/famiglia-nel-bosco-video-genitori-decisione-ci-spezza-il-cuore_5a76e5a4-5a19-4e2f-88aa-39a8165d53a1.html",
      "data": "2026-09-05T14:16:23+00:00"
-    },
-    {
-     "titolo": "Merz, 'non lasciamo che l'AfD distrugga il paese con le sue parole'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/merz-non-lasciamo-che-lafd-distrugga-il-paese-con-le-sue-parole_b7f72438-50bf-46a3-8ca3-5b2df2f60728.html",
-     "data": "2026-09-05T14:04:42+00:00"
-    },
-    {
-     "titolo": "Calenda chiama i liberali, 'un fronte fuori dai due poli, +Europa si unisca'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/calenda-chiama-i-liberali-un-fronte-fuori-dai-due-poli-europa-si-unisca_dffce579-d1f5-4ea9-b560-022174d25a4f.html",
-     "data": "2026-09-05T13:55:47+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Proietti, le politiche per i giovani si costruiscono insieme a loro",
+     "link": "https://www.ansa.it/umbria/notizie/2026/09/05/proietti-le-politiche-per-i-giovani-si-costruiscono-insieme-a-loro_d8df0062-eba5-4262-bb41-cd92eec73b7c.html",
+     "data": "2026-09-05T18:01:53+00:00"
+    },
     {
      "titolo": "Anniversario della canonizzazione di Carlo Acutis lunedì 7 settembre",
      "link": "https://www.ansa.it/umbria/notizie/2026/09/05/anniversario-della-canonizzazione-di-carlo-acutis-lunedi-7-settembre_cd472dfd-e9cf-4bdd-a281-edf95faa66c9.html",
@@ -114,17 +119,17 @@
      "titolo": "Circa 40mila euro il recupero a Foligno della statua dell'Alunno",
      "link": "https://www.ansa.it/umbria/notizie/2026/09/04/circa-40mila-euro-il-recupero-a-foligno-della-statua-dellalunno_b5319cfe-37f2-43b7-9508-9c2c59082a90.html",
      "data": "2026-09-04T16:19:57+00:00"
-    },
-    {
-     "titolo": "Il San Rocco di Bartolomeo Caporali alla Galleria nazionale dell'Umbria",
-     "link": "https://www.ansa.it/umbria/notizie/2026/09/04/il-san-rocco-di-bartolomeo-caporali-alla-galleria-nazionale-dellumbria_00d44769-e183-455c-a88c-812ddc9f3bb5.html",
-     "data": "2026-09-04T14:34:30+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Giovane ferito alla gamba da un colpo di pistola nel Milanese",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/giovane-ferito-alla-gamba-da-un-colpo-di-pistola-nel-milanese_308673b6-b5f5-4224-8dd5-8f6c6b5ad209.html",
+     "data": "2026-09-05T17:34:27+00:00"
+    },
     {
      "titolo": "Incidente al Rally 1000 Miglia, spettatore muore investito",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/incidente-al-rally-1000-miglia-spettatore-muore-investito-_bec2e8ee-51b1-4eda-950e-a377a906ec22.html",
@@ -156,9 +161,9 @@
      "data": "2026-09-05T16:37:07+00:00"
     },
     {
-     "titolo": "Il padre di Lorena: 'La politica sia unita contro la violenza'. Meloni raccoglie l'appello: 'Ogni donna uccisa è una sconfitta per tutti'",
+     "titolo": "L'appello del papà di Lorena, 'politica unita contro la violenza'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/il-padre-di-lorena-la-politica-sia-unita-contro-la-violenza_16979f60-5a88-43c0-951d-9dc5bf806861.html",
-     "data": "2026-09-05T15:53:37+00:00"
+     "data": "2026-09-05T18:28:46+00:00"
     },
     {
      "titolo": "Famiglia nel bosco: 'La decisione ci spezza il cuore, faremo ricorso'",
@@ -179,17 +184,27 @@
      "titolo": "Agguato mortale a Udine, il presunto assassino fermato dopo meno di 24 ore",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/agguato-a-udine-e-caccia-alluomo-in-citta-e-dintorni_6d0da7f8-f961-4a67-903e-e13c929533c5.html",
      "data": "2026-09-05T16:58:29+00:00"
-    },
-    {
-     "titolo": "La privacy a scuola, dal tema in classe all'intelligenza artificiale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/la-privacy-a-scuola-dal-tema-in-classe-allintelligenza-artificiale_ce3e56f4-0ddc-4c10-a9fe-60cd72a91568.html",
-     "data": "2026-09-05T12:23:44+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Scontro Monti-Vannacci, 'combatterò la retorica fascista'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/05/scontro-monti-vannacci-combattero-la-retorica-fascista-_84aa8d72-971e-4662-b0b7-60b5f9e91739.html",
+     "data": "2026-09-05T18:40:23+00:00"
+    },
+    {
+     "titolo": "Cernobbio non si sbilancia, ma applausi al senatore a vita",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/05/cernobbio-non-si-sbilancia-ma-applausi-al-senatore-a-vita-_3633b82d-a30e-4765-bdaf-8fa8468bfe22.html",
+     "data": "2026-09-05T18:38:12+00:00"
+    },
+    {
+     "titolo": "Alessandro Di Battista operato a Cuba, slitta il rientro in Italia",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/05/alessandro-di-battista-operato-a-cuba-slitta-il-rientro-in-italia_0978aacf-84ca-48e7-a11d-987f72161750.html",
+     "data": "2026-09-05T18:43:54+00:00"
+    },
     {
      "titolo": "Mattarella, 'Repubblica e autonomie hanno nutrito democrazia contro il fascismo'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/05/mattarella-repubblica-e-autonomie-hanno-nutrito-democrazia-contro-il-fascismo_30b9a3d7-08de-4d4a-8ead-0310c8a08163.html",
@@ -231,24 +246,9 @@
      "data": "2026-09-05T12:26:18+00:00"
     },
     {
-     "titolo": "Scintille tra Vannacci e Monti a Cernobbio: 'Combatterò la sua retorica fascista'. Il leader di FnV: 'Accuse ridicole'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/05/scintille-tra-vannacci-e-monti-a-cernobbio-combattero-la-sua-retorica-fascista.-il-leader_84aa8d72-971e-4662-b0b7-60b5f9e91739.html",
-     "data": "2026-09-05T16:13:11+00:00"
-    },
-    {
      "titolo": "Mattarella, non si è stranieri in casa propria",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/05/mattarella-non-si-e-stranieri-in-casa-propria_d8e3c1a9-c47f-4413-a17a-8408ebf5808d.html",
      "data": "2026-09-05T10:25:26+00:00"
-    },
-    {
-     "titolo": "Mattarella a Merano per l'autonomia di Trento e Bolzano: 'Non si è stranieri in casa propria'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/05/mattarella-a-merano-per-lautonomia-di-trento-e-bolzano-non-si-e-stranieri-in-casa-propria_3af2ba7c-1505-4610-8b3f-4bc527c675e6.html",
-     "data": "2026-09-05T14:55:26+00:00"
-    },
-    {
-     "titolo": "Vannacci, Ue schierata con Ucraina ma importa ancora gas russo, schizofrenia",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/05/vannacci-ue-schierata-con-ucraina-ma-importa-ancora-gas-russo-schizofrenia_aa247634-3860-49f8-80ae-c4c83dc7b72c.html",
-     "data": "2026-09-05T09:45:21+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Putin, 'non abbiamo accettato una tregua più ampia di tre giorni'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/05/putin-non-abbiamo-accettato-una-tregua-piu-ampia-di-tre-giorni_fa9e44ad-0da3-4a06-b65a-293a1cb52894.html",
+     "data": "2026-09-05T18:56:44+00:00"
+    },
+    {
+     "titolo": "A Belgrado il Pride celebra 25 anni, e ritorna alle origini",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/05/a-belgrado-il-pride-celebra-25-anni-e-ritorna-alle-origini_76720cd5-1e35-41d1-878a-c640abcc8f32.html",
+     "data": "2026-09-05T18:23:20+00:00"
+    },
+    {
      "titolo": "Al via l'incontro di Putin con Witkoff e Kushner, 'la discussione non è semplice'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/05/al-via-lincontro-di-putin-con-witkoff-e-kushner-la-discussione-non-e-semplice_add20629-99da-42f3-aaaa-29f6a5332ff8.html",
      "data": "2026-09-05T17:10:07+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Putin ordina tregua su Kiev da mezzanotte per tre giorni",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/05/putin-ordina-tregua-su-kiev-da-mezzanotte-per-tre-giorni_cfd64d13-bfb8-4b9e-be64-b06d5191f174.html",
      "data": "2026-09-05T12:15:50+00:00"
-    },
-    {
-     "titolo": "Decine di incappucciati bloccano il porto di Dover in Inghilterra, 'stop agli sbarchi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/05/decine-di-incappucciati-bloccano-il-porto-di-dover-in-inghilterra-stop-agli-sbarchi_14f7e2ff-9dbd-4343-bfab-94ecd7ae401e.html",
-     "data": "2026-09-05T12:07:18+00:00"
-    },
-    {
-     "titolo": "Allerta degli Usa sull'aumento delle malattie diarroiche a Cuba",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/05/allerta-degli-usa-sullaumento-delle-malattie-diarroiche-a-cuba_db9b1336-2d1e-4a19-b3ec-085b2401e9fb.html",
-     "data": "2026-09-05T10:43:23+00:00"
     }
    ]
   },
@@ -451,64 +451,64 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "F1: Gasly in pole a Monza, Leclerc terzo dopo penalizzazione di Piastri. Hamilton quarto",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/05/f1-gasly-in-pole-a-monza-leclerc-terzo-dopo-penalizzazione-di-piastri.-hamilton-quarto_3ed5be0b-c182-472e-b9da-5743457d26e9.html",
-     "data": "2026-09-05T16:48:06+00:00"
+     "titolo": "Atletica: Diaz vince nel triplo a Bruxelles, sua la Diamond League",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/05/atletica-diaz-vince-nel-triplo-a-bruxelles-sua-la-diamond-league_018c1747-08c9-43ad-a4f0-3fc1ef33ebd2.html",
+     "data": "2026-09-05T19:03:13+00:00"
     },
     {
-     "titolo": "F1: Piastri penalizzato 3 posizioni, due Ferrari salgono in seconda fila",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/05/f1-piastri-penalizzato-3-posizioni-due-ferrari-salgono-in-seconda-fila_0a357dd8-e322-409d-bb11-ec553ffb0c07.html",
-     "data": "2026-09-05T16:45:28+00:00"
+     "titolo": "Inter: Thuram 'Lautaro il nostro leader, vincere così troppo bello'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/inter-thuram-lautaro-il-nostro-leader-vincere-cosi-troppo-bello_13917348-b164-4f86-9eb0-3319aec53cc8.html",
+     "data": "2026-09-05T19:02:32+00:00"
     },
     {
-     "titolo": "F1: Pausini canta l'inno e atteso Sinner, parata di vip a Monza",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/05/f1-pausini-canta-linno-e-atteso-sinner-parata-di-vip-a-monza_1740b7ef-7f92-403f-8c3b-9ccc4e5f3944.html",
-     "data": "2026-09-05T16:35:01+00:00"
+     "titolo": "Roma-Atalanta, il ct Mancini in tribuna",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/roma-atalanta-il-ct-mancini-in-tribuna_6ec2819c-cca6-4acb-ae62-6a8fcc78ded2.html",
+     "data": "2026-09-05T18:57:56+00:00"
     },
     {
-     "titolo": "Fiorentina: Grosso 'non mi dimetto, deciderà chi è sopra di me'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/fiorentina-grosso-non-mi-dimetto-decidera-chi-e-sopra-di-me_cd14ec53-03be-4186-9934-b068dfc04ac5.html",
-     "data": "2026-09-05T16:35:06+00:00"
+     "titolo": "Calcio: Allegri, 'troppo leggeri sul 2-1, dobbiamo prendere meno gol'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/calcio-allegri-troppo-leggeri-sul-2-1-dobbiamo-prendere-meno-gol_4b82087f-5fa8-47cb-aa8a-26a823862940.html",
+     "data": "2026-09-05T18:44:55+00:00"
     },
     {
-     "titolo": "F1: Antonelli 'in gara devo stare fuori dai casini e poi martellare'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/05/f1-antonelli-in-gara-devo-stare-fuori-dai-casini-e-poi-martellare_3ecb4417-419d-4bad-83ac-7b8a3aac0c2b.html",
-     "data": "2026-09-05T16:30:07+00:00"
+     "titolo": "Serie A: in campo Roma-Atalanta DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/serie-a-in-campo-roma-atalanta-diretta_13875323-af86-4332-ab96-7e6238be8afa.html",
+     "data": "2026-09-05T18:38:34+00:00"
     },
     {
-     "titolo": "Serie A: Abate, 'grande spirito, siamo stati squadra dopo l'errore di Perri'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/serie-a-abate-grande-spirito-siamo-stati-squadra-dopo-lerrore-di-perri_024543d5-593f-4c8a-b712-02582fb844d8.html",
-     "data": "2026-09-05T16:26:12+00:00"
+     "titolo": "Mondiali basket: folla di tifosi per le azzurre a Berlino, Petrucci 'che emozione'",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/05/mondiali-basket-folla-di-tifosi-per-le-azzurre-a-berlino-petrucci-che-emozione_f6308c45-be87-4f33-9bb1-34083f42b8fd.html",
+     "data": "2026-09-05T18:28:19+00:00"
     },
     {
-     "titolo": "F1: Leclerc, 'ci siamo complicati la vita, proverò una magia'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/05/f1-leclerc-ci-siamo-complicati-la-vita-provero-una-magia_0e228f1e-2f81-4aa6-bb9b-2d512db6e603.html",
-     "data": "2026-09-05T16:16:00+00:00"
+     "titolo": "Calcio: Calò carica il Frosinone 'con il Venezia già punti salvezza'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/calcio-calo-carica-il-frosinone-con-il-venezia-gia-punti-salvezza_8ca1ca58-50d1-427f-a3ee-7f000771d9b5.html",
+     "data": "2026-09-05T18:19:30+00:00"
     },
     {
-     "titolo": "Premier League: il City batte il Coventry, primo punto per il Tottenham di De Zerbi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/calcio-il-city-batte-il-coventry-primo-punto-per-il-tottenham-di-de-zerbi_6985b9f3-8fa6-4157-aef8-a84d1904c1c8.html",
-     "data": "2026-09-05T16:17:13+00:00"
+     "titolo": "Serie A: Inter rimonta-show, Lautaro nel finale firma il 3-2 sul Napoli",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/inter-vince-3-2-in-rimonta-con-il-napoli-con-una-doppietta-di-lautaro-martinez_f0786866-9862-46fc-b0c1-29d14f19c86c.html",
+     "data": "2026-09-05T18:18:10+00:00"
     },
     {
-     "titolo": "Serie A: in campo Inter-Napoli 0-2 DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/serie-a-in-campo-inter-napoli-0-0-diretta_f0786866-9862-46fc-b0c1-29d14f19c86c.html",
-     "data": "2026-09-05T17:16:25+00:00"
+     "titolo": "Inter rimonta-show, Lautaro nel finale firma il 3-2 sul Napoli",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/inter-rimonta-show-lautaro-nel-finale-firma-il-3-2-sul-napoli_0a72c59a-3a55-4a1a-96cc-4b467690b4a9.html",
+     "data": "2026-09-05T18:13:52+00:00"
     },
     {
-     "titolo": "F1: rivincita Briatore 'pole Gasly dopo penalità, ora sogniamo vittoria a Monza'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/05/f1-rivincita-briatore-pole-gasly-dopo-penalita-ora-sogniamo-vittoria-a-monza_b8a714b0-85bc-4227-ac6f-c3e5bf800b0e.html",
-     "data": "2026-09-05T16:16:24+00:00"
+     "titolo": "F1: Vasseur 'oggi problema con la batteria, in gara tutto è possibile'",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/05/f1-vasseur-oggi-problema-con-la-batteria-in-gara-tutto-e-possibile_f55aec3b-159f-440f-b0d9-87a018bc04b5.html",
+     "data": "2026-09-05T17:55:20+00:00"
     },
     {
-     "titolo": "Vuelta: Brenner vince la 14/a tappa, Mas e Gall staccano Roglic e Carapaz",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/05/vuelta-brenner-vince-la-14a-tappa-mas-e-gall-staccano-roglic-e-carapaz_f7e13236-ab3b-4b39-a580-dec7229c8ae0.html",
-     "data": "2026-09-05T16:17:47+00:00"
+     "titolo": "Eurovolley: 3-1 alla Polonia, Italia in finale con la Turchia",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/05/eurovolley-3-1-alla-polonia-italia-in-finale-con-la-turchia_437345e7-a3da-4b88-9999-3c13440f71c2.html",
+     "data": "2026-09-05T18:04:11+00:00"
     },
     {
-     "titolo": "Serie A: Marotta, 'scudetto? Ci sono anche Roma, Juve... e Como'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/serie-a-marotta-scudetto-ci-sono-anche-roma-juve...-e-como_63e30839-563a-4c01-8c78-9c661f02066c.html",
-     "data": "2026-09-05T15:48:30+00:00"
+     "titolo": "F1: Gasly sorprende tutti a Monza, dopo la beffa di Monaco la prima pole",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/05/f1-gasly-sorprende-tutti-a-monza-dopo-la-beffa-di-monaco-la-prima-pole_3ed5be0b-c182-472e-b9da-5743457d26e9.html",
+     "data": "2026-09-05T17:49:22+00:00"
     }
    ]
   }
