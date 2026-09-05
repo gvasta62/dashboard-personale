@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-05T21:23:43.757239+00:00",
+ "aggiornato": "2026-09-05T23:01:12.922097+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Cremlino, 'i colloqui tra Putin e gli inviati Usa estremamente franchi'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/cremlino-i-colloqui-tra-putin-e-gli-inviati-usa-estremamente-franchi_34d37f4f-2e98-468c-a541-44ffb658b47c.html",
+     "data": "2026-09-05T22:01:28+00:00"
+    },
     {
      "titolo": "Il principe William rappresenterà Carlo III ai funerali di re Harald a Oslo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/il-principe-william-rappresentera-carlo-iii-ai-funerali-di-re-harald-a-oslo_45df96e8-6ee7-444a-a16b-d808ad737c60.html",
@@ -49,11 +54,6 @@
      "titolo": "Meloni raccoglie appello del padre di Lorena, 'agire uniti per proteggere donne'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/meloni-raccoglie-appello-del-padre-di-lorena-agire-uniti-per-proteggere_e42f498e-23d2-4495-952b-ce5a803d6613.html",
      "data": "2026-09-05T15:50:10+00:00"
-    },
-    {
-     "titolo": "Incidente al Rally Mille Miglia, travolto e ucciso uno spettatore nel Bresciano",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/incidente-al-rally-mille-miglia-travolto-e-ucciso-uno-spettatore-nel-bresciano_c39ad94c-5c14-4533-ab14-5d817ced4dd0.html",
-     "data": "2026-09-05T15:21:37+00:00"
     }
    ]
   },
@@ -321,6 +321,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Cremlino, 'i colloqui tra Putin e gli inviati Usa estremamente franchi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/05/cremlino-i-colloqui-tra-putin-e-gli-inviati-usa-estremamente-franchi_b96d0f59-cc7d-49ff-af95-9e6cce74d8cd.html",
+     "data": "2026-09-05T22:01:46+00:00"
+    },
+    {
      "titolo": "Il principe William rappresenterà Carlo III ai funerali di re Harald a Oslo",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/05/il-principe-william-rappresentera-carlo-iii-ai-funerali-di-re-harald-a-oslo_7cc025f7-c58b-4775-a913-159c30d14d77.html",
      "data": "2026-09-05T21:09:43+00:00"
@@ -374,11 +379,6 @@
      "titolo": "Usa, colpite 3 petroliere iraniane dopo il lancio di missili contro navi americane",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/05/usa-colpite-3-petroliere-iraniane-dopo-il-lancio-di-missili-contro-navi-americane_d615da98-080a-4f7f-9fae-e31082aa570c.html",
      "data": "2026-09-05T13:53:18+00:00"
-    },
-    {
-     "titolo": "Milei invita la destra latinoamericana a 'organizzarsi' contro la sinistra",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/05/milei-invita-la-destra-latinoamericana-a-organizzarsi-contro-la-sinistra_93837846-5148-40f4-a066-6bb2bae13a56.html",
-     "data": "2026-09-05T12:49:02+00:00"
     }
    ]
   },
@@ -451,6 +451,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: Sarri, 'oggi distanti dalla Roma, loro lotteranno per il titolo'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/serie-a-sarri-oggi-distanti-dalla-roma-loro-lotteranno-per-il-titolo_4b644c06-d069-4d83-ac93-c7337b5e4289.html",
+     "data": "2026-09-05T21:30:06+00:00"
+    },
+    {
+     "titolo": "Serie A: Gasperini 'vittoria che vale, è il segnale che la Roma ci crede sempre'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/serie-a-gasperini-vittoria-che-vale-e-il-segnale-che-la-roma-ci-crede-sempre_b93c1399-9770-466a-a891-e0f729435548.html",
+     "data": "2026-09-05T21:23:59+00:00"
+    },
+    {
+     "titolo": "Us Open: Darderi batte Sweeny in 3 set, è l'unico azzurro agli ottavi",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/05/us-open-darderi-batte-sweeny-in-3-set-e-lunico-azzurro-agli-ottavi_635d8286-9381-4978-9c00-62b941161985.html",
+     "data": "2026-09-05T21:39:02+00:00"
+    },
+    {
      "titolo": "Atletica: Iapichino seconda nelle finali di Diamond League",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/05/atletica-iapichino-seconda-nelle-finali-di-diamond-league_c70c7836-69fb-4e3a-b60d-dba5870239c4.html",
      "data": "2026-09-05T21:11:16+00:00"
@@ -494,21 +509,6 @@
      "titolo": "Roma-Atalanta, il ct Mancini in tribuna",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/roma-atalanta-il-ct-mancini-in-tribuna_6ec2819c-cca6-4acb-ae62-6a8fcc78ded2.html",
      "data": "2026-09-05T18:57:56+00:00"
-    },
-    {
-     "titolo": "Calcio: Allegri, 'troppo leggeri sul 2-1, dobbiamo prendere meno gol'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/calcio-allegri-troppo-leggeri-sul-2-1-dobbiamo-prendere-meno-gol_4b82087f-5fa8-47cb-aa8a-26a823862940.html",
-     "data": "2026-09-05T18:44:55+00:00"
-    },
-    {
-     "titolo": "Mondiali basket: folla di tifosi per le azzurre a Berlino, Petrucci 'che emozione'",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/05/mondiali-basket-folla-di-tifosi-per-le-azzurre-a-berlino-petrucci-che-emozione_f6308c45-be87-4f33-9bb1-34083f42b8fd.html",
-     "data": "2026-09-05T18:28:19+00:00"
-    },
-    {
-     "titolo": "Calcio: Calò carica il Frosinone 'con il Venezia già punti salvezza'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/calcio-calo-carica-il-frosinone-con-il-venezia-gia-punti-salvezza_8ca1ca58-50d1-427f-a3ee-7f000771d9b5.html",
-     "data": "2026-09-05T18:19:30+00:00"
     }
    ]
   }
