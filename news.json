@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-06T01:06:21.689907+00:00",
+ "aggiornato": "2026-09-06T06:05:13.816559+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Israele, 'raid in Libano in risposta ad attacco su militari Idf'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/israele-raid-in-libano-in-risposta-ad-attacco-su-militari-idf_40132684-31e7-43f8-ad3f-6bd0e160ea94.html",
+     "data": "2026-09-06T03:39:09+00:00"
+    },
+    {
+     "titolo": "Iran, attaccato un drone navale americano nello Stretto di Hormuz",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/iran-attaccato-un-drone-navale-americano-nello-stretto-di-hormuz_5e1103da-0841-44f2-a8c2-6c076ad8024e.html",
+     "data": "2026-09-06T03:30:25+00:00"
+    },
     {
      "titolo": "Casa Bianca, 'discussi piani concreti con Putin per Kiev'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/casa-bianca-discussi-piani-concreti-con-putin-per-kiev_1233ad08-cc85-4abe-b37b-80adf8256194.html",
@@ -44,16 +54,6 @@
      "titolo": "Al via l'incontro di Putin con Witkoff e Kushner, 'la discussione non è semplice'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/al-via-lincontro-di-putin-con-witkoff-e-kushner-la-discussione-non-e-semplice_92cd70bc-1a50-4f0a-8b11-f6346e1aca6e.html",
      "data": "2026-09-05T17:09:50+00:00"
-    },
-    {
-     "titolo": "Mattarella, 'Repubblica e autonomie hanno nutrito democrazia contro il fascismo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/mattarella-repubblica-e-autonomie-hanno-nutrito-democrazia-contro-il-fascismo_f8d188fe-b791-4a4a-8ed6-b7241ffc3180.html",
-     "data": "2026-09-05T16:55:21+00:00"
-    },
-    {
-     "titolo": "Stato di emergenza in 5 carceri di massima sicurezza del Perù",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/stato-di-emergenza-in-5-carceri-di-massima-sicurezza-del-peru_048ae88d-fbce-4f49-a304-26e247973244.html",
-     "data": "2026-09-05T16:51:06+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Israele, 'raid in Libano in risposta ad attacco su militari Idf'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/06/israele-raid-in-libano-in-risposta-ad-attacco-su-militari-idf_cddc960a-eb5a-4716-8595-acdac96dbc64.html",
+     "data": "2026-09-06T03:39:40+00:00"
+    },
+    {
+     "titolo": "Iran, attaccato un drone navale americano nello Stretto di Hormuz",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/06/iran-attaccato-un-drone-navale-americano-nello-stretto-di-hormuz_3bd98b31-35ac-49c0-b738-c2fef26f5982.html",
+     "data": "2026-09-06T03:30:41+00:00"
+    },
+    {
      "titolo": "Casa Bianca, 'discussi piani concreti con Putin per Kiev'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/06/casa-bianca-discussi-piani-concreti-con-putin-per-kiev_cb0299be-4a74-4b76-8640-88895ea4830b.html",
      "data": "2026-09-06T01:01:03+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Zelensky, 'parlato con Witkoff, ci asterremo dai raid contro Mosca per 3 giorni'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/05/zelensky-parlato-con-witkoff-ci-asterremo-dai-raid-contro-mosca-per_e0ea4f14-bef2-4557-a28f-aba3728e68b8.html",
      "data": "2026-09-05T14:57:39+00:00"
-    },
-    {
-     "titolo": "Merz, 'non lasciamo che l'AfD distrugga il paese con le sue parole'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/05/merz-non-lasciamo-che-lafd-distrugga-il-paese-con-le-sue-parole_60c11eb2-0258-4aed-a101-1734b4bfb82c.html",
-     "data": "2026-09-05T14:04:45+00:00"
-    },
-    {
-     "titolo": "Usa, colpite 3 petroliere iraniane dopo il lancio di missili contro navi americane",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/05/usa-colpite-3-petroliere-iraniane-dopo-il-lancio-di-missili-contro-navi-americane_2dd862d1-d748-49c9-b4d3-5f3f9609e8e2.html",
-     "data": "2026-09-05T13:53:15+00:00"
     }
    ]
   },
@@ -488,7 +488,7 @@
     {
      "titolo": "Us Open: Cobolli cede di botto, agli ottavi va Blockx",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/05/us-open-cobolli-cede-di-botto-agli-ottavi-va-blockx_555a519b-9fc5-424a-90b5-0d764163c2da.html",
-     "data": "2026-09-05T20:41:19+00:00"
+     "data": "2026-09-06T05:36:09+00:00"
     },
     {
      "titolo": "Calcio: Chivu, 'Inter-Napoli pubblicità per il calcio italiano'",
