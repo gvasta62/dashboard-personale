@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-09-06T21:28:20.186372+00:00",
+ "aggiornato": "2026-09-06T22:57:36.205351+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Von der Leyen a Nuuk, 'in autunno la strategia Ue per l'Artico",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/von-der-leyen-a-nuuk-in-autunno-la-strategia-ue-per-lartico_92093dd9-692b-483f-b70b-1b31bbeac669.html",
+     "data": "2026-09-06T21:52:43+00:00"
+    },
+    {
+     "titolo": "Aereo Amazon fuori pista a Miami, 'cinque morti e vari feriti'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/aereo-amazon-fuori-pista-a-miami-cinque-morti-e-vari-feriti_0bebd2ca-bf9c-4778-913b-158c532afb07.html",
+     "data": "2026-09-06T21:35:34+00:00"
+    },
+    {
+     "titolo": "Proiezioni Sassonia-Anhalt, 39 seggi per l'AfD, 15 per la Cdu",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/proiezioni-sassonia-anhalt-39-seggi-per-lafd-15-per-la-cdu_75741b57-8728-4447-a98b-06ef28ca4dec.html",
+     "data": "2026-09-06T21:26:47+00:00"
+    },
     {
      "titolo": "Greta Scarano sul red carpet a Venezia richiama l'attenzione contro i femminicidi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/greta-scarano-sul-red-carpet-a-venezia-richiama-lattenzione-contro-i-femminicidi_946ed222-8ba5-4e1a-96a3-533b3049d4ad.html",
@@ -39,27 +54,17 @@
      "titolo": "Spd, 'risultato in Sassonia Anhalt è un segnale per Berlino'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/spd-risultato-in-sassonia-anhalt-e-un-segnale-per-berlino_a90c092d-a8dd-49c3-b037-98a30c9d8ccc.html",
      "data": "2026-09-06T17:39:08+00:00"
-    },
-    {
-     "titolo": "Spider-Man, Ulisse e Willy il Coyote: il botteghino USA conferma i suoi eroi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/spider-man-ulisse-e-willy-il-coyote-il-botteghino-usa-conferma-i-suoi-eroi_0e8064d6-e507-4144-9f11-c9fe73ffe6ac.html",
-     "data": "2026-09-06T17:15:59+00:00"
-    },
-    {
-     "titolo": "Netanyahu ordina di smantellare gli avamposti dei coloni in Cisgiordania",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/netanyahu-ordina-di-smantellare-gli-avamposti-dei-coloni-in-cisgiordania_51ed04c5-f796-453a-aaeb-3a6cb3dbc961.html",
-     "data": "2026-09-06T17:08:35+00:00"
-    },
-    {
-     "titolo": "Salvini, 'trionfo clamoroso dell'AfD, un'altra Europa è possibile'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/salvini-trionfo-clamoroso-dellafd-unaltra-europa-e-possibile_2bd9e6f2-03cc-4366-b9c9-4d4594c62861.html",
-     "data": "2026-09-06T17:08:01+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Ferdinandi, la violenza di genere non è mai di un fenomeno privato ma sociale",
+     "link": "https://www.ansa.it/umbria/notizie/2026/09/07/delegata-anci-pari-opportunita-la-violenza-di-genere-e-un-fenomeno-sociale_75b81f55-6753-4b29-8d60-6fd4e8518b4c.html",
+     "data": "2026-09-06T22:11:49+00:00"
+    },
     {
      "titolo": "Scontro fra due auto e una moto, morto un giovane",
      "link": "https://www.ansa.it/umbria/notizie/2026/09/06/scontro-fra-due-auto-e-una-moto-morto-un-giovane_3b399895-4aee-4abf-aa4d-0e76bfae201f.html",
@@ -114,11 +119,6 @@
      "titolo": "Bandecchi al M5s, al confronto in Tv chiedo anche Conte o De Luca",
      "link": "https://www.ansa.it/umbria/notizie/2026/09/05/bandecchi-al-m5s-al-confronto-in-tv-chiedo-anche-conte-o-de-luca_d9dcb2ec-74be-4d32-bcec-ca557018c4d8.html",
      "data": "2026-09-05T11:30:47+00:00"
-    },
-    {
-     "titolo": "Inaugurato il primo luppoleto di Perugia",
-     "link": "https://www.ansa.it/umbria/notizie/2026/09/05/inaugurato-il-primo-luppoleto-di-perugia_7a3c3e34-fdac-4a49-a494-2833f8f8c70a.html",
-     "data": "2026-09-05T11:17:17+00:00"
     }
    ]
   },
@@ -301,6 +301,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Von der Leyen a Nuuk, 'in autunno la strategia Ue per l'Artico",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/06/von-der-leyen-a-nuuk-in-autunno-la-strategia-ue-per-lartico_449dc8d6-4a61-4405-b906-c3e9e84b7e20.html",
+     "data": "2026-09-06T21:52:59+00:00"
+    },
+    {
+     "titolo": "Aereo Amazon fuori pista a Miami, 'cinque morti e vari feriti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/06/aereo-amazon-fuori-pista-a-miami-cinque-morti-e-vari-feriti_5f1cad62-d2f3-4f77-8144-1371192528ef.html",
+     "data": "2026-09-06T21:35:50+00:00"
+    },
+    {
+     "titolo": "Proiezioni Sassonia-Anhalt, 39 seggi per l'AfD, 15 per la Cdu",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/06/proiezioni-sassonia-anhalt-39-seggi-per-lafd-15-per-la-cdu_6e55bd70-81bb-448f-a2d9-620c7bd80676.html",
+     "data": "2026-09-06T21:26:50+00:00"
+    },
+    {
      "titolo": "Witkoff, 'Russia e Ucraina dovranno fare dei compromessi'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/06/witkoff-russia-e-ucraina-dovranno-fare-dei-compromessi_c7b828f3-9337-4d18-932c-a2542877ec31.html",
      "data": "2026-09-06T17:56:32+00:00"
@@ -344,21 +359,6 @@
      "titolo": "Gaza, 'due morti, tra cui una bambina di 6 anni, in un raid israeliano'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/06/gaza-due-morti-tra-cui-una-bambina-di-6-anni-in-un-raid-israeliano_3990df38-3c03-443d-9a63-e3d59e540efe.html",
      "data": "2026-09-06T16:40:02+00:00"
-    },
-    {
-     "titolo": "Cdu, 'non collaboriamo con gli estremisti di destra'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/06/cdu-non-collaboriamo-con-gli-estremisti-di-destra_9481f882-7a5f-4041-8909-af5d9e2d527e.html",
-     "data": "2026-09-06T16:28:52+00:00"
-    },
-    {
-     "titolo": "La regina Margherita di Danimarca ricoverata in ospedale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/06/la-regina-margherita-di-danimarca-ricoverata-in-ospedale_35dd6893-f6ea-4737-afaa-bd57353fd530.html",
-     "data": "2026-09-06T16:26:24+00:00"
-    },
-    {
-     "titolo": "Siegmund, 'non so se sarò presidente, ma abbiamo già scritto la storia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/06/siegmund-non-so-se-saro-presidente-ma-abbiamo-gia-scritto-la-storia_089e7e28-5358-4d35-8600-a84e1f0c846b.html",
-     "data": "2026-09-06T16:18:27+00:00"
     }
    ]
   },
@@ -431,6 +431,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: la Fiorentina esonera Grosso dopo 3 giornate",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/06/serie-a-la-fiorentina-esonera-grosso-dopo-3-giornate_60f48309-32fe-46a1-9886-faf5b5b6b339.html",
+     "data": "2026-09-06T22:07:18+00:00"
+    },
+    {
+     "titolo": "Serie A: Spalletti, 'sono sul carro Kolo Muani e lì rimango fino alla fine'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/06/serie-a-spalletti-sono-sul-carro-kolo-muani-e-li-rimango-fino-alla_9ca83329-f811-4757-8211-54991a27719a.html",
+     "data": "2026-09-06T21:37:10+00:00"
+    },
+    {
+     "titolo": "Serie A: Amorim, 'non meritavamo di vincere, tanto lavoro da fare'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/06/serie-a-amorim-non-meritavamo-di-vincere-tanto-lavoro-da-fare_e9945b40-1a56-4430-a4d7-35133b8100ae.html",
+     "data": "2026-09-06T21:34:45+00:00"
+    },
+    {
+     "titolo": "Mondiali basket: l'Italia danza con l'impresa, le stelle Usa vincono di misura",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/06/mondiali-basket-litalia-danza-con-limpresa-le-stelle-usa-vincono-di-misura_ecb907aa-5b63-4875-8d35-b728257d4cf5.html",
+     "data": "2026-09-06T22:02:53+00:00"
+    },
+    {
      "titolo": "Serie A: Juventus-Milan termina 1-1",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/06/serie-a-juventus-milan-termina-1-1_0c3a486d-1be2-4c91-b068-6c478760311a.html",
      "data": "2026-09-06T20:57:01+00:00"
@@ -469,26 +489,6 @@
      "titolo": "Eurovolley: sfuma in finale il sogno del 'triplete' per le azzurre di Velasco",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/06/pallavolo-italia-ko-in-finale-europei-alla-turchia_89d9cdb0-a169-40cb-a9bc-6aaf94c7e45c.html",
      "data": "2026-09-06T19:14:12+00:00"
-    },
-    {
-     "titolo": "Sinner è all'Allianz Stadium per Juve-Milan",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/06/sinner-e-allallianz-stadium-per-juve-milan_a048e9d0-d997-4570-937d-952b2d69b7ed.html",
-     "data": "2026-09-06T18:22:35+00:00"
-    },
-    {
-     "titolo": "Sinner è all'Allianz Stadium per Juve-Milan",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/06/sinner-e-allallianz-stadium-per-juve-milan_116463e0-14bb-4f59-8368-d30994cc305c.html",
-     "data": "2026-09-06T18:22:53+00:00"
-    },
-    {
-     "titolo": "Pallavolo: Italia ko in finale, Europei alla Turchia",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/06/pallavolo-italia-ko-in-finale-europei-alla-turchia_c255869d-047a-4e59-a773-b4dc40b138d2.html",
-     "data": "2026-09-06T18:21:28+00:00"
-    },
-    {
-     "titolo": "F1: Brignone, 'impresa Antonelli sembrava impossibile, Italia non dimenticherà'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/06/f1-brignone-impresa-antonelli-sembrava-impossibile-italia-non-dimentichera_79e957d0-1684-4472-96fb-f40e97b200e8.html",
-     "data": "2026-09-06T18:03:54+00:00"
     }
    ]
   }
