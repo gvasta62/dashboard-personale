@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-05T23:01:12.922097+00:00",
+ "aggiornato": "2026-09-06T01:06:21.689907+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Casa Bianca, 'discussi piani concreti con Putin per Kiev'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/casa-bianca-discussi-piani-concreti-con-putin-per-kiev_1233ad08-cc85-4abe-b37b-80adf8256194.html",
+     "data": "2026-09-06T01:00:43+00:00"
+    },
     {
      "titolo": "Cremlino, 'i colloqui tra Putin e gli inviati Usa estremamente franchi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/cremlino-i-colloqui-tra-putin-e-gli-inviati-usa-estremamente-franchi_34d37f4f-2e98-468c-a541-44ffb658b47c.html",
@@ -49,11 +54,6 @@
      "titolo": "Stato di emergenza in 5 carceri di massima sicurezza del Perù",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/stato-di-emergenza-in-5-carceri-di-massima-sicurezza-del-peru_048ae88d-fbce-4f49-a304-26e247973244.html",
      "data": "2026-09-05T16:51:06+00:00"
-    },
-    {
-     "titolo": "Meloni raccoglie appello del padre di Lorena, 'agire uniti per proteggere donne'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/05/meloni-raccoglie-appello-del-padre-di-lorena-agire-uniti-per-proteggere_e42f498e-23d2-4495-952b-ce5a803d6613.html",
-     "data": "2026-09-05T15:50:10+00:00"
     }
    ]
   },
@@ -321,6 +321,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Casa Bianca, 'discussi piani concreti con Putin per Kiev'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/06/casa-bianca-discussi-piani-concreti-con-putin-per-kiev_cb0299be-4a74-4b76-8640-88895ea4830b.html",
+     "data": "2026-09-06T01:01:03+00:00"
+    },
+    {
      "titolo": "Cremlino, 'i colloqui tra Putin e gli inviati Usa estremamente franchi'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/05/cremlino-i-colloqui-tra-putin-e-gli-inviati-usa-estremamente-franchi_b96d0f59-cc7d-49ff-af95-9e6cce74d8cd.html",
      "data": "2026-09-05T22:01:46+00:00"
@@ -374,11 +379,6 @@
      "titolo": "Usa, colpite 3 petroliere iraniane dopo il lancio di missili contro navi americane",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/05/usa-colpite-3-petroliere-iraniane-dopo-il-lancio-di-missili-contro-navi-americane_2dd862d1-d748-49c9-b4d3-5f3f9609e8e2.html",
      "data": "2026-09-05T13:53:15+00:00"
-    },
-    {
-     "titolo": "Usa, colpite 3 petroliere iraniane dopo il lancio di missili contro navi americane",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/05/usa-colpite-3-petroliere-iraniane-dopo-il-lancio-di-missili-contro-navi-americane_d615da98-080a-4f7f-9fae-e31082aa570c.html",
-     "data": "2026-09-05T13:53:18+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Us Open: Cobolli, 'non ho perso per il rumore, ma qui è difficile'",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/06/us-open-cobolli-non-ho-perso-per-il-rumore-ma-qui-e-difficile_068b8ac4-25b1-4545-b0ec-5173d52a35d8.html",
+     "data": "2026-09-05T23:15:19+00:00"
+    },
+    {
      "titolo": "Serie A: Sarri, 'oggi distanti dalla Roma, loro lotteranno per il titolo'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/serie-a-sarri-oggi-distanti-dalla-roma-loro-lotteranno-per-il-titolo_4b644c06-d069-4d83-ac93-c7337b5e4289.html",
      "data": "2026-09-05T21:30:06+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Inter: Thuram 'Lautaro il nostro leader, vincere così troppo bello'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/inter-thuram-lautaro-il-nostro-leader-vincere-cosi-troppo-bello_13917348-b164-4f86-9eb0-3319aec53cc8.html",
      "data": "2026-09-05T19:02:32+00:00"
-    },
-    {
-     "titolo": "Roma-Atalanta, il ct Mancini in tribuna",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/roma-atalanta-il-ct-mancini-in-tribuna_6ec2819c-cca6-4acb-ae62-6a8fcc78ded2.html",
-     "data": "2026-09-05T18:57:56+00:00"
     }
    ]
   }
