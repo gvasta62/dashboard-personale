@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-09-06T08:12:40.324324+00:00",
- "data": "2026-09-06",
- "testo": "Sole di settembre\ntra le zolle già arate\nbrilla un vetro rotto",
- "nota": "Un frammento di vetro luccica nel campo arato sotto il sole limpido.",
+ "aggiornato": "2026-09-07T08:44:30.998276+00:00",
+ "data": "2026-09-07",
+ "testo": "Cielo di lana\nsul cesto dell'uva nera\ncammina un'ape",
+ "nota": "La vendemmia comincia, l'uva raccolta nel cesto sotto le nubi basse.",
  "archivio": [
+  {
+   "data": "2026-09-07",
+   "testo": "Cielo di lana\nsul cesto dell'uva nera\ncammina un'ape",
+   "nota": "La vendemmia comincia, l'uva raccolta nel cesto sotto le nubi basse."
+  },
   {
    "data": "2026-09-06",
    "testo": "Sole di settembre\ntra le zolle già arate\nbrilla un vetro rotto",
