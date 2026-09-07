@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-07T20:01:37.943021+00:00",
+ "aggiornato": "2026-09-07T22:53:20.313894+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Poste incrementa componente cash opas su Tim",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/poste-incrementa-componente-cash-opas-su-tim_d9d4c5be-3479-4639-ad4d-65ff23e30d3c.html",
+     "data": "2026-09-07T21:16:20+00:00"
+    },
     {
      "titolo": "Emma Bonino ricoverata in ospedale a Roma, è vigile",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/emma-bonino-ricoverata-in-ospedale-a-roma-e-vigile_480ee489-75e2-4aec-925d-cb3d152ad7c6.html",
@@ -49,11 +54,6 @@
      "titolo": "Ellen Burstyn Leone alla carriera, 'spero il mio Paese trovi presto una strada maestra'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/ellen-burstyn-leone-alla-carriera-spero-il-mio-paese-trovi-presto_308b35fe-47ea-4bca-8d94-d473bc2cd454.html",
      "data": "2026-09-07T14:50:14+00:00"
-    },
-    {
-     "titolo": "Witkoff dopo la visita a Mosca e Kiev, 'progressi sostanziali'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/witkoff-dopo-la-visita-a-mosca-e-kiev-progressi-sostanziali_c5771f54-9255-4ff5-8166-50f8742d06e9.html",
-     "data": "2026-09-07T14:39:27+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Lorena era ancora viva quando l'ex l'ha gettata dal viadotto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/lorena-era-ancora-viva-quando-lex-lha-gettata-dal-viadotto_8844a33a-4658-465b-b62a-ae9932303cad.html",
+     "data": "2026-09-07T20:09:57+00:00"
+    },
+    {
      "titolo": "Autopsia, Lorena ancora viva quando l'ex l'ha gettata dal viadotto",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/autopsia-lorena-ancora-viva-quando-lex-lha-gettata-dal-viadotto_3fee08e2-df62-49e8-a979-81e51260ddb5.html",
      "data": "2026-09-07T18:44:23+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Comune di Milano lancia il carpooling, condividere l'auto per ridurre il traffico",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/comune-di-milano-lancia-il-carpooling-condividere-lauto-per-ridurre-il-traffico_911bffda-325e-4d6b-9419-a89a1433da02.html",
      "data": "2026-09-07T14:18:08+00:00"
-    },
-    {
-     "titolo": "Morte avvelenate, investigatori concentrati sulle relazioni personali",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/morte-avvelenate-investigatori-concentrati-sulle-relazioni-personali_f6a014bb-75fc-4af6-8450-4a5ad70aa667.html",
-     "data": "2026-09-07T13:45:44+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Venezuela, familiari dei detenuti politici protestano davanti al Difensore civico",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/07/venezuela-familiari-dei-detenuti-politici-protestano-davanti-al-difensore-civico_90962f7b-84e3-4b1d-bd22-7464fc33bef5.html",
+     "data": "2026-09-07T20:52:14+00:00"
+    },
+    {
+     "titolo": "Caracas, accordo con Vantara per riconvertire gli zoo pubblici venezuelani",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/07/caracas-accordo-con-vantara-per-riconvertire-gli-zoo-pubblici-venezuelani_b0753677-058b-4eb0-97c8-3aa5750258e4.html",
+     "data": "2026-09-07T20:11:21+00:00"
+    },
+    {
      "titolo": "Nuovi raid israeliani in Libano, sterminata una famiglia",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/07/nuovi-raid-israeliani-in-libano-sterminata-una-famiglia_a65d8ecf-b5c7-46bf-a111-e4f911f7f832.html",
      "data": "2026-09-07T18:11:09+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Eliseo, Usa ha riferito di disponibilità russa a trattare dopo elezioni Duma",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/07/eliseo-usa-ha-riferito-di-disponibilita-russa-a-trattare-dopo-elezioni-duma_941b7b62-72b7-4522-879d-1d4a8ae5c130.html",
      "data": "2026-09-07T14:26:34+00:00"
-    },
-    {
-     "titolo": "Eliseo, Usa ha riferito di disponibilità russa a trattare dopo elezioni Duma",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/07/eliseo-usa-ha-riferito-di-disponibilita-russa-a-trattare-dopo-elezioni-duma_7503434a-4ca5-40c0-903e-85e31aa0a71a.html",
-     "data": "2026-09-07T14:26:44+00:00"
-    },
-    {
-     "titolo": "Merz, arrendersi per me non è un'opzione, miglioreremo tutti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/07/merz-arrendersi-per-me-non-e-unopzione-miglioreremo-tutti_4c7f7f70-81d5-4f3e-9d97-c47d20fb4e07.html",
-     "data": "2026-09-07T12:22:15+00:00"
     }
    ]
   },
@@ -451,64 +451,64 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: Gattuso, 'merito della squadra, orgoglioso di allenarli e di essere qui'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/08/serie-a-gattuso-merito-della-squadra-orgoglioso-di-allenarli-e-di-essere-qui_c3972f1f-2928-48d1-859d-d3725208b42f.html",
+     "data": "2026-09-07T22:16:03+00:00"
+    },
+    {
+     "titolo": "Serie A: Runjaic, 'deluso per la sconfitta, la Lazio farà strada'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/08/serie-a-runjaic-deluso-per-la-sconfitta-la-lazio-fara-strada_22fb88f2-1a38-41d9-8f99-9083e52b3232.html",
+     "data": "2026-09-07T22:06:22+00:00"
+    },
+    {
+     "titolo": "Us Open: Blockx batte anche Cerundolo e va ai quarti, Rybakina fa fuori Osaka",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/07/us-open-blockx-batte-anche-cerundolo-e-va-ai-quarti-rybakina-fa-fuori-osaka_adda3de1-0871-4ae0-9045-030f298492f6.html",
+     "data": "2026-09-07T21:35:42+00:00"
+    },
+    {
+     "titolo": "Serie A: Frattesi guida la rimonta, a Udine la Lazio si regala la vetta",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-frattesi-guida-la-rimonta-a-udine-la-lazio-si-regala-la-vetta_986012bb-bfaa-4529-aef5-b697c34c0dc9.html",
+     "data": "2026-09-07T21:03:08+00:00"
+    },
+    {
+     "titolo": "Mondiali basket: Capobianco, 'non mi aspettavo un match così, umano sbagliare'",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/07/mondiali-basket-capobianco-non-mi-aspettavo-un-match-cosi-umano-sbagliare_f65cf788-e1ac-43db-ab8f-a1dc2a52d104.html",
+     "data": "2026-09-07T20:55:08+00:00"
+    },
+    {
+     "titolo": "Serie A: Frattesi guida la rimonta, a Udine la Lazio si regala la vetta",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-in-campo-udinese-lazio-1-2_9a1b8c85-2b54-45cb-98d2-5b76db2ec524.html",
+     "data": "2026-09-07T21:04:40+00:00"
+    },
+    {
+     "titolo": "Serie B: Il Palermo batte la Sampdoria 3-1 al Barbera ed è capolista solitario",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-b-il-palermo-batte-la-sampdoria-3-1-al-barbera-ed-e-capolista-solitario_61cb0495-f90c-4a50-a415-01c62262c02f.html",
+     "data": "2026-09-07T20:47:41+00:00"
+    },
+    {
+     "titolo": "Serie A: ancora Frattesi e poi Gudmundsson, la Lazio ribalta l'Udinese ed è in testa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-ancora-frattesi-e-poi-gudmundsson-la-lazio-ribalta-ludinese-ed-e-in-testa_b4306020-e4b8-4c22-b39d-8532ba116f01.html",
+     "data": "2026-09-07T20:44:18+00:00"
+    },
+    {
+     "titolo": "Mondiali basket: Cina batte Italia 71-51, azzurre agli spareggi con l'Australia",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/07/mondiali-basket-cina-batte-italia-71-51-azzurre-agli-spareggi-con-laustralia_9629f9a7-2e8a-4104-b828-1728fa68d412.html",
+     "data": "2026-09-07T20:34:13+00:00"
+    },
+    {
      "titolo": "Serie A: Pisacane, 'vittoria importante per riscattare il ko in Coppa Italia'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-pisacane-vittoria-importante-per-riscattare-il-ko-in-coppa-italia_ffff61f4-871e-462c-8c91-34188a15d3af.html",
      "data": "2026-09-07T19:26:41+00:00"
     },
     {
-     "titolo": "Serie A: Maldini di testa regala al Cagliari 3 punti, Lecce battuto 1-0",
+     "titolo": "Serie A: il Cagliari domina anche se spreca, col Lecce la decide Maldini",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-cagliari-lecce-1-0-decide-un-gol-di-maldini_9af64217-bdd7-47b7-a3fd-513efb94acaa.html",
-     "data": "2026-09-07T18:40:31+00:00"
+     "data": "2026-09-07T20:32:42+00:00"
     },
     {
      "titolo": "Serie A: Maldini di testa regala al Cagliari 3 punti, Lecce battuto 1-0",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-maldini-di-testa-regala-al-cagliari-3-punti-lecce-battuto-1-0_63802956-10c7-40a4-bbd5-fb850710a098.html",
      "data": "2026-09-07T18:27:22+00:00"
-    },
-    {
-     "titolo": "Serie A: in campo Udinese-Lazio 0-0 DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-in-campo-udinese-lazio-diretta_9a1b8c85-2b54-45cb-98d2-5b76db2ec524.html",
-     "data": "2026-09-07T19:46:55+00:00"
-    },
-    {
-     "titolo": "Us Open: Swiatek fuori agli ottavi, vince Zheng in due set",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/07/us-open-swiatek-fuori-agli-ottavi-vince-zheng-in-due-set_79557544-45aa-4916-9b9d-183f5801975e.html",
-     "data": "2026-09-07T18:12:22+00:00"
-    },
-    {
-     "titolo": "Champions: Chivu, 'abbiamo l'obbligo di scrivere ancora pagine importanti'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/champions-chivu-abbiamo-lobbligo-di-scrivere-ancora-pagine-importanti_6ab76812-b616-4912-ad56-93bc79286382.html",
-     "data": "2026-09-07T17:28:06+00:00"
-    },
-    {
-     "titolo": "Champions: Lautaro 'Real grande ma Inter ha le sue armi, siamo pronti'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/champions-lautaro-real-grande-ma-inter-ha-le-sue-armi-siamo-pronti_5daffb91-fd9b-4301-bab9-920729b9eead.html",
-     "data": "2026-09-07T17:17:33+00:00"
-    },
-    {
-     "titolo": "Serie B: Belotti al Modena, domani le visite mediche e la firma",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-b-belotti-al-modena-domani-le-visite-mediche-e-la-firma_855e7fa9-3380-42bd-ae03-1b36dc840f97.html",
-     "data": "2026-09-07T17:14:54+00:00"
-    },
-    {
-     "titolo": "Serie A: altri guai per la Juve di Spalletti, si ferma Locatelli",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-altri-guai-per-la-juve-di-spalletti-si-ferma-locatelli_2c393ad6-876a-4978-832f-b6e93291a772.html",
-     "data": "2026-09-07T17:06:03+00:00"
-    },
-    {
-     "titolo": "Pugilato: il docufilm \"La nobile arte\" sbarca al Festival di Venezia",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/07/pugilato-il-docufilm-la-nobile-arte-sbarca-al-festival-di-venezia_69edba54-1f9d-4015-b944-bf2ddf2c1afb.html",
-     "data": "2026-09-07T17:03:14+00:00"
-    },
-    {
-     "titolo": "Serie A: Grosso già a casa, a Firenze torna l'artefice della salvezza Vanoli",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-vanoli-e-ufficiale-sostituisce-lesonerato-fabio-grosso_f8192656-c866-410c-9294-e235f8ff8d3d.html",
-     "data": "2026-09-07T18:16:35+00:00"
-    },
-    {
-     "titolo": "Champions League: Napoli-Arsenal in campo mercoledì alle 21 DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/07/champions-league-napoli-arsenal-in-campo-mercoledi-alle-21-diretta_b5a72c5b-51ec-430f-adc3-c2ca49de4eb0.html",
-     "data": "2026-09-07T17:09:56+00:00"
     }
    ]
   }
