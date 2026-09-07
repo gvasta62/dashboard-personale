@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-06T22:57:36.205351+00:00",
+ "aggiornato": "2026-09-07T00:34:42.638596+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, 'molti suggeriscono di cambiare New Mexico in New America, mi piace'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/trump-molti-suggeriscono-di-cambiare-new-mexico-in-new-america-mi-piace_ba127349-6eb6-47fb-bda5-fbc865c03efd.html",
+     "data": "2026-09-06T23:52:40+00:00"
+    },
     {
      "titolo": "Von der Leyen a Nuuk, 'in autunno la strategia Ue per l'Artico",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/von-der-leyen-a-nuuk-in-autunno-la-strategia-ue-per-lartico_92093dd9-692b-483f-b70b-1b31bbeac669.html",
@@ -49,11 +54,6 @@
      "titolo": "Da domani sera sciopero di 24 ore del personale Fs",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/da-domani-sera-sciopero-di-24-ore-del-personale-fs_3c9ab25b-a73b-4702-86b1-77286b400447.html",
      "data": "2026-09-06T17:45:59+00:00"
-    },
-    {
-     "titolo": "Spd, 'risultato in Sassonia Anhalt è un segnale per Berlino'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/spd-risultato-in-sassonia-anhalt-e-un-segnale-per-berlino_a90c092d-a8dd-49c3-b037-98a30c9d8ccc.html",
-     "data": "2026-09-06T17:39:08+00:00"
     }
    ]
   },
@@ -301,6 +301,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump, 'molti suggeriscono di cambiare New Mexico in New America, mi piace'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/07/trump-molti-suggeriscono-di-cambiare-new-mexico-in-new-america-mi-piace_c9eb8262-7ec2-4e36-96fb-221b2dd06f06.html",
+     "data": "2026-09-06T23:52:44+00:00"
+    },
+    {
      "titolo": "Von der Leyen a Nuuk, 'in autunno la strategia Ue per l'Artico",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/06/von-der-leyen-a-nuuk-in-autunno-la-strategia-ue-per-lartico_449dc8d6-4a61-4405-b906-c3e9e84b7e20.html",
      "data": "2026-09-06T21:52:59+00:00"
@@ -354,11 +359,6 @@
      "titolo": "Netanyahu ribadisce, 'la fine dell'Iran è vicina, il regime è debole'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/06/netanyahu-ribadisce-la-fine-delliran-e-vicina-il-regime-e-debole_612a3290-01c2-4336-89e6-45fa33d53245.html",
      "data": "2026-09-06T16:41:54+00:00"
-    },
-    {
-     "titolo": "Gaza, 'due morti, tra cui una bambina di 6 anni, in un raid israeliano'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/06/gaza-due-morti-tra-cui-una-bambina-di-6-anni-in-un-raid-israeliano_3990df38-3c03-443d-9a63-e3d59e540efe.html",
-     "data": "2026-09-06T16:40:02+00:00"
     }
    ]
   },
