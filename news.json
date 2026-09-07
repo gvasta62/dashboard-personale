@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-09-07T16:07:20.560079+00:00",
+ "aggiornato": "2026-09-07T20:01:37.943021+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Emma Bonino ricoverata in ospedale a Roma, è vigile",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/emma-bonino-ricoverata-in-ospedale-a-roma-e-vigile_480ee489-75e2-4aec-925d-cb3d152ad7c6.html",
+     "data": "2026-09-07T18:24:11+00:00"
+    },
+    {
+     "titolo": "Il gas in rialzo (+2%) a 73,4 euro al Megawattora",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/il-gas-in-rialzo-2-a-734-euro-al-megawattora_620570e0-1bad-4653-8a0b-6ead36888a89.html",
+     "data": "2026-09-07T17:18:45+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund chiude stabile a 81 punti base",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/lo-spread-tra-btp-e-bund-chiude-stabile-a-81-punti-base_8e5539f3-ee34-4389-a831-c7a8ad6147d0.html",
+     "data": "2026-09-07T16:17:01+00:00"
+    },
     {
      "titolo": "Trump, 'restaurata a Washington la statua di Dante Alighieri'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/trump-restaurata-a-washington-la-statua-di-dante-alighieri_6b73140b-b0be-4755-a01c-2b80a975ea15.html",
@@ -39,21 +54,6 @@
      "titolo": "Witkoff dopo la visita a Mosca e Kiev, 'progressi sostanziali'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/witkoff-dopo-la-visita-a-mosca-e-kiev-progressi-sostanziali_c5771f54-9255-4ff5-8166-50f8742d06e9.html",
      "data": "2026-09-07T14:39:27+00:00"
-    },
-    {
-     "titolo": "Mosca chiude il consolato tedesco a San Pietroburgo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/mosca-chiude-il-consolato-tedesco-a-san-pietroburgo_2ccf7ee6-d39b-4f23-80b5-29a4a612dd6e.html",
-     "data": "2026-09-07T14:35:53+00:00"
-    },
-    {
-     "titolo": "Vannacci, sempre più convinto mio addio alla Lega, ecco la 'coerenza' del Carroccio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/vannacci-sempre-piu-convinto-mio-addio-alla-lega-ecco-la-coerenza_6f42e1ca-a547-4dae-a650-1b34000e9aa0.html",
-     "data": "2026-09-07T14:27:31+00:00"
-    },
-    {
-     "titolo": "Eliseo, Usa ha riferito di disponibilità russa a trattare dopo elezioni Duma",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/eliseo-usa-ha-riferito-di-disponibilita-russa-a-trattare-dopo-elezioni-duma_5941260a-7c0b-4766-9f1a-6caea79e8954.html",
-     "data": "2026-09-07T14:26:14+00:00"
     }
    ]
   },
@@ -126,6 +126,46 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Autopsia, Lorena ancora viva quando l'ex l'ha gettata dal viadotto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/autopsia-lorena-ancora-viva-quando-lex-lha-gettata-dal-viadotto_3fee08e2-df62-49e8-a979-81e51260ddb5.html",
+     "data": "2026-09-07T18:44:23+00:00"
+    },
+    {
+     "titolo": "Emma Bonino ricoverata in ospedale a Roma, è vigile",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/emma-bonino-ricoverata-in-ospedale-a-roma-e-vigile_87140b1f-fa53-44a1-b347-b2678f405fdf.html",
+     "data": "2026-09-07T18:24:15+00:00"
+    },
+    {
+     "titolo": "La Polizia provinciale di Verona cattura 18 cinghiali sul lago di Garda",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/la-polizia-provinciale-di-verona-cattura-18-cinghiali-sul-lago-di-garda_13adda21-6408-4572-bdc8-d5e861af42b8.html",
+     "data": "2026-09-07T17:53:39+00:00"
+    },
+    {
+     "titolo": "Arriva il decreto, stretta sugli ospedali dopo il furto di fentanyl",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/arriva-il-decreto-stretta-sugli-ospedali-dopo-il-furto-di-fentanyl_8d7af05f-b975-4afe-bc34-6f7fc747b0af.html",
+     "data": "2026-09-07T18:17:58+00:00"
+    },
+    {
+     "titolo": "Due morti alla cronoscalata di Erice, indagato il pilota",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/due-morti-alla-cronoscalata-di-erice-indagato-il-pilota_cdd294b0-e933-413d-a829-f4adfc1bdb34.html",
+     "data": "2026-09-07T18:10:26+00:00"
+    },
+    {
+     "titolo": "Gli audio rubati a Raoul Bova, chiuse le indagini per il pr",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/gli-audio-rubati-a-raoul-bova-chiuse-le-indagini-per-il-pr_a281a0e2-5304-48f2-8343-6ae85bbe4077.html",
+     "data": "2026-09-07T18:08:10+00:00"
+    },
+    {
+     "titolo": "Il Papa, 'vogliamo immaginare la pace, è il dono di Dio'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/il-papa-vogliamo-immaginare-la-pace-e-il-dono-di-dio_459d29ed-2d35-49eb-949c-6b538ee75ca9.html",
+     "data": "2026-09-07T16:29:59+00:00"
+    },
+    {
+     "titolo": "Precipita per sette metri dal tetto di uno stabilimento, grave un operaio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/precipita-per-sette-metri-dal-tetto-di-uno-stabilimento-grave-un-operaio_1d047bcc-11d5-455b-b7bb-9cad2d1dffff.html",
+     "data": "2026-09-07T16:21:31+00:00"
+    },
+    {
      "titolo": "Crollo gru a Torino, pm chiede condanne per i cinque imputati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/crollo-gru-a-torino-pm-chiede-condanne-per-i-cinque-imputati_827ad25d-720a-4f44-afda-f97928ef2b44.html",
      "data": "2026-09-07T14:46:14+00:00"
@@ -144,52 +184,42 @@
      "titolo": "Morte avvelenate, investigatori concentrati sulle relazioni personali",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/morte-avvelenate-investigatori-concentrati-sulle-relazioni-personali_f6a014bb-75fc-4af6-8450-4a5ad70aa667.html",
      "data": "2026-09-07T13:45:44+00:00"
-    },
-    {
-     "titolo": "Femminicidio in A1, disposta l'autopsia sui due corpi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/femminicidio-in-a1-disposta-lautopsia-sui-due-corpi_379cda37-fe57-4e6f-afc0-2e1f9e2d9347.html",
-     "data": "2026-09-07T13:44:58+00:00"
-    },
-    {
-     "titolo": "Femminicidio in A1, disposta l'autopsia sui due corpi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/femminicidio-in-a1-disposta-lautopsia-sui-due-corpi_8844a33a-4658-465b-b62a-ae9932303cad.html",
-     "data": "2026-09-07T13:58:23+00:00"
-    },
-    {
-     "titolo": "Prima campanella in Alto Adige, tornano sui banchi oltre 85mila studenti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/prima-campanella-in-alto-adige-tornano-sui-banchi-oltre-85mila-studenti_2b70b08a-9a4c-4c7a-9a94-0e68fd8d2e81.html",
-     "data": "2026-09-07T13:09:23+00:00"
-    },
-    {
-     "titolo": "Paziente danneggia pronto soccorso degli ospedali riuniti di Padova sud",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/paziente-danneggia-pronto-soccorso-degli-ospedali-riuniti-di-padova-sud_7612122d-1351-49f4-8bff-ad5396f26275.html",
-     "data": "2026-09-07T12:40:28+00:00"
-    },
-    {
-     "titolo": "Ex Ilva, legali ricorrenti: 'No alla sospensiva sullo spegnimento dell'area a caldo'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/ex-ilva-legali-ricorrenti-no-alla-sospensiva-sullo-spegnimento-dellarea-a-caldo_95af783b-d1f9-44f3-9334-39715ac0b3e4.html",
-     "data": "2026-09-07T12:54:47+00:00"
-    },
-    {
-     "titolo": "Violenta una collega durante il turno di lavoro, arresti domiciliari",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/violenta-una-collega-durante-il-turno-di-lavoro-arresti-domiciliari_ae0c2d7d-ff5a-4eb4-bdd8-5cb2fed4ebc3.html",
-     "data": "2026-09-07T12:04:22+00:00"
-    },
-    {
-     "titolo": "Il Cnr, 'l'estate 2026 la più calda in Italia dal 1950'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/il-cnr-lestate-2026-la-piu-calda-in-italia-dal-1950_03329a21-dd5a-4560-99f4-cc0390b98e2d.html",
-     "data": "2026-09-07T11:57:07+00:00"
-    },
-    {
-     "titolo": "Lavitola, 'dall'amicizia con Ranucci cercavo un mio riscatto'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/lavitola-dallamicizia-con-ranucci-cercavo-un-mio-riscatto_edf81dbb-2dcc-4fbb-815e-997e27a2550d.html",
-     "data": "2026-09-07T11:54:16+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Di Battista sedato e in terapia intensiva dopo l'intervento",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/07/di-battista-sedato-e-in-terapia-intensiva-dopo-lintervento_499e3ef0-2aae-4d56-be9e-8d59d80af400.html",
+     "data": "2026-09-07T19:46:34+00:00"
+    },
+    {
+     "titolo": "Il voto in Sassonia-Anhalt agita il centrodestra, il nodo Vannacci",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/07/il-voto-in-sassonia-anhalt-agita-il-centrodestra-il-nodo-vannacci_8f4144a4-8178-49e2-8680-fd4c6a0d9d53.html",
+     "data": "2026-09-07T19:40:02+00:00"
+    },
+    {
+     "titolo": "Ranucci torna nella redazione di Report, lungo abbraccio con Di Pasquale",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/07/ranucci-torna-nella-redazione-di-report-lungo-abbraccio-con-di-pasquale_d59af86a-1d2d-47f5-8823-0dac924436f6.html",
+     "data": "2026-09-07T17:53:35+00:00"
+    },
+    {
+     "titolo": "Stefani, 'in Veneto via i bonus a chi aggredisce i sanitari'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/07/stefani-in-veneto-via-i-bonus-a-chi-aggredisce-i-sanitari_a4c5e970-6a35-4cef-8801-c23794afb806.html",
+     "data": "2026-09-07T17:18:11+00:00"
+    },
+    {
+     "titolo": "Emma Bonino ricoverata a Roma per insufficienza respiratoria, grave ma vigile",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/07/emma-bonino-ricoverata-in-ospedale-a-roma-e-grave_7b4947f8-04af-4663-a970-d39283ad2cc1.html",
+     "data": "2026-09-07T19:23:57+00:00"
+    },
+    {
+     "titolo": "Meloni: 'Preservare lo spazio Schengen solo se si difendono i confini Ue'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/07/meloni-preservare-lo-spazio-schengen-solo-se-si-difendono-i-confini-ue_c17ff882-0f66-42ef-8af9-c7cab7612d41.html",
+     "data": "2026-09-07T19:44:08+00:00"
+    },
     {
      "titolo": "Vannacci, sempre più convinto mio addio alla Lega, ecco la 'coerenza' del Carroccio",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/07/vannacci-sempre-piu-convinto-mio-addio-alla-lega-ecco-la-coerenza_0f8afcaa-74c4-4bfe-a0ac-b752dab1e6b4.html",
@@ -219,42 +249,27 @@
      "titolo": "Salvini, si voterà a fine legislatura in autunno 2027, non stiamo qui a fare i record",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/07/salvini-si-votera-a-fine-legislatura-in-autunno-2027-non-stiamo-qui-a-fare_febadfc5-9ef5-4425-b1a7-a51c5497cac9.html",
      "data": "2026-09-07T11:44:20+00:00"
-    },
-    {
-     "titolo": "Calenda, risultato Sassonia è altro pezzetto di un occidente che cade",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/07/calenda-risultato-sassonia-e-altro-pezzetto-di-un-occidente-che-cade_5c535bfc-52bf-42da-aa38-3230081441a4.html",
-     "data": "2026-09-07T10:43:04+00:00"
-    },
-    {
-     "titolo": "Salvini, vittoria di Afd? Le elezioni non sono mai un problema",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/07/salvini-vittoria-di-afd-le-elezioni-non-sono-mai-un-problema_fb076a0b-be02-4f97-80dc-688bb04ee032.html",
-     "data": "2026-09-07T10:40:51+00:00"
-    },
-    {
-     "titolo": "La maggioranza si spacca sull'Afd. Vannacci esulta 'nessun dorma'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/06/-la-maggioranza-si-spacca-sullafd.-vannacci-esulta-nessun-dorma_7cb5114c-06a5-4b51-b844-6dc713f98aac.html",
-     "data": "2026-09-06T19:50:18+00:00"
-    },
-    {
-     "titolo": "Vannacci, in Sassonia Afd al 44,5%, Merz ha l'ulcera. L'Ue cambia",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/06/vannacci-in-sassonia-afd-al-445-merz-ha-lulcera.-lue-cambia_88da4904-b1a1-4d86-96f3-865c4e750f8c.html",
-     "data": "2026-09-06T18:39:05+00:00"
-    },
-    {
-     "titolo": "Ansia per Di Battista, amici e famiglia mantengono il riserbo",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/06/ansia-per-di-battista-amici-e-famiglia-mantengono-il-riserbo-_0978aacf-84ca-48e7-a11d-987f72161750.html",
-     "data": "2026-09-06T18:21:33+00:00"
-    },
-    {
-     "titolo": "Corsa sulla legge elettorale, si punta ad ok definitivo entro un mese",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/06/corsa-sulla-legge-elettorale-si-punta-ad-ok-definitivo-entro-un-mese_ae7a71a4-3e2e-4a51-b844-4d95715d2004.html",
-     "data": "2026-09-06T19:43:14+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Confindustria, 2.600 incontri tra imprese in Argentina e Brasile",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/confindustria-2.600-incontri-tra-imprese-in-argentina-e-brasile_58eab91a-d16a-4dad-af3d-806e36ef2e9c.html",
+     "data": "2026-09-07T19:55:23+00:00"
+    },
+    {
+     "titolo": "Il gas in rialzo (+2%) a 73,4 euro al Megawattora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/il-gas-in-rialzo-2-a-734-euro-al-megawattora_b026f504-85b6-4aae-8034-78b044053d66.html",
+     "data": "2026-09-07T17:18:47+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund chiude stabile a 81 punti base",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/lo-spread-tra-btp-e-bund-chiude-stabile-a-81-punti-base_bfb7e2ae-2805-411a-bfa3-6a9d39abc926.html",
+     "data": "2026-09-07T16:17:03+00:00"
+    },
     {
      "titolo": "Mef, in asta il 10 settembre tre Btp per complessivi 7,75 miliardi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/mef-in-asta-il-10-settembre-tre-btp-per-complessivi-775-miliardi_7aab109f-62ef-4c5d-a5a4-69a73826ba02.html",
@@ -268,7 +283,7 @@
     {
      "titolo": "Borsa: l'Europa conclude incerta, Francoforte -0,2%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/borsa-leuropa-conclude-incerta-francoforte-02_8c58bcec-b961-4e32-9bd5-9611d70e7354.html",
-     "data": "2026-09-07T15:41:27+00:00"
+     "data": "2026-09-07T17:57:10+00:00"
     },
     {
      "titolo": "Borsa: Milano chiude in lieve rialzo, Ftse Mib +0,25%",
@@ -278,7 +293,7 @@
     {
      "titolo": "Il rame ritocca il suo massimo storico a 14.535 dollari alla tonnellata",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/il-rame-ritocca-il-suo-massimo-storico-a-14.535-dollari-alla-tonnellata_92c4bd31-63d8-41b8-abb1-af9b6731f7b9.html",
-     "data": "2026-09-07T15:27:02+00:00"
+     "data": "2026-09-07T17:56:52+00:00"
     },
     {
      "titolo": "La Luiss accoglie le matricole all'insegna di innovazione e sport",
@@ -299,27 +314,17 @@
      "titolo": "In Gb cala prezzo delle case su base annua, è la prima volta da fine 2023",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/in-gb-cala-prezzo-delle-case-su-base-annua-e-la-prima-volta-da-fine-2023_169b0bd6-e4c2-48c8-b0d2-0899f1b483db.html",
      "data": "2026-09-07T13:49:32+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano piatta con l'Europa, calma Francoforte dopo la vittoria dell'Afd",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/borsa-milano-piatta-con-leuropa-calma-francoforte-dopo-la-vittoria-dellafd_facb6de1-22d4-4aa4-8ada-f6c2fcdcf141.html",
-     "data": "2026-09-07T13:40:37+00:00"
-    },
-    {
-     "titolo": "Cgil, pensione anticipata a 64 anni con il Tfr scarica costo sui lavoratori",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/cgil-pensione-anticipata-a-64-anni-con-il-tfr-scarica-costo-sui-lavoratori_a1ea1df9-465e-45c2-b05e-ad549c7e3caa.html",
-     "data": "2026-09-07T13:32:07+00:00"
-    },
-    {
-     "titolo": "Electrolux, assemblea lavoratori di Cerreto d'Esi 'disillusi, non rassegnati'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/electrolux-assemblea-lavoratori-di-cerreto-desi-disillusi-non-rassegnati_2708cefc-a424-4a9f-9aed-c201392cad48.html",
-     "data": "2026-09-07T12:17:28+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Nuovi raid israeliani in Libano, sterminata una famiglia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/07/nuovi-raid-israeliani-in-libano-sterminata-una-famiglia_a65d8ecf-b5c7-46bf-a111-e4f911f7f832.html",
+     "data": "2026-09-07T18:11:09+00:00"
+    },
     {
      "titolo": "Trump, 'restaurata a Washington la statua di Dante Alighieri'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/07/trump-restaurata-a-washington-la-statua-di-dante-alighieri_1f53f4a9-f062-4c50-9b42-107b33ff2181.html",
@@ -374,11 +379,6 @@
      "titolo": "Merz, arrendersi per me non è un'opzione, miglioreremo tutti",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/07/merz-arrendersi-per-me-non-e-unopzione-miglioreremo-tutti_4c7f7f70-81d5-4f3e-9d97-c47d20fb4e07.html",
      "data": "2026-09-07T12:22:15+00:00"
-    },
-    {
-     "titolo": "Ue, pacchetto di investimenti a 200 milioni di euro per la Groenlandia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/07/ue-pacchetto-di-investimenti-a-200-milioni-di-euro-per-la-groenlandia_7ded5aad-4c97-4f6b-8665-555269ddc671.html",
-     "data": "2026-09-07T12:13:49+00:00"
     }
    ]
   },
@@ -451,64 +451,64 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Champions: Mbappé, \"preferisco il Milan ma l'Inter merita grande rispetto\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/champions-mbappe-preferisco-il-milan-ma-linter-merita-grande-rispetto_f7709628-eb9c-4fcf-b471-4a427062c95f.html",
-     "data": "2026-09-07T15:28:06+00:00"
+     "titolo": "Serie A: Pisacane, 'vittoria importante per riscattare il ko in Coppa Italia'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-pisacane-vittoria-importante-per-riscattare-il-ko-in-coppa-italia_ffff61f4-871e-462c-8c91-34188a15d3af.html",
+     "data": "2026-09-07T19:26:41+00:00"
     },
     {
-     "titolo": "Fiorentina: Vanoli comincia l'avventura-bis con la squadra viola",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/fiorentina-vanoli-comincia-lavventura-bis-con-la-squadra-viola_181f5d60-c605-4ef8-8946-76492e93cfbe.html",
-     "data": "2026-09-07T15:22:12+00:00"
+     "titolo": "Serie A: Maldini di testa regala al Cagliari 3 punti, Lecce battuto 1-0",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-cagliari-lecce-1-0-decide-un-gol-di-maldini_9af64217-bdd7-47b7-a3fd-513efb94acaa.html",
+     "data": "2026-09-07T18:40:31+00:00"
     },
     {
-     "titolo": "Champions: Ranocchia, Chivu vuole far capire di avere superato il maestro",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/champions-ranocchia-chivu-vuole-far-capire-di-avere-superato-il-maestro_acc52e61-4e6b-43ce-9ba4-062282045968.html",
-     "data": "2026-09-07T15:04:05+00:00"
+     "titolo": "Serie A: Maldini di testa regala al Cagliari 3 punti, Lecce battuto 1-0",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-maldini-di-testa-regala-al-cagliari-3-punti-lecce-battuto-1-0_63802956-10c7-40a4-bbd5-fb850710a098.html",
+     "data": "2026-09-07T18:27:22+00:00"
     },
     {
-     "titolo": "F1: dal trionfo ai kart, Antonelli torna in pista nel bresciano",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/07/f1-dal-trionfo-ai-kart-antonelli-torna-in-pista-nel-bresciano_f4262aeb-dba5-4bff-abd5-2fedf125dcb1.html",
-     "data": "2026-09-07T15:02:24+00:00"
+     "titolo": "Serie A: in campo Udinese-Lazio 0-0 DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-in-campo-udinese-lazio-diretta_9a1b8c85-2b54-45cb-98d2-5b76db2ec524.html",
+     "data": "2026-09-07T19:46:55+00:00"
     },
     {
-     "titolo": "Atalanta: Giuntoli 'rosa competitiva e migliorata, troviamo identità forte'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/atalanta-giuntoli-rosa-competitiva-e-migliorata-troviamo-identita-forte_446e179a-91c7-4a0f-8581-137544bbec6b.html",
-     "data": "2026-09-07T14:47:33+00:00"
+     "titolo": "Us Open: Swiatek fuori agli ottavi, vince Zheng in due set",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/07/us-open-swiatek-fuori-agli-ottavi-vince-zheng-in-due-set_79557544-45aa-4916-9b9d-183f5801975e.html",
+     "data": "2026-09-07T18:12:22+00:00"
     },
     {
-     "titolo": "Inter: Sneijder 'il Triplete una cosa nostra e per me irripetibile'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/inter-sneijder-il-triplete-una-cosa-nostra-e-per-me-irripetibile_d82c4ba9-65bd-449b-881e-27d65b4030b2.html",
-     "data": "2026-09-07T14:32:43+00:00"
+     "titolo": "Champions: Chivu, 'abbiamo l'obbligo di scrivere ancora pagine importanti'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/champions-chivu-abbiamo-lobbligo-di-scrivere-ancora-pagine-importanti_6ab76812-b616-4912-ad56-93bc79286382.html",
+     "data": "2026-09-07T17:28:06+00:00"
     },
     {
-     "titolo": "Champions League: Real Madrid-Inter in campo martedì alle 21 DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/champions-league-real-madrid-inter-in-campo-martedi-alle-21-diretta_ffa7fc3c-cfbd-42ac-a6f8-083eb947a552.html",
-     "data": "2026-09-07T14:30:21+00:00"
+     "titolo": "Champions: Lautaro 'Real grande ma Inter ha le sue armi, siamo pronti'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/champions-lautaro-real-grande-ma-inter-ha-le-sue-armi-siamo-pronti_5daffb91-fd9b-4301-bab9-920729b9eead.html",
+     "data": "2026-09-07T17:17:33+00:00"
     },
     {
-     "titolo": "Us Open: Tsitsipas ko, e esce di scena il rovescio a una mano",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/07/us-open-tsitsipas-ko-e-esce-di-scena-il-rovescio-a-una-mano_845363bb-0189-4edd-bb2a-75ae27ba86fe.html",
-     "data": "2026-09-07T14:26:11+00:00"
+     "titolo": "Serie B: Belotti al Modena, domani le visite mediche e la firma",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-b-belotti-al-modena-domani-le-visite-mediche-e-la-firma_855e7fa9-3380-42bd-ae03-1b36dc840f97.html",
+     "data": "2026-09-07T17:14:54+00:00"
     },
     {
-     "titolo": "Al via le iscrizioni all'edizione 2026 della Go to Barcolana da Ravenna",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/07/al-via-le-iscrizioni-alledizione-2026-della-go-to-barcolana-da-ravenna_a0c24235-4e99-40b2-b361-24e93446930e.html",
-     "data": "2026-09-07T14:25:07+00:00"
+     "titolo": "Serie A: altri guai per la Juve di Spalletti, si ferma Locatelli",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-altri-guai-per-la-juve-di-spalletti-si-ferma-locatelli_2c393ad6-876a-4978-832f-b6e93291a772.html",
+     "data": "2026-09-07T17:06:03+00:00"
     },
     {
-     "titolo": "Kessie: 'Atalanta scelta di cuore, lottiamo anche per la Champions'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/kessie-atalanta-scelta-di-cuore-lottiamo-anche-per-la-champions_d78742ef-c285-4a7b-a550-e27d240d9986.html",
-     "data": "2026-09-07T14:27:34+00:00"
+     "titolo": "Pugilato: il docufilm \"La nobile arte\" sbarca al Festival di Venezia",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/07/pugilato-il-docufilm-la-nobile-arte-sbarca-al-festival-di-venezia_69edba54-1f9d-4015-b944-bf2ddf2c1afb.html",
+     "data": "2026-09-07T17:03:14+00:00"
     },
     {
-     "titolo": "Lazio: Gattuso 'con Lotito rapporto schietto, dopo Mantova ho preso bella ripassata'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/lazio-gattuso-con-lotito-rapporto-schietto-dopo-mantova-ho-preso-bella_4d8012b5-763c-41c3-a970-2781b4d2bd8e.html",
-     "data": "2026-09-07T14:10:49+00:00"
+     "titolo": "Serie A: Grosso già a casa, a Firenze torna l'artefice della salvezza Vanoli",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/07/serie-a-vanoli-e-ufficiale-sostituisce-lesonerato-fabio-grosso_f8192656-c866-410c-9294-e235f8ff8d3d.html",
+     "data": "2026-09-07T18:16:35+00:00"
     },
     {
-     "titolo": "US Open: ko Williams, così Serena lasciò Venus sola allo stadio",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/07/us-open-ko-williams-cosi-serena-lascio-venus-sola-allo-stadio_63ccb3ad-e1fa-4e1e-b677-df7ea1035bc7.html",
-     "data": "2026-09-07T14:42:12+00:00"
+     "titolo": "Champions League: Napoli-Arsenal in campo mercoledì alle 21 DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/07/champions-league-napoli-arsenal-in-campo-mercoledi-alle-21-diretta_b5a72c5b-51ec-430f-adc3-c2ca49de4eb0.html",
+     "data": "2026-09-07T17:09:56+00:00"
     }
    ]
   }
