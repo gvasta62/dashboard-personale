@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-09-07T00:34:42.638596+00:00",
+ "aggiornato": "2026-09-07T05:19:16.891517+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Idf, esplode ordigno su Linea Gialla, Hamas viola cessate il fuoco",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/idf-esplode-ordigno-su-linea-gialla-hamas-viola-cessate-il-fuoco_5036566a-c87c-485f-bfca-04d10bf2f1ba.html",
+     "data": "2026-09-07T04:53:18+00:00"
+    },
+    {
+     "titolo": "Eruzione in Indonesia, prolungata la chiusura di quattro aeroporti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/eruzione-in-indonesia-prolungata-la-chiusura-di-quattro-aeroporti_2a7c985a-ca6e-49dc-95fd-d9e0dd0b86bb.html",
+     "data": "2026-09-07T04:16:53+00:00"
+    },
+    {
+     "titolo": "Cadaveri ribelli Farc in video, polemica sul presidente colombiano De la Espriella",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/cadaveri-ribelli-farc-in-video-polemica-sul-presidente-colombiano-de-la-espriella_c8e8cf0e-a801-44b1-9c80-936a00db16d0.html",
+     "data": "2026-09-07T00:54:33+00:00"
+    },
     {
      "titolo": "Trump, 'molti suggeriscono di cambiare New Mexico in New America, mi piace'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/trump-molti-suggeriscono-di-cambiare-new-mexico-in-new-america-mi-piace_ba127349-6eb6-47fb-bda5-fbc865c03efd.html",
@@ -39,21 +54,6 @@
      "titolo": "Witkoff, 'Russia e Ucraina dovranno fare dei compromessi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/witkoff-russia-e-ucraina-dovranno-fare-dei-compromessi_6ddd9ffb-6877-4424-a2e0-ebb3b5d1d664.html",
      "data": "2026-09-06T17:56:29+00:00"
-    },
-    {
-     "titolo": "In Sassonia-Anhalt affluenza record dell'80%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/in-sassonia-anhalt-affluenza-record-dell80_5eaf84ec-b0c3-4541-a056-8d1ece4b8346.html",
-     "data": "2026-09-06T17:51:14+00:00"
-    },
-    {
-     "titolo": "Tajani, 'i risultati in Sassonia pessima notizia, ora contromisure'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/tajani-i-risultati-in-sassonia-pessima-notizia-ora-contromisure_4d842d5a-01d7-4af9-8067-09fc3bdad643.html",
-     "data": "2026-09-06T17:47:56+00:00"
-    },
-    {
-     "titolo": "Da domani sera sciopero di 24 ore del personale Fs",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/06/da-domani-sera-sciopero-di-24-ore-del-personale-fs_3c9ab25b-a73b-4702-86b1-77286b400447.html",
-     "data": "2026-09-06T17:45:59+00:00"
     }
    ]
   },
@@ -301,6 +301,36 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Idf, esplode ordigno su Linea Gialla, Hamas viola cessate il fuoco",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/07/idf-esplode-ordigno-su-linea-gialla-hamas-viola-cessate-il-fuoco_991b4ff2-a9d4-4ee8-8821-ebeb96c7d8ed.html",
+     "data": "2026-09-07T04:53:35+00:00"
+    },
+    {
+     "titolo": "Eruzione in Indonesia, prolungata la chiusura di quattro aeroporti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/07/eruzione-in-indonesia-prolungata-la-chiusura-di-quattro-aeroporti_53d8a491-9792-4643-ac57-43062545b64f.html",
+     "data": "2026-09-07T04:16:53+00:00"
+    },
+    {
+     "titolo": "Ricky Martin esclude il ritorno sul palco con i Menudo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/07/ricky-martin-esclude-il-ritorno-sul-palco-con-i-menudo_af95be99-bbda-4aaa-a6fc-90fc6bb64d6c.html",
+     "data": "2026-09-07T03:07:49+00:00"
+    },
+    {
+     "titolo": "Messico, il governo valuta più importazioni dagli Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/07/messico-il-governo-valuta-piu-importazioni-dagli-usa_b0e68c08-c6a5-4790-bef8-9e6e4ee7b3ff.html",
+     "data": "2026-09-07T02:10:25+00:00"
+    },
+    {
+     "titolo": "Cadaveri ribelli Farc in video, polemica sul presidente colombiano De la Espriella",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/07/cadaveri-ribelli-farc-in-video-polemica-sul-presidente-colombiano-de-la-espriella_f6f58352-d946-4ecb-a844-b21d3404c5f3.html",
+     "data": "2026-09-07T00:54:53+00:00"
+    },
+    {
+     "titolo": "El Salvador, Bukele elogia l'intelligenza artificiale nelle scuole",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/07/el-salvador-bukele-elogia-lintelligenza-artificiale-nelle-scuole_f8e8e928-35ad-429d-95ed-d78114a07b95.html",
+     "data": "2026-09-07T00:55:27+00:00"
+    },
+    {
      "titolo": "Trump, 'molti suggeriscono di cambiare New Mexico in New America, mi piace'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/07/trump-molti-suggeriscono-di-cambiare-new-mexico-in-new-america-mi-piace_c9eb8262-7ec2-4e36-96fb-221b2dd06f06.html",
      "data": "2026-09-06T23:52:44+00:00"
@@ -329,36 +359,6 @@
      "titolo": "In Sassonia-Anhalt affluenza record dell'80%",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/06/in-sassonia-anhalt-affluenza-record-dell80_b52b6527-e866-44e4-9e6e-2cd0c0b68a0a.html",
      "data": "2026-09-06T17:51:14+00:00"
-    },
-    {
-     "titolo": "Tajani, 'i risultati in Sassonia pessima notizia, ora contromisure'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/06/tajani-i-risultati-in-sassonia-pessima-notizia-ora-contromisure_4a259749-612b-436d-8755-35bc78411814.html",
-     "data": "2026-09-06T17:47:59+00:00"
-    },
-    {
-     "titolo": "Spd, 'risultato in Sassonia Anhalt è un segnale per Berlino'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/06/spd-risultato-in-sassonia-anhalt-e-un-segnale-per-berlino_1bf0d167-511b-4008-90e4-71acbc982526.html",
-     "data": "2026-09-06T17:39:08+00:00"
-    },
-    {
-     "titolo": "Netanyahu ordina di smantellare gli avamposti dei coloni in Cisgiordania",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/06/netanyahu-ordina-di-smantellare-gli-avamposti-dei-coloni-in-cisgiordania_24c568c4-6068-4f1e-a600-f0ea5039f8a6.html",
-     "data": "2026-09-06T17:08:51+00:00"
-    },
-    {
-     "titolo": "Weidel, 'un risultato storico, chiaro mandato a governare'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/06/weidel-un-risultato-storico-chiaro-mandato-a-governare_c6a85f7a-d8e1-4f42-bba1-cd3f9e9e99e8.html",
-     "data": "2026-09-06T16:48:20+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'parlato con Usa di Patriot, tema dei territori si risolve tra i presidenti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/06/zelensky-parlato-con-usa-di-patriot-tema-dei-territori-si-risolve-tra_e0397586-8229-4d63-ac72-af65fbf3d48c.html",
-     "data": "2026-09-06T16:46:45+00:00"
-    },
-    {
-     "titolo": "Netanyahu ribadisce, 'la fine dell'Iran è vicina, il regime è debole'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/06/netanyahu-ribadisce-la-fine-delliran-e-vicina-il-regime-e-debole_612a3290-01c2-4336-89e6-45fa33d53245.html",
-     "data": "2026-09-06T16:41:54+00:00"
     }
    ]
   },
