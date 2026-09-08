@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-08T20:21:17.055033+00:00",
+ "aggiornato": "2026-09-08T22:46:35.539169+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump dispone la rimozione dei beni canadesi dagli appalti pubblici Usa",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/trump-dispone-la-rimozione-dei-beni-canadesi-dagli-appalti-pubblici-usa_68db5409-30c4-421b-acf3-c452059adf97.html",
+     "data": "2026-09-08T21:36:45+00:00"
+    },
+    {
+     "titolo": "Champions: Real Madrid-Inter 2-1",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/champions-real-madrid-inter-2-1_888cec23-8b39-485b-acef-85f68950e9b7.html",
+     "data": "2026-09-08T20:59:09+00:00"
+    },
     {
      "titolo": "Wsj, 'nuovo attacco dell'Iran contro le navi della Marina Usa'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/wsj-nuovo-attacco-delliran-contro-le-navi-della-marina-usa_1d051af3-27e0-4a83-95a4-a90341a90317.html",
@@ -44,16 +54,6 @@
      "titolo": "Lo spread tra Btp e Bund chiude in lieve calo a 81,6 punti base",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/lo-spread-tra-btp-e-bund-chiude-in-lieve-calo-a-816-punti-base_ce1f7ce4-62b5-4476-a6da-d04690875f11.html",
      "data": "2026-09-08T16:18:14+00:00"
-    },
-    {
-     "titolo": "Tajani firma con il governo argentino accordi su materie prime e cooperazione",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/tajani-firma-con-il-governo-argentino-accordi-su-materie-prime-e-cooperazione_9654435f-4738-416d-99e3-b4a8c4aa2d2e.html",
-     "data": "2026-09-08T16:05:12+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude fiacca con la corsa del petrolio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/borsa-leuropa-chiude-fiacca-con-la-corsa-del-petrolio_1018247f-e8f7-4a87-907f-d59b377ed09d.html",
-     "data": "2026-09-08T15:56:47+00:00"
     }
    ]
   },
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Ranucci: 'candidarmi? Non ci penso, ma se mi cacciano proprio dalla Rai...'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/08/ranucci-candidarmi-non-ci-penso-ma-se-mi-cacciano-proprio-dalla-rai..._9ec86333-c884-4403-bd61-072ef0a250d6.html",
+     "data": "2026-09-08T20:21:16+00:00"
+    },
+    {
      "titolo": "Il campo largo punta sul programma, sulle primarie si deciderà",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/08/il-campo-largo-punta-sul-programma-sulle-primarie-si-decidera_2665b195-a27a-4892-bf6b-20f493e944e9.html",
      "data": "2026-09-08T19:46:47+00:00"
@@ -244,17 +249,17 @@
      "titolo": "Convegno con Vannacci, Silp Cgil 'revocare aggiornamento professionale'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/08/convegno-con-vannacci-silp-cgil-revocare-aggiornamento-professionale_e101dbce-f276-47d3-8389-ca2731073b61.html",
      "data": "2026-09-08T08:26:20+00:00"
-    },
-    {
-     "titolo": "Gli agenti a lezione da Vannacci, un caso l'evento a Torino",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/08/e-bufera-sul-convegno-con-vannacci-a-torino-il-silp-cgil-chiede-lo-stop_a5be0d1c-8d60-43f7-a267-c27ac8ed3a52.html",
-     "data": "2026-09-08T19:55:30+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Ex Ilva, governo apre a partecipazione pubblica. Stop ai licenziamenti",
+     "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/08/ex-ilva-governo-apre-a-partecipazione-pubblica.-stop-ai-licenziamenti-_d3d9e9aa-8903-4e06-bf97-c5b26dc1e8eb.html",
+     "data": "2026-09-08T20:57:23+00:00"
+    },
     {
      "titolo": "De Palma, in due giorni saremo riconvocati per aggiornamento su ex Ilva",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/08/de-palma-in-due-giorni-saremo-riconvocati-per-aggiornamento-su-ex-ilva_2f555fce-516c-44f9-87ac-d1830646b765.html",
@@ -309,17 +314,47 @@
      "titolo": "Vicenzaoro chiude con il record, +9% presenze dall'estero",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/08/vicenzaoro-chiude-con-il-record-9-presenze-dallestero_caddbd0f-fd86-4f8e-b844-62fb86f4f83a.html",
      "data": "2026-09-08T15:16:02+00:00"
-    },
-    {
-     "titolo": "Fumarola, disinnescare rischio occupazionale e ambientale dell'ex Ilva",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/08/fumarola-disinnescare-rischio-occupazionale-e-ambientale-dellex-ilva_f94a204b-4043-4dc9-8c8b-bfb32c3fbc33.html",
-     "data": "2026-09-08T14:33:25+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Cuba, L'arcivescovo di Santiago, 'servono cambiamenti profondi e urgenti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/cuba-larcivescovo-di-santiago-servono-cambiamenti-profondi-e-urgenti_54a183e7-667a-4433-a7d6-d72cff5dda5f.html",
+     "data": "2026-09-08T22:03:26+00:00"
+    },
+    {
+     "titolo": "Colombia, De La Espriella, 'l'alleanza con gli Stati Uniti è più forte che mai'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/colombia-de-la-espriella-lalleanza-con-gli-stati-uniti-e-piu-forte-che_76201bf4-2094-468c-8aa2-cfb1a1b0fb67.html",
+     "data": "2026-09-08T21:39:58+00:00"
+    },
+    {
+     "titolo": "Trump dispone la rimozione dei beni canadesi dagli appalti pubblici Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/08/trump-dispone-la-rimozione-dei-beni-canadesi-dagli-appalti-pubblici-usa_4d7cdebf-5a60-4410-9045-6d50a254f2e0.html",
+     "data": "2026-09-08T21:36:45+00:00"
+    },
+    {
+     "titolo": "Sheinbaum difende il modello educativo messicano dopo il rapporto Ocse Pisa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/sheinbaum-difende-il-modello-educativo-messicano-dopo-il-rapporto-ocse-pisa_10ea18b0-a5c1-4427-95d2-9a7300fd8f66.html",
+     "data": "2026-09-08T21:28:43+00:00"
+    },
+    {
+     "titolo": "In Bolivia record coltivazioni di coca, 36.400 ettari, quasi il doppio limite legale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/in-bolivia-record-coltivazioni-di-coca-36.400-ettari-quasi-il-doppio-limite-legale_9fd2c180-c5e8-4565-a690-f32cd43e47d3.html",
+     "data": "2026-09-08T20:59:09+00:00"
+    },
+    {
+     "titolo": "Cuba, nuovamente al buio i due terzi del Paese",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/cuba-nuovamente-al-buio-i-due-terzi-del-paese_c8f00616-c06f-4cad-a585-64ff7cd29315.html",
+     "data": "2026-09-08T20:47:18+00:00"
+    },
+    {
+     "titolo": "Brasile, 'i direttori della Polizia federale mettono a disposizione i loro incarichi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/brasile-i-direttori-della-polizia-federale-mettono-a-disposizione-i-loro-incarichi_2a24acd1-c700-4d5b-a091-99e044225f6f.html",
+     "data": "2026-09-08T20:38:00+00:00"
+    },
     {
      "titolo": "Wsj, 'nuovo attacco dell'Iran contro le navi della Marina Usa'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/08/wsj-nuovo-attacco-delliran-contro-le-navi-della-marina-usa_7791febc-8a54-410f-bf2a-b1ba9b9ba88f.html",
@@ -344,41 +379,6 @@
      "titolo": "Colombia, De la Espriella revoca lo stop al porto d'armi per i civili",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/colombia-de-la-espriella-revoca-lo-stop-al-porto-darmi-per-i-civili_75d02f20-927b-46e1-8477-d4ffcad928c5.html",
      "data": "2026-09-08T17:08:19+00:00"
-    },
-    {
-     "titolo": "Tajani, ho regalato a Milei una maglietta della nazionale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/tajani-ho-regalato-a-milei-una-maglietta-della-nazionale_b8427aac-5f7e-4da3-b223-f27480fcb192.html",
-     "data": "2026-09-08T16:50:03+00:00"
-    },
-    {
-     "titolo": "Tajani firma con il governo argentino accordi su materie prime e cooperazione",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/tajani-firma-con-il-governo-argentino-accordi-su-materie-prime-e-cooperazione_78c4dfd7-f1fa-4834-bb6b-832daf6fd6f4.html",
-     "data": "2026-09-08T16:05:12+00:00"
-    },
-    {
-     "titolo": "Rubio, 'tensioni in Cisgiordania'. Ma esclude sanzioni ai coloni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/08/rubio-tensioni-in-cisgiordania.-ma-esclude-sanzioni-ai-coloni_ba2dbe8c-be68-4db1-85e2-beca3dfadd42.html",
-     "data": "2026-09-08T15:38:04+00:00"
-    },
-    {
-     "titolo": "Dal Sudafrica nuovo ricorso contro la vendita negli Usa di cimeli di Mandela",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/08/dal-sudafrica-nuovo-ricorso-contro-la-vendita-negli-usa-di-cimeli-di-mandela_40e3bf77-922b-4932-8a04-170e9140c39b.html",
-     "data": "2026-09-08T15:19:12+00:00"
-    },
-    {
-     "titolo": "Traffico aereo in tilt in Gb, coinvolti anche scali Heathrow e Gatwick",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/08/traffico-aereo-in-tilt-in-gb-coinvolti-anche-scali-heathrow-e-gatwick_ce10e4d2-d25c-495a-820b-675eca9e8f04.html",
-     "data": "2026-09-08T15:15:12+00:00"
-    },
-    {
-     "titolo": "Americani scettici sul loro sistema scolastico, soddisfatto solo il 32%",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/08/americani-scettici-sul-loro-sistema-scolastico-soddisfatto-solo-il-32_1562d8b2-e105-4456-b1b9-87e3ebd9be19.html",
-     "data": "2026-09-08T15:13:01+00:00"
-    },
-    {
-     "titolo": "Pistorius, 'Kiev ordina migliaia di missili Iris-T, aumenta produzione'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/08/pistorius-kiev-ordina-migliaia-di-missili-iris-t-aumenta-produzione_4db6d017-5a47-445a-9606-cfdf57e59245.html",
-     "data": "2026-09-08T15:08:53+00:00"
     }
    ]
   },
@@ -451,6 +451,36 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Champions League: l'Inter si fa male da sola, vince il Real su errori nerazzurri",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/08/champions-league-linter-si-fa-male-da-sola-vince-il-real-su-errori-nerazzurri_ffa7fc3c-cfbd-42ac-a6f8-083eb947a552.html",
+     "data": "2026-09-08T22:40:14+00:00"
+    },
+    {
+     "titolo": "Champions: doppietta di Haaland, il Manchester City vince a Porto",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/08/champions-doppietta-di-haaland-il-manchester-city-vince-a-porto_34418a0a-3f7f-47e6-aa0d-cbae37d8b590.html",
+     "data": "2026-09-08T22:39:34+00:00"
+    },
+    {
+     "titolo": "Champions: Chivu 'Inter coraggiosa, grande reazione agli errori'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/08/champions-chivu-inter-coraggiosa-grande-reazione-agli-errori_1411a67d-5661-42a9-a3e8-78bda1c210aa.html",
+     "data": "2026-09-08T21:40:50+00:00"
+    },
+    {
+     "titolo": "Champions: Lautaro 'competizione di dettagli, se sbagli paghi'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/08/champions-lautaro-competizione-di-dettagli-se-sbagli-paghi_3851f0eb-9da8-4fd9-9d73-8d9cb792b9d3.html",
+     "data": "2026-09-08T21:34:29+00:00"
+    },
+    {
+     "titolo": "Champions: Mourinho 'partita pazza, mi è piaciuto il risultato'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/08/champions-mourinho-partita-pazza-mi-e-piaciuto-il-risultato_cb0a79ff-ea84-49d1-bd58-79302969cde2.html",
+     "data": "2026-09-08T21:25:12+00:00"
+    },
+    {
+     "titolo": "Champions: Real Madrid-Inter 2-1",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/08/champions-real-madrid-inter-2-1_ed5b837f-bcf3-4a8a-9a9c-f24180da55f6.html",
+     "data": "2026-09-08T20:59:11+00:00"
+    },
+    {
      "titolo": "Juve: Locatelli 'sono distrutto, ci vorrà pazienza'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/08/juve-locatelli-sono-distrutto-ci-vorra-pazienza_e4e0b9c7-d7bb-48db-afee-bb122a69da6d.html",
      "data": "2026-09-08T19:57:55+00:00"
@@ -459,11 +489,6 @@
      "titolo": "Pugilato: il docufilm 'La nobile arte' proiettato a Venezia",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/08/pugilato-il-docufilm-la-nobile-arte-proiettato-a-venezia_bf289f90-53f1-452b-b261-40378856b497.html",
      "data": "2026-09-08T19:49:21+00:00"
-    },
-    {
-     "titolo": "Champions League: Real Madrid-Inter in campo 2-0 - DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/08/champions-league-real-madrid-inter-in-campo-2-0-diretta_ffa7fc3c-cfbd-42ac-a6f8-083eb947a552.html",
-     "data": "2026-09-08T19:44:28+00:00"
     },
     {
      "titolo": "Fiorentina: club valuta un'azione disciplinare nei confronti di Grosso",
@@ -484,31 +509,6 @@
      "titolo": "Juve: lesione muscolare per Boga, torna tra 5 settimane",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/08/juve-lesione-muscolare-per-boga-torna-tra-5-settimane_dadb4bdc-e69b-4149-91b6-be389ae036c9.html",
      "data": "2026-09-08T18:12:24+00:00"
-    },
-    {
-     "titolo": "Juventus: Locatelli operato a Lione, stop di 5-6 mesi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/08/juventus-locatelli-operato-a-lione-stop-di-5-6-mesi_c6ec00bc-7af9-4028-8cb8-1537f12aa1d3.html",
-     "data": "2026-09-08T18:08:56+00:00"
-    },
-    {
-     "titolo": "Figc: mancato tesseramento Malagò, Procura Coni respinge richiesta archiviazione",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/08/figc-mancato-tesseramento-malago-procura-coni-respinge-richiesta-archiviazione_ce3b416f-4cdd-4b4b-a4eb-b5824b119751.html",
-     "data": "2026-09-08T17:28:26+00:00"
-    },
-    {
-     "titolo": "Figc: mancato tesseramento di Malagò, la procura del Coni respinge la richiesta di archiviazione",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/08/figc-mancato-tesseramento-di-malago-la-procura-del-coni-respinge-la-richiesta-di-archiviazione_952a495b-b419-4a4a-82b2-4d284ed41f4b.html",
-     "data": "2026-09-08T18:27:28+00:00"
-    },
-    {
-     "titolo": "Vuelta: Brennan conquista la quarta vittoria in volata",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/08/vuelta-brennan-conquista-la-quarta-vittoria-in-volata_96b00e30-2dc9-4bd2-971e-f398e9ddfa2d.html",
-     "data": "2026-09-08T16:57:12+00:00"
-    },
-    {
-     "titolo": "L'annuncio di Rune: \"Torno il 18 settembre in Coppa Davis\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/08/lannuncio-di-rune-torno-il-18-settembre-in-coppa-davis_50fa0db7-8540-4893-a72a-4d720cfbb2c8.html",
-     "data": "2026-09-08T16:15:27+00:00"
     }
    ]
   }
