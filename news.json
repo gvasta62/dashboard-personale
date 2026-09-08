@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-09-07T22:53:20.313894+00:00",
+ "aggiornato": "2026-09-08T00:45:39.547782+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Bolivia, sale a 9 il bilancio delle vittime delle esplosioni in area militare",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/bolivia-sale-a-9-il-bilancio-delle-vittime-delle-esplosioni-in-area-militare_31cdb7ce-887a-4e04-9812-16e1c5a09de1.html",
+     "data": "2026-09-08T00:31:36+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in ribasso (-0,87%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/borsa-tokyo-apertura-in-ribasso-087_f287673c-b39a-430e-a0b2-56f6006a7f46.html",
+     "data": "2026-09-08T00:12:24+00:00"
+    },
+    {
+     "titolo": "La Russia riprende gli attacchi su Kiev dopo tre giorni di tregua",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/la-russia-riprende-gli-attacchi-su-kiev-dopo-tre-giorni-di-tregua_27943521-7147-4e43-97af-9248ffe7daea.html",
+     "data": "2026-09-07T23:42:59+00:00"
+    },
     {
      "titolo": "Poste incrementa componente cash opas su Tim",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/poste-incrementa-componente-cash-opas-su-tim_d9d4c5be-3479-4639-ad4d-65ff23e30d3c.html",
@@ -39,21 +54,6 @@
      "titolo": "Il Canale di Panama non esclude nuove restrizioni al transito a causa di El Niño",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/il-canale-di-panama-non-esclude-nuove-restrizioni-al-transito-a-causa-di-el-nino_2ee0e7c5-3b49-4cf1-affc-c3b05d674902.html",
      "data": "2026-09-07T15:47:27+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa conclude incerta, Francoforte -0,2%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/borsa-leuropa-conclude-incerta-francoforte-02_1d54b314-f3d8-4426-a7af-478ac91bf3b5.html",
-     "data": "2026-09-07T15:41:24+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in lieve rialzo, Ftse Mib +0,25%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/borsa-milano-chiude-in-lieve-rialzo-ftse-mib-025_e36a19b4-6026-4df6-9ddd-754de31cfe52.html",
-     "data": "2026-09-07T15:38:09+00:00"
-    },
-    {
-     "titolo": "Ellen Burstyn Leone alla carriera, 'spero il mio Paese trovi presto una strada maestra'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/07/ellen-burstyn-leone-alla-carriera-spero-il-mio-paese-trovi-presto_308b35fe-47ea-4bca-8d94-d473bc2cd454.html",
-     "data": "2026-09-07T14:50:14+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in ribasso (-0,87%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/08/borsa-tokyo-apertura-in-ribasso-087_17a21b83-b62a-4ee1-b5db-0f00d9dd54b4.html",
+     "data": "2026-09-08T00:12:26+00:00"
+    },
+    {
      "titolo": "Confindustria, 2.600 incontri tra imprese in Argentina e Brasile",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/confindustria-2.600-incontri-tra-imprese-in-argentina-e-brasile_58eab91a-d16a-4dad-af3d-806e36ef2e9c.html",
      "data": "2026-09-07T19:55:23+00:00"
@@ -309,17 +314,32 @@
      "titolo": "Il prezzo dell'energia elettrica a settembre supera 200 euro a Mwh",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/il-prezzo-dellenergia-elettrica-a-settembre-supera-200-euro-a-mwh_1b8bfb27-cb47-4033-88c5-1c888a6986f3.html",
      "data": "2026-09-07T14:03:10+00:00"
-    },
-    {
-     "titolo": "In Gb cala prezzo delle case su base annua, è la prima volta da fine 2023",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/in-gb-cala-prezzo-delle-case-su-base-annua-e-la-prima-volta-da-fine-2023_169b0bd6-e4c2-48c8-b0d2-0899f1b483db.html",
-     "data": "2026-09-07T13:49:32+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Bolivia, sale a 9 il bilancio delle vittime delle esplosioni in area militare",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/bolivia-sale-a-9-il-bilancio-delle-vittime-delle-esplosioni-in-area-militare_1d0ef020-282b-4572-87f2-16241d0293c7.html",
+     "data": "2026-09-08T00:31:38+00:00"
+    },
+    {
+     "titolo": "Panama, Ilya Espino è la prima donna alla guida del Canale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/panama-ilya-espino-e-la-prima-donna-alla-guida-del-canale_8d0dfca0-e947-41f1-a646-3aa924a67a21.html",
+     "data": "2026-09-08T00:31:55+00:00"
+    },
+    {
+     "titolo": "La Russia riprende gli attacchi su Kiev dopo tre giorni di tregua",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/08/la-russia-riprende-gli-attacchi-su-kiev-dopo-tre-giorni-di-tregua_d184bee5-b1c9-477c-8507-7913cde1dd6f.html",
+     "data": "2026-09-07T23:43:00+00:00"
+    },
+    {
+     "titolo": "Brasile, Lula e Flávio Bolsonaro al 41% in un eventuale ballottaggio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/brasile-lula-e-flavio-bolsonaro-al-41-in-un-eventuale-ballottaggio_3ac3042b-3819-4a8e-af1f-35e637f614eb.html",
+     "data": "2026-09-07T22:59:31+00:00"
+    },
     {
      "titolo": "Venezuela, familiari dei detenuti politici protestano davanti al Difensore civico",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/07/venezuela-familiari-dei-detenuti-politici-protestano-davanti-al-difensore-civico_90962f7b-84e3-4b1d-bd22-7464fc33bef5.html",
@@ -359,26 +379,6 @@
      "titolo": "Lettera di re Carlo conferma, 'Harry e Meghan tornati in Gb come privati cittadini'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/07/lettera-di-re-carlo-conferma-harry-e-meghan-tornati-in-gb-come-privati-cittadini_38ace7d6-88aa-4d8b-820c-89c579ff6375.html",
      "data": "2026-09-07T15:42:04+00:00"
-    },
-    {
-     "titolo": "Witkoff dopo la visita a Mosca e Kiev, 'progressi sostanziali'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/07/witkoff-dopo-la-visita-a-mosca-e-kiev-progressi-sostanziali_487e402f-05d9-41a4-acea-9fe21bd0322d.html",
-     "data": "2026-09-07T14:39:24+00:00"
-    },
-    {
-     "titolo": "Witkoff dopo la visita a Mosca e Kiev, 'progressi sostanziali'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/07/witkoff-dopo-la-visita-a-mosca-e-kiev-progressi-sostanziali_5b04c1bd-6025-4260-9d00-259c2648c8ac.html",
-     "data": "2026-09-07T14:39:27+00:00"
-    },
-    {
-     "titolo": "Mosca chiude il consolato tedesco a San Pietroburgo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/07/mosca-chiude-il-consolato-tedesco-a-san-pietroburgo_c1ac854f-ebce-448e-b77a-6a90bc412bb5.html",
-     "data": "2026-09-07T14:35:53+00:00"
-    },
-    {
-     "titolo": "Eliseo, Usa ha riferito di disponibilità russa a trattare dopo elezioni Duma",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/07/eliseo-usa-ha-riferito-di-disponibilita-russa-a-trattare-dopo-elezioni-duma_941b7b62-72b7-4522-879d-1d4a8ae5c130.html",
-     "data": "2026-09-07T14:26:34+00:00"
     }
    ]
   },
