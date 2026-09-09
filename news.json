@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-08T22:46:35.539169+00:00",
+ "aggiornato": "2026-09-09T00:44:55.156320+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump: 'Il partito populista AfD ha vinto in Germania, sono in ascesa'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/09/trump-il-partito-populista-afd-ha-vinto-in-germania-sono-in-ascesa_b2d57c1e-e82e-4ae6-920b-33bae43432ff.html",
+     "data": "2026-09-08T23:50:53+00:00"
+    },
+    {
+     "titolo": "Casa Bianca, 'stop a prodotti lattiero-caseari, alcolici e moto dal Canada'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/09/casa-bianca-stop-a-prodotti-lattiero-caseari-alcolici-e-moto-dal-canada_bd083897-546b-4721-b40e-c9dee6ed71f4.html",
+     "data": "2026-09-08T23:28:56+00:00"
+    },
     {
      "titolo": "Trump dispone la rimozione dei beni canadesi dagli appalti pubblici Usa",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/trump-dispone-la-rimozione-dei-beni-canadesi-dagli-appalti-pubblici-usa_68db5409-30c4-421b-acf3-c452059adf97.html",
@@ -44,16 +54,6 @@
      "titolo": "Il prezzo del gas tocca il picco a 77,13 euro, massimi da gennaio 2023",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/il-prezzo-del-gas-tocca-il-picco-a-7713-euro-massimi-da-gennaio-2023_34d39032-4f34-4884-95c4-3159b70c13b5.html",
      "data": "2026-09-08T17:38:22+00:00"
-    },
-    {
-     "titolo": "Governo non esclude una partecipazione pubblica nell'ex Ilva",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/governo-non-esclude-una-partecipazione-pubblica-nellex-ilva_ab6b998e-90dd-43d3-8873-435eef9e312b.html",
-     "data": "2026-09-08T17:37:41+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude in lieve calo a 81,6 punti base",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/lo-spread-tra-btp-e-bund-chiude-in-lieve-calo-a-816-punti-base_ce1f7ce4-62b5-4476-a6da-d04690875f11.html",
-     "data": "2026-09-08T16:18:14+00:00"
     }
    ]
   },
@@ -321,6 +321,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump: 'Il partito populista AfD ha vinto in Germania, sono in ascesa'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/09/trump-il-partito-populista-afd-ha-vinto-in-germania-sono-in-ascesa_356d46c4-5b1d-44a9-829f-d3dbaf39ef87.html",
+     "data": "2026-09-08T23:51:11+00:00"
+    },
+    {
+     "titolo": "Casa Bianca, 'stop a prodotti lattiero-caseari, alcolici e moto dal Canada'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/09/casa-bianca-stop-a-prodotti-lattiero-caseari-alcolici-e-moto-dal-canada_2e5d9b2c-5ecf-4762-bc87-6e954bbaebfc.html",
+     "data": "2026-09-08T23:29:40+00:00"
+    },
+    {
+     "titolo": "Nicaragua, nuova concessione aurifera a società legata a impresa sanzionata dagli Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/nicaragua-nuova-concessione-aurifera-a-societa-legata-a-impresa-sanzionata-dagli-usa_5174c0e3-6d76-40c8-a4fd-1d5f41a271ac.html",
+     "data": "2026-09-08T23:18:02+00:00"
+    },
+    {
+     "titolo": "Brasile, Italia respinge richiesta per l'esecuzione della pena di Leonardo Badalamenti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/brasile-italia-respinge-richiesta-per-lesecuzione-della-pena-di-leonardo-badalamenti_cfdddbba-f7c2-4124-bfa3-17dc95b72c96.html",
+     "data": "2026-09-08T23:19:23+00:00"
+    },
+    {
      "titolo": "Cuba, L'arcivescovo di Santiago, 'servono cambiamenti profondi e urgenti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/cuba-larcivescovo-di-santiago-servono-cambiamenti-profondi-e-urgenti_54a183e7-667a-4433-a7d6-d72cff5dda5f.html",
      "data": "2026-09-08T22:03:26+00:00"
@@ -359,26 +379,6 @@
      "titolo": "Wsj, 'nuovo attacco dell'Iran contro le navi della Marina Usa'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/08/wsj-nuovo-attacco-delliran-contro-le-navi-della-marina-usa_7791febc-8a54-410f-bf2a-b1ba9b9ba88f.html",
      "data": "2026-09-08T20:13:10+00:00"
-    },
-    {
-     "titolo": "Wsj, 'nuovo attacco dell'Iran contro le navi della Marina Usa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/08/wsj-nuovo-attacco-delliran-contro-le-navi-della-marina-usa_fa85ce33-2f04-4230-bddd-100ba7f5636c.html",
-     "data": "2026-09-08T20:13:12+00:00"
-    },
-    {
-     "titolo": "Media Iran, esplosioni vicino all'isola di Kharg e vicino a Hormuz",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/08/media-iran-esplosioni-vicino-allisola-di-kharg-e-vicino-a-hormuz_08c3db93-fbaf-46f2-a446-0a8723aebcf3.html",
-     "data": "2026-09-08T19:26:24+00:00"
-    },
-    {
-     "titolo": "Vertice Egitto-Grecia-Cipro riafferma l'asse tra sud Mediterraneo e Ue",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/08/vertice-egitto-grecia-cipro-riafferma-lasse-tra-sud-mediterraneo-e-ue_0fc785ec-8d63-4688-bcba-da9b58510b73.html",
-     "data": "2026-09-08T18:26:36+00:00"
-    },
-    {
-     "titolo": "Colombia, De la Espriella revoca lo stop al porto d'armi per i civili",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/colombia-de-la-espriella-revoca-lo-stop-al-porto-darmi-per-i-civili_75d02f20-927b-46e1-8477-d4ffcad928c5.html",
-     "data": "2026-09-08T17:08:19+00:00"
     }
    ]
   },
