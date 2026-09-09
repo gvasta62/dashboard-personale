@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-09T19:57:10.094764+00:00",
+ "aggiornato": "2026-09-09T22:07:07.227905+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Tajani a San Paolo premiato con la Gran Croce dell'Ordine del Merito industriale",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/09/tajani-a-san-paolo-premiato-con-la-gran-croce-dellordine-del-merito_43ee3ee1-70e6-4537-98de-8864e3260a6f.html",
+     "data": "2026-09-09T19:55:53+00:00"
+    },
     {
      "titolo": "Apple svela il suo primo smartphone pieghevole, l'iPhone Duo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/09/apple-svela-il-suo-primo-smartphone-pieghevole-liphone-duo_1dee50f7-958f-4c42-9c9b-3eb0f57b96c3.html",
@@ -49,11 +54,6 @@
      "titolo": "Premier Norvegia, 'aereo di Zelensky sfiorato da un drone al decollo dalla Moldavia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/09/premier-norvegia-aereo-di-zelensky-sfiorato-da-un-drone-al-decollo-dalla-moldavia_136eb157-7f66-4e25-9e71-09d579c08fdd.html",
      "data": "2026-09-09T18:11:49+00:00"
-    },
-    {
-     "titolo": "Legale famiglia Berlusconi: 'Già accertata l'inattendibilità di Brusca'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/09/legale-famiglia-berlusconi-gia-accertata-linattendibilita-di-brusca_b487e641-5315-47fc-be75-aca00fc362c6.html",
-     "data": "2026-09-09T17:02:24+00:00"
     }
    ]
   },
@@ -321,6 +321,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Brasile, la polizia convoca presidente della Banca Centrale sul caso Banco Master",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/brasile-la-polizia-convoca-presidente-della-banca-centrale-sul-caso-banco_4d2c34e8-fe2d-4e98-ab5f-fa6cfb7092d7.html",
+     "data": "2026-09-09T20:31:05+00:00"
+    },
+    {
+     "titolo": "Noboa riceve Rubio in Ecuador, focus su cooperazione in materia di sicurezza",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/noboa-riceve-rubio-in-ecuador-focus-su-cooperazione-in-materia-di-sicurezza_b2905a1b-4467-4654-96a3-d5c5d9a86e4b.html",
+     "data": "2026-09-09T20:26:29+00:00"
+    },
+    {
+     "titolo": "I familiari dei detenuti politici venezuelani manifestano davanti alla procura",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/i-familiari-dei-detenuti-politici-venezuelani-manifestano-davanti-alla-procura_152219de-c9b7-4c35-959d-5195813d7c58.html",
+     "data": "2026-09-09T20:19:48+00:00"
+    },
+    {
+     "titolo": "Presidente Bolivia, si indaghi su un possibile attentato alla base militare di Viacha",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/presidente-bolivia-si-indaghi-su-un-possibile-attentato-alla-base-militare-di-viacha_c7896609-fdc2-4f9b-8205-67706d9bf6c6.html",
+     "data": "2026-09-09T20:09:58+00:00"
+    },
+    {
      "titolo": "Tajani a San Paolo premiato con la Gran Croce dell'Ordine del Merito industriale",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/tajani-a-san-paolo-premiato-con-la-gran-croce-dellordine-del-merito_c556979d-65d2-4a64-9aad-5502ccedea21.html",
      "data": "2026-09-09T19:56:07+00:00"
@@ -359,26 +379,6 @@
      "titolo": "Tajani a Zelensky, 'coinvolga Italia e Polonia, non solo Francia e Germania'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/09/tajani-a-zelensky-coinvolga-italia-e-polonia-non-solo-francia-e-germania_029cb8a0-1e33-432d-a42f-adaf55706138.html",
      "data": "2026-09-09T18:17:57+00:00"
-    },
-    {
-     "titolo": "Tajani a Zelensky, 'coinvolga Italia e Polonia, non solo Francia e Germania'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/tajani-a-zelensky-coinvolga-italia-e-polonia-non-solo-francia-e-germania_34f9ef2c-1199-4e21-8b19-2b43c7f25b8c.html",
-     "data": "2026-09-09T18:18:13+00:00"
-    },
-    {
-     "titolo": "Premier Norvegia, 'aereo di Zelensky sfiorato da un drone al decollo dalla Moldavia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/09/premier-norvegia-aereo-di-zelensky-sfiorato-da-un-drone-al-decollo-dalla-moldavia_74efd753-2c0e-4d56-8687-65811e0812e2.html",
-     "data": "2026-09-09T18:12:08+00:00"
-    },
-    {
-     "titolo": "Sheinbaum, preoccupazione per impatto crisi Usa-Canada sul T-Mec",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/sheinbaum-preoccupazione-per-impatto-crisi-usa-canada-sul-t-mec_ef96f7cc-4f56-4873-81a8-251b7cbe8e45.html",
-     "data": "2026-09-09T17:30:05+00:00"
-    },
-    {
-     "titolo": "Gli Houthi in Yemen, l'ultima linea difensiva dell'Iran",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/09/gli-houthi-in-yemen-lultima-linea-difensiva-delliran_074c325d-3cfa-4260-8d70-5aa170cf22ab.html",
-     "data": "2026-09-09T17:37:54+00:00"
     }
    ]
   },
@@ -451,9 +451,14 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Champions League: in campo Napoli-Arsenal  DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/09/champions-league-in-campo-napoli-arsenal-diretta_b5a72c5b-51ec-430f-adc3-c2ca49de4eb0.html",
-     "data": "2026-09-09T19:35:20+00:00"
+     "titolo": "Champions League, all'Arsenal basta un gol di Odegaard per sbancare il Maradona",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/09/champions-league-napoli-battuto-1-0-dallarsenal_b5a72c5b-51ec-430f-adc3-c2ca49de4eb0.html",
+     "data": "2026-09-09T21:38:40+00:00"
+    },
+    {
+     "titolo": "Mondiali basket: alle azzurre non basta la rimonta, ai quarti va l'Australia",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/09/mondiali-basket-alle-azzurre-non-basta-la-rimonta-ai-quarti-va-laustralia_612acc10-43ea-4b71-8eb0-aad357d4ae44.html",
+     "data": "2026-09-09T20:45:14+00:00"
     },
     {
      "titolo": "Mondiale U20, le 'azzurrine\" approdano per la prima volta agli ottavi",
@@ -504,11 +509,6 @@
      "titolo": "Champions: Da Cunha 'per il Como un sogno che si realizza\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/09/champions-da-cunha-per-il-como-un-sogno-che-si-realizza_4d38c83c-9496-4cc8-aaba-10edd45ba548.html",
      "data": "2026-09-09T16:20:32+00:00"
-    },
-    {
-     "titolo": "Champions: Fabregas 'per il Como resterà nella storia, io penso alla partita'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/09/champions-fabregas-per-il-como-restera-nella-storia-io-penso-alla-partita_575a0751-3a2d-4943-adaf-7d7ba81e76af.html",
-     "data": "2026-09-09T16:07:36+00:00"
     }
    ]
   }
