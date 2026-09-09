@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-09T00:44:55.156320+00:00",
+ "aggiornato": "2026-09-09T05:24:53.125959+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Iran, 'attaccate 2 navi statunitensi e 10 petroliere nel Golfo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/09/iran-attaccate-2-navi-statunitensi-e-10-petroliere-nel-golfo_9381a200-dfd5-42ac-91e5-164abc72a6cc.html",
+     "data": "2026-09-09T03:46:12+00:00"
+    },
+    {
+     "titolo": "Caos nei cieli nel Regno Unito, ancora decine di voli cancellati",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/09/caos-nei-cieli-nel-regno-unito-ancora-decine-di-voli-cancellati_c1f1ccd3-ee33-446d-a600-678c4d1d992c.html",
+     "data": "2026-09-09T02:56:30+00:00"
+    },
     {
      "titolo": "Trump: 'Il partito populista AfD ha vinto in Germania, sono in ascesa'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/09/trump-il-partito-populista-afd-ha-vinto-in-germania-sono-in-ascesa_b2d57c1e-e82e-4ae6-920b-33bae43432ff.html",
@@ -44,16 +54,6 @@
      "titolo": "Schlein, 'non dare per scontato che la legge elettorale passi, fermiamola'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/schlein-non-dare-per-scontato-che-la-legge-elettorale-passi-fermiamola_f97a136c-eae2-411a-bc73-7f68257d9516.html",
      "data": "2026-09-08T19:01:32+00:00"
-    },
-    {
-     "titolo": "Schlein, 'primarie? Prima affinare il programma, non partiamo da zero'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/schlein-primarie-prima-affinare-il-programma-non-partiamo-da-zero_f83f974d-998a-4430-80b2-152a112ca18a.html",
-     "data": "2026-09-08T18:28:02+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas tocca il picco a 77,13 euro, massimi da gennaio 2023",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/08/il-prezzo-del-gas-tocca-il-picco-a-7713-euro-massimi-da-gennaio-2023_34d39032-4f34-4884-95c4-3159b70c13b5.html",
-     "data": "2026-09-08T17:38:22+00:00"
     }
    ]
   },
@@ -321,6 +321,36 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Iran, 'attaccate 2 navi statunitensi e 10 petroliere nel Golfo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/09/iran-attaccate-2-navi-statunitensi-e-10-petroliere-nel-golfo_88a63ebe-4d46-42a2-976b-5d7263ecfa29.html",
+     "data": "2026-09-09T03:46:29+00:00"
+    },
+    {
+     "titolo": "Iran, 'attaccate 2 navi statunitensi e 10 petroliere nel Golfo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/09/iran-attaccate-2-navi-statunitensi-e-10-petroliere-nel-golfo_02204518-b3a9-4451-8f4b-277c4fc16a1d.html",
+     "data": "2026-09-09T03:46:45+00:00"
+    },
+    {
+     "titolo": "Caos nei cieli nel Regno Unito, ancora decine di voli cancellati",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/09/caos-nei-cieli-nel-regno-unito-ancora-decine-di-voli-cancellati_37fffd95-c622-4324-bab6-08b2c49fc685.html",
+     "data": "2026-09-09T02:56:45+00:00"
+    },
+    {
+     "titolo": "L'Ocse elogia la resilienza del Messico nei test Pisa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/locse-elogia-la-resilienza-del-messico-nei-test-pisa_202f038f-b88e-4235-8771-211d2be79d0f.html",
+     "data": "2026-09-09T02:08:26+00:00"
+    },
+    {
+     "titolo": "Panama frena sui viaggi dei deputati a Taiwan",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/panama-frena-sui-viaggi-dei-deputati-a-taiwan_79281650-8666-44fe-9815-4320978c41a6.html",
+     "data": "2026-09-09T01:21:05+00:00"
+    },
+    {
+     "titolo": "Omicidi in Messico in calo del 53% in due anni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/omicidi-in-messico-in-calo-del-53-in-due-anni_fde817e5-c5b2-4cc9-bee7-b4e2e2ed1c5b.html",
+     "data": "2026-09-09T01:16:36+00:00"
+    },
+    {
      "titolo": "Trump: 'Il partito populista AfD ha vinto in Germania, sono in ascesa'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/09/trump-il-partito-populista-afd-ha-vinto-in-germania-sono-in-ascesa_356d46c4-5b1d-44a9-829f-d3dbaf39ef87.html",
      "data": "2026-09-08T23:51:11+00:00"
@@ -349,36 +379,6 @@
      "titolo": "Colombia, De La Espriella, 'l'alleanza con gli Stati Uniti è più forte che mai'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/colombia-de-la-espriella-lalleanza-con-gli-stati-uniti-e-piu-forte-che_76201bf4-2094-468c-8aa2-cfb1a1b0fb67.html",
      "data": "2026-09-08T21:39:58+00:00"
-    },
-    {
-     "titolo": "Trump dispone la rimozione dei beni canadesi dagli appalti pubblici Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/08/trump-dispone-la-rimozione-dei-beni-canadesi-dagli-appalti-pubblici-usa_4d7cdebf-5a60-4410-9045-6d50a254f2e0.html",
-     "data": "2026-09-08T21:36:45+00:00"
-    },
-    {
-     "titolo": "Sheinbaum difende il modello educativo messicano dopo il rapporto Ocse Pisa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/sheinbaum-difende-il-modello-educativo-messicano-dopo-il-rapporto-ocse-pisa_10ea18b0-a5c1-4427-95d2-9a7300fd8f66.html",
-     "data": "2026-09-08T21:28:43+00:00"
-    },
-    {
-     "titolo": "In Bolivia record coltivazioni di coca, 36.400 ettari, quasi il doppio limite legale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/in-bolivia-record-coltivazioni-di-coca-36.400-ettari-quasi-il-doppio-limite-legale_9fd2c180-c5e8-4565-a690-f32cd43e47d3.html",
-     "data": "2026-09-08T20:59:09+00:00"
-    },
-    {
-     "titolo": "Cuba, nuovamente al buio i due terzi del Paese",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/cuba-nuovamente-al-buio-i-due-terzi-del-paese_c8f00616-c06f-4cad-a585-64ff7cd29315.html",
-     "data": "2026-09-08T20:47:18+00:00"
-    },
-    {
-     "titolo": "Brasile, 'i direttori della Polizia federale mettono a disposizione i loro incarichi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/brasile-i-direttori-della-polizia-federale-mettono-a-disposizione-i-loro-incarichi_2a24acd1-c700-4d5b-a091-99e044225f6f.html",
-     "data": "2026-09-08T20:38:00+00:00"
-    },
-    {
-     "titolo": "Wsj, 'nuovo attacco dell'Iran contro le navi della Marina Usa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/08/wsj-nuovo-attacco-delliran-contro-le-navi-della-marina-usa_7791febc-8a54-410f-bf2a-b1ba9b9ba88f.html",
-     "data": "2026-09-08T20:13:10+00:00"
     }
    ]
   },
