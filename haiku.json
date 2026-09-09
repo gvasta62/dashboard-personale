@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-09-08T08:25:38.817808+00:00",
- "data": "2026-09-08",
- "testo": "Nuvole spesse\nsul selciato di travertino\nun fico caduto",
- "nota": "Un fico maturo schiacciato sulle pietre della strada, sotto un cielo chiuso.",
+ "aggiornato": "2026-09-09T08:28:02.922364+00:00",
+ "data": "2026-09-09",
+ "testo": "Pioggia leggera\nsui gradini del Duomo\nscende una piuma",
+ "nota": "Rovesci lievi sulle scale della cattedrale, una piuma bagnata scivola giù.",
  "archivio": [
+  {
+   "data": "2026-09-09",
+   "testo": "Pioggia leggera\nsui gradini del Duomo\nscende una piuma",
+   "nota": "Rovesci lievi sulle scale della cattedrale, una piuma bagnata scivola giù."
+  },
   {
    "data": "2026-09-08",
    "testo": "Nuvole spesse\nsul selciato di travertino\nun fico caduto",
