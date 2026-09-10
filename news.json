@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-09T22:07:07.227905+00:00",
+ "aggiornato": "2026-09-10T00:20:25.151730+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Filippine: incendio su un traghetto, 5 morti e 87 dispersi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/filippine-incendio-su-un-traghetto-5-morti-e-87-dispersi_ae4eefe5-5c97-41f6-9ab6-89caaf614aa9.html",
+     "data": "2026-09-10T00:01:46+00:00"
+    },
+    {
+     "titolo": "Attacco ucraino sul lungomare di Sochi, otto feriti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/attacco-ucraino-sul-lungomare-di-sochi-otto-feriti_d40a68a4-22fd-4943-8a00-b5303e4f26ad.html",
+     "data": "2026-09-09T23:23:36+00:00"
+    },
     {
      "titolo": "Tajani a San Paolo premiato con la Gran Croce dell'Ordine del Merito industriale",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/09/tajani-a-san-paolo-premiato-con-la-gran-croce-dellordine-del-merito_43ee3ee1-70e6-4537-98de-8864e3260a6f.html",
@@ -44,16 +54,6 @@
      "titolo": "Premier Norvegia, 'aereo di Zelensky sfiorato da drone al decollo dalla Moldavia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/09/premier-norvegia-aereo-di-zelensky-sfiorato-da-drone-al-decollo-dalla-moldavia_f40afad5-363f-4a59-9e07-b4420ea4d82c.html",
      "data": "2026-09-09T18:19:53+00:00"
-    },
-    {
-     "titolo": "Tajani a Zelensky, 'coinvolga Italia e Polonia, non solo Francia e Germania'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/09/tajani-a-zelensky-coinvolga-italia-e-polonia-non-solo-francia-e-germania_394544e0-ad21-4158-bf07-14458f16c5e8.html",
-     "data": "2026-09-09T18:17:38+00:00"
-    },
-    {
-     "titolo": "Premier Norvegia, 'aereo di Zelensky sfiorato da un drone al decollo dalla Moldavia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/09/premier-norvegia-aereo-di-zelensky-sfiorato-da-un-drone-al-decollo-dalla-moldavia_136eb157-7f66-4e25-9e71-09d579c08fdd.html",
-     "data": "2026-09-09T18:11:49+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Filippine: incendio su un traghetto, 5 morti e 87 dispersi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/10/filippine-incendio-su-un-traghetto-5-morti-e-87-dispersi_fa76334d-aa5b-4453-922e-6b9c92f540b6.html",
+     "data": "2026-09-09T23:43:31+00:00"
+    },
+    {
+     "titolo": "Attacco ucraino sul lungomare di Sochi, otto feriti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/attacco-ucraino-sul-lungomare-di-sochi-otto-feriti_c0637316-86ae-4d41-ad28-fe3f4766b207.html",
+     "data": "2026-09-09T23:23:36+00:00"
+    },
+    {
      "titolo": "Brasile, la polizia convoca presidente della Banca Centrale sul caso Banco Master",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/brasile-la-polizia-convoca-presidente-della-banca-centrale-sul-caso-banco_4d2c34e8-fe2d-4e98-ab5f-fa6cfb7092d7.html",
      "data": "2026-09-09T20:31:05+00:00"
@@ -369,16 +379,6 @@
      "titolo": "L'Argentina sanziona altri 15 soggetti che operano nelle Falkland-Malvinas",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/largentina-sanziona-altri-15-soggetti-che-operano-nelle-falkland-malvinas_c398ecef-824c-44fc-ac73-56668d75d041.html",
      "data": "2026-09-09T18:38:19+00:00"
-    },
-    {
-     "titolo": "Premier Norvegia, 'aereo di Zelensky sfiorato da drone al decollo dalla Moldavia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/09/premier-norvegia-aereo-di-zelensky-sfiorato-da-drone-al-decollo-dalla-moldavia_4fe76a94-2be4-4445-b7db-c105477dba7d.html",
-     "data": "2026-09-09T18:20:09+00:00"
-    },
-    {
-     "titolo": "Tajani a Zelensky, 'coinvolga Italia e Polonia, non solo Francia e Germania'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/09/tajani-a-zelensky-coinvolga-italia-e-polonia-non-solo-francia-e-germania_029cb8a0-1e33-432d-a42f-adaf55706138.html",
-     "data": "2026-09-09T18:17:57+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Us Open: Karen Kachanov in semifinale, problemi fisici per Blockx",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/10/us-open-karen-kachanov-in-semifinale-problemi-fisici-per-blockx_601f396a-bd93-4404-980b-27694248221d.html",
+     "data": "2026-09-09T22:53:10+00:00"
+    },
+    {
      "titolo": "Champions League, all'Arsenal basta un gol di Odegaard per sbancare il Maradona",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/09/champions-league-napoli-battuto-1-0-dallarsenal_b5a72c5b-51ec-430f-adc3-c2ca49de4eb0.html",
      "data": "2026-09-09T21:38:40+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Champions: Gasperini 'curiosi di sfidare i più forti, c'è fiducia'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/09/champions-gasperini-curiosi-di-sfidare-i-piu-forti-ce-fiducia_1507f17f-dadf-4325-99e9-6fb7fef483a9.html",
      "data": "2026-09-09T16:24:24+00:00"
-    },
-    {
-     "titolo": "Champions: Da Cunha 'per il Como un sogno che si realizza\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/09/champions-da-cunha-per-il-como-un-sogno-che-si-realizza_4d38c83c-9496-4cc8-aaba-10edd45ba548.html",
-     "data": "2026-09-09T16:20:32+00:00"
     }
    ]
   }
