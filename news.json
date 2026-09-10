@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-10T19:51:11.778298+00:00",
+ "aggiornato": "2026-09-10T21:59:44.871882+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Taglio alle accise finanziato con taglio a Fondo politica economica",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/taglio-alle-accise-finanziato-con-taglio-a-fondo-politica-economica_8ff7bb5f-2fc6-4e68-af99-fa8f49b81bb4.html",
+     "data": "2026-09-10T20:16:45+00:00"
+    },
     {
      "titolo": "Scossa di terremoto di magnitudo 4,1 dopo raid Israele nel sud del Libano",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/scossa-di-terremoto-di-magnitudo-41-dopo-raid-israele-nel-sud-del-libano_2143e2a1-d5d0-4a0f-87a5-6f24e05453c3.html",
@@ -49,11 +54,6 @@
      "titolo": "Wsj, 'Iran ha ripreso la produzione di missili balistici'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/wsj-iran-ha-ripreso-la-produzione-di-missili-balistici_de77c226-f600-4498-967d-f0c2dfd0ff56.html",
      "data": "2026-09-10T16:47:19+00:00"
-    },
-    {
-     "titolo": "Si è uccisa Denise, la figlia di Lea Garofalo testimone di giustizia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/si-e-uccisa-denise-la-figlia-di-lea-garofalo-testimone-di-giustizia_934cf636-c689-4b46-bf4f-e4da1de4eb9b.html",
-     "data": "2026-09-10T16:36:01+00:00"
     }
    ]
   },
@@ -128,7 +128,7 @@
     {
      "titolo": "La figlia di Lea Garofalo si toglie la vita, anche lei si ribellò ai boss",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/10/la-figlia-di-lea-garofalo-si-toglie-la-vita-anche-lei-si-ribello-ai-boss_17abbcfc-3c0f-4582-bf35-cac7fc8438ef.html",
-     "data": "2026-09-10T19:35:05+00:00"
+     "data": "2026-09-10T19:49:19+00:00"
     },
     {
      "titolo": "Famiglia nel bosco, legale deposita il reclamo in Corte d'Appello",
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Taglio alle accise finanziato con taglio a Fondo politica economica",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/taglio-alle-accise-finanziato-con-taglio-a-fondo-politica-economica_c0609e43-8f10-4c62-bfea-0224a63a5ca3.html",
+     "data": "2026-09-10T20:16:48+00:00"
+    },
+    {
      "titolo": "Il petrolio chiude in forte rialzo a New York, +6,69%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/il-petrolio-chiude-in-forte-rialzo-a-new-york-669_c2e45bce-3986-44df-bb11-4521131b35aa.html",
      "data": "2026-09-10T18:44:32+00:00"
@@ -309,17 +314,27 @@
      "titolo": "Il gas resta in forte rialzo (+3%) sopra gli 81 euro al Megawattora",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/il-gas-resta-in-forte-rialzo-3-sopra-gli-81-euro-al-megawattora_2aa67d3d-b371-4da8-a122-178486bf7d20.html",
      "data": "2026-09-10T16:08:49+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude in aumento a 88 punti base",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/lo-spread-tra-btp-e-bund-chiude-in-aumento-a-88-punti-base_34a26787-4d04-463e-8fcd-687908889e36.html",
-     "data": "2026-09-10T16:07:10+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "A Cuba record di prigionieri politici, sono 1.339 secondo Prisoners Defenders",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/a-cuba-record-di-prigionieri-politici-sono-1.339-secondo-prisoners-defenders_e3e3fd40-12be-4f98-bcfa-e3776b3a4f94.html",
+     "data": "2026-09-10T21:40:50+00:00"
+    },
+    {
+     "titolo": "Brasile, giudice della Corte suprema vieta a deputato di destra di lasciare il Paese",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/brasile-giudice-della-corte-suprema-vieta-a-deputato-di-destra-di-lasciare-il-paese_eac53953-9c2a-481e-b68c-3979dccb7b0e.html",
+     "data": "2026-09-10T20:42:21+00:00"
+    },
+    {
+     "titolo": "Brasile, addio alla tassa sui piccoli pacchi. Esultano le piattaforme cinesi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/brasile-addio-alla-tassa-sui-piccoli-pacchi.-esultano-le-piattaforme-cinesi_3da8c107-e611-4fc4-8f69-51c297a9ca10.html",
+     "data": "2026-09-10T20:10:13+00:00"
+    },
     {
      "titolo": "Scossa di terremoto di magnitudo 4,1 dopo raid Israele nel sud del Libano",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/10/scossa-di-terremoto-di-magnitudo-41-dopo-raid-israele-nel-sud-del-libano_9302497d-708f-49c7-b095-bde0f1984625.html",
@@ -346,9 +361,9 @@
      "data": "2026-09-10T18:37:42+00:00"
     },
     {
-     "titolo": "Bus turistico coinvolto in un incidente stradale in Svizzera, 'diversi morti'",
+     "titolo": "Si ribalta bus turistico in Svizzera, 'ci sono morti e feriti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/bus-turistico-coinvolto-in-un-incidente-stradale-in-svizzera-diversi-morti_264b84d3-1792-4d81-b064-21e3aa16218b.html",
-     "data": "2026-09-10T19:44:27+00:00"
+     "data": "2026-09-10T20:17:27+00:00"
     },
     {
      "titolo": "Un sito e una pubblicazione raccolgono i 411 nomi delle vittime italiane dell'11/9",
@@ -364,21 +379,6 @@
      "titolo": "Wsj, 'Iran ha ripreso la produzione di missili balistici'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/10/wsj-iran-ha-ripreso-la-produzione-di-missili-balistici_02ff0f1c-446e-4219-865a-5527841d2d26.html",
      "data": "2026-09-10T16:47:19+00:00"
-    },
-    {
-     "titolo": "Quattro persone accoltellate a Londra, matrice per ora non chiara",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/quattro-persone-accoltellate-a-londra-matrice-per-ora-non-chiara_8ed9fa9b-6e3a-449a-813b-76a258ccea76.html",
-     "data": "2026-09-10T16:22:27+00:00"
-    },
-    {
-     "titolo": "Quattro persone accoltellate a Londra, matrice per ora non chiara",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/quattro-persone-accoltellate-a-londra-matrice-per-ora-non-chiara_bbe1b1a3-dd3b-4a00-bae3-721d58e619be.html",
-     "data": "2026-09-10T16:06:20+00:00"
-    },
-    {
-     "titolo": "Quattro persone accoltellate a Londra dopo 'una rissa'. La polizia non ipotizza terrorismo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/quattro-persone-accoltellate-a-londra-matrice-per-ora-non-chiara_ac227e63-f193-4d2e-a1ce-1214f7b569d7.html",
-     "data": "2026-09-10T18:16:52+00:00"
     }
    ]
   },
@@ -451,14 +451,39 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Mattarella a Piazza del Plebiscito per assistere a Italia-Svezia di volley",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/10/mattarella-a-piazza-del-plebiscito-per-assistere-a-italia-svezia-di-volley_1cc4b6b8-2859-48dc-8327-6d4fd4a6bbdf.html",
-     "data": "2026-09-10T19:26:00+00:00"
+     "titolo": "Eurovolley: l'Italia batte Svezia e pioggia, 3-0 a Piazza del Plebiscito",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/10/eurovolley-litalia-batte-svezia-e-pioggia-3-0-a-piazza-del-plebiscito_1cc4b6b8-2859-48dc-8327-6d4fd4a6bbdf.html",
+     "data": "2026-09-10T21:51:20+00:00"
     },
     {
-     "titolo": "Champions League, la Roma pareggia in casa del Fenerbahce",
+     "titolo": "EuroVolley: esordio show dell'Italia, 3-0 alla Svezia",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/10/eurovolley-esordio-show-dellitalia-3-0-alla-svezia_a1a41376-4f48-4e5c-9521-f7fe881c7773.html",
+     "data": "2026-09-10T21:34:39+00:00"
+    },
+    {
+     "titolo": "La Champions del Como è subito una festa, Lipsia travolto",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/10/la-champions-del-como-e-subito-una-festa-lipsia-travolto_ed135978-a51b-463c-9d8f-dda78b577300.html",
+     "data": "2026-09-10T21:09:08+00:00"
+    },
+    {
+     "titolo": "Champions: debutto da sogno per il Como, battuto il Lipsia 4-1",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/10/champions-debutto-da-sogno-per-il-como-battuto-il-lipsia-4-1_8c7e2d6d-e297-4c70-9146-a7d96118151c.html",
+     "data": "2026-09-10T20:58:01+00:00"
+    },
+    {
+     "titolo": "Motorsport, LeCont entra a far parte del gruppo Korus",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/10/motorsport-lecont-entra-a-far-parte-del-gruppo-korus_ac6536f1-352b-468b-b575-6d55958d7160.html",
+     "data": "2026-09-10T20:27:07+00:00"
+    },
+    {
+     "titolo": "Vela: Northstar III imbattuto nella classe Maxi Grand Prix al Maxi Yacht Rolex Cup",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/10/vela-northstar-iii-imbattuto-nella-classe-maxi-grand-prix-al-maxi_d4b44912-34fa-40e0-844b-32c525e80929.html",
+     "data": "2026-09-10T20:06:51+00:00"
+    },
+    {
+     "titolo": "Champions League, Cristante illude la Roma, è pari con il Fenerbahçe",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/10/champions-league-la-roma-pareggia-in-casa-del-fenerbahce_497c875e-c502-4684-9a3d-aa08a8bfbf10.html",
-     "data": "2026-09-10T18:47:38+00:00"
+     "data": "2026-09-10T20:09:29+00:00"
     },
     {
      "titolo": "Champions: Brown risponde a Cristante, la Roma pareggia 1-1 col Fenerbahce",
@@ -484,31 +509,6 @@
      "titolo": "Eurovolley: esordio azzurri, nuvoloni e gocce di pioggia a Napoli",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/10/eurovolley-esordio-azzurri-nuvoloni-e-gocce-di-pioggia-a-napoli_1c1b5849-b3b5-420e-87c5-59435f4962ac.html",
      "data": "2026-09-10T17:20:04+00:00"
-    },
-    {
-     "titolo": "F1: Antonelli 'Monza giorno più bello della mia vita, la folla non finiva mai'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/10/f1-antonelli-monza-giorno-piu-bello-della-mia-vita-la-folla-non_12fd55cd-8447-4fac-8b85-225fabc0a540.html",
-     "data": "2026-09-10T17:16:29+00:00"
-    },
-    {
-     "titolo": "Lecce: ancora assente Guebbels, dubbio Gandelman",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/10/lecce-ancora-assente-guebbels-dubbio-gandelman_187551db-b561-4dc6-83b7-901bec9ab8a2.html",
-     "data": "2026-09-10T16:24:32+00:00"
-    },
-    {
-     "titolo": "Fiorentina a Venezia con Vanoli per cercare un nuovo inizio",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/10/fiorentina-a-venezia-con-vanoli-per-cercare-un-nuovo-inizio_d3471274-d0b3-4384-b295-b687decf94b2.html",
-     "data": "2026-09-10T16:37:01+00:00"
-    },
-    {
-     "titolo": "F1: le scuse di Leclerc 'a Monza potevo far meglio, ho parlato con Lewis'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/10/f1-le-scuse-di-leclerc-a-monza-potevo-far-meglio-ho-parlato-con-lewis_1fe45a39-d8be-4288-bcff-e836fdde1f5e.html",
-     "data": "2026-09-10T16:10:10+00:00"
-    },
-    {
-     "titolo": "Nel Genoa solo Havel sarà indisponibile per il Frosinone",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/10/nel-genoa-solo-havel-sara-indisponibile-per-il-frosinone_63b35b5b-770c-46dc-b83a-92d85d6fc0d7.html",
-     "data": "2026-09-10T16:10:28+00:00"
     }
    ]
   }
