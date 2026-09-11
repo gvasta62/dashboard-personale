@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-09-10T23:44:03.508836+00:00",
+ "aggiornato": "2026-09-11T01:33:55.158096+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa di Tokyo, apertura in netto calo (-1,56%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/borsa-di-tokyo-apertura-in-netto-calo-156_a666fc02-96ac-4d5f-a4a6-a0d1e90eca59.html",
+     "data": "2026-09-11T00:45:15+00:00"
+    },
+    {
+     "titolo": "Ecuador, ex presidente Bucaram condannato a 9 anni e 4 mesi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/ecuador-ex-presidente-bucaram-condannato-a-9-anni-e-4-mesi_9201be81-508c-402d-9275-04a416fb974a.html",
+     "data": "2026-09-11T00:29:27+00:00"
+    },
+    {
+     "titolo": "Trump, 'non ho rimpianti sulla guerra all'Iran ma talvolta mi faccio domande'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/trump-non-ho-rimpianti-sulla-guerra-alliran-ma-talvolta-mi-faccio-domande_46e169be-3155-4f3f-a378-07ee138ad551.html",
+     "data": "2026-09-11T00:27:56+00:00"
+    },
     {
      "titolo": "California per tutelare i minori, arriva stretta contro social e IA",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/california-per-tutelare-i-minori-arriva-stretta-contro-social-e-ia_a0053910-1cc9-4a91-8982-f3b664da6f97.html",
@@ -39,21 +54,6 @@
      "titolo": "Prorogato taglio accise. Meloni, 'commissari per produrre più gas e petrolio'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/prorogato-taglio-accise.-meloni-commissari-per-produrre-piu-gas-e-petrolio_4adab303-90fc-42ad-ba08-c5ff31233efa.html",
      "data": "2026-09-10T18:18:13+00:00"
-    },
-    {
-     "titolo": "Meloni, nel decreto misure per accelerare la produzione di petrolio e gas",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/meloni-nel-decreto-misure-per-accelerare-la-produzione-di-petrolio-e-gas_d819ffe0-6a82-4446-ab57-3c92f2750625.html",
-     "data": "2026-09-10T18:08:05+00:00"
-    },
-    {
-     "titolo": "Consiglio regionale della Lombardia approva le pre-intese sull'Autonomia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/consiglio-regionale-della-lombardia-approva-le-pre-intese-sullautonomia_690e1fc4-f980-41c0-8907-c2cf1fce817b.html",
-     "data": "2026-09-10T17:42:07+00:00"
-    },
-    {
-     "titolo": "Meloni, le preferenze tornano su proposta di FdI, la sinistra non è credibile",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/meloni-le-preferenze-tornano-su-proposta-di-fdi-la-sinistra-non-e-credibile_d2783ac1-6880-47f2-9986-a6ea617f66a3.html",
-     "data": "2026-09-10T16:47:42+00:00"
     }
    ]
   },
@@ -321,6 +321,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Cresce l'interscambio tra Italia e Messico nel 2026",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/cresce-linterscambio-tra-italia-e-messico-nel-2026_852f1558-bd42-4edd-968b-c6d3924d9f2b.html",
+     "data": "2026-09-11T01:02:34+00:00"
+    },
+    {
+     "titolo": "Borsa di Tokyo, apertura in netto calo (-1,56%)",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/11/borsa-di-tokyo-apertura-in-netto-calo-156_586c1d12-bc2e-4757-b3b6-1330e25663ff.html",
+     "data": "2026-09-11T00:45:33+00:00"
+    },
+    {
+     "titolo": "Ecuador, ex presidente Bucaram condannato a 9 anni e 4 mesi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/ecuador-ex-presidente-bucaram-condannato-a-9-anni-e-4-mesi_327a8b2f-a56d-4f9a-a805-5436ee57206e.html",
+     "data": "2026-09-11T00:29:46+00:00"
+    },
+    {
+     "titolo": "Trump, 'non ho rimpianti sulla guerra all'Iran ma talvolta mi faccio domande'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/11/trump-non-ho-rimpianti-sulla-guerra-alliran-ma-talvolta-mi-faccio-domande_a71d9ee7-0410-4329-ac84-57555ad8b562.html",
+     "data": "2026-09-11T00:27:56+00:00"
+    },
+    {
+     "titolo": "Trump, 'non ho rimpianti sulla guerra all'Iran ma talvolta mi faccio domande'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/11/trump-non-ho-rimpianti-sulla-guerra-alliran-ma-talvolta-mi-faccio-domande_f17197bc-4118-4741-a806-c1f00d1f548b.html",
+     "data": "2026-09-11T00:28:11+00:00"
+    },
+    {
      "titolo": "California per tutelare i minori, arriva stretta contro social e IA",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/11/california-per-tutelare-i-minori-arriva-stretta-contro-social-e-ia_5c66aa1a-1521-439a-9c28-abbaae9c937e.html",
      "data": "2026-09-10T23:34:19+00:00"
@@ -354,31 +379,6 @@
      "titolo": "Brasile, addio alla tassa sui piccoli pacchi. Esultano le piattaforme cinesi",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/brasile-addio-alla-tassa-sui-piccoli-pacchi.-esultano-le-piattaforme-cinesi_3da8c107-e611-4fc4-8f69-51c297a9ca10.html",
      "data": "2026-09-10T20:10:13+00:00"
-    },
-    {
-     "titolo": "Scossa di terremoto di magnitudo 4,1 dopo raid Israele nel sud del Libano",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/10/scossa-di-terremoto-di-magnitudo-41-dopo-raid-israele-nel-sud-del-libano_9302497d-708f-49c7-b095-bde0f1984625.html",
-     "data": "2026-09-10T19:40:45+00:00"
-    },
-    {
-     "titolo": "Cala ma non cede l'inflazione in Argentina, +1,7% ad agosto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/cala-ma-non-cede-linflazione-in-argentina-17-ad-agosto_6c8de7dc-fc51-4826-821e-b1209ee83adc.html",
-     "data": "2026-09-10T19:35:10+00:00"
-    },
-    {
-     "titolo": "Israele bombarda nel sud del Libano, 'distrutte infrastrutture di Hezbollah'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/10/israele-bombarda-nel-sud-del-libano-distrutte-infrastrutture-di-hezbollah_40ee00a9-36fd-431d-8671-2c1e3ec72b3a.html",
-     "data": "2026-09-10T18:52:08+00:00"
-    },
-    {
-     "titolo": "Brasile, nei sondaggi Bolsonaro supera Lula al ballottaggio",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/brasile-nei-sondaggi-bolsonaro-supera-lula-al-ballottaggio_0c74aca0-81ed-4160-bb5e-aac434374c45.html",
-     "data": "2026-09-10T18:40:26+00:00"
-    },
-    {
-     "titolo": "Bus turistico coinvolto in un incidente stradale in Svizzera, 'diversi morti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/bus-turistico-coinvolto-in-un-incidente-stradale-in-svizzera-diversi-morti_2a0b19ed-720e-4486-87cf-3f70f4342e89.html",
-     "data": "2026-09-10T18:37:42+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Us Open: Aryna Sabalenka è la prima finalista",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/11/us-open-aryna-sabalenka-e-la-prima-finalista_e6afccc9-3ab8-407f-a923-ac4f3ec1a648.html",
+     "data": "2026-09-11T00:39:48+00:00"
+    },
+    {
+     "titolo": "Us Open: finale doppio sarà Harrison/Skupski contro Puetz/Krawietz",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/11/us-open-finale-doppio-sara-harrisonskupski-contro-puetzkrawietz_bd1006a6-2699-46da-b9ee-d57132b54f2b.html",
+     "data": "2026-09-11T00:02:49+00:00"
+    },
+    {
      "titolo": "Champions: dopo l'1-1 con la Roma il tecnico del Fenerbahçe presenta le dimissioni",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/11/champions-dopo-l1-1-con-la-roma-il-tecnico-del-fenerbahce-presenta-le-dimissioni_f43ac407-7ba3-44ed-a707-e152f2dbaf10.html",
      "data": "2026-09-10T22:03:15+00:00"
@@ -499,16 +509,6 @@
      "titolo": "Eurovolley: Buonfiglio, contribuisce al percorso per la candidatura ai Giochi",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/10/eurovolley-buonfiglio-contribuisce-al-percorso-per-la-candidatura-ai-giochi_7ebb013e-4d78-4838-8a93-2cef97db24b7.html",
      "data": "2026-09-10T18:24:59+00:00"
-    },
-    {
-     "titolo": "Malore Bozhinov, il Pisa accusa 'troppo caldo, grave giocare alle 15'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/10/malore-bozhinov-il-pisa-accusa-troppo-caldo-grave-giocare-alle-15_f9e2e6df-af63-419e-9406-d0ddb00feb7e.html",
-     "data": "2026-09-10T17:34:15+00:00"
-    },
-    {
-     "titolo": "Presentata a Tortona la Supercoppa Lba 2026",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/10/presentata-a-tortona-la-supercoppa-lba-2026_0f3f0e33-6171-486e-b0a9-4145ae5b8052.html",
-     "data": "2026-09-10T17:22:02+00:00"
     }
    ]
   }
