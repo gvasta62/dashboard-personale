@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-11T21:22:10.004670+00:00",
+ "aggiornato": "2026-09-11T23:22:58.605742+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Seul, Corea del Nord ha lanciato un proiettile verso il mar del Giappone",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/seul-corea-del-nord-ha-lanciato-un-proiettile-verso-il-mar-del-giappone_d3c784f8-3add-4125-b08f-f2302026dde8.html",
+     "data": "2026-09-11T21:22:43+00:00"
+    },
     {
      "titolo": "Putin, 'mandare truppe europee in Ucraina sarebbe una guerra contro la Russia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/putin-mandare-truppe-europee-in-ucraina-sarebbe-una-guerra-contro-la-russia_c0c6be0e-f677-40fc-90b4-83fd55a37892.html",
@@ -49,11 +54,6 @@
      "titolo": "Borsa: l'Europa chiude in rialzo col petrolio, Francoforte +0,8%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/borsa-leuropa-chiude-in-rialzo-col-petrolio-francoforte-08_4c3b7add-26ce-47cd-8ae2-848bdd5f769c.html",
      "data": "2026-09-11T15:53:09+00:00"
-    },
-    {
-     "titolo": "Conte, Mattarella fermi la norma vergognosa sulla raccolta firme",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/conte-mattarella-fermi-la-norma-vergognosa-sulla-raccolta-firme_a75a0d26-28fc-46f3-ab22-1c1c64d506d0.html",
-     "data": "2026-09-11T15:49:49+00:00"
     }
    ]
   },
@@ -193,7 +193,7 @@
     {
      "titolo": "Bonino e l'allarme dopo la visita a Srebrenica: 'Qui c'è un genocidio'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/11/bonino-e-lallarme-dopo-la-visita-a-srebrenica-qui-ce-un-genocidio_d35682f7-490f-42d2-b1a0-c6bae1566e79.html",
-     "data": "2026-09-11T21:03:40+00:00"
+     "data": "2026-09-11T21:53:16+00:00"
     },
     {
      "titolo": "Da Mattarella a Meloni, la politica piange la leader radicale Per lei le esequie di Stato.",
@@ -258,7 +258,7 @@
     {
      "titolo": "Fitch conferma il rating dell'Italia a 'BBB+' con outlook stabile",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/11/fitch-conferma-il-rating-dellitalia-a-bbb-con-outlook-stabile_cd603873-f7bf-425a-b7fc-291cf68abdc9.html",
-     "data": "2026-09-11T21:11:51+00:00"
+     "data": "2026-09-11T21:25:55+00:00"
     },
     {
      "titolo": "Poste al 66,63% di Tim, adesioni al 58,2297% dell'offerta",
@@ -321,6 +321,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Sondaggio, Lula al 39%, Flávio Bolsonaro al 35% al primo turno",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/12/sondaggio-lula-al-39-flavio-bolsonaro-al-35-al-primo-turno_805eea8a-ef5e-4d4d-a524-413f12ec893f.html",
+     "data": "2026-09-11T22:29:28+00:00"
+    },
+    {
+     "titolo": "Brasile, Fachin dà 24 ore a Mendonça per desecretare tutti gli atti su Banco Master",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/12/brasile-fachin-da-24-ore-a-mendonca-per-desecretare-tutti-gli-atti-su-banco_5304fb88-8d79-4fe7-aa02-c1226fa93a30.html",
+     "data": "2026-09-11T22:18:10+00:00"
+    },
+    {
+     "titolo": "Osa, il generale Augelli incontra a Washington il segretario Ramdin",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/12/osa-il-generale-augelli-incontra-a-washington-il-segretario-ramdin_91169549-c024-4a9e-b005-5f45095b8536.html",
+     "data": "2026-09-11T22:16:19+00:00"
+    },
+    {
+     "titolo": "Venezuela, 'oltre 7.400 detenuti nelle carceri parallele della polizia scientifica'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/venezuela-oltre-7.400-detenuti-nelle-carceri-parallele-della-polizia-scientifica_b28efbad-fb28-4ced-8b6b-a9254fba03df.html",
+     "data": "2026-09-11T22:00:26+00:00"
+    },
+    {
      "titolo": "Putin, 'mandare truppe europee in Ucraina sarebbe una guerra contro la Russia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/11/putin-mandare-truppe-europee-in-ucraina-sarebbe-una-guerra-contro-la-russia_cd3fd676-d626-44cc-b2a8-2c56ca72e2b4.html",
      "data": "2026-09-11T20:32:25+00:00"
@@ -359,26 +379,6 @@
      "titolo": "Trump, 'non dimenticheremo mai, per questo combattiamo per vincere'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/11/trump-non-dimenticheremo-mai-per-questo-combattiamo-per-vincere_3b887fd4-ea3d-4831-b135-b0162bccbf24.html",
      "data": "2026-09-11T14:24:13+00:00"
-    },
-    {
-     "titolo": "'Quel giorno 25 anni dopo', l'Istituto di Cultura Italiano a New York ricorda l'11/9",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/11/quel-giorno-25-anni-dopo-listituto-di-cultura-italiano-a-new-york-ricorda_7bda4fe8-b0ff-4de6-96e7-25831ca9afd0.html",
-     "data": "2026-09-11T13:32:47+00:00"
-    },
-    {
-     "titolo": "È morta la principessa Astrid di Norvegia, aveva 94 anni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/11/e-morta-la-principessa-astrid-di-norvegia-aveva-94-anni_62217715-6540-4b01-9315-64a909b4d9fa.html",
-     "data": "2026-09-11T13:09:14+00:00"
-    },
-    {
-     "titolo": "Flavio Bolsonaro è indagato per i fondi sospetti per il film su Jair",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/flavio-bolsonaro-e-indagato-per-i-fondi-sospetti-per-il-film-su-jair_9fd4d97a-b560-449c-9551-2db03257fd5c.html",
-     "data": "2026-09-11T12:57:54+00:00"
-    },
-    {
-     "titolo": "25 anni fa l'impatto sulla prima Torre, l'America si ferma",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/11/25-anni-fa-limpatto-sulla-prima-torre-lamerica-si-ferma_9be61fbb-9784-4c2d-8d26-b01743f263e7.html",
-     "data": "2026-09-11T12:56:50+00:00"
     }
    ]
   },
@@ -451,14 +451,44 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Us Open: Zverev primo finalista, battuto Khachanov in tre set",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/12/us-open-zverev-primo-finalista-battuto-khachanov-in-tre-set_3927b1ee-01cc-4981-ae65-4b3af523beb9.html",
+     "data": "2026-09-11T22:17:38+00:00"
+    },
+    {
+     "titolo": "Serie A: Stroppa, 'la sconfitta brucia ma bene la reazione'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/11/serie-a-stroppa-la-sconfitta-brucia-ma-bene-la-reazione_32c8d6bb-c9bc-4281-b2ff-e66211555583.html",
+     "data": "2026-09-11T21:59:48+00:00"
+    },
+    {
+     "titolo": "Serie A: Atalanta-Cagliari in campo alle 20.45 DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/11/serie-a-atalanta-cagliari-in-campo-alle-20.45-diretta_9162db63-e241-49d8-874e-37ba25fc4fbc.html",
+     "data": "2026-09-11T21:57:58+00:00"
+    },
+    {
+     "titolo": "Serie A: Genoa-Frosinone in campo alle 15 DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/11/serie-a-genoa-frosinone-in-campo-alle-15-diretta_63b35b5b-770c-46dc-b83a-92d85d6fc0d7.html",
+     "data": "2026-09-11T21:55:39+00:00"
+    },
+    {
+     "titolo": "Vanoli si riprende Firenze, 'non guardiamo più al passato'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/11/vanoli-si-riprende-firenze-non-guardiamo-piu-al-passato_4f4bcd76-592a-490f-a450-063684045823.html",
+     "data": "2026-09-11T21:33:41+00:00"
+    },
+    {
+     "titolo": "Atletica: Iapichino, 'la stagione della redenzione, emozionata e un po' stanca'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/11/atletica-iapichino-la-stagione-della-redenzione-emozionata-e-un-po-stanca_7f47981e-af73-4068-b896-b7b35f1e9eeb.html",
+     "data": "2026-09-11T21:24:29+00:00"
+    },
+    {
      "titolo": "Serie A: Mastantuono show, la Fiorentina si sblocca a Venezia",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/11/serie-a-mastantuono-show-la-fiorentina-si-sblocca-a-venezia_a08a9d64-3574-4be7-9eb6-df487d6e4025.html",
      "data": "2026-09-11T20:58:02+00:00"
     },
     {
-     "titolo": "La Fiorentina vince 4-2 a Venezia, tripletta di Mastantuono",
+     "titolo": "Serie A: Mastantuono show, la Fiorentina si sblocca a Venezia",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/11/la-fiorentina-vince-4-2-a-venezia-tripletta-di-mastantuono_d3471274-d0b3-4384-b295-b687decf94b2.html",
-     "data": "2026-09-11T20:44:26+00:00"
+     "data": "2026-09-11T21:30:46+00:00"
     },
     {
      "titolo": "Serie A: una tripletta di Mastantuono dà la scossa alla Fiorentina, Venezia ko 4-2",
@@ -479,36 +509,6 @@
      "titolo": "Atletica: Iapichino vince l'Ultimate Championship nel salto in lungo",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/11/atletica-iapichino-vince-lultimate-championship-nel-salto-in-lungo_60783f2e-2eec-4856-9aaf-13c887f20dc1.html",
      "data": "2026-09-11T19:55:53+00:00"
-    },
-    {
-     "titolo": "Figc: Malagò \"il tesseramento? Sono ex campione italiano e attuale membro Cio\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/11/figc-malago-il-tesseramento-sono-ex-campione-italiano-e-attuale-membro-cio_40b899f3-25f3-4382-a84b-06dbd96d39ff.html",
-     "data": "2026-09-11T19:08:40+00:00"
-    },
-    {
-     "titolo": "Gp Spagna: Leclerc 'bello guidare a Madrid, mi aspetto un'evoluzione nel weekend'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/11/gp-spagna-leclerc-bello-guidare-a-madrid-mi-aspetto-unevoluzione-nel-weekend_6ef4575c-1280-4293-ae65-ea71f9add482.html",
-     "data": "2026-09-11T17:59:46+00:00"
-    },
-    {
-     "titolo": "Serie A: Lazio-Milan in campo sabato alle 18 DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/11/serie-a-lazio-milan-in-campo-sabato-alle-18-diretta_0e1ef1cb-d3fa-4248-b634-7efed8da19fa.html",
-     "data": "2026-09-11T18:05:43+00:00"
-    },
-    {
-     "titolo": "Bologna: Dovbyk e Zortea a rischio per la trasferta a Napoli",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/11/bologna-dovbyk-e-zortea-a-rischio-per-la-trasferta-a-napoli_0545b034-b002-439c-95f4-efcd8081a398.html",
-     "data": "2026-09-11T16:49:42+00:00"
-    },
-    {
-     "titolo": "La Juve Women saluta Bonansea dopo nove stagioni insieme",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/11/la-juve-women-saluta-bonansea-dopo-nove-stagioni-insieme_8f923997-e170-4de9-9573-d05f716231b8.html",
-     "data": "2026-09-11T16:44:12+00:00"
-    },
-    {
-     "titolo": "MotoGp: a Misano è già sfida Bezzecchi-Marquez, Martin indietro",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/11/motogp-a-misano-e-gia-sfida-bezzecchi-marquez-martin-indietro_83904655-c3cb-4679-ad54-89038b335eb8.html",
-     "data": "2026-09-11T16:56:29+00:00"
     }
    ]
   }
