@@ -1,10 +1,40 @@
 {
- "aggiornato": "2026-09-11T01:33:55.158096+00:00",
+ "aggiornato": "2026-09-11T06:40:45.183407+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Lo spread tra Btp e Bund apre in lieve ribasso a 87,5 punti base",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/lo-spread-tra-btp-e-bund-apre-in-lieve-ribasso-a-875-punti-base_fde35240-0538-454e-bf3c-6f13e8d332f7.html",
+     "data": "2026-09-11T06:33:05+00:00"
+    },
+    {
+     "titolo": "OpenAi valuta di rallentare lo sviluppo dell'Ia più avanzata",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/openai-valuta-di-rallentare-lo-sviluppo-dellia-piu-avanzata_dd3f23a1-93f7-4b4d-ada5-c20389a32317.html",
+     "data": "2026-09-11T06:28:30+00:00"
+    },
+    {
+     "titolo": "Morto operaio di 34 anni precipitato nel vuoto in un oleificio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/morto-operaio-di-34-anni-precipitato-nel-vuoto-in-un-oleificio_834e15d7-5c1b-4a88-bc7f-579647ed0099.html",
+     "data": "2026-09-11T06:01:14+00:00"
+    },
+    {
+     "titolo": "Il petrolio rallenta dopo il picco di ieri, Brent -1% a 106,6 dollari",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/il-petrolio-rallenta-dopo-il-picco-di-ieri-brent-1-a-1066-dollari_73a1386a-0a23-46bf-b43e-eaf4d101851c.html",
+     "data": "2026-09-11T05:55:17+00:00"
+    },
+    {
+     "titolo": "Vance, 'noi il partito del buon senso, i dem quello che odia l'America'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/vance-noi-il-partito-del-buon-senso-i-dem-quello-che-odia_77ab7240-3e8a-4bff-bc7e-4fa39b15157a.html",
+     "data": "2026-09-11T02:15:23+00:00"
+    },
+    {
+     "titolo": "Droni ucraini su Saratov, colpiti raffineria e centro logistico",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/droni-ucraini-su-saratov-colpiti-raffineria-e-centro-logistico_170cce43-6e1b-467f-8173-3ccbafeb7bff.html",
+     "data": "2026-09-11T01:49:13+00:00"
+    },
     {
      "titolo": "Borsa di Tokyo, apertura in netto calo (-1,56%)",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/borsa-di-tokyo-apertura-in-netto-calo-156_a666fc02-96ac-4d5f-a4a6-a0d1e90eca59.html",
@@ -24,36 +54,6 @@
      "titolo": "California per tutelare i minori, arriva stretta contro social e IA",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/california-per-tutelare-i-minori-arriva-stretta-contro-social-e-ia_a0053910-1cc9-4a91-8982-f3b664da6f97.html",
      "data": "2026-09-10T23:34:02+00:00"
-    },
-    {
-     "titolo": "Taglio alle accise finanziato con taglio a Fondo politica economica",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/taglio-alle-accise-finanziato-con-taglio-a-fondo-politica-economica_8ff7bb5f-2fc6-4e68-af99-fa8f49b81bb4.html",
-     "data": "2026-09-10T20:16:45+00:00"
-    },
-    {
-     "titolo": "Scossa di terremoto di magnitudo 4,1 dopo raid Israele nel sud del Libano",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/scossa-di-terremoto-di-magnitudo-41-dopo-raid-israele-nel-sud-del-libano_2143e2a1-d5d0-4a0f-87a5-6f24e05453c3.html",
-     "data": "2026-09-10T19:40:41+00:00"
-    },
-    {
-     "titolo": "Israele bombarda nel sud del Libano, 'distrutte infrastrutture di Hezbollah'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/israele-bombarda-nel-sud-del-libano-distrutte-infrastrutture-di-hezbollah_148292cc-2b5d-41df-82a0-a11dfc308eb4.html",
-     "data": "2026-09-10T18:52:10+00:00"
-    },
-    {
-     "titolo": "Bus turistico coinvolto in un incidente stradale in Svizzera, 'diversi morti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/bus-turistico-coinvolto-in-un-incidente-stradale-in-svizzera-diversi-morti_aedd2aae-e6d8-41bd-8412-1e7ac56b5172.html",
-     "data": "2026-09-10T18:37:37+00:00"
-    },
-    {
-     "titolo": "Via libera del Senato all'emendamento di maggioranza sulle preferenze",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/via-libera-del-senato-allemendamento-di-maggioranza-sulle-preferenze_36967dd5-05d7-405c-93bc-9fd42ec2f4af.html",
-     "data": "2026-09-10T18:28:40+00:00"
-    },
-    {
-     "titolo": "Prorogato taglio accise. Meloni, 'commissari per produrre più gas e petrolio'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/10/prorogato-taglio-accise.-meloni-commissari-per-produrre-piu-gas-e-petrolio_4adab303-90fc-42ad-ba08-c5ff31233efa.html",
-     "data": "2026-09-10T18:18:13+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Morto un operaio di 34 anni precipitato nel vuoto in un oleificio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/11/morto-operaio-di-34-anni-precipitato-nel-vuoto-in-un-oleificio_bd47b81a-d2af-48b0-831f-7aeb62142a25.html",
+     "data": "2026-09-11T06:27:10+00:00"
+    },
+    {
+     "titolo": "Contrasto all'immigrazione irregolare, espulsi 19 cittadini egiziani",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/11/contrasto-allimmigrazione-irregolare-espulsi-19-cittadini-egiziani_299ce30c-72f6-447b-847d-acffa43a6a8d.html",
+     "data": "2026-09-11T05:52:31+00:00"
+    },
+    {
      "titolo": "Maltempo, domani ancora rovesci e bora in Fvg",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/11/maltempo-domani-ancora-rovesci-e-bora-in-fvg_beca285c-dad8-4688-9459-0149b9e7e504.html",
      "data": "2026-09-10T22:26:15+00:00"
@@ -133,7 +143,7 @@
     {
      "titolo": "La figlia di Lea Garofalo si toglie la vita, anche lei si ribellò ai boss",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/10/la-figlia-di-lea-garofalo-si-toglie-la-vita-anche-lei-si-ribello-ai-boss_17abbcfc-3c0f-4582-bf35-cac7fc8438ef.html",
-     "data": "2026-09-10T19:49:19+00:00"
+     "data": "2026-09-11T06:38:54+00:00"
     },
     {
      "titolo": "Famiglia nel bosco, legale deposita il reclamo in Corte d'Appello",
@@ -174,16 +184,6 @@
      "titolo": "Maltempo: cade albero su un'auto a Roma, un ferito grave",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/10/maltempo-cade-albero-su-unauto-a-roma-un-ferito-grave_7ef9c4ce-4090-4de6-8f8c-e2df90c21645.html",
      "data": "2026-09-10T16:42:04+00:00"
-    },
-    {
-     "titolo": "Si è uccisa Denise, la figlia di Lea Garofalo testimone di giustizia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/10/si-e-uccisa-denise-la-figlia-di-lea-garofalo-testimone-di-giustizia_db2c7fa1-669a-4524-8617-26e369b74b66.html",
-     "data": "2026-09-10T16:36:01+00:00"
-    },
-    {
-     "titolo": "Guccini, nel testamento del 2015 gestione diritti condivisa tra moglie e figlia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/10/guccini-nel-testamento-del-2015-gestione-diritti-condivisa-tra-moglie_eed80dd9-aec5-4460-9815-ce7892977b6e.html",
-     "data": "2026-09-10T16:59:23+00:00"
     }
    ]
   },
@@ -256,6 +256,36 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Lo spread tra Btp e Bund apre in lieve ribasso a 87,5 punti base",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/11/lo-spread-tra-btp-e-bund-apre-in-lieve-ribasso-a-875-punti-base_ab3cfe48-4160-48f4-ba77-4f4f0029c078.html",
+     "data": "2026-09-11T06:33:03+00:00"
+    },
+    {
+     "titolo": "Borsa: l'Asia scivola sul petrolio, Tokyo -2%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/11/borsa-lasia-scivola-sul-petrolio-tokyo-2_c7dcdea5-8cd6-4df3-b1f3-7b2704f6d50c.html",
+     "data": "2026-09-11T06:30:01+00:00"
+    },
+    {
+     "titolo": "OpenAi valuta di rallentare lo sviluppo dell'Ia più avanzata",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/11/openai-valuta-di-rallentare-lo-sviluppo-dellia-piu-avanzata_72c95451-25fe-4945-a6ba-3e52ed975799.html",
+     "data": "2026-09-11T06:28:27+00:00"
+    },
+    {
+     "titolo": "L'euro è stabile sul dollaro a 1,1610, in calo sullo yen",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/11/leuro-e-stabile-sul-dollaro-a-11610-in-calo-sullo-yen_c5fe307d-92f9-4445-83f1-f55929ae2adf.html",
+     "data": "2026-09-11T06:07:24+00:00"
+    },
+    {
+     "titolo": "L'oro è in calo, il prezzo spot perde lo 0,9% a 4.430 dollari l'oncia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/11/loro-e-in-calo-il-prezzo-spot-perde-lo-09-a-4.430-dollari-loncia_f7e23d9f-a40f-4462-9d41-f3df6230f22c.html",
+     "data": "2026-09-11T05:59:22+00:00"
+    },
+    {
+     "titolo": "Il petrolio rallenta dopo il picco di ieri, Brent -1% a 106,6 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/11/il-petrolio-rallenta-dopo-il-picco-di-ieri-brent-1-a-1066-dollari_2683cacb-0568-41d2-9ac8-b00d014f8799.html",
+     "data": "2026-09-11T05:55:20+00:00"
+    },
+    {
      "titolo": "Taglio alle accise finanziato con taglio a Fondo politica economica",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/taglio-alle-accise-finanziato-con-taglio-a-fondo-politica-economica_c0609e43-8f10-4c62-bfea-0224a63a5ca3.html",
      "data": "2026-09-10T20:16:48+00:00"
@@ -284,42 +314,37 @@
      "titolo": "Meloni, nel decreto misure per accelerare la produzione di petrolio e gas",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/meloni-nel-decreto-misure-per-accelerare-la-produzione-di-petrolio-e-gas_8309149e-92a7-4585-b52f-a69beb2d05a2.html",
      "data": "2026-09-10T18:08:22+00:00"
-    },
-    {
-     "titolo": "Top manager EssilorLuxottica, successione complessa ma prevalga senso della misura",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/top-manager-essilorluxottica-successione-complessa-ma-prevalga-senso-della-misura_0578a67e-301a-464c-8cdc-aa22f3d8d99a.html",
-     "data": "2026-09-10T18:03:33+00:00"
-    },
-    {
-     "titolo": "Stellantis, Tajani in Brasile per i 50 anni dalla fondazione di Fiat",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/stellantis-tajani-in-brasile-per-i-50-anni-dalla-fondazione-di-fiat_0f0349b4-c0ff-45bf-87ed-2ec8316c97fe.html",
-     "data": "2026-09-10T17:39:25+00:00"
-    },
-    {
-     "titolo": "Top manager EssilorLuxottica, successione complessa ma prevalga senso della misura",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/top-manager-essilorluxottica-successione-complessa-ma-prevalga-senso-della-misura_23ac1300-a9ae-4538-b893-1530660b77f1.html",
-     "data": "2026-09-10T18:08:16+00:00"
-    },
-    {
-     "titolo": "Fantelli (AgorAI), 'AI europea modello alternativo a quelli dominanti'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/fantelli-agorai-ai-europea-modello-alternativo-a-quelli-dominanti_4d10f669-085c-4d8f-8057-3fea0ae437f1.html",
-     "data": "2026-09-10T16:34:06+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano debole con l'Europa dopo la Bce, corrono gas e petrolio",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/borsa-milano-debole-con-leuropa-dopo-la-bce-corrono-gas-e-petrolio_3856ec9d-7ca7-46c7-9512-50930f56a7b0.html",
-     "data": "2026-09-10T16:22:27+00:00"
-    },
-    {
-     "titolo": "Il gas resta in forte rialzo (+3%) sopra gli 81 euro al Megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/il-gas-resta-in-forte-rialzo-3-sopra-gli-81-euro-al-megawattora_2aa67d3d-b371-4da8-a122-178486bf7d20.html",
-     "data": "2026-09-10T16:08:49+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Al via il processo elettorale per il rinnovo della Camera in Messico",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/al-via-il-processo-elettorale-per-il-rinnovo-della-camera-in-messico_ad21b07b-821d-4a1d-9f47-2646b9db68db.html",
+     "data": "2026-09-11T04:01:57+00:00"
+    },
+    {
+     "titolo": "Le prove di Vance per il 2028, 'i dem il partito dell'odio'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/11/le-prove-di-vance-per-il-2028-i-dem-il-partito-dellodio_f2086e53-42d3-4305-91b5-72d130da6899.html",
+     "data": "2026-09-11T03:32:33+00:00"
+    },
+    {
+     "titolo": "Panama azzera i costi su depositi e prelievi bancari",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/panama-azzera-i-costi-su-depositi-e-prelievi-bancari_65dfea04-5615-498d-bcaf-581d6aa095e5.html",
+     "data": "2026-09-11T02:38:11+00:00"
+    },
+    {
+     "titolo": "Vance, 'noi il partito del buon senso, i dem quello che odia l'America'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/11/vance-noi-il-partito-del-buon-senso-i-dem-quello-che-odia_c511ac61-5bef-43bf-8704-6abf1318b6f2.html",
+     "data": "2026-09-11T02:15:41+00:00"
+    },
+    {
+     "titolo": "Droni ucraini su Saratov, colpiti raffineria e centro logistico",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/11/droni-ucraini-su-saratov-colpiti-raffineria-e-centro-logistico_fb9d9ad0-9e62-4ff9-827c-ac4dd0163524.html",
+     "data": "2026-09-11T01:49:33+00:00"
+    },
     {
      "titolo": "Cresce l'interscambio tra Italia e Messico nel 2026",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/cresce-linterscambio-tra-italia-e-messico-nel-2026_852f1558-bd42-4edd-968b-c6d3924d9f2b.html",
@@ -354,31 +379,6 @@
      "titolo": "Brasile, produttrice Dark Horse denuncia pressioni per collaborare con la giustizia",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/brasile-produttrice-dark-horse-denuncia-pressioni-per-collaborare-con-la-giustizia_9aff8d01-3e92-454d-877e-43f17a730dd1.html",
      "data": "2026-09-10T23:19:04+00:00"
-    },
-    {
-     "titolo": "A Cuba nuova apertura al dollaro, i privati potranno incassare la valuta Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/a-cuba-nuova-apertura-al-dollaro-i-privati-potranno-incassare-la-valuta-usa_08e3f3e5-540c-4c8e-9287-71335eda600f.html",
-     "data": "2026-09-10T22:57:48+00:00"
-    },
-    {
-     "titolo": "Sheinbaum a Rubio 'non usate il Messico nella campagna elettorale Usa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/sheinbaum-a-rubio-non-usate-il-messico-nella-campagna-elettorale-usa_dc919671-5676-4c38-8fa2-f35a8975ead1.html",
-     "data": "2026-09-10T21:58:09+00:00"
-    },
-    {
-     "titolo": "A Cuba record di prigionieri politici, sono 1.339 secondo Prisoners Defenders",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/a-cuba-record-di-prigionieri-politici-sono-1.339-secondo-prisoners-defenders_e3e3fd40-12be-4f98-bcfa-e3776b3a4f94.html",
-     "data": "2026-09-10T21:40:50+00:00"
-    },
-    {
-     "titolo": "Brasile, giudice della Corte suprema vieta a deputato di destra di lasciare il Paese",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/brasile-giudice-della-corte-suprema-vieta-a-deputato-di-destra-di-lasciare-il-paese_eac53953-9c2a-481e-b68c-3979dccb7b0e.html",
-     "data": "2026-09-10T20:42:21+00:00"
-    },
-    {
-     "titolo": "Brasile, addio alla tassa sui piccoli pacchi. Esultano le piattaforme cinesi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/brasile-addio-alla-tassa-sui-piccoli-pacchi.-esultano-le-piattaforme-cinesi_3da8c107-e611-4fc4-8f69-51c297a9ca10.html",
-     "data": "2026-09-10T20:10:13+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Us Open: Rybakina batte Gauff e vola in finale",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/11/us-open-rybakina-batte-gauff-e-vola-in-finale_4dbb02d2-0fb3-4639-a1d1-62ccc0f0c41d.html",
+     "data": "2026-09-11T03:09:59+00:00"
+    },
+    {
      "titolo": "Us Open: Aryna Sabalenka è la prima finalista",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/11/us-open-aryna-sabalenka-e-la-prima-finalista_e6afccc9-3ab8-407f-a923-ac4f3ec1a648.html",
      "data": "2026-09-11T00:39:48+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Champions: Brown risponde a Cristante, la Roma pareggia 1-1 col Fenerbahce",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/10/champions-brown-risponde-a-cristante-la-roma-pareggia-1-1-col-fenerbahce_3c0cc4bd-1c39-4c50-8fa2-be540f6afec1.html",
      "data": "2026-09-10T18:39:23+00:00"
-    },
-    {
-     "titolo": "Eurovolley: Buonfiglio, contribuisce al percorso per la candidatura ai Giochi",
-     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/10/eurovolley-buonfiglio-contribuisce-al-percorso-per-la-candidatura-ai-giochi_7ebb013e-4d78-4838-8a93-2cef97db24b7.html",
-     "data": "2026-09-10T18:24:59+00:00"
     }
    ]
   }
