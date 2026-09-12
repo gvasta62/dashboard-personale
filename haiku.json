@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-09-11T08:24:25.928441+00:00",
- "data": "2026-09-11",
- "testo": "Rovescio breve\nsul tavolino di ferro\ngira una foglia",
- "nota": "Un tavolino di bar bagnato dalla pioggia leggera, con una foglia che ruota.",
+ "aggiornato": "2026-09-12T08:13:15.207230+00:00",
+ "data": "2026-09-12",
+ "testo": "Cielo velato\nsul filo dei panni stesi\ngocce di rugiada",
+ "nota": "Osservate le gocce raccolte sui panni all'aperto sotto la coltre grigia del mattino.",
  "archivio": [
+  {
+   "data": "2026-09-12",
+   "testo": "Cielo velato\nsul filo dei panni stesi\ngocce di rugiada",
+   "nota": "Osservate le gocce raccolte sui panni all'aperto sotto la coltre grigia del mattino."
+  },
   {
    "data": "2026-09-11",
    "testo": "Rovescio breve\nsul tavolino di ferro\ngira una foglia",
