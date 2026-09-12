@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-11T23:22:58.605742+00:00",
+ "aggiornato": "2026-09-12T01:16:05.747632+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Assaltò casa di Donnarumma a Parigi nel 2023, condannato a 9 anni 'Ganito'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/assalto-casa-di-donnarumma-a-parigi-nel-2023-condannato-a-9-anni-ganito_4b780b95-b418-4ca7-b237-6692d78a5303.html",
+     "data": "2026-09-12T00:17:55+00:00"
+    },
+    {
+     "titolo": "Rep.Democratica del Congo, salgono a 26 i bambini morti dopo un incendio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/rep.democratica-del-congo-salgono-a-26-i-bambini-morti-dopo-un-incendio_b8c72e52-6b75-4292-821d-703aa1a20d0c.html",
+     "data": "2026-09-11T23:28:28+00:00"
+    },
     {
      "titolo": "Seul, Corea del Nord ha lanciato un proiettile verso il mar del Giappone",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/seul-corea-del-nord-ha-lanciato-un-proiettile-verso-il-mar-del-giappone_d3c784f8-3add-4125-b08f-f2302026dde8.html",
@@ -44,16 +54,6 @@
      "titolo": "Lo spread Btp-Bund chiude in calo a 85 punti, tregua sui rendimenti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/lo-spread-btp-bund-chiude-in-calo-a-85-punti-tregua-sui-rendimenti_8b43ffb3-ba47-4a06-a9a6-3c35db3d6b9a.html",
      "data": "2026-09-11T16:10:51+00:00"
-    },
-    {
-     "titolo": "La Russa, voto a settembre anomalo, non escludo urne anticipate",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/la-russa-voto-a-settembre-anomalo-non-escludo-urne-anticipate_cd7fd978-b15c-426e-b575-5e7b225c4714.html",
-     "data": "2026-09-11T16:04:32+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude in rialzo col petrolio, Francoforte +0,8%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/11/borsa-leuropa-chiude-in-rialzo-col-petrolio-francoforte-08_4c3b7add-26ce-47cd-8ae2-848bdd5f769c.html",
-     "data": "2026-09-11T15:53:09+00:00"
     }
    ]
   },
@@ -321,6 +321,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Mendonça desecreta gli atti sul film su Bolsonaro che coinvolgono il figlio candidato",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/12/mendonca-desecreta-gli-atti-sul-film-su-bolsonaro-che-coinvolgono-il-figlio_11d8db9e-3c06-441c-a5f5-2a399da1adbf.html",
+     "data": "2026-09-12T01:06:46+00:00"
+    },
+    {
+     "titolo": "Brasile, Eduardo Bolsonaro rilancia le sanzioni Usa contro il giudice Moraes",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/12/brasile-eduardo-bolsonaro-rilancia-le-sanzioni-usa-contro-il-giudice-moraes_28a957ff-18c4-47b4-a164-073f30e46316.html",
+     "data": "2026-09-12T00:22:14+00:00"
+    },
+    {
+     "titolo": "Brasile, Vorcaro sarà interrogato dalla Polizia federale il 15 settembre",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/12/brasile-vorcaro-sara-interrogato-dalla-polizia-federale-il-15-settembre_874d340e-ed92-4f31-a71a-27b4a9ee6c96.html",
+     "data": "2026-09-11T23:54:22+00:00"
+    },
+    {
+     "titolo": "Perù, Keiko Fujimori sceglie Álvaro Vargas Llosa come ambasciatore negli Stati Uniti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/12/peru-keiko-fujimori-sceglie-alvaro-vargas-llosa-come-ambasciatore-negli_0101c6cc-949c-4202-b035-581f7b144439.html",
+     "data": "2026-09-11T23:29:46+00:00"
+    },
+    {
+     "titolo": "Rep.Democratica del Congo, salgono a 26 i bambini morti dopo un incendio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/12/rep.democratica-del-congo-salgono-a-26-i-bambini-morti-dopo-un-incendio_3413617a-0e42-4f3a-ae83-fef4b2b62d6e.html",
+     "data": "2026-09-11T23:28:31+00:00"
+    },
+    {
      "titolo": "Sondaggio, Lula al 39%, Flávio Bolsonaro al 35% al primo turno",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/12/sondaggio-lula-al-39-flavio-bolsonaro-al-35-al-primo-turno_805eea8a-ef5e-4d4d-a524-413f12ec893f.html",
      "data": "2026-09-11T22:29:28+00:00"
@@ -354,31 +379,6 @@
      "titolo": "Il Suriname si appoggia anche al Venezuela per lo sfruttamento del petrolio",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/il-suriname-si-appoggia-anche-al-venezuela-per-lo-sfruttamento-del-petrolio_d23b0ad0-74c8-46af-ae4d-f3fce30f5ba7.html",
      "data": "2026-09-11T18:07:39+00:00"
-    },
-    {
-     "titolo": "La Svezia va al voto, testa a testa con l'incognita ultradestra",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/11/la-svezia-va-al-voto-testa-a-testa-con-lincognita-ultradestra_3b7b89f4-b8ac-42ab-9f94-547b6277641c.html",
-     "data": "2026-09-11T17:52:27+00:00"
-    },
-    {
-     "titolo": "Trump si appisola al Pentagono alla cerimonia per l'11 Settembre, virale sui social",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/11/trump-si-appisola-al-pentagono-alla-cerimonia-per-l11-settembre-virale-sui_975d1e07-441a-48d3-8b1f-94997c51ccab.html",
-     "data": "2026-09-11T19:22:10+00:00"
-    },
-    {
-     "titolo": "Salta il viaggio di Milei a Oxford e l'Argentina 'Week' a Londra",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/salta-il-viaggio-di-milei-a-oxford-e-largentina-week-a-londra_69214c1c-0d62-480c-a84f-de751fe9653c.html",
-     "data": "2026-09-11T17:19:42+00:00"
-    },
-    {
-     "titolo": "Pezeshkian, 'pressioni sull'Iran sono in una fase critica e pericolosa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/11/pezeshkian-pressioni-sulliran-sono-in-una-fase-critica-e-pericolosa_24acd59f-206a-4618-aff8-f0fb0d772104.html",
-     "data": "2026-09-11T14:28:00+00:00"
-    },
-    {
-     "titolo": "Trump, 'non dimenticheremo mai, per questo combattiamo per vincere'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/11/trump-non-dimenticheremo-mai-per-questo-combattiamo-per-vincere_3b887fd4-ea3d-4831-b135-b0162bccbf24.html",
-     "data": "2026-09-11T14:24:13+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Assaltò casa di Donnarumma a Parigi nel 2023, condannato a 9 anni 'Ganito'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/12/assalto-casa-di-donnarumma-a-parigi-nel-2023-condannato-a-9-anni-ganito_16aaf4ef-5aba-484f-8905-d5106a1de9a3.html",
+     "data": "2026-09-12T00:17:53+00:00"
+    },
+    {
      "titolo": "Us Open: Zverev primo finalista, battuto Khachanov in tre set",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/12/us-open-zverev-primo-finalista-battuto-khachanov-in-tre-set_3927b1ee-01cc-4981-ae65-4b3af523beb9.html",
      "data": "2026-09-11T22:17:38+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Evenepoel batte Ciccone e trionfa nel Gp Quebec",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/11/evenepoel-batte-ciccone-e-trionfa-nel-gp-quebec_ac676248-a518-459c-bd9c-89e8663af7ed.html",
      "data": "2026-09-11T20:16:17+00:00"
-    },
-    {
-     "titolo": "Atletica: Iapichino vince l'Ultimate Championship nel salto in lungo",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/11/atletica-iapichino-vince-lultimate-championship-nel-salto-in-lungo_60783f2e-2eec-4856-9aaf-13c887f20dc1.html",
-     "data": "2026-09-11T19:55:53+00:00"
     }
    ]
   }
