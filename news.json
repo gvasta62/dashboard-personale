@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-12T21:02:58.841919+00:00",
+ "aggiornato": "2026-09-12T23:05:43.435993+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Houthi, 'colpita una base militare saudita con missili balistici e droni'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/houthi-colpita-una-base-militare-saudita-con-missili-balistici-e-droni_c91f4a33-e057-4f41-80ec-7ca1f2065ef3.html",
+     "data": "2026-09-12T22:21:01+00:00"
+    },
     {
      "titolo": "Pallavolo: Europei; Italia-Grecia 3-0",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/pallavolo-europei-italia-grecia-3-0_804022a5-1274-4723-8768-9d7500665eda.html",
@@ -49,11 +54,6 @@
      "titolo": "Il regista di Naza, 'il massacro a Gaza è sistemico'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/il-regista-di-naza-il-massacro-a-gaza-e-sistemico_110fbeb9-f02c-417e-b5a8-ba1f72eef563.html",
      "data": "2026-09-12T18:53:48+00:00"
-    },
-    {
-     "titolo": "Il Leone d'argento - Gran Premio della giuria a Possible Love",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/il-leone-dargento-gran-premio-della-giuria-a-possible-love_dccb16de-bfa7-4614-81aa-2a660d4dac71.html",
-     "data": "2026-09-12T18:48:34+00:00"
     }
    ]
   },
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Applausi a Conte alla festa dell'Unità, 'ma per vincere andiamo oltre Renzi'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/12/applausi-a-conte-alla-festa-dellunita-ma-per-vincere-andiamo-oltre-renzi_89b39923-3947-406b-8d7c-c2e166e44ad0.html",
+     "data": "2026-09-12T21:32:29+00:00"
+    },
+    {
      "titolo": "Calabresi, 'grazie a Sala e Pisapia Milano è modello di welfare'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/12/calabresi-grazie-a-sala-e-pisapia-milano-e-modello-di-welfare_3bf6601d-4163-4858-9203-80100a0e0865.html",
      "data": "2026-09-12T20:30:58+00:00"
@@ -228,7 +233,7 @@
     {
      "titolo": "Tensione nel centrodestra su Strade sicure, la Lega attacca",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/12/tensione-nel-centrodestra-su-strade-sicure-la-lega-attacca_8146c0c5-8f0e-4051-b7dd-7ca70c052426.html",
-     "data": "2026-09-12T17:38:55+00:00"
+     "data": "2026-09-12T21:21:05+00:00"
     },
     {
      "titolo": "Meloni, non mi alleo con chi vota contro il sostegno all'Ucraina",
@@ -244,11 +249,6 @@
      "titolo": "Tajani, 'non ci saranno elezioni anticipate, governo stabile'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/12/tajani-non-ci-saranno-elezioni-anticipate-governo-stabile_895a1c20-71dc-4e3a-a146-0a787064fcdd.html",
      "data": "2026-09-12T10:28:40+00:00"
-    },
-    {
-     "titolo": "Meloni: 'Non mi alleo con chi vota contro il sostegno all'Ucraina'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/12/meloni-non-mi-alleo-con-chi-vota-contro-il-sostegno-allucraina_1022caf5-407f-4029-b0b3-ddda40da2232.html",
-     "data": "2026-09-12T09:17:42+00:00"
     }
    ]
   },
@@ -321,6 +321,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Houthi, 'colpita una base militare saudita con missili balistici e droni'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/13/houthi-colpita-una-base-militare-saudita-con-missili-balistici-e-droni_71ed5ae4-5a31-4905-acc2-7d81e6d514a6.html",
+     "data": "2026-09-12T22:21:01+00:00"
+    },
+    {
      "titolo": "'Cina minaccia di far saltare il vertice Xi-Trump se Usa vendessero armi a Taiwan'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/12/cina-minaccia-di-far-saltare-il-vertice-xi-trump-se-usa-vendessero-armi-a-taiwan_97848c29-2840-4d2b-ab16-b6d9b3216538.html",
      "data": "2026-09-12T18:48:59+00:00"
@@ -374,11 +379,6 @@
      "titolo": "Bolivia, l'Esercito denuncia l'ex ministro per le esplosioni nella caserma di Viacha",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/12/bolivia-lesercito-denuncia-lex-ministro-per-le-esplosioni-nella-caserma-di-viacha_c0504675-0650-4d75-a5d6-288d0377bb91.html",
      "data": "2026-09-12T14:32:39+00:00"
-    },
-    {
-     "titolo": "Chiuso l'oleodotto chiave, Riad nella morsa delle milizie filo-iraniane",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/12/larabia-saudita-chiude-loleodotto-chiave-colpito-da-droni-provenienti-dalliraq_246a5129-7cd7-47e8-bb62-f1d689aa63bb.html",
-     "data": "2026-09-12T19:01:09+00:00"
     }
    ]
   },
@@ -451,14 +451,24 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europei di pallavolo: l'Italia fa il bis, battuta 3-0 anche la Grecia",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/12/europei-di-pallavolo-litalia-fa-il-bis-battuta-3-0-anche-la-grecia_4bb7506b-d69c-413b-a67b-0ebc19e10450.html",
+     "data": "2026-09-12T21:40:18+00:00"
+    },
+    {
+     "titolo": "Malore durante la preparazione in Argentina, Goggia torna in Italia in anticipo",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/12/malore-durante-la-preparazione-in-argentina-goggia-torna-in-italia-in-anticipo_2d78676a-a825-4b79-91d2-1b2c000d9138.html",
+     "data": "2026-09-12T21:16:43+00:00"
+    },
+    {
+     "titolo": "Serie A: colpo Cagliari a Bergamo contro l'Atalanta, decide l'ex Maldini su rigore",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/12/serie-a-colpo-cagliari-a-bergamo-contro-latalanta-decide-lex-maldini-su-rigore_9162db63-e241-49d8-874e-37ba25fc4fbc.html",
+     "data": "2026-09-12T21:03:44+00:00"
+    },
+    {
      "titolo": "Pallavolo: Europei; Italia-Grecia 3-0",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/12/pallavolo-europei-italia-grecia-3-0_a59bd603-860b-41f3-8f99-d843b78c1f24.html",
      "data": "2026-09-12T20:56:27+00:00"
-    },
-    {
-     "titolo": "Serie A: il Cagliari batte l'Atalanta a Bergamo, gol di Mendy, Scamacca e Maldini",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/12/serie-a-il-cagliari-batte-latalanta-a-bergamo-gol-di-mendy-scamacca-e-maldini_9162db63-e241-49d8-874e-37ba25fc4fbc.html",
-     "data": "2026-09-12T20:43:32+00:00"
     },
     {
      "titolo": "Serie A: Atalanta-Cagliari 1-2",
@@ -499,16 +509,6 @@
      "titolo": "'A Fil di Spada' celebra la scherma inclusiva nel cuore di Roma",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/12/a-fil-di-spada-celebra-la-scherma-inclusiva-nel-cuore-di-roma_2327f2de-ca9b-4115-b222-1d1a54ae2af1.html",
      "data": "2026-09-12T17:48:13+00:00"
-    },
-    {
-     "titolo": "Auto: la 11^ Monte Erice Storica scalda i motori",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/12/auto-la-11-monte-erice-storica-scalda-i-motori_d030adc8-c8a9-4c4e-ae76-81466400c9a3.html",
-     "data": "2026-09-12T17:34:47+00:00"
-    },
-    {
-     "titolo": "Genoa: El Shaarawy, è stata un'emozione speciale",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/12/genoa-el-shaarawy-e-stata-unemozione-speciale_c158bf72-9bc2-4359-805e-89371b45b501.html",
-     "data": "2026-09-12T17:29:51+00:00"
     }
    ]
   }
