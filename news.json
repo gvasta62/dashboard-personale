@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-09-12T16:23:06.571804+00:00",
+ "aggiornato": "2026-09-12T18:30:40.840852+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Musk e Altman, 'Anthropic ha ragione su rallentamento sviluppo IA'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/musk-e-altman-anthropic-ha-ragione-su-rallentamento-sviluppo-ia_9ff171e9-5f99-4311-9329-7f7966ba9564.html",
+     "data": "2026-09-12T17:37:18+00:00"
+    },
+    {
+     "titolo": "Il Premio Orizzonti per la migliore interpretazione maschile a Riccardo Scamarcio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/il-premio-orizzonti-per-la-migliore-interpretazione-maschile-a-riccardo-scamarcio_a7094576-3b69-48cd-ac63-19373858d822.html",
+     "data": "2026-09-12T17:36:03+00:00"
+    },
+    {
+     "titolo": "Cremlino, 'impossibile un incontro tra Putin e Zelensky al G20'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/cremlino-impossibile-un-incontro-tra-putin-e-zelensky-al-g20_c0d25480-fd04-40de-8441-48c0868fcebd.html",
+     "data": "2026-09-12T17:27:41+00:00"
+    },
+    {
+     "titolo": "Gli Houthi smentiscono di aver chiesto a Trump di non intervenire",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/gli-houthi-smentiscono-di-aver-chiesto-a-trump-di-non-intervenire_5420eb77-f507-4a9a-92fd-8695613ad735.html",
+     "data": "2026-09-12T16:47:53+00:00"
+    },
     {
      "titolo": "Cremlino, 'Zelensky vuole vedere Putin? Venga lui a Mosca'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/cremlino-zelensky-vuole-vedere-putin-venga-lui-a-mosca_591fb2bd-d356-4ee0-ba04-f8fc4607d13a.html",
@@ -34,32 +54,17 @@
      "titolo": "Muti, 'i governi hanno fatto schifo su Villa Verdi, ora si diano una mossa'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/muti-i-governi-hanno-fatto-schifo-su-villa-verdi-ora-si-diano-una_36bc9976-ce61-4dd7-9696-0173136d491d.html",
      "data": "2026-09-12T11:25:12+00:00"
-    },
-    {
-     "titolo": "Meloni, non mi alleo con chi vota contro il sostegno all'Ucraina",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/meloni-non-mi-alleo-con-chi-vota-contro-il-sostegno-allucraina_6d47150d-bc26-48eb-9bd1-25d3a4daa179.html",
-     "data": "2026-09-12T11:00:06+00:00"
-    },
-    {
-     "titolo": "Trump, gli Houthi ci hanno chiesto di non intervenire contro di loro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/trump-gli-houthi-ci-hanno-chiesto-di-non-intervenire-contro-di-loro_73bc3a4f-73c9-4f7e-a44f-e8767c36f3dc.html",
-     "data": "2026-09-12T10:39:42+00:00"
-    },
-    {
-     "titolo": "Trump, un'Irlanda unita sarebbe fantastica",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/trump-unirlanda-unita-sarebbe-fantastica_ebc7db66-840d-42eb-95b8-7739087da114.html",
-     "data": "2026-09-12T10:35:39+00:00"
-    },
-    {
-     "titolo": "Lega, inspiegabile se la maggioranza rinviasse l'estensione di 'Strade sicure'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/lega-inspiegabile-se-la-maggioranza-rinviasse-lestensione-di-strade-sicure_b0e0720a-2859-4783-a380-8623ca28c639.html",
-     "data": "2026-09-12T10:29:57+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Zingaretti, con la presidenza Proietti in Regione l'Umbria è tornata",
+     "link": "https://www.ansa.it/umbria/notizie/2026/09/12/zingaretti-con-la-presidenza-proietti-in-regione-lumbria-e-tornata_37b5d320-a82e-45da-9549-261b15d4dae2.html",
+     "data": "2026-09-12T16:40:45+00:00"
+    },
     {
      "titolo": "Zingaretti, Assisi può assumere un ruolo centrale nella cooperazione internazionale",
      "link": "https://www.ansa.it/umbria/notizie/2026/09/12/zingaretti-assisi-puo-assumere-un-ruolo-centrale-nella-cooperazione-internazionale_530816e0-3205-451c-a39f-b418e280f074.html",
@@ -114,11 +119,6 @@
      "titolo": "Dodici foto di medici per il calendario di Un'idea per la vita onlus",
      "link": "https://www.ansa.it/umbria/notizie/2026/09/11/dodici-foto-di-medici-per-il-calendario-di-unidea-per-la-vita-onlus_971b5cff-c574-41dd-9d3f-576d5b957fce.html",
      "data": "2026-09-11T15:07:20+00:00"
-    },
-    {
-     "titolo": "La criminologa Bruzzone, 'l'imputato poteva fermare il suicidio di Prospero'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/09/11/la-criminologa-bruzzone-limputato-poteva-fermare-il-suicidio-di-prospero_c547899a-e332-4930-a7f5-0466871941bb.html",
-     "data": "2026-09-11T15:01:04+00:00"
     }
    ]
   },
@@ -126,9 +126,39 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Sequestrato l'appartamento di Denise ad Ariccia",
+     "titolo": "Travolta da un masso, muore al corteo funebre della madre",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/travolta-da-un-masso-muore-al-corteo-funebre-della-madre_43a4141d-691b-4f90-a1af-906ec6819e5e.html",
+     "data": "2026-09-12T17:47:13+00:00"
+    },
+    {
+     "titolo": "Ministro Ciriani visita carabiniere che ha tentato salvare donna",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/ministro-ciriani-visita-carabiniere-che-ha-tentato-salvare-donna_4468a662-3da9-4930-9435-9bee7e118b55.html",
+     "data": "2026-09-12T16:59:13+00:00"
+    },
+    {
+     "titolo": "Legale Ilaria Salis, non c'è stato nessun rifiuto di pagare",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/legale-ilaria-salis-non-ce-stato-nessun-rifiuto-di-pagare_151ca41d-a635-4fc0-83ab-5c6cadf6d0f3.html",
+     "data": "2026-09-12T16:48:28+00:00"
+    },
+    {
+     "titolo": "Giallo ad Arezzo, cadavere trovato vicino all'ospedale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/giallo-ad-arezzo-cadavere-trovato-vicino-allospedale_92b46282-7052-4bf2-8d96-f94870288481.html",
+     "data": "2026-09-12T16:34:28+00:00"
+    },
+    {
+     "titolo": "Giallo ad Arezzo, cadavere trovato vicino all'ospedale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/giallo-ad-arezzo-cadavere-trovato-vicino-allospedale_8f30df1e-a344-4728-b169-9aa7c8c62922.html",
+     "data": "2026-09-12T17:58:56+00:00"
+    },
+    {
+     "titolo": "I funerali della famiglia di Pietralata, 'riflettere sui drammi di chi ci vive accanto'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/i-funerali-della-famiglia-di-pietralata-riflettere-sui-drammi-di-chi-ci-vive-accanto_cfc5dfab-2e42-40b5-9b55-662996c6f2bb.html",
+     "data": "2026-09-12T18:01:12+00:00"
+    },
+    {
+     "titolo": "La morte di Denise, sequestrato l'appartamento di Ariccia",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/sequestrato-lappartamento-di-denise-ad-ariccia_64d8acdf-16c5-4b38-b461-3ab136196cf4.html",
-     "data": "2026-09-12T15:50:57+00:00"
+     "data": "2026-09-12T17:55:31+00:00"
     },
     {
      "titolo": "Auto esce di strada, 25enne muore e la compagna incinta perde il bimbo",
@@ -154,42 +184,27 @@
      "titolo": "Licenziamento di due ex assistenti, pignorato il conto di Ilaria Salis",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/licenziamento-di-due-ex-assistenti-pignorato-il-conto-di-ilaria-salis_688081d2-a317-4e68-bf4c-05dd1bb9e4f7.html",
      "data": "2026-09-12T13:29:55+00:00"
-    },
-    {
-     "titolo": "Arriva il clima settembrino, massime ovunque sotto i 30 gradi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/arriva-il-clima-settembrino-massime-ovunque-sotto-i-30-gradi_5885fbf2-3b33-4eb8-b98b-6e89ccc9b2de.html",
-     "data": "2026-09-12T13:31:42+00:00"
-    },
-    {
-     "titolo": "Festa nel bar del Superenalotto, 'ha vinto un solo giocatore'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/superenalotto-entusiasmo-a-oggiono-per-la-vincita-milionaria-e-uno-di-qui_13728d7c-29d2-4ee9-92cf-92e71d66434f.html",
-     "data": "2026-09-12T16:17:19+00:00"
-    },
-    {
-     "titolo": "Incidente nella laguna di Venezia, un ferito",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/incidente-nella-laguna-di-venezia-un-ferito_13b6286c-69cb-4a13-b7cc-f66c0e3f763a.html",
-     "data": "2026-09-12T10:54:39+00:00"
-    },
-    {
-     "titolo": "Scontro fra un'auto e una moto a Roma, muore 19enne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/scontro-fra-unauto-e-una-moto-a-roma-muore-19enne_132235f7-4169-46a6-b553-d6d01d698c38.html",
-     "data": "2026-09-12T10:52:27+00:00"
-    },
-    {
-     "titolo": "Ricerca oncologica, l'Europa si ferma a 3 mila trial, Usa e Asia oltre 5 mila",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/ricerca-oncologica-leuropa-si-ferma-a-3-mila-trial-usa-e-asia-oltre-5-mila_8fea6ba2-1adb-471b-8091-db81311107a2.html",
-     "data": "2026-09-12T10:45:19+00:00"
-    },
-    {
-     "titolo": "Libera, da 8 Comuni su 10 elenco sul web dei beni confiscati a mafie",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/libera-da-8-comuni-su-10-elenco-sul-web-dei-beni-confiscati-a-mafie_d994539b-8173-45d2-9f05-55303e749d5d.html",
-     "data": "2026-09-12T15:53:18+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Onorato: 'Destra folle irrispettosa della democrazia'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/12/onorato-destra-folle-irrispettosa-della-democrazia_b1e87e2f-e503-4042-95cc-e349a909eff5.html",
+     "data": "2026-09-12T18:27:41+00:00"
+    },
+    {
+     "titolo": "Rilancio Udc, 'bilanciamo la coalizione al centro'. E FI propone l'alleanza",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/12/rilancio-udc-bilanciamo-la-coalizione-al-centro.-e-fi-propone-lalleanza_56ae623d-bb9b-4b98-9e6a-08e900edcee7.html",
+     "data": "2026-09-12T17:03:13+00:00"
+    },
+    {
+     "titolo": "Domenica e lunedi' la camera ardente in Campidoglio per Emma Bonino",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/12/domenica-e-lunedi-la-camera-ardente-in-campidoglio-per-emma-bonino_5da22fcf-e615-4989-9cf3-ce1e7ca062f7.html",
+     "data": "2026-09-12T17:23:22+00:00"
+    },
     {
      "titolo": "Pressing della Lega su Strade sicure, la risoluzione verso la calendarizzazione",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/12/pressing-della-lega-su-strade-sicure-la-risoluzione-verso-la-calendarizzazione_a5347215-a8b9-4c73-a513-3c2a855c5719.html",
@@ -203,7 +218,7 @@
     {
      "titolo": "Tensione nel centrodestra su Strade sicure, la Lega attacca",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/12/tensione-nel-centrodestra-su-strade-sicure-la-lega-attacca_8146c0c5-8f0e-4051-b7dd-7ca70c052426.html",
-     "data": "2026-09-12T14:17:28+00:00"
+     "data": "2026-09-12T17:38:55+00:00"
     },
     {
      "titolo": "Meloni, non mi alleo con chi vota contro il sostegno all'Ucraina",
@@ -234,27 +249,17 @@
      "titolo": "Di Battista è partito da Cuba, il rientro oggi a Roma",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/12/di-battista-e-partito-da-cuba-il-rientro-oggi-a-roma_5a18ec74-acdd-477e-a806-8fe2d8382669.html",
      "data": "2026-09-12T05:28:25+00:00"
-    },
-    {
-     "titolo": "Bonino e l'allarme dopo la visita a Srebrenica: 'Qui c'è un genocidio'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/11/bonino-e-lallarme-dopo-la-visita-a-srebrenica-qui-ce-un-genocidio_d35682f7-490f-42d2-b1a0-c6bae1566e79.html",
-     "data": "2026-09-11T21:53:16+00:00"
-    },
-    {
-     "titolo": "Da Mattarella a Meloni, la politica piange la leader radicale Per lei le esequie di Stato.",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/11/da-mattarella-a-meloni-la-politica-piange-la-leader-radicale-per-lei-le-esequie-di-stato._c2113686-9771-4f65-a25d-30e9ec0987fe.html",
-     "data": "2026-09-11T18:08:52+00:00"
-    },
-    {
-     "titolo": "Aurora e Rugiada, le bimbe in affido negli anni delle lotte di Emma",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/11/aurora-e-rugiada-le-bimbe-in-affido-negli-anni-delle-lotte-di-emma_625fec82-ac83-4883-a493-7136a73c83f2.html",
-     "data": "2026-09-11T20:14:20+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Lagarde auspica una 'Europa più sovrana', fra voci di discesa in campo",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/lagarde-auspica-una-europa-piu-sovrana-fra-voci-di-discesa-in-campo_f0c3809b-145d-461d-99ba-199d436c7bac.html",
+     "data": "2026-09-12T17:01:21+00:00"
+    },
     {
      "titolo": "Compie 60 anni Zamperla, leader mondiale nelle attrazioni da parco",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/compie-60-anni-zamperla-leader-mondiale-nelle-attrazioni-da-parco_27d73fd6-1f5b-4620-b9a7-1ede97d51c1b.html",
@@ -309,17 +314,37 @@
      "titolo": "Cgia Mestre, la Pa paga più velocemente i fornitori ma aumenta il debito",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/cgia-mestre-la-pa-paga-piu-velocemente-i-fornitori-ma-aumenta-il-debito_627e809a-5075-4d18-8247-23f9fb38f450.html",
      "data": "2026-09-12T08:47:40+00:00"
-    },
-    {
-     "titolo": "Per acquisizione Bdm termine offerte a fine settembre, quattro in campo",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/per-acquisizione-bdm-termine-offerte-a-fine-settembre-quattro-in-campo_7794f8d2-fbd7-4531-be7c-4b84eaa6e110.html",
-     "data": "2026-09-12T08:45:38+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Lula, 'Bolsonaro ha trasformato un usuraio in un banchiere'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/12/lula-bolsonaro-ha-trasformato-un-usuraio-in-un-banchiere_988f89af-cfa2-4514-85bd-410685d53cb4.html",
+     "data": "2026-09-12T18:17:38+00:00"
+    },
+    {
+     "titolo": "Musk e Altman, 'Anthropic ha ragione su rallentamento sviluppo IA'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/12/musk-e-altman-anthropic-ha-ragione-su-rallentamento-sviluppo-ia_2b7a4876-6887-46b4-b049-89929f19278a.html",
+     "data": "2026-09-12T17:37:21+00:00"
+    },
+    {
+     "titolo": "Cremlino, 'impossibile un incontro tra Putin e Zelensky al G20'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/12/cremlino-impossibile-un-incontro-tra-putin-e-zelensky-al-g20_1fc445c5-7bea-4385-b334-cfa1cefd23d5.html",
+     "data": "2026-09-12T17:27:59+00:00"
+    },
+    {
+     "titolo": "Gli Houthi smentiscono di aver chiesto a Trump di non intervenire",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/12/gli-houthi-smentiscono-di-aver-chiesto-a-trump-di-non-intervenire_4212095e-ede1-4b5b-bccc-1f92e4f06dac.html",
+     "data": "2026-09-12T16:47:58+00:00"
+    },
+    {
+     "titolo": "Brasile, presidente della Corte suprema nega a Moraes giudizio congiunto con Mendonça",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/12/brasile-presidente-della-corte-suprema-nega-a-moraes-giudizio-congiunto-con_c4c6ed58-4779-4bf4-95e1-2754234a3c67.html",
+     "data": "2026-09-12T16:35:02+00:00"
+    },
     {
      "titolo": "Cremlino, 'Zelensky vuole vedere Putin? Venga lui a Mosca'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/12/cremlino-zelensky-vuole-vedere-putin-venga-lui-a-mosca_fc6af7ec-07be-48e5-95b5-865f1b9b2bcc.html",
@@ -354,31 +379,6 @@
      "titolo": "Burnham a Trump, 'Irlanda unita? Non c'è il sostegno dell'opinione pubblica'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/12/burnham-a-trump-irlanda-unita-non-ce-il-sostegno-dellopinione-pubblica_9fc113d8-8ffc-4433-806f-e71d77e085e4.html",
      "data": "2026-09-12T12:13:12+00:00"
-    },
-    {
-     "titolo": "Xi, 'Paesi Brics dovrebbero opporsi a dazi arbitrari e protezionismo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/12/xi-paesi-brics-dovrebbero-opporsi-a-dazi-arbitrari-e-protezionismo_bf7e7fe3-2e08-4e75-a22a-6b49fce302ad.html",
-     "data": "2026-09-12T11:31:38+00:00"
-    },
-    {
-     "titolo": "Trump, gli Houthi ci hanno chiesto di non intervenire contro di loro",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/12/trump-gli-houthi-ci-hanno-chiesto-di-non-intervenire-contro-di-loro_4beedb80-a2fa-4f6d-9540-30519dec6794.html",
-     "data": "2026-09-12T10:40:00+00:00"
-    },
-    {
-     "titolo": "Navalnaya, 'dalla Crimea in poi Ue troppo debole sulle sanzioni contro Mosca'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/12/navalnaya-dalla-crimea-in-poi-ue-troppo-debole-sulle-sanzioni-contro-mosca_8fbd1f6a-14cf-463c-a80c-25edd42e910e.html",
-     "data": "2026-09-12T10:38:04+00:00"
-    },
-    {
-     "titolo": "Trump, un'Irlanda unita sarebbe fantastica",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/12/trump-unirlanda-unita-sarebbe-fantastica_2dde4701-a344-41c2-b3c3-05ae96ec87e9.html",
-     "data": "2026-09-12T10:35:42+00:00"
-    },
-    {
-     "titolo": "Mosca, non ancora discussa eventuale partecipazione di Putin al G20",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/12/mosca-non-ancora-discussa-eventuale-partecipazione-di-putin-al-g20_d5dcd122-d124-4664-975c-b331b01c2915.html",
-     "data": "2026-09-12T09:40:17+00:00"
     }
    ]
   },
@@ -451,9 +451,49 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "La Lazio vola, Moreira entra e con una doppietta salva il Milan",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/12/la-lazio-vola-moreira-entra-e-con-una-doppietta-salva-il-milan_20323196-c73f-47c0-b754-0593cb6a2a39.html",
+     "data": "2026-09-12T18:08:01+00:00"
+    },
+    {
+     "titolo": "'A Fil di Spada' celebra la scherma inclusiva nel cuore di Roma",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/12/a-fil-di-spada-celebra-la-scherma-inclusiva-nel-cuore-di-roma_2327f2de-ca9b-4115-b222-1d1a54ae2af1.html",
+     "data": "2026-09-12T17:48:13+00:00"
+    },
+    {
+     "titolo": "Auto: la 11^ Monte Erice Storica scalda i motori",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/12/auto-la-11-monte-erice-storica-scalda-i-motori_d030adc8-c8a9-4c4e-ae76-81466400c9a3.html",
+     "data": "2026-09-12T17:34:47+00:00"
+    },
+    {
+     "titolo": "Genoa: El Shaarawy, è stata un'emozione speciale",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/12/genoa-el-shaarawy-e-stata-unemozione-speciale_c158bf72-9bc2-4359-805e-89371b45b501.html",
+     "data": "2026-09-12T17:29:51+00:00"
+    },
+    {
+     "titolo": "Genoa: De Rossi 'gli episodi non ci sono girati a favore'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/12/genoa-de-rossi-gli-episodi-non-ci-sono-girati-a-favore_adfb76bc-43d0-4409-9cb4-555f0cb7767c.html",
+     "data": "2026-09-12T16:55:16+00:00"
+    },
+    {
+     "titolo": "Frosinone: Alvini 'pareggio alla fine giusto, ma potevamo vincerla'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/12/frosinone-alvini-pareggio-alla-fine-giusto-ma-potevamo-vincerla_28a5d765-ba47-4e7c-b37d-8088af9442fb.html",
+     "data": "2026-09-12T16:48:04+00:00"
+    },
+    {
+     "titolo": "Ciclismo: Izaguirre vince il Memorial Pantani a Cesenatico",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/12/ciclismo-izaguirre-vince-il-memorial-pantani-a-cesenatico_c7168876-0760-4b99-bfd2-68483c057ddb.html",
+     "data": "2026-09-12T16:31:20+00:00"
+    },
+    {
+     "titolo": "Vuelta: per Landa fuga e vittoria, Mas ad un passo dal successo",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/12/vuelta-per-landa-fuga-e-vittoria-mas-ad-un-passo-dal-successo_6eafe3fb-6d9e-4091-9023-5b0a3149eec3.html",
+     "data": "2026-09-12T16:28:32+00:00"
+    },
+    {
      "titolo": "Mondiali donne U20: 1-1 col Giappone, Italia agli ottavi da prima del girone",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/12/mondiali-donne-u20-1-1-col-giappone-italia-agli-ottavi-da-prima-del_17968d70-2ff3-4d0e-835c-c30a9d9d8b10.html",
-     "data": "2026-09-12T16:09:25+00:00"
+     "data": "2026-09-12T16:22:10+00:00"
     },
     {
      "titolo": "Auto: Villorba Corse in pole con Lamborghini nel GT Open",
@@ -469,46 +509,6 @@
      "titolo": "Tennis & Friends, a Torino tre giorni all'insegna di salute e sport",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/12/tennis-friends-a-torino-tre-giorni-allinsegna-di-salute-e-sport_5743ce18-3aae-4d77-b689-e553358fb934.html",
      "data": "2026-09-12T15:22:37+00:00"
-    },
-    {
-     "titolo": "Gp Spagna: Antonelli \"provato di tutto per la pole, cercherò di fare di più in gara'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/12/gp-spagna-antonelli-provato-di-tutto-per-la-pole-cerchero-di-fare-di-piu-in-gara_24ed107d-7ca7-4a59-8c6d-e31a43db5e7b.html",
-     "data": "2026-09-12T15:20:58+00:00"
-    },
-    {
-     "titolo": "Genoa-Frosinone 1-1, primo punto per De Rossi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/12/genoa-frosinone-1-1-primo-punto-per-de-rossi_34877907-4f74-446d-b6cf-29ccb6aba708.html",
-     "data": "2026-09-12T15:19:50+00:00"
-    },
-    {
-     "titolo": "F1: Norris in pole position a Madrid, Antonelli in prima fila",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/12/f1-norris-in-pole-position-a-madrid-antonelli-in-prima-fila_8e6aaa3a-d88e-40ff-b64f-d0e3212e16ec.html",
-     "data": "2026-09-12T15:28:46+00:00"
-    },
-    {
-     "titolo": "F1: Norris in pole a Madrid, secondo Antonelli",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/12/f1-norris-in-pole-a-madrid-secondo-antonelli_4ec04da6-403f-49da-b23b-c898bc44a1fe.html",
-     "data": "2026-09-12T15:04:35+00:00"
-    },
-    {
-     "titolo": "Juve: Spalletti 'tanti infortuni? Ho due forti in ogni ruolo'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/12/juve-spalletti-tanti-infortuni-ho-due-forti-in-ogni-ruolo_59789ae5-9828-4458-9b0a-32e2fed021dd.html",
-     "data": "2026-09-12T14:40:41+00:00"
-    },
-    {
-     "titolo": "Juve: Spalletti, 'Kolo Muani ha voglia di determinare'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/12/juve-spalletti-kolo-muani-ha-voglia-di-determinare_6ff0accd-d46a-49b1-b42d-8f275a4bb491.html",
-     "data": "2026-09-12T14:23:48+00:00"
-    },
-    {
-     "titolo": "Juve: Spalletti, 'assenza Locatelli responsabilizza tutti'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/12/juve-spalletti-assenza-locatelli-responsabilizza-tutti_370a59c3-8611-4f95-be94-9971d5c9df05.html",
-     "data": "2026-09-12T14:15:16+00:00"
-    },
-    {
-     "titolo": "Il centro sportivo 'Alex Zanardi', Abodi 'i suoi valori sempre con noi'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/12/il-centro-sportivo-alex-zanardi-abodi-i-suoi-valori-sempre-con-noi_75697317-d25e-44c5-b78a-bea83d1aff27.html",
-     "data": "2026-09-12T14:14:26+00:00"
     }
    ]
   }
