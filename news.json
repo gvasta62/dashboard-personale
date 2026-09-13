@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-13T21:09:49.536929+00:00",
+ "aggiornato": "2026-09-13T23:14:27.928419+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Leader opposizione Svezia, 'pronti a governare, attendiamo risultato finale'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/leader-opposizione-svezia-pronti-a-governare-attendiamo-risultato-finale_4f2cd963-e994-4b68-b5b7-7d38696c9bdc.html",
+     "data": "2026-09-13T22:31:41+00:00"
+    },
+    {
+     "titolo": "Ministro della Difesa argentino apre alla mediazione di Trump sulle Falkland-Malvinas",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/ministro-della-difesa-argentino-apre-alla-mediazione-di-trump-sulle-falkland_78276ed7-364d-4257-b0a7-a96cd78c9f88.html",
+     "data": "2026-09-13T22:05:31+00:00"
+    },
     {
      "titolo": "Svezia, a metà dello spoglio si riduce la forchetta fra i due blocchi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/svezia-a-meta-dello-spoglio-si-riduce-la-forchetta-fra-i-due-blocchi_5aa893c1-ddf8-45dc-9ebd-1e1ed873a2a9.html",
@@ -44,16 +54,6 @@
      "titolo": "Vannacci, puntiamo a fare meglio dell'Afd in Sassonia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/vannacci-puntiamo-a-fare-meglio-dellafd-in-sassonia_64f6cee6-94d8-4623-b5a1-a0bd8ff5e215.html",
      "data": "2026-09-13T18:09:16+00:00"
-    },
-    {
-     "titolo": "Lega, sarà Pontida di battaglia con slogan 'Non passa lo straniero'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/lega-sara-pontida-di-battaglia-con-slogan-non-passa-lo-straniero_ff9f4002-0b75-4e36-bd06-d56b7e46c156.html",
-     "data": "2026-09-13T18:02:49+00:00"
-    },
-    {
-     "titolo": "Schlein, noi pronti per il voto, prima è meglio è",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/schlein-noi-pronti-per-il-voto-prima-e-meglio-e_63faa1cb-4676-4767-b551-21a355cbcde7.html",
-     "data": "2026-09-13T17:58:44+00:00"
     }
    ]
   },
@@ -296,6 +296,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Leader opposizione Svezia, 'pronti a governare, attendiamo risultato finale'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/leader-opposizione-svezia-pronti-a-governare-attendiamo-risultato-finale_942638ca-fb04-40e7-92c3-260c835b1f24.html",
+     "data": "2026-09-13T22:31:44+00:00"
+    },
+    {
+     "titolo": "Brasile, autorità elettorale nega a Transparencia Electoral l'accredito",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/brasile-autorita-elettorale-nega-a-transparencia-electoral-laccredito_f5ec362c-c7b4-46ed-9a69-c1e54728cec3.html",
+     "data": "2026-09-13T22:14:59+00:00"
+    },
+    {
+     "titolo": "Ministro della Difesa argentino apre alla mediazione di Trump sulle Falkland-Malvinas",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/ministro-della-difesa-argentino-apre-alla-mediazione-di-trump-sulle-falkland_04bff6b9-fc97-4898-83d3-14d5ac610d7b.html",
+     "data": "2026-09-13T22:05:50+00:00"
+    },
+    {
      "titolo": "Svezia, a metà dello spoglio si riduce la forchetta fra i due blocchi",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/13/svezia-a-meta-dello-spoglio-si-riduce-la-forchetta-fra-i-due-blocchi_8dbb4843-cdb4-4ea5-a58f-68138efee51e.html",
      "data": "2026-09-13T20:54:01+00:00"
@@ -339,21 +354,6 @@
      "titolo": "Messico, 10 uccisi in un solo giorno in Sinaloa alla vigilia della marcia per la pace",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/13/messico-10-uccisi-in-un-solo-giorno-in-sinaloa-alla-vigilia-della-marcia-per_82721a35-37d7-4e3c-bd51-7612268d6d33.html",
      "data": "2026-09-13T16:34:21+00:00"
-    },
-    {
-     "titolo": "Marine Le Pen, 'le presidenziali sono una battaglia contro le forze del declino'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/13/marine-le-pen-le-presidenziali-sono-una-battaglia-contro-le-forze-del-declino_60c08010-29a2-4160-aef0-a390dd3e5eb5.html",
-     "data": "2026-09-13T15:29:14+00:00"
-    },
-    {
-     "titolo": "Attacco al confine ucraino, Varsavia denuncia l'escalation russa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/13/attacco-al-confine-ucraino-varsavia-denuncia-lescalation-russa_c38b18ce-af30-47b5-8391-9fc7512e05dd.html",
-     "data": "2026-09-13T15:11:27+00:00"
-    },
-    {
-     "titolo": "Cuba, Harvard propone una transizione che coinvolga anche il governo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/13/cuba-harvard-propone-una-transizione-che-coinvolga-anche-il-governo_70b372de-3567-4b07-b990-e85760cf1bc9.html",
-     "data": "2026-09-13T15:04:41+00:00"
     }
    ]
   },
@@ -426,6 +426,31 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Tennis, Zverev batte Shelton e vince gli US Open",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/14/tennis-zverev-batte-shelton-e-vince-lo-us-open_9a895769-5146-4e42-84cf-b6e252fab16a.html",
+     "data": "2026-09-13T22:41:58+00:00"
+    },
+    {
+     "titolo": "Eurovolley: l'Italia batte anche la Slovacchia ed é negli ottavi",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/13/eurovolley-litalia-batte-anche-la-slovacchia-ed-e-negli-ottavi_c3b3fbc4-dbf7-4a9a-be3d-b57700f7348a.html",
+     "data": "2026-09-13T21:45:29+00:00"
+    },
+    {
+     "titolo": "Ginnastica ritmica: sorpresa Maccarani, allenerà la Russia",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/13/ginnastica-ritmica-sorpresa-maccarani-allenera-la-russia_0e4259b9-cf98-486d-be2b-00aa9caff8b6.html",
+     "data": "2026-09-13T21:30:00+00:00"
+    },
+    {
+     "titolo": "Serie A: prima vittoria di Allegri al Maradona, con il Bologna decide Lobotka",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/serie-a-prima-vittoria-di-allegri-al-maradona-con-il-bologna-decide-lobotka_bcd53161-3f50-424b-af98-553e405af5c7.html",
+     "data": "2026-09-13T21:17:12+00:00"
+    },
+    {
+     "titolo": "Europei: Italia-Slovacchia 3-1",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/13/europei-italia-slovacchia-3-1_bb154db9-5848-4a09-af2f-acc8954a1204.html",
+     "data": "2026-09-13T21:18:59+00:00"
+    },
+    {
      "titolo": "Il Sassuolo ferma la Juventus 3-2, la decide al 94' l'ex bianconero Adzic",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/il-sassuolo-ferma-la-juventus-3-2-la-decide-al-94-lex-bianconero-adzic_77d77b51-a9f5-4bfe-9bd9-84b786d882f9.html",
      "data": "2026-09-13T21:03:33+00:00"
@@ -433,12 +458,12 @@
     {
      "titolo": "Serie A: Juventus ko con il Sassuolo, il Napoli riparte con Lobotka",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/13/serie-a-juventus-ko-con-il-sassuolo-il-napoli-riparte-con-lobotka_d6d59a7d-644d-46a8-a2c8-a5d8a6cb5b8c.html",
-     "data": "2026-09-13T21:03:55+00:00"
+     "data": "2026-09-13T21:20:07+00:00"
     },
     {
-     "titolo": "Serie A: il Sassuolo batte la Juve 3-2",
+     "titolo": "Serie A: alla Juventus non basta la doppietta di Zhegrova, ko con il Sassuolo",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/serie-a-in-campo-sassuolo-juventus-3-2-diretta_48fdc61e-1f1c-41f6-975e-ca747d608379.html",
-     "data": "2026-09-13T20:42:48+00:00"
+     "data": "2026-09-13T21:15:30+00:00"
     },
     {
      "titolo": "Mondiali basket: Francia ko in finale, quinto titolo di fila per le statunitensi",
@@ -459,31 +484,6 @@
      "titolo": "Serie A: Tarozzi, 'siamo sulla strada buona, dobbiamo trovare equilibrio'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/serie-a-tarozzi-siamo-sulla-strada-buona-dobbiamo-trovare-equilibrio_756229ac-0530-4c53-89e4-feb1469efadc.html",
      "data": "2026-09-13T19:15:19+00:00"
-    },
-    {
-     "titolo": "Atletica: Ultimate Championship, primato italiano di Pernici sugli 800 m",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/13/atletica-ultimate-championship-primato-italiano-di-pernici-sugli-800-m_8b38742e-f164-4f22-ada8-f24b0dafe0b7.html",
-     "data": "2026-09-13T19:14:56+00:00"
-    },
-    {
-     "titolo": "Calcio: Allegri 'oggi non era facile, i ragazzi hanno fatto una buona partita'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/calcio-allegri-oggi-non-era-facile-i-ragazzi-hanno-fatto-una_d695cdda-d497-417f-9efe-3eb13f07452c.html",
-     "data": "2026-09-13T19:04:56+00:00"
-    },
-    {
-     "titolo": "Atletica: Ultimate Championship, Tamberi vince nell'alto con la misura di 2,37",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/13/atletica-ultimate-championship-tamberi-vince-nellalto-con-la-misura-di-237_11e17357-2824-4e46-96bc-66ef676fd31b.html",
-     "data": "2026-09-13T18:42:10+00:00"
-    },
-    {
-     "titolo": "Serie A: prima vittoria di Allegri al Maradona, con il Bologna decide Lobotka",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/serie-a-prima-vittoria-di-allegri-al-maradona-con-il-bologna-decide-lobotka_bcd53161-3f50-424b-af98-553e405af5c7.html",
-     "data": "2026-09-13T18:39:53+00:00"
-    },
-    {
-     "titolo": "F1: Antonelli vola anche a Madrid e allunga per il Mondiale",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/13/f1-antonelli-vola-anche-a-madrid-e-allunga-per-il-mondiale_41f6549b-d709-404c-8233-846ee8a569b3.html",
-     "data": "2026-09-13T18:11:51+00:00"
     }
    ]
   }
