@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-09-13T18:51:40.032121+00:00",
+ "aggiornato": "2026-09-13T21:09:49.536929+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Svezia, a metà dello spoglio si riduce la forchetta fra i due blocchi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/svezia-a-meta-dello-spoglio-si-riduce-la-forchetta-fra-i-due-blocchi_5aa893c1-ddf8-45dc-9ebd-1e1ed873a2a9.html",
+     "data": "2026-09-13T20:53:57+00:00"
+    },
+    {
+     "titolo": "Oman, 'annullato incontro previsto per domani tra i Paesi del Golfo e l'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/oman-annullato-incontro-previsto-per-domani-tra-i-paesi-del-golfo_39eb88e6-d54b-4c93-bf1b-209c1c524c83.html",
+     "data": "2026-09-13T19:31:50+00:00"
+    },
+    {
+     "titolo": "Oman, 'annullato incontro previsto per domani tra i Paesi del Golfo e l'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/oman-annullato-incontro-previsto-per-domani-tra-i-paesi-del-golfo_0d782ad0-9a81-4bb0-8d5b-8a4ec8c6ae47.html",
+     "data": "2026-09-13T19:28:59+00:00"
+    },
     {
      "titolo": "Ben Gvir contro i registi di Naza, 'siete una vergogna, andatevene'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/ben-gvir-contro-i-registi-di-naza-siete-una-vergogna-andatevene_afe01bfa-fbde-4f7f-827f-d58de52555fa.html",
@@ -39,21 +54,6 @@
      "titolo": "Schlein, noi pronti per il voto, prima è meglio è",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/schlein-noi-pronti-per-il-voto-prima-e-meglio-e_63faa1cb-4676-4767-b551-21a355cbcde7.html",
      "data": "2026-09-13T17:58:44+00:00"
-    },
-    {
-     "titolo": "Fonti italiane, fermato e non evacuato il treno su cui viaggiava Fabrizio Saggio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/fonti-italiane-fermato-e-non-evacuato-il-treno-su-cui-viaggiava-fabrizio-saggio_479d8b3f-7be6-49a1-aa73-36cad90894cd.html",
-     "data": "2026-09-13T17:35:27+00:00"
-    },
-    {
-     "titolo": "Tusk, 'l'escalation delle azioni russe sta diventando realtà'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/tusk-lescalation-delle-azioni-russe-sta-diventando-realta_fc496489-133b-403b-956b-3438e4e05a7d.html",
-     "data": "2026-09-13T17:35:52+00:00"
-    },
-    {
-     "titolo": "Messico, 10 uccisi in un solo giorno in Sinaloa alla vigilia della marcia per la pace",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/messico-10-uccisi-in-un-solo-giorno-in-sinaloa-alla-vigilia-della-marcia-per_6953ba60-806b-456f-b61f-b76e0fbd5ab3.html",
-     "data": "2026-09-13T16:34:15+00:00"
     }
    ]
   },
@@ -126,14 +126,29 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Scontro in laguna a Venezia, lei dispersa e il marito in fin di vita",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/13/scontro-in-laguna-a-venezia-lei-dispersa-e-il-marito-in-fin-di-vita_d6d490b3-4021-4671-904b-7ff93dc695c3.html",
-     "data": "2026-09-13T18:45:06+00:00"
+     "titolo": "Scontro in laguna a Venezia, lui muore e la moglie è dispersa",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/13/scontro-in-laguna-a-venezia-lui-muore-e-la-moglie-e-dispersa_d6d490b3-4021-4671-904b-7ff93dc695c3.html",
+     "data": "2026-09-13T20:07:56+00:00"
+    },
+    {
+     "titolo": "Incidente a Venezia, morto il pescatore 25enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/13/incidente-a-venezia-morto-il-pescatore-25enne_ff72bee5-1a93-4336-8a84-7f4abb2e5527.html",
+     "data": "2026-09-13T20:02:00+00:00"
+    },
+    {
+     "titolo": "I ragazzi di Crans tornano a scuola, 'altro passo verso normalità'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/13/i-ragazzi-di-crans-tornano-a-scuola-altro-passo-verso-normalita_74c3e9a9-3bf2-4936-b110-ce6155dc4bec.html",
+     "data": "2026-09-13T19:35:50+00:00"
     },
     {
      "titolo": "Ranucci: 'Mai avuto interessi negli affari di Lavitola'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/13/ranucci-mai-avuto-interessi-negli-affari-di-lavitola_eb267c22-1883-4975-92be-6c89aebe7f66.html",
      "data": "2026-09-13T18:27:24+00:00"
+    },
+    {
+     "titolo": "Gualtieri a sorpresa sul palco con Jovanotti per un duetto a Circo Massimo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/13/gualtieri-a-sorpresa-sul-palco-con-jovanotti-per-un-duetto-a-circo-massimo_441247a0-860a-4f0e-80fe-ebe1f73a1382.html",
+     "data": "2026-09-13T19:50:20+00:00"
     },
     {
      "titolo": "Attivisti di Avs picchiati a Venezia, verso il Daspo per gli influencer",
@@ -169,21 +184,6 @@
      "titolo": "Incidente e alcol test positivo, via la patente a Daniel Maldini",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/13/daniel-maldini-positivo-alletilometro-ritirata-la-patente-dopo-lincidente_2e4676f0-e731-4b9a-8e1c-062d050d418d.html",
      "data": "2026-09-13T18:32:09+00:00"
-    },
-    {
-     "titolo": "Soffoca l'anziana suocera con una busta, arrestato settantenne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/13/omicidio-nel-padovano-un-uomo-soffoca-la-suocera_3e7271ff-1d59-4f33-be2d-eb631d558d83.html",
-     "data": "2026-09-13T18:04:14+00:00"
-    },
-    {
-     "titolo": "La famiglia di Domenico: 'Si proceda per omicidio volontario'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/13/la-famiglia-di-domenico-si-proceda-per-omicidio-volontario_d237c5d8-c9de-4b05-be8c-2a4785f3104d.html",
-     "data": "2026-09-13T15:17:00+00:00"
-    },
-    {
-     "titolo": "Vasto incendio a Positano provoca una frana, senso unico alternato sulla statale Amalfitana",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/13/vasto-incendio-a-positano-provoca-una-frana-senso-unico-alternato-sulla_c98c50df-3488-4290-a821-ee9750cad184.html",
-     "data": "2026-09-13T14:15:11+00:00"
     }
    ]
   },
@@ -191,9 +191,14 @@
    "nome": "Politica",
    "voci": [
     {
-     "titolo": "Schlein: 'Noi pronti per il voto, prima è meglio è. Se faremo le primarie le vinceremo'",
+     "titolo": "La Lega incalza sui soldati in strada. Crosetto frena: 'Meglio una legge di riordino'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/13/la-lega-incalza-sui-soldati-in-strada.-crosetto-frena-meglio-una-legge_f0929700-793f-4cc3-94b6-cb4ebd6056af.html",
+     "data": "2026-09-13T18:53:04+00:00"
+    },
+    {
+     "titolo": "La sfida di Schlein: 'Vinciamo le primarie e al voto prima possibile'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/13/schlein-noi-pronti-per-il-voto-prima-e-meglio-e.-se-faremo-le-primarie-le-vinceremo_e7972103-a0cf-45f2-a74a-72157aa676f0.html",
-     "data": "2026-09-13T18:48:43+00:00"
+     "data": "2026-09-13T19:35:02+00:00"
     },
     {
      "titolo": "Centinaia di cittadini rendono omaggio ad Emma Bonino in Campidoglio",
@@ -228,7 +233,7 @@
     {
      "titolo": "In Campidoglio bagno di folla e omaggio della politica per Bonino",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/13/centinaia-di-cittadini-alla-camera-ardente-di-emma-bonino-in-campidoglio_9d72eb46-4861-4015-a756-9decb510740e.html",
-     "data": "2026-09-13T17:51:19+00:00"
+     "data": "2026-09-13T19:06:16+00:00"
     },
     {
      "titolo": "Prima notte al Gemelli per Di Battista. 'È l'ora della privacy'",
@@ -244,11 +249,6 @@
      "titolo": "Crosetto: 'Più militari in strada non sia solo estetica, serve un riordino'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/13/crosetto-piu-militari-in-strada-non-sia-solo-estetica-serve-un-riordino_b56dc9b3-11b5-4368-85d8-53a16ff90a22.html",
      "data": "2026-09-13T14:43:48+00:00"
-    },
-    {
-     "titolo": "Lega: sarà Pontida di battaglia con lo slogan 'Non passa lo straniero'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/13/lega-sara-pontida-di-battaglia-con-lo-slogan-non-passa-lo-straniero_f0929700-793f-4cc3-94b6-cb4ebd6056af.html",
-     "data": "2026-09-13T13:19:14+00:00"
     }
    ]
   },
@@ -258,7 +258,7 @@
     {
      "titolo": "Il governo punta su ceto medio e giovani, l'ecobonus sale al 65%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/il-governo-punta-su-ceto-medio-e-giovani-lecobonus-sale-al-65_e126b138-8e64-45fd-a13e-94588b25e07e.html",
-     "data": "2026-09-13T16:59:44+00:00"
+     "data": "2026-09-13T19:14:23+00:00"
     },
     {
      "titolo": "Il rischio Ia sulle banche, cda al lavoro per piani di azione",
@@ -295,6 +295,21 @@
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Svezia, a metà dello spoglio si riduce la forchetta fra i due blocchi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/13/svezia-a-meta-dello-spoglio-si-riduce-la-forchetta-fra-i-due-blocchi_8dbb4843-cdb4-4ea5-a58f-68138efee51e.html",
+     "data": "2026-09-13T20:54:01+00:00"
+    },
+    {
+     "titolo": "Oman, 'annullato incontro previsto per domani tra i Paesi del Golfo e l'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/13/oman-annullato-incontro-previsto-per-domani-tra-i-paesi-del-golfo_a205a6e5-850d-4f04-8cb0-86fc26966948.html",
+     "data": "2026-09-13T19:32:06+00:00"
+    },
+    {
+     "titolo": "Oman, 'annullato incontro previsto per domani tra i Paesi del Golfo e l'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/13/oman-annullato-incontro-previsto-per-domani-tra-i-paesi-del-golfo_97ef7619-0efb-4ae3-a0e6-b4c9716df4ac.html",
+     "data": "2026-09-13T19:28:57+00:00"
+    },
     {
      "titolo": "Ben Gvir contro i registi di Naza, 'siete una vergogna, andatevene'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/13/ben-gvir-contro-i-registi-di-naza-siete-una-vergogna-andatevene_2193377f-7cc9-4286-a50a-1faa7fc607b2.html",
@@ -339,21 +354,6 @@
      "titolo": "Cuba, Harvard propone una transizione che coinvolga anche il governo",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/13/cuba-harvard-propone-una-transizione-che-coinvolga-anche-il-governo_70b372de-3567-4b07-b990-e85760cf1bc9.html",
      "data": "2026-09-13T15:04:41+00:00"
-    },
-    {
-     "titolo": "'Le mie piastrelle per mare da mesi, in balia della crisi a Hormuz'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/13/le-mie-piastrelle-per-mare-da-mesi-in-balia-della-crisi-a-hormuz_23d30a32-9370-4cda-a919-70968c29f4b4.html",
-     "data": "2026-09-13T14:48:26+00:00"
-    },
-    {
-     "titolo": "Messico, 'figli dei narcos studiano nelle scuole d'élite degli Usa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/13/messico-figli-dei-narcos-studiano-nelle-scuole-delite-degli-usa_e4211304-9821-43d2-b903-48b4734e9f1b.html",
-     "data": "2026-09-13T14:24:42+00:00"
-    },
-    {
-     "titolo": "Trump, 'forze negative vogliono rallentare l'IA'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/13/trump-forze-negative-vogliono-rallentare-lia_84674185-1af2-48b3-a9bd-ae2af3fb8378.html",
-     "data": "2026-09-13T14:16:10+00:00"
     }
    ]
   },
@@ -426,9 +426,49 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Serie A: in campo Sassuolo-Juventus DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/serie-a-in-campo-sassuolo-juventus-diretta_48fdc61e-1f1c-41f6-975e-ca747d608379.html",
-     "data": "2026-09-13T18:48:54+00:00"
+     "titolo": "Il Sassuolo ferma la Juventus 3-2, la decide al 94' l'ex bianconero Adzic",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/il-sassuolo-ferma-la-juventus-3-2-la-decide-al-94-lex-bianconero-adzic_77d77b51-a9f5-4bfe-9bd9-84b786d882f9.html",
+     "data": "2026-09-13T21:03:33+00:00"
+    },
+    {
+     "titolo": "Serie A: Juventus ko con il Sassuolo, il Napoli riparte con Lobotka",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/13/serie-a-juventus-ko-con-il-sassuolo-il-napoli-riparte-con-lobotka_d6d59a7d-644d-46a8-a2c8-a5d8a6cb5b8c.html",
+     "data": "2026-09-13T21:03:55+00:00"
+    },
+    {
+     "titolo": "Serie A: il Sassuolo batte la Juve 3-2",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/serie-a-in-campo-sassuolo-juventus-3-2-diretta_48fdc61e-1f1c-41f6-975e-ca747d608379.html",
+     "data": "2026-09-13T20:42:48+00:00"
+    },
+    {
+     "titolo": "Mondiali basket: Francia ko in finale, quinto titolo di fila per le statunitensi",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/13/mondiali-basket-francia-ko-in-finale-quinto-titolo-di-fila-per-le-statunitensi_33546d7b-9d30-4f02-8f5b-d6647ab59c03.html",
+     "data": "2026-09-13T19:55:28+00:00"
+    },
+    {
+     "titolo": "Del Toro batte nel finale Seixas e fa suo il Gp Montreal",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/13/del-toro-batte-nel-finale-seixas-e-fa-suo-il-gp-montreal_3df72b46-f522-4abb-9714-89e95ff12b4d.html",
+     "data": "2026-09-13T19:43:38+00:00"
+    },
+    {
+     "titolo": "Judo: Pirelli oro anche nel Grand Slam di Budapest",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/13/judo-pirelli-oro-anche-nel-grand-slam-di-budapest_ba50cb85-2f66-4044-9f15-78f2f1d8a9e0.html",
+     "data": "2026-09-13T19:33:15+00:00"
+    },
+    {
+     "titolo": "Serie A: Tarozzi, 'siamo sulla strada buona, dobbiamo trovare equilibrio'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/serie-a-tarozzi-siamo-sulla-strada-buona-dobbiamo-trovare-equilibrio_756229ac-0530-4c53-89e4-feb1469efadc.html",
+     "data": "2026-09-13T19:15:19+00:00"
+    },
+    {
+     "titolo": "Atletica: Ultimate Championship, primato italiano di Pernici sugli 800 m",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/13/atletica-ultimate-championship-primato-italiano-di-pernici-sugli-800-m_8b38742e-f164-4f22-ada8-f24b0dafe0b7.html",
+     "data": "2026-09-13T19:14:56+00:00"
+    },
+    {
+     "titolo": "Calcio: Allegri 'oggi non era facile, i ragazzi hanno fatto una buona partita'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/calcio-allegri-oggi-non-era-facile-i-ragazzi-hanno-fatto-una_d695cdda-d497-417f-9efe-3eb13f07452c.html",
+     "data": "2026-09-13T19:04:56+00:00"
     },
     {
      "titolo": "Atletica: Ultimate Championship, Tamberi vince nell'alto con la misura di 2,37",
@@ -444,46 +484,6 @@
      "titolo": "F1: Antonelli vola anche a Madrid e allunga per il Mondiale",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/13/f1-antonelli-vola-anche-a-madrid-e-allunga-per-il-mondiale_41f6549b-d709-404c-8233-846ee8a569b3.html",
      "data": "2026-09-13T18:11:51+00:00"
-    },
-    {
-     "titolo": "Serie A: Lobotka rilancia il Napoli, Bologna battuto 1-0 al Maradona",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/serie-a-lobotka-rilancia-il-napoli-bologna-battuto-1-0-al-maradona_5a9a7158-e701-4038-89af-4a43b7df6067.html",
-     "data": "2026-09-13T17:57:03+00:00"
-    },
-    {
-     "titolo": "Vuelta: Mas trionfa a Granada, l'ultima tappa va a Johannessen",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/13/vuelta-mas-trionfa-a-granada-lultima-tappa-va-a-johannessen_579f6a74-feb5-43f6-9ce7-bfdf644c8408.html",
-     "data": "2026-09-13T17:50:14+00:00"
-    },
-    {
-     "titolo": "Premier: Haaland regala il derby di Manchester a un City in 10 uomini",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/premier-haaland-regala-il-derby-di-manchester-a-un-city-in-10-uomini_2cf4df5c-03ef-478e-aa49-929f4282cf3c.html",
-     "data": "2026-09-13T17:38:04+00:00"
-    },
-    {
-     "titolo": "Il norvegese Koller L›land vince il 78esimo Trofeo Matteotti",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/13/il-norvegese-koller-lland-vince-il-78esimo-trofeo-matteotti_7dbaf5bd-8ae5-4d6b-bb7c-b3270f251d85.html",
-     "data": "2026-09-13T17:05:31+00:00"
-    },
-    {
-     "titolo": "Liga: altra doppietta di Yamal, il Barcellona batte il Levante 4-2",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/liga-altra-doppietta-di-yamal-il-barcellona-batte-il-levante-4-2_b65d77ad-7ad1-487f-8c1b-1be1a536a34c.html",
-     "data": "2026-09-13T17:38:52+00:00"
-    },
-    {
-     "titolo": "F1: Leclerc, 'portato a casa il miglior risultato possibile'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/13/f1-leclerc-portato-a-casa-il-miglior-risultato-possibile_c98ad534-c1a5-4e0b-a3e5-c6a09cfd5479.html",
-     "data": "2026-09-13T16:57:10+00:00"
-    },
-    {
-     "titolo": "Serie A: Skorupski fa tardi alla riunione, in panchina per punizione",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/13/serie-a-skorupski-fa-tardi-alla-riunione-in-panchina-per-punizione_07bac3bf-61b2-4d3a-95b4-889c8216dddd.html",
-     "data": "2026-09-13T15:57:06+00:00"
-    },
-    {
-     "titolo": "F1: La Russa (Aci), Kimi continua a scrivere storia, la \"prima\" a Madrid parla italiano",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/13/f1-la-russa-aci-kimi-continua-a-scrivere-storia-la-prima-a-madrid-parla-italiano_a4b5fa1d-089d-484e-b6dc-133c7552a0ad.html",
-     "data": "2026-09-13T15:55:17+00:00"
     }
    ]
   }
