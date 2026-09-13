@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-12T23:05:43.435993+00:00",
+ "aggiornato": "2026-09-13T01:11:17.745622+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Altman: 'Ipo OpenAI nel 2027, ci concentreremo sulla sicurezza'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/altman-ipo-openai-nel-2027-ci-concentreremo-sulla-sicurezza_ec52fea7-3191-4d88-a9e8-de26c13c7969.html",
+     "data": "2026-09-13T00:36:39+00:00"
+    },
+    {
+     "titolo": "Us Open: Rybakina batte Sabalenka in tre set e vince il titolo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/us-open-rybakina-batte-sabalenka-in-tre-set-e-vince-il-titolo_c2da1738-ef75-4f5b-85a8-8b62edab931c.html",
+     "data": "2026-09-12T23:12:04+00:00"
+    },
     {
      "titolo": "Houthi, 'colpita una base militare saudita con missili balistici e droni'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/houthi-colpita-una-base-militare-saudita-con-missili-balistici-e-droni_c91f4a33-e057-4f41-80ec-7ca1f2065ef3.html",
@@ -44,16 +54,6 @@
      "titolo": "A Venezia l'Italia resta fuori dai premi del Concorso ufficiale",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/a-venezia-litalia-resta-fuori-dai-premi-del-concorso-ufficiale_1501465c-e947-4f7e-9f9d-72b2fd44b7eb.html",
      "data": "2026-09-12T18:57:16+00:00"
-    },
-    {
-     "titolo": "Il Leone d'oro per il miglior film va a Woman Unknown",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/il-leone-doro-per-il-miglior-film-va-a-woman-unknown_e6d0157b-6393-4cc1-8bde-ea902ffe5a8e.html",
-     "data": "2026-09-12T18:55:47+00:00"
-    },
-    {
-     "titolo": "Il regista di Naza, 'il massacro a Gaza è sistemico'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/il-regista-di-naza-il-massacro-a-gaza-e-sistemico_110fbeb9-f02c-417e-b5a8-ba1f72eef563.html",
-     "data": "2026-09-12T18:53:48+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Altman: 'Ipo OpenAI nel 2027, ci concentreremo sulla sicurezza'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/altman-ipo-openai-nel-2027-ci-concentreremo-sulla-sicurezza_36bf11fa-34ee-4a23-93fd-5b8dc38db3f4.html",
+     "data": "2026-09-13T00:36:41+00:00"
+    },
+    {
      "titolo": "Lagarde auspica una 'Europa più sovrana', fra voci di discesa in campo",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/lagarde-auspica-una-europa-piu-sovrana-fra-voci-di-discesa-in-campo_f0c3809b-145d-461d-99ba-199d436c7bac.html",
      "data": "2026-09-12T17:01:21+00:00"
@@ -309,11 +314,6 @@
      "titolo": "Pozzo (Confindustria Udine), come per il sisma in Friuli siamo a passaggio epocale",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/pozzo-confindustria-udine-come-per-il-sisma-in-friuli-siamo-a-passaggio-epocale_e2812b4e-058f-402e-9da8-e26de57dbfe7.html",
      "data": "2026-09-12T09:05:36+00:00"
-    },
-    {
-     "titolo": "Cgia Mestre, la Pa paga più velocemente i fornitori ma aumenta il debito",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/cgia-mestre-la-pa-paga-piu-velocemente-i-fornitori-ma-aumenta-il-debito_627e809a-5075-4d18-8247-23f9fb38f450.html",
-     "data": "2026-09-12T08:47:40+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Us Open: Rybakina batte Sabalenka in tre set e vince il titolo",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/13/us-open-rybakina-batte-sabalenka-in-tre-set-e-vince-il-titolo_07cb0129-cf2f-46dd-a545-79a52276b3cb.html",
+     "data": "2026-09-12T23:34:14+00:00"
+    },
+    {
      "titolo": "Europei di pallavolo: l'Italia fa il bis, battuta 3-0 anche la Grecia",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/12/europei-di-pallavolo-litalia-fa-il-bis-battuta-3-0-anche-la-grecia_4bb7506b-d69c-413b-a67b-0ebc19e10450.html",
      "data": "2026-09-12T21:40:18+00:00"
@@ -504,11 +509,6 @@
      "titolo": "La Lazio vola, Moreira entra e con una doppietta salva il Milan",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/12/la-lazio-vola-moreira-entra-e-con-una-doppietta-salva-il-milan_20323196-c73f-47c0-b754-0593cb6a2a39.html",
      "data": "2026-09-12T18:08:01+00:00"
-    },
-    {
-     "titolo": "'A Fil di Spada' celebra la scherma inclusiva nel cuore di Roma",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/12/a-fil-di-spada-celebra-la-scherma-inclusiva-nel-cuore-di-roma_2327f2de-ca9b-4115-b222-1d1a54ae2af1.html",
-     "data": "2026-09-12T17:48:13+00:00"
     }
    ]
   }
