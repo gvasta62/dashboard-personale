@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-13T01:11:17.745622+00:00",
+ "aggiornato": "2026-09-13T06:20:06.954884+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Wsj: 'Carney muove per rendere il Canada membro associato dell'Ue'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/wsj-carney-muove-per-rendere-il-canada-membro-associato-dellue_382d8844-0020-4dda-a882-9afb5f2c42cc.html",
+     "data": "2026-09-13T02:39:41+00:00"
+    },
+    {
+     "titolo": "Anthropic: 'Senza misure di sicurezza l'IA potrebbe controllare Internet in 6-12 mesi'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/anthropic-senza-misure-di-sicurezza-lia-potrebbe-controllare-internet-in-6-12-mesi_4a41fcbb-0c62-4941-92b4-bff325ae5e83.html",
+     "data": "2026-09-13T01:29:50+00:00"
+    },
     {
      "titolo": "Altman: 'Ipo OpenAI nel 2027, ci concentreremo sulla sicurezza'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/altman-ipo-openai-nel-2027-ci-concentreremo-sulla-sicurezza_ec52fea7-3191-4d88-a9e8-de26c13c7969.html",
@@ -44,16 +54,6 @@
      "titolo": "Conte, volete andare oltre o vi fermate a Renzi? Noi vogliamo vincere",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/conte-volete-andare-oltre-o-vi-fermate-a-renzi-noi-vogliamo-vincere_85bc8ade-6a35-47e7-b3bb-827b9d153d55.html",
      "data": "2026-09-12T20:05:35+00:00"
-    },
-    {
-     "titolo": "Sci: accusato malori, Sofia Goggia rientra anticipatamente dall'Argentina",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/sci-accusato-malori-sofia-goggia-rientra-anticipatamente-dallargentina_521f3e22-90bf-447a-9479-df9403e06ab5.html",
-     "data": "2026-09-12T19:53:53+00:00"
-    },
-    {
-     "titolo": "A Venezia l'Italia resta fuori dai premi del Concorso ufficiale",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/12/a-venezia-litalia-resta-fuori-dai-premi-del-concorso-ufficiale_1501465c-e947-4f7e-9f9d-72b2fd44b7eb.html",
-     "data": "2026-09-12T18:57:16+00:00"
     }
    ]
   },
@@ -321,6 +321,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Wsj: 'Carney muove per rendere il Canada membro associato dell'Ue'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/13/wsj-carney-muove-per-rendere-il-canada-membro-associato-dellue_584e6c7c-b8d8-476b-9a49-a78605e66193.html",
+     "data": "2026-09-13T02:40:00+00:00"
+    },
+    {
      "titolo": "Houthi, 'colpita una base militare saudita con missili balistici e droni'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/13/houthi-colpita-una-base-militare-saudita-con-missili-balistici-e-droni_71ed5ae4-5a31-4905-acc2-7d81e6d514a6.html",
      "data": "2026-09-12T22:21:01+00:00"
@@ -374,11 +379,6 @@
      "titolo": "Bolsonaro Jr chiese 4 volte a giudice Corte suprema di occuparsi del caso Dark Horse",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/12/bolsonaro-jr-chiese-4-volte-a-giudice-corte-suprema-di-occuparsi-del-caso-dark_e3a933eb-783b-41e8-9e4d-d4945f695c6f.html",
      "data": "2026-09-12T14:34:25+00:00"
-    },
-    {
-     "titolo": "Bolivia, l'Esercito denuncia l'ex ministro per le esplosioni nella caserma di Viacha",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/12/bolivia-lesercito-denuncia-lex-ministro-per-le-esplosioni-nella-caserma-di-viacha_c0504675-0650-4d75-a5d6-288d0377bb91.html",
-     "data": "2026-09-12T14:32:39+00:00"
     }
    ]
   },
