@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-14T01:15:15.385845+00:00",
+ "aggiornato": "2026-09-14T06:29:16.640995+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il prezzo del gas balza a circa 83 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/il-prezzo-del-gas-balza-a-circa-83-euro-al-megawattora_1157c2a0-5909-4670-8065-abfc00d7fad5.html",
+     "data": "2026-09-14T06:18:45+00:00"
+    },
     {
      "titolo": "Borsa: Tokyo, apertura in calo (-0,62%)",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/borsa-tokyo-apertura-in-calo-062_b6fd73a8-4da7-4b17-9f9b-686a0b20541e.html",
@@ -49,11 +54,6 @@
      "titolo": "Il centrosinistra di Andersson in testa in Svezia, arretra l'ultradestra",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/il-centrosinistra-di-andersson-in-testa-in-svezia-arretra-lultradestra_791f0779-b9e3-4e82-b260-b3b74ecc9122.html",
      "data": "2026-09-13T18:15:02+00:00"
-    },
-    {
-     "titolo": "Centinaia di cittadini rendono omaggio ad Emma Bonino in Campidoglio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/centinaia-di-cittadini-rendono-omaggio-ad-emma-bonino-in-campidoglio_34ff5838-3c4e-4fd2-9f4a-623e4adbf359.html",
-     "data": "2026-09-13T18:13:22+00:00"
     }
    ]
   },
@@ -256,6 +256,26 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Il prezzo del gas balza a circa 83 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/il-prezzo-del-gas-balza-a-circa-83-euro-al-megawattora_b2cec22d-3a15-46f0-8b54-117b3620fa3c.html",
+     "data": "2026-09-14T06:19:01+00:00"
+    },
+    {
+     "titolo": "Euro in calo, scambiato a 1,1568 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/euro-in-calo-scambiato-a-11568-dollari_a4db30e3-f1ae-4310-82db-6ac111ef16e7.html",
+     "data": "2026-09-14T06:00:25+00:00"
+    },
+    {
+     "titolo": "Prezzo oro in calo, Spot scambiato a 4.332 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/prezzo-oro-in-calo-spot-scambiato-a-4.332-dollari_039ed1b6-a1ca-4663-b76e-ceb76ed8670c.html",
+     "data": "2026-09-14T05:56:03+00:00"
+    },
+    {
+     "titolo": "Prezzo petrolio vola, Wti scambiato a 102,73 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/prezzo-petrolio-vola-wti-scambiato-a-10273-dollari_fbfe92eb-b8f9-49c0-9c8d-21c805f8e278.html",
+     "data": "2026-09-14T06:00:06+00:00"
+    },
+    {
      "titolo": "Borsa: Tokyo, apertura in calo (-0,62%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/borsa-tokyo-apertura-in-calo-062_143374f6-dc1f-4598-bce2-38c345c02c73.html",
      "data": "2026-09-14T00:20:24+00:00"
@@ -289,17 +309,47 @@
      "titolo": "Il governo studia nuovo ecobonus al 65% per infissi e condizionatori",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/il-governo-studia-nuovo-ecobonus-al-65-per-infissi-e-condizionatori_85047a3a-8a90-4fbf-993d-e0a519b312ec.html",
      "data": "2026-09-13T15:49:35+00:00"
-    },
-    {
-     "titolo": "Altman: 'Ipo OpenAI nel 2027, ci concentreremo sulla sicurezza'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/altman-ipo-openai-nel-2027-ci-concentreremo-sulla-sicurezza_36bf11fa-34ee-4a23-93fd-5b8dc38db3f4.html",
-     "data": "2026-09-13T06:18:45+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Cinque Paesi centroamericani celebrano l'indipendenza",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/cinque-paesi-centroamericani-celebrano-lindipendenza_f2556b1b-f508-4f1e-8451-0b7bb067afc9.html",
+     "data": "2026-09-14T04:34:29+00:00"
+    },
+    {
+     "titolo": "Guatemala, Arévalo denuncia collusioni sui blocchi stradali",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/guatemala-arevalo-denuncia-collusioni-sui-blocchi-stradali_4307f9a8-de6f-479e-a0fc-e42e71f8954d.html",
+     "data": "2026-09-14T04:28:58+00:00"
+    },
+    {
+     "titolo": "Il Messico torna a sussidiare il diesel al 100%",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/il-messico-torna-a-sussidiare-il-diesel-al-100_fd7bdc90-60e8-4ba4-9771-3dd65500024b.html",
+     "data": "2026-09-14T03:10:53+00:00"
+    },
+    {
+     "titolo": "Ai Brics Cuba chiede la piena adesione al gruppo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/ai-brics-cuba-chiede-la-piena-adesione-al-gruppo_bc7cea2f-8f3e-4cbe-aacb-a8855a2a432b.html",
+     "data": "2026-09-14T02:44:06+00:00"
+    },
+    {
+     "titolo": "Lo stato messicano di Oaxaca promuove a Roma la sua offerta turistica",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/lo-stato-messicano-di-oaxaca-promuove-a-roma-la-sua-offerta-turistica_34bd2220-500c-4672-ba98-a8a28f3bd0da.html",
+     "data": "2026-09-14T01:25:40+00:00"
+    },
+    {
+     "titolo": "Ecuador, incendi forestali minacciano case a Quito",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/ecuador-incendi-forestali-minacciano-case-a-quito_496f8258-146e-472f-820a-edfe8cd39485.html",
+     "data": "2026-09-14T01:11:23+00:00"
+    },
+    {
+     "titolo": "Brasile, nuovi fronti alla Corte suprema su Dark Horse e Banco Master",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/brasile-nuovi-fronti-alla-corte-suprema-su-dark-horse-e-banco-master_878f88f7-7d97-4316-87ad-9b0aa299a6eb.html",
+     "data": "2026-09-14T01:05:49+00:00"
+    },
     {
      "titolo": "Leader opposizione Svezia, 'pronti a governare, attendiamo risultato finale'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/leader-opposizione-svezia-pronti-a-governare-attendiamo-risultato-finale_942638ca-fb04-40e7-92c3-260c835b1f24.html",
@@ -324,41 +374,6 @@
      "titolo": "Oman, 'annullato incontro previsto per domani tra i Paesi del Golfo e l'Iran'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/13/oman-annullato-incontro-previsto-per-domani-tra-i-paesi-del-golfo_a205a6e5-850d-4f04-8cb0-86fc26966948.html",
      "data": "2026-09-13T19:32:06+00:00"
-    },
-    {
-     "titolo": "Oman, 'annullato incontro previsto per domani tra i Paesi del Golfo e l'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/13/oman-annullato-incontro-previsto-per-domani-tra-i-paesi-del-golfo_97ef7619-0efb-4ae3-a0e6-b4c9716df4ac.html",
-     "data": "2026-09-13T19:28:57+00:00"
-    },
-    {
-     "titolo": "Ben Gvir contro i registi di Naza, 'siete una vergogna, andatevene'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/13/ben-gvir-contro-i-registi-di-naza-siete-una-vergogna-andatevene_2193377f-7cc9-4286-a50a-1faa7fc607b2.html",
-     "data": "2026-09-13T18:45:20+00:00"
-    },
-    {
-     "titolo": "Il centrosinistra di Andersson in testa in Svezia, arretra l'ultradestra",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/13/il-centrosinistra-di-andersson-in-testa-in-svezia-arretra-lultradestra_ee3df416-e3b1-4af8-b988-f714c52fd9fd.html",
-     "data": "2026-09-13T18:15:02+00:00"
-    },
-    {
-     "titolo": "Fonti italiane, fermato e non evacuato il treno su cui viaggiava Fabrizio Saggio",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/13/fonti-italiane-fermato-e-non-evacuato-il-treno-su-cui-viaggiava-fabrizio-saggio_2958a8db-5347-4667-acf8-7debd4736d3e.html",
-     "data": "2026-09-13T17:35:48+00:00"
-    },
-    {
-     "titolo": "Tusk, 'l'escalation delle azioni russe sta diventando realtà'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/13/tusk-lescalation-delle-azioni-russe-sta-diventando-realta_7ca5cb64-ddda-40da-b6c6-46a4199bd296.html",
-     "data": "2026-09-13T17:36:19+00:00"
-    },
-    {
-     "titolo": "Brasile, sei boliviani morti nel crollo di un edificio in costruzione su una casa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/13/brasile-sei-boliviani-morti-nel-crollo-di-un-edificio-in-costruzione-su-una-casa_5cbcb1dd-d4b2-4cc5-a9f8-4e756bf0c6ac.html",
-     "data": "2026-09-13T17:10:18+00:00"
-    },
-    {
-     "titolo": "Messico, 10 uccisi in un solo giorno in Sinaloa alla vigilia della marcia per la pace",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/13/messico-10-uccisi-in-un-solo-giorno-in-sinaloa-alla-vigilia-della-marcia-per_82721a35-37d7-4e3c-bd51-7612268d6d33.html",
-     "data": "2026-09-13T16:34:21+00:00"
     }
    ]
   },
