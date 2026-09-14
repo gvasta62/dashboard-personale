@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-14T18:44:00.243701+00:00",
+ "aggiornato": "2026-09-14T22:09:06.218486+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media Iran, petroliera esplosa dopo la collisione con una mina",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/media-iran-petroliera-esplosa-dopo-la-collisione-con-una-mina_a7bda44a-40ae-43a8-91c9-b5118a154010.html",
+     "data": "2026-09-14T19:18:34+00:00"
+    },
+    {
+     "titolo": "Ft, un accordo sulla tregua energetica è in discussione ma Putin è riluttante",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/ft-un-accordo-sulla-tregua-energetica-e-in-discussione-ma-putin-e-riluttante_f3c65d7e-ae75-4a58-a686-18b0ca9abde1.html",
+     "data": "2026-09-14T18:56:52+00:00"
+    },
     {
      "titolo": "Trump, il petrolio crollerà con la fine della guerra in Iran, non ci vorrà molto",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/trump-il-petrolio-crollera-con-la-fine-della-guerra-in-iran-non-ci-vorra_191f9d92-5f26-4518-9feb-5bb97c88cbf4.html",
@@ -44,16 +54,6 @@
      "titolo": "Lo spread Btp-Bund chiude a 87 punti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/lo-spread-btp-bund-chiude-a-87-punti_17ec49d0-4f17-4c28-a3ad-028fce903acb.html",
      "data": "2026-09-14T15:57:56+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in calo, Ftse Mib -1,6%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/borsa-milano-chiude-in-calo-ftse-mib-16_5a0cdc56-cf13-4b3e-87b7-343caba4012e.html",
-     "data": "2026-09-14T15:55:59+00:00"
-    },
-    {
-     "titolo": "Prorogate le sanzioni a Mosca ma per soli 7 giorni, 'serve più tempo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/prorogate-le-sanzioni-a-mosca-ma-per-soli-7-giorni-serve-piu-tempo_09320898-275d-4883-8b71-7fa4ecad2d8a.html",
-     "data": "2026-09-14T15:38:22+00:00"
     }
    ]
   },
@@ -126,9 +126,19 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Spari con arma ad aria compressa al centro di Roma, ferita una donna",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/14/spari-con-arma-ad-aria-compressa-al-centro-di-roma-ferita-una-donna_980d8691-367f-4798-aeb6-f764a38ab56d.html",
+     "data": "2026-09-14T20:50:08+00:00"
+    },
+    {
+     "titolo": "Revocati i domiciliari per pr accusato di stupro a Milano, 'obbligo di dimora'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/14/revocati-i-domiciliari-per-pr-accusato-di-stupro-a-milano-obbligo-di-dimora_56882b07-17fc-4e68-847d-9915f0d05ca8.html",
+     "data": "2026-09-14T20:08:16+00:00"
+    },
+    {
      "titolo": "Stalking ai danni della Ferilli, chiesto il processo per un 36enne",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/14/stalking-ai-danni-della-ferilli-chiesto-il-processo-per-un-36enne_ceef821e-57be-428d-97f4-65edc488df9a.html",
-     "data": "2026-09-14T18:18:50+00:00"
+     "data": "2026-09-14T21:05:41+00:00"
     },
     {
      "titolo": "Assalto a poliziotti, Piantedosi 'grave perdita di senso civico'",
@@ -143,12 +153,12 @@
     {
      "titolo": "Rifiuta le nozze combinate: 'Se torno in Pakistan mi uccidono'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/14/rifiuta-le-nozze-combinate-se-torno-in-pakistan-mi-uccidono_52e67132-5f0d-4435-a38b-31ab8eca6613.html",
-     "data": "2026-09-14T18:05:50+00:00"
+     "data": "2026-09-14T18:55:11+00:00"
     },
     {
      "titolo": "Tornano a scuola i bimbi del bosco, il rientro sarà graduale",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/14/tornano-a-scuola-i-bimbi-del-bosco-il-rientro-sara-graduale_5eb9b2ce-2801-4406-928a-ad5b3484171e.html",
-     "data": "2026-09-14T18:20:22+00:00"
+     "data": "2026-09-14T18:54:11+00:00"
     },
     {
      "titolo": "Precipita per 300 metri durante escursione in Val di Fassa, muore a 46 anni",
@@ -174,16 +184,6 @@
      "titolo": "Esce dal rifugio per fare una foto e precipita, muore un escursionista",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/14/esce-dal-rifugio-per-fare-una-foto-e-precipita-muore-un-escursionista_91b37cee-6257-473b-ab33-82ac2ffd2ef7.html",
      "data": "2026-09-14T17:22:16+00:00"
-    },
-    {
-     "titolo": "Investito da un autobus il primo giorno di scuola, 18enne gravissimo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/14/investito-da-un-autobus-il-primo-giorno-di-scuola-18enne-gravissimo_dffb6dc9-ca1f-4c0a-be03-156b1b05d3e3.html",
-     "data": "2026-09-14T16:05:51+00:00"
-    },
-    {
-     "titolo": "Scuola italiana in ritardo, 1 edificio su 3 necessita di lavori urgenti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/14/scuola-italiana-in-ritardo-1-edificio-su-3-necessita-di-lavori-urgenti_b3a8ae3b-eefa-4ff2-86fa-33c10c14b84d.html",
-     "data": "2026-09-14T16:00:17+00:00"
     }
    ]
   },
@@ -196,9 +196,9 @@
      "data": "2026-09-14T17:43:49+00:00"
     },
     {
-     "titolo": "La Lega: 'Il testo sui militari giovedì in commissione alla Camera, volere è potere'",
+     "titolo": "Salvini vede i lombardi e rilancia sui militari, muro di Fi-FdI",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/14/la-lega-il-testo-sui-militari-giovedi-in-commissione-alla-camera-volere-e-potere_65f98a10-3013-43d9-8eab-b2587dac65e4.html",
-     "data": "2026-09-14T17:33:07+00:00"
+     "data": "2026-09-14T19:11:11+00:00"
     },
     {
      "titolo": "Istituzioni e cittadini si preparano per l'ultimo saluto a Bonino in Campidoglio",
@@ -206,9 +206,9 @@
      "data": "2026-09-14T17:19:33+00:00"
     },
     {
-     "titolo": "Legge elettorale: il Senato chiude l'esame della riforma, domani il voto finale. Protesta sulle firme",
+     "titolo": "Rush finale in Senato sulla legge elettorale, cresce la protesta sulle firme",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/14/legge-elettorale-il-senato-chiude-lesame-della-riforma-domani-il-voto-finale._f50c49b9-ea6e-4f07-a59f-666557e1e4ee.html",
-     "data": "2026-09-14T17:01:23+00:00"
+     "data": "2026-09-14T19:08:21+00:00"
     },
     {
      "titolo": "Il Senato chiude l'esame della riforma della legge elettorale, domani il voto finale",
@@ -263,7 +263,7 @@
     {
      "titolo": "Giorgetti: 'Sull'energia misure su famiglie, imprese, mobilità'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/giorgetti-sullenergia-misure-su-famiglie-imprese-mobilita_fbf1d428-bbb0-4c17-b2e4-41c1aa400508.html",
-     "data": "2026-09-14T17:41:18+00:00"
+     "data": "2026-09-14T19:12:30+00:00"
     },
     {
      "titolo": "Orcel, grato a ministro Klingbeil, colloquio proficuo e costruttivo",
@@ -321,9 +321,39 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Cile, oltre 100 richieste di grazia sul tavolo del presidente Kast",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/cile-oltre-100-richieste-di-grazia-sul-tavolo-del-presidente-kast_903c739c-a08b-4e22-9d32-3672dd08f18f.html",
+     "data": "2026-09-14T21:34:25+00:00"
+    },
+    {
+     "titolo": "Argentina, condannati ex funzionari per truffa alle Madri di Plaza de Mayo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/argentina-condannati-ex-funzionari-per-truffa-alle-madri-di-plaza-de-mayo_b35383bc-c7c9-4aba-a8bc-d23598f4ec6a.html",
+     "data": "2026-09-14T20:49:03+00:00"
+    },
+    {
+     "titolo": "Nasce nuova coalizione in Venezuela, sosterrà la candidatura di Machado",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/nasce-nuova-coalizione-in-venezuela-sosterra-la-candidatura-di-machado_6a43fa8b-5298-4083-9bae-c818d314cd9e.html",
+     "data": "2026-09-14T20:29:43+00:00"
+    },
+    {
+     "titolo": "Media Iran, petroliera esplosa dopo la collisione con una mina",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/14/media-iran-petroliera-esplosa-dopo-la-collisione-con-una-mina_ae2e741b-fec8-4220-88e2-f7eb5fc2942a.html",
+     "data": "2026-09-14T19:18:51+00:00"
+    },
+    {
+     "titolo": "Trump annuncia la tregua energetica Mosca-Kiev ma Zelensky chiede garanzie",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/trump-annuncia-la-tregua-energetica-mosca-kiev-ma-zelensky-chiede-garanzie_81a3a2db-65e5-4216-bb1a-89c432d3eb63.html",
+     "data": "2026-09-14T19:09:42+00:00"
+    },
+    {
+     "titolo": "Ft, un accordo sulla tregua energetica è in discussione ma Putin è riluttante",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/ft-un-accordo-sulla-tregua-energetica-e-in-discussione-ma-putin-e-riluttante_a90cfa3a-f141-484c-8852-9964ef98d1d1.html",
+     "data": "2026-09-14T18:57:08+00:00"
+    },
+    {
      "titolo": "Andersson 'pronta a governare', ma il voto spacca la Svezia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/andersson-pronta-a-governare-ma-il-voto-spacca-la-svezia-_942638ca-fb04-40e7-92c3-260c835b1f24.html",
-     "data": "2026-09-14T18:23:09+00:00"
+     "data": "2026-09-14T19:16:04+00:00"
     },
     {
      "titolo": "In Uruguay la nave passeggeri 100% elettrica più grande del mondo",
@@ -349,36 +379,6 @@
      "titolo": "Netanyahu contro Naza, 'intollerabile incitare all'antisemitismo dall'interno'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/14/netanyahu-contro-naza-intollerabile-incitare-allantisemitismo-dallinterno_0e3b0d89-64c4-4176-9c9c-e01cfa542ccf.html",
      "data": "2026-09-14T17:04:07+00:00"
-    },
-    {
-     "titolo": "Zelensky su tregua energetica, 'ci aspettiamo dettagli concreti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/zelensky-su-tregua-energetica-ci-aspettiamo-dettagli-concreti_ee42f51c-e604-4f35-aad9-bc0396c89531.html",
-     "data": "2026-09-14T16:25:06+00:00"
-    },
-    {
-     "titolo": "Riprendono i negoziati governo-opposizione in Venezuela, Machado ancora esclusa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/riprendono-i-negoziati-governo-opposizione-in-venezuela-machado-ancora-esclusa_1e6079f0-e9a8-40fe-a34f-aafd74b44d09.html",
-     "data": "2026-09-14T16:17:12+00:00"
-    },
-    {
-     "titolo": "Prorogate le sanzioni a Mosca ma per soli 7 giorni, 'serve più tempo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/prorogate-le-sanzioni-a-mosca-ma-per-soli-7-giorni-serve-piu-tempo_af8baaf1-92f9-4a77-81ef-c4ef6c95f99a.html",
-     "data": "2026-09-14T15:38:31+00:00"
-    },
-    {
-     "titolo": "Trump, 'gli Usa in vantaggio sull'Ia, non uccidete la gallina dalle uova d'oro'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/14/trump-gli-usa-in-vantaggio-sullia-non-uccidete-la-gallina-dalle-uova_e79a8b41-254d-47fe-bfbd-021d27b4143a.html",
-     "data": "2026-09-14T15:35:58+00:00"
-    },
-    {
-     "titolo": "Il Mercosur avvia negoziati per rafforzare l'accordo commerciale con l'India",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/il-mercosur-avvia-negoziati-per-rafforzare-laccordo-commerciale-con-lindia_34ac6b59-090b-49c0-b5c6-712e4ab801c2.html",
-     "data": "2026-09-14T15:21:44+00:00"
-    },
-    {
-     "titolo": "Carney propone organismo globale per la stabilità tecnologica per l'IA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/14/carney-propone-organismo-globale-per-la-stabilita-tecnologica-per-lia_6fa98cd2-9ed9-4e64-afd6-f77828e4189a.html",
-     "data": "2026-09-14T15:16:56+00:00"
     }
    ]
   },
@@ -451,64 +451,64 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: Chivu, 'l'Inter non è perfetta e ci è mancata energia'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/serie-a-chivu-linter-non-e-perfetta-e-ci-e-mancata-energia_d034b612-051e-4a4b-8cf9-65b20ee9d42d.html",
+     "data": "2026-09-14T21:50:03+00:00"
+    },
+    {
+     "titolo": "Sinner torna ad allenarsi, scambi a Montecarlo con un allievo di Piatti",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/14/sinner-torna-ad-allenarsi-scambi-a-montecarlo-con-un-allievo-di-piatti_b25af7e3-110b-4f37-b50b-d9fd11492ced.html",
+     "data": "2026-09-14T21:06:25+00:00"
+    },
+    {
+     "titolo": "Serie A: da 0-2 a 5-3, l'Inter la ribalta anche con l'Udinese e torna in vetta",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/serie-a-da-0-2-a-5-3-linter-la-ribalta-anche-con-ludinese-e-torna-in-vetta_e9fe5800-ebaa-4d0d-9f50-6c609baa7a03.html",
+     "data": "2026-09-14T21:32:44+00:00"
+    },
+    {
+     "titolo": "Serie A: l'Udinese parte bene ma l'Inter la ribalta, è 5-3 a San Siro",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/serie-a-ludinese-parte-bene-ma-linter-la-ribalta-e-5-3-a-san-siro_807c6bcb-e6e2-440c-8a05-8aeacfbceb58.html",
+     "data": "2026-09-14T20:40:14+00:00"
+    },
+    {
+     "titolo": "Atletica: Coe, 'Ultimate Championship ha messo gli atleti al centro'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/14/atletica-coe-ultimate-championship-ha-messo-gli-atleti-al-centro_086667ce-ec32-40f6-b4f5-782d6810850f.html",
+     "data": "2026-09-14T20:25:05+00:00"
+    },
+    {
+     "titolo": "Olimpiadi 50&più: al via a Rossano Calabro la 32/a edizione con Massimiliano Rosolino",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/14/olimpiadi-50piu-al-via-a-rossano-calabro-la-32a-edizione-con-massimiliano-rosolino_38d99346-0be6-4e3a-9f7e-24d6203b5dd9.html",
+     "data": "2026-09-14T20:24:27+00:00"
+    },
+    {
+     "titolo": "Serie A: Abate, 'c'è rammarico, dobbiamo diminuire gli errori'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/serie-a-abate-ce-rammarico-dobbiamo-diminuire-gli-errori_41d48d2c-cab0-4412-8608-acc234758012.html",
+     "data": "2026-09-14T19:49:53+00:00"
+    },
+    {
+     "titolo": "Serie A: Gasperini, 'bello vedere Dybala e Malen, sono campioni'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/serie-a-gasperini-bello-vedere-dybala-e-malen-sono-campioni_7b96329b-3ef4-4820-884c-27a512b5ff7b.html",
+     "data": "2026-09-14T19:41:48+00:00"
+    },
+    {
+     "titolo": "America's Cup: Sirena 'portiamo il tricolore sulle vele, vogliamo vincere'",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/14/americas-cup-sirena-portiamo-il-tricolore-sulle-vele-vogliamo-vincere_5cf33f20-31f5-4c4c-8856-b2461bcddf39.html",
+     "data": "2026-09-14T19:34:52+00:00"
+    },
+    {
+     "titolo": "Buonfiglio: \"Le criticità di alcune federazioni devono far riflettere\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/14/buonfiglio-le-criticita-di-alcune-federazioni-devono-far-riflettere_8c4b069b-0c2f-4f0e-a366-3309d688bf2e.html",
+     "data": "2026-09-14T19:29:20+00:00"
+    },
+    {
+     "titolo": "Serie A: la festa del Como continua, battuto un buon Parma al Sinigaglia",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/serie-a-la-festa-del-como-continua-battuto-un-buon-parma-al-sinigaglia_7015ff5f-3552-4dfa-9258-867c14deacca.html",
+     "data": "2026-09-14T18:50:08+00:00"
+    },
+    {
      "titolo": "Il Como si prende i 3 punti contro il Parma",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/il-como-si-prende-i-3-punti-contro-il-parma_63738621-71c2-4320-8d70-b25fc6c76232.html",
      "data": "2026-09-14T18:36:51+00:00"
-    },
-    {
-     "titolo": "Serie A: Torino-Roma 0-2, a segno Malen e Pisilli",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/serie-a-torino-roma-0-2-a-segno-malen-e-pisilli_5a077a0b-8853-4e04-a373-f0bfc25ada6e.html",
-     "data": "2026-09-14T18:38:26+00:00"
-    },
-    {
-     "titolo": "Serie A: Malen e Pisilli stendono il Torino, Roma a punteggio pieno",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/serie-a-malen-e-pisilli-stendono-il-torino-roma-a-punteggio-pieno_c0b0f4b5-da27-4ac9-bef8-c393d3c2e331.html",
-     "data": "2026-09-14T18:32:54+00:00"
-    },
-    {
-     "titolo": "Serie A: Como batte Parma 2-1",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/serie-a-como-batte-parma-2-1_7015ff5f-3552-4dfa-9258-867c14deacca.html",
-     "data": "2026-09-14T18:31:09+00:00"
-    },
-    {
-     "titolo": "Pugilato: Clemente Russo torna sul ring a 44 anni, a novembre la sfida a Elmaghraby",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/14/pugilato-clemente-russo-torna-sul-ring-a-44-anni-a-novembre-la-sfida-a-elmaghraby_1bf22fe5-92d9-4118-96d0-cedf57903e2f.html",
-     "data": "2026-09-14T18:08:54+00:00"
-    },
-    {
-     "titolo": "Arbitri: Orsato, 'soddisfatto, se il buongiorno si vede dal mattino...'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/arbitri-orsato-soddisfatto-se-il-buongiorno-si-vede-dal-mattino..._0e2b0814-51a4-40d6-82ff-564b6e3bced5.html",
-     "data": "2026-09-14T18:09:03+00:00"
-    },
-    {
-     "titolo": "Elezioni Figc: Taucer archivia il caso Malagò, ma passa la palla al Coni",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/elezioni-figc-taucer-archivia-su-malago-ora-allesame-loperato-della-federazione_d570c0e1-4a8b-4f9b-8d71-527461f7c35c.html",
-     "data": "2026-09-14T18:08:15+00:00"
-    },
-    {
-     "titolo": "Il torneo di Vienna annuncia: 'Sinner ci sarà per difendere il titolo'",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/14/il-torneo-di-vienna-annuncia-sinner-ci-sara-per-difendere-il-titolo_b5d9f109-3e94-4b79-b4c0-71991f73f81e.html",
-     "data": "2026-09-14T16:30:46+00:00"
-    },
-    {
-     "titolo": "Auto: la Coppa Nissena consegna a Faggioli il 20° Tricolore",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/14/auto-la-coppa-nissena-consegna-a-faggioli-il-20-tricolore_aa70ddd4-9323-46fc-aba3-aa31256cc8fc.html",
-     "data": "2026-09-14T15:45:56+00:00"
-    },
-    {
-     "titolo": "Fiorentina verso il derby di Coppa Italia col Pisa, Vanoli: 'Vietato sbagliare'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/14/fiorentina-verso-il-derby-di-coppa-italia-col-pisa-vanoli-vietato-sbagliare_e64c2278-7045-4ca0-8fdb-0ebbb4eaf9c3.html",
-     "data": "2026-09-14T15:50:53+00:00"
-    },
-    {
-     "titolo": "F1: la corsa di Antonelli al titolo, 81 punti da difendere in 9 GP",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/14/f1-la-corsa-di-antonelli-al-titolo-81-punti-da-difendere-in-9-gp_a5ae8bae-6988-497d-ad3b-bdfb372b9210.html",
-     "data": "2026-09-14T16:33:45+00:00"
-    },
-    {
-     "titolo": "Oasis, Nepi \"trattativa chiusa da mesi, l'Olimpico porta Roma nel mondo\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/14/oasis-nepi-trattativa-chiusa-da-mesi-lolimpico-porta-roma-nel-mondo_df4f7d90-a388-4838-9f05-6686de7e9eb9.html",
-     "data": "2026-09-14T15:37:26+00:00"
     }
    ]
   }
