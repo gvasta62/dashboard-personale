@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-13T23:14:27.928419+00:00",
+ "aggiornato": "2026-09-14T01:15:15.385845+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,62%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/borsa-tokyo-apertura-in-calo-062_b6fd73a8-4da7-4b17-9f9b-686a0b20541e.html",
+     "data": "2026-09-14T00:20:27+00:00"
+    },
     {
      "titolo": "Leader opposizione Svezia, 'pronti a governare, attendiamo risultato finale'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/leader-opposizione-svezia-pronti-a-governare-attendiamo-risultato-finale_4f2cd963-e994-4b68-b5b7-7d38696c9bdc.html",
@@ -49,11 +54,6 @@
      "titolo": "Centinaia di cittadini rendono omaggio ad Emma Bonino in Campidoglio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/centinaia-di-cittadini-rendono-omaggio-ad-emma-bonino-in-campidoglio_34ff5838-3c4e-4fd2-9f4a-623e4adbf359.html",
      "data": "2026-09-13T18:13:22+00:00"
-    },
-    {
-     "titolo": "Vannacci, puntiamo a fare meglio dell'Afd in Sassonia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/13/vannacci-puntiamo-a-fare-meglio-dellafd-in-sassonia_64f6cee6-94d8-4623-b5a1-a0bd8ff5e215.html",
-     "data": "2026-09-13T18:09:16+00:00"
     }
    ]
   },
@@ -255,6 +255,11 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,62%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/borsa-tokyo-apertura-in-calo-062_143374f6-dc1f-4598-bce2-38c345c02c73.html",
+     "data": "2026-09-14T00:20:24+00:00"
+    },
     {
      "titolo": "Il governo punta su ceto medio e giovani, l'ecobonus sale al 65%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/il-governo-punta-su-ceto-medio-e-giovani-lecobonus-sale-al-65_e126b138-8e64-45fd-a13e-94588b25e07e.html",
