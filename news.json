@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-15T00:42:24.420285+00:00",
+ "aggiornato": "2026-09-15T05:30:15.106275+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Arabia Saudita, 13 civili feriti nei raid Houthi di ieri sul sud del Paese",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/15/arabia-saudita-13-civili-feriti-nei-raid-houthi-di-ieri-sul-sud_274edf14-9450-4ead-aca6-8f37e1b2bd21.html",
+     "data": "2026-09-15T02:55:46+00:00"
+    },
+    {
+     "titolo": "Caccia della Nato abbattono un drone sopra la Lituania",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/15/caccia-della-nato-abbattono-un-drone-sopra-la-lituania_0009593d-6491-408a-9480-af07927ee5a8.html",
+     "data": "2026-09-15T00:39:38+00:00"
+    },
     {
      "titolo": "Borsa: Tokyo, apertura in ribasso (-0,36%)",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/15/borsa-tokyo-apertura-in-ribasso-036_37f9e763-cbff-4c34-9fc6-22b7e777a202.html",
@@ -44,16 +54,6 @@
      "titolo": "Orcel, grato a ministro Klingbeil, colloquio proficuo e costruttivo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/orcel-grato-a-ministro-klingbeil-colloquio-proficuo-e-costruttivo_456e6a7b-e013-40dd-bf72-9383611f6c53.html",
      "data": "2026-09-14T16:54:13+00:00"
-    },
-    {
-     "titolo": "Zelensky su tregua energetica, 'ci aspettiamo dettagli concreti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/zelensky-su-tregua-energetica-ci-aspettiamo-dettagli-concreti_d79702b8-10bd-4b8d-82e6-d080e5f4fe5b.html",
-     "data": "2026-09-14T16:25:08+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa chiude in calo, tiene Londra (+0,4%) con il farma",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/borsa-europa-chiude-in-calo-tiene-londra-04-con-il-farma_9cfcb718-f5e1-47c3-83f6-99fc0c258aa2.html",
-     "data": "2026-09-14T16:11:06+00:00"
     }
    ]
   },
@@ -321,9 +321,49 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Costa Rica, ridotti i tagli al bilancio della giustizia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/costa-rica-ridotti-i-tagli-al-bilancio-della-giustizia_4a98b631-4daa-4bd3-8664-a4785ad854a8.html",
+     "data": "2026-09-15T04:54:06+00:00"
+    },
+    {
+     "titolo": "Panama, Mulino promette pugno duro contro i narcos",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/panama-mulino-promette-pugno-duro-contro-i-narcos_a1717d10-8bef-4656-9d57-7cad97dd4933.html",
+     "data": "2026-09-15T03:31:12+00:00"
+    },
+    {
+     "titolo": "Arabia Saudita, 13 civili feriti nei raid Houthi di ieri sul sud del Paese",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/15/arabia-saudita-13-civili-feriti-nei-raid-houthi-di-ieri-sul-sud_3ac064ca-19f1-4aba-bc3b-9bbe337caff1.html",
+     "data": "2026-09-15T02:55:50+00:00"
+    },
+    {
+     "titolo": "Messico, Sheinbaum propone di regolare l'Ia per le elezioni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/messico-sheinbaum-propone-di-regolare-lia-per-le-elezioni_e69c21ef-00a8-4d06-9be9-d1afef4ee7dd.html",
+     "data": "2026-09-15T01:36:58+00:00"
+    },
+    {
+     "titolo": "Brasile: ex deputata Zambelli in Italia, la madre candidata alla Camera a San Paolo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/brasile-ex-deputata-zambelli-in-italia-la-madre-candidata-alla-camera-a-san-paolo_ddf99c2a-ae11-48f9-bdfb-e661ca7c274e.html",
+     "data": "2026-09-15T01:09:40+00:00"
+    },
+    {
+     "titolo": "Canale di Panama, transiti ridotti a 32 al giorno per la siccità",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/canale-di-panama-transiti-ridotti-a-32-al-giorno-per-la-siccita_9cbc6d3a-3c6e-4e95-8948-5bf18846a551.html",
+     "data": "2026-09-15T00:41:20+00:00"
+    },
+    {
+     "titolo": "Caccia della Nato abbattono un drone sopra la Lituania",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/15/caccia-della-nato-abbattono-un-drone-sopra-la-lituania_b2a9196a-089c-4ca1-8ca4-3490f3f3be51.html",
+     "data": "2026-09-15T00:39:40+00:00"
+    },
+    {
      "titolo": "La Corte suprema Usa boccia le restrizioni di Trump sul voto per posta",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/15/la-corte-suprema-usa-boccia-le-restrizioni-di-trump-sul-voto-per-posta_9ae19008-2341-497d-a86c-bce065c72162.html",
      "data": "2026-09-15T00:00:20+00:00"
+    },
+    {
+     "titolo": "La Corte suprema boccia le restrizioni di Trump sul voto per posta",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/15/la-corte-suprema-boccia-le-restrizioni-di-trump-sul-voto-per-posta_10780754-26a5-4754-85fd-5a65b8d1839b.html",
+     "data": "2026-09-15T03:37:52+00:00"
     },
     {
      "titolo": "Calcio: Bolivia, portiere minacciato di morte per truccare una partita di serie A",
@@ -339,46 +379,6 @@
      "titolo": "Arrestato in Florida il giornalista nicaraguense esiliato Luis Galeano",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/arrestato-in-florida-il-giornalista-nicaraguense-esiliato-luis-galeano_931a51a7-39cf-49e2-91e6-9ecfe7a06655.html",
      "data": "2026-09-14T23:04:58+00:00"
-    },
-    {
-     "titolo": "Comando Sud Usa, 'pronti ad azioni decisive nei Caraibi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/comando-sud-usa-pronti-ad-azioni-decisive-nei-caraibi_7871fa46-b651-4516-a5f7-f6943a3c4dc6.html",
-     "data": "2026-09-14T22:03:11+00:00"
-    },
-    {
-     "titolo": "Cile, oltre 100 richieste di grazia sul tavolo del presidente Kast",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/cile-oltre-100-richieste-di-grazia-sul-tavolo-del-presidente-kast_903c739c-a08b-4e22-9d32-3672dd08f18f.html",
-     "data": "2026-09-14T21:34:25+00:00"
-    },
-    {
-     "titolo": "Argentina, condannati ex funzionari per truffa alle Madri di Plaza de Mayo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/argentina-condannati-ex-funzionari-per-truffa-alle-madri-di-plaza-de-mayo_b35383bc-c7c9-4aba-a8bc-d23598f4ec6a.html",
-     "data": "2026-09-14T20:49:03+00:00"
-    },
-    {
-     "titolo": "Nasce nuova coalizione in Venezuela, sosterrà la candidatura di Machado",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/nasce-nuova-coalizione-in-venezuela-sosterra-la-candidatura-di-machado_6a43fa8b-5298-4083-9bae-c818d314cd9e.html",
-     "data": "2026-09-14T20:29:43+00:00"
-    },
-    {
-     "titolo": "Media Iran, petroliera esplosa dopo la collisione con una mina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/14/media-iran-petroliera-esplosa-dopo-la-collisione-con-una-mina_ae2e741b-fec8-4220-88e2-f7eb5fc2942a.html",
-     "data": "2026-09-14T19:18:51+00:00"
-    },
-    {
-     "titolo": "Trump annuncia la tregua energetica Mosca-Kiev ma Zelensky chiede garanzie",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/trump-annuncia-la-tregua-energetica-mosca-kiev-ma-zelensky-chiede-garanzie_81a3a2db-65e5-4216-bb1a-89c432d3eb63.html",
-     "data": "2026-09-14T19:09:42+00:00"
-    },
-    {
-     "titolo": "Ft, un accordo sulla tregua energetica è in discussione ma Putin è riluttante",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/ft-un-accordo-sulla-tregua-energetica-e-in-discussione-ma-putin-e-riluttante_a90cfa3a-f141-484c-8852-9964ef98d1d1.html",
-     "data": "2026-09-14T18:57:08+00:00"
-    },
-    {
-     "titolo": "Andersson 'pronta a governare', ma il voto spacca la Svezia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/andersson-pronta-a-governare-ma-il-voto-spacca-la-svezia-_942638ca-fb04-40e7-92c3-260c835b1f24.html",
-     "data": "2026-09-14T19:16:04+00:00"
     }
    ]
   },
