@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-14T22:09:06.218486+00:00",
+ "aggiornato": "2026-09-15T00:42:24.420285+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in ribasso (-0,36%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/15/borsa-tokyo-apertura-in-ribasso-036_37f9e763-cbff-4c34-9fc6-22b7e777a202.html",
+     "data": "2026-09-15T00:33:40+00:00"
+    },
+    {
+     "titolo": "La Corte suprema Usa boccia le restrizioni di Trump sul voto per posta",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/15/la-corte-suprema-usa-boccia-le-restrizioni-di-trump-sul-voto-per-posta_c68619b1-ce39-4761-aae3-bebf7b88afee.html",
+     "data": "2026-09-15T00:00:16+00:00"
+    },
     {
      "titolo": "Media Iran, petroliera esplosa dopo la collisione con una mina",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/media-iran-petroliera-esplosa-dopo-la-collisione-con-una-mina_a7bda44a-40ae-43a8-91c9-b5118a154010.html",
@@ -44,16 +54,6 @@
      "titolo": "Borsa: Europa chiude in calo, tiene Londra (+0,4%) con il farma",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/borsa-europa-chiude-in-calo-tiene-londra-04-con-il-farma_9cfcb718-f5e1-47c3-83f6-99fc0c258aa2.html",
      "data": "2026-09-14T16:11:06+00:00"
-    },
-    {
-     "titolo": "Investito da un autobus il primo giorno di scuola, 18enne gravissimo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/investito-da-un-autobus-il-primo-giorno-di-scuola-18enne-gravissimo_bf26d167-2cb5-4a34-8f1e-ac461af38219.html",
-     "data": "2026-09-14T16:05:42+00:00"
-    },
-    {
-     "titolo": "Lo spread Btp-Bund chiude a 87 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/14/lo-spread-btp-bund-chiude-a-87-punti_17ec49d0-4f17-4c28-a3ad-028fce903acb.html",
-     "data": "2026-09-14T15:57:56+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in ribasso (-0,36%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/borsa-tokyo-apertura-in-ribasso-036_07b696db-532d-48e5-8b45-fe519816a664.html",
+     "data": "2026-09-15T00:33:38+00:00"
+    },
+    {
      "titolo": "Il petrolio riduce la corsa, Brent a 105,7 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/il-petrolio-riduce-la-corsa-brent-a-1057-dollari_6d1faa42-6364-4f01-aead-f78f229bed24.html",
      "data": "2026-09-14T17:58:13+00:00"
@@ -309,17 +314,37 @@
      "titolo": "Torna a Roma il Festival della mobilità sostenibile e delle città intelligenti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/torna-a-roma-il-festival-della-mobilita-sostenibile-e-delle-citta-intelligenti_66bbcce8-c8fc-442f-bd2b-ce5fcc5d8d42.html",
      "data": "2026-09-14T14:43:48+00:00"
-    },
-    {
-     "titolo": "Schnabel (Bce), rialzo prezzi energetici 'piuttosto preoccupante'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/schnabel-bce-rialzo-prezzi-energetici-piuttosto-preoccupante_0fa26f6c-c2c1-4fa0-89fc-e6d46b1b1f31.html",
-     "data": "2026-09-14T13:51:30+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "La Corte suprema Usa boccia le restrizioni di Trump sul voto per posta",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/15/la-corte-suprema-usa-boccia-le-restrizioni-di-trump-sul-voto-per-posta_9ae19008-2341-497d-a86c-bce065c72162.html",
+     "data": "2026-09-15T00:00:20+00:00"
+    },
+    {
+     "titolo": "Calcio: Bolivia, portiere minacciato di morte per truccare una partita di serie A",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/calcio-bolivia-portiere-minacciato-di-morte-per-truccare-una-partita-di-serie_3fad9fa9-c197-4cd0-b519-c167e9012817.html",
+     "data": "2026-09-14T23:55:02+00:00"
+    },
+    {
+     "titolo": "Rimesse +132% in America Latina in dieci anni, 168,6 miliardi di dollari nel 2025",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/rimesse-132-in-america-latina-in-dieci-anni-1686-miliardi-di-dollari-nel_9f05ec95-2528-4b34-84f2-cabb1db461a1.html",
+     "data": "2026-09-14T23:11:17+00:00"
+    },
+    {
+     "titolo": "Arrestato in Florida il giornalista nicaraguense esiliato Luis Galeano",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/arrestato-in-florida-il-giornalista-nicaraguense-esiliato-luis-galeano_931a51a7-39cf-49e2-91e6-9ecfe7a06655.html",
+     "data": "2026-09-14T23:04:58+00:00"
+    },
+    {
+     "titolo": "Comando Sud Usa, 'pronti ad azioni decisive nei Caraibi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/comando-sud-usa-pronti-ad-azioni-decisive-nei-caraibi_7871fa46-b651-4516-a5f7-f6943a3c4dc6.html",
+     "data": "2026-09-14T22:03:11+00:00"
+    },
     {
      "titolo": "Cile, oltre 100 richieste di grazia sul tavolo del presidente Kast",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/cile-oltre-100-richieste-di-grazia-sul-tavolo-del-presidente-kast_903c739c-a08b-4e22-9d32-3672dd08f18f.html",
@@ -354,31 +379,6 @@
      "titolo": "Andersson 'pronta a governare', ma il voto spacca la Svezia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/andersson-pronta-a-governare-ma-il-voto-spacca-la-svezia-_942638ca-fb04-40e7-92c3-260c835b1f24.html",
      "data": "2026-09-14T19:16:04+00:00"
-    },
-    {
-     "titolo": "In Uruguay la nave passeggeri 100% elettrica più grande del mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/in-uruguay-la-nave-passeggeri-100-elettrica-piu-grande-del-mondo_45001deb-6414-44a2-91f7-c713c495de23.html",
-     "data": "2026-09-14T18:21:05+00:00"
-    },
-    {
-     "titolo": "Trump: 'Io unico argine che serve all'IA'. La Cina frena, 'basta allarmismi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/14/trump-io-unico-argine-che-serve-allia.-la-cina-frena-basta-allarmismi_83bd1a9d-174d-4eb0-b6dd-c9f27b91c818.html",
-     "data": "2026-09-14T18:13:02+00:00"
-    },
-    {
-     "titolo": "Sheinbaum smentisce sondaggio sul sostegno all'intervento Usa in Messico",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/sheinbaum-smentisce-sondaggio-sul-sostegno-allintervento-usa-in-messico_70ff528b-4a9a-4c0b-8069-754663707d83.html",
-     "data": "2026-09-14T17:41:07+00:00"
-    },
-    {
-     "titolo": "Trump, il petrolio crollerà con la fine della guerra in Iran, non ci vorrà molto",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/14/trump-il-petrolio-crollera-con-la-fine-della-guerra-in-iran-non-ci-vorra_3bc4d45a-4bdf-4176-a91e-3e7c3ae97d0e.html",
-     "data": "2026-09-14T17:13:46+00:00"
-    },
-    {
-     "titolo": "Netanyahu contro Naza, 'intollerabile incitare all'antisemitismo dall'interno'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/14/netanyahu-contro-naza-intollerabile-incitare-allantisemitismo-dallinterno_0e3b0d89-64c4-4176-9c9c-e01cfa542ccf.html",
-     "data": "2026-09-14T17:04:07+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: Bolivia, portiere minacciato di morte per truccare una partita di serie A",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/15/calcio-bolivia-portiere-minacciato-di-morte-per-truccare-una-partita-di-serie_430b6c64-a27c-45cc-a900-e24db191f209.html",
+     "data": "2026-09-14T23:54:57+00:00"
+    },
+    {
      "titolo": "Serie A: Chivu, 'l'Inter non è perfetta e ci è mancata energia'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/serie-a-chivu-linter-non-e-perfetta-e-ci-e-mancata-energia_d034b612-051e-4a4b-8cf9-65b20ee9d42d.html",
      "data": "2026-09-14T21:50:03+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Serie A: la festa del Como continua, battuto un buon Parma al Sinigaglia",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/serie-a-la-festa-del-como-continua-battuto-un-buon-parma-al-sinigaglia_7015ff5f-3552-4dfa-9258-867c14deacca.html",
      "data": "2026-09-14T18:50:08+00:00"
-    },
-    {
-     "titolo": "Il Como si prende i 3 punti contro il Parma",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/14/il-como-si-prende-i-3-punti-contro-il-parma_63738621-71c2-4320-8d70-b25fc6c76232.html",
-     "data": "2026-09-14T18:36:51+00:00"
     }
    ]
   }
