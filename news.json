@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-15T19:06:02.388475+00:00",
+ "aggiornato": "2026-09-15T22:20:44.167483+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, 'ristrutturazione del Kennedy Center solo se c'è il mio nome'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/15/trump-ristrutturazione-del-kennedy-center-solo-se-ce-il-mio-nome_dad53832-b54b-4f88-8177-7ff055bcda93.html",
+     "data": "2026-09-15T19:25:01+00:00"
+    },
     {
      "titolo": "Il board del Kennedy Center ne decreta la chiusura immediata",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/15/il-board-del-kennedy-center-ne-decreta-la-chiusura-immediata_2536f3ba-ad75-429d-9235-02127b357b55.html",
@@ -49,11 +54,6 @@
      "titolo": "Borsa: Europa chiude in calo con bond e petrolio, Londra -0,37%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/15/borsa-europa-chiude-in-calo-con-bond-e-petrolio-londra-037_5cf395b4-3556-43bb-acd2-6e251e9325d7.html",
      "data": "2026-09-15T15:49:11+00:00"
-    },
-    {
-     "titolo": "'Mancano sicurezza e privacy', salta l'incontro della famiglia del bosco",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/15/mancano-sicurezza-e-privacy-salta-lincontro-della-famiglia-del-bosco_8476d473-3804-463f-b2c6-5e5fda4b4946.html",
-     "data": "2026-09-15T15:49:09+00:00"
     }
    ]
   },
@@ -198,7 +198,7 @@
     {
      "titolo": "Mattarella: 'Il diritto non può essere subordinato alle contingenze della politica'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/15/monito-di-mattarella-sulia-gli-stati-recuperino-lautorita-smarrita-rispetto-ai-soggetti_7b78284f-6946-42eb-aaf2-5cf98a9977eb.html",
-     "data": "2026-09-15T18:33:11+00:00"
+     "data": "2026-09-15T19:55:50+00:00"
     },
     {
      "titolo": "Meloni a Costa: 'Nel bilancio Ue non ci siano nuove tasse europee'",
@@ -241,9 +241,9 @@
      "data": "2026-09-15T17:31:13+00:00"
     },
     {
-     "titolo": "L'ambasciatore russo plaude a Salvini: 'Torna il realismo'",
+     "titolo": "Salvini e il dialogo con la Russia, l'affondo di Mosca sul gas",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/15/lambasciatore-russo-lincontro-tra-salvini-e-imprese-in-russia-indica-il-ritorno-al-realismo_6bba0641-6681-4357-8291-75490a7652f5.html",
-     "data": "2026-09-15T18:03:25+00:00"
+     "data": "2026-09-15T19:23:06+00:00"
     }
    ]
   },
@@ -316,6 +316,36 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Milei presenta la legge di bilancio per il 2027, crescita prevista al 4%",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/milei-presenta-la-legge-di-bilancio-per-il-2027-crescita-prevista-al-4_e78f3b6b-5adb-4927-9dfa-17ca6126c2ba.html",
+     "data": "2026-09-15T21:27:14+00:00"
+    },
+    {
+     "titolo": "Venezuela, Delcy Rodríguez penultima per gradimento tra leader latinoamericani",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/venezuela-delcy-rodriguez-penultima-per-gradimento-tra-leader-latinoamericani_3e8d41fe-2d04-44bb-a4b6-f009a21b6b55.html",
+     "data": "2026-09-15T21:25:41+00:00"
+    },
+    {
+     "titolo": "Calcio: il 6 ottobre la partita di addio di Messi con l'Argentina",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/calcio-il-6-ottobre-la-partita-di-addio-di-messi-con-largentina_69062c09-01c3-4a27-96d4-cdc50dd36ec8.html",
+     "data": "2026-09-15T20:51:54+00:00"
+    },
+    {
+     "titolo": "Brasile, Vorcaro segue dal carcere il giudizio della Corte suprema sul giudice Moraes",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/brasile-vorcaro-segue-dal-carcere-il-giudizio-della-corte-suprema-sul_f5b419a8-1add-49cc-93cf-87c5b060e301.html",
+     "data": "2026-09-15T20:45:09+00:00"
+    },
+    {
+     "titolo": "La difesa di Kirchner annuncia un ricorso di revisione della condanna",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/la-difesa-di-kirchner-annuncia-un-ricorso-di-revisione-della-condanna_5e56523a-d47d-4b6c-8966-9012e8dcf482.html",
+     "data": "2026-09-15T20:18:31+00:00"
+    },
+    {
+     "titolo": "Trump, 'ristrutturazione del Kennedy Center solo se c'è il mio nome'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/15/trump-ristrutturazione-del-kennedy-center-solo-se-ce-il-mio-nome_b7343c8f-ba1b-4fc5-9492-10ac8712e45b.html",
+     "data": "2026-09-15T19:24:43+00:00"
+    },
+    {
      "titolo": "Il board del Kennedy Center ne decreta la chiusura immediata",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/15/il-board-del-kennedy-center-ne-decreta-la-chiusura-immediata_1c82afc4-b625-4c00-b692-943b7f3332ba.html",
      "data": "2026-09-15T18:44:13+00:00"
@@ -344,36 +374,6 @@
      "titolo": "Villaggio inglese 'anti-migranti' vota per separarsi simbolicamente da Gb",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/15/villaggio-inglese-anti-migranti-vota-per-separarsi-simbolicamente-da-gb_53b3e205-565b-4c72-9b3e-ebff2294139d.html",
      "data": "2026-09-15T16:47:24+00:00"
-    },
-    {
-     "titolo": "Madrid, 'Italia su Schengen vergognosa, Meloni e Tajani non all'altezza'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/15/madrid-italia-su-schengen-vergognosa-meloni-e-tajani-non-allaltezza_5b84da0f-2af0-425a-96a6-7f2b25a457c9.html",
-     "data": "2026-09-15T16:37:27+00:00"
-    },
-    {
-     "titolo": "Tajani, 'nessun pregiudizio con la Spagna, solo sicurezza'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/15/tajani-nessun-pregiudizio-con-la-spagna-solo-sicurezza_59cab0e0-3679-4933-a1e1-47c9de94ddf8.html",
-     "data": "2026-09-15T15:25:53+00:00"
-    },
-    {
-     "titolo": "Al via il procedimento sul giudice Moraes in Brasile, 'il Paese ci guarda'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/al-via-il-procedimento-sul-giudice-moraes-in-brasile-il-paese-ci-guarda_59e12eac-ed72-43bb-bee0-168245727e3d.html",
-     "data": "2026-09-15T15:02:41+00:00"
-    },
-    {
-     "titolo": "Media, Madrid proroga fino all'8 ottobre i controlli su viaggiatori dall'Italia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/15/media-madrid-proroga-fino-all8-ottobre-i-controlli-su-viaggiatori-dallitalia_7856a846-5f9d-418f-981b-c87fe719f636.html",
-     "data": "2026-09-15T14:40:48+00:00"
-    },
-    {
-     "titolo": "Elezioni in Brasile, Lula rallenta ancora e Flavio Bolsonaro è più vicino",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/elezioni-in-brasile-lula-rallenta-ancora-e-flavio-bolsonaro-e-piu-vicino_a86dbc9a-3564-4685-b565-f742b6f40545.html",
-     "data": "2026-09-15T13:57:10+00:00"
-    },
-    {
-     "titolo": "Trump attacca la Corte Suprema, 'ha deluso l'America, si fa intimidire dai dem'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/15/trump-attacca-la-corte-suprema-ha-deluso-lamerica-si-fa-intimidire-dai-dem_3dae72d8-ac51-40a2-b807-df5a46bb235c.html",
-     "data": "2026-09-15T13:46:11+00:00"
     }
    ]
   },
@@ -446,6 +446,41 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": ">>>ANSA/ Eurovolley, l'Italia cala il poker: battuta anche la Cechia",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/15/ansa-eurovolley-litalia-cala-il-poker-battuta-anche-la-cechia_b7c6e5ee-47aa-4114-a0ff-5e0a57a76fec.html",
+     "data": "2026-09-15T21:37:05+00:00"
+    },
+    {
+     "titolo": "Pallanuoto: la Pro Recco in costume e calottina per le strade di Tokyo",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/09/15/pallanuoto-la-pro-recco-in-costume-e-calottina-per-le-strade-di-tokyo_bde812af-4550-4799-afb4-c0001959f3f3.html",
+     "data": "2026-09-15T21:29:34+00:00"
+    },
+    {
+     "titolo": "La Fiorentina batte il Pisa 3-0, negli ottavi trova il Napoli",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/15/la-fiorentina-batte-il-pisa-3-0-negli-ottavi-trova-il-napoli_e64c2278-7045-4ca0-8fdb-0ebbb4eaf9c3.html",
+     "data": "2026-09-15T21:24:53+00:00"
+    },
+    {
+     "titolo": "EuroVolley: quarta vittoria per l'Italia, batte anche la Repubblica Ceca",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/15/eurovolley-quarta-vittoria-per-litalia-batte-anche-la-repubblica-ceca_aba8198a-e448-4243-8235-6c2fb4070142.html",
+     "data": "2026-09-15T21:24:16+00:00"
+    },
+    {
+     "titolo": "Coppa Italia: la Fiorentina batte 3-0 il Pisa e va gli ottavi",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/15/coppa-italia-la-fiorentina-batte-3-0-il-pisa-e-va-gli-ottavi_86a66e0b-a649-476d-a3d9-6e8245d6b0b4.html",
+     "data": "2026-09-15T21:00:32+00:00"
+    },
+    {
+     "titolo": "Calcio: il 6 ottobre la partita di addio di Messi con l'Argentina",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/15/calcio-il-6-ottobre-la-partita-di-addio-di-messi-con-largentina_0c1703a0-19a0-44ba-af29-c8c1e628a9aa.html",
+     "data": "2026-09-15T20:51:52+00:00"
+    },
+    {
+     "titolo": "Calcio: Bologna, Tedesco in uscita, Palladino verso la panchina rossoblù",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/15/calcio-bologna-tedesco-in-uscita-palladino-verso-la-panchina-rossoblu_6bb542c9-6c75-417c-b94f-79bb930228fd.html",
+     "data": "2026-09-15T20:13:24+00:00"
+    },
+    {
      "titolo": "James Rodriguez dice addio alla nazionale colombiana",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/15/james-rodriguez-dice-addio-alla-nazionale-colombiana_46319fe3-14ce-435b-957c-4a19775f610e.html",
      "data": "2026-09-15T18:53:08+00:00"
@@ -469,41 +504,6 @@
      "titolo": "America's Cup: Luna Rossa raggiunge gli altri team a Nisida",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/15/americas-cup-luna-rossa-raggiunge-gli-altri-team-a-nisida_ab36345f-48a2-4efe-85b7-960b37718792.html",
      "data": "2026-09-15T17:56:42+00:00"
-    },
-    {
-     "titolo": "Piano anti Lotito, tifosi laziali proseguono la protesta contro la società",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/15/piano-anti-lotito-tifosi-laziali-proseguono-la-protesta-contro-la-societa_5cfb1601-8fa7-49ee-ace6-1b49b969b1a2.html",
-     "data": "2026-09-15T17:08:51+00:00"
-    },
-    {
-     "titolo": "Elezioni Figc: verifiche Coni su violazioni, Malagò attende",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/15/elezioni-figc-verifiche-coni-su-violazioni-malago-attende_f8e58b12-6264-44fe-ad3a-80b7f53710f2.html",
-     "data": "2026-09-15T18:27:22+00:00"
-    },
-    {
-     "titolo": "Gall lascia la Decathlon, dall'anno prossimo sarà alla Lidl-Trek",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/15/gall-lascia-la-decathlon-dallanno-prossimo-sara-alla-lidl-trek_07680a9a-73c8-4bcf-a4bb-c8bd6c0475d6.html",
-     "data": "2026-09-15T15:52:21+00:00"
-    },
-    {
-     "titolo": "Torino: lesione muscolare per Adams, salta il Bologna",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/15/torino-lesione-muscolare-per-adams-salta-il-bologna_030d6140-974c-4963-88a2-f8c360a594f2.html",
-     "data": "2026-09-15T15:50:21+00:00"
-    },
-    {
-     "titolo": "Tennis: Sinner ha ripreso la racchetta, si avvicina il rientro in campo",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/15/tennis-sinner-ha-ripreso-la-racchetta-si-avvicina-il-rientro-in-campo_294279e6-c496-48e8-9cdd-7aa5959ddc67.html",
-     "data": "2026-09-15T15:49:53+00:00"
-    },
-    {
-     "titolo": "Bologna senza vittorie, riflessioni in corso su Tedesco",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/15/calcio-bologna-senza-vittorie-riflessioni-in-corso-su-tedesco_555ce537-d7fc-46d8-bb73-7fbb133f0123.html",
-     "data": "2026-09-15T15:50:56+00:00"
-    },
-    {
-     "titolo": "Serie A: Venezia, distrazione al bicipite per Busio",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/15/serie-a-venezia-distrazione-al-bicipite-per-busio_3fcd236a-6607-42b7-9eb5-336ba61207d6.html",
-     "data": "2026-09-15T15:03:36+00:00"
     }
    ]
   }
