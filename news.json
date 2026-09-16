@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-09-16T00:32:29.908980+00:00",
+ "aggiornato": "2026-09-16T05:22:57.078369+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "La Camera americana approva una misura che impone a Trump la fine della guerra in Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/16/la-camera-americana-approva-una-misura-che-impone-a-trump-la-fine-della_e40ded41-b5bf-43d3-bd0b-b464a77b5db7.html",
+     "data": "2026-09-16T03:42:16+00:00"
+    },
+    {
+     "titolo": "Usa: 'I servizi d'intelligence russi pianificano omicidi mirati in America ed Europa'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/16/usa-i-servizi-dintelligence-russi-pianificano-omicidi-mirati-in-america-ed-europa_f3ed66ee-7909-4b01-a1d0-792261ec7d47.html",
+     "data": "2026-09-16T03:07:18+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in lieve calo (-0,12%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/16/borsa-tokyo-apertura-in-lieve-calo-012_95f1cd16-e6c4-4173-a3aa-d42fa0087cca.html",
+     "data": "2026-09-16T00:50:40+00:00"
+    },
     {
      "titolo": "Trump, 'ristrutturazione del Kennedy Center solo se c'è il mio nome'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/15/trump-ristrutturazione-del-kennedy-center-solo-se-ce-il-mio-nome_dad53832-b54b-4f88-8177-7ff055bcda93.html",
@@ -39,21 +54,6 @@
      "titolo": "Antitrust avvia istruttoria per valutare l'opas di Intesa su Mps",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/15/antitrust-avvia-istruttoria-per-valutare-lopas-di-intesa-su-mps_cd73764a-1e93-4656-b60e-4150ebd9b8fe.html",
      "data": "2026-09-15T16:15:14+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano debole con Unicredit e Moncler, bene i petroliferi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/15/borsa-milano-debole-con-unicredit-e-moncler-bene-i-petroliferi_42225f79-d862-4f02-8b15-5ab517bbc558.html",
-     "data": "2026-09-15T16:13:30+00:00"
-    },
-    {
-     "titolo": "Lo spread Btp-Bund sale a 88, i rendimenti aggiornano i massimi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/15/lo-spread-btp-bund-sale-a-88-i-rendimenti-aggiornano-i-massimi_8915bd48-4139-48e3-afd4-0bedc84cc88c.html",
-     "data": "2026-09-15T16:13:52+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa chiude in calo con bond e petrolio, Londra -0,37%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/15/borsa-europa-chiude-in-calo-con-bond-e-petrolio-londra-037_5cf395b4-3556-43bb-acd2-6e251e9325d7.html",
-     "data": "2026-09-15T15:49:11+00:00"
     }
    ]
   },
@@ -251,6 +251,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in lieve calo (-0,12%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-tokyo-apertura-in-lieve-calo-012_0c6d5204-9e79-4d42-9856-a245ae94323a.html",
+     "data": "2026-09-16T00:50:38+00:00"
+    },
+    {
      "titolo": "Il governo studia misure per i lavoratori dell'indotto ex Ilva",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/il-governo-studia-misure-per-i-lavoratori-dellindotto-ex-ilva_c9633a9d-52d7-4e0d-a45a-dc854a784e4f.html",
      "data": "2026-09-15T18:18:21+00:00"
@@ -304,17 +309,52 @@
      "titolo": "I rendimenti dei Treasury a 10 anni ai massimi dal 2007",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/i-rendimenti-dei-treasury-a-10-anni-ai-massimi-dal-2007_b54c7ea3-8cfa-4f16-99aa-dfb9d87666af.html",
      "data": "2026-09-15T14:04:17+00:00"
-    },
-    {
-     "titolo": "Joint venture tra Mevis e Zz Tech per le componenti delle celle batteria",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/joint-venture-tra-mevis-e-zz-tech-per-le-componenti-delle-celle-batteria_3dfd0d04-29a4-4457-b563-58e638a20c80.html",
-     "data": "2026-09-15T13:31:20+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "La Camera americana approva una misura che impone a Trump la fine della guerra in Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/la-camera-americana-approva-una-misura-che-impone-a-trump-la-fine-della_53bd6d8c-0d1a-43ae-a8c5-8544adac84d0.html",
+     "data": "2026-09-16T03:42:16+00:00"
+    },
+    {
+     "titolo": "La Camera americana approva una misura che impone a Trump la fine della guerra in Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/16/la-camera-americana-approva-una-misura-che-impone-a-trump-la-fine-della_f9bcdf78-b20b-47e8-b528-035a779ea5e2.html",
+     "data": "2026-09-16T03:42:30+00:00"
+    },
+    {
+     "titolo": "Usa, Camera approva nuova misura che impone a Trump la fine della guerra in Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/16/usa-camera-approva-nuova-misura-che-impone-a-trump-la-fine-della_2e9c6940-64d5-444a-93a4-333dc3bf1746.html",
+     "data": "2026-09-16T03:35:20+00:00"
+    },
+    {
+     "titolo": "Usa: 'I servizi d'intelligence russi pianificano omicidi mirati in America ed Europa'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/usa-i-servizi-dintelligence-russi-pianificano-omicidi-mirati-in-america-ed-europa_24169419-fd5a-4fc3-9c8b-c9c38ca09e74.html",
+     "data": "2026-09-16T03:07:18+00:00"
+    },
+    {
+     "titolo": "Usa: 'I servizi d'intelligence russi pianificano omicidi mirati in America ed Europa'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/usa-i-servizi-dintelligence-russi-pianificano-omicidi-mirati-in-america-ed-europa_b226b426-e7cf-4bf7-993d-a47a120455e0.html",
+     "data": "2026-09-16T03:07:20+00:00"
+    },
+    {
+     "titolo": "Calcio: indagine in Messico per pratiche monopolistiche",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/calcio-indagine-in-messico-per-pratiche-monopolistiche_f2285389-7de3-41a9-bf91-573154595ac3.html",
+     "data": "2026-09-16T01:32:13+00:00"
+    },
+    {
+     "titolo": "Crisi energetica a Cuba, l'Onu allerta sui rischi per la sanità",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/crisi-energetica-a-cuba-lonu-allerta-sui-rischi-per-la-sanita_0889c289-bb4d-4f41-9904-006f523e0408.html",
+     "data": "2026-09-16T01:26:50+00:00"
+    },
+    {
+     "titolo": "La Borsa messicana accoglie SpaceX nel listino internazionale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/la-borsa-messicana-accoglie-spacex-nel-listino-internazionale_c230b513-087f-4f01-89cb-e963a745defb.html",
+     "data": "2026-09-16T01:24:14+00:00"
+    },
     {
      "titolo": "Venezuela, catturato ricercato Fbi accusato di finanziare il Tren de Aragua",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/venezuela-catturato-ricercato-fbi-accusato-di-finanziare-il-tren-de-aragua_c74f0609-5ce1-4477-9dd9-c6673d319b78.html",
@@ -334,46 +374,6 @@
      "titolo": "Venezuela, Delcy Rodríguez penultima per gradimento tra leader latinoamericani",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/venezuela-delcy-rodriguez-penultima-per-gradimento-tra-leader-latinoamericani_3e8d41fe-2d04-44bb-a4b6-f009a21b6b55.html",
      "data": "2026-09-15T21:25:41+00:00"
-    },
-    {
-     "titolo": "Calcio: il 6 ottobre la partita di addio di Messi con l'Argentina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/calcio-il-6-ottobre-la-partita-di-addio-di-messi-con-largentina_69062c09-01c3-4a27-96d4-cdc50dd36ec8.html",
-     "data": "2026-09-15T20:51:54+00:00"
-    },
-    {
-     "titolo": "Brasile, Vorcaro segue dal carcere il giudizio della Corte suprema sul giudice Moraes",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/brasile-vorcaro-segue-dal-carcere-il-giudizio-della-corte-suprema-sul_f5b419a8-1add-49cc-93cf-87c5b060e301.html",
-     "data": "2026-09-15T20:45:09+00:00"
-    },
-    {
-     "titolo": "La difesa di Kirchner annuncia un ricorso di revisione della condanna",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/la-difesa-di-kirchner-annuncia-un-ricorso-di-revisione-della-condanna_5e56523a-d47d-4b6c-8966-9012e8dcf482.html",
-     "data": "2026-09-15T20:18:31+00:00"
-    },
-    {
-     "titolo": "Trump, 'ristrutturazione del Kennedy Center solo se c'è il mio nome'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/15/trump-ristrutturazione-del-kennedy-center-solo-se-ce-il-mio-nome_b7343c8f-ba1b-4fc5-9492-10ac8712e45b.html",
-     "data": "2026-09-15T19:24:43+00:00"
-    },
-    {
-     "titolo": "Il board del Kennedy Center ne decreta la chiusura immediata",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/15/il-board-del-kennedy-center-ne-decreta-la-chiusura-immediata_1c82afc4-b625-4c00-b692-943b7f3332ba.html",
-     "data": "2026-09-15T18:44:13+00:00"
-    },
-    {
-     "titolo": "La magistratura argentina indaga dirigenti imprese che operano nelle Falkland",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/la-magistratura-argentina-indaga-dirigenti-imprese-che-operano-nelle-falkland_7516041c-15b4-40c9-b0ee-4daa4a551adb.html",
-     "data": "2026-09-15T18:36:58+00:00"
-    },
-    {
-     "titolo": "Tajani, 'Italia difende la sua sicurezza, da Madrid reazione fuori luogo e aggressiva'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/15/tajani-italia-difende-la-sua-sicurezza-da-madrid-reazione-fuori-luogo-e-aggressiva_fd2fdfa6-404e-47eb-bab9-75bfd966ff2a.html",
-     "data": "2026-09-15T17:45:48+00:00"
-    },
-    {
-     "titolo": "La Dante celebra i suoi 130 anni di attività a Buenos Aires",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/la-dante-celebra-i-suoi-130-anni-di-attivita-a-buenos-aires_9ecde2f4-bba1-4f09-863c-7de7b9395103.html",
-     "data": "2026-09-15T17:40:24+00:00"
     }
    ]
   },
@@ -446,6 +446,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio: indagine in Messico per pratiche monopolistiche",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/calcio-indagine-in-messico-per-pratiche-monopolistiche_0ec4a773-21ea-403c-8842-8e7ba934912c.html",
+     "data": "2026-09-16T01:32:17+00:00"
+    },
+    {
      "titolo": ">>>ANSA/ Eurovolley, l'Italia cala il poker: battuta anche la Cechia",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/15/ansa-eurovolley-litalia-cala-il-poker-battuta-anche-la-cechia_b7c6e5ee-47aa-4114-a0ff-5e0a57a76fec.html",
      "data": "2026-09-15T21:37:05+00:00"
@@ -499,11 +504,6 @@
      "titolo": "Coppa Italia: il Genoa con fatica elimina il Sudtirol, è 1-0 a Marassi",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/15/coppa-italia-il-genoa-con-fatica-elimina-il-sudtirol-e-1-0-a-marassi_d19ce226-945e-4124-9290-44bbb93a7e42.html",
      "data": "2026-09-15T18:26:06+00:00"
-    },
-    {
-     "titolo": "America's Cup: Luna Rossa raggiunge gli altri team a Nisida",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/15/americas-cup-luna-rossa-raggiunge-gli-altri-team-a-nisida_ab36345f-48a2-4efe-85b7-960b37718792.html",
-     "data": "2026-09-15T17:56:42+00:00"
     }
    ]
   }
