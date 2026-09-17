@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-17T20:24:18.771142+00:00",
+ "aggiornato": "2026-09-17T22:55:21.588547+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Nbc, 'Pentagono valuta di ritirare 25.000 soldati dall'Europa'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/nbc-pentagono-valuta-di-ritirare-25.000-soldati-dalleuropa_7dd42f5f-8e9f-4487-aacf-2b4208d34a9d.html",
+     "data": "2026-09-17T21:19:38+00:00"
+    },
+    {
+     "titolo": "Decreto bollo auto in Gazzetta, 1,698 miliardi da economie su Pnrr",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/decreto-bollo-auto-in-gazzetta-1698-miliardi-da-economie-su-pnrr_993afd03-fe8d-4818-8d27-b69eb8d13674.html",
+     "data": "2026-09-17T20:42:45+00:00"
+    },
     {
      "titolo": "Vola il diesel negli Usa, prezzi al record storico di 6,3956 dollari al gallone",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/vola-il-diesel-negli-usa-prezzi-al-record-storico-di-63956-dollari-al-gallone_6f56f59b-8e86-4cfd-8e3c-d6e062671183.html",
@@ -44,16 +54,6 @@
      "titolo": "Mattarella emana il decreto sullo stop al bollo e il taglio delle accise",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/mattarella-emana-il-decreto-sullo-stop-al-bollo-e-il-taglio-delle-accise_8ab87e2d-b3da-4d47-9847-557a12b7576f.html",
      "data": "2026-09-17T17:47:52+00:00"
-    },
-    {
-     "titolo": "Nuova protesta delle università pubbliche in Argentina contro i tagli del governo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/nuova-protesta-delle-universita-pubbliche-in-argentina-contro-i-tagli-del-governo_62f300a4-1408-4dcf-a389-8016c4b69131.html",
-     "data": "2026-09-17T17:37:19+00:00"
-    },
-    {
-     "titolo": "Grillo, oggi M5s è in mano ad un reverendo che sussurra ai cavilli",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/grillo-oggi-m5s-e-in-mano-ad-un-reverendo-che-sussurra-ai-cavilli_db66c63b-1498-49a0-8359-3842388c5ab8.html",
-     "data": "2026-09-17T17:23:17+00:00"
     }
    ]
   },
@@ -196,9 +196,9 @@
      "data": "2026-09-17T18:47:37+00:00"
     },
     {
-     "titolo": "Il decreto su accise e bollo auto pubblicato in Gazzetta, scatta domani",
+     "titolo": "Stop bollo auto, già si pensa ad allargarlo per le famiglie numerose",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/meloni-il-bollo-abolito-non-solo-per-il-2027-la-misura-e-strutturale.-le-stime_01a925ca-c780-4377-be0c-cc6e8f2b45e0.html",
-     "data": "2026-09-17T20:17:45+00:00"
+     "data": "2026-09-17T20:47:56+00:00"
     },
     {
      "titolo": "Operazione Aspides, una donna al comando per lo scudo nel Mar Rosso",
@@ -241,20 +241,25 @@
      "data": "2026-09-17T16:04:34+00:00"
     },
     {
+     "titolo": "E' morto a 83 anni Alfredo Mantica, senatore di Msi e An. Il cordoglio di La Russa",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/e-morto-a-83-anni-alfredo-mantica-senatore-di-msi-e-an.-il-cordoglio-di-la-russa_520d8468-d9f4-4ab3-a7da-7c399f904f4d.html",
+     "data": "2026-09-17T20:26:23+00:00"
+    },
+    {
      "titolo": "Salvini a Milano incontra A.Fontana, presenti anche Fedriga, Zaia e Fugatti",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/salvini-a-milano-incontra-a.fontana-presenti-anche-fedriga-zaia-e-fugatti_2498b1bc-6dca-43f3-a800-54ac3c75097d.html",
      "data": "2026-09-17T12:13:08+00:00"
-    },
-    {
-     "titolo": "Ciriani 'il voto finale della legge elettorale nella prima settimana di ottobre'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/ciriani-il-voto-finale-della-legge-elettorale-nella-prima-settimana-di-ottobre_6476518a-0c2c-4784-a54d-1ecbbefcfa5f.html",
-     "data": "2026-09-17T11:00:52+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Decreto bollo auto in Gazzetta, 1,698 miliardi da economie su Pnrr",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/decreto-bollo-auto-in-gazzetta-1698-miliardi-da-economie-su-pnrr_d71d0d4a-174c-4ba1-838f-f2f301cb3e49.html",
+     "data": "2026-09-17T20:43:00+00:00"
+    },
     {
      "titolo": "Stop al bollo auto, ecco i modelli esenti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/stop-al-bollo-auto-ecco-i-modelli-esenti_b08edbee-80f7-4e57-abc3-496e0466dda6.html",
@@ -309,17 +314,37 @@
      "titolo": "Unem, ad agosto vendita benzina ai massimi da 15 anni per il mese",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/unem-ad-agosto-vendita-benzina-ai-massimi-da-15-anni-per-il-mese_2f293399-9d21-4c6a-bcce-74c4cfbf00a4.html",
      "data": "2026-09-17T13:48:43+00:00"
-    },
-    {
-     "titolo": "A2a presenta Teti, il robot che pulisce gli invasi senza svuotarli",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/a2a-presenta-teti-il-robot-che-pulisce-gli-invasi-senza-svuotarli_4a378486-516d-4b11-a155-7973f890bbdb.html",
-     "data": "2026-09-17T13:45:51+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Brasile, per Datafolha Lula al 39% e Flávio Bolsonaro 36% al primo turno",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/18/brasile-per-datafolha-lula-al-39-e-flavio-bolsonaro-36-al-primo-turno_727a3f92-3962-409b-8492-d918aef3acf4.html",
+     "data": "2026-09-17T22:30:26+00:00"
+    },
+    {
+     "titolo": "Nbc, 'Pentagono valuta di ritirare 25.000 soldati dall'Europa'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/nbc-pentagono-valuta-di-ritirare-25.000-soldati-dalleuropa_c61c5bd6-149e-476b-a95f-34bc8cdad1e1.html",
+     "data": "2026-09-17T21:19:41+00:00"
+    },
+    {
+     "titolo": "Nbc, 'Pentagono valuta di ritirare 25.000 soldati dall'Europa'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/nbc-pentagono-valuta-di-ritirare-25.000-soldati-dalleuropa_8b0ff27c-41bc-4f9b-b65e-08e4a2949d10.html",
+     "data": "2026-09-17T21:19:55+00:00"
+    },
+    {
+     "titolo": "Lula, 'posso vincere al primo turno, ma anche al ballottaggio'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/lula-posso-vincere-al-primo-turno-ma-anche-al-ballottaggio_e3d0f05a-c152-4b5c-b1dc-1123d56b139a.html",
+     "data": "2026-09-17T21:17:26+00:00"
+    },
+    {
+     "titolo": "Lula, 'pronto a parlare con Trump, ma senza rinunciare alla sovranità'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/lula-pronto-a-parlare-con-trump-ma-senza-rinunciare-alla-sovranita_b2e4c76d-453c-4773-bcbb-3fa67c665ce6.html",
+     "data": "2026-09-17T21:13:01+00:00"
+    },
     {
      "titolo": "Argentina, Pil -0,6% nel secondo trimestre, frenano i consumi",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/argentina-pil-06-nel-secondo-trimestre-frenano-i-consumi_2fc0e408-78aa-4600-9d4b-47b4fced6970.html",
@@ -354,31 +379,6 @@
      "titolo": "Nuova protesta delle università pubbliche in Argentina contro i tagli del governo",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/nuova-protesta-delle-universita-pubbliche-in-argentina-contro-i-tagli-del-governo_cf9fe980-dfc7-4887-ba0d-1155f3c238ec.html",
      "data": "2026-09-17T17:37:19+00:00"
-    },
-    {
-     "titolo": "Niente visto, da Usa nuovo stop per Abu Mazen all'Onu",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/niente-visto-da-usa-nuovo-stop-per-abu-mazen-allonu_6746ce0f-f078-46e2-b443-36f54b4a9f9c.html",
-     "data": "2026-09-17T17:39:10+00:00"
-    },
-    {
-     "titolo": "Trump vedrà i paesi del Golfo, 'devo decidere sull'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/trump-verso-un-momento-cruciale-in-iran-devo-prendere-unimportante-decisione_0dbd2166-0cb6-43cf-a0c6-cf489f522612.html",
-     "data": "2026-09-17T18:17:30+00:00"
-    },
-    {
-     "titolo": "Trump, 'verso un momento cruciale in Iran, devo prendere un'importante decisione'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/trump-verso-un-momento-cruciale-in-iran-devo-prendere-unimportante-decisione_84ccac82-6fb4-45bf-81e3-70830bcbb919.html",
-     "data": "2026-09-17T17:10:34+00:00"
-    },
-    {
-     "titolo": "Messico, l'uccisione della studentessa Erasmus parte di una scia di omicidi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/messico-luccisione-della-studentessa-erasmus-parte-di-una-scia-di-omicidi_2c64fb62-a7eb-475b-8e54-5d5950844311.html",
-     "data": "2026-09-17T17:00:21+00:00"
-    },
-    {
-     "titolo": "Il centrosinistra vince in Svezia, ma è rebus governo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/il-centrosinistra-vince-in-svezia-ma-e-rebus-governo_4a7d2094-9a80-452e-af20-b4838ee9abba.html",
-     "data": "2026-09-17T17:00:17+00:00"
     }
    ]
   },
@@ -451,14 +451,44 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Eurovolley: Giannelli, 'bene aver sofferto, tutti hanno dato il loro apporto'",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/18/eurovolley-giannelli-bene-aver-sofferto-tutti-hanno-dato-il-loro-apporto_12f3c7b9-35c7-468c-ab74-4dccb5facc2a.html",
+     "data": "2026-09-17T22:02:34+00:00"
+    },
+    {
+     "titolo": "Europa League: Spalletti, 'soddisfatto, abbiamo trasformato i dubbi'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-spalletti-soddisfatto-abbiamo-trasformato-i-dubbi_5560befd-aa50-4b3d-bbd3-ebd35c05e339.html",
+     "data": "2026-09-17T21:43:03+00:00"
+    },
+    {
+     "titolo": "Eurovolley: l'Italia vince anche l'ultima del girone, 3-2 alla Slovenia",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/17/eurovolley-litalia-vince-anche-lultima-del-girone-3-2-alla-slovenia_5562cfb3-992e-47af-ac36-aed1bcdc5219.html",
+     "data": "2026-09-17T21:40:25+00:00"
+    },
+    {
+     "titolo": "Eurovolley: l'Italia vince anche l'ultima del girone, 3-2 alla Slovenia",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/17/eurovolley-litalia-vince-anche-lultima-del-girone-3-2-alla-slovenia_da714139-fab4-4e75-b9d7-32b43c03dba8.html",
+     "data": "2026-09-17T21:45:18+00:00"
+    },
+    {
+     "titolo": "Europa League: Juve travolgente all'esordio, 5-0 al Nec",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-juve-travolgente-allesordio-5-0-al-nec_dd3b618c-7359-4dbe-915c-14454423c628.html",
+     "data": "2026-09-17T20:59:07+00:00"
+    },
+    {
+     "titolo": "Europa League: riscatto Juve con goleada, Nec travolto 5-0",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-la-juventus-asfalta-5-0-il-nec_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
+     "data": "2026-09-17T21:03:20+00:00"
+    },
+    {
+     "titolo": "Cinquina al Norwich, il City avanza in Coppa di Lega",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/cinquina-al-norwich-il-city-avanza-in-coppa-di-lega_9caa6d1b-7057-49a6-b84d-c16513a0fb06.html",
+     "data": "2026-09-17T20:36:59+00:00"
+    },
+    {
      "titolo": "Da Gualtieri a Cobolli, al Parioli la festa per i 120 anni del circolo",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/17/da-gualtieri-a-cobolli-al-parioli-la-festa-per-i-120-anni-del-circolo_b0055971-7f50-4a66-9598-2dbdb944fddd.html",
      "data": "2026-09-17T19:19:02+00:00"
-    },
-    {
-     "titolo": "Europa League, in campo Juventus-Nec LIVE",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-in-campo-juventus-nec-live_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
-     "data": "2026-09-17T19:59:58+00:00"
     },
     {
      "titolo": "Calcio: Massara, 'totale fiducia in Spalletti e in rapida crescita squadra'",
@@ -479,36 +509,6 @@
      "titolo": "Milan flop in Europa ed è crisi, Amorim già sotto accusa",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/milan-flop-in-europa-ed-e-crisi-amorim-gia-sotto-accusa_d13df59d-df5e-4c6a-8b7b-1713de3321e5.html",
      "data": "2026-09-17T20:16:32+00:00"
-    },
-    {
-     "titolo": "Serie A: contro il Parma il Genoa conferma davanti Colombo e Osmajic",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/serie-a-contro-il-parma-il-genoa-conferma-davanti-colombo-e-osmajic_3a07c775-a9df-4df6-9563-4b71416b9ae6.html",
-     "data": "2026-09-17T16:59:15+00:00"
-    },
-    {
-     "titolo": "L'Inter cerca il colpo a Roma, Chivu perde Stones: dubbi in porta",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/linter-cerca-il-colpo-a-roma-chivu-perde-stones-dubbi-in-porta_4ac5c8fa-fb2a-4980-b22d-7e8a1598f870.html",
-     "data": "2026-09-17T20:11:07+00:00"
-    },
-    {
-     "titolo": "Serie A: Sassuolo a Monza senza Idzes, Adzic verso la maglia da titolare",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/serie-a-sassuolo-a-monza-senza-idzes-adzic-verso-la-maglia-da-titolare_c2badf2a-c1ad-4529-bb87-01950ffdc1f8.html",
-     "data": "2026-09-17T16:12:08+00:00"
-    },
-    {
-     "titolo": "Cagliari, Maldini pronto a partire titolare anche con l'Udinese",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/cagliari-maldini-pronto-a-partire-titolare-anche-con-ludinese_91d093a5-e473-4386-92b4-8f841a27a759.html",
-     "data": "2026-09-17T15:47:07+00:00"
-    },
-    {
-     "titolo": "F1: Antonelli: 'Futuro in Ferrari? Ora penso a vincere tanto in Mercedes'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/17/f1-antonelli-futuro-in-ferrari-ora-penso-a-vincere-tanto-in-mercedes_6969b26d-c4d3-4be7-b861-2f9bbc9d07e2.html",
-     "data": "2026-09-17T15:20:45+00:00"
-    },
-    {
-     "titolo": "Frosinone alla prova Como, Raimondo 'anche noi abbiamo grande identità'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/frosinone-alla-prova-como-raimondo-anche-noi-abbiamo-grande-identita_c972ad4a-0645-4142-b16b-5a7044eac298.html",
-     "data": "2026-09-17T14:38:46+00:00"
     }
    ]
   }
