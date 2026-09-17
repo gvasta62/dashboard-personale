@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-09-16T08:56:01.173762+00:00",
- "data": "2026-09-16",
- "testo": "Nubi spezzate\nsul muro della torre\nsecca una lucertola",
- "nota": "Ho osservato una lucertola immobile sul muro caldo della torre, tra le nuvole.",
+ "aggiornato": "2026-09-17T09:00:24.731138+00:00",
+ "data": "2026-09-17",
+ "testo": "Tuono lontano\nnel solco dell'aratro\nscorre l'acqua",
+ "nota": "Ho osservato la pioggia del temporale che riempie i solchi del campo.",
  "archivio": [
+  {
+   "data": "2026-09-17",
+   "testo": "Tuono lontano\nnel solco dell'aratro\nscorre l'acqua",
+   "nota": "Ho osservato la pioggia del temporale che riempie i solchi del campo."
+  },
   {
    "data": "2026-09-16",
    "testo": "Nubi spezzate\nsul muro della torre\nsecca una lucertola",
