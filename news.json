@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-09-17T01:52:52.602579+00:00",
+ "aggiornato": "2026-09-17T06:48:25.802334+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Lo spread tra Btp e Bund in avvio è piatto a 86 punti base",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/lo-spread-tra-btp-e-bund-in-avvio-e-piatto-a-86-punti-base_94dd6ba0-2c6a-4232-98f2-19a1312a5b3f.html",
+     "data": "2026-09-17T06:40:45+00:00"
+    },
+    {
+     "titolo": "Il prezzo del gas è in calo a 76,9 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/il-prezzo-del-gas-e-in-calo-a-769-euro-al-megawattora_0a18ecef-65d1-4361-a717-309ac5fdc9e9.html",
+     "data": "2026-09-17T06:06:35+00:00"
+    },
+    {
+     "titolo": "Morto a 88 anni Peter Max, esponente dell'arte psichedelica",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/morto-a-88-anni-peter-max-esponente-dellarte-psichedelica_4d9ed6d7-1138-4f18-8b42-6fe67f763b8c.html",
+     "data": "2026-09-17T04:52:50+00:00"
+    },
+    {
+     "titolo": "Lula andrà all'Onu per dire a Trump di \"non interferire\" nelle elezioni in Brasile",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/lula-andra-allonu-per-dire-a-trump-di-non-interferire-nelle-elezioni_2454e615-4b63-4222-95d2-04e137092ffd.html",
+     "data": "2026-09-17T03:50:17+00:00"
+    },
     {
      "titolo": "OpenAI: 'Sei nuovi casi di comportamento preoccupante dei modelli IA'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/openai-sei-nuovi-casi-di-comportamento-preoccupante-dei-modelli-ia_21839a8f-aee6-4a78-9119-2da695a3b235.html",
@@ -34,26 +54,6 @@
      "titolo": "Ucraina: udite a Kiev una decina di forti esplosioni",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/ucraina-udite-a-kiev-una-decina-di-forti-esplosioni_65fd08cb-d5ac-4c37-bb07-fab44259ccfd.html",
      "data": "2026-09-16T23:41:35+00:00"
-    },
-    {
-     "titolo": "Trump minaccia il taglio del commercio con l'Ue se Canada diventa membro associato",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/applicherei-dazi-molto-pesanti-sui-prodotti-provenienti-dalleuropa_564fea5d-15a6-464d-8c81-a23078b9517b.html",
-     "data": "2026-09-17T00:12:18+00:00"
-    },
-    {
-     "titolo": "Argentina, marines Usa si addestrano a Ushuaia tra tensioni sulle Falkland-Malvinas",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/argentina-marines-usa-si-addestrano-a-ushuaia-tra-tensioni-sulle-falkland-malvinas_e640fabb-eb4a-4e0b-90e8-44b7d7d6cad2.html",
-     "data": "2026-09-16T23:17:33+00:00"
-    },
-    {
-     "titolo": "Cuba, 'pronti degli esperti per aiutare l'Iran a riparare i danni di guerra'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/16/cuba-pronti-degli-esperti-per-aiutare-liran-a-riparare-i-danni-di-guerra_1d6f50dc-d625-448b-94eb-94c632ef67d1.html",
-     "data": "2026-09-16T21:24:34+00:00"
-    },
-    {
-     "titolo": "Il governo della Bolivia valuta lo stato d'assedio dopo i blocchi e 4 omicidi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/16/il-governo-della-bolivia-valuta-lo-stato-dassedio-dopo-i-blocchi-e-4-omicidi_37afac0e-e16f-421c-950c-c8067a9b86c9.html",
-     "data": "2026-09-16T21:13:43+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Accoltellato davanti alla mensa dei poveri, un arresto a Padova",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/accoltellato-davanti-alla-mensa-dei-poveri-un-arresto-a-padova_b8522f46-7faa-40d5-8508-69474895b930.html",
+     "data": "2026-09-17T05:45:53+00:00"
+    },
+    {
+     "titolo": "Pedopornografia online, la polizia arresta 17 persone",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/pedopornografia-online-la-polizia-arresta-17-persone_ad32372f-9816-4668-b1f6-7451c66f16c7.html",
+     "data": "2026-09-17T06:14:37+00:00"
+    },
+    {
      "titolo": "La rosa nel mercato di Markale",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/la-rosa-nel-mercato-di-markale_f5cbb1b3-9bdd-41ae-88c3-5a63d98ae618.html",
      "data": "2026-09-16T23:00:34+00:00"
@@ -166,11 +176,6 @@
      "data": "2026-09-16T19:37:27+00:00"
     },
     {
-     "titolo": "La rinascita della ex biblioteca distrutta dall'incendio",
-     "link": "https://www.ansa.it/sito/notizie/magazine/numeri/2026/09/16/sarajevo-tra-le-ferite-e-la-speranza-di-europa_69fee30c-d4b2-4a67-b7f4-8bf706591522.html",
-     "data": "2026-09-16T23:04:48+00:00"
-    },
-    {
      "titolo": "L'omicidio di Carol Maltesi, ergastolo per l'ex nel sesto processo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/16/lomicidio-di-carol-maltesi-ergastolo-per-lex-nel-sesto-processo_09f70eba-634f-4ed0-9b82-74f22cc725e9.html",
      "data": "2026-09-16T17:49:12+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Truffa a Revolut, si è attivata anche la Dna",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/16/truffa-a-revolut-si-e-attivata-anche-la-dna_001a8b07-f554-4516-9e84-e1bc98ba17a2.html",
      "data": "2026-09-16T17:30:57+00:00"
-    },
-    {
-     "titolo": "La Rai avvia una procedura disciplinare contro Ranucci: 'Violate le norme interne'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/16/la-rai-avvia-una-procedura-disciplinare-contro-ranucci-violate-le-norme-interne_ef465297-627f-4eb4-bc5d-0d0604777c46.html",
-     "data": "2026-09-16T18:13:33+00:00"
     }
    ]
   },
@@ -256,6 +256,31 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Lo spread tra Btp e Bund in avvio è piatto a 86 punti base",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/lo-spread-tra-btp-e-bund-in-avvio-e-piatto-a-86-punti-base_ba14a85a-4a9b-4c6a-9f89-c6dc341e1ea7.html",
+     "data": "2026-09-17T06:41:12+00:00"
+    },
+    {
+     "titolo": "Euro poco mosso, scambiato a 1,1467 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/euro-poco-mosso-scambiato-a-11467-dollari_7d2558a6-6993-44b4-9472-fda5826b9d54.html",
+     "data": "2026-09-17T06:07:35+00:00"
+    },
+    {
+     "titolo": "Il prezzo del gas è in calo a 76,9 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/il-prezzo-del-gas-e-in-calo-a-769-euro-al-megawattora_fc947d4f-cd38-46fb-8d99-28387212ed3a.html",
+     "data": "2026-09-17T06:41:21+00:00"
+    },
+    {
+     "titolo": "Prezzo oro in aumento, Spot scambiato a 4.297 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/prezzo-oro-in-aumento-spot-scambiato-a-4.297-dollari_816c9f1c-8bbd-4301-a49e-ad428fd08503.html",
+     "data": "2026-09-17T06:41:25+00:00"
+    },
+    {
+     "titolo": "Prezzo del petrolio in calo, Wti scambiato a 101,90 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/prezzo-del-petrolio-in-calo-wti-scambiato-a-10190-dollari_b9630069-7939-4466-819a-dc93dc419520.html",
+     "data": "2026-09-17T06:41:30+00:00"
+    },
+    {
      "titolo": "Borsa: Tokyo, apertura in rialzo (+0,98%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-tokyo-apertura-in-rialzo-098_f262ebdd-70d1-40c3-8510-60b8dd2dd745.html",
      "data": "2026-09-17T00:24:25+00:00"
@@ -289,37 +314,37 @@
      "titolo": "Il gas scende sotto i 78 euro sulla piazza Ttf di Amsterdam",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/il-gas-scende-sotto-i-78-euro-sulla-piazza-ttf-di-amsterdam_1ad4b4e0-f96a-41ac-ab59-bbd2bf494dcf.html",
      "data": "2026-09-16T16:39:44+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in rialzo (+0,8%), balza Prysmian, giù Stellantis",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-milano-chiude-in-rialzo-08-balza-prysmian-giu-stellantis_6b1b06c1-f0d4-4417-904a-809dd48e86a7.html",
-     "data": "2026-09-16T16:16:57+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund tedeschi chiude in ribasso a 86 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-ribasso-a-86-punti_8b3731b5-d887-4701-930b-e21557b4d36b.html",
-     "data": "2026-09-16T16:11:23+00:00"
-    },
-    {
-     "titolo": "I ricavi Mfe-Mediaset nei primi sei mesi scendono a 2,95 miliardi, bene l'utile",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/i-ricavi-mfe-mediaset-nei-primi-sei-mesi-scendono-a-295-miliardi_b3fe127b-f2d6-4cc5-a74a-0002a58e8f16.html",
-     "data": "2026-09-16T16:09:40+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa positiva in chiusura, Parigi +0,62%, Londra +0,28%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-europa-positiva-in-chiusura-parigi-062-londra-028_cc212823-69e2-450f-99c5-54246f637dce.html",
-     "data": "2026-09-16T15:58:23+00:00"
-    },
-    {
-     "titolo": "Bozza dl, esenzione bollo nel 2027 per auto fino a 80kw",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/bozza-dl-esenzione-bollo-nel-2027-per-auto-fino-a-80kw_af0e0062-6209-47a8-887a-0d10e3785899.html",
-     "data": "2026-09-16T15:40:35+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Morto a 88 anni Peter Max, esponente dell'arte psichedelica",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/morto-a-88-anni-peter-max-esponente-dellarte-psichedelica_68cdefac-c0c7-45dc-80af-27497f2d394a.html",
+     "data": "2026-09-17T04:53:02+00:00"
+    },
+    {
+     "titolo": "Panama e Cina verso il rinnovo dell'accordo marittimo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/panama-e-cina-verso-il-rinnovo-dellaccordo-marittimo_72e2db9b-83d5-407a-b4b8-e8e953bfadfc.html",
+     "data": "2026-09-17T04:47:27+00:00"
+    },
+    {
+     "titolo": "Lula andrà all'Onu per dire a Trump di \"non interferire\" nelle elezioni in Brasile",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/lula-andra-allonu-per-dire-a-trump-di-non-interferire-nelle-elezioni_0fe0f02a-6fb0-4de3-a697-9732557bb311.html",
+     "data": "2026-09-17T03:50:34+00:00"
+    },
+    {
+     "titolo": "Lula andrà all'Onu per dire a Trump di \"non interferire\" nelle elezioni in Brasile",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/lula-andra-allonu-per-dire-a-trump-di-non-interferire-nelle-elezioni_98b15040-07d8-4cab-b145-eb5f2b6d3f5f.html",
+     "data": "2026-09-17T03:50:36+00:00"
+    },
+    {
+     "titolo": "Cuba lancia un programma radio per dialogare sui problemi dell'isola",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/cuba-lancia-un-programma-radio-per-dialogare-sui-problemi-dellisola_aab04615-b645-49a4-ac28-b2f6be46bf67.html",
+     "data": "2026-09-17T02:51:16+00:00"
+    },
     {
      "titolo": "L'Onu denuncia l'abuso di potere in Nicaragua",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/lonu-denuncia-labuso-di-potere-in-nicaragua_86368de4-f063-460e-b3c6-38a374c5e911.html",
@@ -354,31 +379,6 @@
      "titolo": "Congresso Usa approva il primo pacchetto di sanzioni sotto Trump contro la Russia",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/congresso-usa-approva-il-primo-pacchetto-di-sanzioni-sotto-trump-contro-la-russia_7d4f8f35-c018-4765-ad40-86872e534a85.html",
      "data": "2026-09-17T00:07:28+00:00"
-    },
-    {
-     "titolo": "Honduras, riserve d'acqua della capitale sotto il 26%",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/honduras-riserve-dacqua-della-capitale-sotto-il-26_2c4bbcea-837e-4a6a-bf80-ab5692afabda.html",
-     "data": "2026-09-16T23:49:10+00:00"
-    },
-    {
-     "titolo": "Ucraina: udite a Kiev una decina di forti esplosioni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/ucraina-udite-a-kiev-una-decina-di-forti-esplosioni_74fadb2c-8351-4f18-9a15-4788d0aa0468.html",
-     "data": "2026-09-16T23:41:35+00:00"
-    },
-    {
-     "titolo": "Trump minaccia il taglio del commercio con l'Ue se Canada diventa membro associato",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/applicherei-dazi-molto-pesanti-sui-prodotti-provenienti-dalleuropa_2de6a844-36a9-4852-9f77-b4f4f845d513.html",
-     "data": "2026-09-17T01:30:04+00:00"
-    },
-    {
-     "titolo": "Argentina, marines Usa si addestrano a Ushuaia tra tensioni sulle Falkland-Malvinas",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/argentina-marines-usa-si-addestrano-a-ushuaia-tra-tensioni-sulle-falkland-malvinas_fa2fccca-112d-439b-9500-1b8a9735d0f6.html",
-     "data": "2026-09-16T23:17:51+00:00"
-    },
-    {
-     "titolo": "Lula intima al presidente Corte suprema brasiliana di risolverne la crisi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/lula-intima-al-presidente-corte-suprema-brasiliana-di-risolverne-la-crisi_813c6b12-1430-4a55-9997-e5fa5475665d.html",
-     "data": "2026-09-16T22:16:42+00:00"
     }
    ]
   },
