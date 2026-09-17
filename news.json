@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-09-16T23:55:06.597049+00:00",
+ "aggiornato": "2026-09-17T01:52:52.602579+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "OpenAI: 'Sei nuovi casi di comportamento preoccupante dei modelli IA'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/openai-sei-nuovi-casi-di-comportamento-preoccupante-dei-modelli-ia_21839a8f-aee6-4a78-9119-2da695a3b235.html",
+     "data": "2026-09-17T01:29:13+00:00"
+    },
+    {
+     "titolo": "Trump, 'Kennedy Center un disastro, mia amministrazione merita un riconoscimento'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/trump-kennedy-center-un-disastro-mia-amministrazione-merita-un-riconoscimento_a15cc391-db3e-4b83-b0b4-8e1e6887a0df.html",
+     "data": "2026-09-17T01:02:24+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,98%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/borsa-tokyo-apertura-in-rialzo-098_d1f2e6f3-c5b2-41b1-aa07-e08a0e9e1acf.html",
+     "data": "2026-09-17T00:24:23+00:00"
+    },
+    {
+     "titolo": "Congresso Usa approva il primo pacchetto di sanzioni sotto Trump contro la Russia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/congresso-usa-approva-il-primo-pacchetto-di-sanzioni-sotto-trump-contro-la-russia_72e8df0a-a2df-412a-8f20-a41fca1be5d5.html",
+     "data": "2026-09-17T00:07:15+00:00"
+    },
     {
      "titolo": "Honduras, riserve d'acqua della capitale sotto il 26%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/honduras-riserve-dacqua-della-capitale-sotto-il-26_f5b3082a-137c-40c4-9bdb-82ca4dc62514.html",
@@ -16,9 +36,9 @@
      "data": "2026-09-16T23:41:35+00:00"
     },
     {
-     "titolo": "'Applicherei dazi molto pesanti sui prodotti provenienti dall'Europa'",
+     "titolo": "Trump minaccia il taglio del commercio con l'Ue se Canada diventa membro associato",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/17/applicherei-dazi-molto-pesanti-sui-prodotti-provenienti-dalleuropa_564fea5d-15a6-464d-8c81-a23078b9517b.html",
-     "data": "2026-09-16T23:29:02+00:00"
+     "data": "2026-09-17T00:12:18+00:00"
     },
     {
      "titolo": "Argentina, marines Usa si addestrano a Ushuaia tra tensioni sulle Falkland-Malvinas",
@@ -34,26 +54,6 @@
      "titolo": "Il governo della Bolivia valuta lo stato d'assedio dopo i blocchi e 4 omicidi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/16/il-governo-della-bolivia-valuta-lo-stato-dassedio-dopo-i-blocchi-e-4-omicidi_37afac0e-e16f-421c-950c-c8067a9b86c9.html",
      "data": "2026-09-16T21:13:43+00:00"
-    },
-    {
-     "titolo": "Donna ferita da piombino a Roma: 50enne confessa, denunciato",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/16/donna-ferita-da-piombino-a-roma-50enne-confessa-denunciato_018bed57-1458-4093-a3df-11fc5abdcfec.html",
-     "data": "2026-09-16T20:58:50+00:00"
-    },
-    {
-     "titolo": "Trump alla Fed, 'i tassi calino e velocemente'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/16/trump-alla-fed-i-tassi-calino-e-velocemente_517395fe-b66e-49c4-9fea-87bc5f015fa1.html",
-     "data": "2026-09-16T20:50:40+00:00"
-    },
-    {
-     "titolo": "Casa Bianca, dalla Fed una decisione 'infelice'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/16/casa-bianca-dalla-fed-una-decisione-infelice_f142f00b-1db2-434a-b4b6-1ea7f3e1533e.html",
-     "data": "2026-09-16T20:00:01+00:00"
-    },
-    {
-     "titolo": "Donna ferita da piombino a Roma, in caserma il presunto responsabile",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/16/donna-ferita-da-piombino-a-roma-in-caserma-il-presunto-responsabile_e36326c6-44cf-43cb-9ce7-2dc033b33c3c.html",
-     "data": "2026-09-16T19:20:32+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,98%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-tokyo-apertura-in-rialzo-098_f262ebdd-70d1-40c3-8510-60b8dd2dd745.html",
+     "data": "2026-09-17T00:24:25+00:00"
+    },
+    {
      "titolo": "Pininfarina, al via l'Opa volontaria per il delisting da Piazza Affari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/pininfarina-al-via-lopa-volontaria-per-il-delisting-da-piazza-affari_1e299700-d91d-4369-8353-53670780bea4.html",
      "data": "2026-09-16T20:31:54+00:00"
@@ -309,17 +314,47 @@
      "titolo": "Bozza dl, esenzione bollo nel 2027 per auto fino a 80kw",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/bozza-dl-esenzione-bollo-nel-2027-per-auto-fino-a-80kw_af0e0062-6209-47a8-887a-0d10e3785899.html",
      "data": "2026-09-16T15:40:35+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in rialzo, +0,8%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-milano-chiude-in-rialzo-08_697d6458-a0b2-43d0-a363-7283d060b234.html",
-     "data": "2026-09-16T15:38:33+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "L'Onu denuncia l'abuso di potere in Nicaragua",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/lonu-denuncia-labuso-di-potere-in-nicaragua_86368de4-f063-460e-b3c6-38a374c5e911.html",
+     "data": "2026-09-17T01:43:12+00:00"
+    },
+    {
+     "titolo": "Torna in Messico il Codice Azcatitlan, antico manoscritto azteco",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/torna-in-messico-il-codice-azcatitlan-antico-manoscritto-azteco_eef530ad-6cf2-41be-a68b-78f1ab33a2c1.html",
+     "data": "2026-09-17T01:30:18+00:00"
+    },
+    {
+     "titolo": "OpenAI: 'Sei nuovi casi di comportamento preoccupante dei modelli IA'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/openai-sei-nuovi-casi-di-comportamento-preoccupante-dei-modelli-ia_1ec96313-7624-455c-a793-7b4b745b668c.html",
+     "data": "2026-09-17T01:29:31+00:00"
+    },
+    {
+     "titolo": "Trump, 'Kennedy Center un disastro, mia amministrazione merita un riconoscimento'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/trump-kennedy-center-un-disastro-mia-amministrazione-merita-un-riconoscimento_319a6d28-7f4f-4a97-a204-0a809ac5c627.html",
+     "data": "2026-09-17T01:02:42+00:00"
+    },
+    {
+     "titolo": "Cuba, apre la prima casa di cambio privata dopo decenni di monopolio statale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/cuba-apre-la-prima-casa-di-cambio-privata-dopo-decenni-di-monopolio-statale_94170469-5457-4c45-959e-82a63c257f6a.html",
+     "data": "2026-09-17T01:30:00+00:00"
+    },
+    {
+     "titolo": "Ecuador, arrestato a Miami Xavier Jordan per il caso Villavicencio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/ecuador-arrestato-a-miami-xavier-jordan-per-il-caso-villavicencio_9fb4888d-fe47-4050-85ed-92b4079392a2.html",
+     "data": "2026-09-17T00:59:41+00:00"
+    },
+    {
+     "titolo": "Congresso Usa approva il primo pacchetto di sanzioni sotto Trump contro la Russia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/congresso-usa-approva-il-primo-pacchetto-di-sanzioni-sotto-trump-contro-la-russia_7d4f8f35-c018-4765-ad40-86872e534a85.html",
+     "data": "2026-09-17T00:07:28+00:00"
+    },
     {
      "titolo": "Honduras, riserve d'acqua della capitale sotto il 26%",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/honduras-riserve-dacqua-della-capitale-sotto-il-26_2c4bbcea-837e-4a6a-bf80-ab5692afabda.html",
@@ -331,9 +366,9 @@
      "data": "2026-09-16T23:41:35+00:00"
     },
     {
-     "titolo": "'Applicherei dazi molto pesanti sui prodotti provenienti dall'Europa'",
+     "titolo": "Trump minaccia il taglio del commercio con l'Ue se Canada diventa membro associato",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/applicherei-dazi-molto-pesanti-sui-prodotti-provenienti-dalleuropa_2de6a844-36a9-4852-9f77-b4f4f845d513.html",
-     "data": "2026-09-16T23:29:18+00:00"
+     "data": "2026-09-17T01:30:04+00:00"
     },
     {
      "titolo": "Argentina, marines Usa si addestrano a Ushuaia tra tensioni sulle Falkland-Malvinas",
@@ -344,41 +379,6 @@
      "titolo": "Lula intima al presidente Corte suprema brasiliana di risolverne la crisi",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/lula-intima-al-presidente-corte-suprema-brasiliana-di-risolverne-la-crisi_813c6b12-1430-4a55-9997-e5fa5475665d.html",
      "data": "2026-09-16T22:16:42+00:00"
-    },
-    {
-     "titolo": "Media, Eduardo Bolsonaro incontra governo Trump e chiede sanzioni per giudice Moraes",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/media-eduardo-bolsonaro-incontra-governo-trump-e-chiede-sanzioni-per-giudice_67e5a642-def1-4645-af67-7ba34642ebde.html",
-     "data": "2026-09-16T22:04:22+00:00"
-    },
-    {
-     "titolo": "Presidente Uruguay nega l'ipotesi di un cavo sottomarino tra le Falkland e Montevideo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/presidente-uruguay-nega-lipotesi-di-un-cavo-sottomarino-tra-le-falkland-e-montevideo_f245f98e-9f9d-4ebd-9d42-c719a03ff5b6.html",
-     "data": "2026-09-16T21:38:08+00:00"
-    },
-    {
-     "titolo": "Cuba, 'pronti degli esperti per aiutare l'Iran a riparare i danni di guerra'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/cuba-pronti-degli-esperti-per-aiutare-liran-a-riparare-i-danni-di-guerra_81e76bee-4d3e-47c2-8bc9-8bcfd33a2d79.html",
-     "data": "2026-09-16T21:24:52+00:00"
-    },
-    {
-     "titolo": "Il governo della Bolivia valuta lo stato d'assedio dopo i blocchi e 4 omicidi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/il-governo-della-bolivia-valuta-lo-stato-dassedio-dopo-i-blocchi-e-4-omicidi_5883b7b6-efb5-48c7-b0de-2865759aaf40.html",
-     "data": "2026-09-16T21:14:04+00:00"
-    },
-    {
-     "titolo": "Trump alla Fed, 'i tassi calino e velocemente'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/trump-alla-fed-i-tassi-calino-e-velocemente_ec3d3f9f-1c72-41f8-9fbb-2de4b7727157.html",
-     "data": "2026-09-16T20:50:55+00:00"
-    },
-    {
-     "titolo": "La giustizia argentina interviene sui giacimenti delle Falkland-Malvinas",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/la-giustizia-argentina-interviene-sui-giacimenti-delle-falkland-malvinas_d159ffc0-6191-4e3d-8984-6665e8a8fd5c.html",
-     "data": "2026-09-16T20:31:11+00:00"
-    },
-    {
-     "titolo": "Casa Bianca, dalla Fed una decisione 'infelice'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/casa-bianca-dalla-fed-una-decisione-infelice_e32d311b-8e8d-4665-b3c8-318f77597d47.html",
-     "data": "2026-09-16T20:00:04+00:00"
     }
    ]
   },
