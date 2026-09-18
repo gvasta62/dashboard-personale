@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-09-17T09:00:24.731138+00:00",
- "data": "2026-09-17",
- "testo": "Tuono lontano\nnel solco dell'aratro\nscorre l'acqua",
- "nota": "Ho osservato la pioggia del temporale che riempie i solchi del campo.",
+ "aggiornato": "2026-09-18T08:35:46.195290+00:00",
+ "data": "2026-09-18",
+ "testo": "Scroscio di pioggia\nnella pozza del vicolo\nsalta un mattone",
+ "nota": "Durante il temporale, le gocce fanno saltare l'acqua sui sanpietrini bagnati.",
  "archivio": [
+  {
+   "data": "2026-09-18",
+   "testo": "Scroscio di pioggia\nnella pozza del vicolo\nsalta un mattone",
+   "nota": "Durante il temporale, le gocce fanno saltare l'acqua sui sanpietrini bagnati."
+  },
   {
    "data": "2026-09-17",
    "testo": "Tuono lontano\nnel solco dell'aratro\nscorre l'acqua",
