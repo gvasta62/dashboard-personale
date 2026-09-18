@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-09-18T19:46:06.046931+00:00",
+ "aggiornato": "2026-09-18T21:58:14.699366+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, nessun avversario potrà mettere basi o investire in Groenlandia senza ok Usa",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/18/trump-nessun-avversario-potra-mettere-basi-o-investire-in-groenlandia-senza-ok-usa_c4b173ed-3d99-4287-ad3a-898f5921c552.html",
+     "data": "2026-09-18T21:38:34+00:00"
+    },
+    {
+     "titolo": "Trump, 'accordo con Danimarca e Groenlandia per controllo sicurezza isola'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/18/trump-accordo-con-danimarca-e-groenlandia-per-controllo-sicurezza-isola_c948bf1a-8239-4686-aeb6-5515f51e2e3a.html",
+     "data": "2026-09-18T21:31:50+00:00"
+    },
+    {
+     "titolo": "Cnn, 'il bando di Trump è un attacco illegittimo alla libertà di stampa'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/18/cnn-il-bando-di-trump-e-un-attacco-illegittimo-alla-liberta-di-stampa_1600f524-9d96-4873-9cbe-427b282461e4.html",
+     "data": "2026-09-18T21:17:48+00:00"
+    },
+    {
+     "titolo": "Trump bandisce dalla Casa Bianca Cnn, Politico e Msnow",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/18/trump-bandisce-dalla-casa-bianca-cnn-politico-e-msnow_9b282211-26da-4b64-9f17-ac708e580b36.html",
+     "data": "2026-09-18T19:44:24+00:00"
+    },
+    {
+     "titolo": "Putin, 'elettori in Europa hanno chiarito che non vogliono guerra con la Russia'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/18/putin-elettori-in-europa-hanno-chiarito-che-non-vogliono-guerra-con_7e2ceeaa-d32e-4ff0-813a-caaea765d34f.html",
+     "data": "2026-09-18T19:43:15+00:00"
+    },
     {
      "titolo": "Putin, 'miglioreremo la difesa aerea per distruggere armi spaziali'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/18/putin-miglioreremo-la-difesa-aerea-per-distruggere-armi-spaziali_61a85809-a65d-4b11-949b-cbaac242b99e.html",
@@ -29,31 +54,6 @@
      "titolo": "Aiea, 'drone colpisce torre di raffreddamento di una centrale nucleare russa'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/18/aiea-drone-colpisce-torre-di-raffreddamento-di-una-centrale-nucleare-russa_97939ed4-70d8-4d41-aad4-caeb04f69c99.html",
      "data": "2026-09-18T16:54:31+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas sale a 79 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/18/il-prezzo-del-gas-sale-a-79-euro-al-megawattora_9455e920-2eb1-4b81-bd57-6c8c32848934.html",
-     "data": "2026-09-18T16:32:06+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude in rialzo a 91 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/18/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-91-punti_eedf4c91-bcae-47c1-9f8a-7576ef3cb9a6.html",
-     "data": "2026-09-18T16:11:39+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude in netto calo, tensione sui titoli di Stato",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/18/borsa-leuropa-chiude-in-netto-calo-tensione-sui-titoli-di-stato_ab18fb17-49be-45d0-9429-9df6544dc1b4.html",
-     "data": "2026-09-18T15:59:36+00:00"
-    },
-    {
-     "titolo": "Crosetto scrive lettera a Kallas, 'serve potenziamento missione europea Aspides'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/18/crosetto-scrive-lettera-a-kallas-serve-potenziamento-missione-europea-aspides_3f06bdb0-f15f-49cc-b4c6-cbf82f1246f2.html",
-     "data": "2026-09-18T15:58:45+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in calo dell'1,60%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/18/borsa-milano-chiude-in-calo-dell160_18510d46-5262-493a-a4fb-27c298a60b3a.html",
-     "data": "2026-09-18T15:39:01+00:00"
     }
    ]
   },
@@ -321,6 +321,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump: 'Accordo con Danimarca e Groenlandia per il controllo Usa della sicurezza dell'isola'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-accordo-con-danimarca-e-groenlandia-per-il-controllo-usa-della-sicurezza_1cca247f-3819-4ca1-8017-ce344cbcec44.html",
+     "data": "2026-09-18T21:45:21+00:00"
+    },
+    {
+     "titolo": "Trump, nessun avversario potrà mettere basi o investire in Groenlandia senza ok Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-nessun-avversario-potra-mettere-basi-o-investire-in-groenlandia-senza-ok-usa_17717de8-12cc-4764-9130-498e069e5972.html",
+     "data": "2026-09-18T21:38:52+00:00"
+    },
+    {
+     "titolo": "Cnn, 'il bando di Trump è un attacco illegittimo alla libertà di stampa'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/cnn-il-bando-di-trump-e-un-attacco-illegittimo-alla-liberta-di-stampa_f9d33827-c1a4-438a-850d-260fc38f93df.html",
+     "data": "2026-09-18T21:17:50+00:00"
+    },
+    {
+     "titolo": "Trump bandisce dalla Casa Bianca Cnn, Politico e Msnow",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-bandisce-dalla-casa-bianca-cnn-politico-e-msnow_35f84d2f-2aa6-456d-a3d2-96eb6e05d3d8.html",
+     "data": "2026-09-18T19:44:37+00:00"
+    },
+    {
+     "titolo": "Putin, 'elettori in Europa hanno chiarito che non vogliono guerra con la Russia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/putin-elettori-in-europa-hanno-chiarito-che-non-vogliono-guerra-con_87fbb488-ff75-4081-a20f-569e1b7b6179.html",
+     "data": "2026-09-18T19:43:32+00:00"
+    },
+    {
      "titolo": "Governo e opposizione concordano la riforma della Corte Suprema in Venezuela",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/18/governo-e-opposizione-concordano-la-riforma-della-corte-suprema-in-venezuela_018e9a91-0aaf-4cd5-84f4-a887d427d8aa.html",
      "data": "2026-09-18T19:38:23+00:00"
@@ -354,31 +379,6 @@
      "titolo": "Aiea, 'drone colpisce torre di raffreddamento di una centrale nucleare russa'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/aiea-drone-colpisce-torre-di-raffreddamento-di-una-centrale-nucleare-russa_551fb30c-c929-4dd3-81e0-e3316be86af2.html",
      "data": "2026-09-18T16:54:49+00:00"
-    },
-    {
-     "titolo": "Lula, 'cinque giudici della Corte suprema coinvolti nel caso Master'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/18/lula-cinque-giudici-della-corte-suprema-coinvolti-nel-caso-master_5b2d52b3-b7df-472d-b4ff-63ebc0dc78fe.html",
-     "data": "2026-09-18T16:19:45+00:00"
-    },
-    {
-     "titolo": "Crosetto scrive lettera a Kallas, 'serve potenziamento missione europea Aspides'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/crosetto-scrive-lettera-a-kallas-serve-potenziamento-missione-europea-aspides_4948e490-b01d-4d0f-8841-ca958baa2a9a.html",
-     "data": "2026-09-18T15:59:13+00:00"
-    },
-    {
-     "titolo": "Addio a Margarita Papandreou, pioniera dei diritti delle donne in Grecia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/addio-a-margarita-papandreou-pioniera-dei-diritti-delle-donne-in-grecia_2d1ec2e9-b4a3-428c-99d3-2ca1c3e91154.html",
-     "data": "2026-09-18T14:39:56+00:00"
-    },
-    {
-     "titolo": "In centinaia di college Usa fino all'80% degli studenti non riesce a rimborsare prestiti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/in-centinaia-di-college-usa-fino-all80-degli-studenti-non-riesce-a-rimborsare_f61d55f0-45a0-492a-8e52-63f7a069de2a.html",
-     "data": "2026-09-18T14:37:45+00:00"
-    },
-    {
-     "titolo": "L'allarme del principe William sull'emergenza clima, 'il mondo è in ritardo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/lallarme-del-principe-william-sullemergenza-clima-il-mondo-e-in-ritardo_43d29014-9283-48f8-b448-9061b58558d0.html",
-     "data": "2026-09-18T14:29:55+00:00"
     }
    ]
   },
@@ -451,9 +451,19 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Serie A: Monza-Sassuolo 0-0 DIRETTA e FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-monza-sassuolo-0-0-diretta-e-foto_c2badf2a-c1ad-4529-bb87-01950ffdc1f8.html",
-     "data": "2026-09-18T19:35:34+00:00"
+     "titolo": "Doppietta di Varela, il 2-1 del Monza al Sassuolo salva Juric",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/doppietta-di-varela-il-2-1-del-monza-al-sassuolo-salva-juric_c2badf2a-c1ad-4529-bb87-01950ffdc1f8.html",
+     "data": "2026-09-18T21:17:10+00:00"
+    },
+    {
+     "titolo": "Prima vittoria per il Monza, Sassuolo battuto 2-1",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/prima-vittoria-per-il-monza-sassuolo-battuto-2-1_7baed0e4-46bd-45e5-a0a7-bee6ff78c71a.html",
+     "data": "2026-09-18T20:52:22+00:00"
+    },
+    {
+     "titolo": "Kane segna la 100/a rete in 98 partite, nuovo record in Bundesliga",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/kane-segna-la-100a-rete-in-98-partite-nuovo-record-in-bundesliga_b011d003-fa54-4217-a001-7320455d29ff.html",
+     "data": "2026-09-18T19:46:29+00:00"
     },
     {
      "titolo": "Serie A: Milan-Lecce in campo domenica alle 20.45 DIRETTA",
@@ -499,16 +509,6 @@
      "titolo": "Serie A: Bologna-Torino in campo sabato alle 15 DIRETTA",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-bologna-torino-in-campo-sabato-alle-15-diretta_954b8c86-5aa6-4155-a2a1-d15f5a629045.html",
      "data": "2026-09-18T16:44:24+00:00"
-    },
-    {
-     "titolo": "Uefa e Concacaf a Infantino: 'Riserve Fifa miliardarie, distribuirle a federazioni'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/uefa-e-concacaf-a-infantino-riserve-fifa-miliardarie-distribuirle-a-federazioni_55a5eaa5-b65a-4aec-b4e6-f788cea572b5.html",
-     "data": "2026-09-18T16:27:44+00:00"
-    },
-    {
-     "titolo": "U21 a caccia del pass europeo, quattro novità nei 25 azzurrini di Baldini",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/u21-a-caccia-del-pass-europeo-quattro-novita-nei-25-azzurrini-di-baldini_3bbeb982-7661-495c-85ef-bab97d4a1880.html",
-     "data": "2026-09-18T16:28:50+00:00"
     }
    ]
   }
