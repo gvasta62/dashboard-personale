@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-19T19:28:33.550648+00:00",
+ "aggiornato": "2026-09-19T21:35:05.764643+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Ambasciata Usa In Israele, 'americani alzino livello vigilanza dopo i raid Houthi'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/ambasciata-usa-in-israele-americani-alzino-livello-vigilanza-dopo-i-raid-houthi_ca570748-8cbc-4ab9-82c0-ed039cdb855c.html",
+     "data": "2026-09-19T21:07:22+00:00"
+    },
     {
      "titolo": "Salvini a Pontida, la Lega vince solo se è forte e unita, da Nord a Sud",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/salvini-a-pontida-la-lega-vince-solo-se-e-forte-e-unita-da-nord-a-sud_b66bafaf-8ecb-4359-8a70-c479d6ee26ec.html",
@@ -49,17 +54,27 @@
      "titolo": "Prodi, come si concilia posizione sui disertori di Virginia Libero con linea partito?",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/prodi-come-si-concilia-posizione-sui-disertori-di-virginia-libero-con-linea_3affa165-92e6-4ce1-adc6-8c896a03906f.html",
      "data": "2026-09-19T13:30:32+00:00"
-    },
-    {
-     "titolo": "La Russa, al pareggio preferisco la sconfitta. Evita squadre con programmi opposti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/la-russa-al-pareggio-preferisco-la-sconfitta.-evita-squadre-con-programmi-opposti_9c92a7d9-41b5-474e-8d31-49f3e0ae54e9.html",
-     "data": "2026-09-19T13:28:55+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Schlein, dall'Umbria metodo di come ci si mette insieme per e non contro",
+     "link": "https://www.ansa.it/umbria/notizie/2026/09/19/schlein-dallumbria-metodo-di-come-ci-si-mette-insieme-per-e-non-contro_17b8aea1-39a3-4ba0-a962-a3fb6adfedac.html",
+     "data": "2026-09-19T20:21:34+00:00"
+    },
+    {
+     "titolo": "Schlein, benzina e gasolio sopra i due euro ma il Governo non fa nulla",
+     "link": "https://www.ansa.it/umbria/notizie/2026/09/19/schlein-benzina-e-gasolio-sopra-i-due-euro-ma-il-governo-non-fa-nulla_902533a1-6f55-4c7b-8f1b-c07dbcb2478d.html",
+     "data": "2026-09-19T19:53:52+00:00"
+    },
+    {
+     "titolo": "Schlein, leadership del campo largo? Prima il programma comune",
+     "link": "https://www.ansa.it/umbria/notizie/2026/09/19/schlein-leadership-del-campo-largo-prima-il-programma-comune_a54c4ed1-0a9b-464a-ae06-c76b299fbe66.html",
+     "data": "2026-09-19T19:33:00+00:00"
+    },
     {
      "titolo": "Ad Antinelli il premio intitolato al giornalista Angelo Marinangeli",
      "link": "https://www.ansa.it/umbria/notizie/2026/09/19/ad-antinelli-il-premio-intitolato-al-giornalista-angelo-marinangeli_8b305017-27fb-4635-b593-b57c236f33fd.html",
@@ -104,27 +119,17 @@
      "titolo": "Sorpresi su un furgone con materiale rubato, carabinieri denunciano padre e figlio",
      "link": "https://www.ansa.it/umbria/notizie/2026/09/19/sorpresi-su-un-furgone-con-materiale-rubato-carabinieri-denunciano-padre-e-figlio_a67e48ea-8545-41ce-a858-ea8844d20aee.html",
      "data": "2026-09-19T10:35:42+00:00"
-    },
-    {
-     "titolo": "Vannacci e Alemanno insieme a Orvieto, 'FdI invitata ma nessuna risposta'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/09/19/vannacci-e-alemanno-insieme-a-orvieto-fdi-invitata-ma-nessuna-risposta_72922798-1a13-4f07-b013-9f939a0e960c.html",
-     "data": "2026-09-19T10:01:46+00:00"
-    },
-    {
-     "titolo": "Forse malore mentre apriva porta a tentativo truffa per anziano morto a Terni",
-     "link": "https://www.ansa.it/umbria/notizie/2026/09/18/forse-malore-mentre-apriva-porta-a-tentativo-truffa-per-anziano-morto_5b2e9505-c27f-4cb1-9e27-122df61f5e35.html",
-     "data": "2026-09-18T15:35:08+00:00"
-    },
-    {
-     "titolo": "Rifondazione comunista Umbria, Vannacci non è il benvenuto",
-     "link": "https://www.ansa.it/umbria/notizie/2026/09/18/rifondazione-comunista-umbria-vannacci-non-e-il-benvenuto_8acaca6f-6a75-4d5d-bade-a6952e1324a5.html",
-     "data": "2026-09-18T15:15:38+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Ubriachi in cella picchiano agenti, sette al pronto soccorso",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/ubriachi-in-cella-picchiano-agenti-sette-al-pronto-soccorso_559209c8-b204-4402-8634-f822b84414ab.html",
+     "data": "2026-09-19T20:20:54+00:00"
+    },
     {
      "titolo": "A Roma due giorni di gare di droni con i big della competizione",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/a-roma-due-giorni-di-gare-di-droni-con-i-big-della-competizione_fda0bd69-ddb1-47db-b9e8-d04ec69d4d5a.html",
@@ -133,7 +138,7 @@
     {
      "titolo": "Le chat del 13enne, forse arruolato da gruppi estremisti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/il-video-del-13enne-con-laggressione-alla-prof-ragazzi-guardate-il-tg-dopo_97003dfc-8c9b-4825-bd86-586bae7ac908.html",
-     "data": "2026-09-19T19:11:18+00:00"
+     "data": "2026-09-19T20:08:08+00:00"
     },
     {
      "titolo": "#AccadeOggi",
@@ -179,17 +184,17 @@
      "titolo": "I tre figli tolti al padre di Fortuna Loffredo: 'In due giorni nessun contatto'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/i-tre-figli-tolti-al-padre-di-fortuna-loffredo-in-due-giorni-nessun-contatto_1dbbbd0f-26fe-4c82-9e7c-d587452bbf42.html",
      "data": "2026-09-19T12:19:51+00:00"
-    },
-    {
-     "titolo": "Le ronde a Rozzano finiscono in procura, anche ipotesi odio razziale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/ai-pm-uninformativa-dei-carabinieri-sulle-ronde-a-rozzano-anche-odio-razziale_ac2b622f-df87-43ff-9894-a30116f70889.html",
-     "data": "2026-09-19T18:05:25+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Schlein, dall'Umbria metodo di come ci si mette insieme per e non contro",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/schlein-dallumbria-metodo-di-come-ci-si-mette-insieme-per-e-non-contro_c173b150-30d4-46a4-8708-84e14e370ea1.html",
+     "data": "2026-09-19T20:13:06+00:00"
+    },
     {
      "titolo": "Regge la tregua di Pontida ma Salvini non cede: 'Si vince uniti da nord a sud'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/salvini-a-pontida-la-lega-vince-solo-se-e-forte-e-unita-da-nord-a-sud_dc5905ed-0d59-4546-bbba-3f9b25a0aa92.html",
@@ -198,7 +203,7 @@
     {
      "titolo": "Conte avverte gli alleati: 'Il mandato di Nova è chiaro: sulle armi non cedo'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/conte-assolvero-il-mandato-di-nova-no-al-vivacchiare-della-politica_9e587ba7-024f-4f2b-89fc-5d26d37786bf.html",
-     "data": "2026-09-19T18:58:13+00:00"
+     "data": "2026-09-19T19:47:20+00:00"
     },
     {
      "titolo": "Conte, da Nova emerge mandato chiaro, no ad armi e riarmo",
@@ -316,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ambasciata Usa In Israele, 'americani alzino livello vigilanza dopo i raid Houthi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/ambasciata-usa-in-israele-americani-alzino-livello-vigilanza-dopo-i-raid-houthi_6fdee733-ca6b-4412-8cf1-9db9a1fc6e34.html",
+     "data": "2026-09-19T21:07:22+00:00"
+    },
+    {
+     "titolo": "Bachelet ritira la candidatura per la segreteria generale Onu",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/bachelet-ritira-la-candidatura-per-la-segreteria-generale-onu_b428de69-71cb-4859-85ac-8648fb7bc0b4.html",
+     "data": "2026-09-19T19:36:49+00:00"
+    },
+    {
      "titolo": "Corteo a Tunisi per la liberazione dei quattro attivisti della Flotilla Soumoud",
      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/19/corteo-a-tunisi-per-la-liberazione-dei-quattro-attivisti-della-flotilla-soumoud_26a9f457-d0b8-44b3-8f22-7e3b7cec701a.html",
      "data": "2026-09-19T18:30:17+00:00"
@@ -364,16 +379,6 @@
      "titolo": "Yemen, in 24 ore 48 morti negli scontri tra Houthi e forze governative",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/yemen-in-24-ore-48-morti-negli-scontri-tra-houthi-e-forze-governative_c615921d-6d9e-4a20-9e91-fe92d830fd23.html",
      "data": "2026-09-19T15:55:18+00:00"
-    },
-    {
-     "titolo": "Il costo della guerra in Iran supera le stime del Pentagono, oltre 45 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/19/il-costo-della-guerra-in-iran-supera-le-stime-del-pentagono-oltre-45-miliardi_a3ccb388-d4d1-4178-98b0-9491c52f8a4b.html",
-     "data": "2026-09-19T15:53:41+00:00"
-    },
-    {
-     "titolo": "Kiev, 'colpite postazioni russe nel Donetsk e a Zaporizhzhia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/kiev-colpite-postazioni-russe-nel-donetsk-e-a-zaporizhzhia_f43f5e4b-57e9-4983-9111-e5a2397eda5a.html",
-     "data": "2026-09-19T15:47:27+00:00"
     }
    ]
   },
@@ -446,9 +451,29 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Serie A: Venezia-Lazio 0-0 DIRETTA e FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-venezia-lazio-0-0-diretta-e-foto_6df52126-fcd2-4cdd-9cc1-bfea86b586e4.html",
-     "data": "2026-09-19T19:24:36+00:00"
+     "titolo": "La Lazio vince 2-0 a Venezia e raggiunge Inter e Roma in vetta",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/la-lazio-vince-2-0-a-venezia-e-raggiunge-inter-e-roma-in-vetta_6df52126-fcd2-4cdd-9cc1-bfea86b586e4.html",
+     "data": "2026-09-19T21:17:41+00:00"
+    },
+    {
+     "titolo": "Liga: tripletta di Raphinha, il Barcellona ribalta il Siviglia e consolida la vetta",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/liga-tripletta-di-raphinha-il-barcellona-ribalta-il-siviglia-e-consolida-la-vetta_20b73fe6-f24b-41af-8149-016feeedd8a6.html",
+     "data": "2026-09-19T21:09:14+00:00"
+    },
+    {
+     "titolo": "Serie A: Zaccagni e Noslin stendono il Venezia, la Lazio torna in testa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-zaccagni-e-noslin-stendono-il-venezia-la-lazio-torna-in-testa_74829b70-9699-40c8-83c9-f7ad3ca6a7c6.html",
+     "data": "2026-09-19T20:37:11+00:00"
+    },
+    {
+     "titolo": "Milano batte la Virtus Bologna, in finale di Supercoppa c'è Venezia",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/19/milano-batte-la-virtus-bologna-in-finale-di-supercoppa-ce-venezia_f9642ccc-e765-4966-a502-9b0b57c1df96.html",
+     "data": "2026-09-19T19:59:08+00:00"
+    },
+    {
+     "titolo": "Il Real Madrid vince la nuova SuperCup di Eurolega, Olympiakos ko",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/19/il-real-madrid-vince-la-nuova-supercup-di-eurolega-olympiakos-ko_2b45d748-207e-47ba-9a8f-924c560903aa.html",
+     "data": "2026-09-19T19:42:24+00:00"
     },
     {
      "titolo": "L'Arsenal crolla 3-0 a Brighton, Arteta: 'Ci sia di lezione'",
@@ -484,26 +509,6 @@
      "titolo": "L'Italia piange Sandro Mazzola: 'Eri il figlio del calcio'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/litalia-piange-sandro-mazzola-eri-il-figlio-del-calcio_4e64feca-d64f-4fb1-92e1-065b2d74325f.html",
      "data": "2026-09-19T17:11:22+00:00"
-    },
-    {
-     "titolo": "Piganzoli vince la crono del Giro di Lussemburgo e rafforza il primato",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/19/piganzoli-vince-la-crono-del-giro-di-lussemburgo-e-rafforza-il-primato_c36715f6-f517-474c-8130-9974c1194c1e.html",
-     "data": "2026-09-19T17:06:19+00:00"
-    },
-    {
-     "titolo": "Calcio: Fiorentina; Fagioli, 'contro il Napoli servirà la partita perfetta",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/calcio-fiorentina-fagioli-contro-il-napoli-servira-la-partita-perfetta_7b889eef-34f5-46a8-ba9c-f7c036d7e727.html",
-     "data": "2026-09-19T17:05:57+00:00"
-    },
-    {
-     "titolo": "Un minuto di raccoglimento prima di tutte le gare sportive per Sandro Mazzola",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/19/un-minuto-di-raccoglimento-prima-di-tutte-le-gare-sportive-per-sandro-mazzola_83591308-b6e0-4a37-87c3-9609c2cdfcfb.html",
-     "data": "2026-09-19T17:00:51+00:00"
-    },
-    {
-     "titolo": "Juve: tegola Grabara, lesione al legamento crociato",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/juve-tegola-grabara-lesione-al-legamento-crociato_c672b342-82ac-4cda-be5d-dc12e5e48797.html",
-     "data": "2026-09-19T16:38:07+00:00"
     }
    ]
   }
