@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-18T23:48:58.229370+00:00",
+ "aggiornato": "2026-09-19T01:44:42.577171+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Messico e Usa verso un patto sui dazi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/messico-e-usa-verso-un-patto-sui-dazi_826cdbc6-bc60-4245-b61e-42e9f1afe1d6.html",
+     "data": "2026-09-19T01:22:22+00:00"
+    },
+    {
+     "titolo": "Lula rafforza la sicurezza per difendere le risorse del Brasile",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/lula-rafforza-la-sicurezza-per-difendere-le-risorse-del-brasile_24905fc5-4750-4b62-b892-c15094949956.html",
+     "data": "2026-09-19T01:02:38+00:00"
+    },
+    {
      "titolo": "Inchiesta su collusione tra gang e politica a San Paolo, in manette politico di spicco",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/inchiesta-su-collusione-tra-gang-e-politica-a-san-paolo-in-manette-politico-di-spicco_e73b43b2-6964-4f37-a451-4e6a32f8d9b6.html",
      "data": "2026-09-18T22:42:55+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Governo e opposizione concordano la riforma della Corte Suprema in Venezuela",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/18/governo-e-opposizione-concordano-la-riforma-della-corte-suprema-in-venezuela_018e9a91-0aaf-4cd5-84f4-a887d427d8aa.html",
      "data": "2026-09-18T19:38:23+00:00"
-    },
-    {
-     "titolo": "Putin, 'miglioreremo la difesa aerea per distruggere armi spaziali'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/putin-miglioreremo-la-difesa-aerea-per-distruggere-armi-spaziali_091db039-80fd-4f3f-84a3-7955b0454de1.html",
-     "data": "2026-09-18T19:10:31+00:00"
-    },
-    {
-     "titolo": "Putin, Europa nasconde perdita di prestigio parlando di preparare guerra alla Russia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/putin-europa-nasconde-perdita-di-prestigio-parlando-di-preparare-guerra-alla-russia_a6ff4841-a102-4878-b26b-314810218643.html",
-     "data": "2026-09-18T19:02:28+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": ">>>ANSA/Calcio: è morto Mazzola, idolo della Grande Inter di Herrera",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/ansacalcio-e-morto-mazzola-idolo-della-grande-inter-di-herrera_f4fd692d-96a4-41c4-927e-002cf191881a.html",
+     "data": "2026-09-18T23:40:41+00:00"
+    },
+    {
      "titolo": "++ Calcio: è morto Sandro Mazzola, aveva 83 anni ++",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/-calcio-e-morto-sandro-mazzola-aveva-83-anni-_f3882e8b-bad3-4f98-87ad-887c2220e1c7.html",
      "data": "2026-09-18T23:15:02+00:00"
@@ -458,7 +463,7 @@
     {
      "titolo": "Addio a Sandro Mazzola, la bandiera dell'Inter aveva 83 anni",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/addio-a-sandro-mazzola-la-bandiera-dellinter-aveva-83-anni_4e64feca-d64f-4fb1-92e1-065b2d74325f.html",
-     "data": "2026-09-18T23:19:17+00:00"
+     "data": "2026-09-18T23:43:04+00:00"
     },
     {
      "titolo": "Doppietta di Varela, il 2-1 del Monza al Sassuolo salva Juric",
@@ -504,11 +509,6 @@
      "titolo": "Ufficiale, Bianchedi ha firmato e sarà capodelegazione azzurra",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/18/ufficiale-bianchedi-ha-firmato-e-sara-capodelegazione-azzurra-_81c59d54-8287-4d5f-a8d9-95504f5a9f22.html",
      "data": "2026-09-18T17:01:10+00:00"
-    },
-    {
-     "titolo": "Daniel Maldini e 9 azzurri alla prima volta, la nuova Italia di Mancini",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/18/nazionale-34-azzurri-convocati-da-mancini-ce-anche-daniel-maldini-_79b29bf1-61c3-4556-905b-0ef7c7fa8095.html",
-     "data": "2026-09-18T17:44:13+00:00"
     }
    ]
   }
