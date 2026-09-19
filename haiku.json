@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-09-18T08:35:46.195290+00:00",
- "data": "2026-09-18",
- "testo": "Scroscio di pioggia\nnella pozza del vicolo\nsalta un mattone",
- "nota": "Durante il temporale, le gocce fanno saltare l'acqua sui sanpietrini bagnati.",
+ "aggiornato": "2026-09-19T08:22:49.370553+00:00",
+ "data": "2026-09-19",
+ "testo": "Nebbia sul colle\ntra due cipressi neri\nsparisce il campo",
+ "nota": "La foschia del mattino inghiotte le colline lasciando solo le cime dei cipressi.",
  "archivio": [
+  {
+   "data": "2026-09-19",
+   "testo": "Nebbia sul colle\ntra due cipressi neri\nsparisce il campo",
+   "nota": "La foschia del mattino inghiotte le colline lasciando solo le cime dei cipressi."
+  },
   {
    "data": "2026-09-18",
    "testo": "Scroscio di pioggia\nnella pozza del vicolo\nsalta un mattone",
