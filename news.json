@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-19T17:30:09.934889+00:00",
+ "aggiornato": "2026-09-19T19:28:33.550648+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Salvini a Pontida, la Lega vince solo se è forte e unita, da Nord a Sud",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/salvini-a-pontida-la-lega-vince-solo-se-e-forte-e-unita-da-nord-a-sud_b66bafaf-8ecb-4359-8a70-c479d6ee26ec.html",
+     "data": "2026-09-19T18:03:07+00:00"
+    },
+    {
+     "titolo": "Houthi rivendicano, 'colpiti obiettivi sensibili a Riad e impianti Aramco a Yanbu'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/houthi-rivendicano-colpiti-obiettivi-sensibili-a-riad-e-impianti-aramco-a-yanbu_b6c38a12-85b6-4b1b-a51c-5d48245d213f.html",
+     "data": "2026-09-19T17:36:59+00:00"
+    },
     {
      "titolo": "Valditara, premierò lo studente che ha bloccato il 13enne a Roma",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/valditara-premiero-lo-studente-che-ha-bloccato-il-13enne-a-roma_236e646d-6a2b-497a-92d2-c7f93e8b31a3.html",
@@ -44,16 +54,6 @@
      "titolo": "La Russa, al pareggio preferisco la sconfitta. Evita squadre con programmi opposti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/la-russa-al-pareggio-preferisco-la-sconfitta.-evita-squadre-con-programmi-opposti_9c92a7d9-41b5-474e-8d31-49f3e0ae54e9.html",
      "data": "2026-09-19T13:28:55+00:00"
-    },
-    {
-     "titolo": "Ricciardi (M5S), anche per scelta leader si coinvolgano le persone",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/ricciardi-m5s-anche-per-scelta-leader-si-coinvolgano-le-persone_1c2c1b61-c573-4d8f-8af2-c32880a22f84.html",
-     "data": "2026-09-19T13:25:44+00:00"
-    },
-    {
-     "titolo": "Dombrovskis, 'sugli asset russi aperti a diverse opzioni'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/dombrovskis-sugli-asset-russi-aperti-a-diverse-opzioni_55a6ba3e-7170-4bf4-8ddf-3a35c02c1740.html",
-     "data": "2026-09-19T12:52:46+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "A Roma due giorni di gare di droni con i big della competizione",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/a-roma-due-giorni-di-gare-di-droni-con-i-big-della-competizione_fda0bd69-ddb1-47db-b9e8-d04ec69d4d5a.html",
+     "data": "2026-09-19T19:04:04+00:00"
+    },
+    {
+     "titolo": "Le chat del 13enne, forse arruolato da gruppi estremisti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/il-video-del-13enne-con-laggressione-alla-prof-ragazzi-guardate-il-tg-dopo_97003dfc-8c9b-4825-bd86-586bae7ac908.html",
+     "data": "2026-09-19T19:11:18+00:00"
+    },
+    {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-09-19T19:08:58+00:00"
+    },
+    {
      "titolo": "Oktoberfest al via, torna la festa della birra",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/oktoberfest-al-via-torna-la-festa-della-birra_39dfb88f-3a69-4124-8b50-464bf502f72a.html",
      "data": "2026-09-19T16:47:52+00:00"
@@ -133,7 +148,7 @@
     {
      "titolo": "Omicidio Nada Cella, il 18 gennaio il processo d'appello",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/omicidio-nada-cella-il-18-gennaio-il-processo-dappello_f94bdb50-bb07-490a-a5f0-f1118fce68b6.html",
-     "data": "2026-09-19T16:37:48+00:00"
+     "data": "2026-09-19T18:03:27+00:00"
     },
     {
      "titolo": "Valditara, premierò lo studente che ha bloccato il 13enne a Roma",
@@ -143,17 +158,17 @@
     {
      "titolo": "Precipita da una ferrata e muore nel Vicentino",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/precipita-da-una-ferrata-e-muore-nel-vicentino_7323da74-734a-4a4e-bdc7-514bdfd2469e.html",
-     "data": "2026-09-19T16:34:12+00:00"
+     "data": "2026-09-19T18:04:03+00:00"
     },
     {
      "titolo": "Spin Time 'in 50mila in corteo, restituire il palazzo al pubblico'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/spin-time-in-50mila-in-corteo-restituire-il-palazzo-al-pubblico_dbc308d8-cbd2-49ee-9b92-e45206a27a88.html",
-     "data": "2026-09-19T15:21:36+00:00"
+     "data": "2026-09-19T17:48:33+00:00"
     },
     {
      "titolo": "A Como 6 a processo per morte di due operai pagati 50 centesimi all'ora",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/a-como-6-a-processo-per-morte-di-due-operai-pagati-50-centesimi-allora_81469cbc-4c2b-4d1f-9d29-e73102a09df2.html",
-     "data": "2026-09-19T14:18:14+00:00"
+     "data": "2026-09-19T17:48:40+00:00"
     },
     {
      "titolo": "Ai pm informativa dei carabinieri su rischio ronde a Rozzano, anche odio razziale",
@@ -166,24 +181,9 @@
      "data": "2026-09-19T12:19:51+00:00"
     },
     {
-     "titolo": "Ai pm un'informativa dei carabinieri sulle ronde a Rozzano, anche odio razziale",
+     "titolo": "Le ronde a Rozzano finiscono in procura, anche ipotesi odio razziale",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/ai-pm-uninformativa-dei-carabinieri-sulle-ronde-a-rozzano-anche-odio-razziale_ac2b622f-df87-43ff-9894-a30116f70889.html",
-     "data": "2026-09-19T13:03:45+00:00"
-    },
-    {
-     "titolo": "Si rovescia con il trattore, muore imprenditore vinicolo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/si-rovescia-con-il-trattore-muore-imprenditore-vinicolo_12e4874b-0e8c-40ed-870f-306f14926679.html",
-     "data": "2026-09-19T10:50:55+00:00"
-    },
-    {
-     "titolo": "Operaio muore cadendo dal tetto di un capannone, altri tre incidenti sul lavoro in Veneto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/tre-incidenti-sul-lavoro-in-veneto-operai-feriti-gravi-in-ospedale_248b9776-4ee6-4ff7-89bf-0a796356bcc5.html",
-     "data": "2026-09-19T12:11:42+00:00"
-    },
-    {
-     "titolo": "Tempo migliora al Centro-Nord, sul Meridione residue piogge e domenica 31 gradi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/tempo-migliora-al-centro-nord-sul-meridione-residue-piogge-e-domenica-31-gradi_acfeee03-53f6-475f-9303-3eaa745dd630.html",
-     "data": "2026-09-19T10:57:02+00:00"
+     "data": "2026-09-19T18:05:25+00:00"
     }
    ]
   },
@@ -191,9 +191,14 @@
    "nome": "Politica",
    "voci": [
     {
-     "titolo": "Conte: 'Assolverò il mandato di Nova, no al vivacchiare della politica'",
+     "titolo": "Regge la tregua di Pontida ma Salvini non cede: 'Si vince uniti da nord a sud'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/salvini-a-pontida-la-lega-vince-solo-se-e-forte-e-unita-da-nord-a-sud_dc5905ed-0d59-4546-bbba-3f9b25a0aa92.html",
+     "data": "2026-09-19T19:17:51+00:00"
+    },
+    {
+     "titolo": "Conte avverte gli alleati: 'Il mandato di Nova è chiaro: sulle armi non cedo'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/conte-assolvero-il-mandato-di-nova-no-al-vivacchiare-della-politica_9e587ba7-024f-4f2b-89fc-5d26d37786bf.html",
-     "data": "2026-09-19T17:05:06+00:00"
+     "data": "2026-09-19T18:58:13+00:00"
     },
     {
      "titolo": "Conte, da Nova emerge mandato chiaro, no ad armi e riarmo",
@@ -206,9 +211,9 @@
      "data": "2026-09-19T15:05:22+00:00"
     },
     {
-     "titolo": "La sicurezza dei militari italiani in Medio Oriente, la Difesa studia le opzioni",
+     "titolo": "'Garantire la sicurezza', Difesa studia opzioni sui contingenti italiani",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/la-sicurezza-dei-militari-italiani-in-medio-oriente-la-difesa-studia-le-opzioni_5495f366-5201-43e4-86a9-3c4c87c7b9c1.html",
-     "data": "2026-09-19T13:33:42+00:00"
+     "data": "2026-09-19T18:49:11+00:00"
     },
     {
      "titolo": "Prodi, come si concilia posizione sui disertori di Virginia Libero con linea partito?",
@@ -236,9 +241,9 @@
      "data": "2026-09-19T16:02:44+00:00"
     },
     {
-     "titolo": "Vannacci e Alemanno insieme a Orvieto: 'FdI invitata ma nessuna risposta'",
+     "titolo": "A Orvieto il manifesto di Vannacci-Alemanno della nuova destra. 'Meloni scelga'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/vannacci-e-alemanno-insieme-a-orvieto-fdi-invitata-ma-nessuna-risposta_c3221c87-88c2-489e-870b-5625a19b2b33.html",
-     "data": "2026-09-19T11:35:34+00:00"
+     "data": "2026-09-19T18:28:33+00:00"
     }
    ]
   },
@@ -311,6 +316,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Corteo a Tunisi per la liberazione dei quattro attivisti della Flotilla Soumoud",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/19/corteo-a-tunisi-per-la-liberazione-dei-quattro-attivisti-della-flotilla-soumoud_26a9f457-d0b8-44b3-8f22-7e3b7cec701a.html",
+     "data": "2026-09-19T18:30:17+00:00"
+    },
+    {
+     "titolo": "Houthi rivendicano, 'colpiti obiettivi sensibili a Riad e impianti Aramco a Yanbu'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/houthi-rivendicano-colpiti-obiettivi-sensibili-a-riad-e-impianti-aramco-a-yanbu_04c4d8af-2179-49dd-b480-9a5d53a08e81.html",
+     "data": "2026-09-19T17:36:59+00:00"
+    },
+    {
      "titolo": "L'Honduras prepara il bombardamento delle nuvole contro la siccità",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/lhonduras-prepara-il-bombardamento-delle-nuvole-contro-la-siccita_bc8d8b49-16d2-40bd-94f4-ed1bb295bf63.html",
      "data": "2026-09-19T16:12:19+00:00"
@@ -359,16 +374,6 @@
      "titolo": "Kiev, 'colpite postazioni russe nel Donetsk e a Zaporizhzhia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/kiev-colpite-postazioni-russe-nel-donetsk-e-a-zaporizhzhia_f43f5e4b-57e9-4983-9111-e5a2397eda5a.html",
      "data": "2026-09-19T15:47:27+00:00"
-    },
-    {
-     "titolo": "Trump propone un nuovo nome per l'IA, 'chiamiamola superiore o estrema'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/19/trump-propone-un-nuovo-nome-per-lia-chiamiamola-superiore-o-estrema_83a0de4d-6708-47c6-bd96-9f57dd96c097.html",
-     "data": "2026-09-19T15:42:02+00:00"
-    },
-    {
-     "titolo": "Veglie e proteste dopo una serie di femminicidi vicino a Johannesburg",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/19/veglie-e-proteste-dopo-una-serie-di-femminicidi-vicino-a-johannesburg_aade193b-bead-43ef-8a3a-05f304ebbf61.html",
-     "data": "2026-09-19T14:41:21+00:00"
     }
    ]
   },
@@ -441,9 +446,39 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Serie A: Roma-Inter 2-1 DIRETTA e FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-2-0-diretta-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
-     "data": "2026-09-19T17:16:07+00:00"
+     "titolo": "Serie A: Venezia-Lazio 0-0 DIRETTA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-venezia-lazio-0-0-diretta-e-foto_6df52126-fcd2-4cdd-9cc1-bfea86b586e4.html",
+     "data": "2026-09-19T19:24:36+00:00"
+    },
+    {
+     "titolo": "L'Arsenal crolla 3-0 a Brighton, Arteta: 'Ci sia di lezione'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/larsenal-crolla-3-0-a-brighton-arteta-ci-sia-di-lezione_dc27172d-3ea7-4f33-9c20-a271cdb882d6.html",
+     "data": "2026-09-19T18:54:41+00:00"
+    },
+    {
+     "titolo": "Serie A: Chivu, 'bene la ripresa, sul primo tempo ho detto tutto all'intervallo'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-chivu-bene-la-ripresa-sul-primo-tempo-ho-detto-tutto-allintervallo_07abf859-b876-411a-b5be-d26d274ea36f.html",
+     "data": "2026-09-19T18:45:34+00:00"
+    },
+    {
+     "titolo": "Serie A: Gasperini, 'partita che ci dà consapevolezza, sempre provato a vincere'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-gasperini-partita-che-ci-da-consapevolezza-sempre-provato-a-vincere_1fc28e16-1851-4363-9f51-5bd74df52fe0.html",
+     "data": "2026-09-19T18:42:22+00:00"
+    },
+    {
+     "titolo": "All'Olimpico un 2-2 da spettacolo, la Roma avanti e l'Inter la riprende",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-termina-2-2-cronaca-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
+     "data": "2026-09-19T18:59:55+00:00"
+    },
+    {
+     "titolo": "Serie A: doppiette di Koné e Lautaro, 2-2 tra Roma e Inter nella sfida al vertice",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-doppiette-di-kone-e-lautaro-2-2-tra-roma-e-inter-nella-sfida-al-vertice_1586b30f-7d7d-4ba9-8f93-cdbe2c73ece9.html",
+     "data": "2026-09-19T17:59:27+00:00"
+    },
+    {
+     "titolo": "Calcio: l'Arsenal crolla 3-0 a Brighton, Arteta 'che ci sia di lezione'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/calcio-larsenal-crolla-3-0-a-brighton-arteta-che-ci-sia-di-lezione_2768d25d-b2a7-4920-a806-27524014ebef.html",
+     "data": "2026-09-19T17:28:01+00:00"
     },
     {
      "titolo": "L'Italia piange Sandro Mazzola: 'Eri il figlio del calcio'",
@@ -469,36 +504,6 @@
      "titolo": "Juve: tegola Grabara, lesione al legamento crociato",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/juve-tegola-grabara-lesione-al-legamento-crociato_c672b342-82ac-4cda-be5d-dc12e5e48797.html",
      "data": "2026-09-19T16:38:07+00:00"
-    },
-    {
-     "titolo": "Serie A: Zaniolo, 'felice di essere tornato, la Nazionale era il mio sogno'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-zaniolo-felice-di-essere-tornato-la-nazionale-era-il-mio-sogno_8a346637-4eda-497e-b27a-c66ecd25481f.html",
-     "data": "2026-09-19T16:30:25+00:00"
-    },
-    {
-     "titolo": "Premier: il Tottenham perde ancora, De Zerbi bacchetta i giocatori",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/premier-il-tottenham-perde-ancora-de-zerbi-bacchetta-i-giocatori_f9da0d04-1122-4d2e-be8e-f1417bccce5e.html",
-     "data": "2026-09-19T16:20:35+00:00"
-    },
-    {
-     "titolo": "L'ultima intervista di Mazzola, 'l'Inter per me una mamma'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/19/lultima-intervista-di-mazzola-linter-per-me-una-mamma_c474e8f5-4847-4746-9f68-e76a47946ca8.html",
-     "data": "2026-09-19T15:56:45+00:00"
-    },
-    {
-     "titolo": "Serie A: Pari tra Bologna e Torino, i rossoblù fischiati al Dall'Ara",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-pari-tra-bologna-e-torino-i-rossoblu-fischiati-al-dallara_954b8c86-5aa6-4155-a2a1-d15f5a629045.html",
-     "data": "2026-09-19T15:27:45+00:00"
-    },
-    {
-     "titolo": "Serie A: Maldini scaccia le nubi, gol vittoria a Udine e il Cagliari vola in testa alla classifica",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-maldini-scaccia-le-nubi-gol-vittoria-a-udine-e-il-cagliari-vola-in-testa_1d4ea6ad-ec88-4f97-9bbd-14e9fd4846ba.html",
-     "data": "2026-09-19T15:30:19+00:00"
-    },
-    {
-     "titolo": "Calcio: Allegri, 'a Firenze una della 4-5 partite più importanti della stagione'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/calcio-allegri-a-firenze-una-della-4-5-partite-piu-importanti-della-stagione_130fbb9f-e44f-4c66-b642-a15ad3cf24fa.html",
-     "data": "2026-09-19T15:11:40+00:00"
     }
    ]
   }
