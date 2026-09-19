@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-19T21:35:05.764643+00:00",
+ "aggiornato": "2026-09-19T23:40:39.267402+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Macron, 'accordo su Groenlandia placa gli animi e riafferma la sovranità danese'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/macron-accordo-su-groenlandia-placa-gli-animi-e-riafferma-la-sovranita-danese_6883e890-f091-42ce-8209-3fa3fbc2aa7a.html",
+     "data": "2026-09-19T21:47:41+00:00"
+    },
     {
      "titolo": "Ambasciata Usa In Israele, 'americani alzino livello vigilanza dopo i raid Houthi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/ambasciata-usa-in-israele-americani-alzino-livello-vigilanza-dopo-i-raid-houthi_ca570748-8cbc-4ab9-82c0-ed039cdb855c.html",
@@ -49,11 +54,6 @@
      "titolo": "Dombrovskis, 'pagamenti del Pnrr possono non essere allineati ai costi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/dombrovskis-pagamenti-del-pnrr-possono-non-essere-allineati-ai-costi_0dff53c4-bb61-4ea7-85ae-7ed2d3fa21bb.html",
      "data": "2026-09-19T13:35:03+00:00"
-    },
-    {
-     "titolo": "Prodi, come si concilia posizione sui disertori di Virginia Libero con linea partito?",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/prodi-come-si-concilia-posizione-sui-disertori-di-virginia-libero-con-linea_3affa165-92e6-4ce1-adc6-8c896a03906f.html",
-     "data": "2026-09-19T13:30:32+00:00"
     }
    ]
   },
@@ -321,6 +321,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Macron, 'accordo su Groenlandia placa gli animi e riafferma la sovranità danese'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/19/macron-accordo-su-groenlandia-placa-gli-animi-e-riafferma-la-sovranita-danese_d9c1cef6-fe45-4472-910b-70eb96194b4a.html",
+     "data": "2026-09-19T21:47:39+00:00"
+    },
+    {
      "titolo": "Ambasciata Usa In Israele, 'americani alzino livello vigilanza dopo i raid Houthi'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/ambasciata-usa-in-israele-americani-alzino-livello-vigilanza-dopo-i-raid-houthi_6fdee733-ca6b-4412-8cf1-9db9a1fc6e34.html",
      "data": "2026-09-19T21:07:22+00:00"
@@ -374,11 +379,6 @@
      "titolo": "Media, 'Netanyahu accorcia la visita negli Usa, non vedrà Elon Musk'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/media-netanyahu-accorcia-la-visita-negli-usa-non-vedra-elon-musk_6df0b58a-596c-4233-9672-47510a87e1f1.html",
      "data": "2026-09-19T15:57:14+00:00"
-    },
-    {
-     "titolo": "Yemen, in 24 ore 48 morti negli scontri tra Houthi e forze governative",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/yemen-in-24-ore-48-morti-negli-scontri-tra-houthi-e-forze-governative_c615921d-6d9e-4a20-9e91-fe92d830fd23.html",
-     "data": "2026-09-19T15:55:18+00:00"
     }
    ]
   },
@@ -451,9 +451,24 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Basket in carrozzina, storico argento ai Mondiali per l'Italia",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/20/basket-in-carrozzina-storico-argento-ai-mondiali-per-litalia_032b8023-1eae-486c-b458-2701bf1cccfa.html",
+     "data": "2026-09-19T22:20:05+00:00"
+    },
+    {
+     "titolo": "Calcio: Stroppa, 'la classifica non rispecchia quanto ha fatto la squadra'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/calcio-stroppa-la-classifica-non-rispecchia-quanto-ha-fatto-la-squadra_ca8e6763-acee-43ef-8f60-d02859916470.html",
+     "data": "2026-09-19T21:52:01+00:00"
+    },
+    {
+     "titolo": "Serie A: Gattuso frena l'entusiasmo, 'abbiamo fatto di tutto per farli segnare'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-gattuso-frena-lentusiasmo-abbiamo-fatto-di-tutto-per-farli-segnare_d9bcb3a2-9462-46f5-a7e5-7c19f8bfec50.html",
+     "data": "2026-09-19T21:39:25+00:00"
+    },
+    {
      "titolo": "La Lazio vince 2-0 a Venezia e raggiunge Inter e Roma in vetta",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/la-lazio-vince-2-0-a-venezia-e-raggiunge-inter-e-roma-in-vetta_6df52126-fcd2-4cdd-9cc1-bfea86b586e4.html",
-     "data": "2026-09-19T21:17:41+00:00"
+     "data": "2026-09-19T21:41:00+00:00"
     },
     {
      "titolo": "Liga: tripletta di Raphinha, il Barcellona ribalta il Siviglia e consolida la vetta",
@@ -468,7 +483,7 @@
     {
      "titolo": "Milano batte la Virtus Bologna, in finale di Supercoppa c'è Venezia",
      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/19/milano-batte-la-virtus-bologna-in-finale-di-supercoppa-ce-venezia_f9642ccc-e765-4966-a502-9b0b57c1df96.html",
-     "data": "2026-09-19T19:59:08+00:00"
+     "data": "2026-09-19T22:22:11+00:00"
     },
     {
      "titolo": "Il Real Madrid vince la nuova SuperCup di Eurolega, Olympiakos ko",
@@ -476,9 +491,9 @@
      "data": "2026-09-19T19:42:24+00:00"
     },
     {
-     "titolo": "L'Arsenal crolla 3-0 a Brighton, Arteta: 'Ci sia di lezione'",
+     "titolo": "Il Barcellona non si frema più, l'Arsenal crolla 3-0 a Brighton",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/larsenal-crolla-3-0-a-brighton-arteta-ci-sia-di-lezione_dc27172d-3ea7-4f33-9c20-a271cdb882d6.html",
-     "data": "2026-09-19T18:54:41+00:00"
+     "data": "2026-09-19T21:34:54+00:00"
     },
     {
      "titolo": "Serie A: Chivu, 'bene la ripresa, sul primo tempo ho detto tutto all'intervallo'",
@@ -494,21 +509,6 @@
      "titolo": "All'Olimpico un 2-2 da spettacolo, la Roma avanti e l'Inter la riprende",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-termina-2-2-cronaca-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
      "data": "2026-09-19T18:59:55+00:00"
-    },
-    {
-     "titolo": "Serie A: doppiette di Koné e Lautaro, 2-2 tra Roma e Inter nella sfida al vertice",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-doppiette-di-kone-e-lautaro-2-2-tra-roma-e-inter-nella-sfida-al-vertice_1586b30f-7d7d-4ba9-8f93-cdbe2c73ece9.html",
-     "data": "2026-09-19T17:59:27+00:00"
-    },
-    {
-     "titolo": "Calcio: l'Arsenal crolla 3-0 a Brighton, Arteta 'che ci sia di lezione'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/calcio-larsenal-crolla-3-0-a-brighton-arteta-che-ci-sia-di-lezione_2768d25d-b2a7-4920-a806-27524014ebef.html",
-     "data": "2026-09-19T17:28:01+00:00"
-    },
-    {
-     "titolo": "L'Italia piange Sandro Mazzola: 'Eri il figlio del calcio'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/litalia-piange-sandro-mazzola-eri-il-figlio-del-calcio_4e64feca-d64f-4fb1-92e1-065b2d74325f.html",
-     "data": "2026-09-19T17:11:22+00:00"
     }
    ]
   }
