@@ -1,65 +1,80 @@
 {
- "aggiornato": "2026-09-20T07:08:03.252659+00:00",
+ "aggiornato": "2026-09-20T12:30:05.875206+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
-     "titolo": "Macron, 'accordo su Groenlandia placa gli animi e riafferma la sovranità danese'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/macron-accordo-su-groenlandia-placa-gli-animi-e-riafferma-la-sovranita-danese_6883e890-f091-42ce-8209-3fa3fbc2aa7a.html",
-     "data": "2026-09-19T21:47:41+00:00"
+     "titolo": "Salvini, domani proporrò Congresso straordinario a ottobre",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/20/salvini-domani-proporro-congresso-straordinario-a-ottobre_120844c4-26a0-48e8-be78-78bb18a79f4e.html",
+     "data": "2026-09-20T11:40:24+00:00"
     },
     {
-     "titolo": "Ambasciata Usa In Israele, 'americani alzino livello vigilanza dopo i raid Houthi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/ambasciata-usa-in-israele-americani-alzino-livello-vigilanza-dopo-i-raid-houthi_ca570748-8cbc-4ab9-82c0-ed039cdb855c.html",
-     "data": "2026-09-19T21:07:22+00:00"
+     "titolo": "Spara e uccide ladro, 35enne indagato per omicidio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/20/spara-e-uccide-ladro-35enne-indagato-per-omicidio_5dfee6a6-002e-43c2-82cb-7c81a0a17ef6.html",
+     "data": "2026-09-20T10:56:54+00:00"
     },
     {
-     "titolo": "Salvini a Pontida, la Lega vince solo se è forte e unita, da Nord a Sud",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/salvini-a-pontida-la-lega-vince-solo-se-e-forte-e-unita-da-nord-a-sud_b66bafaf-8ecb-4359-8a70-c479d6ee26ec.html",
-     "data": "2026-09-19T18:03:07+00:00"
+     "titolo": "Meloni a Schlein, non trovi argomenti veri per attaccarci, te li passo sottobanco...",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/20/meloni-a-schlein-non-trovi-argomenti-veri-per-attaccarci-te-li-passo-sottobanco..._971dad6f-2f39-4e0a-8b4e-f155b153be2d.html",
+     "data": "2026-09-20T10:46:13+00:00"
     },
     {
-     "titolo": "Houthi rivendicano, 'colpiti obiettivi sensibili a Riad e impianti Aramco a Yanbu'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/houthi-rivendicano-colpiti-obiettivi-sensibili-a-riad-e-impianti-aramco-a-yanbu_b6c38a12-85b6-4b1b-a51c-5d48245d213f.html",
-     "data": "2026-09-19T17:36:59+00:00"
+     "titolo": "Sardone, 'sono pronta alle primarie, Milano va liberata'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/20/sardone-sono-pronta-alle-primarie-milano-va-liberata_e4d20788-5832-4a94-bceb-4bd41a78029a.html",
+     "data": "2026-09-20T10:40:54+00:00"
     },
     {
-     "titolo": "Valditara, premierò lo studente che ha bloccato il 13enne a Roma",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/valditara-premiero-lo-studente-che-ha-bloccato-il-13enne-a-roma_236e646d-6a2b-497a-92d2-c7f93e8b31a3.html",
-     "data": "2026-09-19T16:35:38+00:00"
+     "titolo": "Meloni, in classe numero massimo di stranieri e divieto di burqa, norma in arrivo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/20/meloni-in-classe-numero-massimo-di-stranieri-e-divieto-di-burqa-norma-in-arrivo_0d622362-ec85-4807-a30b-27c63fa3aabd.html",
+     "data": "2026-09-20T10:38:07+00:00"
     },
     {
-     "titolo": "L'Honduras prepara il bombardamento delle nuvole contro la siccità",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/lhonduras-prepara-il-bombardamento-delle-nuvole-contro-la-siccita_eafb27e3-d2a5-4b25-b090-f0c57bc7d622.html",
-     "data": "2026-09-19T16:12:19+00:00"
+     "titolo": "A Orvieto picchetto antifascista contro Vannacci, 'le sue idee una ferita all'Italia'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/20/a-orvieto-picchetto-antifascista-contro-vannacci-le-sue-idee-una-ferita-allitalia_8e42b458-f698-4379-896e-8b06aef89061.html",
+     "data": "2026-09-20T10:25:24+00:00"
     },
     {
-     "titolo": "Conte, assolverò il mandato di Nova, no al vivacchiare della politica",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/conte-assolvero-il-mandato-di-nova-no-al-vivacchiare-della-politica_725fff3e-1de9-4d36-915f-c837184a6614.html",
-     "data": "2026-09-19T16:00:25+00:00"
+     "titolo": "Sorprende ladri nel cortile di casa, spara e ne uccide uno",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/20/sorprende-ladri-nel-cortile-di-casa-spara-e-ne-uccide-uno_429cff5c-6919-453f-8bc2-d4f97a4591b4.html",
+     "data": "2026-09-20T10:20:13+00:00"
     },
     {
-     "titolo": "Yemen, in 24 ore 48 morti negli scontri tra Houthi e forze governative",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/yemen-in-24-ore-48-morti-negli-scontri-tra-houthi-e-forze-governative_b0e69eee-df73-424f-8ee6-513708c772ee.html",
-     "data": "2026-09-19T15:55:16+00:00"
+     "titolo": "Sorprende ladri nel cortile di casa, spara e ne uccide uno",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/20/sorprende-ladri-nel-cortile-di-casa-spara-e-ne-uccide-uno_0274edf3-81db-45f2-80d6-fecd1ee937a3.html",
+     "data": "2026-09-20T10:05:44+00:00"
     },
     {
-     "titolo": "Conte, da Nova emerge mandato chiaro, no ad armi e riarmo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/conte-da-nova-emerge-mandato-chiaro-no-ad-armi-e-riarmo_c339815e-f622-42fe-8d7a-5f3dd2cde81c.html",
-     "data": "2026-09-19T15:53:10+00:00"
+     "titolo": "AfD, riprenderci il Sudtirolo? Una stupidaggine",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/20/afd-riprenderci-il-sudtirolo-una-stupidaggine_6f79c25d-197d-43dc-878e-f884c9f27694.html",
+     "data": "2026-09-20T09:44:08+00:00"
     },
     {
-     "titolo": "Dombrovskis, 'pagamenti del Pnrr possono non essere allineati ai costi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/19/dombrovskis-pagamenti-del-pnrr-possono-non-essere-allineati-ai-costi_0dff53c4-bb61-4ea7-85ae-7ed2d3fa21bb.html",
-     "data": "2026-09-19T13:35:03+00:00"
+     "titolo": "Al via il raduno di Pontida, il pratone intitolato a Umberto Bossi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/20/al-via-il-raduno-di-pontida-il-pratone-intitolato-a-umberto-bossi_6f98b111-d274-4dc4-b4cc-7469f903f009.html",
+     "data": "2026-09-20T09:22:05+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "In sette arrestati nel perugino per furto di rame lungo la ferrovia",
+     "link": "https://www.ansa.it/umbria/notizie/2026/09/20/in-sette-arrestati-nel-perugino-per-furto-di-rame-lungo-la-ferrovia_4d0fe65f-ca44-40c4-a8d2-836b8169c187.html",
+     "data": "2026-09-20T10:28:27+00:00"
+    },
+    {
+     "titolo": "A Orvieto picchetto antifascista contro Vannacci, 'le sue idee una ferita all'Italia'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/09/20/a-orvieto-picchetto-antifascista-contro-vannacci-le-sue-idee-una-ferita-allitalia_855caa80-04a1-4910-a57b-437258089df1.html",
+     "data": "2026-09-20T10:27:34+00:00"
+    },
+    {
+     "titolo": "AfD, riprenderci il Sudtirolo? Una stupidaggine",
+     "link": "https://www.ansa.it/umbria/notizie/2026/09/20/afd-riprenderci-il-sudtirolo-una-stupidaggine_04fd314a-af0b-459f-b696-eb945e89868d.html",
+     "data": "2026-09-20T09:44:12+00:00"
+    },
     {
      "titolo": "Schlein, dall'Umbria metodo di come ci si mette insieme per e non contro",
      "link": "https://www.ansa.it/umbria/notizie/2026/09/19/schlein-dallumbria-metodo-di-come-ci-si-mette-insieme-per-e-non-contro_17b8aea1-39a3-4ba0-a962-a3fb6adfedac.html",
@@ -104,21 +119,6 @@
      "titolo": "Ipotesi fulmine per innesco di un incendio in un deposito di rifiuti a Terni",
      "link": "https://www.ansa.it/umbria/notizie/2026/09/19/ipotesi-fulmine-per-innesco-di-un-incendio-in-un-deposito-di-rifiuti-a-terni_ecf54cac-56ba-4adc-a829-a302f12a4c3a.html",
      "data": "2026-09-19T12:25:34+00:00"
-    },
-    {
-     "titolo": "Incendio a Terni in un deposito all'aperto di rifiuti anche elettronici",
-     "link": "https://www.ansa.it/umbria/notizie/2026/09/19/incendio-a-terni-in-un-deposito-allaperto-di-rifiuti-anche-elettronici_41722428-8a08-4fa8-8b57-1cfe048423b7.html",
-     "data": "2026-09-19T13:32:52+00:00"
-    },
-    {
-     "titolo": "Camera di commercio, nel 2025 per imprese umbregli investimenti spingono il capitale",
-     "link": "https://www.ansa.it/umbria/notizie/2026/09/19/camera-di-commercio-nel-2025-per-imprese-umbregli-investimenti-spingono-il-capitale_d283577b-4598-4334-816d-2b0616f2a7f4.html",
-     "data": "2026-09-19T10:35:46+00:00"
-    },
-    {
-     "titolo": "Sorpresi su un furgone con materiale rubato, carabinieri denunciano padre e figlio",
-     "link": "https://www.ansa.it/umbria/notizie/2026/09/19/sorpresi-su-un-furgone-con-materiale-rubato-carabinieri-denunciano-padre-e-figlio_a67e48ea-8545-41ce-a858-ea8844d20aee.html",
-     "data": "2026-09-19T10:35:42+00:00"
     }
    ]
   },
@@ -126,64 +126,64 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Accoltellato mentre tenta di sedare una lite, arrestato un 19enne a Napoli",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/accoltellato-mentre-tenta-di-sedare-una-lite-arrestato-un-19enne-a-napoli_fbf6585d-d1dd-4fa5-b18e-335f50e67a48.html",
-     "data": "2026-09-20T06:21:02+00:00"
+     "titolo": "Gravissimo ventenne accoltellato a Milano, un arresto per tentato omicidio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/gravissimo-ventenne-accoltellato-a-milano-un-arresto-per-tentato-omicidio_ad2a7a9a-b41f-4e60-929c-874af0795fa1.html",
+     "data": "2026-09-20T11:49:02+00:00"
     },
     {
-     "titolo": "Finisce in moto contro una balaustra, morto 47enne a Milano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/finisce-in-moto-contro-una-balaustra-morto-47enne-a-milano_6d307854-609e-4a0d-8b61-7c8361795a0a.html",
-     "data": "2026-09-20T06:20:15+00:00"
+     "titolo": "Con l'auto investe e uccide donna, indagato per omicidio stradale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/con-lauto-investe-e-uccide-donna-indagato-per-omicidio-stradale_8d6e1a8a-dfc0-4314-ba29-3bad311769b7.html",
+     "data": "2026-09-20T11:05:45+00:00"
     },
     {
-     "titolo": "In moto si scontra con ebike, morto 39enne sull'isola d'Ischia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/in-moto-si-scontra-con-ebike-morto-39enne-sullisola-dischia_2f41dc2b-21d2-4c00-9104-f1733ca7e991.html",
-     "data": "2026-09-20T06:08:10+00:00"
+     "titolo": "Spara e uccide ladro, 35enne indagato per omicidio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/spara-e-uccide-ladro-35enne-indagato-per-omicidio_a9fa9c45-dbe1-401e-ada1-0d7715ec8697.html",
+     "data": "2026-09-20T10:56:58+00:00"
     },
     {
-     "titolo": "Ubriachi in cella picchiano agenti, sette al pronto soccorso",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/ubriachi-in-cella-picchiano-agenti-sette-al-pronto-soccorso_559209c8-b204-4402-8634-f822b84414ab.html",
-     "data": "2026-09-19T20:20:54+00:00"
+     "titolo": "Sorprende ladri nel cortile di casa, spara e ne uccide uno",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/sorprende-ladri-nel-cortile-di-casa-spara-e-ne-uccide-uno_aa5edf4f-3b92-465f-a6b1-46786d0f44c7.html",
+     "data": "2026-09-20T10:20:18+00:00"
     },
     {
-     "titolo": "A Roma due giorni di gare di droni con i big della competizione",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/a-roma-due-giorni-di-gare-di-droni-con-i-big-della-competizione_fda0bd69-ddb1-47db-b9e8-d04ec69d4d5a.html",
-     "data": "2026-09-19T19:04:04+00:00"
+     "titolo": "Sorprende ladri nel cortile di casa, spara e ne uccide uno",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/sorprende-ladri-nel-cortile-di-casa-spara-e-ne-uccide-uno_683a2672-8e24-4efd-bdd8-d3ff905489a0.html",
+     "data": "2026-09-20T10:05:41+00:00"
     },
     {
-     "titolo": "Le chat del 13enne, forse arruolato da gruppi estremisti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/il-video-del-13enne-con-laggressione-alla-prof-ragazzi-guardate-il-tg-dopo_97003dfc-8c9b-4825-bd86-586bae7ac908.html",
-     "data": "2026-09-19T20:08:08+00:00"
+     "titolo": "Sorprende i ladri nel cortile di casa, spara e ne uccide uno",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/sorprende-i-ladri-nel-cortile-di-casa-spara-e-ne-uccide-uno_016cdb4e-c1c9-49c5-80df-5241d7dc17e2.html",
+     "data": "2026-09-20T12:13:42+00:00"
     },
     {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-09-19T19:08:58+00:00"
+     "titolo": "Coldiretti Puglia, grandine e bombe d'acqua su tendoni di uva, danni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/coldiretti-puglia-grandine-e-bombe-dacqua-su-tendoni-di-uva-danni_00c60007-e1c1-4054-baf3-e7e0d48aef6a.html",
+     "data": "2026-09-20T09:52:25+00:00"
     },
     {
-     "titolo": "Oktoberfest al via, torna la festa della birra",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/oktoberfest-al-via-torna-la-festa-della-birra_39dfb88f-3a69-4124-8b50-464bf502f72a.html",
-     "data": "2026-09-19T16:47:52+00:00"
+     "titolo": "Escursionista si perde sul Pollino, salvato da drone con termocamera",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/escursionista-si-perde-sul-pollino-salvato-da-drone-con-termocamera_d6831ec4-1fa5-44b7-9801-bc9d20e3d610.html",
+     "data": "2026-09-20T09:36:40+00:00"
     },
     {
-     "titolo": "Omicidio Nada Cella, il 18 gennaio il processo d'appello",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/omicidio-nada-cella-il-18-gennaio-il-processo-dappello_f94bdb50-bb07-490a-a5f0-f1118fce68b6.html",
-     "data": "2026-09-19T18:03:27+00:00"
+     "titolo": "Sorelline ritrovate, indagini su come siano finite nel negozio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/sorelline-ritrovate-indagini-su-come-siano-finite-nel-negozio_ed21639e-3ec7-49aa-ba2f-5efe1dc040a5.html",
+     "data": "2026-09-20T10:22:22+00:00"
     },
     {
-     "titolo": "Valditara, premierò lo studente che ha bloccato il 13enne a Roma",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/valditara-premiero-lo-studente-che-ha-bloccato-il-13enne-a-roma_29739b6e-7795-4c30-9a63-5b884f2460ef.html",
-     "data": "2026-09-19T16:35:36+00:00"
+     "titolo": "Ciclista di 15 anni investito da un'auto, è gravissimo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/ciclista-di-15-anni-investito-da-unauto-e-gravissimo_d30215f1-43e1-4f29-a2f1-f1508d902498.html",
+     "data": "2026-09-20T08:42:08+00:00"
     },
     {
-     "titolo": "Precipita da una ferrata e muore nel Vicentino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/precipita-da-una-ferrata-e-muore-nel-vicentino_7323da74-734a-4a4e-bdc7-514bdfd2469e.html",
-     "data": "2026-09-19T18:04:03+00:00"
+     "titolo": "Percosse a una donna disabile, arrestata la badante dopo la condanna",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/percosse-a-una-donna-disabile-arrestata-la-badante-dopo-la-condanna_9fbd2024-b207-4267-a72a-309da69887f0.html",
+     "data": "2026-09-20T08:45:14+00:00"
     },
     {
-     "titolo": "Spin Time 'in 50mila in corteo, restituire il palazzo al pubblico'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/spin-time-in-50mila-in-corteo-restituire-il-palazzo-al-pubblico_dbc308d8-cbd2-49ee-9b92-e45206a27a88.html",
-     "data": "2026-09-19T17:48:33+00:00"
+     "titolo": "Quarantenne accoltellato fuori da un bar, è in prognosi riservata a Rovigo",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/quarantenne-accoltellato-fuori-da-un-bar-e-in-prognosi-riservata-a-rovigo_75f113b2-fa37-4aa5-8fa6-fbb85b9be010.html",
+     "data": "2026-09-20T08:15:50+00:00"
     }
    ]
   },
@@ -191,70 +191,80 @@
    "nome": "Politica",
    "voci": [
     {
-     "titolo": "Schlein, dall'Umbria metodo di come ci si mette insieme per e non contro",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/schlein-dallumbria-metodo-di-come-ci-si-mette-insieme-per-e-non-contro_c173b150-30d4-46a4-8708-84e14e370ea1.html",
-     "data": "2026-09-19T20:13:06+00:00"
+     "titolo": "Salvini, domani proporrò Congresso straordinario a ottobre",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/salvini-domani-proporro-congresso-straordinario-a-ottobre_db278c60-567a-40e6-99d0-ff75ffdbcfdd.html",
+     "data": "2026-09-20T11:40:28+00:00"
     },
     {
-     "titolo": "Regge la tregua di Pontida ma Salvini non cede: 'Si vince uniti da nord a sud'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/salvini-a-pontida-la-lega-vince-solo-se-e-forte-e-unita-da-nord-a-sud_dc5905ed-0d59-4546-bbba-3f9b25a0aa92.html",
-     "data": "2026-09-19T19:17:51+00:00"
+     "titolo": "Meloni a Schlein, non trovi argomenti veri per attaccarci, te li passo sottobanco...",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/meloni-a-schlein-non-trovi-argomenti-veri-per-attaccarci-te-li-passo-sottobanco..._7c5a9534-b939-43a2-a235-2a23fdaa6a90.html",
+     "data": "2026-09-20T10:46:18+00:00"
     },
     {
-     "titolo": "Conte avverte gli alleati: 'Il mandato di Nova è chiaro: sulle armi non cedo'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/conte-assolvero-il-mandato-di-nova-no-al-vivacchiare-della-politica_9e587ba7-024f-4f2b-89fc-5d26d37786bf.html",
-     "data": "2026-09-19T19:47:20+00:00"
+     "titolo": "Meloni: 'In classe numero massimo di stranieri e divieto di burqa, norma in arrivo'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/meloni-in-classe-numero-massimo-di-stranieri-e-divieto-di-burqa-norma-in-arrivo_eee88fcc-7ab4-4a71-864f-6699535148f3.html",
+     "data": "2026-09-20T12:14:38+00:00"
     },
     {
-     "titolo": "Conte, da Nova emerge mandato chiaro, no ad armi e riarmo",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/conte-da-nova-emerge-mandato-chiaro-no-ad-armi-e-riarmo_9d005f72-5c5d-4f03-9414-23dcd048aaf3.html",
-     "data": "2026-09-19T15:53:10+00:00"
+     "titolo": "Sardone, 'sono pronta alle primarie, Milano va liberata'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/sardone-sono-pronta-alle-primarie-milano-va-liberata_460248fd-c889-4a24-a951-4f8eb4f90d0a.html",
+     "data": "2026-09-20T10:40:33+00:00"
     },
     {
-     "titolo": "Il governatore Bardi nuovo segretario regionale di Forza Italia Basilicata",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/il-governatore-bardi-nuovo-segretario-regionale-di-forza-italia-basilicata_9f272516-6882-4ff8-bffa-699c8d3f0fdf.html",
-     "data": "2026-09-19T15:05:22+00:00"
+     "titolo": "Meloni, in classe numero massimo di stranieri e divieto di burqa, norma in arrivo",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/meloni-in-classe-numero-massimo-di-stranieri-e-divieto-di-burqa-norma-in-arrivo_2e9e9164-03a3-4832-b781-401b36f7a11e.html",
+     "data": "2026-09-20T10:38:07+00:00"
     },
     {
-     "titolo": "'Garantire la sicurezza', Difesa studia opzioni sui contingenti italiani",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/la-sicurezza-dei-militari-italiani-in-medio-oriente-la-difesa-studia-le-opzioni_5495f366-5201-43e4-86a9-3c4c87c7b9c1.html",
-     "data": "2026-09-19T18:49:11+00:00"
+     "titolo": "Il Papa, 'non dimenticare la storia per non ripetere gli errori del passato'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/il-papa-non-dimenticare-la-storia-per-non-ripetere-gli-errori-del_9fa4f8e0-6a47-4d38-aa54-a42374f1342f.html",
+     "data": "2026-09-20T10:27:41+00:00"
     },
     {
-     "titolo": "Prodi, come si concilia posizione sui disertori di Virginia Libero con linea partito?",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/prodi-come-si-concilia-posizione-sui-disertori-di-virginia-libero-con-linea_41a20c9e-5d95-431e-bc3b-338013b54540.html",
-     "data": "2026-09-19T13:30:32+00:00"
+     "titolo": "A Orvieto picchetto antifascista contro Vannacci, 'le sue idee una ferita all'Italia'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/a-orvieto-picchetto-antifascista-contro-vannacci-le-sue-idee-una-ferita-allitalia_8d4b34ef-7631-4791-9d36-773c1a6cdbe1.html",
+     "data": "2026-09-20T10:25:28+00:00"
     },
     {
-     "titolo": "La Russa, al pareggio preferisco la sconfitta. Evita squadre con programmi opposti",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/la-russa-al-pareggio-preferisco-la-sconfitta.-evita-squadre-con-programmi-opposti_a364edd1-b294-49df-93d3-55ccea1fab60.html",
-     "data": "2026-09-19T13:28:58+00:00"
+     "titolo": "Il Papa, con la pace guadagniamo tutti, Dio ha disegni più 'umani' di noi",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/il-papa-con-la-pace-guadagniamo-tutti-dio-ha-disegni-piu-umani-di-noi_cbc307a2-b93f-458b-9d04-5480098b37ed.html",
+     "data": "2026-09-20T10:09:00+00:00"
     },
     {
-     "titolo": "Ricciardi (M5S), anche per scelta leader si coinvolgano le persone",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/ricciardi-m5s-anche-per-scelta-leader-si-coinvolgano-le-persone_898cf135-859e-4ed3-835b-e2e6cf552dae.html",
-     "data": "2026-09-19T13:25:44+00:00"
+     "titolo": "AfD, riprenderci il Sudtirolo? Una stupidaggine",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/afd-riprenderci-il-sudtirolo-una-stupidaggine_c7144474-3ce6-44e8-b7ec-d454d64caf38.html",
+     "data": "2026-09-20T09:43:57+00:00"
     },
     {
-     "titolo": "La casa chiede spazio in manovra, da cedolare negozi ad antisisma",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/salvini-dal-2022-sgomberate-6mila-case-occupate-abusivamente_67813179-3faf-4a41-82f7-b5310d6fc228.html",
-     "data": "2026-09-19T16:57:09+00:00"
+     "titolo": "Al via il raduno di Pontida, il pratone intitolato a Umberto Bossi",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/al-via-il-raduno-di-pontida-il-pratone-intitolato-a-umberto-bossi_ffe0691e-c963-4730-8ed3-f78985559b1f.html",
+     "data": "2026-09-20T09:22:07+00:00"
     },
     {
-     "titolo": "Renzi avverte il campo largo: 'Senza di noi non si vince'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/renzi-election-day-a-maggio-2027-meloni-ci-porti-a-votare_d2d169a5-eede-42c8-af4f-bc8f0f020982.html",
-     "data": "2026-09-19T16:02:44+00:00"
+     "titolo": "Conte chiude Nova 2026, attesa per il voto degli iscritti sul programma",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/conte-chiude-nova-2026-attesa-per-il-voto-degli-iscritti-sul_ca10f9cf-b895-48ab-9ef5-d76d72d5f3ea.html",
+     "data": "2026-09-20T10:01:50+00:00"
     },
     {
-     "titolo": "A Orvieto il manifesto di Vannacci-Alemanno della nuova destra. 'Meloni scelga'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/vannacci-e-alemanno-insieme-a-orvieto-fdi-invitata-ma-nessuna-risposta_c3221c87-88c2-489e-870b-5625a19b2b33.html",
-     "data": "2026-09-19T18:28:33+00:00"
+     "titolo": "Zaia, nella Lega un segretario c'è già, il riferimento resti il Nord",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/zaia-nella-lega-un-segretario-ce-gia-il-riferimento-resti-il-nord_c17c603e-de52-4ebf-ad88-59a89fad82a1.html",
+     "data": "2026-09-20T09:09:10+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Mimit, ancora aumenti gasolio self in autostrada a 2,413 euro al litro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/20/mimit-ancora-aumenti-gasolio-self-in-autostrada-a-2413-euro-al-litro_fe4b135e-b537-45a8-8982-5f7fd95efa0e.html",
+     "data": "2026-09-20T09:12:48+00:00"
+    },
+    {
+     "titolo": "Guerra e incertezza pesano sui conti del settore del lusso",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/20/guerra-e-incertezza-pesano-sui-conti-del-settore-del-lusso_4437028e-cb8f-4417-a183-01195bc8f7af.html",
+     "data": "2026-09-20T09:04:48+00:00"
+    },
     {
      "titolo": "Bruxelles chiarisce su fondi Pnrr per il taglio del bollo, 'ci sono margini'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/bruxelles-chiarisce-su-fondi-pnrr-per-il-taglio-del-bollo-ci-sono-margini_60f8c90f-671c-4530-8048-de1e819f00e3.html",
@@ -284,36 +294,6 @@
      "titolo": "Cgia, il credito al consumo sfiora i 178 miliardi, in 9 anni +62%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/cgia-il-credito-al-consumo-sfiora-i-178-miliardi-in-9-anni-62_05abb6b6-e380-4b59-a078-c891014e6eed.html",
      "data": "2026-09-19T09:30:02+00:00"
-    },
-    {
-     "titolo": "Abi: 'Ad agosto accelerano prestiti a famiglie e imprese, tassi al 4,19%'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/abiad-agosto-accelerano-prestiti-a-famiglie-e-imprese-tassi-al-419_d25625fe-d033-4045-9935-c56be86c0a5e.html",
-     "data": "2026-09-19T15:35:53+00:00"
-    },
-    {
-     "titolo": "Cna, \"la bolletta dell'energia aumenta ancora per tre pmi su quattro\"",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/cna-la-bolletta-dellenergia-aumenta-ancora-per-tre-pmi-su-quattro_e37f5aa0-7517-467d-88c6-52e7eec9d952.html",
-     "data": "2026-09-19T08:24:47+00:00"
-    },
-    {
-     "titolo": "Prezzi, da guerra in Iran impatto fino a 24,6 miliardi sulle famiglie italiane",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/prezzi-da-guerra-in-iran-impatto-fino-a-246-miliardi-sulle-famiglie-italiane_949b5b5c-0183-4ffd-8b0b-7f8175ea96fe.html",
-     "data": "2026-09-19T09:34:24+00:00"
-    },
-    {
-     "titolo": "Con il caro-energia picco dell'inflazione al 3,7% nel 2027 e crollo pil a 0,6%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/sangalli-contro-caro-energia-agire-subito-a-rischio-consumi-e-crescita_7c51b047-9cac-4203-a3d8-e39560137d11.html",
-     "data": "2026-09-19T16:44:04+00:00"
-    },
-    {
-     "titolo": "Il petrolio chiude in calo a New York a 100,30 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/il-petrolio-chiude-in-calo-a-new-york-a-10030-dollari_0d9192ca-6fa1-4f01-9221-d378691ad062.html",
-     "data": "2026-09-18T18:46:20+00:00"
-    },
-    {
-     "titolo": "Cva, attribuite deleghe ad amministratore delegato Gianfilippo Mancini",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/cva-attribuite-deleghe-ad-amministratore-delegato-gianfilippo-mancini_2aa8aaca-d3ac-4b25-99b1-2445aae965a2.html",
-     "data": "2026-09-18T17:21:00+00:00"
     }
    ]
   },
@@ -321,64 +301,64 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Media, 'a Ceuta circa 1.000 minori senza un posto in cui dormire'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/media-a-ceuta-circa-1.000-minori-senza-un-posto-in-cui-dormire_4adb5bbb-f36f-4920-8f76-adeb060b735d.html",
+     "data": "2026-09-20T12:23:15+00:00"
+    },
+    {
+     "titolo": "Sybiha, da tanti colleghi stranieri complimenti per il 'burning day' di Mosca",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/sybiha-da-tanti-colleghi-stranieri-complimenti-per-il-burning-day-di-mosca_1524d81e-f1b7-4023-bd37-b8264adc5d04.html",
+     "data": "2026-09-20T11:38:21+00:00"
+    },
+    {
+     "titolo": "'Trump consapevole che le difficoltà del partito alle midterm sono in parte colpa sua'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/20/trump-consapevole-che-le-difficolta-del-partito-alle-midterm-sono-in-parte_0362f2ec-9763-4699-97ba-2178ed70526f.html",
+     "data": "2026-09-20T11:33:47+00:00"
+    },
+    {
+     "titolo": "Parlamentari Gb chiedono lo stop ai cappelli d'orso delle guardie reali",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/parlamentari-gb-chiedono-lo-stop-ai-cappelli-dorso-delle-guardie-reali_57b313f6-319e-4ef1-95b4-62052fa641be.html",
+     "data": "2026-09-20T10:59:05+00:00"
+    },
+    {
+     "titolo": "Perù, stato di emergenza contro la criminalità nei distretti di Pisco e San Andrés",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/20/peru-stato-di-emergenza-contro-la-criminalita-nei-distretti-di-pisco-e-san-andres_702c42f0-a56c-4f11-b2f5-71193aab086e.html",
+     "data": "2026-09-20T10:31:56+00:00"
+    },
+    {
+     "titolo": "In Germania seggi aperti a Berlino e nel Meclemburgo Pomerania",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/in-germania-seggi-aperti-a-berlino-e-nel-meclemburgo-pomerania_5f70045b-e446-4543-87ac-262756ed734e.html",
+     "data": "2026-09-20T09:08:51+00:00"
+    },
+    {
+     "titolo": "Zelensky, 'nell'attacco su Mosca usati anche missili da crociera e balistici'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/zelensky-nellattacco-su-mosca-usati-anche-missili-da-crociera-e-balistici_39c1cca6-0722-4bff-88c7-2df4a2e4ef70.html",
+     "data": "2026-09-20T08:37:57+00:00"
+    },
+    {
+     "titolo": "Ghalibaf, 'se non saranno soddisfatte le nostre condizioni Hormuz resterà chiuso'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/ghalibaf-se-non-saranno-soddisfatte-le-nostre-condizioni-hormuz-restera-chiuso_29156ac9-a55d-43b7-8551-ad9b906ef468.html",
+     "data": "2026-09-20T07:35:20+00:00"
+    },
+    {
+     "titolo": "Seul, 'la Corea del Nord ha lanciato un proiettile verso il mar del Giappone'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/20/seul-la-corea-del-nord-ha-lanciato-un-proiettile-verso-il-mar-del-giappone_c2c4a65f-bcca-4341-b26c-c82e81167e57.html",
+     "data": "2026-09-20T07:29:44+00:00"
+    },
+    {
+     "titolo": "Leader Hezbollah, 'la resistenza è l'unica via per liberare la nostra terra'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/leader-hezbollah-la-resistenza-e-lunica-via-per-liberare-la-nostra-terra_d7d3acd6-9fa5-4236-874b-5bc70cb628fd.html",
+     "data": "2026-09-20T07:25:40+00:00"
+    },
+    {
+     "titolo": "Tanzania, 'dieci leoni morti avvelenati nella riserva patrimonio Unesco'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/20/tanzania-dieci-leoni-morti-avvelenati-nella-riserva-patrimonio-unesco_11a14817-4eeb-4793-a083-74c744c78cb8.html",
+     "data": "2026-09-20T07:22:49+00:00"
+    },
+    {
      "titolo": "Macron, 'accordo su Groenlandia placa gli animi e riafferma la sovranità danese'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/19/macron-accordo-su-groenlandia-placa-gli-animi-e-riafferma-la-sovranita-danese_d9c1cef6-fe45-4472-910b-70eb96194b4a.html",
      "data": "2026-09-19T21:47:39+00:00"
-    },
-    {
-     "titolo": "Ambasciata Usa In Israele, 'americani alzino livello vigilanza dopo i raid Houthi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/ambasciata-usa-in-israele-americani-alzino-livello-vigilanza-dopo-i-raid-houthi_6fdee733-ca6b-4412-8cf1-9db9a1fc6e34.html",
-     "data": "2026-09-19T21:07:22+00:00"
-    },
-    {
-     "titolo": "Bachelet ritira la candidatura per la segreteria generale Onu",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/bachelet-ritira-la-candidatura-per-la-segreteria-generale-onu_b428de69-71cb-4859-85ac-8648fb7bc0b4.html",
-     "data": "2026-09-19T19:36:49+00:00"
-    },
-    {
-     "titolo": "Corteo a Tunisi per la liberazione dei quattro attivisti della Flotilla Soumoud",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/19/corteo-a-tunisi-per-la-liberazione-dei-quattro-attivisti-della-flotilla-soumoud_26a9f457-d0b8-44b3-8f22-7e3b7cec701a.html",
-     "data": "2026-09-19T18:30:17+00:00"
-    },
-    {
-     "titolo": "Houthi rivendicano, 'colpiti obiettivi sensibili a Riad e impianti Aramco a Yanbu'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/houthi-rivendicano-colpiti-obiettivi-sensibili-a-riad-e-impianti-aramco-a-yanbu_04c4d8af-2179-49dd-b480-9a5d53a08e81.html",
-     "data": "2026-09-19T17:36:59+00:00"
-    },
-    {
-     "titolo": "L'Honduras prepara il bombardamento delle nuvole contro la siccità",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/lhonduras-prepara-il-bombardamento-delle-nuvole-contro-la-siccita_bc8d8b49-16d2-40bd-94f4-ed1bb295bf63.html",
-     "data": "2026-09-19T16:12:19+00:00"
-    },
-    {
-     "titolo": "Berlinesi al voto fra l'emergenza casa e la rabbia per il degrado",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/berlinesi-al-voto-fra-lemergenza-casa-e-la-rabbia-per-il-degrado_2fe64173-3402-44a1-97c1-eb5976688ef8.html",
-     "data": "2026-09-19T16:06:39+00:00"
-    },
-    {
-     "titolo": "Ex Pussy Riot, 'io reclutata da Mosca e costretta a spiare per loro'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/ex-pussy-riot-io-reclutata-da-mosca-e-costretta-a-spiare-per-loro_79b6d236-4d05-4a94-b1d9-88b419de7c9d.html",
-     "data": "2026-09-19T16:02:46+00:00"
-    },
-    {
-     "titolo": "Scarponi distrutti dal freddo, imbarazzo per i Marines nell'Artico con la Nato",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/scarponi-distrutti-dal-freddo-imbarazzo-per-i-marines-nellartico-con-la-nato_3536e949-8c04-4cce-b8df-df20358e09ae.html",
-     "data": "2026-09-19T16:00:43+00:00"
-    },
-    {
-     "titolo": "Abusi e maltrattamenti sulle migranti nei centri di Ceuta, aperta un'indagine",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/abusi-e-maltrattamenti-sulle-migranti-nei-centri-di-ceuta-aperta-unindagine_652164a8-f697-485c-b6c7-8b837b32a6ce.html",
-     "data": "2026-09-19T15:58:07+00:00"
-    },
-    {
-     "titolo": "Media, 'Netanyahu accorcia la visita negli Usa, non vedrà Elon Musk'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/19/media-netanyahu-accorcia-la-visita-negli-usa-non-vedra-elon-musk_42e774fa-8034-42b6-b4f5-13845dd119ef.html",
-     "data": "2026-09-19T15:56:56+00:00"
-    },
-    {
-     "titolo": "Media, 'Netanyahu accorcia la visita negli Usa, non vedrà Elon Musk'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/media-netanyahu-accorcia-la-visita-negli-usa-non-vedra-elon-musk_6df0b58a-596c-4233-9672-47510a87e1f1.html",
-     "data": "2026-09-19T15:57:14+00:00"
     }
    ]
   },
@@ -451,64 +431,64 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Serie A: Fiorentina-Napoli in campo alle 12.30 DIRETTA",
+     "titolo": "Domani i funerali di Sandro Mazzola, niente tv e fotografi in Basilica",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/domani-i-funerali-di-sandro-mazzola-niente-tv-e-fotografi-in-basilica_68b12d00-0e05-42aa-aebd-f41404978063.html",
+     "data": "2026-09-20T11:57:34+00:00"
+    },
+    {
+     "titolo": "Domani a Milano i funerali di Sandro Mazzola",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/20/domani-a-milano-i-funerali-di-sandro-mazzola_0cfc7294-fd9d-404c-9f1c-0b3aa02d13e5.html",
+     "data": "2026-09-20T12:12:33+00:00"
+    },
+    {
+     "titolo": "Davis: il Canada si qualifica per le Finals di Bologna",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/20/davis-il-canada-si-qualifica-per-le-finals-di-bologna_00efbe1e-b2d3-48e9-a167-9a0a50e129e1.html",
+     "data": "2026-09-20T11:53:28+00:00"
+    },
+    {
+     "titolo": "Mondiali su strada, con Crippa chiude la super stagione dell'atletica",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/20/mondiali-su-strada-con-crippa-chiude-la-super-stagione-dellatletica_5eb77a0d-0ab0-4f61-88ee-4f01c76e647d.html",
+     "data": "2026-09-20T11:51:49+00:00"
+    },
+    {
+     "titolo": "Serie A: Parma-Genoa in campo DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-parma-genoa-in-campo-diretta_8852d9e7-1382-4d2b-91aa-eb29aab14c47.html",
+     "data": "2026-09-20T11:29:12+00:00"
+    },
+    {
+     "titolo": "Serie A: Frosinone-Como in campo DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-frosinone-como-in-campo-diretta_a16575d6-66fe-4050-b634-b38b963e6302.html",
+     "data": "2026-09-20T11:28:00+00:00"
+    },
+    {
+     "titolo": "Calcio: Francia, il presidente del Psg indagato per conflitto di interessi",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/calcio-francia-il-presidente-del-psg-indagato-per-conflitto-di-interessi_1da6ab5f-77af-4729-9f48-ec02f3c96d2a.html",
+     "data": "2026-09-20T10:47:19+00:00"
+    },
+    {
+     "titolo": "Calcio: risentimento muscolare per Wesley, niente Brasile per lui",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/calcio-risentimento-muscolare-per-wesley-niente-brasile-per-lui_6b03f1c8-c911-4562-a4fa-cf37574e1007.html",
+     "data": "2026-09-20T10:38:52+00:00"
+    },
+    {
+     "titolo": "Nuoto: ancora un'impresa della cinese Yu, campionessa d'Asia a soli 13 anni",
+     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/09/20/nuoto-ancora-unimpresa-della-cinese-yu-campionessa-dasia-a-soli-13-anni_268c6c83-5973-4520-8eda-13da3ec09426.html",
+     "data": "2026-09-20T10:34:43+00:00"
+    },
+    {
+     "titolo": "Calcio: Torino, Mandragora 'vogliamo e pretendiamo di più da noi'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/calcio-torino-mandragora-vogliamo-e-pretendiamo-di-piu-da-noi_aef39862-b565-4950-ba65-c6b27e50b5e4.html",
+     "data": "2026-09-20T10:25:06+00:00"
+    },
+    {
+     "titolo": "Serie A, Fiorentina-Napoli in campo DIRETTA",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-fiorentina-napoli-in-campo-alle-12.30-diretta_58e62a85-e3ca-4f29-b244-4913260b8f2a.html",
-     "data": "2026-09-20T07:06:14+00:00"
+     "data": "2026-09-20T12:09:21+00:00"
     },
     {
      "titolo": "Basket in carrozzina, storico argento ai Mondiali per l'Italia",
      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/20/basket-in-carrozzina-storico-argento-ai-mondiali-per-litalia_032b8023-1eae-486c-b458-2701bf1cccfa.html",
      "data": "2026-09-19T22:20:05+00:00"
-    },
-    {
-     "titolo": "Calcio: Stroppa, 'la classifica non rispecchia quanto ha fatto la squadra'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/calcio-stroppa-la-classifica-non-rispecchia-quanto-ha-fatto-la-squadra_ca8e6763-acee-43ef-8f60-d02859916470.html",
-     "data": "2026-09-19T21:52:01+00:00"
-    },
-    {
-     "titolo": "Serie A: Gattuso frena l'entusiasmo, 'abbiamo fatto di tutto per farli segnare'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-gattuso-frena-lentusiasmo-abbiamo-fatto-di-tutto-per-farli-segnare_d9bcb3a2-9462-46f5-a7e5-7c19f8bfec50.html",
-     "data": "2026-09-19T21:39:25+00:00"
-    },
-    {
-     "titolo": "La Lazio vince 2-0 a Venezia e raggiunge Inter e Roma in vetta",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/la-lazio-vince-2-0-a-venezia-e-raggiunge-inter-e-roma-in-vetta_6df52126-fcd2-4cdd-9cc1-bfea86b586e4.html",
-     "data": "2026-09-19T21:41:00+00:00"
-    },
-    {
-     "titolo": "Liga: tripletta di Raphinha, il Barcellona ribalta il Siviglia e consolida la vetta",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/liga-tripletta-di-raphinha-il-barcellona-ribalta-il-siviglia-e-consolida-la-vetta_20b73fe6-f24b-41af-8149-016feeedd8a6.html",
-     "data": "2026-09-19T21:09:14+00:00"
-    },
-    {
-     "titolo": "Serie A: Zaccagni e Noslin stendono il Venezia, la Lazio torna in testa",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-zaccagni-e-noslin-stendono-il-venezia-la-lazio-torna-in-testa_74829b70-9699-40c8-83c9-f7ad3ca6a7c6.html",
-     "data": "2026-09-19T20:37:11+00:00"
-    },
-    {
-     "titolo": "Milano batte la Virtus Bologna, in finale di Supercoppa c'è Venezia",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/19/milano-batte-la-virtus-bologna-in-finale-di-supercoppa-ce-venezia_f9642ccc-e765-4966-a502-9b0b57c1df96.html",
-     "data": "2026-09-19T22:22:11+00:00"
-    },
-    {
-     "titolo": "Il Real Madrid vince la nuova SuperCup di Eurolega, Olympiakos ko",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/19/il-real-madrid-vince-la-nuova-supercup-di-eurolega-olympiakos-ko_2b45d748-207e-47ba-9a8f-924c560903aa.html",
-     "data": "2026-09-19T19:42:24+00:00"
-    },
-    {
-     "titolo": "Il Barcellona non si frema più, l'Arsenal crolla 3-0 a Brighton",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/larsenal-crolla-3-0-a-brighton-arteta-ci-sia-di-lezione_dc27172d-3ea7-4f33-9c20-a271cdb882d6.html",
-     "data": "2026-09-19T21:34:54+00:00"
-    },
-    {
-     "titolo": "Serie A: Chivu, 'bene la ripresa, sul primo tempo ho detto tutto all'intervallo'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-chivu-bene-la-ripresa-sul-primo-tempo-ho-detto-tutto-allintervallo_07abf859-b876-411a-b5be-d26d274ea36f.html",
-     "data": "2026-09-19T18:45:34+00:00"
-    },
-    {
-     "titolo": "Serie A: Gasperini, 'partita che ci dà consapevolezza, sempre provato a vincere'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-gasperini-partita-che-ci-da-consapevolezza-sempre-provato-a-vincere_1fc28e16-1851-4363-9f51-5bd74df52fe0.html",
-     "data": "2026-09-19T18:42:22+00:00"
     }
    ]
   }
