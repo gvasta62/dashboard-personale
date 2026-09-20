@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-20T18:54:59.409003+00:00",
+ "aggiornato": "2026-09-20T21:06:00.323328+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Fedriga dai lavoratori Electrolux che presenziano a Pordenonelegge",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/fedriga-dai-lavoratori-electrolux-che-presenziano-a-pordenonelegge_05a330a0-3482-4ef3-94f3-7068ec8b5cda.html",
+     "data": "2026-09-20T19:34:11+00:00"
+    },
+    {
      "titolo": "Insegue il pallone e viene travolto dal bus, 12enne gravissimo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/insegue-il-pallone-e-viene-travolto-dal-bus-12enne-gravissimo_37663a97-b77b-447e-bafc-3a67057b3b4c.html",
      "data": "2026-09-20T18:29:36+00:00"
@@ -168,7 +173,7 @@
     {
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-09-20T16:46:20+00:00"
+     "data": "2026-09-20T19:20:46+00:00"
     },
     {
      "titolo": "Valditara, 'l'opposizione ha nostalgia delle classi ghetto'",
@@ -179,11 +184,6 @@
      "titolo": "Una 24enne in testa al campionato dei droni, ha vinto la tappa di Roma",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/una-24enne-in-testa-al-campionato-dei-droni-ha-vinto-la-tappa-di-roma_ad501624-018e-4db2-8eb0-6bf306096d9d.html",
      "data": "2026-09-20T17:24:04+00:00"
-    },
-    {
-     "titolo": "In Italia 930mila alunni stranieri, sono oltre l'11%",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/in-italia-930mila-alunni-stranieri-sono-oltre-l11_d061dbc4-b6a2-409b-8ee9-1dab1317329a.html",
-     "data": "2026-09-20T16:26:28+00:00"
     }
    ]
   },
@@ -421,6 +421,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: Il Milan reagisce, Lecce battuto 3-0 e vetta a -2",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-il-milan-reagisce-lecce-battuto-3-0-e-vetta-a-2_e53a5b82-704a-469c-9b9c-515ccb840563.html",
+     "data": "2026-09-20T21:03:10+00:00"
+    },
+    {
+     "titolo": "Eurovolley: Danimarca battuta in tre set, Italia ai quarti",
+     "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/20/eurovolley-danimarca-battuta-in-tre-set-italia-ai-quarti_65f76b35-9640-47a2-b8ce-5f185d435be0.html",
+     "data": "2026-09-20T20:57:02+00:00"
+    },
+    {
+     "titolo": "Francia, Butez del Como sostituisce l'infortunato Risser",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/francia-butez-del-como-sostituisce-linfortunato-risser_b1ad7bf7-ec8d-49ad-bcfa-c5c389518765.html",
+     "data": "2026-09-20T20:36:31+00:00"
+    },
+    {
+     "titolo": "Mondiali di ciclismo: Evenepoel domina la crono, un Ganna d'argento si inchina ancora",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/20/mondiali-di-ciclismo-evenepoel-domina-la-crono-un-ganna-dargento-si-inchina-ancora_405461e8-3504-4ec3-a65c-b75ac56f805a.html",
+     "data": "2026-09-20T20:08:21+00:00"
+    },
+    {
      "titolo": "Cori e spalle, la curva della Juve non rispetta il minuto per Mazzola",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/20/cori-e-spalle-la-curva-della-juve-non-rispetta-il-minuto-per-mazzola_40a0d083-21c1-4a39-9cb7-7e0f3809dc43.html",
      "data": "2026-09-20T18:36:49+00:00"
@@ -433,7 +453,7 @@
     {
      "titolo": "Serie A: Conceicao più Bremer, la Juve batte l'Atalanta ed è a -3 dalla vetta",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-juventus-atalanta-2-0_64b2f6be-3aa2-476e-9403-48b2a88a021b.html",
-     "data": "2026-09-20T18:39:11+00:00"
+     "data": "2026-09-20T19:17:05+00:00"
     },
     {
      "titolo": "La Russa 'Mazzola leggenda di tutti, la grandezza non si misura da queste meschinità'",
@@ -459,26 +479,6 @@
      "titolo": "Fabregas 'abbiamo perso dopo 5 mesi, dal Frosinone grande prestazione'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/fabregas-abbiamo-perso-dopo-5-mesi-dal-frosinone-grande-prestazione_5fec8382-58d2-47fe-ac77-c488e2f045fa.html",
      "data": "2026-09-20T17:14:26+00:00"
-    },
-    {
-     "titolo": "Serie A: Milan-Lecce in campo DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-milan-lecce-in-campo-alle-20.45-diretta_e53a5b82-704a-469c-9b9c-515ccb840563.html",
-     "data": "2026-09-20T18:51:02+00:00"
-    },
-    {
-     "titolo": "Coppa Davis: la Germania di Zverev ai quarti, avanza anche la Spagna",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/20/coppa-davis-la-germania-di-zverev-ai-quarti-avanza-anche-la-spagna_d34bc134-74ba-46ae-b90d-8049b68f7a86.html",
-     "data": "2026-09-20T17:06:33+00:00"
-    },
-    {
-     "titolo": "Liga: il Real resta in 10, l'Atletico ne approfitta e vince il derby di Madrid",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/liga-il-real-resta-in-10-latletico-ne-approfitta-e-vince-il-derby-di-madrid_2ee3476c-2a18-49be-af3a-dc5d3a2400a7.html",
-     "data": "2026-09-20T16:30:44+00:00"
-    },
-    {
-     "titolo": "Calcio: la Nazionale si raduna a Coverciano, out Cristante",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/calcio-la-nazionale-si-raduna-a-coverciano-out-cristante_19bce823-70b0-44ca-9195-550e1d301767.html",
-     "data": "2026-09-20T16:29:41+00:00"
     }
    ]
   }
