@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-20T01:46:51.103135+00:00",
+ "aggiornato": "2026-09-20T07:08:03.252659+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Accoltellato mentre tenta di sedare una lite, arrestato un 19enne a Napoli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/accoltellato-mentre-tenta-di-sedare-una-lite-arrestato-un-19enne-a-napoli_fbf6585d-d1dd-4fa5-b18e-335f50e67a48.html",
+     "data": "2026-09-20T06:21:02+00:00"
+    },
+    {
+     "titolo": "Finisce in moto contro una balaustra, morto 47enne a Milano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/finisce-in-moto-contro-una-balaustra-morto-47enne-a-milano_6d307854-609e-4a0d-8b61-7c8361795a0a.html",
+     "data": "2026-09-20T06:20:15+00:00"
+    },
+    {
+     "titolo": "In moto si scontra con ebike, morto 39enne sull'isola d'Ischia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/in-moto-si-scontra-con-ebike-morto-39enne-sullisola-dischia_2f41dc2b-21d2-4c00-9104-f1733ca7e991.html",
+     "data": "2026-09-20T06:08:10+00:00"
+    },
+    {
      "titolo": "Ubriachi in cella picchiano agenti, sette al pronto soccorso",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/ubriachi-in-cella-picchiano-agenti-sette-al-pronto-soccorso_559209c8-b204-4402-8634-f822b84414ab.html",
      "data": "2026-09-19T20:20:54+00:00"
@@ -169,21 +184,6 @@
      "titolo": "Spin Time 'in 50mila in corteo, restituire il palazzo al pubblico'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/spin-time-in-50mila-in-corteo-restituire-il-palazzo-al-pubblico_dbc308d8-cbd2-49ee-9b92-e45206a27a88.html",
      "data": "2026-09-19T17:48:33+00:00"
-    },
-    {
-     "titolo": "A Como 6 a processo per morte di due operai pagati 50 centesimi all'ora",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/a-como-6-a-processo-per-morte-di-due-operai-pagati-50-centesimi-allora_81469cbc-4c2b-4d1f-9d29-e73102a09df2.html",
-     "data": "2026-09-19T17:48:40+00:00"
-    },
-    {
-     "titolo": "Ai pm informativa dei carabinieri su rischio ronde a Rozzano, anche odio razziale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/ai-pm-informativa-dei-carabinieri-su-rischio-ronde-a-rozzano-anche-odio-razziale_b549e26f-0eb4-4845-ba25-095d2c454218.html",
-     "data": "2026-09-19T13:18:00+00:00"
-    },
-    {
-     "titolo": "I tre figli tolti al padre di Fortuna Loffredo: 'In due giorni nessun contatto'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/i-tre-figli-tolti-al-padre-di-fortuna-loffredo-in-due-giorni-nessun-contatto_1dbbbd0f-26fe-4c82-9e7c-d587452bbf42.html",
-     "data": "2026-09-19T12:19:51+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: Fiorentina-Napoli in campo alle 12.30 DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-fiorentina-napoli-in-campo-alle-12.30-diretta_58e62a85-e3ca-4f29-b244-4913260b8f2a.html",
+     "data": "2026-09-20T07:06:14+00:00"
+    },
+    {
      "titolo": "Basket in carrozzina, storico argento ai Mondiali per l'Italia",
      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/20/basket-in-carrozzina-storico-argento-ai-mondiali-per-litalia_032b8023-1eae-486c-b458-2701bf1cccfa.html",
      "data": "2026-09-19T22:20:05+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Serie A: Gasperini, 'partita che ci dà consapevolezza, sempre provato a vincere'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-gasperini-partita-che-ci-da-consapevolezza-sempre-provato-a-vincere_1fc28e16-1851-4363-9f51-5bd74df52fe0.html",
      "data": "2026-09-19T18:42:22+00:00"
-    },
-    {
-     "titolo": "All'Olimpico un 2-2 da spettacolo, la Roma avanti e l'Inter la riprende",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-termina-2-2-cronaca-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
-     "data": "2026-09-19T18:59:55+00:00"
     }
    ]
   }
