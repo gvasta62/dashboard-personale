@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-21T01:16:13.667415+00:00",
+ "aggiornato": "2026-09-21T06:34:22.609856+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il prezzo del gas in calo a 78,36 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/21/il-prezzo-del-gas-in-calo-a-7836-euro-al-megawattora_0568c4e1-2135-4da1-b876-04a75f625a78.html",
+     "data": "2026-09-21T06:06:33+00:00"
+    },
     {
      "titolo": "Risultati preliminari, Afd vince in Pomerania con il 38,2%. Spd è seconda al 35,5",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/21/risultati-preliminari-afd-vince-in-pomerania-con-il-382.-spd-e-seconda-al-355_10d181da-cd9f-4a77-9389-1f2a92dbe90e.html",
@@ -49,11 +54,6 @@
      "titolo": "Mosca, 'intensificheremo gli attacchi sull'Ucraina in risposta ai raid odierni'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/20/mosca-intensificheremo-gli-attacchi-sullucraina-in-risposta-ai-raid-odierni_07ce8d99-d249-4e1a-b44e-0bfb7bdc231f.html",
      "data": "2026-09-20T17:07:02+00:00"
-    },
-    {
-     "titolo": "Weidel, Merz tragga le conseguenze, noi il partito più forte del Paese",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/20/weidel-merz-tragga-le-conseguenze-noi-il-partito-piu-forte-del-paese_7919edd7-235b-48ce-a173-edf97c213c97.html",
-     "data": "2026-09-20T16:53:26+00:00"
     }
    ]
   },
@@ -256,6 +256,26 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Euro in lieve calo, scambiato a 1,1473 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/euro-in-lieve-calo-scambiato-a-11473-dollari_c10ead7d-69f9-46b0-8176-41b953a4f62c.html",
+     "data": "2026-09-21T06:21:19+00:00"
+    },
+    {
+     "titolo": "Prezzo oro in calo, Spot scambiato a 4.352 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/prezzo-oro-in-calo-spot-scambiato-a-4.352-dollari_6f66fa61-0595-4606-be9b-8c28395138ca.html",
+     "data": "2026-09-21T06:16:37+00:00"
+    },
+    {
+     "titolo": "Il prezzo del gas in calo a 78,36 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/il-prezzo-del-gas-in-calo-a-7836-euro-al-megawattora_6c256e6f-7742-476e-ba44-ce81bb2d395f.html",
+     "data": "2026-09-21T06:06:16+00:00"
+    },
+    {
+     "titolo": "Prezzo petrolio in calo, Wti scende sotto i 100 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/prezzo-petrolio-in-calo-wti-scende-sotto-i-100-dollari_fb6ee837-c209-484e-b845-5bdd1e90b248.html",
+     "data": "2026-09-21T06:01:37+00:00"
+    },
+    {
      "titolo": "Dopo elezione Trump green bond dimezzati, ma rendimenti crescono",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/20/dopo-elezione-trump-green-bond-dimezzati-ma-rendimenti-crescono_ca12c7f0-3c35-4527-9646-a09a6bade914.html",
      "data": "2026-09-20T16:34:15+00:00"
@@ -279,11 +299,6 @@
      "titolo": "Guerra e incertezza pesano sui conti del settore del lusso",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/20/guerra-e-incertezza-pesano-sui-conti-del-settore-del-lusso_4437028e-cb8f-4417-a183-01195bc8f7af.html",
      "data": "2026-09-20T09:04:48+00:00"
-    },
-    {
-     "titolo": "Bruxelles chiarisce su fondi Pnrr per il taglio del bollo, 'ci sono margini'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/bruxelles-chiarisce-su-fondi-pnrr-per-il-taglio-del-bollo-ci-sono-margini_60f8c90f-671c-4530-8048-de1e819f00e3.html",
-     "data": "2026-09-19T17:12:15+00:00"
     }
    ]
   },
@@ -323,7 +338,7 @@
     {
      "titolo": "Nuova escalation, Trump torna prima da Camp David: 'Devo decidere sull'Iran'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/nuova-escalation-trump-torna-prima-da-camp-david-devo-decidere-sulliran_d85ac995-09c8-4380-8a2c-330e9dd7d8ba.html",
-     "data": "2026-09-20T18:27:41+00:00"
+     "data": "2026-09-21T02:59:34+00:00"
     },
     {
      "titolo": "Tv, il partito Russia Unita di Putin vince le elezioni con il 49,4%",
