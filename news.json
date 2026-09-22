@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-09-22T19:00:01.794342+00:00",
+ "aggiornato": "2026-09-22T21:47:38.692821+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Netanyahu, 'da Macron sbalorditiva dichiarazione grottesca'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/netanyahu-da-macron-sbalorditiva-dichiarazione-grottesca_efaedd5c-45bb-4170-8fb2-bb7bafe9e8f6.html",
+     "data": "2026-09-22T21:01:00+00:00"
+    },
+    {
+     "titolo": "Araghchi a Witkoff, 'Usa revochino blocco navale Usa e scongelino beni Iran'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/araghchi-a-witkoff-usa-revochino-blocco-navale-usa-e-scongelino-beni-iran_1dd5a0d1-3bd9-42f3-ac7f-040237c562d8.html",
+     "data": "2026-09-22T20:13:51+00:00"
+    },
+    {
+     "titolo": "Ddl antisemitismo:Schlein, appello a destra, cambi definizione divisiva o votiamo no",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/ddl-antisemitismoschlein-appello-a-destra-cambi-definizione-divisiva-o-votiamo-no_c1bf26b3-2389-4c68-8e0e-80cf41f2e831.html",
+     "data": "2026-09-22T19:46:50+00:00"
+    },
+    {
+     "titolo": "Trump, 'Witkoff e Kushner hanno incontrato i mediatori iraniani'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/trump-witkoff-e-kushner-hanno-incontrato-i-mediatori-iraniani_b8cc4fe9-ed53-4846-9dfc-f73bd190ca9f.html",
+     "data": "2026-09-22T19:30:48+00:00"
+    },
+    {
+     "titolo": "Macron, 'a Gaza uno spettacolo che ci fa vergognare tutti'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/macron-a-gaza-uno-spettacolo-che-ci-fa-vergognare-tutti_2cf6a77a-ff47-4e5e-98e7-3c3860ab9b84.html",
+     "data": "2026-09-22T19:12:51+00:00"
+    },
     {
      "titolo": "Schlein, Meloni manca di senso dello Stato, non si trascina il Colle nella polemica",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/schlein-meloni-manca-di-senso-dello-stato-non-si-trascina-il-colle-nella_186ed232-7518-41b3-a706-39d18955ad7c.html",
@@ -29,31 +54,6 @@
      "titolo": "Meloni, in manovra confermiamo la detassazione degli aumenti contrattuali",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/meloni-in-manovra-confermiamo-la-detassazione-degli-aumenti-contrattuali_4fe71ec4-21dd-4df8-b37e-219343a3079a.html",
      "data": "2026-09-22T17:57:23+00:00"
-    },
-    {
-     "titolo": "Meloni, Mattarella da ministro redigeva circolari sul tetto agli stranieri in classe",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/meloni-mattarella-da-ministro-redigeva-circolari-sul-tetto-agli-stranieri-in-classe_3c771221-4cd8-4290-801a-7500e697a13e.html",
-     "data": "2026-09-22T17:42:04+00:00"
-    },
-    {
-     "titolo": "Meloni, spiace per il deficit, non so se l'Istat sottostima il governo o gli italiani",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/meloni-spiace-per-il-deficit-non-so-se-listat-sottostima-il-governo-o-gli-italiani_26d9ac19-523b-431a-b900-f5c97198566f.html",
-     "data": "2026-09-22T17:38:14+00:00"
-    },
-    {
-     "titolo": "Trump, 'l'Iran sta parlando con noi, anche oggi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/trump-liran-sta-parlando-con-noi-anche-oggi_bedd437b-4489-4ba2-ac00-b75dddc2c9e1.html",
-     "data": "2026-09-22T17:07:17+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas gira in rialzo a 74,04 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/il-prezzo-del-gas-gira-in-rialzo-a-7404-euro-al-megawattora_95f7c925-2860-42d1-a386-67d98171fb53.html",
-     "data": "2026-09-22T16:52:17+00:00"
-    },
-    {
-     "titolo": "Mef, la domanda per il nuovo Btp Green ha superato i 110 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/mef-la-domanda-per-il-nuovo-btp-green-ha-superato-i-110-miliardi_e05401c5-2d43-415a-90d2-d37746480106.html",
-     "data": "2026-09-22T16:47:28+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Di Battista in video a DiMartedì, 'sto sempre meglio e tornerò presto'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/22/di-battista-in-video-a-dimartedi-sto-sempre-meglio-e-tornero-presto_fd62e6c0-2032-499d-b4d8-3eda1ef5e2f7.html",
+     "data": "2026-09-22T21:37:22+00:00"
+    },
+    {
      "titolo": "Maltrattavano i bimbi in un asilo nell'Isernino, condannate due maestre",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/22/maltrattavano-i-bimbi-in-un-asilo-nellisernino-condannate-due-maestre_32cb8e3d-66a5-4a2c-b0c7-371f29a54794.html",
      "data": "2026-09-22T18:32:52+00:00"
@@ -138,7 +143,7 @@
     {
      "titolo": "La famiglia del bosco per la prima volta insieme nella nuova casa",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/22/la-famiglia-del-bosco-per-la-prima-volta-insieme-nella-nuova-casa_fc064992-1f83-48b9-aedb-a8b28eb8e9d0.html",
-     "data": "2026-09-22T17:59:06+00:00"
+     "data": "2026-09-22T19:25:38+00:00"
     },
     {
      "titolo": "Violenza sessuale, 'chiesta archiviazione per senatore Fi, querela tardiva'",
@@ -179,17 +184,37 @@
      "titolo": "L'annuncio di Gualtieri: 'Tevere balneabile entro il 2032'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/22/lannuncio-di-gualtieri-tevere-balneabile-entro-il-2032_0244d49b-31bf-4b18-ba73-bf89b4c392ba.html",
      "data": "2026-09-22T16:16:01+00:00"
-    },
-    {
-     "titolo": "È morto un bambino di sette anni investito a Torino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/22/e-morto-il-bambino-di-sette-anni-investito-a-torino_1395bf0c-bb8a-4485-aaf8-bc3e4f7f372e.html",
-     "data": "2026-09-22T14:57:46+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Di Battista in video a DiMartedì su La7: “Ogni giorno mi sento meglio”",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/di-battista-in-video-a-dimartedi-su-la7-ogni-giorno-mi-sento-meglio_5fb2287d-a847-4ef7-a7cc-190e8f4eb060.html",
+     "data": "2026-09-22T21:27:05+00:00"
+    },
+    {
+     "titolo": "Meloni difende il tetto agli stranieri in classe e tira in ballo Mattarella",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-difende-il-tetto-agli-stranieri-in-classe-e-tira-in-ballo-mattarella_2c3d1f7a-0c23-43fe-b2aa-eb9368acdb7c.html",
+     "data": "2026-09-22T19:55:44+00:00"
+    },
+    {
+     "titolo": "Ddl antisemitismo, Schlein: 'Appello a destra, cambi definizione divisiva o votiamo no'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/ddl-antisemitismoschlein-appello-a-destra-cambi-definizione-divisiva-o-votiamo-no_b8fb6cf9-64d8-443d-b8b3-4df16e86f3db.html",
+     "data": "2026-09-22T19:56:07+00:00"
+    },
+    {
+     "titolo": "Sangiuliano (FdI) posta foto: 'Ecco il pericolo islamizzazione'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/sangiuliano-fdi-posta-foto-ecco-il-pericolo-islamizzazione_c99c440b-a35b-4d3d-aa18-f86a2997ec54.html",
+     "data": "2026-09-22T19:14:56+00:00"
+    },
+    {
+     "titolo": "Stranieri in classe, due le circolari di Mattarella: ecco cosa prevedevano",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/due-le-circolari-di-mattarella-ecco-cosa-prevedevano_a93e5955-ec17-4d2e-8128-b4942c003afc.html",
+     "data": "2026-09-22T19:10:50+00:00"
+    },
     {
      "titolo": "Schlein, Meloni manca di senso dello Stato, non si trascina il Colle nella polemica",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/schlein-meloni-manca-di-senso-dello-stato-non-si-trascina-il-colle-nella_297dadfa-c3e9-48fc-935b-9d0008514261.html",
@@ -211,6 +236,11 @@
      "data": "2026-09-22T17:57:23+00:00"
     },
     {
+     "titolo": "Vespa col braccio fasciato in tv con la premier, ho fatto una rovinosa caduta",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/vespa-col-braccio-fasciato-in-tv-con-la-premier-ho-fatto-una-rovinosa-caduta_a0c8c3e9-1307-48f3-8f1b-30e215bf02ac.html",
+     "data": "2026-09-22T21:25:00+00:00"
+    },
+    {
      "titolo": "Meloni, Mattarella da ministro redigeva circolari sul tetto agli stranieri in classe",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-mattarella-da-ministro-redigeva-circolari-sul-tetto-agli-stranieri-in-classe_b0bd9b37-5871-46a2-be50-1d9e87ecb431.html",
      "data": "2026-09-22T17:42:00+00:00"
@@ -219,42 +249,17 @@
      "titolo": "Meloni, spiace per il deficit, non so se l'Istat sottostima il governo o gli italiani",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-spiace-per-il-deficit-non-so-se-listat-sottostima-il-governo-o-gli-italiani_769f2047-0fe6-4984-ac6d-b48f2246dcde.html",
      "data": "2026-09-22T17:38:16+00:00"
-    },
-    {
-     "titolo": "Meloni: 'Mattarella da ministro redigeva circolari sul tetto agli stranieri in classe'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-non-so-se-listat-sottostima-gli-italiani-o-il-governo_2c3d1f7a-0c23-43fe-b2aa-eb9368acdb7c.html",
-     "data": "2026-09-22T18:36:07+00:00"
-    },
-    {
-     "titolo": "Senatrici delle opposizioni in gonna contro Tajani e Vannacci: 'La libertà passa anche così'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/senatrici-delle-opposizioni-in-gonna-contro-tajani-e-vannacci-la-liberta-passa-anche_7b6d2fd0-24fe-4856-ab98-b37ee7e1a264.html",
-     "data": "2026-09-22T18:01:06+00:00"
-    },
-    {
-     "titolo": "Bernini, 'oltre 73mila posti letto in più negli studentati in 5 anni'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/bernini-oltre-73mila-posti-letto-in-piu-negli-studentati-in-5-anni_e7ee74fe-978d-4bd1-9bbd-d79ae425617e.html",
-     "data": "2026-09-22T12:50:58+00:00"
-    },
-    {
-     "titolo": "Sensi (Pd), no M5s a invio di armi? Fanno cinema, al governo faranno quello che serve",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/sensi-pd-no-m5s-a-invio-di-armi-fanno-cinema-al-governo-faranno-quello-che_90059254-ffbc-4f7e-824e-1179ecbf5c37.html",
-     "data": "2026-09-22T12:45:36+00:00"
-    },
-    {
-     "titolo": "D'Alema, 'Trattato con Israele si basa su rispetto diritti umani, Netanyahu non lo fa'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/dalema-trattato-con-israele-si-basa-su-rispetto-diritti-umani-netanyahu-non_24f26ed8-17f1-4ac2-b08a-e824e561f786.html",
-     "data": "2026-09-22T12:45:50+00:00"
-    },
-    {
-     "titolo": "Protesta Udu durante inaugurazione studentato Urbino con ministra Bernini",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/protesta-udu-durante-inaugurazione-studentato-urbino-con-ministra-bernini_fd5c08e0-8349-48e8-8213-a905a190570a.html",
-     "data": "2026-09-22T12:32:06+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Deficit resta al 3,1%, Salvini chiede lo scostamento, FI frena",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/deficit-resta-al-31-salvini-chiede-lo-scostamento-fi-frena_bc5746d2-787c-4dad-b9b8-6fdd14cc3876.html",
+     "data": "2026-09-22T19:01:40+00:00"
+    },
     {
      "titolo": "Il petrolio chiude in calo a New York, a 94,97 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/il-petrolio-chiude-in-calo-a-new-york-a-9497-dollari_d753bc6b-c8a5-406e-8be8-f5d9199858e6.html",
@@ -309,11 +314,6 @@
      "titolo": "Borsa: Milano chiude in calo, pesano banche e assicurazioni",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/borsa-milano-chiude-in-calo-pesano-banche-e-assicurazioni_b292f232-44c5-4449-8c60-a44af09de625.html",
      "data": "2026-09-22T16:25:10+00:00"
-    },
-    {
-     "titolo": "Codacons, anche con taglio accise gasolio +43% rispetto a un anno fa",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/codacons-anche-con-taglio-accise-gasolio-43-rispetto-a-un-anno-fa_eec710b4-67ec-41c3-963a-fba8a49f214f.html",
-     "data": "2026-09-22T16:28:54+00:00"
     }
    ]
   },
@@ -321,64 +321,64 @@
    "nome": "Mondo",
    "voci": [
     {
-     "titolo": "Trump rivela, 'colloqui tra responsabili iraniani e americani all'Onu'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/trump-rivela-colloqui-tra-responsabili-iraniani-e-americani-allonu_8ab81b6d-aa96-48ed-8bb1-c5e97bef5544.html",
-     "data": "2026-09-22T18:10:48+00:00"
+     "titolo": "Protesta dell'Argentina dopo la nuova decisione Gb sulle Falkland-Malvinas",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/protesta-dellargentina-dopo-la-nuova-decisione-gb-sulle-falkland-malvinas_87ab0403-e7ba-4d36-a48d-d3df81779472.html",
+     "data": "2026-09-22T21:19:45+00:00"
     },
     {
-     "titolo": "Trump rivela, 'colloqui tra responsabili iraniani e americani all'Onu'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/trump-rivela-colloqui-tra-responsabili-iraniani-e-americani-allonu_9b3aa97d-f676-466c-ade6-7695c9a44695.html",
-     "data": "2026-09-22T18:10:50+00:00"
+     "titolo": "Netanyahu, 'da Macron sbalorditiva dichiarazione grottesca'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/netanyahu-da-macron-sbalorditiva-dichiarazione-grottesca_c9d70038-50b3-4457-a0ef-00c7fe11b066.html",
+     "data": "2026-09-22T21:01:03+00:00"
     },
     {
-     "titolo": "Trump, favorevole ad un bando sull'export di diesel Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/trump-favorevole-ad-un-bando-sullexport-di-diesel-usa_8475bbcf-36b0-4afb-87f5-df58521d8e9a.html",
-     "data": "2026-09-22T18:10:13+00:00"
+     "titolo": "Fujimori rivendica la guerra al terrorismo in Perù davanti all'Assemblea Generale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/fujimori-rivendica-la-guerra-al-terrorismo-in-peru-davanti-allassemblea-generale_a12af597-6b33-4264-ac8d-be90a47c00d2.html",
+     "data": "2026-09-22T20:28:18+00:00"
     },
     {
-     "titolo": "Trump, 'l'Iran sta parlando con noi, anche oggi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/trump-liran-sta-parlando-con-noi-anche-oggi_737dcfb1-47bf-4854-9905-499356970b6e.html",
-     "data": "2026-09-22T17:07:13+00:00"
+     "titolo": "Araghchi a Witkoff, 'Usa revochino blocco navale Usa e scongelino beni Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/araghchi-a-witkoff-usa-revochino-blocco-navale-usa-e-scongelino-beni-iran_aa9cdf05-80bd-4d04-97d4-d0f9a3a412df.html",
+     "data": "2026-09-22T20:14:04+00:00"
     },
     {
-     "titolo": "Trump, 'l'Iran sta parlando con noi, anche oggi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/trump-liran-sta-parlando-con-noi-anche-oggi_5720fb30-deb4-4820-81d5-8a89671eec51.html",
-     "data": "2026-09-22T17:07:17+00:00"
+     "titolo": "Araghchi a Witkoff, 'Usa revochino blocco navale Usa e scongelino beni Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/araghchi-a-witkoff-usa-revochino-blocco-navale-usa-e-scongelino-beni-iran_41d033a1-73ae-4afe-9e16-9f23ac91eddf.html",
+     "data": "2026-09-22T20:14:06+00:00"
     },
     {
-     "titolo": "Trump, 'l'Iran sta parlando con noi, anche oggi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/trump-liran-sta-parlando-con-noi-anche-oggi_0fd96129-251c-4225-8bd3-e351a0354d19.html",
-     "data": "2026-09-22T17:07:19+00:00"
+     "titolo": "Il cileno Kast critica l'Onu nel suo primo discorso al dibattito dell'Assemblea",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/il-cileno-kast-critica-lonu-nel-suo-primo-discorso-al-dibattito-dellassemblea_96fcabe6-3d65-4958-8c9a-520853dc2b34.html",
+     "data": "2026-09-22T19:47:14+00:00"
     },
     {
-     "titolo": "Il governatore dell'Illinois perde 40 kg con farmaci anti-obesità e guarda al 2028",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/il-governatore-dellillinois-perde-40-kg-con-farmaci-anti-obesita-e-guarda-al-2028_5f8a98c1-8e66-4cec-add6-2db4ad75b1f6.html",
-     "data": "2026-09-22T16:42:11+00:00"
+     "titolo": "Trump, 'Witkoff e Kushner hanno incontrato i mediatori iraniani'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/trump-witkoff-e-kushner-hanno-incontrato-i-mediatori-iraniani_9a212a0a-98ec-497c-acf9-6895c939109b.html",
+     "data": "2026-09-22T19:30:51+00:00"
     },
     {
-     "titolo": "Kiev, 'decisione Ue su Usmanov e Fridman vergognosa, Mosca festeggia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/kiev-decisione-ue-su-usmanov-e-fridman-vergognosa-mosca-festeggia_c40eb759-3719-4651-bfac-4752140bee00.html",
-     "data": "2026-09-22T16:27:41+00:00"
+     "titolo": "Trump, 'Witkoff e Kushner hanno incontrato i mediatori iraniani'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/trump-witkoff-e-kushner-hanno-incontrato-i-mediatori-iraniani_77992ed2-53a3-4949-b0fc-30050d50e7a8.html",
+     "data": "2026-09-22T19:30:51+00:00"
     },
     {
-     "titolo": "Intesa Ue sulle sanzioni ai russi, graziati due oligarchi. L'ira di Kiev",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/intesa-in-ue-sulle-sanzioni-alla-russia-rinnovo-per-3-anni-e-fuori-usmanov_24cdd38d-5453-46f0-9887-697a08c67f03.html",
-     "data": "2026-09-22T18:02:23+00:00"
+     "titolo": "Macron, 'a Gaza uno spettacolo che ci fa vergognare tutti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/macron-a-gaza-uno-spettacolo-che-ci-fa-vergognare-tutti_ff34936a-f781-4762-b2e7-a5bbf35ee630.html",
+     "data": "2026-09-22T19:13:04+00:00"
     },
     {
-     "titolo": "L'Avana, 'Cuba un Paese sovrano, da Trump solo calunnie'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/lavana-cuba-un-paese-sovrano-da-trump-solo-calunnie_5829f927-0b86-455a-83a1-07f540f9dc42.html",
-     "data": "2026-09-22T15:51:51+00:00"
+     "titolo": "Macron, 'a Gaza uno spettacolo che ci fa vergognare tutti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/macron-a-gaza-uno-spettacolo-che-ci-fa-vergognare-tutti_6e04f783-07d4-40f2-a48a-173fa9837679.html",
+     "data": "2026-09-22T19:13:06+00:00"
     },
     {
-     "titolo": "L'Avana, 'Cuba un Paese sovrano, da Trump solo calunnie'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/lavana-cuba-un-paese-sovrano-da-trump-solo-calunnie_83d52824-bd98-400a-a693-713d3deb2898.html",
-     "data": "2026-09-22T15:51:54+00:00"
+     "titolo": "Macron, 'a Gaza uno spettacolo che ci fa vergognare tutti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/macron-a-gaza-uno-spettacolo-che-ci-fa-vergognare-tutti_2e6b126e-daa4-4a1b-a106-21271b6df344.html",
+     "data": "2026-09-22T19:13:06+00:00"
     },
     {
-     "titolo": "Trump firma l'accordo di sicurezza con la Groelandia e la Danimarca",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/trump-firma-laccordo-di-sicurezza-con-la-groelandia-e-la-danimarca_cb9e8d56-3177-459b-ba6a-cc650ae780c1.html",
-     "data": "2026-09-22T15:48:29+00:00"
+     "titolo": "Sfila tra polemiche l'ultimo testimone al processo Maradona, si va verso la sentenza",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/sfila-tra-polemiche-lultimo-testimone-al-processo-maradona-si-va-verso-la-sentenza_3f3e1160-971f-4cd6-bd27-9c4f8a357603.html",
+     "data": "2026-09-22T19:08:26+00:00"
     }
    ]
   },
@@ -451,6 +451,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Champions donne: la Juve perde al debutto, allo Stadium passa il Benfica",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/champions-donne-la-juve-perde-al-debutto-allo-stadium-passa-il-benfica_da1171cf-2810-4d8f-b599-c0d58bbd1b3a.html",
+     "data": "2026-09-22T20:58:20+00:00"
+    },
+    {
+     "titolo": "Champions donne: esordio con vittoria per l'Inter Women, battuto l'Häcken",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/champions-donne-esordio-con-vittoria-per-linter-women-battuto-lhaecken_587f217c-4b42-4649-837f-12a083a657b6.html",
+     "data": "2026-09-22T20:15:13+00:00"
+    },
+    {
+     "titolo": "Mazzola: Malagò \"c'è stata reazione forte a episodio Stadium\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/mazzola-malago-ce-stata-reazione-forte-a-episodio-stadium_d3f479fb-3ab4-40e8-ac2f-279a77127913.html",
+     "data": "2026-09-22T19:05:03+00:00"
+    },
+    {
      "titolo": "Il Venezia conferma Stroppa nonostante le cinque sconfitte",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/il-venezia-conferma-stroppa-nonostante-le-cinque-sconfitte_2f5bae33-8ded-4388-96ed-80636211a720.html",
      "data": "2026-09-22T17:15:30+00:00"
@@ -494,21 +509,6 @@
      "titolo": "Eurovolley: c'è la Finlandia, l'Italia va a caccia della semifinale",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/22/eurovolley-ce-la-finlandia-litalia-va-a-caccia-della-semifinale_56fc2c38-1bc4-4055-8b93-6b4dfbe11df3.html",
      "data": "2026-09-22T16:02:35+00:00"
-    },
-    {
-     "titolo": "Mondiali di ciclismo, azzurri d'oro nella staffetta mista",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/22/mondiali-ciclismo-italia-doro-nel-team-relay-a-montreal_cbd1b793-793c-4aca-bbfa-71ec918cb9f4.html",
-     "data": "2026-09-22T17:09:10+00:00"
-    },
-    {
-     "titolo": "Mondiali donne U20: c'è la Spagna tra le azzurrine e la finale",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/mondiali-donne-u20-ce-la-spagna-tra-le-azzurrine-e-la-finale_906fd2ce-2176-4c29-9e1c-959d6626f5d2.html",
-     "data": "2026-09-22T14:53:40+00:00"
-    },
-    {
-     "titolo": "Eurovolley: 3-0 alla Romania, Francia in semifinale",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/22/eurovolley-3-0-alla-romania-francia-in-semifinale_5b5049af-a1c9-454f-a91d-fd56c2d49d47.html",
-     "data": "2026-09-22T14:51:54+00:00"
     }
    ]
   }
