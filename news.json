@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-22T21:47:38.692821+00:00",
+ "aggiornato": "2026-09-22T23:53:04.058627+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Zelensky, 'pronto a incontrare Putin in qualunque momento'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/23/zelensky-pronto-a-incontrare-putin-in-qualunque-momento_0b9247c1-835a-452b-b867-a36bac66b863.html",
+     "data": "2026-09-22T23:42:56+00:00"
+    },
+    {
+     "titolo": "Valditara, 'nessuno scontro col Quirinale sui tetti di stranieri nelle classi'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/23/valditara-nessuno-scontro-col-quirinale-sui-tetti-di-stranieri-nelle-classi_928b32a5-72a8-46c3-ae19-e8e8863dcb9a.html",
+     "data": "2026-09-22T22:38:47+00:00"
+    },
     {
      "titolo": "Netanyahu, 'da Macron sbalorditiva dichiarazione grottesca'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/netanyahu-da-macron-sbalorditiva-dichiarazione-grottesca_efaedd5c-45bb-4170-8fb2-bb7bafe9e8f6.html",
@@ -44,16 +54,6 @@
      "titolo": "Trump rivela, 'colloqui tra responsabili iraniani e americani all'Onu'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/trump-rivela-colloqui-tra-responsabili-iraniani-e-americani-allonu_78b1f073-4b47-414e-b600-9364438c1069.html",
      "data": "2026-09-22T18:10:48+00:00"
-    },
-    {
-     "titolo": "Trump, favorevole ad un bando sull'export di diesel Usa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/trump-favorevole-ad-un-bando-sullexport-di-diesel-usa_85a99662-b5de-498b-8004-8a82f037598c.html",
-     "data": "2026-09-22T18:09:37+00:00"
-    },
-    {
-     "titolo": "Meloni, in manovra confermiamo la detassazione degli aumenti contrattuali",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/meloni-in-manovra-confermiamo-la-detassazione-degli-aumenti-contrattuali_4fe71ec4-21dd-4df8-b37e-219343a3079a.html",
-     "data": "2026-09-22T17:57:23+00:00"
     }
    ]
   },
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Valditara, 'nessuno scontro col Quirinale sui tetti di stranieri nelle classi'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/23/valditara-nessuno-scontro-col-quirinale-sui-tetti-di-stranieri-nelle-classi_fdfb513b-bed7-4531-bc1a-7fbd9cd3b409.html",
+     "data": "2026-09-22T22:39:15+00:00"
+    },
+    {
      "titolo": "Di Battista in video a DiMartedì su La7: “Ogni giorno mi sento meglio”",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/di-battista-in-video-a-dimartedi-su-la7-ogni-giorno-mi-sento-meglio_5fb2287d-a847-4ef7-a7cc-190e8f4eb060.html",
      "data": "2026-09-22T21:27:05+00:00"
@@ -198,7 +203,7 @@
     {
      "titolo": "Meloni difende il tetto agli stranieri in classe e tira in ballo Mattarella",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-difende-il-tetto-agli-stranieri-in-classe-e-tira-in-ballo-mattarella_2c3d1f7a-0c23-43fe-b2aa-eb9368acdb7c.html",
-     "data": "2026-09-22T19:55:44+00:00"
+     "data": "2026-09-22T22:30:39+00:00"
     },
     {
      "titolo": "Ddl antisemitismo, Schlein: 'Appello a destra, cambi definizione divisiva o votiamo no'",
@@ -244,11 +249,6 @@
      "titolo": "Meloni, Mattarella da ministro redigeva circolari sul tetto agli stranieri in classe",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-mattarella-da-ministro-redigeva-circolari-sul-tetto-agli-stranieri-in-classe_b0bd9b37-5871-46a2-be50-1d9e87ecb431.html",
      "data": "2026-09-22T17:42:00+00:00"
-    },
-    {
-     "titolo": "Meloni, spiace per il deficit, non so se l'Istat sottostima il governo o gli italiani",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-spiace-per-il-deficit-non-so-se-listat-sottostima-il-governo-o-gli-italiani_769f2047-0fe6-4984-ac6d-b48f2246dcde.html",
-     "data": "2026-09-22T17:38:16+00:00"
     }
    ]
   },
@@ -321,6 +321,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Zelensky, 'pronto a incontrare Putin in qualunque momento'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/zelensky-pronto-a-incontrare-putin-in-qualunque-momento_2263787c-d186-4678-9075-674d0a7a6a6e.html",
+     "data": "2026-09-22T23:43:09+00:00"
+    },
+    {
+     "titolo": "Messico, allerta dell'ambasciata Usa per l'uragano Polo di categoria 5",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/23/messico-allerta-dellambasciata-usa-per-luragano-polo-di-categoria-5_39b65311-be38-4afa-966e-9a7f69cdb0a9.html",
+     "data": "2026-09-22T23:34:52+00:00"
+    },
+    {
+     "titolo": "Colombia, De la Espriella revoca a Mancuso il ruolo di 'gestore di pace'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/23/colombia-de-la-espriella-revoca-a-mancuso-il-ruolo-di-gestore-di-pace_069b3d24-7f95-4335-8667-01d7d8ff1340.html",
+     "data": "2026-09-22T23:24:06+00:00"
+    },
+    {
+     "titolo": "Usa e 14 Paesi latinoamericani, sanzioni congiunte contro 24 gruppi criminali",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/23/usa-e-14-paesi-latinoamericani-sanzioni-congiunte-contro-24-gruppi-criminali_6a6e99c0-f19b-4f89-bb5b-e0b4febcd945.html",
+     "data": "2026-09-22T23:21:30+00:00"
+    },
+    {
      "titolo": "Protesta dell'Argentina dopo la nuova decisione Gb sulle Falkland-Malvinas",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/protesta-dellargentina-dopo-la-nuova-decisione-gb-sulle-falkland-malvinas_87ab0403-e7ba-4d36-a48d-d3df81779472.html",
      "data": "2026-09-22T21:19:45+00:00"
@@ -359,26 +379,6 @@
      "titolo": "Trump, 'Witkoff e Kushner hanno incontrato i mediatori iraniani'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/trump-witkoff-e-kushner-hanno-incontrato-i-mediatori-iraniani_77992ed2-53a3-4949-b0fc-30050d50e7a8.html",
      "data": "2026-09-22T19:30:51+00:00"
-    },
-    {
-     "titolo": "Macron, 'a Gaza uno spettacolo che ci fa vergognare tutti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/macron-a-gaza-uno-spettacolo-che-ci-fa-vergognare-tutti_ff34936a-f781-4762-b2e7-a5bbf35ee630.html",
-     "data": "2026-09-22T19:13:04+00:00"
-    },
-    {
-     "titolo": "Macron, 'a Gaza uno spettacolo che ci fa vergognare tutti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/macron-a-gaza-uno-spettacolo-che-ci-fa-vergognare-tutti_6e04f783-07d4-40f2-a48a-173fa9837679.html",
-     "data": "2026-09-22T19:13:06+00:00"
-    },
-    {
-     "titolo": "Macron, 'a Gaza uno spettacolo che ci fa vergognare tutti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/macron-a-gaza-uno-spettacolo-che-ci-fa-vergognare-tutti_2e6b126e-daa4-4a1b-a106-21271b6df344.html",
-     "data": "2026-09-22T19:13:06+00:00"
-    },
-    {
-     "titolo": "Sfila tra polemiche l'ultimo testimone al processo Maradona, si va verso la sentenza",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/sfila-tra-polemiche-lultimo-testimone-al-processo-maradona-si-va-verso-la-sentenza_3f3e1160-971f-4cd6-bd27-9c4f8a357603.html",
-     "data": "2026-09-22T19:08:26+00:00"
     }
    ]
   },
