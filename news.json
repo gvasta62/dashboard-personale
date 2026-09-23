@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-23T01:54:45.560496+00:00",
+ "aggiornato": "2026-09-23T06:49:12.220600+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borse asiatiche incerte, si guarda a Iran e a summit Trump-Xi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/23/borse-asiatiche-incerte-si-guarda-a-iran-e-a-summit-trump-xi_b23b64a1-c9a3-4dd8-9de8-27fe6ddcd3fc.html",
+     "data": "2026-09-23T06:47:13+00:00"
+    },
     {
      "titolo": "Teheran, 'pronti a infliggere ad aggressori colpi devastanti e imprevedibili'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/23/teheran-pronti-a-infliggere-ad-aggressori-colpi-devastanti-e-imprevedibili_7a064ed2-7eac-491f-8a32-cdda9ae1c907.html",
@@ -49,11 +54,6 @@
      "titolo": "Trump, 'Witkoff e Kushner hanno incontrato i mediatori iraniani'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/trump-witkoff-e-kushner-hanno-incontrato-i-mediatori-iraniani_b8cc4fe9-ed53-4846-9dfc-f73bd190ca9f.html",
      "data": "2026-09-22T19:30:48+00:00"
-    },
-    {
-     "titolo": "Macron, 'a Gaza uno spettacolo che ci fa vergognare tutti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/22/macron-a-gaza-uno-spettacolo-che-ci-fa-vergognare-tutti_2cf6a77a-ff47-4e5e-98e7-3c3860ab9b84.html",
-     "data": "2026-09-22T19:12:51+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Precipita durante lavori al Colosseo, muore operaio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/23/precipita-durante-lavori-al-colosseo-muore-operaio-_d2e19d2c-1896-4bd4-b861-c2d8e26b5a9e.html",
+     "data": "2026-09-23T06:43:59+00:00"
+    },
+    {
      "titolo": "Di Battista in video a DiMartedì, 'sto sempre meglio e tornerò presto'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/22/di-battista-in-video-a-dimartedi-sto-sempre-meglio-e-tornero-presto_fd62e6c0-2032-499d-b4d8-3eda1ef5e2f7.html",
      "data": "2026-09-22T21:37:22+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Morì suicida a Garlasco, dopo 16 anni la vedova chiede di riaprire il caso",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/22/mori-suicida-a-garlasco-dopo-16-anni-la-vedova-chiede-di-riaprire-il-caso_4de80b70-96cc-44f0-ab99-45f3520e64b3.html",
      "data": "2026-09-22T15:32:01+00:00"
-    },
-    {
-     "titolo": "L'annuncio di Gualtieri: 'Tevere balneabile entro il 2032'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/22/lannuncio-di-gualtieri-tevere-balneabile-entro-il-2032_0244d49b-31bf-4b18-ba73-bf89b4c392ba.html",
-     "data": "2026-09-22T16:16:01+00:00"
     }
    ]
   },
@@ -256,6 +256,26 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borse asiatiche incerte, si guarda a Iran e a summit Trump-Xi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/borse-asiatiche-incerte-si-guarda-a-iran-e-a-summit-trump-xi_666912c4-b83e-484f-96ca-deaa2d8fab5f.html",
+     "data": "2026-09-23T06:47:10+00:00"
+    },
+    {
+     "titolo": "Euro in lieve calo, scambiato a 1,1425 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/euro-in-lieve-calo-scambiato-a-11425-dollari_1ce879ea-57cf-461a-9e5f-e8863f774a79.html",
+     "data": "2026-09-23T06:15:58+00:00"
+    },
+    {
+     "titolo": "Prezzo oro in calo, Spot scambiato a 4.329 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/prezzo-oro-in-calo-spot-scambiato-a-4.329-dollari_af5e0edb-4609-4795-97ad-c20ec7b3453a.html",
+     "data": "2026-09-23T06:04:33+00:00"
+    },
+    {
+     "titolo": "Prezzo petrolio in calo, Wti scambiato a 89,53 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/prezzo-petrolio-in-calo-wti-scambiato-a-8953-dollari_478de02c-d09a-47bc-859b-220eff19f600.html",
+     "data": "2026-09-23T05:58:42+00:00"
+    },
+    {
      "titolo": "Deficit resta al 3,1%, Salvini chiede lo scostamento, FI frena",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/deficit-resta-al-31-salvini-chiede-lo-scostamento-fi-frena_bc5746d2-787c-4dad-b9b8-6fdd14cc3876.html",
      "data": "2026-09-22T19:01:40+00:00"
@@ -294,26 +314,6 @@
      "titolo": "Mef, la domanda per il nuovo Btp Green ha superato i 110 miliardi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/mef-la-domanda-per-il-nuovo-btp-green-ha-superato-i-110-miliardi_321094bf-c67a-4ed2-88e8-c4306485e7bd.html",
      "data": "2026-09-22T16:52:26+00:00"
-    },
-    {
-     "titolo": "Exor, buyback fino a 500 milioni di euro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/exor-buyback-fino-a-500-milioni-di-euro_2d78ec9c-1aeb-4422-8160-201af6ac1087.html",
-     "data": "2026-09-22T16:56:45+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude in lieve rialzo a 89 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/lo-spread-tra-btp-e-bund-chiude-in-lieve-rialzo-a-89-punti_2fb33c29-36b2-495d-84c9-408450a93275.html",
-     "data": "2026-09-22T16:26:50+00:00"
-    },
-    {
-     "titolo": "Pirelli approva piano di investimenti negli Stati Uniti per circa 1 miliardo",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/pirelli-approva-piano-di-investimenti-negli-stati-uniti-per-circa-1-miliardo_c06eb432-be77-4b2f-977d-0faf8ebcd42f.html",
-     "data": "2026-09-22T16:54:52+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in calo, pesano banche e assicurazioni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/borsa-milano-chiude-in-calo-pesano-banche-e-assicurazioni_b292f232-44c5-4449-8c60-a44af09de625.html",
-     "data": "2026-09-22T16:25:10+00:00"
     }
    ]
   },
