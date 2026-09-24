@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-09-23T08:56:19.262214+00:00",
- "data": "2026-09-23",
- "testo": "Sereno chiaro\nsul pozzo del cortile\nun secchio vuoto",
- "nota": "Un vecchio secchio appeso al pozzo, immobile nella luce limpida del mattino.",
+ "aggiornato": "2026-09-24T08:51:17.709930+00:00",
+ "data": "2026-09-24",
+ "testo": "Cielo di piombo\nsull'orlo del vaso crepa\nla terra secca",
+ "nota": "Un vaso di coccio screpolato sul balcone sotto la coltre nuvolosa.",
  "archivio": [
+  {
+   "data": "2026-09-24",
+   "testo": "Cielo di piombo\nsull'orlo del vaso crepa\nla terra secca",
+   "nota": "Un vaso di coccio screpolato sul balcone sotto la coltre nuvolosa."
+  },
   {
    "data": "2026-09-23",
    "testo": "Sereno chiaro\nsul pozzo del cortile\nun secchio vuoto",
