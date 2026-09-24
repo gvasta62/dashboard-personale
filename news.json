@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-24T01:29:59.439821+00:00",
+ "aggiornato": "2026-09-24T06:30:01.836144+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Tajani, 'Onu deve ritrovare capacità di agire, troppo spesso appare impotente'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/tajani-onu-deve-ritrovare-capacita-di-agire-troppo-spesso-appare-impotente_2b13febd-59e5-4156-a6b9-89224bcc424a.html",
+     "data": "2026-09-24T01:28:44+00:00"
+    },
     {
      "titolo": "Xi, 'Cina e Usa dovrebbero essere partner e non avversari'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/xi-cina-e-usa-dovrebbero-essere-partner-e-non-avversari_29c841f9-a4f1-4e4a-a212-2befd393ffbd.html",
@@ -49,11 +54,6 @@
      "titolo": "EuroVolley: De Giorgi 'quando dovevamo dare la zampata finale siamo mancati'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/eurovolley-de-giorgi-quando-dovevamo-dare-la-zampata-finale-siamo-mancati_48e51ca6-6c37-44fc-8262-152b33603710.html",
      "data": "2026-09-23T22:11:33+00:00"
-    },
-    {
-     "titolo": "Stretta di mano tra Trump e Xi, al via la visita del leader cinese in Usa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/stretta-di-mano-tra-trump-e-xi-al-via-la-visita-del-leader-cinese-in-usa_c81e42f7-e71a-4f86-b68b-271af057d642.html",
-     "data": "2026-09-23T23:11:27+00:00"
     }
    ]
   },
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "L'Italia verso il ritorno al nucleare, sì alla legge",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/24/litalia-verso-il-ritorno-al-nucleare-si-alla-legge_13c08669-f247-41df-ba43-a302c205fd43.html",
+     "data": "2026-09-24T05:22:51+00:00"
+    },
+    {
      "titolo": "Meloni: 'Alla Fashion Week per dire al settore moda che il governo c'è'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/23/meloni-alla-fashion-week-per-dire-al-settore-moda-che-il-governo_316998b6-d66c-48d2-b201-fc1db4244467.html",
      "data": "2026-09-23T20:24:11+00:00"
@@ -244,17 +249,32 @@
      "titolo": "Via libera alle misure di sostegno all'editoria",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/23/via-libera-alle-misure-di-sostegno-alleditoria_1541dcca-bd1b-4547-8616-5d7ce0c9a826.html",
      "data": "2026-09-23T12:06:22+00:00"
-    },
-    {
-     "titolo": "FdI, scostamento di bilancio ora non è la cosa da fare",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/23/fdi-scostamento-di-bilancio-ora-non-e-la-cosa-da-fare_fb7aebe7-1acd-4e22-82ba-dfc2d790dfd2.html",
-     "data": "2026-09-23T11:10:56+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Il prezzo spot dell'oro è sotto 4.300 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/il-prezzo-spot-delloro-e-sotto-4.300-dollari_1ae24719-2bf8-4c67-885d-a6e9fd4fc765.html",
+     "data": "2026-09-24T06:15:28+00:00"
+    },
+    {
+     "titolo": "Prezzo del petrolio poco mosso, Brent a 103 dollari al barile",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/prezzo-del-petrolio-poco-mosso-brent-a-103-dollari-al-barile_c0e64906-b09e-4355-a1a2-9e1ede32c20a.html",
+     "data": "2026-09-24T06:06:37+00:00"
+    },
+    {
+     "titolo": "In Europa nel mese di agosto le immatricolazioni di auto in crescita del 5,3%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/in-europa-nel-mese-di-agosto-le-immatricolazioni-di-auto-in-crescita-del-53_ba040a4e-33ab-4036-a536-30c91c1abe7b.html",
+     "data": "2026-09-24T04:01:18+00:00"
+    },
+    {
+     "titolo": "Acea, nella Ue la quota delle elettriche sale al 21,7%, le ibride al 36,6%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/acea-nella-ue-la-quota-delle-elettriche-sale-al-217-le-ibride-al-366_3a0e42d6-2360-4621-b7fd-283f5fc31ea9.html",
+     "data": "2026-09-24T04:02:07+00:00"
+    },
     {
      "titolo": "Inps, in arrivo 1.177.597 carte Dedicata a te, attive da ottobre, accredito a novembre",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/inps-in-arrivo-1.177.597-carte-dedicata-a-te-attive-da-ottobre-accredito-a-novembre_86cc3d50-04c1-44b4-aa04-e2768649d6af.html",
@@ -294,32 +314,22 @@
      "titolo": "Lovaglio, le due offerte possono funzionare separatamente",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/lovaglio-le-due-offerte-possono-funzionare-separatamente_357a0fca-d018-40b5-9456-9759d892f8dd.html",
      "data": "2026-09-23T16:02:07+00:00"
-    },
-    {
-     "titolo": "Electrolux, incontro tra Regione Fvg e sindacati in vista del 5 ottobre",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/electrolux-incontro-tra-regione-fvg-e-sindacati-in-vista-del-5-ottobre_b1be2fb7-733f-405e-9296-2696217ec152.html",
-     "data": "2026-09-23T15:59:13+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa chiude in calo, Parigi +0,39%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/borsa-europa-chiude-in-calo-parigi-039_4e29ec24-ead4-4414-ad06-cd7e681bae2a.html",
-     "data": "2026-09-23T15:58:07+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas frena a 73,16 euro al megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/il-prezzo-del-gas-frena-a-7316-euro-al-megawattora_0f40b874-47d5-4650-a716-11b259d91f58.html",
-     "data": "2026-09-23T15:58:25+00:00"
-    },
-    {
-     "titolo": "Approvato dal Senato in via definitiva il ddl sul nucleare",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/approvato-dal-senato-in-via-definitiva-il-ddl-sul-nucleare_b7e4e93d-a8f7-4b8f-96af-f0a7c7221f73.html",
-     "data": "2026-09-23T15:56:18+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Tajani, 'Onu deve ritrovare capacità di agire, troppo spesso appare impotente'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/24/tajani-onu-deve-ritrovare-capacita-di-agire-troppo-spesso-appare-impotente_7d46b2fe-4535-465f-adf0-616f0289d539.html",
+     "data": "2026-09-24T01:28:46+00:00"
+    },
+    {
+     "titolo": "Xi, 'Cina e Usa dovrebbero essere partner e non avversari'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/xi-cina-e-usa-dovrebbero-essere-partner-e-non-avversari_824b1f0d-1acf-4fe3-a793-b2eb425317ff.html",
+     "data": "2026-09-24T01:23:25+00:00"
+    },
     {
      "titolo": "Sheinbaum, 'difficile vivere accanto a chi consuma droghe e produce armi'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/sheinbaum-difficile-vivere-accanto-a-chi-consuma-droghe-e-produce-armi_02345d27-0cbd-4c8c-9ca4-a81baa75754b.html",
@@ -369,16 +379,6 @@
      "titolo": "Bessent, tregua commerciale con la Cina estesa fino al 10 gennaio",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/bessent-tregua-commerciale-con-la-cina-estesa-fino-al-10-gennaio_8d73d284-9316-4697-8455-d4ee555297a5.html",
      "data": "2026-09-23T22:38:50+00:00"
-    },
-    {
-     "titolo": "Stretta di mano tra Trump e Xi, al via la visita del leader cinese in Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/stretta-di-mano-tra-trump-e-xi-al-via-la-visita-del-leader-cinese-in-usa_c0b79a44-3925-43e0-8b5d-f614fc566620.html",
-     "data": "2026-09-23T22:10:15+00:00"
-    },
-    {
-     "titolo": "Tajani, 'minacce ibride della Russia mettono a rischio sicurezza europea'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/tajani-minacce-ibride-della-russia-mettono-a-rischio-sicurezza-europea_652c2928-03c2-415b-b1e0-99dedfb6d81c.html",
-     "data": "2026-09-23T21:41:44+00:00"
     }
    ]
   },
