@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-09-23T23:14:50.355978+00:00",
+ "aggiornato": "2026-09-24T01:29:59.439821+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Xi, 'Cina e Usa dovrebbero essere partner e non avversari'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/xi-cina-e-usa-dovrebbero-essere-partner-e-non-avversari_29c841f9-a4f1-4e4a-a212-2befd393ffbd.html",
+     "data": "2026-09-24T01:23:05+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,69%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/borsa-tokyo-apertura-in-rialzo-069_c34105d8-bbf2-4e08-838c-85496dd3c229.html",
+     "data": "2026-09-24T00:24:22+00:00"
+    },
+    {
+     "titolo": "Kiev sotto attacco russo, almeno due morti e tre feriti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/kiev-sotto-attacco-russo-almeno-due-morti-e-tre-feriti_3e33a240-16c8-4c8e-8b4b-7341988458c4.html",
+     "data": "2026-09-24T00:13:07+00:00"
+    },
+    {
+     "titolo": "'Raid aereo contro Kandahar, incendio in città sede leader talebani'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/raid-aereo-contro-kandahar-incendio-in-citta-sede-leader-talebani_a6d66f72-99ea-4292-ae19-a0192a08c286.html",
+     "data": "2026-09-23T23:52:58+00:00"
+    },
+    {
+     "titolo": "OpenAi, 'nostro modello può aver tentato hackeraggio diversi siti governo Australia'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/openai-nostro-modello-puo-aver-tentato-hackeraggio-diversi-siti-governo_6529c4c3-4875-45fa-9187-1a57bfc538b1.html",
+     "data": "2026-09-23T23:41:16+00:00"
+    },
     {
      "titolo": "Trump, 'ottimo incontro con Xi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/trump-ottimo-incontro-con-xi_d2dd010e-a70b-46df-a6ee-d6a0cabae194.html",
@@ -29,31 +54,6 @@
      "titolo": "Stretta di mano tra Trump e Xi, al via la visita del leader cinese in Usa",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/stretta-di-mano-tra-trump-e-xi-al-via-la-visita-del-leader-cinese-in-usa_c81e42f7-e71a-4f86-b68b-271af057d642.html",
      "data": "2026-09-23T23:11:27+00:00"
-    },
-    {
-     "titolo": "EuroVolley: Giannelli 'non siamo riusciti a giocare una partita di livello'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/eurovolley-giannelli-non-siamo-riusciti-a-giocare-una-partita-di-livello_a15430f8-c10c-4f02-af2f-8570709055a1.html",
-     "data": "2026-09-23T22:02:11+00:00"
-    },
-    {
-     "titolo": "Tajani, 'minacce ibride della Russia mettono a rischio sicurezza europea'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/23/tajani-minacce-ibride-della-russia-mettono-a-rischio-sicurezza-europea_b5563383-3038-44a1-b514-dada7c23e073.html",
-     "data": "2026-09-23T21:41:43+00:00"
-    },
-    {
-     "titolo": "EuroVolley: Italia ko 3-2 ed eliminata, in semifinale va a sorpresa la Finlandia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/23/eurovolley-italia-ko-3-2-ed-eliminata-in-semifinale-va-a-sorpresa-la-finlandia_0f610e27-3d18-4372-83f4-3162b13f6134.html",
-     "data": "2026-09-23T21:38:37+00:00"
-    },
-    {
-     "titolo": "Kiev, colpita la sede del partito di Zelensky nella capitale mentre parlava all'Onu",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/23/kiev-colpita-la-sede-del-partito-di-zelensky-nella-capitale-mentre-parlava_a585c576-f0f4-4109-beb9-becf9f600bb9.html",
-     "data": "2026-09-23T20:32:32+00:00"
-    },
-    {
-     "titolo": "Cremlino, 'grati agli Usa per l'invito a Putin per il G20, valuteremo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/23/cremlino-grati-agli-usa-per-linvito-a-putin-per-il-g20-valuteremo_9deb775d-7d49-4114-8bc8-455557a7a415.html",
-     "data": "2026-09-23T20:30:54+00:00"
     }
    ]
   },
@@ -321,6 +321,41 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Sheinbaum, 'difficile vivere accanto a chi consuma droghe e produce armi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/sheinbaum-difficile-vivere-accanto-a-chi-consuma-droghe-e-produce-armi_02345d27-0cbd-4c8c-9ca4-a81baa75754b.html",
+     "data": "2026-09-24T01:07:37+00:00"
+    },
+    {
+     "titolo": "Stati Uniti ed Argentina avviano progetto di investimenti da 7 miliardi di dollari",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/stati-uniti-ed-argentina-avviano-progetto-di-investimenti-da-7-miliardi-di-dollari_fc96ada4-5572-4717-a177-2c6a474a5a4c.html",
+     "data": "2026-09-24T01:06:35+00:00"
+    },
+    {
+     "titolo": "Díaz-Canel, 'nelle nostre riforme molte delle risposte ai problemi di Cuba'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/diaz-canel-nelle-nostre-riforme-molte-delle-risposte-ai-problemi-di-cuba_af5a70ac-a03c-4baa-b10d-d9ecc88917b9.html",
+     "data": "2026-09-24T01:04:17+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,69%)",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/borsa-tokyo-apertura-in-rialzo-069_c450e975-8583-4c02-9c58-6e9be14a1d4d.html",
+     "data": "2026-09-24T00:24:22+00:00"
+    },
+    {
+     "titolo": "Kiev sotto attacco russo, almeno due morti e tre feriti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/24/kiev-sotto-attacco-russo-almeno-due-morti-e-tre-feriti_1f673532-a628-4768-ab7c-4845ab5f75a6.html",
+     "data": "2026-09-24T00:13:11+00:00"
+    },
+    {
+     "titolo": "'Raid aereo contro Kandahar, incendio in città sede leader talebani'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/raid-aereo-contro-kandahar-incendio-in-citta-sede-leader-talebani_bf797b62-0727-43c3-b1b1-af0438c5dc5e.html",
+     "data": "2026-09-23T23:53:00+00:00"
+    },
+    {
+     "titolo": "OpenAi, 'nostro modello può aver tentato hackeraggio diversi siti governo Australia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/openai-nostro-modello-puo-aver-tentato-hackeraggio-diversi-siti-governo_ee7fd1d2-5acc-4631-9d0b-0d2adeeaef05.html",
+     "data": "2026-09-23T23:41:16+00:00"
+    },
+    {
      "titolo": "Trump, 'ottimo incontro con Xi'",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/trump-ottimo-incontro-con-xi_82d64d7e-1471-4373-ba81-cba5db179aaf.html",
      "data": "2026-09-23T23:09:36+00:00"
@@ -344,41 +379,6 @@
      "titolo": "Tajani, 'minacce ibride della Russia mettono a rischio sicurezza europea'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/tajani-minacce-ibride-della-russia-mettono-a-rischio-sicurezza-europea_652c2928-03c2-415b-b1e0-99dedfb6d81c.html",
      "data": "2026-09-23T21:41:44+00:00"
-    },
-    {
-     "titolo": "Kiev, colpita la sede del partito di Zelensky nella capitale mentre parlava all'Onu",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/kiev-colpita-la-sede-del-partito-di-zelensky-nella-capitale-mentre-parlava_4754d364-3520-4ef2-988f-d9fadbeb4ed9.html",
-     "data": "2026-09-23T20:32:46+00:00"
-    },
-    {
-     "titolo": "Cremlino, 'grati agli Usa per l'invito a Putin per il G20, valuteremo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/cremlino-grati-agli-usa-per-linvito-a-putin-per-il-g20-valuteremo_21eeb7bc-e29c-42a3-98d4-f3f9d88ea377.html",
-     "data": "2026-09-23T20:30:39+00:00"
-    },
-    {
-     "titolo": "Appello del presidente dominicano all'Onu per un maggior impegno su Haiti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/23/appello-del-presidente-dominicano-allonu-per-un-maggior-impegno-su-haiti_233a4e8f-8152-40a5-8f6f-15f69bce7655.html",
-     "data": "2026-09-23T20:14:21+00:00"
-    },
-    {
-     "titolo": "Rubio scarica Machado e rimanda ancora le elezioni in Venezuela",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/23/rubio-scarica-machado-e-rimanda-ancora-le-elezioni-in-venezuela_dd8bdbce-2717-4737-8bdf-aedcad16dee2.html",
-     "data": "2026-09-23T19:09:01+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'Putin è il paziente zero, va fermato'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/zelensky-putin-e-il-paziente-zero-va-fermato_bbf2782d-2d7e-4def-bba5-195f23b554dd.html",
-     "data": "2026-09-23T18:45:41+00:00"
-    },
-    {
-     "titolo": "Milei, 'venite e investite su Vaca Muerta insieme a noi, è un'opportunità storica'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/23/milei-venite-e-investite-su-vaca-muerta-insieme-a-noi-e-unopportunita-storica_8b5be620-b584-400c-acec-4115dff2af66.html",
-     "data": "2026-09-23T18:44:17+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'Russia usa soldati da 47 Paesi, non lasciatevi trascinare'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/zelensky-russia-usa-soldati-da-47-paesi-non-lasciatevi-trascinare_81e578a8-b5d9-4426-a211-f283a768d29e.html",
-     "data": "2026-09-23T18:29:48+00:00"
     }
    ]
   },
