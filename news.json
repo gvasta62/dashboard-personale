@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-09-24T23:35:33.289916+00:00",
+ "aggiornato": "2026-09-25T02:00:53.884800+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump regala a Xi una scultura dell'aquila calva, il simbolo degli Usa",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/25/trump-regala-a-xi-una-scultura-dellaquila-calva-il-simbolo-degli-usa_7ae265a4-2a44-450a-b882-780520064f92.html",
+     "data": "2026-09-25T01:34:08+00:00"
+    },
+    {
+     "titolo": "Xi: 'Cina e Usa devono esplorare un nuovo modello di convivenza tra grandi nazioni'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/25/xi-cina-e-usa-devono-esplorare-un-nuovo-modello-di-convivenza-tra-grandi-nazioni_591f9757-7400-435a-8b5a-b57983e14825.html",
+     "data": "2026-09-25T01:14:18+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,36%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/25/borsa-tokyo-apertura-in-rialzo-036_681a9743-d980-424a-832b-32b52efabcc5.html",
+     "data": "2026-09-25T00:24:33+00:00"
+    },
     {
      "titolo": "Pezeshkian: 'Sono gli Usa a dover decidere se porre fine alla guerra'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/25/pezeshkian-sono-gli-usa-a-dover-decidere-se-porre-fine-alla-guerra_ebb7ead2-7e12-41d8-846f-8096d73ec96a.html",
@@ -39,21 +54,6 @@
      "titolo": "Mamdani risponde a Netanyahu con un ramoscello di ulivo per la pace",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/mamdani-risponde-a-netanyahu-con-un-ramoscello-di-ulivo-per-la-pace_50791fd0-ab2a-4a81-8060-502ce8b83ab6.html",
      "data": "2026-09-24T18:15:04+00:00"
-    },
-    {
-     "titolo": "Proteste contro Netanyahu all'Onu, arrestata Susan Sarandon",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/proteste-contro-netanyahu-allonu-arrestata-susan-sarandon_aa83f99e-dcf9-41ac-8d2a-74b46fc6cf7d.html",
-     "data": "2026-09-24T17:49:26+00:00"
-    },
-    {
-     "titolo": "Xi a Trump, 'sull'Iran si ritorni al memorandum di giugno'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/xi-a-trump-sulliran-si-ritorni-al-memorandum-di-giugno_a885eda5-0896-4987-9d48-8bc7450a0b5b.html",
-     "data": "2026-09-24T17:32:31+00:00"
-    },
-    {
-     "titolo": "Wsj, 'Usa in pressing sulla Cina su presunti test nucleari'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/24/wsj-usa-in-pressing-sulla-cina-su-presunti-test-nucleari_740e2aaa-b97a-42f6-9fb0-8c1fc4e6bcc6.html",
-     "data": "2026-09-24T17:24:15+00:00"
     }
    ]
   },
@@ -256,6 +256,21 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Lego investe 400 milioni di dollari in Messico",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/lego-investe-400-milioni-di-dollari-in-messico_9d5771ec-1cd5-4f0d-a064-6d080c908304.html",
+     "data": "2026-09-25T00:50:11+00:00"
+    },
+    {
+     "titolo": "Colombia, Ecopetrol nomina Joaquín Gutiérrez nuovo amministratore delegato",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/colombia-ecopetrol-nomina-joaquin-gutierrez-nuovo-amministratore-delegato_651f9c20-0847-43b3-a17e-4da193401fa2.html",
+     "data": "2026-09-25T00:34:29+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,36%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/borsa-tokyo-apertura-in-rialzo-036_8c812088-6c9b-49ac-9537-7a3c31842868.html",
+     "data": "2026-09-25T00:24:31+00:00"
+    },
+    {
      "titolo": "Icop sottoscrive accordo per acquisire il 51% di Ediltunnel",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/icop-sottoscrive-accordo-per-acquisire-il-51-di-ediltunnel_a165a41a-fc7e-4ed3-b7df-720ab4d879a1.html",
      "data": "2026-09-24T18:10:50+00:00"
@@ -299,27 +314,52 @@
      "titolo": "Marco Nespolo nominato amministratore delegato di FiberCop",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/marco-nespolo-nominato-amministratore-delegato-di-fibercop_56f6badb-2035-41d7-9378-bfcf9ff6aa1d.html",
      "data": "2026-09-24T16:21:36+00:00"
-    },
-    {
-     "titolo": "Rendimenti dei titoli di stato sui massimi, spread Btp Bund a 94,3 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/rendimenti-dei-titoli-di-stato-sui-massimi-spread-btp-bund-a-943_a9e0fda7-0cfa-4fd5-b039-8d5363d93926.html",
-     "data": "2026-09-24T16:12:14+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa debole in chiusura, Parigi -0,52%, Londra -0,24%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/borsa-europa-debole-in-chiusura-parigi-052-londra-024_5e950eb3-a8d9-43b9-8d9f-7c544b5c6145.html",
-     "data": "2026-09-24T15:49:38+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in rosso, -0,85%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/borsa-milano-chiude-in-rosso-085_3f7a6e7c-4c0e-44d7-a6c8-0ec327f22931.html",
-     "data": "2026-09-24T15:39:54+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Xi: 'Cina e Usa devono esplorare un nuovo modello di convivenza tra grandi nazioni'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/25/xi-cina-e-usa-devono-esplorare-un-nuovo-modello-di-convivenza-tra-grandi-nazioni_815a4771-977f-4267-83d4-7e1b441b0f00.html",
+     "data": "2026-09-25T01:14:18+00:00"
+    },
+    {
+     "titolo": "Xi: 'Cina e Usa devono esplorare un nuovo modello di convivenza tra grandi nazioni'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/25/xi-cina-e-usa-devono-esplorare-un-nuovo-modello-di-convivenza-tra-grandi-nazioni_a863be9e-c0c9-4603-92da-b168add8d81c.html",
+     "data": "2026-09-25T01:14:33+00:00"
+    },
+    {
+     "titolo": "Cuba, 'impossibile sostenere energeticamente la rete di telecomunicazioni'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/cuba-impossibile-sostenere-energeticamente-la-rete-di-telecomunicazioni_d92f0ce3-633e-472a-b0a6-09c3595da3eb.html",
+     "data": "2026-09-25T01:02:50+00:00"
+    },
+    {
+     "titolo": "Lego investe 400 milioni di dollari in Messico",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/lego-investe-400-milioni-di-dollari-in-messico_78bdc7bf-9230-49ee-9e58-c3c5ae36cd24.html",
+     "data": "2026-09-25T00:50:14+00:00"
+    },
+    {
+     "titolo": "Colombia, Ecopetrol nomina Joaquín Gutiérrez nuovo amministratore delegato",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/colombia-ecopetrol-nomina-joaquin-gutierrez-nuovo-amministratore-delegato_6b8e63cf-fdd3-4d59-ac5c-4e92c715a3ae.html",
+     "data": "2026-09-25T00:34:45+00:00"
+    },
+    {
+     "titolo": "Messico e Corea del Sud, piano di cooperazione fino al 2030",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/messico-e-corea-del-sud-piano-di-cooperazione-fino-al-2030_1bd9c98c-c4f2-407c-a07b-57db97e8d4b4.html",
+     "data": "2026-09-25T00:24:35+00:00"
+    },
+    {
+     "titolo": "Usa, 31 parlamentari accusano Trump di interferenze sul voto in Brasile",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/usa-31-parlamentari-accusano-trump-di-interferenze-sul-voto-in-brasile_981e40f6-f8e8-40fd-ab7f-c14f25a18bca.html",
+     "data": "2026-09-25T00:11:52+00:00"
+    },
+    {
+     "titolo": "Kast incontra Delcy Rodríguez, al centro del colloquio migranti e rapporti con Caracas",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/kast-incontra-delcy-rodriguez-al-centro-del-colloquio-migranti-e-rapporti-con_c01243d1-e8f8-433b-a65a-d8c917d6ebcf.html",
+     "data": "2026-09-24T23:38:02+00:00"
+    },
     {
      "titolo": "Pezeshkian: 'Sono gli Usa a dover decidere se porre fine alla guerra'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/25/pezeshkian-sono-gli-usa-a-dover-decidere-se-porre-fine-alla-guerra_1f374973-6893-46db-b55f-505a1cf00203.html",
@@ -339,46 +379,6 @@
      "titolo": "Sondaggio Datafolha, Lula al 40% e Flávio Bolsonaro al 36% al primo turno",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/sondaggio-datafolha-lula-al-40-e-flavio-bolsonaro-al-36-al-primo-turno_58d8f1fe-d3a4-47be-b426-4dc397c241ab.html",
      "data": "2026-09-24T22:14:15+00:00"
-    },
-    {
-     "titolo": "Media, Bolsonaro Jr volò dagli Usa al Brasile su un jet del fondatore di Banco Master",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/media-bolsonaro-jr-volo-dagli-usa-al-brasile-su-un-jet-del-fondatore-di-banco_f6f691cb-757a-441e-8151-ce7f7f630446.html",
-     "data": "2026-09-24T21:17:40+00:00"
-    },
-    {
-     "titolo": "Attività economica in calo e povertà in aumento in Argentina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/attivita-economica-in-calo-e-poverta-in-aumento-in-argentina_00782d6f-a272-4c46-b7b8-db4e99bba4e3.html",
-     "data": "2026-09-24T20:14:15+00:00"
-    },
-    {
-     "titolo": "Costa Rica, la presidente destituisce il ministro degli Esteri dopo vertice con Trump",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/costa-rica-la-presidente-destituisce-il-ministro-degli-esteri-dopo-vertice-con_863e5549-a00f-4dbd-9ca7-da2ee18162c8.html",
-     "data": "2026-09-24T19:17:19+00:00"
-    },
-    {
-     "titolo": "Mafalda a Buenos Aires diventa 'immersiva' per farsi conoscere dai più piccoli",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/mafalda-a-buenos-aires-diventa-immersiva-per-farsi-conoscere-dai-piu_e85141a1-008e-46d4-bec9-c5c62eb62633.html",
-     "data": "2026-09-24T18:58:52+00:00"
-    },
-    {
-     "titolo": "Netanyahu all'Onu, 'i coloni violenti sono giovani teppisti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/24/netanyahu-allonu-i-coloni-violenti-sono-giovani-teppisti_84b36c2f-5c9e-4269-adf5-2e1da3319000.html",
-     "data": "2026-09-24T18:43:55+00:00"
-    },
-    {
-     "titolo": "Netanyahu all'Onu, 'Mamdani anti-semita, vergognati delle bugie'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/netanyahu-allonu-mamdani-anti-semita-vergognati-delle-bugie_c5246cdd-e28b-4e62-b6ad-3dfaea2e9ff9.html",
-     "data": "2026-09-24T18:39:21+00:00"
-    },
-    {
-     "titolo": "Macron, minaccia droni ? È un'informazione da smentire ma situazione è preoccupante'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/24/macron-minaccia-droni-e-uninformazione-da-smentire-ma-situazione-e-preoccupante_f36027bc-4c8c-4660-81f3-da5d32d9c1ec.html",
-     "data": "2026-09-24T18:25:49+00:00"
-    },
-    {
-     "titolo": "Decine di delegati lasciano l'aula dell'Onu. Netanyahu, 'codardi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/24/decine-di-delegati-lasciano-laula-dellonu.-netanyahu-codardi_6e6c788b-e510-4bd6-8bf3-eaeb08d85b62.html",
-     "data": "2026-09-24T18:18:27+00:00"
     }
    ]
   },
