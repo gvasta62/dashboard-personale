@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-25T21:05:09.604271+00:00",
+ "aggiornato": "2026-09-25T23:58:26.277525+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Moody's, Italia resiliente a shock energia, quest'anno pil +0,8%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/25/moodys-italia-resiliente-a-shock-energia-questanno-pil-08_2d70be02-4d9b-44c6-a8d7-ccbb2862a123.html",
+     "data": "2026-09-25T21:02:15+00:00"
+    },
     {
      "titolo": "Nations League: l'Italia parte male, il Belgio vince 2-0",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/25/nations-league-litalia-parte-male-il-belgio-vince-2-0_0b7de9ad-b53f-4cc7-a470-fd6ddd4afc49.html",
@@ -49,11 +54,6 @@
      "titolo": "Ft, gli Houthi promettono di non prendere di mira le navi europee",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/25/ft-gli-houthi-promettono-di-non-prendere-di-mira-le-navi-europee_c96b0efc-a261-45d3-814d-3dd7e6790f77.html",
      "data": "2026-09-25T15:52:09+00:00"
-    },
-    {
-     "titolo": "Xi a Trump, 'presto altre due occasioni per vederci, all'Apec e al G20'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/25/xi-a-trump-presto-altre-due-occasioni-per-vederci-allapec-e-al-g20_e96c420d-80c6-45d1-9fb1-d6da4c7e4232.html",
-     "data": "2026-09-25T15:50:25+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Moody's, Italia resiliente a shock energia, quest'anno pil +0,8%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/moodys-italia-resiliente-a-shock-energia-questanno-pil-08_84306d2a-f8c6-462b-9347-ab0f655f9d1b.html",
+     "data": "2026-09-25T22:21:37+00:00"
+    },
+    {
      "titolo": "Sale il costo del gasolio, ma l'Eni mette un tetto ai prezzi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/sale-il-costo-del-gasolio-ma-leni-mette-un-tetto-ai-prezzi_94d83426-2bbc-400c-a017-36aab3b4da40.html",
      "data": "2026-09-25T20:03:49+00:00"
@@ -309,11 +314,6 @@
      "titolo": "Federalimentare, nell'industria alimentare dal 2016 occupazione +22%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/federalimentare-nellindustria-alimentare-dal-2016-occupazione-22_cf9c90d8-d16e-46cb-af29-ad25aba7b9bc.html",
      "data": "2026-09-25T14:02:34+00:00"
-    },
-    {
-     "titolo": "Ue fissa a 2 euro la commissione di gestione sui pacchi extra-Ue",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/ue-fissa-a-2-euro-la-commissione-di-gestione-sui-pacchi-extra-ue_7fc938fa-c7ef-4168-8558-3ca334aa92f0.html",
-     "data": "2026-09-25T13:45:59+00:00"
     }
    ]
   },
@@ -451,24 +451,24 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Eurolega: Partizan-Armani Milano 92-76",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/25/eurolega-partizan-armani-milano-92-76_b20e476e-7f4a-4fd5-b18a-1c5cbce1ef8a.html",
-     "data": "2026-09-25T20:53:57+00:00"
+     "titolo": "Nations League: Mbappe' segna ed esce, Francia preoccupata per l'infortunio",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/nations-league-mbappe-segna-ed-esce-francia-preoccupata-per-linfortunio_872d067c-9687-47e6-b4f2-69ff929c2a9d.html",
+     "data": "2026-09-25T21:27:01+00:00"
     },
     {
-     "titolo": "Nations League: Turchia-Francia 0-1, buona la prima per Zidane",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/nations-league-turchia-francia-0-1-buona-la-prima-per-zidane_872d067c-9687-47e6-b4f2-69ff929c2a9d.html",
-     "data": "2026-09-25T20:52:10+00:00"
+     "titolo": "È ancora azzurro tenebra, neanche Mancini rianima l'Italia",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/e-ancora-azzurro-tenebra-neanche-mancini-rianima-litalia-_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
+     "data": "2026-09-25T21:14:42+00:00"
+    },
+    {
+     "titolo": "Eurolega: a Belgrado il Partizan batte l'Armani Milano 92-76",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/25/eurolega-partizan-armani-milano-92-76_b20e476e-7f4a-4fd5-b18a-1c5cbce1ef8a.html",
+     "data": "2026-09-25T21:20:44+00:00"
     },
     {
      "titolo": "Mancini \"fischi ci stanno ma nel secondo tempo meglio noi\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/mancini-fischi-ci-stanno-ma-nel-secondo-tempo-meglio-noi_7936ea15-4403-4d12-98cf-a859b3b80998.html",
      "data": "2026-09-25T20:50:58+00:00"
-    },
-    {
-     "titolo": "Nations League: all'Olimpico Italia battuta 2-0 dal Belgio LE FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/nations-league-allolimpico-italia-battuta-2-0-dal-belgio-le-foto_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
-     "data": "2026-09-25T20:53:24+00:00"
     },
     {
      "titolo": "Nations League: l'Italia parte male, il Belgio vince 2-0",
