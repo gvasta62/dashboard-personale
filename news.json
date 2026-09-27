@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-09-27T19:05:20.950451+00:00",
+ "aggiornato": "2026-09-27T22:23:03.762750+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Aggredisce donna e investe due persone a Reggio Emilia, arrestato",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/aggredisce-donna-e-investe-due-persone-a-reggio-emilia-arrestato_69dff7d8-8926-4e47-a38e-592a3eb16e11.html",
+     "data": "2026-09-27T19:51:12+00:00"
+    },
+    {
+     "titolo": "Il Papa alle vittime di abusi, 'il mio impegno perché non si ripeta'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/il-papa-alle-vittime-di-abusi-il-mio-impegno-perche-non-si-ripeta_a4f16ddc-840e-48dd-99f1-59981743bdd4.html",
+     "data": "2026-09-27T19:45:48+00:00"
+    },
+    {
+     "titolo": "Axios, 'Trump terrà cena privata alla Casa Bianca con il ceo di Anthropic'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/axios-trump-terra-cena-privata-alla-casa-bianca-con-il-ceo_0f30ba4b-3f54-4540-b6e2-ad3a6bae532d.html",
+     "data": "2026-09-27T19:24:03+00:00"
+    },
+    {
+     "titolo": "Media, Netanyahu negli Emirati oggi per incontro con bin Zayed",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/media-netanyahu-negli-emirati-oggi-per-incontro-con-bin-zayed_3a1a992b-20e9-47df-a5c4-49b59609264b.html",
+     "data": "2026-09-27T19:22:50+00:00"
+    },
     {
      "titolo": "Il presidente serbo Vucic si dimette per candidarsi alle elezioni anticipate",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/il-presidente-serbo-vucic-si-dimette-per-candidarsi-alle-elezioni-anticipate_43612fe8-c548-4c1a-ba42-4ef192336e55.html",
@@ -34,26 +54,6 @@
      "titolo": "Meloni, da Ip segnale importante, il governo continuerà a sostenere le famiglie",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/meloni-da-ip-segnale-importante-il-governo-continuera-a-sostenere-le-famiglie_e2e1a4f3-b5d6-4317-bde5-1e8b83687b6f.html",
      "data": "2026-09-27T16:21:26+00:00"
-    },
-    {
-     "titolo": "Calenda a Bonaccini, riparleremo di stare insieme quando Pd raddrizzerà la schiena",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/calenda-a-bonaccini-riparleremo-di-stare-insieme-quando-pd-raddrizzera-la-schiena_4ddef03b-ef3e-4cd6-9f64-271ab55a73be.html",
-     "data": "2026-09-27T16:01:57+00:00"
-    },
-    {
-     "titolo": "Allarme base Raf, per Sky si indaga su potenziali legami arrestati con l'Iran",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/allarme-base-raf-per-sky-si-indaga-su-potenziali-legami-arrestati-con_e9a65ee5-6ce8-4d9b-b4dd-c510b0a7ea15.html",
-     "data": "2026-09-27T16:00:27+00:00"
-    },
-    {
-     "titolo": "Renzi, se Meloni vince fa l'all-in e si prende anche il Colle",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/renzi-se-meloni-vince-fa-lall-in-e-si-prende-anche-il-colle_38e47196-b18e-4a44-abae-ce297f942dd6.html",
-     "data": "2026-09-27T16:00:29+00:00"
-    },
-    {
-     "titolo": "Vannacci, grazie a Siracusano domani balzo in avanti di FnV",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/vannacci-grazie-a-siracusano-domani-balzo-in-avanti-di-fnv_0fddb5e4-743b-4045-9721-642eaa462300.html",
-     "data": "2026-09-27T16:00:00+00:00"
     }
    ]
   },
@@ -68,7 +68,7 @@
     {
      "titolo": "Amanda Knox rivela, tornata alla casa del delitto per dire addio a quella vita",
      "link": "https://www.ansa.it/umbria/notizie/2026/09/27/amanda-knox-rivela-tornata-alla-casa-del-delitto-per-dire_f71571b8-1296-400c-8ca6-a7d76b8e5d4b.html",
-     "data": "2026-09-27T18:28:32+00:00"
+     "data": "2026-09-27T19:25:45+00:00"
     },
     {
      "titolo": "Prisco, ecco i numeri dell'impegno del Governo Meloni per la sicurezza",
@@ -126,14 +126,34 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-09-27T18:58:19+00:00"
+     "titolo": "Bloccò la strada Milano-Meda per un video, espulso il trapper Bratan",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/blocco-la-strada-milano-meda-per-un-video-espulso-il-trapper-bratan_9fdec40b-636c-4b68-882c-c70eeb849b8c.html",
+     "data": "2026-09-27T21:26:45+00:00"
+    },
+    {
+     "titolo": "Il sindaco di Reggio Emilia, rabbia e costernazione per l'aggressione al distributore",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/il-sindaco-di-reggio-emilia-rabbia-e-costernazione-per-laggressione-al-distributore_00ac7aa3-4238-488e-8b86-d99c9a465917.html",
+     "data": "2026-09-27T21:12:28+00:00"
     },
     {
      "titolo": "Aggredisce una donna e investe due persone a Reggio Emilia, arrestato",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/aggredisce-una-donna-e-investe-due-persone-a-reggio-emilia-arrestato_eae1d70a-f8b9-4cb6-a57f-243f9791ab74.html",
-     "data": "2026-09-27T19:03:09+00:00"
+     "data": "2026-09-27T21:13:27+00:00"
+    },
+    {
+     "titolo": "Aggredisce donna e investe due persone a Reggio Emilia, arrestato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/aggredisce-donna-e-investe-due-persone-a-reggio-emilia-arrestato_07914102-6d3d-4604-b146-b93462f821c5.html",
+     "data": "2026-09-27T19:51:06+00:00"
+    },
+    {
+     "titolo": "Il Papa alle vittime di abusi, 'il mio impegno perché non si ripeta'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/il-papa-alle-vittime-di-abusi-il-mio-impegno-perche-non-si-ripeta_beb44212-d9c7-4ab4-babf-bbe48796883c.html",
+     "data": "2026-09-27T19:45:45+00:00"
+    },
+    {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-09-27T18:58:19+00:00"
     },
     {
      "titolo": "Emissione di cenere dall'Etna, voli a Catania sospesi fino a lunedì",
@@ -164,32 +184,27 @@
      "titolo": "Investe bimbo di 5 anni e fugge, fermata la ex del padre",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/investe-bimbo-di-5-anni-e-fugge-fermata-la-ex-del-padre_cf769303-383d-40d2-8cf8-32a267410ba0.html",
      "data": "2026-09-27T17:55:10+00:00"
-    },
-    {
-     "titolo": "Associazioni e comitati a Mattarella 'non firmi il decreto sulla scuola'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/associazioni-e-comitati-a-mattarella-non-firmi-il-decreto-sulla-scuola_45a541f2-86c0-4842-87ea-2c8fc8eeb299.html",
-     "data": "2026-09-27T17:37:37+00:00"
-    },
-    {
-     "titolo": "Scontro tra moto, morti due centauri in Salento",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/scontro-tra-moto-morti-due-centauri-in-salento_2925a676-5991-4d90-9ea7-a7149e7e139c.html",
-     "data": "2026-09-27T17:26:18+00:00"
-    },
-    {
-     "titolo": "Dal rapimento di Regeni alla sentenza, dieci anni tra depistaggi e battaglie giudiziarie",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/dal-rapimento-di-regeni-alla-sentenza-dieci-anni-tra-depistaggi-e-battaglie_38d31e79-2269-450b-8c18-73f1a5e917dc.html",
-     "data": "2026-09-27T17:15:02+00:00"
-    },
-    {
-     "titolo": "Picchiata, torturata e quasi annegata, arrestato 38enne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/picchiata-torturata-e-quasi-annegata-arrestato-38enne_f0e5d71b-ca7c-4057-86fd-e0dcaf07e106.html",
-     "data": "2026-09-27T16:38:44+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Suppletive Reggio, affluenza alle 23 al 14,97%, 4 anni fa era al 49,4%",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/28/suppletive-reggio-affluenza-alle-23-al-1497-4-anni-fa-era-al-494_f10095ed-7bcf-4a4b-b3d0-697b1f536b19.html",
+     "data": "2026-09-27T22:09:04+00:00"
+    },
+    {
+     "titolo": "A Report attesa per la decisione su Ranucci, minacce di addio ma il cdr smentisce",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/27/a-report-attesa-per-la-decisione-su-ranucci-minacce-di-addio-ma-il-cdr-smentisce_d7fb7d27-2949-4c51-8fae-44a1a3cfb8d8.html",
+     "data": "2026-09-27T19:16:45+00:00"
+    },
+    {
+     "titolo": "All'Onu si vota sulle pandemie, Pd-M5s attaccano l'astensione dell'Italia",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/27/allonu-si-vota-sulle-pandemie-pd-m5s-attaccano-lastensione-dellitalia_3216bfee-1079-4c23-b081-7fe44e62c626.html",
+     "data": "2026-09-27T19:18:58+00:00"
+    },
     {
      "titolo": "Suppletive a Reggio Calabria. Bassa l'affluenza della prima giornata di voto",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/27/suppletive-a-reggio-calabria.-bassa-laffluenza-della-prima-giornata-di-voto_13ef3ae0-466d-42b8-a677-ddc7bcbc2a8a.html",
@@ -234,21 +249,6 @@
      "titolo": "Romeo, il congresso un trappolone, caro Salvini te lo fai da solo",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/27/romeo-il-congresso-un-trappolone-caro-salvini-te-lo-fai-da-solo_7b2fef97-0efa-42f1-a504-ab652e378fb4.html",
      "data": "2026-09-27T15:48:40+00:00"
-    },
-    {
-     "titolo": "Tajani, dopo Eni anche Ip limita i prezzi, contributi senza imposizioni dall'alto",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/27/tajani-dopo-eni-anche-ip-limita-i-prezzi-contributi-senza-imposizioni-dallalto_fda52b72-addf-40bf-a45b-c3b35fda13ec.html",
-     "data": "2026-09-27T15:49:20+00:00"
-    },
-    {
-     "titolo": "Il Papa su fine vita e aborto, nessuna legge può dare la morte",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/27/il-papa-su-fine-vita-e-aborto-nessuna-legge-puo-dare-la-morte_d4684e18-fa01-4f4b-b4e0-a7242a358014.html",
-     "data": "2026-09-27T14:02:02+00:00"
-    },
-    {
-     "titolo": "Avs, Emanuele Filiberto al centro di compravendita titoli senza valore, interrogazione. Il principe: \"Nessuna onorificenza viene venduta\"",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/27/avs-emanuele-filiberto-al-centro-di-compravendita-titoli-senza-valore-interrogazione_9666e3a2-6c18-487d-b39e-677aaf995499.html",
-     "data": "2026-09-27T14:42:50+00:00"
     }
    ]
   },
@@ -258,7 +258,7 @@
     {
      "titolo": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/ip-segue-eni-sui-prezzi-dei-carburanti.-meloni-assicura-un-sostegno-alle_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
-     "data": "2026-09-27T18:50:26+00:00"
+     "data": "2026-09-27T21:58:44+00:00"
     },
     {
      "titolo": "Socar applicherà limiti ai prezzi carburanti sulla rete italiana Ip",
@@ -301,6 +301,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Inaugurato padiglione Italia alla Fiera del Turismo di Buenos Aires",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/28/inaugurato-padiglione-italia-alla-fiera-del-turismo-di-buenos-aires_d75b6b07-ad5a-455e-9301-23ac56beb1e5.html",
+     "data": "2026-09-27T22:09:40+00:00"
+    },
+    {
+     "titolo": "Jp Morgan riduce le stime di crescita per l'Argentina all'1,5%",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/27/jp-morgan-riduce-le-stime-di-crescita-per-largentina-all15_9d441dee-1938-4524-ae05-f152b0e97f02.html",
+     "data": "2026-09-27T20:28:29+00:00"
+    },
+    {
+     "titolo": "Axios, 'Trump terrà cena privata alla Casa Bianca con il ceo di Anthropic'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/axios-trump-terra-cena-privata-alla-casa-bianca-con-il-ceo_9adb3afa-0c81-43d2-852e-ef33b0a00e5b.html",
+     "data": "2026-09-27T19:24:33+00:00"
+    },
+    {
+     "titolo": "Media, Netanyahu negli Emirati oggi per incontro con bin Zayed",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/media-netanyahu-negli-emirati-oggi-per-incontro-con-bin-zayed_ed215a04-5926-4eef-a4a8-6e2c10bc27ae.html",
+     "data": "2026-09-27T19:24:37+00:00"
+    },
+    {
      "titolo": "Il presidente serbo Vucic si dimette per candidarsi alle elezioni anticipate",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/il-presidente-serbo-vucic-si-dimette-per-candidarsi-alle-elezioni-anticipate_e872079a-6af1-4fec-a46b-288f46f8714a.html",
      "data": "2026-09-27T18:40:29+00:00"
@@ -339,26 +359,6 @@
      "titolo": "Trump, 'su arresti a Fairford fatto un lavoro straordinario con Gb'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/trump-su-arresti-a-fairford-fatto-un-lavoro-straordinario-con-gb_f8767055-8f2c-4b4d-a8c8-c78a0ce7f1df.html",
      "data": "2026-09-27T16:24:49+00:00"
-    },
-    {
-     "titolo": "Trump, 'prezzo petrolio crollerà a guerra finita, più basso ora che con Biden'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/27/trump-prezzo-petrolio-crollera-a-guerra-finita-piu-basso-ora-che_1bb7a914-b16b-4672-b410-4ca4bc8721b6.html",
-     "data": "2026-09-27T16:25:07+00:00"
-    },
-    {
-     "titolo": "Il governo di Delcy Rodríguez rilascia altri 40 prigionieri politici in Venezuela",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/27/il-governo-di-delcy-rodriguez-rilascia-altri-40-prigionieri-politici-in-venezuela_9749f218-b9b6-4cb1-a767-e31ffbee769b.html",
-     "data": "2026-09-27T16:25:31+00:00"
-    },
-    {
-     "titolo": "Allarme a base Raf, i 5 arrestati accusati formalmente di terrorismo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/allarme-a-base-raf-i-5-arrestati-accusati-formalmente-di-terrorismo_c5ce7f23-5b59-47b2-a089-fa3fc3a2040d.html",
-     "data": "2026-09-27T13:30:47+00:00"
-    },
-    {
-     "titolo": "Allarme esplosivi vicino a base Raf, 5 le persone arrestate",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/allarme-esplosivi-vicino-a-base-raf-5-le-persone-arrestate_f33335e0-b450-4209-9e1f-41413c2821b9.html",
-     "data": "2026-09-27T13:05:20+00:00"
     }
    ]
   },
@@ -431,9 +431,44 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Nations League: crollo della Germania in casa contro la Grecia",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/nations-league-crollo-della-germania-in-casa-contro-la-grecia_8f49efe4-7461-48e7-a345-5d7ecec81b09.html",
+     "data": "2026-09-27T21:09:28+00:00"
+    },
+    {
+     "titolo": "Nations League: crollo della Germania in casa contro la Grecia",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/nations-league-crollo-della-germania-in-casa-contro-la-grecia_d2174d08-5b35-4ddc-9cd0-a0fbccdfb587.html",
+     "data": "2026-09-27T21:23:58+00:00"
+    },
+    {
+     "titolo": "Mondiali ciclismo: sorpresa McNulty, l'americano vince in Canada",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/27/mondiali-ciclismo-sorpresa-mcnulty-lamericano-vince-in-canada-_e86bf8b3-0002-4e16-a276-0999ec7d6fd9.html",
+     "data": "2026-09-27T20:23:33+00:00"
+    },
+    {
+     "titolo": "Figc: botta e risposta Ceferin-Buonfiglio, e arriva sponsor ItalPetroli",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/ansa-boxfigc-botta-e-risposta-ceferin-buonfiglio-e-arriva-sponsor-italpetroli_9023b35b-a623-43d3-baa2-af246f0f1dc6.html",
+     "data": "2026-09-27T20:37:16+00:00"
+    },
+    {
+     "titolo": "Mondiali ciclismo: Finn, 'gara dura ma è un mattoncino per il futuro'",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/27/mondiali-ciclismo-finn-gara-dura-ma-e-un-mattoncino-per-il-futuro_aa1051f7-90a8-4055-af80-2fa69ffced07.html",
+     "data": "2026-09-27T20:05:21+00:00"
+    },
+    {
+     "titolo": "America's Cup: foto di famiglia per Luna Rossa sul pontone del Race Village",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-foto-di-famiglia-per-luna-rossa-sul-pontone-del_27e9677c-6b45-43e0-a153-42adb96ab1de.html",
+     "data": "2026-09-27T19:15:47+00:00"
+    },
+    {
      "titolo": "America's Cup: la gioia di Sirena 'ok i nuovi equipaggi, abbiamo gruppo di talento'",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-la-gioia-di-sirena-ok-i-nuovi-equipaggi-abbiamo-gruppo-di-talento_335723fe-f397-41c8-8beb-0a554c31a493.html",
      "data": "2026-09-27T18:48:59+00:00"
+    },
+    {
+     "titolo": "Nations League: la Francia va in Belgio, \"primo vero test per Zidane\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/nations-league-la-francia-va-in-belgio-primo-vero-test-per-zidane_2d985a13-ef37-49fc-b582-299719d73005.html",
+     "data": "2026-09-27T19:35:51+00:00"
     },
     {
      "titolo": "A Napoli il trionfo di Luna Rossa, ora l'America's Cup non è più un sogno",
@@ -454,41 +489,6 @@
      "titolo": "Cuesta e Parma si dividono, cambio panchina dopo 5 giornate",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/cuesta-e-parma-si-dividono-cambio-panchina-dopo-5-giornate-_f92b680e-9858-41a6-99be-86355f643046.html",
      "data": "2026-09-27T17:31:10+00:00"
-    },
-    {
-     "titolo": "Red Bull Cliff Diving, Polignano a Mare premia Prygorov, a britannico Heslop il titolo",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/red-bull-cliff-diving-polignano-a-mare-premia-prygorov-a-britannico-heslop_869bd7cb-de43-462b-bdcd-d88af8b4884c.html",
-     "data": "2026-09-27T17:32:22+00:00"
-    },
-    {
-     "titolo": "Red Bull Cliff Diving, Polignano a Mare premia Prygorov, a britannico Heslop il titolo",
-     "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/09/27/red-bull-cliff-diving-polignano-a-mare-premia-prygorov-a-britannico-heslop_44710784-f049-445a-b894-66173484b090.html",
-     "data": "2026-09-27T17:32:22+00:00"
-    },
-    {
-     "titolo": "America's Cup: Sport e Salute 'vero trionfo non è oggi, ma quello che comincia domani'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-sport-e-salute-vero-trionfo-non-e-oggi-ma-quello-che_d4f15ee3-0b57-49b7-8ffd-081ebcebba5d.html",
-     "data": "2026-09-27T16:57:47+00:00"
-    },
-    {
-     "titolo": "Bulega campione del mondo Superbike, 14 anni dopo Biaggi",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/bulega-campione-del-mondo-superbike-14-anni-dopo-biaggi_0bedf039-48ed-4c2d-894a-7595da735ff0.html",
-     "data": "2026-09-27T16:57:19+00:00"
-    },
-    {
-     "titolo": "Nations League: Tonali, 'non abbiamo la stella, ma questa Italia e' viva'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/nations-league-tonali-non-abbiamo-la-stella-ma-questa-italia-e-viva_185075f4-3630-4d23-96d6-b14dd52dae2d.html",
-     "data": "2026-09-27T16:01:51+00:00"
-    },
-    {
-     "titolo": "Taekwondo: oro per Dell'Aquila a Varsavia",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/taekwondo-oro-per-dellaquila-a-varsavia_7d2c3e39-d431-437c-a84a-8cb6e4639099.html",
-     "data": "2026-09-27T16:46:34+00:00"
-    },
-    {
-     "titolo": "Nations League: Mancini, 'troppa agitazione, diamo tempo ai giovani'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/nations-league-mancini-troppa-agitazione-diamo-tempo-ai-giovani_85d95282-0596-49dd-af85-04e290af9a0c.html",
-     "data": "2026-09-27T15:51:18+00:00"
     }
    ]
   }
