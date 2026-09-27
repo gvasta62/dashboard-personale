@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-09-27T00:42:30.876447+00:00",
+ "aggiornato": "2026-09-27T05:54:33.514476+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Due panda giganti dalla Cina in volo verso uno zoo negli Usa",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/due-panda-giganti-dalla-cina-in-volo-verso-uno-zoo-negli_9e860d1e-d413-42e7-b430-e69fb19d1b1b.html",
+     "data": "2026-09-27T03:31:08+00:00"
+    },
+    {
+     "titolo": "Attacchi russi su Zaporizhzhia, tre morti e diversi feriti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/attacchi-russi-su-zaporizhzhia-tre-morti-e-diversi-feriti_fe9fe92f-7718-42e6-9aaf-4f5130276db3.html",
+     "data": "2026-09-27T01:41:30+00:00"
+    },
     {
      "titolo": "Bonaccini, 'subito il programma da firmare con il sangue e poi la leadership'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/26/bonaccini-subito-il-programma-da-firmare-con-il-sangue-e-poi-la-leadership_998277b8-355e-4cbd-b9d2-ad05ad436d16.html",
@@ -44,16 +54,6 @@
      "titolo": "Omicidio Torino, 'l'ho ucciso ma non ricordo lo strangolamento'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/26/omicidio-torino-lho-ucciso-ma-non-ricordo-lo-strangolamento_2335c5dc-2b2d-497f-9594-2c3aafb9c0cb.html",
      "data": "2026-09-26T16:54:12+00:00"
-    },
-    {
-     "titolo": "Omicidio Torino, avvocato indagato 'nella casa consumata ogni tipo di droga'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/26/omicidio-torino-avvocato-indagato-nella-casa-consumata-ogni-tipo-di-droga_3d930ddf-2f4a-4229-abff-9bc7befa0f49.html",
-     "data": "2026-09-26T16:29:16+00:00"
-    },
-    {
-     "titolo": "Morto a 15 anni folgorato su un traliccio, ipotesi sfida social",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/26/morto-a-15-anni-folgorato-su-un-traliccio-ipotesi-sfida-social_2783c245-8850-49a5-870e-08db67d00014.html",
-     "data": "2026-09-26T16:13:19+00:00"
     }
    ]
   },
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Suppletive a Reggio Calabria, seggi aperti alle 7, si vota sino alle 23",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/27/suppletive-a-reggio-calabria-seggi-aperti-alle-7-si-vota-sino-alle-23_13ef3ae0-466d-42b8-a677-ddc7bcbc2a8a.html",
+     "data": "2026-09-27T05:04:49+00:00"
+    },
+    {
      "titolo": "Schlen rilancia da Portici, 'prima si vota meglio è'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/26/schlen-rilancia-da-portici-prima-si-vota-meglio-e_d81fcfa8-dfa2-4579-8f70-cf8602e51311.html",
      "data": "2026-09-26T18:46:34+00:00"
@@ -231,9 +236,9 @@
      "data": "2026-09-26T17:45:32+00:00"
     },
     {
-     "titolo": "Domani si vota alle suppletive a Reggio, tempesta su Vannacci per la foto fake di Matilde Siracusano",
+     "titolo": "Oggi si vota alle suppletive a Reggio, tempesta su Vannacci per la foto fake di Matilde Siracusano",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/26/bufera-per-la-foto-modificata-di-siracusano-rilanciata-da-vannacci_f4bf9e8a-edc2-49a5-b090-6cd8df138b96.html",
-     "data": "2026-09-26T19:09:27+00:00"
+     "data": "2026-09-27T05:05:53+00:00"
     },
     {
      "titolo": "Schlein, 'prima si va a votare meglio è, disastro centrodestra'",
@@ -244,11 +249,6 @@
      "titolo": "Polemiche per la foto 'modificata' di Siracusano rilanciata da Vannacci",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/26/polemiche-per-la-foto-modificata-di-siracusano-rilanciata-da-vannacci_a51c1fc6-ff3c-428e-a42a-b347b3d92bb8.html",
      "data": "2026-09-26T17:04:01+00:00"
-    },
-    {
-     "titolo": "Campagna FdI in tutta Italia per fermare l'integralismo islamico",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/26/campagna-fdi-in-tutta-italia-per-fermare-lintegralismo-islamico_5f8585fb-db15-42b4-ae5e-f4278077673c.html",
-     "data": "2026-09-26T16:11:26+00:00"
     }
    ]
   },
@@ -316,6 +316,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Due panda giganti dalla Cina in volo verso uno zoo negli Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/27/due-panda-giganti-dalla-cina-in-volo-verso-uno-zoo-negli_f4e35ef5-1523-4948-ac72-e8afa7de333e.html",
+     "data": "2026-09-27T03:31:08+00:00"
+    },
+    {
+     "titolo": "Attacchi russi su Zaporizhzhia, tre morti e diversi feriti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/attacchi-russi-su-zaporizhzhia-tre-morti-e-diversi-feriti_d030bddb-d83f-41da-8fd4-42762351af87.html",
+     "data": "2026-09-27T01:41:47+00:00"
+    },
+    {
      "titolo": "Machado, 'in Venezuela ci sono attori che cercano di prolungare la sottomissione'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/26/machado-in-venezuela-ci-sono-attori-che-cercano-di-prolungare-la-sottomissione_373e0ea4-ce50-422b-8bb8-fb81f281ccb9.html",
      "data": "2026-09-26T20:56:23+00:00"
@@ -364,16 +374,6 @@
      "titolo": "Lavrov a Onu, Occidente usa forza bruta per agire in modo imprevedibile",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/lavrov-a-onu-occidente-usa-forza-bruta-per-agire-in-modo-imprevedibile_e8c1f4a5-4617-4842-b70c-10b97ccc90fc.html",
      "data": "2026-09-26T16:07:48+00:00"
-    },
-    {
-     "titolo": "In 20mila in piazza a Madrid per la 'Marcia della dignità' contro Sanchez e per Ceuta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/26/in-20mila-in-piazza-a-madrid-per-la-marcia-della-dignita-contro-sanchez-e-per_f51e8eb6-1562-48b7-bbb1-56ed499a9cc5.html",
-     "data": "2026-09-26T15:26:18+00:00"
-    },
-    {
-     "titolo": "Sondaggio Wsj, 'consenso Trump a 37%, ai minimi dal 1990 per presidente a vigilia midterm'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/sondaggio-wsj-consenso-trump-a-37-ai-minimi-dal-1990-per-presidente-a-vigilia_c8127027-5d85-40c1-8070-75c9aed8adb4.html",
-     "data": "2026-09-26T15:22:35+00:00"
     }
    ]
   },
@@ -463,7 +463,7 @@
     {
      "titolo": "Confessione choc di Roberto Carlos, perso il 99% di quanto guadagnato con il calcio",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/confessione-choc-di-roberto-carlos-perso-il-99-di-quanto-guadagnato-con-il-calcio_82648871-f6fd-4a12-ad5a-f6695eea85bf.html",
-     "data": "2026-09-26T22:25:56+00:00"
+     "data": "2026-09-27T05:48:47+00:00"
     },
     {
      "titolo": "Mondiali donne U20: Malagò \"amarezza per il 4/o posto dopo percorso straordinario\"",
