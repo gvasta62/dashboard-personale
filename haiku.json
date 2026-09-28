@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-09-27T09:39:14.508942+00:00",
- "data": "2026-09-27",
- "testo": "Sole leggero\nsul carro di castagne\nfuma la brace",
- "nota": "Il primo venditore di caldarroste in una piazza tiepida di settembre.",
+ "aggiornato": "2026-09-28T10:18:10.528749+00:00",
+ "data": "2026-09-28",
+ "testo": "Sole a mezz'aria\nsul banco del mercato\nbrilla una mela",
+ "nota": "Osservato il riflesso del sole sopra la frutta esposta in piazza.",
  "archivio": [
+  {
+   "data": "2026-09-28",
+   "testo": "Sole a mezz'aria\nsul banco del mercato\nbrilla una mela",
+   "nota": "Osservato il riflesso del sole sopra la frutta esposta in piazza."
+  },
   {
    "data": "2026-09-27",
    "testo": "Sole leggero\nsul carro di castagne\nfuma la brace",
