@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-09-28T00:56:42.766190+00:00",
+ "aggiornato": "2026-09-28T06:05:14.927266+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media, '7 ottobre, 007 Egitto chiamarono Netanyahu dopo due avvisi inascoltati'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/28/media-7-ottobre-007-egitto-chiamarono-netanyahu-dopo-due-avvisi-inascoltati_1f98396b-6d28-4a49-bb78-4699b7240222.html",
+     "data": "2026-09-28T04:08:41+00:00"
+    },
+    {
+     "titolo": "Bill Gates, 'gli Usa prendano la guida sulla regolamentazione dell'IA'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/28/bill-gates-gli-usa-prendano-la-guida-sulla-regolamentazione-dellia_56650f88-9e35-4a34-95cb-6641327d0a1f.html",
+     "data": "2026-09-28T02:51:47+00:00"
+    },
+    {
+     "titolo": "Trump, 'l'Ai che sfugge al controllo? Non me ne preoccupo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/28/trump-lai-che-sfugge-al-controllo-non-me-ne-preoccupo_0524c14a-0550-4465-83a3-c7c81137375a.html",
+     "data": "2026-09-28T01:13:16+00:00"
+    },
     {
      "titolo": "Borsa: Tokyo, apertura in rialzo (+0,29%)",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/28/borsa-tokyo-apertura-in-rialzo-029_5b384acc-8097-4b78-8a1e-ad1078711f1e.html",
@@ -39,21 +54,6 @@
      "titolo": "Svizzera, al referendum su una maggiore neutralità vince il No con il 70,2%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/svizzera-al-referendum-su-una-maggiore-neutralita-vince-il-no-con-il-702_acad025a-7799-4e3f-b4fa-9e0c56176878.html",
      "data": "2026-09-27T16:41:32+00:00"
-    },
-    {
-     "titolo": "Picchiata, torturata e quasi annegata, arrestato 38enne",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/picchiata-torturata-e-quasi-annegata-arrestato-38enne_10cbe0fa-191a-45bd-b546-f58104dadd5c.html",
-     "data": "2026-09-27T16:38:46+00:00"
-    },
-    {
-     "titolo": "Axios, indagine OpenAI e Anthropic su decine di migliaia di incidenti di sicurezza",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/axios-indagine-openai-e-anthropic-su-decine-di-migliaia-di-incidenti-di-sicurezza_449d631c-7ef5-4a3a-b925-e60c3b3e5c1d.html",
-     "data": "2026-09-27T16:33:40+00:00"
-    },
-    {
-     "titolo": "Valditara, dalla sinistra sul dl scuola grave immaturità politica",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/27/valditara-dalla-sinistra-sul-dl-scuola-grave-immaturita-politica_d1a1cc90-ec28-4316-87ac-b9e81c55fba1.html",
-     "data": "2026-09-27T16:27:16+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Emissione cenere dall'Etna, terzo giorno di stop ai voli a Catania",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/28/emissione-cenere-dalletna-terzo-giorno-di-stop-ai-voli-a-catania_bb2cf5f3-101e-4f1c-8e18-e9422cf45fc1.html",
+     "data": "2026-09-28T05:57:57+00:00"
+    },
+    {
      "titolo": "Casa Milan, vandalizzato il murales dedicato a Franco Baresi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/28/casa-milan-vandalizzato-il-murales-dedicato-a-franco-baresi_897edd2a-71e9-4916-86ce-ac35fdddc3f4.html",
      "data": "2026-09-27T22:23:07+00:00"
@@ -179,17 +184,17 @@
      "titolo": "Ucciso e fatto a pezzi a Torino, restano in carcere i tre accusati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/ucciso-e-fatto-a-pezzi-a-torino-restano-in-carcere-i-tre-accusati_915cdf9d-9adf-4f09-a730-61e6269ba903.html",
      "data": "2026-09-27T18:10:23+00:00"
-    },
-    {
-     "titolo": "Il 15enne morto folgorato, la madre: 'Non è stata una sfida social'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/il-15enne-morto-folgorato-la-madre-non-e-stata-una-sfida-social_3254b03a-e9b1-4c9b-9366-3397c0663d3a.html",
-     "data": "2026-09-27T18:14:40+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Suppletive Reggio Calabria, seggi aperti alle 7, chiudono alle 15",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/28/suppletive-reggio-calabria-seggi-aperti-alle-7-chiudono-alle-15_a63e6693-4c61-4c65-82d4-be0b74ae1210.html",
+     "data": "2026-09-28T05:31:57+00:00"
+    },
     {
      "titolo": "Suppletive Reggio, affluenza alle 23 al 14,97%, 4 anni fa era al 49,4%",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/28/suppletive-reggio-affluenza-alle-23-al-1497-4-anni-fa-era-al-494_f10095ed-7bcf-4a4b-b3d0-697b1f536b19.html",
@@ -244,17 +249,17 @@
      "titolo": "Barachini (FI) sul caso Siracusano, \"no all'IA in campagna elettorale\"",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/27/barachini-fi-sul-caso-siracusano-no-allia-in-campagna-elettorale_42efc124-5cb4-48d3-b710-3b4f9327d72a.html",
      "data": "2026-09-27T15:54:59+00:00"
-    },
-    {
-     "titolo": "Romeo, il congresso un trappolone, caro Salvini te lo fai da solo",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/27/romeo-il-congresso-un-trappolone-caro-salvini-te-lo-fai-da-solo_7b2fef97-0efa-42f1-a504-ab652e378fb4.html",
-     "data": "2026-09-27T15:48:40+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Prezzo del petrolio in forte rialzo, Wti scambiato a 94,71 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/prezzo-del-petrolio-in-forte-rialzo-wti-scambiato-a-9471-dollari_6549ae2c-becc-43de-8cba-c1583d0de85f.html",
+     "data": "2026-09-28T06:01:01+00:00"
+    },
     {
      "titolo": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/ip-segue-eni-sui-prezzi-dei-carburanti.-meloni-assicura-un-sostegno-alle_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
@@ -301,6 +306,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Media, '7 ottobre, 007 Egitto chiamarono Netanyahu dopo due avvisi inascoltati'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/28/media-7-ottobre-007-egitto-chiamarono-netanyahu-dopo-due-avvisi-inascoltati_dbfc74cd-6cf6-4e8a-95b5-a3696cf9a0cd.html",
+     "data": "2026-09-28T04:08:54+00:00"
+    },
+    {
+     "titolo": "Bill Gates, 'gli Usa prendano la guida sulla regolamentazione dell'IA'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/28/bill-gates-gli-usa-prendano-la-guida-sulla-regolamentazione-dellia_3969ad76-3dcb-4b4a-bca3-92e27bffac8e.html",
+     "data": "2026-09-28T02:52:05+00:00"
+    },
+    {
+     "titolo": "++ Bill Gates, 'gli Usa prendano la guida sulla regolamentazione dell'IA' ++",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/28/-bill-gates-gli-usa-prendano-la-guida-sulla-regolamentazione-dellia-_d9d2cc17-7f20-4d64-8ec8-a0c6fba9538d.html",
+     "data": "2026-09-28T02:51:47+00:00"
+    },
+    {
+     "titolo": "Trump, 'l'Ai che sfugge al controllo? Non me ne preoccupo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/28/trump-lai-che-sfugge-al-controllo-non-me-ne-preoccupo_bf5799a1-de6c-4cc1-82ed-c176ef920014.html",
+     "data": "2026-09-28T01:17:10+00:00"
+    },
+    {
      "titolo": "Borsa: Tokyo, apertura in rialzo (+0,29%)",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/28/borsa-tokyo-apertura-in-rialzo-029_8565c990-0f34-4d90-a35e-1c5518f87bb9.html",
      "data": "2026-09-28T00:51:46+00:00"
@@ -339,26 +364,6 @@
      "titolo": "La Svizzera dice no al referendum sulla neutralità, salve le sanzioni Ue",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/la-svizzera-dice-no-al-referendum-sulla-neutralita-salve-le-sanzioni-ue_7c894446-31aa-4d59-b589-bf82a5104497.html",
      "data": "2026-09-27T17:20:52+00:00"
-    },
-    {
-     "titolo": "Axios, indagine OpenAI e Anthropic su decine di migliaia di incidenti di sicurezza",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/27/axios-indagine-openai-e-anthropic-su-decine-di-migliaia-di-incidenti-di-sicurezza_043c1471-5487-49a8-ae2e-f36cdbc7a6dd.html",
-     "data": "2026-09-27T16:33:43+00:00"
-    },
-    {
-     "titolo": "Allarme base Raf, per Sky si indaga su potenziali legami arrestati con l'Iran",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/allarme-base-raf-per-sky-si-indaga-su-potenziali-legami-arrestati-con_0b95c863-e60c-451c-8384-c40b03d3c05f.html",
-     "data": "2026-09-27T16:24:20+00:00"
-    },
-    {
-     "titolo": "Trump ad Axios, 'mi aspetto altri colloqui sull'Iran in settimana'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/trump-ad-axios-mi-aspetto-altri-colloqui-sulliran-in-settimana_4add53bc-1cd9-4952-a8c9-3a9ecfa2f9fc.html",
-     "data": "2026-09-27T16:24:40+00:00"
-    },
-    {
-     "titolo": "Trump ad Axios, 'mi aspetto altri colloqui sull'Iran in settimana'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/27/trump-ad-axios-mi-aspetto-altri-colloqui-sulliran-in-settimana_83af1891-8020-42c6-8925-54868fe08ea5.html",
-     "data": "2026-09-27T16:32:51+00:00"
     }
    ]
   },
