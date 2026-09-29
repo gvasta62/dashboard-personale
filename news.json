@@ -1,10 +1,45 @@
 {
- "aggiornato": "2026-09-29T18:43:10.246964+00:00",
+ "aggiornato": "2026-09-29T22:42:29.685889+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Pentagono, a Boeing il contratto da 20 miliardi per il nuovo caccia della Marina",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/30/pentagono-a-boeing-il-contratto-da-20-miliardi-per-il-nuovo-caccia-della-marina_dbce46a3-9110-44a1-94c4-57dbf7969b5d.html",
+     "data": "2026-09-29T22:13:26+00:00"
+    },
+    {
+     "titolo": "Trump, 'Usa valutano comitato di 10 persone per vigilare sull'IA'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/trump-usa-valutano-comitato-di-10-persone-per-vigilare-sullia_c019a9e7-0a08-4712-8a2d-33ec4166d51f.html",
+     "data": "2026-09-29T21:20:32+00:00"
+    },
+    {
+     "titolo": "Di Battista, mi hanno asportato un tumore, ora mi devo curare",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/di-battista-mi-hanno-asportato-un-tumore-ora-mi-devo-curare_fcad6293-e7e5-4f75-ba3a-84ce26ade251.html",
+     "data": "2026-09-29T20:51:27+00:00"
+    },
+    {
+     "titolo": "Trump, 'da vertici big tech impegno moralmente vincolante su sicurezza IA'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/trump-da-vertici-big-tech-impegno-moralmente-vincolante-su-sicurezza-ia_ca787cc6-a7a3-46be-a414-6d301e00e79e.html",
+     "data": "2026-09-29T20:36:07+00:00"
+    },
+    {
+     "titolo": "Corte Suprema Usa revoca ancora i limiti a espulsione immigrati verso Paesi terzi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/corte-suprema-usa-revoca-ancora-i-limiti-a-espulsione-immigrati-verso-paesi_77bb8aa0-d949-4419-96f2-859451998087.html",
+     "data": "2026-09-29T20:01:39+00:00"
+    },
+    {
+     "titolo": "Trump, 'per l'Ia deve esserci l'autoregolamentazione, non paletti'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/trump-per-lia-deve-esserci-lautoregolamentazione-non-paletti_f56792b2-28d6-4f65-9986-97b7fcda5c98.html",
+     "data": "2026-09-29T18:52:30+00:00"
+    },
+    {
+     "titolo": "Trump con gli ad di big tech, 'siamo molto allineati'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/trump-con-gli-ad-di-big-tech-siamo-molto-allineati_fe7f1499-15ea-4c09-9d87-a3198d7d0195.html",
+     "data": "2026-09-29T18:44:00+00:00"
+    },
     {
      "titolo": "Meloni, chiudere i canali con l'Egitto rischia di allontanarci dall'obiettivo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/meloni-chiudere-i-canali-con-legitto-rischia-di-allontanarci-dallobiettivo_9a312611-c2be-478c-b781-8d70877cc7dc.html",
@@ -19,41 +54,6 @@
      "titolo": "Enel, offriamo 50% di sconto su elettricità da aprile 26",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/enel-offriamo-50-di-sconto-su-elettricita-da-aprile-26_e5e68300-e96d-41f2-93c2-ab7764e7e491.html",
      "data": "2026-09-29T18:18:57+00:00"
-    },
-    {
-     "titolo": "Vannacci, FnV è indispensabile al centrodestra per vincere",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/vannacci-fnv-e-indispensabile-al-centrodestra-per-vincere_f609eb9a-93ea-46c4-8bee-3bc3a2ab128a.html",
-     "data": "2026-09-29T18:13:24+00:00"
-    },
-    {
-     "titolo": "OpenAi lancia un modello IA più economico dopo averne scartato uno non sicuro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/openai-lancia-un-modello-ia-piu-economico-dopo-averne-scartato-uno-non_cedb1045-291d-45c3-96b3-3dd8d33a79b4.html",
-     "data": "2026-09-29T17:36:01+00:00"
-    },
-    {
-     "titolo": "Polizia conferma, nessun esplosivo trovato sui van fermati vicino a base Raf",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/polizia-conferma-nessun-esplosivo-trovato-sui-van-fermati-vicino-a-base_5c674af7-9c65-44d2-8f0d-8df06a0865ae.html",
-     "data": "2026-09-29T17:20:21+00:00"
-    },
-    {
-     "titolo": "Il gas chiude in forte calo ad Amsterdam sotto i 70 euro (-4,9%)",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/il-gas-chiude-in-forte-calo-ad-amsterdam-sotto-i-70-euro-49_35cccfbc-f672-418b-b773-06e7c7b3c394.html",
-     "data": "2026-09-29T16:40:00+00:00"
-    },
-    {
-     "titolo": "Lo spread Btp-Bund chiude a quota 100 sulla piattaforma di Borsa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/lo-spread-btp-bund-chiude-a-quota-100-sulla-piattaforma-di-borsa_6f83c667-ccb1-42ae-81cd-823f1d2bb0db.html",
-     "data": "2026-09-29T16:14:20+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa chiude debole coi dati Usa e i bond, Parigi -0,5%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/borsa-europa-chiude-debole-coi-dati-usa-e-i-bond-parigi-05_f3bd29af-3660-4d9f-9221-3c4da1ad5ff3.html",
-     "data": "2026-09-29T15:55:46+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude poco mossa (+0,09%)",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/borsa-milano-chiude-poco-mossa-009_dd7c5e63-49c7-453f-aefb-7ab7bec1088f.html",
-     "data": "2026-09-29T15:47:32+00:00"
     }
    ]
   },
@@ -126,9 +126,9 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Regeni, Meloni: 'Chiudere i canali con l'Egitto rischia di allontanarci dall'obiettivo'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/29/regeni-meloni-chiudere-i-canali-con-legitto-rischia-di-allontanarci-dallobiettivo_bb681f63-e6c8-4e39-a177-e17c3a2329a2.html",
-     "data": "2026-09-29T18:36:01+00:00"
+     "titolo": "L'omicidio di Giulio Regeni, la difesa degli 007 pronta al ricorso",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/29/lomicidio-di-giulio-regeni-la-difesa-degli-007-pronta-al-ricorso_bb681f63-e6c8-4e39-a177-e17c3a2329a2.html",
+     "data": "2026-09-29T19:18:04+00:00"
     },
     {
      "titolo": "Alberto Stasi all'attacco, 'sulle prove del Ris va fatta piena luce'",
@@ -191,6 +191,26 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Di Battista, mi hanno asportato un tumore, ora mi devo curare",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/di-battista-mi-hanno-asportato-un-tumore-ora-mi-devo-curare_66c1304f-1da9-4145-a55a-4bb99643c6d5.html",
+     "data": "2026-09-29T20:51:09+00:00"
+    },
+    {
+     "titolo": "Di Battista: 'Mi hanno asportato un tumore, ora mi devo curare'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/di-battista-mi-hanno-asportato-un-tumore-ora-mi-devo-curare_7339e2ad-f004-4961-8e5e-ec0ca849671b.html",
+     "data": "2026-09-29T21:37:36+00:00"
+    },
+    {
+     "titolo": "L'appello di Meloni sull'energia, chi può dia una mano contro i rincari",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/lappello-di-meloni-sullenergia-chi-puo-dia-una-mano-contro-i-rincari_6bea8985-d42b-403a-9d90-1b7ea26ced01.html",
+     "data": "2026-09-29T19:44:15+00:00"
+    },
+    {
+     "titolo": "Scontro su Tajani per Regeni. Meloni: 'Chiudere i canali con l'Egitto non aiuta'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/scontro-su-tajani-per-regeni.-meloni-chiudere-i-canali-con-legitto-non_f837010a-3cba-4fa7-90a0-da01db282440.html",
+     "data": "2026-09-29T19:18:10+00:00"
+    },
+    {
      "titolo": "Meloni, chiudere i canali con l'Egitto rischia di allontanarci dall'obiettivo",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/meloni-chiudere-i-canali-con-legitto-rischia-di-allontanarci-dallobiettivo_551d21c9-5c34-40aa-b87a-7c62f570034b.html",
      "data": "2026-09-29T18:31:49+00:00"
@@ -211,11 +231,6 @@
      "data": "2026-09-29T16:29:37+00:00"
     },
     {
-     "titolo": "Meloni: 'Italia e Repubblica ceca più vicine che mai, rispetto per Babis'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/meloni-italia-e-repubblica-ceca-piu-vicine-che-mai-rispetto-per_6bea8985-d42b-403a-9d90-1b7ea26ced01.html",
-     "data": "2026-09-29T18:24:07+00:00"
-    },
-    {
      "titolo": "Schlein, sostegno a Kiev, serve unico negoziatore Ue per una pace giusta",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/schlein-sostegno-a-kiev-serve-unico-negoziatore-ue-per-una-pace-giusta_60ed9696-e261-4923-8467-53fd95ffca24.html",
      "data": "2026-09-29T14:55:44+00:00"
@@ -226,29 +241,14 @@
      "data": "2026-09-29T13:40:08+00:00"
     },
     {
-     "titolo": "Manovra: le Regioni al governo, '18 miliardi in più per la sanità'",
+     "titolo": "Manovra, le Regioni al governo: 'L'incremento per la sanità è un'esigenza'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/manovra-le-regioni-al-governo-18-miliardi-in-piu-per-la-sanita_a19bf415-7692-4753-b803-b67fef738adf.html",
-     "data": "2026-09-29T12:32:09+00:00"
+     "data": "2026-09-29T18:49:09+00:00"
     },
     {
      "titolo": "Manovra, le Regioni al governo: '18 miliardi in più per la sanità'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/manovra-le-regioni-al-governo-18-miliardi-in-piu-per-la-sanita_a3d824d5-c97e-4f01-a072-22d49ff475f6.html",
      "data": "2026-09-29T12:26:24+00:00"
-    },
-    {
-     "titolo": "Schlein, gravi le parole di Tajani, governo faccia rispettare la sentenza Regeni",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/schlein-gravi-le-parole-di-tajani-governo-faccia-rispettare-la-sentenza-regeni_886da6c7-8031-42df-9b21-c25f4e69a28f.html",
-     "data": "2026-09-29T11:19:39+00:00"
-    },
-    {
-     "titolo": "Ustica: Amato, la collaborazione della Francia non é un'ammissione di colpa",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/ustica-amato-la-collaborazione-della-francia-non-e-unammissione-di-colpa_38aeef6e-b7ef-49db-8b36-cece26253d16.html",
-     "data": "2026-09-29T11:00:25+00:00"
-    },
-    {
-     "titolo": "A Venezia bando per recuperare e avviare attività in spazi privati dismessi",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/a-venezia-bando-per-recuperare-e-avviare-attivita-in-spazi-privati-dismessi_6a01e16f-acf9-46f2-b835-4239ba713450.html",
-     "data": "2026-09-29T10:30:24+00:00"
     }
    ]
   },
@@ -321,6 +321,51 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Pentagono, a Boeing il contratto da 20 miliardi per il nuovo caccia della Marina",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/30/pentagono-a-boeing-il-contratto-da-20-miliardi-per-il-nuovo-caccia-della-marina_6c88ead8-f3e2-4b58-860e-3bb035857650.html",
+     "data": "2026-09-29T22:13:30+00:00"
+    },
+    {
+     "titolo": "Cile, Kast mantiene il progetto del cavo sottomarino con Hong Kong",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/30/cile-kast-mantiene-il-progetto-del-cavo-sottomarino-con-hong-kong_f359e296-8ab5-435a-a215-fd83939e65c2.html",
+     "data": "2026-09-29T22:10:06+00:00"
+    },
+    {
+     "titolo": "Trump, 'Usa valutano comitato di 10 persone per vigilare sull'IA'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/trump-usa-valutano-comitato-di-10-persone-per-vigilare-sullia_f9d612fe-8351-40a4-bcbd-38ed2d40d1c6.html",
+     "data": "2026-09-29T21:20:34+00:00"
+    },
+    {
+     "titolo": "Haiti, l'Onu proroga di sei mesi la missione contro le bande armate",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/haiti-lonu-proroga-di-sei-mesi-la-missione-contro-le-bande-armate_fd45a8fd-a76e-4fee-8424-da90f679d8f4.html",
+     "data": "2026-09-29T20:36:05+00:00"
+    },
+    {
+     "titolo": "Trump, 'da vertici big tech impegno moralmente vincolante su sicurezza IA'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/29/trump-da-vertici-big-tech-impegno-moralmente-vincolante-su-sicurezza-ia_bd5ccda4-0039-4c94-a6df-aead71c40386.html",
+     "data": "2026-09-29T20:36:13+00:00"
+    },
+    {
+     "titolo": "Corte Suprema Usa revoca ancora i limiti a espulsione immigrati verso Paesi terzi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/corte-suprema-usa-revoca-ancora-i-limiti-a-espulsione-immigrati-verso-paesi_fae7885f-f59a-421f-a625-7645cc40b30c.html",
+     "data": "2026-09-29T20:01:37+00:00"
+    },
+    {
+     "titolo": "Ecuador, multe fino a 14.460 dollari per i droni vicino ad aeroporti e incendi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/ecuador-multe-fino-a-14.460-dollari-per-i-droni-vicino-ad-aeroporti-e-incendi_9f2a3ae4-fec7-4571-b27a-04e7e47d8859.html",
+     "data": "2026-09-29T20:01:55+00:00"
+    },
+    {
+     "titolo": "Trump, 'per l'Ia deve esserci l'autoregolamentazione, non paletti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/trump-per-lia-deve-esserci-lautoregolamentazione-non-paletti_eedb76ce-208a-4406-9ad9-6d7531e30431.html",
+     "data": "2026-09-29T18:52:30+00:00"
+    },
+    {
+     "titolo": "Trump con gli ad di big tech, 'siamo molto allineati'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/trump-con-gli-ad-di-big-tech-siamo-molto-allineati_abecac11-28f8-4d37-ba05-54329ec62761.html",
+     "data": "2026-09-29T18:44:04+00:00"
+    },
+    {
      "titolo": "OpenAi lancia un modello IA più economico dopo averne scartato uno non sicuro",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/openai-lancia-un-modello-ia-piu-economico-dopo-averne-scartato-uno-non_8807f7ad-ec0c-418c-88a9-4482a9249abb.html",
      "data": "2026-09-29T17:36:01+00:00"
@@ -334,51 +379,6 @@
      "titolo": "L'uragano Polo ha impattato sul Messico con forza 2, nessuna vittima",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/luragano-polo-ha-impattato-sul-messico-con-forza-2-nessuna-vittima_b900203c-d5a4-4877-9d67-a97d4e96e2c1.html",
      "data": "2026-09-29T17:15:05+00:00"
-    },
-    {
-     "titolo": "Salumi italiani, in Polonia export +25,2% nei primi sei mesi del 2026",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/29/salumi-italiani-in-polonia-export-252-nei-primi-sei-mesi-del_a6d216b6-2d9a-4b1b-9ab0-4bf74b26bf08.html",
-     "data": "2026-09-29T16:37:38+00:00"
-    },
-    {
-     "titolo": "Iila a Montevideo per la sicurezza e la gestione integrata delle frontiere",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/iila-a-montevideo-per-la-sicurezza-e-la-gestione-integrata-delle-frontiere_b056e8a9-7b83-45a3-8968-9a5b21ab46c6.html",
-     "data": "2026-09-29T16:29:41+00:00"
-    },
-    {
-     "titolo": "Delcy Rodríguez annuncia la depenalizzazione dei delitti d'opinione in Venezuela",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/delcy-rodriguez-annuncia-la-depenalizzazione-dei-delitti-dopinione-in-venezuela_062f364d-dd67-4eb5-afae-7c8ac1d6b055.html",
-     "data": "2026-09-29T15:39:04+00:00"
-    },
-    {
-     "titolo": "In Spagna via libera del governo a sconti 20 centesimi su carburante, tetto al gas",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/29/in-spagna-via-libera-del-governo-a-sconti-20-centesimi-su-carburante-tetto-al-gas_10749a58-09eb-465f-b17c-0462d90ef640.html",
-     "data": "2026-09-29T15:31:20+00:00"
-    },
-    {
-     "titolo": "Trump, 'cambierò il nome delle fake news in artificial news'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/trump-cambiero-il-nome-delle-fake-news-in-artificial-news_bcea5d85-94a1-408b-b40d-5a208c5867a0.html",
-     "data": "2026-09-29T15:29:48+00:00"
-    },
-    {
-     "titolo": "Anche l'ex sindaca di Barcellona vittima del caro-affitti, lascia casa dopo 15 anni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/29/anche-lex-sindaca-di-barcellona-vittima-del-caro-affitti-lascia-casa_e5c97774-a32c-4e2e-9e36-5ffb353443a6.html",
-     "data": "2026-09-29T15:28:53+00:00"
-    },
-    {
-     "titolo": "Media, squalo bloccato in un canale della Corea del Sud attira 600.000 visitatori",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/29/media-squalo-bloccato-in-un-canale-della-corea-del-sud-attira-600.000_54f53fe1-d5c9-4eeb-98ec-d6b43c755ae1.html",
-     "data": "2026-09-29T15:27:14+00:00"
-    },
-    {
-     "titolo": "Emmanuel e Brigitte Macron ricevuti al Palazzo Reale di Madrid con onori militari",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/29/emmanuel-e-brigitte-macron-ricevuti-al-palazzo-reale-di-madrid-con-onori-militari_ccae70e2-880d-43cd-8378-1459b6a6b7ac.html",
-     "data": "2026-09-29T14:51:28+00:00"
-    },
-    {
-     "titolo": "Kiev sotto massiccio attacco, difese antiaeree in azione. L'università passa alle lezioni online",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/29/kiev-sotto-massiccio-attacco-difese-antiaeree-in-azione.-luniversita-passa-alle_ceb8f9bd-a461-4ca1-b6eb-0d2651156a70.html",
-     "data": "2026-09-29T13:58:34+00:00"
     }
    ]
   },
@@ -451,9 +451,49 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Tensione fra Ronaldo e il ct del Portogallo, presidente federcalcio vola a Copenaghen",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/tensione-fra-ronaldo-e-il-ct-del-portogallo-presidente-federcalcio-vola-a-copenaghen_cd0e339c-fc41-4fe7-9e08-f0eb83ee958c.html",
+     "data": "2026-09-29T21:32:57+00:00"
+    },
+    {
+     "titolo": "Nations League: Repubblica-Ceca-Inghilterra 0-2",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/nations-league-repubblica-ceca-inghilterra-0-2_3e4690f8-897f-4bc1-8097-5691d4fd7309.html",
+     "data": "2026-09-29T21:02:12+00:00"
+    },
+    {
+     "titolo": "Eurolega: Armani Milano-Virtus Bologna 87-85",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/29/eurolega-armani-milano-virtus-bologna-87-85_07095a79-c411-4968-9d1d-e41f7b663cee.html",
+     "data": "2026-09-29T20:53:25+00:00"
+    },
+    {
+     "titolo": "Nations League: Spagna-Croazia 4-1",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/nations-league-spagna-croazia-4-1_3afd644d-1fa1-4510-a3e0-e36643a3bfac.html",
+     "data": "2026-09-29T20:46:51+00:00"
+    },
+    {
+     "titolo": "Tebas \"troppe gare, giocatori vicini al punto di rottura\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/tebas-troppe-gare-giocatori-vicini-al-punto-di-rottura_d28bb07e-ca1c-4016-80f5-54eeab18e786.html",
+     "data": "2026-09-29T20:19:18+00:00"
+    },
+    {
+     "titolo": "Argentina: Scaloni apre al rinnovo e parla del ricambio della 'Seleccion",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/argentina-scaloni-apre-al-rinnovo-e-parla-del-ricambio-della-seleccion_3785230b-4cde-4394-8c39-1ef2fb49451f.html",
+     "data": "2026-09-29T19:52:25+00:00"
+    },
+    {
+     "titolo": "Dybala e Molina non parteciperanno all'addio di Messi all'Argentina",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/dybala-e-molina-non-parteciperanno-alladdio-di-messi-allargentina_b15ae5e8-aa44-4a62-9c69-99ec38034f7c.html",
+     "data": "2026-09-29T18:50:58+00:00"
+    },
+    {
+     "titolo": "Bellinazzo, Chiuso e Cox/Manno vincono il 60/o Concorso letterario Coni",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/29/bellinazzo-chiuso-e-coxmanno-vincono-il-60o-concorso-letterario-coni_33273f2b-a2c1-4e91-b34e-525261e7ec17.html",
+     "data": "2026-09-29T18:43:26+00:00"
+    },
+    {
      "titolo": "Nations League: Raspadori lascia il raduno di Coverciano",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/nations-league-raspadori-lascia-il-raduno-di-coverciano_b1998785-f6cc-49a9-b949-4345985a981a.html",
-     "data": "2026-09-29T18:13:44+00:00"
+     "data": "2026-09-29T18:55:23+00:00"
     },
     {
      "titolo": "Azzurri: Pio Esposito fratelli e gol, nel cantiere Italia segnali di futuro",
@@ -469,46 +509,6 @@
      "titolo": "Pallavolo: Cozzoli eletto presidente della Lega volley femminile",
      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/29/pallavolo-cozzoli-eletto-presidente-della-lega-volley-femminile_48a88012-4c46-4867-a895-42d834efdbae.html",
      "data": "2026-09-29T16:48:19+00:00"
-    },
-    {
-     "titolo": "La Premier League: 'City colpevole', ha gonfiato ricavi per 900 milioni",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/la-premier-ufficializza-city-colpevole.-il-club-annuncia-il-ricorso_8f36df89-47b6-4dee-84f9-a32a34381254.html",
-     "data": "2026-09-29T17:47:20+00:00"
-    },
-    {
-     "titolo": "Under 21 in campo giovedì, Ndour: 'In Armenia per fare la partita e vincere'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/under-21-in-campo-giovedi-ndour-in-armenia-per-fare-la-partita-e-vincere_ebaf963e-1a87-42b3-8da7-f646d4890dd5.html",
-     "data": "2026-09-29T16:43:15+00:00"
-    },
-    {
-     "titolo": "Uefa: Al-Khelaïfi chiede a Ceferin di ricandidarsi alla presidenza",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/uefa-al-khelaifi-chiede-a-ceferin-di-ricandidarsi-alla-presidenza_10c9a2c3-06b6-4086-884c-d3933110b5bf.html",
-     "data": "2026-09-29T15:56:45+00:00"
-    },
-    {
-     "titolo": "Calcio: Orsato riconosce sette errori tra campionato e Coppa Italia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/calcio-orsato-riconosce-sette-errori-tra-campionato-e-coppa-italia_79859b51-1f45-491a-9ac4-bf0ebfd5987b.html",
-     "data": "2026-09-29T15:26:50+00:00"
-    },
-    {
-     "titolo": "Calcio: Udinese; Zaniolo e Gueye out, emergenza in attacco",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/calcio-udinese-zaniolo-e-gueye-out-emergenza-in-attacco_0a0f4675-4d30-4c2e-aa74-b09f9c687e70.html",
-     "data": "2026-09-29T15:23:32+00:00"
-    },
-    {
-     "titolo": "Juve: sospiro di sollievo per Conceicao, escluse lesioni",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/juve-sospiro-di-sollievo-per-conceicao-escluse-lesioni_23d2c846-1f04-4edb-956b-43370b94c0c2.html",
-     "data": "2026-09-29T15:10:36+00:00"
-    },
-    {
-     "titolo": "Tendinopatia al tendine d'Achille, il Frosinone perde Raimondo",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/tendinopatia-al-tendine-dachille-il-frosinone-perde-raimondo_6be6e115-3e18-40af-b6e0-b4571c7f2e78.html",
-     "data": "2026-09-29T15:10:18+00:00"
-    },
-    {
-     "titolo": "A Vinovo il Derby Italiano del Trotto, Torino capitale europea dell'ippica",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/29/a-vinovo-il-derby-italiano-del-trotto-torino-capitale-europea-dellippica_d788d375-bc62-4439-80bf-6135bbcfb31e.html",
-     "data": "2026-09-29T15:04:13+00:00"
     }
    ]
   }
