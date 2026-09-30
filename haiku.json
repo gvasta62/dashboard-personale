@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-09-29T10:14:12.686589+00:00",
- "data": "2026-09-29",
- "testo": "Mattino terso\nsul ramo del melograno\nsi apre una crepa",
- "nota": "Il frutto maturo del melograno che comincia a spaccarsi nell'aria fresca.",
+ "aggiornato": "2026-09-30T10:05:50.388267+00:00",
+ "data": "2026-09-30",
+ "testo": "Sole d'ottobre\nsul manico del rastrello\nposa una vespa",
+ "nota": "Un rastrello appoggiato al muro dell'orto, con una vespa ferma sul legno.",
  "archivio": [
+  {
+   "data": "2026-09-30",
+   "testo": "Sole d'ottobre\nsul manico del rastrello\nposa una vespa",
+   "nota": "Un rastrello appoggiato al muro dell'orto, con una vespa ferma sul legno."
+  },
   {
    "data": "2026-09-29",
    "testo": "Mattino terso\nsul ramo del melograno\nsi apre una crepa",
