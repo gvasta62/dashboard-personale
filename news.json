@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-09-29T22:42:29.685889+00:00",
+ "aggiornato": "2026-09-30T01:39:46.616374+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump firma ordine esecutivo, 'inaugura l'era della Super Intelligenza'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/30/trump-firma-ordine-esecutivo-inaugura-lera-della-super-intelligenza_a40406f0-8f71-4bac-85ec-ddc9c3f91265.html",
+     "data": "2026-09-30T01:10:27+00:00"
+    },
+    {
+     "titolo": "Missili balistici lanciati su Kiev, esplosioni in città",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/30/missili-balistici-lanciati-su-kiev-esplosioni-in-citta_0148c608-2338-4a8d-ac03-3bb8fbd8d92b.html",
+     "data": "2026-09-30T01:04:56+00:00"
+    },
+    {
+     "titolo": "Borsa di Tokyo, apertura in aumento (+0,92%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/30/borsa-di-tokyo-apertura-in-aumento-092_c835d3de-58d9-46b6-b881-c2316927d0fb.html",
+     "data": "2026-09-30T00:32:39+00:00"
+    },
     {
      "titolo": "Pentagono, a Boeing il contratto da 20 miliardi per il nuovo caccia della Marina",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/30/pentagono-a-boeing-il-contratto-da-20-miliardi-per-il-nuovo-caccia-della-marina_dbce46a3-9110-44a1-94c4-57dbf7969b5d.html",
@@ -39,21 +54,6 @@
      "titolo": "Trump con gli ad di big tech, 'siamo molto allineati'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/trump-con-gli-ad-di-big-tech-siamo-molto-allineati_fe7f1499-15ea-4c09-9d87-a3198d7d0195.html",
      "data": "2026-09-29T18:44:00+00:00"
-    },
-    {
-     "titolo": "Meloni, chiudere i canali con l'Egitto rischia di allontanarci dall'obiettivo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/meloni-chiudere-i-canali-con-legitto-rischia-di-allontanarci-dallobiettivo_9a312611-c2be-478c-b781-8d70877cc7dc.html",
-     "data": "2026-09-29T18:31:46+00:00"
-    },
-    {
-     "titolo": "A2a, dal 2023 offerte decennali al 50% del prezzo medio all'ingrosso",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/a2a-dal-2023-offerte-decennali-al-50-del-prezzo-medio-allingrosso_74ec6a08-eadb-4a96-8bff-3a15a84b7d81.html",
-     "data": "2026-09-29T18:22:21+00:00"
-    },
-    {
-     "titolo": "Enel, offriamo 50% di sconto su elettricità da aprile 26",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/29/enel-offriamo-50-di-sconto-su-elettricita-da-aprile-26_e5e68300-e96d-41f2-93c2-ab7764e7e491.html",
-     "data": "2026-09-29T18:18:57+00:00"
     }
    ]
   },
@@ -321,6 +321,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump firma ordine esecutivo, 'inaugura l'era della Super Intelligenza'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/30/trump-firma-ordine-esecutivo-inaugura-lera-della-super-intelligenza_e7cbfe6a-e357-41b4-80f8-4defb206b1e4.html",
+     "data": "2026-09-30T01:10:48+00:00"
+    },
+    {
+     "titolo": "Missili balistici lanciati su Kiev, esplosioni in città",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/30/missili-balistici-lanciati-su-kiev-esplosioni-in-citta_5a6589f6-0ee9-4890-bb82-95bd7ab324ce.html",
+     "data": "2026-09-30T01:04:54+00:00"
+    },
+    {
+     "titolo": "Bolivia, due unità d'élite antidroga al confine con il Brasile con l'aiuto degli Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/30/bolivia-due-unita-delite-antidroga-al-confine-con-il-brasile-con-laiuto_6d48a9f6-c5ea-491f-8bcf-fcf5b8266889.html",
+     "data": "2026-09-30T00:33:59+00:00"
+    },
+    {
+     "titolo": "Ecuador, 'una cella per Correa' se tornerà a Quito",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/30/ecuador-una-cella-per-correa-se-tornera-a-quito_ab74ee05-b769-4878-9c4c-e129174b7a8a.html",
+     "data": "2026-09-30T00:00:58+00:00"
+    },
+    {
+     "titolo": "Bolivia, l'ambasciatore Ue mette in guardia dalle offerte di lavoro in Russia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/30/bolivia-lambasciatore-ue-mette-in-guardia-dalle-offerte-di-lavoro-in-russia_448b86e3-4792-45ed-85e3-a2798cf3341a.html",
+     "data": "2026-09-29T23:42:08+00:00"
+    },
+    {
      "titolo": "Pentagono, a Boeing il contratto da 20 miliardi per il nuovo caccia della Marina",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/30/pentagono-a-boeing-il-contratto-da-20-miliardi-per-il-nuovo-caccia-della-marina_6c88ead8-f3e2-4b58-860e-3bb035857650.html",
      "data": "2026-09-29T22:13:30+00:00"
@@ -354,31 +379,6 @@
      "titolo": "Ecuador, multe fino a 14.460 dollari per i droni vicino ad aeroporti e incendi",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/ecuador-multe-fino-a-14.460-dollari-per-i-droni-vicino-ad-aeroporti-e-incendi_9f2a3ae4-fec7-4571-b27a-04e7e47d8859.html",
      "data": "2026-09-29T20:01:55+00:00"
-    },
-    {
-     "titolo": "Trump, 'per l'Ia deve esserci l'autoregolamentazione, non paletti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/trump-per-lia-deve-esserci-lautoregolamentazione-non-paletti_eedb76ce-208a-4406-9ad9-6d7531e30431.html",
-     "data": "2026-09-29T18:52:30+00:00"
-    },
-    {
-     "titolo": "Trump con gli ad di big tech, 'siamo molto allineati'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/trump-con-gli-ad-di-big-tech-siamo-molto-allineati_abecac11-28f8-4d37-ba05-54329ec62761.html",
-     "data": "2026-09-29T18:44:04+00:00"
-    },
-    {
-     "titolo": "OpenAi lancia un modello IA più economico dopo averne scartato uno non sicuro",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/openai-lancia-un-modello-ia-piu-economico-dopo-averne-scartato-uno-non_8807f7ad-ec0c-418c-88a9-4482a9249abb.html",
-     "data": "2026-09-29T17:36:01+00:00"
-    },
-    {
-     "titolo": "Polizia conferma, nessun esplosivo trovato sui van fermati vicino a base Raf",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/29/polizia-conferma-nessun-esplosivo-trovato-sui-van-fermati-vicino-a-base_85f5493b-cd86-4e33-bee5-7402a63f60d8.html",
-     "data": "2026-09-29T17:20:18+00:00"
-    },
-    {
-     "titolo": "L'uragano Polo ha impattato sul Messico con forza 2, nessuna vittima",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/luragano-polo-ha-impattato-sul-messico-con-forza-2-nessuna-vittima_b900203c-d5a4-4877-9d67-a97d4e96e2c1.html",
-     "data": "2026-09-29T17:15:05+00:00"
     }
    ]
   },
