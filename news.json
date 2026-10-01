@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-09-30T23:14:13.747553+00:00",
+ "aggiornato": "2026-10-01T02:14:07.123353+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in aumento (+0,70%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/01/borsa-tokyo-apertura-in-aumento-070_927254f4-af1c-4d5b-b2d5-d8ab7513ccf1.html",
+     "data": "2026-10-01T00:42:29+00:00"
+    },
     {
      "titolo": "Vittorio Sgarbi ricoverato al Gemelli di Roma",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/01/vittorio-sgarbi-ricoverato-al-gemelli-di-roma_54cc6c34-05fa-4711-8bc4-511e798fe944.html",
@@ -49,11 +54,6 @@
      "titolo": "Regeni: Foti, 'quando la sentenza passerà in giudicato ne chiederemo l'esecuzione'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/30/regeni-foti-quando-la-sentenza-passera-in-giudicato-ne-chiederemo-lesecuzione_caff8a38-b2c3-49c1-bb9f-50ef8127b78b.html",
      "data": "2026-09-30T18:48:57+00:00"
-    },
-    {
-     "titolo": "Fonti Chigi, ben avviato dialogo con la Libia sul price cap di Tamoil",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/09/30/fonti-chigi-ben-avviato-dialogo-con-la-libia-sul-price-cap_0452e49a-f68a-448e-bbd2-97a0df518f64.html",
-     "data": "2026-09-30T18:39:09+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in aumento (+0,70%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/borsa-tokyo-apertura-in-aumento-070_f00c214c-c440-41c4-a563-3c36f9f93f18.html",
+     "data": "2026-10-01T00:42:25+00:00"
+    },
+    {
      "titolo": "Pichetto, 'idrogeno fondamentale per la neutralità climatica dell'Italia al 2050'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/pichetto-idrogeno-fondamentale-per-la-neutralita-climatica-dellitalia-al-2050_8b43caa4-ee69-4c93-ac28-81719c9b4deb.html",
      "data": "2026-09-30T18:30:23+00:00"
@@ -309,11 +314,6 @@
      "titolo": "Fegica, 'il price cap deve essere messo dallo Stato, non dai privati'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/fegica-il-price-cap-deve-essere-messo-dallo-stato-non-dai_58daf082-5ae2-4abf-b53d-e71513a9f329.html",
      "data": "2026-09-30T14:47:28+00:00"
-    },
-    {
-     "titolo": "Del Vecchio: 'Mi hanno bloccato il trasferimento in Italia'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/leonardo-maria-del-vecchio-mi-hanno-bloccato-il-trasferimento-in-italia_74fc8493-199b-43d5-8bf3-d5643c2e7a73.html",
-     "data": "2026-09-30T17:07:43+00:00"
     }
    ]
   },
