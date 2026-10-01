@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-09-30T10:05:50.388267+00:00",
- "data": "2026-09-30",
- "testo": "Sole d'ottobre\nsul manico del rastrello\nposa una vespa",
- "nota": "Un rastrello appoggiato al muro dell'orto, con una vespa ferma sul legno.",
+ "aggiornato": "2026-10-01T10:34:00.779401+00:00",
+ "data": "2026-10-01",
+ "testo": "Nuvola in fuga\nsul coppo del tetto basso\nscivola un'ombra",
+ "nota": "Il cielo a tratti coperto muove ombre veloci sui tetti perugini.",
  "archivio": [
+  {
+   "data": "2026-10-01",
+   "testo": "Nuvola in fuga\nsul coppo del tetto basso\nscivola un'ombra",
+   "nota": "Il cielo a tratti coperto muove ombre veloci sui tetti perugini."
+  },
   {
    "data": "2026-09-30",
    "testo": "Sole d'ottobre\nsul manico del rastrello\nposa una vespa",
