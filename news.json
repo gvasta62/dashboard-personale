@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-10-02T00:57:00.399825+00:00",
+ "aggiornato": "2026-10-02T06:28:47.979245+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il prezzo del gas è in calo a 73,4 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/02/il-prezzo-del-gas-e-in-calo-a-734-euro-al-megawattora_87dbbd51-3248-49db-8b94-6460bbe88fe2.html",
+     "data": "2026-10-02T06:07:41+00:00"
+    },
+    {
+     "titolo": "Media, 'raffinerie cinesi sospendono export di carburanti a ottobre'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/02/media-raffinerie-cinesi-sospendono-export-di-carburanti-a-ottobre_7b66eadc-f577-455b-a244-86bce937c267.html",
+     "data": "2026-10-02T04:54:50+00:00"
+    },
+    {
+     "titolo": "Trump, 'l'Iran è pronto a cedere e la questione si concluderà molto in fretta'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/02/trump-liran-e-pronto-a-cedere-e-la-questione-si-concludera-molto-in-fretta_8e3a9ba7-2273-4397-ae90-6051f7502e15.html",
+     "data": "2026-10-02T02:58:31+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,69%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/02/borsa-tokyo-apertura-in-calo-069_cad394c8-9186-41e4-8684-19ffa415d47e.html",
+     "data": "2026-10-02T00:58:30+00:00"
+    },
     {
      "titolo": "OpenAI licenzia tre ricercatori per gestione impropria di informazioni sensibili",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/02/openai-licenzia-tre-ricercatori-per-gestione-impropria-di-informazioni-sensibili_cb2475d6-0e85-474e-9a56-90f7c8860065.html",
@@ -34,26 +54,6 @@
      "titolo": "Meloni all'Ue, da regole spesa poco spazio senza ricorrere a misure restrittive",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/01/meloni-allue-da-regole-spesa-poco-spazio-senza-ricorrere-a-misure-restrittive_c60a47f0-07c8-4494-a76a-1ae2fa7a2004.html",
      "data": "2026-10-01T18:38:25+00:00"
-    },
-    {
-     "titolo": "Benigni, 'San Francesco potrebbe essere stato un ottimo leader del Campo Largo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/01/benigni-san-francesco-potrebbe-essere-stato-un-ottimo-leader-del-campo_b498b8f0-6132-4918-b22e-28ff6d4646ea.html",
-     "data": "2026-10-01T18:36:19+00:00"
-    },
-    {
-     "titolo": "Merz ai minimi storici, solo il 10% è soddisfatto del cancelliere",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/01/merz-ai-minimi-storici-solo-il-10-e-soddisfatto-del-cancelliere_cba8c216-a361-42df-9043-85e41a095c4e.html",
-     "data": "2026-10-01T17:56:32+00:00"
-    },
-    {
-     "titolo": "Merz ai minimi storici, solo il 10% è soddisfatto del cancelliere",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/01/merz-ai-minimi-storici-solo-il-10-e-soddisfatto-del-cancelliere_c1f56915-eb39-4a3c-8664-624405bcd780.html",
-     "data": "2026-10-01T17:56:49+00:00"
-    },
-    {
-     "titolo": "Quasi duemila fermi per le proteste studentesche in Francia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/01/quasi-duemila-fermi-per-le-proteste-studentesche-in-francia_882b8102-1484-4cd8-bd8e-9f50ad2fdc01.html",
-     "data": "2026-10-01T17:47:39+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Al pronto soccorso aggredisce sanitari e danneggia macchinari, arrestato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/02/al-pronto-soccorso-aggredisce-sanitari-e-danneggia-macchinari-arrestato_3900af61-be15-432e-8db0-5122b89e39a3.html",
+     "data": "2026-10-02T06:01:28+00:00"
+    },
+    {
      "titolo": "Si scontra con auto e finisce su binari, 18enne travolto e ucciso dal treno",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/01/si-scontra-con-auto-e-finisce-su-binari-18enne-travolto-e-ucciso-dal-treno_faf5b633-7a1b-40bc-8ba2-9db4df757cfc.html",
      "data": "2026-10-01T19:23:40+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Minaccia con coltello medici e infermieri in ospedale, disarmato dai carabinieri",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/01/minaccia-con-coltello-medici-e-infermieri-in-ospedale-disarmato-dai-carabinieri_e3276599-a9a1-4565-bf8d-e80c65b62c1e.html",
      "data": "2026-10-01T15:40:36+00:00"
-    },
-    {
-     "titolo": "Collettivo liceo Milano: 'Studente picchiato da militanti di Blocco Studentesco'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/01/collettivo-liceo-milano-studente-picchiato-da-militanti-di-blocco-studentesco_65ff3e56-c027-4585-a298-899aa316e319.html",
-     "data": "2026-10-01T15:26:36+00:00"
     }
    ]
   },
@@ -256,6 +256,46 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Euro poco mosso, scambiato a 1,1255 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/euro-poco-mosso-scambiato-a-11255-dollari_9008efdf-7243-4766-8f01-01dd343a4fb7.html",
+     "data": "2026-10-02T06:16:35+00:00"
+    },
+    {
+     "titolo": "Prezzo oro in rialzo, Spot scambiato a 4.184 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/prezzo-oro-in-rialzo-spot-scambiato-a-4.184-dollari_afe9b327-fbb6-4153-96fd-7c698f3f3e1b.html",
+     "data": "2026-10-02T06:13:01+00:00"
+    },
+    {
+     "titolo": "Il prezzo del gas è in calo a 73,4 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/il-prezzo-del-gas-e-in-calo-a-734-euro-al-megawattora_a19d2800-26fd-4c62-937e-3924d40a0a1d.html",
+     "data": "2026-10-02T06:07:57+00:00"
+    },
+    {
+     "titolo": "Prezzo petrolio in calo, Wti scambiato a 92,50 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/prezzo-petrolio-in-calo-wti-scambiato-a-9250-dollari_0c571548-25fa-447f-a37f-b12eb8fa0c39.html",
+     "data": "2026-10-02T06:22:53+00:00"
+    },
+    {
+     "titolo": "Italgas entra in Portogallo, accordo per il 22,5% di Floene",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/italgas-entra-in-portogallo-accordo-per-il-225-di-floene_55277c0d-25ce-4cd5-a5cb-82986acd1a32.html",
+     "data": "2026-10-02T06:24:26+00:00"
+    },
+    {
+     "titolo": "Media, 'raffinerie cinesi sospendono export di carburanti a ottobre'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/media-raffinerie-cinesi-sospendono-export-di-carburanti-a-ottobre_1a2df528-ce1e-4415-9412-b91f235412cf.html",
+     "data": "2026-10-02T04:54:48+00:00"
+    },
+    {
+     "titolo": "Copernicus, stress termico record in estate. Colpita oltre metà dell'Europa",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/copernicus-stress-termico-record-in-estate.-colpita-oltre-meta-delleuropa_fcd0e1d4-7e5a-4bd5-a52a-5915f06c1f01.html",
+     "data": "2026-10-02T02:01:21+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,69%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/borsa-tokyo-apertura-in-calo-069_8e9f9c29-d8c0-46c6-8d9e-0fe3a84b17e8.html",
+     "data": "2026-10-02T00:58:32+00:00"
+    },
+    {
      "titolo": "Meloni in pressing: 'Flessibilità o misure restrittive'. Ma l'Ue è cauta",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/meloni-in-pressing-flessibilita-o-misure-restrittive.-ma-lue-e-cauta_c461cfeb-1f8a-498a-878e-2c5ebb6f7005.html",
      "data": "2026-10-01T19:41:53+00:00"
@@ -274,52 +314,27 @@
      "titolo": "Il gas chiude in modesta crescita a 72,7 euro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/il-gas-chiude-in-modesta-crescita-a-727-euro_03b78eb2-4c6f-4a53-bc42-98f19ba7714f.html",
      "data": "2026-10-01T16:24:18+00:00"
-    },
-    {
-     "titolo": "Lo spread Btp-Bund conclude la giornata in aumento a 118,5 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lo-spread-btp-bund-conclude-la-giornata-in-aumento-a-1185-punti_d1f1e887-e2b4-4e76-8174-cf9c9824f29f.html",
-     "data": "2026-10-01T16:20:00+00:00"
-    },
-    {
-     "titolo": "Stellantis, crescita a doppia cifra a settembre e nei primi nove mesi dell'anno",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/stellantis-crescita-a-doppia-cifra-a-settembre-e-nei-primi-nove-mesi-dellanno_6618ff13-7a0c-4bdc-a09d-a142a5de8ee6.html",
-     "data": "2026-10-01T16:39:34+00:00"
-    },
-    {
-     "titolo": "Il mercato auto Italia cresce del 9,9% a settembre, Stellantis del 12,6%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/il-mercato-auto-italia-cresce-del-99-a-settembre-stellantis-del-126_97fafc30-b6dd-4626-ab50-b9cb09c15652.html",
-     "data": "2026-10-01T16:39:54+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa conclude in calo, Milano -2,21%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/borsa-europa-conclude-in-calo-parigi-162_cbef6c8c-8ac0-4e89-9910-f6773ca39b65.html",
-     "data": "2026-10-01T15:58:46+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in ribasso del 2,21%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/borsa-milano-chiude-in-ribasso-del-221_5b9a42f7-a068-4b28-bce2-56e5a9ed7299.html",
-     "data": "2026-10-01T15:57:17+00:00"
-    },
-    {
-     "titolo": "Lo spread Btp-Bund corre oltre 118 punti base",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lo-spread-btp-bund-corre-oltre-118-punti-base_d3bfe4ef-0973-42af-a1fe-6dc7f0b919be.html",
-     "data": "2026-10-01T15:38:17+00:00"
-    },
-    {
-     "titolo": "Orsini, 'l'Italia deve avere un pò più coraggio, se l'Europa ci frena infrazione'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/orsini-litalia-deve-avere-un-po-piu-coraggio-se-leuropa-ci-frena-infrazione_6ed60aef-f664-47cb-9b43-490347fac431.html",
-     "data": "2026-10-01T15:08:07+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa peggiora con Wall Street, greggio sopra 100 dollari, Milano -1,7%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/borsa-leuropa-peggiora-con-wall-street-greggio-sopra-100-dollari_3ef29a77-94b3-4a0f-907d-e21b3a5d6ef2.html",
-     "data": "2026-10-01T14:56:07+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Trump, 'l'Iran è pronto a cedere e la questione si concluderà molto in fretta'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/02/trump-liran-e-pronto-a-cedere-e-la-questione-si-concludera-molto-in-fretta_c7017175-bbd8-44eb-be14-9ab243125118.html",
+     "data": "2026-10-02T02:58:50+00:00"
+    },
+    {
+     "titolo": "Nagasaki, la testa della Madonna atomica torna negli Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/02/nagasaki-la-testa-della-madonna-atomica-torna-negli-usa_386efa9b-52fd-45b7-ad66-62cc9f6694cc.html",
+     "data": "2026-10-02T01:52:05+00:00"
+    },
+    {
+     "titolo": "Nagasaki, la testa della Madonna atomica torna negli Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/10/02/nagasaki-la-testa-della-madonna-atomica-torna-negli-usa_d8ec8d71-6896-4abb-889d-f49063b50532.html",
+     "data": "2026-10-02T01:52:08+00:00"
+    },
     {
      "titolo": "Brasile, la tv Globo cancella il dibattito presidenziale",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/brasile-la-tv-globo-cancella-il-dibattito-presidenziale_3c244aaa-07d5-4f84-b299-9c728d3d540c.html",
@@ -364,21 +379,6 @@
      "titolo": "Trump, 'potremmo chiedere all'Europa di rilasciare le riserve di diesel'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/01/trump-potremmo-chiedere-alleuropa-di-rilasciare-le-riserve-di-diesel_f455d378-fdbe-418d-9a1c-b5b8ce404da1.html",
      "data": "2026-10-01T20:57:03+00:00"
-    },
-    {
-     "titolo": "Trump non esclude quote del governo in OpenAI e Anthropic",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/01/trump-non-esclude-quote-del-governo-in-openai-e-anthropic_2b7fb9f6-4539-43f6-9628-a4ff77c9be14.html",
-     "data": "2026-10-01T20:18:42+00:00"
-    },
-    {
-     "titolo": "Media, 'il voto in Brasile può portare il 95% dell'Amazzonia ai governi di destra'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/01/media-il-voto-in-brasile-puo-portare-il-95-dellamazzonia-ai-governi-di-destra_11497f99-0e07-4c2c-ab4d-9c1ededeecc5.html",
-     "data": "2026-10-01T20:18:19+00:00"
-    },
-    {
-     "titolo": "Meda, 'il voto in Brasile può portare il 95% dell'Amazzonia ai governi di destra'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/01/meda-il-voto-in-brasile-puo-portare-il-95-dellamazzonia-ai-governi-di-destra_3b4ad628-44b8-4a4b-8429-22b83983f448.html",
-     "data": "2026-10-01T20:14:55+00:00"
     }
    ]
   },
