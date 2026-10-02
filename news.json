@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-10-01T21:25:53.070621+00:00",
+ "aggiornato": "2026-10-02T00:57:00.399825+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "OpenAI licenzia tre ricercatori per gestione impropria di informazioni sensibili",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/02/openai-licenzia-tre-ricercatori-per-gestione-impropria-di-informazioni-sensibili_cb2475d6-0e85-474e-9a56-90f7c8860065.html",
+     "data": "2026-10-01T23:59:01+00:00"
+    },
+    {
+     "titolo": "Wsj, terza portaerei Usa verso il Medio Oriente con altri 10.000 militari",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/02/wsj-terza-portaerei-usa-verso-il-medio-oriente-con-altri-10.000_0622aa4c-bd36-47e7-aad2-8e14e986e063.html",
+     "data": "2026-10-01T22:35:28+00:00"
+    },
     {
      "titolo": "Trump, 'potremmo chiedere all'Europa di rilasciare le riserve di diesel'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/01/trump-potremmo-chiedere-alleuropa-di-rilasciare-le-riserve-di-diesel_4420274a-d568-4d2b-94c5-2a32c917805b.html",
@@ -44,16 +54,6 @@
      "titolo": "Quasi duemila fermi per le proteste studentesche in Francia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/01/quasi-duemila-fermi-per-le-proteste-studentesche-in-francia_882b8102-1484-4cd8-bd8e-9f50ad2fdc01.html",
      "data": "2026-10-01T17:47:39+00:00"
-    },
-    {
-     "titolo": "Trump torna ad attaccare la Fed sui tassi di interesse ma non il presidente Warsh",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/01/trump-torna-ad-attaccare-la-fed-sui-tassi-di-interesse-ma-non-il-presidente-warsh_d30104d1-005a-4086-bb04-e97b98c23780.html",
-     "data": "2026-10-01T17:30:54+00:00"
-    },
-    {
-     "titolo": "Putin, 'le esercitazioni occidentali nel Mar Baltico sono un'escalation'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/01/putin-le-esercitazioni-occidentali-nel-mar-baltico-sono-unescalation_29d34ec9-8694-48d3-861d-5aaece42e4f3.html",
-     "data": "2026-10-01T17:29:22+00:00"
     }
    ]
   },
@@ -321,6 +321,36 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Brasile, la tv Globo cancella il dibattito presidenziale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/brasile-la-tv-globo-cancella-il-dibattito-presidenziale_3c244aaa-07d5-4f84-b299-9c728d3d540c.html",
+     "data": "2026-10-02T00:39:28+00:00"
+    },
+    {
+     "titolo": "Brasile, lancia uno zaino vicino la Corte Suprema, scatta allarme bomba",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/brasile-lancia-uno-zaino-vicino-la-corte-suprema-scatta-allarme-bomba_0e298896-1372-43f5-9d3d-b8b6f8dae232.html",
+     "data": "2026-10-02T00:18:51+00:00"
+    },
+    {
+     "titolo": "OpenAI licenzia tre ricercatori per gestione impropria di informazioni sensibili",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/02/openai-licenzia-tre-ricercatori-per-gestione-impropria-di-informazioni-sensibili_356c93ae-93dc-4eb7-969a-7f66a99840b1.html",
+     "data": "2026-10-01T23:59:06+00:00"
+    },
+    {
+     "titolo": "Bolivia, governo annuncia l'arresto del nuovo procuratore generale ad interim Montaño",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/bolivia-governo-annuncia-larresto-del-nuovo-procuratore-generale-ad-interim-montano_bd75ae15-45da-45b1-a2b0-d106abdcd3ea.html",
+     "data": "2026-10-01T23:56:25+00:00"
+    },
+    {
+     "titolo": "Brasile, Flávio Bolsonaro rinuncia al dibattito della Globo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/brasile-flavio-bolsonaro-rinuncia-al-dibattito-della-globo_fe48c16e-d322-429c-ac6f-50be72129b82.html",
+     "data": "2026-10-01T23:55:35+00:00"
+    },
+    {
+     "titolo": "Wsj, terza portaerei Usa verso il Medio Oriente con altri 10.000 militari",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/02/wsj-terza-portaerei-usa-verso-il-medio-oriente-con-altri-10.000_4841915d-2326-4f25-90ac-eeb03cc56b4e.html",
+     "data": "2026-10-01T22:35:28+00:00"
+    },
+    {
      "titolo": "Il messicano Carlos Slim si conferma l'uomo più ricco dell'America Latina",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/01/il-messicano-carlos-slim-si-conferma-luomo-piu-ricco-dellamerica-latina_a79d3292-6017-4baa-86ff-279a45fb06bd.html",
      "data": "2026-10-01T21:14:13+00:00"
@@ -349,36 +379,6 @@
      "titolo": "Meda, 'il voto in Brasile può portare il 95% dell'Amazzonia ai governi di destra'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/01/meda-il-voto-in-brasile-puo-portare-il-95-dellamazzonia-ai-governi-di-destra_3b4ad628-44b8-4a4b-8429-22b83983f448.html",
      "data": "2026-10-01T20:14:55+00:00"
-    },
-    {
-     "titolo": "Brasile, Lula e Flávio Bolsonaro si concentrano sul voto del Sud-est",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/01/brasile-lula-e-flavio-bolsonaro-si-concentrano-sul-voto-del-sud-est_75d40b04-b409-4da8-bbe2-60165d6f3183.html",
-     "data": "2026-10-01T20:01:47+00:00"
-    },
-    {
-     "titolo": "Bessent, 'Europa onori gli impegni, renda disponibile più gasolio'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/01/bessent-europa-onori-gli-impegni-renda-disponibile-piu-gasolio_83b2d869-8111-498e-ab32-8663eb0baaa9.html",
-     "data": "2026-10-01T19:55:35+00:00"
-    },
-    {
-     "titolo": "Argentina, ghiacciaio Perito Moreno in pericolo. Perso un km in 100 giorni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/01/argentina-ghiacciaio-perito-moreno-in-pericolo.-perso-un-km-in-100-giorni_72bfb03a-4f2c-4021-8333-e4463468f2a6.html",
-     "data": "2026-10-01T18:56:33+00:00"
-    },
-    {
-     "titolo": "Merz ai minimi storici, solo il 10% è soddisfatto del cancelliere",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/01/merz-ai-minimi-storici-solo-il-10-e-soddisfatto-del-cancelliere_fc9f310c-73f1-49ee-8194-d15f7644d7df.html",
-     "data": "2026-10-01T17:56:53+00:00"
-    },
-    {
-     "titolo": "Merz ai minimi storici, solo il 10% è soddisfatto del cancelliere",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/01/merz-ai-minimi-storici-solo-il-10-e-soddisfatto-del-cancelliere_904b1920-7252-4cb4-93e7-05811d98e9bc.html",
-     "data": "2026-10-01T17:56:55+00:00"
-    },
-    {
-     "titolo": "Quasi duemila fermi per le proteste studentesche in Francia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/01/quasi-duemila-fermi-per-le-proteste-studentesche-in-francia_82e9a519-2b97-4b8c-9e0d-fc2a24e8e354.html",
-     "data": "2026-10-01T17:47:39+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Nations League: risultati",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/nations-league-risultati_5bd1b5c9-1cf6-4ac2-862b-af854234c596.html",
+     "data": "2026-10-01T21:54:23+00:00"
+    },
+    {
      "titolo": "Nations League: prima vittoria per Klopp con la Germania",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/nations-league-prima-vittoria-per-klopp-con-la-germania_41e4a7c9-bb45-49d5-b84e-295edccd1e1d.html",
      "data": "2026-10-01T21:13:11+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Zidane, 'non so cosa succede all'Italia ma è strano tre volte fuori dal Mondiale'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/zidane-non-so-cosa-succede-allitalia-ma-e-strano-tre-volte-fuori-dal_eb25d77b-f995-4077-8b6f-19c0b07a00d3.html",
      "data": "2026-10-01T16:39:23+00:00"
-    },
-    {
-     "titolo": "Da triplete Inter a sogno essere allenato da Ancelotti, Wesley Sneijder si racconta",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/da-triplete-inter-a-sogno-essere-allenato-da-ancelotti-wesley-sneijder-si-racconta_9bd4b8ef-c2f9-49b7-b089-033ee334face.html",
-     "data": "2026-10-01T16:35:59+00:00"
     }
    ]
   }
