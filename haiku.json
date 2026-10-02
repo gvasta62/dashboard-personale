@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-01T10:34:00.779401+00:00",
- "data": "2026-10-01",
- "testo": "Nuvola in fuga\nsul coppo del tetto basso\nscivola un'ombra",
- "nota": "Il cielo a tratti coperto muove ombre veloci sui tetti perugini.",
+ "aggiornato": "2026-10-02T10:08:48.974935+00:00",
+ "data": "2026-10-02",
+ "testo": "Cielo coperto\nsul cerchio della botte\nsiede una mosca",
+ "nota": "In cantina, sul legno curvo di una botte, una mosca immobile nella luce grigia.",
  "archivio": [
+  {
+   "data": "2026-10-02",
+   "testo": "Cielo coperto\nsul cerchio della botte\nsiede una mosca",
+   "nota": "In cantina, sul legno curvo di una botte, una mosca immobile nella luce grigia."
+  },
   {
    "data": "2026-10-01",
    "testo": "Nuvola in fuga\nsul coppo del tetto basso\nscivola un'ombra",
