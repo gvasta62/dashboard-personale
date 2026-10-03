@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-02T10:08:48.974935+00:00",
- "data": "2026-10-02",
- "testo": "Cielo coperto\nsul cerchio della botte\nsiede una mosca",
- "nota": "In cantina, sul legno curvo di una botte, una mosca immobile nella luce grigia.",
+ "aggiornato": "2026-10-03T09:31:16.792797+00:00",
+ "data": "2026-10-03",
+ "testo": "Nubi a tratti chiare\nsul bordo della fontana\nbeve un passero",
+ "nota": "Un passero si abbevera all'acqua della fontana, sotto un cielo variabile.",
  "archivio": [
+  {
+   "data": "2026-10-03",
+   "testo": "Nubi a tratti chiare\nsul bordo della fontana\nbeve un passero",
+   "nota": "Un passero si abbevera all'acqua della fontana, sotto un cielo variabile."
+  },
   {
    "data": "2026-10-02",
    "testo": "Cielo coperto\nsul cerchio della botte\nsiede una mosca",
