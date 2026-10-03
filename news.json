@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-10-03T19:33:20.995134+00:00",
+ "aggiornato": "2026-10-03T22:28:34.920870+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Tensioni per la convocazione dei gruppi di estrema destra in Puerta del Sol, 3 arresti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/03/tensioni-per-la-convocazione-dei-gruppi-di-estrema-destra-in-puerta-del-sol_9aa07d8f-ff0c-4f71-b677-2bb6e71b1fa1.html",
+     "data": "2026-10-03T21:18:33+00:00"
+    },
+    {
+     "titolo": "Nations League: Spagna-Rep. Ceca 3-1",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/03/europa-league-spagna-rep.-ceca-3-1_357db433-d432-42f4-bab3-b8c786179d7c.html",
+     "data": "2026-10-03T20:53:01+00:00"
+    },
     {
      "titolo": "Marcello Fois, ringrazio Michela Murgia, una donna bellissima e resiliente (2) per awn",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/03/marcello-fois-ringrazio-michela-murgia-una-donna-bellissima-e-resiliente-2-per_9b8587b6-421d-40eb-8723-fbaa44ba67c7.html",
@@ -44,16 +54,6 @@
      "titolo": "Si riunisce il Cda di Intesa Sanpaolo, possibile rilancio su Opas Mps",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/03/si-riunisce-il-cda-di-intesa-sanpaolo-possibile-rilancio-su-opas-mps_af2c87cc-b073-4402-9609-1221da306fe3.html",
      "data": "2026-10-03T15:50:05+00:00"
-    },
-    {
-     "titolo": "La premier a sorpresa alla festa dei Nonni di FdI alla Garbatella a Roma",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/03/la-premier-a-sorpresa-alla-festa-dei-nonni-di-fdi-alla-garbatella-a-roma_c7df5054-7825-4038-a9f7-3339a9831b55.html",
-     "data": "2026-10-03T14:06:10+00:00"
-    },
-    {
-     "titolo": "Meloni, con più fondi per la Terra dei Fuochi lavoriamo per la salute e la sicurezza",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/03/meloni-con-piu-fondi-per-la-terra-dei-fuochi-lavoriamo-per_c4e0e783-33c3-4ac6-8a25-4f9d90e90ccf.html",
-     "data": "2026-10-03T14:05:19+00:00"
     }
    ]
   },
@@ -451,6 +451,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Nations League: Spagna-Rep. Ceca 3-1",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/03/europa-league-spagna-rep.-ceca-3-1_b54c2f16-2190-429e-8ad8-44f36a6e327a.html",
+     "data": "2026-10-03T22:00:09+00:00"
+    },
+    {
+     "titolo": "Nations L.:tensioni con giornalisti israeliani,interrotta conferenza stampa ct Irlanda",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/03/nations-l.tensioni-con-giornalisti-israelianiinterrotta-conferenza-stampa-ct-irlanda_dcc7ff08-f537-42cc-a545-179ad430ee43.html",
+     "data": "2026-10-03T20:17:03+00:00"
+    },
+    {
+     "titolo": "Figc: pareri Coni, 'tesseramento essenziale', non si parla di commissariamento",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/03/figc-pareri-coni-tesseramento-essenziale-non-si-parla-di-commissariamento_3a85511a-ffc1-47a7-8fdc-3ae8aaef8f6f.html",
+     "data": "2026-10-03T19:57:38+00:00"
+    },
+    {
+     "titolo": "Figc: Miele invia diffida al Coni, proceda al commissariamento",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/03/figc-miele-invia-diffida-al-coni-proceda-al-commissariamento_8ce0dc1a-e508-4142-8738-cd02f0bce2c1.html",
+     "data": "2026-10-03T19:50:28+00:00"
+    },
+    {
      "titolo": "Auto: Villorba Corse irrompe nell'Italiano GT con Mitchell-Moncini su Lamborghini GT3",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/03/auto-villorba-corse-irrompe-nellitaliano-gt-con-mitchell-moncini-su-lamborghini-gt3_faf5a997-98f9-46ce-8ed7-98fc8361ef87.html",
      "data": "2026-10-03T19:04:20+00:00"
@@ -489,26 +509,6 @@
      "titolo": "Milan: Gila, mi ha cercato l'Inter ma ho scelto i rossoneri",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/03/milan-gila-mi-ha-cercato-linter-ma-ho-scelto-i-rossoneri_d36270bc-9ecc-4629-b33a-62b322cc2fad.html",
      "data": "2026-10-03T17:01:28+00:00"
-    },
-    {
-     "titolo": "Calcio: l'U21 pronta per la Polonia, sfida con vista sull'Europeo",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/03/calcio-lu21-pronta-per-la-polonia-sfida-con-vista-sulleuropeo_b911d93f-7c44-4921-b7e1-a5f0a7b96e72.html",
-     "data": "2026-10-03T18:51:42+00:00"
-    },
-    {
-     "titolo": "Nations League: in Turchia Montella sotto pressione, con gli azzurri rischia",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/03/nations-league-in-turchia-montella-sotto-pressione-con-gli-azzurri-rischia_d7d929d7-32fd-49ed-b01e-50e2fe8e1bd0.html",
-     "data": "2026-10-03T18:43:35+00:00"
-    },
-    {
-     "titolo": "Il Dall'Ara pronto per l'Italia, anche un manto blu attorno al campo",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/03/il-dallara-pronto-per-litalia-anche-un-manto-blu-attorno-al-campo_47b3fb85-d43a-487c-a48e-4aa0ae1adbe2.html",
-     "data": "2026-10-03T16:26:09+00:00"
-    },
-    {
-     "titolo": "Calcio: gli sloveni del Koper battono 2-1 il L.R. Vicenza",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/03/calcio-gli-sloveni-del-koper-battono-2-1-il-l.r.-vicenza_70e7f787-8883-4368-bb73-2a3000f65e8d.html",
-     "data": "2026-10-03T16:18:34+00:00"
     }
    ]
   }
