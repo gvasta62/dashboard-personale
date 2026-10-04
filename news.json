@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-10-04T01:46:47.659459+00:00",
+ "aggiornato": "2026-10-04T07:28:54.021861+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Vasto incendio in un camping a Peschiera del Garda, diversi feriti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/04/vasto-incendio-in-un-camping-a-peschiera-del-garda-diversi-feriti_f99739b7-95b9-4196-85ec-d8b953c2dcc9.html",
+     "data": "2026-10-04T07:09:45+00:00"
+    },
+    {
+     "titolo": "Teheran, da Usa proposte ma Hormuz resta chiuso se non soddisfatte nostre richieste",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/04/teheran-da-usa-proposte-ma-hormuz-resta-chiuso-se-non-soddisfatte-nostre-richieste_9b3e5001-84b1-4eaa-a71e-defe4047b775.html",
+     "data": "2026-10-04T07:01:55+00:00"
+    },
+    {
+     "titolo": "Merz, 'a Kiev perché l'Ucraina ha bisogno di tutto il nostro sostegno'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/04/merz-a-kiev-perche-lucraina-ha-bisogno-di-tutto-il-nostro-sostegno_33857d7c-e37b-4c18-be50-6263cffb3d54.html",
+     "data": "2026-10-04T05:45:51+00:00"
+    },
     {
      "titolo": "Tensioni per la convocazione dei gruppi di estrema destra in Puerta del Sol, 3 arresti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/03/tensioni-per-la-convocazione-dei-gruppi-di-estrema-destra-in-puerta-del-sol_9aa07d8f-ff0c-4f71-b677-2bb6e71b1fa1.html",
@@ -39,27 +54,17 @@
      "titolo": "Exit poll Lettonia, 'partito del premier Kulbergs in testa col 35,6% dei consensi'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/03/exit-poll-lettonia-partito-del-premier-kulbergs-in-testa-col-356_de301cec-0fb4-4d1c-b870-e28244fa1183.html",
      "data": "2026-10-03T17:38:33+00:00"
-    },
-    {
-     "titolo": "Schlein (Pd), 'toccherà a noi abbassare le bollette e aumentare gli stipendi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/03/schlein-pd-tocchera-a-noi-abbassare-le-bollette-e-aumentare-gli-stipendi_5216e27b-467b-4eef-90a9-0fe7b6d95f64.html",
-     "data": "2026-10-03T17:06:40+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'aumenteremo gli attacchi alle raffinerie russe in risposta all'escalation'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/03/zelensky-aumenteremo-gli-attacchi-alle-raffinerie-russe-in-risposta-allescalation_c56624bd-c97a-4d05-a759-d46dc524d5e5.html",
-     "data": "2026-10-03T16:42:47+00:00"
-    },
-    {
-     "titolo": "Si riunisce il Cda di Intesa Sanpaolo, possibile rilancio su Opas Mps",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/03/si-riunisce-il-cda-di-intesa-sanpaolo-possibile-rilancio-su-opas-mps_af2c87cc-b073-4402-9609-1221da306fe3.html",
-     "data": "2026-10-03T15:50:05+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Il suono delle campane di Assisi apre le celebrazioni per San Francesco",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/04/il-suono-delle-campane-di-assisi-apre-le-celebrazioni-per-san-francesco_a2ff7b57-812e-4c64-a611-ae90d637519e.html",
+     "data": "2026-10-04T06:56:25+00:00"
+    },
     {
      "titolo": "Verini, 'i detenuti hanno sfondato quota 66 mila ma capienza a 51 mila'",
      "link": "https://www.ansa.it/umbria/notizie/2026/10/03/verini-i-detenuti-hanno-sfondato-quota-66-mila-ma-capienza-a-51-mila_06528750-d222-4049-8d2b-0067b6f64b7d.html",
@@ -114,17 +119,22 @@
      "titolo": "Presidente Assemblea Umbria, 'Mattarella collante della nostra Repubblica'",
      "link": "https://www.ansa.it/umbria/notizie/2026/10/03/presidente-assemblea-umbria-mattarella-collante-della-nostra-repubblica_551b7f5d-b1ca-45ca-9e20-797a087a2635.html",
      "data": "2026-10-03T10:19:31+00:00"
-    },
-    {
-     "titolo": "Dalla presidente Proietti gli auguri di buon lavoro al nuovo prefetto di Perugia",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/03/dalla-presidente-proietti-gli-auguri-di-buon-lavoro-al-nuovo-prefetto-di-perugia_74ffa41d-918c-4629-b620-e437ed9cde8d.html",
-     "data": "2026-10-03T10:20:39+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "A Trento spedizione punitiva a colpi di pistola, sconvolti i residenti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/a-trento-spedizione-punitiva-a-colpi-di-pistola-sconvolti-i-residenti_5d7878bf-f0bb-4e97-bec0-aaf97cb0ab1a.html",
+     "data": "2026-10-04T07:20:40+00:00"
+    },
+    {
+     "titolo": "Vasto incendio in un camping a Peschiera del Garda, diversi feriti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/vasto-incendio-in-un-camping-a-peschiera-del-garda-diversi-feriti_f465a36b-15b0-4903-ac8a-5309989969eb.html",
+     "data": "2026-10-04T07:21:30+00:00"
+    },
     {
      "titolo": "Rimozione bomba d'aereo inesplosa il 4 ottobre vicino a Orbetello",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/03/rimozione-bomba-daereo-inesplosa-il-4-ottobre-vicino-a-orbetello_49d13827-9a1a-4b89-b3b4-a2809d69ff4e.html",
@@ -174,22 +184,17 @@
      "titolo": "La setta in val Susa, i 3 indagati complici ma anche vittime del guru",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/03/la-setta-in-val-susa-i-3-indagati-complici-ma-anche-vittime-del-guru_26476a4a-cf67-4431-86f0-f3204037466c.html",
      "data": "2026-10-03T13:26:45+00:00"
-    },
-    {
-     "titolo": "Crans-Montana, Jacques Moretti sarà sottoposto a perizia psichiatrica",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/03/crans-montana-jacques-moretti-sara-sottoposto-a-perizia-psichiatrica_414a2b2f-c993-4074-8015-5e746437fcbe.html",
-     "data": "2026-10-03T12:36:28+00:00"
-    },
-    {
-     "titolo": "Tre anni dalla strage del bus, in settimana si decide sui patteggiamenti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/03/tre-anni-dalla-strage-del-bus-in-settimana-si-decide-sui-patteggiamenti_cff686bd-fdd5-4b62-9d86-5b05ce855f43.html",
-     "data": "2026-10-03T11:43:00+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Il suono delle campane di Assisi apre le celebrazioni per San Francesco",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/04/il-suono-delle-campane-di-assisi-apre-le-celebrazioni-per-san-francesco_9bd6a1a6-d122-438a-918d-1082646e670f.html",
+     "data": "2026-10-04T07:24:06+00:00"
+    },
     {
      "titolo": "Calabresi sul palco della Leopolda: 'Basta sinistra maestrina'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/03/calabresi-sul-palco-della-leopolda-basta-sinistra-maestrina_eadd1ce0-2a9b-4261-aeaa-ed514bb58af5.html",
@@ -239,11 +244,6 @@
      "titolo": "Renzi, 'non ho bisogno di dare garanzie, a Conte dico che nel merito noi ci siamo'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/03/renzi-non-ho-bisogno-di-dare-garanzie-a-conte-dico-che-nel-merito_800d38ab-7bae-4f00-a195-ee590d88ad37.html",
      "data": "2026-10-03T11:00:23+00:00"
-    },
-    {
-     "titolo": "Assisi si prepara alle celebrazioni per San Francesco patrono d'Italia",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/03/assisi-si-prepara-alle-celebrazioni-per-san-francesco-patrono-ditalia_9bd6a1a6-d122-438a-918d-1082646e670f.html",
-     "data": "2026-10-03T15:16:14+00:00"
     },
     {
      "titolo": "Il sabato al poligono di Futuro nazionale tra sport e politica",
@@ -321,9 +321,24 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Teheran, da Usa proposte ma Hormuz resta chiuso se non soddisfatte nostre richieste",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/04/teheran-da-usa-proposte-ma-hormuz-resta-chiuso-se-non-soddisfatte-nostre-richieste_d56a8ba7-ac2b-4512-80d5-2c9a18b1f385.html",
+     "data": "2026-10-04T07:01:55+00:00"
+    },
+    {
+     "titolo": "Teheran, da Usa proposte ma Hormuz resta chiuso se non soddisfatte nostre richieste",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/04/teheran-da-usa-proposte-ma-hormuz-resta-chiuso-se-non-soddisfatte-nostre-richieste_2f2bd5af-aaf6-49a1-81e3-c27cfce70c8b.html",
+     "data": "2026-10-04T07:02:10+00:00"
+    },
+    {
+     "titolo": "Merz, 'a Kiev perché l'Ucraina ha bisogno di tutto il nostro sostegno'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/04/merz-a-kiev-perche-lucraina-ha-bisogno-di-tutto-il-nostro-sostegno_6f874829-6bc4-4df5-8ef2-c8f5212e81c7.html",
+     "data": "2026-10-04T05:46:09+00:00"
+    },
+    {
      "titolo": "Nuovi raid tra Houthi e sauditi. Riunione segreta a Camp David",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/03/nuovi-raid-tra-houthi-e-sauditi.-riunione-segreta-a-camp-david_eee90014-2dfd-406c-bd3f-983a6694294c.html",
-     "data": "2026-10-03T18:15:35+00:00"
+     "data": "2026-10-04T03:56:55+00:00"
     },
     {
      "titolo": "Media, 'Israele ricevette in anticipo l'elenco dell'equipaggio del volo Flydubai'",
@@ -343,7 +358,7 @@
     {
      "titolo": "Mosca martella Kiev, 'diplomatici e stranieri se ne vadano'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/03/ucraina-colpito-il-ponte-nord-di-kiev.-mosca-avverte-diplomatici-e-stranieri-lasciate_56200a97-785e-4e6d-b43a-d0b4c6b6621e.html",
-     "data": "2026-10-03T17:21:36+00:00"
+     "data": "2026-10-04T03:53:07+00:00"
     },
     {
      "titolo": "Dell'Utri a San Paolo, 'scuole e università italiane, un ponte verso il futuro'",
@@ -364,21 +379,6 @@
      "titolo": "Mosca, colpito il ponte nord di Kiev, facilita il movimento delle truppe",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/03/mosca-colpito-il-ponte-nord-di-kiev-facilita-il-movimento-delle-truppe_e4ad9696-2e4f-4bd5-9e10-19799565793e.html",
      "data": "2026-10-03T13:59:07+00:00"
-    },
-    {
-     "titolo": "L'Ucraina avrà bisogno fino a 70 miliardi extra nel 2027 per la guerra",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/03/lucraina-avra-bisogno-fino-a-70-miliardi-extra-nel-2027-per-la-guerra_0915615b-7255-4e13-b466-0bca3f71f524.html",
-     "data": "2026-10-03T12:32:29+00:00"
-    },
-    {
-     "titolo": "Lula e Bolsonaro hanno speso 22 milioni di euro in campagna elettorale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/03/lula-e-bolsonaro-hanno-speso-22-milioni-di-euro-in-campagna-elettorale_233f9ac5-29dc-4be8-ae42-915d84f85c13.html",
-     "data": "2026-10-03T12:29:15+00:00"
-    },
-    {
-     "titolo": "Nuovo appello di Mosca a diplomatici e stranieri, 'lasciate Kiev'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/03/nuovo-appello-di-mosca-a-diplomatici-e-stranieri-lasciate-kiev_d59b0736-60cc-465c-abce-d244fd01a646.html",
-     "data": "2026-10-03T10:51:07+00:00"
     }
    ]
   },
@@ -451,6 +451,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Atp Tokyo: Shapovalov si ritira, Alcaraz in semifinale",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/04/atp-tokyo-shapovalov-si-ritira-alcaraz-in-semifinale_1ab7fb6b-55c5-49e1-a56e-1e31f183b4fd.html",
+     "data": "2026-10-04T07:16:14+00:00"
+    },
+    {
+     "titolo": "Crescono in Usa eredi di Pulisic, fresco 17enne in gol contro il Messico",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/04/crescono-in-usa-eredi-di-pulisic-fresco-17enne-in-gol-contro-il-messico_1545a083-2637-4462-80dd-368d9d02a179.html",
+     "data": "2026-10-04T07:10:17+00:00"
+    },
+    {
+     "titolo": "F1: Pioggia a Sepang, rinviata partenza del Gp del Bahrain",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/04/pioggia-a-sepang-rinviata-partenza-del-gp-del-bahrain_8ed57b9f-048e-4cad-80d0-0d92fcf8bb4b.html",
+     "data": "2026-10-04T07:09:03+00:00"
+    },
+    {
+     "titolo": "Nuoto: Yu Zidi nominata miglior atleta ai Giochi asiatici \"ma non sono un fenomeno\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/04/nuoto-yu-zidi-nominata-miglior-atleta-ai-giochi-asiatici-ma-non-sono-un-fenomeno_a9d5d96f-3863-4521-a1b4-de073013f18d.html",
+     "data": "2026-10-04T06:26:31+00:00"
+    },
+    {
      "titolo": "Nations League: Spagna-Rep. Ceca 3-1",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/03/europa-league-spagna-rep.-ceca-3-1_b54c2f16-2190-429e-8ad8-44f36a6e327a.html",
      "data": "2026-10-03T22:00:09+00:00"
@@ -489,26 +509,6 @@
      "titolo": "Prima sfida tra le nazionali di India e Brasile, i verdeoro vincono 4-0",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/03/prima-sfida-tra-le-nazionali-di-india-e-brasile-i-verdeoro-vincono-4-0_e7223353-2b1c-4b40-81be-f7c198cc3abf.html",
      "data": "2026-10-03T18:34:20+00:00"
-    },
-    {
-     "titolo": "Nations League: l'Inghilterra annichilisce la Croazia, 7-0 a Fiume",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/03/nations-league-linghilterra-annichilisce-la-croazia-7-0-a-fiume_a49e071c-1051-42e8-ae6d-dc793342009f.html",
-     "data": "2026-10-03T18:37:20+00:00"
-    },
-    {
-     "titolo": "Nations League: Donnarumma leader, Bastoni ritrovato, l'Italia di Mancini va",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/03/nations-league-donnarumma-leader-bastoni-ritrovato-litalia-di-mancini-va_65a73b2d-bf60-45b7-b977-4175b9300ba5.html",
-     "data": "2026-10-03T18:43:56+00:00"
-    },
-    {
-     "titolo": "Fiv e Red Bull Italy SailGP Team insieme per costruire il futuro della vela italiana",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/03/fiv-e-red-bull-italy-sailgp-team-insieme-per-costruire-il-futuro_ebecb544-53eb-4688-a45d-6ade37d99afe.html",
-     "data": "2026-10-03T17:17:27+00:00"
-    },
-    {
-     "titolo": "Milan: Gila, mi ha cercato l'Inter ma ho scelto i rossoneri",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/03/milan-gila-mi-ha-cercato-linter-ma-ho-scelto-i-rossoneri_d36270bc-9ecc-4629-b33a-62b322cc2fad.html",
-     "data": "2026-10-03T17:01:28+00:00"
     }
    ]
   }
