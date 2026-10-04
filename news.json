@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-10-04T17:42:11.567914+00:00",
+ "aggiornato": "2026-10-04T20:31:09.652323+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Si dimette il ministro del petrolio iraniano",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/04/si-dimette-il-ministro-del-petrolio-iraniano_e396f36d-79c9-49e7-8bb8-0a94aafe2f3c.html",
+     "data": "2026-10-04T18:09:48+00:00"
+    },
     {
      "titolo": "Media, copilota voleva schiantare volo FlyDubai su aeroporto Ben Gurion",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/04/media-copilota-voleva-schiantare-volo-flydubai-su-aeroporto-ben-gurion_aa44fc44-406c-4e2b-ae8f-90610a6aafca.html",
@@ -49,11 +54,6 @@
      "titolo": "Tajani, 'il centro è solo Forza Italia, porte aperte a riformisti e moderati'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/04/tajani-il-centro-e-solo-forza-italia-porte-aperte-a-riformisti-e-moderati_f05fe096-ee07-4dfd-8d8c-c771b0ec37b2.html",
      "data": "2026-10-04T14:16:07+00:00"
-    },
-    {
-     "titolo": "Zelensky, gli Usa vogliono colloqui trilaterali con la Russia entro fine ottobre",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/04/zelensky-gli-usa-vogliono-colloqui-trilaterali-con-la-russia-entro-fine_09f03e0c-d533-45c9-b217-a74c3190d7fd.html",
-     "data": "2026-10-04T14:06:30+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "'Niente più morti in bicicletta', il Bike Pride Torino dedicato a Nicolò",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/niente-piu-morti-in-bicicletta-il-bike-pride-torino-dedicato-a-nicolo_ad3a3a30-69e4-4695-8adc-c62ac5102af5.html",
+     "data": "2026-10-04T20:06:31+00:00"
+    },
+    {
+     "titolo": "Bloccato dopo inseguimento, ha malore e muore in uffici della polizia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/bloccato-dopo-inseguimento-ha-malore-e-muore-in-uffici-della-polizia_7c294331-98ae-4d16-83a4-ae326f3ecd9a.html",
+     "data": "2026-10-04T19:45:47+00:00"
+    },
+    {
+     "titolo": "Tenta di uccidere la compagna, salva perché creduta morta",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/tenta-di-uccidere-la-compagna-poi-si-suicida-dopo-averle-fatto-perdere-i-sensi_ad11c40c-eee0-438a-a194-a23b73d8cc10.html",
+     "data": "2026-10-04T18:37:00+00:00"
+    },
+    {
      "titolo": "Insulti e minacce a don Coluccia alla periferia di Roma",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/insulti-e-minacce-a-don-coluccia-alla-periferia-di-roma_79a705fc-b8fe-46e2-a7ab-63fd63782654.html",
      "data": "2026-10-04T16:51:33+00:00"
@@ -146,9 +161,9 @@
      "data": "2026-10-04T15:46:27+00:00"
     },
     {
-     "titolo": "Garlasco, i genitori: 'Chiara dopo 19 anni ha il diritto di riposare in pace'",
+     "titolo": "Garlasco, i genitori di Chiara: 'Se ci sarà un nuovo colpevole ne prenderemo atto'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/garlasco-genitori-di-chiara-poggi-prenderemo-atto-se-la-giustizia-dara-un-altro-colpevole_ebee0c95-ada8-4f77-9669-bc60564a79ed.html",
-     "data": "2026-10-04T16:49:20+00:00"
+     "data": "2026-10-04T18:03:56+00:00"
     },
     {
      "titolo": "Frana di grandi dimensioni si stacca dalle Tofane",
@@ -169,27 +184,22 @@
      "titolo": "Musumeci a Raduno Protezione civile, 'volontariato colonna portante'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/musumeci-a-raduno-protezione-civile-volontariato-colonna-portante_96956e17-a599-4474-9c43-1b06d0913dea.html",
      "data": "2026-10-04T13:39:07+00:00"
-    },
-    {
-     "titolo": "Sette anni fa l'uccisione dei 'figli delle stelle' in Questura a Trieste",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/sette-anni-fa-luccisione-dei-figli-delle-stelle-in-questura-a-trieste_80e9eaff-8c64-4e5f-9917-8149155c372b.html",
-     "data": "2026-10-04T13:36:45+00:00"
-    },
-    {
-     "titolo": "Venezia saluta la Amerigo Vespucci con l'alzaremi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/venezia-saluta-la-amerigo-vespucci-con-lalzaremi_98d35114-7b33-4e74-ab45-6a2eb098b04b.html",
-     "data": "2026-10-04T13:07:25+00:00"
-    },
-    {
-     "titolo": "Rogo nel camping a Peschiera del Garda, feriti e intossicati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/vasto-incendio-in-un-camping-sul-garda-intervenuti-4-pompieri-tedeschi-in-vacanza_f465a36b-15b0-4903-ac8a-5309989969eb.html",
-     "data": "2026-10-04T16:21:28+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Mattarella ad Assisi, 'il mondo si illumini e indichi la via della pace",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/04/mattarella-ad-assisi-il-mondo-si-illumini-e-indichi-la-via-della-pace_9bd6a1a6-d122-438a-918d-1082646e670f.html",
+     "data": "2026-10-04T18:47:18+00:00"
+    },
+    {
+     "titolo": "Bartolo in campo per la presidenza della Sicilia",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/04/bartolo-in-campo-per-la-presidenza-della-sicilia_cc1033f9-3b4c-40bd-ae89-889f86ce1668.html",
+     "data": "2026-10-04T17:53:02+00:00"
+    },
     {
      "titolo": "Grillo affonda sul M5s: 'Si ispirava a San Francesco, ora sfrutta il poltronificio'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/04/grillo-affonda-sul-m5s-si-ispirava-a-san-francesco-ora-sfrutta-il-poltronificio_b091479f-09c7-422f-863b-f279b4e67a3e.html",
@@ -201,9 +211,9 @@
      "data": "2026-10-04T15:17:09+00:00"
     },
     {
-     "titolo": "Tajani: 'Il centro è solo Forza Italia, porte aperte a riformisti e moderati'",
+     "titolo": "Tajani alza il muro, 'il centro è solo Forza Italia'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/04/tajani-il-centro-e-solo-forza-italia-porte-aperte-a-riformisti-e-moderati_16690e2a-4e8e-4a85-aa09-9edae9b3b666.html",
-     "data": "2026-10-04T15:18:13+00:00"
+     "data": "2026-10-04T17:54:15+00:00"
     },
     {
      "titolo": "Zuppi, 'cultura della potenza volgare, la pace non dalle armi'",
@@ -211,9 +221,9 @@
      "data": "2026-10-04T12:56:07+00:00"
     },
     {
-     "titolo": "Renzi: 'Meloni al Colle o va a casa, stavolta uniti vinciamo'",
+     "titolo": "L'appello di Renzi ai centristi e ai riformisti di Fi, 'venite con noi'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/04/renzi-appello-a-centristi-e-ai-riformisti-di-forza-italia-venite-con-noi_c456b782-516c-4c5e-b706-17e902aa68bd.html",
-     "data": "2026-10-04T13:32:52+00:00"
+     "data": "2026-10-04T17:58:26+00:00"
     },
     {
      "titolo": "Mattarella, il mondo si illumini e si possa indicare la via della pace",
@@ -231,11 +241,6 @@
      "data": "2026-10-04T13:34:16+00:00"
     },
     {
-     "titolo": "Assisi, Mattarella: 'Da San Francesco una lezione per l'oggi'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/04/festa-di-san-francesco-mattarella-da-s.-francesco-una-lezione-per-loggi_9bd6a1a6-d122-438a-918d-1082646e670f.html",
-     "data": "2026-10-04T15:12:21+00:00"
-    },
-    {
      "titolo": "Mattarella, in alcune parti del mondo si torna a benedire le armi",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/04/mattarella-in-alcune-parti-del-mondo-si-torna-a-benedire-le-armi_5804cbc3-d2f8-4d1f-b1ca-1170732debb7.html",
      "data": "2026-10-04T09:50:37+00:00"
@@ -244,17 +249,27 @@
      "titolo": "Mattarella, San Francesco ruppe l'idolatria del denaro, una lezione per l'oggi",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/04/mattarella-san-francesco-ruppe-lidolatria-del-denaro-una-lezione-per_c63d7c16-fd20-4a24-86de-d5b99e7e604a.html",
      "data": "2026-10-04T09:39:02+00:00"
-    },
-    {
-     "titolo": "Conte: 'Buon compleanno M5s, ci attaccano ma andiamo avanti a testa alta'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/04/conte-buon-compleanno-m5s-ci-attaccano-ma-andiamo-avanti-a-testa-alta_1d9e1260-c8c2-4b09-a968-7e9f33be850b.html",
-     "data": "2026-10-04T15:19:44+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Intesa, da Delfin impegno di adesione all'Opas per Mps",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/intesa-da-delfin-impegno-di-adesione-allopas-per-mps_a8a94a7d-9c45-48a7-823c-5d4c9ca99d4c.html",
+     "data": "2026-10-04T20:02:47+00:00"
+    },
+    {
+     "titolo": "La lente del mercato sull'affondo di Intesa Sanpaolo su Mps",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/la-lente-del-mercato-sullaffondo-di-intesa-sanpaolo-su-mps_362a0a54-bbfb-4cfa-b367-e4483904f2f7.html",
+     "data": "2026-10-04T19:06:22+00:00"
+    },
+    {
+     "titolo": "Delfin verso l'appoggio all'offerta di Intesa Sanpaolo per Mps",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/delfin-verso-lappoggio-allofferta-di-intesa-sanpaolo-per-mps_63e7a8d8-f00b-437c-a9b9-c5ab2f640684.html",
+     "data": "2026-10-04T18:56:16+00:00"
+    },
     {
      "titolo": "Rebus risorse per la manovra dopo il Dpfp, le misure in bilico",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/rebus-risorse-per-la-manovra-dopo-il-dpfp-le-misure-in-bilico_3a89ec48-7a66-499a-bd0c-572c7d7c4336.html",
@@ -299,27 +314,17 @@
      "titolo": "Sima, impianti fotovoltaici privati seconda forza rinnovabile del Paese",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/sima-impianti-fotovoltaici-privati-seconda-forza-rinnovabile-del-paese_c1dd3af9-7673-46d8-842a-d8fe999fb39e.html",
      "data": "2026-10-04T08:17:38+00:00"
-    },
-    {
-     "titolo": "Intesa, le due offerte di Mps complesse e di difficile valutazione per i soci",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/intesa-le-due-offerte-di-mps-complesse-e-di-difficile-valutazione-per-i-soci_c0310536-0bf0-4203-8ec0-f9e921bb8ee5.html",
-     "data": "2026-10-04T17:25:38+00:00"
-    },
-    {
-     "titolo": "Mimit, prezzo medio self benzina a 2,049 euro al litro, gasolio a 2,244 euro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/mimit-prezzo-medio-self-benzina-a-2049-euro-al-litro-gasolio-a-2244_6cf3e3cf-9261-448f-9511-ea3823e0638f.html",
-     "data": "2026-10-04T07:30:35+00:00"
-    },
-    {
-     "titolo": "La Lega alza la posta, 'Meloni se ne freghi del Patto, serve coraggio'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/03/la-lega-alza-la-posta-meloni-se-ne-freghi-del-patto-serve-coraggio_7663f0fe-6df2-4756-9d84-8e61e3db0883.html",
-     "data": "2026-10-03T19:18:12+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Si dimette il ministro del petrolio iraniano",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/04/si-dimette-il-ministro-del-petrolio-iraniano_262d2f70-7cf5-48d6-ac5d-5e219a76cd56.html",
+     "data": "2026-10-04T18:10:26+00:00"
+    },
     {
      "titolo": "Media, copilota voleva schiantare volo FlyDubai su aeroporto Ben Gurion",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/04/media-copilota-voleva-schiantare-volo-flydubai-su-aeroporto-ben-gurion_4c47ccf8-7a8e-47f0-8603-25984b813f1a.html",
@@ -374,11 +379,6 @@
      "titolo": "Sindaco di Kiev, colpito il Ponte Nord della città",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/04/sindaco-di-kiev-colpito-il-ponte-nord-della-citta_a520beb0-b46a-402c-9b3b-d9eca4ac00b1.html",
      "data": "2026-10-04T08:07:55+00:00"
-    },
-    {
-     "titolo": "Teheran, da Usa proposte ma Hormuz resta chiuso se non soddisfatte nostre richieste",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/04/teheran-da-usa-proposte-ma-hormuz-resta-chiuso-se-non-soddisfatte-nostre-richieste_d56a8ba7-ac2b-4512-80d5-2c9a18b1f385.html",
-     "data": "2026-10-04T07:01:55+00:00"
     }
    ]
   },
@@ -451,6 +451,36 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "U.21: azzurri all'esame Polonia, Baldini: 'Comunque vada sono ragazzi speciali'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/04/u.21-azzurri-allesame-polonia-baldini-comunque-vada-sono-ragazzi-speciali_a95ac990-553e-4edc-8b15-12f19d97a580.html",
+     "data": "2026-10-04T18:29:05+00:00"
+    },
+    {
+     "titolo": "Italia quarta partita in Nations, Mancini: 'Con la Turchia chiudiamo in bellezza'",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/04/italia-quarta-partita-in-nations-mancini-con-la-turchia-chiudiamo-in-bellezza_294cb6a1-8a5b-4345-b401-d99a94eaf076.html",
+     "data": "2026-10-04T18:24:54+00:00"
+    },
+    {
+     "titolo": "Figc: ecco i contropareri di Malago', e' battaglia sul voto al Coni",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/04/figc-ecco-i-contropareri-di-malago-e-battaglia-sul-voto-al-coni_5b2ded58-7b59-46c2-970f-e90906ea8122.html",
+     "data": "2026-10-04T18:26:53+00:00"
+    },
+    {
+     "titolo": "Gattuso, dopo Bosnia-Italia ho fatto fatica ad addormentarmi per mesi",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/04/gattuso-dopo-bosnia-italia-ho-fatto-fatica-ad-addormentarmi-per-mesi_3c73e6f8-8788-4bfb-a534-af44f98dc787.html",
+     "data": "2026-10-04T18:01:18+00:00"
+    },
+    {
+     "titolo": "Fabregas, \"a Como idee chiare ed un'unione che in giro non esiste\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/04/fabregas-a-como-idee-chiare-ed-ununione-che-in-giro-non-esiste_69bc8d54-18f9-4723-a1b3-0e96c2420fd6.html",
+     "data": "2026-10-04T17:59:41+00:00"
+    },
+    {
+     "titolo": "Nations League: Mancini, domani dobbiamo chiudere in bellezza",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/04/nations-league-mancini-domani-dobbiamo-chiudere-in-bellezza_62f4d8f6-3586-428e-ba7b-5be804648b66.html",
+     "data": "2026-10-04T17:59:58+00:00"
+    },
+    {
      "titolo": "Figc: pareri Malagò,'tesseramento non essenziale, elezione non ribaltabile'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/04/figc-pareri-malagotesseramento-non-essenziale-elezione-non-ribaltabile_31da2d75-364a-4651-be73-6bdb26c43680.html",
      "data": "2026-10-04T17:00:44+00:00"
@@ -479,36 +509,6 @@
      "titolo": "Nba Europe al bivio, martedì l'incontro con Eurolega sul progetto Usa",
      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/04/nba-europe-al-bivio-martedi-lincontro-con-eurolega-sul-progetto-usa_97bc16fd-9405-453d-8c5a-7205ea3965f0.html",
      "data": "2026-10-04T14:01:30+00:00"
-    },
-    {
-     "titolo": "Italia in sintonia con lo show della Serie A, otto squadre in tre punti",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/04/italia-in-sintonia-con-lo-show-della-serie-a-otto-squadre-in-tre-punti_79bf8ad0-f515-44fd-b9a7-a54606799ca7.html",
-     "data": "2026-10-04T16:37:09+00:00"
-    },
-    {
-     "titolo": "America's Cup: stime impatto economico aggiornate in positivo, tra 1,4 e 1,7 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/04/americas-cup-stime-impatto-economico-aggiornate-in-positivo-tra-14-e-17-miliardi_6be39241-58bb-4e85-9a3e-8728303174d0.html",
-     "data": "2026-10-04T11:32:28+00:00"
-    },
-    {
-     "titolo": "F1: Gp Bahrain; Hamilton 'sbagliate le gomme, ma non ho mollato'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/04/f1-gp-bahrain-hamilton-sbagliate-le-gomme-ma-non-ho-mollato_537aa974-33fe-4444-a73a-e36023c2cc61.html",
-     "data": "2026-10-04T11:22:20+00:00"
-    },
-    {
-     "titolo": "Atletica, Tamberi: 'L'obiettivo è vincere due ori olimpici, Fa venire i brividi'",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/04/atletica-tamberi-lobiettivo-e-vincere-due-ori-olimpici-va-venire-i-brividi_66919f51-9865-41ca-a636-c32bf038dc60.html",
-     "data": "2026-10-04T14:04:00+00:00"
-    },
-    {
-     "titolo": "F1: Gp Bahrain; Antonelli 'abbiamo sofferto, oggi mi accontento'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/04/f1-gp-bahrain-antonelli-abbiamo-sofferto-oggi-mi-accontento_f3d4fd58-645c-48d3-adeb-de79eaa5fbdd.html",
-     "data": "2026-10-04T11:00:44+00:00"
-    },
-    {
-     "titolo": "F1: Gp Bahrain; Verstappen 'Ho avuto tutto sotto controllo'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/04/f1-gp-bahrain-verstappen-ho-avuto-tutto-sotto-controllo_26f11a2d-3b1d-4d30-a4e4-1f0e46150876.html",
-     "data": "2026-10-04T10:57:15+00:00"
     }
    ]
   }
