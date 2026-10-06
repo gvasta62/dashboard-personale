@@ -1,65 +1,110 @@
 {
- "aggiornato": "2026-10-06T06:34:37.600680+00:00",
+ "aggiornato": "2026-10-06T13:41:31.963618+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
-     "titolo": "Russia, 'sale a 2 morti il bilancio del maxi attacco droni ucraini su regione Mosca'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/russia-sale-a-2-morti-il-bilancio-del-maxi-attacco-droni-ucraini-su-regione_21711809-62af-42cf-98d7-6b8734b55e0a.html",
-     "data": "2026-10-06T06:31:37+00:00"
+     "titolo": "Nel 2027 spesa pensioni a 366 miliardi, aumenta di 14,7 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/nel-2027-spesa-pensioni-a-366-miliardi-aumenta-di-147-miliardi_aaa9438c-d653-4cd4-a23f-26508b93894a.html",
+     "data": "2026-10-06T13:20:28+00:00"
     },
     {
-     "titolo": "Houthi, 'abbiamo colpito l'aeroporto di Riad e una raffineria di Aramco'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/houthi-abbiamo-colpito-laeroporto-di-riad-e-una-raffineria-di-aramco_637eb0fd-e497-4481-9057-99c6bc63522f.html",
-     "data": "2026-10-05T21:33:42+00:00"
+     "titolo": "Il petrolio cede terreno a New York, a 87,05 dollari",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/il-petrolio-cede-terreno-a-new-york-a-8705-dollari_93cf951a-7560-46de-99f0-3116c3b4fba1.html",
+     "data": "2026-10-06T13:15:03+00:00"
     },
     {
-     "titolo": "Nations League: Mancini 'sofferto all'inizio ma bravi a riprendere la partita'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/nations-league-mancini-sofferto-allinizio-ma-bravi-a-riprendere-la-partita_c4f0deaf-7f58-4579-a588-51bc09859c4f.html",
-     "data": "2026-10-05T20:50:38+00:00"
+     "titolo": "Anci,'il bando per i balneari presenta criticità, rivedere il testo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/anciil-bando-per-i-balneari-presenta-criticita-rivedere-il-testo_8eb42a6e-0184-46d5-945d-7a9620de5985.html",
+     "data": "2026-10-06T13:12:51+00:00"
     },
     {
-     "titolo": "Da domani accise sul gasolio più alte, nessun decreto in Gazzetta",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/da-domani-accise-sul-gasolio-piu-alte-nessun-decreto-in-gazzetta_b79776ad-0865-4292-9ca1-0f880559675b.html",
-     "data": "2026-10-06T06:28:58+00:00"
+     "titolo": "Leo, accise mobili? Ci stiamo ragionando, non c'è una decisione presa",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/leo-accise-mobili-ci-stiamo-ragionando-non-ce-una-decisione-presa_20092564-09dc-4bc4-b5c0-debfb289fac0.html",
+     "data": "2026-10-06T12:19:49+00:00"
     },
     {
-     "titolo": "Trump, il risultato di Bolsonaro in Brasile una 'grande vittoria'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/trump-il-risultato-di-bolsonaro-in-brasile-una-grande-vittoria_4f928575-3079-45a6-b4ae-0ea99dac62a1.html",
-     "data": "2026-10-05T20:21:18+00:00"
+     "titolo": "Via a manifestazioni studenti in Francia, tensione in diverse città",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/via-a-manifestazioni-studenti-in-francia-tensione-in-diverse-citta_96feb4c3-0c23-45dd-ae5b-c5374369caeb.html",
+     "data": "2026-10-06T12:11:50+00:00"
     },
     {
-     "titolo": "Turchia e Pakistan invieranno forze militari in Arabia Saudita",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/turchia-e-pakistan-invieranno-forze-militari-in-arabia-saudita_160ab548-9023-4a59-8046-279a1f95a0bf.html",
-     "data": "2026-10-05T19:09:07+00:00"
+     "titolo": "Petrolio in deciso ribasso, Brent -2% a 98,3 dollari al barile",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/petrolio-in-deciso-ribasso-brent-2-a-983-dollari-al-barile_0219e9a3-b2a2-4a98-8c42-9a2c1512f820.html",
+     "data": "2026-10-06T11:59:26+00:00"
     },
     {
-     "titolo": "Il copilota, 'l'ho fatto per vendicare Gaza, volevo morire da martire'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/il-copilota-lho-fatto-per-vendicare-gaza-volevo-morire-da-martire_56884ce4-93a0-4a9a-86a3-918d6a034c8d.html",
-     "data": "2026-10-05T18:16:25+00:00"
+     "titolo": "Borsa: Milano tiene con l'Europa in attesa di Wall street, spread a 104 punti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/borsa-milano-tiene-con-leuropa-in-attesa-di-wall-street-spread-a-104_482681ec-795e-4883-83e5-f19f774b5bb0.html",
+     "data": "2026-10-06T11:57:58+00:00"
     },
     {
-     "titolo": "Calcio: 6-2 alla Polonia, l'Italia Under 21 si qualifica agli Europei 2027",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/calcio-6-2-alla-polonia-litalia-under-21-si-qualifica-agli-europei-2027_e64702ac-3ef9-4425-9341-a079251c4762.html",
-     "data": "2026-10-05T18:08:50+00:00"
+     "titolo": "Rubio, Mosca condivida le informazioni sulla Siberia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/rubio-mosca-condivida-le-informazioni-sulla-siberia_93e8cc76-2051-4328-b5e8-7d7495bcc295.html",
+     "data": "2026-10-06T11:48:20+00:00"
     },
     {
-     "titolo": "Luongo al Tg1, se qualcuno dell'Arma ha sbagliato su Garlasco pagherà",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/luongo-al-tg1-se-qualcuno-dellarma-ha-sbagliato-su-garlasco-paghera_64a0c1bb-8e52-4e4a-8542-764f7fbb349c.html",
-     "data": "2026-10-05T17:44:27+00:00"
+     "titolo": "Inflazione al 4,3% nell'Ocse ad agosto trainata dai prezzi dell'energia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/inflazione-al-43-nellocse-ad-agosto-trainata-dai-prezzi-dellenergia_e22668cc-48ab-431e-ba55-f1660e6ac645.html",
+     "data": "2026-10-06T11:48:43+00:00"
     },
     {
-     "titolo": "Corte Bergamo rigetta la richiesta di nuove analisi sui reperti di Yara",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/corte-bergamo-rigetta-la-richiesta-di-nuove-analisi-sui-reperti-di-yara_f9b31511-dc4b-4a6e-8bf8-8dd1f40aa72b.html",
-     "data": "2026-10-05T16:27:57+00:00"
+     "titolo": "Il Tribunale Supremo ha revocato l'ordine di arresto per Puigdemont",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/il-tribunale-supremo-ha-revocato-lordine-di-arresto-per-puigdemont_e95cfbac-ae2f-46f6-a480-e69ca5503647.html",
+     "data": "2026-10-06T11:20:14+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Teatro, a Spello arriva 'Alla linea' di Joseph Ponthus",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/06/teatro-a-spello-arriva-alla-linea-di-joseph-ponthus_2f4fc3b6-8979-4ab5-b04f-3b5791bfcdec.html",
+     "data": "2026-10-06T13:26:15+00:00"
+    },
+    {
+     "titolo": "Dal 9 all'11 ottobre la Supercarslot sulle strade del Ternano",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/06/dal-9-all11-ottobre-la-supercarslot-sulle-strade-del-ternano_ed2d6c4b-a00e-41df-af59-3aff2db83995.html",
+     "data": "2026-10-06T13:12:22+00:00"
+    },
+    {
+     "titolo": "Le 'Terre Etrusche Unite' Comunità europea dello sport 2028",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/06/le-terre-etrusche-unite-comunita-europea-dello-sport-2028_12124415-a054-4d54-9089-87e33ba01968.html",
+     "data": "2026-10-06T12:53:42+00:00"
+    },
+    {
+     "titolo": "Il Papa e i leader religiosi il 27 ad Assisi, 13 preghiere per la pace",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/06/il-papa-e-i-leader-religiosi-il-27-ad-assisi-13-preghiere-per-la-pace_a222482f-4ede-45fc-879b-d40e21e63639.html",
+     "data": "2026-10-06T11:41:28+00:00"
+    },
+    {
+     "titolo": "A Perugia la Staffetta del domani per ricordare il sacrificio delle donne per libertà",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/06/a-perugia-la-staffetta-del-domani-per-ricordare-il-sacrificio-delle-donne-per_0a2601e6-b660-48ec-b18f-c0073ea8b844.html",
+     "data": "2026-10-06T11:15:32+00:00"
+    },
+    {
+     "titolo": "All'ospedale di Perugia un incontro dedicato all'allattamento",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/06/allospedale-di-perugia-un-incontro-dedicato-allallattamento_612d207d-dd44-4b54-9c24-ff9dd21a82d4.html",
+     "data": "2026-10-06T10:02:59+00:00"
+    },
+    {
+     "titolo": "Un morto e un ferito grave per uno scontro tra un carroattrezzi e un camion",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/06/un-morto-e-un-ferito-grave-per-uno-scontro-tra-un-carroattrezzi-e-un-camion_23d23189-9938-438b-8339-c6bb45224618.html",
+     "data": "2026-10-06T10:02:35+00:00"
+    },
+    {
+     "titolo": "Un morto e un ferito grave per un incidente stradale nel perugino",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/06/un-morto-e-un-ferito-grave-per-un-incidente-stradale-nel-perugino_5b525d41-02c7-4815-87e8-b9acbcf43db1.html",
+     "data": "2026-10-06T09:00:28+00:00"
+    },
+    {
+     "titolo": "Tir si ribalta ed esce di strada sul viadotto di Montoro della umbro-laziale",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/06/tir-si-ribalta-ed-esce-di-strada-sul-viadotto-di-montoro-della-umbro-laziale_c5471763-2f6d-49b0-9fab-9f2bd3deba69.html",
+     "data": "2026-10-06T07:32:13+00:00"
+    },
     {
      "titolo": "Perugia scelta per la Bloomberg Lse European City Leadership Initiative",
      "link": "https://www.ansa.it/umbria/notizie/2026/10/05/perugia-scelta-per-la-bloomberg-lse-european-city-leadership-initiative_2ba0edf8-0aaf-4fe2-add3-d1864373d50b.html",
@@ -74,51 +119,6 @@
      "titolo": "San Francesco 2026, 'Assisi al centro del mondo'",
      "link": "https://www.ansa.it/umbria/notizie/2026/10/05/san-francesco-2026-assisi-al-centro-del-mondo_6119b1ea-f73a-4f42-938e-e93008b173a3.html",
      "data": "2026-10-05T16:02:38+00:00"
-    },
-    {
-     "titolo": "Adisu Umbria, anche quest'anno 100% di copertura delle richieste di alloggio",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/05/adisu-umbria-anche-questanno-100-di-copertura-delle-richieste-di-alloggio_e82d4c1e-3195-4e7d-bd43-473ab3af69b7.html",
-     "data": "2026-10-05T15:42:10+00:00"
-    },
-    {
-     "titolo": "Maggioranza in Regione, con l'hospice una società che mette al centro la cura",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/05/maggioranza-in-regione-con-lhospice-una-societa-che-mette-al-centro-la-cura_69574e16-9410-48be-8e60-45fb71277eb6.html",
-     "data": "2026-10-05T15:11:44+00:00"
-    },
-    {
-     "titolo": "Si è conclusa la prima edizione di 'Foligno Fly Fest'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/05/si-e-conclusa-la-prima-edizione-di-foligno-fly-fest_6e150fdd-420a-4293-9670-a2192781f84c.html",
-     "data": "2026-10-05T14:06:59+00:00"
-    },
-    {
-     "titolo": "Dall'Umbria un modello per l'Ia, PerugIa Next a Orizzonti Digitali",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/05/dallumbria-un-modello-per-lia-perugia-next-a-orizzonti-digitali_a544b585-1c18-4c48-ad8f-6620c6184359.html",
-     "data": "2026-10-05T13:39:43+00:00"
-    },
-    {
-     "titolo": "A Perugia l'esposizione nazionale su 40 anni di impegno per la pace",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/05/a-perugia-lesposizione-nazionale-su-40-anni-di-impegno-per-la-pace_fb6a0ee9-199e-4d03-bb6f-7f0ab855e559.html",
-     "data": "2026-10-05T13:20:01+00:00"
-    },
-    {
-     "titolo": "L'hospice pediatrico ricordato ad Assisi, da Proietti 'soddisfazione e orgoglio'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/05/lhospice-pediatrico-ricordato-ad-assisi-da-proietti-soddisfazione-e-orgoglio_e93368ac-64a1-4fe4-a5cc-8abafdd842c0.html",
-     "data": "2026-10-05T13:22:51+00:00"
-    },
-    {
-     "titolo": "Ragazzo di 17 anni denunciato per lesioni personali",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/05/ragazzo-di-17-anni-denunciato-per-lesioni-personali_55a827c3-8e37-4b4a-885c-cc9e0efd3ad1.html",
-     "data": "2026-10-05T12:51:12+00:00"
-    },
-    {
-     "titolo": "L'azienda ospedaliera di Perugia riorganizza il percorso preoperatorio",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/05/lazienda-ospedaliera-di-perugia-riorganizza-il-percorso-preoperatorio_1b8da0fc-82f5-408c-ad67-3e859ddc1fcc.html",
-     "data": "2026-10-05T11:48:36+00:00"
-    },
-    {
-     "titolo": "A Narni torna il Festival della sociologia con l'11/a edizione",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/05/a-narni-torna-il-festival-della-sociologia-con-l11a-edizione_b0af68db-d130-441b-81a5-ca89c7754989.html",
-     "data": "2026-10-05T11:38:21+00:00"
     }
    ]
   },
@@ -126,64 +126,64 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Palazzina inagibile dopo l'esplosione a Bergamo, circa 50 gli sfollati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/esplosione-nel-centro-di-bergamo-per-una-fuga-di-gas-8-feriti_f192acd0-1cec-4e0e-9b4f-7667f4c0cb97.html",
-     "data": "2026-10-06T03:57:37+00:00"
+     "titolo": "Villa Pamphili, la difesa di Kaufmann chiede una nuova perizia psichiatrica",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/villa-pamphili-la-difesa-di-kaufmann-chiede-una-nuova-perizia-psichiatrica_8eb543db-ea8a-4e72-ba36-098d262f1cf2.html",
+     "data": "2026-10-06T13:25:36+00:00"
     },
     {
-     "titolo": "Esplosione in una casa a Bergamo, due feriti in codice rosso",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/esplosione-in-una-casa-a-bergamo-due-feriti-in-codice-rosso_75cbeddf-927f-4964-93b2-3ea23573c46f.html",
-     "data": "2026-10-05T19:00:08+00:00"
+     "titolo": "Non punibile chi circuisce il coniuge incapace, Consulta boccia la legge",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/non-punibile-chi-circuisce-il-coniuge-incapace-consulta-boccia-la-legge_5a656cd2-3793-4bb2-b3c5-cad6f3f9eb21.html",
+     "data": "2026-10-06T12:50:37+00:00"
     },
     {
-     "titolo": "Donna accoltellata a Salerno, il 57enne resta in carcere",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/donna-accoltellata-a-salerno-il-57enne-resta-in-carcere_94e5a8fa-d199-48fc-844a-42bb68ef3111.html",
-     "data": "2026-10-05T17:51:40+00:00"
+     "titolo": "Cade da una impalcatura a Rimini, operaio muore in ospedale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/cade-da-una-impalcatura-a-rimini-operaio-muore-in-ospedale_21349845-7d8e-4133-a994-d4737e02bd72.html",
+     "data": "2026-10-06T12:19:42+00:00"
     },
     {
-     "titolo": "Il caso di Yara Gambirasio, respinta la richiesta di nuove analisi sui reperti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/il-caso-di-yara-gambirasio-respinta-la-richiesta-di-nuove-analisi-sui-reperti_1561181a-d5c1-478e-ab56-5724ae1c9b44.html",
-     "data": "2026-10-05T17:43:01+00:00"
+     "titolo": "Muore dopo essere stato investito da un bus a Piombino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/muore-dopo-essere-stato-investito-da-un-bus-a-piombino_ffcd54df-b18d-4d0e-9c4d-20bba8889fdb.html",
+     "data": "2026-10-06T12:18:05+00:00"
     },
     {
-     "titolo": "Luongo al Tg1, se qualcuno dell'Arma ha sbagliato su Garlasco pagherà",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/luongo-al-tg1-se-qualcuno-dellarma-ha-sbagliato-su-garlasco-paghera_15e0f6d6-2bd7-4a35-901d-a07d80a44c11.html",
-     "data": "2026-10-05T17:44:30+00:00"
+     "titolo": "Crans-Montana, Jessica Moretti chiede indennità per infortunio nell'incendio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/crans-montana-jessica-moretti-chiede-indennita-per-infortunio-nellincendio_6c8c1560-011c-4c3f-8986-3d998fab7192.html",
+     "data": "2026-10-06T13:18:59+00:00"
     },
     {
-     "titolo": "Firenze, bombola del gas sotto il David a piazzale Michelangelo, rientra l'allarme dopo l'intervento degli artificieri",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/firenze-bombola-del-gas-sotto-il-david-a-piazzale-michelangelo-rientra-lallarme_56fe9149-9c4d-4d95-ae1d-c01ed749181d.html",
-     "data": "2026-10-05T17:42:25+00:00"
+     "titolo": "Nobel per la Fisica a Francis Halzen per la scoperta dei neutrini cosmici",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/nobel-per-la-fisica-a-francis-halzen-per-la-scoperta-dei-neutrini-cosmici_93146d3b-3ae7-433a-853c-c2488904f0fb.html",
+     "data": "2026-10-06T10:15:43+00:00"
     },
     {
-     "titolo": "Dodici Fondazioni e Acri lanciano 20 Cammini d'Italia 'per fare comunità'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/dodici-fondazioni-e-acri-lanciano-20-cammini-ditalia-per-fare-comunita_41683938-37de-4f78-8c2a-06a01427802b.html",
-     "data": "2026-10-05T17:19:26+00:00"
+     "titolo": "Tassisti in piazza a Napoli contro 'Caro carburante' e traffico",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/tassisti-in-piazza-a-napoli-contro-caro-carburante-e-traffico_26d2f83c-578c-4e42-a696-ec66836d4626.html",
+     "data": "2026-10-06T10:45:32+00:00"
     },
     {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-10-05T16:48:30+00:00"
+     "titolo": "Morte di Davis Rossi, il fratello: 'Suicidio? Non ci avrebbe mai salutato così'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/morte-di-davis-rossi-il-fratello-suicidio-non-ci-avrebbe-mai-salutato-cosi_0f622011-5447-4d26-949e-c856a2e1c428.html",
+     "data": "2026-10-06T12:51:09+00:00"
     },
     {
-     "titolo": "Corte Bergamo rigetta la richiesta di nuove analisi sui reperti di Yara",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/corte-bergamo-rigetta-la-richiesta-di-nuove-analisi-sui-reperti-di-yara_e5173a1b-bbc5-49ee-bf58-168c225efc40.html",
-     "data": "2026-10-05T16:27:44+00:00"
+     "titolo": "Riciclaggio e manodopera illegale, perquisizioni e sequestri della Gdf",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/riciclaggio-e-manodopera-illegale-perquisizioni-e-sequestri-della-gdf_a3c67ead-d4eb-4c98-b4e0-34d3844bd294.html",
+     "data": "2026-10-06T10:44:23+00:00"
     },
     {
-     "titolo": "In 30 mesi prescritte quasi 4.000 dosi di Fentanyl, indagato un medico aostano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/in-30-mesi-prescritte-quasi-4.000-dosi-di-fentanyl-indagato-un-medico-aostano_fb146102-cffb-4854-90d5-3beeaf45f6e5.html",
-     "data": "2026-10-05T17:50:54+00:00"
+     "titolo": "Provano a salire su volo per Tel Aviv con passaporti falsi, denunciati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/provano-a-salire-su-volo-per-tel-aviv-con-passaporti-falsi-denunciati_fe7238e5-8003-437e-ad83-6ddfae3ea8d5.html",
+     "data": "2026-10-06T10:52:29+00:00"
     },
     {
-     "titolo": "'A Gaza un anno dopo il cessate il fuoco la guerra non è mai finita'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/a-gaza-un-anno-dopo-il-cessate-il-fuoco-la-guerra-non-e-mai-finita_1a0af212-e20f-44ab-bbb2-ae01c30bbf44.html",
-     "data": "2026-10-05T16:55:00+00:00"
+     "titolo": "In arrivo due fronti perturbati con piogge da Nord a Sud",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/in-arrivo-due-fronti-perturbati-con-piogge-da-nord-a-sud_63adcf40-cad8-4aa9-a16b-c23233533256.html",
+     "data": "2026-10-06T10:47:37+00:00"
     },
     {
-     "titolo": "Legali genitori di Yara: 'Faremo il possibile per evitare un Garlasco 2'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/legali-genitori-di-yara-faremo-il-possibile-per-evitare-un-garlasco-2_b39e75eb-c9cd-40ae-9b13-3c1eed1704e5.html",
-     "data": "2026-10-05T15:30:06+00:00"
+     "titolo": "A Boscoreale una nuova 'casa' per circa 250 bambini",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/a-boscoreale-una-nuova-casa-per-circa-250-bambini_cada776a-6732-4a9c-8eee-de8e62f09a0f.html",
+     "data": "2026-10-06T10:45:45+00:00"
     }
    ]
   },
@@ -191,9 +191,29 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Legge elettorale: ok della Camera alla fiducia sull'articolo 1, 226 sì",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/legge-elettorale-alla-camera-la-chiama-sulla-fiducia-sugli-articolo-1-e-2_3b6319fb-ba23-405a-8f6e-c67558a8a218.html",
+     "data": "2026-10-06T13:18:55+00:00"
+    },
+    {
+     "titolo": "Conte: 'Schlein indisponibile ad un passo indietro, ma affrettiamoci sulle primarie'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/conte-schlein-indisponibile-a-passo-indietro-ma-affrettiamoci-su-primarie_6ec0fd14-fe8d-4642-a774-70d794f24db5.html",
+     "data": "2026-10-06T09:13:03+00:00"
+    },
+    {
+     "titolo": "Conte, governo inerte, la casa è un'emergenza anche in Italia",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/conte-governo-inerte-la-casa-e-unemergenza-anche-in-italia_9290d56b-e95a-480d-b84e-a1a64d7e2e26.html",
+     "data": "2026-10-06T08:58:51+00:00"
+    },
+    {
+     "titolo": "Approda a Roma il tour per i 150 anni di Corriere della Sera",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/approda-a-roma-il-tour-per-i-150-anni-di-corriere-della-sera_36c4ca55-74ef-4c5b-8926-5353e6b5e731.html",
+     "data": "2026-10-06T08:46:22+00:00"
+    },
+    {
      "titolo": "Il voto a maggio più vicino, e Meloni tutela la sua voce dai deepfake",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/il-voto-a-maggio-piu-vicino-e-meloni-tutela-la-sua-voce-dai-deepfake_166e0661-729d-445b-b106-17c3ea8888c6.html",
-     "data": "2026-10-05T21:19:00+00:00"
+     "data": "2026-10-06T09:01:05+00:00"
     },
     {
      "titolo": "Primarie e programma, il nodo dei tempi per il campo largo",
@@ -229,26 +249,6 @@
      "titolo": "Ranucci sospeso per dieci giorni dalla Rai",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/ranucci-sospeso-per-dieci-giorni-dalla-rai_e34a2d9f-28d4-4952-a31a-af50123acf6a.html",
      "data": "2026-10-05T15:17:26+00:00"
-    },
-    {
-     "titolo": "Le opposizioni: 'La maggioranza ha paura, schiaffo al Parlamento'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/le-opposizioni-la-maggioranza-ha-paura-schiaffo-al-parlamento_3f392105-0c45-42dd-9d04-e959fab31b54.html",
-     "data": "2026-10-05T14:42:35+00:00"
-    },
-    {
-     "titolo": "Il voto a maggio più vicino. Malan si sbilancia sull'election day",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/malan-potrebbe-esserci-lesigenza-di-votare-a-maggio-insieme-alle-comunali_1dc963ff-49ac-463e-8817-238d112b84e4.html",
-     "data": "2026-10-05T19:30:05+00:00"
-    },
-    {
-     "titolo": "Malan, potrebbe esserci l'esigenza di votare a maggio insieme alle comunali",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/malan-potrebbe-esserci-lesigenza-di-votare-a-maggio-insieme-alle-comunali_8030bf42-0e2b-43d4-8a6f-09b55e28d75f.html",
-     "data": "2026-10-05T14:07:36+00:00"
-    },
-    {
-     "titolo": "Il governo pone la fiducia sugli articoli 1-2-3 della legge elettorale",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/il-governo-pone-la-fiducia-sugli-articoli-1-2-3-della-legge-elettorale_72f11e68-9571-4369-b4e3-aa0adcc85cdf.html",
-     "data": "2026-10-05T12:16:01+00:00"
     }
    ]
   },
@@ -256,64 +256,64 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Euro in lieve calo, scambiato a 1,1208 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/euro-in-lieve-calo-scambiato-a-11208-dollari_36ac8dc6-a0f9-44a2-9528-beca923462a6.html",
-     "data": "2026-10-06T06:16:49+00:00"
+     "titolo": "Marcegaglia: 'Impatto enorme dei costi dell'energia, imprese non possono resistere molto'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/marcegaglia-impatto-enorme-dei-costi-dellenergia-imprese-non-possono-resistere_4fd882df-b63f-45cb-89b6-599da3c57f56.html",
+     "data": "2026-10-06T13:37:54+00:00"
     },
     {
-     "titolo": "Prezzo dell'oro in calo, Spot scambiato a 4.120 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/prezzo-delloro-in-calo-spot-scambiato-a-4.120-dollari_60d39cb3-f180-43c1-ac3e-88bc34f9a760.html",
-     "data": "2026-10-06T06:09:44+00:00"
+     "titolo": "Acea sbarca in Calabria, acquisito l'80% di Kratos",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/acea-sbarca-in-calabria-acquisito-l80-di-kratos_37bb6a53-160b-47c1-bbb2-3ebc25447daa.html",
+     "data": "2026-10-06T13:26:35+00:00"
     },
     {
-     "titolo": "Prezzo del petrolio in aumento, Wti scambiato a 89,76 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/prezzo-del-petrolio-in-aumento-wti-scambiato-a-8976-dollari_5a944350-02d0-46ef-b28c-3aff63e9b9b8.html",
-     "data": "2026-10-06T06:03:10+00:00"
+     "titolo": "Nel 2027 spesa pensioni a 366 miliardi, aumenta di 14,7 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/nel-2027-spesa-pensioni-a-366-miliardi-aumenta-di-147-miliardi_32591bcc-f532-44e0-8bbc-8f4d20ec7e61.html",
+     "data": "2026-10-06T13:20:31+00:00"
     },
     {
-     "titolo": "Greenpeace, Roma penultima in Europa su transizione a riscaldamento green",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/greenpeace-roma-penultima-in-europa-su-transizione-a-riscaldamento-green_9f4b09f2-0bf1-4d71-b6e6-84e6639e3cc3.html",
-     "data": "2026-10-05T22:01:47+00:00"
+     "titolo": "Il petrolio cede terreno a New York, a 87,05 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/il-petrolio-cede-terreno-a-new-york-a-8705-dollari_5cf065d4-62b8-4897-a6d1-e4da8106c884.html",
+     "data": "2026-10-06T13:15:00+00:00"
     },
     {
-     "titolo": "Scattano accise sul gasolio più alte, nessun decreto in Gazzetta",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/scattano-accise-sul-gasolio-piu-alte-nessun-decreto-in-gazzetta_664823dc-12a3-42e9-851b-f10f32a6c4dd.html",
-     "data": "2026-10-06T06:28:27+00:00"
+     "titolo": "Anci,'il bando per i balneari presenta criticità, rivedere il testo'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/anciil-bando-per-i-balneari-presenta-criticita-rivedere-il-testo_6e991e84-c8ec-45a2-889d-09850c045fb6.html",
+     "data": "2026-10-06T13:13:13+00:00"
     },
     {
-     "titolo": "Da domani accise sul gasolio più alte, nessun decreto in Gazzetta",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/da-domani-accise-sul-gasolio-piu-alte-nessun-decreto-in-gazzetta_18b8709d-c0ae-4e98-bf8d-fdc2ba8e357a.html",
-     "data": "2026-10-05T20:24:45+00:00"
+     "titolo": "Leo, accise mobili? Ci stiamo ragionando, non c'è una decisione presa",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/leo-accise-mobili-ci-stiamo-ragionando-non-ce-una-decisione-presa_180e04e9-b2e0-47a7-8d7b-7c96d788fcc2.html",
+     "data": "2026-10-06T12:36:56+00:00"
     },
     {
-     "titolo": "Nasce Giurify, piattaforma di IA per la consulenza legale",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/nasce-giurify-piattaforma-di-ia-per-la-consulenza-legale_f22cbfaf-91b5-4db7-8097-aeed9ba5a00c.html",
-     "data": "2026-10-05T18:33:37+00:00"
+     "titolo": "Whirlpool, 'supporto e risorse ai dipendenti interessati da chiusura sito'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/whirlpool-supporto-e-risorse-ai-dipendenti-interessati-da-chiusura-sito_a4b6bad7-33fa-4c10-8761-fa65a2a13936.html",
+     "data": "2026-10-06T12:12:08+00:00"
     },
     {
-     "titolo": "La pressione del fisco sale al 43,5%, manovra a caccia di coperture",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/la-pressione-del-fisco-sale-al-435-manovra-a-caccia-di-coperture_31adbb47-c2df-4404-b116-80312bb4d811.html",
-     "data": "2026-10-05T17:43:56+00:00"
+     "titolo": "Petrolio in deciso ribasso, Brent -2% a 98,3 dollari al barile",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/petrolio-in-deciso-ribasso-brent-2-a-983-dollari-al-barile_d785ded1-7b2c-4ca8-8862-0dd7a6744c82.html",
+     "data": "2026-10-06T11:59:31+00:00"
     },
     {
-     "titolo": "Fava (Inps), 'capire come il valore prodotto dall'IA possa tornare al welfare'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/fava-inps-capire-come-il-valore-prodotto-dallia-possa-tornare-al-welfare_75c6fa7e-bc4b-4090-abcd-25262e24771f.html",
-     "data": "2026-10-05T17:11:23+00:00"
+     "titolo": "Borsa: Milano tiene con l'Europa in attesa di Wall street, spread a 104 punti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/borsa-milano-tiene-con-leuropa-in-attesa-di-wall-street-spread-a-104_70d0b9da-2862-4881-8b6c-3421abd1c9f6.html",
+     "data": "2026-10-06T11:57:55+00:00"
     },
     {
-     "titolo": "Putin autorizza la riorganizzazione della divisione russa di UniCredit",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/putin-autorizza-la-riorganizzazione-della-divisione-russa-di-unicredit_201a0c1e-6c02-4fcb-ac58-2b6b4fccb201.html",
-     "data": "2026-10-05T16:39:18+00:00"
+     "titolo": "La Uil inaugura a Padova il murales 'Zero morti sul lavoro'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/la-uil-inaugura-a-padova-il-murales-zero-morti-sul-lavoro_4d5d40eb-4728-4d5d-b6ed-17e09cf4db08.html",
+     "data": "2026-10-06T11:58:19+00:00"
     },
     {
-     "titolo": "Borsa: Milano solida con Madrid e Amsterdam, lo spread tiene a 113 punti base",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/borsa-milano-solida-con-madrid-e-amsterdam-lo-spread-tiene-a-113-punti_2f0517f0-bfb4-4f56-a399-f1308711d9fc.html",
-     "data": "2026-10-05T16:35:50+00:00"
+     "titolo": "Inflazione al 4,3% nell'Ocse ad agosto trainata dai prezzi dell'energia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/inflazione-al-43-nellocse-ad-agosto-trainata-dai-prezzi-dellenergia_d7c2f293-00b4-4944-8721-a354dd04ff1e.html",
+     "data": "2026-10-06T11:48:43+00:00"
     },
     {
-     "titolo": "Urso, bene che Ericsson ha accolto la richiesta della premier Meloni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/urso-bene-che-ericsson-ha-accolto-la-richiesta-della-premier-meloni_3ae1d293-1be7-4a0c-91e7-d742427619e7.html",
-     "data": "2026-10-05T16:27:03+00:00"
+     "titolo": "Caro Benzina, più smart working per i dipendenti Fiere di Parma",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/caro-benzina-piu-smart-working-per-i-dipendenti-fiere-di-parma_659aea2f-07b8-4062-a7a4-01c9e86a7ed1.html",
+     "data": "2026-10-06T11:36:41+00:00"
     }
    ]
   },
@@ -321,64 +321,64 @@
    "nome": "Mondo",
    "voci": [
     {
-     "titolo": "Messico e Usa negoziano l'accordo commerciale 'senza tensioni politiche'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/messico-e-usa-negoziano-laccordo-commerciale-senza-tensioni-politiche_6c5686ec-1f90-45fb-862d-9c4014d15a36.html",
-     "data": "2026-10-06T03:45:02+00:00"
+     "titolo": "Via a manifestazioni studenti in Francia, tensione in diverse città",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/via-a-manifestazioni-studenti-in-francia-tensione-in-diverse-citta_815593dd-3456-49d9-83e7-a10e284e5e62.html",
+     "data": "2026-10-06T12:11:34+00:00"
     },
     {
-     "titolo": "Fmi stima in rialzo debito e inflazione in El Salvador",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/fmi-stima-in-rialzo-debito-e-inflazione-in-el-salvador_3ebc9f65-31e3-47f7-9384-1cdcc7d67387.html",
-     "data": "2026-10-06T02:27:49+00:00"
+     "titolo": "Rubio, Mosca condivida le informazioni sulla Siberia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/rubio-mosca-condivida-le-informazioni-sulla-siberia_b0536a50-6e6b-4ef2-a73e-89a627c1573e.html",
+     "data": "2026-10-06T11:48:36+00:00"
     },
     {
-     "titolo": "Costa Rica, pronto il nuovo carcere contro il crimine organizzato",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/costa-rica-pronto-il-nuovo-carcere-contro-il-crimine-organizzato_a811d15c-3927-4de8-b3db-3296ef87d07c.html",
-     "data": "2026-10-06T01:03:22+00:00"
+     "titolo": "Rubio, Mosca condivida le informazioni sulla Siberia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/06/rubio-mosca-condivida-le-informazioni-sulla-siberia_bf726be6-6cd4-4808-aef9-8613b826d50d.html",
+     "data": "2026-10-06T11:48:39+00:00"
     },
     {
-     "titolo": "Messico, 'media giornaliera dei femminicidi in calo del 36%'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/messico-media-giornaliera-dei-femminicidi-in-calo-del-36_45afed75-33de-4080-ae1b-a1ac2969d5a2.html",
-     "data": "2026-10-06T01:02:35+00:00"
+     "titolo": "Il Tribunale Supremo ha revocato l'ordine di arresto per Puigdemont",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/il-tribunale-supremo-ha-revocato-lordine-di-arresto-per-puigdemont_51dcbcc6-d455-4e92-8793-504a9158580a.html",
+     "data": "2026-10-06T11:20:18+00:00"
     },
     {
-     "titolo": "Bolivia, il presidente Paz riconosce Urioste come procuratore generale ad interim",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/bolivia-il-presidente-paz-riconosce-urioste-come-procuratore-generale-ad-interim_a40d8342-03a3-45ea-8687-3194cb98bcb0.html",
-     "data": "2026-10-05T22:48:48+00:00"
+     "titolo": "In Brasile torna l'ipotesi di scarcerare Jair Bolsonaro, decisione dopo ballottaggio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/in-brasile-torna-lipotesi-di-scarcerare-jair-bolsonaro-decisione-dopo-ballottaggio_a7142021-8cff-4d30-8a27-092789151add.html",
+     "data": "2026-10-06T10:44:06+00:00"
     },
     {
-     "titolo": "Uruguay, candombe, murga e milonga per accogliere Leone XIV",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/uruguay-candombe-murga-e-milonga-per-accogliere-leone-xiv_bba02ae1-87fd-4aa0-9fcf-73d04536c7b8.html",
-     "data": "2026-10-05T22:46:58+00:00"
+     "titolo": "La Corte costituzionale spagnola apre la strada all'amnistia per Puigdemont",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/la-corte-costituzionale-spagnola-apre-la-strada-allamnistia-per-puigdemont_85751950-067b-4434-8bab-a7b8e62fc86d.html",
+     "data": "2026-10-06T10:33:16+00:00"
     },
     {
-     "titolo": "Brasile, l'ex presidente Temer sostiene Bolsonaro al ballottaggio",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/brasile-lex-presidente-temer-sostiene-bolsonaro-al-ballottaggio_9a350b7a-78f3-4a37-9505-3b29dfebceb7.html",
-     "data": "2026-10-05T22:09:14+00:00"
+     "titolo": "Lula, 'non c'è motivo per cui non debba vincere al ballottaggio'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/lula-non-ce-motivo-per-cui-non-debba-vincere-al-ballottaggio_4806f3ed-ded0-45a6-a6bc-2a35b8a16ab8.html",
+     "data": "2026-10-06T09:43:44+00:00"
     },
     {
-     "titolo": "Houthi, 'abbiamo colpito l'aeroporto di Riad e una raffineria di Aramco'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/houthi-abbiamo-colpito-laeroporto-di-riad-e-una-raffineria-di-aramco_385f7316-960b-4858-8ccb-e4499f6f98d5.html",
-     "data": "2026-10-05T21:33:41+00:00"
+     "titolo": "Verso la scomparsa a Cuba la storica 'libreta' di approvvigionamento",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/verso-la-scomparsa-a-cuba-la-storica-libreta-di-approvvigionamento_e3d53ad9-c387-48c9-9a34-2ac1152c8a9d.html",
+     "data": "2026-10-06T08:53:15+00:00"
     },
     {
-     "titolo": "Foto inedite di Sinwar diffuse dalle Brigate al Qassem alla vigilia del 7 ottobre",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/foto-inedite-di-sinwar-diffuse-dalle-brigate-al-qassem-alla-vigilia-del_9637cf00-436e-4898-a474-827aa4bfee5c.html",
-     "data": "2026-10-05T21:32:02+00:00"
+     "titolo": "Filorussi, 3 uccisi e 3 feriti in raid ucraino su minibus in regione Zaporizhzhia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/filorussi-3-uccisi-e-3-feriti-in-raid-ucraino-su-minibus-in-regione-zaporizhzhia_3ff76381-446e-4df6-85cd-f2b018799d58.html",
+     "data": "2026-10-06T08:50:46+00:00"
     },
     {
-     "titolo": "Trump, il risultato di Bolsonaro in Brasile una 'grande vittoria'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/trump-il-risultato-di-bolsonaro-in-brasile-una-grande-vittoria_1bdb143c-ee82-4d2d-8517-ee26daee1309.html",
-     "data": "2026-10-05T20:21:21+00:00"
+     "titolo": "Media, ritiro Usa da base Fairford per minaccia attacco con droni iraniani",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/media-ritiro-usa-da-base-fairford-per-minaccia-attacco-con-droni_cfb62dfe-a840-4998-8497-b91d47dd9128.html",
+     "data": "2026-10-06T08:19:35+00:00"
     },
     {
-     "titolo": "Turchia e Pakistan invieranno forze militari in Arabia Saudita",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/turchia-e-pakistan-invieranno-forze-militari-in-arabia-saudita_f54efd4a-31ad-4e15-ad18-992d3d960763.html",
-     "data": "2026-10-05T19:09:26+00:00"
+     "titolo": "Media, ritiro Usa da base Fairford per minaccia attacco con droni iraniani",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/06/media-ritiro-usa-da-base-fairford-per-minaccia-attacco-con-droni_88188be8-ffb9-4ddd-81e5-c4146b627d95.html",
+     "data": "2026-10-06T08:19:54+00:00"
     },
     {
-     "titolo": "Il copilota, 'l'ho fatto per vendicare Gaza, volevo morire da martire'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/il-copilota-lho-fatto-per-vendicare-gaza-volevo-morire-da-martire_1e2c9160-ca11-4361-94d1-be7288146382.html",
-     "data": "2026-10-05T18:16:45+00:00"
+     "titolo": "Media, ritiro Usa da base Fairford per minaccia attacco con droni iraniani",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/06/media-ritiro-usa-da-base-fairford-per-minaccia-attacco-con-droni_b780b0f5-6a0b-4932-87d5-df77fcd74aa1.html",
+     "data": "2026-10-06T08:19:58+00:00"
     }
    ]
   },
@@ -451,64 +451,64 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Mancini: 'Sto ritrovando l'Italia, ma mi manca Vialli'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/mancini-sto-ritrovando-litalia-ma-mi-manca-vialli_a83ee525-3338-441e-992c-ca5efb08dbf1.html",
-     "data": "2026-10-05T21:35:58+00:00"
+     "titolo": "Malagò, nuove elezioni Figc saranno convocate per il 14 dicembre",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/malago-nuove-elezioni-figc-saranno-convocate-per-il-14-dicembre_2b1aabcf-5906-407a-9e79-eef7d5dde91b.html",
+     "data": "2026-10-06T13:22:27+00:00"
     },
     {
-     "titolo": "Nations League: l'Italia chiude in bellezza, a Bologna è 3-1 alla Turchia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-litalia-chiude-in-bellezza-a-bologna-e-3-1-alla-turchia_294cb6a1-8a5b-4345-b401-d99a94eaf076.html",
-     "data": "2026-10-05T21:36:55+00:00"
+     "titolo": "Figc: Buonfiglio, 'ho fatto prevalere regole e autonomia sport'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/figc-buonfiglio-ho-fatto-prevalere-regole-e-autonomia-sport_1b7e3455-7019-4332-b61b-0ca681045a33.html",
+     "data": "2026-10-06T13:20:04+00:00"
     },
     {
-     "titolo": "Nations League: Scamacca 'era importantissimo vincere'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-scamacca-era-importantissimo-vincere_2f1da7e6-a619-4e33-8aa0-be0fa9b3cbaf.html",
-     "data": "2026-10-05T20:52:00+00:00"
+     "titolo": "Figc: Malagò, 'vicenda triste e imbarazzante, poi vittoria del buon senso'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/figc-malago-vicenda-triste-e-imbarazzante-poi-vittoria-del-buon-senso_a1f1c536-1c13-4a13-b2c5-c379c697db08.html",
+     "data": "2026-10-06T13:14:09+00:00"
     },
     {
-     "titolo": "Nations League: Mancini 'sofferto all'inizio ma bravi a riprendere la partita'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-mancini-sofferto-allinizio-ma-bravi-a-riprendere-la-partita_df7fa1dc-e750-45f2-bfef-fb77b0818853.html",
-     "data": "2026-10-05T20:50:34+00:00"
+     "titolo": "Djokovic è tornato, vince il torneo di Pechino",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/06/djokovic-e-tornato-vince-il-torneo-di-pechino_1a2d3683-d770-4124-9ce7-69fee1edcd39.html",
+     "data": "2026-10-06T12:52:27+00:00"
     },
     {
-     "titolo": "Nations League: Francia-Belgio 4-1",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-francia-belgio-4-1_bfbe4f95-dc2f-44f3-be30-7e877909f898.html",
-     "data": "2026-10-05T20:41:53+00:00"
+     "titolo": "Figc, prossime elezioni dovranno tenersi entro il 31 gennaio 2027",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/figc-prossime-elezioni-dovranno-tenersi-entro-il-31-gennaio-2027_94d0a52f-81fa-4300-a358-f30183e2f046.html",
+     "data": "2026-10-06T12:41:48+00:00"
     },
     {
-     "titolo": "Calcio:Under 21; Baldini 'questi sono ragazzi speciali, sono troppo belli'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/calciounder-21-baldini-questi-sono-ragazzi-speciali-sono-troppo-belli_72a52857-3694-4383-bb6a-9e246fb1a9b4.html",
-     "data": "2026-10-05T18:32:49+00:00"
+     "titolo": "Consiglio Nazionale Coni, approvato all'unanimità Malagò commissario Figc",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/consiglio-nazionale-coni-approvato-allunanimita-malago-commissario-figc_0c04ef9d-c2f6-40fc-824e-e31e697b0fad.html",
+     "data": "2026-10-06T12:23:46+00:00"
     },
     {
-     "titolo": "Calcio: Under 21; Malagò, 'complimenti a Baldini, costruiamo il futuro'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/calcio-under-21-malago-complimenti-a-baldini-costruiamo-il-futuro_c308bc58-c8fa-4d75-acfa-7c154db819d9.html",
-     "data": "2026-10-05T18:26:20+00:00"
+     "titolo": "Sinner certo di perdere n.1 del mondo, sorpasso Zverev entro fine anno",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/06/sinner-certo-di-perdere-n.1-del-mondo-sorpasso-zverev-entro-fine_368ecf08-5fd9-4327-abcf-58cd48976582.html",
+     "data": "2026-10-06T12:09:56+00:00"
     },
     {
-     "titolo": "Calcio: 6-2 alla Polonia, l'Italia Under 21 si qualifica agli Europei 2027",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/calcio-6-2-alla-polonia-litalia-under-21-si-qualifica-agli-europei-2027_7e7acac7-5fa5-4913-893c-d5ca7b49f1ed.html",
-     "data": "2026-10-05T18:08:55+00:00"
+     "titolo": "Figc commissariata, i precedenti in quasi 130 anni di storia",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/figc-commissariata-i-precedenti-in-quasi-130-anni-di-storia_4f5480a1-2c19-4a2d-ab8b-9b2ec3b3a225.html",
+     "data": "2026-10-06T12:16:09+00:00"
     },
     {
-     "titolo": "Italia U.21 show, travolge la Polonia 6-2 e va agli Europei",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/calcio-6-2-alla-polonia-litalia-under-21-si-qualifica-agli-europei-2027_5fac3fa3-750b-416c-b77b-caf39eacdfcd.html",
-     "data": "2026-10-05T18:35:33+00:00"
+     "titolo": "Malagò commissario della Figc, la Giunta del Coni vota all'unanimità",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/06/malago-commissario-della-figc-la-giunta-del-coni-vota-allunanimita_4674284c-db5f-4be2-9d02-4d4ff65a52df.html",
+     "data": "2026-10-06T11:26:48+00:00"
     },
     {
-     "titolo": "Nations League: Mancini fa nove cambi, torna Romano",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-mancini-fa-nove-cambi-torna-romano_e1b8e4f6-c26d-40d3-a2ce-8b8b5cbcd5ed.html",
-     "data": "2026-10-05T17:44:10+00:00"
+     "titolo": "C'e' l'intesa, la Giunta nomina Malagò commissario della Figc",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/ce-lintesa-la-giunta-nomina-malago-commissario-della-figc_89b6efad-f9fb-4711-8db4-6ee5efca977c.html",
+     "data": "2026-10-06T11:27:45+00:00"
     },
     {
-     "titolo": "Figc: l'ora della verità al Coni, vicina soluzione con Malagò commissario",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/figc-vicina-una-soluzione-commissariamento-ma-con-malago_33a03618-124c-4095-9c6f-6d303b935ba9.html",
-     "data": "2026-10-05T18:33:10+00:00"
+     "titolo": "Figc: commissariamento ed elezioni, cosa dice il regolamento",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/figc-commissariamento-ed-elezioni-cosa-dice-il-regolamento_63313952-7788-478f-a8d0-ccd68cee7889.html",
+     "data": "2026-10-06T11:23:52+00:00"
     },
     {
-     "titolo": "Ciccone contesta 2/o posto agli Europei, voglio vedere il fotofinish su linea arrivo",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/05/ciccone-contesta-2o-posto-agli-europei-voglio-vedere-il-fotofinish-su-linea-arrivo_ceffe3b0-f837-4e1d-b761-d0c462eb4a45.html",
-     "data": "2026-10-05T16:57:34+00:00"
+     "titolo": "Alcaraz concede il bis a Tokyo, lo spagnolo torna a vincere",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/06/alcaraz-concede-il-bis-a-tokyo-lo-spagnolo-torna-a-vincere_6d12baa3-0b51-40eb-be52-caf34be5ae03.html",
+     "data": "2026-10-06T11:13:15+00:00"
     }
    ]
   }
