@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-10-06T19:08:56.564007+00:00",
+ "aggiornato": "2026-10-06T23:07:39.557536+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Christa Pike ha ripreso conoscenza e parla",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/christa-pike-ha-ripreso-conoscenza-e-parla_d382c5fa-d2b2-4535-9a37-3a42adda6df7.html",
+     "data": "2026-10-06T21:19:32+00:00"
+    },
+    {
+     "titolo": "Tensione Forza Italia in Sicilia, dura telefonata Tajani-Schifani",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/tensione-forza-italia-in-sicilia-dura-telefonata-tajani-schifani_871fecb0-0b9d-4ecb-95d1-8c54e5f3e10f.html",
+     "data": "2026-10-06T20:35:55+00:00"
+    },
+    {
+     "titolo": "Attentato di Modena, El Koudri tenta il suicidio in carcere",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/attentato-di-modena-el-koudri-tenta-il-suicidio-in-carcere_2b8658de-56e0-41e1-a715-dff2ba0ca09c.html",
+     "data": "2026-10-06T20:32:07+00:00"
+    },
     {
      "titolo": "Sempio, 'nessun errore giudiziario su Alberto Stasi, condanna giusta'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/sempio-nessun-errore-giudiziario-su-alberto-stasi-condanna-giusta_1e432088-a63b-4988-825a-885694495451.html",
@@ -39,21 +54,6 @@
      "titolo": "Fonti, 'a Ecofin non atteso confronto su flessibilità, punto su extraprofitti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/fonti-a-ecofin-non-atteso-confronto-su-flessibilita-punto-su-extraprofitti_86ccfef0-37de-41f2-abd9-94128b62bc27.html",
      "data": "2026-10-06T15:56:13+00:00"
-    },
-    {
-     "titolo": "Ok della Camera alla fiducia sui primi due articoli della legge elettorale",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/ok-della-camera-alla-fiducia-sui-primi-due-articoli-della-legge_eb322fae-ebde-4ee2-ab0f-4a96025a72af.html",
-     "data": "2026-10-06T15:53:02+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in rialzo, Ftse Mib +0,87%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/borsa-milano-chiude-in-rialzo-ftse-mib-087_8578779e-dff3-4efd-b570-8c6ec6370139.html",
-     "data": "2026-10-06T15:44:39+00:00"
-    },
-    {
-     "titolo": "Nuovo incontro sull'ex Ilva l'8 ottobre a Palazzo Chigi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/nuovo-incontro-sullex-ilva-l8-ottobre-a-palazzo-chigi_4606a0d8-7594-4aa5-9f5c-fcf486148bc5.html",
-     "data": "2026-10-06T15:36:32+00:00"
     }
    ]
   },
@@ -126,6 +126,26 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Attentato di Modena, El Koudri tenta il suicidio in carcere",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/attentato-di-modena-el-koudri-tenta-il-suicidio-in-carcere_e9afa7c7-4a56-4ee2-9033-152b54267248.html",
+     "data": "2026-10-06T20:31:51+00:00"
+    },
+    {
+     "titolo": "Attentato di Modena, El Koudri tenta il suicidio in carcere",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/attentato-di-modena-el-koudri-tenta-il-suicidio-in-carcere_dc8802dc-c3f5-4b75-822e-36576ccf9789.html",
+     "data": "2026-10-06T20:56:53+00:00"
+    },
+    {
+     "titolo": "Le voci dei ragazzi a Parigi: 'Noi sacrificati, basta precarietà'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/le-voci-dei-ragazzi-a-parigi-noi-sacrificati-basta-precarieta_36ddef56-7dda-48f6-9566-69831d17e428.html",
+     "data": "2026-10-06T19:17:46+00:00"
+    },
+    {
+     "titolo": "La studentessa italiana a Parigi: 'I ragazzi protetti dai prof'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/la-studentessa-italiana-a-parigi-i-ragazzi-protetti-dai-prof_e9418ce6-2736-4c6a-89e8-f2b9f22aa7d6.html",
+     "data": "2026-10-06T19:19:54+00:00"
+    },
+    {
      "titolo": "Peste in Siberia, le tre risposte che potranno fare chiarezza",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/peste-in-siberia-le-tre-risposte-che-potranno-fare-chiarezza_ae08757e-7c6c-4501-a4f5-c304b6994e4f.html",
      "data": "2026-10-06T18:18:51+00:00"
@@ -164,26 +184,6 @@
      "titolo": "Prof salva col defibrillatore 17enne, attacco cardiaco a educazione fisica",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/prof-salva-col-defibrillatore-17enne-attacco-cardiaco-a-educazione-fisica_4927066e-52f3-4df5-a6c4-19f1689498ad.html",
      "data": "2026-10-06T15:37:48+00:00"
-    },
-    {
-     "titolo": "Cade da impalcatura, grave operaio 20enne in Friuli",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/cade-da-impalcatura-grave-operaio-20enne-in-friuli_da81204f-2676-462c-a149-3442f2367587.html",
-     "data": "2026-10-06T15:27:15+00:00"
-    },
-    {
-     "titolo": "Parte il processo a Boccia, tra i testi citata anche Arianna Meloni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/parte-il-processo-a-boccia-tra-i-testi-citata-anche-arianna-meloni_59eba7bc-98ea-4d9b-941f-64986b2d9aaa.html",
-     "data": "2026-10-06T15:59:16+00:00"
-    },
-    {
-     "titolo": "A Trieste Nave Amerigo Vespucci e il Villaggio IN Italia",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/a-trieste-nave-amerigo-vespucci-e-il-villaggio-in-italia_506cfde7-79e1-4ede-be02-824e744bb07d.html",
-     "data": "2026-10-06T14:38:11+00:00"
-    },
-    {
-     "titolo": "Tumori, De Paoli è il primo presidente del network oncologico europeo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/tumori-de-paoli-e-il-primo-presidente-del-network-oncologico-europeo_c5d1c078-9ffd-4b10-9c7c-ed490b979a64.html",
-     "data": "2026-10-06T14:38:37+00:00"
     }
    ]
   },
@@ -191,14 +191,34 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Forza Italia non vuole Schifani bis, il governatore medita le dimissioni",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/forza-italia-non-vuole-schifani-bis-il-governatore-medita-le-dimissioni_10a3f0a4-f06d-4bbc-93b5-a265ebf350d6.html",
+     "data": "2026-10-06T21:11:06+00:00"
+    },
+    {
+     "titolo": "Ucei, 'nostri giovani hanno paura, oggi più che mai vivere a testa alta'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/ucei-nostri-giovani-hanno-paura-oggi-piu-che-mai-vivere_a4b97360-46ec-4fae-8f7d-29b94652e6f4.html",
+     "data": "2026-10-06T20:41:51+00:00"
+    },
+    {
+     "titolo": "Tensione Forza Italia in Sicilia, dura telefonata Tajani-Schifani",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/tensione-forza-italia-in-sicilia-dura-telefonata-tajani-schifani_48151ede-4313-42f3-b5e9-e0d70e25b697.html",
+     "data": "2026-10-06T20:35:59+00:00"
+    },
+    {
+     "titolo": "Nel centrodestra la partita del voto anticipato, scetticismo di Lega e Fi",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/nel-centrodestra-la-partita-del-voto-anticipato-scetticismo-di-lega-e-fi_50ced7b2-af92-411a-9262-d116362116c3.html",
+     "data": "2026-10-06T20:15:39+00:00"
+    },
+    {
      "titolo": "Trump a gamba tesa su Parigi: 'Le proteste colpa di Islam e immigrati'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/trump-a-gamba-tesa-su-parigi-le-proteste-colpa-di-islam-e-immigrati_6241c37e-e987-4d5a-ad81-42ec58c9f053.html",
      "data": "2026-10-06T18:32:58+00:00"
     },
     {
-     "titolo": "Nuovo attacco di Vannacci a Cerno, il cda Rai: 'Parole inaccettabili'",
+     "titolo": "'Cerno ha gusti invertiti', scontro Vannacci-Rai",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/nuovo-attacco-di-vannacci-a-cerno-il-cda-rai-parole-inaccettabili_ceba8625-7aa5-4e59-8bbd-b7a0d5f52fea.html",
-     "data": "2026-10-06T18:08:39+00:00"
+     "data": "2026-10-06T19:13:32+00:00"
     },
     {
      "titolo": "I leader delle fedi ad Assisi con Leone, in preghiera per la pace",
@@ -216,9 +236,9 @@
      "data": "2026-10-06T15:53:08+00:00"
     },
     {
-     "titolo": "Legge elettorale: ok della Camera alla fiducia sull'articolo 2, 227 sì",
+     "titolo": "Il Governo incassa la doppia fiducia sulla legge elettorale, occhi puntati su giovedì",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/legge-elettorale-ok-della-camera-alla-fiducia-sullarticolo-2-227-si_3b6319fb-ba23-405a-8f6e-c67558a8a218.html",
-     "data": "2026-10-06T16:27:29+00:00"
+     "data": "2026-10-06T19:30:54+00:00"
     },
     {
      "titolo": "Il caso Bartolozzi in Consulta, il nodo del conflitto di attribuzione",
@@ -229,21 +249,6 @@
      "titolo": "Pressing di Conte per le primarie, 'dobbiamo affrettarci'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/conte-schlein-indisponibile-a-passo-indietro-ma-affrettiamoci-su-primarie_6ec0fd14-fe8d-4642-a774-70d794f24db5.html",
      "data": "2026-10-06T18:26:58+00:00"
-    },
-    {
-     "titolo": "Conte, governo inerte, la casa è un'emergenza anche in Italia",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/conte-governo-inerte-la-casa-e-unemergenza-anche-in-italia_9290d56b-e95a-480d-b84e-a1a64d7e2e26.html",
-     "data": "2026-10-06T08:58:51+00:00"
-    },
-    {
-     "titolo": "Approda a Roma il tour per i 150 anni di Corriere della Sera",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/approda-a-roma-il-tour-per-i-150-anni-di-corriere-della-sera_36c4ca55-74ef-4c5b-8926-5353e6b5e731.html",
-     "data": "2026-10-06T08:46:22+00:00"
-    },
-    {
-     "titolo": "Il voto a maggio più vicino, e Meloni tutela la sua voce dai deepfake",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/il-voto-a-maggio-piu-vicino-e-meloni-tutela-la-sua-voce-dai-deepfake_166e0661-729d-445b-b106-17c3ea8888c6.html",
-     "data": "2026-10-06T09:01:05+00:00"
     }
    ]
   },
@@ -316,6 +321,41 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Messico, arrestato leader regionale del Cártel Jalisco Nueva Generación",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/messico-arrestato-leader-regionale-del-cartel-jalisco-nueva-generacion_c5c23332-15ec-4357-8295-e4612e63f8bc.html",
+     "data": "2026-10-06T22:07:35+00:00"
+    },
+    {
+     "titolo": "Anche il reclamo delle Malvinas al centro dell'omaggio a Messi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/anche-il-reclamo-delle-malvinas-al-centro-dellomaggio-a-messi_58161172-3b8a-44e6-a60a-74baaba25d58.html",
+     "data": "2026-10-06T22:02:05+00:00"
+    },
+    {
+     "titolo": "Bolivia, trovati oltre 2,5 milioni di dollari nella casa dell'ex procuratore generale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/bolivia-trovati-oltre-25-milioni-di-dollari-nella-casa-dellex-procuratore-generale_d9406d50-a97c-4525-a7ae-812b306d1f96.html",
+     "data": "2026-10-06T21:42:03+00:00"
+    },
+    {
+     "titolo": "Venezuela, quattro detenuti tra i 63 e i 72 anni morti in carcere in appena 12 giorni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/venezuela-quattro-detenuti-tra-i-63-e-i-72-anni-morti-in-carcere-in-appena-12-giorni_eb06b85f-5acf-4f55-acd9-ee78efee92cb.html",
+     "data": "2026-10-06T21:28:13+00:00"
+    },
+    {
+     "titolo": "Christa Pike ha ripreso conoscenza e parla",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/06/christa-pike-ha-ripreso-conoscenza-e-parla_dec8773c-4ac1-4497-a2fb-91e2941d0b81.html",
+     "data": "2026-10-06T21:19:50+00:00"
+    },
+    {
+     "titolo": "Due iniezioni letali, Christa Pike ha ripreso conoscenza e parla",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/06/due-iniezioni-letali-christa-pike-ha-ripreso-conoscenza-e-parla_bce4583f-1380-494d-b431-921fe2f8c54a.html",
+     "data": "2026-10-06T21:21:56+00:00"
+    },
+    {
+     "titolo": "Nuova sentenza della giustizia argentina a favore delle università pubbliche",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/nuova-sentenza-della-giustizia-argentina-a-favore-delle-universita-pubbliche_476a81de-b462-4b63-b1d6-2b6127b564ae.html",
+     "data": "2026-10-06T19:55:39+00:00"
+    },
+    {
      "titolo": "Banca Mondiale, l'America Latina nel 2026 cresce al 2,2% al di sotto del potenziale",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/banca-mondiale-lamerica-latina-nel-2026-cresce-al-22-al-di-sotto-del-potenziale_0e417f25-40bb-4a61-9f76-4fa2879b0008.html",
      "data": "2026-10-06T18:58:27+00:00"
@@ -339,41 +379,6 @@
      "titolo": "Trump, 'Islam e immigrazione responsabili di quanto accade in Francia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/06/trump-islam-e-immigrazione-responsabili-di-quanto-accade-in-francia_ab6404b4-e619-4f46-95cc-8974b26f67dd.html",
      "data": "2026-10-06T16:18:30+00:00"
-    },
-    {
-     "titolo": "Governatrice New York dichiara lo stato di emergenza per il morbillo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/06/governatrice-new-york-dichiara-lo-stato-di-emergenza-per-il-morbillo_2a59f487-90fe-41d5-bf31-f7aaf606153b.html",
-     "data": "2026-10-06T16:17:03+00:00"
-    },
-    {
-     "titolo": "Scontri al corteo degli studenti, barricate e lacrimogeni a Strasburgo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/scontri-al-corteo-degli-studenti-barricate-e-lacrimogeni-a-strasburgo_8ce1e678-b7b7-42f0-8164-d014c7fd2f51.html",
-     "data": "2026-10-06T16:17:28+00:00"
-    },
-    {
-     "titolo": "Ue, nei futuri trattati clausole specifiche per chi viola i valori europei",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/ue-nei-futuri-trattati-clausole-specifiche-per-chi-viola-i-valori-europei_9aa21684-20f6-44d7-b154-55789abb7352.html",
-     "data": "2026-10-06T14:23:21+00:00"
-    },
-    {
-     "titolo": "Scontri al corteo studentesco a Parigi, polizia lancia lacrimogeni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/scontri-al-corteo-studentesco-a-parigi-polizia-lancia-lacrimogeni_3938bbcc-2c4d-4576-afe6-71f292063f3d.html",
-     "data": "2026-10-06T14:21:09+00:00"
-    },
-    {
-     "titolo": "Via a manifestazioni studenti in Francia, tensione in diverse città",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/via-a-manifestazioni-studenti-in-francia-tensione-in-diverse-citta_815593dd-3456-49d9-83e7-a10e284e5e62.html",
-     "data": "2026-10-06T12:11:34+00:00"
-    },
-    {
-     "titolo": "Rubio, Mosca condivida le informazioni sulla Siberia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/rubio-mosca-condivida-le-informazioni-sulla-siberia_b0536a50-6e6b-4ef2-a73e-89a627c1573e.html",
-     "data": "2026-10-06T11:48:36+00:00"
-    },
-    {
-     "titolo": "Rubio, Mosca condivida le informazioni sulla Siberia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/06/rubio-mosca-condivida-le-informazioni-sulla-siberia_bf726be6-6cd4-4808-aef9-8613b826d50d.html",
-     "data": "2026-10-06T11:48:39+00:00"
     }
    ]
   },
@@ -446,6 +451,31 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Nations League: Croazia-Spagna 1-2",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/nations-league-croazia-spagna-1-2_94e71d6f-11a1-4ded-b105-5e76c83be983.html",
+     "data": "2026-10-06T21:19:46+00:00"
+    },
+    {
+     "titolo": "Nations League: Inghilterra-Repubblica Ceca 3-0",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/nations-league-inghilterra-repubblica-ceca-3-0_c42828a3-c1d4-442f-89eb-3bd923667673.html",
+     "data": "2026-10-06T21:01:53+00:00"
+    },
+    {
+     "titolo": "Cristiano Ronaldo apre al ritorno in Nazionale e fa mea culpa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/cristiano-ronaldo-chiede-scusa-e-si-dice-disponibile-a-tornare-in-nazionale_4105c13f-ac75-4caa-91db-1c8157e2a421.html",
+     "data": "2026-10-06T20:44:16+00:00"
+    },
+    {
+     "titolo": "Calcio: Mancini, un onore essere compagno e amico di Vialli",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/calcio-mancini-un-onore-essere-compagno-e-amico-di-vialli_0657abd3-9012-4cbf-ad07-fcb978a94b51.html",
+     "data": "2026-10-06T19:08:50+00:00"
+    },
+    {
+     "titolo": "Cricket: tre giorni di gare e condivisione al Trofeo Coni 2026",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/06/cricket-tre-giorni-di-gare-e-condivisione-al-trofeo-coni-2026_e1f508a4-c323-4bf4-b985-b5986d437ad1.html",
+     "data": "2026-10-06T19:06:01+00:00"
+    },
+    {
      "titolo": "Neymar omaggia Messi, 'ti è grato il mondo intero, non solo l'Argentina'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/neymar-omaggia-messi-ti-e-grato-il-mondo-intero-non-solo-largentina_98983f6d-ba65-47a4-8db1-f3bac9e83140.html",
      "data": "2026-10-06T18:22:42+00:00"
@@ -479,31 +509,6 @@
      "titolo": "Figc: Abodi \"sempre sostenuto rispetto delle regole e l'autonomia dello sport\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/figc-abodi-sempre-sostenuto-rispetto-delle-regole-e-lautonomia-dello-sport_c4cdee38-42fa-4096-ac1d-e72a33b6b848.html",
      "data": "2026-10-06T16:42:11+00:00"
-    },
-    {
-     "titolo": "L'Eurolega rifiuta offerta della Nba, ma conversazione resta aperta",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/06/leurolega-rifiuta-offerta-della-nba-ma-conversazione-resta-aperta_7af09d95-79fa-4481-b234-3682f2d22777.html",
-     "data": "2026-10-06T15:58:37+00:00"
-    },
-    {
-     "titolo": "Figc: Lega Serie A 'benedice' nomina Malagò, \"giusta soluzione\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/figc-lega-serie-a-benedice-nomina-malago-giusta-soluzione_8addf825-f04a-45d0-a5cc-b8af7eb9667f.html",
-     "data": "2026-10-06T15:51:10+00:00"
-    },
-    {
-     "titolo": "Ciclismo: a Widar la Tre Valli Varesine, tra le donne vince Gasparrini",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/06/ciclismo-a-widar-la-tre-valli-varesine-tra-le-donne-vince-gasparrini_dabf041d-bea1-404c-8955-2a19b772765d.html",
-     "data": "2026-10-06T16:26:08+00:00"
-    },
-    {
-     "titolo": "Tennis, Sinner chiude la stagione e saluta il primato Atp: Devo curarmi per il futuro'",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/06/tennis-sinner-chiude-la-stagione-e-saluta-il-primato-atp-devo-curarmi-per_c4749f64-078a-4596-abf4-248e8e4e33f8.html",
-     "data": "2026-10-06T15:45:05+00:00"
-    },
-    {
-     "titolo": "Messi prima dell'ultimo tango: 'Momenti speciali che mi mancheranno'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/calcio-messi-prima-dellultimo-tango-momenti-speciali-che-mi-mancheranno_80c43563-0be1-4e5e-b81f-e6e1db107c64.html",
-     "data": "2026-10-06T15:53:34+00:00"
     }
    ]
   }
