@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-10-06T00:24:44.570956+00:00",
+ "aggiornato": "2026-10-06T06:34:37.600680+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Russia, 'sale a 2 morti il bilancio del maxi attacco droni ucraini su regione Mosca'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/russia-sale-a-2-morti-il-bilancio-del-maxi-attacco-droni-ucraini-su-regione_21711809-62af-42cf-98d7-6b8734b55e0a.html",
+     "data": "2026-10-06T06:31:37+00:00"
+    },
     {
      "titolo": "Houthi, 'abbiamo colpito l'aeroporto di Riad e una raffineria di Aramco'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/houthi-abbiamo-colpito-laeroporto-di-riad-e-una-raffineria-di-aramco_637eb0fd-e497-4481-9057-99c6bc63522f.html",
@@ -18,7 +23,7 @@
     {
      "titolo": "Da domani accise sul gasolio più alte, nessun decreto in Gazzetta",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/da-domani-accise-sul-gasolio-piu-alte-nessun-decreto-in-gazzetta_b79776ad-0865-4292-9ca1-0f880559675b.html",
-     "data": "2026-10-05T20:24:47+00:00"
+     "data": "2026-10-06T06:28:58+00:00"
     },
     {
      "titolo": "Trump, il risultato di Bolsonaro in Brasile una 'grande vittoria'",
@@ -49,11 +54,6 @@
      "titolo": "Corte Bergamo rigetta la richiesta di nuove analisi sui reperti di Yara",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/corte-bergamo-rigetta-la-richiesta-di-nuove-analisi-sui-reperti-di-yara_f9b31511-dc4b-4a6e-8bf8-8dd1f40aa72b.html",
      "data": "2026-10-05T16:27:57+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude stabile a 113 punti base",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/lo-spread-tra-btp-e-bund-chiude-stabile-a-113-punti-base_e326734e-ff2e-450e-a1d3-018f0f431959.html",
-     "data": "2026-10-05T16:09:19+00:00"
     }
    ]
   },
@@ -126,9 +126,9 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Esplosione nel centro di Bergamo per una fuga di gas, 8 feriti",
+     "titolo": "Palazzina inagibile dopo l'esplosione a Bergamo, circa 50 gli sfollati",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/esplosione-nel-centro-di-bergamo-per-una-fuga-di-gas-8-feriti_f192acd0-1cec-4e0e-9b4f-7667f4c0cb97.html",
-     "data": "2026-10-05T21:15:13+00:00"
+     "data": "2026-10-06T03:57:37+00:00"
     },
     {
      "titolo": "Esplosione in una casa a Bergamo, due feriti in codice rosso",
@@ -256,6 +256,21 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Euro in lieve calo, scambiato a 1,1208 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/euro-in-lieve-calo-scambiato-a-11208-dollari_36ac8dc6-a0f9-44a2-9528-beca923462a6.html",
+     "data": "2026-10-06T06:16:49+00:00"
+    },
+    {
+     "titolo": "Prezzo dell'oro in calo, Spot scambiato a 4.120 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/prezzo-delloro-in-calo-spot-scambiato-a-4.120-dollari_60d39cb3-f180-43c1-ac3e-88bc34f9a760.html",
+     "data": "2026-10-06T06:09:44+00:00"
+    },
+    {
+     "titolo": "Prezzo del petrolio in aumento, Wti scambiato a 89,76 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/prezzo-del-petrolio-in-aumento-wti-scambiato-a-8976-dollari_5a944350-02d0-46ef-b28c-3aff63e9b9b8.html",
+     "data": "2026-10-06T06:03:10+00:00"
+    },
+    {
      "titolo": "Greenpeace, Roma penultima in Europa su transizione a riscaldamento green",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/greenpeace-roma-penultima-in-europa-su-transizione-a-riscaldamento-green_9f4b09f2-0bf1-4d71-b6e6-84e6639e3cc3.html",
      "data": "2026-10-05T22:01:47+00:00"
@@ -263,7 +278,7 @@
     {
      "titolo": "Scattano accise sul gasolio più alte, nessun decreto in Gazzetta",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/scattano-accise-sul-gasolio-piu-alte-nessun-decreto-in-gazzetta_664823dc-12a3-42e9-851b-f10f32a6c4dd.html",
-     "data": "2026-10-05T20:48:53+00:00"
+     "data": "2026-10-06T06:28:27+00:00"
     },
     {
      "titolo": "Da domani accise sul gasolio più alte, nessun decreto in Gazzetta",
@@ -299,27 +314,32 @@
      "titolo": "Urso, bene che Ericsson ha accolto la richiesta della premier Meloni",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/urso-bene-che-ericsson-ha-accolto-la-richiesta-della-premier-meloni_3ae1d293-1be7-4a0c-91e7-d742427619e7.html",
      "data": "2026-10-05T16:27:03+00:00"
-    },
-    {
-     "titolo": "Gli stranieri in Italia spendono il 2% più degli italiani al supermercato",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/gli-stranieri-in-italia-spendono-il-2-piu-degli-italiani-al-supermercato_5922fde5-57e3-476d-8b69-0f39f90ef2b8.html",
-     "data": "2026-10-05T16:15:51+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude stabile a 113 punti base",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/lo-spread-tra-btp-e-bund-chiude-stabile-a-113-punti-base_af495925-ff74-4a37-97f3-0d782f2d1b1d.html",
-     "data": "2026-10-05T16:09:16+00:00"
-    },
-    {
-     "titolo": "Il gas in calo (-2%) a 73 euro al Megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/il-gas-in-calo-2-a-73-euro-al-megawattora_9a11b6cd-5afd-450a-b5e8-72a4be0d0bfe.html",
-     "data": "2026-10-05T16:09:58+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Messico e Usa negoziano l'accordo commerciale 'senza tensioni politiche'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/messico-e-usa-negoziano-laccordo-commerciale-senza-tensioni-politiche_6c5686ec-1f90-45fb-862d-9c4014d15a36.html",
+     "data": "2026-10-06T03:45:02+00:00"
+    },
+    {
+     "titolo": "Fmi stima in rialzo debito e inflazione in El Salvador",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/fmi-stima-in-rialzo-debito-e-inflazione-in-el-salvador_3ebc9f65-31e3-47f7-9384-1cdcc7d67387.html",
+     "data": "2026-10-06T02:27:49+00:00"
+    },
+    {
+     "titolo": "Costa Rica, pronto il nuovo carcere contro il crimine organizzato",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/costa-rica-pronto-il-nuovo-carcere-contro-il-crimine-organizzato_a811d15c-3927-4de8-b3db-3296ef87d07c.html",
+     "data": "2026-10-06T01:03:22+00:00"
+    },
+    {
+     "titolo": "Messico, 'media giornaliera dei femminicidi in calo del 36%'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/messico-media-giornaliera-dei-femminicidi-in-calo-del-36_45afed75-33de-4080-ae1b-a1ac2969d5a2.html",
+     "data": "2026-10-06T01:02:35+00:00"
+    },
     {
      "titolo": "Bolivia, il presidente Paz riconosce Urioste come procuratore generale ad interim",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/bolivia-il-presidente-paz-riconosce-urioste-come-procuratore-generale-ad-interim_a40d8342-03a3-45ea-8687-3194cb98bcb0.html",
@@ -359,26 +379,6 @@
      "titolo": "Il copilota, 'l'ho fatto per vendicare Gaza, volevo morire da martire'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/il-copilota-lho-fatto-per-vendicare-gaza-volevo-morire-da-martire_1e2c9160-ca11-4361-94d1-be7288146382.html",
      "data": "2026-10-05T18:16:45+00:00"
-    },
-    {
-     "titolo": "Gli studenti tornano in piazza, la Francia teme il caos generale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/gli-studenti-tornano-in-piazza-la-francia-teme-il-caos-generale_165e5e2d-a588-490e-a3ca-a745a8340512.html",
-     "data": "2026-10-05T17:26:35+00:00"
-    },
-    {
-     "titolo": "Lo Yemen riconquista lo Stretto di Bab el-Mandeb, Houthi: colpito lo scalo di Riad",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/lo-yemen-riconquista-il-controllo-dello-stretto-di-bab-el-mandeb_c71b1ec7-3e28-462a-8e87-a033e3bf1c63.html",
-     "data": "2026-10-05T21:38:28+00:00"
-    },
-    {
-     "titolo": "Brasile, Erika Hilton è la donna più votata della storia alla Camera",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/brasile-erika-hilton-e-la-donna-piu-votata-della-storia-alla-camera_9f95f60b-8e78-449b-b6c0-09c721e1ef92.html",
-     "data": "2026-10-05T17:02:50+00:00"
-    },
-    {
-     "titolo": "Rabbia e voglia di riscatto, la serata da incubo dei lulistas",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/rabbia-e-voglia-di-riscatto-la-serata-da-incubo-dei-lulistas_7ed8ff8c-6d33-4b03-883c-5555166e7812.html",
-     "data": "2026-10-05T16:36:59+00:00"
     }
    ]
   },
