@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-10-05T18:38:37.326210+00:00",
+ "aggiornato": "2026-10-06T00:24:44.570956+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Houthi, 'abbiamo colpito l'aeroporto di Riad e una raffineria di Aramco'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/houthi-abbiamo-colpito-laeroporto-di-riad-e-una-raffineria-di-aramco_637eb0fd-e497-4481-9057-99c6bc63522f.html",
+     "data": "2026-10-05T21:33:42+00:00"
+    },
+    {
+     "titolo": "Nations League: Mancini 'sofferto all'inizio ma bravi a riprendere la partita'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/nations-league-mancini-sofferto-allinizio-ma-bravi-a-riprendere-la-partita_c4f0deaf-7f58-4579-a588-51bc09859c4f.html",
+     "data": "2026-10-05T20:50:38+00:00"
+    },
+    {
+     "titolo": "Da domani accise sul gasolio più alte, nessun decreto in Gazzetta",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/da-domani-accise-sul-gasolio-piu-alte-nessun-decreto-in-gazzetta_b79776ad-0865-4292-9ca1-0f880559675b.html",
+     "data": "2026-10-05T20:24:47+00:00"
+    },
+    {
+     "titolo": "Trump, il risultato di Bolsonaro in Brasile una 'grande vittoria'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/trump-il-risultato-di-bolsonaro-in-brasile-una-grande-vittoria_4f928575-3079-45a6-b4ae-0ea99dac62a1.html",
+     "data": "2026-10-05T20:21:18+00:00"
+    },
+    {
+     "titolo": "Turchia e Pakistan invieranno forze militari in Arabia Saudita",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/turchia-e-pakistan-invieranno-forze-militari-in-arabia-saudita_160ab548-9023-4a59-8046-279a1f95a0bf.html",
+     "data": "2026-10-05T19:09:07+00:00"
+    },
     {
      "titolo": "Il copilota, 'l'ho fatto per vendicare Gaza, volevo morire da martire'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/il-copilota-lho-fatto-per-vendicare-gaza-volevo-morire-da-martire_56884ce4-93a0-4a9a-86a3-918d6a034c8d.html",
@@ -29,31 +54,6 @@
      "titolo": "Lo spread tra Btp e Bund chiude stabile a 113 punti base",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/lo-spread-tra-btp-e-bund-chiude-stabile-a-113-punti-base_e326734e-ff2e-450e-a1d3-018f0f431959.html",
      "data": "2026-10-05T16:09:19+00:00"
-    },
-    {
-     "titolo": "Il gas in calo (-2%) a 73 euro al Megawattora",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/il-gas-in-calo-2-a-73-euro-al-megawattora_1d68a805-4f99-4401-a02d-5480b685d62f.html",
-     "data": "2026-10-05T16:09:59+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa conclude in tenuta, Londra +0,3%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/borsa-leuropa-conclude-in-tenuta-londra-03_b9b4af87-a758-4fa1-bfa4-f38942f0969b.html",
-     "data": "2026-10-05T15:46:45+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in rialzo, Ftse Mib +0,66%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/borsa-milano-chiude-in-rialzo-ftse-mib-066_a6b2e0c2-5460-4b3a-b9dd-b047ee94b914.html",
-     "data": "2026-10-05T15:42:37+00:00"
-    },
-    {
-     "titolo": "Ranucci sospeso per dieci giorni dalla Rai",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/ranucci-sospeso-per-dieci-giorni-dalla-rai_2c152ef8-ef41-436d-b699-f837de5bd9a4.html",
-     "data": "2026-10-05T15:17:44+00:00"
-    },
-    {
-     "titolo": "'Shin Bet avverte il governo, Hamas pronto ad attacco a ridosso del voto'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/shin-bet-avverte-il-governo-hamas-pronto-ad-attacco-a-ridosso-del-voto_412a3951-e9db-4642-a828-4f2fc6f5958b.html",
-     "data": "2026-10-05T15:18:02+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Esplosione nel centro di Bergamo per una fuga di gas, 8 feriti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/esplosione-nel-centro-di-bergamo-per-una-fuga-di-gas-8-feriti_f192acd0-1cec-4e0e-9b4f-7667f4c0cb97.html",
+     "data": "2026-10-05T21:15:13+00:00"
+    },
+    {
+     "titolo": "Esplosione in una casa a Bergamo, due feriti in codice rosso",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/esplosione-in-una-casa-a-bergamo-due-feriti-in-codice-rosso_75cbeddf-927f-4964-93b2-3ea23573c46f.html",
+     "data": "2026-10-05T19:00:08+00:00"
+    },
+    {
      "titolo": "Donna accoltellata a Salerno, il 57enne resta in carcere",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/donna-accoltellata-a-salerno-il-57enne-resta-in-carcere_94e5a8fa-d199-48fc-844a-42bb68ef3111.html",
      "data": "2026-10-05T17:51:40+00:00"
@@ -174,22 +184,22 @@
      "titolo": "Legali genitori di Yara: 'Faremo il possibile per evitare un Garlasco 2'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/legali-genitori-di-yara-faremo-il-possibile-per-evitare-un-garlasco-2_b39e75eb-c9cd-40ae-9b13-3c1eed1704e5.html",
      "data": "2026-10-05T15:30:06+00:00"
-    },
-    {
-     "titolo": "Deepfake audio, per realizzarli servono tre secondi di voce vera e 30 euro",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/deepfake-audio-per-realizzarli-servono-tre-secondi-di-voce-vera-e-30-euro_36b6ec41-92a0-4797-877e-abcda948c4c6.html",
-     "data": "2026-10-05T15:39:10+00:00"
-    },
-    {
-     "titolo": "Incendio alla periferia di Napoli, stop scuole e sport all'aperto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/scuole-chiuse-e-attivita-sportive-vietate-a-pianura-a-napoli-dopo-un-incendio_3dd1da9e-9bc4-4d09-9ac6-88d28eafae25.html",
-     "data": "2026-10-05T17:40:18+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Il voto a maggio più vicino, e Meloni tutela la sua voce dai deepfake",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/il-voto-a-maggio-piu-vicino-e-meloni-tutela-la-sua-voce-dai-deepfake_166e0661-729d-445b-b106-17c3ea8888c6.html",
+     "data": "2026-10-05T21:19:00+00:00"
+    },
+    {
+     "titolo": "Primarie e programma, il nodo dei tempi per il campo largo",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/primarie-e-programma-il-nodo-dei-tempi-per-il-campo-largo_14430c82-01de-4857-95cc-66ba6353c0db.html",
+     "data": "2026-10-05T18:39:16+00:00"
+    },
     {
      "titolo": "Ranucci sospeso per 10 giorni dalla Rai, il legale: 'Faremo ricorso'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/ranucci-sospeso-per-10-giorni-dalla-rai-il-legale-faremo-ricorso_2fef0e65-81ef-4744-85b5-1894f6d936a7.html",
@@ -228,7 +238,7 @@
     {
      "titolo": "Il voto a maggio più vicino. Malan si sbilancia sull'election day",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/malan-potrebbe-esserci-lesigenza-di-votare-a-maggio-insieme-alle-comunali_1dc963ff-49ac-463e-8817-238d112b84e4.html",
-     "data": "2026-10-05T18:27:03+00:00"
+     "data": "2026-10-05T19:30:05+00:00"
     },
     {
      "titolo": "Malan, potrebbe esserci l'esigenza di votare a maggio insieme alle comunali",
@@ -239,22 +249,32 @@
      "titolo": "Il governo pone la fiducia sugli articoli 1-2-3 della legge elettorale",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/il-governo-pone-la-fiducia-sugli-articoli-1-2-3-della-legge-elettorale_72f11e68-9571-4369-b4e3-aa0adcc85cdf.html",
      "data": "2026-10-05T12:16:01+00:00"
-    },
-    {
-     "titolo": "'Io sono Giorgia Meloni', la premier registra la sua voce all'ufficio marchi contro i fake",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/io-sono-giorgia-meloni-premier-registra-la-sua-voce-allufficio-marchi-contro_166e0661-729d-445b-b106-17c3ea8888c6.html",
-     "data": "2026-10-05T15:41:05+00:00"
-    },
-    {
-     "titolo": "Il Papa sulla guerra a Gaza, 'fino a quando Signore?'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/il-papa-sulla-guerra-a-gaza-fino-a-quando-signore_5eec4e16-41b9-4f3e-87c7-0dc43389cc5c.html",
-     "data": "2026-10-05T06:34:10+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Greenpeace, Roma penultima in Europa su transizione a riscaldamento green",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/greenpeace-roma-penultima-in-europa-su-transizione-a-riscaldamento-green_9f4b09f2-0bf1-4d71-b6e6-84e6639e3cc3.html",
+     "data": "2026-10-05T22:01:47+00:00"
+    },
+    {
+     "titolo": "Scattano accise sul gasolio più alte, nessun decreto in Gazzetta",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/scattano-accise-sul-gasolio-piu-alte-nessun-decreto-in-gazzetta_664823dc-12a3-42e9-851b-f10f32a6c4dd.html",
+     "data": "2026-10-05T20:48:53+00:00"
+    },
+    {
+     "titolo": "Da domani accise sul gasolio più alte, nessun decreto in Gazzetta",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/da-domani-accise-sul-gasolio-piu-alte-nessun-decreto-in-gazzetta_18b8709d-c0ae-4e98-bf8d-fdc2ba8e357a.html",
+     "data": "2026-10-05T20:24:45+00:00"
+    },
+    {
+     "titolo": "Nasce Giurify, piattaforma di IA per la consulenza legale",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/nasce-giurify-piattaforma-di-ia-per-la-consulenza-legale_f22cbfaf-91b5-4db7-8097-aeed9ba5a00c.html",
+     "data": "2026-10-05T18:33:37+00:00"
+    },
     {
      "titolo": "La pressione del fisco sale al 43,5%, manovra a caccia di coperture",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/la-pressione-del-fisco-sale-al-435-manovra-a-caccia-di-coperture_31adbb47-c2df-4404-b116-80312bb4d811.html",
@@ -294,32 +314,47 @@
      "titolo": "Il gas in calo (-2%) a 73 euro al Megawattora",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/il-gas-in-calo-2-a-73-euro-al-megawattora_9a11b6cd-5afd-450a-b5e8-72a4be0d0bfe.html",
      "data": "2026-10-05T16:09:58+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa conclude in tenuta, Londra +0,3%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/borsa-leuropa-conclude-in-tenuta-londra-03_a75c87b3-f3c6-4549-81e1-770dcd3f4abc.html",
-     "data": "2026-10-05T15:47:03+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in rialzo, Ftse Mib +0,66%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/borsa-milano-chiude-in-rialzo-ftse-mib-066_f4b265ef-2256-4786-95ba-4ada19418bea.html",
-     "data": "2026-10-05T15:42:37+00:00"
-    },
-    {
-     "titolo": "Paoletti (Cciaa VG), 'su energia serve ripensamento politico internazionale'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/paoletti-cciaa-vg-su-energia-serve-ripensamento-politico-internazionale_5ba49480-95b1-4022-8fb2-623474f33e29.html",
-     "data": "2026-10-05T15:30:47+00:00"
-    },
-    {
-     "titolo": "Scade a mezzanotte sconto carburanti, da domani accise mobili",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/scade-a-mezzanotte-sconto-carburanti-da-domani-accise-mobili_00b334a0-c9eb-4bbe-bd6f-0641f807961f.html",
-     "data": "2026-10-05T15:28:48+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Bolivia, il presidente Paz riconosce Urioste come procuratore generale ad interim",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/bolivia-il-presidente-paz-riconosce-urioste-come-procuratore-generale-ad-interim_a40d8342-03a3-45ea-8687-3194cb98bcb0.html",
+     "data": "2026-10-05T22:48:48+00:00"
+    },
+    {
+     "titolo": "Uruguay, candombe, murga e milonga per accogliere Leone XIV",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/uruguay-candombe-murga-e-milonga-per-accogliere-leone-xiv_bba02ae1-87fd-4aa0-9fcf-73d04536c7b8.html",
+     "data": "2026-10-05T22:46:58+00:00"
+    },
+    {
+     "titolo": "Brasile, l'ex presidente Temer sostiene Bolsonaro al ballottaggio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/brasile-lex-presidente-temer-sostiene-bolsonaro-al-ballottaggio_9a350b7a-78f3-4a37-9505-3b29dfebceb7.html",
+     "data": "2026-10-05T22:09:14+00:00"
+    },
+    {
+     "titolo": "Houthi, 'abbiamo colpito l'aeroporto di Riad e una raffineria di Aramco'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/houthi-abbiamo-colpito-laeroporto-di-riad-e-una-raffineria-di-aramco_385f7316-960b-4858-8ccb-e4499f6f98d5.html",
+     "data": "2026-10-05T21:33:41+00:00"
+    },
+    {
+     "titolo": "Foto inedite di Sinwar diffuse dalle Brigate al Qassem alla vigilia del 7 ottobre",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/foto-inedite-di-sinwar-diffuse-dalle-brigate-al-qassem-alla-vigilia-del_9637cf00-436e-4898-a474-827aa4bfee5c.html",
+     "data": "2026-10-05T21:32:02+00:00"
+    },
+    {
+     "titolo": "Trump, il risultato di Bolsonaro in Brasile una 'grande vittoria'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/trump-il-risultato-di-bolsonaro-in-brasile-una-grande-vittoria_1bdb143c-ee82-4d2d-8517-ee26daee1309.html",
+     "data": "2026-10-05T20:21:21+00:00"
+    },
+    {
+     "titolo": "Turchia e Pakistan invieranno forze militari in Arabia Saudita",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/turchia-e-pakistan-invieranno-forze-militari-in-arabia-saudita_f54efd4a-31ad-4e15-ad18-992d3d960763.html",
+     "data": "2026-10-05T19:09:26+00:00"
+    },
     {
      "titolo": "Il copilota, 'l'ho fatto per vendicare Gaza, volevo morire da martire'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/il-copilota-lho-fatto-per-vendicare-gaza-volevo-morire-da-martire_1e2c9160-ca11-4361-94d1-be7288146382.html",
@@ -331,9 +366,9 @@
      "data": "2026-10-05T17:26:35+00:00"
     },
     {
-     "titolo": "Lo Yemen riconquista il controllo dello Stretto di Bab el-Mandeb",
+     "titolo": "Lo Yemen riconquista lo Stretto di Bab el-Mandeb, Houthi: colpito lo scalo di Riad",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/lo-yemen-riconquista-il-controllo-dello-stretto-di-bab-el-mandeb_c71b1ec7-3e28-462a-8e87-a033e3bf1c63.html",
-     "data": "2026-10-05T17:10:18+00:00"
+     "data": "2026-10-05T21:38:28+00:00"
     },
     {
      "titolo": "Brasile, Erika Hilton è la donna più votata della storia alla Camera",
@@ -344,41 +379,6 @@
      "titolo": "Rabbia e voglia di riscatto, la serata da incubo dei lulistas",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/rabbia-e-voglia-di-riscatto-la-serata-da-incubo-dei-lulistas_7ed8ff8c-6d33-4b03-883c-5555166e7812.html",
      "data": "2026-10-05T16:36:59+00:00"
-    },
-    {
-     "titolo": "Calano le maschere d'ossigeno durante il volo, aereo della British per Chicago torna a Londra",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/aereo-della-british-in-volo-per-chicago-dichiara-emergenza-e-torna-a-londra_ea190105-a55f-4c0a-86bd-ef196d9adb7a.html",
-     "data": "2026-10-05T17:00:38+00:00"
-    },
-    {
-     "titolo": "Gruppo sudafricano Sasol tra i migliori performer emergenti fuori dall'Asia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/10/05/gruppo-sudafricano-sasol-tra-i-migliori-performer-emergenti-fuori-dallasia_6c23509e-05d0-4c75-9fac-d088b7b7b032.html",
-     "data": "2026-10-05T15:19:29+00:00"
-    },
-    {
-     "titolo": "'Shin Bet avverte il governo, Hamas pronto ad attacco a ridosso del voto'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/shin-bet-avverte-il-governo-hamas-pronto-ad-attacco-a-ridosso-del-voto_d7fbcc67-e771-4a12-9cde-a79a22ff7066.html",
-     "data": "2026-10-05T15:18:08+00:00"
-    },
-    {
-     "titolo": "Lo Shin Bet avverte: 'Hamas pronto ad attaccare a ridosso delle elezioni'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/shin-bet-avverte-il-governo-hamas-pronto-ad-attacco-a-ridosso-del-voto_8d1a440b-f1f3-4157-bb26-e1ec616ef874.html",
-     "data": "2026-10-05T17:30:36+00:00"
-    },
-    {
-     "titolo": "New York si prepara a Halloween, 160 strade chiuse per 'dolcetto o scherzetto'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/05/new-york-si-prepara-a-halloween-160-strade-chiuse-per-dolcetto-o-scherzetto_8a8832bc-5af8-4275-a3cf-b332308d059a.html",
-     "data": "2026-10-05T15:15:04+00:00"
-    },
-    {
-     "titolo": "Egitto, Ciad e Libia rilanciano alleanza Sahel-Sahariana contro il terrorismo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/10/05/egitto-ciad-e-libia-rilanciano-alleanza-sahel-sahariana-contro-il-terrorismo_5d4879f9-5917-42f3-a156-3deffdfb3f11.html",
-     "data": "2026-10-05T15:13:30+00:00"
-    },
-    {
-     "titolo": "New York si prepara a Halloween, 160 strade chiuse per 'dolcetto o scherzetto'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/05/new-york-si-prepara-a-halloween-160-strade-chiuse-per-dolcetto-o-scherzetto_257ae6f0-72e6-41c2-9654-58e77a6965e2.html",
-     "data": "2026-10-05T15:12:01+00:00"
     }
    ]
   },
@@ -451,6 +451,31 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Mancini: 'Sto ritrovando l'Italia, ma mi manca Vialli'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/mancini-sto-ritrovando-litalia-ma-mi-manca-vialli_a83ee525-3338-441e-992c-ca5efb08dbf1.html",
+     "data": "2026-10-05T21:35:58+00:00"
+    },
+    {
+     "titolo": "Nations League: l'Italia chiude in bellezza, a Bologna è 3-1 alla Turchia",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-litalia-chiude-in-bellezza-a-bologna-e-3-1-alla-turchia_294cb6a1-8a5b-4345-b401-d99a94eaf076.html",
+     "data": "2026-10-05T21:36:55+00:00"
+    },
+    {
+     "titolo": "Nations League: Scamacca 'era importantissimo vincere'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-scamacca-era-importantissimo-vincere_2f1da7e6-a619-4e33-8aa0-be0fa9b3cbaf.html",
+     "data": "2026-10-05T20:52:00+00:00"
+    },
+    {
+     "titolo": "Nations League: Mancini 'sofferto all'inizio ma bravi a riprendere la partita'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-mancini-sofferto-allinizio-ma-bravi-a-riprendere-la-partita_df7fa1dc-e750-45f2-bfef-fb77b0818853.html",
+     "data": "2026-10-05T20:50:34+00:00"
+    },
+    {
+     "titolo": "Nations League: Francia-Belgio 4-1",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-francia-belgio-4-1_bfbe4f95-dc2f-44f3-be30-7e877909f898.html",
+     "data": "2026-10-05T20:41:53+00:00"
+    },
+    {
      "titolo": "Calcio:Under 21; Baldini 'questi sono ragazzi speciali, sono troppo belli'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/calciounder-21-baldini-questi-sono-ragazzi-speciali-sono-troppo-belli_72a52857-3694-4383-bb6a-9e246fb1a9b4.html",
      "data": "2026-10-05T18:32:49+00:00"
@@ -466,14 +491,9 @@
      "data": "2026-10-05T18:08:55+00:00"
     },
     {
-     "titolo": "Polonia battuta 6-2, l'Italia Under 21 si qualifica agli Europei 2027",
+     "titolo": "Italia U.21 show, travolge la Polonia 6-2 e va agli Europei",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/calcio-6-2-alla-polonia-litalia-under-21-si-qualifica-agli-europei-2027_5fac3fa3-750b-416c-b77b-caf39eacdfcd.html",
-     "data": "2026-10-05T18:17:39+00:00"
-    },
-    {
-     "titolo": "Nations League, Italia-Turchia in campo alle 20:45 DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-italia-turchia-in-campo-alle-2045-diretta_294cb6a1-8a5b-4345-b401-d99a94eaf076.html",
-     "data": "2026-10-05T18:01:10+00:00"
+     "data": "2026-10-05T18:35:33+00:00"
     },
     {
      "titolo": "Nations League: Mancini fa nove cambi, torna Romano",
@@ -489,26 +509,6 @@
      "titolo": "Ciccone contesta 2/o posto agli Europei, voglio vedere il fotofinish su linea arrivo",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/05/ciccone-contesta-2o-posto-agli-europei-voglio-vedere-il-fotofinish-su-linea-arrivo_ceffe3b0-f837-4e1d-b761-d0c462eb4a45.html",
      "data": "2026-10-05T16:57:34+00:00"
-    },
-    {
-     "titolo": "Scaglia la pallina contro un tifoso, Medvedev squalificato e Djokovic è in finale",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/05/tennis-pallina-contro-un-tifoso-medvedev-squalificato-e-djokovic-e-in-finale_1b37d7d3-9ab5-4d51-aa1f-832098329240.html",
-     "data": "2026-10-05T18:15:28+00:00"
-    },
-    {
-     "titolo": "Milan: accertamenti alla caviglia per Saelemaekers, la stessa già operata",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/milan-accertamenti-alla-caviglia-per-saelemaekers-la-stessa-gia-operata_78ad80cd-66ca-4972-b195-800079806db0.html",
-     "data": "2026-10-05T15:53:27+00:00"
-    },
-    {
-     "titolo": "Udinese: Gueye operato alla caviglia, stop di tre mesi",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/udinese-gueye-operato-alla-caviglia-stop-di-tre-mesi_2ee85dc9-3317-429e-b506-9e780f9f12dd.html",
-     "data": "2026-10-05T15:23:50+00:00"
-    },
-    {
-     "titolo": "Mondiali ciclismo su pista, i convocati dell'Italia per Shanghai",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/05/mondiali-ciclismo-su-pista-i-convocati-dellitalia-per-shanghai_d302891c-3f29-4e50-abc1-b2efed9ae672.html",
-     "data": "2026-10-05T15:16:57+00:00"
     }
    ]
   }
