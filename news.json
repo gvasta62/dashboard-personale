@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-10-06T23:07:39.557536+00:00",
+ "aggiornato": "2026-10-07T02:30:01.520643+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Wsj: 'Washington preme su Mosca, serve nota ufficiale sul decesso legato alla peste'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/wsj-washington-preme-su-mosca-serve-nota-ufficiale-sul-decesso-legato_ddb78e5a-f716-497f-a59c-721d9cd2ae2d.html",
+     "data": "2026-10-07T01:23:06+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura poco mossa (-0,09%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/borsa-tokyo-apertura-poco-mossa-009_c22d5cd0-f4a9-4ebc-a02f-85feefec4b76.html",
+     "data": "2026-10-07T00:32:35+00:00"
+    },
     {
      "titolo": "Christa Pike ha ripreso conoscenza e parla",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/christa-pike-ha-ripreso-conoscenza-e-parla_d382c5fa-d2b2-4535-9a37-3a42adda6df7.html",
@@ -44,16 +54,6 @@
      "titolo": "Una grande mostra e un museo aziendale per i 90 anni, l'Eur guarda al futuro",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/una-grande-mostra-e-un-museo-aziendale-per-i-90-anni-leur-guarda-al-futuro_76ff1573-add7-4f5c-8272-ab7d91c52db6.html",
      "data": "2026-10-06T16:06:43+00:00"
-    },
-    {
-     "titolo": "Lo spread Btp-Bund a 105,3 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/lo-spread-btp-bund-a-1053-punti_1d004b19-684f-47a7-aebe-3218bc51eee8.html",
-     "data": "2026-10-06T15:57:30+00:00"
-    },
-    {
-     "titolo": "Fonti, 'a Ecofin non atteso confronto su flessibilità, punto su extraprofitti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/fonti-a-ecofin-non-atteso-confronto-su-flessibilita-punto-su-extraprofitti_86ccfef0-37de-41f2-abd9-94128b62bc27.html",
-     "data": "2026-10-06T15:56:13+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura poco mossa (-0,09%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/borsa-tokyo-apertura-poco-mossa-009_e7f8e4a4-2d0b-4349-8cc0-f1847afd47f7.html",
+     "data": "2026-10-07T00:32:33+00:00"
+    },
+    {
      "titolo": "Il petrolio chiude poco mosso a New York a 89,44 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/il-petrolio-chiude-poco-mosso-a-new-york-a-8944-dollari_6131560b-c097-4362-9ac7-f32d942eaae9.html",
      "data": "2026-10-06T18:53:14+00:00"
@@ -309,17 +314,37 @@
      "titolo": "Lo spread Btp-Bund a 105,3 punti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/lo-spread-btp-bund-a-1053-punti_7d5ab101-c0b1-4fde-b364-434908c3535f.html",
      "data": "2026-10-06T15:57:27+00:00"
-    },
-    {
-     "titolo": "Fonti, 'a Ecofin non atteso confronto su flessibilità, punto su extraprofitti'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/fonti-a-ecofin-non-atteso-confronto-su-flessibilita-punto-su-extraprofitti_02cb5e87-564e-4b7f-a4ac-88e329166d24.html",
-     "data": "2026-10-06T16:41:35+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Wsj: 'Washington preme su Mosca, serve nota ufficiale sul decesso legato alla peste'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/07/wsj-washington-preme-su-mosca-serve-nota-ufficiale-sul-decesso-legato_9f0c1fdb-23f4-4ee2-a793-09b293c17a98.html",
+     "data": "2026-10-07T01:23:10+00:00"
+    },
+    {
+     "titolo": "Wsj: 'Washington preme su Mosca, serve nota ufficiale sul decesso legato alla peste'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/07/wsj-washington-preme-su-mosca-serve-nota-ufficiale-sul-decesso-legato_fc6f0fe5-5e6b-47ad-aad5-f3d5dc975c24.html",
+     "data": "2026-10-07T01:23:23+00:00"
+    },
+    {
+     "titolo": "Record del Messico nelle importazioni Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/record-del-messico-nelle-importazioni-usa_d15836c1-cee5-42cd-9cf2-54680eab4c1c.html",
+     "data": "2026-10-07T01:11:10+00:00"
+    },
+    {
+     "titolo": "Bolivia, dalla Caf 224 milioni di dollari per la rete stradale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/bolivia-dalla-caf-224-milioni-di-dollari-per-la-rete-stradale_2101d3af-b352-416d-aff8-b12b3a008d2d.html",
+     "data": "2026-10-07T01:08:50+00:00"
+    },
+    {
+     "titolo": "Costa Rica, il Parlamento approva legge contro l'estrazione mineraria illegale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/costa-rica-il-parlamento-approva-legge-contro-lestrazione-mineraria-illegale_d55746b3-d0ff-4625-b0fb-9291f4b8d445.html",
+     "data": "2026-10-06T23:45:26+00:00"
+    },
     {
      "titolo": "Messico, arrestato leader regionale del Cártel Jalisco Nueva Generación",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/messico-arrestato-leader-regionale-del-cartel-jalisco-nueva-generacion_c5c23332-15ec-4357-8295-e4612e63f8bc.html",
@@ -354,31 +379,6 @@
      "titolo": "Nuova sentenza della giustizia argentina a favore delle università pubbliche",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/nuova-sentenza-della-giustizia-argentina-a-favore-delle-universita-pubbliche_476a81de-b462-4b63-b1d6-2b6127b564ae.html",
      "data": "2026-10-06T19:55:39+00:00"
-    },
-    {
-     "titolo": "Banca Mondiale, l'America Latina nel 2026 cresce al 2,2% al di sotto del potenziale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/banca-mondiale-lamerica-latina-nel-2026-cresce-al-22-al-di-sotto-del-potenziale_0e417f25-40bb-4a61-9f76-4fa2879b0008.html",
-     "data": "2026-10-06T18:58:27+00:00"
-    },
-    {
-     "titolo": "Lula chiude 11mila siti di scommesse online in Brasile",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/lula-chiude-11mila-siti-di-scommesse-online-in-brasile_5fdbb7c9-cfa4-4ea3-adda-687ffa672311.html",
-     "data": "2026-10-06T18:34:36+00:00"
-    },
-    {
-     "titolo": "Il Venezuela respinge la proroga dell'indagine Onu sui diritti umani",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/il-venezuela-respinge-la-proroga-dellindagine-onu-sui-diritti-umani_32478576-8c60-4ff2-8127-b95dd43de4a0.html",
-     "data": "2026-10-06T18:09:49+00:00"
-    },
-    {
-     "titolo": "Stupro alla Cornell, migliaia di studenti protestano contro i vertici dell'ateneo Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/06/stupro-alla-cornell-migliaia-di-studenti-protestano-contro-i-vertici-dellateneo-usa_2fa58a45-dfe6-47b4-8f0e-03d2644b73a7.html",
-     "data": "2026-10-06T16:25:11+00:00"
-    },
-    {
-     "titolo": "Trump, 'Islam e immigrazione responsabili di quanto accade in Francia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/06/trump-islam-e-immigrazione-responsabili-di-quanto-accade-in-francia_ab6404b4-e619-4f46-95cc-8974b26f67dd.html",
-     "data": "2026-10-06T16:18:30+00:00"
     }
    ]
   },
