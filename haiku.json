@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-07T10:41:33.128001+00:00",
- "data": "2026-10-07",
- "testo": "Lampo improvviso\nnella grondaia di rame\nrimbomba l'acqua",
- "nota": "Durante il temporale ho guardato la grondaia che tuona sotto lo scroscio.",
+ "aggiornato": "2026-10-08T11:01:54.697785+00:00",
+ "data": "2026-10-08",
+ "testo": "Scroscia il temporale\ndentro l'ombrello aperto\npiega una stecca",
+ "nota": "Il vento del temporale piega la stecca di un ombrello in piazza.",
  "archivio": [
+  {
+   "data": "2026-10-08",
+   "testo": "Scroscia il temporale\ndentro l'ombrello aperto\npiega una stecca",
+   "nota": "Il vento del temporale piega la stecca di un ombrello in piazza."
+  },
   {
    "data": "2026-10-07",
    "testo": "Lampo improvviso\nnella grondaia di rame\nrimbomba l'acqua",
