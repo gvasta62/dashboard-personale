@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-10-08T20:28:06.392057+00:00",
+ "aggiornato": "2026-10-09T00:31:35.112002+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,61%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/borsa-tokyo-apertura-in-calo-061_1a262f85-f722-4a7f-99de-cb352ea0c45c.html",
+     "data": "2026-10-09T00:25:43+00:00"
+    },
+    {
+     "titolo": "'La fucilazione dell'autore della strage di Fort Hood sarà in diretta streaming'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/la-fucilazione-dellautore-della-strage-di-fort-hood-sara-in-diretta-streaming_de23eaa0-a00e-4705-9d78-946f03a9528c.html",
+     "data": "2026-10-08T21:44:15+00:00"
+    },
+    {
+     "titolo": "Sindacati, da lunedì sciopero nazionale all'ex Ilva per 24 ore",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/sindacati-da-lunedi-sciopero-nazionale-allex-ilva-per-24-ore_87927253-962e-4e8b-b4d7-61737532b5c5.html",
+     "data": "2026-10-08T21:11:50+00:00"
+    },
+    {
+     "titolo": "Hegseth, la fucilazione dell'autore della strage di Fort Hood sarà pubblica",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/hegseth-la-fucilazione-dellautore-della-strage-di-fort-hood-sara-pubblica_4f2f6f5a-098a-454b-8a56-06cd26246226.html",
+     "data": "2026-10-08T21:04:30+00:00"
+    },
+    {
+     "titolo": "Nyt, 'Pentagono elabora nuovi piani di attacco contro l'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/nyt-pentagono-elabora-nuovi-piani-di-attacco-contro-liran_078abd15-24b4-48c6-9f75-81ffb595e63c.html",
+     "data": "2026-10-08T20:59:22+00:00"
+    },
     {
      "titolo": "'Negoziatori Kiev domani a Miami, invitati Gb, Francia, Germania, Nato e Ue",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/negoziatori-kiev-domani-a-miami-invitati-gb-francia-germania-nato-e-ue_a6265b5e-f6b6-4bc0-a4ca-45fdda7178b2.html",
@@ -29,31 +54,6 @@
      "titolo": "Mantovano, nel prossimo cdm un decreto legge su tutele ex Ilva",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/mantovano-nel-prossimo-cdm-un-decreto-legge-su-tutele-ex-ilva_32d05686-00a2-4c00-ac55-bdb834342070.html",
      "data": "2026-10-08T18:32:17+00:00"
-    },
-    {
-     "titolo": "Conte, un attimo dopo l'assemblea Pd tavolo di programma e poi primarie",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/conte-un-attimo-dopo-lassemblea-pd-tavolo-di-programma-e-poi-primarie_2c036912-7091-494e-8859-a23115df8d81.html",
-     "data": "2026-10-08T18:24:39+00:00"
-    },
-    {
-     "titolo": "Attacco cyber alla Farnesina, autori gli hacker russi Noname",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/attacco-cyber-alla-farnesina-autori-gli-hacker-russi-noname_065d2efb-bb4e-4682-91a2-1b20e4955ff7.html",
-     "data": "2026-10-08T17:55:37+00:00"
-    },
-    {
-     "titolo": "Houthi rivendicano il terzo raid della giornata sull'aeroporto di Riad",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/houthi-rivendicano-il-terzo-raid-della-giornata-sullaeroporto-di-riad_b92d70b9-97d3-437f-b2e5-c7c0975260e4.html",
-     "data": "2026-10-08T17:53:45+00:00"
-    },
-    {
-     "titolo": "Vance accusa Microsoft di frode sui visti, stop ai programmi sulle green card",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/vance-accusa-microsoft-di-frode-sui-visti-stop-ai-programmi-sulle-green_fa530ec8-4901-48fd-96cb-b160e4ec110b.html",
-     "data": "2026-10-08T17:52:17+00:00"
-    },
-    {
-     "titolo": "Trump, 'non attaccheremo Iran prima delle midterm, colloqui produttivi con Teheran'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/trump-non-attaccheremo-iran-prima-delle-midterm-colloqui-produttivi-con_52990eaa-f23c-4824-b580-18ea204ef898.html",
-     "data": "2026-10-08T17:53:01+00:00"
     }
    ]
   },
@@ -138,7 +138,7 @@
     {
      "titolo": "Garlasco, Andrea Sempio: 'La paura che sia vittima di un errore c'è assolutamente'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/garlasco-andrea-sempio-la-paura-che-sia-vittima-di-un-errore-ce-assolutamente_52ae364a-169a-4713-97da-d94c27aea538.html",
-     "data": "2026-10-08T18:14:44+00:00"
+     "data": "2026-10-08T20:52:31+00:00"
     },
     {
      "titolo": "Accoltellò professore, 34enne condannato a 5 anni e 6 mesi",
@@ -256,6 +256,21 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,61%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-tokyo-apertura-in-calo-061_4e44641c-402d-4385-b138-6c52971e62e5.html",
+     "data": "2026-10-09T00:25:45+00:00"
+    },
+    {
+     "titolo": "I sindacati: 'Da lunedì sciopero nazionale ex Ilva di 24 ore'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/i-sindacati-da-lunedi-sciopero-nazionale-ex-ilva-di-24-ore_df14583b-44b1-4574-a8f3-c6ab01e5526e.html",
+     "data": "2026-10-08T21:19:41+00:00"
+    },
+    {
+     "titolo": "Sindacati, da lunedì sciopero nazionale all'ex Ilva per 24 ore",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/sindacati-da-lunedi-sciopero-nazionale-allex-ilva-per-24-ore_d901f233-814e-4567-b344-ea9449da5ce7.html",
+     "data": "2026-10-08T21:11:49+00:00"
+    },
+    {
      "titolo": "La Ue: 'Esaminiamo le richieste dell'Italia sulla flessibilità ma serve prudenza'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/la-ue-esaminiamo-le-richieste-delitalia-sulla-flessibilita-ma-serve-prudenza_acc6e3b4-48a3-4d6f-a6fe-45f9ceadf81b.html",
      "data": "2026-10-08T19:21:18+00:00"
@@ -274,11 +289,6 @@
      "titolo": "Mantovano, nel prossimo cdm un decreto legge su tutele ex Ilva",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/mantovano-nel-prossimo-cdm-un-decreto-legge-su-tutele-ex-ilva_5dbcaa75-5ea3-4af2-9ac6-9490ff868394.html",
      "data": "2026-10-08T18:32:14+00:00"
-    },
-    {
-     "titolo": "Ex Ilva, stop area a caldo Taranto e avvio cassa integrazione",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/ex-ilva-da-domani-stop-allarea-a-caldo-e-avvio-procedure-cig_df14583b-44b1-4574-a8f3-c6ab01e5526e.html",
-     "data": "2026-10-08T19:29:04+00:00"
     },
     {
      "titolo": "Giorgetti, fiduciosi che l'Ue seguirà una corretta interpretazione della flessibilità",
@@ -304,22 +314,32 @@
      "titolo": "Comune Villa S.Giovanni, manca reale piano economico del ponte Stretto",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/comune-villa-s.giovanni-manca-reale-piano-economico-del-ponte-stretto_633e759c-206b-4fde-991c-001e612db44d.html",
      "data": "2026-10-08T17:08:33+00:00"
-    },
-    {
-     "titolo": "Moles (Au), 'indipendenza energetica fondamentale per sicurezza Paese, serve nucleare'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/moles-au-indipendenza-energetica-fondamentale-per-sicurezza-paese-serve-nucleare_ff692d4f-f24c-4f3f-b6df-f28aa972b0f4.html",
-     "data": "2026-10-08T16:59:58+00:00"
-    },
-    {
-     "titolo": "Lagarde all'Eurogruppo, 'il rialzo dei rendimenti è legato a fattori globali'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/lagarde-alleurogruppo-il-rialzo-dei-rendimenti-e-legato-a-fattori-globali_b80a371c-82bb-472d-98e1-a300dae0c3b0.html",
-     "data": "2026-10-08T17:43:20+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "'La fucilazione dell'autore della strage di Fort Hood sarà in diretta streaming'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/la-fucilazione-dellautore-della-strage-di-fort-hood-sara-in-diretta-streaming_a9b04945-d45d-461b-8ae1-4ef767a44ec2.html",
+     "data": "2026-10-08T21:44:32+00:00"
+    },
+    {
+     "titolo": "Brasile, giudice ordina l'accesso ai documenti secretati di Moraes sul caso Bolsonaro",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/brasile-giudice-ordina-laccesso-ai-documenti-secretati-di-moraes-sul-caso-bolsonaro_2b776114-0c91-42f0-b631-d198ddb3fdc3.html",
+     "data": "2026-10-08T21:37:37+00:00"
+    },
+    {
+     "titolo": "Hegseth, la fucilazione dell'autore della strage di Fort Hood sarà pubblica",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/hegseth-la-fucilazione-dellautore-della-strage-di-fort-hood-sara-pubblica_c0f60778-3f3b-4b13-9800-850b7d9e748f.html",
+     "data": "2026-10-08T21:04:30+00:00"
+    },
+    {
+     "titolo": "Nyt, 'Pentagono elabora nuovi piani di attacco contro l'Iran'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/nyt-pentagono-elabora-nuovi-piani-di-attacco-contro-liran_fca2230c-c590-4025-bb25-8b71e91b1195.html",
+     "data": "2026-10-08T20:59:55+00:00"
+    },
     {
      "titolo": "Venezuela, crescita del Pil del 6,5% nel terzo trimestre",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/venezuela-crescita-del-pil-del-65-nel-terzo-trimestre_86cc13ed-44db-4c71-a46a-10a4726b4e11.html",
@@ -359,26 +379,6 @@
      "titolo": "Vance accusa Microsoft di frode sui visti, stop ai programmi sulle green card",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/vance-accusa-microsoft-di-frode-sui-visti-stop-ai-programmi-sulle-green_a972cbbe-077d-4a5f-8265-bc06b35f9485.html",
      "data": "2026-10-08T17:52:23+00:00"
-    },
-    {
-     "titolo": "Trump, 'non attaccheremo Iran prima delle midterm, colloqui produttivi con Teheran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/trump-non-attaccheremo-iran-prima-delle-midterm-colloqui-produttivi-con_003aafbc-0d5f-4648-923e-e1f486abf42a.html",
-     "data": "2026-10-08T17:52:45+00:00"
-    },
-    {
-     "titolo": "L'Unicef richiama la Francia, 'basta violenze proteggere, i minorenni'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/08/lunicef-richiama-la-francia-basta-violenze-proteggere-i-minorenni_ca694542-4322-4c3e-9101-239079bdbcae.html",
-     "data": "2026-10-08T17:44:48+00:00"
-    },
-    {
-     "titolo": "Arringa finale del pm al processo Maradona, 'Diego abbandonato alla sua sorte'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/arringa-finale-del-pm-al-processo-maradona-diego-abbandonato-alla-sua-sorte_6589bbdb-c114-421d-8d41-ba3a62f3f62e.html",
-     "data": "2026-10-08T16:03:13+00:00"
-    },
-    {
-     "titolo": "Kallas, 'pronta la nuova missione Ue in Libano, non sostituirà Unifil'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/08/kallas-pronta-la-nuova-missione-ue-in-libano-non-sostituira-unifil_c7839ac0-373b-4685-bc9c-38c4183714e4.html",
-     "data": "2026-10-08T17:46:50+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Baseball: l'Italia inizia domani il cammino verso i Giochi di Los Angeles",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/08/baseball-litalia-inizia-domani-il-cammino-verso-i-giochi-di-los-angeles_59f395f5-deb8-4200-9ea1-fd420d6aaf62.html",
+     "data": "2026-10-08T21:40:56+00:00"
+    },
+    {
+     "titolo": "A'ja Wilson da record, è Mvp della Wnba per la quinta volta",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/08/aja-wilson-da-record-e-mvp-della-wnba-per-la-quinta-volta_f0ea8fbc-76c7-4368-8cc3-23766f6e3918.html",
+     "data": "2026-10-08T21:31:02+00:00"
+    },
+    {
      "titolo": "Eurolega: la Virtus Bologna vince in Germania, Bayern Monaco ko 87-94",
      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/08/eurolega-la-virtus-bologna-vince-in-germania-bayern-monaco-ko-87-94_fe08c67b-450d-4f7f-87fe-6e41ca076dba.html",
      "data": "2026-10-08T20:17:26+00:00"
@@ -499,16 +509,6 @@
      "titolo": "Premier League: appello di Haaland dopo la bufera, 'il City resti unito'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/08/premier-appello-di-haaland-dopo-la-bufera-il-city-resti-unito_3e014aa8-e12d-4966-af2b-dac2a0960ad0.html",
      "data": "2026-10-08T16:41:55+00:00"
-    },
-    {
-     "titolo": "Serie A: il Bologna ufficializza l'acquisto dello svincolato Darmian",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/08/serie-a-il-bologna-ufficializza-lacquisto-dello-svincolato-darmian_afedbfdc-6e8e-4ab3-8adc-fb4f6aa61079.html",
-     "data": "2026-10-08T15:56:27+00:00"
-    },
-    {
-     "titolo": "F1: corsa al Mondiale, Antonelli a Singapore per la stretta finale",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/08/f1-corsa-al-mondiale-antonelli-a-singapore-per-la-stretta-finale_83ac9ca2-557f-4fae-a124-b09690942a98.html",
-     "data": "2026-10-08T16:22:32+00:00"
     }
    ]
   }
