@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-08T11:01:54.697785+00:00",
- "data": "2026-10-08",
- "testo": "Scroscia il temporale\ndentro l'ombrello aperto\npiega una stecca",
- "nota": "Il vento del temporale piega la stecca di un ombrello in piazza.",
+ "aggiornato": "2026-10-09T11:01:07.523688+00:00",
+ "data": "2026-10-09",
+ "testo": "Gocce leggere\nsul selciato del chiostro\nluccica un'eco",
+ "nota": "Dopo un rovescio, il selciato umido del chiostro riflette i passi.",
  "archivio": [
+  {
+   "data": "2026-10-09",
+   "testo": "Gocce leggere\nsul selciato del chiostro\nluccica un'eco",
+   "nota": "Dopo un rovescio, il selciato umido del chiostro riflette i passi."
+  },
   {
    "data": "2026-10-08",
    "testo": "Scroscia il temporale\ndentro l'ombrello aperto\npiega una stecca",
