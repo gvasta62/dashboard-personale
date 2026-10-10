@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-10-10T02:26:58.407983+00:00",
+ "aggiornato": "2026-10-10T08:43:20.373458+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Arrestato il leader del partito delle blatte prima di manifestazione non autorizzata",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/arrestato-il-leader-del-partito-delle-blatte-prima-di-manifestazione-non-autorizzata_5883d701-69a6-41a9-ad1b-296f67726907.html",
+     "data": "2026-10-10T08:32:34+00:00"
+    },
+    {
+     "titolo": "Confindustria etnea, autotrasporto siciliano fermo dal 16 al 22 ottobre",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/confindustria-etnea-autotrasporto-siciliano-fermo-dal-16-al-22-ottobre_b2376b5d-4f3b-4654-9093-a5f480b6e048.html",
+     "data": "2026-10-10T08:30:20+00:00"
+    },
+    {
+     "titolo": "Presidenza del Consiglio Ue propone taglio 141 miliardi al futuro Bilancio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/presidenza-del-consiglio-ue-propone-taglio-141-miliardi-al-futuro-bilancio_f4609fcd-46fe-43cd-be3d-acd7a1f3935f.html",
+     "data": "2026-10-10T08:19:41+00:00"
+    },
+    {
+     "titolo": "Temporale a Lipari, esondati torrenti, fango in strade e case allagate",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/temporale-a-lipari-esondati-torrenti-fango-in-strade-e-case-allagate_39a8b81f-665e-459c-bc95-88fdbdfe8705.html",
+     "data": "2026-10-10T07:44:16+00:00"
+    },
+    {
+     "titolo": "Allude sui social a stragi e atti violenti a scuola, denunciato 14enne",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/allude-sui-social-a-stragi-e-atti-violenti-a-scuola-denunciato-14enne_9ca6c464-0bef-40d3-8fab-dbe01b25d1a1.html",
+     "data": "2026-10-10T05:03:55+00:00"
+    },
     {
      "titolo": "L'uragano Isaias tocca terra in Florida come categoria 2, migliaia senza elettricità",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/luragano-isaias-tocca-terra-in-florida-come-categoria-2-migliaia-senza-elettricita_ce4ec002-4b6f-4386-91b7-53c1f88970ca.html",
@@ -29,31 +54,6 @@
      "titolo": "Brasile, Record cancella il dibattito tv tra Lula e Flávio Bolsonaro",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/brasile-record-cancella-il-dibattito-tv-tra-lula-e-flavio-bolsonaro_048b5b5f-7c56-4b9a-84de-2de4f2cda702.html",
      "data": "2026-10-10T00:24:42+00:00"
-    },
-    {
-     "titolo": "La rimonta di Lula online, exploit di contatti per battere Bolsonaro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/la-rimonta-di-lula-online-exploit-di-contatti-per-battere-bolsonaro_0938d579-a9f7-4fa3-be7c-8b82835bab88.html",
-     "data": "2026-10-09T22:45:55+00:00"
-    },
-    {
-     "titolo": "Trump, 'grande rapporto con Meloni, andiamo d'accordo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/trump-grande-rapporto-con-meloni-andiamo-daccordo_cfade861-f73f-408a-b776-7a4dba971f90.html",
-     "data": "2026-10-09T21:41:39+00:00"
-    },
-    {
-     "titolo": "Trump, l'accordo con la Russia sul diesel importante, voglio ringraziare Putin",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/trump-laccordo-con-la-russia-sul-diesel-importante-voglio-ringraziare-putin_56df6b85-da9d-4ac3-a4d5-14def7ada2d7.html",
-     "data": "2026-10-09T21:17:12+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'dagli Usa una decisione indegna e disonesta'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/zelensky-dagli-usa-una-decisione-indegna-e-disonesta_7b12bc36-20c1-43d8-8d04-571a5467abbe.html",
-     "data": "2026-10-09T20:40:33+00:00"
-    },
-    {
-     "titolo": "Axios, Ucraina sorpresa dall'annuncio di Trump per il diesel russo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/axios-ucraina-sorpresa-dallannuncio-di-trump-per-il-diesel-russo_2a0d833b-8f93-4c1e-b9c8-7cff31280406.html",
-     "data": "2026-10-09T19:46:22+00:00"
     }
    ]
   },
@@ -126,70 +126,75 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Il tribunale rigetta il ricorso di Ranucci per il reintegro a Report. Il giornalista: \"Rispetto la sentenza e la accetto serenamente\"",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/il-tribunale-rigetta-il-ricorso-di-ranucci.-il-giornalista-rispetto-la-sentenza-e-la-accetto-serenamente_14aee77c-f639-40ec-a44a-9925c06e78d9.html",
-     "data": "2026-10-09T19:45:32+00:00"
+     "titolo": "Dopo monopattini stretta su e-bike, arrivano bicivelox e multe fino a 15mila euro",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/dopo-monopattini-stretta-su-e-bike-arrivano-bicivelox-e-multe-fino-a-15mila-euro_5d9f1f39-e4eb-4fa0-bbd1-a4a17d303b26.html",
+     "data": "2026-10-10T08:34:45+00:00"
     },
     {
-     "titolo": "Salgono a sei i casi dalla banda della minicar, Iacopini resta grave&nbsp;",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/salgono-a-sei-i-casi-dalla-banda-della-minicar-iacopini-resta-gravenbsp_3d98a72b-ee37-4294-87b8-8eacba645393.html",
-     "data": "2026-10-09T19:09:46+00:00"
+     "titolo": "Temporale a Lipari, esondati torrenti, fango in strade e case allagate",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/temporale-a-lipari-esondati-torrenti-fango-in-strade-e-case-allagate_8bde15af-30ab-4d51-9c06-6d6fc5b13e34.html",
+     "data": "2026-10-10T07:44:18+00:00"
     },
     {
-     "titolo": "Garlasco, in 3 ore Dna su pedali passò da parziale a profilo vittima",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/garlasco-in-3-ore-dna-su-pedali-passo-da-parziale-a-profilo-vittima_91c4f151-2a11-4bd3-a183-b199effeef2e.html",
-     "data": "2026-10-09T17:43:56+00:00"
+     "titolo": "Petrosino conta i danni del tornado, appello a governo e Regione per gli aiuti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/petrosino-conta-i-danni-del-tornado-appello-a-governo-e-regione-per-gli_02ef4366-220c-4ddf-9912-3938dacb901f.html",
+     "data": "2026-10-10T07:38:03+00:00"
     },
     {
-     "titolo": "Andreoli (Difesa Servizi), abbiamo valorizzato fari e beni demaniali",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/andreoli-difesa-servizi-abbiamo-valorizzato-fari-e-beni-demaniali_fd204292-3b70-4743-9408-3786b7ec9934.html",
-     "data": "2026-10-09T16:58:39+00:00"
+     "titolo": "Dolomiti prese d'assalto, l'overtourism asiatico spinto da Tv e social",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/dolomiti-prese-dassalto-lovertourism-asiatico-spinto-da-tv-e-social_170fdafc-1f85-4e1c-b052-32594325f378.html",
+     "data": "2026-10-10T07:35:12+00:00"
     },
     {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-10-09T16:53:04+00:00"
+     "titolo": "Giornata della salute mentale, l'Unicef: un genitore su 2 ha pensato di chiedere aiuto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/giornata-della-salute-mentale-lunicef-un-genitore-su-2-ha-pensato-di-chiedere-aiuto_808f32d9-778e-4165-9f15-fdf91adda1dc.html",
+     "data": "2026-10-10T07:25:36+00:00"
     },
     {
-     "titolo": "Crans-Montana. \"Le spese mediche per gli italiani ammontano a 1,6 milioni\"",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/crans-montana.-le-spese-mediche-per-gli-italiani-ammontano-a-16-milioni_f294ae43-ec96-46dc-beee-d6702f9eed6f.html",
-     "data": "2026-10-09T16:48:04+00:00"
+     "titolo": "Bomba d'acqua nel Reggino, 'auto arrivate al mare e muri caduti'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/bomba-dacqua-nel-reggino-auto-arrivate-al-mare-e-muri-caduti_75abe64a-4941-4b9b-a66f-87f6dc75e230.html",
+     "data": "2026-10-10T07:20:17+00:00"
     },
     {
-     "titolo": "In Liguria un nuovo suicidio assistito, \"chiedo rispetto\"",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/-in-liguria-un-nuovo-suicidio-assistito-chiedo-rispetto_c567ed81-8f0c-4cc9-974d-07ada3981a4a.html",
-     "data": "2026-10-09T16:43:56+00:00"
+     "titolo": "Morì dissanguato, la moglie arrestata per omicidio preterintenzionale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/mori-dissanguato-la-moglie-arrestata-per-omicidio-preterintenzionale_17029689-f16d-4668-b1e8-c00af1a4b09d.html",
+     "data": "2026-10-10T07:14:10+00:00"
     },
     {
-     "titolo": "Il racconto della prof di Marsala: 'Ho visto la morte, ho riparato i ragazzi'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/il-racconto-della-prof-di-marsala-ho-visto-la-morte-ho-riparato-i-ragazzi_72c1b11f-74b4-4440-bc5e-6cc24ff07cad.html",
-     "data": "2026-10-09T18:55:35+00:00"
+     "titolo": "Trombe marine nel Trapanese, undici famiglie sfollate",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/trombe-marine-nel-trapanese-undici-famiglie-sfollate_0a0542cb-ccaa-4f1b-9ba1-161685d7784d.html",
+     "data": "2026-10-10T06:46:11+00:00"
     },
     {
-     "titolo": "Imprenditore schiacciato da mini escavatore, incidente davanti al figlio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/imprenditore-schiacciato-da-mini-escavatore-incidente-davanti-al-figlio_2232aab3-d27d-4a8f-8fd7-2b99af6504ce.html",
-     "data": "2026-10-09T15:54:18+00:00"
+     "titolo": "Temporale a Lipari, esondati torrenti, fango in strade e case allagate",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/strade-e-case-allagate-nel-litorale-a-sud-di-roma-chiesto-stato-di-calamita_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
+     "data": "2026-10-10T07:59:40+00:00"
     },
     {
-     "titolo": "Trombe marine nel Trapanese, cade parete della palestra in scuola a Marsala",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/trombe-marine-nel-trapanese-cade-parete-della-palestra-in-scuola-a-marsala_cb1a3997-224c-40a5-9557-37732c08bc2c.html",
-     "data": "2026-10-09T15:52:56+00:00"
+     "titolo": "Unicef, nel mondo una ragazza su cinque data in sposa prima dei 18 anni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/unicef-nel-mondo-una-ragazza-su-cinque-data-in-sposa-prima-dei_a735b163-3fa9-4dba-b361-328b3743b956.html",
+     "data": "2026-10-10T06:02:51+00:00"
     },
     {
-     "titolo": "Domani pro-Pal in corteo in 50 città per chiedere 'la fine del genocidio'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/domani-pro-pal-in-corteo-in-50-citta-per-chiedere-la-fine-del-genocidio_75188469-31cc-4afa-ad48-9edb42b02165.html",
-     "data": "2026-10-09T15:41:33+00:00"
+     "titolo": "Unicef, nel mondo una ragazza su cinque data in sposa prima dei 18 anni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/unicef-nel-mondo-una-ragazza-su-cinque-data-in-sposa-prima-dei_4958d1cb-2f65-4b6e-8ff5-838860a84b89.html",
+     "data": "2026-10-10T07:40:48+00:00"
     },
     {
-     "titolo": "Un altro ordigno esplode a Roma, colpita una concessionaria a Centocelle",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/un-altro-ordigno-esplode-a-roma-colpita-una-concessionaria-a-centocelle_17f40ea5-4de2-4c1e-86f0-a22f1562fb20.html",
-     "data": "2026-10-09T15:27:59+00:00"
+     "titolo": "Allude sui social a stragi e atti violenti a scuola, denunciato 14enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/allude-sui-social-a-stragi-e-atti-violenti-a-scuola-denunciato-14enne_c3571ba9-7190-461b-adc5-b8cfe98178ab.html",
+     "data": "2026-10-10T07:22:20+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Vannacci: 'l'Italia è fondata sul lavoro, non sul bivacco'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/10/vannacci-litalia-e-fondata-sul-lavoro-non-sul-bivacco_6521130d-b89b-4129-8938-f35506527a33.html",
+     "data": "2026-10-10T08:16:48+00:00"
+    },
     {
      "titolo": "Ranucci, 'rispetto la sentenza e la accetto serenamente'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/09/ranucci-rispetto-la-sentenza-e-la-accetto-serenamente_bbd7ac0e-38a0-48d7-8a74-0d5ad1051baa.html",
@@ -198,7 +203,7 @@
     {
      "titolo": "Mattarella ha promulgato la legge elettorale",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/09/mattarella-ha-promulgato-la-legge-elettorale_b3de459f-a11e-40e2-9dee-6d7e76f64be4.html",
-     "data": "2026-10-09T19:08:29+00:00"
+     "data": "2026-10-10T08:18:10+00:00"
     },
     {
      "titolo": "Senatore 5S passa al Misto, approda a componente Psi come mossa 'anti-firme'",
@@ -230,6 +235,26 @@
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Confindustria etnea, autotrasporto siciliano fermo dal 16 al 22 ottobre",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/confindustria-etnea-autotrasporto-siciliano-fermo-dal-16-al-22-ottobre_6f45a6df-ddde-45d7-a014-74b5abdaf398.html",
+     "data": "2026-10-10T08:30:13+00:00"
+    },
+    {
+     "titolo": "Presidenza del Consiglio Ue propone taglio 141 miliardi al futuro Bilancio",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/presidenza-del-consiglio-ue-propone-taglio-141-miliardi-al-futuro-bilancio_5c35731f-42dc-486b-bd36-f8280c9a60f8.html",
+     "data": "2026-10-10T08:19:36+00:00"
+    },
+    {
+     "titolo": "Mimit, prezzi gasolio in leggero calo, benzina self a 2,035",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/mimit-prezzi-gasolio-in-leggero-calo-benzina-self-a-2035_5ca745eb-4118-4f4a-9ed9-4667a2216e2b.html",
+     "data": "2026-10-10T08:10:45+00:00"
+    },
+    {
+     "titolo": "Dopo monopattini stretta su e-bike, arrivano bicivelox e multe fino a 15mila euro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/dopo-monopattini-stretta-su-e-bike-arrivano-bicivelox-e-multe-fino-a-15mila-euro_62b8b276-2ec2-402a-be9a-9a973061e5fa.html",
+     "data": "2026-10-10T08:07:36+00:00"
+    },
     {
      "titolo": "Il petrolio chiude in rialzo a New York a 91,85 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/il-petrolio-chiude-in-rialzo-a-new-york-a-9185-dollari_e2184b45-2d05-460d-bf94-5eba155cc675.html",
@@ -269,26 +294,6 @@
      "titolo": "Borsa: l'Europa chiude in rialzo, si guarda a trimestrali",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-leuropa-chiude-in-rialzo-si-guarda-a-trimestrali_ac6b99e8-db66-4920-8760-18ed36f66167.html",
      "data": "2026-10-09T16:05:26+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in rialzo dello 0,91%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-milano-chiude-in-rialzo-dello-091_bcf49cd5-59d8-4bdd-a316-4dcfa5518fd0.html",
-     "data": "2026-10-09T15:45:24+00:00"
-    },
-    {
-     "titolo": "Lollobrigida, arriva documento elettronico dell'olio, nuova tutela per agricoltori",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/lollobrigida-arriva-documento-elettronico-dellolio-nuova-tutela-per-agricoltori_52d355a8-4b59-4075-8399-5c5e5bbb7dbb.html",
-     "data": "2026-10-09T14:39:39+00:00"
-    },
-    {
-     "titolo": "Distribuzione Moderna specializzata, mercato consumi fuori casa supera i 100 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/distribuzione-moderna-specializzata-mercato-consumi-fuori-casa-supera-i-100-miliardi_a8022347-795a-4ebd-8125-42e2debe1697.html",
-     "data": "2026-10-09T14:15:10+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa prosegue in rialzo dopo Wall Street, Milano +1,2%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-leuropa-prosegue-in-rialzo-dopo-wall-street-milano-12_836f427c-00c1-4eb6-9db5-9e93adaefa32.html",
-     "data": "2026-10-09T13:56:34+00:00"
     }
    ]
   },
@@ -296,9 +301,14 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Arrestato il leader del partito delle blatte prima di manifestazione non autorizzata",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/10/10/arrestato-il-leader-del-partito-delle-blatte-prima-di-manifestazione-non-autorizzata_28be932f-2595-46c5-a6d6-8d7f3d8a9542.html",
+     "data": "2026-10-10T08:32:53+00:00"
+    },
+    {
      "titolo": "L'uragano Isaias tocca terra in Florida come categoria 2, migliaia senza elettricità",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/luragano-isaias-tocca-terra-in-florida-come-categoria-2-migliaia-senza-elettricita_e5fa177c-af4e-4cf0-9f98-ae4b8a1be79a.html",
-     "data": "2026-10-10T01:51:21+00:00"
+     "data": "2026-10-10T08:32:45+00:00"
     },
     {
      "titolo": "Trump attacca la Norvegia sul Nobel: 'E' una macchia indelebile, non dimenticheremo'",
@@ -318,7 +328,7 @@
     {
      "titolo": "'Il marito di Kamala Harris confida, preferirei non si candidasse alla Casa Bianca'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/il-marito-di-kamala-harris-confida-preferirei-non-si-candidasse-alla-casa-bianca_353dc1ae-5a4f-4cce-b2a4-4a10d6f9e06e.html",
-     "data": "2026-10-10T00:48:59+00:00"
+     "data": "2026-10-10T03:43:57+00:00"
     },
     {
      "titolo": "Brasile, Raphinha condivide video contro la settimana lavorativa di sei giorni",
@@ -349,11 +359,6 @@
      "titolo": "Venezuela, terzo round di dialogo dal 14 ottobre su Corte suprema e partiti",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/venezuela-terzo-round-di-dialogo-dal-14-ottobre-su-corte-suprema-e-partiti_2c1ce62d-a210-4bcc-b3c5-1e2b29347b65.html",
      "data": "2026-10-09T21:55:15+00:00"
-    },
-    {
-     "titolo": "Trump, 'grande rapporto con Meloni, andiamo d'accordo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/09/trump-grande-rapporto-con-meloni-andiamo-daccordo_b670410c-fe1d-4fb6-84e5-c6354bb761ae.html",
-     "data": "2026-10-09T21:42:08+00:00"
     }
    ]
   },
