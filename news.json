@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-10-10T22:11:04.002309+00:00",
+ "aggiornato": "2026-10-11T01:03:47.031360+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "'Il Dipartimento di Giustizia Usa indaga sui network tv per la copertura del presidente'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/il-dipartimento-di-giustizia-usa-indaga-sui-network-tv-per-la-copertura-del-presidente_3b58dac9-4865-4023-99e0-0d7a24654fba.html",
+     "data": "2026-10-10T23:24:22+00:00"
+    },
     {
      "titolo": "Autorità, almeno 309 i feriti nell'attacco degli Houthi all'aeroporto di Riad",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/autorita-almeno-309-i-feriti-nellattacco-degli-houthi-allaeroporto-di-riad_fe551111-739b-435f-8bfb-b81180b34725.html",
@@ -49,11 +54,6 @@
      "titolo": "Procura di Sion apre inchiesta per fuga notizie su Crans-Montana",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/procura-di-sion-apre-inchiesta-per-fuga-notizie-su-crans-montana_767b6e7c-a53b-4d33-b78c-02751b19077a.html",
      "data": "2026-10-10T17:34:42+00:00"
-    },
-    {
-     "titolo": "Trump non esclude di unirsi ai raid sauditi, 'decideremo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/trump-non-esclude-di-unirsi-ai-raid-sauditi-decideremo_6444c4eb-5e4b-444f-b049-5b1b572c70b9.html",
-     "data": "2026-10-10T17:10:34+00:00"
     }
    ]
   },
@@ -316,6 +316,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "'Il Dipartimento di Giustizia Usa indaga sui network tv per la copertura del presidente'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/11/il-dipartimento-di-giustizia-usa-indaga-sui-network-tv-per-la-copertura-del-presidente_12074e43-7f9a-4c1d-9616-bf327eeedb70.html",
+     "data": "2026-10-10T23:24:28+00:00"
+    },
+    {
      "titolo": "Autorità, almeno 309 i feriti nell'attacco degli Houthi all'aeroporto di Riad",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/autorita-almeno-309-i-feriti-nellattacco-degli-houthi-allaeroporto-di-riad_8c3ae725-d7d5-428f-931e-df25e09934de.html",
      "data": "2026-10-10T22:09:09+00:00"
@@ -368,11 +373,6 @@
     {
      "titolo": "Trump non esclude di unirsi ai raid sauditi, 'decideremo'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-non-esclude-di-unirsi-ai-raid-sauditi-decideremo_0e4fdc34-5ccf-43c8-a502-d698c11116ff.html",
-     "data": "2026-10-10T17:10:59+00:00"
-    },
-    {
-     "titolo": "Trump non esclude di unirsi ai raid sauditi, 'decideremo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/trump-non-esclude-di-unirsi-ai-raid-sauditi-decideremo_8eaf7259-d934-45e0-8e78-a1635119431a.html",
      "data": "2026-10-10T17:10:59+00:00"
     }
    ]
