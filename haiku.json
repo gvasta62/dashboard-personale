@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-10T10:14:49.564119+00:00",
- "data": "2026-10-10",
- "testo": "Breve rovescio\nsul filo dei panni stesi\npende una goccia",
- "nota": "Una goccia sospesa al filo del bucato dopo lo scroscio leggero.",
+ "aggiornato": "2026-10-11T10:26:03.963669+00:00",
+ "data": "2026-10-11",
+ "testo": "Cielo incerto\ntra le foglie del fico\ncade un lombrico",
+ "nota": "Dopo il rovescio, un lombrico sorpreso sotto l'albero bagnato.",
  "archivio": [
+  {
+   "data": "2026-10-11",
+   "testo": "Cielo incerto\ntra le foglie del fico\ncade un lombrico",
+   "nota": "Dopo il rovescio, un lombrico sorpreso sotto l'albero bagnato."
+  },
   {
    "data": "2026-10-10",
    "testo": "Breve rovescio\nsul filo dei panni stesi\npende una goccia",
