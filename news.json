@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-10-11T01:03:47.031360+00:00",
+ "aggiornato": "2026-10-11T07:21:29.454311+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Ambasciata Usa alza il livello di allerta per i connazionali in Arabia Saudita",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/ambasciata-usa-alza-il-livello-di-allerta-per-i-connazionali-in-arabia-saudita_3e2d3cab-2fc1-4525-9e5e-5e4e7fa28214.html",
+     "data": "2026-10-11T07:10:51+00:00"
+    },
+    {
+     "titolo": "Trump: 'L'attacco all'aeroporto di Riad non è accettabile'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/trump-lattacco-allaeroporto-di-riad-non-e-accettabile_255ae644-e018-491a-8726-f54a945f9c36.html",
+     "data": "2026-10-11T03:26:28+00:00"
+    },
     {
      "titolo": "'Il Dipartimento di Giustizia Usa indaga sui network tv per la copertura del presidente'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/il-dipartimento-di-giustizia-usa-indaga-sui-network-tv-per-la-copertura-del-presidente_3b58dac9-4865-4023-99e0-0d7a24654fba.html",
@@ -44,16 +54,6 @@
      "titolo": "Dmitriev, 'Trump vuole una leadership di pace in Ucraina, è iconico e storico'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/dmitriev-trump-vuole-una-leadership-di-pace-in-ucraina-e-iconico-e-storico_0c2c9211-23c5-436e-8a9c-f39ebdd9eed7.html",
      "data": "2026-10-10T18:01:08+00:00"
-    },
-    {
-     "titolo": "Ranucci, 'i colleghi di Report potevano mandare un messaggio un po' prima'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/ranucci-i-colleghi-di-report-potevano-mandare-un-messaggio-un-po-prima_eb3b8a17-3395-4a6b-a6cd-b66eaf93d662.html",
-     "data": "2026-10-10T17:54:24+00:00"
-    },
-    {
-     "titolo": "Procura di Sion apre inchiesta per fuga notizie su Crans-Montana",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/procura-di-sion-apre-inchiesta-per-fuga-notizie-su-crans-montana_767b6e7c-a53b-4d33-b78c-02751b19077a.html",
-     "data": "2026-10-10T17:34:42+00:00"
     }
    ]
   },
@@ -126,6 +126,21 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Intercettato drone diretto in carcere, carico recuperato ma velivolo fugge",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/intercettato-drone-diretto-in-carcere-carico-recuperato-ma-velivolo-fugge_aad103ac-5ea1-47d4-b7a1-0d6e31cd1725.html",
+     "data": "2026-10-11T06:56:35+00:00"
+    },
+    {
+     "titolo": "Unicef, nel mondo una ragazza su cinque data in sposa prima dei 18 anni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/unicef-nel-mondo-una-ragazza-su-cinque-data-in-sposa-prima-dei_4958d1cb-2f65-4b6e-8ff5-838860a84b89.html",
+     "data": "2026-10-11T06:46:43+00:00"
+    },
+    {
+     "titolo": "Donna di 34 anni con disabilità rapinata a Napoli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/donna-di-34-anni-con-disabilita-rapinata-a-napoli_bdb8877a-a37d-4f97-b64f-7e348a4f9a40.html",
+     "data": "2026-10-11T06:32:12+00:00"
+    },
+    {
      "titolo": "Cinque escursionisti in difficoltà per il maltempo sulla Maiella",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/cinque-escursionisti-in-difficolta-per-il-maltempo-sulla-maiella_87384f44-6304-4b59-a1e9-942767c4dcbb.html",
      "data": "2026-10-10T19:37:37+00:00"
@@ -133,7 +148,7 @@
     {
      "titolo": "Nubifragi, allagamenti e frane: il maltempo fa paura al Sud",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/nubifragi-allagamenti-e-frane-il-maltempo-fa-paura-al-sud_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
-     "data": "2026-10-10T18:39:40+00:00"
+     "data": "2026-10-11T04:57:50+00:00"
     },
     {
      "titolo": "Maltempo in Calabria, danni e frane nel Reggino per le forti piogge",
@@ -169,21 +184,6 @@
      "titolo": "In migliaia al corteo pro Gaza a Bologna, traffico bloccato",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/in-migliaia-al-corteo-pro-gaza-a-bologna-traffico-bloccato_3a6010b8-c0da-44a1-8858-7a8b212887f9.html",
      "data": "2026-10-10T17:07:40+00:00"
-    },
-    {
-     "titolo": "La banda della minicar, verifiche sulla denuncia di un'auto rubata",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/la-banda-della-minicar-verifiche-sulla-denuncia-di-unauto-rubata_3d98a72b-ee37-4294-87b8-8eacba645393.html",
-     "data": "2026-10-10T17:06:18+00:00"
-    },
-    {
-     "titolo": "Ad Alessandria sfila il Sudario di Gaza per la Palestina",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/ad-alessandria-sfila-il-sudario-di-gaza-per-la-palestina_995646e5-26ed-4cde-bea9-76496cde0d7c.html",
-     "data": "2026-10-10T16:50:48+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-10-10T16:39:18+00:00"
     }
    ]
   },
@@ -316,6 +316,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Ambasciata Usa alza il livello di allerta per i connazionali in Arabia Saudita",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/11/ambasciata-usa-alza-il-livello-di-allerta-per-i-connazionali-in-arabia-saudita_18d95069-9a9b-4d03-96c3-da02a935a3f5.html",
+     "data": "2026-10-11T07:10:51+00:00"
+    },
+    {
+     "titolo": "Ambasciata Usa alza il livello di allerta per i connazionali in Arabia Saudita",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/11/ambasciata-usa-alza-il-livello-di-allerta-per-i-connazionali-in-arabia-saudita_6d0fc3de-ff9f-4de1-89d3-aa1889b07814.html",
+     "data": "2026-10-11T06:10:16+00:00"
+    },
+    {
+     "titolo": "Ambasciata Usa alza il livello di allerta per i connazionali in Arabia Saudita",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/ambasciata-usa-alza-il-livello-di-allerta-per-i-connazionali-in-arabia-saudita_ae5f2e7b-0e40-457a-8f5c-297a10385f1b.html",
+     "data": "2026-10-11T06:10:16+00:00"
+    },
+    {
+     "titolo": "Trump: 'L'attacco all'aeroporto di Riad non è accettabile'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/11/trump-lattacco-allaeroporto-di-riad-non-e-accettabile_3a17a438-0eb1-4c46-b001-7a2f32b30325.html",
+     "data": "2026-10-11T03:26:40+00:00"
+    },
+    {
      "titolo": "'Il Dipartimento di Giustizia Usa indaga sui network tv per la copertura del presidente'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/11/il-dipartimento-di-giustizia-usa-indaga-sui-network-tv-per-la-copertura-del-presidente_12074e43-7f9a-4c1d-9616-bf327eeedb70.html",
      "data": "2026-10-10T23:24:28+00:00"
@@ -354,26 +374,6 @@
      "titolo": "Burnham, 'piena solidarietà a Zelensky dopo le parole di Trump'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/burnham-piena-solidarieta-a-zelensky-dopo-le-parole-di-trump_29735a09-c82c-4373-83a8-f4bf67bc7e1e.html",
      "data": "2026-10-10T19:29:56+00:00"
-    },
-    {
-     "titolo": "Kiev, 'dichiarazioni dall'estero confermano che Zelensky svolge bene il suo lavoro'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/kiev-dichiarazioni-dallestero-confermano-che-zelensky-svolge-bene-il-suo-lavoro_d8793157-a810-468c-9886-6f7c125aab1e.html",
-     "data": "2026-10-10T19:02:53+00:00"
-    },
-    {
-     "titolo": "Dmitriev, 'Trump vuole una leadership di pace in Ucraina, è iconico e storico'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/dmitriev-trump-vuole-una-leadership-di-pace-in-ucraina-e-iconico-e-storico_98a3fa58-34eb-4628-8c2d-0047a7d9b875.html",
-     "data": "2026-10-10T18:01:11+00:00"
-    },
-    {
-     "titolo": "Dmitriev, 'Trump vuole una leadership di pace in Ucraina, è iconico e storico'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/dmitriev-trump-vuole-una-leadership-di-pace-in-ucraina-e-iconico-e-storico_751c212e-6250-4b31-93bf-fa58aa6c07e1.html",
-     "data": "2026-10-10T18:01:11+00:00"
-    },
-    {
-     "titolo": "Trump non esclude di unirsi ai raid sauditi, 'decideremo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-non-esclude-di-unirsi-ai-raid-sauditi-decideremo_0e4fdc34-5ccf-43c8-a502-d698c11116ff.html",
-     "data": "2026-10-10T17:10:59+00:00"
     }
    ]
   },
