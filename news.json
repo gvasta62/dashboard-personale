@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-10-11T22:59:24.018364+00:00",
+ "aggiornato": "2026-10-12T02:02:56.085553+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Seoul: lanciati dalla Corea del Nord 'diversi missili balistici'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/seoul-lanciati-dalla-corea-del-nord-diversi-missili-balistici_080f2c5f-e301-4e4d-9b81-cd6172c21674.html",
+     "data": "2026-10-12T01:45:31+00:00"
+    },
+    {
+     "titolo": "Messico colpito da due cicloni, scatta l'allarme",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/messico-colpito-da-due-cicloni-scatta-lallarme_1f420a08-5ed7-4fc9-a024-ba411ed3822f.html",
+     "data": "2026-10-12T00:23:47+00:00"
+    },
+    {
+     "titolo": "Almeno un morto e 11 feriti nel nuovo attacco all'aeroporto di Riad",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/almeno-un-morto-e-11-feriti-nel-nuovo-attacco-allaeroporto-di-riad_ec347fa3-04d2-4a6e-bc5d-6dbfa06cd64d.html",
+     "data": "2026-10-11T23:36:29+00:00"
+    },
     {
      "titolo": "Flop di 'The social reckoning', l'horror 'Other Mommy' conquista il botteghino Usa",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/flop-di-the-social-reckoning-lhorror-other-mommy-conquista-il-botteghino-usa_2da6e6ff-ed8c-409c-ad79-52bb566b1695.html",
@@ -39,21 +54,6 @@
      "titolo": "Domani cda straordinario di Mps dopo le mosse di Intesa",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/domani-cda-straordinario-di-mps-dopo-le-mosse-di-intesa_97057d85-9747-4344-acbb-47f2e67b40e6.html",
      "data": "2026-10-11T17:11:48+00:00"
-    },
-    {
-     "titolo": "In Francia Glucksmann conquista le primarie socialdemocratiche già dal primo turno",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/in-francia-glucksmann-conquista-le-primarie-socialdemocratiche-gia-dal-primo-turno_3abcea1a-0a48-410e-b01b-f4bac19ca2bf.html",
-     "data": "2026-10-11T16:39:09+00:00"
-    },
-    {
-     "titolo": "Tusk, arrestato presunto attentatore che voleva colpire me e ministro difesa",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/tusk-arrestato-presunto-attentatore-che-voleva-colpire-me-e-ministro-difesa_bb698280-fd4c-48f0-a025-dec32a3c5204.html",
-     "data": "2026-10-11T16:04:08+00:00"
-    },
-    {
-     "titolo": "Von der Leyen, 'pieno sostegno a Zelensky, guerra in una fase più cupa'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/von-der-leyen-pieno-sostegno-a-zelensky-guerra-in-una-fase-piu_f3512309-e708-43f3-8c24-e5bc6b78fa01.html",
-     "data": "2026-10-11T16:01:30+00:00"
     }
    ]
   },
@@ -316,6 +316,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Seoul: lanciati dalla Corea del Nord 'diversi missili balistici'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/10/12/seoul-lanciati-dalla-corea-del-nord-diversi-missili-balistici_5c36b022-4c65-460f-b8bc-52cf75e31ca1.html",
+     "data": "2026-10-12T01:45:47+00:00"
+    },
+    {
+     "titolo": "Fujimori al Congresso peruviano, 'diteci se state con la violenza o con la pace'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/12/fujimori-al-congresso-peruviano-diteci-se-state-con-la-violenza-o-con-la-pace_97cdbdab-508b-4be1-98e8-25db25d07b9f.html",
+     "data": "2026-10-12T01:42:52+00:00"
+    },
+    {
+     "titolo": "Messico colpito da due cicloni, scatta l'allarme",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/12/messico-colpito-da-due-cicloni-scatta-lallarme_c0a48ad9-25d4-412e-92c0-03dc53ef6994.html",
+     "data": "2026-10-12T00:23:47+00:00"
+    },
+    {
+     "titolo": "Interscambio Italia-Messico in crescita, nonostante la frenata ad agosto",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/12/interscambio-italia-messico-in-crescita-nonostante-la-frenata-ad-agosto_d11a9264-b161-4ad5-8140-c78d1cf71c8a.html",
+     "data": "2026-10-11T23:56:24+00:00"
+    },
+    {
+     "titolo": "Almeno un morto e 11 feriti nel nuovo attacco all'aeroporto di Riad",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/10/12/almeno-un-morto-e-11-feriti-nel-nuovo-attacco-allaeroporto-di-riad_986f58f7-adc0-44f2-b4cb-132445c1fcaf.html",
+     "data": "2026-10-11T23:36:33+00:00"
+    },
+    {
      "titolo": "Zelensky, Mosca ha colpito centrale elettrica dopo annuncio Trump su tregua",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/zelensky-mosca-ha-colpito-centrale-elettrica-dopo-annuncio-trump-su-tregua_7ff12b5a-d4f2-4afe-99a8-3f0ac2922557.html",
      "data": "2026-10-11T18:10:01+00:00"
@@ -349,31 +374,6 @@
      "titolo": "Von der Leyen, 'pieno sostegno a Zelensky, guerra in una fase più cupa'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/von-der-leyen-pieno-sostegno-a-zelensky-guerra-in-una-fase-piu_bac9f0f8-75e2-49e9-bea6-6e67762f2b20.html",
      "data": "2026-10-11T17:07:48+00:00"
-    },
-    {
-     "titolo": "'Zelensky, non sapevo della tregua, diteci quando inizia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/zelensky-non-sapevo-della-tregua-diteci-quando-inizia_f6fb6e94-3045-43cb-b120-4bbf0d301d23.html",
-     "data": "2026-10-11T17:08:08+00:00"
-    },
-    {
-     "titolo": "Nuovo attacco colpisce l'aeroporto di Riad, incendio a terminal",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/nuovo-attacco-colpisce-laeroporto-di-riad-incendio-a-terminal_bf5011f6-da02-4151-8917-d43bd0f893ee.html",
-     "data": "2026-10-11T14:58:08+00:00"
-    },
-    {
-     "titolo": "Esplosione udita nel centro di Riad",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/esplosione-udita-nel-centro-di-riad_7712707c-31ee-4ca7-8916-c3159bd47563.html",
-     "data": "2026-10-11T14:07:11+00:00"
-    },
-    {
-     "titolo": "Zelensky a Trump, 'spetta agli ucraini scegliere il proprio leader'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/zelensky-a-trump-spetta-agli-ucraini-scegliere-il-proprio-leader_93d4e9c5-29a8-45f2-a27c-24e0a6d02cae.html",
-     "data": "2026-10-11T17:09:07+00:00"
-    },
-    {
-     "titolo": "Bessent, 'accordo con la Russia a beneficio americani, Europa ipocrita a criticarlo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/bessent-accordo-con-la-russia-a-beneficio-americani-europa-ipocrita-a-criticarlo_d4f9f19e-07ef-4fc5-8b13-2d0ab9b9d20c.html",
-     "data": "2026-10-11T17:09:22+00:00"
     }
    ]
   },
