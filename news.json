@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-10-12T19:11:04.868227+00:00",
+ "aggiornato": "2026-10-13T01:28:11.563414+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,78%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/borsa-tokyo-apertura-in-calo-078_b43c3a31-4649-4426-9eeb-45f58558d572.html",
+     "data": "2026-10-13T00:32:29+00:00"
+    },
+    {
+     "titolo": "Mps, il premio offerto da Intesa resta inferiore alla media",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/mps-il-premio-offerto-da-intesa-resta-inferiore-alla-media_9de82ca0-0ac1-4b17-b216-3a1be585ec09.html",
+     "data": "2026-10-12T19:38:56+00:00"
+    },
+    {
+     "titolo": "Zelensky, almeno due morti questa sera in attacchi russi a Kiev",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/zelensky-almeno-due-morti-questa-sera-in-attacchi-russi-a-kiev_25f4c29f-64a1-4dfa-a55c-c5d70bf91a81.html",
+     "data": "2026-10-12T19:06:20+00:00"
+    },
     {
      "titolo": "Tajani, attacco Trump a Zelensky? Tocca a ucraini scegliere loro presidente",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/tajani-attacco-trump-a-zelensky-tocca-a-ucraini-scegliere-loro-presidente_9f51fbbb-26ed-43fd-a9a8-341dbf0d17f5.html",
@@ -39,21 +54,6 @@
      "titolo": "Annullate tutte le udienze del Papa fino al 20 ottobre",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/annullate-tutte-le-udienze-del-papa-fino-al-20-ottobre_21a1feb8-0181-485c-ae3e-c0fdcd938535.html",
      "data": "2026-10-12T16:27:37+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano sale con le banche, l'Europa guarda alle trimestrali",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/borsa-milano-sale-con-le-banche-leuropa-guarda-alle-trimestrali_91bdbbfd-e107-4777-aa98-2d82f75c6bcb.html",
-     "data": "2026-10-12T16:25:29+00:00"
-    },
-    {
-     "titolo": "Lo spread Btp-Bund a 109,9 punti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/lo-spread-btp-bund-a-1099-punti_579b1c80-24e7-40e6-90c5-df56511d0062.html",
-     "data": "2026-10-12T16:02:45+00:00"
-    },
-    {
-     "titolo": "Leonardo Maria Del Vecchio, 'con Essilux che perde 50% Milleri dovrebbe essere teso'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/leonardo-maria-del-vecchio-con-essilux-che-perde-50-milleri-dovrebbe_fee3fc8e-abc7-43e3-8b58-757301ad7a7c.html",
-     "data": "2026-10-12T16:03:26+00:00"
     }
    ]
   },
@@ -256,6 +256,16 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,78%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/13/borsa-tokyo-apertura-in-calo-078_1f798962-a8fd-4798-8a6c-5e5ebb66602a.html",
+     "data": "2026-10-13T00:32:31+00:00"
+    },
+    {
+     "titolo": "Mps critica Intesa, ma Lovaglio non ha un piano B",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/mps-il-premio-offerto-da-intesa-resta-inferiore-alla-media_3fec341e-bcd3-4732-af46-bd23c9a6bac4.html",
+     "data": "2026-10-12T21:10:28+00:00"
+    },
+    {
      "titolo": "Il petrolio chiude in rialzo a New York a 93,74 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/il-petrolio-chiude-in-rialzo-a-new-york-a-9374-dollari_2f2b20a4-854a-449d-b611-71a6aee33d49.html",
      "data": "2026-10-12T18:43:01+00:00"
@@ -276,9 +286,9 @@
      "data": "2026-10-12T16:58:59+00:00"
     },
     {
-     "titolo": "Giorgetti: 'Nuova flessibilità per aiutare le famiglie, se l'Ue dice no sbaglia'",
+     "titolo": "Incognita clausola di salvaguardia sui tempi della manovra. Giorgetti: 'Chi può contribuisca'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/giorgetti-litalia-dimostra-di-saper-mantenere-impegni-percorso-conti-e-sostenibile_07500243-a9f1-4192-8a50-6781953f4c0f.html",
-     "data": "2026-10-12T19:03:39+00:00"
+     "data": "2026-10-12T19:32:31+00:00"
     },
     {
      "titolo": "Borsa: Milano sale con le banche, l'Europa guarda alle trimestrali",
@@ -304,16 +314,6 @@
      "titolo": "Leonardo Maria Del Vecchio, 'con Essilux che perde 50% Milleri dovrebbe essere teso'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/leonardo-maria-del-vecchio-con-essilux-che-perde-50-milleri-dovrebbe_9e62557b-eae7-4753-8831-1411362f9799.html",
      "data": "2026-10-12T16:07:46+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in rialzo, Ftse Mib +0,58%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/borsa-milano-chiude-in-rialzo-ftse-mib-058_2484c089-86f0-441e-a98d-cad4d7922938.html",
-     "data": "2026-10-12T15:45:21+00:00"
-    },
-    {
-     "titolo": "Upb, rischi al rialzo sulla traiettoria del debito",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/upb-rischi-al-rialzo-sulla-traiettoria-del-debito_e7629540-b05a-47e3-8ebf-704741270c59.html",
-     "data": "2026-10-12T15:43:22+00:00"
     }
    ]
   },
@@ -321,64 +321,64 @@
    "nome": "Mondo",
    "voci": [
     {
-     "titolo": "Zelensky, almeno due morti questa sera in attacchi russi a Kiev",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/12/zelensky-almeno-due-morti-questa-sera-in-attacchi-russi-a-kiev_a17bd30e-697d-4c49-b1e6-83eb02a3e3c0.html",
-     "data": "2026-10-12T19:06:37+00:00"
+     "titolo": "L'uragano Simon verso Mazatlán, due vittime in Messico",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/luragano-simon-verso-mazatlan-due-vittime-in-messico_a511d796-1426-41d7-8e87-71b254505fc1.html",
+     "data": "2026-10-13T01:11:39+00:00"
     },
     {
-     "titolo": "Sospese operazioni nella principale miniera di rame in Cile dopo morte di due operai",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/12/sospese-operazioni-nella-principale-miniera-di-rame-in-cile-dopo-morte-di-due_7a6b6c37-d951-47c0-aac1-9dc159ef118a.html",
-     "data": "2026-10-12T18:17:43+00:00"
+     "titolo": "Abinader alla Fao, la Repubblica Dominicana sconfigge la fame",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/abinader-alla-fao-la-repubblica-dominicana-sconfigge-la-fame_d28a4ff8-5ab5-43fe-93dc-a509cdc9a3c2.html",
+     "data": "2026-10-13T00:54:51+00:00"
     },
     {
-     "titolo": "Tajani, attacco Trump a Zelensky? Tocca a ucraini scegliere loro presidente",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/12/tajani-attacco-trump-a-zelensky-tocca-a-ucraini-scegliere-loro-presidente_8d2ee934-3389-4f7f-9dd7-e262aaa632c2.html",
-     "data": "2026-10-12T18:04:37+00:00"
+     "titolo": "Venezuela, Delcy Rodríguez annuncia un piano per puntare alla sicurezza alimentare",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/venezuela-delcy-rodriguez-annuncia-un-piano-per-puntare-alla-sicurezza-alimentare_e905680b-42a7-4aa0-81e2-182e676bf062.html",
+     "data": "2026-10-12T23:45:21+00:00"
     },
     {
-     "titolo": ">ANSA-FOCUS/ Chiclayo in ansia, la sua ex diocesi peruviana prega e l'aspetta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/12/ansa-focus-chiclayo-in-ansia-la-sua-ex-diocesi-peruviana-prega-e-laspetta_afc70401-da00-4f06-a960-0689f73c48b9.html",
-     "data": "2026-10-12T18:04:14+00:00"
+     "titolo": "Brasile, Flávio Bolsonaro annuncia visita al padre dopo tre mesi di stop",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/brasile-flavio-bolsonaro-annuncia-visita-al-padre-dopo-tre-mesi-di-stop_ccb93636-b518-422e-947f-896b6bdf6ec4.html",
+     "data": "2026-10-12T23:45:43+00:00"
     },
     {
-     "titolo": "Robot 'molesta' 16enne, proprietario indagato dalla polizia di Colonia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/12/robot-molesta-16enne-proprietario-indagato-dalla-polizia-di-colonia_d9b3abcd-73e2-4f87-8d49-0318b4129a7f.html",
-     "data": "2026-10-12T15:59:08+00:00"
+     "titolo": "Colombia, governo De la Espriella chiede di escludere la riforma rurale da mandato Onu",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/colombia-governo-de-la-espriella-chiede-di-escludere-la-riforma-rurale-da-mandato-onu_3e08e115-97b9-49e3-87e8-ad868766d848.html",
+     "data": "2026-10-12T23:43:49+00:00"
     },
     {
-     "titolo": "Si dimette il vice commissario nazionale per indagini criminali in Sudafrica",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/10/12/si-dimette-il-vice-commissario-nazionale-per-indagini-criminali-in-sudafrica_c7f6babf-7e8b-4a24-b5d4-d0def8615edd.html",
-     "data": "2026-10-12T15:07:55+00:00"
+     "titolo": "Cile, Bachelet convoca sei partiti di opposizione per coordinare una linea comune",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/cile-bachelet-convoca-sei-partiti-di-opposizione-per-coordinare-una-linea_fad2dfce-a453-4110-a2a7-6a080d97b5ab.html",
+     "data": "2026-10-12T23:02:57+00:00"
     },
     {
-     "titolo": "Comandante della Nato, 'non vogliamo la guerra ma se attaccati combatteremo'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/12/comandante-della-nato-non-vogliamo-la-guerra-ma-se-attaccati-combatteremo_c8d0436a-01f4-47ef-8eb9-afaaa6ba5b4c.html",
-     "data": "2026-10-12T13:54:26+00:00"
+     "titolo": "Brasile, Petro propone una rete di attivismo digitale per sostenere Lula",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/brasile-petro-propone-una-rete-di-attivismo-digitale-per-sostenere-lula_cdc9e017-4784-4c0a-9b58-76845d8e46b5.html",
+     "data": "2026-10-12T22:54:31+00:00"
     },
     {
-     "titolo": "Il giudice autorizza Flavio Bolsonaro a visitare il padre ai domiciliari",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/12/il-giudice-autorizza-flavio-bolsonaro-a-visitare-il-padre-ai-domiciliari_89db9068-db91-4606-8657-a189855fbd87.html",
-     "data": "2026-10-12T13:40:32+00:00"
+     "titolo": "Brasile, migliaia in piazza a Rio per sostenere la rielezione di Lula",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/brasile-migliaia-in-piazza-a-rio-per-sostenere-la-rielezione-di-lula_c46293e8-d272-4107-82e9-18abfe92df27.html",
+     "data": "2026-10-12T22:12:21+00:00"
     },
     {
-     "titolo": "Banca Centrale di Mauritius vede inflazione superare il target entro fine anno",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/10/12/banca-centrale-di-mauritius-vede-inflazione-superare-il-target-entro-fine-anno_bf659e7e-46bd-4f19-967c-bd99e07698ea.html",
-     "data": "2026-10-12T13:32:05+00:00"
+     "titolo": "Nicaragua, il Papa ha ricevuto in Vaticano il presidente dei vescovi Herrera Gutiérrez",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/nicaragua-il-papa-ha-ricevuto-in-vaticano-il-presidente-dei-vescovi-herrera-gutierrez_4f300eed-c06b-46a5-8890-787accb245dd.html",
+     "data": "2026-10-12T22:03:57+00:00"
     },
     {
-     "titolo": "Kiev, 'un'adolescente tra i 3 morti in raid russo su una casa a Kramatorsk'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/12/kiev-unadolescente-tra-i-3-morti-in-raid-russo-su-una-casa-a-kramatorsk_8edd3f18-bfca-452c-9f0e-add75520d868.html",
-     "data": "2026-10-12T13:08:38+00:00"
+     "titolo": "Cuba, nuove regole per attirare investimenti stranieri nel settore petrolifero",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/cuba-nuove-regole-per-attirare-investimenti-stranieri-nel-settore-petrolifero_eb53db3f-ac49-444d-a437-b7ef0a7f5070.html",
+     "data": "2026-10-12T22:02:04+00:00"
     },
     {
-     "titolo": "Griksas (Lituania), soldati al confine con Kaliningrad sono parte di nostra resilienza",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/12/griksas-lituania-soldati-al-confine-con-kaliningrad-sono-parte-di-nostra-resilienza_c28af481-bc82-4cd8-816a-b36bece242e0.html",
-     "data": "2026-10-12T12:54:06+00:00"
+     "titolo": "Bolivia, il presidente Paz denuncia minacce di morte dopo arresto di un capo del Pcc",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/12/bolivia-il-presidente-paz-denuncia-minacce-di-morte-dopo-arresto-di-un-capo-del_e4e57ffb-d6cc-42f2-8843-255cc2b0a798.html",
+     "data": "2026-10-12T21:28:41+00:00"
     },
     {
-     "titolo": "Terremoto nell'Spd in Germania, si dimette la copresidente. Entro gennaio il congresso",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/12/crisi-dellspd-entro-gennaio-congresso-per-eleggere-nuovi-vertici_506be4e5-37fd-4d39-b342-558bcb1c5869.html",
-     "data": "2026-10-12T14:11:28+00:00"
+     "titolo": "Riad vuole una tregua con gli Houthi prima del vertice degli investitori",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/12/riad-vuole-una-tregua-con-gli-houthi-prima-del-vertice_54b80cae-e318-43a8-bdb7-c905e44a4c7d.html",
+     "data": "2026-10-12T19:18:34+00:00"
     }
    ]
   },
@@ -451,9 +451,14 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Serie A, in campo Torino-Udinese DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/serie-a-in-campo-torino-udinese-diretta_08421611-f5e0-4980-94bc-3aef161342e2.html",
-     "data": "2026-10-12T18:52:00+00:00"
+     "titolo": "Serie A, il Torino si sblocca in casa, l'Udinese battuta 2-1",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/serie-a-il-torino-si-sblocca-in-casa-ludinese-battuta-2-1_08421611-f5e0-4980-94bc-3aef161342e2.html",
+     "data": "2026-10-12T21:22:56+00:00"
+    },
+    {
+     "titolo": "Il Torino si sblocca in casa, Udinese battuta 2-1",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/il-torino-si-sblocca-in-casa-udinese-battuta-2-1_b22f396d-eecd-449e-95f4-dfeec42d8887.html",
+     "data": "2026-10-12T21:01:33+00:00"
     },
     {
      "titolo": "Serie A, l'Atalanta cambia modulo e vince, ma col Venezia soffre",
@@ -504,11 +509,6 @@
      "titolo": "Atletica: Golden Gala 2027 si terrà il 27 maggio",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/12/atletica-golden-gala-2027-si-terra-il-27-maggio_9b2b325f-2873-4e49-94bd-db8adb825850.html",
      "data": "2026-10-12T15:53:00+00:00"
-    },
-    {
-     "titolo": "Simonelli, il sostegno della Lega Serie A a Malagò non è in discussione",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/simonelli-il-sostegno-della-lega-serie-a-a-malago-non-e-in-discussione_a38328bd-5c96-49f2-9290-c17ffebc7e22.html",
-     "data": "2026-10-12T15:12:26+00:00"
     }
    ]
   }
