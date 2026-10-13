@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-10-13T20:50:55.081517+00:00",
+ "aggiornato": "2026-10-13T23:59:14.448897+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Meloni: 'Tra l'Italia e gli Usa un'amicizia fondata su libertà e democrazia'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/meloni-tra-litalia-e-gli-usa-unamicizia-fondata-su-liberta-e-democrazia_d901e006-cd07-4c08-9ed6-fe599b754be5.html",
+     "data": "2026-10-13T23:03:58+00:00"
+    },
     {
      "titolo": "Zelensky, 'raid su centrale termoelettrica a Kiev, gli alleati non ci hanno avvertito'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/zelensky-raid-su-centrale-termoelettrica-a-kiev-gli-alleati-non-ci-hanno-avvertito_4751c758-dd8f-4e1e-8f7c-244fd22ce2d6.html",
@@ -49,11 +54,6 @@
      "titolo": "Media, 'Netanyahu ha parlato con Trump di riprendere guerra contro l'Iran'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/media-netanyahu-ha-parlato-con-trump-di-riprendere-guerra-contro-liran_92ad1ffa-d57e-4ea6-aacb-649c52f66d6c.html",
      "data": "2026-10-13T18:11:05+00:00"
-    },
-    {
-     "titolo": "Incidente sulle montagne russe di Six Flags ad Atlanta, un morto e numerosi feriti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/incidente-sulle-montagne-russe-di-six-flags-ad-atlanta-un-morto-e-numerosi-feriti_79ead5b6-21b5-4bd1-aa27-493eb923849c.html",
-     "data": "2026-10-13T18:07:01+00:00"
     }
    ]
   },
@@ -191,6 +191,16 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Meloni: 'Tra l'Italia e gli Usa un'amicizia fondata su libertà e democrazia'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/14/meloni-tra-litalia-e-gli-usa-unamicizia-fondata-su-liberta-e-democrazia_69e8b0d4-d4a3-46fb-bdd8-2049d0f7a0e8.html",
+     "data": "2026-10-13T23:04:12+00:00"
+    },
+    {
+     "titolo": "Per l'operazione al Papa un'equipe di sette medici",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/13/per-loperazione-al-papa-unequipe-di-sette-medici_ed850805-ac4b-4f0f-9a79-ae975fab2633.html",
+     "data": "2026-10-13T21:13:46+00:00"
+    },
+    {
      "titolo": "Slittano i tempi della manovra. Tensione sul taglio dell'Irpef",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/13/slittano-i-tempi-della-manovra.-tensione-sul-taglio-dellirpef_5bd42336-64a7-46bf-b4e1-fda7a507461a.html",
      "data": "2026-10-13T19:46:33+00:00"
@@ -239,16 +249,6 @@
      "titolo": "Fonti Chigi, 'sul Cdm mero errore materiale'. Verso la manovra a novembre",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/13/fonti-chigi-sul-cdm-mero-errore-materiale.-verso-la-manovra-a-novembre_93bb22d9-484e-40a7-803b-c9e1e0c424d4.html",
      "data": "2026-10-13T16:21:29+00:00"
-    },
-    {
-     "titolo": "Conte, confido che sulla risoluzione su Kiev si possano compattare le opposizioni",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/13/conte-confido-che-sulla-risoluzione-su-kiev-si-possano-compattare-le-opposizioni_86bdc5f7-2dad-4188-ba19-47e013b52711.html",
-     "data": "2026-10-13T14:40:36+00:00"
-    },
-    {
-     "titolo": "Il sindaco di Venezia ricevuto al Quirinale dal Presidente Mattarella",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/13/il-sindaco-di-venezia-ricevuto-al-quirinale-dal-presidente-mattarella_b0b678fc-555b-4ed6-aac5-b9b157e81e92.html",
-     "data": "2026-10-13T14:11:48+00:00"
     }
    ]
   },
@@ -321,6 +321,41 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Messico, i vescovi pregano per la pronta guarigione di Leone XIV",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/messico-i-vescovi-pregano-per-la-pronta-guarigione-di-leone-xiv_5b6f7e5b-eef0-4fa1-a592-1b94764f778f.html",
+     "data": "2026-10-13T23:51:13+00:00"
+    },
+    {
+     "titolo": "Perù, la Chiesa è costernata per la diagnosi del Papa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/peru-la-chiesa-e-costernata-per-la-diagnosi-del-papa_b52b282b-55da-469f-917a-15e148aeb1c1.html",
+     "data": "2026-10-13T23:52:00+00:00"
+    },
+    {
+     "titolo": "Cile, il governo augura al Papa una pronta e completa guarigione",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/cile-il-governo-augura-al-papa-una-pronta-e-completa-guarigione_7ca10c77-331a-4e40-b0d3-eadf22dacc51.html",
+     "data": "2026-10-13T23:31:40+00:00"
+    },
+    {
+     "titolo": "Meloni: 'Tra l'Italia e gli Usa un'amicizia fondata su libertà e democrazia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/14/meloni-tra-litalia-e-gli-usa-unamicizia-fondata-su-liberta-e-democrazia_dcd331a8-302e-4fbd-8974-be755fb91615.html",
+     "data": "2026-10-13T23:03:56+00:00"
+    },
+    {
+     "titolo": "Venezuela, insulti a Montevideo dal viceministro William Castillo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/venezuela-insulti-a-montevideo-dal-viceministro-william-castillo_eec082f6-7fb7-45ac-a426-d39778418768.html",
+     "data": "2026-10-13T22:56:20+00:00"
+    },
+    {
+     "titolo": "Colombia, imputati 10 ex capi Farc per crimini contro gli indigeni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/colombia-imputati-10-ex-capi-farc-per-crimini-contro-gli-indigeni_109fddbb-ee6a-4eac-8e10-6dc37d00693e.html",
+     "data": "2026-10-13T22:40:59+00:00"
+    },
+    {
+     "titolo": "Delcy Rodríguez prega per la pronta guarigione di Leone XIV",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/delcy-rodriguez-prega-per-la-pronta-guarigione-di-leone-xiv_61b1adaf-3a37-456d-b82c-c023567f5c65.html",
+     "data": "2026-10-13T21:02:01+00:00"
+    },
+    {
      "titolo": "Argentina, indetto il primo appalto per la costruzione della base militare di Ushuaia",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/argentina-indetto-il-primo-appalto-per-la-costruzione-della-base-militare-di-ushuaia_2f625b53-1e68-4c26-8daa-9d6f153bf3a8.html",
      "data": "2026-10-13T20:46:07+00:00"
@@ -344,41 +379,6 @@
      "titolo": "Forti esplosioni udite a Riad e nei pressi di un impianto Aramco nell'est",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/13/forti-esplosioni-udite-a-riad-e-nei-pressi-di-un-impianto-aramco-nellest_d1cad3c2-1e4c-48b8-b509-4c2ae94da918.html",
      "data": "2026-10-13T19:07:54+00:00"
-    },
-    {
-     "titolo": "Media, 'Netanyahu ha parlato con Trump di riprendere guerra contro l'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/13/media-netanyahu-ha-parlato-con-trump-di-riprendere-guerra-contro-liran_77113865-6e34-4717-b23f-769c968979aa.html",
-     "data": "2026-10-13T18:11:10+00:00"
-    },
-    {
-     "titolo": "Media, 'Netanyahu ha parlato con Trump di riprendere guerra contro l'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/13/media-netanyahu-ha-parlato-con-trump-di-riprendere-guerra-contro-liran_732073a7-b49a-4e59-beb7-b31e3b835b35.html",
-     "data": "2026-10-13T18:11:27+00:00"
-    },
-    {
-     "titolo": "Incidente sulle montagne russe di Six Flags ad Atlanta, un morto e numerosi feriti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/13/incidente-sulle-montagne-russe-di-six-flags-ad-atlanta-un-morto-e-numerosi-feriti_feaca883-a75c-4a1f-89b9-f6912b07d0cf.html",
-     "data": "2026-10-13T18:07:19+00:00"
-    },
-    {
-     "titolo": "Il primo briefing della nuova portavoce di Trump, uno dei più corti di sempre",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/13/il-primo-briefing-della-nuova-portavoce-di-trump-uno-dei-piu-corti_c525e71c-4583-4e73-84fc-37c43301f6c5.html",
-     "data": "2026-10-13T18:05:20+00:00"
-    },
-    {
-     "titolo": "La sinistra cilena si ricompatta dietro Michelle Bachelet",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/la-sinistra-cilena-si-ricompatta-dietro-michelle-bachelet_25c2a023-6a86-4969-9268-609a1f5331e8.html",
-     "data": "2026-10-13T17:58:16+00:00"
-    },
-    {
-     "titolo": "Protesta dei sindacati per chiedere l'aumento del salario minimo in Venezuela",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/protesta-dei-sindacati-per-chiedere-laumento-del-salario-minimo-in-venezuela_a120039b-bb8f-4162-848d-a9a555ac517e.html",
-     "data": "2026-10-13T17:11:21+00:00"
-    },
-    {
-     "titolo": "Scontri a Parigi durante la mobilitazione studentesca",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/13/scontri-a-parigi-durante-la-mobilitazione-studentesca_b7c09945-f4be-432b-a00b-cf53bbde8c74.html",
-     "data": "2026-10-13T16:21:02+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Champions: poker del Bruges all'Inter, nerazzurri a zero punti",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/13/champions-poker-del-bruges-allinter-nerazzurri-a-zero-punti-_6b5dbe6c-55e7-4a3b-b935-f0eea36cc948.html",
+     "data": "2026-10-13T21:31:44+00:00"
+    },
+    {
+     "titolo": "Champions League: Il Napoli sbanda con il Villarreal, seconda sconfitta",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/13/champions-league-il-napoli-sbanda-con-il-villarreal-seconda-sconfitta_72b8f67c-6c3e-448b-b4ba-d6832f320ddf.html",
+     "data": "2026-10-13T21:28:31+00:00"
+    },
+    {
      "titolo": "Fiorentina: Mastantuono operato ad una mano, con il Como ci sarà",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/13/fiorentina-mastantuono-operato-ad-una-mano-con-il-como-ci-sara_f3d63f2f-1d52-4e5d-bdd7-83f3b1d1e4f8.html",
      "data": "2026-10-13T19:41:35+00:00"
@@ -459,16 +469,6 @@
      "titolo": "Champions: choc per rapina, portiere del Villarreal non in campo col Napoli",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/13/champions-choc-per-rapina-portiere-del-villarreal-non-in-campo-col_23d26f3b-17c6-4736-a7b1-3046685d2e69.html",
      "data": "2026-10-13T19:06:59+00:00"
-    },
-    {
-     "titolo": "Champions League: in campo Villarreal-Napoli 2-1 DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/13/champions-league-in-campo-villarreal-napoli-0-0-diretta_72b8f67c-6c3e-448b-b4ba-d6832f320ddf.html",
-     "data": "2026-10-13T20:26:06+00:00"
-    },
-    {
-     "titolo": "Champions League: in campo Inter-Club Brugge 1-3 LIVE",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/13/champions-league-in-campo-inter-club-brugge-0-0-live_6b5dbe6c-55e7-4a3b-b935-f0eea36cc948.html",
-     "data": "2026-10-13T20:36:11+00:00"
     },
     {
      "titolo": "Mondiali donne: Soncin \"c'è voglia di andare in Brasile\"",
