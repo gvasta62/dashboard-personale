@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-10-13T23:59:14.448897+00:00",
+ "aggiornato": "2026-10-14T03:29:33.587439+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Fmi, negli Usa gli interessi sul debito raggiungeranno la spesa sociale",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/fmi-negli-usa-gli-interessi-sul-debito-raggiungeranno-la-spesa-sociale_dad7a222-2c53-4a4d-820f-8a4c444b84ce.html",
+     "data": "2026-10-14T02:01:19+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in lieve rialzo (+0,28%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/borsa-tokyo-apertura-in-lieve-rialzo-028_c8198b3e-c45f-4fe3-a7b2-383b83f66b29.html",
+     "data": "2026-10-14T00:18:15+00:00"
+    },
     {
      "titolo": "Meloni: 'Tra l'Italia e gli Usa un'amicizia fondata su libertà e democrazia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/meloni-tra-litalia-e-gli-usa-unamicizia-fondata-su-liberta-e-democrazia_d901e006-cd07-4c08-9ed6-fe599b754be5.html",
@@ -44,16 +54,6 @@
      "titolo": "Ilva, da cdm decreto per tenere accesa Taranto in attesa Cassazione",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/ilva-da-cdm-decreto-per-tenere-accesa-taranto-in-attesa-cassazione_696f4013-8df0-4445-a2ad-f94f573d6903.html",
      "data": "2026-10-13T18:46:40+00:00"
-    },
-    {
-     "titolo": "Il petrolio chiude in rialzo a New York, a 94,29 dollari",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/il-petrolio-chiude-in-rialzo-a-new-york-a-9429-dollari_d3c27303-122f-44fe-beca-bcec39066d3b.html",
-     "data": "2026-10-13T18:44:25+00:00"
-    },
-    {
-     "titolo": "Media, 'Netanyahu ha parlato con Trump di riprendere guerra contro l'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/media-netanyahu-ha-parlato-con-trump-di-riprendere-guerra-contro-liran_92ad1ffa-d57e-4ea6-aacb-649c52f66d6c.html",
-     "data": "2026-10-13T18:11:05+00:00"
     }
    ]
   },
@@ -256,6 +256,16 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Fmi, negli Usa gli interessi sul debito raggiungeranno la spesa sociale",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/14/fmi-negli-usa-gli-interessi-sul-debito-raggiungeranno-la-spesa-sociale_5e7e470b-bc04-48ca-b59b-0bffd8cd79c4.html",
+     "data": "2026-10-14T02:01:21+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in lieve rialzo (+0,28%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/14/borsa-tokyo-apertura-in-lieve-rialzo-028_bb2f43a4-14cf-4666-a0df-0236d56ec298.html",
+     "data": "2026-10-14T00:18:17+00:00"
+    },
+    {
      "titolo": "Nel nuovo codice multe più leggere, tolleranza zero, stop a patenti",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/13/nel-nuovo-codice-multe-piu-leggere-tolleranza-zero-stop-a-patenti_40f6487a-c125-4f45-8755-3547f481adc5.html",
      "data": "2026-10-13T19:58:51+00:00"
@@ -304,22 +314,32 @@
      "titolo": "Dall'Irpef alle pensioni, dai giovani alla casa: il menù della manovra",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/13/dallirpef-alle-pensioni-dai-giovani-alla-casa-il-menu-della-manovra_abc7c093-ce84-4242-b513-3a24fb3f2bae.html",
      "data": "2026-10-13T19:23:05+00:00"
-    },
-    {
-     "titolo": "Mit, multe più basse ma più eque, attenzione a disabili",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/13/mit-multe-piu-basse-ma-piu-eque-attenzione-a-disabili_8532700b-8b8d-4ae2-9c50-0d5a962a76fd.html",
-     "data": "2026-10-13T19:06:08+00:00"
-    },
-    {
-     "titolo": "Lo spread Btp-Bund chiude in discesa a 106,6 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/13/lo-spread-btp-bund-chiude-in-discesa-a-1066-punti_1b54e761-ded4-4f5b-8ae9-bda60f88b31d.html",
-     "data": "2026-10-13T16:10:43+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Messico, forte flessione degli omicidi a settembre",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/messico-forte-flessione-degli-omicidi-a-settembre_1fab0942-9617-4682-9a5b-ade1bd66c2b7.html",
+     "data": "2026-10-14T02:57:46+00:00"
+    },
+    {
+     "titolo": "Colombia, Petro si congratula con il Papa e invoca una 'battaglia spirituale'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/colombia-petro-si-congratula-con-il-papa-e-invoca-una-battaglia-spirituale_680b2db8-5d8b-4393-af78-8e42df8226ac.html",
+     "data": "2026-10-14T01:18:23+00:00"
+    },
+    {
+     "titolo": "Messico, attesa l'approvazione alla fusione aerea tra Volaris e Viva",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/messico-attesa-lapprovazione-alla-fusione-aerea-tra-volaris-e-viva_8824d2a9-f62b-4247-a4db-a009fca6a187.html",
+     "data": "2026-10-14T01:18:55+00:00"
+    },
+    {
+     "titolo": "Uruguay, Sturla non esclude rinvio visita del Papa dopo intervento chirurgico",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/uruguay-sturla-non-esclude-rinvio-visita-del-papa-dopo-intervento_87a42a94-3dc6-4122-abbe-b8d81a0c13c5.html",
+     "data": "2026-10-14T00:19:35+00:00"
+    },
     {
      "titolo": "Messico, i vescovi pregano per la pronta guarigione di Leone XIV",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/messico-i-vescovi-pregano-per-la-pronta-guarigione-di-leone-xiv_5b6f7e5b-eef0-4fa1-a592-1b94764f778f.html",
@@ -359,26 +379,6 @@
      "titolo": "Argentina, indetto il primo appalto per la costruzione della base militare di Ushuaia",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/argentina-indetto-il-primo-appalto-per-la-costruzione-della-base-militare-di-ushuaia_2f625b53-1e68-4c26-8daa-9d6f153bf3a8.html",
      "data": "2026-10-13T20:46:07+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'raid su centrale termoelettrica a Kiev, gli alleati non ci hanno avvertito'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/13/zelensky-raid-su-centrale-termoelettrica-a-kiev-gli-alleati-non-ci-hanno-avvertito_e64632a6-f6ce-4aa3-bbf6-0bff74fbee49.html",
-     "data": "2026-10-13T20:38:42+00:00"
-    },
-    {
-     "titolo": "L'Argentina celebra primi risultati accordo Ue-Mercosur, export in aumento del 21%",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/largentina-celebra-primi-risultati-accordo-ue-mercosur-export-in-aumento-del-21_adc04c34-1e0d-43c2-94e2-753577c8cf68.html",
-     "data": "2026-10-13T20:16:36+00:00"
-    },
-    {
-     "titolo": "Fujimori propone 'ordine e disciplina' nelle scuole in Perù",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/fujimori-propone-ordine-e-disciplina-nelle-scuole-in-peru_577bd4b4-b2be-452c-819d-caf8af2a9284.html",
-     "data": "2026-10-13T19:15:46+00:00"
-    },
-    {
-     "titolo": "Forti esplosioni udite a Riad e nei pressi di un impianto Aramco nell'est",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/13/forti-esplosioni-udite-a-riad-e-nei-pressi-di-un-impianto-aramco-nellest_d1cad3c2-1e4c-48b8-b509-4c2ae94da918.html",
-     "data": "2026-10-13T19:07:54+00:00"
     }
    ]
   },
