@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-10-15T18:24:48.511037+00:00",
+ "aggiornato": "2026-10-15T21:32:42.053506+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "'Uomo armato in una scuola elementare in Oregon', polizia risponde all'allarme",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/uomo-armato-in-una-scuola-elementare-in-oregon-polizia-risponde-allallarme_7ac0ad7c-57d3-4d96-b0e9-32ce0c41bef8.html",
+     "data": "2026-10-15T21:14:14+00:00"
+    },
+    {
+     "titolo": "Lanci di lacrimogeni e incidenti alla manifestazione per le Università in Argentina",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/lanci-di-lacrimogeni-e-incidenti-alla-manifestazione-per-le-universita-in-argentina_7bbfebde-4492-465b-b259-92c5ff2d8a1d.html",
+     "data": "2026-10-15T20:17:19+00:00"
+    },
+    {
+     "titolo": "Costa presenterà una nuova proposta negoziale sul Bilancio Ue",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/costa-presentera-una-nuova-proposta-negoziale-sul-bilancio-ue_91f74ed5-b9b7-40a1-81b8-68d6e57f2ef6.html",
+     "data": "2026-10-15T19:49:13+00:00"
+    },
+    {
+     "titolo": "Marito e moglie trovati morti in casa nel Modenese, ipotesi omicidio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/marito-e-moglie-trovati-morti-in-casa-nel-modenese-ipotesi-omicidio_839b1c8c-ff68-48a4-9ec9-f18f2ea6e197.html",
+     "data": "2026-10-15T18:51:10+00:00"
+    },
     {
      "titolo": "Via libera della Bce a Unicredit per il controllo di Commerzbank",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/via-libera-della-bce-a-unicredit-per-il-controllo-di-commerzbank_b38eb22f-eaf2-49a5-85ca-69668842ceab.html",
@@ -34,26 +54,6 @@
      "titolo": "Parolin, se il Papa starà meglio farà l'Angelus dal Gemelli",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/parolin-se-il-papa-stara-meglio-fara-langelus-dal-gemelli_f840c23d-33f4-4cdd-86ed-46983777c717.html",
      "data": "2026-10-15T16:05:45+00:00"
-    },
-    {
-     "titolo": "La Casa Bianca replica a Meloni, 'quello sul diesel un grande accordo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/la-casa-bianca-replica-a-meloni-quello-sul-diesel-un-grande-accordo_906f031e-fbb2-454f-9eae-5cd877542568.html",
-     "data": "2026-10-15T16:06:37+00:00"
-    },
-    {
-     "titolo": "Parolin, preoccupato per il Papa ma mi fido dei medici",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/parolin-preoccupato-per-il-papa-ma-mi-fido-dei-medici_6baa3fcb-7488-44cd-a081-b62fa1fe8c48.html",
-     "data": "2026-10-15T16:00:37+00:00"
-    },
-    {
-     "titolo": "Oggi al voto i diplomatici israeliani nel mondo",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/oggi-al-voto-i-diplomatici-israeliani-nel-mondo_3b10033e-9e17-4154-a83e-c56c71747279.html",
-     "data": "2026-10-15T15:52:33+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa strappa il rialzo, Parigi chiude a +0,78%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/borsa-leuropa-strappa-il-rialzo-parigi-chiude-a-078_a96261d3-e490-418c-b450-216736d1af76.html",
-     "data": "2026-10-15T15:51:55+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "#AccadeOggi",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+     "data": "2026-10-15T19:21:35+00:00"
+    },
+    {
+     "titolo": "Marito e moglie trovati morti in casa nel Modenese, i corpi decapitati",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/marito-e-moglie-trovati-morti-in-casa-nel-modenese-i-corpi-decapitati_f6fc5f05-7263-41e4-8121-e9611e66e2e7.html",
+     "data": "2026-10-15T19:02:00+00:00"
+    },
+    {
      "titolo": "Sale l'allarme carburanti, il governo convoca l'autotrasporto",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/sale-lallarme-carburanti-il-governo-convoca-lautotrasporto_0a0d0be1-020f-4955-8dbb-84592524f1bf.html",
      "data": "2026-10-15T18:21:42+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Addio al maiale nelle mense scolastiche di Pordenone e a Piacenza torna la coppa",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/addio-al-maiale-nelle-mense-scolastiche-di-pordenone-e-a-piacenza-torna-la-coppa_b0d20950-7fc8-4b9f-91e4-a34cbe65152a.html",
      "data": "2026-10-15T16:46:24+00:00"
-    },
-    {
-     "titolo": "Travolto da un'auto in provincia di Varese, morto bimbo di 5 anni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/travolto-da-unauto-in-provincia-di-varese-morto-bimbo-di-5-anni_3619e1be-0948-4b8d-93f2-377a08576544.html",
-     "data": "2026-10-15T16:17:32+00:00"
-    },
-    {
-     "titolo": "Parolin, se il Papa starà meglio farà l'Angelus dal Gemelli",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/parolin-se-il-papa-stara-meglio-fara-langelus-dal-gemelli_e31b6cf9-0be4-4f19-9618-c42cf35840aa.html",
-     "data": "2026-10-15T16:05:40+00:00"
     }
    ]
   },
@@ -256,6 +256,16 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Manovra, 5 miliardi da banche e assicurazioni. Istituti sorpresi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/manovra-5-miliardi-da-banche-e-assicurazioni.-istituti-sorpresi_c3055dc9-ff3a-429b-ace4-53b8b73047e2.html",
+     "data": "2026-10-15T21:23:49+00:00"
+    },
+    {
+     "titolo": "Melinda chiude il 25/26 con il liquidato ai soci più alto della sua storia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/melinda-chiude-il-2526-con-il-liquidato-ai-soci-piu-alto-della-sua_52ff0b42-971d-4b1e-9848-19bd06c0a7a6.html",
+     "data": "2026-10-15T18:19:00+00:00"
+    },
+    {
      "titolo": "Mit convoca tavolo con gli autotrasportatori il 27 ottobre",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/mit-convoca-tavolo-con-gli-autotrasportatori-il-27-ottobre_019ed082-89a3-4bfb-b249-50a6340b6b82.html",
      "data": "2026-10-15T17:49:44+00:00"
@@ -301,25 +311,40 @@
      "data": "2026-10-15T15:42:16+00:00"
     },
     {
-     "titolo": "Manovra da 23,5 miliardi nel 2027, dalle banche 5 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/manovra-da-235-miliardi-nel-2027-dalle-banche-5-miliardi_c3055dc9-ff3a-429b-ace4-53b8b73047e2.html",
-     "data": "2026-10-15T15:33:18+00:00"
-    },
-    {
      "titolo": "Fiat Topolino nominata da Time tra le migliori invenzioni del 2026",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/fiat-topolino-nominata-da-time-tra-le-migliori-invenzioni-del-2026_8aafc567-484e-46df-b591-f142dbce62fb.html",
      "data": "2026-10-15T15:27:26+00:00"
-    },
-    {
-     "titolo": "Tunnel subportuale Genova, firmato il contratto da 800 milioni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/tunnel-subportuale-genova-firmato-il-contratto-da-800-milioni_c3328cc1-ac99-48d3-a96c-82025ce5322b.html",
-     "data": "2026-10-15T14:54:47+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Cuba, record di 1.351 prigionieri politici a settembre",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/15/cuba-record-di-1.351-prigionieri-politici-a-settembre_e14a3e70-9d9b-454a-92ef-3916a824f911.html",
+     "data": "2026-10-15T20:57:47+00:00"
+    },
+    {
+     "titolo": "Paraguay, oltre 600 famiglie evacuate per la piena del Paraná",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/15/paraguay-oltre-600-famiglie-evacuate-per-la-piena-del-parana_4024e9b1-e6ab-43f4-adbb-113b0157bc06.html",
+     "data": "2026-10-15T20:56:27+00:00"
+    },
+    {
+     "titolo": "Lanci di lacrimogeni e incidenti alla manifestazione per le Università in Argentina",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/15/lanci-di-lacrimogeni-e-incidenti-alla-manifestazione-per-le-universita-in-argentina_280cbf86-541a-49e3-9d77-427955e9d118.html",
+     "data": "2026-10-15T20:17:21+00:00"
+    },
+    {
+     "titolo": "Costa presenterà una nuova proposta negoziale sul Bilancio Ue",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/15/costa-presentera-una-nuova-proposta-negoziale-sul-bilancio-ue_5abe1195-3ea7-4059-a223-00e93565ec19.html",
+     "data": "2026-10-15T19:49:32+00:00"
+    },
+    {
+     "titolo": "Studenti e docenti ancora in piazza in Argentina per il finanziamento delle Università",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/15/studenti-e-docenti-ancora-in-piazza-in-argentina-per-il-finanziamento-delle-universita_92ed793a-b6ae-44d2-87cb-59e00d2463a1.html",
+     "data": "2026-10-15T18:19:23+00:00"
+    },
     {
      "titolo": "Caetano Veloso scopre il nome del sergente che lo aiutò durante la dittatura",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/15/caetano-veloso-scopre-il-nome-del-sergente-che-lo-aiuto-durante-la-dittatura_061ecf57-b589-4b2f-bc0f-56dd5de64ee6.html",
@@ -354,31 +379,6 @@
      "titolo": "CubaFruta promuove nuove opportunità produttive ed economiche per le donne rurali",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/15/cubafruta-promuove-nuove-opportunita-produttive-ed-economiche-per-le-donne-rurali_fbf6308c-9207-4673-b9af-32616bf9f76f.html",
      "data": "2026-10-15T15:53:52+00:00"
-    },
-    {
-     "titolo": "Oggi al voto i diplomatici israeliani nel mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/15/oggi-al-voto-i-diplomatici-israeliani-nel-mondo_c2f9486d-d9ba-47c9-b9b3-a88371f6481a.html",
-     "data": "2026-10-15T15:52:57+00:00"
-    },
-    {
-     "titolo": ">ANSA-FOCUS/Salta la vendita del Pierre, la casa-hotel di Sindona a Manhattan",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/15/ansa-focussalta-la-vendita-del-pierre-la-casa-hotel-di-sindona-a-manhattan_e6bc5515-f74b-48b0-9f6f-dbe42fa9573f.html",
-     "data": "2026-10-15T15:48:23+00:00"
-    },
-    {
-     "titolo": "'Rivelati i nomi dei donatori della ballroom di Trump, ci sono Apple e Nvidia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/15/rivelati-i-nomi-dei-donatori-della-ballroom-di-trump-ci-sono-apple-e-nvidia_8d9657aa-d759-4acf-afc1-d9cc796398e7.html",
-     "data": "2026-10-15T15:03:45+00:00"
-    },
-    {
-     "titolo": "Media, l'Ucraina ha esaurito le scorte di missili per i Patriot",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/15/media-lucraina-ha-esaurito-le-scorte-di-missili-per-i-patriot_54a15d14-4ffa-4518-afb5-f8baf9f05b74.html",
-     "data": "2026-10-15T14:54:30+00:00"
-    },
-    {
-     "titolo": "Media, l'Ucraina ha esaurito le scorte di missili per i Patriot",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/15/media-lucraina-ha-esaurito-le-scorte-di-missili-per-i-patriot_aa006a09-5c2e-40fe-b79a-e8281237cd80.html",
-     "data": "2026-10-15T14:54:30+00:00"
     }
    ]
   },
@@ -451,6 +451,51 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Europa League: la Juve sorride a Vigo, Kolo Muani rimonta al 92'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/europa-league-celta-vigo-juventus-1-2_a8c2f086-dd79-4c79-9e3c-c88fc635d9a9.html",
+     "data": "2026-10-15T21:17:18+00:00"
+    },
+    {
+     "titolo": "++ Conference League: Atalanta-Pafos 3-1 ++",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/-conference-league-atalanta-pafos-3-1-_2c1346fa-90e0-487c-8afd-d267c4390781.html",
+     "data": "2026-10-15T20:56:06+00:00"
+    },
+    {
+     "titolo": "Conference League, all'Atalanta basta un tempo per chiudere la pratica Pafos",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/conference-league-atalanta-pafos-3-1_59258c34-b822-4270-90ef-59842add4237.html",
+     "data": "2026-10-15T21:27:16+00:00"
+    },
+    {
+     "titolo": "++ Europa League: Celta Vigo-Juve 1-2 ++",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/-europa-league-celta-vigo-juve-1-2-_e66374a3-c491-45a4-8185-092bcfd19497.html",
+     "data": "2026-10-15T20:54:45+00:00"
+    },
+    {
+     "titolo": "Basket: Eurolega, Armani Milano - Dubai 97-101",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/15/basket-eurolega-armani-milano-dubai-97-101_47b16dbf-6a9f-40c0-b062-46bd25a2bd1e.html",
+     "data": "2026-10-15T20:47:33+00:00"
+    },
+    {
+     "titolo": "Taekwondo: al via i campionati italiani in Calabria dal 16 al 18 ottobre",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/15/taekwondo-al-via-i-campionati-italiani-in-calabria-dal-16-al-18-ottobre_5b676c65-6fc6-4c9d-9b77-2e484fa41d1d.html",
+     "data": "2026-10-15T19:05:38+00:00"
+    },
+    {
+     "titolo": "L'ex tennista Gilbert, 'Cahill non sapeva della rinuncia di Sinner a Cincinnati'",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/15/lex-tennista-gilbert-cahill-non-sapeva-della-rinuncia-di-sinner-a-cincinnati_9f0a11ce-ce1e-44b7-83db-9b5ce36b4c85.html",
+     "data": "2026-10-15T18:54:27+00:00"
+    },
+    {
+     "titolo": "Europa League: show a Salisburgo, il Milan vince 4-0",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/europa-league-show-a-salisburgo-il-milan-vince-4-0_485db349-5cd7-470e-8205-5feece55ce97.html",
+     "data": "2026-10-15T18:36:51+00:00"
+    },
+    {
+     "titolo": "Europa League: tripletta Cisse rilancia il Milan, poker a Salisburgo",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/europa-league-salisburgo-milan-0-4_66cf3fc2-0c4f-490e-9b26-df44a8a0f4f8.html",
+     "data": "2026-10-15T21:27:55+00:00"
+    },
+    {
      "titolo": "Safiya Al Sayegh lascia il ciclismo, \"Ho scelto la fedeltà ad Allah\"",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/15/safiya-al-sayegh-lascia-il-ciclismo-ho-scelto-la-fedelta-ad-allah_e2e6778c-fa21-4907-9201-50be90cbb875.html",
      "data": "2026-10-15T18:18:09+00:00"
@@ -464,51 +509,6 @@
      "titolo": "Cagliari, Murelli in panchina al posto dello squalificato Pisacane",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/cagliari-murelli-in-panchina-al-posto-dello-squalificato-pisacane_a16aa91a-4ac8-4d9b-a053-55310347c414.html",
      "data": "2026-10-15T17:50:22+00:00"
-    },
-    {
-     "titolo": "Infantino si scusa, ma l'Uefa: 'Non può fare il presidente'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/15/infantino-si-scusa-ma-luefa-non-puo-fare-il-presidente_85e85e2a-e89f-4c45-89ef-de717f5cdcb4.html",
-     "data": "2026-10-15T17:49:19+00:00"
-    },
-    {
-     "titolo": "Fifa: n.1 federazione mauritana, \"Infantino è il presidente giusto\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/fifa-n.1-federazione-mauritana-infantino-e-il-presidente-giusto_9ba01253-6764-45b6-a26f-71cf7f415c68.html",
-     "data": "2026-10-15T16:56:47+00:00"
-    },
-    {
-     "titolo": "Fifa: Infantino, 'comunicato male il Ffe ma distribuiremo 6,25 miliardi'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/fifa-infantino-comunicato-male-il-ffe-ma-distribuiremo-625-miliardi_71570b6f-9079-4c62-8f3a-307463986db9.html",
-     "data": "2026-10-15T16:45:29+00:00"
-    },
-    {
-     "titolo": "Calcio: il Lecce recupera Stulic per l'Udinese",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/calcio-il-lecce-recupera-stulic-per-ludinese_c6865c6e-554a-4fd9-a729-bc399f86e2a3.html",
-     "data": "2026-10-15T15:54:17+00:00"
-    },
-    {
-     "titolo": "Dopo la falsa partenza, Gilardino cerca i primi punti per il Parma",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/dopo-la-falsa-partenza-gilardino-cerca-i-primi-punti-per-il-parma_b3d3881b-9a73-4990-b288-8689e6be7814.html",
-     "data": "2026-10-15T15:21:25+00:00"
-    },
-    {
-     "titolo": "Fifa: 'scuse Infantino in consiglio', ma gli oppositori vanno avanti",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/fifa-scuse-infantino-in-consiglio-ma-gli-oppositori-vanno-avanti_3ee6f9c9-6ac8-4be3-9b2a-16b2ed370c82.html",
-     "data": "2026-10-15T15:11:51+00:00"
-    },
-    {
-     "titolo": "Scontri prima dell'amichevole con il Deportivo, denunciati 15 ultrà del Genoa",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/scontri-prima-dellamichevole-con-il-deportivo-denunciati-15-ultra-del-genoa_eeb4bfe8-1b28-43c6-9001-196ea04c2813.html",
-     "data": "2026-10-15T15:09:56+00:00"
-    },
-    {
-     "titolo": "Ancora un infortunio nel Napoli, Neres si ferma per tre settimane",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/ancora-un-infortunio-nel-napoli-neres-si-ferma-per-tre-settimane_341defb9-476d-421e-8610-d0bc02d95178.html",
-     "data": "2026-10-15T14:55:34+00:00"
-    },
-    {
-     "titolo": "Yeboah prolunga con il Venezia fino al 2030",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/yeboah-prolunga-con-il-venezia-fino-al-2030_703b5a1e-82bc-4415-a693-29febdc70c1b.html",
-     "data": "2026-10-15T14:46:03+00:00"
     }
    ]
   }
