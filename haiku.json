@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-15T08:41:14.057799+00:00",
- "data": "2026-10-15",
- "testo": "Nubi ferme\ndentro il canestro di vimini\ntace una noce",
- "nota": "Sotto il cielo coperto, una noce caduta nel cesto dimenticato all'orto.",
+ "aggiornato": "2026-10-16T08:35:49.990689+00:00",
+ "data": "2026-10-16",
+ "testo": "Nebbia bassa\ntra i pali del vigneto\nsparisce un cane",
+ "nota": "Nella foschia del mattino un cane svanisce tra i filari sulla collina.",
  "archivio": [
+  {
+   "data": "2026-10-16",
+   "testo": "Nebbia bassa\ntra i pali del vigneto\nsparisce un cane",
+   "nota": "Nella foschia del mattino un cane svanisce tra i filari sulla collina."
+  },
   {
    "data": "2026-10-15",
    "testo": "Nubi ferme\ndentro il canestro di vimini\ntace una noce",
