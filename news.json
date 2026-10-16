@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-16T19:59:43.524253+00:00",
+ "aggiornato": "2026-10-16T22:32:18.174101+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
@@ -133,7 +133,7 @@
     {
      "titolo": "Gli studenti si prendono le piazze, Meloni: 'Violenze da condannare'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/gli-studenti-si-prendono-le-piazze-meloni-violenze-da-condannare_ff9071cf-026e-438f-8153-f7d47a260b42.html",
-     "data": "2026-10-16T19:53:07+00:00"
+     "data": "2026-10-16T20:11:20+00:00"
     },
     {
      "titolo": "Al via l'Aeronautica Militare Balloon Cup, il fascino e la storia del volo",
@@ -191,6 +191,16 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Il pm di Roma: 'Gli attivisti della Flotilla torturati'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/16/il-pm-di-roma-gli-attivisti-della-flotilla-torturati_07012b40-6c17-49c3-8777-462d72810d9c.html",
+     "data": "2026-10-16T20:35:10+00:00"
+    },
+    {
+     "titolo": "Tensioni al ghetto di Roma, la Comunità ebraica caccia l'Anpi",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/16/tensioni-al-ghetto-di-roma-la-comunita-ebraica-caccia-lanpi_093f768a-b952-4589-9c3a-9226051eb834.html",
+     "data": "2026-10-16T20:32:29+00:00"
+    },
+    {
      "titolo": "Intesa Ue-Meloni sul dl bollette. Von der Leyen: 'Ma non faremo miracoli'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/16/intesa-ue-meloni-sul-dl-bollette.-von-der-leyen-ma-non-faremo-miracoli_5f11bc19-b502-42ac-8252-714b161eb42f.html",
      "data": "2026-10-16T19:35:12+00:00"
@@ -204,16 +214,6 @@
      "titolo": "Schlein, il sostegno all'Ucraina per noi è un punto dirimente",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/16/schlein-il-sostegno-allucraina-per-noi-e-un-punto-dirimente_35959b50-4e59-428c-a18c-20ac3a15aec2.html",
      "data": "2026-10-16T16:52:48+00:00"
-    },
-    {
-     "titolo": "Il pm di Roma: 'Gli attivisti della Flotilla torturati'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/16/il-pm-di-roma-gli-attivisti-della-flotilla-torturati_07012b40-6c17-49c3-8777-462d72810d9c.html",
-     "data": "2026-10-16T16:50:47+00:00"
-    },
-    {
-     "titolo": "Tensioni al Ghetto ebraico a Roma, insulti e urla contro l'Anpi",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/16/tensioni-al-ghetto-ebraico-a-roma-insulti-e-urla-contro-lanpi_093f768a-b952-4589-9c3a-9226051eb834.html",
-     "data": "2026-10-16T17:27:40+00:00"
     },
     {
      "titolo": "Schlein, convinta che il Pd sia più alto che alle europee",
@@ -256,9 +256,14 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Duello sulle banche. Tajani: 'Prudenza'. Maxi arretrati ai magistrati",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/duello-sulle-banche.-tajani-prudenza.-maxi-arretrati-ai-magistrati_b6cd7128-3e6f-4c14-951d-d05be93b6389.html",
-     "data": "2026-10-16T19:15:48+00:00"
+     "titolo": "Giorgetti: 'Il prelievo sulle banche sarà sostenibile, non morirà nessuno'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/giorgetti-il-prelievo-sulle-banche-sara-sostenibile-non-morira-nessuno_6d612453-f8ac-46f7-bfa0-c63a37e7d9ee.html",
+     "data": "2026-10-16T20:40:05+00:00"
+    },
+    {
+     "titolo": "Duello sulle banche. Giorgetti: 'Non morirà nessuno'. Maxi arretrati ai magistrati",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/duello-sulle-banche.-giorgetti-non-morira-nessuno.-maxi-arretrati-ai-magistrati_b6cd7128-3e6f-4c14-951d-d05be93b6389.html",
+     "data": "2026-10-16T20:41:13+00:00"
     },
     {
      "titolo": "Caos nei cieli italiani, cancellazioni e ritardi per i voli",
@@ -309,17 +314,37 @@
      "titolo": "Generali per la prima volta sul mercato dei Lloyd's con un syndicate",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/generali-per-la-prima-volta-sul-mercato-dei-lloyds-con-un-syndicate_c597aae0-b309-45d8-a666-092c1007a31e.html",
      "data": "2026-10-16T15:21:43+00:00"
-    },
-    {
-     "titolo": "Merz, 'stop ai motori termici è capitolo chiuso, spazio anche ai biofuel'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/merz-stop-ai-motori-termici-e-capitolo-chiuso-spazio-anche-ai-biofuel_bb019092-36d5-48dd-a506-8fea6f13da35.html",
-     "data": "2026-10-16T14:54:30+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Vertice El Paccto a Santo Domingo, forte ruolo Italia su lotta a crimine organizzato",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/17/vertice-el-paccto-a-santo-domingo-forte-ruolo-italia-su-lotta-a-crimine-organizzato_e8d390ad-239a-4365-a664-479561133d66.html",
+     "data": "2026-10-16T22:26:09+00:00"
+    },
+    {
+     "titolo": "Brasile, deforestazione in Amazzonia ai minimi dal 1988",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/16/brasile-deforestazione-in-amazzonia-ai-minimi-dal-1988_bf2697c9-8946-4243-ab77-374ea56d8075.html",
+     "data": "2026-10-16T21:27:00+00:00"
+    },
+    {
+     "titolo": "Fondazione Compagnia di San Paolo acquista l'edificio dell'Ictp di Trieste",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/16/fondazione-compagnia-di-san-paolo-acquista-ledificio-dellictp-di-trieste_25fc7230-743c-400a-8307-361632ecbc75.html",
+     "data": "2026-10-16T20:56:47+00:00"
+    },
+    {
+     "titolo": "Petro alla guida del Pacto Histórico in Colombia, ipotesi di nuovo sciopero nazionale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/16/petro-alla-guida-del-pacto-historico-in-colombia-ipotesi-di-nuovo-sciopero_a077dba0-4453-4ab5-90e8-a490bf7d70df.html",
+     "data": "2026-10-16T20:54:24+00:00"
+    },
+    {
+     "titolo": "Colombia, rimosse dal Museo Nazionale opere su Lgbt, femminismo e accordo con le Farc",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/16/colombia-rimosse-dal-museo-nazionale-opere-su-lgbt-femminismo-e-accordo-con_7591d016-75b8-4479-ab80-a352276103fc.html",
+     "data": "2026-10-16T20:09:37+00:00"
+    },
     {
      "titolo": "Il presidente cileno in Bolivia, 'nuova tappa nelle relazioni'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/16/il-presidente-cileno-in-bolivia-nuova-tappa-nelle-relazioni_4db22db4-fbf6-4cda-9949-bd0c472207d8.html",
@@ -354,31 +379,6 @@
      "titolo": "Trump, 'ho detto a Katie Zacharia di riconsiderare il suo incarico'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/16/trump-ho-detto-a-katie-zacharia-di-riconsiderare-il-suo-incarico_eaea432f-e239-4f50-b310-25cdf1cc91ff.html",
      "data": "2026-10-16T17:20:10+00:00"
-    },
-    {
-     "titolo": "A rischio bestiame e coltivazioni in Paraguay ed Argentina per il Super Niño",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/16/a-rischio-bestiame-e-coltivazioni-in-paraguay-ed-argentina-per-il-super-nino_801415ba-ea10-4347-bebb-18e64816af98.html",
-     "data": "2026-10-16T17:20:10+00:00"
-    },
-    {
-     "titolo": "Attore brasiliano denuncia, 'con Bolsonaro mani Usa sulle terre rare del Paese'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/16/attore-brasiliano-denuncia-con-bolsonaro-mani-usa-sulle-terre-rare_3e9372d7-e786-49d4-b030-92a4bb4c41b9.html",
-     "data": "2026-10-16T17:19:41+00:00"
-    },
-    {
-     "titolo": "Macron, 'sosterremo difesa di Kiev con immagini satellitari e allerta precoce'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/16/macron-sosterremo-difesa-di-kiev-con-immagini-satellitari-e-allerta-precoce_be65bcdf-2f75-4f0f-9492-3bda95f6d4c1.html",
-     "data": "2026-10-16T17:17:56+00:00"
-    },
-    {
-     "titolo": "Trump, gli Usa non coinvolti nel depotenziamento di Starlink in Ucraina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/16/trump-gli-usa-non-coinvolti-nel-depotenziamento-di-starlink-in-ucraina_ffa88c93-3cf1-488e-b523-f2ff43d5b83d.html",
-     "data": "2026-10-16T17:16:17+00:00"
-    },
-    {
-     "titolo": "In calo il traffico su Truth Social, 'meno 30% in un anno'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/16/in-calo-il-traffico-su-truth-social-meno-30-in-un-anno_2ee2af16-2f50-4de2-bb39-3b34ed278b5e.html",
-     "data": "2026-10-16T17:02:55+00:00"
     }
    ]
   },
@@ -451,6 +451,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: Raimondo, 'non penso ai paragoni, ad Alvini devo tantissimo'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/16/serie-a-raimondo-non-penso-ai-paragoni-ad-alvini-devo-tantissimo_347e2ba0-e72b-46e0-8894-80c7e2a5b808.html",
+     "data": "2026-10-16T21:14:58+00:00"
+    },
+    {
+     "titolo": "La tripletta di Raimondo fa volare il Frosinone, 4-2 al Sassuolo CRONACA E FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/16/la-tripletta-di-raimondo-fa-volare-il-frosinone-4-2-al-sassuolo_4dea4151-2d9b-40d2-8b0a-4830b47eeafa.html",
+     "data": "2026-10-16T21:09:47+00:00"
+    },
+    {
+     "titolo": "La tripletta di Raimondo fa volare il Frosinone, Sassuolo battuto 4-2",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/16/la-tripletta-di-raimondo-fa-volare-il-frosinone-sassuolo-battuto-4-2_0487add6-1e7a-4be9-9d2e-1c2a1681252f.html",
+     "data": "2026-10-16T20:41:44+00:00"
+    },
+    {
+     "titolo": "Eurolega: la Virtus Bologna non si ferma più, Baskonia battuto 86-78",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/16/eurolega-la-virtus-bologna-non-si-ferma-piu-baskonia-battuto-86-78_6e2f74d1-f08b-4f5c-9915-cce0787009bc.html",
+     "data": "2026-10-16T20:40:01+00:00"
+    },
+    {
      "titolo": "Mondiali ciclismo: per Milan record e oro, Ganna di bronzo",
      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/16/mondiali-ciclismo-per-milan-record-e-oro-ganna-di-bronzo-_28c0a4b4-781c-4993-965e-e85933e1fae8.html",
      "data": "2026-10-16T18:59:26+00:00"
@@ -489,26 +509,6 @@
      "titolo": "Tebas: 'Il Real usa tecniche di propaganda degne di Goebbels'. Il club: 'Si dimetta'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/16/tebas-il-real-usa-tecniche-di-propaganda-degne-di-goebbels.-il-club-si-dimetta_f77986f7-7748-4e15-a08c-6862b0e8d042.html",
      "data": "2026-10-16T19:18:21+00:00"
-    },
-    {
-     "titolo": "Oltre 250mila euro di multa all'ex Lecce Banda dal collegio arbitrale",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/16/oltre-250mila-euro-di-multa-allex-lecce-banda-dal-collegio-arbitrale_99447c3f-8ce2-4e7f-b511-c20780a20f68.html",
-     "data": "2026-10-16T17:35:05+00:00"
-    },
-    {
-     "titolo": "Calcio: Vanoli, 'tornato a Firenze perché credo davvero in questa squadra'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/16/calcio-vanoli-tornato-a-firenze-perche-credo-davvero-in-questa-squadra_a36caac2-eccd-4b6f-b057-b450ad72cff1.html",
-     "data": "2026-10-16T17:06:59+00:00"
-    },
-    {
-     "titolo": "Abodi, nessuno deve rinunciare allo sport per mancanza di risorse o strutture",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/16/abodi-nessuno-deve-rinunciare-allo-sport-per-mancanza-di-risorse-o-strutture_4911b168-300a-4b23-ab19-52ea604af58f.html",
-     "data": "2026-10-16T16:55:54+00:00"
-    },
-    {
-     "titolo": "Serie A: Venezia-Napoli in campo sabato alle 15 DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/16/serie-a-venezia-napoli-in-campo-sabato-alle-15-diretta_4b9dbd4b-e40f-450f-9e4c-2fc17932d705.html",
-     "data": "2026-10-16T16:32:35+00:00"
     }
    ]
   }
