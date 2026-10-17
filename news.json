@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-10-17T18:54:04.380482+00:00",
+ "aggiornato": "2026-10-17T21:04:23.594812+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Lulli e il primo gol con la Roma, 'un sogno che si avvera'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/lulli-e-il-primo-gol-con-la-roma-un-sogno-che-si-avvera_8e51b177-2a3b-4489-bfea-ba8bb2c11c21.html",
+     "data": "2026-10-17T20:59:54+00:00"
+    },
+    {
+     "titolo": "Serie A: Roma-Genoa 2-0",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/serie-a-roma-genoa-2-0_b570ace6-831c-4227-bba3-dc56638efd7f.html",
+     "data": "2026-10-17T20:39:34+00:00"
+    },
+    {
+     "titolo": "Scontri a Milano, circa 50 fermati, quasi la metà minorenni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/scontri-a-milano-circa-50-fermati-quasi-la-meta-minorenni_672f523e-6b66-434f-b44d-ae835af7cc8b.html",
+     "data": "2026-10-17T20:31:29+00:00"
+    },
+    {
+     "titolo": "Ambasciatore Usa, Israele punisca i responsabili dell'attacco a reporter del Wp",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/ambasciatore-usa-israele-punisca-i-responsabili-dellattacco-a-reporter-del-wp_92450f96-83eb-4e17-b5f0-4cd5bdf08769.html",
+     "data": "2026-10-17T20:31:52+00:00"
+    },
     {
      "titolo": "Macron, 'nessun posto per la violenza, chi distrugge e saccheggia verrà punito'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/macron-nessun-posto-per-la-violenza-chi-distrugge-e-saccheggia-verra-punito_85006f0f-aec6-4d48-a299-f15d79b47e36.html",
@@ -34,26 +54,6 @@
      "titolo": "Scontri davanti stazione Bologna tra giovani manifestanti e forze ordine",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/scontri-davanti-stazione-bologna-tra-giovani-manifestanti-e-forze-ordine_d188e24c-ab8e-44b0-b690-3b9433db4b5c.html",
      "data": "2026-10-17T16:44:05+00:00"
-    },
-    {
-     "titolo": "Premier Lecornu accusa gruppi di estrema sinistra, 'non ci lasceremo intimidire'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/premier-lecornu-accusa-gruppi-di-estrema-sinistra-non-ci-lasceremo-intimidire_75de3574-16f5-4b37-b876-8aefa81b2891.html",
-     "data": "2026-10-17T16:39:00+00:00"
-    },
-    {
-     "titolo": "Corteo a Milano, tafferugli in Duomo e in piazza Cordusio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/corteo-a-milano-tafferugli-in-duomo-e-in-piazza-cordusio_98114384-8234-4c71-be1c-df055c654d9f.html",
-     "data": "2026-10-17T16:34:33+00:00"
-    },
-    {
-     "titolo": "Landini, 'sciopero generale il 20 novembre'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/landini-sciopero-generale-il-20-novembre_db5c83b2-2ff5-4e7a-9dcf-f0c8d78b8836.html",
-     "data": "2026-10-17T16:34:55+00:00"
-    },
-    {
-     "titolo": "Conte, M5s pronto, spero che a giorni inizi il confronto tra le opposizioni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/conte-m5s-pronto-spero-che-a-giorni-inizi-il-confronto-tra-le-opposizioni_08297294-8667-4d30-9c6d-efff9a81b927.html",
-     "data": "2026-10-17T15:35:53+00:00"
     }
    ]
   },
@@ -126,14 +126,34 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Centro sociale Milano, chi si stupisce delle città in rivolta è cieco",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/centro-sociale-milano-chi-si-stupisce-delle-citta-in-rivolta-e-cieco_08f67f48-e01c-4c2c-9d6a-85ade5e7c0d4.html",
+     "data": "2026-10-17T20:47:06+00:00"
+    },
+    {
+     "titolo": "Scontri a Milano, circa 50 fermati, quasi la metà minorenni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/scontri-a-milano-circa-50-fermati-quasi-la-meta-minorenni_9d805d44-257a-4f88-a28d-cfe6a2994a8b.html",
+     "data": "2026-10-17T20:31:52+00:00"
+    },
+    {
+     "titolo": "Attivato un hub legale per i giovani fermati negli scontri a Milano",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/attivato-un-hub-legale-per-i-giovani-fermati-negli-scontri-a-milano_93bed3c2-1c6d-4a28-a445-fa3b47e66acc.html",
+     "data": "2026-10-17T20:20:58+00:00"
+    },
+    {
+     "titolo": "La protesta per il carovita diventa guerriglia, Milano un campo di battaglia",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/la-protesta-per-il-carovita-diventa-guerriglia-milano-un-campo-di-battaglia_a783ef65-c2c2-4fb9-8d99-7c64d791f43c.html",
+     "data": "2026-10-17T20:29:37+00:00"
+    },
+    {
+     "titolo": "A. Fontana, 'a Milano immagini gravissime, solidarietà a forze dell'ordine'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/a.-fontana-a-milano-immagini-gravissime-solidarieta-a-forze-dellordine_f81cde8d-7aca-4245-8da4-1df98dc58327.html",
+     "data": "2026-10-17T19:40:43+00:00"
+    },
+    {
      "titolo": "A Milano saccheggiati negozi in corso Vittorio Emanuele",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/a-milano-saccheggiati-negozi-in-corso-vittorio-emanuele_a2114bb3-521d-4d11-84bc-2adfba82c509.html",
      "data": "2026-10-17T18:22:39+00:00"
-    },
-    {
-     "titolo": "Guerriglia a piazza Duomo a Milano, bombe carta contro la polizia. Meloni: 'Ogni reticenza sulle violenze di piazza diventa giustificazione'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/guerriglia-a-piazza-duomo-a-milano-bombe-carta-contro-la-polizia.-meloni-ogni_a783ef65-c2c2-4fb9-8d99-7c64d791f43c.html",
-     "data": "2026-10-17T18:19:07+00:00"
     },
     {
      "titolo": "Scontri in Duomo, almeno 4 feriti tra agenti 20 tra i manifestanti",
@@ -164,26 +184,6 @@
      "titolo": "Scontri in Duomo, Polizia avanza con gli idranti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/scontri-in-duomo-polizia-avanza-con-gli-idranti_cb81464d-ca23-4362-88c2-5dc674dd30fe.html",
      "data": "2026-10-17T17:08:32+00:00"
-    },
-    {
-     "titolo": "Scontri davanti stazione Bologna tra giovani manifestanti e forze ordine",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/scontri-davanti-stazione-bologna-tra-giovani-manifestanti-e-forze-ordine_0145aa9f-8f3f-4060-98f5-07d40e566824.html",
-     "data": "2026-10-17T16:44:28+00:00"
-    },
-    {
-     "titolo": "Corteo a Milano, tafferugli in Duomo e in piazza Cordusio",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/corteo-a-milano-tafferugli-in-duomo-e-in-piazza-cordusio_237e9af3-e1a2-418d-9a73-536c01155cd6.html",
-     "data": "2026-10-17T16:34:28+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-10-17T16:32:56+00:00"
-    },
-    {
-     "titolo": "Francesco Profumo (Opit), 'IA sta cambiando lavoro e istruzione'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/francesco-profumo-opit-ia-sta-cambiando-lavoro-e-istruzione_69809c5f-52ff-4623-9d7b-6eb10448e2eb.html",
-     "data": "2026-10-17T16:14:07+00:00"
     }
    ]
   },
@@ -193,12 +193,12 @@
     {
      "titolo": "Cgil in piazza: 'Siamo 100mila, il 20 novembre sciopero generale'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/17/cgil-in-piazza-siamo-100mila-il-20-novembre-sciopero-generale_c4547ea9-f018-4e78-adda-67ad7af8e7d0.html",
-     "data": "2026-10-17T18:39:45+00:00"
+     "data": "2026-10-17T20:30:10+00:00"
     },
     {
      "titolo": "Abbraccio Conte-Schlein in piazza: 'Prepariamo l'alternativa'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/17/abbraccio-conte-schlein-in-piazza-prepariamo-lalternativa_045de9bb-622c-4132-bce1-3bebc87a52d9.html",
-     "data": "2026-10-17T18:45:30+00:00"
+     "data": "2026-10-17T19:44:37+00:00"
     },
     {
      "titolo": "Prevost riprende le redini, l'agenda e i prossimi impegni",
@@ -451,6 +451,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Lulli e il primo gol con la Roma, 'un sogno che si avvera'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/lulli-e-il-primo-gol-con-la-roma-un-sogno-che-si-avvera_40acd06c-4058-4c02-a529-d12b5a2c0c87.html",
+     "data": "2026-10-17T20:59:58+00:00"
+    },
+    {
+     "titolo": "Serie A: la Roma riparte dopo il Real, Castro e Lulli affondano il Genoa",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/serie-a-la-roma-riparte-dopo-il-real-castro-e-lulli-affondano-il-genoa_ba1395a7-14d8-44fc-8a01-9bbe16d524fe.html",
+     "data": "2026-10-17T20:52:21+00:00"
+    },
+    {
+     "titolo": "Serie A: Roma-Genoa 2-0",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/serie-a-roma-genoa-2-0_6f5d1436-3900-4333-8473-46011bc5914b.html",
+     "data": "2026-10-17T20:39:51+00:00"
+    },
+    {
      "titolo": "Serie A: da 0-1 a 3-1, ancora una rimonta e l'Inter passa al Dall'Ara",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/serie-a-da-0-1-a-3-1-ancora-una-rimonta-e-linter-passa-al-dallara_5e337012-61f7-4e66-8bdf-7c6e282f61bd.html",
      "data": "2026-10-17T18:44:07+00:00"
@@ -469,11 +484,6 @@
      "titolo": "Premier, City 'suona' settima con l'Ipswich, Chelsea vince ma che paura per Martinez",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/premier-city-suona-settima-con-lipswich-chelsea-vince-ma-che-paura_2b8137b7-d8cf-44bd-a6b4-ec5b1f31acab.html",
      "data": "2026-10-17T17:25:51+00:00"
-    },
-    {
-     "titolo": "Serie A, in campo Roma-Genoa DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/serie-a-roma-genoa-in-campo-alle-20.45-diretta_ba1395a7-14d8-44fc-8a01-9bbe16d524fe.html",
-     "data": "2026-10-17T18:42:31+00:00"
     },
     {
      "titolo": "Da Napoli a Zurigo,Lyòn Tempo per posto su palco Red Bull dance your style world final",
@@ -499,16 +509,6 @@
      "titolo": "Tennis: Wuhan; Paolini e Errani mancano la finale di doppio",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/17/tennis-wuhan-paolini-e-errani-mancano-la-finale-di-doppio_7cd7fff6-b941-4d72-b5fb-c1f1c1128215.html",
      "data": "2026-10-17T16:32:52+00:00"
-    },
-    {
-     "titolo": "Wta Wuhan, Paolini ed Errani mancano la finale di doppio",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/17/wta-wuhan-paolini-ed-errani-mancano-la-finale-di-doppio_186baf18-97df-45fc-9a27-62a893802714.html",
-     "data": "2026-10-17T16:35:37+00:00"
-    },
-    {
-     "titolo": "Allegri, trasformare la delusione in energia per il futuro",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/allegri-trasformare-la-delusione-in-energia-per-il-futuro_a4fe7c8d-1b0b-4d78-b12c-ad73e15a93ad.html",
-     "data": "2026-10-17T15:44:24+00:00"
     }
    ]
   }
