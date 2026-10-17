@@ -1,24 +1,29 @@
 {
- "aggiornato": "2026-10-17T05:06:03.779808+00:00",
+ "aggiornato": "2026-10-17T09:30:25.182277+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
-     "titolo": "Trump ferma importanti sanzioni e dazi del Graham Act sull'export della Russia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/trump-ferma-importanti-sanzioni-e-dazi-del-graham-act-sullexport-della_c94c6910-154f-4071-9bce-b30372b93263.html",
-     "data": "2026-10-17T02:01:20+00:00"
+     "titolo": "Abi, accelera crescita dei prestiti a famiglie e imprese, +3,7%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/abi-accelera-crescita-dei-prestiti-a-famiglie-e-imprese-37_911d651b-06b6-482c-9c57-953e2f093495.html",
+     "data": "2026-10-17T08:36:21+00:00"
+    },
+    {
+     "titolo": "Il gasolio sfiora i 2,3 euro nel prezzo medio sulle autostrade",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/il-gasolio-sfiora-i-3-euro-nel-prezzo-medio-sulle-autostrade_70723167-83f2-4e1d-8b3f-7db10b2a6c9e.html",
+     "data": "2026-10-17T08:23:29+00:00"
     },
     {
      "titolo": "Crosetto alla Bbc, 'grave errore limitare a Kiev l'accesso ai satelliti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/crosetto-alla-bbc-grave-errore-limitare-a-kiev-laccesso-ai-satelliti_115cd9c3-6af5-4e6a-9860-dda8c95eeddd.html",
-     "data": "2026-10-17T01:34:09+00:00"
+     "data": "2026-10-17T08:23:31+00:00"
     },
     {
      "titolo": "Zelensky, 'se cadiamo ci saranno 20 milioni di profughi in Europa'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/zelensky-se-cadiamo-ci-saranno-20-milioni-di-profughi-in-europa_0752d1c9-76db-4a08-a3d8-f23a91dc6612.html",
-     "data": "2026-10-16T17:58:44+00:00"
+     "data": "2026-10-17T08:23:31+00:00"
     },
     {
      "titolo": "Nyt, licenziata la portavoce della Casa Bianca dopo soli 5 giorni",
@@ -49,11 +54,6 @@
      "titolo": "Trump, 'ho detto a Katie Zacharia di riconsiderare il suo incarico'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/trump-ho-detto-a-katie-zacharia-di-riconsiderare-il-suo-incarico_436c786a-ae86-4113-a05b-66b7668a5a42.html",
      "data": "2026-10-16T17:18:59+00:00"
-    },
-    {
-     "titolo": "Macron, 'sosterremo difesa di Kiev con immagini satellitari e allerta precoce'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/macron-sosterremo-difesa-di-kiev-con-immagini-satellitari-e-allerta-precoce_63c8d783-b0ea-43a5-b1f0-73f0042bf5e3.html",
-     "data": "2026-10-16T17:17:51+00:00"
     }
    ]
   },
@@ -126,9 +126,54 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Trump ferma importanti sanzioni e dazi del Graham Act sull'export della Russia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/trump-ferma-importanti-sanzioni-e-dazi-del-graham-act-sullexport-della_c94c6910-154f-4071-9bce-b30372b93263.html",
-     "data": "2026-10-17T03:44:05+00:00"
+     "titolo": "'No Meloni Day', secondo giorno di mobilitazione per studenti Cagliari",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/no-meloni-day-secondo-giorno-di-mobilitazione-per-studenti-cagliari_7e986d71-e677-4bb9-aeda-f4bff64c7004.html",
+     "data": "2026-10-17T09:00:37+00:00"
+    },
+    {
+     "titolo": "Esce per una passeggiata e scivola, donna trovata morta",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/esce-per-una-passeggiata-e-scivola-donna-trovata-morta_1b05c209-2ac3-4bea-95b3-3e5a5513eec6.html",
+     "data": "2026-10-17T08:52:53+00:00"
+    },
+    {
+     "titolo": "A Napoli tassista alla guida senza aver mai conseguito la patente",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/a-napoli-tassista-alla-guida-senza-aver-mai-conseguito-la-patente_bb82cbdf-5224-4334-beea-f2604c08f0e5.html",
+     "data": "2026-10-17T07:54:07+00:00"
+    },
+    {
+     "titolo": "A Melfi c'è sagra della castagna, gli autotrasportatori tolgono il blocco",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/a-melfi-ce-sagra-della-castagna-gli-autotrasportatori-tolgono-il-blocco_c7e1e310-6130-4a7a-9b83-f56ee9a61b8c.html",
+     "data": "2026-10-17T07:48:46+00:00"
+    },
+    {
+     "titolo": "Resinovich, in Procura Visintin si avvale della facoltà di non rispondere",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/resinovich-in-procura-visintin-si-avvale-della-facolta-di-non-rispondere_fe278f9d-29a3-4e20-8232-5ff347c268c0.html",
+     "data": "2026-10-17T08:30:49+00:00"
+    },
+    {
+     "titolo": "Sentenza, 'gli hater hanno fatto diventare Alessandra Matteuzzi carnefice'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/sentenza-gli-hater-hanno-fatto-diventare-alessandra-matteuzzi-carnefice_fe87b28a-17ab-4d98-9028-f9d1cd25dc88.html",
+     "data": "2026-10-17T07:09:22+00:00"
+    },
+    {
+     "titolo": "Il mercato della droga punta sul packaging, bustine rosa per 'Rozay'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/il-mercato-della-droga-punta-sul-packaging-bustine-rosa-per-rozay_fff702b0-0a50-48e5-8bb4-a67dddf2ea60.html",
+     "data": "2026-10-17T06:53:17+00:00"
+    },
+    {
+     "titolo": "Investì turista in spiaggia con una ruspa, nuova denuncia per minacce",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/investi-turista-in-spiaggia-con-una-ruspa-nuova-denuncia-per-minacce_a1fc072a-73dc-41de-8d46-b656f30a1516.html",
+     "data": "2026-10-17T06:32:59+00:00"
+    },
+    {
+     "titolo": "Droga, rifornivano piazze spaccio del centro Italia, otto arresti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/droga-rifornivano-piazze-spaccio-del-centro-italia-otto-arresti_665772f5-f12a-43c4-b695-3036e4ff5f3d.html",
+     "data": "2026-10-17T06:10:08+00:00"
+    },
+    {
+     "titolo": "Violenza sessuale su un minore nel bagno di un bar, arrestato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/violenza-sessuale-su-un-minore-nel-bagno-di-un-bar-arrestato-a-padova_dc38ed0e-cc57-4bf8-aa21-6883061b5726.html",
+     "data": "2026-10-17T07:27:55+00:00"
     },
     {
      "titolo": "A 13 anni cosparge di benzina un clochard e gli dà fuoco",
@@ -139,57 +184,22 @@
      "titolo": "Gli studenti si prendono le piazze, Meloni: 'Violenze da condannare'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/gli-studenti-si-prendono-le-piazze-meloni-violenze-da-condannare_ff9071cf-026e-438f-8153-f7d47a260b42.html",
      "data": "2026-10-16T20:11:20+00:00"
-    },
-    {
-     "titolo": "Al via l'Aeronautica Militare Balloon Cup, il fascino e la storia del volo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/al-via-laeronautica-militare-balloon-cup-il-fascino-e-la-storia-del-volo_e05a7a95-8cd0-4240-b509-d2faf64c33ac.html",
-     "data": "2026-10-16T18:18:18+00:00"
-    },
-    {
-     "titolo": "Neonato morto in un sacchetto, 'Non sapevo di essere incinta'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/neonato-morto-in-un-sacchetto-non-sapevo-di-essere-incinta_83d6d510-bd2d-4ff1-9473-57cd9e3ee753.html",
-     "data": "2026-10-16T17:22:53+00:00"
-    },
-    {
-     "titolo": "Morte avvelenate, alcuni computer rubati a marzo dalla scuola perquisita oggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/morte-avvelenate-alcuni-computer-rubati-a-marzo-dalla-scuola-perquisita-oggi_28301f1d-8b13-426e-98a6-2ca345d8b171.html",
-     "data": "2026-10-16T17:18:20+00:00"
-    },
-    {
-     "titolo": "Blitz allievi della Normale fa tardare cerimonia apertura dell'anno accademico",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/blitz-allievi-della-normale-fa-tardare-cerimonia-apertura-dellanno-accademico_63da3589-7e26-454e-afe1-a83cb104b02a.html",
-     "data": "2026-10-16T16:40:47+00:00"
-    },
-    {
-     "titolo": "Tre minorenni arrestati al corteo studentesco a Torino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/tre-minorenni-arrestati-al-corteo-studentesco-a-torino_d57d146f-6d4a-4422-9737-9bc7b3795f45.html",
-     "data": "2026-10-16T16:22:49+00:00"
-    },
-    {
-     "titolo": "Cade da impalcatura in cantiere edile ad Ascoli, grave operaio 22enne",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/cade-da-impalcatura-in-cantiere-edile-ad-ascoli-grave-operaio-22enne_899edb49-ab3a-45c5-a521-3eb01818686f.html",
-     "data": "2026-10-16T16:21:42+00:00"
-    },
-    {
-     "titolo": "Blitz studenti sul palco, bloccato convegno dell'Università di Genova",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/blitz-studenti-sul-palco-bloccato-convegno-delluniversita-di-genova_5cf31c75-f82a-4452-bd97-41e527b25403.html",
-     "data": "2026-10-16T16:04:21+00:00"
-    },
-    {
-     "titolo": "Roccella, maternità non diventi un difetto nel curriculum",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/roccella-maternita-non-diventi-un-difetto-nel-curriculum_5069289d-c6b4-47ce-b830-e24853cc40d9.html",
-     "data": "2026-10-16T15:46:05+00:00"
-    },
-    {
-     "titolo": "Tensioni al Ghetto ebraico a Roma, la comunità ebraica caccia l'Anpi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/tensioni-al-ghetto-ebraico-a-roma-la-comunita-ebraica-caccia-lanpi_5653671b-f5b8-43df-9924-ba894947fe50.html",
-     "data": "2026-10-16T14:41:56+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Contro il caro carburante bus gratis a Reggio Calabria per 8 giorni",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/17/contro-il-caro-carburante-bus-gratis-a-reggio-calabria-per-8-giorni_2a669782-3f03-4e36-b4fc-7195d37b167d.html",
+     "data": "2026-10-17T08:53:55+00:00"
+    },
+    {
+     "titolo": "Salvini: 'Banche mazzolate? Patuelli sorprendente, il contributo da 5 miliardi è il minimo'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/17/salvini-banche-mazzolate-patuelli-sorprendente-il-contributo-da-5-miliardi-e-il-minimo_8aaccd0a-cdc6-4a30-a4bc-c85d9231a6b3.html",
+     "data": "2026-10-17T09:17:15+00:00"
+    },
     {
      "titolo": "Il pm di Roma: 'Gli attivisti della Flotilla torturati'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/16/il-pm-di-roma-gli-attivisti-della-flotilla-torturati_07012b40-6c17-49c3-8777-462d72810d9c.html",
@@ -206,9 +216,9 @@
      "data": "2026-10-16T19:35:12+00:00"
     },
     {
-     "titolo": "Salis: 'Manca un leaderì'. La replica di Schlein: 'Il Pd è già oltre il 24%'",
+     "titolo": "Salis: 'Manca un leader'. La replica di Schlein: 'Il Pd è già oltre il 24%'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/16/salis-manca-un-leaderi.-la-replica-di-schlein-il-pd-e-gia-oltre-il-24_7cf383c3-dc8d-4016-b9e4-fd3660006b1a.html",
-     "data": "2026-10-16T19:04:44+00:00"
+     "data": "2026-10-17T07:11:05+00:00"
     },
     {
      "titolo": "Schlein, il sostegno all'Ucraina per noi è un punto dirimente",
@@ -239,22 +249,47 @@
      "titolo": "Sala stampa vaticana, 'l'Angelus del Papa ci sarà'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/16/sala-stampa-vaticana-langelus-del-papa-ci-sara_bfcfa57a-3997-4da9-a918-2a12d627dd29.html",
      "data": "2026-10-16T12:25:33+00:00"
-    },
-    {
-     "titolo": "Opposizioni a La Russa, Foti in Aula sul Pnrr, essenziale raccordo con la manovra",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/16/opposizioni-a-la-russa-foti-in-aula-sul-pnrr-essenziale-raccordo-con-la-manovra_c8a0065d-743d-4973-98ec-1a66753c0df0.html",
-     "data": "2026-10-16T11:09:29+00:00"
-    },
-    {
-     "titolo": "Salvini, Giorgetti non sarà candidato? Fantasie, bugie e falsità",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/16/salvini-giorgetti-non-sara-candidato-fantasie-bugie-e-falsita_674305d2-211c-40c9-a5ba-4508d406733c.html",
-     "data": "2026-10-16T10:57:41+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Cgia, 'a Milano si pagano più tasse ma ci sono più servizi'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/cgia-a-milano-si-pagano-piu-tasse-ma-ci-sono-piu-servizi_e9c87d58-783b-46a1-affd-90f8a7318edc.html",
+     "data": "2026-10-17T08:39:13+00:00"
+    },
+    {
+     "titolo": "Abi, accelera crescita dei prestiti a famiglie e imprese, +3,7%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/abi-accelera-crescita-dei-prestiti-a-famiglie-e-imprese-37_9ed0ea67-9a83-4568-bf47-7683d5bc4119.html",
+     "data": "2026-10-17T08:36:21+00:00"
+    },
+    {
+     "titolo": "Il gasolio sfiora i 2,3 euro nel prezzo medio sulle autostrade",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/il-gasolio-sfiora-i-3-euro-nel-prezzo-medio-sulle-autostrade_2f8783dc-5c05-4197-bc5b-2dfe9b9939f7.html",
+     "data": "2026-10-17T08:08:00+00:00"
+    },
+    {
+     "titolo": "Sorge (Bppb), 'amareggiati per mancato acquisto Bdm Banca, voltiamo pagina'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/sorge-bppb-amareggiati-per-mancato-acquisto-bdm-banca-voltiamo-pagina_2569ddca-f463-4f30-b978-502b230a0463.html",
+     "data": "2026-10-17T08:01:22+00:00"
+    },
+    {
+     "titolo": "Il gasolio sfiora i 2,3 euro nei distributori su autostrade",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/il-gasolio-sfiora-i-3-euro-nei-distributori-su-autostrade_62ddcd77-5816-481d-b5ab-9fb881bbf8ea.html",
+     "data": "2026-10-17T08:08:48+00:00"
+    },
+    {
+     "titolo": "Giorgetti al Fmi: 'Salvaguardare la sostenibilità del debito proteggendo la crescita'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/giorgetti-salvaguardare-la-sostenibilita-del-debito_e898eb82-ee13-41f2-beb1-1525ce781315.html",
+     "data": "2026-10-17T07:47:33+00:00"
+    },
+    {
+     "titolo": "Lagarde, impossibile ignorare shock energetico, Bce vede risposta misurata",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/lagarde-impossibile-ignorare-shock-energetico-bce-vede-risposta-misurata_83bb3043-b45a-454a-a0b4-dbb7136397ae.html",
+     "data": "2026-10-17T05:35:29+00:00"
+    },
     {
      "titolo": "Giorgetti: 'Il prelievo sulle banche sarà sostenibile, non morirà nessuno'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/giorgetti-il-prelievo-sulle-banche-sara-sostenibile-non-morira-nessuno_6d612453-f8ac-46f7-bfa0-c63a37e7d9ee.html",
@@ -278,42 +313,7 @@
     {
      "titolo": "Ermeti (Ieg), prima al Ttg veniva solo l'Italia, ora tutto il mondo",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/ermeti-ieg-prima-al-ttg-veniva-solo-litalia-ora-tutto-il-mondo_6f1c1b89-0455-4111-814c-09f90a721226.html",
-     "data": "2026-10-16T17:04:44+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano in rialzo con Leonardo e Cucinelli, giù Tim e Technoprobe",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/borsa-milano-in-rialzo-con-leonardo-e-cucinelli-giu-tim-e-technoprobe_7b939276-a46d-4fac-b1b6-5b20196aa695.html",
-     "data": "2026-10-16T16:51:20+00:00"
-    },
-    {
-     "titolo": "Peraboni (Ieg), il Ttg di Rimini è andato bene come il turismo italiano",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/peraboni-ieg-il-ttg-di-rimini-e-andato-bene-come-il-turismo-italiano_2a7e9883-d647-4ff3-a15d-6b055336eb7c.html",
-     "data": "2026-10-16T16:34:15+00:00"
-    },
-    {
-     "titolo": "Lo spread Btp-Bund chiude in lieve calo, a 106 punti base",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/lo-spread-btp-bund-chiude-in-lieve-calo-a-106-punti-base_598d9519-52de-4552-8adf-50b31257d27a.html",
-     "data": "2026-10-16T16:13:03+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa chiude in rialzo, Francoforte +0,9%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/borsa-leuropa-chiude-in-rialzo-francoforte-09_3e21d12e-9e1d-404f-8342-e59f88a6591e.html",
-     "data": "2026-10-16T15:48:49+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in rialzo (+0,93%)",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/borsa-milano-chiude-in-rialzo-093_974b9839-2955-46c4-85ad-21e1f8c1d83f.html",
-     "data": "2026-10-16T15:43:53+00:00"
-    },
-    {
-     "titolo": "A Ttg l'intervista al robot umanoide, 'non provo emozioni ma imparo da voi'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/a-ttg-lintervista-al-robot-umanoide-non-provo-emozioni-ma-imparo-da-voi_0e6e975c-aee7-42dd-92c8-8e228161528f.html",
-     "data": "2026-10-16T15:26:54+00:00"
-    },
-    {
-     "titolo": "Generali per la prima volta sul mercato dei Lloyd's con un syndicate",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/generali-per-la-prima-volta-sul-mercato-dei-lloyds-con-un-syndicate_c597aae0-b309-45d8-a666-092c1007a31e.html",
-     "data": "2026-10-16T15:21:43+00:00"
+     "data": "2026-10-17T07:03:20+00:00"
     }
    ]
   },
@@ -322,13 +322,13 @@
    "voci": [
     {
      "titolo": "Trump ferma importanti sanzioni e dazi del Graham Act sull'export della Russia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/17/trump-ferma-importanti-sanzioni-e-dazi-del-graham-act-sullexport-della_8ed5d46c-e176-4353-b2ee-7ba3aa770d39.html",
-     "data": "2026-10-17T02:01:22+00:00"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/17/trump-sospende-sanzioni-e-dazi-alla-russia-sullexport_c94c6910-154f-4071-9bce-b30372b93263.html",
+     "data": "2026-10-17T08:49:07+00:00"
     },
     {
-     "titolo": "Trump ferma sanzioni e dazi sull'export della Russia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/trump-ferma-importanti-sanzioni-e-dazi-del-graham-act-sullexport-della_c94c6910-154f-4071-9bce-b30372b93263.html",
-     "data": "2026-10-17T03:46:15+00:00"
+     "titolo": "Trump ferma importanti sanzioni e dazi del Graham Act sull'export della Russia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/17/trump-ferma-importanti-sanzioni-e-dazi-del-graham-act-sullexport-della_8ed5d46c-e176-4353-b2ee-7ba3aa770d39.html",
+     "data": "2026-10-17T02:01:22+00:00"
     },
     {
      "titolo": "Crosetto alla Bbc, 'grave errore limitare a Kiev l'accesso ai satelliti'",
@@ -451,6 +451,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Abodi: \"Elezioni Figc? Vanno ritrovate compattezza e coesione\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/abodi-elezioni-figc-vanno-ritrovate-compattezza-e-coesione_e5e49e33-6e7b-490a-b897-f775ab8e9cc4.html",
+     "data": "2026-10-17T08:46:17+00:00"
+    },
+    {
+     "titolo": "Mourinho duro su Tebas, 'scusabile solo se è un caso clinico'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/mourinho-duro-su-tebas-scusabile-solo-se-e-un-caso-clinico_d7ac6905-c58c-4ef9-9f33-35a063c0144e.html",
+     "data": "2026-10-17T08:34:27+00:00"
+    },
+    {
+     "titolo": "Mondiali ciclismo: Alzini in finale per il bronzo nell'inseguimento",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/17/mondiali-ciclismo-alzini-in-finale-per-il-bronzo-nellinseguimento_55aa5236-c6ba-440d-9bec-6ad152226a9f.html",
+     "data": "2026-10-17T07:19:41+00:00"
+    },
+    {
      "titolo": "Serie A: Raimondo, 'non penso ai paragoni, ad Alvini devo tantissimo'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/16/serie-a-raimondo-non-penso-ai-paragoni-ad-alvini-devo-tantissimo_347e2ba0-e72b-46e0-8894-80c7e2a5b808.html",
      "data": "2026-10-16T21:14:58+00:00"
@@ -494,21 +509,6 @@
      "titolo": "Serie A: Fiorentina-Como in campo domenica alle 15 DIRETTA",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/16/serie-a-fiorentina-como-in-campo-domenica-alle-15-diretta_f1138282-7f74-4726-a8c4-f04edfdd2766.html",
      "data": "2026-10-16T18:39:25+00:00"
-    },
-    {
-     "titolo": "La Nba si accorda con le case di scommesse, vietati alcuni tipi di puntate",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/16/la-nba-si-accorda-con-le-case-di-scommesse-vietati-alcuni-tipi-di-puntate_6fa75ce4-c089-4af0-9231-90fa0579ac37.html",
-     "data": "2026-10-16T18:30:18+00:00"
-    },
-    {
-     "titolo": "Cricket: per la prima volta in Italia un corso di alta formazione per tecnici",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/16/cricket-per-la-prima-volta-in-italia-un-corso-di-alta-formazione-per-tecnici_804ead13-1204-4eb5-b9b5-c4ca884d123a.html",
-     "data": "2026-10-16T17:48:54+00:00"
-    },
-    {
-     "titolo": "Tebas: 'Il Real usa tecniche di propaganda degne di Goebbels'. Il club: 'Si dimetta'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/16/tebas-il-real-usa-tecniche-di-propaganda-degne-di-goebbels.-il-club-si-dimetta_f77986f7-7748-4e15-a08c-6862b0e8d042.html",
-     "data": "2026-10-16T19:18:21+00:00"
     }
    ]
   }
