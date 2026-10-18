@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-10-18T21:57:05.113836+00:00",
+ "aggiornato": "2026-10-18T23:49:01.737526+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Wsj, 'Putin ha proposto un incontro con Trump e Xi sull'Ucraina'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/wsj-putin-ha-proposto-un-incontro-con-trump-e-xi-sullucraina_17d35fa4-828e-403b-92b8-ccb7fade9e3f.html",
+     "data": "2026-10-18T23:29:56+00:00"
+    },
     {
      "titolo": "Trump accusa Zelensky, 'non vuole la fine della guerra'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/trump-accusa-zelensky-non-vuole-la-fine-della-guerra_3f14b0e9-c752-4081-99ec-13df4ce57ef2.html",
@@ -49,11 +54,6 @@
      "titolo": "Portati in questura a Milano in 160 dopo gli scontri di oggi, l'80% minori",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/portati-in-questura-a-milano-in-160-dopo-gli-scontri-di-oggi-l80-minori_2d5e166f-76ea-4753-89c7-05d7c1185d9e.html",
      "data": "2026-10-18T17:54:18+00:00"
-    },
-    {
-     "titolo": "Venezuela, l'opposizione conferma sostegno a Machado e punta sulle presidenziali",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/venezuela-lopposizione-conferma-sostegno-a-machado-e-punta-sulle-presidenziali_76d83f1a-f53f-41e4-9bd5-8240ede62ce4.html",
-     "data": "2026-10-18T17:05:49+00:00"
     }
    ]
   },
@@ -296,6 +296,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Wsj, 'Putin ha proposto un incontro con Trump e Xi sull'Ucraina'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/wsj-putin-ha-proposto-un-incontro-con-trump-e-xi-sullucraina_c46574e5-6201-4e3f-a315-fe1a99b76de1.html",
+     "data": "2026-10-18T23:29:58+00:00"
+    },
+    {
+     "titolo": "Al via a San Paolo la Settimana della cucina regionale italiana",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/al-via-a-san-paolo-la-settimana-della-cucina-regionale-italiana_41dce32c-fe64-41a0-a783-b329ccb51387.html",
+     "data": "2026-10-18T22:36:20+00:00"
+    },
+    {
      "titolo": "Trump accusa Zelensky, 'non vuole la fine della guerra'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/trump-accusa-zelensky-non-vuole-la-fine-della-guerra_65fa0f90-d675-4d8a-8b9e-fb363ba75d1a.html",
      "data": "2026-10-18T21:05:07+00:00"
@@ -344,16 +354,6 @@
      "titolo": "Eisenkot replica a Trump, 'solo gli israeliani possono scegliere il loro leader'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/18/eisenkot-replica-a-trump-solo-gli-israeliani-possono-scegliere-il-loro-leader_a8561bd1-f08a-4703-a2ca-059429e84faa.html",
      "data": "2026-10-18T16:46:05+00:00"
-    },
-    {
-     "titolo": "Nuovi scontri e saccheggi a Parigi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/nuovi-scontri-e-saccheggi-a-parigi_cda3f4f4-3b08-4619-bf2d-874376bf990a.html",
-     "data": "2026-10-18T15:47:28+00:00"
-    },
-    {
-     "titolo": "Le scuse di Kiev, 'drone in Lituania è nostro, deviato da Mosca'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/le-scuse-di-kiev-drone-in-lituania-e-nostro-deviato-da-mosca_4c9d7f0c-d852-4342-babf-56573f2c0691.html",
-     "data": "2026-10-18T15:29:46+00:00"
     }
    ]
   },
@@ -426,6 +426,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Liga: 4-1 del Real Madrid al Siviglia, doppietta di Mbappè",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/liga-4-1-del-real-madrid-al-siviglia-doppietta-di-mbappe_6898d0cf-b7c4-4118-a79b-074447e54765.html",
+     "data": "2026-10-18T21:58:24+00:00"
+    },
+    {
      "titolo": "Spalletti, 'Juve inferiore, uno 0-3 difficile da spiegare'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/spalletti-juve-inferiore-uno-0-3-difficile-da-spiegare_17585831-252f-4089-b13f-0a8646d55d68.html",
      "data": "2026-10-18T21:34:38+00:00"
@@ -479,11 +484,6 @@
      "titolo": "Serie A: il Milan dilaga e poi resiste, Atalanta battuta 3-2 a San Siro",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-il-milan-dilaga-e-poi-resiste-atalanta-battuta-3-2-a-san-siro_f846813a-a7a3-477c-bba0-f978649f7a4a.html",
      "data": "2026-10-18T17:59:34+00:00"
-    },
-    {
-     "titolo": "Fiorentina: Vanoli, 'dimostrato il nostro valore, non ci si può spegnere per episodi'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/fiorentina-vanoli-dimostrato-il-nostro-valore-non-ci-si-puo-spegnere-per-episodi_61d4284a-4998-49b2-9572-1d469aeda8dc.html",
-     "data": "2026-10-18T16:41:16+00:00"
     }
    ]
   }
