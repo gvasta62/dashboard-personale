@@ -1,10 +1,45 @@
 {
- "aggiornato": "2026-10-18T17:36:37.778784+00:00",
+ "aggiornato": "2026-10-18T19:43:18.814261+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Piantedosi vede vertici polizia e questore Milano, fermati oltre 200 violenti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/piantedosi-vede-vertici-polizia-e-questore-milano-fermati-oltre-200-violenti_c2b74c70-f027-4e98-8cc5-3f3e9ee400e5.html",
+     "data": "2026-10-18T19:36:40+00:00"
+    },
+    {
+     "titolo": "Zelensky, 'Trump spinge l'Ucraina alla capitolazione di fronte alla Russia'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/zelensky-trump-spinge-lucraina-alla-capitolazione-di-fronte-alla-russia_52691173-164f-4cda-8039-7c2e93b79264.html",
+     "data": "2026-10-18T19:19:22+00:00"
+    },
+    {
+     "titolo": "Fiorello torna su Rai1 con 'Tg1 edizione più che straordinaria'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/fiorello-torna-su-rai1-con-tg1-edizione-piu-che-straordinaria_93858050-f9a2-45f5-a892-018d93a43f87.html",
+     "data": "2026-10-18T19:13:55+00:00"
+    },
+    {
+     "titolo": "Tajani convoca riunione Fi sulla sicurezza, rafforzare Strade Sicure e Cdm a Milano",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/tajani-convoca-riunione-fi-sulla-sicurezza-rafforzare-strade-sicure-e-cdm-a-milano_b642f028-7319-4de1-89a6-00e623c7344c.html",
+     "data": "2026-10-18T18:32:39+00:00"
+    },
+    {
+     "titolo": "Macron, 'proteggeremo le nostre città anche vietando alcuni raduni'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/macron-proteggeremo-le-nostre-citta-anche-vietando-alcuni-raduni_db771904-7709-496e-926c-470213889ed5.html",
+     "data": "2026-10-18T18:31:51+00:00"
+    },
+    {
+     "titolo": "Macron denuncia il caos in Francia, 'rabbia e vergogna'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_919a9aa2-86cc-47f6-afcf-b8b078111bb0.html",
+     "data": "2026-10-18T18:08:58+00:00"
+    },
+    {
+     "titolo": "Portati in questura a Milano in 160 dopo gli scontri di oggi, l'80% minori",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/portati-in-questura-a-milano-in-160-dopo-gli-scontri-di-oggi-l80-minori_2d5e166f-76ea-4753-89c7-05d7c1185d9e.html",
+     "data": "2026-10-18T17:54:18+00:00"
+    },
     {
      "titolo": "Venezuela, l'opposizione conferma sostegno a Machado e punta sulle presidenziali",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/venezuela-lopposizione-conferma-sostegno-a-machado-e-punta-sulle-presidenziali_76d83f1a-f53f-41e4-9bd5-8240ede62ce4.html",
@@ -19,41 +54,6 @@
      "titolo": "Eisenkot replica a Trump, 'solo gli israeliani possono scegliere il loro leader'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/eisenkot-replica-a-trump-solo-gli-israeliani-possono-scegliere-il-loro-leader_08076971-640e-4224-8111-a4e75b74c2fe.html",
      "data": "2026-10-18T16:45:47+00:00"
-    },
-    {
-     "titolo": "Nuovi scontri e saccheggi a Parigi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/nuovi-scontri-e-saccheggi-a-parigi_46e8e88a-bbf9-4c3f-a9de-52fe29ef113c.html",
-     "data": "2026-10-18T15:47:10+00:00"
-    },
-    {
-     "titolo": "Lega, 'subito un decreto, fermo preventivo anche per i minorenni'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/lega-subito-un-decreto-fermo-preventivo-anche-per-i-minorenni_5d687364-6725-4c0a-ba60-8adf95debcdf.html",
-     "data": "2026-10-18T15:34:56+00:00"
-    },
-    {
-     "titolo": "Anm, 'se la premier non firma su stipendi faremo valere i nostri diritti come tutti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/anm-se-la-premier-non-firma-su-stipendi-faremo-valere-i-nostri-diritti-come_797074eb-0c24-4ef4-ac8b-119403500190.html",
-     "data": "2026-10-18T15:32:29+00:00"
-    },
-    {
-     "titolo": "Le scuse di Kiev, 'drone in Lituania è nostro, deviato da Mosca'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/le-scuse-di-kiev-drone-in-lituania-e-nostro-deviato-da-mosca_6db32d40-da9e-406d-a4f7-de18be2f88d1.html",
-     "data": "2026-10-18T15:29:16+00:00"
-    },
-    {
-     "titolo": "Scontri di piazza, Meloni convoca per domani un vertice sull'ordine pubblico",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/scontri-di-piazza-meloni-convoca-per-domani-un-vertice-sullordine-pubblico_07e68c7a-0f02-4c2e-a75e-76c6a35445cf.html",
-     "data": "2026-10-18T15:00:03+00:00"
-    },
-    {
-     "titolo": "Fonti Chigi, Meloni non firma il Dpcm per aumenti da 1 miliardo ai magistrati",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/fonti-chigi-meloni-non-firma-il-dpcm-per-aumenti-da-1-miliardo-ai-magistrati_da33d6ee-8073-427f-b456-ce244b8cf55e.html",
-     "data": "2026-10-18T14:58:36+00:00"
-    },
-    {
-     "titolo": "Media, 'l'Idf richiama tutti i militari in servizio il 27 ottobre, rischio attacchi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/media-lidf-richiama-tutti-i-militari-in-servizio-il-27-ottobre-rischio-attacchi_ea89b464-adbf-4768-9888-c0fa226f3770.html",
-     "data": "2026-10-18T14:54:19+00:00"
     }
    ]
   },
@@ -126,6 +126,36 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Piantedosi vede vertici polizia e questore Milano, fermati oltre 200 violenti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/piantedosi-vede-vertici-polizia-e-questore-milano-fermati-oltre-200-violenti_db824242-c4cf-454d-8a30-92d00b06fa93.html",
+     "data": "2026-10-18T19:36:34+00:00"
+    },
+    {
+     "titolo": "Moto contro un muretto a secco, due motociclisti muoiono in Salento",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/moto-contro-un-muretto-a-secco-due-motociclisti-muoiono-in-salento_064ec063-41a3-4711-a278-824124dcde6a.html",
+     "data": "2026-10-18T18:06:49+00:00"
+    },
+    {
+     "titolo": "A. Fontana, a Milano delinquenti che devono essere trattati come tali",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/a.-fontana-a-milano-delinquenti-che-devono-essere-trattati-come-tali_a5465eea-4aaa-4872-8de2-39be3c7a58db.html",
+     "data": "2026-10-18T17:59:48+00:00"
+    },
+    {
+     "titolo": "A Milano ancora scontri, Meloni convoca il vertice sulla sicurezza",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/a-milano-ancora-scontri-meloni-convoca-il-vertice-sulla-sicurezza_7945d5b5-a8b2-4eed-96ae-375261367822.html",
+     "data": "2026-10-18T19:23:21+00:00"
+    },
+    {
+     "titolo": "Portati in questura a Milano in 160 dopo gli scontri di oggi, l'80% minori",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/portati-in-questura-a-milano-in-160-dopo-gli-scontri-di-oggi-l80-minori_9de5c8cf-262c-41df-a592-6fb68202baeb.html",
+     "data": "2026-10-18T17:54:39+00:00"
+    },
+    {
+     "titolo": "Papa Leone all'Angelus dopo il ricovero: 'Riprenderò gradualmente'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/papa-leone-allangelus-dopo-il-ricovero-riprendero-gradualmente_74dcf119-92a0-46e7-986f-16343122a321.html",
+     "data": "2026-10-18T17:40:40+00:00"
+    },
+    {
      "titolo": "Gran finale per l'Aeronautica Militare Balloon Cup, le squadre vincitrici",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/gran-finale-per-laeronautica-militare-balloon-cup-le-squadre-vincitrici_0f82e957-43c2-4297-b3b9-29b445d01d05.html",
      "data": "2026-10-18T17:07:27+00:00"
@@ -154,42 +184,27 @@
      "titolo": "Precipita per oltre 50 metri sulle Alpi Giulie, morta alpinista tedesca",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/precipita-per-oltre-50-metri-sulle-alpi-giulie-morta-alpinista-tedesca_bbc560d9-521c-48bd-aa55-cb9da8f6a3d5.html",
      "data": "2026-10-18T16:28:28+00:00"
-    },
-    {
-     "titolo": "Nubifragio all'Elba, alluvionato il lungomare di Cavo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/nubifragio-allelba-alluvionato-il-lungomare-di-cavo_ed6127e8-caca-487e-ab2e-3a708432c255.html",
-     "data": "2026-10-18T16:27:43+00:00"
-    },
-    {
-     "titolo": "Lo slogan 'Bismillah, c'est les ténèbres', il buio dalla Francia nelle piazze italiane",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/lo-slogan-bismillah-cest-les-tenebres-il-buio-dalla-francia-nelle-piazze_d6168e37-f1c0-4c95-a12f-a600e75c34be.html",
-     "data": "2026-10-18T17:07:19+00:00"
-    },
-    {
-     "titolo": "Libreria Feltrinelli in stazione Torino riapre dopo assalto durante corteo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/libreria-feltrinelli-in-stazione-torino-riapre-dopo-assalto-durante-corteo_e4316a31-bc74-43e5-a664-5589997cf381.html",
-     "data": "2026-10-18T16:13:31+00:00"
-    },
-    {
-     "titolo": "Corteo studentesco a Torino, il gip si riserva su tre minori arrestati",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/corteo-studentesco-a-torino-il-gip-si-riserva-su-tre-minori-arrestati_ce689355-e1f6-4bf8-8064-e2b8be7111ea.html",
-     "data": "2026-10-18T15:42:41+00:00"
-    },
-    {
-     "titolo": "Giovani di nuovo in piazza a Milano sfondano le vetrine",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/giovani-di-nuovo-in-piazza-a-milano-sfondano-le-vetrine_9940673e-de74-495f-a1c3-1742a621a4c9.html",
-     "data": "2026-10-18T15:06:02+00:00"
-    },
-    {
-     "titolo": "Milano: centinaia di giovani a gruppetti in piazza Duomo, 50 portati in questura",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/centinaia-di-giovani-a-gruppetti-in-piazza-duomo-50-portati-in-questura_57da2060-1834-4ed4-a7a9-19a0843c94bd.html",
-     "data": "2026-10-18T17:12:47+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Tajani convoca riunione Fi sulla sicurezza, rafforzare Strade Sicure e Cdm a Milano",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/18/tajani-convoca-riunione-fi-sulla-sicurezza-rafforzare-strade-sicure-e-cdm-a-milano_c5ed4e05-e431-4a3d-bead-b4ab77b0fcb3.html",
+     "data": "2026-10-18T18:32:59+00:00"
+    },
+    {
+     "titolo": "'La Lega ha perso la sua anima', Garavaglia sfida Salvini",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/18/la-lega-ha-perso-la-sua-anima-garavaglia-sfida-salvini_eae2af41-0216-40ad-9564-dcf2739ed482.html",
+     "data": "2026-10-18T18:23:29+00:00"
+    },
+    {
+     "titolo": "Bolletta sociale, diritti e patrimoniale. Le richieste di Avs",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/18/bolletta-sociale-diritti-e-patrimoniale.-le-richieste-di-avs_b9911165-0282-47b3-817a-e02036289dea.html",
+     "data": "2026-10-18T17:46:37+00:00"
+    },
     {
      "titolo": "Lega, 'subito un decreto, fermo preventivo anche per i minorenni'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/18/lega-subito-un-decreto-fermo-preventivo-anche-per-i-minorenni_2d0a96ea-84c9-4737-ba97-72b2376b7d55.html",
@@ -221,9 +236,9 @@
      "data": "2026-10-18T13:31:19+00:00"
     },
     {
-     "titolo": "Schlein all'assemblea Pd: 'Sono pronta a candidarmi, con o senza le primarie'",
+     "titolo": "Schlein si candida alla corsa per Palazzo Chigi, 'con o senza le primarie'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/18/schlein-sono-pronta-a-candidarmi-con-o-senza-le-primarie_68325ea6-8145-45ec-add6-1db6a16ef38a.html",
-     "data": "2026-10-18T14:41:55+00:00"
+     "data": "2026-10-18T19:05:43+00:00"
     },
     {
      "titolo": "Schlein, pronti da subito al programma, ma per allargare l'alleanza",
@@ -234,27 +249,17 @@
      "titolo": "Il Papa all'Angelus, 'ora riprenderò le attività gradualmente'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/18/il-papa-allangelus-ora-riprendero-le-attivita-gradualmente_06803240-bbaf-4d9a-8f78-90dd9c582c0c.html",
      "data": "2026-10-18T10:35:28+00:00"
-    },
-    {
-     "titolo": "Appello Avs ad altre opposizioni, ora grande manifestazione unitaria",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/18/appello-avs-ad-altre-opposizioni-ora-grande-manifestazione-unitaria_b4095164-287b-4c2c-ab4b-99cb18a013d2.html",
-     "data": "2026-10-18T10:28:31+00:00"
-    },
-    {
-     "titolo": "Meloni, siamo con le forze dell'ordine. Cittadini devono vivere città senza paura",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/18/meloni-siamo-con-le-forze-dellordine.-cittadini-devono-vivere-citta-senza_4b938ee9-86be-4e07-bf10-50284d57357e.html",
-     "data": "2026-10-18T09:17:11+00:00"
-    },
-    {
-     "titolo": "Cgil in piazza: 'Siamo 100mila, il 20 novembre sciopero generale'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/17/cgil-in-piazza-siamo-100mila-il-20-novembre-sciopero-generale_c4547ea9-f018-4e78-adda-67ad7af8e7d0.html",
-     "data": "2026-10-17T20:30:10+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "A Folgiero (Fincantieri) il Premio Niaf per l'eccellenza nell'industria marittima",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/a-folgiero-fincantieri-il-premio-niaf-per-leccellenza-nellindustria-marittima_44d247c2-6b9b-4af8-944b-9ff7857db32d.html",
+     "data": "2026-10-18T18:33:50+00:00"
+    },
     {
      "titolo": "Bollette, sconto dal 2027, un nuovo decreto per fissare il tetto al gas",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/bollette-sconto-dal-2027-un-nuovo-decreto-per-fissare-il-tetto-al-gas_38f35727-60e4-4d21-b060-0f823a8c6eb2.html",
@@ -291,6 +296,36 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Zelensky, 'Trump spinge l'Ucraina alla capitolazione di fronte alla Russia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/zelensky-trump-spinge-lucraina-alla-capitolazione-di-fronte-alla-russia_610d0b1a-5183-430c-a688-52c1f916afa9.html",
+     "data": "2026-10-18T19:19:22+00:00"
+    },
+    {
+     "titolo": "Zelensky, 'Trump spinge l'Ucraina alla capitolazione di fronte alla Russia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/18/zelensky-trump-spinge-lucraina-alla-capitolazione-di-fronte-alla-russia_eaf8202d-3d92-4fe4-a188-9b345b9a1088.html",
+     "data": "2026-10-18T19:19:36+00:00"
+    },
+    {
+     "titolo": "In Brasile per la prima volta un sondaggio prevede la vittoria di Lula",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/18/in-brasile-per-la-prima-volta-un-sondaggio-prevede-la-vittoria-di-lula_a8369bce-e92f-4516-9d92-79df85248bfa.html",
+     "data": "2026-10-18T18:42:23+00:00"
+    },
+    {
+     "titolo": "Macron: 'Rabbia e vergogna, chi ha distrutto deve pagare'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_2aeef560-dded-49f0-b82b-97ffd9004684.html",
+     "data": "2026-10-18T19:36:37+00:00"
+    },
+    {
+     "titolo": "Macron, 'proteggeremo le nostre città anche vietando alcuni raduni'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/macron-proteggeremo-le-nostre-citta-anche-vietando-alcuni-raduni_af93e405-43e7-4b87-a48e-37a6526d13d0.html",
+     "data": "2026-10-18T18:31:56+00:00"
+    },
+    {
+     "titolo": "Macron denuncia il caos in Francia, 'rabbia e vergogna'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_1b35f4b8-a67b-4f4f-b312-dc14355c90c2.html",
+     "data": "2026-10-18T18:09:11+00:00"
+    },
+    {
      "titolo": "Venezuela, l'opposizione conferma sostegno a Machado e punta sulle presidenziali",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/18/venezuela-lopposizione-conferma-sostegno-a-machado-e-punta-sulle-presidenziali_c913230a-486d-4add-be9e-fd62dff144b7.html",
      "data": "2026-10-18T17:06:09+00:00"
@@ -319,36 +354,6 @@
      "titolo": "Media, 'l'Idf richiama tutti i militari in servizio il 27 ottobre, rischio attacchi'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/18/media-lidf-richiama-tutti-i-militari-in-servizio-il-27-ottobre-rischio-attacchi_b1e2c74d-b6a8-4228-9195-13866e0f5297.html",
      "data": "2026-10-18T14:54:24+00:00"
-    },
-    {
-     "titolo": "Zelensky, Usa hanno ripreso la condivisione di intelligence",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/18/zelensky-usa-hanno-ripreso-la-condivisione-di-intelligence_1108fa11-6b62-4e34-83ea-e0ff4a1c4c92.html",
-     "data": "2026-10-18T14:30:21+00:00"
-    },
-    {
-     "titolo": "Zelensky, Usa hanno ripreso la condivisione di intelligence",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/zelensky-usa-hanno-ripreso-la-condivisione-di-intelligence_94073e79-2dc9-4d2e-94aa-00fa063d1140.html",
-     "data": "2026-10-18T14:30:21+00:00"
-    },
-    {
-     "titolo": "Netanyahu, 'elezioni cruciali, si vota per la destra o per la Palestina'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/18/netanyahu-elezioni-cruciali-si-vota-per-la-destra-o-per-la-palestina_09afc138-ee01-4a78-a5e6-8150b8d4ef6e.html",
-     "data": "2026-10-18T15:21:31+00:00"
-    },
-    {
-     "titolo": "Wafa, 'bambino ucciso a Gaza in un attacco dell'Idf, il secondo oggi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/18/wafa-bambino-ucciso-a-gaza-in-un-attacco-dellidf-il-secondo-oggi_0a1b4a29-82c8-4b22-98a3-fd5ce50d6052.html",
-     "data": "2026-10-18T14:03:54+00:00"
-    },
-    {
-     "titolo": "Le famiglie delle vittime del 7 ottobre e degli ostaggi chiedono un'indagine penale contro Netanyahu",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/18/le-famiglie-delle-vittime-del-7-ottobre-e-degli-ostaggi-chiedono-unindagine-penale_b83ace76-5a3b-45fc-aedf-ce5bfc7eddeb.html",
-     "data": "2026-10-18T16:31:56+00:00"
-    },
-    {
-     "titolo": "Trump, 'Francia in fiamme, chiuda le frontiere prima che sia troppo tardi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/18/trump-francia-in-fiamme-chiuda-le-frontiere-prima-che-sia-troppo-tardi_35e07c47-8599-4152-a591-1da6d7ec0a91.html",
-     "data": "2026-10-18T12:26:52+00:00"
     }
    ]
   },
@@ -421,6 +426,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Milano: Amorim, abbiamo avuto paura quando dovevamo invece fare il quarto gol",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/milano-amorim-abbiamo-avuto-paura-quando-dovevamo-invece-fare-il-quarto_42411335-9d1d-4b8b-942e-760bcdf19e5a.html",
+     "data": "2026-10-18T19:35:16+00:00"
+    },
+    {
+     "titolo": "Atalanta: Sarri, c'erano tre tocchi di mano ma visti solo quelli per il Milan",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/atalanta-sarri-cerano-tre-tocchi-di-mano-ma-visti-solo-quelli-per_5839fe76-8b26-4459-a33b-6d04d6ed3393.html",
+     "data": "2026-10-18T19:25:59+00:00"
+    },
+    {
+     "titolo": "Serie A: il Milan soffre ma vince contro l'Atalanta, 3-2 a San Siro",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-milan-atalanta-3-2_0af62bdd-e013-406b-8cb4-08048eb4690a.html",
+     "data": "2026-10-18T18:39:28+00:00"
+    },
+    {
+     "titolo": "Serie A: il Milan dilaga e poi resiste, Atalanta battuta 3-2 a San Siro",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-il-milan-dilaga-e-poi-resiste-atalanta-battuta-3-2-a-san-siro_f846813a-a7a3-477c-bba0-f978649f7a4a.html",
+     "data": "2026-10-18T17:59:34+00:00"
+    },
+    {
      "titolo": "Fiorentina: Vanoli, 'dimostrato il nostro valore, non ci si può spegnere per episodi'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/fiorentina-vanoli-dimostrato-il-nostro-valore-non-ci-si-puo-spegnere-per-episodi_61d4284a-4998-49b2-9572-1d469aeda8dc.html",
      "data": "2026-10-18T16:41:16+00:00"
@@ -456,29 +481,9 @@
      "data": "2026-10-18T15:05:37+00:00"
     },
     {
-     "titolo": "Serie A, in campo Milan-Atalanta LIVE",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-milan-atalanta-in-campo-alle-18-diretta_0af62bdd-e013-406b-8cb4-08048eb4690a.html",
-     "data": "2026-10-18T16:33:05+00:00"
-    },
-    {
-     "titolo": "Serie A, Juventus-Lazio in campo alle 20.45 DIRETTA",
+     "titolo": "Serie A, in campo Juventus-Lazio LIVE",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-juventus-lazio-in-campo-alle-20.45-diretta_02c6a963-1886-4a93-92ec-be0857426a7b.html",
-     "data": "2026-10-18T13:42:41+00:00"
-    },
-    {
-     "titolo": "Calcio: Udinese; Runjaic, \"mi assumo responsabilità ma troverò le soluzioni\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/calcio-udinese-runjaic-mi-assumo-responsabilita-ma-trovero-le-soluzioni_41e664bb-9dc9-467e-87d5-9fb8871e7100.html",
-     "data": "2026-10-18T13:40:14+00:00"
-    },
-    {
-     "titolo": "Kartal ko in finale, Chwalinska vince a Wuhan il suo primo titolo Mille",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/18/kartal-ko-in-finale-chwalinska-vince-a-wuhan-il-suo-primo-titolo-mille_d0c1a976-d931-4506-9d91-397a517046b6.html",
-     "data": "2026-10-18T13:40:34+00:00"
-    },
-    {
-     "titolo": "Serie A: : Di Francesco, 'a Udine la miglior prestazione da quando sono a Lecce'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-di-francesco-a-udine-la-miglior-prestazione-da-quando-sono-a-lecce_17951dd5-16a1-439a-9cd8-d008b617ca1b.html",
-     "data": "2026-10-18T13:39:20+00:00"
+     "data": "2026-10-18T19:14:22+00:00"
     }
    ]
   }
