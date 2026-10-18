@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-17T08:08:08.557441+00:00",
- "data": "2026-10-17",
- "testo": "Cielo di cenere\nnel cesto all'uscio del frantoio\npesa l'oliva",
- "nota": "Osservato il cesto delle olive appena raccolte davanti al frantoio.",
+ "aggiornato": "2026-10-18T08:24:56.628597+00:00",
+ "data": "2026-10-18",
+ "testo": "Grigio uniforme\nsul davanzale di legno\nsecca il rosmarino",
+ "nota": "Un mazzetto di rosmarino lasciato ad asciugare sotto il cielo coperto.",
  "archivio": [
+  {
+   "data": "2026-10-18",
+   "testo": "Grigio uniforme\nsul davanzale di legno\nsecca il rosmarino",
+   "nota": "Un mazzetto di rosmarino lasciato ad asciugare sotto il cielo coperto."
+  },
   {
    "data": "2026-10-17",
    "testo": "Cielo di cenere\nnel cesto all'uscio del frantoio\npesa l'oliva",
@@ -448,11 +453,6 @@
    "data": "2026-07-21",
    "testo": "Sudore alla fronte\nlungo il muro di pietra\nlucertola immobile",
    "nota": "Una lucertola ferma sul muro caldo mentre il cielo resta coperto."
-  },
-  {
-   "data": "2026-07-20",
-   "testo": "Cielo di cenere\nsui campi di girasoli\nnessun ronzio",
-   "nota": "Sotto le nuvole basse i girasoli sembrano spenti, e manca il suono delle api."
   }
  ]
 }
