@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-10-18T19:43:18.814261+00:00",
+ "aggiornato": "2026-10-18T21:57:05.113836+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump accusa Zelensky, 'non vuole la fine della guerra'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/trump-accusa-zelensky-non-vuole-la-fine-della-guerra_3f14b0e9-c752-4081-99ec-13df4ce57ef2.html",
+     "data": "2026-10-18T21:04:51+00:00"
+    },
+    {
+     "titolo": "Serie A: Juventus-Lazio 0-3",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/serie-a-juventus-lazio-0-3_1803946d-2c83-41fe-b544-5047bad0645e.html",
+     "data": "2026-10-18T20:40:31+00:00"
+    },
     {
      "titolo": "Piantedosi vede vertici polizia e questore Milano, fermati oltre 200 violenti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/piantedosi-vede-vertici-polizia-e-questore-milano-fermati-oltre-200-violenti_c2b74c70-f027-4e98-8cc5-3f3e9ee400e5.html",
@@ -44,22 +54,17 @@
      "titolo": "Venezuela, l'opposizione conferma sostegno a Machado e punta sulle presidenziali",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/venezuela-lopposizione-conferma-sostegno-a-machado-e-punta-sulle-presidenziali_76d83f1a-f53f-41e4-9bd5-8240ede62ce4.html",
      "data": "2026-10-18T17:05:49+00:00"
-    },
-    {
-     "titolo": "Caos a Tirana, scontri violenti e 194 persone fermate nel Paese",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/caos-a-tirana-scontri-violenti-e-194-persone-fermate-nel-paese_d4fa9bb7-e5be-4f8e-aef2-67a61fd49616.html",
-     "data": "2026-10-18T16:49:10+00:00"
-    },
-    {
-     "titolo": "Eisenkot replica a Trump, 'solo gli israeliani possono scegliere il loro leader'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/eisenkot-replica-a-trump-solo-gli-israeliani-possono-scegliere-il-loro-leader_08076971-640e-4224-8111-a4e75b74c2fe.html",
-     "data": "2026-10-18T16:45:47+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Sollecito, volontà precisa di ignorare l'ingiustizia nei miei confronti",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/18/sollecito-volonta-precisa-di-ignorare-lingiustizia-nei-miei-confronti_fbd9e584-384d-4c8b-9f9a-34970db26c56.html",
+     "data": "2026-10-18T19:47:50+00:00"
+    },
     {
      "titolo": "Ritrovato Francesco, il cane con l'orologio su una zampa scomparso a Perugia",
      "link": "https://www.ansa.it/umbria/notizie/2026/10/18/ritrovato-francesco-il-cane-con-lorologio-su-una-zampa-scomparso-a-perugia_baf993c2-a0b3-4272-b6a0-e8e7c49d8926.html",
@@ -114,17 +119,27 @@
      "titolo": "Colussi, i sindacati proclamano lo stato di agitazione",
      "link": "https://www.ansa.it/umbria/notizie/2026/10/17/colussi-i-sindacati-proclamano-lo-stato-di-agitazione_6ec13137-cf29-4f92-9f5a-31f406f094d6.html",
      "data": "2026-10-17T14:29:09+00:00"
-    },
-    {
-     "titolo": "Pd-Avs-M5s-Psi, costruiamo insieme il percorso per la vittoria nel 2027",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/17/pd-avs-m5s-psi-costruiamo-insieme-il-percorso-per-la-vittoria-nel-2027_6ec0ceaf-7d6c-4fc4-af2e-68697e09723d.html",
-     "data": "2026-10-17T13:59:50+00:00"
     }
    ]
   },
   "cronaca": {
    "nome": "Cronaca",
    "voci": [
+    {
+     "titolo": "Urta con il trattore un bracciante in bici che cade e muore, denunciato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/urta-con-il-trattore-un-bracciante-in-bici-che-cade-e-muore-denunciato_41958378-2de3-4e75-b439-be3d0e0e1676.html",
+     "data": "2026-10-18T20:57:54+00:00"
+    },
+    {
+     "titolo": "Il poliziotto ferito al lavoro: 'Dobbiamo garantire la sicurezza'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/il-poliziotto-ferito-al-lavoro-dobbiamo-garantire-la-sicurezza_870b61b1-18e9-4159-b7bf-fe9c6414bc06.html",
+     "data": "2026-10-18T20:33:31+00:00"
+    },
+    {
+     "titolo": "Sollecito, volontà precisa di ignorare l'ingiustizia nei miei confronti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/sollecito-volonta-precisa-di-ignorare-lingiustizia-nei-miei-confronti_7e440022-47c6-4ed4-bbef-372c86a4961b.html",
+     "data": "2026-10-18T19:47:42+00:00"
+    },
     {
      "titolo": "Piantedosi vede vertici polizia e questore Milano, fermati oltre 200 violenti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/piantedosi-vede-vertici-polizia-e-questore-milano-fermati-oltre-200-violenti_db824242-c4cf-454d-8a30-92d00b06fa93.html",
@@ -143,7 +158,7 @@
     {
      "titolo": "A Milano ancora scontri, Meloni convoca il vertice sulla sicurezza",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/a-milano-ancora-scontri-meloni-convoca-il-vertice-sulla-sicurezza_7945d5b5-a8b2-4eed-96ae-375261367822.html",
-     "data": "2026-10-18T19:23:21+00:00"
+     "data": "2026-10-18T20:34:06+00:00"
     },
     {
      "titolo": "Portati in questura a Milano in 160 dopo gli scontri di oggi, l'80% minori",
@@ -169,21 +184,6 @@
      "titolo": "Fabbricavano bottiglie incendiarie a corteo Torino, arrestati 3 minorenni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/fabbricavano-bottiglie-incendiarie-a-corteo-torino-arrestati-3-minorenni_bb202117-0339-4075-ba53-f8af64b9bce7.html",
      "data": "2026-10-18T16:41:49+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-10-18T16:34:22+00:00"
-    },
-    {
-     "titolo": "A Milano saccheggiati negozi vicini a Cordusio, Galleria blindata",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/a-milano-saccheggiati-negozi-vicini-a-cordusio-galleria-blindata_85cf47de-b0d4-4f45-9ee5-c16528ec7ba6.html",
-     "data": "2026-10-18T16:35:28+00:00"
-    },
-    {
-     "titolo": "Precipita per oltre 50 metri sulle Alpi Giulie, morta alpinista tedesca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/precipita-per-oltre-50-metri-sulle-alpi-giulie-morta-alpinista-tedesca_bbc560d9-521c-48bd-aa55-cb9da8f6a3d5.html",
-     "data": "2026-10-18T16:28:28+00:00"
     }
    ]
   },
@@ -296,6 +296,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump accusa Zelensky, 'non vuole la fine della guerra'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/trump-accusa-zelensky-non-vuole-la-fine-della-guerra_65fa0f90-d675-4d8a-8b9e-fb363ba75d1a.html",
+     "data": "2026-10-18T21:05:07+00:00"
+    },
+    {
      "titolo": "Zelensky, 'Trump spinge l'Ucraina alla capitolazione di fronte alla Russia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/zelensky-trump-spinge-lucraina-alla-capitolazione-di-fronte-alla-russia_610d0b1a-5183-430c-a688-52c1f916afa9.html",
      "data": "2026-10-18T19:19:22+00:00"
@@ -349,11 +354,6 @@
      "titolo": "Le scuse di Kiev, 'drone in Lituania è nostro, deviato da Mosca'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/le-scuse-di-kiev-drone-in-lituania-e-nostro-deviato-da-mosca_4c9d7f0c-d852-4342-babf-56573f2c0691.html",
      "data": "2026-10-18T15:29:46+00:00"
-    },
-    {
-     "titolo": "Media, 'l'Idf richiama tutti i militari in servizio il 27 ottobre, rischio attacchi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/18/media-lidf-richiama-tutti-i-militari-in-servizio-il-27-ottobre-rischio-attacchi_b1e2c74d-b6a8-4228-9195-13866e0f5297.html",
-     "data": "2026-10-18T14:54:24+00:00"
     }
    ]
   },
@@ -426,6 +426,41 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Spalletti, 'Juve inferiore, uno 0-3 difficile da spiegare'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/spalletti-juve-inferiore-uno-0-3-difficile-da-spiegare_17585831-252f-4089-b13f-0a8646d55d68.html",
+     "data": "2026-10-18T21:34:38+00:00"
+    },
+    {
+     "titolo": "Lazio: Gattuso 'non guardiamo la classifica, siamo una bella famiglia'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/lazio-gattuso-non-guardiamo-la-classifica-siamo-una-bella-famiglia_5ba9c330-03d6-432a-a02f-cb2db31237b7.html",
+     "data": "2026-10-18T21:29:53+00:00"
+    },
+    {
+     "titolo": "Mondiali ginnastica: per azzurre finale a squadre più vicina",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/18/mondiali-ginnastica-per-azzurre-finale-a-squadre-piu-vicina_178e703f-f76e-43a1-8453-5bac91639b67.html",
+     "data": "2026-10-18T21:27:32+00:00"
+    },
+    {
+     "titolo": "Serie A: la Juve crolla, la Lazio vola ed è in testa con l'Inter",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/18/serie-a-la-juve-crolla-la-lazio-vola-ed-e-in-testa-con-linter_fbbef75c-2606-4c53-a729-a23a275d3dd6.html",
+     "data": "2026-10-18T21:10:33+00:00"
+    },
+    {
+     "titolo": "Serie A: Lazio da sogno e Juve da incubo, allo Stadium finisce 0-3",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-lazio-da-sogno-e-juve-da-incubo-allo-stadium-finisce-0-3_02c6a963-1886-4a93-92ec-be0857426a7b.html",
+     "data": "2026-10-18T21:12:11+00:00"
+    },
+    {
+     "titolo": "Serie A: Juventus-Lazio 0-3",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-juventus-lazio-0-3_8f6784f6-f6fa-47be-af02-20c57ab99f40.html",
+     "data": "2026-10-18T20:40:27+00:00"
+    },
+    {
+     "titolo": "Jiu jitsu brasiliano: quattro titoli per Lorenzo Calabrò ai campionati italiani",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/18/jiu-jitsu-brasiliano-quattro-titoli-per-lorenzo-calabro-ai-campionati-italiani_777f52e5-c8ea-4e7e-86e2-ce35b4f4714b.html",
+     "data": "2026-10-18T19:50:30+00:00"
+    },
+    {
      "titolo": "Milano: Amorim, abbiamo avuto paura quando dovevamo invece fare il quarto gol",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/milano-amorim-abbiamo-avuto-paura-quando-dovevamo-invece-fare-il-quarto_42411335-9d1d-4b8b-942e-760bcdf19e5a.html",
      "data": "2026-10-18T19:35:16+00:00"
@@ -449,41 +484,6 @@
      "titolo": "Fiorentina: Vanoli, 'dimostrato il nostro valore, non ci si può spegnere per episodi'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/fiorentina-vanoli-dimostrato-il-nostro-valore-non-ci-si-puo-spegnere-per-episodi_61d4284a-4998-49b2-9572-1d469aeda8dc.html",
      "data": "2026-10-18T16:41:16+00:00"
-    },
-    {
-     "titolo": "Como: Fabregas, abbiamo fatto una partita completa",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/como-fabregas-abbiamo-fatto-una-partita-completa_878db3b6-865a-49e9-ba37-d32d01fa0afc.html",
-     "data": "2026-10-18T16:28:53+00:00"
-    },
-    {
-     "titolo": "Premier: il Manchester United pareggia 1-1 a Leeds",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/premier-il-manchester-united-pareggia-1-1-a-leeds_db48d5ce-97bb-4647-9233-f862fb845ada.html",
-     "data": "2026-10-18T16:15:13+00:00"
-    },
-    {
-     "titolo": "Napoli: squadra già in campo, Allegri influenzato salta l'allenamento",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/napoli-squadra-gia-in-campo-allegri-influenzato-salta-lallenamento_7bd2e8eb-09cb-4aa1-a8bb-0c64850ec04d.html",
-     "data": "2026-10-18T16:01:31+00:00"
-    },
-    {
-     "titolo": "Il Como vince e vola, la Fiorentina va sempre più a picco",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-fiorentina-como-finisce-1-3_f1138282-7f74-4726-a8c4-f04edfdd2766.html",
-     "data": "2026-10-18T15:52:27+00:00"
-    },
-    {
-     "titolo": "Prima vittoria da iridato per McNulty, sua la Veneto Classic",
-     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/18/prima-vittoria-da-iridato-per-mcnulty-sua-la-veneto-classic_cde188b5-e2f3-45df-92aa-0a1fdd84994a.html",
-     "data": "2026-10-18T15:20:42+00:00"
-    },
-    {
-     "titolo": "Serie A: Fiorentina-Como 1-3",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-fiorentina-como-1-3_2b5fe209-f157-4218-ad2f-22dc99db30e2.html",
-     "data": "2026-10-18T15:05:37+00:00"
-    },
-    {
-     "titolo": "Serie A, in campo Juventus-Lazio LIVE",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-juventus-lazio-in-campo-alle-20.45-diretta_02c6a963-1886-4a93-92ec-be0857426a7b.html",
-     "data": "2026-10-18T19:14:22+00:00"
     }
    ]
   }
