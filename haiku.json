@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-18T08:24:56.628597+00:00",
- "data": "2026-10-18",
- "testo": "Grigio uniforme\nsul davanzale di legno\nsecca il rosmarino",
- "nota": "Un mazzetto di rosmarino lasciato ad asciugare sotto il cielo coperto.",
+ "aggiornato": "2026-10-19T09:25:17.350427+00:00",
+ "data": "2026-10-19",
+ "testo": "Nebbia all'alba\nlungo la scala etrusca\ngocciola il muschio",
+ "nota": "Nella nebbia mattutina il muschio umido tra le pietre antiche sgocciola piano.",
  "archivio": [
+  {
+   "data": "2026-10-19",
+   "testo": "Nebbia all'alba\nlungo la scala etrusca\ngocciola il muschio",
+   "nota": "Nella nebbia mattutina il muschio umido tra le pietre antiche sgocciola piano."
+  },
   {
    "data": "2026-10-18",
    "testo": "Grigio uniforme\nsul davanzale di legno\nsecca il rosmarino",
@@ -448,11 +453,6 @@
    "data": "2026-07-22",
    "testo": "Nubi basse e grigie\nsul mercato di piazza\nfrutta sui banconi",
    "nota": "Il cielo coperto sopra le cassette di albicocche al mercato mattutino."
-  },
-  {
-   "data": "2026-07-21",
-   "testo": "Sudore alla fronte\nlungo il muro di pietra\nlucertola immobile",
-   "nota": "Una lucertola ferma sul muro caldo mentre il cielo resta coperto."
   }
  ]
 }
