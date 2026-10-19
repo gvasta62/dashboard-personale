@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-10-19T20:15:38.674077+00:00",
+ "aggiornato": "2026-10-19T23:48:59.677666+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Axios: 'Hegseth ha incontrato Netanyahu in Israele'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/axios-hegseth-ha-incontrato-netanyahu-in-israele_f59ea933-ff28-4f54-848d-41d52b1867ef.html",
+     "data": "2026-10-19T23:13:20+00:00"
+    },
+    {
+     "titolo": "Ranucci sceglie Rainews, comunicata la decisione all'azienda",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/ranucci-sceglie-rainews-comunicata-la-decisione-allazienda_31ec3476-0129-4aa5-9da6-f48c828b9226.html",
+     "data": "2026-10-19T22:27:08+00:00"
+    },
+    {
+     "titolo": "Media, Kushner-Witkoff questa settimana in Norvegia per negoziati su Ucraina",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/media-kushner-witkoff-questa-settimana-in-norvegia-per-negoziati-su-ucraina_4f89294a-d24b-4325-9858-f9f13c3edd86.html",
+     "data": "2026-10-19T20:53:33+00:00"
+    },
+    {
+     "titolo": "Calcio: Parma-Torino 0-3",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/calcio-parma-torino-0-3_a408edfb-14c7-40bf-8deb-8a1674e65001.html",
+     "data": "2026-10-19T20:40:39+00:00"
+    },
     {
      "titolo": "Crosetto, Cdm approvi norma su militari con funzioni forze polizia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/crosetto-cdm-approvi-norma-su-militari-con-funzioni-forze-polizia_38da5d90-0171-40a6-9d34-648672d84b64.html",
@@ -34,26 +54,6 @@
      "titolo": "Serie A: Monza-Cagliari 4-0",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/serie-a-monza-cagliari-4-0_3fd73d97-4de6-407b-bbfe-43be83098bf0.html",
      "data": "2026-10-19T18:25:17+00:00"
-    },
-    {
-     "titolo": "Questa notte coprifuoco a Parigi a Place de la Republique",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/questa-notte-coprifuoco-a-parigi-a-place-de-la-republique_1750359a-9f9d-4e53-913a-f7a0b397d86f.html",
-     "data": "2026-10-19T17:27:57+00:00"
-    },
-    {
-     "titolo": "Presidio centrodestra a Milano, momenti di tensione con alcuni giovani",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/presidio-centrodestra-a-milano-momenti-di-tensione-con-alcuni-giovani_f48c88b5-5fa8-4d0c-83b4-50cc493a8c37.html",
-     "data": "2026-10-19T17:18:39+00:00"
-    },
-    {
-     "titolo": "Netanyahu, 'telefonata con Trump, insieme elimineremo la minaccia iraniana'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/netanyahu-telefonata-con-trump-insieme-elimineremo-la-minaccia-iraniana_43bc1275-c676-449f-a117-598fe9a3e5bc.html",
-     "data": "2026-10-19T17:13:18+00:00"
-    },
-    {
-     "titolo": "Morte David Rossi, la Commissione fa i nomi di due presunti coinvolti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/morte-david-rossi-la-commissione-fa-i-nomi-di-due-presunti-coinvolti_9646d622-7a1b-4ebb-939d-216e47c39369.html",
-     "data": "2026-10-19T17:06:41+00:00"
     }
    ]
   },
@@ -128,7 +128,7 @@
     {
      "titolo": "Mattarella: 'A Milano violenze inaccettabili, serve un'analisi approfondita'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/mattarella-a-milano-violenze-inaccettabili-serve-unanalisi-approfondita_397d8359-98ac-4ba2-840f-a55dcb988745.html",
-     "data": "2026-10-19T20:09:46+00:00"
+     "data": "2026-10-19T20:32:10+00:00"
     },
     {
      "titolo": "La rabbia dei giovanissimi: 'E' l'unico modo per farci sentire'",
@@ -191,6 +191,21 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Ranucci sceglie Rainews, comunicata la decisione all'azienda",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/20/ranucci-sceglie-rainews-comunicata-la-decisione-allazienda_3f0c9f13-e88c-474c-a3f2-9ecab79c88ae.html",
+     "data": "2026-10-19T22:27:06+00:00"
+    },
+    {
+     "titolo": "Ranucci sceglie Rainews, comunicata la decisione alla Rai",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/20/ranucci-sceglie-rainews-comunicata-la-decisione-alla-rai_36679a45-ae67-41fb-b1b2-5d7cd82a6cfd.html",
+     "data": "2026-10-19T22:28:52+00:00"
+    },
+    {
+     "titolo": "Crosetto, Cdm approvi norma su militari con funzioni forze polizia",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/19/crosetto-cdm-approvi-norma-su-militari-con-funzioni-forze-polizia_3e153ea2-678b-4b07-987c-64abc847eef7.html",
+     "data": "2026-10-19T20:12:38+00:00"
+    },
+    {
      "titolo": "La maggioranza fissa le priorità della manovra, si cerca intesa su banche",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/19/meloni-e-giorgetti-blindano-la-manovra-si-cerca-unintesa-politica-sulle-banche_c3e86596-c36b-431a-8d41-4a3e6b968439.html",
      "data": "2026-10-19T19:50:58+00:00"
@@ -234,21 +249,6 @@
      "titolo": "Legge elettorale, il 26 ottobre il deposito dei ricorsi e la conferenza stampa",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/19/legge-elettorale-il-26-ottobre-il-deposito-dei-ricorsi-e-la-conferenza-stampa_bc1aab52-b874-41f3-9cf1-3480067fd926.html",
      "data": "2026-10-19T13:37:31+00:00"
-    },
-    {
-     "titolo": "Meloni al capo della Polizia, cordoglio per la morte dell'ispettore Villani",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/19/meloni-al-capo-della-polizia-cordoglio-per-la-morte-dellispettore-villani_25fd4730-3c4e-4433-923e-8864eb1ace35.html",
-     "data": "2026-10-19T13:16:55+00:00"
-    },
-    {
-     "titolo": "Premio Antonio Russo per il reportage di guerra, sabato la 13/a edizione",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/19/premio-antonio-russo-per-il-reportage-di-guerra-sabato-la-13a-edizione_b112f380-ac27-49d0-a9c5-7ebeaf6a3a59.html",
-     "data": "2026-10-19T12:55:00+00:00"
-    },
-    {
-     "titolo": "Il governo accoglie la proposta di un Consiglio Ue a Roma a 70 anni dai Trattati",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/19/il-governo-accoglie-la-proposta-di-un-consiglio-ue-a-roma-a-70-anni-dai-trattati_69e26e3f-bc1f-4bf1-8702-10474184d06f.html",
-     "data": "2026-10-19T12:45:39+00:00"
     }
    ]
   },
@@ -321,6 +321,41 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Axios: 'Hegseth ha incontrato Netanyahu in Israele'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/20/axios-hegseth-ha-incontrato-netanyahu-in-israele_de085b4a-6fef-4d0f-8113-458ed724eea3.html",
+     "data": "2026-10-19T23:13:20+00:00"
+    },
+    {
+     "titolo": "Cile, il 64% giudica negativamente le proteste sociali del 2019",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/20/cile-il-64-giudica-negativamente-le-proteste-sociali-del-2019_2d9864ce-76c7-47c4-9916-4fe77bf5bd2d.html",
+     "data": "2026-10-19T22:33:30+00:00"
+    },
+    {
+     "titolo": "Messico, violenze durante corteo per qualità dell'acqua. Dieci arresti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/20/messico-violenze-durante-corteo-per-qualita-dellacqua.-dieci-arresti_04dd4839-6a6a-4190-afaa-c2da631ad914.html",
+     "data": "2026-10-19T22:28:12+00:00"
+    },
+    {
+     "titolo": "Colombia, decreto sulle acque di San Andrés. Torna la tensione con Managua",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/colombia-decreto-sulle-acque-di-san-andres.-torna-la-tensione-con-managua_9f61a4e3-dea6-498f-a5b7-3b8a059d34d0.html",
+     "data": "2026-10-19T21:43:36+00:00"
+    },
+    {
+     "titolo": "Cuba si prepara a una notte di blackout, atteso un deficit del 71%",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/cuba-si-prepara-a-una-notte-di-blackout-atteso-un-deficit-del-71_d9b1ee55-8e90-4bd9-b13c-6982e3d528d8.html",
+     "data": "2026-10-19T21:05:46+00:00"
+    },
+    {
+     "titolo": "Media, Kushner-Witkoff questa settimana in Norvegia per negoziati su Ucraina",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/19/media-kushner-witkoff-questa-settimana-in-norvegia-per-negoziati-su-ucraina_eea746e0-e984-42f3-87b0-65223eea321b.html",
+     "data": "2026-10-19T20:53:33+00:00"
+    },
+    {
+     "titolo": "Brasile, lo chef piemontese Politano, 'la nostra cucina sia valorizzata al massimo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/brasile-lo-chef-piemontese-politano-la-nostra-cucina-sia-valorizzata-al-massimo_6064903a-4991-4d42-90b5-c151cf2f1d40.html",
+     "data": "2026-10-19T20:39:51+00:00"
+    },
+    {
      "titolo": "Trump, 'anche in Italia le proteste hanno a che fare con l'immigrazione'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/trump-anche-in-italia-le-proteste-hanno-a-che-fare-con-limmigrazione_7ba497cd-0309-4689-8b93-b4d4c74bd4ad.html",
      "data": "2026-10-19T19:45:49+00:00"
@@ -328,7 +363,7 @@
     {
      "titolo": "Il Papa sente Zelensky, 'lavorare a una tregua per Oleshky'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/il-papa-sente-zelensky-lavorare-a-una-tregua-per-oleshky_44913f21-692e-4441-9d14-d30a800c9163.html",
-     "data": "2026-10-19T19:18:01+00:00"
+     "data": "2026-10-19T20:45:57+00:00"
     },
     {
      "titolo": "Forte presenza italiana alla fiera Oil&Gas di Vaca Muerta",
@@ -344,41 +379,6 @@
      "titolo": "Il governo Milei svuota il carcere che visiterà Leone XIV a Buenos Aires",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/il-governo-milei-svuota-il-carcere-che-visitera-leone-xiv-a-buenos-aires_312dc878-3bcc-4f3d-9f0f-835934fede1b.html",
      "data": "2026-10-19T17:47:38+00:00"
-    },
-    {
-     "titolo": "Questa notte coprifuoco a Parigi a Place de la Republique",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/questa-notte-coprifuoco-a-parigi-a-place-de-la-republique_5fa97143-8e77-420c-9574-f4d818aa4c00.html",
-     "data": "2026-10-19T17:27:57+00:00"
-    },
-    {
-     "titolo": "Netanyahu, 'telefonata con Trump, insieme elimineremo la minaccia iraniana'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/19/netanyahu-telefonata-con-trump-insieme-elimineremo-la-minaccia-iraniana_32e1e918-ae1e-4d25-96f7-4bf571de2851.html",
-     "data": "2026-10-19T17:13:40+00:00"
-    },
-    {
-     "titolo": "Milei mira a tagliare altri 20mila posti della PA in Argentina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/milei-mira-a-tagliare-altri-20mila-posti-della-pa-in-argentina_3da995fd-633e-4396-80db-a808eddba497.html",
-     "data": "2026-10-19T16:31:25+00:00"
-    },
-    {
-     "titolo": "Christiane Amanpour lascia la Cnn dopo 43 anni, 'siate sempre neutrali e indipendenti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/19/christiane-amanpour-lascia-la-cnn-dopo-43-anni-siate-sempre-neutrali-e-indipendenti_1f58d8e3-ccb1-49c1-b38f-161daa687c52.html",
-     "data": "2026-10-19T16:14:48+00:00"
-    },
-    {
-     "titolo": "Un anno dopo il golpe in Madagascar, cresce l'influenza russa sull'isola",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/10/19/un-anno-dopo-il-golpe-in-madagascar-cresce-linfluenza-russa-sullisola_3b6b0fff-beb4-4476-b141-4b31bfd17bd8.html",
-     "data": "2026-10-19T16:04:41+00:00"
-    },
-    {
-     "titolo": "Kiev, 'raid russo su un parco giochi nel Kharkiv, 6 morti tra cui 3 bambini'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/kiev-raid-russo-su-un-parco-giochi-nel-kharkiv-6-morti-tra-cui_17c66b9e-57e4-43af-a761-11e8e66d1f03.html",
-     "data": "2026-10-19T15:59:45+00:00"
-    },
-    {
-     "titolo": "Florida, mandato d'arresto per omicidio contro Raul Castro",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/19/florida-mandato-darresto-per-omicidio-contro-raul-castro_066c666f-a321-42ff-8f77-4a5472ac6094.html",
-     "data": "2026-10-19T15:57:08+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: doppietta di Simeone, il Torino passa a Parma con un tris",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/19/serie-a-doppietta-di-simeone-il-torino-passa-a-parma-con-un-tris_b3d3881b-9a73-4990-b288-8689e6be7814.html",
+     "data": "2026-10-19T21:11:43+00:00"
+    },
+    {
+     "titolo": "Calcio: Parma-Torino 0-3",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/19/calcio-parma-torino-0-3_b89289a9-e6b9-49d2-b0dd-604b411c70ac.html",
+     "data": "2026-10-19T20:41:01+00:00"
+    },
+    {
      "titolo": "Totti torna sul suo addio al calcio, 'quel giorno sono morto'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/19/totti-torna-sul-suo-addio-al-calcio-quel-giorno-sono-morto_c1934ad7-8d8f-467c-8ea7-f2b0f00d87c8.html",
      "data": "2026-10-19T20:00:10+00:00"
@@ -499,16 +509,6 @@
      "titolo": "Calcio: la Juventus in caduta libera, e torna l'ombra di Conte",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/19/calcio-la-juventus-in-caduta-libera-e-torna-lombra-di-conte_4b114b5e-152b-4b5e-b2d0-13a44f0873ca.html",
      "data": "2026-10-19T16:21:33+00:00"
-    },
-    {
-     "titolo": "La Lazio umile e felice, ora tutti ai piedi di Gattuso",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/19/la-lazio-umile-e-felice-ora-tutti-ai-piedi-di-gattuso_414a295d-56f5-4ed0-b4a6-36086a9a2b10.html",
-     "data": "2026-10-19T16:15:02+00:00"
-    },
-    {
-     "titolo": "Riparte l'Nba delle star, LeBron debutta a Philadelphia",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/19/riparte-lnba-delle-star-lebron-debutta-a-philadelphia_22b97201-d4d4-4fe9-8625-e2ac8019e565.html",
-     "data": "2026-10-19T14:36:28+00:00"
     }
    ]
   }
