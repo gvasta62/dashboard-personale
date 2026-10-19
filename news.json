@@ -1,10 +1,40 @@
 {
- "aggiornato": "2026-10-19T01:55:21.402316+00:00",
+ "aggiornato": "2026-10-19T07:00:59.229254+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Asia in rialzo con la crescita cinese, l'Europa è attesa debole",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/borsa-asia-in-rialzo-con-la-crescita-cinese-leuropa-e-attesa-debole_e5ffb81a-5c6b-45f1-bd49-dbff606c104d.html",
+     "data": "2026-10-19T06:37:38+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund in avvio è in rialzo a 109 punti base",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/lo-spread-tra-btp-e-bund-in-avvio-e-in-rialzo-a-109-punti-base_242002b1-eaad-469c-aca8-d58af10ea684.html",
+     "data": "2026-10-19T06:38:00+00:00"
+    },
+    {
+     "titolo": "Il prezzo del gas viaggia in rialzo sopra 88 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/il-prezzo-del-gas-viaggia-in-rialzo-sopra-88-euro-al-megawattora_526fa66b-c725-4d70-93bc-c23b3d850ee5.html",
+     "data": "2026-10-19T06:13:04+00:00"
+    },
+    {
+     "titolo": "Macron critica 'carenze' ordine pubblico ma respinge dimissioni ministro Interno",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/macron-critica-carenze-ordine-pubblico-ma-respinge-dimissioni-ministro-interno_56909b29-acfd-4f0f-a90d-74a2ddd2731f.html",
+     "data": "2026-10-19T05:26:08+00:00"
+    },
+    {
+     "titolo": "Duello tv tra Lula e Bolsonaro Jr, scontro su corruzione e sicurezza",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/duello-tv-tra-lula-e-bolsonaro-jr-scontro-su-corruzione-e-sicurezza_f5b4d3d0-cff1-4522-8a28-9c05cc4ba522.html",
+     "data": "2026-10-19T02:35:27+00:00"
+    },
+    {
+     "titolo": "Pil cinese al 4,5% nel terzo trimestre, crescita stabile",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/pil-cinese-al-45-nel-terzo-trimestre-crescita-stabile_7f153fbf-1ca3-44e0-99ba-b850f24cff7d.html",
+     "data": "2026-10-19T02:13:24+00:00"
+    },
     {
      "titolo": "Allarme crematori in Giappone, entro il 2040 rischio carenza in 9 città su 20",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/allarme-crematori-in-giappone-entro-il-2040-rischio-carenza-in-9-citta-su-20_e2256949-842c-4506-9c86-80ec5a98f366.html",
@@ -24,36 +54,6 @@
      "titolo": "Trump accusa Zelensky, 'non vuole la fine della guerra'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/trump-accusa-zelensky-non-vuole-la-fine-della-guerra_3f14b0e9-c752-4081-99ec-13df4ce57ef2.html",
      "data": "2026-10-18T21:04:51+00:00"
-    },
-    {
-     "titolo": "Serie A: Juventus-Lazio 0-3",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/serie-a-juventus-lazio-0-3_1803946d-2c83-41fe-b544-5047bad0645e.html",
-     "data": "2026-10-18T20:40:31+00:00"
-    },
-    {
-     "titolo": "Piantedosi vede vertici polizia e questore Milano, fermati oltre 200 violenti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/piantedosi-vede-vertici-polizia-e-questore-milano-fermati-oltre-200-violenti_c2b74c70-f027-4e98-8cc5-3f3e9ee400e5.html",
-     "data": "2026-10-18T19:36:40+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'Trump spinge l'Ucraina alla capitolazione di fronte alla Russia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/zelensky-trump-spinge-lucraina-alla-capitolazione-di-fronte-alla-russia_52691173-164f-4cda-8039-7c2e93b79264.html",
-     "data": "2026-10-18T19:19:22+00:00"
-    },
-    {
-     "titolo": "Fiorello torna su Rai1 con 'Tg1 edizione più che straordinaria'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/fiorello-torna-su-rai1-con-tg1-edizione-piu-che-straordinaria_93858050-f9a2-45f5-a892-018d93a43f87.html",
-     "data": "2026-10-18T19:13:55+00:00"
-    },
-    {
-     "titolo": "Tajani convoca riunione Fi sulla sicurezza, rafforzare Strade Sicure e Cdm a Milano",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/tajani-convoca-riunione-fi-sulla-sicurezza-rafforzare-strade-sicure-e-cdm-a-milano_b642f028-7319-4de1-89a6-00e623c7344c.html",
-     "data": "2026-10-18T18:32:39+00:00"
-    },
-    {
-     "titolo": "Macron, 'proteggeremo le nostre città anche vietando alcuni raduni'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/macron-proteggeremo-le-nostre-citta-anche-vietando-alcuni-raduni_db771904-7709-496e-926c-470213889ed5.html",
-     "data": "2026-10-18T18:31:51+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Ex Ilva: a Genova lavoratori in corteo verso l'aeroporto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/ex-ilva-a-genova-lavoratori-in-corteo-verso-laeroporto_d610556e-d51b-4320-971c-d7a8467dfa69.html",
+     "data": "2026-10-19T06:50:00+00:00"
+    },
+    {
+     "titolo": "Protesta degli autotrasportatori, sull'A1 chiuso nodo A30 Caserta-Salerno",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/protesta-degli-autotrasportatori-sulla1-chiuso-nodo-a30-caserta-salerno_ff9394fe-3211-452a-ac1e-41aef9da3466.html",
+     "data": "2026-10-19T06:45:16+00:00"
+    },
+    {
      "titolo": "Urta con il trattore un bracciante in bici che cade e muore, denunciato",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/urta-con-il-trattore-un-bracciante-in-bici-che-cade-e-muore-denunciato_41958378-2de3-4e75-b439-be3d0e0e1676.html",
      "data": "2026-10-18T20:57:54+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Gran finale per l'Aeronautica Militare Balloon Cup, le squadre vincitrici",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/gran-finale-per-laeronautica-militare-balloon-cup-le-squadre-vincitrici_0f82e957-43c2-4297-b3b9-29b445d01d05.html",
      "data": "2026-10-18T17:07:27+00:00"
-    },
-    {
-     "titolo": "Incendio su un minibus dopo il pellegrinaggio a Loreto, nessun ferito",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/incendio-su-un-minibus-dopo-il-pellegrinaggio-a-loreto-nessun-ferito_ecf9f701-5d16-42dc-aafc-260681c8ec72.html",
-     "data": "2026-10-18T17:00:47+00:00"
-    },
-    {
-     "titolo": "Fabbricavano bottiglie incendiarie a corteo Torino, arrestati 3 minorenni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/fabbricavano-bottiglie-incendiarie-a-corteo-torino-arrestati-3-minorenni_bb202117-0339-4075-ba53-f8af64b9bce7.html",
-     "data": "2026-10-18T16:41:49+00:00"
     }
    ]
   },
@@ -256,6 +256,56 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Prezzi dei carburanti stabili, gasolio a 2,257 euro al litro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/prezzi-dei-carburanti-stabili-gasolio-a-2257-euro-al-litro_f7f99082-d56f-4b91-9a37-30c1328a1a51.html",
+     "data": "2026-10-19T06:59:56+00:00"
+    },
+    {
+     "titolo": "Borsa: Asia in rialzo con la crescita cinese, l'Europa è attesa debole",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/borsa-asia-in-rialzo-con-la-crescita-cinese-leuropa-e-attesa-debole_5c916d58-55f2-4988-a3e4-3e8d60da9cb8.html",
+     "data": "2026-10-19T06:37:22+00:00"
+    },
+    {
+     "titolo": "Lo spread tra Btp e Bund in avvio è in rialzo a 109 punti base",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/lo-spread-tra-btp-e-bund-in-avvio-e-in-rialzo-a-109-punti-base_8ffa9ff9-6d2f-4dd0-981c-7b8ff473e5af.html",
+     "data": "2026-10-19T06:37:57+00:00"
+    },
+    {
+     "titolo": "Panetta, nel 2025 da clima danni per 200 miliardi, ruolo governi primario",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/panetta-nel-2025-da-clima-danni-per-200-miliardi-ruolo-governi_c3f1c169-749e-4b0e-85f0-7ea833c20171.html",
+     "data": "2026-10-19T06:30:28+00:00"
+    },
+    {
+     "titolo": "L'euro arretra sulle proteste in Francia, -0,14% a 1,1223 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/leuro-arretra-sulle-proteste-in-francia-014-a-11223-dollari_38a366bd-7570-4817-99c8-6c1d4e943341.html",
+     "data": "2026-10-19T06:23:22+00:00"
+    },
+    {
+     "titolo": "Sale il prezzo dell'oro, spot a 4.183 dollari l'oncia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/sale-il-prezzo-delloro-spot-a-4.183-dollari-loncia_ef46d8df-2ecc-4c4d-9f49-36adcd72657c.html",
+     "data": "2026-10-19T06:17:46+00:00"
+    },
+    {
+     "titolo": "Panetta, cambiamento clima colpisce economia ma politiche siano sostenibili",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/panetta-cambiamento-clima-colpisce-economia-ma-politiche-siano-sostenibili_d7dd10bc-c164-4cff-9341-1960158e60ea.html",
+     "data": "2026-10-19T06:14:09+00:00"
+    },
+    {
+     "titolo": "In calo il prezzo del petrolio, Brent scende a 107,8 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/in-calo-il-prezzo-del-petrolio-brent-scende-a-1078-dollari_1d973ba6-348f-44c7-8678-f3a6dba97445.html",
+     "data": "2026-10-19T06:12:22+00:00"
+    },
+    {
+     "titolo": "Il prezzo del gas viaggia in rialzo sopra 88 euro al megawattora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/il-prezzo-del-gas-viaggia-in-rialzo-sopra-88-euro-al-megawattora_b912033a-e829-4c50-a783-542ca793d537.html",
+     "data": "2026-10-19T06:13:06+00:00"
+    },
+    {
+     "titolo": "Pil cinese al 4,5% nel terzo trimestre, crescita stabile",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/pil-cinese-al-45-nel-terzo-trimestre-crescita-stabile_924b68a8-fbc2-494b-a2ab-f3270238c3f7.html",
+     "data": "2026-10-19T02:13:26+00:00"
+    },
+    {
      "titolo": "Borsa: Tokyo, apertura in calo (-0,90%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/borsa-tokyo-apertura-in-calo-090_7aca14cf-d01e-4cda-b868-576be4f02f9a.html",
      "data": "2026-10-19T00:34:50+00:00"
@@ -264,42 +314,37 @@
      "titolo": "A Folgiero (Fincantieri) il Premio Niaf per l'eccellenza nell'industria marittima",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/a-folgiero-fincantieri-il-premio-niaf-per-leccellenza-nellindustria-marittima_44d247c2-6b9b-4af8-944b-9ff7857db32d.html",
      "data": "2026-10-18T18:33:50+00:00"
-    },
-    {
-     "titolo": "Bollette, sconto dal 2027, un nuovo decreto per fissare il tetto al gas",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/bollette-sconto-dal-2027-un-nuovo-decreto-per-fissare-il-tetto-al-gas_38f35727-60e4-4d21-b060-0f823a8c6eb2.html",
-     "data": "2026-10-18T16:52:28+00:00"
-    },
-    {
-     "titolo": "Confcommercio, a Milano oltre mezzo milione di euro di danni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/confcommercio-a-milano-oltre-mezzo-milione-di-euro-di-danni_fb2d8576-5aed-4c56-8627-d901b82738e6.html",
-     "data": "2026-10-18T11:48:32+00:00"
-    },
-    {
-     "titolo": "Mit, 6 milioni per 32 interventi ad edifici di culto in 12 regioni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/mit-6-milioni-per-32-interventi-ad-edifici-di-culto-in-12-regioni_94c24bb7-13f2-4eef-a05e-ab40114ba9a5.html",
-     "data": "2026-10-18T11:47:59+00:00"
-    },
-    {
-     "titolo": "È morto Vitaliano Borromeo Arese, era il presidente di Kaleon",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/e-morto-vitaliano-borromeo-arese-era-il-presidente-di-kaleon_502dc435-9050-43ec-b502-647b38771d1f.html",
-     "data": "2026-10-18T11:33:57+00:00"
-    },
-    {
-     "titolo": "Mimit, benzina in lieve calo, in rialzo il diesel in autostrada",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/mimit-benzina-in-lieve-calo-in-rialzo-il-diesel-in-autostrada_120a9fba-c1b6-4288-87ad-27a2be627c0a.html",
-     "data": "2026-10-18T11:34:00+00:00"
-    },
-    {
-     "titolo": "Danni climatici costati 915 miliardi per l'Europa dal 1980, caldo 2026 un punto di Pil",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/danni-climatici-costati-915-miliardi-per-leuropa-dal-1980-caldo_28b44006-6ac7-4b46-9a13-c805c70ad768.html",
-     "data": "2026-10-18T09:49:30+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Bolivia, senatore arrestato per i blocchi stradali di maggio e giugno",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/bolivia-senatore-arrestato-per-i-blocchi-stradali-di-maggio-e-giugno_d239be1e-c52b-42a2-b036-d26761a9f982.html",
+     "data": "2026-10-19T06:31:03+00:00"
+    },
+    {
+     "titolo": "Macron critica 'carenze' ordine pubblico ma respinge dimissioni ministro Interno",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/macron-critica-carenze-ordine-pubblico-ma-respinge-dimissioni-ministro-interno_4685fbae-3a60-49fa-952c-cd0cb862bad2.html",
+     "data": "2026-10-19T05:25:54+00:00"
+    },
+    {
+     "titolo": "Proteste per l'acqua a Guadalajara, a fuoco il palazzo del Congresso",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/proteste-per-lacqua-a-guadalajara-a-fuoco-il-palazzo-del-congresso_b616c8fa-9f3d-4967-a9e1-6c7b9af00d17.html",
+     "data": "2026-10-19T03:09:14+00:00"
+    },
+    {
+     "titolo": "La Bolivia candida il laboratorio Chacaltaya all'Unesco",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/la-bolivia-candida-il-laboratorio-chacaltaya-allunesco_15e3e7a8-ed60-4014-aae4-8e45f46f06dc.html",
+     "data": "2026-10-19T02:40:39+00:00"
+    },
+    {
+     "titolo": "Duello tv tra Lula e Bolsonaro Jr, scontro su corruzione e sicurezza",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/duello-tv-tra-lula-e-bolsonaro-jr-scontro-su-corruzione-e-sicurezza_8ec0731c-6e04-4306-a032-eece85377648.html",
+     "data": "2026-10-19T02:35:44+00:00"
+    },
     {
      "titolo": "Messico, gli 'alebrijes' colorano le strade della capitale",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/messico-gli-alebrijes-colorano-le-strade-della-capitale_f2dbf88b-bd43-4bdc-82a0-7294fe3eef28.html",
@@ -334,31 +379,6 @@
      "titolo": "Zelensky, 'Trump spinge l'Ucraina alla capitolazione di fronte alla Russia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/zelensky-trump-spinge-lucraina-alla-capitolazione-di-fronte-alla-russia_610d0b1a-5183-430c-a688-52c1f916afa9.html",
      "data": "2026-10-18T19:19:22+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'Trump spinge l'Ucraina alla capitolazione di fronte alla Russia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/18/zelensky-trump-spinge-lucraina-alla-capitolazione-di-fronte-alla-russia_eaf8202d-3d92-4fe4-a188-9b345b9a1088.html",
-     "data": "2026-10-18T19:19:36+00:00"
-    },
-    {
-     "titolo": "In Brasile per la prima volta un sondaggio prevede la vittoria di Lula",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/18/in-brasile-per-la-prima-volta-un-sondaggio-prevede-la-vittoria-di-lula_a8369bce-e92f-4516-9d92-79df85248bfa.html",
-     "data": "2026-10-18T18:42:23+00:00"
-    },
-    {
-     "titolo": "Macron: 'Rabbia e vergogna, chi ha distrutto deve pagare'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_2aeef560-dded-49f0-b82b-97ffd9004684.html",
-     "data": "2026-10-18T19:36:37+00:00"
-    },
-    {
-     "titolo": "Macron, 'proteggeremo le nostre città anche vietando alcuni raduni'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/macron-proteggeremo-le-nostre-citta-anche-vietando-alcuni-raduni_af93e405-43e7-4b87-a48e-37a6526d13d0.html",
-     "data": "2026-10-18T18:31:56+00:00"
-    },
-    {
-     "titolo": "Macron denuncia il caos in Francia, 'rabbia e vergogna'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_1b35f4b8-a67b-4f4f-b312-dc14355c90c2.html",
-     "data": "2026-10-18T18:09:11+00:00"
     }
    ]
   },
