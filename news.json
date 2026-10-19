@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-10-18T23:49:01.737526+00:00",
+ "aggiornato": "2026-10-19T01:55:21.402316+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Allarme crematori in Giappone, entro il 2040 rischio carenza in 9 città su 20",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/allarme-crematori-in-giappone-entro-il-2040-rischio-carenza-in-9-citta-su-20_e2256949-842c-4506-9c86-80ec5a98f366.html",
+     "data": "2026-10-19T01:40:35+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,90%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/borsa-tokyo-apertura-in-calo-090_3dd7dd9c-66d6-453f-8bef-6356aee95a62.html",
+     "data": "2026-10-19T00:34:47+00:00"
+    },
     {
      "titolo": "Wsj, 'Putin ha proposto un incontro con Trump e Xi sull'Ucraina'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/wsj-putin-ha-proposto-un-incontro-con-trump-e-xi-sullucraina_17d35fa4-828e-403b-92b8-ccb7fade9e3f.html",
@@ -44,16 +54,6 @@
      "titolo": "Macron, 'proteggeremo le nostre città anche vietando alcuni raduni'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/macron-proteggeremo-le-nostre-citta-anche-vietando-alcuni-raduni_db771904-7709-496e-926c-470213889ed5.html",
      "data": "2026-10-18T18:31:51+00:00"
-    },
-    {
-     "titolo": "Macron denuncia il caos in Francia, 'rabbia e vergogna'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_919a9aa2-86cc-47f6-afcf-b8b078111bb0.html",
-     "data": "2026-10-18T18:08:58+00:00"
-    },
-    {
-     "titolo": "Portati in questura a Milano in 160 dopo gli scontri di oggi, l'80% minori",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/portati-in-questura-a-milano-in-160-dopo-gli-scontri-di-oggi-l80-minori_2d5e166f-76ea-4753-89c7-05d7c1185d9e.html",
-     "data": "2026-10-18T17:54:18+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,90%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/borsa-tokyo-apertura-in-calo-090_7aca14cf-d01e-4cda-b868-576be4f02f9a.html",
+     "data": "2026-10-19T00:34:50+00:00"
+    },
+    {
      "titolo": "A Folgiero (Fincantieri) il Premio Niaf per l'eccellenza nell'industria marittima",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/a-folgiero-fincantieri-il-premio-niaf-per-leccellenza-nellindustria-marittima_44d247c2-6b9b-4af8-944b-9ff7857db32d.html",
      "data": "2026-10-18T18:33:50+00:00"
@@ -295,6 +300,21 @@
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Messico, gli 'alebrijes' colorano le strade della capitale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/messico-gli-alebrijes-colorano-le-strade-della-capitale_f2dbf88b-bd43-4bdc-82a0-7294fe3eef28.html",
+     "data": "2026-10-19T01:52:32+00:00"
+    },
+    {
+     "titolo": "Allarme crematori in Giappone, entro il 2040 rischio carenza in 9 città su 20",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/10/19/allarme-crematori-in-giappone-entro-il-2040-rischio-carenza-in-9-citta-su-20_e299ca20-13bd-4392-ba01-44f2d670de1c.html",
+     "data": "2026-10-19T01:40:53+00:00"
+    },
+    {
+     "titolo": "El Salvador, il presidente Bukele annuncia scarcerazioni solo per 5mila detenuti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/el-salvador-il-presidente-bukele-annuncia-scarcerazioni-solo-per-5mila-detenuti_8d214c56-b830-4fb7-9e8e-fbecd85ca263.html",
+     "data": "2026-10-19T01:18:42+00:00"
+    },
     {
      "titolo": "Wsj, 'Putin ha proposto un incontro con Trump e Xi sull'Ucraina'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/wsj-putin-ha-proposto-un-incontro-con-trump-e-xi-sullucraina_c46574e5-6201-4e3f-a315-fe1a99b76de1.html",
@@ -339,21 +359,6 @@
      "titolo": "Macron denuncia il caos in Francia, 'rabbia e vergogna'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_1b35f4b8-a67b-4f4f-b312-dc14355c90c2.html",
      "data": "2026-10-18T18:09:11+00:00"
-    },
-    {
-     "titolo": "Venezuela, l'opposizione conferma sostegno a Machado e punta sulle presidenziali",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/18/venezuela-lopposizione-conferma-sostegno-a-machado-e-punta-sulle-presidenziali_c913230a-486d-4add-be9e-fd62dff144b7.html",
-     "data": "2026-10-18T17:06:09+00:00"
-    },
-    {
-     "titolo": "Caos a Tirana, scontri violenti e 194 persone fermate nel Paese",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/caos-a-tirana-scontri-violenti-e-194-persone-fermate-nel-paese_eb6c8253-86c6-4f1c-98f4-f9c820fc4cd9.html",
-     "data": "2026-10-18T16:49:21+00:00"
-    },
-    {
-     "titolo": "Eisenkot replica a Trump, 'solo gli israeliani possono scegliere il loro leader'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/18/eisenkot-replica-a-trump-solo-gli-israeliani-possono-scegliere-il-loro-leader_a8561bd1-f08a-4703-a2ca-059429e84faa.html",
-     "data": "2026-10-18T16:46:05+00:00"
     }
    ]
   },
