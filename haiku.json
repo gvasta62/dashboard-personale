@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-19T09:25:17.350427+00:00",
- "data": "2026-10-19",
- "testo": "Nebbia all'alba\nlungo la scala etrusca\ngocciola il muschio",
- "nota": "Nella nebbia mattutina il muschio umido tra le pietre antiche sgocciola piano.",
+ "aggiornato": "2026-10-20T08:59:42.771360+00:00",
+ "data": "2026-10-20",
+ "testo": "Cielo serrato\ntra i rami del castagno\nsi fende un riccio",
+ "nota": "Un riccio di castagna aperto a terra, sotto il cielo coperto d'ottobre.",
  "archivio": [
+  {
+   "data": "2026-10-20",
+   "testo": "Cielo serrato\ntra i rami del castagno\nsi fende un riccio",
+   "nota": "Un riccio di castagna aperto a terra, sotto il cielo coperto d'ottobre."
+  },
   {
    "data": "2026-10-19",
    "testo": "Nebbia all'alba\nlungo la scala etrusca\ngocciola il muschio",
@@ -448,11 +453,6 @@
    "data": "2026-07-23",
    "testo": "Ferma la cicala\ntra i rami dell'oliveto\naria senza sole",
    "nota": "Sotto il cielo coperto anche il canto delle cicale sembra sospeso."
-  },
-  {
-   "data": "2026-07-22",
-   "testo": "Nubi basse e grigie\nsul mercato di piazza\nfrutta sui banconi",
-   "nota": "Il cielo coperto sopra le cassette di albicocche al mercato mattutino."
   }
  ]
 }
