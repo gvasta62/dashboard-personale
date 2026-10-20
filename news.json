@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-10-19T23:48:59.677666+00:00",
+ "aggiornato": "2026-10-20T02:13:22.651835+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Brasile, Lula chiede al tribunale elettorale di cassare la candidatura di Bolsonaro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/brasile-lula-chiede-al-tribunale-elettorale-di-cassare-la-candidatura-di-bolsonaro_b1800e08-ad79-4302-9b44-832ad324813c.html",
+     "data": "2026-10-20T00:38:27+00:00"
+    },
+    {
+     "titolo": "Trump: 'Se l'Europa soccombe ai migranti noi ce ne andremo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/trump-se-leuropa-soccombe-ai-migranti-noi-ce-ne-andremo_98bcd205-e596-4a3d-a746-2d7d7a38c3ae.html",
+     "data": "2026-10-20T00:24:30+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,41%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/borsa-tokyo-apertura-in-calo-041_d1b1b143-9c2b-472f-b457-cd5acec3c3b8.html",
+     "data": "2026-10-20T00:13:31+00:00"
+    },
     {
      "titolo": "Axios: 'Hegseth ha incontrato Netanyahu in Israele'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/axios-hegseth-ha-incontrato-netanyahu-in-israele_f59ea933-ff28-4f54-848d-41d52b1867ef.html",
@@ -39,21 +54,6 @@
      "titolo": "Trump, 'anche in Italia le proteste hanno a che fare con l'immigrazione'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/trump-anche-in-italia-le-proteste-hanno-a-che-fare-con-limmigrazione_a3d3ef27-6f14-4772-a537-4cffc390e5e8.html",
      "data": "2026-10-19T19:45:45+00:00"
-    },
-    {
-     "titolo": "Trump, 'Zelensky non sa di cosa parla, dovrebbe esserci un altro a negoziare'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/trump-zelensky-non-sa-di-cosa-parla-dovrebbe-esserci-un-altro-a-negoziare_0a841c6b-0b36-4759-8f7b-ca0c883be6ff.html",
-     "data": "2026-10-19T19:38:11+00:00"
-    },
-    {
-     "titolo": "Trump, 'sto negoziando con la Russia su Ucraina, Iran e ostaggi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/trump-sto-negoziando-con-la-russia-su-ucraina-iran-e-ostaggi_ad892c58-981a-47a7-b0bc-929d738432ef.html",
-     "data": "2026-10-19T19:36:30+00:00"
-    },
-    {
-     "titolo": "Serie A: Monza-Cagliari 4-0",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/serie-a-monza-cagliari-4-0_3fd73d97-4de6-407b-bbfe-43be83098bf0.html",
-     "data": "2026-10-19T18:25:17+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,41%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/20/borsa-tokyo-apertura-in-calo-041_9125046e-dee7-4101-a645-ab9fbbf52e24.html",
+     "data": "2026-10-20T00:13:29+00:00"
+    },
+    {
      "titolo": "The Italian Sea Goup riceve 5 offerte vincolanti, due per tutta l'azienda",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/the-italian-sea-goup-riceve-5-offerte-vincolanti-due-per-tutta_e7b4ec5c-34aa-4011-ba70-afc02a08c180.html",
      "data": "2026-10-19T18:19:48+00:00"
@@ -309,17 +314,37 @@
      "titolo": "Borsa Milano chiude in ribasso (-1,55%)",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/borsa-milano-chiude-in-ribasso-155_a9643b34-f11f-441e-b4c6-aee1ac1bb24b.html",
      "data": "2026-10-19T15:43:23+00:00"
-    },
-    {
-     "titolo": "Btp Valore raccoglie 3,4 miliardi, Insieme 1 miliardi il primo giorno",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/btp-valore-raccoglie-34-miliardi-insieme-1-miliardi-il-primo-giorno_28f1067e-2879-4ee8-ac00-0a595549b99c.html",
-     "data": "2026-10-19T15:41:09+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Brasile, ultimatum di 24 ore del Tribunale a Meta per la par condicio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/20/brasile-ultimatum-di-24-ore-del-tribunale-a-meta-per-la-par-condicio_fd48dc79-ed2a-4fab-a47c-bca90f346670.html",
+     "data": "2026-10-20T01:42:16+00:00"
+    },
+    {
+     "titolo": "Messico, Sheinbaum frena Trump su petrolio e narcotraffico",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/20/messico-sheinbaum-frena-trump-su-petrolio-e-narcotraffico_0017792b-6ed1-44f1-a86c-bb49e3079296.html",
+     "data": "2026-10-20T01:13:30+00:00"
+    },
+    {
+     "titolo": "Brasile, Lula chiede al tribunale elettorale di cassare la candidatura di Bolsonaro",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/20/brasile-lula-chiede-al-tribunale-elettorale-di-cassare-la-candidatura-di-bolsonaro_e69f4d83-60dd-41a0-b57e-85999df8cee1.html",
+     "data": "2026-10-20T00:38:27+00:00"
+    },
+    {
+     "titolo": "Trump: 'Se l'Europa soccombe ai migranti noi ce ne andremo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/20/trump-se-leuropa-soccombe-ai-migranti-noi-ce-ne-andremo_fea4a4f5-ca34-415a-8913-fdaff3c1be34.html",
+     "data": "2026-10-20T00:24:30+00:00"
+    },
+    {
+     "titolo": "Messico, denuncia negli Usa per la morte di un migrante sotto custodia dell'Ice",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/20/messico-denuncia-negli-usa-per-la-morte-di-un-migrante-sotto-custodia-dellice_4e9a9c18-53a2-487b-9b2c-8b1c602ab131.html",
+     "data": "2026-10-20T00:20:11+00:00"
+    },
     {
      "titolo": "Axios: 'Hegseth ha incontrato Netanyahu in Israele'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/20/axios-hegseth-ha-incontrato-netanyahu-in-israele_de085b4a-6fef-4d0f-8113-458ed724eea3.html",
@@ -354,31 +379,6 @@
      "titolo": "Brasile, lo chef piemontese Politano, 'la nostra cucina sia valorizzata al massimo'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/brasile-lo-chef-piemontese-politano-la-nostra-cucina-sia-valorizzata-al-massimo_6064903a-4991-4d42-90b5-c151cf2f1d40.html",
      "data": "2026-10-19T20:39:51+00:00"
-    },
-    {
-     "titolo": "Trump, 'anche in Italia le proteste hanno a che fare con l'immigrazione'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/trump-anche-in-italia-le-proteste-hanno-a-che-fare-con-limmigrazione_7ba497cd-0309-4689-8b93-b4d4c74bd4ad.html",
-     "data": "2026-10-19T19:45:49+00:00"
-    },
-    {
-     "titolo": "Il Papa sente Zelensky, 'lavorare a una tregua per Oleshky'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/il-papa-sente-zelensky-lavorare-a-una-tregua-per-oleshky_44913f21-692e-4441-9d14-d30a800c9163.html",
-     "data": "2026-10-19T20:45:57+00:00"
-    },
-    {
-     "titolo": "Forte presenza italiana alla fiera Oil&Gas di Vaca Muerta",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/forte-presenza-italiana-alla-fiera-oilgas-di-vaca-muerta_13804ec4-2896-4098-a6fa-6a5f180e2ca6.html",
-     "data": "2026-10-19T18:59:33+00:00"
-    },
-    {
-     "titolo": "Costa D'Avorio, inaugurati quattro posti di frontiera in progetto Civit",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/10/19/costa-davorio-inaugurati-quattro-posti-di-frontiera-in-progetto-civit_61c6804b-8f8f-49cf-b0f9-04be4e801ead.html",
-     "data": "2026-10-19T18:40:37+00:00"
-    },
-    {
-     "titolo": "Il governo Milei svuota il carcere che visiterà Leone XIV a Buenos Aires",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/il-governo-milei-svuota-il-carcere-che-visitera-leone-xiv-a-buenos-aires_312dc878-3bcc-4f3d-9f0f-835934fede1b.html",
-     "data": "2026-10-19T17:47:38+00:00"
     }
    ]
   },
