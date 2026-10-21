@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-20T08:59:42.771360+00:00",
- "data": "2026-10-20",
- "testo": "Cielo serrato\ntra i rami del castagno\nsi fende un riccio",
- "nota": "Un riccio di castagna aperto a terra, sotto il cielo coperto d'ottobre.",
+ "aggiornato": "2026-10-21T08:58:49.311146+00:00",
+ "data": "2026-10-21",
+ "testo": "Scoppia il temporale\nnel vicolo in discesa\nrotola un tombino",
+ "nota": "Ho osservato l'acqua che gonfia i vicoli ripidi e muove le griglie.",
  "archivio": [
+  {
+   "data": "2026-10-21",
+   "testo": "Scoppia il temporale\nnel vicolo in discesa\nrotola un tombino",
+   "nota": "Ho osservato l'acqua che gonfia i vicoli ripidi e muove le griglie."
+  },
   {
    "data": "2026-10-20",
    "testo": "Cielo serrato\ntra i rami del castagno\nsi fende un riccio",
@@ -448,11 +453,6 @@
    "data": "2026-07-24",
    "testo": "Nuvola e sereno\nsul selciato del Corso\npassi lenti a sera",
    "nota": "Cielo variabile sopra il centro, gente che cammina piano nel fresco della sera."
-  },
-  {
-   "data": "2026-07-23",
-   "testo": "Ferma la cicala\ntra i rami dell'oliveto\naria senza sole",
-   "nota": "Sotto il cielo coperto anche il canto delle cicale sembra sospeso."
   }
  ]
 }
