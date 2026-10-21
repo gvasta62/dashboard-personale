@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-10-21T00:11:51.682167+00:00",
+ "aggiornato": "2026-10-21T05:02:25.829507+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Droni russi su un villaggio vicino a Kharkiv, due morti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/droni-russi-su-un-villaggio-vicino-a-kharkiv-due-morti_c9188b0f-c595-461b-af9e-2ecdc1a3d673.html",
+     "data": "2026-10-21T04:02:40+00:00"
+    },
+    {
+     "titolo": "Ministero Commercio cinese, Usa violano intesa Xi-Trump con divieto DeepSeek",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/ministero-commercio-cinese-usa-violano-intesa-xi-trump-con-divieto-deepseek_d12d5397-7a9d-4a42-8945-92c7e7be5486.html",
+     "data": "2026-10-21T03:16:20+00:00"
+    },
+    {
+     "titolo": "Brasile, Bolsonaro chiede di annullare la candidatura di Lula",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/brasile-bolsonaro-chiede-di-annullare-la-candidatura-di-lula_9a8658c2-439d-4752-9d8d-f805ef670e89.html",
+     "data": "2026-10-21T02:06:53+00:00"
+    },
+    {
+     "titolo": "Trump vuole i media fuori dalla Casa Bianca, una piscina al posto della sala stampa",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/trump-vuole-i-media-fuori-dalla-casa-bianca-una-piscina-al-posto_bb55ac01-b108-406d-a2fb-d19b6631390e.html",
+     "data": "2026-10-21T00:52:34+00:00"
+    },
     {
      "titolo": "Trump, 'il presidente di solito perde alle midterm ma sfateremo la tradizione'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/trump-il-presidente-di-solito-perde-alle-midterm-ma-sfateremo-la-tradizione_87be3332-919d-4057-b88e-7690f779f6fb.html",
@@ -34,26 +54,6 @@
      "titolo": "Trump, 'sostegno a Marine Le Pen? Mai incontrata ma è voce conservatori in Francia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/trump-sostegno-a-marine-le-pen-mai-incontrata-ma-e-voce-conservatori-in-francia_465bc881-a36c-4989-acab-3fdba036385f.html",
      "data": "2026-10-20T19:25:22+00:00"
-    },
-    {
-     "titolo": "Trump, 'ho chiesto a Putin la liberazione dell'americano Hubbard'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/trump-ho-chiesto-a-putin-la-liberazione-dellamericano-hubbard_7b5e63ee-1630-4eab-820d-df97a65ecbf4.html",
-     "data": "2026-10-20T19:24:11+00:00"
-    },
-    {
-     "titolo": "Trump, 'la Russia vuole accordo, Zelensky deve voler mettere fine alla guerra'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/trump-la-russia-vuole-accordo-zelensky-deve-voler-mettere-fine-alla_c2920f57-acaa-4a99-9d2d-97505e3914a4.html",
-     "data": "2026-10-20T19:21:24+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'la condivisione dell'intelligence ora funziona'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/zelensky-la-condivisione-dellintelligence-ora-funziona_e94efbed-91c2-49e7-a887-7a00c2f92f18.html",
-     "data": "2026-10-20T18:47:17+00:00"
-    },
-    {
-     "titolo": "Nordio, 'fino a 12 anni per chi usa social per organizzare gruppi piazze",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/nordio-fino-a-12-anni-per-chi-usa-social-per-organizzare-gruppi_79ae72ea-f351-47c9-a5ed-64bfb6ef9184.html",
-     "data": "2026-10-20T18:01:19+00:00"
     }
    ]
   },
@@ -321,6 +321,56 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Droni russi su un villaggio vicino a Kharkiv, due morti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/21/droni-russi-su-un-villaggio-vicino-a-kharkiv-due-morti_c95e849c-a627-4920-b1bc-d60fb3fe5dd5.html",
+     "data": "2026-10-21T04:02:44+00:00"
+    },
+    {
+     "titolo": "Ministero Commercio cinese, Usa violano intesa Xi-Trump con divieto DeepSeek",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/21/ministero-commercio-cinese-usa-violano-intesa-xi-trump-con-divieto-deepseek_d0efd8e1-e8b1-4e79-8ea3-6bdaabd6ff25.html",
+     "data": "2026-10-21T03:16:39+00:00"
+    },
+    {
+     "titolo": "Ministero Commercio cinese, Usa violano intesa Xi-Trump con divieto DeepSeek",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/10/21/ministero-commercio-cinese-usa-violano-intesa-xi-trump-con-divieto-deepseek_00bc860c-8f80-4820-b2da-0b96761e148c.html",
+     "data": "2026-10-21T03:16:41+00:00"
+    },
+    {
+     "titolo": "Brasile, Bolsonaro chiede di annullare la candidatura di Lula",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/brasile-bolsonaro-chiede-di-annullare-la-candidatura-di-lula_e4e4d691-5284-42aa-94ac-ff173cbe48df.html",
+     "data": "2026-10-21T02:06:57+00:00"
+    },
+    {
+     "titolo": "Maxi sussidi in Repubblica Dominicana per frenare l'inflazione",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/maxi-sussidi-in-repubblica-dominicana-per-frenare-linflazione_5547d330-83ec-4257-a6c7-ed9ca221b5b3.html",
+     "data": "2026-10-21T01:52:05+00:00"
+    },
+    {
+     "titolo": "Sheinbaum conferma, vicina l'intesa commerciale Messico-Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/sheinbaum-conferma-vicina-lintesa-commerciale-messico-usa_c80334d3-03b4-4cbf-9eab-de4c56701abc.html",
+     "data": "2026-10-21T01:25:55+00:00"
+    },
+    {
+     "titolo": "El Salvador, Bukele difende l'ergastolo e il piano di reinserimento",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/el-salvador-bukele-difende-lergastolo-e-il-piano-di-reinserimento_a47be845-79af-421e-b397-3f2148ce2293.html",
+     "data": "2026-10-21T01:24:51+00:00"
+    },
+    {
+     "titolo": "Sparizioni in Messico, l'Onu teme crimini contro l'umanità",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/sparizioni-in-messico-lonu-teme-crimini-contro-lumanita_c6016b0e-2882-4dfd-ba4a-cac02a6da06b.html",
+     "data": "2026-10-21T01:06:52+00:00"
+    },
+    {
+     "titolo": "Trump vuole i media fuori dalla Casa Bianca, una piscina al posto della sala stampa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/21/trump-vuole-i-media-fuori-dalla-casa-bianca-una-piscina-al-posto_8ed69aff-a731-4521-8da4-5f08f01059f1.html",
+     "data": "2026-10-21T00:52:34+00:00"
+    },
+    {
+     "titolo": "Brasile, Lula pone una condizione per il dibattito con Flávio Bolsonaro in tv",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/brasile-lula-pone-una-condizione-per-il-dibattito-con-flavio-bolsonaro_7d36d09c-cd3b-409f-a559-24a003e6e9b9.html",
+     "data": "2026-10-21T00:50:27+00:00"
+    },
+    {
      "titolo": "Trump, 'il presidente di solito perde alle midterm ma sfateremo la tradizione'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/21/trump-il-presidente-di-solito-perde-alle-midterm-ma-sfateremo-la-tradizione_9fbe2314-2e03-4523-8c5e-49528bb71a86.html",
      "data": "2026-10-21T00:06:28+00:00"
@@ -329,56 +379,6 @@
      "titolo": "Usa, Florida giustizia con iniezione letale un 77enne veterano del Vietnam",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/21/usa-florida-giustizia-con-iniezione-letale-un-77enne-veterano-del-vietnam_4d608dc6-f2ce-45fb-b4a5-b02610fa4bd3.html",
      "data": "2026-10-20T23:58:30+00:00"
-    },
-    {
-     "titolo": "Argentina, il 10 e 11 novembre l'udienza internazionale sulle Falkland/Malvinas",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/argentina-il-10-e-11-novembre-ludienza-internazionale-sulle-falklandmalvinas_7a8d594e-4d75-4542-86db-e8225349e92f.html",
-     "data": "2026-10-20T23:41:09+00:00"
-    },
-    {
-     "titolo": "Cile, Kast avvia l'espulsione di sei stranieri arrestati durante gli scontri",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/cile-kast-avvia-lespulsione-di-sei-stranieri-arrestati-durante-gli-scontri_bd906326-07f9-43c3-9e5b-d644ccc3b7e8.html",
-     "data": "2026-10-20T23:28:46+00:00"
-    },
-    {
-     "titolo": "Brasile, indagine della Procura su capo della polizia federale per fuga di notizie",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/brasile-indagine-della-procura-su-capo-della-polizia-federale-per-fuga_a16b8ffe-4691-4841-b96f-957d3ffa1579.html",
-     "data": "2026-10-20T23:23:09+00:00"
-    },
-    {
-     "titolo": "Costa Rica, in piazza gli universitari contro i tagli ai fondi pubblici",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/costa-rica-in-piazza-gli-universitari-contro-i-tagli-ai-fondi-pubblici_9507f78b-de8d-41f5-b744-41abdd755938.html",
-     "data": "2026-10-20T22:35:33+00:00"
-    },
-    {
-     "titolo": "Ecuador-Perù, Noboa cede a Lima la presidenza della Comunità andina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/ecuador-peru-noboa-cede-a-lima-la-presidenza-della-comunita-andina_63236ccf-5cce-4f4f-a1c1-dc58b8ab158e.html",
-     "data": "2026-10-20T22:15:29+00:00"
-    },
-    {
-     "titolo": "A Brasilia la Settimana della lingua italiana, tra Pinocchio, musica e cucina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/a-brasilia-la-settimana-della-lingua-italiana-tra-pinocchio-musica-e-cucina_978624af-0d87-45c7-95f4-ff5fde659bf3.html",
-     "data": "2026-10-20T22:10:24+00:00"
-    },
-    {
-     "titolo": "Roger Waters, 'Lula è un uomo onesto, votate per lui'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/20/roger-waters-lula-e-un-uomo-onesto-votate-per-lui_609923d0-a6df-4aed-88fa-155f806c53cc.html",
-     "data": "2026-10-20T21:02:25+00:00"
-    },
-    {
-     "titolo": "Wsj, 'Musk ha ordinato il rallentamento di Starlink in Ucraina'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/20/wsj-musk-ha-ordinato-il-rallentamento-di-starlink-in-ucraina_bd68abc1-b75d-4a99-b890-74b4778ad55e.html",
-     "data": "2026-10-20T20:39:50+00:00"
-    },
-    {
-     "titolo": "Trump, 'i presidenti per un motivo o per l'altro perdono sempre le midterm'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/20/trump-i-presidenti-per-un-motivo-o-per-laltro-perdono-sempre-le-midterm_311dc870-e98a-4aa4-8e82-de572856f0a8.html",
-     "data": "2026-10-20T19:53:42+00:00"
-    },
-    {
-     "titolo": "Trump, 'sostegno a Marine Le Pen? Mai incontrata ma è voce conservatori in Francia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/20/trump-sostegno-a-marine-le-pen-mai-incontrata-ma-e-voce-conservatori-in-francia_184db59e-3777-4698-9583-959f9fea433a.html",
-     "data": "2026-10-20T19:25:37+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Nba, esordio con sconfitta per i 'campioni' di New York",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/21/nba-esordio-con-sconfitta-per-i-campioni-di-new-york_86d0c9b2-7953-422e-8b58-b7236d1ac389.html",
+     "data": "2026-10-21T02:01:39+00:00"
+    },
+    {
      "titolo": "Prime vittorie in Champions League per Roma e Napoli",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/20/prime-vittorie-in-champions-league-per-roma-e-napoli_fd237cc7-5007-4753-96f9-26189c142411.html",
      "data": "2026-10-20T21:19:31+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Champions: Nico Paz 'con lo United serve la partita perfetta'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/20/champions-nico-paz-con-lo-united-serve-la-partita-perfetta_c99c5b98-98e8-4195-ba69-8eafa53eb5d4.html",
      "data": "2026-10-20T15:32:20+00:00"
-    },
-    {
-     "titolo": "Champions: Fabregas, domani c'è Douvikas ma il portiere non lo dico",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/20/champions-fabregas-domani-ce-douvikas-ma-il-portiere-non-lo-dico_eb591432-52a6-4086-83c5-29501fc5e338.html",
-     "data": "2026-10-20T15:29:10+00:00"
     }
    ]
   }
