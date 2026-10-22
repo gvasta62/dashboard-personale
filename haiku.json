@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-21T08:58:49.311146+00:00",
- "data": "2026-10-21",
- "testo": "Scoppia il temporale\nnel vicolo in discesa\nrotola un tombino",
- "nota": "Ho osservato l'acqua che gonfia i vicoli ripidi e muove le griglie.",
+ "aggiornato": "2026-10-22T09:00:57.413170+00:00",
+ "data": "2026-10-22",
+ "testo": "Giorno senza ombre\nsul ramo del cachi\npende un frutto",
+ "nota": "Il cachi maturo arancione contro il cielo uniforme di nuvole.",
  "archivio": [
+  {
+   "data": "2026-10-22",
+   "testo": "Giorno senza ombre\nsul ramo del cachi\npende un frutto",
+   "nota": "Il cachi maturo arancione contro il cielo uniforme di nuvole."
+  },
   {
    "data": "2026-10-21",
    "testo": "Scoppia il temporale\nnel vicolo in discesa\nrotola un tombino",
@@ -448,11 +453,6 @@
    "data": "2026-07-25",
    "testo": "Cielo di lavagna\ngocce sui panni stesi\ntra due terrazze",
    "nota": "Bucato appeso tra le case sotto un cielo coperto d'estate."
-  },
-  {
-   "data": "2026-07-24",
-   "testo": "Nuvola e sereno\nsul selciato del Corso\npassi lenti a sera",
-   "nota": "Cielo variabile sopra il centro, gente che cammina piano nel fresco della sera."
   }
  ]
 }
