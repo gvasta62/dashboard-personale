@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-10-21T22:30:10.078334+00:00",
+ "aggiornato": "2026-10-22T00:48:30.758048+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Brasile, ordinato l'arresto di ex militare uruguaiano condannato in Italia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/brasile-ordinato-larresto-di-ex-militare-uruguaiano-condannato-in-italia_fbfe281d-9f96-4592-9d6e-a9066e4912ac.html",
+     "data": "2026-10-21T23:58:49+00:00"
+    },
+    {
+     "titolo": "Attacco ucraino con droni sulla città russa di Lipetsk",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/attacco-ucraino-con-droni-sulla-citta-russa-di-lipetsk_5b1e7f74-7b44-4ab4-aca2-63b6e8d0f72c.html",
+     "data": "2026-10-21T23:56:27+00:00"
+    },
+    {
+     "titolo": "Trump contestato anche in South Carolina, 'manifestanti pagati'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/trump-contestato-anche-in-south-carolina-manifestanti-pagati_50d5f66f-3fe0-4f2f-adab-324f0dfbd35d.html",
+     "data": "2026-10-21T23:48:58+00:00"
+    },
+    {
+     "titolo": "Attacco su aeroporto in Arabia Saudita, un morto e otto feriti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/attacco-su-aeroporto-in-arabia-saudita-un-morto-e-otto-feriti_8f9d7107-4fd7-4c01-8d2c-21ed0b5f5208.html",
+     "data": "2026-10-21T22:41:14+00:00"
+    },
     {
      "titolo": "Trump difende Witkoff per aver chiamato Putin compassionevole",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/trump-difende-witkoff-per-aver-chiamato-putin-compassionevole_c250406d-97db-4e20-a6d6-664601724079.html",
@@ -34,26 +54,6 @@
      "titolo": "Tajani ai suoi, verso taglio Irpef in due tempi, in manovra fino a 55mila euro",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/tajani-ai-suoi-verso-taglio-irpef-in-due-tempi-in-manovra-fino-a-55mila_cc44d961-f0fa-45db-b788-f0fd49424e18.html",
      "data": "2026-10-21T18:56:40+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'favorevoli a incontro trilaterale il prima possibile'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/zelensky-favorevoli-a-incontro-trilaterale-il-prima-possibile_a0cb8ff7-472c-4454-ad4d-147e251a22fc.html",
-     "data": "2026-10-21T18:45:11+00:00"
-    },
-    {
-     "titolo": "Il petrolio chiude in calo a New York a 97,15 dollari",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/il-petrolio-chiude-in-calo-a-new-york-a-9715-dollari_04257fd4-6e0b-4344-8a9d-1be5bf142822.html",
-     "data": "2026-10-21T18:44:20+00:00"
-    },
-    {
-     "titolo": "Meta condannata in New Mexico a pagare 25 miliardi per la privacy",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/meta-condannata-in-new-mexico-a-pagare-25-miliardi-per-la-privacy_cf06ff0a-9e28-4537-ba7e-3d64f96275c1.html",
-     "data": "2026-10-21T18:40:20+00:00"
-    },
-    {
-     "titolo": "Il prezzo del gas viaggia in rialzo a 86,6 euro, lente resta su Hormuz",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/il-prezzo-del-gas-viaggia-in-rialzo-a-866-euro-lente-resta-su-hormuz_fddb84e8-d1f9-4c5e-8f64-d05349e3f922.html",
-     "data": "2026-10-21T16:45:27+00:00"
     }
    ]
   },
@@ -321,6 +321,46 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Brasile, ordinato l'arresto di ex militare uruguaiano condannato in Italia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/22/brasile-ordinato-larresto-di-ex-militare-uruguaiano-condannato-in-italia_04ed3f0c-e103-4c62-89f7-e60e37aff0f4.html",
+     "data": "2026-10-21T23:59:05+00:00"
+    },
+    {
+     "titolo": "Attacco ucraino con droni sulla città russa di Lipetsk",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/22/attacco-ucraino-con-droni-sulla-citta-russa-di-lipetsk_cd67870c-0497-4552-be48-de9998617dc1.html",
+     "data": "2026-10-21T23:56:47+00:00"
+    },
+    {
+     "titolo": "Trump contestato anche in South Carolina, 'manifestanti pagati'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/22/trump-contestato-anche-in-south-carolina-manifestanti-pagati_3361f898-de61-44c9-8fb8-9fc7fab91fda.html",
+     "data": "2026-10-21T23:49:01+00:00"
+    },
+    {
+     "titolo": "Cuba: il 27% della popolazione ha più di 60 anni, è il Paese più anziano della regione",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/22/cuba-il-27-della-popolazione-ha-piu-di-60-anni-e-il-paese-piu-anziano-della-regione_b7c11245-7a98-48b5-89af-4cd67694d2f1.html",
+     "data": "2026-10-21T23:41:54+00:00"
+    },
+    {
+     "titolo": "Venezuela, chavismo e opposizione scendono in piazza a Caracas",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/22/venezuela-chavismo-e-opposizione-scendono-in-piazza-a-caracas_2cecad6f-bf88-4b0a-979d-2dea448f3ac5.html",
+     "data": "2026-10-21T23:36:40+00:00"
+    },
+    {
+     "titolo": "Brasile, Lula accetta le condizioni di Flávio Bolsonaro sui dati riservati",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/22/brasile-lula-accetta-le-condizioni-di-flavio-bolsonaro-sui-dati-riservati_cd1d940a-9f07-4269-9e5a-8f0d6676f8af.html",
+     "data": "2026-10-21T23:18:45+00:00"
+    },
+    {
+     "titolo": "Perù, il Senato concede a Fujimori poteri legislativi su clima e sicurezza",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/22/peru-il-senato-concede-a-fujimori-poteri-legislativi-su-clima-e-sicurezza_75688c71-0919-4371-ad75-e809b20fbde5.html",
+     "data": "2026-10-21T22:43:21+00:00"
+    },
+    {
+     "titolo": "Attacco su aeroporto in Arabia Saudita, un morto e otto feriti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/22/attacco-su-aeroporto-in-arabia-saudita-un-morto-e-otto-feriti_106a5e82-4450-4268-9cd1-01f97f17bf68.html",
+     "data": "2026-10-21T22:41:32+00:00"
+    },
+    {
      "titolo": "Colombia, Petro denuncia collaboratori per presunto complotto",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/22/colombia-petro-denuncia-collaboratori-per-presunto-complotto_036c9740-ddd5-4e23-a5ea-393cd46b52ff.html",
      "data": "2026-10-21T22:28:46+00:00"
@@ -339,46 +379,6 @@
      "titolo": "L'attività economica non riparte in Argentina, ad agosto -1,7% su anno",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/lattivita-economica-non-riparte-in-argentina-ad-agosto-17-su-anno_328e14e0-6d27-458f-9154-619c0cc58df9.html",
      "data": "2026-10-21T20:04:03+00:00"
-    },
-    {
-     "titolo": "Trump difende Witkoff per aver chiamato Putin compassionevole",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/21/trump-difende-witkoff-per-aver-chiamato-putin-compassionevole_7fa45686-8e37-49dd-a5b3-abcaf214b353.html",
-     "data": "2026-10-21T19:32:45+00:00"
-    },
-    {
-     "titolo": "Trump, forse siamo più vicini che mai alla fine della guerra in Ucraina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/21/trump-forse-siamo-piu-vicini-che-mai-alla-fine-della_bc91def8-a094-4bff-99b0-53dc04de196e.html",
-     "data": "2026-10-21T19:22:25+00:00"
-    },
-    {
-     "titolo": "Per l'opposizione sostenuta dagli Usa elezioni in Venezuela solo a fine 2027",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/per-lopposizione-sostenuta-dagli-usa-elezioni-in-venezuela-solo-a-fine-2027_9a761a78-f15b-40ca-a953-27d400c2b6de.html",
-     "data": "2026-10-21T19:22:05+00:00"
-    },
-    {
-     "titolo": "L'ambasciata Usa ordina al personale e alle famiglie di lasciare l'Arabia Saudita",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/21/lambasciata-usa-ordina-al-personale-e-alle-famiglie-di-lasciare-larabia-saudita_4b4f6f3c-5061-4455-8278-f78323d4e52e.html",
-     "data": "2026-10-21T19:19:15+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'favorevoli a incontro trilaterale il prima possibile'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/21/zelensky-favorevoli-a-incontro-trilaterale-il-prima-possibile_785393e6-66ae-40ef-8863-3edb11aa9718.html",
-     "data": "2026-10-21T18:45:30+00:00"
-    },
-    {
-     "titolo": "La difesa del principale imputato al processo Maradona, 'Luque un capro espiatiorio'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/la-difesa-del-principale-imputato-al-processo-maradona-luque-un-capro-espiatiorio_cf3f4fb6-6a96-4c83-88c1-c4a09eb62d32.html",
-     "data": "2026-10-21T17:46:58+00:00"
-    },
-    {
-     "titolo": "Padre e figlio italiani arrestati in Cisgiordania, saranno espulsi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/21/padre-e-figlio-italiani-arrestati-in-cisgiordania-saranno-espulsi_2c568a0d-afaa-4781-9839-5a4eb4a27693.html",
-     "data": "2026-10-21T17:16:01+00:00"
-    },
-    {
-     "titolo": "Witkoff a Putin, 'anche lei è compassionevole'. Bufera in Usa, 'è un assassino'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/21/witkoff-a-putin-anche-lei-e-compassionevole.-bufera-in-usa-e-un-assassino_2324ab5a-a346-4ebb-9209-a407dc6e6263.html",
-     "data": "2026-10-21T16:35:15+00:00"
     }
    ]
   },
