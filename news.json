@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-10-22T00:48:30.758048+00:00",
+ "aggiornato": "2026-10-22T05:31:13.321872+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Sindaco Mosca, 'nella notte oltre 600 droni lanciati contro la città'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/sindaco-mosca-nella-notte-oltre-600-droni-lanciati-contro-la-citta_cd051597-d946-4a99-81af-9223d8d1559d.html",
+     "data": "2026-10-22T01:46:14+00:00"
+    },
     {
      "titolo": "Brasile, ordinato l'arresto di ex militare uruguaiano condannato in Italia",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/brasile-ordinato-larresto-di-ex-militare-uruguaiano-condannato-in-italia_fbfe281d-9f96-4592-9d6e-a9066e4912ac.html",
@@ -49,11 +54,6 @@
      "titolo": "L'ambasciata Usa ordina al personale e alle famiglie di lasciare l'Arabia Saudita",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/lambasciata-usa-ordina-al-personale-e-alle-famiglie-di-lasciare-larabia-saudita_6465d3ea-d7f2-486b-8ae0-6e3658bc9dc2.html",
      "data": "2026-10-21T19:19:00+00:00"
-    },
-    {
-     "titolo": "Tajani ai suoi, verso taglio Irpef in due tempi, in manovra fino a 55mila euro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/tajani-ai-suoi-verso-taglio-irpef-in-due-tempi-in-manovra-fino-a-55mila_cc44d961-f0fa-45db-b788-f0fd49424e18.html",
-     "data": "2026-10-21T18:56:40+00:00"
     }
    ]
   },
@@ -133,7 +133,7 @@
     {
      "titolo": "Il Governo sceglie la linea dura, sospesi i blocchi dei tir in Sicilia e Calabria",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/il-governo-sceglie-la-linea-dura-sospesi-i-blocchi-in-sicilia-e-calabria_9c1d4f81-b58b-423e-aef2-9fa4b224c7bf.html",
-     "data": "2026-10-21T21:28:53+00:00"
+     "data": "2026-10-22T05:15:58+00:00"
     },
     {
      "titolo": "Trasportatori siciliani, sospendiamo protesta e rimuoviamo blocchi",
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Mercato europeo dell'auto +10,2% a settembre, nei 9 mesi quota delle elettriche al 22,7%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/mercato-europeo-dellauto-102-a-settembre-nei-9-mesi-quota-delle-elettriche_b30640fc-e6f3-41b0-be85-4daf1884cd37.html",
+     "data": "2026-10-22T04:01:38+00:00"
+    },
+    {
      "titolo": "Tajani ai suoi, verso taglio Irpef in due tempi, in manovra fino a 55mila euro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/21/tajani-ai-suoi-verso-taglio-irpef-in-due-tempi-in-manovra-fino-a-55mila_eb2c3059-102b-499a-b27c-8493bce99523.html",
      "data": "2026-10-21T19:05:23+00:00"
@@ -309,17 +314,17 @@
      "titolo": "Moncler, i ricavi salgono a 1,9 miliardi nei nove mesi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/21/moncler-i-ricavi-salgono-a-19-miliardi-nei-nove-mesi_06c2d10e-6f97-4ce6-a1f8-efcd377bacf6.html",
      "data": "2026-10-21T16:25:46+00:00"
-    },
-    {
-     "titolo": "Essilux chiude in rally in Borsa dopo i conti del trimestre, +15%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/21/essilux-chiude-in-rally-in-borsa-dopo-i-conti-del-trimestre-15_7deb732f-d639-4e03-ae05-f691e7506296.html",
-     "data": "2026-10-21T15:52:22+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Sindaco Mosca, 'nella notte oltre 600 droni lanciati contro la città'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/22/sindaco-mosca-nella-notte-oltre-600-droni-lanciati-contro-la-citta_e38f257a-fa93-411b-bf27-d9ea250890df.html",
+     "data": "2026-10-22T01:46:33+00:00"
+    },
     {
      "titolo": "Brasile, ordinato l'arresto di ex militare uruguaiano condannato in Italia",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/22/brasile-ordinato-larresto-di-ex-militare-uruguaiano-condannato-in-italia_04ed3f0c-e103-4c62-89f7-e60e37aff0f4.html",
@@ -374,11 +379,6 @@
      "titolo": "Brasile, indigeni dell'Amazzonia rischiano di non votare al ballottaggio",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/brasile-indigeni-dellamazzonia-rischiano-di-non-votare-al-ballottaggio_44814071-b8c1-4f60-8fdb-76c1311e18cf.html",
      "data": "2026-10-21T21:34:49+00:00"
-    },
-    {
-     "titolo": "L'attività economica non riparte in Argentina, ad agosto -1,7% su anno",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/21/lattivita-economica-non-riparte-in-argentina-ad-agosto-17-su-anno_328e14e0-6d27-458f-9154-619c0cc58df9.html",
-     "data": "2026-10-21T20:04:03+00:00"
     }
    ]
   },
