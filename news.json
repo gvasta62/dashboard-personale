@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-10-22T22:48:38.350376+00:00",
+ "aggiornato": "2026-10-23T01:02:46.572969+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Sondaggio Brasile, Lula e Bolsonaro testa a testa al 50% a 3 giorni dal ballottaggio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/sondaggio-brasile-lula-e-bolsonaro-testa-a-testa-al-50-a-3-giorni-dal-ballottaggio_faf16ab2-4b61-45f8-9678-5ca4396b7e26.html",
+     "data": "2026-10-23T00:57:35+00:00"
+    },
     {
      "titolo": "Autotrasporto: il Garante degli scioperi chiede la precettazione",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/autotrasporto-il-garante-degli-scioperi-chiede-la-precettazione_e4b778ed-6e52-4fe4-803f-9327d22b604c.html",
@@ -49,11 +54,6 @@
      "titolo": "Giudice ordina a Trump di deporre entro l'11 dicembre nella causa contro la Bbc",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/giudice-ordina-a-trump-di-deporre-entro-l11-dicembre-nella-causa-contro_feeea33e-d057-4d03-b4ab-1cd5eb6a7257.html",
      "data": "2026-10-22T17:17:16+00:00"
-    },
-    {
-     "titolo": "Carte Pokémon da record, pensionato inglese le vende all'asta e diventa milionario",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/carte-pokemon-da-record-pensionato-inglese-le-vende-allasta-e-diventa-milionario_e6ba88be-0b3c-4e6f-b48a-0b8acae7b413.html",
-     "data": "2026-10-22T17:03:08+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Sondaggio Brasile, Lula e Bolsonaro testa a testa al 50% a 3 giorni dal ballottaggio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/sondaggio-brasile-lula-e-bolsonaro-testa-a-testa-al-50-a-3-giorni-dal-ballottaggio_f2bca325-ba76-4fad-8870-59505187268a.html",
+     "data": "2026-10-23T00:22:17+00:00"
+    },
+    {
+     "titolo": "Dalma Maradona alla chiusura del processo per la morte del padre, 'merita giustizia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/dalma-maradona-alla-chiusura-del-processo-per-la-morte-del-padre_fdde3770-1fb5-409e-89a6-c35868e06fa7.html",
+     "data": "2026-10-22T23:02:16+00:00"
+    },
+    {
      "titolo": "Brasile, Casa Fiat e Inhotim celebrano 20 anni con una conferenza sul tempo nell'arte",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/brasile-casa-fiat-e-inhotim-celebrano-20-anni-con-una-conferenza-sul_fbb3b9e4-f53d-4b3a-88ef-efc0a7c7d3b9.html",
      "data": "2026-10-22T22:33:29+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Putin, i territori nell'Ucraina orientale sono 'terre storicamente russe'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/22/putin-i-territori-nellucraina-orientale-sono-terre-storicamente-russe_833d371e-c385-453d-a189-f53242c455e9.html",
      "data": "2026-10-22T19:14:48+00:00"
-    },
-    {
-     "titolo": "Wsj, 'Trump ha chiamato Musk per rimuovere le restrizioni a Starlink per l'Ucraina'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/22/wsj-trump-ha-chiamato-musk-per-rimuovere-le-restrizioni-a-starlink-per-lucraina_81c67703-2f24-4ed7-93c7-8452d883959b.html",
-     "data": "2026-10-22T18:21:02+00:00"
-    },
-    {
-     "titolo": "L'Argentina si allinea agli Usa su lotta ai 'narco-terroristi' in Messico e Colombia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/22/largentina-si-allinea-agli-usa-su-lotta-ai-narco-terroristi-in-messico-e-colombia_9d48ff8b-1aa6-40f7-9722-6288045acd1a.html",
-     "data": "2026-10-22T17:45:09+00:00"
     }
    ]
   },
