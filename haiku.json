@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-22T09:00:57.413170+00:00",
- "data": "2026-10-22",
- "testo": "Giorno senza ombre\nsul ramo del cachi\npende un frutto",
- "nota": "Il cachi maturo arancione contro il cielo uniforme di nuvole.",
+ "aggiornato": "2026-10-23T08:56:03.693830+00:00",
+ "data": "2026-10-23",
+ "testo": "Pioggia a sprazzi\nsul cartoccio di castagne\nfuma il carbone",
+ "nota": "In piazza un venditore di caldarroste, il fumo sale tra gli spruzzi di pioggia.",
  "archivio": [
+  {
+   "data": "2026-10-23",
+   "testo": "Pioggia a sprazzi\nsul cartoccio di castagne\nfuma il carbone",
+   "nota": "In piazza un venditore di caldarroste, il fumo sale tra gli spruzzi di pioggia."
+  },
   {
    "data": "2026-10-22",
    "testo": "Giorno senza ombre\nsul ramo del cachi\npende un frutto",
@@ -448,11 +453,6 @@
    "data": "2026-07-26",
    "testo": "Scroscio sull'acciottolato\ngrondaie che traboccano\nodore di terra",
    "nota": "Il temporale lava le pietre della città e libera il profumo del suolo bagnato."
-  },
-  {
-   "data": "2026-07-25",
-   "testo": "Cielo di lavagna\ngocce sui panni stesi\ntra due terrazze",
-   "nota": "Bucato appeso tra le case sotto un cielo coperto d'estate."
   }
  ]
 }
