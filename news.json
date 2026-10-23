@@ -1,14 +1,14 @@
 {
- "aggiornato": "2026-10-23T01:02:46.572969+00:00",
+ "aggiornato": "2026-10-23T06:06:23.381584+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
-     "titolo": "Sondaggio Brasile, Lula e Bolsonaro testa a testa al 50% a 3 giorni dal ballottaggio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/sondaggio-brasile-lula-e-bolsonaro-testa-a-testa-al-50-a-3-giorni-dal-ballottaggio_faf16ab2-4b61-45f8-9678-5ca4396b7e26.html",
-     "data": "2026-10-23T00:57:35+00:00"
+     "titolo": "Eni, utile netto rettificato +70% nei 9 mesi a 6,4 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/eni-utile-netto-rettificato-70-nei-9-mesi-a-64-miliardi_4b9617c2-246f-4ff5-87fa-302df13d0815.html",
+     "data": "2026-10-23T06:01:00+00:00"
     },
     {
      "titolo": "Autotrasporto: il Garante degli scioperi chiede la precettazione",
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Narcotrafficante latitante arrestato in una comunità di recupero",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/narcotrafficante-latitante-arrestato-in-una-comunita-di-recupero_b9a83db6-703d-419a-a515-6c2d53062606.html",
+     "data": "2026-10-23T05:51:06+00:00"
+    },
+    {
+     "titolo": "Trenta giovani perquisiti a Como, si indaga per istigazione al saccheggio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/trenta-giovani-perquisiti-a-como-si-indaga-per-istigazione-al-saccheggio_c2fa35ab-2fe5-4c25-85ae-1c73f3ba723b.html",
+     "data": "2026-10-23T05:30:01+00:00"
+    },
+    {
      "titolo": "A Ferrara il 'nucleo anti maranza', plaude Salvini",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/a-ferrara-il-nucleo-anti-maranza-plaude-salvini_40b1c126-b6db-4074-8708-5d561c1b0507.html",
      "data": "2026-10-22T19:22:20+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Volante circondata da violenti con i pitbull, gli agenti usano il taser",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/volante-circondata-da-violenti-con-i-pitbull-gli-agenti-usano-il-taser_7ccd4b33-6cd1-48cc-af14-e5a5761d74ff.html",
      "data": "2026-10-22T16:15:06+00:00"
-    },
-    {
-     "titolo": "Il Comune di Ferrara lancia il 'Nucleo anti maranza'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/il-comune-di-ferrara-lancia-il-nucleo-anti-maranza_3126936e-e9a0-4fc7-b9f0-6521dee019ec.html",
-     "data": "2026-10-22T16:10:40+00:00"
-    },
-    {
-     "titolo": "Saluti romani al corteo per Ramelli, condanne definitive per 13 militanti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/saluti-romani-al-corteo-per-ramelli-condanne-definitive-per-13-militanti_29139267-3d1f-469b-bd1f-e6be7bf18aef.html",
-     "data": "2026-10-22T16:12:09+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Eni, utile netto rettificato +70% nei 9 mesi a 6,4 miliardi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/23/eni-utile-netto-rettificato-70-nei-9-mesi-a-64-miliardi_25e62a85-1243-4e31-9465-8b1881a44c0b.html",
+     "data": "2026-10-23T06:02:55+00:00"
+    },
+    {
      "titolo": "Autotrasporto: il Garante degli scioperi chiede la precettazione",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/autotrasporto-il-garante-degli-scioperi-chiede-la-precettazione_c2a6a9c4-023e-4e7b-bf34-c4dd25aa38c1.html",
      "data": "2026-10-22T20:51:20+00:00"
@@ -309,11 +314,6 @@
      "titolo": "Borsa: l'Europa chiude in calo, pesano i timori per l'Ia",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/borsa-leuropa-chiude-in-calo-pesano-i-timori-per-lia_b9f7be1b-d37b-4ffb-86a1-a5b6b5b4f38d.html",
      "data": "2026-10-22T15:47:46+00:00"
-    },
-    {
-     "titolo": "Panetta, prudenza fiscale è buona cosa, non va contrapposta a coesione sociale",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/panetta-prudenza-fiscale-e-buona-cosa-non-va-contrapposta-a-coesione-sociale_a168c649-8024-482b-9092-6556b8ffbddd.html",
-     "data": "2026-10-22T15:28:28+00:00"
     }
    ]
   },
@@ -321,9 +321,29 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Taiwan si prepara all'arrivo del potente tifone Champi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/10/23/taiwan-si-prepara-allarrivo-del-potente-tifone-champi_df620c76-3eaa-49fe-81a7-12fb680bac98.html",
+     "data": "2026-10-23T05:35:28+00:00"
+    },
+    {
+     "titolo": "Rsf, 'in 20 anni uccisi in Messico 169 giornalisti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/rsf-in-20-anni-uccisi-in-messico-169-giornalisti_c72ad24e-9dcf-49a3-9091-70ae56978b2e.html",
+     "data": "2026-10-23T01:25:38+00:00"
+    },
+    {
+     "titolo": "Piano di rilasci in El Salvador, le ong denunciano abusi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/piano-di-rilasci-in-el-salvador-le-ong-denunciano-abusi_6cd139b6-3793-4563-a281-8f5a34f03d3b.html",
+     "data": "2026-10-23T01:25:04+00:00"
+    },
+    {
      "titolo": "Sondaggio Brasile, Lula e Bolsonaro testa a testa al 50% a 3 giorni dal ballottaggio",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/sondaggio-brasile-lula-e-bolsonaro-testa-a-testa-al-50-a-3-giorni-dal-ballottaggio_f2bca325-ba76-4fad-8870-59505187268a.html",
      "data": "2026-10-23T00:22:17+00:00"
+    },
+    {
+     "titolo": "Lula e Bolsonaro testa a testa al 50%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/sondaggio-brasile-lula-e-bolsonaro-testa-a-testa-al-50-a-3-giorni-dal-ballottaggio_faf16ab2-4b61-45f8-9678-5ca4396b7e26.html",
+     "data": "2026-10-23T05:12:04+00:00"
     },
     {
      "titolo": "Dalma Maradona alla chiusura del processo per la morte del padre, 'merita giustizia'",
@@ -359,26 +379,6 @@
      "titolo": "Putin, Russia e Ucraina possono raggiungere un accordo",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/22/putin-russia-e-ucraina-possono-raggiungere-un-accordo_aa5c4fd5-7078-4586-8d64-39046d6b58b1.html",
      "data": "2026-10-22T19:34:31+00:00"
-    },
-    {
-     "titolo": "Il movimento studentesco converge su Belgrado e lancia la sfida a Vucic",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/22/il-movimento-studentesco-converge-su-belgrado-e-lancia-la-sfida-a-vucic_d8126705-a2ba-4af3-a301-8e49118dd6a9.html",
-     "data": "2026-10-22T19:17:48+00:00"
-    },
-    {
-     "titolo": "Brasile: tra Lula e Bolsonaro ultime scintille prima del duello tv decisivo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/22/brasile-tra-lula-e-bolsonaro-ultime-scintille-prima-del-duello-tv-decisivo_c55bee45-bc93-444c-912f-9370c6d49874.html",
-     "data": "2026-10-22T19:18:13+00:00"
-    },
-    {
-     "titolo": "Putin, colloqui trilaterali dovrebbero riguardare garanzie sicurezza anche per Mosca",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/22/putin-colloqui-trilaterali-dovrebbero-riguardare-garanzie-sicurezza-anche-per-mosca_5062c94c-d0c2-4983-abf6-580598a14362.html",
-     "data": "2026-10-22T19:16:28+00:00"
-    },
-    {
-     "titolo": "Putin, i territori nell'Ucraina orientale sono 'terre storicamente russe'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/22/putin-i-territori-nellucraina-orientale-sono-terre-storicamente-russe_833d371e-c385-453d-a189-f53242c455e9.html",
-     "data": "2026-10-22T19:14:48+00:00"
     }
    ]
   },
