@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-23T08:56:03.693830+00:00",
- "data": "2026-10-23",
- "testo": "Pioggia a sprazzi\nsul cartoccio di castagne\nfuma il carbone",
- "nota": "In piazza un venditore di caldarroste, il fumo sale tra gli spruzzi di pioggia.",
+ "aggiornato": "2026-10-24T08:29:21.589939+00:00",
+ "data": "2026-10-24",
+ "testo": "Rovescio lieve\nsull'inferriata arrugginita\ntrema una ragnatela",
+ "nota": "Dopo la pioggia leggera, una ragnatela carica d'acqua su una vecchia inferriata.",
  "archivio": [
+  {
+   "data": "2026-10-24",
+   "testo": "Rovescio lieve\nsull'inferriata arrugginita\ntrema una ragnatela",
+   "nota": "Dopo la pioggia leggera, una ragnatela carica d'acqua su una vecchia inferriata."
+  },
   {
    "data": "2026-10-23",
    "testo": "Pioggia a sprazzi\nsul cartoccio di castagne\nfuma il carbone",
@@ -448,11 +453,6 @@
    "data": "2026-07-27",
    "testo": "Fico spaccato\nsul davanzale di pietra\nbrusio di vespe",
    "nota": "Un fico maturo lasciato al sole, con le vespe che gli ronzano intorno."
-  },
-  {
-   "data": "2026-07-26",
-   "testo": "Scroscio sull'acciottolato\ngrondaie che traboccano\nodore di terra",
-   "nota": "Il temporale lava le pietre della città e libera il profumo del suolo bagnato."
   }
  ]
 }
