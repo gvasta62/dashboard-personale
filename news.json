@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-10-24T19:52:35.555986+00:00",
+ "aggiornato": "2026-10-24T22:00:23.651374+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Scontri a Milano, fermato Youssef Siher 'mente' del Movimento 17 ottobre",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/scontri-a-milano-fermato-youssef-siher-mente-del-movimento-17-ottobre_2de4f860-7c65-4ef2-97e3-0536be9ff0a2.html",
+     "data": "2026-10-24T21:43:17+00:00"
+    },
+    {
+     "titolo": "Trump, 'Melania è più brava dei professionisti, ha parlato con Putin e Zelensky'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/trump-melania-e-piu-brava-dei-professionisti-ha-parlato-con-putin-e-zelensky_607a8b47-20d9-468b-bafa-e674088f6eed.html",
+     "data": "2026-10-24T21:13:24+00:00"
+    },
+    {
+     "titolo": "Trump, 'faremo affari con Russia e Ucraina una volta finita la guerra'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/trump-faremo-affari-con-russia-e-ucraina-una-volta-finita-la-guerra_5f8419a2-0f16-48e5-9726-91d4d0a2f2c6.html",
+     "data": "2026-10-24T21:01:06+00:00"
+    },
+    {
+     "titolo": "Donald Trump ha votato in Florida per le midterm",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/donald-trump-ha-votato-in-florida-per-le-midterm_15b3dad0-f041-4862-abb6-3c464c6b42a3.html",
+     "data": "2026-10-24T20:18:13+00:00"
+    },
+    {
+     "titolo": "Meloni, con le nuove misure libertà di manifestare senza città a ferro e fuoco",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/meloni-con-le-nuove-misure-liberta-di-manifestare-senza-citta-a-ferro-e-fuoco_1d4a317d-258b-45c5-a4ef-b78c2f180edc.html",
+     "data": "2026-10-24T19:49:57+00:00"
+    },
     {
      "titolo": "Piantedosi, 'isolati violenti, non c'è spazio per chi agisce nell'impunità",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/piantedosi-isolati-violenti-non-ce-spazio-per-chi-agisce-nellimpunita_12a026f2-9ef4-4c12-8cc0-8b0c3153c7ca.html",
@@ -29,31 +54,6 @@
      "titolo": "Violenti scontri nel centro di Tirana fra polizia e manifestanti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/violenti-scontri-nel-centro-di-tirana-fra-polizia-e-manifestanti_8770847f-89ed-4f1a-8eb5-d1c9a39d3845.html",
      "data": "2026-10-24T18:04:39+00:00"
-    },
-    {
-     "titolo": "La tempesta Boelo colpisce il Regno Unito, viaggi interrotti ed eventi cancellati",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/la-tempesta-boelo-colpisce-il-regno-unito-viaggi-interrotti-ed-eventi-cancellati_b64b8280-0d1a-43f6-a709-bbd17275e877.html",
-     "data": "2026-10-24T18:03:46+00:00"
-    },
-    {
-     "titolo": "Il ministro dell'Interno francese, 'circa 1.000 fermi in tutto il Paese'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/il-ministro-dellinterno-francese-circa-1.000-fermi-in-tutto-il-paese_4705eb8e-6ac5-428e-841d-986342f41bdc.html",
-     "data": "2026-10-24T18:02:41+00:00"
-    },
-    {
-     "titolo": "Migliaia in piazza a Tel Aviv contro Netanyahu prima delle elezioni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/migliaia-in-piazza-a-tel-aviv-contro-netanyahu-prima-delle-elezioni_4469d036-7822-44ec-9b96-70b9090063fd.html",
-     "data": "2026-10-24T17:55:16+00:00"
-    },
-    {
-     "titolo": "Scontri al centro di Roma, cariche e idranti sui manifestanti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/scontri-al-centro-di-roma-cariche-e-idranti-sui-manifestanti_d522e443-6d62-4f63-bae2-e36b951ad646.html",
-     "data": "2026-10-24T17:50:39+00:00"
-    },
-    {
-     "titolo": "Razzi e bottiglie contro la polizia, a Torino fitto lancio lacrimogeni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/razzi-e-bottiglie-contro-la-polizia-a-torino-fitto-lancio-lacrimogeni_8d3c0a69-2e54-4f28-9f84-0c5a48c52efb.html",
-     "data": "2026-10-24T17:21:37+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Scontri a Milano, fermato Youssef Siher 'mente' del Movimento 17 ottobre",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/scontri-a-milano-fermato-youssef-siher-mente-del-movimento-17-ottobre_e18967c4-35bf-4e74-a31c-2cbdf8b34324.html",
+     "data": "2026-10-24T21:43:19+00:00"
+    },
+    {
+     "titolo": "Cortei di protesta da Roma a Milano TUTTI I VIDEO",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/cortei-di-protesta-da-roma-a-milano-tutti-i-video_2bb860a1-c867-4ceb-aabb-2889ee1baa7b.html",
+     "data": "2026-10-24T20:28:42+00:00"
+    },
+    {
      "titolo": "Piantedosi, 'isolati violenti, non c'è spazio per chi agisce nell'impunità",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/piantedosi-isolati-violenti-non-ce-spazio-per-chi-agisce-nellimpunita_ba5d2670-da81-45cc-a34b-5ccf4f061f2e.html",
      "data": "2026-10-24T19:27:38+00:00"
@@ -173,23 +183,18 @@
     {
      "titolo": "Città blindate, cortei in tutta Italia. Alta tensione a Torino",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/citta-blindate-cortei-in-tutta-italia.-tensioni-a-torino-milano-firenze.-a-roma_c947f80a-5c41-4c1b-bc3b-fe5603318029.html",
-     "data": "2026-10-24T19:05:15+00:00"
-    },
-    {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-10-24T17:07:04+00:00"
-    },
-    {
-     "titolo": "In centinaia ad Alba nel corteo contro il caporalato del vino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/in-centinaia-ad-alba-nel-corteo-contro-il-caporalato-del-vino_2d9915f3-6af0-4724-b972-56cd4557b1d2.html",
-     "data": "2026-10-24T16:53:13+00:00"
+     "data": "2026-10-24T20:27:43+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Meloni, con le nuove misure libertà di manifestare senza città a ferro e fuoco",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/24/meloni-con-le-nuove-misure-liberta-di-manifestare-senza-citta-a-ferro-e-fuoco_a6d9d160-b5ce-4a21-8728-34688b1272f9.html",
+     "data": "2026-10-24T19:49:57+00:00"
+    },
     {
      "titolo": "Cirio, i teppisti hanno scambiato il diritto al dissenso con lo scontro",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/24/cirio-i-teppisti-hanno-scambiato-il-diritto-al-dissenso-con-lo-scontro_97e2041c-0777-463d-91e3-7fb934903e71.html",
@@ -223,7 +228,7 @@
     {
      "titolo": "Al congresso della Lega sotto accusa il 'ribelle' Romeo, in ballo un ruolo per Zaia",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/24/attacco-a-romeo-al-congresso-lega-no-a-diatribe-personali_2df1fea2-8d5f-4ea0-a6d9-771170bc06ff.html",
-     "data": "2026-10-24T19:31:31+00:00"
+     "data": "2026-10-24T20:09:03+00:00"
     },
     {
      "titolo": "Salvini in centro a Milano incontra i commercianti e i parà",
@@ -306,6 +311,21 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump, 'Melania è più brava dei professionisti, ha parlato con Putin e Zelensky'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/24/trump-melania-e-piu-brava-dei-professionisti-ha-parlato-con-putin-e-zelensky_37b9ecc1-0c89-4875-bbc9-26f461a2398d.html",
+     "data": "2026-10-24T21:13:57+00:00"
+    },
+    {
+     "titolo": "Trump, 'faremo affari con Russia e Ucraina una volta finita la guerra'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/24/trump-faremo-affari-con-russia-e-ucraina-una-volta-finita-la-guerra_0f62e13f-f3b2-4772-95c1-4697e1b987ef.html",
+     "data": "2026-10-24T21:00:52+00:00"
+    },
+    {
+     "titolo": "Donald Trump ha votato in Florida per le midterm",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/24/donald-trump-ha-votato-in-florida-per-le-midterm_af8d87bc-b202-432d-8947-d183c363d14a.html",
+     "data": "2026-10-24T20:18:33+00:00"
+    },
+    {
      "titolo": "Obama, 'Trump e Hegseth non sono persone serie e gli americani pagano'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/24/obama-trump-e-hegseth-non-sono-persone-serie-e-gli-americani-pagano_0c7eb8fe-b208-41b8-87d9-6488fa4a8517.html",
      "data": "2026-10-24T19:14:24+00:00"
@@ -349,21 +369,6 @@
      "titolo": "Brasile, Lula e Flavio Bolsonaro chiudono la campagna nel sud-est",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/24/brasile-lula-e-flavio-bolsonaro-chiudono-la-campagna-nel-sud-est_56b58b2b-68e4-4a6f-aa91-39333b46d507.html",
      "data": "2026-10-24T13:06:27+00:00"
-    },
-    {
-     "titolo": "Una reliquia di San Carlo Acutis esposta 24 ore su 24 in Brasile",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/24/una-reliquia-di-san-carlo-acutis-esposta-24-ore-su-24-in-brasile_2ef18196-c77a-4112-99dd-956c9d8ea28e.html",
-     "data": "2026-10-24T12:12:43+00:00"
-    },
-    {
-     "titolo": "Zakharova: 'Meloni ascolti Al Bano che chiede di riaprire le porte a Mosca'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/24/zakharova-meloni-ascolti-al-bano-che-chiede-di-riaprire-le-porte-a-mosca_7c07d183-575a-419e-ae76-acd5dea54dd4.html",
-     "data": "2026-10-24T15:46:32+00:00"
-    },
-    {
-     "titolo": "Blitz antiterrorismo in Cisgiordania, decine di arresti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/24/farnesina-rimpatriate-le-cinque-italiane-fermate-in-cisgiordania_efc8cd4a-8403-4739-bcdf-6a0660124edc.html",
-     "data": "2026-10-24T19:12:23+00:00"
     }
    ]
   },
@@ -436,9 +441,14 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Serie A: Lazio-Parma 0-0 DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/24/serie-a-lazio-parma-0-0-diretta_d0b994f1-a702-4064-bfda-9f7f315d0ce2.html",
-     "data": "2026-10-24T19:40:57+00:00"
+     "titolo": "La Lazio batte il Parma 2-1 e per una notte è prima in solitaria CRONACA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/24/la-lazio-batte-il-parma-2-1-e-per-una-notte-e-prima-in-solitaria-cronaca-e-foto_d0b994f1-a702-4064-bfda-9f7f315d0ce2.html",
+     "data": "2026-10-24T21:24:35+00:00"
+    },
+    {
+     "titolo": "La Lazio batte il Parma e balza in testa alla classifica",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/24/la-lazio-batte-il-parma-e-balza-in-testa-alla-classifica_d531d069-a718-421f-988d-73995fa87b32.html",
+     "data": "2026-10-24T20:54:06+00:00"
     },
     {
      "titolo": "Tamberi nominato atleta europeo dell'anno \"stagione incredibile\"",
@@ -489,11 +499,6 @@
      "titolo": "Milan: brutte notizie per Amorim, ko Rabiot, Moreira e Gila",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/24/milan-brutte-notizie-per-amorim-ko-rabiot-moreira-e-gila_0fbbd5c5-f800-4ff9-ac8d-b00581c80b9e.html",
      "data": "2026-10-24T17:03:35+00:00"
-    },
-    {
-     "titolo": "C'è il Clasico, Mourinho \"ingiusto confrontare Real e Barcellona\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/24/ce-il-clasico-mourinho-ingiusto-confrontare-real-e-barcellona_c0a2e44f-d228-4520-93df-4f6b0c897e32.html",
-     "data": "2026-10-24T16:57:37+00:00"
     }
    ]
   }
