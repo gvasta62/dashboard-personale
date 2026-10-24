@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-10-23T22:41:15.043698+00:00",
+ "aggiornato": "2026-10-24T01:11:53.973375+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Moto Gp Australia, Marc Marquez cade ma conquista la pole (2)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/moto-gp-australia-marc-marquez-cade-ma-conquista-la-pole-2_8a7cc6f8-c8cc-4abe-8742-57bf8bba67b9.html",
+     "data": "2026-10-24T01:05:41+00:00"
+    },
+    {
+     "titolo": "Moto Gp Australia, Marc Marquez cade ma conquista la pole",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/moto-gp-australia-marc-marquez-cade-ma-conquista-la-pole_988ab147-b493-44ae-9755-e91b54ae0ad2.html",
+     "data": "2026-10-24T01:05:29+00:00"
+    },
     {
      "titolo": "Identificati i resti di otto desaparecidos della dittatura in Argentina",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/identificati-i-resti-di-otto-desaparecidos-della-dittatura-in-argentina_dae357ec-c7db-48f8-9011-3b53a84192a4.html",
@@ -44,16 +54,6 @@
      "titolo": "Tajani, previsto domattina rientro in Italia delle 5 attiviste fermate in Israele",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/tajani-previsto-domattina-rientro-in-italia-delle-5-attiviste-fermate-in-israele_3c4a021e-371b-482d-b5d4-cbda4bfb4718.html",
      "data": "2026-10-23T18:31:11+00:00"
-    },
-    {
-     "titolo": "Leonor ai Premi Principessa Asturie, 'la speranza contro il caos e gli estremismi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/leonor-ai-premi-principessa-asturie-la-speranza-contro-il-caos-e-gli-estremismi_ea62a7c2-6e4e-456d-b9ab-e322dc0d003e.html",
-     "data": "2026-10-23T18:07:32+00:00"
-    },
-    {
-     "titolo": "Conte agli alleati, 'il confronto sul programma il prima possibile'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/conte-agli-alleati-il-confronto-sul-programma-il-prima-possibile_4b005fca-fef6-4edf-8167-69fe9b347705.html",
-     "data": "2026-10-23T17:51:43+00:00"
     }
    ]
   },
@@ -321,6 +321,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Cile, sospese le riduzioni di pena dopo le polemiche sui condannati per abusi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/24/cile-sospese-le-riduzioni-di-pena-dopo-le-polemiche-sui-condannati-per-abusi_23eb1f8d-ce43-4e1e-980c-83e4ea488a62.html",
+     "data": "2026-10-23T23:21:08+00:00"
+    },
+    {
+     "titolo": "Brasile, star della cultura internazionale in un video a sostegno di Lula",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/24/brasile-star-della-cultura-internazionale-in-un-video-a-sostegno-di-lula_4702f806-1aa3-46a6-bba4-b5e8589963d1.html",
+     "data": "2026-10-23T22:46:30+00:00"
+    },
+    {
      "titolo": "Identificati i resti di otto desaparecidos della dittatura in Argentina",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/24/identificati-i-resti-di-otto-desaparecidos-della-dittatura-in-argentina_c3e4d722-10a5-40d3-af5d-fb5259ab2c75.html",
      "data": "2026-10-23T22:16:13+00:00"
@@ -369,16 +379,6 @@
      "titolo": "Burnham sente Trump, Ucraina abbia pieno accesso a Starlink",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/23/burnham-sente-trump-ucraina-abbia-pieno-accesso-a-starlink_4170ff0b-8249-4999-8fe9-ab6496b894b6.html",
      "data": "2026-10-23T18:43:01+00:00"
-    },
-    {
-     "titolo": "Svolta in inchiesta su fondi Federcalcio argentina, arrestato il finanziere Vallejos",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/svolta-in-inchiesta-su-fondi-federcalcio-argentina-arrestato-il-finanziere-vallejos_bdaa0767-f0df-47b3-a9f6-515daf1a2cd6.html",
-     "data": "2026-10-23T18:32:22+00:00"
-    },
-    {
-     "titolo": "Tajani, previsto domattina rientro in Italia delle 5 attiviste fermate in Israele",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/23/tajani-previsto-domattina-rientro-in-italia-delle-5-attiviste-fermate-in-israele_45fa9d68-7739-4268-9a22-4745e37991b6.html",
-     "data": "2026-10-23T18:31:29+00:00"
     }
    ]
   },
