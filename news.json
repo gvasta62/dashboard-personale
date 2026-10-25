@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-10-25T04:58:15.302447+00:00",
+ "aggiornato": "2026-10-25T09:32:01.397549+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Polizia, 128 arresti e 15 agenti feriti per disordini a Barcellona",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/polizia-128-arresti-e-15-agenti-feriti-per-disordini-a-barcellona_0aba0d59-cb88-40dd-8e74-441e13367a5e.html",
+     "data": "2026-10-25T09:07:25+00:00"
+    },
+    {
+     "titolo": "Funzionari iraniani al Nyt, 'lecito colpire diplomatici americani'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/funzionari-iraniani-al-nyt-lecito-colpire-diplomatici-americani_96512585-d062-4c86-a044-5639ce0396e0.html",
+     "data": "2026-10-25T08:18:05+00:00"
+    },
+    {
+     "titolo": "Media: 'Un morto e dieci feriti in un attacco ucraino a Belgorod'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/media-un-morto-e-dieci-feriti-in-un-attacco-ucraino-a-belgorod_ecabcbb6-21d6-4a1e-8689-ba95f5f2d684.html",
+     "data": "2026-10-25T05:09:34+00:00"
+    },
+    {
+     "titolo": "MotoGP in Australia, gara annullata a causa del maltempo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/motogp-in-australia-gara-annullata-a-causa-del-maltempo_bc9e5aa7-6b01-4615-9d36-6d285d59027d.html",
+     "data": "2026-10-25T04:59:01+00:00"
+    },
     {
      "titolo": "Il Brasile alle urne, Lula voterà a San Paolo e Bolsonaro a Rio",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/il-brasile-alle-urne-lula-votera-a-san-paolo-e-bolsonaro-a-rio_ae00f074-e27c-471f-ac50-d3cf901d9da1.html",
@@ -34,26 +54,6 @@
      "titolo": "Donald Trump ha votato in Florida per le midterm",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/donald-trump-ha-votato-in-florida-per-le-midterm_15b3dad0-f041-4862-abb6-3c464c6b42a3.html",
      "data": "2026-10-24T20:18:13+00:00"
-    },
-    {
-     "titolo": "Meloni, con le nuove misure libertà di manifestare senza città a ferro e fuoco",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/meloni-con-le-nuove-misure-liberta-di-manifestare-senza-citta-a-ferro-e-fuoco_1d4a317d-258b-45c5-a4ef-b78c2f180edc.html",
-     "data": "2026-10-24T19:49:57+00:00"
-    },
-    {
-     "titolo": "Piantedosi, 'isolati violenti, non c'è spazio per chi agisce nell'impunità",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/piantedosi-isolati-violenti-non-ce-spazio-per-chi-agisce-nellimpunita_12a026f2-9ef4-4c12-8cc0-8b0c3153c7ca.html",
-     "data": "2026-10-24T19:27:25+00:00"
-    },
-    {
-     "titolo": "Cortei in Italia, quasi 5mila identificati, 371 fermati, 110 sono minori",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/cortei-in-italia-quasi-5mila-identificati-371-fermati-110-sono-minori_d92367ef-35ad-4aa2-863a-7c8fe78b898b.html",
-     "data": "2026-10-24T19:25:06+00:00"
-    },
-    {
-     "titolo": "Claudio Baglioni, brano inedito Che notte è questa! apre primo dei 7 concerti a Roma",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/claudio-baglioni-brano-inedito-che-notte-e-questa-apre-primo-dei_ef069dbb-e355-40d6-9e9d-700f208a4801.html",
-     "data": "2026-10-24T19:20:54+00:00"
     }
    ]
   },
@@ -126,14 +126,24 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Cerca di fermare la lite tra due donne, un uomo viene accoltellato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/cerca-di-fermare-la-lite-tra-due-donne-un-uomo-viene-accoltellato_4f424d6b-21cb-4895-a444-3216b2862b24.html",
+     "data": "2026-10-25T09:14:07+00:00"
+    },
+    {
+     "titolo": "Festival Regioni: Fedriga, 'temi dai territori al futuro del Paese'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/festival-regioni-fedriga-temi-dai-territori-al-futuro-del-paese_053e47c5-e679-452f-a686-29b071190359.html",
+     "data": "2026-10-25T08:53:59+00:00"
+    },
+    {
      "titolo": "Fermato Youssef Siher, la mente della pagina Movimento 17 ottobre IL PROFILO",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/fermato-youssef-siher-la-mente-della-pagina-movimento-17-ottobre-il-profilo_7ea4ecc5-fc85-49fe-b151-c71e6855e75d.html",
-     "data": "2026-10-24T22:50:34+00:00"
+     "data": "2026-10-25T08:58:01+00:00"
     },
     {
      "titolo": "Cortei e tensioni, scontri a Torino. Incursione al Colosseo. Meloni: 'Sicurezza garantita'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/cortei-e-tensioni-scontri-a-torino.-incursione-al-colosseo.-meloni-sicurezza-garantita_a5328565-eeb0-4566-bf29-d289f2b330a3.html",
-     "data": "2026-10-24T22:31:53+00:00"
+     "data": "2026-10-25T09:04:30+00:00"
     },
     {
      "titolo": "Cortei in tutta Italia. Alta tensione a Torino - IL RACCONTO DELLA GIORNATA",
@@ -174,16 +184,6 @@
      "titolo": "Sassi e bottiglie contro gli agenti, a Torino usati idrante e lacrimogeni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/sassi-e-bottiglie-contro-gli-agenti-a-torino-usati-idrante-e-lacrimogeni_7b5c46c5-9269-45f4-a219-426d6c987d04.html",
      "data": "2026-10-24T18:26:37+00:00"
-    },
-    {
-     "titolo": "A Padova manifestanti tentano di invadere la stazione, dispersi con idranti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/a-padova-manifestanti-tentano-di-invadere-la-stazione-dispersi-con-idranti_3cb0892f-b44a-41dd-a869-bfbe5e8b0caa.html",
-     "data": "2026-10-24T18:16:30+00:00"
-    },
-    {
-     "titolo": "A Bologna proseguono le tensioni tra manifestanti e forze dell'ordine",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/a-bologna-proseguono-le-tensioni-tra-manifestanti-e-forze-dellordine_e282bb96-5769-4e5f-b855-7967f68533aa.html",
-     "data": "2026-10-24T18:03:40+00:00"
     }
    ]
   },
@@ -246,6 +246,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "E' tornata l'ora solare, lancette indietro di un'ora",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/25/e-tornata-lora-solare-lancette-indietro-di-unora_3b0f87be-a16f-4cd2-9b08-287a81c83690.html",
+     "data": "2026-10-25T08:28:56+00:00"
+    },
+    {
      "titolo": "La manovra guarda a giovani e mamme. Giorgetti: 'La coperta è corta'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/24/la-manovra-guarda-a-giovani-e-mamme.-giorgetti-la-coperta-e-corta_45b46f2c-5aee-4eb4-8420-f23173e1f48e.html",
      "data": "2026-10-24T17:49:52+00:00"
@@ -299,17 +304,32 @@
      "titolo": "Offerta asili nido cresce ma copertura non supera il 40%; al Sud resta al 19%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/24/offerta-asili-nido-cresce-ma-copertura-non-supera-il-40-al-sud-resta-al-19_8097c665-b670-4f98-8b33-6582e5aa394a.html",
      "data": "2026-10-24T08:38:22+00:00"
-    },
-    {
-     "titolo": "Mimit, gasolio in lieve aumento, in autostrada a 2,301 euro al litro; scende benzina",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/24/mimit-gasolio-in-lieve-aumento-in-autostrada-a-2301-euro-al-litro-scende-benzina_1eefc4d4-4784-4334-abc0-a2e40fa58d1e.html",
-     "data": "2026-10-24T08:12:48+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Urne aperte in Serbia, sfida tra Movimento studenti e l'uscente Vucic",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/25/urne-aperte-in-serbia-sfida-tra-movimento-studenti-e-luscente-vucic_c7592667-2179-4481-aa4e-ab91aed52f0e.html",
+     "data": "2026-10-25T09:17:22+00:00"
+    },
+    {
+     "titolo": "Polizia, 128 arresti e 15 agenti feriti per disordini a Barcellona",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/25/polizia-128-arresti-e-15-agenti-feriti-per-disordini-a-barcellona_594ea40b-3d4b-496a-b848-5c94c1c76be0.html",
+     "data": "2026-10-25T09:07:44+00:00"
+    },
+    {
+     "titolo": "Funzionari iraniani al Nyt, 'lecito colpire diplomatici americani'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/25/funzionari-iraniani-al-nyt-lecito-colpire-diplomatici-americani_5059d944-8181-4cf2-84f8-8bff672ed44a.html",
+     "data": "2026-10-25T08:18:23+00:00"
+    },
+    {
+     "titolo": "Media: 'Un morto e dieci feriti in un attacco ucraino a Belgorod'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/25/media-un-morto-e-dieci-feriti-in-un-attacco-ucraino-a-belgorod_cb30db24-8a32-45b0-b227-400aa396a888.html",
+     "data": "2026-10-25T05:09:51+00:00"
+    },
     {
      "titolo": "Il Brasile alle urne, Lula voterà a San Paolo e Bolsonaro a Rio",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/25/il-brasile-alle-urne-lula-votera-a-san-paolo-e-bolsonaro-a-rio_ea540d39-870d-4f1b-92b7-f310f9e356a8.html",
@@ -349,26 +369,6 @@
      "titolo": "La tempesta Boelo colpisce il Regno Unito, viaggi interrotti ed eventi cancellati",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/24/la-tempesta-boelo-colpisce-il-regno-unito-viaggi-interrotti-ed-eventi-cancellati_9200372a-59c1-44d6-85fd-dfdcadde5059.html",
      "data": "2026-10-24T18:04:00+00:00"
-    },
-    {
-     "titolo": "Il ministro dell'Interno francese, 'circa 1.000 fermi in tutto il Paese'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/24/il-ministro-dellinterno-francese-circa-1.000-fermi-in-tutto-il-paese_5e3fb418-2b99-4809-bba2-2b879834e184.html",
-     "data": "2026-10-24T18:03:05+00:00"
-    },
-    {
-     "titolo": "Migliaia in piazza a Tel Aviv contro Netanyahu prima delle elezioni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/24/migliaia-in-piazza-a-tel-aviv-contro-netanyahu-prima-delle-elezioni_ea4661b2-4230-4940-8176-971f26244f3d.html",
-     "data": "2026-10-24T17:55:36+00:00"
-    },
-    {
-     "titolo": "Sindacati, '800.000 in piazza in Francia, 250.000 a Parigi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/24/sindacati-800.000-in-piazza-in-francia-250.000-a-parigi_33b93593-a7c0-492a-9a1d-a55d9ff60243.html",
-     "data": "2026-10-24T16:19:17+00:00"
-    },
-    {
-     "titolo": "Scontri alla fine del corteo di Parigi, polizia con lacrimogeni e idranti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/24/scontri-alla-fine-del-corteo-di-parigi-polizia-con-lacrimogeni-e-idranti_84bfa3ba-bce0-4cf5-8211-be7258e3c97b.html",
-     "data": "2026-10-24T15:57:13+00:00"
     }
    ]
   },
@@ -441,6 +441,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Nba: Philadelphia vince ancora, si sblocca San Antonio",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/25/nba-philadelphia-vince-ancora-si-sblocca-san-antonio_be9157de-6317-4899-affd-82a57b91b038.html",
+     "data": "2026-10-25T06:45:51+00:00"
+    },
+    {
      "titolo": "Inarrestabile Kimi si prende la pole ad Austin: 'Voglio vincere'",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/25/inarrestabile-kimi-si-prende-la-pole-ad-austin-voglio-vincere_e75bf53d-214a-44e7-9fae-da5ded693b7a.html",
      "data": "2026-10-24T22:36:35+00:00"
@@ -458,7 +463,7 @@
     {
      "titolo": "La Lazio batte il Parma 2-1 e per una notte è prima in solitaria CRONACA e FOTO",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/24/la-lazio-batte-il-parma-2-1-e-per-una-notte-e-prima-in-solitaria-cronaca-e-foto_d0b994f1-a702-4064-bfda-9f7f315d0ce2.html",
-     "data": "2026-10-24T21:24:35+00:00"
+     "data": "2026-10-25T07:28:42+00:00"
     },
     {
      "titolo": "La Lazio batte il Parma e balza in testa alla classifica",
@@ -494,11 +499,6 @@
      "titolo": "Premier: l'Arsenal batte l'Everton e aggancia il City in vetta",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/24/premier-larsenal-batte-leverton-e-aggancia-il-city-in-vetta_65853774-1640-4c90-a050-4ec0fc8221cf.html",
      "data": "2026-10-24T18:28:19+00:00"
-    },
-    {
-     "titolo": "Il Catanzaro esonera Gorgone, via anche lo staff tecnico",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/24/il-catanzaro-esonera-gorgone-via-anche-lo-staff-tecnico_b1f3a2b2-9260-488f-9fed-89ceebf6d3ce.html",
-     "data": "2026-10-24T18:09:39+00:00"
     }
    ]
   }
