@@ -1,10 +1,40 @@
 {
- "aggiornato": "2026-10-25T09:32:01.397549+00:00",
+ "aggiornato": "2026-10-25T13:59:05.421860+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Schlein, con gli alleati faremo in fretta, manca l'ultimo miglio",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/schlein-con-gli-alleati-faremo-in-fretta-manca-lultimo-miglio_a706fe5d-8916-41e6-9ad1-7a511c54eafd.html",
+     "data": "2026-10-25T13:00:57+00:00"
+    },
+    {
+     "titolo": "Salvini, se confermato segretario dirò in Cdm stop soldi e armi all'Ucraina",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/salvini-se-confermato-segretario-diro-in-cdm-stop-soldi-e-armi-allucraina_2ab3d2da-984b-40c1-b63d-b87e6241923e.html",
+     "data": "2026-10-25T12:28:49+00:00"
+    },
+    {
+     "titolo": "Putin, accusarci per i disordini segno di debolezza e incapacità dei leader europei",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/putin-accusarci-per-i-disordini-segno-di-debolezza-e-incapacita-dei-leader-europei_85be76dd-07af-4c55-8e2a-d443281d836f.html",
+     "data": "2026-10-25T11:19:50+00:00"
+    },
+    {
+     "titolo": "Zelensky, 4 morti e 22 feriti in attacchi nella regione di Dnipro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/zelensky-4-morti-e-22-feriti-in-attacchi-nella-regione-di-dnipro_8071bda7-437a-4a88-b449-f3751be13655.html",
+     "data": "2026-10-25T11:18:45+00:00"
+    },
+    {
+     "titolo": "Brasile, urne aperte per il ballottaggio presidenziale tra Lula e Bolsonaro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/brasile-urne-aperte-per-il-ballottaggio-presidenziale-tra-lula-e-bolsonaro_5310f9ba-ed9a-4396-9206-c436a4cf3044.html",
+     "data": "2026-10-25T11:02:03+00:00"
+    },
+    {
+     "titolo": "Al via ultimo giorno congresso Lega, oggi la sfida Salvini-Garavaglia e il voto",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/al-via-ultimo-giorno-congresso-lega-oggi-la-sfida-salvini-garavaglia-e-il-voto_852ca216-6007-4090-a8af-2bcd43c3d011.html",
+     "data": "2026-10-25T10:01:55+00:00"
+    },
     {
      "titolo": "Polizia, 128 arresti e 15 agenti feriti per disordini a Barcellona",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/polizia-128-arresti-e-15-agenti-feriti-per-disordini-a-barcellona_0aba0d59-cb88-40dd-8e74-441e13367a5e.html",
@@ -24,42 +54,32 @@
      "titolo": "MotoGP in Australia, gara annullata a causa del maltempo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/motogp-in-australia-gara-annullata-a-causa-del-maltempo_bc9e5aa7-6b01-4615-9d36-6d285d59027d.html",
      "data": "2026-10-25T04:59:01+00:00"
-    },
-    {
-     "titolo": "Il Brasile alle urne, Lula voterà a San Paolo e Bolsonaro a Rio",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/il-brasile-alle-urne-lula-votera-a-san-paolo-e-bolsonaro-a-rio_ae00f074-e27c-471f-ac50-d3cf901d9da1.html",
-     "data": "2026-10-25T03:33:43+00:00"
-    },
-    {
-     "titolo": "Datafolha, per l'ultimo sondaggio Bolsonaro al 51%, Lula al 49%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/datafolha-per-lultimo-sondaggio-bolsonaro-al-51-lula-al-49_fe6bd86c-527f-4a9d-a102-098d978a6be1.html",
-     "data": "2026-10-24T22:00:45+00:00"
-    },
-    {
-     "titolo": "Scontri a Milano, fermato Youssef Siher 'mente' del Movimento 17 ottobre",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/scontri-a-milano-fermato-youssef-siher-mente-del-movimento-17-ottobre_2de4f860-7c65-4ef2-97e3-0536be9ff0a2.html",
-     "data": "2026-10-24T21:43:17+00:00"
-    },
-    {
-     "titolo": "Trump, 'Melania è più brava dei professionisti, ha parlato con Putin e Zelensky'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/trump-melania-e-piu-brava-dei-professionisti-ha-parlato-con-putin-e-zelensky_607a8b47-20d9-468b-bafa-e674088f6eed.html",
-     "data": "2026-10-24T21:13:24+00:00"
-    },
-    {
-     "titolo": "Trump, 'faremo affari con Russia e Ucraina una volta finita la guerra'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/trump-faremo-affari-con-russia-e-ucraina-una-volta-finita-la-guerra_5f8419a2-0f16-48e5-9726-91d4d0a2f2c6.html",
-     "data": "2026-10-24T21:01:06+00:00"
-    },
-    {
-     "titolo": "Donald Trump ha votato in Florida per le midterm",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/donald-trump-ha-votato-in-florida-per-le-midterm_15b3dad0-f041-4862-abb6-3c464c6b42a3.html",
-     "data": "2026-10-24T20:18:13+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Da organizzazioni agricoltori apprezzamento alla Regione sui fondi contro caro gasolio",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/25/da-organizzazioni-agricoltori-apprezzamento-alla-regione-sui-fondi-contro-caro-gasolio_00ee5330-ff8d-4a9b-b316-54779bbc61e3.html",
+     "data": "2026-10-25T13:52:06+00:00"
+    },
+    {
+     "titolo": "Il Papa, 'le guerre impoveriscono e danneggiano il mondo'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/25/il-papa-le-guerre-impoveriscono-e-danneggiano-il-mondo_0320d104-c413-413f-9969-c9edae0100c8.html",
+     "data": "2026-10-25T11:29:05+00:00"
+    },
+    {
+     "titolo": "All'ospedale di Perugia aumentano le prestazioni erogate",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/25/allospedale-di-perugia-aumentano-le-prestazioni-erogate_f37ad50b-12c7-4142-be30-a11db8f9ac08.html",
+     "data": "2026-10-25T10:56:17+00:00"
+    },
+    {
+     "titolo": "Umbria Civica, Fiorucci tradisce il rapporto di fiducia con chi lo ha voluto sindaco",
+     "link": "https://www.ansa.it/umbria/notizie/2026/10/25/umbria-civica-fiorucci-tradisce-il-rapporto-di-fiducia-con-chi-lo-ha-voluto-sindaco_12a56e55-41cb-489f-9ae9-35ba6efede3c.html",
+     "data": "2026-10-25T10:34:57+00:00"
+    },
     {
      "titolo": "Tornate a Corciano le spoglie del caporal maggiore Mariuccini, morto in guerra",
      "link": "https://www.ansa.it/umbria/notizie/2026/10/24/tornate-a-corciano-le-spoglie-del-caporal-maggiore-mariuccini-morto-in-guerra_52dc3b49-b686-4838-9f68-01b3652bd14b.html",
@@ -73,7 +93,7 @@
     {
      "titolo": "Sindaca Perugia, le istituzioni ascoltino i giovani pacifici nelle piazze",
      "link": "https://www.ansa.it/umbria/notizie/2026/10/24/sindaca-perugia-le-istituzioni-ascoltino-i-giovani-pacifici-nelle-piazze_f60564b6-9d69-4c29-8a0d-9d7d74bb9588.html",
-     "data": "2026-10-24T15:25:21+00:00"
+     "data": "2026-10-25T10:35:29+00:00"
     },
     {
      "titolo": "Studenti in piazza nel centro di Perugia, 'Ascoltateci non ignorateci'",
@@ -99,26 +119,6 @@
      "titolo": "Quartapelle (Pd), in Ucraina l'Europa ha fatto tanto, tantissimo",
      "link": "https://www.ansa.it/umbria/notizie/2026/10/24/quartapelle-pd-in-ucraina-leuropa-ha-fatto-tanto-tantissimo_0734d576-996a-4a35-80ee-d1b9357b584e.html",
      "data": "2026-10-24T12:47:21+00:00"
-    },
-    {
-     "titolo": "Coldiretti, lo stanziamento della Regione va nella direzione da noi indicata",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/24/coldiretti-lo-stanziamento-della-regione-va-nella-direzione-da-noi-indicata_f2b02da2-5c08-44d7-8759-2d4119625162.html",
-     "data": "2026-10-24T12:40:48+00:00"
-    },
-    {
-     "titolo": "Quartapelle (Pd), non limitiamo le primarie a un referendum tra due leader",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/24/quartapelle-pd-non-limitiamole-a-un-referendum-tra-due-leader_f3493b30-bc17-4d5c-ad72-cc1e538752cb.html",
-     "data": "2026-10-24T12:47:13+00:00"
-    },
-    {
-     "titolo": "In Umbria il saldo trimestrale delle imprese è positivo ma è lento rispetto all'Italia",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/24/in-umbria-il-saldo-trimestrale-delle-imprese-e-positivo-ma-e-lento-rispetto-allitalia_d4a4099a-67e0-40d9-ae9e-d7eba1843709.html",
-     "data": "2026-10-24T11:20:09+00:00"
-    },
-    {
-     "titolo": "Dalla Regione \"intervento straordinario\" per sostenere le imprese agricole",
-     "link": "https://www.ansa.it/umbria/notizie/2026/10/24/dalla-regione-intervento-straordinario-per-sostenere-le-imprese-agricole_96f9adca-76bf-43ed-8552-125f87d9b46c.html",
-     "data": "2026-10-24T08:45:27+00:00"
     }
    ]
   },
@@ -126,70 +126,85 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Cerca di fermare la lite tra due donne, un uomo viene accoltellato",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/cerca-di-fermare-la-lite-tra-due-donne-un-uomo-viene-accoltellato_4f424d6b-21cb-4895-a444-3216b2862b24.html",
-     "data": "2026-10-25T09:14:07+00:00"
+     "titolo": "Ultime piogge al Sud e neve sulle Alpi, da martedì tempo stabile",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/ultime-piogge-al-sud-e-neve-sulle-alpi-da-martedi-tempo-stabile_7227983c-9df3-4bbe-a8fd-a74d5d669001.html",
+     "data": "2026-10-25T13:10:27+00:00"
     },
     {
-     "titolo": "Festival Regioni: Fedriga, 'temi dai territori al futuro del Paese'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/festival-regioni-fedriga-temi-dai-territori-al-futuro-del-paese_053e47c5-e679-452f-a686-29b071190359.html",
-     "data": "2026-10-25T08:53:59+00:00"
+     "titolo": "Madre e figlio trovati morti in casa in Molise",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/madre-e-figlio-trovati-morti-in-casa-in-molise_c9d157ce-dfb1-42c0-b028-ff9ee83bd11f.html",
+     "data": "2026-10-25T12:18:25+00:00"
     },
     {
-     "titolo": "Fermato Youssef Siher, la mente della pagina Movimento 17 ottobre IL PROFILO",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/fermato-youssef-siher-la-mente-della-pagina-movimento-17-ottobre-il-profilo_7ea4ecc5-fc85-49fe-b151-c71e6855e75d.html",
-     "data": "2026-10-25T08:58:01+00:00"
+     "titolo": "Incendio in una casa a Riccò del Golfo, muore 70enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/incendio-in-una-casa-a-ricco-del-golfo-muore-70enne_55d23362-3410-4b22-959f-4123c9313a08.html",
+     "data": "2026-10-25T11:49:03+00:00"
     },
     {
-     "titolo": "Cortei e tensioni, scontri a Torino. Incursione al Colosseo. Meloni: 'Sicurezza garantita'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/cortei-e-tensioni-scontri-a-torino.-incursione-al-colosseo.-meloni-sicurezza-garantita_a5328565-eeb0-4566-bf29-d289f2b330a3.html",
-     "data": "2026-10-25T09:04:30+00:00"
+     "titolo": "Agguato in Calabria, forse domani gli atti alla Dda di Catanzaro",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/agguato-in-calabria-forse-domani-gli-atti-alla-dda-di-catanzaro_467460d0-47ab-41da-84aa-a89d315df971.html",
+     "data": "2026-10-25T13:32:09+00:00"
     },
     {
-     "titolo": "Cortei in tutta Italia. Alta tensione a Torino - IL RACCONTO DELLA GIORNATA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/cortei-in-tutta-italia.-alta-tensione-a-torino-il-racconto-della-giornata_c947f80a-5c41-4c1b-bc3b-fe5603318029.html",
-     "data": "2026-10-24T22:24:48+00:00"
+     "titolo": "A Milano una normale domenica di shopping, 'ieri un sospiro di sollievo'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/a-milano-una-normale-domenica-di-shopping-ieri-un-sospiro-di-sollievo_a689f7e7-dc84-4455-b0e7-b16e39a8d054.html",
+     "data": "2026-10-25T11:28:21+00:00"
     },
     {
-     "titolo": "Scontri Milano, a Youssef Siher contestata anche l'ipotesi di terrorismo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/scontri-milano-a-youssef-siher-contestata-anche-lipotesi-di-terrorismo_6d2b6b05-eacf-4e63-9bc4-0c42dcd7e0e8.html",
-     "data": "2026-10-24T22:17:15+00:00"
+     "titolo": "Il Papa, 'le guerre impoveriscono e danneggiano il mondo'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/il-papa-le-guerre-impoveriscono-e-danneggiano-il-mondo_096e7905-f253-419d-bd17-357503cdb501.html",
+     "data": "2026-10-25T11:29:02+00:00"
     },
     {
-     "titolo": "Scontri a Milano, fermato Youssef Siher 'mente' del Movimento 17 ottobre",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/scontri-a-milano-fermato-youssef-siher-mente-del-movimento-17-ottobre_e18967c4-35bf-4e74-a31c-2cbdf8b34324.html",
-     "data": "2026-10-24T21:43:19+00:00"
+     "titolo": "Diffonde appello a raduno non autorizzato, 17enne perquisito e denunciato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/diffonde-appello-a-raduno-non-autorizzato-17enne-perquisito-e-denunciato_1c5861fb-6c6a-4781-9fc6-cb17a7dcb16e.html",
+     "data": "2026-10-25T11:22:58+00:00"
     },
     {
-     "titolo": "Cortei di protesta da Roma a Milano TUTTI I VIDEO",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/cortei-di-protesta-da-roma-a-milano-tutti-i-video_2bb860a1-c867-4ceb-aabb-2889ee1baa7b.html",
-     "data": "2026-10-24T20:28:42+00:00"
+     "titolo": "Ladri in casa del calciatore del Napoli Allison Santos, rubati gioielli",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/ladri-in-casa-del-calciatore-del-napoli-allison-santos-rubati-gioielli_76ba3df2-749f-4e40-aabf-e6f022a901a9.html",
+     "data": "2026-10-25T13:26:28+00:00"
     },
     {
-     "titolo": "Piantedosi, 'isolati violenti, non c'è spazio per chi agisce nell'impunità",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/piantedosi-isolati-violenti-non-ce-spazio-per-chi-agisce-nellimpunita_ba5d2670-da81-45cc-a34b-5ccf4f061f2e.html",
-     "data": "2026-10-24T19:27:38+00:00"
+     "titolo": "Carceri: circa un centinaio i nuovi detenuti al 41 bis ad Alessandria",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/carceri-circa-un-centinaio-i-nuovi-detenuti-al-41-bis-ad-alessandria_39729727-4a8b-423a-8905-046dafd1315a.html",
+     "data": "2026-10-25T13:52:03+00:00"
     },
     {
-     "titolo": "Cortei in Italia, quasi 5mila identificati, 371 fermati, 110 sono minori",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/cortei-in-italia-quasi-5mila-identificati-371-fermati-110-sono-minori_e0122321-4d8b-4b24-8cc8-22fc17f0f290.html",
-     "data": "2026-10-24T19:25:10+00:00"
+     "titolo": "Accoltellato durante una lite nel Vicentino, donna arrestata",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/accoltellato-durante-una-lite-nel-vicentino-donna-arrestata_139db125-8c31-429e-b7fd-33c000fb97e5.html",
+     "data": "2026-10-25T10:35:29+00:00"
     },
     {
-     "titolo": "Sciolto il corteo a Torino dopo un fitto lancio di lacrimogeni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/sciolto-il-corteo-a-torino-dopo-un-fitto-lancio-di-lacrimogeni_fb56d59d-479f-4377-9fd3-356110ee9534.html",
-     "data": "2026-10-24T18:57:05+00:00"
+     "titolo": "Anche la moglie di Youssef Siher indagata per istigazione a delinquere",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/anche-la-moglie-di-youssef-siher-indagata-per-istigazione-a-delinquere_89ebba48-4419-4e3f-a9d3-345d9fce928a.html",
+     "data": "2026-10-25T10:19:12+00:00"
     },
     {
-     "titolo": "Sassi e bottiglie contro gli agenti, a Torino usati idrante e lacrimogeni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/sassi-e-bottiglie-contro-gli-agenti-a-torino-usati-idrante-e-lacrimogeni_7b5c46c5-9269-45f4-a219-426d6c987d04.html",
-     "data": "2026-10-24T18:26:37+00:00"
+     "titolo": "Domani la richiesta di convalida del fermo per Youssef Siher. Anche la moglie è indagata",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/domani-la-richiesta-di-convalida-del-fermo-per-youssef-sehir-tra-le-accuse_dde34ca0-69ba-4c10-86ed-1c191da76dca.html",
+     "data": "2026-10-25T12:35:19+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Salvini riconfermato segretario della Lega con 465 voti contro i 146 di Garavaglia",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-riconfermato-segretario-della-lega-con-465-voti-contro-i-146_bcf46509-0de0-4534-8ceb-a67876aeff8b.html",
+     "data": "2026-10-25T13:55:22+00:00"
+    },
+    {
+     "titolo": "Schlein, con gli alleati faremo in fretta, manca l'ultimo miglio",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/25/schlein-con-gli-alleati-faremo-in-fretta-manca-lultimo-miglio_598626db-d4d8-46f7-8dd6-934e20753907.html",
+     "data": "2026-10-25T13:01:00+00:00"
+    },
+    {
+     "titolo": "Salvini, se confermato segretario dirò in Cdm stop soldi e armi all'Ucraina",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-se-confermato-segretario-diro-in-cdm-stop-soldi-e-armi-allucraina_9a1272aa-0e3f-43eb-a93a-15c8cc65a7ce.html",
+     "data": "2026-10-25T12:29:18+00:00"
+    },
     {
      "titolo": "Meloni, con le nuove misure libertà di manifestare senza città a ferro e fuoco",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/24/meloni-con-le-nuove-misure-liberta-di-manifestare-senza-citta-a-ferro-e-fuoco_a6d9d160-b5ce-4a21-8728-34688b1272f9.html",
@@ -229,22 +244,27 @@
      "titolo": "Al congresso della Lega sotto accusa il 'ribelle' Romeo, in ballo un ruolo per Zaia",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/24/attacco-a-romeo-al-congresso-lega-no-a-diatribe-personali_2df1fea2-8d5f-4ea0-a6d9-771170bc06ff.html",
      "data": "2026-10-24T20:09:03+00:00"
-    },
-    {
-     "titolo": "Salvini in centro a Milano incontra i commercianti e i parà",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/24/salvini-in-centro-a-milano-incontra-i-commercianti-e-i-para_b165a64a-2e7f-4be0-9498-68530e591e9f.html",
-     "data": "2026-10-24T09:56:12+00:00"
-    },
-    {
-     "titolo": "L'Anm: 'Il decreto sicurezza una scorciatoia miope'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/24/lanm-miope-rispondere-con-nuovi-reati-alle-notizie-di-cronaca-_509df304-dee2-48f3-b678-73baa0eb1cf0.html",
-     "data": "2026-10-24T14:24:53+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Allarme Nobel Economia, 'welfare a rischio, serve un nuovo patto sociale'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/25/allarme-nobel-economia-welfare-a-rischio-serve-un-nuovo-patto-sociale_956ca30e-4216-40c2-95ea-abb99e167c37.html",
+     "data": "2026-10-25T13:16:48+00:00"
+    },
+    {
+     "titolo": "Italia all'Ue, 'estendere aiuti mirati Pac anche ai rincari dei carburanti'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/25/italia-allue-estendere-aiuti-mirati-pac-anche-ai-rincari-dei-carburanti_fa4f71b5-492a-4db4-8c1a-d93c184d3dc1.html",
+     "data": "2026-10-25T12:01:39+00:00"
+    },
+    {
+     "titolo": "Audi va in Usa e investe 4 miliardi di dollari per un impianto in Georgia",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/25/audi-va-in-usa-e-investe-4-miliardi-di-dollari-per-un-impianto-in-georgia_17086dd0-0dc7-4052-890a-5068be132fef.html",
+     "data": "2026-10-25T10:48:45+00:00"
+    },
     {
      "titolo": "E' tornata l'ora solare, lancette indietro di un'ora",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/25/e-tornata-lora-solare-lancette-indietro-di-unora_3b0f87be-a16f-4cd2-9b08-287a81c83690.html",
@@ -269,47 +289,32 @@
      "titolo": "'Il futuro non è un algoritmo', la libertà di scelta nell'era digitale",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/24/il-futuro-non-e-un-algoritmo-la-liberta-di-scelta-nellera-digitale_2ba97e14-f332-4bd8-91b0-54349aee0a0a.html",
      "data": "2026-10-24T13:15:19+00:00"
-    },
-    {
-     "titolo": "Laura Mattarella, 134 anni per la parità, l'Ia può accelerare il cambiamento",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/24/laura-mattarella-134-anni-per-la-parita-lia-puo-accelerare-il-cambiamento_6951e83c-17a2-4c59-b41d-e37137f8cd83.html",
-     "data": "2026-10-24T11:24:20+00:00"
-    },
-    {
-     "titolo": "In Italia divario genere nei redditi oltre il 40%, al via il Women Economic Forum",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/24/in-italia-divario-genere-nei-redditi-oltre-il-40-al-via-il-women-economic-forum_fbb7be15-d8a2-4474-b2b6-e88c1d0406f5.html",
-     "data": "2026-10-24T11:22:01+00:00"
-    },
-    {
-     "titolo": "Il prezzo della pasta scende, in due anni -23,7%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/24/il-prezzo-della-pasta-scende-in-due-anni-237_b3e33e4e-503d-462b-b999-9c6b6a180ead.html",
-     "data": "2026-10-24T09:59:39+00:00"
-    },
-    {
-     "titolo": "In Italia la disuguaglianza sui redditi ai minimi dal 2014, ma resta oltre l'Ue",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/24/eurostat-disuguaglianza-redditi-in-italia-ai-minimi-da-2014-ma-resta-oltre-media-ue_51cebd88-4753-4d67-b0f0-bbc25a46d832.html",
-     "data": "2026-10-24T16:47:05+00:00"
-    },
-    {
-     "titolo": "Giorgetti, coperta è corta, pesano materie prime e tassi sul debito",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/24/giorgetti-coperta-e-corta-pesano-materie-prime-e-tassi-sul-debito_12227c2a-dec4-4f8f-bb11-594380e150c6.html",
-     "data": "2026-10-24T09:40:53+00:00"
-    },
-    {
-     "titolo": "++ Eurostat, disuguaglianza redditi in Italia ai minimi da 2014 ma resta oltre media Ue ++",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/24/eurostat-disuguaglianza-redditi-in-italia-ai-minimi-da-2014-ma-resta-oltre-media-ue_1c1bff46-bdcc-4101-82ad-85a380f9b398.html",
-     "data": "2026-10-24T08:50:49+00:00"
-    },
-    {
-     "titolo": "Offerta asili nido cresce ma copertura non supera il 40%; al Sud resta al 19%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/24/offerta-asili-nido-cresce-ma-copertura-non-supera-il-40-al-sud-resta-al-19_8097c665-b670-4f98-8b33-6582e5aa394a.html",
-     "data": "2026-10-24T08:38:22+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Messico, Scarano guida l'Orchestra dello Yucatán a Bellas Artes",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/25/messico-scarano-guida-lorchestra-dello-yucatan-a-bellas-artes_268bfb7c-111d-4a2a-9ad1-92def03dbcf9.html",
+     "data": "2026-10-25T13:48:30+00:00"
+    },
+    {
+     "titolo": "Putin, accusarci per i disordini segno di debolezza e incapacità dei leader europei",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/25/putin-accusarci-per-i-disordini-segno-di-debolezza-e-incapacita-dei-leader-europei_78a82cc2-9ec3-4ae0-9749-c61fa5f73afa.html",
+     "data": "2026-10-25T11:20:09+00:00"
+    },
+    {
+     "titolo": "Zelensky, 4 morti e 22 feriti in attacchi nella regione di Dnipro",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/25/zelensky-4-morti-e-22-feriti-in-attacchi-nella-regione-di-dnipro_51079a23-6dea-40e3-a3c0-d6c84a14aed7.html",
+     "data": "2026-10-25T11:18:50+00:00"
+    },
+    {
+     "titolo": "Brasile, urne aperte per il ballottaggio presidenziale tra Lula e Bolsonaro",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/25/brasile-urne-aperte-per-il-ballottaggio-presidenziale-tra-lula-e-bolsonaro_b7f1e807-d0ce-42f9-b9bc-6546ab016f3b.html",
+     "data": "2026-10-25T11:02:22+00:00"
+    },
     {
      "titolo": "Urne aperte in Serbia, sfida tra Movimento studenti e l'uscente Vucic",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/25/urne-aperte-in-serbia-sfida-tra-movimento-studenti-e-luscente-vucic_c7592667-2179-4481-aa4e-ab91aed52f0e.html",
@@ -349,26 +354,6 @@
      "titolo": "Trump, 'faremo affari con Russia e Ucraina una volta finita la guerra'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/24/trump-faremo-affari-con-russia-e-ucraina-una-volta-finita-la-guerra_0f62e13f-f3b2-4772-95c1-4697e1b987ef.html",
      "data": "2026-10-24T21:00:52+00:00"
-    },
-    {
-     "titolo": "Donald Trump ha votato in Florida per le midterm",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/24/donald-trump-ha-votato-in-florida-per-le-midterm_af8d87bc-b202-432d-8947-d183c363d14a.html",
-     "data": "2026-10-24T20:18:33+00:00"
-    },
-    {
-     "titolo": "Obama, 'Trump e Hegseth non sono persone serie e gli americani pagano'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/24/obama-trump-e-hegseth-non-sono-persone-serie-e-gli-americani-pagano_0c7eb8fe-b208-41b8-87d9-6488fa4a8517.html",
-     "data": "2026-10-24T19:14:24+00:00"
-    },
-    {
-     "titolo": "Violenti scontri nel centro di Tirana fra polizia e manifestanti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/24/violenti-scontri-nel-centro-di-tirana-fra-polizia-e-manifestanti_f5ef36e8-9464-4be8-96b5-d535f3e161b6.html",
-     "data": "2026-10-24T18:04:39+00:00"
-    },
-    {
-     "titolo": "La tempesta Boelo colpisce il Regno Unito, viaggi interrotti ed eventi cancellati",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/24/la-tempesta-boelo-colpisce-il-regno-unito-viaggi-interrotti-ed-eventi-cancellati_9200372a-59c1-44d6-85fd-dfdcadde5059.html",
-     "data": "2026-10-24T18:04:00+00:00"
     }
    ]
   },
@@ -441,6 +426,56 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: Atalanta-Frosinone 0-0 DIRETTA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/25/serie-a-atalanta-frosinone-0-0-diretta-e-foto_a77748e3-d2d7-4936-94c2-0fa83f6041ae.html",
+     "data": "2026-10-25T13:51:19+00:00"
+    },
+    {
+     "titolo": "Serie A: in campo Genoa-Venezia 0-0 DIRETTA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/25/serie-a-in-campo-genoa-venezia-0-0-diretta-e-foto_8281ba6c-093d-4744-bf02-f494358d50e2.html",
+     "data": "2026-10-25T13:43:45+00:00"
+    },
+    {
+     "titolo": "Doppio trionfo keniano alla 47a edizione della Venicemarathon",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/25/doppio-trionfo-keniano-alla-47a-edizione-della-venicemarathon_3234d571-9e9a-44f5-85ff-4fff46a946c0.html",
+     "data": "2026-10-25T13:38:25+00:00"
+    },
+    {
+     "titolo": "Serie A: Inter batte Fiorentina 2-1 con un rigore al 90'+7 CRONACA E FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/25/serie-a-inter-batte-fiorentina-2-1-con-un-rigore-al-907-cronaca-e-foto_9d15e23a-75af-48ea-b319-406e416cd6ed.html",
+     "data": "2026-10-25T13:41:14+00:00"
+    },
+    {
+     "titolo": "Serie A: Inter-Fiorentina 2-1",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/25/serie-a-inter-fiorentina-2-1_4a238f03-d5f1-44d0-9e12-8a194ca08b12.html",
+     "data": "2026-10-25T13:33:47+00:00"
+    },
+    {
+     "titolo": "Calcio: Guehi non si inginocchia, iniziativa fischiata a Stamford Bridge",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/25/calcio-guehi-non-si-inginocchia-iniziativa-fischiata-a-stamford-bridge_665e4a94-ca39-44ca-ab2f-0926ff887557.html",
+     "data": "2026-10-25T13:15:28+00:00"
+    },
+    {
+     "titolo": "Pesi: la Federazione internazionale, Mondiali in Russia nel 2030",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/25/pesi-la-federazione-internazionale-mondiali-in-russia-nel-2030_5760a9c4-7240-4a56-8f69-70366fb6aa13.html",
+     "data": "2026-10-25T12:58:54+00:00"
+    },
+    {
+     "titolo": "Fifa: Infantino difende la ricandidatura, sostenuta \"a stragrande maggioranza\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/25/fifa-infantino-difende-la-ricandidatura-sostenuta-a-stragrande-maggioranza_28fa9300-0127-4710-a52e-7851606f534f.html",
+     "data": "2026-10-25T11:38:29+00:00"
+    },
+    {
+     "titolo": "Naomi Osaka, potrei lasciare il tennis se mia figlia me lo chiedesse",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/25/naomi-osaka-potrei-lasciare-il-tennis-se-mia-figlia-me-lo-chiedesse_1472539e-fa56-410d-b356-ce041c6c292d.html",
+     "data": "2026-10-25T10:44:18+00:00"
+    },
+    {
+     "titolo": "Real Madrid, Courtois salta la sfida con il Barcellona",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/25/real-madrid-courtois-salta-la-sfida-con-il-barcellona_1151a1f8-14eb-44c5-b7c6-b072fb709835.html",
+     "data": "2026-10-25T10:29:18+00:00"
+    },
+    {
      "titolo": "Nba: Philadelphia vince ancora, si sblocca San Antonio",
      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/25/nba-philadelphia-vince-ancora-si-sblocca-san-antonio_be9157de-6317-4899-affd-82a57b91b038.html",
      "data": "2026-10-25T06:45:51+00:00"
@@ -449,56 +484,6 @@
      "titolo": "Inarrestabile Kimi si prende la pole ad Austin: 'Voglio vincere'",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/25/inarrestabile-kimi-si-prende-la-pole-ad-austin-voglio-vincere_e75bf53d-214a-44e7-9fae-da5ded693b7a.html",
      "data": "2026-10-24T22:36:35+00:00"
-    },
-    {
-     "titolo": "F1: Austin, Antonelli 'domani cercherò di vincere il Gp'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/25/f1-austin-antonelli-domani-cerchero-di-vincere-il-gp_5857b688-c8d6-48cb-87cb-d0d219c808be.html",
-     "data": "2026-10-24T22:12:48+00:00"
-    },
-    {
-     "titolo": "F1: Australia, Antonelli conquista la pole position",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/25/f1-australia-antonelli-conquista-la-pole-position_80c6626a-aba0-406c-9741-432faa79bc92.html",
-     "data": "2026-10-24T22:07:18+00:00"
-    },
-    {
-     "titolo": "La Lazio batte il Parma 2-1 e per una notte è prima in solitaria CRONACA e FOTO",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/24/la-lazio-batte-il-parma-2-1-e-per-una-notte-e-prima-in-solitaria-cronaca-e-foto_d0b994f1-a702-4064-bfda-9f7f315d0ce2.html",
-     "data": "2026-10-25T07:28:42+00:00"
-    },
-    {
-     "titolo": "La Lazio batte il Parma e balza in testa alla classifica",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/24/la-lazio-batte-il-parma-e-balza-in-testa-alla-classifica_d531d069-a718-421f-988d-73995fa87b32.html",
-     "data": "2026-10-24T20:54:06+00:00"
-    },
-    {
-     "titolo": "Tamberi nominato atleta europeo dell'anno \"stagione incredibile\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/24/tamberi-nominato-atleta-europeo-dellanno-stagione-incredibile_40734aaa-c1e7-478b-bace-e357d9804e4f.html",
-     "data": "2026-10-24T19:37:19+00:00"
-    },
-    {
-     "titolo": "Show al Maradona tra Napoli e Roma, termina 3-3 LA CRONACA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/24/show-al-maradona-tra-napoli-e-roma-termina-3-3-la-cronaca_a2424423-eb0f-4a4d-92b6-40d67458049a.html",
-     "data": "2026-10-24T19:04:41+00:00"
-    },
-    {
-     "titolo": "Allegri, 'Fatta buona partita, con questo spirito risaliamo la classifica'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/24/allegri-fatta-buona-partita-con-questo-spirito-risaliamo-la-classifica_cd2f7165-d189-4532-b4cd-2e0fbd553e03.html",
-     "data": "2026-10-24T18:53:33+00:00"
-    },
-    {
-     "titolo": "Hamilton domina le terze libere ad Austin, Antonelli è quarto",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/24/hamilton-domina-le-terze-libere-ad-austin-antonelli-e-quarto_bc7fdcd9-1e7b-4266-bb20-4f00e3366645.html",
-     "data": "2026-10-24T18:43:38+00:00"
-    },
-    {
-     "titolo": "Premier: primo ko del Manchester City di Maresca, L'Arsenal lo aggancia in vetta",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/24/premier-primo-ko-del-manchester-city-di-maresca-larsenal-lo-aggancia-in-vetta_27da02f6-aacc-4ab7-9001-0945a6e23024.html",
-     "data": "2026-10-24T18:31:43+00:00"
-    },
-    {
-     "titolo": "Premier: l'Arsenal batte l'Everton e aggancia il City in vetta",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/24/premier-larsenal-batte-leverton-e-aggancia-il-city-in-vetta_65853774-1640-4c90-a050-4ec0fc8221cf.html",
-     "data": "2026-10-24T18:28:19+00:00"
     }
    ]
   }
