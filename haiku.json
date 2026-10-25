@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-24T08:29:21.589939+00:00",
- "data": "2026-10-24",
- "testo": "Rovescio lieve\nsull'inferriata arrugginita\ntrema una ragnatela",
- "nota": "Dopo la pioggia leggera, una ragnatela carica d'acqua su una vecchia inferriata.",
+ "aggiornato": "2026-10-25T08:49:03.279462+00:00",
+ "data": "2026-10-25",
+ "testo": "Nebbia fitta\ndal campanile smorzato\ncade una nota",
+ "nota": "Il suono della campana domenicale ovattato dalla nebbia mattutina.",
  "archivio": [
+  {
+   "data": "2026-10-25",
+   "testo": "Nebbia fitta\ndal campanile smorzato\ncade una nota",
+   "nota": "Il suono della campana domenicale ovattato dalla nebbia mattutina."
+  },
   {
    "data": "2026-10-24",
    "testo": "Rovescio lieve\nsull'inferriata arrugginita\ntrema una ragnatela",
@@ -448,11 +453,6 @@
    "data": "2026-07-28",
    "testo": "Grano già mietuto\nsulle colline dorate\ntremola la calura",
    "nota": "Ho osservato i campi di stoppie dopo il raccolto vibrare nell'afa del pomeriggio."
-  },
-  {
-   "data": "2026-07-27",
-   "testo": "Fico spaccato\nsul davanzale di pietra\nbrusio di vespe",
-   "nota": "Un fico maturo lasciato al sole, con le vespe che gli ronzano intorno."
   }
  ]
 }
