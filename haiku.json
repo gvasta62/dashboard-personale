@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-25T08:49:03.279462+00:00",
- "data": "2026-10-25",
- "testo": "Nebbia fitta\ndal campanile smorzato\ncade una nota",
- "nota": "Il suono della campana domenicale ovattato dalla nebbia mattutina.",
+ "aggiornato": "2026-10-26T09:29:27.381798+00:00",
+ "data": "2026-10-26",
+ "testo": "Aria ferma e grigia\nsotto il portico deserto\nscricchiola una panca",
+ "nota": "Nel portico vuoto una panca di legno cigola al freddo immobile del mattino.",
  "archivio": [
+  {
+   "data": "2026-10-26",
+   "testo": "Aria ferma e grigia\nsotto il portico deserto\nscricchiola una panca",
+   "nota": "Nel portico vuoto una panca di legno cigola al freddo immobile del mattino."
+  },
   {
    "data": "2026-10-25",
    "testo": "Nebbia fitta\ndal campanile smorzato\ncade una nota",
@@ -448,11 +453,6 @@
    "data": "2026-07-29",
    "testo": "Persiane socchiuse\nuna lama di sole\nsul pavimento",
    "nota": "Mezzogiorno d'estate, la luce forte filtra dalle imposte chiuse contro il caldo."
-  },
-  {
-   "data": "2026-07-28",
-   "testo": "Grano già mietuto\nsulle colline dorate\ntremola la calura",
-   "nota": "Ho osservato i campi di stoppie dopo il raccolto vibrare nell'afa del pomeriggio."
   }
  ]
 }
