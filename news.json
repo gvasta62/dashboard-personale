@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-10-25T22:07:02.164426+00:00",
+ "aggiornato": "2026-10-26T00:29:35.006803+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,39%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/borsa-tokyo-apertura-in-calo-039_459aaf02-2b44-42b7-b7c0-d72e2fba559f.html",
+     "data": "2026-10-26T00:27:46+00:00"
+    },
+    {
+     "titolo": "Lula rieletto presidente del Brasile",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/lula-rieletto-presidente-del-brasile_0c170807-4490-4d00-a1e7-a8a31221841c.html",
+     "data": "2026-10-26T00:22:25+00:00"
+    },
+    {
+     "titolo": "Proiezione di Datafolha: 'Lula ha vinto'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/proiezione-di-datafolha-lula-ha-vinto_8d6195f3-d2fe-4277-9be9-bf01f01bec72.html",
+     "data": "2026-10-26T00:07:12+00:00"
+    },
     {
      "titolo": "Antonelli vince ad Austin, il Mondiale è a un passo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/antonelli-vince-ad-austin-il-mondiale-e-a-un-passo_9008b7c4-3fdd-414d-8686-72c526b40d22.html",
@@ -39,21 +54,6 @@
      "titolo": "Trump, 'Obama presidente incompetente e ora sostiene un jihadista anti-semita'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/trump-obama-presidente-incompetente-e-ora-sostiene-un-jihadista-anti-semita_911038c4-7e8e-46b8-9e18-f0f0776bf44a.html",
      "data": "2026-10-25T18:09:23+00:00"
-    },
-    {
-     "titolo": "Media, 'scontro fra bus e auto vicino Barcellona, 40 feriti di cui 20 gravi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/media-scontro-fra-bus-e-auto-vicino-barcellona-40-feriti-di-cui-20-gravi_52165a67-eb6c-4289-a660-5ab0e866465a.html",
-     "data": "2026-10-25T17:55:00+00:00"
-    },
-    {
-     "titolo": "Il premier albanese Rama vuole rendere più severa la gestione delle manifestazioni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/il-premier-albanese-rama-vuole-rendere-piu-severa-la-gestione-delle-manifestazioni_05e4bb9f-e7d6-4155-baa8-f7d0a52ee9c3.html",
-     "data": "2026-10-25T17:02:14+00:00"
-    },
-    {
-     "titolo": "Trump, 'Macron sta distruggendo la Francia, con i migranti'. E cita anche l'Italia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/trump-macron-sta-distruggendo-la-francia-con-i-migranti.-e-cita-anche-litalia_6fd7984a-421b-40af-b945-be9904a23b03.html",
-     "data": "2026-10-25T16:55:11+00:00"
     }
    ]
   },
@@ -256,9 +256,14 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Lmdv Media avvia una due diligence sulla Società Editoriale Il Fatto per un'opa",
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,39%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/borsa-tokyo-apertura-in-calo-039_574ee551-421a-408e-8682-b762f7f52296.html",
+     "data": "2026-10-26T00:27:43+00:00"
+    },
+    {
+     "titolo": "Lmdv Media due diligence su Seif per Opa. Soci maggioranza non cedono quote",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/25/lmdv-media-avvia-due-diligence-su-societa-editoriale-il-fatto-per-opa_49bbeaad-86d1-4f54-9ec6-f1574dcd41b1.html",
-     "data": "2026-10-25T20:13:32+00:00"
+     "data": "2026-10-25T22:12:10+00:00"
     },
     {
      "titolo": "Martedì la manovra, i partiti in pressing sulle misure",
@@ -290,6 +295,16 @@
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Lula rieletto presidente del Brasile",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/26/lula-rieletto-presidente-del-brasile_ecfd4be2-c275-4e06-95aa-992c12eb414e.html",
+     "data": "2026-10-26T00:22:41+00:00"
+    },
+    {
+     "titolo": "Proiezione di Datafolha: 'Lula ha vinto'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/26/proiezione-di-datafolha-lula-ha-vinto_bfb0b5db-14dc-4ec8-a0ef-56ce83fd3dea.html",
+     "data": "2026-10-26T00:07:25+00:00"
+    },
     {
      "titolo": "Vucic, 'abbiamo perso le elezioni'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/25/vucic-abbiamo-perso-le-elezioni_3a7c746b-fad1-44a1-93e9-fc0c447a7970.html",
@@ -339,16 +354,6 @@
      "titolo": "Trump, 'Macron sta distruggendo la Francia, con i migranti'. E cita anche l'Italia",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/25/trump-macron-sta-distruggendo-la-francia-con-i-migranti.-e-cita-anche-litalia_4493c743-aefe-475c-a948-8071772637e4.html",
      "data": "2026-10-25T17:36:17+00:00"
-    },
-    {
-     "titolo": "Media, in Serbia affluenza record alle 17, oltre il 60%",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/25/media-in-serbia-affluenza-record-alle-17-oltre-il-60_3d8ebc8c-88cf-481f-bea0-5cb5d5e307b7.html",
-     "data": "2026-10-25T17:36:26+00:00"
-    },
-    {
-     "titolo": "Maria Corina Machado torna in Venezuela, 'sono qui tra voi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/25/maria-corina-machado-torna-in-venezuela-sono-qui-tra-voi_faf60f2d-c279-4adc-8126-ff967629e3e2.html",
-     "data": "2026-10-25T16:47:15+00:00"
     }
    ]
   },
@@ -421,6 +426,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Liga: il Real batte il Barca al Camp Nou",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/25/liga-il-real-batte-il-barca-al-camp-nou_00d1af8a-1687-4902-b046-21670c7a7317.html",
+     "data": "2026-10-25T22:12:35+00:00"
+    },
+    {
      "titolo": "Leclerc, non abbiamo vinto ma Gp Austin è stato positivo",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/25/leclerc-non-abbiamo-vinto-ma-gp-austin-e-stato-positivo_6b601223-3531-462f-9f15-b4f87e01a7ad.html",
      "data": "2026-10-25T22:03:18+00:00"
@@ -453,7 +463,7 @@
     {
      "titolo": "F1: Antonelli vince ad Austin, il Mondiale sempre più vicino",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/25/antonelli-vince-ad-austin-il-mondiale-e-a-un-passo_e75bf53d-214a-44e7-9fae-da5ded693b7a.html",
-     "data": "2026-10-25T21:58:19+00:00"
+     "data": "2026-10-25T23:32:58+00:00"
     },
     {
      "titolo": "Antonelli vince ad Austin, il Mondiale è a un passo",
@@ -474,11 +484,6 @@
      "titolo": "Lecce: Di Francesco, peccato non avere trovato la rete",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/25/lecce-di-francesco-peccato-non-avere-trovato-la-rete_091ed364-2d1e-4f26-918e-88f5191eed7e.html",
      "data": "2026-10-25T20:46:07+00:00"
-    },
-    {
-     "titolo": "Juve: Spalletti 'c'e stata consapevolezza ma dobbiamo mettere qualcosa in più",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/25/juve-spalletti-ce-stata-consapevolezza-ma-dobbiamo-mettere-qualcosa-in-piu_882d9b89-9c85-4193-acf8-56aeb2ad6b12.html",
-     "data": "2026-10-25T20:42:19+00:00"
     }
    ]
   }
