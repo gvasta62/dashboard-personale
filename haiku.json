@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-26T09:29:27.381798+00:00",
- "data": "2026-10-26",
- "testo": "Aria ferma e grigia\nsotto il portico deserto\nscricchiola una panca",
- "nota": "Nel portico vuoto una panca di legno cigola al freddo immobile del mattino.",
+ "aggiornato": "2026-10-27T09:26:22.070638+00:00",
+ "data": "2026-10-27",
+ "testo": "Sole tra le nubi\nsul banco del mercato\nrotola un melograno",
+ "nota": "Un melograno aperto che scivola sul banco in un pomeriggio a sprazzi di luce.",
  "archivio": [
+  {
+   "data": "2026-10-27",
+   "testo": "Sole tra le nubi\nsul banco del mercato\nrotola un melograno",
+   "nota": "Un melograno aperto che scivola sul banco in un pomeriggio a sprazzi di luce."
+  },
   {
    "data": "2026-10-26",
    "testo": "Aria ferma e grigia\nsotto il portico deserto\nscricchiola una panca",
@@ -448,11 +453,6 @@
    "data": "2026-07-30",
    "testo": "Fontana in piazza\nun bambino ci tuffa\nle mani scalze",
    "nota": "Un bambino che si rinfresca alla fontana nel pomeriggio caldo."
-  },
-  {
-   "data": "2026-07-29",
-   "testo": "Persiane socchiuse\nuna lama di sole\nsul pavimento",
-   "nota": "Mezzogiorno d'estate, la luce forte filtra dalle imposte chiuse contro il caldo."
   }
  ]
 }
