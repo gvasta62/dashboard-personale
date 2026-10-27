@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-10-26T21:44:40.616568+00:00",
+ "aggiornato": "2026-10-27T00:56:53.910583+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,44%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/borsa-tokyo-apertura-in-rialzo-044_efbc0c25-4b66-49fc-b6bc-d26bd3ad7af8.html",
+     "data": "2026-10-27T00:24:30+00:00"
+    },
+    {
+     "titolo": "Trump, 'partito del presidente non ottiene di solito buoni risultati alle midterm'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/trump-partito-del-presidente-non-ottiene-di-solito-buoni-risultati-alle_9c4648ee-c986-4091-ae7e-273eb3146cc5.html",
+     "data": "2026-10-26T23:47:21+00:00"
+    },
     {
      "titolo": "Flavio Bolsonaro, 'la polizia mi ha tolto il passaporto'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/flavio-bolsonaro-la-polizia-mi-ha-tolto-il-passaporto_79d74835-a94c-4db4-afdc-d9eeb3b698a3.html",
@@ -44,16 +54,6 @@
      "titolo": "Il gas in serata sale a 96,17 euro al megawattora",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/il-gas-in-serata-sale-a-9617-euro-al-megawattora_01531e09-3ed0-457d-becb-971d68fa7c8f.html",
      "data": "2026-10-26T17:34:37+00:00"
-    },
-    {
-     "titolo": "Pm Milano, i messaggi di Siher una dichiarazione di guerra continua",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/pm-milano-i-messaggi-di-siher-una-dichiarazione-di-guerra-continua_3d9b6f7a-35c4-4851-aa5d-e6d0b5e45e18.html",
-     "data": "2026-10-26T17:31:47+00:00"
-    },
-    {
-     "titolo": "Crosetto, la linea dell'Italia sull'Ucraina non può cambiare",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/crosetto-la-linea-dellitalia-sullucraina-non-puo-cambiare_082fb015-6f5e-4a83-b001-62d37d675b82.html",
-     "data": "2026-10-26T17:28:59+00:00"
     }
    ]
   },
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Gli alleati stoppano Salvini su Kiev, tensioni anche sul voto anticipato",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/26/gli-alleati-stoppano-salvini-su-kiev-tensioni-anche-sul-voto-anticipato_b41eeca9-3f34-44c2-958c-91dbda471622.html",
+     "data": "2026-10-26T22:15:38+00:00"
+    },
+    {
      "titolo": "Mercoledì il cdm sulla manovra. L'Ue risponde ma ancora nodi da sciogliere",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/26/mercoledi-il-cdm-sulla-manovra.-lue-risponde-ma-ancora-nodi-da-sciogliere_d8929f9e-cae5-4b75-a4ce-ccd9d2236aaf.html",
      "data": "2026-10-26T20:28:51+00:00"
@@ -244,17 +249,17 @@
      "titolo": "Mattarella, tutela Ssn assolutà priorità, diritto garantito da Costituzione",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/26/mattarella-tutela-ssn-assoluta-priorita-diritto-garantito-da-costituzione_a5ee0b53-de81-496e-9203-b5a02a437507.html",
      "data": "2026-10-26T11:21:23+00:00"
-    },
-    {
-     "titolo": "Mattarella, fake news manipolano già oggi l'informazione",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/26/mattarella-fake-news-manipolano-gia-oggi-linformazione_fb5f3d0f-3b5e-4e71-895e-4322e5020104.html",
-     "data": "2026-10-26T11:18:42+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,44%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/27/borsa-tokyo-apertura-in-rialzo-044_e8578d9d-f16b-4423-ac69-08b1a22c2e69.html",
+     "data": "2026-10-27T00:24:32+00:00"
+    },
     {
      "titolo": "L'aumento di Unipol per Mps sottoscritto al 98,4%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/laumento-di-unipol-per-mps-sottoscritto-al-984_60f8a881-668a-4d22-9d1c-391745552a32.html",
@@ -309,17 +314,22 @@
      "titolo": "La Commissione Ue ha risposto all'Italia sulla clausola di salvaguardia",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/la-commissione-ue-ha-risposto-allitalia-sulla-clausola-di-salvaguardia_399eb156-9a20-49a8-bfdd-3d2d36d91df0.html",
      "data": "2026-10-26T15:38:20+00:00"
-    },
-    {
-     "titolo": "Temu, il nostro piano punta a garantire agli utenti Ue un ambiente sicuro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/temu-il-nostro-piano-punta-a-garantire-agli-utenti-ue-un-ambiente-sicuro_a768f184-98c2-4c89-93e6-18541a9401b8.html",
-     "data": "2026-10-26T15:37:00+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Messico, Sheinbaum punta all'intesa tra Pemex e Petrobras dopo il voto in Brasile",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/27/messico-sheinbaum-punta-allintesa-tra-pemex-e-petrobras-dopo-il-voto-in-brasile_4e6aa393-7828-4571-91e8-b29f5f777cb0.html",
+     "data": "2026-10-27T00:49:50+00:00"
+    },
+    {
+     "titolo": "Trump, 'partito del presidente non ottiene di solito buoni risultati alle midterm'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/27/trump-partito-del-presidente-non-ottiene-di-solito-buoni-risultati-alle_4fb6b515-8452-4dd1-a45c-0885cd59b44a.html",
+     "data": "2026-10-26T23:47:39+00:00"
+    },
     {
      "titolo": "Flavio Bolsonaro, 'la polizia mi ha tolto il passaporto'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/26/flavio-bolsonaro-la-polizia-mi-ha-tolto-il-passaporto_387ff8af-46d2-4ff9-b385-be2c27b9eb80.html",
@@ -341,9 +351,9 @@
      "data": "2026-10-26T19:40:44+00:00"
     },
     {
-     "titolo": "Lula trionfa in Brasile, Bolsonaro: 'La polizia mi ha tolto il passaporto'",
+     "titolo": "Lula trionfa in Brasile, Trump: 'Il voto è stato truccato ma lui mi piace'",
      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/26/lula-trionfa-in-brasile-esplode-la-festa-ma-crollano-la-borsa-e-il-real_56cc4597-7350-4738-9bed-c5925ac6574d.html",
-     "data": "2026-10-26T21:13:49+00:00"
+     "data": "2026-10-26T22:12:11+00:00"
     },
     {
      "titolo": "Appello dell'Osa a misure preventive contro El Niño",
@@ -369,16 +379,6 @@
      "titolo": "Massari, la crescita dell'Europa non è una scelta ma una necessità",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/26/massari-la-crescita-delleuropa-non-e-una-scelta-ma-una-necessita_ec83691f-cb7a-47c9-90ea-3ff4419b3c72.html",
      "data": "2026-10-26T14:29:25+00:00"
-    },
-    {
-     "titolo": "La Borsa brasiliana crolla dopo la vittoria di Lula, sospese le contrattazioni",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/26/la-borsa-brasiliana-crolla-dopo-la-vittoria-di-lula-sospese-le-contrattazioni_f50fe25c-9e11-4535-9511-74cf3efe89a6.html",
-     "data": "2026-10-26T14:20:49+00:00"
-    },
-    {
-     "titolo": "Cremlino, 'tregua a Oleshky può essere precedente per altre iniziative'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/26/cremlino-tregua-a-oleshky-puo-essere-precedente-per-altre-iniziative_07e2e48e-f4a0-4752-8067-067b3b9fa6fc.html",
-     "data": "2026-10-26T11:26:12+00:00"
     }
    ]
   },
@@ -451,6 +451,36 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Kane vince il Pallone d'Oro, Putellas regina del calcio femminile",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/27/kane-vince-il-pallone-doro-putellas-regina-del-calcio-femminile_510822b0-f4c0-4722-80ea-f0097bd53971.html",
+     "data": "2026-10-26T23:08:13+00:00"
+    },
+    {
+     "titolo": "Pallone d'Oro: Herry Kane é il vincitore dell'edizione 2026",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/26/pallone-doro-herry-kane-e-il-vincitore-delledizione-2026_2840f0fb-a506-4cdc-b129-ccc474136eaa.html",
+     "data": "2026-10-26T22:55:36+00:00"
+    },
+    {
+     "titolo": "Pallone d'Oro: Alexia Putellas vince il premio come miglior giocatrice",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/26/pallone-doro-alexia-putellas-vince-il-premio-come-miglior-giocatrice_955159ea-3e0f-46b1-b647-5ec1e4c092f7.html",
+     "data": "2026-10-26T22:42:37+00:00"
+    },
+    {
+     "titolo": "Pallone d'Oro: il Paris Saint Germain miglior club maschile",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/26/pallone-doro-il-paris-saint-germain-miglior-club-maschile_0d2737f8-601c-47bb-97a0-3db51eedf889.html",
+     "data": "2026-10-26T22:09:58+00:00"
+    },
+    {
+     "titolo": "Pallone d'Oro: la Spagna fa incetta dei primi riconoscimenti",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/26/pallone-doro-la-spagna-fa-incetta-dei-primi-riconoscimenti_8c8681c0-e1d1-43fb-9ae0-9457cbc4134e.html",
+     "data": "2026-10-26T21:58:23+00:00"
+    },
+    {
+     "titolo": "Dall'Inghilterra, Sinner ha scelto Magnus Norman come prossimo coach",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/26/dallinghilterra-sinner-ha-scelto-magnus-norman-come-prossimo-coach_e5c02875-208a-4bbd-a30b-408f1d9c3350.html",
+     "data": "2026-10-26T21:38:37+00:00"
+    },
+    {
      "titolo": "Pallone d'Oro: De La Fuente miglior allenatore maschile",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/26/pallone-doro-de-la-fuente-miglior-allenatore-maschile_6e60c2da-8fa6-4991-aa38-9ed3495ab0dc.html",
      "data": "2026-10-26T21:29:18+00:00"
@@ -459,11 +489,6 @@
      "titolo": "Tennis: Vienna, Darderi batte Arnaldi in due set",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/26/tennis-vienna-darderi-batte-arnaldi-in-due-set_8ff7df9c-d300-449e-b688-3db0730fce0e.html",
      "data": "2026-10-26T20:38:26+00:00"
-    },
-    {
-     "titolo": "Si assegna il Pallone d'Oro, Messi non vola a Londra per la cerimonia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/26/si-assegna-il-pallone-doro-messi-non-vola-a-londra-per-la-cerimonia_510822b0-f4c0-4722-80ea-f0097bd53971.html",
-     "data": "2026-10-26T20:58:14+00:00"
     },
     {
      "titolo": "Due giornate di squalifica per Allegri. Il Napoli fa ricorso d'urgenza",
@@ -484,31 +509,6 @@
      "titolo": "Tennis: Alcaraz, felice di giocare anche con Sinner a Riad",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/26/tennis-alcaraz-felice-di-giocare-anche-con-sinner-a-riad_38d9e6bd-a9ef-4a67-b13e-54e2be5ca537.html",
      "data": "2026-10-26T18:58:42+00:00"
-    },
-    {
-     "titolo": "Conto alla rovescia per Antonelli, Wolff: 'Finiamo il lavoro in Messico'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/26/conto-alla-rovescia-per-antonelli-wolff-finiamo-il-lavoro-in-messico_afa8e702-8164-48dc-98d3-6ee62fa366f5.html",
-     "data": "2026-10-26T18:17:14+00:00"
-    },
-    {
-     "titolo": "Pallone d'Oro: Messi non vola a Londra per la cerimonia",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/26/pallone-doro-messi-non-vola-a-londra-per-la-cerimonia_31da9aec-b94b-4a06-b422-1f6665f316c3.html",
-     "data": "2026-10-26T18:20:42+00:00"
-    },
-    {
-     "titolo": "Pallone d'oro: Lautaro è ventiduesimo",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/26/pallone-doro-lautaro-e-ventiduesimo_3d37ccdc-d8aa-4193-a2ab-2610adcc1571.html",
-     "data": "2026-10-26T17:43:28+00:00"
-    },
-    {
-     "titolo": "Milan, lesione al flessore della coscia per Loftus-Cheek",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/26/milan-lesione-al-flessore-della-coscia-per-loftus-cheek_cd674edf-0040-4dba-8ae6-6a4d6c04f01b.html",
-     "data": "2026-10-26T17:23:46+00:00"
-    },
-    {
-     "titolo": "Pesi: Mondiale in Russia nel 2030, l'Ucraina annuncia ricorso al Cio",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/26/pesi-mondiale-in-russia-nel-2030-lucraina-annuncia-ricorso-al-cio_ba23b5a0-bdba-4769-bde0-594b1e0ff344.html",
-     "data": "2026-10-26T17:06:33+00:00"
     }
    ]
   }
