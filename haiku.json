@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-27T09:26:22.070638+00:00",
- "data": "2026-10-27",
- "testo": "Sole tra le nubi\nsul banco del mercato\nrotola un melograno",
- "nota": "Un melograno aperto che scivola sul banco in un pomeriggio a sprazzi di luce.",
+ "aggiornato": "2026-10-28T10:08:59.353105+00:00",
+ "data": "2026-10-28",
+ "testo": "Nuvole basse\nsul filo del telegrafo\nposa un colombo",
+ "nota": "Un colombo immobile sul filo, nel cielo coperto di fine ottobre.",
  "archivio": [
+  {
+   "data": "2026-10-28",
+   "testo": "Nuvole basse\nsul filo del telegrafo\nposa un colombo",
+   "nota": "Un colombo immobile sul filo, nel cielo coperto di fine ottobre."
+  },
   {
    "data": "2026-10-27",
    "testo": "Sole tra le nubi\nsul banco del mercato\nrotola un melograno",
@@ -448,11 +453,6 @@
    "data": "2026-07-31",
    "testo": "Asfalto che brucia\nun cane sotto il portico\nlingua penzoloni",
    "nota": "Un cane accaldato riposa all'ombra di un portico nel primo pomeriggio."
-  },
-  {
-   "data": "2026-07-30",
-   "testo": "Fontana in piazza\nun bambino ci tuffa\nle mani scalze",
-   "nota": "Un bambino che si rinfresca alla fontana nel pomeriggio caldo."
   }
  ]
 }
