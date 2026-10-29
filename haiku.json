@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-28T10:08:59.353105+00:00",
- "data": "2026-10-28",
- "testo": "Nuvole basse\nsul filo del telegrafo\nposa un colombo",
- "nota": "Un colombo immobile sul filo, nel cielo coperto di fine ottobre.",
+ "aggiornato": "2026-10-29T10:33:44.728293+00:00",
+ "data": "2026-10-29",
+ "testo": "Cielo coperto\nsul fondo della fontana\ngira una foglia",
+ "nota": "Una foglia caduta ruota lenta nell'acqua immobile della fontana.",
  "archivio": [
+  {
+   "data": "2026-10-29",
+   "testo": "Cielo coperto\nsul fondo della fontana\ngira una foglia",
+   "nota": "Una foglia caduta ruota lenta nell'acqua immobile della fontana."
+  },
   {
    "data": "2026-10-28",
    "testo": "Nuvole basse\nsul filo del telegrafo\nposa un colombo",
@@ -448,11 +453,6 @@
    "data": "2026-08-01",
    "testo": "Girasoli chini\nverso il muro dell'orto\npolvere sui gambi",
    "nota": "Ho guardato i girasoli piegati e impolverati contro il muro dell'orto."
-  },
-  {
-   "data": "2026-07-31",
-   "testo": "Asfalto che brucia\nun cane sotto il portico\nlingua penzoloni",
-   "nota": "Un cane accaldato riposa all'ombra di un portico nel primo pomeriggio."
   }
  ]
 }
