@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-10-28T22:55:08.309827+00:00",
+ "aggiornato": "2026-10-29T01:58:37.037545+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Una legge dello Stato di New York vieta ai minori interazioni con i chatbot",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/una-legge-dello-stato-di-new-york-vieta-ai-minori-interazioni-con_fede5a51-05e5-487f-9527-602e15c1a6b4.html",
+     "data": "2026-10-29T00:10:19+00:00"
+    },
     {
      "titolo": "Scontro treni in Spagna, 'audio puntano il dito su centro controllo di Atocha'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/scontro-treni-in-spagna-audio-puntano-il-dito-su-centro-controllo-di-atocha_1af21c04-6c84-42c5-86ad-2744246bb945.html",
@@ -49,11 +54,6 @@
      "titolo": "In manovra aumento Ires di 3 punti per banche e assicurazioni",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/in-manovra-aumento-ires-di-3-punti-per-banche-e-assicurazioni_ef80a5b5-4a51-497d-8881-05c0e3449291.html",
      "data": "2026-10-28T19:18:16+00:00"
-    },
-    {
-     "titolo": "In manovra confermati bonus ristrutturazioni e bonus mobili fino a 5mila euro",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/in-manovra-confermati-bonus-ristrutturazioni-e-bonus-mobili-fino-a-5mila-euro_687026ed-830b-4209-8bc2-0f1fb6f1edd4.html",
-     "data": "2026-10-28T19:11:02+00:00"
     }
    ]
   },
@@ -168,7 +168,7 @@
     {
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/28/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-10-28T17:49:20+00:00"
+     "data": "2026-10-28T23:44:31+00:00"
     },
     {
      "titolo": "Il prof aggredito a Torino, 'violenza immotivata contro di me'",
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in aumento (+0,37%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/borsa-tokyo-apertura-in-aumento-037_4fdc45b8-799a-49f6-9b7e-17f49fa2e5fc.html",
+     "data": "2026-10-29T00:12:57+00:00"
+    },
+    {
      "titolo": "Mps decide il suo futuro, sul piano Lovaglio il muro dei soci",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/mps-decide-il-suo-futuro-sul-piano-lovaglio-il-muro-dei-soci_368cd399-ea22-4ee4-9487-e8e27070171c.html",
      "data": "2026-10-28T20:44:07+00:00"
@@ -309,17 +314,42 @@
      "titolo": "Dehors, via libera preliminare del Consiglio dei ministri allo schema di riordino",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/dehors-via-libera-preliminare-del-consiglio-dei-ministri-allo-schema_fa57ecb4-4667-4b68-93c4-e2186d7b305e.html",
      "data": "2026-10-28T18:48:26+00:00"
-    },
-    {
-     "titolo": "La Fed mantiene fermi i tassi, 'economia solida, ma l'inflazione è alta'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/la-fed-mantiene-i-tassi-fermi_0874fa87-b228-48f4-9696-09c383c457d5.html",
-     "data": "2026-10-28T21:23:15+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Sheinbaum, 'Le Pen è male informata sui valori del Messico'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/sheinbaum-le-pen-e-male-informata-sui-valori-del-messico_cd06b37a-492d-432a-960e-256e503c57ec.html",
+     "data": "2026-10-29T01:36:46+00:00"
+    },
+    {
+     "titolo": "Media, El Salvador schiera 1.300 militari ad Haiti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/media-el-salvador-schiera-1.300-militari-ad-haiti_5cc84ad2-e771-4966-9949-db8ec56d04fd.html",
+     "data": "2026-10-29T01:14:55+00:00"
+    },
+    {
+     "titolo": "Messico, l'export cresce di oltre il 30% nei primi nove mesi del 2026",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/messico-lexport-cresce-di-oltre-il-30-nei-primi-nove-mesi-del-2026_549c63f0-2430-4d00-b1b5-c810ac0a67d0.html",
+     "data": "2026-10-29T01:02:41+00:00"
+    },
+    {
+     "titolo": "L'Aeronautica peruviana presenta il 'Papacottero' di Leone XIV, è un Mi-17",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/laeronautica-peruviana-presenta-il-papacottero-di-leone-xiv-e-un-mi-17_357d9a30-f9e2-4899-93ff-95be48a00724.html",
+     "data": "2026-10-29T00:55:48+00:00"
+    },
+    {
+     "titolo": "Delcy Rodríguez, 'basta scuse, sia recuperato l'oro bloccato a Londra'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/delcy-rodriguez-basta-scuse-sia-recuperato-loro-bloccato-a-londra_a974b5e3-c72b-436a-aaf2-47dae4fd4604.html",
+     "data": "2026-10-29T00:53:17+00:00"
+    },
+    {
+     "titolo": "Una legge dello Stato di New York vieta ai minori interazioni con i chatbot",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/29/una-legge-dello-stato-di-new-york-vieta-ai-minori-interazioni-con_8c1bd0ec-a5da-486f-8803-4c1c164f2d41.html",
+     "data": "2026-10-29T00:10:19+00:00"
+    },
     {
      "titolo": "Brasile, Flávio Bolsonaro ritira la proclamazione a presidente eletto (2)",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/28/brasile-flavio-bolsonaro-ritira-la-proclamazione-a-presidente-eletto-2_137dfdc7-7714-4d50-990f-5d11a8c7db56.html",
@@ -349,36 +379,6 @@
      "titolo": "Bolsonaro, 'io il vero presidente del Brasile, guiderò l'opposizione dagli Usa' (2)",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/28/bolsonaro-io-il-vero-presidente-del-brasile-guidero-lopposizione-dagli-usa-2_aa1db98f-bf14-412e-b846-9bce8a10af25.html",
      "data": "2026-10-28T21:15:58+00:00"
-    },
-    {
-     "titolo": "Bolsonaro, 'io il vero presidente del Brasile, guiderò l'opposizione dagli Usa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/28/bolsonaro-io-il-vero-presidente-del-brasile-guidero-lopposizione-dagli-usa_97668751-174c-4e40-99e5-f281bdbc0d5a.html",
-     "data": "2026-10-28T21:00:00+00:00"
-    },
-    {
-     "titolo": "'Vance ha scritto a esponente linea dura dell'Iran per riavviare i colloqui'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/28/vance-ha-scritto-a-esponente-linea-dura-delliran-per-riavviare-i-colloqui_240cab51-aecd-46ff-9fba-cca377d09cf2.html",
-     "data": "2026-10-28T20:18:57+00:00"
-    },
-    {
-     "titolo": "Eisenkot, 'agirò per un governo del cambiamento sionista e per la leva militare'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/28/eisenkot-agiro-per-un-governo-del-cambiamento-sionista-e-per-la-leva-militare_319d7d5b-b9ec-4f10-a35a-2f6b3c25d427.html",
-     "data": "2026-10-28T20:17:11+00:00"
-    },
-    {
-     "titolo": "Trump grida alla frode elettorale, i democratici hanno barato in Alaska",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/28/trump-grida-alla-frode-elettorale-i-democratici-hanno-barato-in-alaska_25ee2794-d7b2-40ef-b1d5-9442c0787e19.html",
-     "data": "2026-10-28T19:43:22+00:00"
-    },
-    {
-     "titolo": "Israele, i media: 'Herzog vedrà Netanyahu e Eisenkot per testare un governo di unità' - LA CRONACA DELLA GIORNATA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/israele-i-media-herzog-vedra-netanyahu-e-eisenkot-per-testare-un-governo-di-unita_74766689-3c93-4a0a-8778-21bf55ce3a7c.html",
-     "data": "2026-10-28T19:29:24+00:00"
-    },
-    {
-     "titolo": "Farnesina, '7 italiani coinvolti nell'incidente tra treni in Spagna, due disperse'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/28/farnesina-7-italiani-coinvolti-nellincidente-tra-treni-in-spagna-due-disperse_2ff893da-6588-4a46-9333-893072601877.html",
-     "data": "2026-10-28T19:01:56+00:00"
     }
    ]
   },
