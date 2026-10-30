@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-10-29T23:40:14.866680+00:00",
+ "aggiornato": "2026-10-30T03:03:11.778088+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,31%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/borsa-tokyo-apertura-in-calo-031_f3ce5827-45ff-4513-8c96-76acf6e1e03f.html",
+     "data": "2026-10-30T00:33:23+00:00"
+    },
+    {
+     "titolo": "Israele, risultati definitivi: schieramento Netanyahu in testa ma senza maggioranza",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/israele-risultati-definitivi-schieramento-netanyahu-in-testa-ma-senza-maggioranza_c02347d8-1ab2-4e98-88f0-58e212562125.html",
+     "data": "2026-10-30T00:07:39+00:00"
+    },
     {
      "titolo": "Elicottero caduto, una sergente della Croce Rossa tra i morti",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/elicottero-caduto-una-sergente-della-croce-rossa-tra-i-morti_d8ba262b-f9b0-4390-8ec4-cf7e7198511d.html",
@@ -44,16 +54,6 @@
      "titolo": "Il petrolio chiude in calo a New York a 102 dollari",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/il-petrolio-chiude-in-calo-a-new-york-a-102-dollari_96c85470-ed49-4cab-bf69-181345c6f461.html",
      "data": "2026-10-29T18:38:14+00:00"
-    },
-    {
-     "titolo": "Orsini, 'associazioni dell'artigianato non difendano solo propri interessi e bilanci'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/orsini-associazioni-dellartigianato-non-difendano-solo-propri-interessi-e-bilanci_d67c09dc-cfab-4a1e-88d9-133a2abc6ba3.html",
-     "data": "2026-10-29T18:22:07+00:00"
-    },
-    {
-     "titolo": "Dal ceco Strnad offerta da 30 miliardi per Delfin. No comment dalla holding",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/dal-ceco-strnad-offerta-da-30-miliardi-per-delfin.-no-comment-dalla-holding_544a413c-a63e-4e26-9907-eb037a9fa5f2.html",
-     "data": "2026-10-29T18:07:38+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,31%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/borsa-tokyo-apertura-in-calo-031_bd5942a9-a3c4-4e74-aa49-16c179e55bd7.html",
+     "data": "2026-10-30T00:33:20+00:00"
+    },
+    {
      "titolo": "Samuele Lodi è il nuovo segretario generale della Fiom-Cgil",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/samuele-lodi-e-il-nuovo-segretario-generale-della-fiom-cgil_566c7cf5-7b87-4f1b-92f8-4a71be61a5fd.html",
      "data": "2026-10-29T21:11:42+00:00"
@@ -309,17 +314,52 @@
      "titolo": "Borsa: Milano tiene con Prysmian e Leonardo, giù Campari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/borsa-milano-tiene-con-prysmian-e-leonardo-giu-campari_f90d856d-53f8-4869-8b1c-4e62f078cc68.html",
      "data": "2026-10-29T17:40:16+00:00"
-    },
-    {
-     "titolo": "Il gas è in calo (-2%) a 98 euro al Megawattora",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/il-gas-e-in-calo-2-a-98-euro-al-megawattora_7bada1bb-e425-471d-b711-ccab1f2ff155.html",
-     "data": "2026-10-29T17:19:31+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "El Salvador, 'Siamo ad Haiti per combattere contro i malvagi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/el-salvador-siamo-ad-haiti-per-combattere-contro-i-malvagi_9f3c7f5d-ca63-42bb-8398-0327ba9b2a44.html",
+     "data": "2026-10-30T01:08:28+00:00"
+    },
+    {
+     "titolo": "Brasile, dubbi sui dati del cellulare di Vorcaro possono favorire il giudice Moraes",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/brasile-dubbi-sui-dati-del-cellulare-di-vorcaro-possono-favorire-il-giudice_4653b474-aca8-475e-b4ff-87259d004ecb.html",
+     "data": "2026-10-30T00:31:47+00:00"
+    },
+    {
+     "titolo": "Brasile, il ministero del Lavoro porta Meta in tribunale per coercizione elettorale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/brasile-il-ministero-del-lavoro-porta-meta-in-tribunale-per-coercizione-elettorale_223de6a4-a30f-451e-a993-300f838cd1f2.html",
+     "data": "2026-10-30T00:18:02+00:00"
+    },
+    {
+     "titolo": "Venezuela, Rodríguez nomina Oliver Blanco ministro degli Esteri al posto di Plasencia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/venezuela-rodriguez-nomina-oliver-blanco-ministro-degli-esteri-al-posto-di-plasencia_71dc5b6a-a7ec-4ca0-bd7c-7b272f8bbf1c.html",
+     "data": "2026-10-30T00:17:45+00:00"
+    },
+    {
+     "titolo": "Israele, risultati definitivi: schieramento Netanyahu in testa ma senza maggioranza",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/30/israele-risultati-definitivi-schieramento-netanyahu-in-testa-ma-senza-maggioranza_171ca0d1-b631-44cd-b410-8f98c22bc6f1.html",
+     "data": "2026-10-30T00:07:43+00:00"
+    },
+    {
+     "titolo": "Colombia, Cúcuta militarizzata dopo l'omicidio dell'aspirante sindaco Castellanos",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/colombia-cucuta-militarizzata-dopo-lomicidio-dellaspirante-sindaco-castellanos_edfbc625-6a8c-4ae1-ad62-98074cbf8c8a.html",
+     "data": "2026-10-30T00:05:05+00:00"
+    },
+    {
+     "titolo": "Ecuador, estradato negli Usa il presunto mandante dell'omicidio di Villavicencio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/ecuador-estradato-negli-usa-il-presunto-mandante-dellomicidio-di-villavicencio_6f51e30d-ea8b-4255-9056-9c5aea67aafc.html",
+     "data": "2026-10-29T23:47:12+00:00"
+    },
+    {
+     "titolo": "Perù, Fujimori annuncia il modello carcerario di Bukele per sei nuovi penitenziari",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/peru-fujimori-annuncia-il-modello-carcerario-di-bukele-per-sei-nuovi-penitenziari_bf6533b4-ddc3-4ab7-ab68-4cb876a75116.html",
+     "data": "2026-10-29T23:39:06+00:00"
+    },
     {
      "titolo": "E' morto Patrick Stewart, l'attore di Star Trek e X-Men",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/29/e-morto-patrick-stewart-lattore-di-star-trek-e-x-men_51865c0d-5078-4b0c-88bf-6c39e3217e94.html",
@@ -339,46 +379,6 @@
      "titolo": "Bufera su Eralp, 'ho paura di alcuni simpatizzanti pro-Hamas'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/29/bufera-su-eralp-ho-paura-di-alcuni-simpatizzanti-pro-hamas_750d2d5f-c9ff-446d-91e7-245e68a3d20f.html",
      "data": "2026-10-29T19:44:28+00:00"
-    },
-    {
-     "titolo": "Paura a scuola in Egitto, un cobra trovato in un'aula di un istituto elementare",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/10/29/paura-a-scuola-in-egitto-un-cobra-trovato-in-unaula-di-un-istituto-elementare_92151f12-c97b-4ff7-a7bb-3b673dc26298.html",
-     "data": "2026-10-29T18:48:31+00:00"
-    },
-    {
-     "titolo": "Midterm, 'dipartimento di Giustizia spicca mandati su sfida in Alaska'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/29/midterm-dipartimento-di-giustizia-spicca-mandati-su-sfida-in-alaska_f3d66a12-28eb-4ef3-8ece-819a6738f7f8.html",
-     "data": "2026-10-29T18:07:04+00:00"
-    },
-    {
-     "titolo": "A Gaza manca anche il pane, Egitto invia decine di tonnellate di farina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/29/a-gaza-manca-anche-il-pane-egitto-invia-decine-di-tonnellate-di-farina_c3c04fd1-1a3f-4fba-ac97-939fdc9129f1.html",
-     "data": "2026-10-29T18:01:06+00:00"
-    },
-    {
-     "titolo": "Commissione spagnola rettifica, sono 69 le vittime della strage di Toledo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/29/commissione-spagnola-rettifica-sono-69-le-vittime-della-strage-di-toledo_142b3469-fb09-4684-9972-20c2ea5c5b42.html",
-     "data": "2026-10-29T17:59:29+00:00"
-    },
-    {
-     "titolo": "Costa, relazioni Ue-Canada non hanno bisogno della mediazione Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/29/costa-relazioni-ue-canada-non-hanno-bisogno-della-mediazione-usa_9a038c33-e7f5-492f-9342-5fa62dfadeb5.html",
-     "data": "2026-10-29T17:58:18+00:00"
-    },
-    {
-     "titolo": "Machado, 'Rubio è stato chiaro, nel 2027 presidenziali in Venezuela' (2)",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/machado-rubio-e-stato-chiaro-nel-2027-presidenziali-in-venezuela-2_965c0b56-be32-4501-8ff8-0ace71a5617a.html",
-     "data": "2026-10-29T17:43:33+00:00"
-    },
-    {
-     "titolo": "Machado, 'Rubio è stato chiaro, nel 2027 presidenziali in Venezuela'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/machado-rubio-e-stato-chiaro-nel-2027-presidenziali-in-venezuela_b1c643b4-36e9-4311-91db-92c38b4180c5.html",
-     "data": "2026-10-29T17:35:59+00:00"
-    },
-    {
-     "titolo": "Sindaco di Brcko, 'tre morti e 12 feriti nell'elicottero caduto'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/29/sindaco-di-brcko-tre-morti-e-12-feriti-nellelicottero-caduto_a75d1529-2849-4677-bb61-d702ba639522.html",
-     "data": "2026-10-29T17:35:15+00:00"
     }
    ]
   },
