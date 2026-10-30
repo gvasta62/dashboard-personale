@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-29T10:33:44.728293+00:00",
- "data": "2026-10-29",
- "testo": "Cielo coperto\nsul fondo della fontana\ngira una foglia",
- "nota": "Una foglia caduta ruota lenta nell'acqua immobile della fontana.",
+ "aggiornato": "2026-10-30T10:34:33.954882+00:00",
+ "data": "2026-10-30",
+ "testo": "Cielo di piombo\ndalla gronda del fienile\nspiove la paglia",
+ "nota": "Una paglia secca sporge dalla grondaia di un fienile sotto il cielo chiuso.",
  "archivio": [
+  {
+   "data": "2026-10-30",
+   "testo": "Cielo di piombo\ndalla gronda del fienile\nspiove la paglia",
+   "nota": "Una paglia secca sporge dalla grondaia di un fienile sotto il cielo chiuso."
+  },
   {
    "data": "2026-10-29",
    "testo": "Cielo coperto\nsul fondo della fontana\ngira una foglia",
@@ -448,11 +453,6 @@
    "data": "2026-08-02",
    "testo": "Cielo di piombo\nun filo di bucato\ngonfio di vento",
    "nota": "Giornata coperta e ventosa, i panni stesi si muovono senza sole."
-  },
-  {
-   "data": "2026-08-01",
-   "testo": "Girasoli chini\nverso il muro dell'orto\npolvere sui gambi",
-   "nota": "Ho guardato i girasoli piegati e impolverati contro il muro dell'orto."
   }
  ]
 }
