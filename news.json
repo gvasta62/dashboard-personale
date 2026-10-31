@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-10-31T00:53:30.480528+00:00",
+ "aggiornato": "2026-10-31T06:22:39.047751+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "MotoGp: Malesia, Alex Marquez in pole davanti al fratello Marc",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/motogp-malesia-alex-marquez-in-pole-davanti-al-fratello-marc_179b8d97-c800-40c8-9ce9-86e7d6eb48e6.html",
+     "data": "2026-10-31T04:54:42+00:00"
+    },
     {
      "titolo": "Tensioni e proteste in Polonia dopo la sospensione del presidente Corte costituzionale",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/tensioni-e-proteste-in-polonia-dopo-la-sospensione-del-presidente-corte-costituzionale_0f35a3af-265e-4f32-b650-9941730f20c2.html",
@@ -49,11 +54,6 @@
      "titolo": "Mef, manovra bollinata, il testo inviato a palazzo Chigi",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/mef-manovra-bollinata-il-testo-inviato-a-palazzo-chigi_2eb51a68-cd88-44f2-bba8-123d91278f3a.html",
      "data": "2026-10-30T18:17:10+00:00"
-    },
-    {
-     "titolo": "Il gas in forte aumento (+5%) a 103 euro al Megawattora",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/il-gas-in-forte-aumento-5-a-103-euro-al-megawattora_73dd043e-c76c-4ad6-ad53-58158d0f0dfa.html",
-     "data": "2026-10-30T17:08:01+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Pemex perde 605 milioni nel terzo trimestre, produzione in calo dello 0,4%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/pemex-perde-605-milioni-nel-terzo-trimestre-produzione-in-calo-dello_8c1ac00b-9031-4584-ac63-d3a03f7f7ec1.html",
+     "data": "2026-10-31T00:52:42+00:00"
+    },
+    {
      "titolo": "Manovra: giù l'Irpef per 3,2 milioni di persone, dalle banche 5,8 miliardi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/manovra-giu-lirpef-per-32-milioni-di-persone-dalle-banche-58-miliardi_a2553a3a-6200-46b4-bebd-ed940ffd56e8.html",
      "data": "2026-10-30T23:19:43+00:00"
@@ -309,17 +314,27 @@
      "titolo": "Borsa: Milano chiude in calo, Ftse Mib -1%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/borsa-milano-chiude-in-calo-ftse-mib-1_7a5244d8-18d8-477f-a5b6-e9adeada0120.html",
      "data": "2026-10-30T16:40:32+00:00"
-    },
-    {
-     "titolo": "Scontro aperto fra Governo e banche sulle tasse in manovra",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/scontro-aperto-fra-governo-e-banche-sulle-tasse-in-manovra_b8e528d1-757f-407a-a8e6-28d1bea461ad.html",
-     "data": "2026-10-30T18:23:59+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Nuove regole per i transiti e incentivi verdi al Canale di Panama",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/31/nuove-regole-per-i-transiti-e-incentivi-verdi-al-canale-di-panama_cd3a040a-1aec-433d-b956-9245190cd77b.html",
+     "data": "2026-10-31T03:40:45+00:00"
+    },
+    {
+     "titolo": "Pemex perde 605 milioni nel terzo trimestre, produzione in calo dello 0,4%",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/31/pemex-perde-605-milioni-nel-terzo-trimestre-produzione-in-calo-dello_ec565fd0-d2a5-4626-99c8-4ddc07db986e.html",
+     "data": "2026-10-31T00:52:41+00:00"
+    },
+    {
+     "titolo": "Cuba, Porto Rico possibile base Usa per un'operazione contro Raúl Castro",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/31/cuba-porto-rico-possibile-base-usa-per-unoperazione-contro-raul_f7c370a9-1922-417a-b11e-b82cee271093.html",
+     "data": "2026-10-31T00:52:09+00:00"
+    },
     {
      "titolo": "Cile, Kast rimuove il sottosegretario alla Giustizia Silva per il caso pedofilia",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/31/cile-kast-rimuove-il-sottosegretario-alla-giustizia-silva-per-il-caso-pedofilia_2c44569a-ffa2-4f4e-bc94-ac098e75da75.html",
@@ -364,21 +379,6 @@
      "titolo": "Il Brasile chiede ufficialmente spiegazioni all'Argentina sulla fuga di Bolsonaro",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/il-brasile-chiede-ufficialmente-spiegazioni-allargentina-sulla-fuga-di-bolsonaro_15647d25-40cc-4e53-84ce-ac217e0ee1f6.html",
      "data": "2026-10-30T17:47:33+00:00"
-    },
-    {
-     "titolo": "Approvvigionamento delle Falkland-Malvinas riaccende le tensioni tra Cile e Argentina",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/approvvigionamento-delle-falkland-malvinas-riaccende-le-tensioni-tra-cile-e-argentina_7017feb9-83eb-40fe-b043-fb447514652e.html",
-     "data": "2026-10-30T16:49:07+00:00"
-    },
-    {
-     "titolo": "Ue e Canada firmano la nuova 'Alleanza per il futuro'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/30/ue-e-canada-firmano-la-nuova-alleanza-per-il-futuro_4dff9790-69c0-4ca9-b5d0-8cc422bfd13a.html",
-     "data": "2026-10-30T16:46:59+00:00"
-    },
-    {
-     "titolo": ">>>ANSA/Torna la madre di tutte le maratone, a New York in gara 2.200 italiani",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/30/ansatorna-la-madre-di-tutte-le-maratone-a-new-york-in-gara-2.200-italiani_835bbc96-c426-479d-9d33-67038e57f2be.html",
-     "data": "2026-10-30T16:05:52+00:00"
     }
    ]
   },
