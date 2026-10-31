@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-30T10:34:33.954882+00:00",
- "data": "2026-10-30",
- "testo": "Cielo di piombo\ndalla gronda del fienile\nspiove la paglia",
- "nota": "Una paglia secca sporge dalla grondaia di un fienile sotto il cielo chiuso.",
+ "aggiornato": "2026-10-31T10:01:50.350834+00:00",
+ "data": "2026-10-31",
+ "testo": "Cielo di lavagna\nsulla zucca spaccata\ncola la polpa",
+ "nota": "Osservata una zucca aperta davanti a una porta nel giorno coperto.",
  "archivio": [
+  {
+   "data": "2026-10-31",
+   "testo": "Cielo di lavagna\nsulla zucca spaccata\ncola la polpa",
+   "nota": "Osservata una zucca aperta davanti a una porta nel giorno coperto."
+  },
   {
    "data": "2026-10-30",
    "testo": "Cielo di piombo\ndalla gronda del fienile\nspiove la paglia",
@@ -448,11 +453,6 @@
    "data": "2026-08-03",
    "testo": "Nuvole gonfie\nun ragno tra le tegole\ntesse nell'afa",
    "nota": "Osservata una tela di ragno sotto il cornicione, in un pomeriggio coperto e afoso."
-  },
-  {
-   "data": "2026-08-02",
-   "testo": "Cielo di piombo\nun filo di bucato\ngonfio di vento",
-   "nota": "Giornata coperta e ventosa, i panni stesi si muovono senza sole."
   }
  ]
 }
