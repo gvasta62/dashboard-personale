@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-10-31T20:30:53.615749+00:00",
+ "aggiornato": "2026-10-31T23:49:15.903617+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Lite in stazione finisce a coltellate, un morto nel Frusinate",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/lite-in-stazione-finisce-a-coltellate-un-morto-nel-frusinate_0caf2441-edb1-43a2-b744-e208f103bf09.html",
+     "data": "2026-10-31T22:15:26+00:00"
+    },
+    {
+     "titolo": "'Fbi, Corea del Nord responsabile dell'attacco hacker a Binance'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/fbi-corea-del-nord-responsabile-dellattacco-hacker-a-binance_0ca5866c-982c-4d9b-92d3-cc6a4b371932.html",
+     "data": "2026-10-31T22:12:05+00:00"
+    },
+    {
+     "titolo": "Commissione Ue, 'presidente Polonia convalidi la nomina dei nuovi giudici'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/commissione-ue-presidente-polonia-convalidi-la-nomina-dei-nuovi-giudici_43d398cf-c569-4f54-83dd-36823b8855d4.html",
+     "data": "2026-10-31T21:21:07+00:00"
+    },
     {
      "titolo": "Tusk, 'attacco alla Corte è nuova violazione dello stato di diritto del Pis'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/tusk-attacco-alla-corte-e-nuova-violazione-dello-stato-di-diritto-del_da89c096-6261-47fc-92b8-654d4e2218b4.html",
@@ -39,21 +54,6 @@
      "titolo": "Binance reintegra il 90% degli asset sottratti con l'attacco informatico",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/binance-reintegra-il-90-degli-asset-sottratti-con-lattacco-informatico_8b01ca13-0a00-4f34-ab7e-6fda1f811b2d.html",
      "data": "2026-10-31T17:27:54+00:00"
-    },
-    {
-     "titolo": "Mattarella, in tempi non facili il futuro va disegnato dai giovani",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/mattarella-in-tempi-non-facili-il-futuro-va-disegnato-dai-giovani_b3df3410-4e5d-4bc2-af8d-518724e15017.html",
-     "data": "2026-10-31T16:57:59+00:00"
-    },
-    {
-     "titolo": "Rubio, non so se Putin sarà a Miami, con Lavrov discusso possibile incontro ad Apec",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/rubio-non-so-se-putin-sara-a-miami-con-lavrov-discusso-possibile-incontro_f2f2a3fc-3c1c-4a71-aa2e-eab9e5258fc0.html",
-     "data": "2026-10-31T16:56:45+00:00"
-    },
-    {
-     "titolo": "Muore dopo essere stato accoltellato al bar, un fermo nel Comasco",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/muore-dopo-essere-stato-accoltellato-al-bar-un-fermo-nel-comasco_054c94e1-3a05-4ae7-b0ec-706aa25a3d35.html",
-     "data": "2026-10-31T16:54:18+00:00"
     }
    ]
   },
@@ -126,6 +126,16 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Lite in stazione finisce a coltellate, 38enne arrestato per omicidio",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/lite-in-stazione-finisce-a-coltellate-38enne-arrestato-per-omicidio_fb596364-c915-46ef-8b31-4a06c2eacfe5.html",
+     "data": "2026-10-31T23:32:30+00:00"
+    },
+    {
+     "titolo": "Lite in stazione finisce a coltellate, un morto nel Frusinate",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/lite-in-stazione-finisce-a-coltellate-un-morto-nel-frusinate_e17181ed-8783-4645-9bb2-d90dbf2164c7.html",
+     "data": "2026-10-31T22:15:24+00:00"
+    },
+    {
      "titolo": "Svastiche e scritte inneggianti al nazismo, sdegno in Valtellina",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/svastiche-e-scritte-inneggianti-al-nazismo-sdegno-in-valtellina_79cc36e3-5780-4d8b-bdbf-2c5908d2a8ab.html",
      "data": "2026-10-31T20:02:04+00:00"
@@ -174,16 +184,6 @@
      "titolo": "Il parto sul bus, l'autista racconta 'un abbraccio di umanità'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/il-parto-sul-bus-lautista-racconta-un-abbraccio-di-umanita_b4627c5c-04d2-4f71-88a3-39ad3f7e5360.html",
      "data": "2026-10-31T17:40:16+00:00"
-    },
-    {
-     "titolo": "Per vent'anni nel coro del Maggio Musicale, a 87 anni canta La Bohème in rsa",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/per-ventanni-nel-coro-del-maggio-musicale-a-87-anni-canta-la-boheme_df9a637c-483b-450f-b495-fc2a8f3364c7.html",
-     "data": "2026-10-31T17:23:57+00:00"
-    },
-    {
-     "titolo": "Muore dopo essere stato accoltellato al bar, un fermo nel Comasco",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/muore-dopo-essere-stato-accoltellato-al-bar-un-fermo-nel-comasco_cee14eb1-c9ad-4429-acea-6e5a4a8aada7.html",
-     "data": "2026-10-31T16:54:15+00:00"
     }
    ]
   },
@@ -248,7 +248,7 @@
     {
      "titolo": "Manovra, scontro sulla scuola. Banche ancora sotto tiro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-scontro-sulla-scuola.-banche-ancora-sotto-tiro_ff019702-1b62-4f1a-8c3d-ca9b9e0ad8cb.html",
-     "data": "2026-10-31T19:43:05+00:00"
+     "data": "2026-10-31T20:43:44+00:00"
     },
     {
      "titolo": "Salvini, 'se il Parlamento vuole un contributo maggiore dalle banche è sovrano'",
@@ -311,6 +311,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "'Fbi, Corea del Nord responsabile dell'attacco hacker a Binance'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/31/fbi-corea-del-nord-responsabile-dellattacco-hacker-a-binance_c6516a63-edf0-4276-b90b-cd80a68ac9d7.html",
+     "data": "2026-10-31T22:12:09+00:00"
+    },
+    {
+     "titolo": "Commissione Ue, 'presidente Polonia convalidi la nomina dei nuovi giudici'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/commissione-ue-presidente-polonia-convalidi-la-nomina-dei-nuovi-giudici_81b7aa42-d075-48ed-a709-a9590721fbe8.html",
+     "data": "2026-10-31T21:21:09+00:00"
+    },
+    {
      "titolo": "Tusk, 'attacco alla Corte è nuova violazione dello stato di diritto del Pis'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/tusk-attacco-alla-corte-e-nuova-violazione-dello-stato-di-diritto-del_036010cd-debb-4b56-91dc-beb0ba7d6963.html",
      "data": "2026-10-31T19:21:58+00:00"
@@ -359,16 +369,6 @@
      "titolo": "Zelensky, 'rientrati in Ucraina i residenti evacuati da Oleshky'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/zelensky-rientrati-in-ucraina-i-residenti-evacuati-da-oleshky_66d44356-c05d-4e6f-8f18-8fe55661236b.html",
      "data": "2026-10-31T15:16:44+00:00"
-    },
-    {
-     "titolo": "Violente proteste a Tirana, sassi e molotov contro la polizia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/violente-proteste-a-tirana-sassi-e-molotov-contro-la-polizia_699d7fbd-81e6-48c0-a74e-e6f06c4ef787.html",
-     "data": "2026-10-31T15:14:28+00:00"
-    },
-    {
-     "titolo": "Kiev, 'rispettiamo la tregua a Oleshky, Mosca tenta di screditarci'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/kiev-rispettiamo-la-tregua-a-oleshky-mosca-tenta-di-screditarci_370e348c-9d42-43ee-8cdb-78aed21703a4.html",
-     "data": "2026-10-31T14:12:24+00:00"
     }
    ]
   },
@@ -441,6 +441,41 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Chivu \"approccio sbagliato ma non butterei tutto, ritroviamo fame e umiltà\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/chivu-approccio-sbagliato-ma-non-butterei-tutto-ritroviamo-fame-e-umilta_b71cd198-4e42-446b-9a52-71f0455aa1fd.html",
+     "data": "2026-10-31T22:54:57+00:00"
+    },
+    {
+     "titolo": "L'orgoglio di Amorim: \"Dopo Bologna avevamo tanta voglia di riscattarci\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/lorgoglio-di-amorim-dopo-bologna-avevamo-tanta-voglia-di-riscattarci_92108e49-93ed-413b-b5b7-1a785a84175a.html",
+     "data": "2026-10-31T22:45:29+00:00"
+    },
+    {
+     "titolo": "GP Messico: Antonelli \"domani cercherò di fare una bella partenza\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/31/gp-messico-antonelli-domani-cerchero-di-fare-una-bella-partenza_03245420-25f1-4447-9a2b-db6f8e70c8b0.html",
+     "data": "2026-10-31T22:43:10+00:00"
+    },
+    {
+     "titolo": "F1: Hamilton in Messico ritrova la pole, Antonelli partirà quarto",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/31/f1-hamilton-in-messico-ritrova-la-pole-antonelli-partira-quarto_2dbf7712-2bb2-4cf8-bc41-dd42d88e22ab.html",
+     "data": "2026-10-31T22:25:25+00:00"
+    },
+    {
+     "titolo": "F1: Hamilton in pole, al suo fianco Russel. Antonelli parte quarto",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/31/f1-hamilton-in-pole-al-suo-fianco-russel.-antonelli-quinto_d44231ac-58ba-4f03-bfb9-8da0eb242644.html",
+     "data": "2026-10-31T23:02:31+00:00"
+    },
+    {
+     "titolo": "Il derby è del Milan, l'Inter battuta 3-1",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/il-derby-e-del-milan-linter-battuta-3-1_dab13087-1050-4404-962e-9f042a5c06b3.html",
+     "data": "2026-10-31T21:52:22+00:00"
+    },
+    {
+     "titolo": "Tifosi Inter contro la demolizione di San Siro, striscione esposto al derby",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/tifosi-inter-contro-la-demolizione-di-san-siro-striscione-esposto-al-derby_342994b4-d25a-40bf-933a-26794574edf8.html",
+     "data": "2026-10-31T20:36:38+00:00"
+    },
+    {
      "titolo": "Europei curling: storica finale per gli azzurri, c'è la Scozia per l'oro",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/31/europei-curling-storica-finale-per-gli-azzurri-ce-la-scozia-per-loro_33803c14-02b5-4838-bdf3-c00911155897.html",
      "data": "2026-10-31T20:17:06+00:00"
@@ -464,41 +499,6 @@
      "titolo": "Marotta 'il nuovo stadio progetto stratosferico, derby spot per tutti'",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/marotta-il-nuovo-stadio-progetto-stratosferico-derby-spot-per-tutti_e6af9e97-71ea-47c2-b919-9b7c4ce6ba2a.html",
      "data": "2026-10-31T19:37:00+00:00"
-    },
-    {
-     "titolo": "Milan: Cardinale 'Amorim è il mio coach, contento della scelta fatta'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/milan-cardinale-amorim-e-il-mio-coach-contento-della-scelta-fatta_32569a94-f5f8-46b3-b20e-881ad9f3d62b.html",
-     "data": "2026-10-31T19:28:16+00:00"
-    },
-    {
-     "titolo": "Errani-Paolini alle Finals, Zverev eliminato a Vienna",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/31/errani-paolini-alle-finals-zverev-eliminato-a-vienna_09b9e0dd-3a32-42a7-8a68-a89c96581bdd.html",
-     "data": "2026-10-31T19:13:22+00:00"
-    },
-    {
-     "titolo": "Serie A: La Roma travolgente fa cinque gol all'Udinese, Runjaic al capolinea&nbsp;",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/serie-a-roma-travolgente-fa-cinque-gol-alludinese-runjaic-al-capolinea_96639d9b-7d3f-4276-a644-4e831a1fc20e.html",
-     "data": "2026-10-31T19:43:01+00:00"
-    },
-    {
-     "titolo": "Tennis: De Minaur batte Zverev, finale con Alcaraz a Vienna&nbsp;",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/31/tennis-de-minaur-batte-zverev-finale-con-alcaraz-a-vienna_2ddc79f2-6fc0-4eae-b185-52c039998fff.html",
-     "data": "2026-10-31T19:30:47+00:00"
-    },
-    {
-     "titolo": "Atp Vienna: De Minaur batte Zverev, è in finale con Alcaraz",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/31/atp-vienna-de-minaur-batte-zverev-e-in-finale-con-alcaraz_7cf64479-62a6-4176-8dc1-d0a868f989b0.html",
-     "data": "2026-10-31T18:58:24+00:00"
-    },
-    {
-     "titolo": "Serie A: Udinese-Roma 2-5",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/serie-a-udinese-roma-2-5_2963fa72-894c-493e-9b01-9a12bb46eaee.html",
-     "data": "2026-10-31T18:53:25+00:00"
-    },
-    {
-     "titolo": "Gp del Messico, Norris il più veloce nelle terze libere",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/31/gp-messico-norris-il-piu-veloce-nelle-terze-libere_2b699849-5c0a-43dc-8ffc-b730ed632af2.html",
-     "data": "2026-10-31T19:23:09+00:00"
     }
    ]
   }
