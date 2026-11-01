@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-10-31T10:01:50.350834+00:00",
- "data": "2026-10-31",
- "testo": "Cielo di lavagna\nsulla zucca spaccata\ncola la polpa",
- "nota": "Osservata una zucca aperta davanti a una porta nel giorno coperto.",
+ "aggiornato": "2026-11-01T10:53:38.555805+00:00",
+ "data": "2026-11-01",
+ "testo": "Giorno dei morti\ntra i lumini accesi\nfreddo il marmo",
+ "nota": "Al cimitero i piccoli lumi non scaldano la pietra tombale.",
  "archivio": [
+  {
+   "data": "2026-11-01",
+   "testo": "Giorno dei morti\ntra i lumini accesi\nfreddo il marmo",
+   "nota": "Al cimitero i piccoli lumi non scaldano la pietra tombale."
+  },
   {
    "data": "2026-10-31",
    "testo": "Cielo di lavagna\nsulla zucca spaccata\ncola la polpa",
@@ -448,11 +453,6 @@
    "data": "2026-08-04",
    "testo": "Sull'acquedotto\nun gatto disteso lungo\nla pietra tiepida",
    "nota": "Un gatto immobile sulle vecchie pietre dell'acquedotto medievale, nel meriggio."
-  },
-  {
-   "data": "2026-08-03",
-   "testo": "Nuvole gonfie\nun ragno tra le tegole\ntesse nell'afa",
-   "nota": "Osservata una tela di ragno sotto il cornicione, in un pomeriggio coperto e afoso."
   }
  ]
 }
