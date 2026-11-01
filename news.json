@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-10-31T23:49:15.903617+00:00",
+ "aggiornato": "2026-11-01T02:42:36.327296+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "In Texas hanno già votato 7,5 milioni di elettori, è record",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/in-texas-hanno-gia-votato-75-milioni-di-elettori-e-record_e6d6a7cf-92b9-4b51-b23d-48e4620cca73.html",
+     "data": "2026-11-01T00:52:11+00:00"
+    },
+    {
+     "titolo": "Trump: 'Non abbiamo fretta sull'Iran, abbiamo uno o due siti di cui occuparci'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/trump-non-abbiamo-fretta-sulliran-abbiamo-uno-o-due-siti-di-cui_502b70e6-4f9b-4853-8ebe-e83d054eba8c.html",
+     "data": "2026-11-01T00:22:16+00:00"
+    },
+    {
+     "titolo": "Città del Messico, parata da 1,6 milioni di spettatori per i defunti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/citta-del-messico-parata-da-16-milioni-di-spettatori-per-i-defunti_2664dbd0-43ce-4d28-bdbf-9cd05bacac4b.html",
+     "data": "2026-11-01T00:09:10+00:00"
+    },
     {
      "titolo": "Lite in stazione finisce a coltellate, un morto nel Frusinate",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/lite-in-stazione-finisce-a-coltellate-un-morto-nel-frusinate_0caf2441-edb1-43a2-b744-e208f103bf09.html",
@@ -39,21 +54,6 @@
      "titolo": "Salvini, io non pagherei per avere la targa personalizzata",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/salvini-io-non-pagherei-per-avere-la-targa-personalizzata_d15dbe5d-a73f-41e1-9b9b-473f5b1f6bd3.html",
      "data": "2026-10-31T17:46:30+00:00"
-    },
-    {
-     "titolo": "Conte, primarie aperte, chi siamo io e Schlein per decidere chi partecipa?",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/conte-primarie-aperte-chi-siamo-io-e-schlein-per-decidere-chi-partecipa_62a29423-2f35-40bd-9c2d-0198df22cdaa.html",
-     "data": "2026-10-31T17:32:34+00:00"
-    },
-    {
-     "titolo": "Salvini, se il Parlamento vuole un contributo maggiore dalle banche è sovrano",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/salvini-se-il-parlamento-vuole-un-contributo-maggiore-dalle-banche-e-sovrano_be302793-8656-4050-917a-73850326657b.html",
-     "data": "2026-10-31T17:31:30+00:00"
-    },
-    {
-     "titolo": "Binance reintegra il 90% degli asset sottratti con l'attacco informatico",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/binance-reintegra-il-90-degli-asset-sottratti-con-lattacco-informatico_8b01ca13-0a00-4f34-ab7e-6fda1f811b2d.html",
-     "data": "2026-10-31T17:27:54+00:00"
     }
    ]
   },
@@ -311,6 +311,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump: 'Non abbiamo fretta sull'Iran, abbiamo uno o due siti di cui occuparci'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/01/trump-non-abbiamo-fretta-sulliran-abbiamo-uno-o-due-siti-di-cui_ae010ee2-bd06-4f80-8ac8-24cf1ebc3e3e.html",
+     "data": "2026-11-01T00:22:35+00:00"
+    },
+    {
+     "titolo": "Città del Messico, parata da 1,6 milioni di spettatori per i defunti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/01/citta-del-messico-parata-da-16-milioni-di-spettatori-per-i-defunti_b9ea59c0-5809-451c-928a-c3aed5acb47a.html",
+     "data": "2026-11-01T00:09:32+00:00"
+    },
+    {
      "titolo": "'Fbi, Corea del Nord responsabile dell'attacco hacker a Binance'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/31/fbi-corea-del-nord-responsabile-dellattacco-hacker-a-binance_c6516a63-edf0-4276-b90b-cd80a68ac9d7.html",
      "data": "2026-10-31T22:12:09+00:00"
@@ -359,16 +369,6 @@
      "titolo": "Ambasciata Usa, registrata una minaccia credibile al museo Tsaritsyno di Mosca",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/ambasciata-usa-registrata-una-minaccia-credibile-al-museo-tsaritsyno-di-mosca_0b3c418a-bd23-45bb-8420-3ed702fb65ef.html",
      "data": "2026-10-31T15:39:29+00:00"
-    },
-    {
-     "titolo": "Ambasciata Usa, registrata una minaccia credibile al museo Tsaritsyno di Mosca",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/31/ambasciata-usa-registrata-una-minaccia-credibile-al-museo-tsaritsyno-di-mosca_f5a27121-0906-4bde-b86f-2464a8b61769.html",
-     "data": "2026-10-31T15:39:44+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'rientrati in Ucraina i residenti evacuati da Oleshky'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/zelensky-rientrati-in-ucraina-i-residenti-evacuati-da-oleshky_66d44356-c05d-4e6f-8f18-8fe55661236b.html",
-     "data": "2026-10-31T15:16:44+00:00"
     }
    ]
   },
@@ -441,6 +441,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Boxe: \"Canelo\" Alvarez batte Mbilli e riconquista il titolo WBC dei supermedi",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/01/boxe-canelo-alvarez-batte-mbilli-e-riconquista-il-titolo-wbc-dei-supermedi_5738ef3a-76af-45a0-87e4-c0f9af5fac50.html",
+     "data": "2026-11-01T01:28:43+00:00"
+    },
+    {
      "titolo": "Chivu \"approccio sbagliato ma non butterei tutto, ritroviamo fame e umiltà\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/chivu-approccio-sbagliato-ma-non-butterei-tutto-ritroviamo-fame-e-umilta_b71cd198-4e42-446b-9a52-71f0455aa1fd.html",
      "data": "2026-10-31T22:54:57+00:00"
@@ -494,11 +499,6 @@
      "titolo": "Figc: Marotta 'contrapposizioni tra le parti, ma vogliamo il bene del calcio\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/figc-marotta-contrapposizioni-tra-le-parti-ma-vogliamo-il-bene-del-calcio_f2b4a9d8-2b84-482b-b355-2dde2f5b905e.html",
      "data": "2026-10-31T19:44:23+00:00"
-    },
-    {
-     "titolo": "Marotta 'il nuovo stadio progetto stratosferico, derby spot per tutti'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/marotta-il-nuovo-stadio-progetto-stratosferico-derby-spot-per-tutti_e6af9e97-71ea-47c2-b919-9b7c4ce6ba2a.html",
-     "data": "2026-10-31T19:37:00+00:00"
     }
    ]
   }
