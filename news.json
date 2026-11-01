@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-11-01T02:42:36.327296+00:00",
+ "aggiornato": "2026-11-01T09:48:34.876022+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Meloni, concentrata a chiedere altro mandato. Il Quirinale non è nei miei piani",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/meloni-concentrata-a-chiedere-altro-mandato.-il-quirinale-non-e-nei-miei-piani_eb74ac64-d33b-4c35-afb9-1b0b5cf7d72d.html",
+     "data": "2026-11-01T08:35:08+00:00"
+    },
+    {
+     "titolo": "Repubblica Centrafricana, esercito sventa tentativo di presa del potere dei miliziani",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/repubblica-centrafricana-esercito-sventa-tentativo-di-presa-del-potere-dei-miliziani_6d525416-26e7-4479-8aa8-35670dee1c13.html",
+     "data": "2026-11-01T04:06:16+00:00"
+    },
     {
      "titolo": "In Texas hanno già votato 7,5 milioni di elettori, è record",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/in-texas-hanno-gia-votato-75-milioni-di-elettori-e-record_e6d6a7cf-92b9-4b51-b23d-48e4620cca73.html",
@@ -44,16 +54,6 @@
      "titolo": "Conte a Schlein, su Renzi no veti personali, ma senza garanzie non ci stiamo",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/conte-a-schlein-su-renzi-no-veti-personali-ma-senza-garanzie-non-ci-stiamo_dd43c13f-073b-455b-a6d8-afed4e8732a8.html",
      "data": "2026-10-31T18:30:19+00:00"
-    },
-    {
-     "titolo": "Salvini, 'se il Parlamento vuole un contributo maggiore dalle banche è sovrano'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/salvini-se-il-parlamento-vuole-un-contributo-maggiore-dalle-banche-e-sovrano_43cbac03-32c2-46d6-bc0c-8cd83afb00a4.html",
-     "data": "2026-10-31T18:06:27+00:00"
-    },
-    {
-     "titolo": "Salvini, io non pagherei per avere la targa personalizzata",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/salvini-io-non-pagherei-per-avere-la-targa-personalizzata_d15dbe5d-a73f-41e1-9b9b-473f5b1f6bd3.html",
-     "data": "2026-10-31T17:46:30+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Morta nella piscina di casa nel Comasco, arrestato l'ex marito",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/morta-nella-piscina-di-casa-nel-comasco-arrestato-lex-marito_4ca017c1-3daa-4120-b2ad-789d90ed8fb7.html",
+     "data": "2026-11-01T09:17:31+00:00"
+    },
+    {
      "titolo": "Lite in stazione finisce a coltellate, 38enne arrestato per omicidio",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/lite-in-stazione-finisce-a-coltellate-38enne-arrestato-per-omicidio_fb596364-c915-46ef-8b31-4a06c2eacfe5.html",
      "data": "2026-10-31T23:32:30+00:00"
@@ -179,17 +184,22 @@
      "titolo": "#AccadeOggi",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
      "data": "2026-10-31T17:40:06+00:00"
-    },
-    {
-     "titolo": "Il parto sul bus, l'autista racconta 'un abbraccio di umanità'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/il-parto-sul-bus-lautista-racconta-un-abbraccio-di-umanita_b4627c5c-04d2-4f71-88a3-39ad3f7e5360.html",
-     "data": "2026-10-31T17:40:16+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Meloni, concentrata a chiedere altro mandato. Il Quirinale non è nei miei piani",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/01/meloni-concentrata-a-chiedere-altro-mandato.-il-quirinale-non-e-nei-miei-piani_a0038a28-b000-402c-8b26-b6dd6250e11e.html",
+     "data": "2026-11-01T08:35:06+00:00"
+    },
+    {
+     "titolo": "Meloni: 'Concentrata a chiedere un altro mandato. Il Quirinale non è nei miei piani'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/01/meloni-concentrata-a-chiedere-un-altro-mandato.-il-quirinale-non-e-nei-miei-piani_facdc2e3-865b-4f6a-9977-dec528bb34e0.html",
+     "data": "2026-11-01T08:33:09+00:00"
+    },
     {
      "titolo": "Su difesa e sicurezza linea comune nella manovra: i parà a Milano fino a marzo, fondi per il nuovo caccia",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/31/su-difesa-e-sicurezza-linea-comune-nella-manovra-i-para-a-milano-fino-a-marzo_468492f1-e0c1-45a9-a32b-d93c7fec981f.html",
@@ -234,11 +244,6 @@
      "titolo": "Schlein, parte dell'establishment non vuole la sinistra al governo",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/31/schlein-parte-dellestablishment-non-vuole-la-sinistra-al-governo_08f75907-7083-4b48-8b49-86de1594dbfd.html",
      "data": "2026-10-31T15:07:54+00:00"
-    },
-    {
-     "titolo": "Il campo largo accelera, subito il programma e primarie entro febbraio",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/10/31/il-campo-largo-accelera-subito-il-programma-e-primarie-entro-febbraio_2e10ed14-2959-47b6-8f4d-4c06f9726eee.html",
-     "data": "2026-10-31T11:10:30+00:00"
     }
    ]
   },
@@ -248,7 +253,7 @@
     {
      "titolo": "Manovra, scontro sulla scuola. Banche ancora sotto tiro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-scontro-sulla-scuola.-banche-ancora-sotto-tiro_ff019702-1b62-4f1a-8c3d-ca9b9e0ad8cb.html",
-     "data": "2026-10-31T20:43:44+00:00"
+     "data": "2026-11-01T09:33:26+00:00"
     },
     {
      "titolo": "Salvini, 'se il Parlamento vuole un contributo maggiore dalle banche è sovrano'",
@@ -311,6 +316,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Repubblica Centrafricana, esercito sventa tentativo di presa del potere dei miliziani",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/01/repubblica-centrafricana-esercito-sventa-tentativo-di-presa-del-potere-dei-miliziani_7fa3dcd8-47bc-42b0-ba2e-cd891cc69c0a.html",
+     "data": "2026-11-01T04:06:20+00:00"
+    },
+    {
      "titolo": "Trump: 'Non abbiamo fretta sull'Iran, abbiamo uno o due siti di cui occuparci'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/01/trump-non-abbiamo-fretta-sulliran-abbiamo-uno-o-due-siti-di-cui_ae010ee2-bd06-4f80-8ac8-24cf1ebc3e3e.html",
      "data": "2026-11-01T00:22:35+00:00"
@@ -364,11 +374,6 @@
      "titolo": "Rubio, Trump non ha ancora deciso su un nuovo attacco all'Iran",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/31/rubio-trump-non-ha-ancora-deciso-su-un-nuovo-attacco-alliran_16f348c1-89d2-448a-8ae0-8a69badaa5b3.html",
      "data": "2026-10-31T16:54:58+00:00"
-    },
-    {
-     "titolo": "Ambasciata Usa, registrata una minaccia credibile al museo Tsaritsyno di Mosca",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/ambasciata-usa-registrata-una-minaccia-credibile-al-museo-tsaritsyno-di-mosca_0b3c418a-bd23-45bb-8420-3ed702fb65ef.html",
-     "data": "2026-10-31T15:39:29+00:00"
     }
    ]
   },
@@ -441,64 +446,64 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Serie A: Lecce-Genoa in campo alle 18 DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/01/serie-a-lecce-genoa-in-campo-alle-18-diretta_b2147e23-8617-4f35-ad2f-ab6163c437bb.html",
+     "data": "2026-11-01T08:25:03+00:00"
+    },
+    {
+     "titolo": "Serie A: Frosinone-Torino in campo alle 15 DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/01/serie-a-frosinone-torino-in-campo-alle-15-diretta_230389ae-8133-46ae-b67c-961cc331e6df.html",
+     "data": "2026-11-01T08:11:36+00:00"
+    },
+    {
+     "titolo": "Serie A: Lazio-Cagliari in campo alle 15 DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/01/serie-a-lazio-cagliari-in-campo-alle-15-diretta_4b330203-a3e7-49f6-9d1a-deb5ae5300a4.html",
+     "data": "2026-11-01T08:10:58+00:00"
+    },
+    {
+     "titolo": "Serie A: Juventus-Napoli in campo alle 20.45 DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/01/serie-a-juventus-napoli-in-campo-alle-20.45-diretta_e2ba040b-cc68-4804-a641-019c1bfdde12.html",
+     "data": "2026-11-01T08:10:19+00:00"
+    },
+    {
+     "titolo": "Serie A: Como-Venezia in campo alle 12.30 DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/01/serie-a-como-venezia-in-campo-alle-12.30-diretta_a920b962-89a5-4f32-b8f3-023f78b59d42.html",
+     "data": "2026-11-01T08:09:33+00:00"
+    },
+    {
+     "titolo": "Wnba: Petrucci, 'Brava Cecilia, sei arrivata dove nessun italiano era mai arrivato'",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/01/wnba-petrucci-brava-cecilia-sei-arrivata-dove-nessun-italiano-era_c4b17e3f-6913-4b36-979d-20ec8a19ee21.html",
+     "data": "2026-11-01T08:05:59+00:00"
+    },
+    {
+     "titolo": "Tennis: Diana Shnaider vince il torneo di Tokyo",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/01/tennis-diana-shnaider-vince-il-torneo-di-tokyo_d44fc274-f6ee-4a72-80c5-e1f4b54458ae.html",
+     "data": "2026-11-01T07:50:19+00:00"
+    },
+    {
+     "titolo": "Tennis: Paolini-Errani vincono il torneo di doppio di Tokyo",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/01/tennis-paolini-errani-vincono-il-torneo-di-doppio-di-tokyo_90808306-7d98-4407-9eb6-c81839bac859.html",
+     "data": "2026-11-01T07:40:38+00:00"
+    },
+    {
+     "titolo": "Nba: vittorie esterne per Philadelphia e Portland",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/01/nba-vittorie-esterne-per-philadelphia-e-portland_a1789404-eac8-452b-be79-a8962d4d9d69.html",
+     "data": "2026-11-01T07:36:28+00:00"
+    },
+    {
+     "titolo": "++ Wnba: le Valkyries e la Zandalasini vincono il titolo 2026 ++",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/01/-wnba-le-valkyries-e-la-zandalasini-vincono-il-titolo-2026-_8d5f0235-d87e-46f9-aaeb-23e8bbd938a0.html",
+     "data": "2026-11-01T07:15:19+00:00"
+    },
+    {
+     "titolo": "Wnba: le Valkyries e Cecilia Zandalasini vincono il titolo 2026",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/01/-wnba-le-valkyries-e-la-zandalasini-vincono-il-titolo-2026-_210bb390-7122-456d-9ed7-fd411957954f.html",
+     "data": "2026-11-01T09:32:23+00:00"
+    },
+    {
      "titolo": "Boxe: \"Canelo\" Alvarez batte Mbilli e riconquista il titolo WBC dei supermedi",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/01/boxe-canelo-alvarez-batte-mbilli-e-riconquista-il-titolo-wbc-dei-supermedi_5738ef3a-76af-45a0-87e4-c0f9af5fac50.html",
      "data": "2026-11-01T01:28:43+00:00"
-    },
-    {
-     "titolo": "Chivu \"approccio sbagliato ma non butterei tutto, ritroviamo fame e umiltà\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/chivu-approccio-sbagliato-ma-non-butterei-tutto-ritroviamo-fame-e-umilta_b71cd198-4e42-446b-9a52-71f0455aa1fd.html",
-     "data": "2026-10-31T22:54:57+00:00"
-    },
-    {
-     "titolo": "L'orgoglio di Amorim: \"Dopo Bologna avevamo tanta voglia di riscattarci\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/lorgoglio-di-amorim-dopo-bologna-avevamo-tanta-voglia-di-riscattarci_92108e49-93ed-413b-b5b7-1a785a84175a.html",
-     "data": "2026-10-31T22:45:29+00:00"
-    },
-    {
-     "titolo": "GP Messico: Antonelli \"domani cercherò di fare una bella partenza\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/31/gp-messico-antonelli-domani-cerchero-di-fare-una-bella-partenza_03245420-25f1-4447-9a2b-db6f8e70c8b0.html",
-     "data": "2026-10-31T22:43:10+00:00"
-    },
-    {
-     "titolo": "F1: Hamilton in Messico ritrova la pole, Antonelli partirà quarto",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/31/f1-hamilton-in-messico-ritrova-la-pole-antonelli-partira-quarto_2dbf7712-2bb2-4cf8-bc41-dd42d88e22ab.html",
-     "data": "2026-10-31T22:25:25+00:00"
-    },
-    {
-     "titolo": "F1: Hamilton in pole, al suo fianco Russel. Antonelli parte quarto",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/10/31/f1-hamilton-in-pole-al-suo-fianco-russel.-antonelli-quinto_d44231ac-58ba-4f03-bfb9-8da0eb242644.html",
-     "data": "2026-10-31T23:02:31+00:00"
-    },
-    {
-     "titolo": "Il derby è del Milan, l'Inter battuta 3-1",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/il-derby-e-del-milan-linter-battuta-3-1_dab13087-1050-4404-962e-9f042a5c06b3.html",
-     "data": "2026-10-31T21:52:22+00:00"
-    },
-    {
-     "titolo": "Tifosi Inter contro la demolizione di San Siro, striscione esposto al derby",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/tifosi-inter-contro-la-demolizione-di-san-siro-striscione-esposto-al-derby_342994b4-d25a-40bf-933a-26794574edf8.html",
-     "data": "2026-10-31T20:36:38+00:00"
-    },
-    {
-     "titolo": "Europei curling: storica finale per gli azzurri, c'è la Scozia per l'oro",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/31/europei-curling-storica-finale-per-gli-azzurri-ce-la-scozia-per-loro_33803c14-02b5-4838-bdf3-c00911155897.html",
-     "data": "2026-10-31T20:17:06+00:00"
-    },
-    {
-     "titolo": "Gasperini, dalla Roma \"prestazione di assoluto livello\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/gasperini-dalla-roma-prestazione-di-assoluto-livello_047ef580-a3c4-4765-944b-a274f4e0edde.html",
-     "data": "2026-10-31T19:58:17+00:00"
-    },
-    {
-     "titolo": "Udinese: Runjaic 'primo tempo imbarazzante, ora decide la società'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/udinese-runjaic-primo-tempo-imbarazzante-ora-decide-la-societa_953c34f6-8d40-4866-830d-0e63e1fc2261.html",
-     "data": "2026-10-31T19:46:19+00:00"
-    },
-    {
-     "titolo": "Figc: Marotta 'contrapposizioni tra le parti, ma vogliamo il bene del calcio\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/figc-marotta-contrapposizioni-tra-le-parti-ma-vogliamo-il-bene-del-calcio_f2b4a9d8-2b84-482b-b355-2dde2f5b905e.html",
-     "data": "2026-10-31T19:44:23+00:00"
     }
    ]
   }
