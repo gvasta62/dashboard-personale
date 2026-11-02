@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-11-01T23:58:39.387753+00:00",
+ "aggiornato": "2026-11-02T04:07:54.566195+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "'Gli Usa premono per il ripristino delle vendite di gas russo in Ue attraverso l'Ucraina'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/gli-usa-premono-per-il-ripristino-delle-vendite-di-gas-russo-in-ue-attraverso_4d587ece-2da9-4ee0-927f-dac952794ac3.html",
+     "data": "2026-11-02T02:36:40+00:00"
+    },
+    {
+     "titolo": "Mosca, hackerata l'app di allerta per attacchi aerei",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/mosca-hackerata-lapp-di-allerta-per-attacchi-aerei_d1587c58-9724-4cb1-a2fd-191ff84b6c7f.html",
+     "data": "2026-11-02T01:09:58+00:00"
+    },
+    {
+     "titolo": "Zelensky, stop ad attacchi a raffinerie russe se Usa forniscono missili",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/zelensky-stop-ad-attacchi-a-raffinerie-russe-se-usa-forniscono-missili_9016f545-0915-4e7b-9aeb-fa8a729f15e7.html",
+     "data": "2026-11-02T00:32:00+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,44%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/borsa-tokyo-apertura-in-calo-044_dbaca9c3-ff86-4df2-b85a-4a70844b56cf.html",
+     "data": "2026-11-02T00:23:17+00:00"
+    },
     {
      "titolo": "Valentino Rossi' Kimi mi assomiglia, diventerà uno dei piloti più forti storia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/valentino-rossi-kimi-mi-assomiglia-diventera-uno-dei-piloti-piu-forti_06267cc9-8c63-4a07-bb3a-6d0dc7b61fe5.html",
@@ -34,26 +54,6 @@
      "titolo": "Kiev, sospetto hackeraggio app allerta attacchi aerei in ucraina",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/kiev-sospetto-hackeraggio-app-allerta-attacchi-aerei-in-ucraina_67b895ca-e0b9-46dc-9452-3bcda6069fe3.html",
      "data": "2026-11-01T21:48:48+00:00"
-    },
-    {
-     "titolo": "Cnn, 'Trump chiuderà domani la campagna per le midterm al Lincoln Memorial'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/cnn-trump-chiudera-domani-la-campagna-per-le-midterm-al-lincoln-memorial_150270e3-4dde-4b5c-b16a-febcae37a04d.html",
-     "data": "2026-11-01T19:44:27+00:00"
-    },
-    {
-     "titolo": "Gp Messico: Antonelli 'farò del mio meglio per portare in alto il tricolore'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/gp-messico-antonelli-faro-del-mio-meglio-per-portare-in-alto-il-tricolore_2771f672-0d71-4abe-925b-22cc4f1e7143.html",
-     "data": "2026-11-01T19:16:49+00:00"
-    },
-    {
-     "titolo": "Incassi Usa, You Can See Everything guida il fiacco box office di Halloween",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/incassi-usa-you-can-see-everything-guida-il-fiacco-box-office_5d304e91-212a-4028-b326-5208c0bf431d.html",
-     "data": "2026-11-01T18:28:58+00:00"
-    },
-    {
-     "titolo": "Anm, tutela stipendi è condizione per salvaguardia dell'indipendenza",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/anm-tutela-stipendi-e-condizione-per-salvaguardia-dellindipendenza_1c1275af-8c14-4d26-b722-a5ee5fdd89a4.html",
-     "data": "2026-11-01T18:25:05+00:00"
     }
    ]
   },
@@ -246,6 +246,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,44%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/02/borsa-tokyo-apertura-in-calo-044_3afa8bc7-0d32-43b4-90c2-f25f5a031dbb.html",
+     "data": "2026-11-02T00:23:20+00:00"
+    },
+    {
      "titolo": "Manovra: stretta sugli aumenti degli stipendi dei magistrati. Altolà dell'Anm",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-stretta-sugli-aumenti-degli-stipendi-dei-magistrati-rivisti-i-criteri_20031262-e476-45eb-82ee-0356dd37c56f.html",
      "data": "2026-11-01T19:49:31+00:00"
@@ -299,17 +304,32 @@
      "titolo": "Al via in Ue le commissioni da 2 euro per l'acquisto di pacchi cinesi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/al-via-in-ue-le-commissioni-da-2-euro-per-lacquisto-di-pacchi-cinesi_4bb94b00-7ed8-4ec9-9332-729dcabba694.html",
      "data": "2026-11-01T14:32:04+00:00"
-    },
-    {
-     "titolo": "Entro domani le adesioni al concordato preventivo biennale",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/entro-domani-le-adesioni-al-concordato-preventivo-biennale_67be9f6a-61c3-42c3-8838-249797983fe4.html",
-     "data": "2026-11-01T13:11:03+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "'Gli Usa premono per il ripristino delle vendite di gas russo in Ue attraverso l'Ucraina'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/gli-usa-premono-per-il-ripristino-delle-vendite-di-gas-russo-in-ue-attraverso_31e8a0c8-cc4c-4e69-a0ea-4a3dc942392b.html",
+     "data": "2026-11-02T02:37:00+00:00"
+    },
+    {
+     "titolo": "'Gli Usa premono per il ripristino delle vendite di gas russo in Ue attraverso l'Ucraina'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/02/gli-usa-premono-per-il-ripristino-delle-vendite-di-gas-russo-in-ue-attraverso_73badb33-f9f8-4943-a1e5-74d9d5b09e5a.html",
+     "data": "2026-11-02T02:37:16+00:00"
+    },
+    {
+     "titolo": "Mosca, hackerata l'app di allerta per attacchi aerei",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/mosca-hackerata-lapp-di-allerta-per-attacchi-aerei_8b1baddd-4a05-43e3-a5b7-69fa7541b988.html",
+     "data": "2026-11-02T01:10:10+00:00"
+    },
+    {
+     "titolo": "Zelensky, stop ad attacchi a raffinerie russe se Usa forniscono missili",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/zelensky-stop-ad-attacchi-a-raffinerie-russe-se-usa-forniscono-missili_26139883-04c1-43c1-b96a-7e9922936a47.html",
+     "data": "2026-11-02T00:32:00+00:00"
+    },
     {
      "titolo": "Kiev, sospetto hackeraggio app allerta attacchi aerei in ucraina",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/kiev-sospetto-hackeraggio-app-allerta-attacchi-aerei-in-ucraina_2707a6a6-f4b4-40a6-9a47-7d753653cc0a.html",
@@ -349,26 +369,6 @@
      "titolo": "Commissione elettorale Israele, 'voto regolare, sospetti non pregiudicano esito'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/commissione-elettorale-israele-voto-regolare-sospetti-non-pregiudicano-esito_e0739af5-8223-4ae6-b003-363cfcdddb73.html",
      "data": "2026-11-01T18:02:22+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'sono pronto a incontrare Putin in Turchia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/zelensky-sono-pronto-a-incontrare-putin-in-turchia_e38af278-858a-401f-b271-d12e06ea5154.html",
-     "data": "2026-11-01T17:22:57+00:00"
-    },
-    {
-     "titolo": "Nbc, 52% elettori vogliono Congresso a guida dem, il 45% per i repubblicani",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/01/nbc-52-elettori-vogliono-congresso-a-guida-dem-il-45-per-i-repubblicani_27aa9b42-301c-4c32-9143-18473ca873e5.html",
-     "data": "2026-11-01T17:20:00+00:00"
-    },
-    {
-     "titolo": "Halloween di sangue in Texas, 4 morti e 15 feriti in tre sparatorie a Dallas",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/halloween-di-sangue-in-texas-4-morti-e-15-feriti-in-tre-sparatorie-a-dallas_9b40ff7c-7100-4f20-9ddc-77e9f300ab9c.html",
-     "data": "2026-11-01T16:36:04+00:00"
-    },
-    {
-     "titolo": "Marocco, vignettista condannato a 4 anni per caricature del re",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/01/marocco-vignettista-condannato-a-4-anni-per-caricature-del-re_e60627f6-ca02-4d72-b014-b975d368db32.html",
-     "data": "2026-11-01T16:23:03+00:00"
     }
    ]
   },
