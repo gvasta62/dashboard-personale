@@ -1,10 +1,40 @@
 {
- "aggiornato": "2026-11-02T21:57:48.542192+00:00",
+ "aggiornato": "2026-11-03T03:14:04.220391+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, 'con Iran sorta di guerra che può degenerare, ottime probabilità di accordo'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/trump-con-iran-sorta-di-guerra-che-puo-degenerare-ottime-probabilita_f281f837-4e98-4019-a415-b8a83b9d15ef.html",
+     "data": "2026-11-03T03:11:38+00:00"
+    },
+    {
+     "titolo": "Droni ucraini colpiscono una raffineria di petrolio in Russia",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/droni-ucraini-colpiscono-una-raffineria-di-petrolio-in-russia_94d1153c-0ed7-400b-bd52-ad12302bcd9e.html",
+     "data": "2026-11-03T03:01:40+00:00"
+    },
+    {
+     "titolo": "Giappone, piano difesa da 500 miliardi di dollari in cinque anni",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/giappone-piano-difesa-da-500-miliardi-di-dollari-in-cinque-anni_484287d3-9f53-4013-807f-c414536fef08.html",
+     "data": "2026-11-03T02:21:09+00:00"
+    },
+    {
+     "titolo": "Wsj, 'attacco limitato Usa contro l'isola iraniana di Qeshm'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/wsj-attacco-limitato-usa-contro-lisola-iraniana-di-qeshm_f97443bf-f3fb-4715-a644-7b851526f148.html",
+     "data": "2026-11-03T02:02:50+00:00"
+    },
+    {
+     "titolo": "Witkoff, 'Usa medieranno colloqui Abu Dhabi a livello tecnico tra Russia e Ucraina'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/witkoff-usa-medieranno-colloqui-abu-dhabi-a-livello-tecnico-tra-russia_673a7d30-31d6-44ab-8403-e3e302bc08e3.html",
+     "data": "2026-11-02T23:46:49+00:00"
+    },
+    {
+     "titolo": "Corte Suprema Usa boccia richiesta Trump su blocco 20.000 voti in California",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/corte-suprema-usa-boccia-richiesta-trump-su-blocco-20.000-voti-in-california_7b600cfe-d6e8-49eb-8f32-cca7fde2a7e6.html",
+     "data": "2026-11-02T23:44:49+00:00"
+    },
     {
      "titolo": "Trump, 'prezzi del petrolio crollano, un accordo con l'Iran può avvenire!'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/trump-prezzi-del-petrolio-crollano-un-accordo-con-liran-puo-avvenire_1ec485e6-beb1-40ba-8253-9b6bd932d2da.html",
@@ -24,36 +54,6 @@
      "titolo": "Il petrolio chiude in forte calo a New York, a -7,45%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/il-petrolio-chiude-in-forte-calo-a-new-york-a-745_a3e4a8ae-9071-4564-a017-8a4c2f84eef5.html",
      "data": "2026-11-02T19:41:56+00:00"
-    },
-    {
-     "titolo": "Domani a Palazzo Chigi riunione con Mantovano e i Servizi su attacchi hacker",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/domani-a-palazzo-chigi-riunione-con-mantovano-e-i-servizi-su-attacchi-hacker_b4e197f6-e7d1-4364-a612-b650c34cda17.html",
-     "data": "2026-11-02T19:36:47+00:00"
-    },
-    {
-     "titolo": "Attacchi hacker ai supermercati, si muove anche il Copasir",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/attacchi-hacker-ai-supermercati-si-muove-anche-il-copasir_69c68627-9934-4d8d-a4e4-dbf44d078ada.html",
-     "data": "2026-11-02T19:36:50+00:00"
-    },
-    {
-     "titolo": "Attacchi hacker a sistemi refrigerazione dei supermercati della Sicilia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/attacchi-hacker-a-sistemi-refrigerazione-dei-supermercati-della-sicilia_898b88c3-e0fb-466e-9d38-f9b754bff241.html",
-     "data": "2026-11-02T19:19:46+00:00"
-    },
-    {
-     "titolo": "Netanyahu, 'aperto al dialogo per un ampio governo nazionale'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/netanyahu-aperto-al-dialogo-per-un-ampio-governo-nazionale_820f6a47-827e-495f-8984-ebe0e971c849.html",
-     "data": "2026-11-02T19:10:26+00:00"
-    },
-    {
-     "titolo": "Attacchi hacker ai supermercati, alert Agenzia cyber in Italia",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/attacchi-hacker-ai-supermercati-alert-agenzia-cyber-in-italia_a03ebc06-e786-4cc3-a21b-ce2ff626e364.html",
-     "data": "2026-11-02T18:21:09+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'attacco devastante su Komysuhvakha, almeno 18 morti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/zelensky-attacco-devastante-su-komysuhvakha-almeno-18-morti_625499b2-f440-4c21-8cfe-237012c7836f.html",
-     "data": "2026-11-02T17:41:58+00:00"
     }
    ]
   },
@@ -321,6 +321,46 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Droni ucraini colpiscono una raffineria di petrolio in Russia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/droni-ucraini-colpiscono-una-raffineria-di-petrolio-in-russia_d6f87d43-f2cd-4c13-99f2-e9900a15ca15.html",
+     "data": "2026-11-03T03:01:57+00:00"
+    },
+    {
+     "titolo": "Giappone, piano difesa da 500 miliardi di dollari in cinque anni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/03/giappone-piano-difesa-da-500-miliardi-di-dollari-in-cinque-anni_c345eec8-f22a-4688-95bf-f5d6594062ca.html",
+     "data": "2026-11-03T02:21:28+00:00"
+    },
+    {
+     "titolo": "Wsj, 'attacco limitato Usa contro l'isola iraniana di Qeshm'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/wsj-attacco-limitato-usa-contro-lisola-iraniana-di-qeshm_f782589e-5d63-4d1b-92b4-e47bed9ef1c4.html",
+     "data": "2026-11-03T02:03:09+00:00"
+    },
+    {
+     "titolo": "Bolivia, Rodrigo Paz dichiara emergenza nazionale per il fenomeno El Niño",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/03/bolivia-rodrigo-paz-dichiara-emergenza-nazionale-per-il-fenomeno-el-nino_b0a9089c-713f-4066-ad45-de0fc3ddfc06.html",
+     "data": "2026-11-03T00:37:38+00:00"
+    },
+    {
+     "titolo": "Perù: allarme per piogge eccezionali al nord, atteso El Niño straordinario",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/03/peru-allarme-per-piogge-eccezionali-al-nord-atteso-el-nino-straordinario_876b6e83-02c6-42c5-b51a-e8ab28296175.html",
+     "data": "2026-11-03T00:07:38+00:00"
+    },
+    {
+     "titolo": "Witkoff, 'Usa medieranno colloqui Abu Dhabi a livello tecnico tra Russia e Ucraina'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/witkoff-usa-medieranno-colloqui-abu-dhabi-a-livello-tecnico-tra-russia_1b229371-5f8a-49d3-aefa-0a8bb4b8d776.html",
+     "data": "2026-11-02T23:47:06+00:00"
+    },
+    {
+     "titolo": "Corte Suprema Usa boccia richiesta Trump su blocco 20.000 voti in California",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/corte-suprema-usa-boccia-richiesta-trump-su-blocco-20.000-voti-in-california_2b456d9e-d93d-45a7-9469-eeb17400cf64.html",
+     "data": "2026-11-02T23:44:49+00:00"
+    },
+    {
+     "titolo": "Media, Benetton lascia la Patagonia,dopo 35 anni venduta 'estancia' di 900 mila ettari",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/02/media-benetton-lascia-la-patagoniadopo-35-anni-venduta-estancia-di-900-mila-ettari_8861507a-0869-468b-843d-8724e231e259.html",
+     "data": "2026-11-02T22:44:30+00:00"
+    },
+    {
      "titolo": "Stato di emergenza in Belize per escalation di violenza delle gang",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/02/stato-di-emergenza-in-belize-per-escalation-di-violenza-delle-gang_231d0533-190f-4fab-860d-03bb019db3f3.html",
      "data": "2026-11-02T21:24:52+00:00"
@@ -339,46 +379,6 @@
      "titolo": "Supermercati sotto attacco hacker anche in Italia, riunione a Palazzo Chigi con l'Intelligence",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/supermercati-sotto-attacco-hacker-anche-in-italia-riunione-a-palazzo-chigi-con_5e6f0b27-05c9-468a-9004-087167137119.html",
      "data": "2026-11-02T20:05:20+00:00"
-    },
-    {
-     "titolo": "Trump, 'le midterm più importanti della storia, dai dem candidati jihadisti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/02/trump-le-midterm-piu-importanti-della-storia-dai-dem-candidati-jihadisti_0580a46a-cd17-4122-a9dc-12a60cc43254.html",
-     "data": "2026-11-02T19:43:35+00:00"
-    },
-    {
-     "titolo": "Cuba riorganizza il governo e riduce il numero di ministeri in cerca di 'efficienza'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/02/cuba-riorganizza-il-governo-e-riduce-il-numero-di-ministeri-in-cerca-di-efficienza_11db0b7f-e55f-4ae1-94e7-612c169f8fba.html",
-     "data": "2026-11-02T19:41:03+00:00"
-    },
-    {
-     "titolo": "Netanyahu, 'aperto al dialogo per un ampio governo nazionale'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/02/netanyahu-aperto-al-dialogo-per-un-ampio-governo-nazionale_d152a4e7-cc66-4516-8507-13f296561fcf.html",
-     "data": "2026-11-02T19:10:30+00:00"
-    },
-    {
-     "titolo": "Fuga di Bolsonaro, si indaga su un volo in Argentina e partecipazione del Mossad",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/02/fuga-di-bolsonaro-si-indaga-su-un-volo-in-argentina-e-partecipazione-del-mossad_07842fc2-2dab-420d-b6d5-c33c38aec7dc.html",
-     "data": "2026-11-02T18:28:45+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'attacco devastante su Komysuhvakha, almeno 18 morti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/zelensky-attacco-devastante-su-komysuhvakha-almeno-18-morti_66bdaee3-db9b-49b8-b429-78b135983319.html",
-     "data": "2026-11-02T17:42:14+00:00"
-    },
-    {
-     "titolo": "Trump chiede intervento Corte Suprema sul blocco dei voti in California",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/02/trump-chiede-intervento-corte-suprema-sul-blocco-dei-voti-in-california_5d410039-443b-4b94-9c92-0fff9941d7a9.html",
-     "data": "2026-11-02T16:52:30+00:00"
-    },
-    {
-     "titolo": "Ue, attacchi ai supermercati tentativo d'interrompere approvvigionamento alimentare",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/ue-attacchi-ai-supermercati-tentativo-dinterrompere-approvvigionamento-alimentare_589df743-d8ac-4468-b820-33c953266538.html",
-     "data": "2026-11-02T16:50:30+00:00"
-    },
-    {
-     "titolo": "Conclusa ipo da 60 mln di euro sulla Banca del Cairo, quotata in Borsa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/02/conclusa-ipo-da-60-mln-di-euro-sulla-banca-del-cairo-quotata-in-borsa_c8ca24d4-c4e2-433c-a9ff-2da3eb244da4.html",
-     "data": "2026-11-02T16:20:09+00:00"
     }
    ]
   },
@@ -451,9 +451,24 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Serie A: disfatta Atalanta, il Parma si impone 3-0 a Bergamo",
+     "titolo": "NBA: Oklahoma City ritira il numero 0 di Russell Westbrook",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/02/nba-oklahoma-city-ritira-il-numero-0-di-russell-westbrook_2e9d04c8-b4f2-4c48-a24b-578302a3f5d9.html",
+     "data": "2026-11-02T23:00:19+00:00"
+    },
+    {
+     "titolo": "Atalanta: Sarri, 'bisogna stare zitti e chiedere scusa a società e tifosi'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/02/atalanta-sarri-bisogna-stare-zitti-e-chiedere-scusa-a-societa-e-tifosi_772f9767-de86-4c6a-8501-76e35c0668e7.html",
+     "data": "2026-11-02T22:57:15+00:00"
+    },
+    {
+     "titolo": "L'Atalanta crolla in casa con il Parma, contestati Sarri e giocatori",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/02/latalanta-crolla-in-casa-con-il-parma-contestati-sarri-e-giocatori_58aa1870-df8e-4646-adf0-52a30c522488.html",
+     "data": "2026-11-02T22:12:19+00:00"
+    },
+    {
+     "titolo": "L'Atalanta crolla in casa con il Parma, la curva contesta Sarri e calciatori",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/02/serie-a-disfatta-atalanta-il-parma-si-impone-3-0-a-bergamo_9516fa2b-9f6b-4ebd-8d9d-a26e11e997e8.html",
-     "data": "2026-11-02T21:39:51+00:00"
+     "data": "2026-11-02T22:33:17+00:00"
     },
     {
      "titolo": "Calcio: Frosinone, Raimondo fuori almeno 5-6 settimane",
@@ -494,21 +509,6 @@
      "titolo": "Arbitri contro insulti sessisti a Caputi, e per Orsato il Var ha sbagliato",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/02/ansa-box-arbitri-contro-insulti-sessisti-a-caputi-e-per-orsato-var_35239bf4-0557-498c-b1bc-84a982775d17.html",
      "data": "2026-11-02T19:14:13+00:00"
-    },
-    {
-     "titolo": "La Roma a Manchester, 'in campo come se giocassimo col miglior United'",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/11/02/la-roma-a-manchester-in-campo-come-se-giocassimo-col-miglior-united_f4486b8c-c4ad-47f6-9339-1c5b0b649554.html",
-     "data": "2026-11-02T19:21:11+00:00"
-    },
-    {
-     "titolo": "Champions: Thuram, Inter non deve fare finta che non ci sia problema",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/02/champions-thuram-inter-non-deve-fare-finta-che-non-ci-sia_ece557d6-f77b-4dbc-b481-20626c7e7fc2.html",
-     "data": "2026-11-02T18:48:07+00:00"
-    },
-    {
-     "titolo": "Champions: Chivu 'gestito situazioni non facili, Provedel e Pavard ok'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/02/champions-chivu-gestito-situazioni-non-facili-provedel-e-pavard-ok_914dc154-2a6b-44d7-a9a6-54813e1131bc.html",
-     "data": "2026-11-02T18:29:59+00:00"
     }
    ]
   }
