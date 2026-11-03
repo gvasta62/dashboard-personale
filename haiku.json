@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-02T11:49:58.482184+00:00",
- "data": "2026-11-02",
- "testo": "Grigio di novembre\nsul rastrello appoggiato\nmarcisce una mela",
- "nota": "Nel frutteto dopo i morti, una mela caduta accanto agli attrezzi.",
+ "aggiornato": "2026-11-03T11:28:26.683491+00:00",
+ "data": "2026-11-03",
+ "testo": "Cielo serrato\nsul sagrato bagnato\nbeccano i passeri",
+ "nota": "Passeri che cercano briciole sul sagrato umido in una mattina coperta.",
  "archivio": [
+  {
+   "data": "2026-11-03",
+   "testo": "Cielo serrato\nsul sagrato bagnato\nbeccano i passeri",
+   "nota": "Passeri che cercano briciole sul sagrato umido in una mattina coperta."
+  },
   {
    "data": "2026-11-02",
    "testo": "Grigio di novembre\nsul rastrello appoggiato\nmarcisce una mela",
@@ -448,11 +453,6 @@
    "data": "2026-08-06",
    "testo": "Muro scrostato\nsopra le scale del duomo\ngerani afflosciati",
    "nota": "Sotto il cielo coperto ho visto vasi di gerani stanchi sui gradini."
-  },
-  {
-   "data": "2026-08-05",
-   "testo": "Vigna sotto il grigio\nun grappolo si annerisce\nmosca sull'acino",
-   "nota": "Uva ancora acerba che scurisce nella luce coperta di agosto."
   }
  ]
 }
