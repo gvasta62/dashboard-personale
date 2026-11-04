@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-11-03T23:33:23.883244+00:00",
+ "aggiornato": "2026-11-04T03:26:21.437665+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "'Il dem Ossoff mantiene il suo seggio per il Senato in Georgia'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/il-dem-ossoff-mantiene-il-suo-seggio-per-il-senato-in-georgia_0c05678b-8f6d-4df9-9425-4fa465ff1588.html",
+     "data": "2026-11-04T00:37:13+00:00"
+    },
+    {
+     "titolo": "Trump, nessun piano immediato per attaccare l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/trump-nessun-piano-immediato-per-attaccare-liran_1883022c-a32c-485f-9793-233d484d2221.html",
+     "data": "2026-11-03T23:50:29+00:00"
+    },
     {
      "titolo": "Primi seggi per le Midterm chiudono in Indiana e Kentucky",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/primi-seggi-per-le-midterm-chiudono-in-indiana-e-kentucky_c7b8485a-0d2e-409d-8a01-5a4b849e7b27.html",
@@ -44,16 +54,6 @@
      "titolo": "Fonti, rilasciato su cauzione l'italiano arrestato dall'Ice in Usa",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/fonti-rilasciato-su-cauzione-litaliano-arrestato-dallice-in-usa_59cff292-e5e3-4f0a-bb5d-6f5bc9109ff6.html",
      "data": "2026-11-03T20:19:08+00:00"
-    },
-    {
-     "titolo": "Nyt, 'Usa hanno piano per colpire l'Iran subito dopo il voto'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/nyt-usa-hanno-piano-per-colpire-liran-subito-dopo-il-voto_d7c1a2e6-15c5-4450-8fe6-56bb36990440.html",
-     "data": "2026-11-03T20:09:10+00:00"
-    },
-    {
-     "titolo": "Il petrolio chiude in calo a New York a 96,09 dollari",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/il-petrolio-chiude-in-calo-a-new-york-a-9609-dollari_49cd03f6-b328-4aea-b1c6-461cbdc34008.html",
-     "data": "2026-11-03T19:58:49+00:00"
     }
    ]
   },
@@ -321,6 +321,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Bolivia, il Tribunale Supremo ordina un'indagine su Evo Morales",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/04/bolivia-il-tribunale-supremo-ordina-unindagine-su-evo-morales_8e8040e7-c29e-4dcc-a5b9-f5e29132654b.html",
+     "data": "2026-11-04T01:04:31+00:00"
+    },
+    {
+     "titolo": "Messico, terminata la valutazione del Gafi sul riciclaggio",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/04/messico-terminata-la-valutazione-del-gafi-sul-riciclaggio_38858e4f-b544-4fe4-8517-4a7c88544ab4.html",
+     "data": "2026-11-04T00:57:50+00:00"
+    },
+    {
+     "titolo": "Brasile, Senato approva all'unanimità la riforma della sicurezza",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/04/brasile-senato-approva-allunanimita-la-riforma-della-sicurezza_eba53d49-8ab1-4494-8ba5-46a8330c3b4c.html",
+     "data": "2026-11-04T00:52:26+00:00"
+    },
+    {
+     "titolo": "'Il dem Ossoff mantiene il suo seggio per il Senato in Georgia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/il-dem-ossoff-mantiene-il-suo-seggio-per-il-senato-in-georgia_bb89f906-31d6-484d-a052-06b2d3ffcf0f.html",
+     "data": "2026-11-04T00:37:17+00:00"
+    },
+    {
+     "titolo": "Trump, nessun piano immediato per attaccare l'Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/04/trump-nessun-piano-immediato-per-attaccare-liran_d6dab7ef-5200-4bc2-8114-9fa9ec26ffa9.html",
+     "data": "2026-11-03T23:50:29+00:00"
+    },
+    {
      "titolo": "Primi seggi per le Midterm chiudono in Indiana e Kentucky",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/primi-seggi-per-le-midterm-chiudono-in-indiana-e-kentucky_4e17d525-11b8-49d5-a7e0-b464f378403e.html",
      "data": "2026-11-03T23:14:46+00:00"
@@ -354,31 +379,6 @@
      "titolo": "Paraguay, la banca centrale avvia la liquidazione di Ueno Bank",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/03/paraguay-la-banca-centrale-avvia-la-liquidazione-di-ueno-bank_decbd1a2-0e53-45f0-82a0-4edb0a6042e2.html",
      "data": "2026-11-03T19:56:16+00:00"
-    },
-    {
-     "titolo": "Perù, stato di emergenza in quasi tre quarti del Paese per El Niño",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/03/peru-stato-di-emergenza-in-quasi-tre-quarti-del-paese-per-el-nino_af10355e-12ba-4bae-8305-af487c24b94d.html",
-     "data": "2026-11-03T19:46:52+00:00"
-    },
-    {
-     "titolo": "Il leader dei dem in Senato, 'ottimisti ma non cantiamo vittoria troppo presto'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/il-leader-dei-dem-in-senato-ottimisti-ma-non-cantiamo-vittoria-troppo-presto_cd4b2bee-93ec-4f02-aeab-fa0b5998cf45.html",
-     "data": "2026-11-03T19:26:17+00:00"
-    },
-    {
-     "titolo": "Felipe VI riceve 4 presidenti al Palazzo reale per il vertice iberoamericano",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/felipe-vi-riceve-4-presidenti-al-palazzo-reale-per-il-vertice-iberoamericano_adbffa97-28d0-4870-b921-49f2f2efdaec.html",
-     "data": "2026-11-03T18:50:46+00:00"
-    },
-    {
-     "titolo": ">ANSA-REPORTAGE/ Gli americani in fila a New York, 'basta restare a guardare'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/ansa-reportage-gli-americani-in-fila-a-new-york-basta-restare-a-guardare_844c10c7-773b-47cf-b603-4ab123748498.html",
-     "data": "2026-11-03T18:47:32+00:00"
-    },
-    {
-     "titolo": "Scontri al confine tra esercito del Venezuela e guerriglia colombiana, otto morti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/03/scontri-al-confine-tra-esercito-del-venezuela-e-guerriglia-colombiana-otto-morti_60222371-aacc-4df1-98c3-92f6a12eb819.html",
-     "data": "2026-11-03T18:34:58+00:00"
     }
    ]
   },
