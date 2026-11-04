@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-03T11:28:26.683491+00:00",
- "data": "2026-11-03",
- "testo": "Cielo serrato\nsul sagrato bagnato\nbeccano i passeri",
- "nota": "Passeri che cercano briciole sul sagrato umido in una mattina coperta.",
+ "aggiornato": "2026-11-04T11:44:50.277985+00:00",
+ "data": "2026-11-04",
+ "testo": "Coperto e fermo\nsul selciato del Corso\ncigola un carrello",
+ "nota": "Un carrello di valigie trascinato sui sampietrini del centro, nel grigio immobile.",
  "archivio": [
+  {
+   "data": "2026-11-04",
+   "testo": "Coperto e fermo\nsul selciato del Corso\ncigola un carrello",
+   "nota": "Un carrello di valigie trascinato sui sampietrini del centro, nel grigio immobile."
+  },
   {
    "data": "2026-11-03",
    "testo": "Cielo serrato\nsul sagrato bagnato\nbeccano i passeri",
@@ -448,11 +453,6 @@
    "data": "2026-08-07",
    "testo": "Sotto il cielo bigio\nun vecchio muove le sedie\ndel bar deserto",
    "nota": "Un uomo sistema le sedie di un bar vuoto sotto il grigio afoso."
-  },
-  {
-   "data": "2026-08-06",
-   "testo": "Muro scrostato\nsopra le scale del duomo\ngerani afflosciati",
-   "nota": "Sotto il cielo coperto ho visto vasi di gerani stanchi sui gradini."
   }
  ]
 }
