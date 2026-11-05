@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-11-04T23:58:46.238497+00:00",
+ "aggiornato": "2026-11-05T04:54:39.588284+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Hong Kong, altri 10 anni di carcere all'attivista pro-democrazia Joshua Wong",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/hong-kong-altri-10-anni-di-carcere-allattivista-pro-democrazia-joshua-wong_2f555401-caca-401d-bba4-153ca494d329.html",
+     "data": "2026-11-05T04:05:59+00:00"
+    },
+    {
+     "titolo": "Borsa: Hong Kong apre in forte rialzo, +3%",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/borsa-hong-kong-apre-in-forte-rialzo-3_da932425-62c2-400e-a5f7-b4dcc75f113f.html",
+     "data": "2026-11-05T03:23:19+00:00"
+    },
+    {
+     "titolo": "F1, morto l'ex pilota australiano Alan Jones",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/f1-morto-lex-pilota-australiano-alan-jones_59de48a1-da23-471e-ba1a-4a6833c416eb.html",
+     "data": "2026-11-05T03:02:26+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,28%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/borsa-tokyo-apertura-in-rialzo-028_99d1346b-772a-4c94-a6fe-8e933bd7f838.html",
+     "data": "2026-11-05T00:19:33+00:00"
+    },
     {
      "titolo": "++ Il petrolio chiude con un tonfo a New York, -8,26% con la vittoria dem alle midterm ++",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/il-petrolio-chiude-con-un-tonfo-a-new-york-826-con-la-vittoria-dem_8f3215dc-4514-4342-a38d-4b9cf832b5be.html",
@@ -34,26 +54,6 @@
      "titolo": "Manovra: sarà Gusmeroli il relatore della Lega",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/manovra-sara-gusmeroli-il-relatore-della-lega_3178194a-2468-4fcc-a2ea-c5ed9aa8aec1.html",
      "data": "2026-11-04T18:27:54+00:00"
-    },
-    {
-     "titolo": "Lega: A.Fontana, 'sfiducia a Romeo? Le promesse sono state disattese'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/lega-a.fontana-sfiducia-a-romeo-le-promesse-sono-state-disattese_8ef5645b-632a-4977-bf73-2bd07660e7a7.html",
-     "data": "2026-11-04T18:25:23+00:00"
-    },
-    {
-     "titolo": "Trump, dem sarebbero distrutti se mi facessero un impeachment",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/trump-dem-sarebbero-distrutti-se-mi-facessero-un-impeachment_ac3125a8-3aed-4a7f-9423-1254a3b18518.html",
-     "data": "2026-11-04T18:23:33+00:00"
-    },
-    {
-     "titolo": "Trump, 'non abbiamo perso per la guerra ma per il carovita'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/trump-non-abbiamo-perso-per-la-guerra-ma-per-il-carovita_e4e03d1d-ddc3-4065-a0ce-820e6fe10e20.html",
-     "data": "2026-11-04T18:21:42+00:00"
-    },
-    {
-     "titolo": "Agenzia cyber, 'urgente proteggere la catena del freddo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/agenzia-cyber-urgente-proteggere-la-catena-del-freddo_aa8cc8d9-e5e2-47e0-9987-8472300a8fd8.html",
-     "data": "2026-11-04T18:16:31+00:00"
     }
    ]
   },
@@ -256,6 +256,16 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Hong Kong apre in forte rialzo, +3%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/borsa-hong-kong-apre-in-forte-rialzo-3_74c36c4a-9d84-40db-9692-e5da8d81e57d.html",
+     "data": "2026-11-05T03:23:17+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+0,28%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/borsa-tokyo-apertura-in-rialzo-028_bffb0957-7967-4f6a-a908-e2ab82f1a767.html",
+     "data": "2026-11-05T00:19:50+00:00"
+    },
+    {
      "titolo": "Stellantis, Pablo Di Si guiderà il Nord America e i brand americani",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/04/stellantis-pablo-di-si-guidera-il-nord-america-e-i-brand-americani_85ea57b9-e288-42e2-9968-f31468edf097.html",
      "data": "2026-11-04T21:45:39+00:00"
@@ -304,22 +314,27 @@
      "titolo": "Electrolux, 'investimenti oltre 100 milioni euro per le attività italiane'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/04/electrolux-investimenti-oltre-100-milioni-euro-per-le-attivita-italiane_c4f96bf1-2c1e-44f9-a9c4-fe2dc61762bd.html",
      "data": "2026-11-04T15:25:10+00:00"
-    },
-    {
-     "titolo": "Ce Industries non parteciperà alla gara per l'ex Ilva",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/04/ce-industries-non-partecipera-alla-gara-per-lex-ilva_d1b66b57-cdea-4382-beac-cf570a847e9d.html",
-     "data": "2026-11-04T15:13:40+00:00"
-    },
-    {
-     "titolo": "I big di Musk in calo a Wall Street, Tesla -4,13%, SpaceX -2,70%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/04/i-big-di-musk-in-calo-a-wall-street-tesla-413-spacex-270_b4a6c6b4-8e40-452f-a46e-9288cac47991.html",
-     "data": "2026-11-04T14:50:43+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Hong Kong, altri 10 anni di carcere all'attivista pro-democrazia Joshua Wong",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/05/hong-kong-altri-10-anni-di-carcere-allattivista-pro-democrazia-joshua-wong_5f888928-f197-4118-9b9e-975d52369770.html",
+     "data": "2026-11-05T04:06:12+00:00"
+    },
+    {
+     "titolo": "Sheinbaum celebra i nuovi governatori Usa di origini messicane",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/sheinbaum-celebra-i-nuovi-governatori-usa-di-origini-messicane_4be786a4-525f-4060-b348-bbf553a47bef.html",
+     "data": "2026-11-05T01:16:52+00:00"
+    },
+    {
+     "titolo": "Colombia, il Parlamento approva la legge che archivia la 'pace totale' di Petro",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/colombia-il-parlamento-approva-la-legge-che-archivia-la-pace-totale-di-petro_5179af65-f8ab-4f75-b089-79f3bb546eec.html",
+     "data": "2026-11-05T00:41:06+00:00"
+    },
     {
      "titolo": "F1: Antonelli, 'vorrei essere un po' brasiliano', e rende omaggio al suo idolo Senna",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/04/f1-antonelli-vorrei-essere-un-po-brasiliano-e-rende-omaggio-al-suo-idolo-senna_bcd7d4d4-1ba5-41c5-929d-33b7e0bdbcf4.html",
@@ -364,21 +379,6 @@
      "titolo": "Trump, 'non abbiamo perso per la guerra ma per il carovita'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/trump-non-abbiamo-perso-per-la-guerra-ma-per-il-carovita_fe7481ef-8fa7-4d25-a140-c7e730197523.html",
      "data": "2026-11-04T18:50:10+00:00"
-    },
-    {
-     "titolo": "Deputato Iran, 'se Usa ci attaccano da Europa colpiremo loro basi, anche in Italia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/04/deputato-iran-se-usa-ci-attaccano-da-europa-colpiremo-loro-basi-anche-in-italia_e9e552db-512a-4527-b463-a4a2f36c7e45.html",
-     "data": "2026-11-04T18:08:23+00:00"
-    },
-    {
-     "titolo": "Crisi Ueno Bank in Paraguay, Peña rassicura i correntisti dopo la dissoluzione",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/04/crisi-ueno-bank-in-paraguay-pena-rassicura-i-correntisti-dopo-la-dissoluzione_7c407ee4-72b4-4401-a54a-e8ececd6f58c.html",
-     "data": "2026-11-04T17:45:25+00:00"
-    },
-    {
-     "titolo": "Don Jr si schiera con Vance, sconfitta è colpa della guerra in Iran",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/don-jr-si-schiera-con-vance-sconfitta-e-colpa-della-guerra-in-iran_a8d00941-ee2c-4e97-adb8-7f64d05110ae.html",
-     "data": "2026-11-04T17:29:34+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "F1, morto l'ex pilota australiano Alan Jones",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/05/f1-morto-lex-pilota-australiano-alan-jones_41e27ec0-b644-4df4-be55-94a8155a4bc2.html",
+     "data": "2026-11-05T03:02:30+00:00"
+    },
+    {
      "titolo": "Golf: il nuovo investitore si ritira, niente rilancio per il circuito Liv",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/05/golf-il-nuovo-investitore-si-ritira-niente-rilancio-per-il-circuito-liv_a1993657-730c-4b84-8512-7c4d1c511354.html",
      "data": "2026-11-04T23:08:01+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Berrettini trova Acaraz agli Ottavi a Parigi. Djokovic fuori e niente Finals",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/04/berrettini-trova-acaraz-agli-ottavi-a-parigi.-djokovic-fuori-e-niente-finals_f6b1980d-b9b9-4df6-945a-733f706769b8.html",
      "data": "2026-11-04T20:50:55+00:00"
-    },
-    {
-     "titolo": "Il portiere Owono: 'Penso sempre a Jesùs'. Zoff: 'Una tragica fatalità'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/04/il-portiere-owono-penso-sempre-a-jesus.-zoff-una-tragica-fatalita_5b0e157e-d128-4511-99c8-6b34d22ee94e.html",
-     "data": "2026-11-04T20:04:05+00:00"
     }
    ]
   }
