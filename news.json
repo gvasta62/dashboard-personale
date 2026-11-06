@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-11-06T00:59:01.200810+00:00",
+ "aggiornato": "2026-11-06T07:38:02.526604+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo e Seul cedono in scia a Wall street, tiene Sidney",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/borsa-tokyo-e-seul-cedono-in-scia-a-wall-street-tiene-sidney_130bcc3e-8a01-48c9-ac8e-e52898548586.html",
+     "data": "2026-11-06T07:36:08+00:00"
+    },
+    {
+     "titolo": "L'utile di Mps sale del 21% a 1,66 miliardi, il trimestre batte le attese",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/lutile-di-mps-sale-del-21-a-166-miliardi-il-trimestre-batte-le-attese_0be52489-9f22-47f3-9f24-0cb1f9235bc1.html",
+     "data": "2026-11-06T07:17:21+00:00"
+    },
+    {
+     "titolo": "Borsa Tokyo in picchiata dopo il voto Usa (-5,96%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/borsa-tokyo-in-picchiata-dopo-il-voto-usa-596_efa83f2a-bd82-4c5f-8aba-bcf626ad7559.html",
+     "data": "2026-11-06T06:47:46+00:00"
+    },
+    {
+     "titolo": "Usa, giudice federale blocca progetto arco di trionfo a Washington voluto da Trump",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/usa-giudice-federale-blocca-progetto-arco-di-trionfo-a-washington-voluto-da-trump_f98a367e-d0ec-4bea-902b-fc631ed2465d.html",
+     "data": "2026-11-06T05:55:55+00:00"
+    },
+    {
+     "titolo": "Hegseth contrattacca: 'Impeachment non è servito con Trump e non servirà con me'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/hegseth-contrattacca-impeachment-non-e-servito-con-trump-e-non-servira-con_dc427368-632d-4ea0-8f99-975118854f5e.html",
+     "data": "2026-11-06T03:46:14+00:00"
+    },
     {
      "titolo": "Borsa: Tokyo crolla in apertura, Nikkei -5,1%",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/borsa-tokyo-crolla-in-apertura-nikkei-51_20afc945-e1cf-40d7-a682-8a1df20aed45.html",
@@ -29,31 +54,6 @@
      "titolo": "Paraguay, la maggioranza lascia l'aula e fa saltare il voto sulle dimissioni di Peña",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/paraguay-la-maggioranza-lascia-laula-e-fa-saltare-il-voto-sulle-dimissioni-di-pena_e5d010d2-d130-45bb-a214-7bf88f1ccfa6.html",
      "data": "2026-11-05T22:23:03+00:00"
-    },
-    {
-     "titolo": "Trump insiste, 'o certifico l'accordo con l'Iran o li distruggo'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/trump-insiste-o-certifico-laccordo-con-liran-o-li-distruggo_7c2e65ba-4e6b-420d-a5a6-3b55515fec26.html",
-     "data": "2026-11-05T22:15:04+00:00"
-    },
-    {
-     "titolo": "Trump ribadisce, 'Hegseth ha fatto un lavoro fantastico'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/trump-ribadisce-hegseth-ha-fatto-un-lavoro-fantastico_9a535ada-e229-4c58-8d24-54329351d0f3.html",
-     "data": "2026-11-05T21:45:37+00:00"
-    },
-    {
-     "titolo": "Trump, 'vicini a un accordo tra Russia e Ucraina, riguarderà anche Europa'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/trump-vicini-a-un-accordo-tra-russia-e-ucraina-riguardera-anche-europa_8fd85f3e-7d9c-4ce9-b0ba-4ad2fbf01eb7.html",
-     "data": "2026-11-05T21:40:27+00:00"
-    },
-    {
-     "titolo": "Trump, 'le nostre elezioni sono così truccate, non avete idea'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/trump-le-nostre-elezioni-sono-cosi-truccate-non-avete-idea_2dad9e9b-b2e5-4629-9648-d91a60243a14.html",
-     "data": "2026-11-05T21:37:06+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'possiamo prendere in considerazione le elezioni online'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/zelensky-possiamo-prendere-in-considerazione-le-elezioni-online_f607c1f8-b5b4-4357-b933-86308604b345.html",
-     "data": "2026-11-05T21:08:15+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Incendio in una cantina a Milano, un senzatetto muore intossicato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/incendio-in-una-cantina-a-milano-un-senzatetto-muore-intossicato_58b230eb-444b-4002-9891-1741d53e9d7b.html",
+     "data": "2026-11-06T07:31:41+00:00"
+    },
+    {
      "titolo": "Aurelio Marguerettaz nuovo presidente della Valle d'Aosta",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/aurelio-marguerettaz-nuovo-presidente-della-valle-daosta_89885ed2-eb96-4b49-afbc-f6400e54997a.html",
      "data": "2026-11-05T20:15:10+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Uccise il padre, Rosa Capuano confessa e viene condannata a 25 anni",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/uccise-il-padre-rosa-capuano-confessa-e-viene-condannata-a-25-anni_a2bfd30c-2f12-4d89-a404-7b5ca4804a90.html",
      "data": "2026-11-05T18:00:44+00:00"
-    },
-    {
-     "titolo": "Misogini e razzisti, le mail dai 'Combattenti dello stato maschile'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/ansamisogini-e-razzisti-le-mail-dai-combattenti-dello-stato-maschile_5fed0bec-3a8d-4e8e-a075-fd53c33649dc.html",
-     "data": "2026-11-05T18:24:12+00:00"
     }
    ]
   },
@@ -256,9 +256,44 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Borsa: Tokyo crolla in apertura, Nikkei -5,1%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/borsa-tokyo-crolla-in-apertura-nikkei-51_e7ff7704-62a6-4166-aa2f-f36a2acf4c5d.html",
-     "data": "2026-11-06T00:30:38+00:00"
+     "titolo": "L'utile di Mps sale del 21% a 1,66 miliardi, il trimestre batte le attese",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/lutile-di-mps-sale-del-21-a-166-miliardi-il-trimestre-batte-le-attese_ef7dae9d-077f-4da1-bbdf-7db225a22a02.html",
+     "data": "2026-11-06T07:18:19+00:00"
+    },
+    {
+     "titolo": "Euro in calo, scambiato a 1,1183 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/euro-in-calo-scambiato-a-11183-dollari_07e68232-1a78-42d9-b527-ee8c07904f89.html",
+     "data": "2026-11-06T07:10:19+00:00"
+    },
+    {
+     "titolo": "Prezzo dell'oro in ribasso, Spot scambiato a 4.048 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/prezzo-delloro-in-ribasso-spot-scambiato-a-4.048-dollari_08185549-4b30-435d-80c3-47abe66edf5f.html",
+     "data": "2026-11-06T07:03:26+00:00"
+    },
+    {
+     "titolo": "L'utile di Mps sale del 21% a 1,66 miliardi, trimestre sopra le attese (2)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/lutile-di-mps-sale-del-21-a-166-miliardi-trimestre-sopra-le-attese-2_d09d5897-18a7-4e8c-9667-07416eddec0a.html",
+     "data": "2026-11-06T07:16:54+00:00"
+    },
+    {
+     "titolo": "Prezzo del petrolio in aumento, Wti scambiato a 91,71 dollari",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/prezzo-del-petrolio-in-aumento-wti-scambiato-a-9171-dollari_51515f64-5ca7-440e-b30b-10ec7fcab7e4.html",
+     "data": "2026-11-06T06:59:39+00:00"
+    },
+    {
+     "titolo": "Borsa di Tokyo in picchiata dopo il voto Usa, chiude a -5,96%",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/borsa-di-tokyo-in-picchiata-dopo-il-voto-usa-chiude-a-596_e7ff7704-62a6-4166-aa2f-f36a2acf4c5d.html",
+     "data": "2026-11-06T06:53:13+00:00"
+    },
+    {
+     "titolo": "Borsa Tokyo in picchiata dopo il voto Usa (-5,96%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/borsa-tokyo-in-picchiata-dopo-il-voto-usa-596_70711bfc-52e5-4e7d-8374-c28c8af15323.html",
+     "data": "2026-11-06T06:47:45+00:00"
+    },
+    {
+     "titolo": "Paraguay, dal 6 novembre i rimborsi ai correntisti di Ueno Bank",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/paraguay-dal-6-novembre-i-rimborsi-ai-correntisti-di-ueno-bank_0aa3a05d-0ed3-4c18-a3f9-b7960f8c1a09.html",
+     "data": "2026-11-06T01:08:48+00:00"
     },
     {
      "titolo": "Tonfo Wall Street, bruciati 3.200 miliardi con la fuga dall'IA",
@@ -279,47 +314,32 @@
      "titolo": "Il gas in aumento (+1,5%) a 89,4 euro al Megawattora",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/il-gas-in-aumento-15-a-894-euro-al-megawattora_f6aad1b0-6292-4150-b90f-cd6c760152dd.html",
      "data": "2026-11-05T17:21:54+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund chiude in rialzo a 109 punti base",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-109-punti-base_33afc7c5-a5bf-4270-b020-aecb05b5fc55.html",
-     "data": "2026-11-05T17:22:07+00:00"
-    },
-    {
-     "titolo": "Pirelli, in 9 mesi utile +7,4% a 430,2 milioni",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/pirelli-in-9-mesi-utile-74-a-4302-milioni_6df52638-24c2-4c84-9d31-7f14bb6a7513.html",
-     "data": "2026-11-05T17:22:11+00:00"
-    },
-    {
-     "titolo": "Euronext cresce nel trimestre, ricavi a 547,4 milioni di euro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/euronext-cresce-nel-trimestre-ricavi-a-5474-milioni-di-euro_e12c3553-6093-41ad-8f56-0946028da997.html",
-     "data": "2026-11-05T17:22:23+00:00"
-    },
-    {
-     "titolo": "Borsa: l'Europa conclude incerta, Londra -0,3%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/borsa-leuropa-conclude-incerta-londra-03_f29fd576-eeac-41c4-ad8f-1aa3314b99b2.html",
-     "data": "2026-11-05T17:22:39+00:00"
-    },
-    {
-     "titolo": "Utile record sopra gli 1,5 miliardi, Banco Bpm ritocca la cedola",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/utile-record-sopra-gli-15-miliardi-banco-bpm-ritocca-la-cedola_d6138096-fe26-48b0-b3a1-f0ed08fe7743.html",
-     "data": "2026-11-05T17:22:50+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in calo, Ftse Mib -1,03%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/borsa-milano-chiude-in-calo-ftse-mib-103_3d6028d3-771c-4531-bcda-b1b69033704c.html",
-     "data": "2026-11-05T17:22:58+00:00"
-    },
-    {
-     "titolo": "Loacker cerca startup dell'agrifoodtech su cui investire",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/loacker-cerca-startup-dellagrifoodtech-su-cui-investire_2805f0fa-9e18-404d-9ff1-082de7290ada.html",
-     "data": "2026-11-05T16:38:02+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Usa, giudice federale blocca progetto arco di trionfo a Washington voluto da Trump",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/usa-giudice-federale-blocca-progetto-arco-di-trionfo-a-washington-voluto-da-trump_07627c31-2057-4b89-a484-8faf9b73aaf8.html",
+     "data": "2026-11-06T05:55:55+00:00"
+    },
+    {
+     "titolo": "Sheinbaum, 'razzismo e retate allontanano i latini da Trump'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/06/sheinbaum-razzismo-e-retate-allontanano-i-latini-da-trump_24e7a860-0df1-4f55-b90b-be3965b4ce44.html",
+     "data": "2026-11-06T04:28:44+00:00"
+    },
+    {
+     "titolo": "Hegseth contrattacca: 'Impeachment non è servito con Trump e non servirà con me'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/hegseth-contrattacca-impeachment-non-e-servito-con-trump-e-non-servira-con_f03ea8b4-6728-4ca4-856f-3902e7c08eff.html",
+     "data": "2026-11-06T03:46:32+00:00"
+    },
+    {
+     "titolo": "Paraguay, dal 6 novembre i rimborsi ai correntisti di Ueno Bank",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/06/paraguay-dal-6-novembre-i-rimborsi-ai-correntisti-di-ueno-bank_a3ae84c2-22f0-4155-b5f5-1be5314b3fa5.html",
+     "data": "2026-11-06T01:09:06+00:00"
+    },
     {
      "titolo": "Cuba, liberata dopo nove ore la giornalista Yoani Sánchez",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/06/cuba-liberata-dopo-nove-ore-la-giornalista-yoani-sanchez_43f59bfa-3b3d-45c0-afca-c634cbfbd7d6.html",
@@ -359,26 +379,6 @@
      "titolo": "Brasile, Lula invoca la responsabilità fiscale per attrarre investimenti",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/brasile-lula-invoca-la-responsabilita-fiscale-per-attrarre-investimenti_2c8922c6-1f96-4152-9234-109644d2e95e.html",
      "data": "2026-11-05T22:09:51+00:00"
-    },
-    {
-     "titolo": "Trump ribadisce, 'Hegseth ha fatto un lavoro fantastico'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/trump-ribadisce-hegseth-ha-fatto-un-lavoro-fantastico_a5889c76-0a4c-44e0-90ea-b9d3d59b655d.html",
-     "data": "2026-11-05T21:45:39+00:00"
-    },
-    {
-     "titolo": "Trump, 'vicini a un accordo tra Russia e Ucraina, riguarderà anche Europa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/trump-vicini-a-un-accordo-tra-russia-e-ucraina-riguardera-anche-europa_67553661-865d-4fa1-b4e1-ceb51a1e699b.html",
-     "data": "2026-11-05T21:40:31+00:00"
-    },
-    {
-     "titolo": "Trump, 'le nostre elezioni sono così truccate, non avete idea'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/trump-le-nostre-elezioni-sono-cosi-truccate-non-avete-idea_a717c9e7-e6b8-445a-b87a-c6995c2d5acc.html",
-     "data": "2026-11-05T21:37:19+00:00"
-    },
-    {
-     "titolo": "Il governo cileno riduce le condanne a 115 narcos stranieri",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/il-governo-cileno-riduce-le-condanne-a-115-narcos-stranieri_9f744dd3-07d5-4ef9-89fb-aff348b221b2.html",
-     "data": "2026-11-05T21:11:28+00:00"
     }
    ]
   },
