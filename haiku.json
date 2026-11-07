@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-06T11:41:13.528133+00:00",
- "data": "2026-11-06",
- "testo": "Pioggia battente\ngiù dal tetto d'acciottolo\nscivola l'acqua",
- "nota": "Osservato l'acqua che corre veloce sulle tegole bagnate dei tetti perugini.",
+ "aggiornato": "2026-11-07T10:46:59.646654+00:00",
+ "data": "2026-11-07",
+ "testo": "Rovescio breve\nsotto l'arco di pietra\ngocciola un ombrello",
+ "nota": "Un passante al riparo sotto un voltone, l'ombrello chiuso che ancora sgocciola.",
  "archivio": [
+  {
+   "data": "2026-11-07",
+   "testo": "Rovescio breve\nsotto l'arco di pietra\ngocciola un ombrello",
+   "nota": "Un passante al riparo sotto un voltone, l'ombrello chiuso che ancora sgocciola."
+  },
   {
    "data": "2026-11-06",
    "testo": "Pioggia battente\ngiù dal tetto d'acciottolo\nscivola l'acqua",
@@ -448,11 +453,6 @@
    "data": "2026-08-10",
    "testo": "Mezzogiorno chiaro\nsul cocomero tagliato\nbrillano i semi",
    "nota": "Un cocomero aperto su un tavolo, i semi lucidi nella polpa rossa."
-  },
-  {
-   "data": "2026-08-09",
-   "testo": "Meriggio sul campo\ntra le zolle riarse\ncrepe di silenzio",
-   "nota": "Osservato il terreno spaccato dalla siccità in un campo assolato di mezzogiorno."
   }
  ]
 }
