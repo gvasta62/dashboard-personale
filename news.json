@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-11-07T22:04:34.592036+00:00",
+ "aggiornato": "2026-11-08T01:33:47.681925+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump ai sostenitori, 'userò il potere di veto, Maga non molla se risultati deludenti'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/trump-ai-sostenitori-usero-il-potere-di-veto-maga-non-molla-se-risultati-deludenti_217d82e7-6eb8-4712-ae99-53db47194642.html",
+     "data": "2026-11-07T23:15:41+00:00"
+    },
+    {
+     "titolo": "Candele accese vicino alla piazza principale di Cracovia dopo la strage",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/candele-accese-vicino-alla-piazza-principale-di-cracovia-dopo-la-strage_b348a665-5f2d-4094-b047-7aa6448a6a48.html",
+     "data": "2026-11-07T23:11:39+00:00"
+    },
+    {
+     "titolo": "In migliaia al Pride Lgbt+ di Buenos Aires prima della visita del Papa",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/in-migliaia-al-pride-lgbt-di-buenos-aires-prima-della-visita-del-papa_f143771f-cb16-4fd1-a98f-48988d6de0c6.html",
+     "data": "2026-11-07T22:43:50+00:00"
+    },
+    {
+     "titolo": "Tusk, 'i due agenti feriti nella sparatoria a Cracovia sono dei veri eroi'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/tusk-i-due-agenti-feriti-nella-sparatoria-a-cracovia-sono-dei-veri_06e63e53-804b-47ba-965e-b45e3b78fb97.html",
+     "data": "2026-11-07T22:13:56+00:00"
+    },
     {
      "titolo": "'Dana White respinge l'offerta di Trump come portavoce della Casa Bianca'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/dana-white-respinge-lofferta-di-trump-come-portavoce-della-casa-bianca_d40964d5-6f65-44bf-aa23-40894e49202d.html",
@@ -34,26 +54,6 @@
      "titolo": "Herzog affida il governo a Eisenkot, incarico domani alle 17",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/herzog-affida-il-governo-a-eisenkot-incarico-domani-alle-17_765b365b-e15b-47e0-b857-d5568e77626e.html",
      "data": "2026-11-07T19:33:33+00:00"
-    },
-    {
-     "titolo": "Partito di Eisenkot invita il Likud a unirsi al prossimo governo 'ma senza estremisti'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/partito-di-eisenkot-invita-il-likud-a-unirsi-al-prossimo-governo-ma-senza-estremisti_0cfe0519-981b-4fae-8473-1196cbe267a2.html",
-     "data": "2026-11-07T19:28:36+00:00"
-    },
-    {
-     "titolo": "Liceali italiani in piazza a Cracovia durante gli spari,messi in salvo dall'ambasciata",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/liceali-italiani-in-piazza-a-cracovia-durante-gli-sparimessi-in-salvo-dallambasciata_381fa448-e9a6-47fd-9747-109b59e9acaf.html",
-     "data": "2026-11-07T19:25:18+00:00"
-    },
-    {
-     "titolo": "Morto pilota al Rally di Scandicci, gara annullata",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/morto-pilota-al-rally-di-scandicci-gara-annullata_b92de94a-7253-467d-9a88-8ab24e358748.html",
-     "data": "2026-11-07T19:12:15+00:00"
-    },
-    {
-     "titolo": "Trump ha chiesto al numero uno dell'Ufc di essere il portavoce della Casa Bianca",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/trump-ha-chiesto-al-numero-uno-dellufc-di-essere-il-portavoce-della-casa-bianca_50405359-dd02-4160-8639-2218ce3cc396.html",
-     "data": "2026-11-07T18:52:17+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Cracovia, madre di uno studente 'durante spari ognuno si è riparato dove poteva'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cracovia-madre-di-uno-studente-durante-spari-ognuno-si-e-riparato-dove-poteva_1b766d0b-13f1-448e-bebe-cd026238c2cc.html",
+     "data": "2026-11-07T22:20:23+00:00"
+    },
+    {
      "titolo": "Tensione tra corteo antifascista e CasaPound a Gorizia, feriti tre poliziotti",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/tensione-tra-corteo-antifascista-e-casapound-a-gorizia-feriti-tre-poliziotti_b78cb1c8-6bfb-487f-b5cb-ad3fff239a96.html",
      "data": "2026-11-07T21:21:36+00:00"
@@ -179,17 +184,22 @@
      "titolo": "Cyberattacchi, chi sono i bersagli degli hacker NoName: nel mirino chi ha indagato su di loro",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacchi-chi-sono-i-bersagli-degli-hacker-noname-nel-mirino-chi_91e4ab57-e9c5-4f6f-9226-5c5243670ba0.html",
      "data": "2026-11-07T16:40:31+00:00"
-    },
-    {
-     "titolo": "Attacchi informatici e mail di allarme, Europol convoca riunione",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/attacchi-informatici-e-mail-di-allarme-europol-convoca-riunione_54e848c6-198b-4891-a6f8-1678580cd549.html",
-     "data": "2026-11-07T16:41:32+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Il Papa ai giovani, 'quando essere giusti e onesti avrà un prezzo, pagatelo'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/il-papa-ai-giovani-quando-essere-giusti-e-onesti-avra-un-prezzo-pagatelo_90462978-618a-41a0-b47b-e41faf32604c.html",
+     "data": "2026-11-07T23:25:07+00:00"
+    },
+    {
+     "titolo": "Il cardinale di Montevideo, avere il Papa con noi è un grande gol",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/il-cardinale-di-montevideo-avere-il-papa-con-noi-e-un-grande-gol_3a26e546-19cd-4589-a7a2-25c1dd306581.html",
+     "data": "2026-11-07T23:16:51+00:00"
+    },
     {
      "titolo": "Il monito del Papa, 'nessuno dovrebbe andare a letto senza mangiare'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/07/il-monito-del-papa-nessuno-dovrebbe-andare-a-letto-senza-mangiare_db691b1e-3b94-4567-9f6b-b7bd9b982867.html",
@@ -239,16 +249,6 @@
      "titolo": "Il Papa in Uruguay, 'siate costruttori di ponti'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/07/il-papa-in-uruguay-siate-costruttori-di-ponti_bd2eebfd-8a76-4f7f-b59c-c3bbdbf618dd.html",
      "data": "2026-11-07T13:48:13+00:00"
-    },
-    {
-     "titolo": "Vannacci contestato a Coverciano, tensioni Antifa-polizia",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/07/vannacci-inaugura-una-sede-di-fnv-a-coverciano-contestazioni-e-scontri_011c5b4a-75b0-49ef-9335-b9367fb45128.html",
-     "data": "2026-11-07T18:51:59+00:00"
-    },
-    {
-     "titolo": "Campo larghissimo a Roma, Gualtieri punta al bis e apre a M5s e Azione",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/07/gualtieri-si-ricandida-al-campidoglio-con-il-campo-larghissimo_0f4fc042-27c3-44be-a704-866450fec849.html",
-     "data": "2026-11-07T18:47:17+00:00"
     }
    ]
   },
@@ -301,6 +301,26 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Trump ai sostenitori, 'userò il potere di veto, Maga non molla se risultati deludenti'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/trump-ai-sostenitori-usero-il-potere-di-veto-maga-non-molla-se-risultati-deludenti_577a75e2-d82b-42c7-b3b9-232d35056f6f.html",
+     "data": "2026-11-07T23:15:59+00:00"
+    },
+    {
+     "titolo": "Candele accese vicino alla piazza principale di Cracovia dopo la strage",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/candele-accese-vicino-alla-piazza-principale-di-cracovia-dopo-la-strage_c63a62f8-9708-416f-aa5a-9ef47f477b5a.html",
+     "data": "2026-11-07T23:11:53+00:00"
+    },
+    {
+     "titolo": "In migliaia al Pride Lgbt+ di Buenos Aires prima della visita del Papa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/07/in-migliaia-al-pride-lgbt-di-buenos-aires-prima-della-visita-del-papa_c6c215a2-31f7-4fef-b158-81e75755fd1d.html",
+     "data": "2026-11-07T22:44:06+00:00"
+    },
+    {
+     "titolo": "Tusk, 'i due agenti feriti nella sparatoria a Cracovia sono dei veri eroi'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/tusk-i-due-agenti-feriti-nella-sparatoria-a-cracovia-sono-dei-veri_2894bdef-c8c1-4738-8545-499990908767.html",
+     "data": "2026-11-07T22:14:18+00:00"
+    },
+    {
      "titolo": "'Dana White respinge l'offerta di Trump come portavoce della Casa Bianca'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/07/dana-white-respinge-lofferta-di-trump-come-portavoce-della-casa-bianca_7a12df87-2c77-4cbb-86c5-f2bcea14fdad.html",
      "data": "2026-11-07T21:46:30+00:00"
@@ -339,26 +359,6 @@
      "titolo": "Liceali italiani in piazza a Cracovia durante gli spari,messi in salvo dall'ambasciata",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/liceali-italiani-in-piazza-a-cracovia-durante-gli-sparimessi-in-salvo-dallambasciata_569a8e5c-df27-46c3-a0ee-cac3c13e10b2.html",
      "data": "2026-11-07T19:25:38+00:00"
-    },
-    {
-     "titolo": "Crack Ueno Bank in Paraguay, formalizzate le imputazioni contro l'ex presidente",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/07/crack-ueno-bank-in-paraguay-formalizzate-le-imputazioni-contro-lex-presidente_efef2809-3fc8-4cb8-8f4a-cfc876b89c02.html",
-     "data": "2026-11-07T19:24:35+00:00"
-    },
-    {
-     "titolo": "Trump ha chiesto al numero uno dell'Ufc di essere il portavoce della Casa Bianca",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/07/trump-ha-chiesto-al-numero-uno-dellufc-di-essere-il-portavoce-della-casa-bianca_3be51ad0-4179-4bee-b45b-d751444340ce.html",
-     "data": "2026-11-07T18:52:21+00:00"
-    },
-    {
-     "titolo": "Milei attende arrivo Leone XIV in Argentina tra aspettative positive e timori",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/07/milei-attende-arrivo-leone-xiv-in-argentina-tra-aspettative-positive-e-timori_6955fa83-daeb-4185-a62a-2eb4e34e61b0.html",
-     "data": "2026-11-07T18:47:11+00:00"
-    },
-    {
-     "titolo": "Netanyahu chiede un governo di 'unità nazionale'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/netanyahu-chiede-un-governo-di-unita-nazionale_f932158f-6b95-4bfe-b44c-b60cbe1529ad.html",
-     "data": "2026-11-07T18:43:46+00:00"
     }
    ]
   },
@@ -431,6 +431,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Allo stadio di Tenerife l'ultimo saluto a Jesús de Miguel: \"Sarai sempre uno di noi\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/allo-stadio-di-tenerife-lultimo-saluto-a-jesus-de-miguel-sarai-sempre-uno_ac7d496c-82d2-4785-8eaf-d5b9445d1319.html",
+     "data": "2026-11-07T22:51:39+00:00"
+    },
+    {
+     "titolo": "Calcio: Aquilani, 'fatto troppo poco, ovvio che io sia messo in discussione'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/calcio-aquilani-fatto-troppo-poco-ovvio-che-io-sia-messo-in-discussione_b6d76360-7ecf-45d4-b4e5-23c07a5239ba.html",
+     "data": "2026-11-07T22:34:51+00:00"
+    },
+    {
+     "titolo": "Liga: il Real passa 3-0 a Valencia e raggiunge il Barcellona per una notte",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/liga-il-real-passa-3-0-a-valencia-e-raggiunge-il-barcellona-per-una-notte_84cffc94-ae8d-4f6c-844a-76545997af88.html",
+     "data": "2026-11-07T22:24:26+00:00"
+    },
+    {
+     "titolo": "Serie A: Gasperini, 'molto soddisfatto, vittoria di qualità e personalità'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/serie-a-gasperini-molto-soddisfatto-vittoria-di-qualita-e-personalita_570e95f6-f9ee-419c-b22a-08bcff794c0f.html",
+     "data": "2026-11-07T22:19:30+00:00"
+    },
+    {
      "titolo": "Serie A, la Roma ne fa 3 al Sassuolo e avvicina la vetta",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/serie-a-la-roma-ne-fa-3-al-sassuolo-e-avvicina-la-vetta_c28c3f9c-9303-4700-a3ee-f99f68e3995f.html",
      "data": "2026-11-07T22:00:10+00:00"
@@ -469,26 +489,6 @@
      "titolo": "Il Bologna ingrana la quarta, Parma battuto 2-1 nel derby emiliano",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/serie-a-parma-bologna-1-2_d1d5bb4e-ed57-4ae0-b79d-873cadfdcb52.html",
      "data": "2026-11-07T19:17:12+00:00"
-    },
-    {
-     "titolo": "Calcio: l'Egitto esonera Hassan e nomina Ali Maher ct della nazionale",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/calcio-legitto-esonera-hassan-e-nomina-ali-maher-ct-della-nazionale_acf690c5-466e-44a7-94e1-69eae53ab552.html",
-     "data": "2026-11-07T19:02:14+00:00"
-    },
-    {
-     "titolo": "Serie A: Theate e Orsolini, a Parma il Bologna vince il derby",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/serie-a-theate-e-orsolini-a-parma-il-bologna-vince-il-derby_bdaea42a-ad02-4b09-b995-12ab764e635c.html",
-     "data": "2026-11-07T19:01:27+00:00"
-    },
-    {
-     "titolo": "F1: Hamilton costretto a cambiare power unit, partirà dal fondo",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/07/f1-hamilton-costretto-a-cambiare-power-unit-partira-dal-fondo_56732ba9-8837-4248-bcef-df259dc76724.html",
-     "data": "2026-11-07T18:05:06+00:00"
-    },
-    {
-     "titolo": "Al Masters di Parigi la finale sarà Alcaraz-Shelton",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/07/al-masters-di-parigi-la-finale-sara-alcaraz-shelton_e568c494-6e5c-4cab-8403-be3f8f1c8b3d.html",
-     "data": "2026-11-07T17:59:01+00:00"
     }
    ]
   }
