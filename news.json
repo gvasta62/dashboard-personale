@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-11-08T01:33:47.681925+00:00",
+ "aggiornato": "2026-11-08T08:07:22.443771+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Media: 'Dana White incontrerà Trump alla Casa Bianca lunedì'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/media-dana-white-incontrera-trump-alla-casa-bianca-lunedi_d82095ae-72ee-4c48-8caf-68bd444782d6.html",
+     "data": "2026-11-08T03:42:53+00:00"
+    },
     {
      "titolo": "Trump ai sostenitori, 'userò il potere di veto, Maga non molla se risultati deludenti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/trump-ai-sostenitori-usero-il-potere-di-veto-maga-non-molla-se-risultati-deludenti_217d82e7-6eb8-4712-ae99-53db47194642.html",
@@ -49,11 +54,6 @@
      "titolo": "Il monito del Papa, 'nessuno dovrebbe andare a letto senza mangiare'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/il-monito-del-papa-nessuno-dovrebbe-andare-a-letto-senza-mangiare_da99786a-ec6a-4d1a-9466-65e8311c840d.html",
      "data": "2026-11-07T20:55:55+00:00"
-    },
-    {
-     "titolo": "Herzog affida il governo a Eisenkot, incarico domani alle 17",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/herzog-affida-il-governo-a-eisenkot-incarico-domani-alle-17_765b365b-e15b-47e0-b857-d5568e77626e.html",
-     "data": "2026-11-07T19:33:33+00:00"
     }
    ]
   },
@@ -301,6 +301,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Media: 'Dana White incontrerà Trump alla Casa Bianca lunedì'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/media-dana-white-incontrera-trump-alla-casa-bianca-lunedi_006af005-2dde-4a9f-a2aa-6f22cf09f6be.html",
+     "data": "2026-11-08T03:43:23+00:00"
+    },
+    {
      "titolo": "Trump ai sostenitori, 'userò il potere di veto, Maga non molla se risultati deludenti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/trump-ai-sostenitori-usero-il-potere-di-veto-maga-non-molla-se-risultati-deludenti_577a75e2-d82b-42c7-b3b9-232d35056f6f.html",
      "data": "2026-11-07T23:15:59+00:00"
@@ -354,11 +359,6 @@
      "titolo": "Partito di Eisenkot invita il Likud a unirsi al prossimo governo 'ma senza estremisti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/partito-di-eisenkot-invita-il-likud-a-unirsi-al-prossimo-governo-ma-senza-estremisti_fe25ccae-0dfd-48c4-8ddb-d5183db23383.html",
      "data": "2026-11-07T19:28:51+00:00"
-    },
-    {
-     "titolo": "Liceali italiani in piazza a Cracovia durante gli spari,messi in salvo dall'ambasciata",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/liceali-italiani-in-piazza-a-cracovia-durante-gli-sparimessi-in-salvo-dallambasciata_569a8e5c-df27-46c3-a0ee-cac3c13e10b2.html",
-     "data": "2026-11-07T19:25:38+00:00"
     }
    ]
   },
