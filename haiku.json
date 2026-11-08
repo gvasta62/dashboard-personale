@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-07T10:46:59.646654+00:00",
- "data": "2026-11-07",
- "testo": "Rovescio breve\nsotto l'arco di pietra\ngocciola un ombrello",
- "nota": "Un passante al riparo sotto un voltone, l'ombrello chiuso che ancora sgocciola.",
+ "aggiornato": "2026-11-08T10:53:35.946923+00:00",
+ "data": "2026-11-08",
+ "testo": "Nebbia sui filari\ntra due rami d'ulivo\npende un ragnatelo",
+ "nota": "Nella foschia la rete di un ragno regge gocce tra gli ulivi spogli.",
  "archivio": [
+  {
+   "data": "2026-11-08",
+   "testo": "Nebbia sui filari\ntra due rami d'ulivo\npende un ragnatelo",
+   "nota": "Nella foschia la rete di un ragno regge gocce tra gli ulivi spogli."
+  },
   {
    "data": "2026-11-07",
    "testo": "Rovescio breve\nsotto l'arco di pietra\ngocciola un ombrello",
@@ -448,11 +453,6 @@
    "data": "2026-08-11",
    "testo": "Rovescio leggero\nsul selciato di travertino\nchiocciola in cammino",
    "nota": "Dopo la pioggia breve una chiocciola attraversa lenta la pietra chiara del vicolo."
-  },
-  {
-   "data": "2026-08-10",
-   "testo": "Mezzogiorno chiaro\nsul cocomero tagliato\nbrillano i semi",
-   "nota": "Un cocomero aperto su un tavolo, i semi lucidi nella polpa rossa."
   }
  ]
 }
