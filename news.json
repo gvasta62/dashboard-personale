@@ -1,10 +1,25 @@
 {
- "aggiornato": "2026-11-08T23:13:22.595824+00:00",
+ "aggiornato": "2026-11-09T02:46:02.136035+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+1,86%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/borsa-tokyo-apertura-in-rialzo-186_368250db-971c-4fdc-b6c7-b808c0351289.html",
+     "data": "2026-11-09T00:42:56+00:00"
+    },
+    {
+     "titolo": "Trump, 'su Dana White portavoce della Casa Bianca stavo scherzando'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/trump-su-dana-white-portavoce-della-casa-bianca-stavo-scherzando_25c0220f-50e8-474d-8335-b21827b61d8e.html",
+     "data": "2026-11-08T23:34:25+00:00"
+    },
+    {
+     "titolo": "Rubio, 'progressi sull'infrastruttura di sicurezza dopo la guerra in Ucraina'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/rubio-progressi-sullinfrastruttura-di-sicurezza-dopo-la-guerra-in-ucraina_5da65613-14ff-4424-9520-06c11764387b.html",
+     "data": "2026-11-08T23:12:00+00:00"
+    },
     {
      "titolo": "Kiev, 'colpita dai russi la città di Balakliya nel Kharkiv, tre feriti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/kiev-colpita-dai-russi-la-citta-di-balakliya-nel-kharkiv-tre-feriti_982df3d1-338f-4d00-9017-91ffc14692e3.html",
@@ -39,21 +54,6 @@
      "titolo": "Trump, 'spero di andare in paradiso, non voglio andare all'inferno'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/trump-spero-di-andare-in-paradiso-non-voglio-andare-allinferno_50ac45c0-d830-4fe3-afe9-c710b8906ee8.html",
      "data": "2026-11-08T22:13:01+00:00"
-    },
-    {
-     "titolo": "Nations League: Mancini convoca anche Gatti",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/nations-league-mancini-convoca-anche-gatti_79cb1a87-f462-4da3-b4be-24dfe6033f94.html",
-     "data": "2026-11-08T21:55:30+00:00"
-    },
-    {
-     "titolo": "Serie A: Fiorentina-Juventus 2-2",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/serie-a-fiorentina-juventus-2-2_65e414c3-5ab0-4702-9bf2-c1190a541b2f.html",
-     "data": "2026-11-08T21:46:42+00:00"
-    },
-    {
-     "titolo": "Circa 200mila in piazza ad Amsterdam contro le politiche di Israele a Gaza",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/circa-200mila-in-piazza-ad-amsterdam-contro-le-politiche-di-israele-a-gaza_bd9fc2be-915d-4c2a-b8dc-99b7aa130f10.html",
-     "data": "2026-11-08T21:42:31+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in rialzo (+1,86%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/borsa-tokyo-apertura-in-rialzo-186_8ac37e70-bfef-4627-9b32-cc82f206cf5f.html",
+     "data": "2026-11-09T00:42:59+00:00"
+    },
+    {
      "titolo": "Via libera della Consob all'offerta di Intesa per Mps, si parte il 24 novembre",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/08/via-libera-della-consob-allofferta-di-intesa-per-mps-si-parte-il-24-novembre_15c55497-bc22-4473-aef0-930c9724f4f4.html",
      "data": "2026-11-08T20:34:13+00:00"
@@ -309,17 +314,32 @@
      "titolo": "Prezzi carburanti fermi malgrado lo stop al taglio delle accise, gasolio a 2,23 euro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/08/mimit-prezzi-carburanti-fermi-malgrado-stop-taglio-accise-gasolio-a-223_3a4e4aa5-2d2a-4119-bd93-63dba8a9828c.html",
      "data": "2026-11-08T20:00:20+00:00"
-    },
-    {
-     "titolo": "Bankitalia, per imprese familiari passaggio generazioni cruciale, entrino nuovi soci",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/08/bankitalia-per-imprese-familiari-passaggio-generazioni-cruciale-entrino-nuovi-soci_ab5e0149-4f9e-4883-9698-e18ccc5b3b32.html",
-     "data": "2026-11-08T09:46:25+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "El Salvador, 'stato di emergenza a oltranza per volere del popolo'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/09/el-salvador-stato-di-emergenza-a-oltranza-per-volere-del-popolo_d9438296-6779-4fa1-a34a-02820750d622.html",
+     "data": "2026-11-09T02:40:36+00:00"
+    },
+    {
+     "titolo": "Paraguay, Alliana vara la linea dura e ringrazia gli Stati Uniti",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/09/paraguay-alliana-vara-la-linea-dura-e-ringrazia-gli-stati-uniti_61817f56-a5ce-4851-a49b-d9b43835eace.html",
+     "data": "2026-11-09T00:55:03+00:00"
+    },
+    {
+     "titolo": "Trump, 'su Dana White portavoce della Casa Bianca stavo scherzando'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/trump-su-dana-white-portavoce-della-casa-bianca-stavo-scherzando_8f0df071-40a6-48d5-8ff0-729e155d9b94.html",
+     "data": "2026-11-08T23:34:27+00:00"
+    },
+    {
+     "titolo": "Rubio, 'progressi sull'infrastruttura di sicurezza dopo la guerra in Ucraina'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/rubio-progressi-sullinfrastruttura-di-sicurezza-dopo-la-guerra-in-ucraina_e62c1207-80dd-4433-9353-4ce466847947.html",
+     "data": "2026-11-08T23:12:00+00:00"
+    },
     {
      "titolo": "Kiev, 'colpita dai russi la città di Balakliya nel Kharkiv, tre feriti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/kiev-colpita-dai-russi-la-citta-di-balakliya-nel-kharkiv-tre-feriti_0817a13b-0164-40d0-bc6d-633120c78594.html",
@@ -359,26 +379,6 @@
      "titolo": "Nvidia apre indagine sul Ceo Huang e la sua relazione con una spia cinese",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/nvidia-apre-indagine-sul-ceo-huang-e-la-sua-relazione-con-una_957e56b9-8ff9-4c0d-a350-064c6cc22276.html",
      "data": "2026-11-08T20:58:47+00:00"
-    },
-    {
-     "titolo": "Trump ammette, 'la politica di deportazioni è stata troppo dura'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/trump-ammette-la-politica-di-deportazioni-e-stata-troppo-dura_7c735d28-2f1d-46b0-98a0-ce3acffb991a.html",
-     "data": "2026-11-08T20:57:11+00:00"
-    },
-    {
-     "titolo": "Aiea, ripristinata l'alimentazione elettrica alla centrale nucleare di Zaporizhzhia",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/aiea-ripristinata-lalimentazione-elettrica-alla-centrale-nucleare-di-zaporizhzhia_d87fdf46-0849-4263-b4b8-c3804ae78874.html",
-     "data": "2026-11-08T19:35:27+00:00"
-    },
-    {
-     "titolo": "'La Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/la-russia-ha-registrato-la-morte-di-400.000-uomini-nella-guerra-in-ucraina_ff5df486-0518-47c5-a889-732691395e9f.html",
-     "data": "2026-11-08T19:32:53+00:00"
-    },
-    {
-     "titolo": "Eisenkot, 'momento fragile per la democrazia, urge leadership di cui ci si fidi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/eisenkot-momento-fragile-per-la-democrazia-urge-leadership-di-cui-ci-si-fidi_ace4dc26-1245-4251-8405-59929f62025a.html",
-     "data": "2026-11-08T19:31:44+00:00"
     }
    ]
   },
