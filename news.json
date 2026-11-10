@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-11-09T20:54:09.603728+00:00",
+ "aggiornato": "2026-11-10T02:59:57.775565+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo guadagna oltre il 3% in apertura, il Nikkei torna sopra quota 60mila punti",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/borsa-tokyo-guadagna-oltre-il-3-in-apertura-il-nikkei-torna-sopra-quota-60mila_ebf520f9-1660-407f-be39-9967c37cab8b.html",
+     "data": "2026-11-10T00:29:25+00:00"
+    },
+    {
+     "titolo": "Trump continua a difendere Hegseth, 'ha vinto la guerra in Iran e Venezuela'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/trump-continua-a-difendere-hegseth-ha-vinto-la-guerra-in-iran-e-venezuela_7529ddf4-1782-48e9-b20f-0e4ba9609d56.html",
+     "data": "2026-11-09T22:15:20+00:00"
+    },
+    {
+     "titolo": "Trump, 'Huang mi ha detto che non sapeva che Alice fosse una spia'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/trump-huang-mi-ha-detto-che-non-sapeva-che-alice-fosse-una_a4e7c0b8-72c0-4162-9c2d-ee9a4b4722c4.html",
+     "data": "2026-11-09T22:13:17+00:00"
+    },
+    {
+     "titolo": "Trump, al momento non sono necessarie azioni militari in Iran",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/trump-al-momento-non-sono-necessarie-azioni-militari-in-iran_631afe01-a772-431f-a995-7c8cd3c8ebd0.html",
+     "data": "2026-11-09T21:55:03+00:00"
+    },
     {
      "titolo": "Il Papa, 'la disoccupazione è un dramma, ferisce la dignità'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/il-papa-la-disoccupazione-e-un-dramma-ferisce-la-dignita_f616d609-be3d-481a-923f-9e2fc1611baa.html",
@@ -34,26 +54,6 @@
      "titolo": "Ok al dl Bollette. Pichetto, 15 euro in meno al megawattora",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/ok-al-dl-bollette.-pichetto-15-euro-in-meno-al-megawattora_95c48499-d779-454d-ac71-89c46d67d32c.html",
      "data": "2026-11-09T18:46:27+00:00"
-    },
-    {
-     "titolo": "Barrot, 'i Pasdaran dietro l'attacco hacker ai frigo, adotteremo sanzioni Ue'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/barrot-i-pasdaran-dietro-lattacco-hacker-ai-frigo-adotteremo-sanzioni-ue_75e1efb9-4e5e-4033-9a73-d9007a29a3c1.html",
-     "data": "2026-11-09T18:06:16+00:00"
-    },
-    {
-     "titolo": "Tajani, 'attacchi ibridi da Iran? Quelli contro Italia sono di hacker filorussi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/tajani-attacchi-ibridi-da-iran-quelli-contro-italia-sono-di-hacker-filorussi_99c38464-b9a2-4d44-b757-3c042617b987.html",
-     "data": "2026-11-09T17:54:41+00:00"
-    },
-    {
-     "titolo": "Il gas in ampio ribasso (-3,9%) a 82,2 euro al Megawattora",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/il-gas-in-ampio-ribasso-39-a-822-euro-al-megawattora_5207a8bc-7e1e-42ae-99e4-6f3073277ef3.html",
-     "data": "2026-11-09T17:15:16+00:00"
-    },
-    {
-     "titolo": "Tajani a G7, 'uniti per dare un segnale forte a chi cerca il caos in Europa'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/tajani-a-g7-uniti-per-dare-un-segnale-forte-a-chi-cerca-il-caos-in-europa_f24328c1-e3ea-4943-8dfe-62ef0e9e25e6.html",
-     "data": "2026-11-09T17:13:19+00:00"
     }
    ]
   },
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "L'ira della Lega sul decreto armi, Giorgetti non lo firma",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/lira-della-lega-sul-decreto-armi-giorgetti-non-lo-firma_bd84e8d5-bb54-4f9e-ab20-c050f5ae3632.html",
+     "data": "2026-11-09T23:41:24+00:00"
+    },
+    {
      "titolo": "Il Papa, 'la disoccupazione è un dramma, ferisce la dignità'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/il-papa-la-disoccupazione-e-un-dramma-ferisce-la-dignita_29d6a92b-352c-456b-8b2a-85f994148d12.html",
      "data": "2026-11-09T20:02:17+00:00"
@@ -204,6 +209,16 @@
      "titolo": "Slitta la nomina per l'Anac, i dubbi sul capo di gabinetto del Mit",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/slitta-la-nomina-per-lanac-i-dubbi-sul-capo-di-gabinetto-del-mit_940196b9-abf0-4d14-95b6-27fc1005a9ae.html",
      "data": "2026-11-09T19:33:24+00:00"
+    },
+    {
+     "titolo": "Ingorgo in Parlamento, invito del ministro Ciriani in Cdm a 'frenare sui decreti'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/ingorgo-in-parlamento-invito-del-ministro-ciriani-in-cdm-a-frenare-sui-decreti_174418cf-fba4-48ee-8a6f-780d39f2a59f.html",
+     "data": "2026-11-09T21:10:06+00:00"
+    },
+    {
+     "titolo": "Lega: Salvini e il nodo Romeo, dal Nord appello a non sfiduciarlo",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/lega-salvini-e-il-nodo-romeo-dal-nord-appello-a-non-sfiduciarlo_84224299-d7fe-4f50-9dee-65469f639695.html",
+     "data": "2026-11-09T21:05:00+00:00"
     },
     {
      "titolo": "Cirio: \"La fine dell'occupazione al Campus Einaudi è una buona notizia",
@@ -234,27 +249,17 @@
      "titolo": "Dieci tavoli per il campo largo: giovedì nodo Ucraina, lunedì la patrimoniale",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/al-via-i-dieci-tavoli-programmatici-per-il-campo-largo_faa820dd-585d-4bcb-96e5-167ac3d853d3.html",
      "data": "2026-11-09T17:26:06+00:00"
-    },
-    {
-     "titolo": "Il Papa, lavoro precario e instabilità distruggono le famiglie",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/il-papa-lavoro-precario-e-instabilita-distruggono-le-famiglie_f93622e3-7a2b-41df-a8ab-ec24b1d091d9.html",
-     "data": "2026-11-09T15:14:39+00:00"
-    },
-    {
-     "titolo": "Il Papa, anche l'accoglienza ai disabili misura il progresso di una nazione",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/il-papa-anche-laccoglienza-ai-disabili-misura-il-progresso-di-una-nazione_142278d8-a4bb-4910-84be-809c5c1c1742.html",
-     "data": "2026-11-09T12:44:00+00:00"
-    },
-    {
-     "titolo": "Mattarella: 'Culture diverse non pregiudicano affatto l'integrazione'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/mattarella-culture-diverse-non-pregiudicano-affatto-lintegrazione_cccc39be-4107-4bd4-8025-bdfeab4833e7.html",
-     "data": "2026-11-09T12:01:20+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Borsa: Tokyo guadagna oltre il 3% in apertura, il Nikkei torna sopra quota 60mila punti",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/10/borsa-tokyo-guadagna-oltre-il-3-in-apertura-il-nikkei-torna-sopra-quota-60mila_e3130e6a-6427-4255-a7d8-74eabdbae893.html",
+     "data": "2026-11-10T00:29:25+00:00"
+    },
     {
      "titolo": "Dal Cdm ok al Decreto Bollette, '15 euro in meno al megawattora'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/dal-cdm-ok-al-decreto-bollette-15-euro-in-meno-al-megawattora_cbf74d76-2c12-4718-89af-73ab9c1e6fec.html",
@@ -309,11 +314,6 @@
      "titolo": "Banco Bpm conclude in corsa in Piazza Affari, +10%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/banco-bpm-conclude-in-corsa-in-piazza-affari-10_ef3b642f-a8a9-4413-8dcc-4ba3de13e161.html",
      "data": "2026-11-09T16:45:39+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in forte rialzo con le banche, Ftse Mib +2,69%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/borsa-milano-chiude-in-forte-rialzo-ftse-mib-269_715fcd25-4783-4993-8dc4-a2270981ec05.html",
-     "data": "2026-11-09T16:53:04+00:00"
     }
    ]
   },
@@ -321,64 +321,64 @@
    "nome": "Mondo",
    "voci": [
     {
-     "titolo": "Russell Brand deve scontare 10 anni e mezzo di carcere per stupro",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/09/russell-brand-deve-scontare-10-anni-e-mezzo-di-carcere-per-stupro_9af131ce-0012-47cb-9799-a36d8db2131e.html",
-     "data": "2026-11-09T19:54:17+00:00"
+     "titolo": "Messico da record con oltre 23 milioni di occupati formali",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/10/messico-da-record-con-oltre-23-milioni-di-occupati-formali_cff41a08-1cc8-48b5-996f-8ba11fc3de7f.html",
+     "data": "2026-11-10T02:13:31+00:00"
     },
     {
-     "titolo": "Il repubblicano Massie formalizza alla Camera mozione per impeachment Hegseth",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/il-repubblicano-massie-formalizza-alla-camera-mozione-per-impeachment-hegseth_0144fd18-523d-4aa0-bd17-494dcf7b18a6.html",
-     "data": "2026-11-09T19:38:14+00:00"
+     "titolo": "El Salvador congela i prezzi dei carburanti fino al 23 novembre",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/10/el-salvador-congela-i-prezzi-dei-carburanti-fino-al-23-novembre_34c1c604-3fba-4bfa-9e5f-cbb3b95d674e.html",
+     "data": "2026-11-10T01:23:05+00:00"
     },
     {
-     "titolo": "Barrot, 'i Pasdaran dietro l'attacco hacker ai frigo, adotteremo sanzioni Ue'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/09/barrot-i-pasdaran-dietro-lattacco-hacker-ai-frigo-adotteremo-sanzioni-ue_13cbad74-57cc-4106-8f11-fcd8d38c231b.html",
-     "data": "2026-11-09T18:06:24+00:00"
+     "titolo": "L'Italia in Messico con 58 autori per la Fiera del Libro di Guadalajara",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/10/litalia-in-messico-con-58-autori-per-la-fiera-del-libro-di-guadalajara_14377f18-184f-46d8-8cdc-18a4c26ce783.html",
+     "data": "2026-11-10T00:47:42+00:00"
     },
     {
-     "titolo": "Tajani, 'attacchi ibridi da Iran? Quelli contro Italia sono di hacker filorussi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/tajani-attacchi-ibridi-da-iran-quelli-contro-italia-sono-di-hacker-filorussi_7ac25056-1510-46cf-998b-97dbec48cf0c.html",
-     "data": "2026-11-09T17:54:41+00:00"
+     "titolo": "Venezuela, l'opposizione chiede al governo il rinnovo dell'autorità elettorale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/10/venezuela-lopposizione-chiede-al-governo-il-rinnovo-dellautorita-elettorale_51a84c7c-e059-483e-b354-0a9f4086033f.html",
+     "data": "2026-11-10T00:02:37+00:00"
     },
     {
-     "titolo": "Tajani a G7, 'uniti per dare un segnale forte a chi cerca il caos in Europa'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/tajani-a-g7-uniti-per-dare-un-segnale-forte-a-chi-cerca-il-caos-in-europa_9ba4fbe2-238e-42c1-a730-991f1bc472cf.html",
-     "data": "2026-11-09T17:13:37+00:00"
+     "titolo": "Cile: produzione di rame ai minimi dal 2003, allarme per l'economia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/10/cile-produzione-di-rame-ai-minimi-dal-2003-allarme-per-leconomia_795074b2-8497-432c-85bf-14d5470add01.html",
+     "data": "2026-11-09T23:35:15+00:00"
     },
     {
-     "titolo": "Ft, 'veto di Berlino al bilancio Ue senza un'intesa sul sostegno a Kiev'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/ft-veto-di-berlino-al-bilancio-ue-senza-unintesa-sul-sostegno-a-kiev_8faa41d4-cbdc-48c9-9c2c-e8797f9c2550.html",
-     "data": "2026-11-09T17:09:39+00:00"
+     "titolo": "Paraguay, Schreiner nominato alla guida della Banca centrale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/10/paraguay-schreiner-nominato-alla-guida-della-banca-centrale_450e181f-cd99-4ae8-a101-ed4d160f3327.html",
+     "data": "2026-11-09T23:27:39+00:00"
     },
     {
-     "titolo": "Ft, 'veto di Berlino al bilancio Ue senza un'intesa sul sostegno a Kiev'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/ft-veto-di-berlino-al-bilancio-ue-senza-unintesa-sul-sostegno-a-kiev_eff51253-1b02-47c8-9005-5f2d46971853.html",
-     "data": "2026-11-09T17:09:19+00:00"
+     "titolo": "Trump continua a difendere Hegseth, 'ha vinto la guerra in Iran e Venezuela'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/trump-continua-a-difendere-hegseth-ha-vinto-la-guerra-in-iran-e-venezuela_f73869c9-d65c-42e3-997c-0fcf53feacd5.html",
+     "data": "2026-11-09T22:15:18+00:00"
     },
     {
-     "titolo": "Kallas, 'non mi aspetto molto da Abu Dhabi, Mosca dia un segnale'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/kallas-non-mi-aspetto-molto-da-abu-dhabi-mosca-dia-un-segnale_dcfc038b-1129-4407-bf65-8579089b015c.html",
-     "data": "2026-11-09T16:54:46+00:00"
+     "titolo": "Trump, 'Huang mi ha detto che non sapeva che Alice fosse una spia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/trump-huang-mi-ha-detto-che-non-sapeva-che-alice-fosse-una_49da11e9-c79f-40ef-a75a-8010e50e9561.html",
+     "data": "2026-11-09T22:13:30+00:00"
     },
     {
-     "titolo": "Il parroco di Gaza, 'con le piogge una nuova tragedia umanitaria'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/09/il-parroco-di-gaza-con-le-piogge-una-nuova-tragedia-umanitaria_23b7d847-7704-4716-8b42-599dfdf2bdbc.html",
-     "data": "2026-11-09T16:52:06+00:00"
+     "titolo": "Trump, al momento non sono necessarie azioni militari in Iran",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/trump-al-momento-non-sono-necessarie-azioni-militari-in-iran_41331ac3-4231-47c4-afac-0b2e5f2749a9.html",
+     "data": "2026-11-09T21:55:20+00:00"
     },
     {
-     "titolo": "Francia apre inchiesta, 'ipotesi mano Iran dietro gli hacker dei frigoriferi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/francia-apre-inchiesta-ipotesi-mano-iran-dietro-gli-hacker-dei_f27e794e-038c-469a-ad3a-7188ca6450d2.html",
-     "data": "2026-11-09T16:40:36+00:00"
+     "titolo": "Perù, la Banca centrale conia medaglie dedicate a Leone XIV",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/09/peru-la-banca-centrale-conia-medaglie-dedicate-a-leone-xiv_eb2eda88-8ff1-403c-a551-010125e3f65f.html",
+     "data": "2026-11-09T21:47:31+00:00"
     },
     {
-     "titolo": "La Francia apre un'inchiesta, 'ipotesi: la mano dell'Iran dietro gli attacchi hacker ai frigoriferi'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/francia-apre-inchiesta-ipotesi-mano-iran-dietro-gli-hacker-dei_de65c382-657a-4efa-8666-9ff0e05b25d1.html",
-     "data": "2026-11-09T18:11:58+00:00"
+     "titolo": "Ecuador, approvata la legge antimafia, pene fino a 60 anni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/09/ecuador-approvata-la-legge-antimafia-pene-fino-a-60-anni_1f7fa3f8-2d40-4cf5-b3be-ebd6e559c600.html",
+     "data": "2026-11-09T21:32:49+00:00"
     },
     {
-     "titolo": "In Russia infuria il dibattito su proposta divieto della pizza nelle mense scolastiche",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/in-russia-infuria-il-dibattito-su-proposta-divieto-della-pizza-nelle-mense-scolastiche_1c7ffc01-33df-4b59-85b1-b883af950300.html",
-     "data": "2026-11-09T16:08:23+00:00"
+     "titolo": "Il presidente brasiliano Lula vola alla Cop31 in Turchia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/09/il-presidente-brasiliano-lula-vola-alla-cop31-in-turchia_9f358d54-8c54-4ba9-900b-1dcb33d99c9d.html",
+     "data": "2026-11-09T20:58:03+00:00"
     }
    ]
   },
@@ -451,6 +451,26 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Antonelli rientra a Bologna: 'Ora riposo e tagliatelle'. Ferrari in testacoda",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/09/antonelli-rientra-a-bologna-ora-riposo-e-tagliatelle-ferrari-in-testacoda_56ea8338-5a4c-4656-a2a8-8b62c2830865.html",
+     "data": "2026-11-09T22:54:39+00:00"
+    },
+    {
+     "titolo": "Il Sassuolo esonera Alberto Aquilani, Roberto D'Aversa in pole",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/09/il-sassuolo-esonera-alberto-aquilani-roberto-daversa-in-pole_f0635f5e-e97b-4357-b6dc-19d7a3043ae9.html",
+     "data": "2026-11-09T22:43:20+00:00"
+    },
+    {
+     "titolo": "Buon esordio per Sabalenka alle Wta Finals, Muchova ko in due set",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/09/buon-esordio-per-sabalenka-alle-wta-finals-muchova-ko-in-due-set_d53826a4-1252-4633-b108-3b17cb51648b.html",
+     "data": "2026-11-09T22:10:49+00:00"
+    },
+    {
+     "titolo": "Figc: ricorso Galliani al tribunale federale 'stop a commissione verifica candidature'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/09/figc-ricorso-galliani-al-tribunale-federale-stop-a-commissione-verifica-candidature_101104f0-1b68-4e6b-8b04-6136bccf5740.html",
+     "data": "2026-11-09T22:07:05+00:00"
+    },
+    {
      "titolo": "Premi: Cubarsì vince il Golden Boy 2026",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/09/premi-cubarsi-vince-il-golden-boy-2026_4c658fb7-bfdb-4bc9-996e-41e9a4f0998c.html",
      "data": "2026-11-09T19:50:59+00:00"
@@ -459,11 +479,6 @@
      "titolo": "Antonelli 'Monza momento cruciale, lì ho capito che dovevo vincere'",
      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/09/antonelli-monza-momento-cruciale-li-ho-capito-che-dovevo-vincere_8abafb3b-dd25-47ff-b85a-21ee075035b2.html",
      "data": "2026-11-09T19:18:41+00:00"
-    },
-    {
-     "titolo": "Kimi Antonelli è rientrato in Italia, a Bologna: 'Stasera un bel piatto di tagliatelle'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/09/kimi-antonelli-e-rientrato-in-italia-a-bologna-stasera-un-bel-piatto-di-tagliatelle_56ea8338-5a4c-4656-a2a8-8b62c2830865.html",
-     "data": "2026-11-09T20:46:05+00:00"
     },
     {
      "titolo": "Antonelli è arrivato Bologna, 'stasera un bel piatto di tagliatelle'",
@@ -491,24 +506,9 @@
      "data": "2026-11-09T17:48:30+00:00"
     },
     {
-     "titolo": "Il Sassuolo ha esonerato Alberto Aquilani e tutto il suo staff",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/09/il-sassuolo-esonera-alberto-aquilani_f0635f5e-e97b-4357-b6dc-19d7a3043ae9.html",
-     "data": "2026-11-09T17:50:57+00:00"
-    },
-    {
      "titolo": "Olimpia: Banchi, 'doppio incarico gestibile, nessun rischio sovrapposizione'",
      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/09/olimpia-banchi-doppio-incarico-gestibile-nessun-rischio-sovrapposizione_de49e540-816a-48b2-92c8-7eb4fb5d8c68.html",
      "data": "2026-11-09T15:58:38+00:00"
-    },
-    {
-     "titolo": "Calcio: in arrivo via libera per il bando del nuovo stadio di Cagliari",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/09/calcio-in-arrivo-via-libera-per-il-bando-del-nuovo-stadio-di-cagliari_ab161114-0243-428e-ad0e-62e085c1a3b7.html",
-     "data": "2026-11-09T15:57:34+00:00"
-    },
-    {
-     "titolo": "Allenamento sotto la pioggia per gli Azzurri, confermato il 4-3-3",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/11/09/azzurri-allenamento-sotto-la-pioggia-confermato-il-4-3-3_d63b8234-8dba-41de-9951-190990f88e02.html",
-     "data": "2026-11-09T17:23:04+00:00"
     }
    ]
   }
