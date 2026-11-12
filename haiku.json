@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-11T11:33:58.589365+00:00",
- "data": "2026-11-11",
- "testo": "Scroscio leggero\nsul vetro della serra\nstriscia una lumaca",
- "nota": "Una lumaca risale il vetro appannato di una serra mentre pioviggina.",
+ "aggiornato": "2026-11-12T11:58:47.136162+00:00",
+ "data": "2026-11-12",
+ "testo": "Tuono lontano\nsul rame della grondaia\nbatte la foglia",
+ "nota": "Durante il temporale, una foglia strappata colpisce la grondaia di rame.",
  "archivio": [
+  {
+   "data": "2026-11-12",
+   "testo": "Tuono lontano\nsul rame della grondaia\nbatte la foglia",
+   "nota": "Durante il temporale, una foglia strappata colpisce la grondaia di rame."
+  },
   {
    "data": "2026-11-11",
    "testo": "Scroscio leggero\nsul vetro della serra\nstriscia una lumaca",
@@ -448,11 +453,6 @@
    "data": "2026-08-15",
    "testo": "Ferragosto quieto\nserranda del panificio\nabbassata a metà",
    "nota": "Nel giorno di festa la bottega chiusa lascia la via silenziosa e vuota."
-  },
-  {
-   "data": "2026-08-14",
-   "testo": "Sera di agosto\nun pipistrello vira\nsopra il campanile",
-   "nota": "Al crepuscolo un pipistrello sfreccia attorno alla torre della chiesa."
   }
  ]
 }
