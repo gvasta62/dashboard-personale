@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-12T11:58:47.136162+00:00",
- "data": "2026-11-12",
- "testo": "Tuono lontano\nsul rame della grondaia\nbatte la foglia",
- "nota": "Durante il temporale, una foglia strappata colpisce la grondaia di rame.",
+ "aggiornato": "2026-11-13T11:43:07.902181+00:00",
+ "data": "2026-11-13",
+ "testo": "Vento di tramontana\ndalla vigna spoglia\nvola un tralcio",
+ "nota": "Un tralcio secco strappato dal vento sopra la vigna già vendemmiata.",
  "archivio": [
+  {
+   "data": "2026-11-13",
+   "testo": "Vento di tramontana\ndalla vigna spoglia\nvola un tralcio",
+   "nota": "Un tralcio secco strappato dal vento sopra la vigna già vendemmiata."
+  },
   {
    "data": "2026-11-12",
    "testo": "Tuono lontano\nsul rame della grondaia\nbatte la foglia",
@@ -448,11 +453,6 @@
    "data": "2026-08-16",
    "testo": "Goccia sul girasole\nlungo il muretto a secco\nscivola una lucertola",
    "nota": "Dopo il rovescio, una lucertola bagnata corre sul muretto assolato."
-  },
-  {
-   "data": "2026-08-15",
-   "testo": "Ferragosto quieto\nserranda del panificio\nabbassata a metà",
-   "nota": "Nel giorno di festa la bottega chiusa lascia la via silenziosa e vuota."
   }
  ]
 }
