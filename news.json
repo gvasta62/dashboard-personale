@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-11-13T22:56:07.045849+00:00",
+ "aggiornato": "2026-11-14T02:47:19.627481+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Cnn, 'ancora 700 aerei nei cieli Usa, più di 3.000 voli cancellati'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/cnn-ancora-700-aerei-nei-cieli-usa-piu-di-3.000-voli_cf62a829-7ddc-469c-b598-8c5597381881.html",
+     "data": "2026-11-14T00:18:28+00:00"
+    },
+    {
+     "titolo": "Casa Bianca, 'Trump discuterà di Iran con Xi e Putin, non di Ucraina'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/casa-bianca-trump-discutera-di-iran-con-xi-e-putin-non-di-ucraina_4070f4cc-6dc8-4cf7-b146-40449b162ac5.html",
+     "data": "2026-11-14T00:07:41+00:00"
+    },
+    {
+     "titolo": "Eurocontrol, 'sospeso tutto il traffico aereo diretto negli Usa'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/eurocontrol-sospeso-tutto-il-traffico-aereo-diretto-negli-usa_a2f4b6cf-d75a-4ff8-b266-b694161d3fd3.html",
+     "data": "2026-11-13T23:59:13+00:00"
+    },
+    {
+     "titolo": "Casa Bianca, 'Trump, Xi e Putin terranno colloqui trilaterali a Shenzhen'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/casa-bianca-trump-xi-e-putin-terranno-colloqui-trilaterali-a-shenzhen_1e1dfadf-250d-40b1-b71a-67870c9e5c13.html",
+     "data": "2026-11-13T23:51:33+00:00"
+    },
     {
      "titolo": "Fbi, 'blocco aereo Usa non è dovuto ad attacco informatico o crimine'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/fbi-blocco-aereo-usa-non-e-dovuto-ad-attacco-informatico-o-crimine_07ebdc7a-d2a8-4356-897f-e5e3c6baacb0.html",
@@ -34,26 +54,6 @@
      "titolo": "Authority trasporto aereo Usa dispone blocco nazionale per circostanze straordinarie",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/authority-trasporto-aereo-usa-dispone-blocco-nazionale-per-circostanze-straordinarie_c6fde2a2-fb3e-4ee0-8c85-40d12bb69160.html",
      "data": "2026-11-13T21:27:28+00:00"
-    },
-    {
-     "titolo": "La casa di Brigitte Bardot a Saint-Tropez sarà aperta al pubblico in estate",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/la-casa-di-brigitte-bardot-a-saint-tropez-sara-aperta-al-pubblico-in-estate_777b6667-a451-4b78-9cda-79dddc48e1b5.html",
-     "data": "2026-11-13T19:05:41+00:00"
-    },
-    {
-     "titolo": "Meloni, segnale di attenzione alla scuola ma non erano tagli",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/meloni-segnale-di-attenzione-alla-scuola-ma-non-erano-tagli_6885fd4c-ad4d-4ae4-9643-7fb21a432aaa.html",
-     "data": "2026-11-13T18:28:15+00:00"
-    },
-    {
-     "titolo": "Von der Leyen, 'con Congresso Usa potremo parlare di governance dell'IA",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/von-der-leyen-con-congresso-usa-potremo-parlare-di-governance-dellia_8a159d28-2547-46de-8cc2-149bc446d784.html",
-     "data": "2026-11-13T18:19:50+00:00"
-    },
-    {
-     "titolo": "Uccise la ex a fucilate a Roma, confermato l'ergastolo in appello",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/uccise-la-ex-a-fucilate-a-roma-confermato-lergastolo-in-appello_e6019991-70d2-4dc0-ba52-a15ae7d7a1a4.html",
-     "data": "2026-11-13T18:13:18+00:00"
     }
    ]
   },
@@ -321,6 +321,31 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Cnn, 'ancora 700 aerei nei cieli Usa, più di 3.000 voli cancellati'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-ancora-700-aerei-nei-cieli-usa-piu-di-3.000-voli_1de7bb19-d7ff-49ff-b146-891c95e66c11.html",
+     "data": "2026-11-14T00:18:28+00:00"
+    },
+    {
+     "titolo": "Casa Bianca, 'Trump discuterà di Iran con Xi e Putin, non di Ucraina'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/casa-bianca-trump-discutera-di-iran-con-xi-e-putin-non-di-ucraina_864145b8-8539-4476-afaa-f64bca240844.html",
+     "data": "2026-11-14T00:08:00+00:00"
+    },
+    {
+     "titolo": "++ Casa Bianca, 'Trump discuterà di Iran con Xi e Putin, non di Ucraina' ++",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/casa-bianca-trump-discutera-di-iran-con-xi-e-putin-non-di-ucraina_52f18b18-fb69-4fdb-985f-489287578816.html",
+     "data": "2026-11-14T00:07:05+00:00"
+    },
+    {
+     "titolo": "Eurocontrol, 'sospeso tutto il traffico aereo diretto negli Usa'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/eurocontrol-sospeso-tutto-il-traffico-aereo-diretto-negli-usa_e9386725-85ca-4ddc-9386-4239223ec5b6.html",
+     "data": "2026-11-13T23:59:29+00:00"
+    },
+    {
+     "titolo": "Casa Bianca, 'Trump, Xi e Putin terranno colloqui trilaterali a Shenzhen'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/14/casa-bianca-trump-xi-e-putin-terranno-colloqui-trilaterali-a-shenzhen_1d0acae1-cdbb-4e03-8ffb-d184908de2c6.html",
+     "data": "2026-11-13T23:51:36+00:00"
+    },
+    {
      "titolo": "Fbi, 'blocco aereo Usa non è dovuto ad attacco informatico o crimine'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/fbi-blocco-aereo-usa-non-e-dovuto-ad-attacco-informatico-o-crimine_62b6813b-2329-4978-90ab-c128f676be23.html",
      "data": "2026-11-13T22:48:21+00:00"
@@ -354,31 +379,6 @@
      "titolo": "La casa di Brigitte Bardot a Saint-Tropez sarà aperta al pubblico in estate",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/la-casa-di-brigitte-bardot-a-saint-tropez-sara-aperta-al-pubblico-in-estate_ff23d420-a448-4a76-98f7-b14fdf2275d2.html",
      "data": "2026-11-13T19:05:41+00:00"
-    },
-    {
-     "titolo": "Crack Ueno Bank in Paraguay, l'ex presidente accusato di associazione a delinquere",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/13/crack-ueno-bank-in-paraguay-lex-presidente-accusato-di-associazione-a-delinquere_0c7d4e58-7b8d-4006-8102-b5afb8b596eb.html",
-     "data": "2026-11-13T18:32:59+00:00"
-    },
-    {
-     "titolo": "Von der Leyen, 'con Congresso Usa potremo parlare di governance dell'IA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/von-der-leyen-con-congresso-usa-potremo-parlare-di-governance-dellia_a47b7860-f85a-46b2-8d12-9dd6a265035d.html",
-     "data": "2026-11-13T18:20:11+00:00"
-    },
-    {
-     "titolo": "Fonti P.Chigi, 'da vertice di Dublino importante risultato su team negoziale'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/fonti-p.chigi-da-vertice-di-dublino-importante-risultato-su-team-negoziale_8a87df2d-80e2-4f55-8bae-cd64176d0058.html",
-     "data": "2026-11-13T17:43:39+00:00"
-    },
-    {
-     "titolo": "Ft, Nvidia ha contattato il ceo di Arm, Rene Haas, per il dopo Huang",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/ft-nvidia-ha-contattato-il-ceo-di-arm-rene-haas-per-il-dopo-huang_e92c57ea-9662-4094-9ab1-9c7b977625e3.html",
-     "data": "2026-11-13T17:33:03+00:00"
-    },
-    {
-     "titolo": "Merkel, 'oggi voterei a favore del matrimonio per tutti'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/merkel-oggi-voterei-a-favore-del-matrimonio-per-tutti_e5afa36a-0d0c-4565-948a-458dd797307a.html",
-     "data": "2026-11-13T17:30:16+00:00"
     }
    ]
   },
@@ -451,6 +451,11 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Tennis: Sabalenka eliminata nella fase a gironi delle WTA Finals Indian Wells da Svitolina",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/tennis-sabalenka-eliminata-nella-fase-a-gironi-delle-wta-finals-indian_aa915780-925d-4002-9654-6f679f765731.html",
+     "data": "2026-11-14T02:20:24+00:00"
+    },
+    {
      "titolo": "Nations League: successi per la Germania e l'Olanda",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/13/nations-league-successi-per-la-germania-e-lolanda_d11338a4-0886-4053-acbd-87304a78e151.html",
      "data": "2026-11-13T22:07:19+00:00"
@@ -504,11 +509,6 @@
      "titolo": "Atp Finals: Cobolli, questa è un un po' la mia Coppa Davis in singolo",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/13/atp-finals-cobolli-questa-e-un-un-po-la-mia-coppa-davis-in-singolo_99f113d1-86eb-4161-b4a6-7ab9c398feaf.html",
      "data": "2026-11-13T18:36:34+00:00"
-    },
-    {
-     "titolo": "Atp Finals: Zverev, per ora non penso ad Alcaraz ma al mio gruppo",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/13/atp-finals-zverev-per-ora-non-penso-ad-alcaraz-ma-al-mio-gruppo_0584b28f-1c44-4c69-afb8-97bb2cc03919.html",
-     "data": "2026-11-13T18:27:44+00:00"
     }
    ]
   }
