@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-13T11:43:07.902181+00:00",
- "data": "2026-11-13",
- "testo": "Vento di tramontana\ndalla vigna spoglia\nvola un tralcio",
- "nota": "Un tralcio secco strappato dal vento sopra la vigna già vendemmiata.",
+ "aggiornato": "2026-11-14T11:05:22.232217+00:00",
+ "data": "2026-11-14",
+ "testo": "Sole d'autunno\nsul muretto di travertino\nfuma un gatto",
+ "nota": "Un gatto accovacciato al tiepido sole, il fiato visibile nell'aria fredda.",
  "archivio": [
+  {
+   "data": "2026-11-14",
+   "testo": "Sole d'autunno\nsul muretto di travertino\nfuma un gatto",
+   "nota": "Un gatto accovacciato al tiepido sole, il fiato visibile nell'aria fredda."
+  },
   {
    "data": "2026-11-13",
    "testo": "Vento di tramontana\ndalla vigna spoglia\nvola un tralcio",
@@ -448,11 +453,6 @@
    "data": "2026-08-17",
    "testo": "Nuvola in transito\nsul basilico al balcone\ngocce e profumo",
    "nota": "Un rovescio breve bagna il basilico in vaso e ne sprigiona l'odore."
-  },
-  {
-   "data": "2026-08-16",
-   "testo": "Goccia sul girasole\nlungo il muretto a secco\nscivola una lucertola",
-   "nota": "Dopo il rovescio, una lucertola bagnata corre sul muretto assolato."
   }
  ]
 }
