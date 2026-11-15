@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-11-14T20:48:47.018590+00:00",
+ "aggiornato": "2026-11-15T00:27:20.216652+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "SpaceX recupera per la prima volta nella storia un veicolo spaziale",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/spacex-recupera-per-la-prima-volta-nella-storia-un-veicolo-spaziale_878fb39f-8bdd-4518-ad05-0e8675365ac5.html",
+     "data": "2026-11-14T22:36:17+00:00"
+    },
     {
      "titolo": "Ministero Interno, '219 fermi in Francia e 10 agenti lievemente feriti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/ministero-interno-219-fermi-in-francia-e-10-agenti-lievemente-feriti_b5a92c67-2b50-4eae-949e-32bb835a137e.html",
@@ -49,11 +54,6 @@
      "titolo": "Re Carlo compie 78 anni in piena attività, e scherza col coetaneo Elton John",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/re-carlo-compie-78-anni-in-piena-attivita-e-scherza-col-coetaneo-elton-john_8d32e01f-b607-409c-a0de-309bb6f4c8b5.html",
      "data": "2026-11-14T12:26:20+00:00"
-    },
-    {
-     "titolo": "Nyt, 'Russia propone ritiro Nato a posizioni pre-1997, modello è Patto Varsavia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/nyt-russia-propone-ritiro-nato-a-posizioni-pre-1997-modello-e-patto_07f9cff8-48be-4e0c-a575-7760171a2b29.html",
-     "data": "2026-11-14T12:17:24+00:00"
     }
    ]
   },
@@ -208,7 +208,7 @@
     {
      "titolo": "I bot si ribellano ai politici, 'colpa' di Microsoft down",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
-     "data": "2026-11-14T18:59:03+00:00"
+     "data": "2026-11-14T21:54:12+00:00"
     },
     {
      "titolo": "Schlein: 'Far ripartire la crescita del Paese'. Conte: 'Sostenere la produttività'",
@@ -218,7 +218,7 @@
     {
      "titolo": "Maxi-multa del Garante per Meta, l'azienda prepara il ricorso",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html",
-     "data": "2026-11-14T18:16:02+00:00"
+     "data": "2026-11-14T21:35:39+00:00"
     },
     {
      "titolo": "Meloni: 'Per la sinistra gli autonomi di serie B, noi aiutiamo chi rischia in proprio'",
@@ -306,6 +306,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "SpaceX recupera per la prima volta nella storia un veicolo spaziale",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/spacex-recupera-per-la-prima-volta-nella-storia-un-veicolo-spaziale_63d70220-5db9-4ef4-9afa-8bf16afb3dd7.html",
+     "data": "2026-11-14T22:36:34+00:00"
+    },
+    {
      "titolo": "Ministero Interno, '219 fermi in Francia e 10 agenti lievemente feriti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/ministero-interno-219-fermi-in-francia-e-10-agenti-lievemente-feriti_3adc9bc0-0a5d-4592-bca1-914fedb78ba1.html",
      "data": "2026-11-14T20:08:38+00:00"
@@ -359,11 +364,6 @@
      "titolo": "Zelensky, 'solleverò questione limiti Starshield a tutti i livelli'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-sollevero-questione-limiti-starshield-a-tutti-i-livelli_ca1f5de4-9a5f-451c-b1ec-9ce5e9fd32c2.html",
      "data": "2026-11-14T16:19:23+00:00"
-    },
-    {
-     "titolo": "Duffy ringrazia controllori e passeggeri, tornata la piena operatività",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/duffy-ringrazia-controllori-e-passeggeri-tornata-la-piena-operativita_831ca53e-f697-4b64-b5d2-c6758657158e.html",
-     "data": "2026-11-14T16:07:44+00:00"
     }
    ]
   },
@@ -436,6 +436,21 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Wta Finals: l'ucraina Svitolina in finale, sfiderà la russa Andreeva",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/wta-finals-lucraina-svitolina-in-finale-sfidera-la-russa-andreeva_b510fc8b-1322-4e1a-ac63-956e665405dd.html",
+     "data": "2026-11-14T23:15:17+00:00"
+    },
+    {
+     "titolo": "Wta Finals: Andreeva batte Pegula e va in finale",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/wta-finals-andreeva-batte-pegula-e-va-in-finale_cce2df57-4064-49c5-bda5-19545e68f618.html",
+     "data": "2026-11-14T23:00:42+00:00"
+    },
+    {
+     "titolo": "Nations League: il Portogallo rovina l'omaggio a CR7, crolla con la Danimarca",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/nations-league-il-portogallo-rovina-lomaggio-a-cr7-crolla-con-la-danimarca_61b91677-4e77-48d5-9bb6-5b5515810229.html",
+     "data": "2026-11-14T22:52:40+00:00"
+    },
+    {
      "titolo": "Scherma: cdm fioretto; tripletta delle azzurre a Plovdiv",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/14/scherma-cdm-fioretto-tripletta-delle-azzurre-a-plovdiv_be7f3c20-6f78-41c4-a4cd-f8adce28e30e.html",
      "data": "2026-11-14T20:16:32+00:00"
@@ -443,7 +458,7 @@
     {
      "titolo": "Wta Finals: dall'Ucraina accuse a Sabalenka, 'ha offeso Svitolina'",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/wta-finals-dallucraina-accuse-a-sabalenka-ha-offeso-svitolina_d6cc3bd8-af0f-459c-a399-fbf7540e49a9.html",
-     "data": "2026-11-14T19:52:01+00:00"
+     "data": "2026-11-14T23:15:52+00:00"
     },
     {
      "titolo": "Belgio-Italia, omaggio della Nazionale alle vittime dell'Heysel",
@@ -479,21 +494,6 @@
      "titolo": "Calcio: il Giappone batte il Brasile e Ancelotti si infuria, espulso",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/il-giappone-batte-il-brasile-e-ancelotti-si-infuria-espulso_8e4f5eb2-5569-4c96-a70a-23f8881f9441.html",
      "data": "2026-11-14T18:20:51+00:00"
-    },
-    {
-     "titolo": "Atp Finals, Larissa Iapichino porta ai bambini i valori dello sport",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/atp-finals-larissa-iapichino-porta-ai-bambini-i-valori-dello-sport_d0dde011-f67e-4f7c-9aee-4dd41bf97d5d.html",
-     "data": "2026-11-14T17:45:55+00:00"
-    },
-    {
-     "titolo": "Figc: Abodi 'spero che dal 15 dicembre riprenda il dialogo per le riforme'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/figc-abodi-spero-che-dal-15-dicembre-riprenda-il-dialogo-per-le-riforme_2c950a4e-e2d1-40c6-8f9d-d9214fe2f118.html",
-     "data": "2026-11-14T17:45:02+00:00"
-    },
-    {
-     "titolo": "Maldini 'mi piaceva il ruolo del portiere, per fortuna ho fatto difensore'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/maldini-mi-piaceva-il-ruolo-del-portiere-per-fortuna-ho-fatto-difensore_210bec7d-3b54-49cf-b87a-9e59cea5c04c.html",
-     "data": "2026-11-14T17:23:07+00:00"
     }
    ]
   }
