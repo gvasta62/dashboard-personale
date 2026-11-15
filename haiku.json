@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-14T11:05:22.232217+00:00",
- "data": "2026-11-14",
- "testo": "Sole d'autunno\nsul muretto di travertino\nfuma un gatto",
- "nota": "Un gatto accovacciato al tiepido sole, il fiato visibile nell'aria fredda.",
+ "aggiornato": "2026-11-15T11:39:03.196316+00:00",
+ "data": "2026-11-15",
+ "testo": "Domenica umida\nsul banco della chiesa\nodora la cera",
+ "nota": "Dopo la messa, i rovesci fuori e l'aria chiusa di cera nella navata.",
  "archivio": [
+  {
+   "data": "2026-11-15",
+   "testo": "Domenica umida\nsul banco della chiesa\nodora la cera",
+   "nota": "Dopo la messa, i rovesci fuori e l'aria chiusa di cera nella navata."
+  },
   {
    "data": "2026-11-14",
    "testo": "Sole d'autunno\nsul muretto di travertino\nfuma un gatto",
@@ -448,11 +453,6 @@
    "data": "2026-08-18",
    "testo": "Cielo compatto\nsul filare degli ulivi\nfoglie d'argento",
    "nota": "Nel grigio senza vento le foglie degli ulivi mostrano il rovescio chiaro."
-  },
-  {
-   "data": "2026-08-17",
-   "testo": "Nuvola in transito\nsul basilico al balcone\ngocce e profumo",
-   "nota": "Un rovescio breve bagna il basilico in vaso e ne sprigiona l'odore."
   }
  ]
 }
