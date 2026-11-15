@@ -1,10 +1,50 @@
 {
- "aggiornato": "2026-11-15T06:53:43.934377+00:00",
+ "aggiornato": "2026-11-15T14:22:35.265081+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Trump, 'amministrazione Biden un disastro per la Federal Aviation Administration'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/trump-amministrazione-biden-un-disastro-per-la-federal-aviation-administration_1399fa22-f314-4bc9-bec9-5c9ced28e026.html",
+     "data": "2026-11-15T13:41:21+00:00"
+    },
+    {
+     "titolo": "Mosca, 'negoziati sull'Ucraina, l'Ue vuole salire sull'ultimo treno'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/mosca-negoziati-sullucraina-lue-vuole-salire-sullultimo-treno_569f970a-c57c-4974-a924-58ff47836a7a.html",
+     "data": "2026-11-15T13:01:03+00:00"
+    },
+    {
+     "titolo": "Mosca, 'negozieremo per raggiungere gli obiettivi fissati da Putin nel 2024'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/mosca-negozieremo-per-raggiungere-gli-obiettivi-fissati-da-putin-nel-2024_915ab3b0-249f-4669-9c3e-498447601b99.html",
+     "data": "2026-11-15T12:59:51+00:00"
+    },
+    {
+     "titolo": "Hacker 15enni rubavano identità digitale e dati sensibili",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/hacker-15enni-rubavano-identita-digitale-e-dati-sensibili_0193d69d-f781-4ff3-86a3-b2dd88e1c991.html",
+     "data": "2026-11-15T12:51:41+00:00"
+    },
+    {
+     "titolo": "Rai: Richetti (Az), non farò mai il presidente di nulla per conto della destra",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/rai-richetti-az-non-faro-mai-il-presidente-di-nulla-per-conto-della_ada6980b-98e4-45c5-a4ee-38da6b1507dc.html",
+     "data": "2026-11-15T11:58:26+00:00"
+    },
+    {
+     "titolo": "Tajani, 'favorevole a una donna al Quirinale e magari di centrodestra'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/tajani-favorevole-a-una-donna-al-quirinale-e-magari-di-centrodestra_4351512a-464f-46e8-b16c-67e36978b5bc.html",
+     "data": "2026-11-15T11:34:32+00:00"
+    },
+    {
+     "titolo": "Schlein dai Verdi, insieme per un governo progressista, femminista e ecologista",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/schlein-dai-verdi-insieme-per-un-governo-progressista-femminista-e-ecologista_b1b21dbe-b034-413f-bbf1-ba26eda78091.html",
+     "data": "2026-11-15T11:11:34+00:00"
+    },
+    {
+     "titolo": "Bonelli, nessuna preclusione sul Rdc ma prendiamo risorse da patrimoniale",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/bonelli-nessuna-preclusione-sul-rdc-ma-prendiamo-risorse-da-patrimoniale_cc3e08f7-a6ab-43fc-b1d5-3612eae0a2d5.html",
+     "data": "2026-11-15T10:35:16+00:00"
+    },
     {
      "titolo": "SpaceX recupera per la prima volta nella storia un veicolo spaziale",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/spacex-recupera-per-la-prima-volta-nella-storia-un-veicolo-spaziale_878fb39f-8bdd-4518-ad05-0e8675365ac5.html",
@@ -14,52 +54,32 @@
      "titolo": "Ministero Interno, '219 fermi in Francia e 10 agenti lievemente feriti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/ministero-interno-219-fermi-in-francia-e-10-agenti-lievemente-feriti_b5a92c67-2b50-4eae-949e-32bb835a137e.html",
      "data": "2026-11-14T20:08:17+00:00"
-    },
-    {
-     "titolo": "Eisenkot, proposta unità di Netanyahu 'ennesimo trucco, colloqui già programmati'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/eisenkot-proposta-unita-di-netanyahu-ennesimo-trucco-colloqui-gia-programmati_140ef535-21f4-48a6-930b-e1f977b62d86.html",
-     "data": "2026-11-14T19:07:37+00:00"
-    },
-    {
-     "titolo": "Tra Meloni e Messina una telefonata di 'chiarimento'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/tra-meloni-e-messina-una-telefonata-di-chiarimento_c84f715f-05b7-490d-836e-8e365b0b8cdf.html",
-     "data": "2026-11-14T19:01:40+00:00"
-    },
-    {
-     "titolo": "Netanyahu insiste, 'governo di unità nazionale per chiudere i conti con l'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_c8608ef7-07b3-4696-a067-57f6719bef73.html",
-     "data": "2026-11-14T17:48:11+00:00"
-    },
-    {
-     "titolo": "Gruppi Lgbtq+ sfidano la repressione in Turchia per marciare con attivisti di Cop31",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/gruppi-lgbtq-sfidano-la-repressione-in-turchia-per-marciare-con-attivisti-di-cop31_3a115b43-06d0-4e31-b26c-de2b564a1871.html",
-     "data": "2026-11-14T17:02:59+00:00"
-    },
-    {
-     "titolo": "Duffy ringrazia controllori e passeggeri, tornata la piena operatività",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/duffy-ringrazia-controllori-e-passeggeri-tornata-la-piena-operativita_9a004811-983a-4ceb-a328-41f9c37a0285.html",
-     "data": "2026-11-14T16:07:41+00:00"
-    },
-    {
-     "titolo": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_38c8b6c6-9747-4f7c-a00c-1c4781ef8b43.html",
-     "data": "2026-11-14T15:59:51+00:00"
-    },
-    {
-     "titolo": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_7469c6ab-2a75-41c2-b36d-a6735d1ae429.html",
-     "data": "2026-11-14T15:50:06+00:00"
-    },
-    {
-     "titolo": "Re Carlo compie 78 anni in piena attività, e scherza col coetaneo Elton John",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/re-carlo-compie-78-anni-in-piena-attivita-e-scherza-col-coetaneo-elton-john_8d32e01f-b607-409c-a0de-309bb6f4c8b5.html",
-     "data": "2026-11-14T12:26:20+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "Colletta alimentare, in Umbria raccolte 169 tonnellate di prodotti",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/15/colletta-alimentare-in-umbria-raccolte-169-tonnellate-di-prodotti_1f93247d-1163-4e13-9480-95f2412b6a3c.html",
+     "data": "2026-11-15T12:44:21+00:00"
+    },
+    {
+     "titolo": "Il presidente della Provincia di Perugia prosegue il dialogo con la Cina",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/15/il-presidente-della-provincia-di-perugia-prosegue-il-dialogo-con-la-cina_32ad12f6-0a6e-4800-a987-893168cc4d1f.html",
+     "data": "2026-11-15T12:25:58+00:00"
+    },
+    {
+     "titolo": "Qualità della vita, l'Umbria mantiene una posizione intermedia",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/15/qualita-della-vita-lumbria-mantiene-una-posizione-intermedia_c35c883c-b9ad-4b16-8fd7-92e569ed2627.html",
+     "data": "2026-11-15T12:08:43+00:00"
+    },
+    {
+     "titolo": "Comuni in Europa, da Bruxelles una strategia condivisa per il futuro degli enti locali",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/15/comuni-in-europa-da-bruxelles-una-strategia-condivisa-per-il-futuro-degli-enti_010acacf-3579-4f45-94d0-34c4ba15eb9d.html",
+     "data": "2026-11-15T11:35:46+00:00"
+    },
     {
      "titolo": "Lollobrigida, la sinistra che c'è oggi è forse la peggiore della storia",
      "link": "https://www.ansa.it/umbria/notizie/2026/11/14/lollobrigida-la-sinistra-che-ce-oggi-e-forse-la-peggiore-della-storia_6dfdfba8-a5f8-420e-b4a3-bfe50df49297.html",
@@ -99,26 +119,6 @@
      "titolo": "Genitori separati, 141 umbri ammessi al contributo affitto",
      "link": "https://www.ansa.it/umbria/notizie/2026/11/14/genitori-separati-141-umbri-ammessi-al-contributo-affitto_8e3bd5a5-073c-4e1a-9b54-4293d6568acd.html",
      "data": "2026-11-14T15:44:41+00:00"
-    },
-    {
-     "titolo": "Ultima fase dei lavori sul viadotto 'Castagnola' sulla 'Umbro Laziale' a Narni",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/14/ultima-fase-dei-lavori-sul-viadotto-castagnola-sulla-umbro-laziale_cd4933be-54e7-4217-88d7-a7e1f0c372a0.html",
-     "data": "2026-11-14T15:44:38+00:00"
-    },
-    {
-     "titolo": "I laureati in Umbria trovano più lavoro ma guadagnano meno della media italiana",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/14/i-laureati-in-umbria-trovano-piu-lavoro-ma-guadagnano-meno-della-media-italiana_d553da89-f396-4137-bd04-8ffa70019db5.html",
-     "data": "2026-11-14T09:43:17+00:00"
-    },
-    {
-     "titolo": "Il Sodalizio di San Martino celebra il patrono a Perugia, 'sfida alla solitudine'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/14/il-sodalizio-di-san-martino-celebra-il-patrono-a-perugia-sfida-alla-solitudine_b84ea564-456a-4959-bfec-54c12ba8dc3c.html",
-     "data": "2026-11-14T09:20:02+00:00"
-    },
-    {
-     "titolo": "Udu prende in autogestione palazzo Manzoni a Perugia",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/14/udu-prende-in-autogestione-palazzo-manzoni-a-perugia_e6198293-5941-40a1-929c-b14cfd249b23.html",
-     "data": "2026-11-14T08:57:18+00:00"
     }
    ]
   },
@@ -126,70 +126,110 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-11-14T20:27:14+00:00"
+     "titolo": "Inseguiti da forze dell'ordine, giovane muore in dirupo, un altro ferito",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/inseguiti-da-forze-dellordine-giovane-muore-in-dirupo-un-altro-ferito_19695c87-b573-474c-bbba-e97d57da47f5.html",
+     "data": "2026-11-15T13:03:23+00:00"
     },
     {
-     "titolo": "A Udine una panchina gialla dedicata a Giulio Regeni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/a-udine-una-panchina-gialla-dedicata-a-giulio-regeni_b78348d0-bf5d-41b9-a611-10f0227fcf97.html",
-     "data": "2026-11-14T19:05:35+00:00"
+     "titolo": "Hacker 15enni rubavano identità digitale e dati sensibili",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/hacker-15enni-rubavano-identita-digitale-e-dati-sensibili_32fa57bc-e957-4648-a0fe-a1798f76fb4d.html",
+     "data": "2026-11-15T12:51:40+00:00"
     },
     {
-     "titolo": "Sfilano 20mila 'antifascisti' a Parma, 1500 i pro Remigrazione",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/sfilano-20mila-antifascisti-a-parma-1500-i-pro-remigrazione_d6a21632-6347-46fb-ae91-a4bb6273b1a8.html",
-     "data": "2026-11-14T18:37:44+00:00"
+     "titolo": "Hacker 15enni rubavano identità digitali e dati sensibili",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/hacker-15enni-rubavano-identita-digitale-e-dati-sensibili-_63f9d5bd-69f5-4d9b-a5a4-1e157c63f6ec.html",
+     "data": "2026-11-15T12:53:54+00:00"
     },
     {
-     "titolo": "Scontro tra due auto in galleria, cinque morti nel Cosentino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-cinque-morti-nel-cosentino_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
-     "data": "2026-11-14T18:53:25+00:00"
+     "titolo": "Il Papa in Perù, oggi raggiunge Cusco a più di 3mila metri di altezza",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/il-papa-in-peru-oggi-raggiunge-cusco-a-piu-di-3mila-metri-di-altezza_8bf8aaa0-ded9-4a22-9d76-cdb0581f9120.html",
+     "data": "2026-11-15T12:35:15+00:00"
     },
     {
-     "titolo": "Omicidio a Gangi, fermato un uomo di 35 anni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/omicidio-a-gangi-fermato-un-uomo-di-35-anni_1f61f8e5-2058-41c9-84c0-a68ac5ac1655.html",
-     "data": "2026-11-14T17:38:55+00:00"
+     "titolo": "Il Papa in Perù, oggi raggiunge Cusco a più di 3mila metri di altezza",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/il-papa-in-peru-oggi-raggiunge-cusco-a-piu-di-3mila-metri-di-altezza_aafbb405-0d4b-4ae7-843f-20ccfe987b93.html",
+     "data": "2026-11-15T12:32:33+00:00"
     },
     {
-     "titolo": "A Torino parte il corteo contro carovita e aumento delle bollette",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/a-torino-parte-il-corteo-contro-carovita-e-aumento-delle-bollette_15174605-90a8-47db-ae18-89936a390fe4.html",
-     "data": "2026-11-14T16:10:11+00:00"
+     "titolo": "Inseguiti dalle forze dell'ordine, un giovane muore in un dirupo, un altro ferito",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/inseguiti-da-forze-dellordine-giovane-muore-in-un-dirupo-un-altro-ferito_7d5ced4c-5b57-476e-b719-2dd67e351999.html",
+     "data": "2026-11-15T13:03:49+00:00"
     },
     {
-     "titolo": "A Milano poche centinaia per il nuovo corteo di 'Italia in piazza'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/a-milano-poche-centinaia-per-il-nuovo-corteo-di-italia-in-piazza_d5fb3f5e-e66c-4220-97e4-8471ee1304c2.html",
-     "data": "2026-11-14T15:15:58+00:00"
+     "titolo": "Fan di Elisa muore prima dello show a Bologna, spettacolo annullato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/fan-di-elisa-muore-prima-dello-show-a-bologna-spettacolo-annullato_57c723e5-dd7f-4fa8-93c5-2ebcc3bede7e.html",
+     "data": "2026-11-15T12:12:13+00:00"
     },
     {
-     "titolo": "Lite in strada a Roma, uomo ucciso a colpi di forbici",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/lite-in-strada-a-roma-uomo-ucciso-a-colpi-di-forbici_e610ee43-a0e8-4750-bfae-2ecf1daf68ae.html",
-     "data": "2026-11-14T13:23:15+00:00"
+     "titolo": "Gestisce ragazze su OnlyFans, i militanti di Fn non lo vogliono come referente locale",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/gestisce-ragazze-su-onlyfans-i-militanti-di-fn-non-lo-vogliono-come-referente-locale_e7715fcd-5a89-47a4-96ae-08c9e8ce31d4.html",
+     "data": "2026-11-15T12:03:02+00:00"
     },
     {
-     "titolo": "Scagionata dopo 14 anni: 'Non ho più né casa né lavoro'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/infermiera-scagionata-da-omicidio-sono-a-casa-poi-si-vedra_efe0b4f8-0c28-45b6-8bf1-9b0201aa7dfa.html",
-     "data": "2026-11-14T15:54:17+00:00"
+     "titolo": "Bolzano è la provincia in cui si vive meglio, l'ultima è Taranto",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/bolzano-e-la-provincia-in-cui-si-vive-meglio-lultima-e-taranto_9e592d92-7538-4c88-9e59-68831ace8e36.html",
+     "data": "2026-11-15T12:29:04+00:00"
     },
     {
-     "titolo": "Aggredisce la compagna incinta, arrestato 27enne in Brianza",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/aggredisce-la-compagna-incinta-arrestato-27enne-in-brianza_4425a445-32ab-458c-9576-c792f39d0cd9.html",
-     "data": "2026-11-14T13:46:48+00:00"
+     "titolo": "Forte maltempo nel Salernitano, frane e allagamenti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/forte-maltempo-nel-salernitano-frane-e-allagamenti_d58f8a75-e889-4450-841f-259077558f9a.html",
+     "data": "2026-11-15T13:39:34+00:00"
     },
     {
-     "titolo": "A Varese gli Stati Generali della Scuola Digitale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/a-varese-gli-stati-generali-della-scuola-digitale_d8f16533-b361-4010-b82c-62c05c313f8a.html",
-     "data": "2026-11-14T14:42:17+00:00"
+     "titolo": "Fan di Elisa muore prima dello show a Bologna, spettacolo annullato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/fan-di-elisa-muore-prima-dello-show-a-bologna-spettacolo-annullato_ff9fb762-ff64-4b76-8156-1b925964b84b.html",
+     "data": "2026-11-15T13:41:38+00:00"
     },
     {
-     "titolo": "A bordo di un'auto investono tre ragazzi e fuggono, uno è gravissimo",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/a-bordo-di-unauto-investono-tre-ragazzi-e-fuggono-uno-e-gravissimo_3884b674-1e8e-4787-93ed-b7cbdea8dc2b.html",
-     "data": "2026-11-14T11:26:56+00:00"
+     "titolo": "La montagna torna ad attrarre, dal 2019 oltre 174mila nuovi abitanti",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/la-montagna-torna-ad-attrarre-dal-2019-oltre-174mila-nuovi-abitanti_a18e8fae-7a6a-4c17-a79e-a61b3b8a60f2.html",
+     "data": "2026-11-15T09:16:09+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Regioni: 'Pochi 500 milioni alla sanità, non si prendano da noi'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/regioni-pochi-500-milioni-alla-sanita-non-si-prendano-da-noi_dd435191-a845-42d8-a945-ab3449b4a6ec.html",
+     "data": "2026-11-15T13:34:16+00:00"
+    },
+    {
+     "titolo": "Vigilanza Rai, Richetti: 'Non farò mai il presidente di nulla per conto della destra'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/vigilanza-rai-richetti-non-faro-mai-il-presidente-di-nulla-per-conto_b098c0d7-1b2d-452b-a641-ac71ecac7d33.html",
+     "data": "2026-11-15T12:41:40+00:00"
+    },
+    {
+     "titolo": "Fratoianni a Conte: 'La tassa sulle grandi ricchezze deve essere nel programma'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/fratoianni-a-conte-la-tassa-sulle-grandi-ricchezze-deve-essere-nel-programma_3c918e6b-74f7-42a0-b926-70c8340c5820.html",
+     "data": "2026-11-15T12:38:48+00:00"
+    },
+    {
+     "titolo": "Rai: Richetti (Az), non farò mai il presidente di nulla per conto della destra",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/rai-richetti-az-non-faro-mai-il-presidente-di-nulla-per-conto-della_f49e63e5-9b87-49c4-9b23-8d47e1603c53.html",
+     "data": "2026-11-15T11:58:23+00:00"
+    },
+    {
+     "titolo": "Tajani: 'Favorevole a una donna al Quirinale e magari di centrodestra'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/tajani-favorevole-a-una-donna-al-quirinale-e-magari-di-centrodestra_0bdebfb6-6e8b-42c9-ac11-7fc071000687.html",
+     "data": "2026-11-15T13:19:28+00:00"
+    },
+    {
+     "titolo": "Schlein dai Verdi: 'Insieme per un governo progressista, femminista e ecologista'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/schlein-dai-verdi-insieme-per-un-governo-progressista-femminista-e-ecologista_67e6cc30-005b-4e2e-a2d3-555e55b6274c.html",
+     "data": "2026-11-15T12:34:15+00:00"
+    },
+    {
+     "titolo": "Meloni: 'Rinnovare l'impegno per impedire altre vittime della strada'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/meloni-rinnovare-limpegno-per-impedire-altre-vittime-della-strada_f72fd165-bc7f-46a8-9506-c22983183f68.html",
+     "data": "2026-11-15T11:20:34+00:00"
+    },
+    {
+     "titolo": "Bonelli: 'Nessuna preclusione sul reddito di cittadinanza ma prendiamo risorse da patrimoniale'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/bonelli-nessuna-preclusione-sul-rdc-ma-prendiamo-risorse-da-patrimoniale_93c70b84-4c20-41d5-85a8-834b46ec83f7.html",
+     "data": "2026-11-15T11:07:45+00:00"
+    },
     {
      "titolo": "Sindaco Bari, dimissioni Iacovone questione di rigore, non resa dei conti",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/sindaco-bari-dimissioni-iacovone-questione-di-rigore-non-resa-dei-conti_6eaa562e-7e19-44c9-9eea-dbd97213301a.html",
@@ -209,37 +249,37 @@
      "titolo": "I bot si ribellano ai politici, 'colpa' di Microsoft down",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
      "data": "2026-11-14T21:54:12+00:00"
-    },
-    {
-     "titolo": "Schlein: 'Far ripartire la crescita del Paese'. Conte: 'Sostenere la produttività'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/schlein-far-ripartire-la-crescita-del-paese.-conte-sostenere-la-produttivita_52e6cc4c-9e14-4beb-9d3d-74f5f18bfbf1.html",
-     "data": "2026-11-14T14:09:41+00:00"
-    },
-    {
-     "titolo": "Maxi-multa del Garante per Meta, l'azienda prepara il ricorso",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html",
-     "data": "2026-11-14T21:35:39+00:00"
-    },
-    {
-     "titolo": "Meloni: 'Per la sinistra gli autonomi di serie B, noi aiutiamo chi rischia in proprio'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/meloni-per-la-sinistra-gli-autonomi-di-serie-b-noi-aiutiamo-chi-rischia_a45aae7e-ea75-4996-a2d0-5519950bc747.html",
-     "data": "2026-11-14T12:31:05+00:00"
-    },
-    {
-     "titolo": "Tajani, 'ho sempre detto che la manovra poteva essere migliorata in Parlamento'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/tajani-ho-sempre-detto-che-la-manovra-poteva-essere-migliorata-in-parlamento_69c95c3c-6d0f-46bb-ab4b-d266cf203a04.html",
-     "data": "2026-11-14T10:44:41+00:00"
-    },
-    {
-     "titolo": "Meloni, combattiamo violenza sulle donne con ogni mezzo, ma sfida non è vinta",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/meloni-combattiamo-violenza-sulle-donne-con-ogni-mezzo-ma-sfida-non_c5948e94-550f-457e-82fa-3c6abed7dd95.html",
-     "data": "2026-11-14T10:28:46+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Folgiero, cantieri da alta intensità di lavoro ad alta intensità tecnologica",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/folgiero-cantieri-da-alta-intensita-di-lavoro-ad-alta-intensita-tecnologica_e7e753e2-85b7-4639-8b81-d721dc75d5a9.html",
+     "data": "2026-11-15T12:08:56+00:00"
+    },
+    {
+     "titolo": "Bitcoin scende a 62.000 dollari, tocca i minimi da 4 mesi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/bitcoin-scende-a-62.000-dollari-tocca-i-minimi-da-4-mesi_29642167-4c39-40cf-9461-942d78d582a3.html",
+     "data": "2026-11-15T08:41:58+00:00"
+    },
+    {
+     "titolo": "Scende ancora il prezzo dei carburanti, benzina a 1,959 euro al litro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/scende-ancora-il-prezzo-dei-carburanti-benzina-a-1959-euro-al-litro_6844ad99-26c0-439e-baf9-f42a52e594aa.html",
+     "data": "2026-11-15T08:26:38+00:00"
+    },
+    {
+     "titolo": "Negozi e ristoranti non sono più imprese per giovani, età media 52 anni",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/negozi-e-ristoranti-non-sono-piu-imprese-per-giovani-eta-media_b5e17aae-e249-45be-aaaf-33d66d8e621d.html",
+     "data": "2026-11-15T09:18:09+00:00"
+    },
+    {
+     "titolo": "Dal superbonus alla sanità, la carica degli emendamenti alla manovra",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/dal-superbonus-alla-sanita-la-carica-degli-emendamenti-alla-manovra_8573b4c5-be0d-4e03-aa95-0c2d6ea8e11c.html",
+     "data": "2026-11-15T11:36:15+00:00"
+    },
     {
      "titolo": "Tesla apre le vendite del Cybercab a guida autonoma a 'clienti selezionati'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/tesla-apre-le-vendite-del-cybercab-a-guida-autonoma-a-clienti-selezionati_8d1d2cc3-6098-40b9-9c4b-dd61888ae407.html",
@@ -259,52 +299,62 @@
      "titolo": "Agenzia per tutele, 'disservizi per caos voli non cancellano diritti passeggeri'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/agenzia-per-tutele-disservizi-per-caos-voli-non-cancellano-diritti_00bbd29a-c93b-4a85-84e3-a9ccb8346895.html",
      "data": "2026-11-14T13:10:55+00:00"
-    },
-    {
-     "titolo": "Ipo di Anthropic vietata agli investitori di Cina e Hong Kong",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/ipo-di-anthropic-vietata-agli-investitori-di-cina-e-hong-kong_45b7ce41-d15a-441e-ae8c-a3d9a846bdf8.html",
-     "data": "2026-11-14T15:03:01+00:00"
-    },
-    {
-     "titolo": "Confindustria convoca le Assise prima del voto. 'La politica ci ascolti'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/orsini-la-manovra-momento-complicato-ci-aspettiamo-risposte_e7e1de2d-a227-4024-9594-d9523aab3ffe.html",
-     "data": "2026-11-14T17:00:03+00:00"
-    },
-    {
-     "titolo": "Nelle case italiane 100 milioni di dispositivi connessi, 1 su 3 a rischio hacker",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/nelle-case-italiane-100-milioni-di-dispositivi-connessi-1-su-3-a-rischio-hacker_b9486b33-f971-4f17-821b-97f048a3bcb8.html",
-     "data": "2026-11-14T10:40:09+00:00"
-    },
-    {
-     "titolo": "Conto alla rovescia per Black Friday, giro d'affari sale a 4,3 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/conto-alla-rovescia-per-black-friday-giro-daffari-sale-a-43-miliardi_f30271ef-561c-4cf9-a62e-cb88332b3758.html",
-     "data": "2026-11-14T15:01:28+00:00"
-    },
-    {
-     "titolo": "Cgia, dall'inizio della guerra Usa-Iran l'inflazione è stata del +4,4%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/cgia-dallinizio-della-guerra-usa-iran-linflazione-e-stata-del-44_cc3b6e9a-d511-406b-b6a1-6311dea1643d.html",
-     "data": "2026-11-14T08:57:24+00:00"
-    },
-    {
-     "titolo": "Al via a Genova Best, summit di Blue Media dedicato alla economia del mare",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/al-via-a-genova-best-summit-di-blue-media-dedicato-alla-economia-del_15b2ad07-26d9-4bc8-be27-03a48405f4e3.html",
-     "data": "2026-11-14T08:00:38+00:00"
-    },
-    {
-     "titolo": "Microsoft torna a funzionare, ma la conta dei danni è milionaria",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_7cecae08-705d-4f89-ac5c-293be818c58d.html",
-     "data": "2026-11-14T16:39:40+00:00"
-    },
-    {
-     "titolo": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
-     "data": "2026-11-13T22:32:12+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Trump, 'amministrazione Biden un disastro per la Federal Aviation Administration'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/trump-amministrazione-biden-un-disastro-per-la-federal-aviation-administration_36ed56cd-4a63-48d7-bb27-dc7ea630eb21.html",
+     "data": "2026-11-15T13:41:39+00:00"
+    },
+    {
+     "titolo": "Donne al centro nella new wave del cinema egiziano",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/donne-al-centro-nella-new-wave-del-cinema-egiziano_09f1ed02-bc4c-4d84-bceb-93037bc447d9.html",
+     "data": "2026-11-15T13:28:52+00:00"
+    },
+    {
+     "titolo": "Garrone, il mio cinema di eroi 'umani' con cui provare empatia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_3253a34a-705f-45f5-b017-11102efb9147.html",
+     "data": "2026-11-15T13:27:27+00:00"
+    },
+    {
+     "titolo": "Yemen, cinque morti in attacco Houthi vicino Aden",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/yemen-cinque-morti-in-attacco-houthi-vicino-aden_2cc8be85-eb0c-4067-bf54-3e68c36e6a8d.html",
+     "data": "2026-11-15T13:26:28+00:00"
+    },
+    {
+     "titolo": "Milei annuncia la ricandidatura nel 2027 e punta al secondo mandato",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/15/milei-annuncia-la-ricandidatura-nel-2027-e-punta-al-secondo-mandato_55c6f752-285a-4d9e-b26a-9c2e414f6ff0.html",
+     "data": "2026-11-15T13:07:20+00:00"
+    },
+    {
+     "titolo": "Mosca, 'negoziati sull'Ucraina, l'Ue vuole salire sull'ultimo treno'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/mosca-negoziati-sullucraina-lue-vuole-salire-sullultimo-treno_b40f7213-fdbc-412a-83c2-e1e0771dbd92.html",
+     "data": "2026-11-15T13:01:19+00:00"
+    },
+    {
+     "titolo": "Mosca, 'negozieremo per raggiungere gli obiettivi fissati da Putin nel 2024'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/mosca-negozieremo-per-raggiungere-gli-obiettivi-fissati-da-putin-nel-2024_288c3355-2767-4d94-be07-eb6ddd012824.html",
+     "data": "2026-11-15T13:00:26+00:00"
+    },
+    {
+     "titolo": "Record di donne in parlamento in Brasile, ma restano ancora minoranza",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/15/record-di-donne-in-parlamento-in-brasile-ma-restano-ancora-minoranza_63f6f29a-80f3-44ee-8517-7ddd37f5bb5f.html",
+     "data": "2026-11-15T12:10:20+00:00"
+    },
+    {
+     "titolo": "Crisi incendi in Amazzonia, aria irrespirabile in numerose città",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/15/crisi-incendi-in-amazzonia-aria-irrespirabile-in-numerose-citta_f743c6a3-00e7-40bc-b64d-4e8787fe8101.html",
+     "data": "2026-11-15T11:49:18+00:00"
+    },
+    {
+     "titolo": "Lula all'Asean apre agli investimenti sui minerali critici, ma pone condizioni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/15/lula-allasean-apre-agli-investimenti-sui-minerali-critici-ma-pone-condizioni_4d67e3b7-075d-4892-aef3-421a9645ae7b.html",
+     "data": "2026-11-15T11:34:13+00:00"
+    },
     {
      "titolo": "SpaceX recupera per la prima volta nella storia un veicolo spaziale",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/spacex-recupera-per-la-prima-volta-nella-storia-un-veicolo-spaziale_63d70220-5db9-4ef4-9afa-8bf16afb3dd7.html",
@@ -314,56 +364,6 @@
      "titolo": "Ministero Interno, '219 fermi in Francia e 10 agenti lievemente feriti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/ministero-interno-219-fermi-in-francia-e-10-agenti-lievemente-feriti_3adc9bc0-0a5d-4592-bca1-914fedb78ba1.html",
      "data": "2026-11-14T20:08:38+00:00"
-    },
-    {
-     "titolo": "Eisenkot, proposta unità di Netanyahu 'ennesimo trucco, colloqui già programmati'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/eisenkot-proposta-unita-di-netanyahu-ennesimo-trucco-colloqui-gia-programmati_a7695a35-330e-4682-9d66-8780442b6ff6.html",
-     "data": "2026-11-14T19:07:52+00:00"
-    },
-    {
-     "titolo": "Stephen King ironizza, 'sono arrivati gli alieni, è questo il motivo del caos voli'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/stephen-king-ironizza-sono-arrivati-gli-alieni-e-questo-il-motivo-del_dce70d90-f403-426a-99a3-d47773440dbc.html",
-     "data": "2026-11-14T18:09:18+00:00"
-    },
-    {
-     "titolo": "Netanyahu insiste, 'governo di unità nazionale per chiudere i conti con l'Iran'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_1a6cf349-2733-473d-be50-7031e221eaa6.html",
-     "data": "2026-11-14T17:48:30+00:00"
-    },
-    {
-     "titolo": ">ANSA-REPORTAGE/ In Gagauzia, la regione che vota tra eredità sovietica e futuro Ue",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/ansa-reportage-in-gagauzia-la-regione-che-vota-tra-eredita-sovietica-e-futuro_0156db85-72a3-4441-b180-1c6b17409157.html",
-     "data": "2026-11-14T17:11:22+00:00"
-    },
-    {
-     "titolo": "Gruppi Lgbtq+ sfidano la repressione in Turchia per marciare con attivisti di Cop31",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/gruppi-lgbtq-sfidano-la-repressione-in-turchia-per-marciare-con-attivisti-di-cop31_b1d53b91-0b63-4729-ada2-d782d90f4482.html",
-     "data": "2026-11-14T17:03:36+00:00"
-    },
-    {
-     "titolo": "Federal Aviation, più di 16.000 voli cancellati fra ieri e oggi",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/federal-aviation-piu-di-16.000-voli-cancellati-fra-ieri-e-oggi_cf6a376e-23ff-4edd-b753-881d92479b20.html",
-     "data": "2026-11-14T16:30:51+00:00"
-    },
-    {
-     "titolo": "Farage suggella la rottura con Putin, 'Mosca è minacca numero 1 per Gb'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/farage-suggella-la-rottura-con-putin-mosca-e-minacca-numero-1-per-gb_6d53f2ff-51ca-4dc1-840a-194cdf7a2504.html",
-     "data": "2026-11-14T16:24:46+00:00"
-    },
-    {
-     "titolo": "Musk in campo a favore di Huang, 'torni alla guida di Nvidia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/musk-in-campo-a-favore-di-huang-torni-alla-guida-di-nvidia_efe1f900-e9e8-4045-b305-0cc35c51cad4.html",
-     "data": "2026-11-14T16:21:05+00:00"
-    },
-    {
-     "titolo": "Nuovo sabato di manifestazioni in Francia, schierati 70.000 agenti",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/nuovo-sabato-di-manifestazioni-in-francia-schierati-70.000-agenti_791cdd53-cfda-4d76-9afa-74eaa411e067.html",
-     "data": "2026-11-14T16:19:56+00:00"
-    },
-    {
-     "titolo": "Zelensky, 'solleverò questione limiti Starshield a tutti i livelli'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-sollevero-questione-limiti-starshield-a-tutti-i-livelli_ca1f5de4-9a5f-451c-b1ec-9ce5e9fd32c2.html",
-     "data": "2026-11-14T16:19:23+00:00"
     }
    ]
   },
@@ -436,64 +436,64 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Atp Finals: esordio vincente per campioni in carica Heliovaara-Patten",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-esordio-vincente-per-campioni-in-carica-heliovaara-patten_af68e5e2-b625-40b3-901e-838dd3f5cbd7.html",
+     "data": "2026-11-15T13:29:12+00:00"
+    },
+    {
+     "titolo": "Sinner, 'le Atp Finals torneo speciale, divertitevi'",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/sinner-le-atp-finals-torneo-speciale-divertitevi_04ca15e7-8f9b-4467-b088-02fb9c7173e2.html",
+     "data": "2026-11-15T13:28:48+00:00"
+    },
+    {
+     "titolo": "Atp Finals: Sinner in campo per ricevere il premio Giulio Onesti",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-sinner-in-campo-per-ricevere-il-premio-giulio-onesti_4913e998-6d94-4d33-9de4-c4dae8b0a118.html",
+     "data": "2026-11-15T13:03:58+00:00"
+    },
+    {
+     "titolo": "Serie A: un mese di sfide con il derby Lazio-Roma, l'Inter può allungare",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/11/15/serie-a-un-mese-di-sfide-con-il-derby-lazio-roma-linter-puo-allungare_237e5157-e687-47e6-af9d-1f8f3250eae1.html",
+     "data": "2026-11-15T12:58:14+00:00"
+    },
+    {
+     "titolo": "Tanti gol ed emozioni, la Lazio guida una Serie A da effetti speciali",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/11/15/tanti-gol-ed-emozioni-la-lazio-guida-una-serie-a-da-effetti-speciali_41c52ddf-6933-4153-97b5-3753d22d0991.html",
+     "data": "2026-11-15T12:58:43+00:00"
+    },
+    {
+     "titolo": "\"Corri Libera\", oltre 10.000 a Roma per la corsa contro la violenza sulle donne",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/15/corri-libera-oltre-10.000-a-roma-per-la-corsa-contro-la-violenza-sulle_064a6c30-22fb-4d29-a242-9674ffdcc6f8.html",
+     "data": "2026-11-15T11:19:14+00:00"
+    },
+    {
+     "titolo": "Atp Finals: entusiasmo a Torino per il via al torneo dei 'maestri'",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-entusiasmo-a-torino-per-il-via-al-torneo-dei-maestri_95bb9eea-9884-4f6a-a93f-e0fb8f81d719.html",
+     "data": "2026-11-15T11:08:41+00:00"
+    },
+    {
+     "titolo": "Seixas chiude la sua stagione con un'altra vittoria",
+     "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/11/15/seixas-chiude-la-sua-stagione-con-unaltra-vittoria_28425b80-a063-4a7b-a7fa-a09d85a04509.html",
+     "data": "2026-11-15T10:36:38+00:00"
+    },
+    {
+     "titolo": "Nba: Miami continua la risalita con Antetokounmpo",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/15/nba-miami-continua-la-risalita-con-antetokounmpo_2a480c51-3772-4378-81ab-57f7be507ec6.html",
+     "data": "2026-11-15T10:29:22+00:00"
+    },
+    {
+     "titolo": "Nations League: Mancini non convoca Sebastiano Esposito per il Belgio",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/nations-league-mancini-non-convoca-sebastiano-esposito-per-il-belgio_c9e4e2b8-d8e7-489f-8d65-615b5bb7a7a4.html",
+     "data": "2026-11-15T10:36:42+00:00"
+    },
+    {
+     "titolo": "Wta Finals: Errani-Paolini \"felici e in fiducia ma la finale sarà durissima\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/wta-finals-errani-paolini-felici-e-in-fiducia-ma-la-finale-sara-durissima_a93bbc55-8aba-4c78-865b-0bee9add83a2.html",
+     "data": "2026-11-15T09:14:44+00:00"
+    },
+    {
      "titolo": "++ Wta Finals: Errani e Paolini volano in finale, battute Guo e Mladenovic ++",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/wta-finals-errani-e-paolini-volano-in-finale-battute-guo-e-mladenovic_d9f68f59-c5a5-430e-a4ec-de62139e0289.html",
      "data": "2026-11-15T03:36:19+00:00"
-    },
-    {
-     "titolo": "Wta Finals: Errani e Paolini volano in finale, battute Guo e Mladenovic",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/11/15/wta-finals-errani-e-paolini-volano-in-finale-battute-guo-e-mladenovic_a6a4dc9e-0d3c-40e8-9cb9-1d71a585294e.html",
-     "data": "2026-11-15T05:26:13+00:00"
-    },
-    {
-     "titolo": "Wta Finals: Sabalenka si scusa per lo sfogo dopo la sconfitta contro Svitolina",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/wta-finals-sabalenka-si-scusa-per-lo-sfogo-dopo-la-sconfitta-contro-svitolina_942ad042-342e-4fe5-ab0f-98302a180bf6.html",
-     "data": "2026-11-15T05:25:18+00:00"
-    },
-    {
-     "titolo": "Wta Finals: l'ucraina Svitolina in finale, sfiderà la russa Andreeva",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/wta-finals-lucraina-svitolina-in-finale-sfidera-la-russa-andreeva_b510fc8b-1322-4e1a-ac63-956e665405dd.html",
-     "data": "2026-11-14T23:15:17+00:00"
-    },
-    {
-     "titolo": "Wta Finals: Andreeva batte Pegula e va in finale",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/wta-finals-andreeva-batte-pegula-e-va-in-finale_cce2df57-4064-49c5-bda5-19545e68f618.html",
-     "data": "2026-11-14T23:00:42+00:00"
-    },
-    {
-     "titolo": "Nations League: il Portogallo rovina l'omaggio a CR7, crolla con la Danimarca",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/nations-league-il-portogallo-rovina-lomaggio-a-cr7-crolla-con-la-danimarca_61b91677-4e77-48d5-9bb6-5b5515810229.html",
-     "data": "2026-11-14T22:52:40+00:00"
-    },
-    {
-     "titolo": "Scherma: cdm fioretto; tripletta delle azzurre a Plovdiv",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/14/scherma-cdm-fioretto-tripletta-delle-azzurre-a-plovdiv_be7f3c20-6f78-41c4-a4cd-f8adce28e30e.html",
-     "data": "2026-11-14T20:16:32+00:00"
-    },
-    {
-     "titolo": "Wta Finals: dall'Ucraina accuse a Sabalenka, 'ha offeso Svitolina'",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/wta-finals-dallucraina-accuse-a-sabalenka-ha-offeso-svitolina_d6cc3bd8-af0f-459c-a399-fbf7540e49a9.html",
-     "data": "2026-11-14T23:15:52+00:00"
-    },
-    {
-     "titolo": "Belgio-Italia, omaggio della Nazionale alle vittime dell'Heysel",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/belgio-italia-omaggio-della-nazionale-alle-vittime-dellheysel_5bfa02ba-e0a8-4f0d-9c50-fc60a7a398ad.html",
-     "data": "2026-11-14T19:51:44+00:00"
-    },
-    {
-     "titolo": "Nations League: Italia senza paura. Mancini: 'Bello giocarci i quarti con il Belgio'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/nations-league-italia-senza-paura.-mancini-bello-giocarci-i-quarti-con_d5d8b284-0b36-46fe-bf2b-d1642e3e4337.html",
-     "data": "2026-11-14T19:29:11+00:00"
-    },
-    {
-     "titolo": "Eurobasket donne: l'Italia batte anche l'Austria, 71-49 a Vienna",
-     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/14/eurobasket-donne-litalia-batte-anche-laustria-71-49-a-vienna_ea08078c-ccd8-498a-b48b-4bee509d9610.html",
-     "data": "2026-11-14T19:15:38+00:00"
-    },
-    {
-     "titolo": "Calcio: Camarda e gli altri, l'Under 21 continua a crescere",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/11/14/calcio-camarda-e-gli-altri-lunder-21-continua-a-crescere_515bcef7-3f19-4d97-98a9-b4890e8fc933.html",
-     "data": "2026-11-14T19:20:46+00:00"
     }
    ]
   }
