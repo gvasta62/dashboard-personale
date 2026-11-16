@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-15T11:39:03.196316+00:00",
- "data": "2026-11-15",
- "testo": "Domenica umida\nsul banco della chiesa\nodora la cera",
- "nota": "Dopo la messa, i rovesci fuori e l'aria chiusa di cera nella navata.",
+ "aggiornato": "2026-11-16T12:15:25.117704+00:00",
+ "data": "2026-11-16",
+ "testo": "Acqua a rovesci\nnel canale di gronda\nrimbomba il tuono",
+ "nota": "Il temporale fa risuonare l'acqua dentro il canale di scolo.",
  "archivio": [
+  {
+   "data": "2026-11-16",
+   "testo": "Acqua a rovesci\nnel canale di gronda\nrimbomba il tuono",
+   "nota": "Il temporale fa risuonare l'acqua dentro il canale di scolo."
+  },
   {
    "data": "2026-11-15",
    "testo": "Domenica umida\nsul banco della chiesa\nodora la cera",
@@ -448,11 +453,6 @@
    "data": "2026-08-19",
    "testo": "Aria pesante\ntra i coppi della torre\nun rondone stride",
    "nota": "Sotto il cielo coperto un rondone sfreccia gridando tra le torri di Perugia."
-  },
-  {
-   "data": "2026-08-18",
-   "testo": "Cielo compatto\nsul filare degli ulivi\nfoglie d'argento",
-   "nota": "Nel grigio senza vento le foglie degli ulivi mostrano il rovescio chiaro."
   }
  ]
 }
