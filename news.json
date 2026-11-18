@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-11-17T21:56:05.276437+00:00",
+ "aggiornato": "2026-11-18T03:12:16.022094+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Xi: 'Serve maggiore cooperazione internazionale sull'intelligenza artificiale'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/xi-serve-maggiore-cooperazione-internazionale-sullintelligenza-artificiale_60128e11-b137-421a-aca9-3ecdbab644dd.html",
+     "data": "2026-11-18T02:54:36+00:00"
+    },
+    {
+     "titolo": "Trump ritira la controversa nomina per la guida della Food and Drug Administration",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/trump-ritira-la-controversa-nomina-per-la-guida-della-food-and-drug_361957f5-d948-41c8-a214-6ffc76e3d8be.html",
+     "data": "2026-11-18T01:33:49+00:00"
+    },
+    {
+     "titolo": "Aste a New York, Christie's ritira un dipinto di Frida Kahlo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/aste-a-new-york-christies-ritira-un-dipinto-di-frida-kahlo_69dedbae-1a7b-45da-8bcc-334489aea24a.html",
+     "data": "2026-11-18T01:16:21+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in lieve rialzo (+0,25%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/borsa-tokyo-apertura-in-lieve-rialzo-025_d8cf74ed-5459-46fc-b06d-63f454681383.html",
+     "data": "2026-11-18T00:21:01+00:00"
+    },
+    {
+     "titolo": "Nvidia, 'il board non prevede di reintegrare Jensen Huang'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/nvidia-il-board-non-prevede-di-reintegrare-jensen-huang_9ea6e7ba-9caa-4900-8948-07718239ec20.html",
+     "data": "2026-11-17T22:40:22+00:00"
+    },
     {
      "titolo": "Nvidia batte le attese su utili e ricavi nel terzo trimestre, +2,3% nell'after-hours",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/nvidia-batte-le-attese-su-utili-e-ricavi-nel-terzo-trimestre-23-nellafter-hours_cd249bdb-6196-44e3-8bf3-c904e894e6ad.html",
@@ -29,31 +54,6 @@
      "titolo": "La Camera approva il ddl antisemitismo, 147 i si. E' legge",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/la-camera-approva-il-ddl-antisemitismo-147-i-si.-e-legge_6fa3d854-cd7f-4508-ab3c-c18fd579eb6c.html",
      "data": "2026-11-17T20:17:19+00:00"
-    },
-    {
-     "titolo": "Donna soffocata dal marito in casa nella Bergamasca",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/donna-soffocata-dal-marito-in-casa-nella-bergamasca_4f42adad-8f6b-4c57-a7aa-27a3edb1e77d.html",
-     "data": "2026-11-17T19:47:20+00:00"
-    },
-    {
-     "titolo": "Fbi avvisò il 13/11, strumenti IA per condurre cyberattacchi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/fbi-avviso-il-1311-strumenti-ia-per-condurre-cyberattacchi_a6bf08ec-01d8-4467-a6bf-a084f0cacf82.html",
-     "data": "2026-11-17T19:39:32+00:00"
-    },
-    {
-     "titolo": "Apple segnala problemi per alcuni dei suoi servizi",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/apple-segnala-problemi-per-alcuni-dei-suoi-servizi_eaf084f9-ab5e-4e3d-b4be-1ed2ab9e3eb8.html",
-     "data": "2026-11-17T19:15:40+00:00"
-    },
-    {
-     "titolo": "Oltre 250 scienziati contro metodi commissione Covid, lettera a presidenti Camere",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/oltre-250-scienziati-contro-metodi-commissione-covid-lettera-a-presidenti-camere_8c5f7c4d-144c-4b7d-b38d-584a5dbe50b9.html",
-     "data": "2026-11-17T18:02:00+00:00"
-    },
-    {
-     "titolo": "Emendamento al dl sicurezza, divieto di social agli under 13",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/emendamento-al-dl-sicurezza-divieto-di-social-agli-under-13_dda7982a-d9b0-46e3-929e-cdfa935ac5e2.html",
-     "data": "2026-11-17T18:00:54+00:00"
     }
    ]
   },
@@ -191,6 +191,11 @@
    "nome": "Politica",
    "voci": [
     {
+     "titolo": "Mostra su Rauti, la Camera chiede di rimuovere simboli che richiamano al fascismo",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/mostra-su-rauti-la-camera-chiede-di-rimuovere-simboli-che-richiamano-al-fascismo_82e5b50e-3150-4462-b408-a8673a917231.html",
+     "data": "2026-11-17T22:48:58+00:00"
+    },
+    {
      "titolo": "Romeo sostituito al Senato, Dreosto eletto capogruppo della Lega",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/romeo-sostituito-al-senato-dreosto-eletto-capogruppo-della-lega_f6811121-fa51-43eb-959a-34b8f9315020.html",
      "data": "2026-11-17T21:19:02+00:00"
@@ -203,7 +208,7 @@
     {
      "titolo": "Record di emendamenti alla manovra, la maggioranza vuole il condono",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html",
-     "data": "2026-11-17T21:05:32+00:00"
+     "data": "2026-11-17T23:28:31+00:00"
     },
     {
      "titolo": "La Camera approva il ddl antisemitismo, 147 i si. E' legge",
@@ -218,7 +223,7 @@
     {
      "titolo": "Ddl antisemitismo è legge.No di M5s, Avs,nel Pd strappo dei riformisti",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/la-camera-approva-il-ddl-antisemitismo-147-i-si.-e-legge_fef81d69-9cd3-4bef-8409-79e71f8c4e8a.html",
-     "data": "2026-11-17T20:25:02+00:00"
+     "data": "2026-11-17T23:27:43+00:00"
     },
     {
      "titolo": "L'Antimafia si divide sull'inchiesta di Caltanissetta, 'clima tossico'",
@@ -229,11 +234,6 @@
      "titolo": "Il Giornale d'Italia celebra i 125 anni, 'informazione indipendente'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/il-giornale-ditalia-celebra-i-125-anni-informazione-indipendente_8d4ea238-607e-4d21-83ef-5121d0937c14.html",
      "data": "2026-11-17T18:25:13+00:00"
-    },
-    {
-     "titolo": "Si apre alla Camera la mostra su Pino Rauti, è polemica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/si-apre-alla-camera-la-mostra-su-pino-rauti-e-polemica_82e5b50e-3150-4462-b408-a8673a917231.html",
-     "data": "2026-11-17T19:46:22+00:00"
     },
     {
      "titolo": "Oltre 250 scienziati contro metodi commissione Covid, lettera a presidenti Camere",
@@ -256,9 +256,14 @@
    "nome": "Economia",
    "voci": [
     {
-     "titolo": "Mister Nvidia fa mea culpa: 'Pronto a tornare se lo vuole il board'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/mister-nvidia-fa-mea-culpa-pronto-a-tornare-se-lo-vuole-il-board_ca04ab2c-2e9b-4bb7-b6ba-1d6938cb2d6e.html",
-     "data": "2026-11-17T20:50:25+00:00"
+     "titolo": "Borsa: Tokyo, apertura in lieve rialzo (+0,25%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/borsa-tokyo-apertura-in-lieve-rialzo-025_004051c6-0e8f-4a17-8349-2f99f58d6f13.html",
+     "data": "2026-11-18T00:21:17+00:00"
+    },
+    {
+     "titolo": "Mr Invidia: 'Pronto a tornare'. Ma il board non prevede di reintegrare Jensen Huang",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/mr-invidia-pronto-a-tornare.-ma-il-board-non-prevede-di-reintegrare-jensen-huang_ca04ab2c-2e9b-4bb7-b6ba-1d6938cb2d6e.html",
+     "data": "2026-11-17T23:25:28+00:00"
     },
     {
      "titolo": "Fondo culle vuote, exit tax, sicurezza. Le possibili novità",
@@ -309,17 +314,52 @@
      "titolo": "Wall Street apre contrastata in attesa di Nvidia, Dj -0,76%, Nasdaq +0,02%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/wall-street-apre-contrastata-in-attesa-di-nvidia-dj-076-nasdaq-002_d037cf69-cbb4-41d7-9498-a381555718bf.html",
      "data": "2026-11-17T14:40:23+00:00"
-    },
-    {
-     "titolo": "Il petrolio in rialzo a New York a 86,98 dollari",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/il-petrolio-in-rialzo-a-new-york-a-8698-dollari_b782ed14-9d29-4388-aedc-5e53793acc9e.html",
-     "data": "2026-11-17T14:08:49+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Xi: 'Serve maggiore cooperazione internazionale sull'intelligenza artificiale'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/18/xi-serve-maggiore-cooperazione-internazionale-sullintelligenza-artificiale_433466b2-bba1-4962-94d4-e87dbd907369.html",
+     "data": "2026-11-18T02:54:53+00:00"
+    },
+    {
+     "titolo": "Trump ritira la controversa nomina per la guida della Food and Drug Administration",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/18/trump-ritira-la-controversa-nomina-per-la-guida-della-food-and-drug_813f84b7-b0d6-4ca4-816a-e7d389f11b02.html",
+     "data": "2026-11-18T01:34:09+00:00"
+    },
+    {
+     "titolo": "Sheinbaum propone il treno interoceanico in Messico all'Apec",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/18/sheinbaum-propone-il-treno-interoceanico-in-messico-allapec_16e8f4a6-34eb-45cb-b34f-47531b83274c.html",
+     "data": "2026-11-18T01:21:07+00:00"
+    },
+    {
+     "titolo": "Incontri bilaterali con Xi Jinping per Messico, Perù e Cile al vertice Apec",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/18/incontri-bilaterali-con-xi-jinping-per-messico-peru-e-cile-al-vertice-apec_d06bea69-73fb-49c5-a18d-894e04cb52e3.html",
+     "data": "2026-11-18T00:23:36+00:00"
+    },
+    {
+     "titolo": "Incontri bilaterali con Xi Jinping per Messico, Perù e Cile al vertice Apec",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/18/incontri-bilaterali-con-xi-jinping-per-messico-peru-e-cile-al-vertice-apec_2a513c9f-adca-485b-9a74-c0cd6bfc2636.html",
+     "data": "2026-11-18T00:23:37+00:00"
+    },
+    {
+     "titolo": "Tenaris del gruppo Techint si aggiudica commessa da 2 miliardi su Vaca Muerta",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/tenaris-del-gruppo-techint-si-aggiudica-commessa-da-2-miliardi-su-vaca-muerta_d96e098a-c4db-40c5-a415-9961f74da75f.html",
+     "data": "2026-11-17T22:47:08+00:00"
+    },
+    {
+     "titolo": "Nvidia, 'il board non prevede di reintegrare Jensen Huang'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/nvidia-il-board-non-prevede-di-reintegrare-jensen-huang_66cfa26c-29e8-4112-aa51-72ab18bd4586.html",
+     "data": "2026-11-17T22:40:24+00:00"
+    },
+    {
+     "titolo": "Ondata di violenza in Guatemala, attentato ad una magistrata",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/ondata-di-violenza-in-guatemala-attentato-ad-una-magistrata_12e8feb9-024d-4485-aaa8-67cd80642612.html",
+     "data": "2026-11-17T21:57:23+00:00"
+    },
     {
      "titolo": "Nvidia batte le attese su utili e ricavi nel terzo trimestre, +2,3% nell'after-hours",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/nvidia-batte-le-attese-su-utili-e-ricavi-nel-terzo-trimestre-23-nellafter-hours_061e5083-ce0d-4f3a-b021-1aea2d74cf00.html",
@@ -339,46 +379,6 @@
      "titolo": "Fbi avvisò il 13/11, strumenti IA per condurre cyberattacchi",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/fbi-avviso-il-1311-strumenti-ia-per-condurre-cyberattacchi_4ed55f4e-1f06-4375-88d4-1c37c8f45906.html",
      "data": "2026-11-17T19:39:36+00:00"
-    },
-    {
-     "titolo": "In una favela di Rio una fabbrica capace di produrre 3mila fucili",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/in-una-favela-di-rio-una-fabbrica-capace-di-produrre-3mila-fucili_7f9df3c5-3285-41e9-8ad6-5a38567323a3.html",
-     "data": "2026-11-17T19:25:52+00:00"
-    },
-    {
-     "titolo": "Apple, Gmail e Nsa down, escluso un cyberattacco ma Fbi lanciò alert",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/apple-segnala-problemi-per-alcuni-dei-suoi-servizi_1d347fc9-8a19-4347-9982-47d8e3c7c4fa.html",
-     "data": "2026-11-17T20:52:45+00:00"
-    },
-    {
-     "titolo": "A Haiti migliaia nelle strade a Port au Prince a sostegno dei soldati di Bukele",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/a-haiti-migliaia-nelle-strade-a-port-au-prince-a-sostegno-dei-soldati-di-bukele_7e0d0c54-dfa6-4d4c-8e4a-8fb032c06715.html",
-     "data": "2026-11-17T18:45:20+00:00"
-    },
-    {
-     "titolo": "L'ippopotama celebrity Fiona ingoia un cappello, è sotto osservazione medica in Usa",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/lippopotama-celebrity-fiona-ingoia-un-cappello-e-sotto-osservazione-medica-in-usa_a6b87d96-c813-4cb2-af2f-9e64811dac6c.html",
-     "data": "2026-11-17T18:01:18+00:00"
-    },
-    {
-     "titolo": "Abagnara (Unifil), 'lasciamo il Libano, criticità nella zona occupata'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/17/abagnara-unifil-lasciamo-il-libano-criticita-nella-zona-occupata_b65d2444-b8d0-42cc-bdcf-56e75deafa42.html",
-     "data": "2026-11-17T17:29:20+00:00"
-    },
-    {
-     "titolo": "Fonti Ue, 'Kiev ha diritto a colpire il ponte in Crimea, rifornisce le truppe'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/17/fonti-ue-kiev-ha-diritto-a-colpire-il-ponte-in-crimea-rifornisce-le-truppe_c6104cb9-73ba-4910-95e3-1b9c6dace305.html",
-     "data": "2026-11-17T17:26:15+00:00"
-    },
-    {
-     "titolo": "Crack della Ueno Bank in Paraguay, si dimette il Procuratore generale",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/crack-della-ueno-bank-in-paraguay-si-dimette-il-procuratore-generale_c6a405e3-7070-42b4-91f7-89680fd87302.html",
-     "data": "2026-11-17T16:22:30+00:00"
-    },
-    {
-     "titolo": "Carrozzelle a Central Park, il comune di Ny acquista le licenze dei proprietari",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/carrozzelle-a-central-park-il-comune-di-ny-acquista-le-licenze-dei-proprietari_78eefb30-3bb2-44e7-95bd-1b0eaf9226bc.html",
-     "data": "2026-11-17T16:21:34+00:00"
     }
    ]
   },
@@ -451,6 +451,16 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Eurolega: torna a vincere anche la Virtus, Panathinaikos battuto 84-79 al PalaDozza",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/17/eurolega-torna-a-vincere-anche-la-virtus-panathinaikos-battuto-84-79-al-paladozza_d24dc7e0-7c87-476c-8184-71e527b3b388.html",
+     "data": "2026-11-17T22:17:02+00:00"
+    },
+    {
+     "titolo": "Nations League: Haaland ribalta la Danimarca, il Portogallo passa da primo",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/17/nations-league-haaland-ribalta-la-danimarca-il-portogallo-passa-da-primo_a27b768e-76ce-48f9-8d69-ce77a3af89dd.html",
+     "data": "2026-11-17T21:53:57+00:00"
+    },
+    {
      "titolo": "Eurolega: Milano interrompe la siccità, Stella Rossa battuta 91-77",
      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/17/eurolega-milano-interrompe-la-siccita-stella-rossa-battuta-91-77_f5222414-180b-402d-a747-acaddb385db2.html",
      "data": "2026-11-17T21:31:02+00:00"
@@ -499,16 +509,6 @@
      "titolo": "Golf: Tiger Woods tornerà sul green dopo due anni, tra infortuni e incidente",
      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/17/golf-tiger-woods-tornera-sul-green-dopo-due-anni-tra_5bb78162-9061-44bd-8d54-e099e2054039.html",
      "data": "2026-11-17T18:03:58+00:00"
-    },
-    {
-     "titolo": "Atp Finals: Fils scherzoso, ho cambiato maglietta e mi ha portato bene",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/17/atp-finals-fils-scherzoso-ho-cambiato-maglietta-e-mi-ha-portato-bene_70d09bea-67b1-4338-a725-c6621910a709.html",
-     "data": "2026-11-17T17:22:18+00:00"
-    },
-    {
-     "titolo": "Hutchinson, il Milan può vincere lo scudetto",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/17/hutchinson-il-milan-puo-vincere-lo-scudetto_f7f7d082-1453-4e85-bdae-892baa4e56f6.html",
-     "data": "2026-11-17T17:16:24+00:00"
     }
    ]
   }
