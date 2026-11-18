@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-17T12:37:58.885256+00:00",
- "data": "2026-11-17",
- "testo": "Pioggia sui coppi\ndentro la libreria\npagina ingiallita",
- "nota": "Ho osservato la carta vecchia di un libro mentre fuori scrosciava sui tetti.",
+ "aggiornato": "2026-11-18T12:28:35.289989+00:00",
+ "data": "2026-11-18",
+ "testo": "Spruzzo di pioggia\nsul cesto del fruttivendolo\nbrilla una castagna",
+ "nota": "Sotto i rovesci leggeri, le castagne bagnate lucide nel cesto di un banco.",
  "archivio": [
+  {
+   "data": "2026-11-18",
+   "testo": "Spruzzo di pioggia\nsul cesto del fruttivendolo\nbrilla una castagna",
+   "nota": "Sotto i rovesci leggeri, le castagne bagnate lucide nel cesto di un banco."
+  },
   {
    "data": "2026-11-17",
    "testo": "Pioggia sui coppi\ndentro la libreria\npagina ingiallita",
@@ -448,11 +453,6 @@
    "data": "2026-08-21",
    "testo": "Bianco sul selciato\nla grandine rimbalza\ntra i tavolini",
    "nota": "Chicchi di grandine che saltano sulle pietre davanti a un bar durante il temporale."
-  },
-  {
-   "data": "2026-08-20",
-   "testo": "Grigio sui campi\ntra le stoppie bruciate\nun solco di fumo",
-   "nota": "Ho osservato il fumo di un campo bruciato salire sotto il cielo coperto."
   }
  ]
 }
