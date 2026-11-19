@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-18T12:28:35.289989+00:00",
- "data": "2026-11-18",
- "testo": "Spruzzo di pioggia\nsul cesto del fruttivendolo\nbrilla una castagna",
- "nota": "Sotto i rovesci leggeri, le castagne bagnate lucide nel cesto di un banco.",
+ "aggiornato": "2026-11-19T12:19:19.944829+00:00",
+ "data": "2026-11-19",
+ "testo": "Lampi sull'acropoli\ndentro un bicchiere rovesciato\ntrema la pioggia",
+ "nota": "Il temporale illumina i tavolini di un bar, un bicchiere capovolto vibra.",
  "archivio": [
+  {
+   "data": "2026-11-19",
+   "testo": "Lampi sull'acropoli\ndentro un bicchiere rovesciato\ntrema la pioggia",
+   "nota": "Il temporale illumina i tavolini di un bar, un bicchiere capovolto vibra."
+  },
   {
    "data": "2026-11-18",
    "testo": "Spruzzo di pioggia\nsul cesto del fruttivendolo\nbrilla una castagna",
@@ -448,11 +453,6 @@
    "data": "2026-08-22",
    "testo": "Ombra e poi luce\nsui panni della corda\npassa una nuvola",
    "nota": "Osservato il cielo mutevole che alterna sole e ombra sul bucato steso."
-  },
-  {
-   "data": "2026-08-21",
-   "testo": "Bianco sul selciato\nla grandine rimbalza\ntra i tavolini",
-   "nota": "Chicchi di grandine che saltano sulle pietre davanti a un bar durante il temporale."
   }
  ]
 }
