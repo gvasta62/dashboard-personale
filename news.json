@@ -1,10 +1,20 @@
 {
- "aggiornato": "2026-11-19T18:42:00.666578+00:00",
+ "aggiornato": "2026-11-20T00:57:02.818403+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Droni sull'aeroporto di Genova, scalo chiuso per due ore",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/droni-sullaeroporto-di-genova-scalo-chiuso-per-due-ore_dea70ae7-5225-4a9e-8394-c28e5e7202d0.html",
+     "data": "2026-11-19T22:52:28+00:00"
+    },
+    {
+     "titolo": "Uccise moglie e suocera, ergastolo definitivo per Amato",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/uccise-moglie-e-suocera-ergastolo-definitivo-per-amato_769dde5b-339a-4514-a48c-6a7951a7b120.html",
+     "data": "2026-11-19T20:39:04+00:00"
+    },
     {
      "titolo": "Meloni, la Cina usi la sua influenza per spingere Mosca alla pace",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/meloni-la-cina-usi-la-sua-influenza-per-spingere-mosca-alla-pace_b4b9f370-d4eb-424c-b512-9d921f7ebb6a.html",
@@ -44,16 +54,6 @@
      "titolo": "Il gas in aumento (+4%) a 84 euro al Megawattora",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/il-gas-in-aumento-4-a-84-euro-al-megawattora_cf84a7ab-355b-4d69-aac0-f95c1a239c2a.html",
      "data": "2026-11-19T17:19:44+00:00"
-    },
-    {
-     "titolo": "In serata vertice sulla manovra con Meloni",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/in-serata-vertice-sulla-manovra-con-meloni_fb1c6322-220b-4581-b62b-f2225391923e.html",
-     "data": "2026-11-19T17:17:50+00:00"
-    },
-    {
-     "titolo": "Farage, 'al vertice Ue-Gb mi aspetto tradimento di Burnham'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/farage-al-vertice-ue-gb-mi-aspetto-tradimento-di-burnham_2bb05fcb-aff7-4e56-ae6f-fb13c5149a40.html",
-     "data": "2026-11-19T17:18:08+00:00"
     }
    ]
   },
@@ -126,9 +126,44 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Droni sull'aeroporto di Genova, scalo chiuso per due ore",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/droni-sullaeroporto-di-genova-scalo-chiuso-per-due-ore_f4850479-e0b3-4d34-9876-12ffb077b587.html",
+     "data": "2026-11-19T23:25:28+00:00"
+    },
+    {
+     "titolo": "Uccise moglie e suocera, ergastolo definitivo per Amato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/uccise-moglie-e-suocera-ergastolo-definitivo-per-amato_5bdddf85-3bab-430d-83c6-9b035e84d5d5.html",
+     "data": "2026-11-19T20:39:01+00:00"
+    },
+    {
+     "titolo": "Uccise moglie e suocera, ergastolo definitivo per Amato",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/uccise-moglie-e-suocera-ergastolo-definitivo-per-amato_fa0b4588-a25a-4f0a-99d5-b54084bab2cf.html",
+     "data": "2026-11-19T23:24:40+00:00"
+    },
+    {
+     "titolo": "Garlasco, Lovati: 'Stasi verrà riabilitato e Sempio sarà prosciolto'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/garlasco-lovati-stasi-verra-riabilitato-e-sempio-sara-prosciolto_e89c0496-1f75-4da4-836f-1fdc12cfdff7.html",
+     "data": "2026-11-19T19:03:42+00:00"
+    },
+    {
      "titolo": "Rete conoscenza, Link e Uds 'domani studenti e giovani in piazza'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/rete-conoscenza-link-e-uds-domani-studenti-e-giovani-in-piazza_0a74c089-c24a-455a-97ca-a41b7d1a899e.html",
      "data": "2026-11-19T18:17:52+00:00"
+    },
+    {
+     "titolo": "Segregata e abusata da marito e familiari nel paese di Saman",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/segregata-e-abusata-da-marito-e-familiari-nel-paese-di-saman_02f92024-3a3e-4944-bb88-db840c7cb5ce.html",
+     "data": "2026-11-19T19:55:10+00:00"
+    },
+    {
+     "titolo": "Arrestata la moglie di Bertulazzi, 'complice nella fuga'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/arrestata-la-moglie-di-bertulazzi-complice-nella-fuga_6c4117b0-cebb-45f6-b70f-9d7374ea9b5b.html",
+     "data": "2026-11-19T19:58:10+00:00"
+    },
+    {
+     "titolo": "L'inchiesta su De Gennaro, il nodo della competenza",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/linchiesta-su-de-gennaro-il-nodo-della-competenza_53de09fa-e7bf-4d69-a0a9-48b784832ce2.html",
+     "data": "2026-11-19T19:56:41+00:00"
     },
     {
      "titolo": "Imprenditore indagato per truffa a danno della Provincia di Savona",
@@ -141,55 +176,50 @@
      "data": "2026-11-19T17:20:57+00:00"
     },
     {
-     "titolo": "Due ragazzini imitano Gta, rubano un bus e finiscono in un fosso",
+     "titolo": "Ragazzini imitano Gta, rubano un bus e finiscono in un fosso",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/due-ragazzini-imitano-gta-rubano-un-bus-e-finiscono-in-un-fosso_b2641334-25ec-41b6-94f8-e517dcbb4742.html",
-     "data": "2026-11-19T16:50:37+00:00"
+     "data": "2026-11-19T19:03:01+00:00"
     },
     {
-     "titolo": "Urbanistica, chiusa indagine per 27 su un complesso residenziale a San Siro",
+     "titolo": "Altra inchiesta sull'urbanistica a Milano, in 27 rischiano il processo",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/urbanistica-chiusa-indagine-per-27-su-un-complesso-residenziale-a-san-siro_7002edcb-9d5e-471d-916e-1fc7249b372a.html",
-     "data": "2026-11-19T15:32:37+00:00"
-    },
-    {
-     "titolo": "Morte avvelenate, al via accertamenti irripetibili su reperti a Berlino",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/morte-avvelenate-al-via-accertamenti-irripetibili-su-reperti-a-berlino_8fe964b6-ee10-43f0-98ea-dc7696e559f0.html",
-     "data": "2026-11-19T15:31:37+00:00"
-    },
-    {
-     "titolo": "Caso Garlasco, Lovati teste a Pavia nell'inchiesta per corruzione",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/caso-garlasco-lovati-teste-a-pavia-nellinchiesta-per-corruzione_8ce5eb65-2f16-4e34-bed3-84df43ba7d76.html",
-     "data": "2026-11-19T15:22:39+00:00"
-    },
-    {
-     "titolo": "Tre cortei domani a Roma per lo sciopero, pronto il piano sicurezza",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/tre-cortei-domani-a-roma-per-lo-sciopero-pronto-il-piano-sicurezza_97e312f2-e87d-415e-9c60-e0adc23bfd3b.html",
-     "data": "2026-11-19T15:16:08+00:00"
-    },
-    {
-     "titolo": "Neve sulle Dolomiti Bellunesi, fino a 20 centimetri sopra i 1.300 metri",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/neve-sulle-dolomiti-bellunesi-fino-a-20-centimetri-sopra-i-1.300-metri_db2670c9-8aff-4764-ac4d-26b1fcf54511.html",
-     "data": "2026-11-19T14:28:52+00:00"
-    },
-    {
-     "titolo": "Vigilessa uccisa, Pg chiede conferma ergastolo per ex comandante Gualandi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/vigilessa-uccisa-pg-chiede-conferma-ergastolo-per-ex-comandante-gualandi_25ddb74f-e7de-4531-8624-fb2afa215632.html",
-     "data": "2026-11-19T14:25:37+00:00"
-    },
-    {
-     "titolo": "Ripartono le indagini sul mostro di Firenze, i legali eredi di Vanni: 'Abbiamo 2 nuovi testi oculari'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/ripartono-le-indagini-sul-mostro-di-firenze-i-legali-eredi-di-vanni-abbiamo-2-nuovi_3c89743c-61fa-4e3b-81f5-633063b09aed.html",
-     "data": "2026-11-19T14:54:59+00:00"
-    },
-    {
-     "titolo": "Tetraplegico per un pugno torna a camminare dopo 913 giorni",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/tetraplegico-per-un-pugno-torna-a-camminare-dopo-913-giorni_84c3d4e9-1251-4ef4-8f56-04dc4c7170a1.html",
-     "data": "2026-11-19T13:51:18+00:00"
+     "data": "2026-11-19T19:07:49+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Focus su pensioni e sanità al vertice di maggioranza, Meloni chiede 'basta divisioni'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/focus-su-pensioni-e-sanita-al-vertice-di-maggioranza-meloni-chiede-basta-divisioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
+     "data": "2026-11-19T22:35:36+00:00"
+    },
+    {
+     "titolo": "FdI si impunta sugli e-book, si spacca la maggioranza al Senato",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/fdi-si-impunta-sugli-e-book-si-spacca-la-maggioranza-al-senato_4d6a9907-292e-412f-a4b1-59b4888955ac.html",
+     "data": "2026-11-19T19:58:08+00:00"
+    },
+    {
+     "titolo": "Dall'aiuto per le cure veterinarie all'Iva sul cibo, gli emendamenti pet friendly",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/dallaiuto-per-le-cure-veterinarie-alliva-sul-cibo-gli-emendamenti-pet_110db1fe-bde7-4c05-9e98-d4199112e9c5.html",
+     "data": "2026-11-19T19:50:26+00:00"
+    },
+    {
+     "titolo": "Il Campo largo trova la quadra sul reddito garantito, ancora al lavoro sul resto",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/il-campo-largo-trova-la-quadra-sul-reddito-garantito-ancora-al-lavoro-sul_42a3ea85-6cbd-4b27-b33d-cbb4b7053c88.html",
+     "data": "2026-11-19T19:48:00+00:00"
+    },
+    {
+     "titolo": "Associazione giornaliste, 'troppo poche le donne presenti nei media'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/associazione-giornaliste-troppo-poche-le-donne-presenti-nei-media_8ffb1db3-0326-4807-abb6-8d16b3776045.html",
+     "data": "2026-11-19T18:58:19+00:00"
+    },
+    {
+     "titolo": "Semplificazioni e tempi rapidi, come funziona la Zes unica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/semplificazioni-e-tempi-rapidi-come-funziona-la-zes-unica_d1e79c1d-66c3-4774-819e-4b0bcd19b95c.html",
+     "data": "2026-11-19T21:13:20+00:00"
+    },
     {
      "titolo": "In serata vertice sulla manovra con Meloni",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/in-serata-vertice-sulla-manovra-con-meloni_47fd5405-3207-46a3-ac9d-5dc7d9fc5061.html",
@@ -219,36 +249,6 @@
      "titolo": "Meloni a Berlino per la riunione della Coalizione dei Volenterosi",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/meloni-a-berlino-per-la-riunione-della-coalizione-dei-volenterosi_7d294bbc-ba46-41be-827b-2a324f52e520.html",
      "data": "2026-11-19T12:54:40+00:00"
-    },
-    {
-     "titolo": "Addio a Corrado Augias, giornalista, scrittore, conduttore e autore televisivo",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/addio-a-corrado-augias-giornalista-scrittore-conduttore-e-autore-televisivo_ec1aa297-bc9d-47f4-827a-2310ee2e3c22.html",
-     "data": "2026-11-19T14:55:13+00:00"
-    },
-    {
-     "titolo": "Allarmi bomba, Piantedosi: 'Nessuna minaccia per la sicurezza nazionale'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/allarmi-bomba-piantedosi-nessuna-minaccia-per-la-sicurezza-nazionale_52a785a7-a0c8-4ef0-a1ff-0802d885e57f.html",
-     "data": "2026-11-19T13:36:35+00:00"
-    },
-    {
-     "titolo": "Divano e cagnolina, Schlein posta su Instagram download di Grand Theft Auto VI: \"Pronte\"",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/divano-e-cagnolina-schlein-posta-su-instagram-download-di-grand-theft-auto-vi-pronte_ac169f1e-3118-428d-922f-e3aa06a6077a.html",
-     "data": "2026-11-19T12:46:09+00:00"
-    },
-    {
-     "titolo": "Addio a Piero Vigorelli, pioniere del racconto popolare in televisione",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/e-morto-a-82-anni-il-giornalista-piero-vigorelli_eab3dde3-646c-481e-b1b5-4bf2632e897e.html",
-     "data": "2026-11-19T17:22:07+00:00"
-    },
-    {
-     "titolo": "Ok all'emendamento sugli e-book: 84 sì e 76 no, con Fi contro e Az a favore",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/maggioranza-sotto-in-senato-su-emendamento-e-book-fi-vota-con-opposizioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
-     "data": "2026-11-19T13:46:52+00:00"
-    },
-    {
-     "titolo": "Meloni: 'Estenderemo alle regioni del Centro-Nord il modello della Zes unica'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/meloni-estenderemo-a-regioni-centro-nord-modello-zes-unica_d0c71f8d-ae59-4e3e-89ee-c40c61f36fa4.html",
-     "data": "2026-11-19T08:53:18+00:00"
     }
    ]
   },
@@ -256,19 +256,19 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Termovalorizzatore di Roma, perfezionato il finanziamento green da oltre un miliardo",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/termovalorizzatore-di-roma-perfezionato-il-finanziamento-green-da-oltre-un-miliardo_ffa9e1fd-e6b9-4118-afd4-5472d1819a9f.html",
+     "data": "2026-11-19T21:53:49+00:00"
+    },
+    {
      "titolo": "Borsa: Milano debole con l'Europa e Wall street, scivola Nexi",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/borsa-milano-debole-con-leuropa-e-wall-street-scivola-nexi_3f20cc70-ffa0-4754-a8a5-32664c5fe530.html",
      "data": "2026-11-19T17:41:25+00:00"
     },
     {
-     "titolo": "Termovalorizzatore di Roma, perfezionato il finanziamento green da oltre un miliardo",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/termovalorizzatore-di-roma-perfezionato-il-finanziamento-green-da-oltre-un-miliardo_ffa9e1fd-e6b9-4118-afd4-5472d1819a9f.html",
-     "data": "2026-11-19T17:42:07+00:00"
-    },
-    {
-     "titolo": "Esordio col botto in borsa, Anthropic vale 2mila miliardi",
+     "titolo": "Anthropic vola all'esordio a Wall Street, sale del 17%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-sale-fino-a-11510-dollari-per-azione-poi-scende-a-11022_f4eebc5e-1ae4-4922-8a55-eaee32ab7ab8.html",
-     "data": "2026-11-19T18:09:32+00:00"
+     "data": "2026-11-19T21:56:02+00:00"
     },
     {
      "titolo": "Il gas in aumento (+4%) a 84 euro al Megawattora",
@@ -321,9 +321,24 @@
    "nome": "Mondo",
    "voci": [
     {
-     "titolo": "Zelensky ai Volenterosi: 'Kiev nella Nato'. Meloni: 'Mandato chiaro al formato E5'",
+     "titolo": "Ue, Hansen annuncia investimenti in Messico per cinque miliardi di euro",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/20/ue-hansen-annuncia-investimenti-in-messico-per-cinque-miliardi-di-euro_90331501-dfe5-419a-9998-10702111fcf9.html",
+     "data": "2026-11-20T00:31:37+00:00"
+    },
+    {
+     "titolo": "Argentina, la moglie dell'ex Br Bertulazzi respinge l'accusa di favoreggiamento",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/19/argentina-la-moglie-dellex-br-bertulazzi-respinge-laccusa-di-favoreggiamento_9a6f3df1-0aa8-4b66-8095-7e817378f98e.html",
+     "data": "2026-11-19T21:17:49+00:00"
+    },
+    {
+     "titolo": ">>>ANSA/ 'Vladimir è un amico', scoppia la bufera sulle parole di Trump",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/ansa-vladimir-e-un-amico-scoppia-la-bufera-sulle-parole-di-trump_a9fe610f-eab5-4d74-a9ee-d48436ce42db.html",
+     "data": "2026-11-19T18:47:22+00:00"
+    },
+    {
+     "titolo": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
-     "data": "2026-11-19T18:06:16+00:00"
+     "data": "2026-11-19T20:34:24+00:00"
     },
     {
      "titolo": "Brasile, Chiara Cini (FdI) nominata ambasciatrice del Circolo italiano di San Paolo",
@@ -364,21 +379,6 @@
      "titolo": "Kushner, 'Trump non vuole un accordo unilaterale' per la pace in Ucraina",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/19/kushner-trump-non-vuole-un-accordo-unilaterale-per-la-pace-in-ucraina_d894d6ca-8045-4140-84ce-a84f43b392ea.html",
      "data": "2026-11-19T17:29:52+00:00"
-    },
-    {
-     "titolo": "Macron, serve riaprire la questione dell'adesione dell'Ucraina alla Nato",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/macron-serve-riaprire-la-questione-delladesione-dellucraina-alla-nato_8a66fc6b-07ad-4cee-9411-6f76dc57eaff.html",
-     "data": "2026-11-19T17:29:58+00:00"
-    },
-    {
-     "titolo": "Farage, 'al vertice Ue-Gb mi aspetto tradimento di Burnham'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/farage-al-vertice-ue-gb-mi-aspetto-tradimento-di-burnham_5982a252-632a-4e6d-8155-f416d4dfa5af.html",
-     "data": "2026-11-19T17:30:08+00:00"
-    },
-    {
-     "titolo": "Trump, viaggio in Cina importante, domani conferenza stampa alle 18",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/19/trump-viaggio-in-cina-importante-domani-conferenza-stampa-alle-18_8ceaac3c-3537-4f9b-91ac-8f3fd5012c1f.html",
-     "data": "2026-11-19T17:30:17+00:00"
     }
    ]
   },
@@ -451,6 +451,36 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Atp Finals: Fils, non è facile affrontare i servizi di Zverev e Shelton",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/19/atp-finals-fils-non-e-facile-affrontare-i-servizi-di-zverev-e-shelton_c590b010-141b-4024-a3f9-24d37456b347.html",
+     "data": "2026-11-19T23:00:27+00:00"
+    },
+    {
+     "titolo": "Atp Finals: Zverev, 'soddisfatto dell'evoluzione del mio tennis'",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/19/atp-finals-zverev-soddisfatto-dellevoluzione-del-mio-tennis_139457dc-4055-4c70-b3e2-23bf22e3e431.html",
+     "data": "2026-11-19T22:59:44+00:00"
+    },
+    {
+     "titolo": "Basket: Armani Milano-Fenerbahce 78-70 in Eurolega, cura Banchi funziona",
+     "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/19/basket-armani-milano-fenerbahce-78-70-in-eurolega-cura-banchi-funziona_5f76ce12-4514-4769-a539-2e6787771a7f.html",
+     "data": "2026-11-19T21:49:40+00:00"
+    },
+    {
+     "titolo": "Atp Finals: Zverev terza vittoria, anche Fils deve arrendersi",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/19/atp-finals-zverev-terza-vittoria-anche-fils-deve-arrendersi_03f41402-e858-46a2-98f6-7c815fa26740.html",
+     "data": "2026-11-19T21:24:43+00:00"
+    },
+    {
+     "titolo": "Atp Finals: sorpresa nel doppio, eliminata la coppia numero 1 al mondo",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/19/atp-finals-sorpresa-nel-doppio-eliminata-la-coppia-numero-1-al-mondo_eb0da55d-4420-4f97-be81-d9647dfba49e.html",
+     "data": "2026-11-19T18:48:43+00:00"
+    },
+    {
+     "titolo": "Rugby: Nations Championship; contro Fiji Italia in campo con Ortombina, debutta Miotti",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/19/rugby-nations-championship-contro-fiji-italia-in-campo-con-ortombina-debutta_ed7283b7-a027-4868-b9e0-4310b5c173a3.html",
+     "data": "2026-11-19T18:45:28+00:00"
+    },
+    {
      "titolo": "Alle Atp Finals lo sport inclusivo con il tennis in carrozzina",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/19/alle-atp-finals-lo-sport-inclusivo-con-il-tennis-in-carrozzina_d0b59308-8844-48e0-b2e4-260a7f506201.html",
      "data": "2026-11-19T18:25:18+00:00"
@@ -479,36 +509,6 @@
      "titolo": "Atp Finals: Jodar, molto grato a papà e non ho motivi per cambiare'",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/19/atp-finals-jodar-molto-grato-a-papa-e-non-ho-motivi-per-cambiare_9cd0a85c-737a-4ffd-9f45-301462c4e18f.html",
      "data": "2026-11-19T17:21:30+00:00"
-    },
-    {
-     "titolo": "Fifa: Infantino, 'la corsa elettorale sia fatta di idee e rispetto'",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/19/fifa-infantino-la-corsa-elettorale-sia-fatta-di-idee-e-rispetto_1ac9a302-f4a0-4daf-847f-2b7e4c1ded05.html",
-     "data": "2026-11-19T16:52:02+00:00"
-    },
-    {
-     "titolo": "F1: a Las Vegas lotta per il 2/o posto, Leclerc: 'Screzi con Hamilton ingigantiti'",
-     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/19/f1-leclerc-i-miei-screzi-con-hamilton-sono-stati-ingigantiti_a65556aa-6bde-40aa-98c5-9fbf073ed21a.html",
-     "data": "2026-11-19T18:21:24+00:00"
-    },
-    {
-     "titolo": "Violenza sulle donne, un campo da calcio diventa presidio di sicurezza",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/19/violenza-sulle-donne-un-campo-da-calcio-diventa-presidio-di-sicurezza_d64df8d6-db64-4445-b817-74769d24f417.html",
-     "data": "2026-11-19T16:31:03+00:00"
-    },
-    {
-     "titolo": "Cagliari, contro il Como speranze per Mina ma ancora out Winks",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/19/cagliari-contro-il-como-speranze-per-mina-ma-ancora-out-winks_fee4d5e6-f5bb-4c50-ac7c-19f85bf915ed.html",
-     "data": "2026-11-19T16:29:06+00:00"
-    },
-    {
-     "titolo": "Calcio: il Parma ospita la Roma, emergenza difesa per Gilardino",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/19/calcio-il-parma-ospita-la-roma-emergenza-difesa-per-gilardino_a91a9c0c-858f-4c1d-b596-239716df19ac.html",
-     "data": "2026-11-19T16:13:50+00:00"
-    },
-    {
-     "titolo": "Atp Finals: da domenica al via la vendita dei biglietti per il 2027",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/19/atp-finals-da-domenica-al-via-la-vendita-dei-biglietti-per-il-2027_0419e720-bb94-467a-baa1-a360717e52ba.html",
-     "data": "2026-11-19T16:00:56+00:00"
     }
    ]
   }
