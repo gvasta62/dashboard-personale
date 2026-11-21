@@ -1,65 +1,85 @@
 {
- "aggiornato": "2026-11-21T03:34:37.327323+00:00",
+ "aggiornato": "2026-11-21T11:50:49.595150+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
+     "titolo": "Tajani, sconvolto da morte De Gennaro, vittima di un processo fuori dal tribunale",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/tajani-sconvolto-da-morte-de-gennaro-vittima-di-un-processo-fuori-dal-tribunale_83df300f-c10d-4731-94e9-f863ea8007b1.html",
+     "data": "2026-11-21T11:06:59+00:00"
+    },
+    {
+     "titolo": "Meloni, profondamente scioccata dalla tragica scomparsa di De Gennaro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/meloni-profondamente-scioccata-dalla-tragica-scomparsa-di-de-gennaro_3bf25eec-24d3-4bc2-8ad9-cdcef0978c06.html",
+     "data": "2026-11-21T11:01:39+00:00"
+    },
+    {
+     "titolo": "Mosca, 'nave cargo attaccata nelle acque internazionali del Golfo di Finlandia'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/mosca-nave-cargo-attaccata-nelle-acque-internazionali-del-golfo-di-finlandia_bcd9a850-81fc-43ce-850e-4d5a4a866c26.html",
+     "data": "2026-11-21T10:51:02+00:00"
+    },
+    {
+     "titolo": "L'ex capo della Polizia De Gennaro si è ucciso con un colpo di pistola",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-con-un-colpo-di-pistola_04a26e98-642b-427a-bd51-577e0a7d7ad3.html",
+     "data": "2026-11-21T10:32:19+00:00"
+    },
+    {
+     "titolo": "Mantovano, sconvolto per De Gennaro, era un servitore dello Stato",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/mantovano-sconvolto-per-de-gennaro-era-un-servitore-dello-stato_3b272163-b9f4-47ab-b0a7-999aae3e8ca4.html",
+     "data": "2026-11-21T09:53:54+00:00"
+    },
+    {
+     "titolo": "Morta la stilista Raffaella Curiel",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/morta-la-stilista-raffaella-curiel_e89128b5-11eb-4019-8641-3e844d5ef397.html",
+     "data": "2026-11-21T09:46:38+00:00"
+    },
+    {
+     "titolo": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_c451f874-c17c-4cca-b5eb-921c03cf4d61.html",
+     "data": "2026-11-21T08:24:53+00:00"
+    },
+    {
+     "titolo": "Media, 'arrestato in Messico capo cartello narco Meza-Flores'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/media-arrestato-in-messico-capo-cartello-narco-meza-flores_e63b98b5-07e9-478b-a649-17afeaf1ba23.html",
+     "data": "2026-11-21T08:08:39+00:00"
+    },
+    {
+     "titolo": "F1: Verstappen in pole a Las Vegas, Antonelli il più veloce ma parte 6°'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/f1-verstappen-in-pole-a-las-vegas-antonelli-il-piu-veloce-ma-parte-6_71f6d319-4547-44cf-b9d2-7a1d77566995.html",
+     "data": "2026-11-21T05:32:18+00:00"
+    },
+    {
      "titolo": "Cnn, 'nuovo attacco hacker all'Fbi, violato l'archivio criminale'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_9eb51b6b-4217-46c4-bed4-11e35d613963.html",
      "data": "2026-11-21T02:55:40+00:00"
-    },
-    {
-     "titolo": "F1: in prove libere Las Vegas miglior tempo per Russell, poi Antonelli",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/f1-in-prove-libere-las-vegas-miglior-tempo-per-russell-poi-antonelli_8430fe4c-9d64-4e2c-9cae-00e9fed97f1c.html",
-     "data": "2026-11-21T02:11:24+00:00"
-    },
-    {
-     "titolo": "Terremoto di magnitudo 6.7 colpisce il centro del Perù, gente in strada a Lima",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/terremoto-di-magnitudo-6.7-colpisce-il-centro-del-peru-gente-in-strada-a-lima_8d76c1b6-b034-4a65-b70c-ccc6f252af0c.html",
-     "data": "2026-11-21T00:57:41+00:00"
-    },
-    {
-     "titolo": "Giudice Usa, 'la Bayer pagherà 7,25 miliardi alle vittime del diserbante Roundup'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/giudice-usa-la-bayer-paghera-725-miliardi-alle-vittime-del-diserbante_ee4a5a94-1f99-4407-a8dd-14bd6adbdcec.html",
-     "data": "2026-11-20T22:35:27+00:00"
-    },
-    {
-     "titolo": "Gli Usa annunciano nuove sanzioni contro l'Iran, colpiti '4 fiduciari del petrolio'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/gli-usa-annunciano-nuove-sanzioni-contro-liran-colpiti-4-fiduciari-del_d18e2414-8888-4bb9-8434-b2e353a2f64b.html",
-     "data": "2026-11-20T22:30:40+00:00"
-    },
-    {
-     "titolo": "Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/wall-street-chiude-in-forte-calo.-dj-203-nasdaq-537_2603c36d-1094-48af-b17a-590d5705aa0b.html",
-     "data": "2026-11-20T21:16:33+00:00"
-    },
-    {
-     "titolo": "Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesantemente'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/trump-se-i-big-tech-costruiranno-i-data-center-allestero-li-tasseremo-pesantemente_c91c0ed9-cfb8-434f-801f-451082bbcae6.html",
-     "data": "2026-11-20T18:00:53+00:00"
-    },
-    {
-     "titolo": "Trump, 'data center non saranno costruiti in altri Paesi, Cina se li prenderebbe'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/trump-data-center-non-saranno-costruiti-in-altri-paesi-cina-se-li-prenderebbe_9fedfed3-226b-4d8c-a24a-eb3e9e3f0314.html",
-     "data": "2026-11-20T17:54:53+00:00"
-    },
-    {
-     "titolo": "Trump, 'la quotazione di Anthropic un successo, ho rispetto per Dario'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/trump-la-quotazione-di-anthropic-un-successo-ho-rispetto-per-dario_24ca137c-597b-4cf9-a3e4-b6e11839bf22.html",
-     "data": "2026-11-20T17:53:26+00:00"
-    },
-    {
-     "titolo": "Trump, 'io e Xi abbiamo concordato di mettere dei paletti comuni sull'Ia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/trump-io-e-xi-abbiamo-concordato-di-mettere-dei-paletti-comuni-sullia_98b15f3c-b56e-4e57-893f-3f88ebc1c654.html",
-     "data": "2026-11-20T17:45:34+00:00"
     }
    ]
   },
   "umbria": {
    "nome": "Umbria",
    "voci": [
+    {
+     "titolo": "'Prima conoscitori, poi storici', l'arte per Ferdinando Bologna in un documentario",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/21/prima-conoscitori-poi-storici-larte-per-ferdinando-bologna-in-un-documentario_889ce912-aa80-496c-880f-4a3014901566.html",
+     "data": "2026-11-21T11:39:50+00:00"
+    },
+    {
+     "titolo": "Da Secondi gratitudine e riconoscenza alla polizia per l'operazione antidroga",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/21/da-secondi-gratitudine-e-riconoscenza-alla-polizia-per-loperazione-antidroga_a80a5fef-95bc-4625-96d9-2c9fa14c7080.html",
+     "data": "2026-11-21T09:55:29+00:00"
+    },
+    {
+     "titolo": "Prisco, brillante operazione antidroga della polizia a Città di Castello",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/21/prisco-brillante-operazione-antidroga-della-polizia-a-citta-di-castello_a9c9d24e-e165-4f90-b205-e6d6fd8ebc6a.html",
+     "data": "2026-11-21T09:41:45+00:00"
+    },
+    {
+     "titolo": "Aveva oltre 160 chili di cocaina, arrestato un uomo a Città di Castello",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/21/aveva-oltre-160-chili-di-cocaina-arrestato-un-uomo-a-citta-di-castello_67fb3187-206c-4a88-8e8a-cf3fca01c0d6.html",
+     "data": "2026-11-21T09:42:13+00:00"
+    },
     {
      "titolo": "Giornata di festa e inclusione all'Arcobaleno di Spello",
      "link": "https://www.ansa.it/umbria/notizie/2026/11/20/giornata-di-festa-e-inclusione-allarcobaleno-di-spello_75049aab-b219-46b6-9f9c-a0242db01546.html",
@@ -99,26 +119,6 @@
      "titolo": "'Rendere i centri storici vivi', proposta di legge di FdI in Regione",
      "link": "https://www.ansa.it/umbria/notizie/2026/11/20/rendere-i-centri-storici-vivi-proposta-di-legge-di-fdi-in-regione_4d3ce0e9-066f-46d7-83a4-95ac1b5aa7a4.html",
      "data": "2026-11-20T15:14:23+00:00"
-    },
-    {
-     "titolo": "Riconoscimento nazionale all'azienda ospedaliera di Perugia",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/20/riconoscimento-nazionale-allazienda-ospedaliera-di-perugia_23aa4bc3-ac05-441d-8d0f-93d5672a0879.html",
-     "data": "2026-11-20T13:11:47+00:00"
-    },
-    {
-     "titolo": "La Torretta di palazzo Bazzani illuminata di arancione",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/20/la-torretta-di-palazzo-bazzani-illuminata-di-arancione_ebd9f0c3-8834-4490-a9d3-d4a7a69b7654.html",
-     "data": "2026-11-20T13:50:26+00:00"
-    },
-    {
-     "titolo": "Acquisita dal fondo Theorikon la maggioranza di Art Group",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/20/acquisita-dal-fondo-theorikon-la-maggioranza-di-art-group_3f3bb283-dd42-46ec-a35b-277264317a40.html",
-     "data": "2026-11-20T13:57:59+00:00"
-    },
-    {
-     "titolo": "Minacce alla ex compagna anche da un carcere all'estero, arrestato per stalking",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/20/minacce-alla-ex-compagna-anche-da-un-carcere-allestero-arrestato-per-stalking_053d6d6c-b6af-4bc7-9a73-2b1e5287675b.html",
-     "data": "2026-11-20T11:55:50+00:00"
     }
    ]
   },
@@ -126,70 +126,90 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "007 Usa hanno allertato le compagnie aeree, 'Al Qaeda pronta a compiere attacchi'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/007-usa-hanno-allertato-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
-     "data": "2026-11-21T02:25:08+00:00"
+     "titolo": "Meloni: 'Profondamente scioccata per De Gennaro'. Salvatore Borsellino: 'I pm responsabili di istigazione a suicidio'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/meloni-profondamente-scioccata-per-de-gennaro.-salvatore-borsellino-i-pm-responsabili-di-istigazione-a-suicidio_42ef82fc-43b8-4902-a35d-dd280c6de41c.html",
+     "data": "2026-11-21T11:38:09+00:00"
     },
     {
-     "titolo": "Lite tra famiglie finisce nel sangue, donna muore accoltellata a Roma",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/lite-tra-famiglie-finisce-nel-sangue-donna-muore-accoltellata-a-roma_b697d876-126b-4a93-bc8e-04447c149d0a.html",
-     "data": "2026-11-20T22:47:06+00:00"
+     "titolo": "L'ex capo della Polizia De Gennaro si è ucciso sparandosi. Il legale: 'Conseguenze di accuse infamanti'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-sparandosi.-il-legale-conseguenze-di-accuse_5bcb2e78-76a6-4c7d-b2ba-61000e349ee9.html",
+     "data": "2026-11-21T11:43:42+00:00"
     },
     {
-     "titolo": "Idranti e lacrimogeni sul corteo a Torino davanti alla Gran Madre",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/idranti-e-lacrimogeni-sul-corteo-a-torino-davanti-alla-gran-madre_e02568e6-29d9-4ad9-8e93-d35f43b6b7ab.html",
-     "data": "2026-11-20T20:21:53+00:00"
+     "titolo": "La morte di De Gennaro, quando il pm del maxiprocesso si suicidò dopo l'inchiesta della procura nissena",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/la-morte-di-de-gennaro-quando-il-pm-del-maxiprocesso-si-suicido-dopo-linchiesta-della-procura_37ae8ccf-45f0-4120-88a5-29dd5564836b.html",
+     "data": "2026-11-21T11:10:48+00:00"
     },
     {
-     "titolo": "Bossetti: 'L'omicidio di Yara maturato nell'ambito della palestra'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/bossetti-lomicidio-di-yara-maturato-nellambito-della-palestra_7dc43cac-ef8c-4843-8244-06fdefa81e85.html",
-     "data": "2026-11-20T19:43:58+00:00"
+     "titolo": "L'ex capo della Polizia De Gennaro si è ucciso con un colpo di pistola",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-con-un-colpo-di-pistola_9f9f021b-0b40-417a-9f95-959f0ae16e92.html",
+     "data": "2026-11-21T10:32:34+00:00"
     },
     {
-     "titolo": "Sovraffollamento e porte bloccate, il questore chiude un locale a Pescara",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/sovraffollamento-e-porte-bloccate-il-questore-chiude-un-locale-a-pescara_39d45418-e6ef-4931-9f48-85d56feea93b.html",
-     "data": "2026-11-20T19:30:23+00:00"
+     "titolo": "Askatasuna, diffidati gli artisti per la festa dei 30 anni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/askatasuna-diffidati-gli-artisti-per-la-festa-dei-30-anni_5eea0656-e4f7-407b-92cf-48f4e0018d3a.html",
+     "data": "2026-11-21T10:24:41+00:00"
     },
     {
-     "titolo": "Tensioni in centro a Torino con il corteo contro guerra e carovita",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/tensioni-in-centro-a-torino-con-il-corteo-contro-guerra-e-carovita_80940078-13b7-4f9e-bac7-18a62a9ec130.html",
-     "data": "2026-11-20T19:11:24+00:00"
+     "titolo": "Via D'Amelio, a che punto è l'indagine che ha coinvolto De Gennaro",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/via-damelio-a-che-punto-e-lindagine-che-ha-coinvolto-de-gennaro_f194921d-4c33-4bf6-99bc-f4bae25314ce.html",
+     "data": "2026-11-21T11:41:31+00:00"
     },
     {
-     "titolo": "Simona uccisa 34 anni fa, confermata la condanna a 21 anni per l'amico",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/simona-uccisa-34-anni-fa-confermata-la-condanna-a-21-anni-per-lamico_55efad21-05ba-4079-ad72-45f42cebb406.html",
-     "data": "2026-11-20T19:10:37+00:00"
+     "titolo": "I successi, le poltrone e le ombre dello 'squalo' De Gennaro",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/i-successi-le-poltrone-e-le-ombre-dello-squalo-de-gennaro_8bf76f4c-70ba-48e9-99af-09651774720d.html",
+     "data": "2026-11-21T10:17:26+00:00"
     },
     {
-     "titolo": "La rivolta della Generazione Z, 'Non siamo la Cgil'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/la-rivolta-della-generazione-z-non-siamo-la-cgil_456e9ad3-a37c-4078-877d-84feafc02bf1.html",
-     "data": "2026-11-20T18:22:31+00:00"
+     "titolo": "I giovani e l'ansia,  il doc 'Età del vetro' racconta le nuove generazioni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/i-giovani-e-lansia-il-doc-eta-del-vetro-racconta-le-nuove-generazioni_9f48d5da-c38a-4609-8ae2-cde849c478bc.html",
+     "data": "2026-11-21T11:38:14+00:00"
     },
     {
-     "titolo": "Vendita di San Siro, va restituito il cellulare al dg del Comune",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/vendita-di-san-siro-va-restituito-il-cellulare-al-dg-del-comune_793f971b-0406-4ac0-b7ad-b82f89d99196.html",
-     "data": "2026-11-20T18:24:14+00:00"
+     "titolo": "L'inchiesta su De Gennaro, il nodo della competenza",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/linchiesta-su-de-gennaro-il-nodo-della-competenza_53de09fa-e7bf-4d69-a0a9-48b784832ce2.html",
+     "data": "2026-11-21T09:24:37+00:00"
     },
     {
-     "titolo": "Corteo a Torino, bandiera israeliana con scritta 'Nazi'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/corteo-a-torino-bandiera-israeliana-con-scritta-nazi_f88af852-13fb-409e-b97a-3d320fb3673b.html",
-     "data": "2026-11-20T18:15:50+00:00"
+     "titolo": "Tar Fvg sospende provvedimenti Questura Trieste per piazza Libertà",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/tar-fvg-sospende-provvedimenti-questura-trieste-per-piazza-liberta_b517b1f8-7408-421c-87e2-d841c001fd3f.html",
+     "data": "2026-11-21T09:03:42+00:00"
     },
     {
-     "titolo": "#AccadeOggi",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-     "data": "2026-11-20T17:50:16+00:00"
+     "titolo": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_a0c83b8e-8377-44c0-8669-ef06b979b266.html",
+     "data": "2026-11-21T08:24:56+00:00"
     },
     {
-     "titolo": "Spunta il nome di Castelli nell'inchiesta sul sisma",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/spunta-il-nome-di-castelli-nellinchiesta-sul-sisma_c6f9e92d-e950-4302-b88c-35cb09baeebb.html",
-     "data": "2026-11-20T17:30:45+00:00"
+     "titolo": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_3dc58141-2a75-43e8-8aab-fc1b0adc999f.html",
+     "data": "2026-11-21T09:21:10+00:00"
     }
    ]
   },
   "politica": {
    "nome": "Politica",
    "voci": [
+    {
+     "titolo": "Tajani, sconvolto da morte De Gennaro, vittima di un processo fuori dal tribunale",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/tajani-sconvolto-da-morte-de-gennaro-vittima-di-un-processo-fuori-dal-tribunale_fa3a45d6-c61c-4577-aef3-7360a1aed3d6.html",
+     "data": "2026-11-21T11:07:02+00:00"
+    },
+    {
+     "titolo": "Cirio, 'a Torino la terza moschea d'Europa non la facciamo'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/cirio-a-torino-la-terza-moschea-deuropa-non-la-facciamo_2f369b0b-85c7-4c6c-9289-59ed5535b6f2.html",
+     "data": "2026-11-21T11:07:23+00:00"
+    },
+    {
+     "titolo": "Meloni, profondamente scioccata dalla tragica scomparsa di De Gennaro",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/meloni-profondamente-scioccata-dalla-tragica-scomparsa-di-de-gennaro_3a17cf83-16ec-4773-9dca-d64a98147943.html",
+     "data": "2026-11-21T11:01:41+00:00"
+    },
+    {
+     "titolo": "Mantovano, sconvolto per De Gennaro, era un servitore dello Stato",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/mantovano-sconvolto-per-de-gennaro-era-un-servitore-dello-stato_6135d91e-4912-469a-a0c6-419f720f776d.html",
+     "data": "2026-11-21T09:53:54+00:00"
+    },
     {
      "titolo": "Manovra, correzioni col contagocce. Sanità e superbonus in cima",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/manovra-correzioni-col-contagocce.-sanita-e-superbonus-in-cima_0dcb8aae-a8b7-4f30-a80a-52210de85ee8.html",
@@ -229,32 +249,37 @@
      "titolo": "Video Games Europe, 'su online genitori possano continuare a decidere per i figli'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/video-games-europe-su-online-genitori-possano-continuare-a-decidere-per-i-figli_6a69a22e-b36b-47c2-8733-dd014f70a360.html",
      "data": "2026-11-20T13:00:41+00:00"
-    },
-    {
-     "titolo": "Toniato, 'i governi Ciampi e Monti nati nei sotterranei del Senato'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/toniato-i-governi-ciampi-e-monti-nati-nei-sotterranei-del-senato_4039daf5-aee6-47c1-84cb-7e15b1cdfec7.html",
-     "data": "2026-11-20T12:02:35+00:00"
-    },
-    {
-     "titolo": "Conte, condono non può essere una misura elettorale disperata",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/conte-condono-non-puo-essere-una-misura-elettorale-disperata_aa08c536-a20f-42da-8305-87ef6a0e24e9.html",
-     "data": "2026-11-20T11:37:03+00:00"
-    },
-    {
-     "titolo": "FI rilancia la battaglia, tre emendamenti anti e-book alla Camera",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/scontro-sugli-ebook-fi-presenta-un-emendamento-soppressivo-alla-camera-_a676fb83-bb34-4ed1-bb51-a0428ece696b.html",
-     "data": "2026-11-20T20:14:56+00:00"
-    },
-    {
-     "titolo": "Salvini, Kiev chiuda il sito Myrotvorets, schedatura nazista",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/salvini-kiev-chiuda-il-sito-myrotvorets-schedatura-nazista_f159e5f5-e0b8-4d15-9b90-05109ca512e9.html",
-     "data": "2026-11-20T11:18:09+00:00"
     }
    ]
   },
   "economia": {
    "nome": "Economia",
    "voci": [
+    {
+     "titolo": "Cgia, 2,4 milioni di famiglie italiane a rischio povertà energetica",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/cgia-24-milioni-di-famiglie-italiane-a-rischio-poverta-energetica_aa26d2d8-fc76-487f-8296-94ab69016569.html",
+     "data": "2026-11-21T10:24:41+00:00"
+    },
+    {
+     "titolo": "Black Friday: Codacons, in Italia giro d'affari da 4,3 miliardi, resta rischio truffe",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/black-friday-codacons-in-italia-giro-daffari-da-43-miliardi-resta-rischio-truffe_3c51b41d-01fc-4f71-bd68-6ac7f4a55279.html",
+     "data": "2026-11-21T09:16:36+00:00"
+    },
+    {
+     "titolo": "Black friday, oltre il 60% degli italiani pronto agli acquisti. Spesa media 262 euro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/black-friday-oltre-il-60-degli-italiani-pronto-agli-acquisti.-spesa-media_08d772bb-f4a5-4ee9-acba-b9dd8fab9c72.html",
+     "data": "2026-11-21T08:54:01+00:00"
+    },
+    {
+     "titolo": "Mps: 'L'Opas di Intesa congrua dopo il rilancio e le garanzie su Siena'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/mps-lopas-di-intesa-congrua-dopo-il-rilancio-e-le-garanzie-su-siena_02968d27-bddb-4349-a9f5-be183321f9c3.html",
+     "data": "2026-11-21T08:04:08+00:00"
+    },
+    {
+     "titolo": "Sciopero del personale Fs fino alle 20 di oggi",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/sciopero-del-personale-fs-fino-alle-20-di-oggi_49dc2219-ecfc-4749-b7a9-bd2a14257de5.html",
+     "data": "2026-11-21T07:24:49+00:00"
+    },
     {
      "titolo": "Il petrolio chiude in rialzo a New York a 84,03 dollari",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/il-petrolio-chiude-in-rialzo-a-new-york-a-8403-dollari_1bb340dd-a096-44c7-aab0-880c11445568.html",
@@ -289,31 +314,6 @@
      "titolo": "Il ceo di Anthropic in Puglia, riserbo sui motivi della visita",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/il-ceo-di-anthropic-a-brindisi-riserbo-sui-motivi-della-visita_8b3f301a-488d-4f23-8905-6951fcc78aa2.html",
      "data": "2026-11-20T20:28:48+00:00"
-    },
-    {
-     "titolo": "Il gas sale ancora e supera gli 88 euro sulla piazza Ttf di Amsterdam",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/il-gas-sale-ancora-e-supera-gli-88-euro-sulla-piazza-ttf-di-amsterdam_0e26f329-ba37-43e2-b910-b92119eea56a.html",
-     "data": "2026-11-20T17:12:35+00:00"
-    },
-    {
-     "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 109,9 punti",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-1099-punti_e794a9ce-e923-456f-bd03-559894f77b11.html",
-     "data": "2026-11-20T17:05:03+00:00"
-    },
-    {
-     "titolo": "Borsa: Milano chiude in forte ribasso, pesano Stm e Technoprobe",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/borsa-milano-chiude-in-forte-ribasso-pesano-stm-e-technoprobe_4f8b08b7-a6c5-4452-bc1a-77d63aadcc19.html",
-     "data": "2026-11-20T17:04:27+00:00"
-    },
-    {
-     "titolo": "Wall Street cala, Nasdaq -3,25%, S 500 perde l'1,89%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/wall-street-cala-nasdaq-325-s-500-perde-l189_e0f4d2d2-ccfd-4f34-8258-f78de5e5561d.html",
-     "data": "2026-11-20T16:59:22+00:00"
-    },
-    {
-     "titolo": "Garofalo (Haier), 'Ai nelle case e tecnologia per ridurre i consumi'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/garofalo-haier-ai-nelle-case-e-tecnologia-per-ridurre-i-consumi_2c3c0abb-5f06-4ec3-8c8e-efd9594883ad.html",
-     "data": "2026-11-20T16:55:21+00:00"
     }
    ]
   },
@@ -321,9 +321,29 @@
    "nome": "Mondo",
    "voci": [
     {
-     "titolo": "Cnn, 'nuovo attacco hacker all'Fbi, violato l'archivio criminale'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_38f6033c-fb4e-4c0c-8cb1-c64f4c15b671.html",
-     "data": "2026-11-21T02:55:54+00:00"
+     "titolo": "Libia, vietato Gta VI a Gharyan, controlli a tappeto nei negozi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/21/libia-vietato-gta-vi-a-gharyan-controlli-a-tappeto-nei-negozi_e64073d1-faba-47e4-a9cc-5031cdf9c91d.html",
+     "data": "2026-11-21T11:09:14+00:00"
+    },
+    {
+     "titolo": "Mosca, 'nave cargo attaccata nelle acque internazionali del Golfo di Finlandia'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/mosca-nave-cargo-attaccata-nelle-acque-internazionali-del-golfo-di-finlandia_129fcfc0-7eb9-4a4b-bf20-409fea4d06c7.html",
+     "data": "2026-11-21T10:51:02+00:00"
+    },
+    {
+     "titolo": "A Sigonella accertamenti in corso dopo il possibile sorvolo di droni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/a-sigonella-accertamenti-in-corso-dopo-il-possibile-sorvolo-di-droni_f2d335b7-be89-4930-bb82-a4ab490d0a88.html",
+     "data": "2026-11-21T11:23:19+00:00"
+    },
+    {
+     "titolo": "Media, 'arrestato in Messico capo cartello narco Meza-Flores'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/media-arrestato-in-messico-capo-cartello-narco-meza-flores_ff13f695-5b1e-4029-a00d-d476e8a458a3.html",
+     "data": "2026-11-21T08:08:55+00:00"
+    },
+    {
+     "titolo": "La Cnn: 'Nuovo attacco hacker all'Fbi, violato l'archivio criminale'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/la-cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_38f6033c-fb4e-4c0c-8cb1-c64f4c15b671.html",
+     "data": "2026-11-21T07:47:38+00:00"
     },
     {
      "titolo": "007 Usa hanno allertato le compagnie aeree, 'Al Qaeda pronta a compiere attacchi'",
@@ -334,11 +354,6 @@
      "titolo": "Media, 'droni avvistati su Sigonella, a voli militari indicato cambio rotta'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/media-droni-avvistati-su-sigonella-a-voli-militari-indicato-cambio-rotta_5d288f34-134f-4857-bd22-f9f3d2e83571.html",
      "data": "2026-11-21T02:18:05+00:00"
-    },
-    {
-     "titolo": "Media, 'droni avvistati su Sigonella, a voli militari indicato cambio rotta'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/media-droni-avvistati-su-sigonella-a-voli-militari-indicato-cambio-rotta_f2d335b7-be89-4930-bb82-a4ab490d0a88.html",
-     "data": "2026-11-21T02:21:43+00:00"
     },
     {
      "titolo": "Terremoto di magnitudo 6.7 colpisce il centro del Perù, gente in strada a Lima",
@@ -364,21 +379,6 @@
      "titolo": "Giudice Usa, 'la Bayer pagherà 7,25 miliardi alle vittime del diserbante Roundup'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/giudice-usa-la-bayer-paghera-725-miliardi-alle-vittime-del-diserbante_b5e32c77-675d-454f-aefc-caaff9ebacfe.html",
      "data": "2026-11-20T22:35:44+00:00"
-    },
-    {
-     "titolo": "Gli Usa annunciano nuove sanzioni contro l'Iran, colpiti '4 fiduciari del petrolio'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/20/gli-usa-annunciano-nuove-sanzioni-contro-liran-colpiti-4-fiduciari-del_670cfbe3-8464-4502-89ae-4049f579b7ce.html",
-     "data": "2026-11-20T22:30:54+00:00"
-    },
-    {
-     "titolo": "Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/wall-street-chiude-in-forte-calo.-dj-203-nasdaq-537_2c113fa1-01eb-4131-adfa-0de0775416b0.html",
-     "data": "2026-11-20T21:16:33+00:00"
-    },
-    {
-     "titolo": "L'Argentina approva il maxi investimento sul Gnl di Eni, Ypf e Xrg",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/20/largentina-approva-il-maxi-investimento-sul-gnl-di-eni-ypf-e-xrg_3f88f05d-a87c-4f54-90a7-4176495b1ea4.html",
-     "data": "2026-11-20T19:16:36+00:00"
     }
    ]
   },
@@ -451,6 +451,46 @@
    "nome": "Sport",
    "voci": [
     {
+     "titolo": "Calcio:Malago'su Italia Under 17 spirito di collaborazione da club,è segnale positivo'",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/calciomalagosu-italia-under-17-spirito-di-collaborazione-da-clube-segnale-positivo_aa8e2bef-a375-481c-8a82-ffa1bd950d27.html",
+     "data": "2026-11-21T11:21:04+00:00"
+    },
+    {
+     "titolo": "Calcio: Bayern Monaco, intervento alla caviglia riuscito per Kane",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/calcio-bayern-monaco-intervento-alla-caviglia-riuscito-per-kane_0c3c4ef2-8d81-4638-b03a-8554dd334bce.html",
+     "data": "2026-11-21T10:51:46+00:00"
+    },
+    {
+     "titolo": "Sci:Cdm; slalom Gurgl, in testa Swenn Larsson con azzurra Della Mea 3/a",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/21/scicdm-slalom-gurgl-in-testa-swenn-larsson-con-azzurra-della-mea_8cdae5ef-a444-496c-8447-de349f048196.html",
+     "data": "2026-11-21T10:44:17+00:00"
+    },
+    {
+     "titolo": "F1: Las Vegas; Verstappen 'essere in pole position qui è un gran risultato'",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/21/f1-las-vegas-verstappen-essere-in-pole-position-qui-e-un-gran-risultato_de79ac63-2a37-4dbd-af7d-af72c3a52aaa.html",
+     "data": "2026-11-21T08:46:53+00:00"
+    },
+    {
+     "titolo": "F1: Las Vegas; rabbia Leclerc 'non ne abbiamo messa dritta una'",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/21/f1-las-vegas-rabbia-leclerc-non-ne-abbiamo-messa-dritta-una_c1cc138b-fe07-4404-aa2e-0fb3ff25c4ca.html",
+     "data": "2026-11-21T08:33:10+00:00"
+    },
+    {
+     "titolo": "F1: Las Vegas; 'che rischio nel finale, ho un gran passo, si può vincere'",
+     "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/21/f1-las-vegas-che-rischio-nel-finale-ho-un-gran-passo-si-puo-vincere_882851b0-78c8-42c9-bdb6-eb05cf43fee3.html",
+     "data": "2026-11-21T08:29:38+00:00"
+    },
+    {
+     "titolo": "Red Bull bc one world final 2026, Toronto si prepara a incoronare campioni breaking",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/21/red-bull-bc-one-world-final-2026-toronto-si-prepara-a-incoronare-campioni_f3827130-1173-4c79-8822-a6c949a7f28b.html",
+     "data": "2026-11-21T08:16:59+00:00"
+    },
+    {
+     "titolo": "F1: Verstappen in pole a Las Vegas, Antonelli il più veloce ma parte sesto",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/11/21/f1-verstappen-in-pole-a-las-vegas-antonelli-il-piu-veloce-ma-parte-sesto_b03ba7ae-c9e7-46e7-bf58-819b96739514.html",
+     "data": "2026-11-21T06:56:03+00:00"
+    },
+    {
      "titolo": "Bundesliga: Kane si infortuna, il Bayern lo perde per \"diversi mesi\"",
      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/20/bundesliga-kane-si-infortuna-il-bayern-lo-perde-per-diversi-mesi_3ddc2ab9-662b-409b-80a4-b229092ccbb9.html",
      "data": "2026-11-20T22:38:21+00:00"
@@ -469,46 +509,6 @@
      "titolo": "Atp Finals: battuto Tiafoe, per Medvedev è semifinale con Zverev",
      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/20/atp-finals-battuto-tiafoe-per-medvedev-e-semifinale-con-zverev_acde1f19-4725-466c-b3d1-19d4116bbb73.html",
      "data": "2026-11-20T21:08:19+00:00"
-    },
-    {
-     "titolo": "Coppa Davis: Vavassori, per il doppio aspettiamo le decisioni del capitano",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/20/coppa-davis-vavassori-per-il-doppio-aspettiamo-le-decisioni-del-capitano_038a964e-8339-4cb6-b922-689f1e3ac46b.html",
-     "data": "2026-11-20T20:39:38+00:00"
-    },
-    {
-     "titolo": "Bolelli 'dispiaciuto per la Davis ma sono sereno, fa parte del gioco'",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/20/bolelli-dispiaciuto-per-la-davis-ma-sono-sereno-fa-parte-del-gioco_b0aa0c3d-ea9d-485a-ae62-fa312738eb89.html",
-     "data": "2026-11-20T20:31:00+00:00"
-    },
-    {
-     "titolo": "Rugby: Nicotera, contro le Figi servono controllo del gioco e organizzazione",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/20/rugby-nicotera-contro-le-figi-servono-controllo-del-gioco-e-organizzazione_68f0e60f-b9cd-47b5-9083-267a04d1bc5d.html",
-     "data": "2026-11-20T20:07:47+00:00"
-    },
-    {
-     "titolo": "Fifa: la Conmebol si schiera con Infantino, 'fermo sostegno' dal Sud America",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/20/fifa-la-conmebol-si-schiera-con-infantino-fermo-sostegno-dal-sud-america_eea1ea91-6d8a-4f7c-9d17-914a7bb33ebc.html",
-     "data": "2026-11-20T19:22:17+00:00"
-    },
-    {
-     "titolo": "Atp Finals: Bolelli e Vavassori chiudono con un ko il loro cammino insieme",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/20/atp-finals-bolelli-e-vavassori-chiudono-con-un-ko-il-loro-cammino-insieme_59a1a848-c9b2-437c-9d95-c73b32f5985f.html",
-     "data": "2026-11-20T19:10:08+00:00"
-    },
-    {
-     "titolo": "Taekwondo: Roma incorona i campioni d'Italia, Cito \"il movimento cresce\"",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/20/taekwondo-roma-incorona-i-campioni-ditalia-cito-il-movimento-cresce_a15985ce-fc85-4e03-8576-463abeba73a9.html",
-     "data": "2026-11-20T18:24:38+00:00"
-    },
-    {
-     "titolo": "Next Gen Atp, Reggio Calabria pronta ad accogliere grande tennis under 20",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/20/next-gen-atp-reggio-calabria-pronta-ad-accogliere-grande-tennis-under_f22a4bb8-589b-475c-a1f9-1bad3593f1f2.html",
-     "data": "2026-11-20T18:03:48+00:00"
-    },
-    {
-     "titolo": "Tennis: Binaghi, per crescita settore è fondamentale il ruolo del Governo",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/20/tennis-binaghi-per-crescita-settore-e-fondamentale-il-ruolo-del-governo_6fe135d9-ef64-4e4d-bd59-9a3f11a4e8bd.html",
-     "data": "2026-11-20T17:44:58+00:00"
     }
    ]
   }
