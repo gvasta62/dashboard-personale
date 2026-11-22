@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-11-21T23:29:12.210493+00:00",
+ "aggiornato": "2026-11-22T03:20:30.543891+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Cop 31, nella bozza nessuna menzione dei combustibili fossili",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/cop-31-nella-bozza-nessuna-menzione-dei-combustibili-fossili_d55cbfd6-68e9-4052-9e81-c9f6b18797be.html",
+     "data": "2026-11-22T02:44:08+00:00"
+    },
     {
      "titolo": "Zelensky ringrazia Melania Trump per il cessate il fuoco di Oleshky",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/zelensky-ringrazia-melania-trump-per-il-cessate-il-fuoco-di-oleshky_3db0c4ee-2bdb-4b05-9d2a-49b164f28ae0.html",
@@ -49,11 +54,6 @@
      "titolo": "Gatto a spasso in cabina, volo della Delta bloccato a Boston",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/gatto-a-spasso-in-cabina-volo-della-delta-bloccato-a-boston_46901c91-9690-43a2-a37d-3715df70a45e.html",
      "data": "2026-11-21T17:48:05+00:00"
-    },
-    {
-     "titolo": "Mosca, 'colpita nel Mar Nero nave cargo usata da Kiev per scopi militari'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/mosca-colpita-nel-mar-nero-nave-cargo-usata-da-kiev-per_6a176c2c-a468-4b63-9dad-6b03d4ae2408.html",
-     "data": "2026-11-21T16:46:13+00:00"
     }
    ]
   },
@@ -311,6 +311,11 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Cop 31, nella bozza nessuna menzione dei combustibili fossili",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/cop-31-nella-bozza-nessuna-menzione-dei-combustibili-fossili_e121f1b0-59b6-46f1-b370-4967cafbc2e1.html",
+     "data": "2026-11-22T02:44:12+00:00"
+    },
+    {
      "titolo": "Zelensky ringrazia Melania Trump per il cessate il fuoco di Oleshky",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/zelensky-ringrazia-melania-trump-per-il-cessate-il-fuoco-di-oleshky_f790af89-7d0f-48fb-907a-c82009f09395.html",
      "data": "2026-11-21T23:04:38+00:00"
@@ -364,11 +369,6 @@
      "titolo": "Gatto a spasso in cabina, volo della Delta bloccato a Boston",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/gatto-a-spasso-in-cabina-volo-della-delta-bloccato-a-boston_b191c33f-68de-463d-986f-9c37de803cad.html",
      "data": "2026-11-21T17:48:20+00:00"
-    },
-    {
-     "titolo": "Mosca, 'colpita nel Mar Nero nave cargo usata da Kiev per scopi militari'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/mosca-colpita-nel-mar-nero-nave-cargo-usata-da-kiev-per_bee9fd8f-3084-4348-9c0f-67b54725f3b9.html",
-     "data": "2026-11-21T16:46:13+00:00"
     }
    ]
   },
