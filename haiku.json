@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-21T11:54:17.339054+00:00",
- "data": "2026-11-21",
- "testo": "Cielo di cenere\ndentro il frantoio chiuso\ngocciola l'olio",
- "nota": "Ho osservato una goccia d'olio nuovo sotto la pressa del frantoio.",
+ "aggiornato": "2026-11-22T12:08:03.034905+00:00",
+ "data": "2026-11-22",
+ "testo": "Scroscio di grandine\nnel secchio sotto il portico\nrimbalza il ghiaccio",
+ "nota": "Durante il temporale la grandine salta dentro un secchio di zinco.",
  "archivio": [
+  {
+   "data": "2026-11-22",
+   "testo": "Scroscio di grandine\nnel secchio sotto il portico\nrimbalza il ghiaccio",
+   "nota": "Durante il temporale la grandine salta dentro un secchio di zinco."
+  },
   {
    "data": "2026-11-21",
    "testo": "Cielo di cenere\ndentro il frantoio chiuso\ngocciola l'olio",
@@ -448,11 +453,6 @@
    "data": "2026-08-25",
    "testo": "Chicchi di ghiaccio\ndentro la grondaia rotta\ntamburellano",
    "nota": "Ho ascoltato la grandine battere nella grondaia sfondata di un tetto."
-  },
-  {
-   "data": "2026-08-24",
-   "testo": "Cielo di cenere\nsul fico spacca il ramo\nun merlo becca",
-   "nota": "Ho osservato un merlo che beccava un fico maturo sotto il cielo coperto."
   }
  ]
 }
