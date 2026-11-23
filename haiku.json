@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-22T12:08:03.034905+00:00",
- "data": "2026-11-22",
- "testo": "Scroscio di grandine\nnel secchio sotto il portico\nrimbalza il ghiaccio",
- "nota": "Durante il temporale la grandine salta dentro un secchio di zinco.",
+ "aggiornato": "2026-11-23T13:51:37.803529+00:00",
+ "data": "2026-11-23",
+ "testo": "Pioggia leggera\nsui panni del mercato\nimperla la lana",
+ "nota": "Gocce minute posate sulla lana dei maglioni al banco, lunedì di mercato.",
  "archivio": [
+  {
+   "data": "2026-11-23",
+   "testo": "Pioggia leggera\nsui panni del mercato\nimperla la lana",
+   "nota": "Gocce minute posate sulla lana dei maglioni al banco, lunedì di mercato."
+  },
   {
    "data": "2026-11-22",
    "testo": "Scroscio di grandine\nnel secchio sotto il portico\nrimbalza il ghiaccio",
@@ -448,11 +453,6 @@
    "data": "2026-08-26",
    "testo": "Nuvole basse\nsul cotto della piazza\nscia di lumaca",
    "nota": "Dopo la pioggia dei giorni scorsi, una lumaca lascia il suo segno lucido sul pavimento."
-  },
-  {
-   "data": "2026-08-25",
-   "testo": "Chicchi di ghiaccio\ndentro la grondaia rotta\ntamburellano",
-   "nota": "Ho ascoltato la grandine battere nella grondaia sfondata di un tetto."
   }
  ]
 }
