@@ -1,10 +1,15 @@
 {
- "aggiornato": "2026-11-22T23:54:18.584012+00:00",
+ "aggiornato": "2026-11-23T04:09:41.481632+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Kiev, 'bilancio vittime Dymer sale a 9, si scava ancora tra le macerie'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/23/kiev-bilancio-vittime-dymer-sale-a-9-si-scava-ancora-tra-le-macerie_ba991ba4-055e-4f2b-bee0-f9faf48770d9.html",
+     "data": "2026-11-23T03:52:51+00:00"
+    },
     {
      "titolo": "Kiev, 'il bilancio dell'attacco russo a Dymer è salito a sei morti'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/23/kiev-il-bilancio-dellattacco-russo-a-dymer-e-salito-a-sei-morti_ece2eae5-6885-41de-a97d-23a92cd0019e.html",
@@ -49,11 +54,6 @@
      "titolo": "Trump su Truth chiama Putin 'My Friend', scattano le polemiche",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/trump-su-truth-chiama-putin-my-friend-scattano-le-polemiche_c582bee9-d5f6-427b-94f2-4645afd7973b.html",
      "data": "2026-11-22T19:44:54+00:00"
-    },
-    {
-     "titolo": "Media, 'William pensa di togliere il titolo di principe al fratello Harry'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/media-william-pensa-di-togliere-il-titolo-di-principe-al-fratello-harry_b407cb58-6496-4f5b-8bcf-2defdbb26083.html",
-     "data": "2026-11-22T19:42:47+00:00"
     }
    ]
   },
@@ -251,6 +251,16 @@
    "nome": "Mondo",
    "voci": [
     {
+     "titolo": "Kiev, 'bilancio vittime Dymer sale a 9, si scava ancora tra le macerie'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/23/kiev-bilancio-vittime-dymer-sale-a-9-si-scava-ancora-tra-le-macerie_9d3d3304-92fa-4410-af2a-867f102e8f41.html",
+     "data": "2026-11-23T03:10:30+00:00"
+    },
+    {
+     "titolo": "Cop31, Panama obietta formalmente sull'accordo finale ad Antalya",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/23/cop31-panama-obietta-formalmente-sullaccordo-finale-ad-antalya_acedb005-3492-4a19-a714-cf9d13776311.html",
+     "data": "2026-11-22T23:54:09+00:00"
+    },
+    {
      "titolo": "Kiev, 'il bilancio dell'attacco russo a Dymer è salito a sei morti'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/23/kiev-il-bilancio-dellattacco-russo-a-dymer-e-salito-a-sei-morti_51ad9de5-4f24-45e0-9832-7dcd5775c9a7.html",
      "data": "2026-11-22T23:24:22+00:00"
@@ -299,16 +309,6 @@
      "titolo": "Zelensky, 'a Dymer morte 4 persone, altre 3 a Vyshneve'",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/zelensky-a-dymer-morte-4-persone-altre-3-a-vyshneve_dd470bbc-a023-4871-adb6-2c18524d6b60.html",
      "data": "2026-11-22T19:32:13+00:00"
-    },
-    {
-     "titolo": "Ultima settimana di campagna elettorale in Spagna, i sondaggi oggi premiano i Popolari",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/ultima-settimana-di-campagna-elettorale-in-spagna-i-sondaggi-oggi-premiano-i-popolari_21af0cf1-c19a-4bef-a816-fbf9f11a719c.html",
-     "data": "2026-11-22T19:30:38+00:00"
-    },
-    {
-     "titolo": "L'ex leader brasiliano Jair Bolsonaro in terapia intensiva in 'condizioni stabili'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/22/lex-leader-brasiliano-jair-bolsonaro-in-terapia-intensiva-in-condizioni-stabili_38051352-1a74-4258-b5ab-17b1dbb222f1.html",
-     "data": "2026-11-22T19:07:39+00:00"
     }
    ]
   },
