@@ -1,10 +1,30 @@
 {
- "aggiornato": "2026-11-24T22:48:22.673923+00:00",
+ "aggiornato": "2026-11-25T05:05:22.028187+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Huawei: 'La condanna Usa è senza fondamento giuridico o fattuale'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/huawei-la-condanna-usa-e-senza-fondamento-giuridico-o-fattuale_6461d14e-4a84-4935-a1b2-37c6fd16ae7e.html",
+     "data": "2026-11-25T03:31:12+00:00"
+    },
+    {
+     "titolo": "Nvidia, Trump: 'Concederei la grazia a Jensen Huang se necessario'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/nvidia-trump-concederei-la-grazia-a-jensen-huang-se-necessario_f1d734e5-21d1-4571-8eaa-01dbe197c52c.html",
+     "data": "2026-11-25T02:33:36+00:00"
+    },
+    {
+     "titolo": "Due militari libici morti per le ferite nell'attacco ucraino alle navi russe",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/due-militari-libici-morti-per-le-ferite-nellattacco-ucraino-alle-navi_60000a66-dec8-493e-bc1a-40eb5a34061a.html",
+     "data": "2026-11-25T02:08:15+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,36%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/borsa-tokyo-apertura-in-calo-036_49b11439-00b2-49de-b1b0-c741655a6acf.html",
+     "data": "2026-11-25T00:17:10+00:00"
+    },
     {
      "titolo": "Abrego Garcia lascerà volontariamente gli Usa per evitare la deportazione",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/abrego-garcia-lascera-volontariamente-gli-usa-per-evitare-la-deportazione_6eb62363-c88c-486b-a609-a0cf04cc95e7.html",
@@ -34,26 +54,6 @@
      "titolo": "Huang, 'non è stato Trump a farmi tornare, board ha scelto in autonomia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/huang-non-e-stato-trump-a-farmi-tornare-board-ha-scelto-in-autonomia_de799794-4084-4643-853d-6969b6c04b11.html",
      "data": "2026-11-24T20:17:21+00:00"
-    },
-    {
-     "titolo": "Jensen Huang chiede scusa, 'sto andando in terapia'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/jensen-huang-chiede-scusa-sto-andando-in-terapia_1c25cef1-98ea-419d-bc83-29696760d768.html",
-     "data": "2026-11-24T20:13:31+00:00"
-    },
-    {
-     "titolo": "\"Grandi passi in avanti\" sulla patrimoniale al tavolo progressista",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/grandi-passi-in-avanti-sulla-patrimoniale-al-tavolo-progressista_abc93b0e-ecef-406e-a28b-96ed6d22e5c5.html",
-     "data": "2026-11-24T17:38:52+00:00"
-    },
-    {
-     "titolo": "Odg maggioranza su ebook, \"stop per elementari, differimento per medie e superiori\"",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/odg-maggioranza-su-ebook-stop-per-elementari-differimento-per-medie-e-superiori_20b80b1f-f01b-42e8-a978-4f11ddd32f40.html",
-     "data": "2026-11-24T17:31:23+00:00"
-    },
-    {
-     "titolo": "Manfredi (Anci), 'condono? Non si può far ricadere sui comuni problemi decennali'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/manfredi-anci-condono-non-si-puo-far-ricadere-sui-comuni-problemi_26656851-1a92-4be5-ad14-0ff73daef23f.html",
-     "data": "2026-11-24T17:29:10+00:00"
     }
    ]
   },
@@ -256,6 +256,21 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Huawei: 'La condanna Usa è senza fondamento giuridico o fattuale'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/huawei-la-condanna-usa-e-senza-fondamento-giuridico-o-fattuale_cc8ed0e8-3d79-4d89-a274-a290189e3b42.html",
+     "data": "2026-11-25T03:31:10+00:00"
+    },
+    {
+     "titolo": "Nvidia, Trump: 'Concederei la grazia a Jensen Huang se necessario'",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/nvidia-trump-concederei-la-grazia-a-jensen-huang-se-necessario_f7e00545-9f45-4de2-bba6-c6248fde2158.html",
+     "data": "2026-11-25T02:33:53+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in calo (-0,36%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/borsa-tokyo-apertura-in-calo-036_2d355356-5ba4-4a00-9a99-c4a5690834ac.html",
+     "data": "2026-11-25T00:17:26+00:00"
+    },
+    {
      "titolo": "Jensen Huang chiede scusa e annuncia: 'Sto andando in terapia'",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/trump-nella-bufera-per-nvidia-ombre-di-insider-trading_74b46bf0-83fd-4c6e-8f4c-7b8b9842fa26.html",
      "data": "2026-11-24T21:12:27+00:00"
@@ -299,27 +314,37 @@
      "titolo": "Borsa: Milano chiude in calo, Ftse Mib -1,8%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/borsa-milano-chiude-in-calo-ftse-mib-18_6bc71bd4-8e88-4a75-9343-ed2469cb04a9.html",
      "data": "2026-11-24T16:49:49+00:00"
-    },
-    {
-     "titolo": "Confindustria Novara, sul territorio investimenti per quasi 10 miliardi",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/confindustria-novara-sul-territorio-investimenti-per-quasi-10-miliardi_aef732fe-2788-45a8-8d0c-4ccc33f71e46.html",
-     "data": "2026-11-24T16:47:34+00:00"
-    },
-    {
-     "titolo": "Martini (Nexi), 'con l'euro digitale arrivano due sfide, tecnologica e d'adozione'",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/martini-nexi-con-leuro-digitale-arrivano-due-sfide-tecnologica-e-dadozione_756e90d8-7f85-4fa0-baeb-bce6fc713a12.html",
-     "data": "2026-11-24T16:01:46+00:00"
-    },
-    {
-     "titolo": "Borsa: Europa in recupero, Milano debole con St -8%",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/borsa-europa-in-recupero-milano-debole-con-st-8_db60b92e-0085-4faf-93d6-a2ac1cbd6232.html",
-     "data": "2026-11-24T16:16:06+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Huawei: 'La condanna Usa è senza fondamento giuridico o fattuale'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/25/huawei-la-condanna-usa-e-senza-fondamento-giuridico-o-fattuale_43d75cfa-2c2d-4a51-ab3d-117ab0e58d5e.html",
+     "data": "2026-11-25T03:31:27+00:00"
+    },
+    {
+     "titolo": "Nvidia, Trump: 'Concederei la grazia a Jensen Huang se necessario'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/25/nvidia-trump-concederei-la-grazia-a-jensen-huang-se-necessario_069eddfd-e1fe-47e4-933e-f9f07f338bac.html",
+     "data": "2026-11-25T02:33:55+00:00"
+    },
+    {
+     "titolo": "Nvidia, Trump: 'Concederei la grazia a Jensen Huang se necessario'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/25/nvidia-trump-concederei-la-grazia-a-jensen-huang-se-necessario_198c638e-2329-4ed1-bca2-77529e425525.html",
+     "data": "2026-11-25T02:33:55+00:00"
+    },
+    {
+     "titolo": "Due militari libici morti per le ferite nell'attacco ucraino alle navi russe",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/25/due-militari-libici-morti-per-le-ferite-nellattacco-ucraino-alle-navi_95127e10-b933-4e3a-b0e7-228ef94f4ada.html",
+     "data": "2026-11-25T02:08:28+00:00"
+    },
+    {
+     "titolo": "Messico, investimenti esteri diretti record oltre 43 miliardi di dollari",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/messico-investimenti-esteri-diretti-record-oltre-43-miliardi-di-dollari_b4eadfd7-b556-4c89-b8a3-aa28bc8e93da.html",
+     "data": "2026-11-25T01:18:35+00:00"
+    },
     {
      "titolo": "Abrego Garcia lascerà volontariamente gli Usa per evitare la deportazione",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/abrego-garcia-lascera-volontariamente-gli-usa-per-evitare-la-deportazione_133a8d7e-1a33-4672-828a-18dc0e6fc6e4.html",
@@ -354,31 +379,6 @@
      "titolo": "Jensen Huang chiede scusa, 'sto andando in terapia'",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/jensen-huang-chiede-scusa-sto-andando-in-terapia_8f2148ca-81d0-472e-87de-e110d965c639.html",
      "data": "2026-11-24T20:13:31+00:00"
-    },
-    {
-     "titolo": "Oms, per la prima volta dal 1950 a Cuba cala l'aspettativa di vita",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/24/oms-per-la-prima-volta-dal-1950-a-cuba-cala-laspettativa-di-vita_294602ae-89ad-424e-9c4d-7a67dce64704.html",
-     "data": "2026-11-24T18:17:30+00:00"
-    },
-    {
-     "titolo": "Venezuela, debito pubblico oltre 237 miliardi di dollari nel 2025",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/24/venezuela-debito-pubblico-oltre-237-miliardi-di-dollari-nel-2025_eb87bd95-2dcb-42a8-8fb8-307793f95bc9.html",
-     "data": "2026-11-24T18:03:44+00:00"
-    },
-    {
-     "titolo": "L'avvocato di Bertulazzi, 'inquirenti hanno perso del tutto le sue tracce'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/24/lavvocato-di-bertulazzi-inquirenti-hanno-perso-del-tutto-le-sue-tracce_fccc0874-654d-415d-a6f6-2c101daaa79f.html",
-     "data": "2026-11-24T17:56:24+00:00"
-    },
-    {
-     "titolo": "Trump grazia due tacchini per il Thanksgiving, Freedom e Feathers",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/trump-grazia-due-tacchini-per-il-thanksgiving-freedom-e-feathers_75bb3f6b-78ef-428d-904d-747d11af77ae.html",
-     "data": "2026-11-24T15:53:58+00:00"
-    },
-    {
-     "titolo": "Presidente Colombia, attentato in provincia Meta opera di gruppo dissidenti ex-Farc",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/24/presidente-colombia-attentato-in-provincia-meta-opera-di-gruppo-dissidenti-ex-farc_10577f9c-ade2-48ff-8416-74845240da4a.html",
-     "data": "2026-11-24T15:49:44+00:00"
     }
    ]
   },
