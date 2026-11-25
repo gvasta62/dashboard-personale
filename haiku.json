@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-24T14:24:40.177334+00:00",
- "data": "2026-11-24",
- "testo": "Nebbia in Via Priori\ndal ferro del lampione\npende il silenzio",
- "nota": "La nebbia fitta smorza ogni rumore attorno a un vecchio lampione.",
+ "aggiornato": "2026-11-25T13:43:19.273660+00:00",
+ "data": "2026-11-25",
+ "testo": "Fulmine bianco\nsul cavo del tram vuoto\nsibila l'acqua",
+ "nota": "Durante il temporale, un lampo illumina i fili elettrici gocciolanti sopra la strada.",
  "archivio": [
+  {
+   "data": "2026-11-25",
+   "testo": "Fulmine bianco\nsul cavo del tram vuoto\nsibila l'acqua",
+   "nota": "Durante il temporale, un lampo illumina i fili elettrici gocciolanti sopra la strada."
+  },
   {
    "data": "2026-11-24",
    "testo": "Nebbia in Via Priori\ndal ferro del lampione\npende il silenzio",
@@ -448,11 +453,6 @@
    "data": "2026-08-28",
    "testo": "Cielo di piombo\nsul fondo del pozzo antico\ngalla una foglia",
    "nota": "Nella corte silenziosa, sull'acqua ferma del pozzo, una foglia caduta."
-  },
-  {
-   "data": "2026-08-27",
-   "testo": "Coperto d'afa\nsul filo dell'orto pende\nun peperone",
-   "nota": "Nell'orto sotto il cielo velato un peperone maturo piega il ramo."
   }
  ]
 }
