@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-25T13:43:19.273660+00:00",
- "data": "2026-11-25",
- "testo": "Fulmine bianco\nsul cavo del tram vuoto\nsibila l'acqua",
- "nota": "Durante il temporale, un lampo illumina i fili elettrici gocciolanti sopra la strada.",
+ "aggiornato": "2026-11-26T13:21:25.142784+00:00",
+ "data": "2026-11-26",
+ "testo": "Scroscio di sera\nnel tombino del vicolo\ngorgoglia il fango",
+ "nota": "Il temporale fa inghiottire l'acqua torbida a un tombino scuro.",
  "archivio": [
+  {
+   "data": "2026-11-26",
+   "testo": "Scroscio di sera\nnel tombino del vicolo\ngorgoglia il fango",
+   "nota": "Il temporale fa inghiottire l'acqua torbida a un tombino scuro."
+  },
   {
    "data": "2026-11-25",
    "testo": "Fulmine bianco\nsul cavo del tram vuoto\nsibila l'acqua",
@@ -448,11 +453,6 @@
    "data": "2026-08-29",
    "testo": "Cielo velato\ntra i girasoli chini\nronza un calabrone",
    "nota": "Nel campo appassito le teste dei girasoli piegate, un calabrone che vola basso."
-  },
-  {
-   "data": "2026-08-28",
-   "testo": "Cielo di piombo\nsul fondo del pozzo antico\ngalla una foglia",
-   "nota": "Nella corte silenziosa, sull'acqua ferma del pozzo, una foglia caduta."
   }
  ]
 }
