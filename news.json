@@ -1,10 +1,35 @@
 {
- "aggiornato": "2026-11-27T00:06:53.959463+00:00",
+ "aggiornato": "2026-11-27T08:50:07.923898+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
+    {
+     "titolo": "Il Costa Rica respinge Francesca Albanese, relatrice Onu per i territori palestinesi",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/27/il-costa-rica-respinge-francesca-albanese-relatrice-onu-per-i-territori-palestinesi_a0141ef9-3859-4dc0-9239-7546d2798330.html",
+     "data": "2026-11-27T05:11:34+00:00"
+    },
+    {
+     "titolo": "Spagna, Sanchez e Colau in tandem credono nella rimonta sul consorzio Feijoo e Abascal",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/27/spagna-sanchez-e-colau-in-tandem-credono-nella-rimonta-sul-consorzio-feijoo_60e7f406-a9ee-4d7f-826d-1d807e68413e.html",
+     "data": "2026-11-27T02:19:56+00:00"
+    },
+    {
+     "titolo": "Il bilancio spacca l'Europa ma Costa insiste: 'Serve un'intesa a dicembre'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/27/il-bilancio-spacca-leuropa-ma-costa-insiste-serve-unintesa-a-dicembre_8efd2071-60cc-4a6d-9da5-9029afc0c108.html",
+     "data": "2026-11-27T00:51:55+00:00"
+    },
+    {
+     "titolo": "Borsa: Tokyo, apertura in aumento (+0,39%)",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/27/borsa-tokyo-apertura-in-aumento-039_3434dbd9-3b84-4da7-adec-893c9fe27c01.html",
+     "data": "2026-11-27T00:10:10+00:00"
+    },
+    {
+     "titolo": "Venezuela, Onu chiede indipendenza e criteri di merito per nuovi giudici Corte suprema",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/27/venezuela-onu-chiede-indipendenza-e-criteri-di-merito-per-nuovi-giudici-corte_2942c2d9-e6bb-429c-9734-9bc56c2cdc2e.html",
+     "data": "2026-11-27T00:08:01+00:00"
+    },
     {
      "titolo": "Costa: '24 Paesi Ue sostengono l'extra prestito per l'Ucraina'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/27/costa-24-paesi-ue-sostengono-lextra-prestito-per-lucraina_bec4b9c7-2c83-40ea-9671-3426eaf6a02e.html",
@@ -29,31 +54,6 @@
      "titolo": "Kiev, 'non abbiamo alcuna intenzione di estendere la guerra alla Libia'",
      "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/kiev-non-abbiamo-alcuna-intenzione-di-estendere-la-guerra-alla-libia_182a77d9-1f40-4109-9c3c-c10df22e6d7f.html",
      "data": "2026-11-26T20:48:25+00:00"
-    },
-    {
-     "titolo": "Orsini, sul Superbonus rassicurazioni da Giorgetti che si torna a quello che era",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/orsini-sul-superbonus-rassicurazioni-da-giorgetti-che-si-torna-a-quello-che-era_451da975-a47a-42a8-961c-d37d83d57bc3.html",
-     "data": "2026-11-26T19:40:37+00:00"
-    },
-    {
-     "titolo": "Macron, 'non ci sarà accordo sul bilancio Ue a questo vertice'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/macron-non-ci-sara-accordo-sul-bilancio-ue-a-questo-vertice_99a72d97-2cb8-46d8-8f11-c40ca0b98de4.html",
-     "data": "2026-11-26T19:22:46+00:00"
-    },
-    {
-     "titolo": "Tra emendamenti FdI non c'è quello sulla sanatoria per le irregolarità sismiche",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/tra-emendamenti-fdi-non-ce-quello-sulla-sanatoria-per-le-irregolarita-sismiche_31224450-3dd6-4633-bd6d-112fb42bfa16.html",
-     "data": "2026-11-26T18:57:55+00:00"
-    },
-    {
-     "titolo": "Araghchi a Tajani, 'cordoglio per vittime dell'attacco in Kuwait'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/araghchi-a-tajani-cordoglio-per-vittime-dellattacco-in-kuwait_c968e4de-8058-4c88-b125-2d5310d096ea.html",
-     "data": "2026-11-26T18:43:41+00:00"
-    },
-    {
-     "titolo": "Tajani sente Araghchi, 'Iran nega, é pronto a commissione d'inchiesta congiunta",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/tajani-sente-araghchi-iran-nega-e-pronto-a-commissione-dinchiesta-congiunta_11e82e4f-275c-4cdf-8d4c-9c67c925cb1f.html",
-     "data": "2026-11-26T18:42:15+00:00"
     }
    ]
   },
@@ -126,6 +126,11 @@
    "nome": "Cronaca",
    "voci": [
     {
+     "titolo": "Uomo ucciso dal figlio a Trieste",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/27/uomo-ucciso-dal-figlio-a-trieste_8b12408b-d7e6-47bd-9e9f-35373956c183.html",
+     "data": "2026-11-27T05:59:55+00:00"
+    },
+    {
      "titolo": "Kuwait, vedova Beci 'il pensiero alle famiglie, dopo 23 anni aspetto Marco'",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/26/kuwait-vedova-beci-il-pensiero-alle-famiglie-dopo-23-anni-aspetto-marco_064157e3-7a2e-47a9-bd32-33ca891bf2aa.html",
      "data": "2026-11-26T19:21:54+00:00"
@@ -179,11 +184,6 @@
      "titolo": "Neve e disagi in Austria, rallentamenti al Brennero",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/26/neve-e-disagi-in-austria-rallentamenti-al-brennero_2d6ff029-e7f5-4c5e-a5c3-82893a623d92.html",
      "data": "2026-11-26T13:33:20+00:00"
-    },
-    {
-     "titolo": "Indagine a Milano su 'falange armata', ipotesi associazione terroristica",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/26/indagine-a-milano-su-falange-armata-ipotesi-associazione-terroristica_2a068821-f2c9-431a-b9cb-fffa6daf77a3.html",
-     "data": "2026-11-26T13:16:47+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Borsa: Tokyo, apertura in aumento (+0,39%)",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/27/borsa-tokyo-apertura-in-aumento-039_3695bcbd-aa6a-4e1e-a07c-320e3ff6c559.html",
+     "data": "2026-11-27T00:10:12+00:00"
+    },
+    {
      "titolo": "Accordo per De Cos alla Bce, ma è muro contro muro sul bilancio Ue",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/accordo-per-de-cos-alla-bce-ma-e-muro-contro-muro-sul-bilancio_b89e1430-4300-482f-9508-c475065af9d8.html",
      "data": "2026-11-26T23:19:39+00:00"
@@ -309,17 +314,52 @@
      "titolo": "Borsa: Milano chiude in forte rialzo, +2,36%",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/borsa-milano-chiude-in-forte-rialzo-236_4dcf4e5a-cc42-4c52-9da2-e23050aca16e.html",
      "data": "2026-11-26T16:41:59+00:00"
-    },
-    {
-     "titolo": "Spunta un emendamento FdI in manovra, alzare il ticket per Venezia fino a 20 euro",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/spunta-un-emendamento-fdi-in-manovra-alzare-il-ticket-per-venezia-fino-a-20-euro_566421c1-1ed2-4d5a-9d82-16083af3eb2b.html",
-     "data": "2026-11-26T16:42:31+00:00"
     }
    ]
   },
   "mondo": {
    "nome": "Mondo",
    "voci": [
+    {
+     "titolo": "Il Costa Rica respinge Francesca Albanese, relatrice Onu per i territori palestinesi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/27/il-costa-rica-respinge-francesca-albanese-relatrice-onu-per-i-territori-palestinesi_baecc3c6-0d6c-475b-a591-6163bf0d7f10.html",
+     "data": "2026-11-27T05:11:53+00:00"
+    },
+    {
+     "titolo": "Il Costa Rica respinge Francesca Albanese, relatrice Onu per i territori palestinesi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/27/il-costa-rica-respinge-francesca-albanese-relatrice-onu-per-i-territori-palestinesi_bb76923b-c963-4301-8acb-f81e27351088.html",
+     "data": "2026-11-27T05:20:24+00:00"
+    },
+    {
+     "titolo": "Spagna, Sanchez e Colau in tandem credono nella rimonta sul consorzio Feijoo e Abascal",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/27/spagna-sanchez-e-colau-in-tandem-credono-nella-rimonta-sul-consorzio-feijoo_7b6a7c02-6ce8-42fb-9b04-7bb567b887dd.html",
+     "data": "2026-11-27T02:20:45+00:00"
+    },
+    {
+     "titolo": "El Salvador, Bukele auspica di rifondare il Paese sugli ideali degli Usa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/27/el-salvador-bukele-auspica-di-rifondare-il-paese-sugli-ideali-degli-usa_a2611aa9-6c99-4561-8a18-329cf0190598.html",
+     "data": "2026-11-27T01:17:34+00:00"
+    },
+    {
+     "titolo": "La Dante Alighieri alla Fil di Guadalajara, in programma quattro eventi",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/27/la-dante-alighieri-alla-fil-di-guadalajara-in-programma-quattro-eventi_d4d0f6bd-7452-4dd9-9fbf-43957cd36d4e.html",
+     "data": "2026-11-27T00:52:29+00:00"
+    },
+    {
+     "titolo": "Il bilancio spacca l'Europa ma Costa insiste: 'Serve un'intesa a dicembre'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/27/il-bilancio-spacca-leuropa-ma-costa-insiste-serve-unintesa-a-dicembre_29462849-8dd3-41b1-be83-b6aa6c47da24.html",
+     "data": "2026-11-27T00:52:14+00:00"
+    },
+    {
+     "titolo": "Perù, il Bid annuncia 10 miliardi di dollari di finanziamenti in quattro anni",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/27/peru-il-bid-annuncia-10-miliardi-di-dollari-di-finanziamenti-in-quattro-anni_38fab2ec-8c95-4230-9964-fa1337f70328.html",
+     "data": "2026-11-27T00:17:18+00:00"
+    },
+    {
+     "titolo": "Venezuela, Onu chiede indipendenza e criteri di merito per nuovi giudici Corte suprema",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/27/venezuela-onu-chiede-indipendenza-e-criteri-di-merito-per-nuovi-giudici-corte_fd2db356-7020-4e70-b2f9-9ed98daa2580.html",
+     "data": "2026-11-27T00:08:05+00:00"
+    },
     {
      "titolo": "La brasiliana Embraer critica i nuovi dazi Usa al 10%, 'rischio rincari voli'",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/27/la-brasiliana-embraer-critica-i-nuovi-dazi-usa-al-10-rischio-rincari-voli_47931259-9908-44af-b7e6-f3b72d60d08d.html",
@@ -339,46 +379,6 @@
      "titolo": "Brasile, Trabuco accetta il ministero delle Finanze nel quarto governo Lula",
      "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/26/brasile-trabuco-accetta-il-ministero-delle-finanze-nel-quarto-governo-lula_5902e0da-49af-4986-8780-6b5a2a6ea280.html",
      "data": "2026-11-26T22:15:39+00:00"
-    },
-    {
-     "titolo": "Venezuela abrogherà la legge che vieta agli oppositori di ricoprire cariche pubbliche",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/26/venezuela-abroghera-la-legge-che-vieta-agli-oppositori-di-ricoprire-cariche-pubbliche_6d888590-2c43-440a-9652-d8de72fc31be.html",
-     "data": "2026-11-26T21:59:26+00:00"
-    },
-    {
-     "titolo": "Commissione interamericana diritti, Cuba chiarisca sul reporter Constantín arrestato",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/26/commissione-interamericana-diritti-cuba-chiarisca-sul-reporter-constantin-arrestato_c848889a-e44e-460e-9f14-286769f19809.html",
-     "data": "2026-11-26T21:30:40+00:00"
-    },
-    {
-     "titolo": "Merz, 'niente summit domani, fiducioso sull'intesa sul bilancio entro l'anno'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/merz-niente-summit-domani-fiducioso-sullintesa-sul-bilancio-entro-lanno_a5ebecbe-9fb9-403a-9ff6-e55ce9dc660b.html",
-     "data": "2026-11-26T21:06:22+00:00"
-    },
-    {
-     "titolo": "Kiev, 'non abbiamo alcuna intenzione di estendere la guerra alla Libia'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/26/kiev-non-abbiamo-alcuna-intenzione-di-estendere-la-guerra-alla-libia_2b91ab4b-461b-4453-940e-9468e5c0b6a3.html",
-     "data": "2026-11-26T20:48:44+00:00"
-    },
-    {
-     "titolo": "Lo strappo di Meloni in Ue, 'il nostro sì solo a condizioni dignitose'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/lo-strappo-di-meloni-in-ue-il-nostro-si-solo-a-condizioni-dignitose_53bf4c37-04db-4d55-a895-c2bdf35e6ac8.html",
-     "data": "2026-11-26T20:21:09+00:00"
-    },
-    {
-     "titolo": "Il governo brasiliano non inviterà Milei all'insediamento di Lula",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/26/il-governo-brasiliano-non-invitera-milei-allinsediamento-di-lula_09cd3a5b-45f2-4f3a-bbc5-fa031062983b.html",
-     "data": "2026-11-26T19:52:47+00:00"
-    },
-    {
-     "titolo": "La Spagna al voto, Sanchez attacca Pp e Vox",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/la-spagna-al-voto-ultima-sfida-in-tv-tra-il-blocco-progressista-e-le-destre_16e91653-bfa6-450d-8daf-d5d5b3b5ef9e.html",
-     "data": "2026-11-26T23:26:48+00:00"
-    },
-    {
-     "titolo": "Macron, 'non ci sarà accordo sul bilancio Ue a questo vertice'",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/macron-non-ci-sara-accordo-sul-bilancio-ue-a-questo-vertice_bf8560fb-315a-4c43-8f7f-aa1cf1864755.html",
-     "data": "2026-11-26T19:23:01+00:00"
     }
    ]
   },
