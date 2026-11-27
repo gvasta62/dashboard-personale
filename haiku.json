@@ -1,9 +1,14 @@
 {
- "aggiornato": "2026-11-26T13:21:25.142784+00:00",
- "data": "2026-11-26",
- "testo": "Scroscio di sera\nnel tombino del vicolo\ngorgoglia il fango",
- "nota": "Il temporale fa inghiottire l'acqua torbida a un tombino scuro.",
+ "aggiornato": "2026-11-27T13:19:14.793386+00:00",
+ "data": "2026-11-27",
+ "testo": "Freddo mattino\nsul davanzale di pietra\nghiaccia la salvia",
+ "nota": "La brina ha irrigidito le foglie della salvia sul davanzale.",
  "archivio": [
+  {
+   "data": "2026-11-27",
+   "testo": "Freddo mattino\nsul davanzale di pietra\nghiaccia la salvia",
+   "nota": "La brina ha irrigidito le foglie della salvia sul davanzale."
+  },
   {
    "data": "2026-11-26",
    "testo": "Scroscio di sera\nnel tombino del vicolo\ngorgoglia il fango",
@@ -448,11 +453,6 @@
    "data": "2026-08-30",
    "testo": "Nuvole ferme\nsul davanzale asciuga\nuna ciabatta",
    "nota": "Domenica coperta, una scarpa di gomma dimenticata a prendere aria sul balcone."
-  },
-  {
-   "data": "2026-08-29",
-   "testo": "Cielo velato\ntra i girasoli chini\nronza un calabrone",
-   "nota": "Nel campo appassito le teste dei girasoli piegate, un calabrone che vola basso."
   }
  ]
 }
