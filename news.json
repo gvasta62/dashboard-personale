@@ -1,19 +1,59 @@
 {
- "aggiornato": "2026-11-28T09:30:39.947197+00:00",
+ "aggiornato": "2026-11-28T17:50:13.119436+00:00",
  "fonte": "ANSA.it",
  "categorie": {
   "ultimaora": {
    "nome": "Ultima ora",
    "voci": [
     {
-     "titolo": "Nordio all'Anm 'stiamo superando i dissidi, lavoriamo insieme'",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/28/nordio-allanm-stiamo-superando-i-dissidi-lavoriamo-insieme_c300c4e8-8b15-482c-8e29-4c76665f3b00.html",
-     "data": "2026-11-28T09:17:06+00:00"
+     "titolo": "La Cub proclama sciopero alla Scala il 4 e 7 dicembre, a rischio la Prima",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/28/la-cub-proclama-sciopero-alla-scala-il-4-e-7-dicembre-a-rischio-la-prima_471c402f-9494-4d12-9bcd-6fcf6c69d53c.html",
+     "data": "2026-11-28T17:25:52+00:00"
     },
     {
-     "titolo": "Svolta nel giallo dei cacciatori uccisi nel Messinese, un arresto",
-     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/28/svolta-nel-giallo-dei-cacciatori-uccisi-nel-messinese-un-arresto_a48f7444-3da7-4051-b03d-2fe55d54ceeb.html",
-     "data": "2026-11-28T06:38:29+00:00"
+     "titolo": "Trovato cadavere di una giovane in strada a Roma",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/28/trovato-cadavere-di-una-giovane-in-strada-a-roma_0a7b2dd1-ddce-4a82-8fd7-8e82c32b07ae.html",
+     "data": "2026-11-28T17:22:09+00:00"
+    },
+    {
+     "titolo": "Netanyahu, 'accetto che Eisenkot sia primo premier in governo di unità a rotazione'",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/28/netanyahu-accetto-che-eisenkot-sia-primo-premier-in-governo-di-unita-a-rotazione_9b5a1919-3143-48eb-a8f6-bfcbd3480ae1.html",
+     "data": "2026-11-28T16:42:09+00:00"
+    },
+    {
+     "titolo": "MotoGp: Valencia; Bezzecchi vince la sprint, Marc Marquez chiude 13/o dopo penalità",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/28/motogp-valencia-bezzecchi-vince-la-sprint-marc-marquez-chiude-13o-dopo_ed70efee-e23d-4748-a268-c863fde05d1d.html",
+     "data": "2026-11-28T14:47:30+00:00"
+    },
+    {
+     "titolo": "Caso Diaco-Ravagnani, anche il Garante per la Privacy accende un faro",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/28/caso-diaco-ravagnani-anche-il-garante-per-la-privacy-accende-un-faro_5dee5333-3634-4242-97e8-d460143b1087.html",
+     "data": "2026-11-28T14:15:27+00:00"
+    },
+    {
+     "titolo": "Lupi (Nm), sostegno a Kiev ma contrari a una escalation nel Mediterraneo",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/28/lupi-nm-sostegno-a-kiev-ma-contrari-a-una-escalation-nel-mediterraneo_6af2ff0c-4322-47cb-829c-e08cc574d044.html",
+     "data": "2026-11-28T13:40:17+00:00"
+    },
+    {
+     "titolo": "Tajani, contro il sovraffollamento delle carceri aumentare gli sconti di pena",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/28/tajani-contro-il-sovraffollamento-delle-carceri-aumentare-gli-sconti-di-pena_2ee583f9-239d-4d98-9668-0c0825219a34.html",
+     "data": "2026-11-28T13:40:00+00:00"
+    },
+    {
+     "titolo": "Raid su un matrimonio in Myanmar, 21 i morti, anche cinque bambini",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/28/raid-su-un-matrimonio-in-myanmar-21-i-morti-anche-cinque-bambini_87121757-0c8b-49ab-a4b2-e8084bcfa241.html",
+     "data": "2026-11-28T13:08:28+00:00"
+    },
+    {
+     "titolo": "Schlein, inaccettabile intimidazione di La Russa, piantatela con attacchi ai giudici",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/28/schlein-inaccettabile-intimidazione-di-la-russa-piantatela-con-attacchi-ai-giudici_3fbe02b7-a3bc-4a0d-bcdb-ab578c568c6b.html",
+     "data": "2026-11-28T12:54:12+00:00"
+    },
+    {
+     "titolo": "A Taipei il candidato sindaco critico verso Pechino ammette la propria sconfitta",
+     "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/28/a-taipei-il-candidato-sindaco-critico-verso-pechino-ammette-la-propria-sconfitta_15e0df26-836d-4f94-a557-9d5070d818c8.html",
+     "data": "2026-11-28T12:43:17+00:00"
     }
    ]
   },
@@ -21,64 +61,64 @@
    "nome": "Umbria",
    "voci": [
     {
-     "titolo": "Confindustria punta su Umbria laboratorio diffuso dell'intelligenza artificiale",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/26/confindustria-punta-su-umbria-laboratorio-diffuso-dellintelligenza-artificiale_1532d9ff-af5b-403d-8313-44669540362a.html",
-     "data": "2026-11-26T20:50:50+00:00"
+     "titolo": "Idee e progetti in agricoltura premiati con gli Oscar green di Coldiretti",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/28/idee-e-progetti-in-agricoltura-premiati-con-gli-oscar-green-di-coldiretti_4cdb3a59-49cb-4b97-aeb2-2edf0d7f91e5.html",
+     "data": "2026-11-28T16:04:52+00:00"
     },
     {
-     "titolo": "Orsini, sul Superbonus rassicurazioni da Giorgetti che si torna a quello che era",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/26/orsini-sul-superbonus-rassicurazioni-da-giorgetti-che-si-torna-a-quello-che-era_86d0df5c-1d6b-4379-a1b2-ecb24dfb9aec.html",
-     "data": "2026-11-26T20:27:55+00:00"
+     "titolo": "In Umbria contributo affitto per 141 i genitori separati o divorziati",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/28/in-umbria-contributo-affitto-per-141-i-genitori-separati-o-divorziati_66bc8d79-ff66-4a8f-bf63-c0b79dd36bb1.html",
+     "data": "2026-11-28T16:04:56+00:00"
     },
     {
-     "titolo": "Orsini, sul Superbonus rassicurazioni da Giorgetti che si torna a quello che era",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/26/orsini-sul-superbonus-rassicurazioni-da-giorgetti-che-si-torna-a-quello-che-era_e63546e5-a65d-4981-b988-b3edfdb573b3.html",
-     "data": "2026-11-26T19:40:50+00:00"
+     "titolo": "Dalla terra del terremoto del 2016 rinascono i vigneti della Valnerina umbra",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/28/dalla-terra-del-terremoto-del-2016-rinascono-i-vigneti-della-valnerina_afc68a35-e04b-49fd-9ca7-89c71ff0bfdb.html",
+     "data": "2026-11-28T14:41:30+00:00"
     },
     {
-     "titolo": "Orsini, l'Europa deve fare i compiti a casa e non li sta facendo",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/26/orsini-leuropa-deve-fare-i-compiti-a-casa-e-non-li-sta-facendo_47553704-41ab-4bdc-8dfc-3c1eafe5725e.html",
-     "data": "2026-11-26T18:51:05+00:00"
+     "titolo": "La magia del Natale negli spazi della Rocca paolina di Perugia",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/28/la-magia-del-natale-negli-spazi-della-rocca-paolina-di-perugia_dc4ab423-0587-426c-a232-e90b36c2e743.html",
+     "data": "2026-11-28T14:28:08+00:00"
     },
     {
-     "titolo": "Proietti, con l'intelligenza artificiale dobbiamo correre al passo con i tempi",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/26/proietti-con-lintelligenza-artificiale-dobbiamo-correre-al-passo-con-i-tempi_8cf3b3bc-1e8d-4d0b-ab6e-6f4949989c02.html",
-     "data": "2026-11-26T18:33:21+00:00"
+     "titolo": "L'istituto Aldo Capitini di Perugia diventa liceo tecnologico",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/28/listituto-aldo-capitini-di-perugia-diventa-liceo-tecnologico_8a27b3a0-3ea1-4d65-bf90-b74c7725b8c5.html",
+     "data": "2026-11-28T14:28:11+00:00"
     },
     {
-     "titolo": "Proietti, metteremo mano al nuovo Piano energetico regionale",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/26/proietti-metteremo-mano-al-nuovo-piano-energetico-regionale_c58c7f59-2e1a-47e0-81da-ee0e9cbe0fe6.html",
-     "data": "2026-11-26T19:18:41+00:00"
+     "titolo": "Camera commercio, in Umbria meno capitale ma efficienza in media con l'Italia",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/28/camera-commercio-in-umbria-meno-capitale-ma-efficienza-in-media-con-litalia_607486cc-e83c-4bda-b3f7-37da8f6d5a58.html",
+     "data": "2026-11-28T14:01:54+00:00"
     },
     {
-     "titolo": "Urbani, industria umbra cresce ma economia non riesce a tenere lo stesso passo",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/26/urbani-industria-umbra-cresce-ma-economia-non-riesce-a-tenere-lo-stesso-passo_85ddc0d6-cec3-4aee-b7fb-a1e45d4d5b3a.html",
-     "data": "2026-11-26T18:21:17+00:00"
+     "titolo": "Prisco, Gianluca Pennetti Pennella faceva parte della nostra comunità",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/28/prisco-gianluca-pennetti-pennella-faceva-parte-della-nostra-comunita_acce45b4-731d-4d90-98cb-c308fbfdda48.html",
+     "data": "2026-11-28T12:30:20+00:00"
     },
     {
-     "titolo": "Urbani, l'Europa ha preso una strada sbagliata",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/26/urbani-leuropa-ha-preso-una-strada-sbagliata_1870c76f-bd64-4cb4-9d57-d54bc6322ec5.html",
-     "data": "2026-11-26T18:21:24+00:00"
+     "titolo": "Capo vigili fuoco, usiamo pure l' AI ma serve affidabilità",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/28/capo-vigili-fuoco-usiamo-pure-l-ai-ma-serve-affidabilita_6c269f9b-5614-4473-adec-5ee595a7eb6e.html",
+     "data": "2026-11-28T12:20:54+00:00"
     },
     {
-     "titolo": "Urbani, l'industria umbra gode di buona salute con più luci che ombre",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/26/urbani-lindustria-umbra-gode-di-buona-salute-con-piu-luci-che_896dfb0e-558f-4874-a392-b5db603398c4.html",
-     "data": "2026-11-26T18:22:02+00:00"
+     "titolo": "Capo vigili del fuoco, attenti alla memoria e riconoscere il sacrificio di un collega",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/28/capo-vigili-del-fuoco-attenti-alla-memoria-e-riconoscere-il-sacrificio-di-un-collega_78ff1906-2585-404e-8846-68f4d4a0a246.html",
+     "data": "2026-11-28T12:13:39+00:00"
     },
     {
-     "titolo": "Riemerge un antico Listino della Perugina datato 9 luglio 1926",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/26/riemerge-un-antico-listino-della-perugina-datato-9-luglio-1926_35e9d6be-9952-4ffb-9f3d-42bae5bf0a9f.html",
-     "data": "2026-11-26T17:39:50+00:00"
+     "titolo": "In Umbria scuole e università sempre più cardioprotette",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/28/in-umbria-scuole-e-universita-sempre-piu-cardioprotette_7f3d14fe-ff42-49b1-93ba-15c113ef2776.html",
+     "data": "2026-11-28T12:05:57+00:00"
     },
     {
-     "titolo": "Proietti, c'è bisogno di 'un sano sovranismo energetico'",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/26/proietti-ce-bisogno-di-un-sano-sovranismo-energetico_f70f912e-ea0f-4d61-b1e8-3fd92a5a306b.html",
-     "data": "2026-11-26T17:35:51+00:00"
+     "titolo": "Intitolata a Pennetti Pennella la caserma vigili del fuoco in corso Cavour a Perugia",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/28/intitolata-a-pennetti-pennella-la-caserma-vigili-del-fuoco-in-corso-cavour-a-perugia_4cf7b5fa-b8b3-49bf-a800-28a75ca58004.html",
+     "data": "2026-11-28T12:34:09+00:00"
     },
     {
-     "titolo": "La giunta approva la proposta di bilancio di previsione del Comune di Perugia",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/26/la-giunta-approva-la-proposta-di-bilancio-di-previsione-del-comune-di-perugia_3bc02b17-7029-4157-aa5b-14fca4a3991c.html",
-     "data": "2026-11-26T17:11:59+00:00"
+     "titolo": "Avvocato, 'accusa terrorismo archiviata ma niente permesso soggiorno'",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/28/avvocato-accusa-terrorismo-archiviata-ma-niente-permesso-soggiorno_85cf0ea1-8f3b-4042-b25f-537912223a09.html",
+     "data": "2026-11-28T10:27:39+00:00"
     }
    ]
   },
@@ -86,64 +126,64 @@
    "nome": "Cronaca",
    "voci": [
     {
-     "titolo": "Confturismo, due italiani su tre pronti a visitarne i mercatini di Natale",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/confturismo-due-italiani-su-tre-pronti-a-visitarne-i-mercatini-di-natale_fc102633-9272-4faa-8963-630ccc52c1cb.html",
-     "data": "2026-11-28T09:05:11+00:00"
+     "titolo": "Sindacati base proclamano sciopero generale il 4 dicembre",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/sindacati-base-proclamano-sciopero-generale-il-4-dicembre_f7dd3b14-00b9-4139-a5c7-4b9ec1853f0d.html",
+     "data": "2026-11-28T17:35:41+00:00"
     },
     {
-     "titolo": "Alessandria, a Paolo Conte dottorato di ricerca honoris causa in scienze umane",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/alessandria-a-paolo-conte-dottorato-di-ricerca-honoris-causa-in-scienze-umane_b574d498-0ada-4a70-884b-fc4c923631c1.html",
-     "data": "2026-11-28T08:47:41+00:00"
+     "titolo": "Corteo a Torino, occupata ex bocciofila sul fiume Po",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/corteo-a-torino-occupata-ex-bocciofila-sul-fiume-po_ebe8226b-9c60-455c-99cb-e5fc0807e0f8.html",
+     "data": "2026-11-28T17:24:19+00:00"
     },
     {
-     "titolo": "Funerale sta per iniziare ma l'impresa è abusiva, scatta il sequestro",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/funerale-sta-per-iniziare-ma-limpresa-e-abusiva-scatta-il-sequestro_350bdf8f-4b2a-4bab-b2e9-29f68b0d4361.html",
-     "data": "2026-11-28T08:34:06+00:00"
+     "titolo": "Trovato cadavere di una giovane in strada a Roma",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/trovato-cadavere-di-una-giovane-in-strada-a-roma_d89a6b05-97b5-4b25-82e4-c693c9860204.html",
+     "data": "2026-11-28T17:22:05+00:00"
     },
     {
-     "titolo": "Gino Cecchettin: 'Aula vuota a Montecitorio? Sulla violenza di genere serve serietà'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/cecchettin-aula-vuota-a-montecitorio-sulla-violenza-di-genere-serve-serieta_3f24f853-7658-4743-b792-96d6baf3bc41.html",
-     "data": "2026-11-28T08:43:58+00:00"
+     "titolo": "Trovato il cadavere di una giovane donna in strada a Roma",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/trovato-il-cadavere-di-una-giovane-donna-in-strada-a-roma_848127ac-94e0-4218-9465-68a358640aa2.html",
+     "data": "2026-11-28T16:45:40+00:00"
     },
     {
-     "titolo": "Aperta la camera ardente per De Gennaro",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/aperta-la-camera-ardente-per-de-gennaro_4976f56b-4782-4af8-8c5e-af5a1d4bc036.html",
-     "data": "2026-11-28T09:01:08+00:00"
+     "titolo": "Rizzo, 'famiglia nel bosco, sospensione assistente sociale suscita domande'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/rizzo-famiglia-nel-bosco-sospensione-assistente-sociale-suscita-domande_0e33bc85-f1e8-4a5b-8b67-a7175735bd34.html",
+     "data": "2026-11-28T15:40:21+00:00"
     },
     {
-     "titolo": "Falsi ricatti per cavalli sequestrati in gare clandestine, tre arresti",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/falsi-ricatti-per-cavalli-sequestrati-in-gare-clandestine-tre-arresti_0f28cdd8-6297-40f0-874d-670ec14d990f.html",
-     "data": "2026-11-28T07:31:20+00:00"
+     "titolo": "Prima aggredisce la ex poi le lancia addosso un sacchetto di feci, arrestato un 22enne",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/aggredisce-la-ex-anche-con-un-sacchetto-di-feci-arrestato-un-22enne_50134c29-b199-4888-ba3d-624e24d3e54c.html",
+     "data": "2026-11-28T15:59:02+00:00"
     },
     {
-     "titolo": "Svolta nel giallo dei cacciatori uccisi nel Messinese, un arresto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/svolta-nel-giallo-dei-cacciatori-uccisi-nel-messinese-un-arresto_0a77eadc-dc4c-40fb-98f8-bdd66e511d8f.html",
-     "data": "2026-11-28T06:38:46+00:00"
+     "titolo": "In centinaia ai funerali del titolare ucciso nel suo pub a Torino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/in-centinaia-ai-funerali-del-titolare-ucciso-nel-suo-pub-a-torino_11b99483-37bc-4839-948b-cfe8f731d220.html",
+     "data": "2026-11-28T15:16:57+00:00"
     },
     {
-     "titolo": "Un uomo in fuga dopo una sparatoria, un morto e un fermato nel Veneziano",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/un-uomo-in-fuga-dopo-sparatoria-con-un-morto-e-un-fermato-nel-veneziano_8d897e50-5b28-47dc-b85d-f5779ae4f8ee.html",
-     "data": "2026-11-28T08:45:27+00:00"
+     "titolo": "Arriva dall'Altopiano di Asiago il presepe della Basilica di San Pietro",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/arriva-dallaltopiano-di-asiago-il-presepe-della-basilica-di-san-pietro_2e51b1f0-fb12-4600-95d6-6da90b8ad202.html",
+     "data": "2026-11-28T15:03:51+00:00"
     },
     {
-     "titolo": "Svolta nel giallo dei cacciatori uccisi nel Messinese, un arresto",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/svolta-nel-giallo-dei-cacciatori-uccisi-nel-messinese-un-arresto-_3c7f37fd-7c54-41a9-94ee-23f1d3463981.html",
-     "data": "2026-11-28T08:07:33+00:00"
+     "titolo": "Osapp, sequestrati cellulari, droga e lame nel carcere di Torino",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/osapp-sequestrati-cellulari-droga-e-lame-nel-carcere-di-torino_c509ec7a-4920-42ca-928a-f7d166a49ebe.html",
+     "data": "2026-11-28T14:30:08+00:00"
     },
     {
-     "titolo": "Sospesa l'assistente sociale della Famiglia del bosco. L'avvocato: \"Solo rilievi marginali\"",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/famiglia-del-bosco-sospesa-assistente-sociale-solo-rilievi-marginali_058bcc71-d6d5-4a28-8a9f-28b5f2046463.html",
-     "data": "2026-11-28T07:08:33+00:00"
+     "titolo": "Torna in piazza Non una di meno: 'Dal governo Meloni solo dichiarazioni di propaganda'",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/torna-in-piazza-non-una-di-meno-rivendichiamo-il-futuro_545a55d2-603f-4aa4-bef5-baed169341da.html",
+     "data": "2026-11-28T16:42:43+00:00"
     },
     {
-     "titolo": "Uomo ucciso dal figlio a Trieste",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/27/uomo-ucciso-dal-figlio-a-trieste_8b12408b-d7e6-47bd-9e9f-35373956c183.html",
-     "data": "2026-11-27T05:59:55+00:00"
+     "titolo": "Incidente stradale nel Torinese, morti due 87enni",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/incidente-stradale-nel-torinese-morti-due-87enni_70818cc8-35b5-48b1-b815-98fa5bd945fd.html",
+     "data": "2026-11-28T13:26:59+00:00"
     },
     {
-     "titolo": "Kuwait, vedova Beci 'il pensiero alle famiglie, dopo 23 anni aspetto Marco'",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/26/kuwait-vedova-beci-il-pensiero-alle-famiglie-dopo-23-anni-aspetto-marco_064157e3-7a2e-47a9-bd32-33ca891bf2aa.html",
-     "data": "2026-11-26T19:21:54+00:00"
+     "titolo": "Giovedì l'autopsia sulla neonata morta dopo speronamento da auto pirata",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/giovedi-lautopsia-sulla-neonata-morta-dopo-speronamento-da-auto-pirata_0dfd3551-4119-4114-8bd2-8021f050570a.html",
+     "data": "2026-11-28T13:24:18+00:00"
     }
    ]
   },
@@ -151,14 +191,49 @@
    "nome": "Politica",
    "voci": [
     {
-     "titolo": "Nordio all'Anm 'stiamo superando i dissidi, lavoriamo insieme'",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/nordio-allanm-stiamo-superando-i-dissidi-lavoriamo-insieme_af50b19d-d167-46af-aa7b-f48854eaa83f.html",
-     "data": "2026-11-28T09:20:51+00:00"
+     "titolo": "Manovra al voto dal 3 dicembre, i prossimi appuntamenti",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/manovra-al-voto-dal-3-dicembre-i-prossimi-appuntamenti_b666279c-ec11-4b67-a690-245ca6891401.html",
+     "data": "2026-11-28T16:15:17+00:00"
     },
     {
-     "titolo": "Sondaggio Ipsos, 'FdI scende al 26%, balzo del M5S che sfiora il 16%'",
+     "titolo": "Lupi (Nm), sostegno a Kiev ma contrari a una escalation nel Mediterraneo",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/lupi-nm-sostegno-a-kiev-ma-contrari-a-una-escalation-nel-mediterraneo_f19fa6d2-ea66-4595-8a4d-870d89e74d14.html",
+     "data": "2026-11-28T13:40:14+00:00"
+    },
+    {
+     "titolo": "Tajani, contro il sovraffollamento delle carceri aumentare gli sconti di pena",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/tajani-contro-il-sovraffollamento-delle-carceri-aumentare-gli-sconti-di-pena_ae66894a-3542-482e-b586-6cdb00b4e6cc.html",
+     "data": "2026-11-28T13:40:00+00:00"
+    },
+    {
+     "titolo": "Il Memorial per Augias, i ricordi di famiglia e i Beatles suonati da Piovani",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/il-memorial-per-augias-i-ricordi-di-famiglia-e-i-beatles-suonati-da-piovani_050b09a4-1807-4d60-a514-c919694f17a9.html",
+     "data": "2026-11-28T13:29:26+00:00"
+    },
+    {
+     "titolo": "Augias, il ricordo dei familiari al memoriale: \"Fino all'ultimo ha fatto progetti\"",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/augias-il-ricordo-dei-familiari-al-memoriale-fino-allultimo-ha-fatto-progetti_dda32c27-0cfa-4408-9459-8115d718dec3.html",
+     "data": "2026-11-28T12:29:35+00:00"
+    },
+    {
+     "titolo": "Legge elettorale, Schlein: 'Inaccettabile l'intimidazione di La Russa, piantatela con gli attacchi ai giudici'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/schlein-inaccettabile-intimidazione-la-russa-piantatela-con-attacchi-ai-giudici_e6901f62-1455-4688-8e67-f225f4840ba2.html",
+     "data": "2026-11-28T13:17:31+00:00"
+    },
+    {
+     "titolo": "Nordio, magistrati accettino di rateizzare gli stipendi arretrati",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/nordio-magistrati-accettino-di-rateizzare-gli-stipendi-arretrati_7cb815b1-af65-40af-a4d1-9355db20d6d3.html",
+     "data": "2026-11-28T10:06:40+00:00"
+    },
+    {
+     "titolo": "Nordio: 'Stiamo superando i dissidi, completa sintonia con Meloni. I magistrati accettino di rateizzare gli stipendi arretrati'",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/nordio-allanm-stiamo-superando-i-dissidi-lavoriamo-insieme_af50b19d-d167-46af-aa7b-f48854eaa83f.html",
+     "data": "2026-11-28T14:44:35+00:00"
+    },
+    {
+     "titolo": "Sondaggio Ipsos: 'FdI scende al 26%, balzo del M5S che sfiora il 16%'",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/sondaggio-ipsos-fdi-scende-al-26-balzo-del-m5s-che-sfiora-il-16_444a3a0b-7836-4973-9bad-1f78d6f16488.html",
-     "data": "2026-11-28T08:02:27+00:00"
+     "data": "2026-11-28T09:31:01+00:00"
     }
    ]
   },
@@ -166,9 +241,94 @@
    "nome": "Economia",
    "voci": [
     {
+     "titolo": "Sindacati base proclamano sciopero generale il 4 dicembre",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/28/sindacati-base-proclamano-sciopero-generale-il-4-dicembre_50c79259-b7c8-4e3f-a828-e138f8c72af4.html",
+     "data": "2026-11-28T17:35:57+00:00"
+    },
+    {
+     "titolo": "Da Monorchio a Tardelli, al via celebrazioni per 25 anni di passaggio all'euro",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/28/da-monorchio-a-tardelli-al-via-celebrazioni-per-25-anni-di-passaggio-alleuro_4197b7e2-c457-4397-8462-671f89aae8df.html",
+     "data": "2026-11-28T15:39:43+00:00"
+    },
+    {
+     "titolo": "Pirelli e Abet Hts, dall'accordo sulle tecnologie all'ipotesi quota di minoranza",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/28/pirelli-e-abet-hts-dallaccordo-sulle-tecnologie-allipotesi-quota-di-minoranza_8dad0a92-9125-4701-9ca3-3d4cc63d6531.html",
+     "data": "2026-11-28T14:24:02+00:00"
+    },
+    {
+     "titolo": "Premio EY, Giuseppe Lavazza è l'imprenditore dell'anno",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/28/premio-ey-giuseppe-lavazza-e-limprenditore-dellanno_1b9f82e5-00ba-4389-853b-91cabbaf97c1.html",
+     "data": "2026-11-28T11:27:11+00:00"
+    },
+    {
      "titolo": "First Cisl, corrono i tassi sul credito al consumo, oltre la media euro",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/28/first-cisl-corrono-i-tassi-sul-credito-al-consumo-oltre-la-media-euro_cbcc967c-ea68-48d0-86bf-9eebc9a6bd01.html",
      "data": "2026-11-28T08:46:25+00:00"
+    }
+   ]
+  },
+  "mondo": {
+   "nome": "Mondo",
+   "voci": [
+    {
+     "titolo": "Netanyahu, 'accetto che Eisenkot sia primo premier in governo di unità a rotazione'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/28/netanyahu-accetto-che-eisenkot-sia-primo-premier-in-governo-di-unita-a-rotazione_222aa7d3-7ad2-40e4-acbb-21b5555dd807.html",
+     "data": "2026-11-28T16:42:13+00:00"
+    },
+    {
+     "titolo": "'Melania Trump potrebbe ambire al Nobel per la pace dopo la tregua in Ucraina'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/28/melania-trump-potrebbe-ambire-al-nobel-per-la-pace-dopo-la-tregua-in-ucraina_49586e9d-9bcb-47bf-b1c3-9871dfa2dc99.html",
+     "data": "2026-11-28T16:36:44+00:00"
+    },
+    {
+     "titolo": "Consigliere Khamenei, 'l'Iraq non diventi uno strumento di Trump'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/28/consigliere-khamenei-liraq-non-diventi-uno-strumento-di-trump_0236efd9-da04-44ce-b707-d24b88fc282e.html",
+     "data": "2026-11-28T15:59:36+00:00"
+    },
+    {
+     "titolo": "Tajani, 'non pensiamo a evacuazioni dal Medio Oriente, ma massima prudenza'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/28/tajani-non-pensiamo-a-evacuazioni-dal-medio-oriente-ma-massima-prudenza_6d98b4bd-c4f2-4444-9d02-b0b99c335493.html",
+     "data": "2026-11-28T15:57:37+00:00"
+    },
+    {
+     "titolo": "Al via la parata per il Ringraziamento a Ny, era stata posticipata per maltempo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/28/al-via-la-parata-per-il-ringraziamento-a-ny-era-stata-posticipata-per-maltempo_c0a6dffb-4c14-452d-86e1-7b19dbc0bc83.html",
+     "data": "2026-11-28T15:53:56+00:00"
+    },
+    {
+     "titolo": "Violenta protesta a Tirana, sassi e molotov contro la polizia",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/28/violenta-protesta-a-tirana-sassi-e-molotov-contro-la-polizia_8f11c110-3199-4517-98f0-28dd9053a5ad.html",
+     "data": "2026-11-28T15:53:07+00:00"
+    },
+    {
+     "titolo": "Milei, 'la sentenza sulle Malvinas (Falkland) non è l'ultima parola'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/28/milei-la-sentenza-sulle-malvinas-falkland-non-e-lultima-parola_d5a1a6d7-cbd3-4473-b816-640cd51bbff0.html",
+     "data": "2026-11-28T14:00:34+00:00"
+    },
+    {
+     "titolo": "Perù, morto nello schianto di un elicottero il pilota che aveva trasportato il Papa",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/28/peru-morto-nello-schianto-di-un-elicottero-il-pilota-che-aveva-trasportato-il-papa_802da883-4142-4634-a426-53524125f4ae.html",
+     "data": "2026-11-28T13:43:48+00:00"
+    },
+    {
+     "titolo": "Raid su un matrimonio in Myanmar, 21 i morti, anche cinque bambini",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/28/raid-su-un-matrimonio-in-myanmar-21-i-morti-anche-cinque-bambini_e5c75e4f-0c4d-4d06-83e8-56b69ea7761f.html",
+     "data": "2026-11-28T13:08:28+00:00"
+    },
+    {
+     "titolo": "A Taipei il candidato sindaco critico verso Pechino ammette la propria sconfitta",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/28/a-taipei-il-candidato-sindaco-critico-verso-pechino-ammette-la-propria-sconfitta_525ec764-bd53-4914-8c0c-5600d2af9091.html",
+     "data": "2026-11-28T12:43:23+00:00"
+    },
+    {
+     "titolo": "Media, 'leader di Ra'am riconoscerà Hamas come organizzazione terroristica'",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/28/media-leader-di-raam-riconoscera-hamas-come-organizzazione-terroristica_05f93c9e-02bd-4b54-9512-a52131a80c00.html",
+     "data": "2026-11-28T12:42:56+00:00"
+    },
+    {
+     "titolo": "Almeno 14 migranti morti e sei feriti gravi sbarcati da un caicco a El Hierro",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/28/almeno-14-migranti-morti-e-sei-feriti-gravi-sbarcati-da-un-caicco-a-el-hierro_1b7cc11e-787a-4c19-846f-632f1877d99f.html",
+     "data": "2026-11-28T11:59:19+00:00"
     }
    ]
   },
@@ -241,24 +401,66 @@
    "nome": "Sport",
    "voci": [
     {
-     "titolo": "Davis: Italia in finale; Volandri 'frutto di un lavoro gigante di tante persone'",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/28/davis-italia-in-finale-volandri-frutto-di-un-lavoro-gigante-di-tante-persone_135df6ff-c7b0-4153-ba8a-97fba1d8e00c.html",
-     "data": "2026-11-28T09:09:51+00:00"
+     "titolo": "Serie A: Inter-Genoa DIRETTA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/28/serie-a-inter-genoa-diretta-e-foto_9366552e-ff93-459a-87c5-a2b5199cff8c.html",
+     "data": "2026-11-28T17:34:24+00:00"
     },
     {
-     "titolo": "Sci: stagione al via a Obereggen, attesa per lo slalom di Coppa Europa",
-     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/28/sci-stagione-al-via-a-obereggen-attesa-per-lo-slalom-di-coppa-europa_9806bd83-0988-4e23-942d-ab0f1198c2ba.html",
-     "data": "2026-11-28T08:50:43+00:00"
+     "titolo": "Serie A: Torino-Lazio 0-0 DIRETTA e FOTO",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/28/serie-a-torino-lazio-0-0-diretta-e-foto_b5289f94-1071-4294-a94c-b723ed437f6a.html",
+     "data": "2026-11-28T17:31:53+00:00"
     },
     {
-     "titolo": "Serie A: Frosinone-Parma in campo alle 15 DIRETTA",
-     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/28/serie-a-frosinone-parma-in-campo-alle-15-diretta_2ff2482a-cad7-47ec-9b14-47e7e5038095.html",
-     "data": "2026-11-28T09:04:57+00:00"
+     "titolo": "Fiorentina a Udine per ripartire, Vanoli \"chi allena è sempre in discussione\"",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/28/fiorentina-a-udine-per-ripartire-vanoli-chi-allena-e-sempre-in-discussione_b1db569f-411d-4ca0-963e-a94cb956ea6d.html",
+     "data": "2026-11-28T17:32:37+00:00"
+    },
+    {
+     "titolo": "Serie A: Tripletta di Bobcek, il Frosinone affonda il Parma",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/28/serie-a-tripletta-di-bobcek-il-frosinone-affonda-il-parma_2ff2482a-cad7-47ec-9b14-47e7e5038095.html",
+     "data": "2026-11-28T16:17:10+00:00"
+    },
+    {
+     "titolo": "Tripletta di Bobcek, il Frosinone affonda il Parma",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/28/tripletta-di-bobcek-il-frosinone-affonda-il-parma_4a0eabea-176e-44b6-bfae-6eb8fa854d81.html",
+     "data": "2026-11-28T17:32:46+00:00"
+    },
+    {
+     "titolo": "Sci: Cdm donne; Shiffrin in testa al gigante di Killington, azzurra Della Mea 6/a",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/28/sci-cdm-donne-shiffrin-in-testa-al-gigante-di-killington-azzurra-della-mea_444deeb3-dce0-4794-985e-e3ae63d2960a.html",
+     "data": "2026-11-28T17:33:02+00:00"
+    },
+    {
+     "titolo": "Tennis: figlia Lacoste, 'papà inventò racchetta in metallo, vale più della polo'",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/28/tennis-figlia-lacoste-papa-invento-racchetta-in-metallo-vale-piu-della_58d4e796-91af-44e2-b5b7-dd4365f813b0.html",
+     "data": "2026-11-28T17:33:07+00:00"
+    },
+    {
+     "titolo": "Alcaraz, 'Italia in finale non sarà facile, ma felici della sfida'",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/28/alcaraz-italia-in-finale-non-sara-facile-ma-felici-della-sfida_3e25cebf-f597-4a9e-8f97-39cc8768b645.html",
+     "data": "2026-11-28T15:07:13+00:00"
+    },
+    {
+     "titolo": "Calcio: Fabregas, la miglior difesa è quella della Juve",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/28/calcio-fabregas-la-miglior-difesa-e-quella-della-juve_c0eb7be6-9357-4813-a843-f18c5998abfc.html",
+     "data": "2026-11-28T17:33:14+00:00"
+    },
+    {
+     "titolo": "Davis: e' la Spagna l'avversaria dell'Italia in finale, Gran Bretagna battuta 2-0",
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/28/davis-e-la-spagna-lavversaria-dellitalia-in-finale-gran-bretagna-battuta-2-0_eb0c52ee-bbaf-4f61-8397-45153c0d52bc.html",
+     "data": "2026-11-28T15:04:45+00:00"
+    },
+    {
+     "titolo": "MotoGp: Valencia; Bezzecchi vince la sprint, Marc Marquez chiude 13/o dopo penalità",
+     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/28/motogp-valencia-bezzecchi-vince-la-sprint-marc-marquez-chiude-13o-dopo_fa4ecc03-4345-491e-b1e1-c34aa5c1241d.html",
+     "data": "2026-11-28T14:47:30+00:00"
+    },
+    {
+     "titolo": "Serie A: Cagliari-Milan in campo lunedì alle 20,45 DIRETTA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/28/serie-a-cagliari-milan-in-campo-lunedi-alle-2045-diretta_e790d5bb-f711-433d-bb8a-f40ffff405a8.html",
+     "data": "2026-11-28T13:12:44+00:00"
     }
    ]
   }
- },
- "errori": [
-  "Mondo: feed vuoto"
- ]
+ }
 }
